@@ -1,0 +1,1022 @@
+{
+  "generated_at_utc": "2026-06-02T11:50:52.422387Z",
+  "summary": {
+    "total_pages_with_permalink": 222,
+    "visible_pages": 171,
+    "hidden_pages": 51,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "edge_samples": [
+      {
+        "from": "AI_Doom_and_E_87399b",
+        "to": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b",
+        "to": "AI_Doom_and_E_87399b_catastrophic_c92548",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b",
+        "to": "AI_Doom_and_E_87399b_compute_gover_1ee8fc",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b",
+        "to": "AI_Doom_and_E_87399b_dangerous_aut_8f4266",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b",
+        "to": "AI_Doom_and_E_87399b_deceptive_ali_f9f449",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b",
+        "to": "AI_Doom_and_E_87399b_frontier_ai_e_9920ab",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b",
+        "to": "AI_Doom_and_E_87399b_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b",
+        "to": "AI_Doom_and_E_87399b_interpretabil_15527d",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b",
+        "to": "AI_Doom_and_E_87399b_loss_of_contr_19a113",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b",
+        "to": "AI_Doom_and_E_87399b_p_doom_estima_72d1f2",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b",
+        "to": "AI_Doom_and_E_87399b_recursive_imp_3a3504",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_catastrophic_c92548",
+        "to": "AI_Doom_and_E_87399b",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_catastrophic_c92548",
+        "to": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_catastrophic_c92548",
+        "to": "AI_Doom_and_E_87399b_compute_gover_1ee8fc",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_catastrophic_c92548",
+        "to": "AI_Doom_and_E_87399b_dangerous_aut_8f4266",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_catastrophic_c92548",
+        "to": "AI_Doom_and_E_87399b_deceptive_ali_f9f449",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_catastrophic_c92548",
+        "to": "AI_Doom_and_E_87399b_frontier_ai_e_9920ab",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_catastrophic_c92548",
+        "to": "AI_Doom_and_E_87399b_interpretabil_15527d",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_catastrophic_c92548",
+        "to": "AI_Doom_and_E_87399b_loss_of_contr_19a113",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_catastrophic_c92548",
+        "to": "AI_Doom_and_E_87399b_p_doom_estima_72d1f2",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_catastrophic_c92548",
+        "to": "AI_Doom_and_E_87399b_recursive_imp_3a3504",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_catastrophic_c92548",
+        "to": "AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_catastrophic_c92548",
+        "to": "AI_Doom_and_E_87399b_catastrophic_c92548_ai_cyber_atta_082acc",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_catastrophic_c92548",
+        "to": "AI_Doom_and_E_87399b_catastrophic_c92548_ai_military_d_f2971e",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_catastrophic_c92548",
+        "to": "AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_catastrophic_c92548",
+        "to": "AI_Doom_and_E_87399b_catastrophic_c92548_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_catastrophic_c92548",
+        "to": "AI_Doom_and_E_87399b",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049",
+        "to": "AI_Doom_and_E_87399b",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049",
+        "to": "AI_Doom_and_E_87399b_catastrophic_c92548",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049",
+        "to": "AI_Doom_and_E_87399b_compute_gover_1ee8fc",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049",
+        "to": "AI_Doom_and_E_87399b_dangerous_aut_8f4266",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049",
+        "to": "AI_Doom_and_E_87399b_deceptive_ali_f9f449",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049",
+        "to": "AI_Doom_and_E_87399b_frontier_ai_e_9920ab",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049",
+        "to": "AI_Doom_and_E_87399b_interpretabil_15527d",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049",
+        "to": "AI_Doom_and_E_87399b_loss_of_contr_19a113",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049",
+        "to": "AI_Doom_and_E_87399b_p_doom_estima_72d1f2",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049",
+        "to": "AI_Doom_and_E_87399b_recursive_imp_3a3504",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049",
+        "to": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049",
+        "to": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049",
+        "to": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049",
+        "to": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_model_release_108910",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049",
+        "to": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049",
+        "to": "AI_Doom_and_E_87399b",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_compute_gover_1ee8fc",
+        "to": "AI_Doom_and_E_87399b",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_compute_gover_1ee8fc",
+        "to": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_compute_gover_1ee8fc",
+        "to": "AI_Doom_and_E_87399b_catastrophic_c92548",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_compute_gover_1ee8fc",
+        "to": "AI_Doom_and_E_87399b_dangerous_aut_8f4266",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_compute_gover_1ee8fc",
+        "to": "AI_Doom_and_E_87399b_deceptive_ali_f9f449",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_compute_gover_1ee8fc",
+        "to": "AI_Doom_and_E_87399b_frontier_ai_e_9920ab",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_compute_gover_1ee8fc",
+        "to": "AI_Doom_and_E_87399b_interpretabil_15527d",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_compute_gover_1ee8fc",
+        "to": "AI_Doom_and_E_87399b_loss_of_contr_19a113",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_compute_gover_1ee8fc",
+        "to": "AI_Doom_and_E_87399b_p_doom_estima_72d1f2",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_compute_gover_1ee8fc",
+        "to": "AI_Doom_and_E_87399b_recursive_imp_3a3504",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_compute_gover_1ee8fc",
+        "to": "AI_Doom_and_E_87399b_compute_gover_1ee8fc_ai_chip_expor_d56f2b",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_compute_gover_1ee8fc",
+        "to": "AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_compute_gover_1ee8fc",
+        "to": "AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_compute_gover_1ee8fc",
+        "to": "AI_Doom_and_E_87399b_compute_gover_1ee8fc_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_compute_gover_1ee8fc",
+        "to": "AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_compute_gover_1ee8fc",
+        "to": "AI_Doom_and_E_87399b",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_dangerous_aut_8f4266",
+        "to": "AI_Doom_and_E_87399b",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_dangerous_aut_8f4266",
+        "to": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_dangerous_aut_8f4266",
+        "to": "AI_Doom_and_E_87399b_catastrophic_c92548",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_dangerous_aut_8f4266",
+        "to": "AI_Doom_and_E_87399b_compute_gover_1ee8fc",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_dangerous_aut_8f4266",
+        "to": "AI_Doom_and_E_87399b_deceptive_ali_f9f449",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_dangerous_aut_8f4266",
+        "to": "AI_Doom_and_E_87399b_frontier_ai_e_9920ab",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_dangerous_aut_8f4266",
+        "to": "AI_Doom_and_E_87399b_interpretabil_15527d",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_dangerous_aut_8f4266",
+        "to": "AI_Doom_and_E_87399b_loss_of_contr_19a113",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_dangerous_aut_8f4266",
+        "to": "AI_Doom_and_E_87399b_p_doom_estima_72d1f2",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_dangerous_aut_8f4266",
+        "to": "AI_Doom_and_E_87399b_recursive_imp_3a3504",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_dangerous_aut_8f4266",
+        "to": "AI_Doom_and_E_87399b_dangerous_aut_8f4266_autonomy_secu_d6c65d",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_dangerous_aut_8f4266",
+        "to": "AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_dangerous_aut_8f4266",
+        "to": "AI_Doom_and_E_87399b_dangerous_aut_8f4266_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_dangerous_aut_8f4266",
+        "to": "AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_dangerous_aut_8f4266",
+        "to": "AI_Doom_and_E_87399b_dangerous_aut_8f4266_multi_step_ai_ed5101",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_dangerous_aut_8f4266",
+        "to": "AI_Doom_and_E_87399b",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_deceptive_ali_f9f449",
+        "to": "AI_Doom_and_E_87399b",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_deceptive_ali_f9f449",
+        "to": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_deceptive_ali_f9f449",
+        "to": "AI_Doom_and_E_87399b_catastrophic_c92548",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_deceptive_ali_f9f449",
+        "to": "AI_Doom_and_E_87399b_compute_gover_1ee8fc",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_deceptive_ali_f9f449",
+        "to": "AI_Doom_and_E_87399b_dangerous_aut_8f4266",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_deceptive_ali_f9f449",
+        "to": "AI_Doom_and_E_87399b_frontier_ai_e_9920ab",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_deceptive_ali_f9f449",
+        "to": "AI_Doom_and_E_87399b_interpretabil_15527d",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_deceptive_ali_f9f449",
+        "to": "AI_Doom_and_E_87399b_loss_of_contr_19a113",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_deceptive_ali_f9f449",
+        "to": "AI_Doom_and_E_87399b_p_doom_estima_72d1f2",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_deceptive_ali_f9f449",
+        "to": "AI_Doom_and_E_87399b_recursive_imp_3a3504",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_deceptive_ali_f9f449",
+        "to": "AI_Doom_and_E_87399b_deceptive_ali_f9f449_anti_scheming_fa32c6",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_deceptive_ali_f9f449",
+        "to": "AI_Doom_and_E_87399b_deceptive_ali_f9f449_deception_los_dd8ce0",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_deceptive_ali_f9f449",
+        "to": "AI_Doom_and_E_87399b_deceptive_ali_f9f449_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_deceptive_ali_f9f449",
+        "to": "AI_Doom_and_E_87399b_deceptive_ali_f9f449_lab_real_worl_a5db25",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_deceptive_ali_f9f449",
+        "to": "AI_Doom_and_E_87399b_deceptive_ali_f9f449_scheming_test_3604bd",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_deceptive_ali_f9f449",
+        "to": "AI_Doom_and_E_87399b",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_frontier_ai_e_9920ab",
+        "to": "AI_Doom_and_E_87399b",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_frontier_ai_e_9920ab",
+        "to": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_frontier_ai_e_9920ab",
+        "to": "AI_Doom_and_E_87399b_catastrophic_c92548",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_frontier_ai_e_9920ab",
+        "to": "AI_Doom_and_E_87399b_compute_gover_1ee8fc",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_frontier_ai_e_9920ab",
+        "to": "AI_Doom_and_E_87399b_dangerous_aut_8f4266",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_frontier_ai_e_9920ab",
+        "to": "AI_Doom_and_E_87399b_deceptive_ali_f9f449",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_frontier_ai_e_9920ab",
+        "to": "AI_Doom_and_E_87399b_interpretabil_15527d",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_frontier_ai_e_9920ab",
+        "to": "AI_Doom_and_E_87399b_loss_of_contr_19a113",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_frontier_ai_e_9920ab",
+        "to": "AI_Doom_and_E_87399b_p_doom_estima_72d1f2",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_frontier_ai_e_9920ab",
+        "to": "AI_Doom_and_E_87399b_recursive_imp_3a3504",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_frontier_ai_e_9920ab",
+        "to": "AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_frontier_ai_e_9920ab",
+        "to": "AI_Doom_and_E_87399b_frontier_ai_e_9920ab_eval_false_co_fa7edc",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_frontier_ai_e_9920ab",
+        "to": "AI_Doom_and_E_87399b_frontier_ai_e_9920ab_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_frontier_ai_e_9920ab",
+        "to": "AI_Doom_and_E_87399b_frontier_ai_e_9920ab_scheming_eval_38bdee",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_frontier_ai_e_9920ab",
+        "to": "AI_Doom_and_E_87399b_frontier_ai_e_9920ab_severe_risk_t_86df83",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_frontier_ai_e_9920ab",
+        "to": "AI_Doom_and_E_87399b",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_interpretabil_15527d",
+        "to": "AI_Doom_and_E_87399b",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_interpretabil_15527d",
+        "to": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_interpretabil_15527d",
+        "to": "AI_Doom_and_E_87399b_catastrophic_c92548",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_interpretabil_15527d",
+        "to": "AI_Doom_and_E_87399b_compute_gover_1ee8fc",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_interpretabil_15527d",
+        "to": "AI_Doom_and_E_87399b_dangerous_aut_8f4266",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_interpretabil_15527d",
+        "to": "AI_Doom_and_E_87399b_deceptive_ali_f9f449",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_interpretabil_15527d",
+        "to": "AI_Doom_and_E_87399b_frontier_ai_e_9920ab",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_interpretabil_15527d",
+        "to": "AI_Doom_and_E_87399b_loss_of_contr_19a113",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_interpretabil_15527d",
+        "to": "AI_Doom_and_E_87399b_p_doom_estima_72d1f2",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_interpretabil_15527d",
+        "to": "AI_Doom_and_E_87399b_recursive_imp_3a3504",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_interpretabil_15527d",
+        "to": "AI_Doom_and_E_87399b_interpretabil_15527d_ai_monitor_ev_8b5000",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_interpretabil_15527d",
+        "to": "AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_interpretabil_15527d",
+        "to": "AI_Doom_and_E_87399b_interpretabil_15527d_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_interpretabil_15527d",
+        "to": "AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_interpretabil_15527d",
+        "to": "AI_Doom_and_E_87399b_interpretabil_15527d_mechanistic_h_cf3b0e",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_interpretabil_15527d",
+        "to": "AI_Doom_and_E_87399b",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_loss_of_contr_19a113",
+        "to": "AI_Doom_and_E_87399b",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_loss_of_contr_19a113",
+        "to": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_loss_of_contr_19a113",
+        "to": "AI_Doom_and_E_87399b_catastrophic_c92548",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_loss_of_contr_19a113",
+        "to": "AI_Doom_and_E_87399b_compute_gover_1ee8fc",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_loss_of_contr_19a113",
+        "to": "AI_Doom_and_E_87399b_dangerous_aut_8f4266",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_loss_of_contr_19a113",
+        "to": "AI_Doom_and_E_87399b_deceptive_ali_f9f449",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_loss_of_contr_19a113",
+        "to": "AI_Doom_and_E_87399b_frontier_ai_e_9920ab",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_loss_of_contr_19a113",
+        "to": "AI_Doom_and_E_87399b_interpretabil_15527d",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_loss_of_contr_19a113",
+        "to": "AI_Doom_and_E_87399b_p_doom_estima_72d1f2",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_loss_of_contr_19a113",
+        "to": "AI_Doom_and_E_87399b_recursive_imp_3a3504",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_loss_of_contr_19a113",
+        "to": "AI_Doom_and_E_87399b_loss_of_contr_19a113_control_warni_352f11",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_loss_of_contr_19a113",
+        "to": "AI_Doom_and_E_87399b_loss_of_contr_19a113_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_loss_of_contr_19a113",
+        "to": "AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_loss_of_contr_19a113",
+        "to": "AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_loss_of_contr_19a113",
+        "to": "AI_Doom_and_E_87399b_loss_of_contr_19a113_shutdown_resi_de0ce6",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_loss_of_contr_19a113",
+        "to": "AI_Doom_and_E_87399b",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_p_doom_estima_72d1f2",
+        "to": "AI_Doom_and_E_87399b",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_p_doom_estima_72d1f2",
+        "to": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_p_doom_estima_72d1f2",
+        "to": "AI_Doom_and_E_87399b_catastrophic_c92548",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_p_doom_estima_72d1f2",
+        "to": "AI_Doom_and_E_87399b_compute_gover_1ee8fc",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_p_doom_estima_72d1f2",
+        "to": "AI_Doom_and_E_87399b_dangerous_aut_8f4266",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_p_doom_estima_72d1f2",
+        "to": "AI_Doom_and_E_87399b_deceptive_ali_f9f449",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_p_doom_estima_72d1f2",
+        "to": "AI_Doom_and_E_87399b_frontier_ai_e_9920ab",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_p_doom_estima_72d1f2",
+        "to": "AI_Doom_and_E_87399b_interpretabil_15527d",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_p_doom_estima_72d1f2",
+        "to": "AI_Doom_and_E_87399b_loss_of_contr_19a113",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_p_doom_estima_72d1f2",
+        "to": "AI_Doom_and_E_87399b_recursive_imp_3a3504",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_p_doom_estima_72d1f2",
+        "to": "AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_agency_dis_87e1f9",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_p_doom_estima_72d1f2",
+        "to": "AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_p_doom_estima_72d1f2",
+        "to": "AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d59e80",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_p_doom_estima_72d1f2",
+        "to": "AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_p_doom_estima_72d1f2",
+        "to": "AI_Doom_and_E_87399b_p_doom_estima_72d1f2_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_p_doom_estima_72d1f2",
+        "to": "AI_Doom_and_E_87399b",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_imp_3a3504",
+        "to": "AI_Doom_and_E_87399b",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_imp_3a3504",
+        "to": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_imp_3a3504",
+        "to": "AI_Doom_and_E_87399b_catastrophic_c92548",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_imp_3a3504",
+        "to": "AI_Doom_and_E_87399b_compute_gover_1ee8fc",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_imp_3a3504",
+        "to": "AI_Doom_and_E_87399b_dangerous_aut_8f4266",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_imp_3a3504",
+        "to": "AI_Doom_and_E_87399b_deceptive_ali_f9f449",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_imp_3a3504",
+        "to": "AI_Doom_and_E_87399b_frontier_ai_e_9920ab",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_imp_3a3504",
+        "to": "AI_Doom_and_E_87399b_interpretabil_15527d",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_imp_3a3504",
+        "to": "AI_Doom_and_E_87399b_loss_of_contr_19a113",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_imp_3a3504",
+        "to": "AI_Doom_and_E_87399b_p_doom_estima_72d1f2",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_imp_3a3504",
+        "to": "AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_imp_3a3504",
+        "to": "AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72a06a",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_imp_3a3504",
+        "to": "AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_imp_3a3504",
+        "to": "AI_Doom_and_E_87399b_recursive_imp_3a3504_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_imp_3a3504",
+        "to": "AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_recursive_imp_3a3504",
+        "to": "AI_Doom_and_E_87399b",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1",
+        "to": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1",
+        "to": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1",
+        "to": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_model_release_108910",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1",
+        "to": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1",
+        "to": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1_bletchley_ai_417199",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1",
+        "to": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1_compute_monit_043a89",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1",
+        "to": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1",
+        "to": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1_race_pressure_c5dcfd",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1",
+        "to": "AI_Doom_and_E_87399b",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1",
+        "to": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf",
+        "to": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf",
+        "to": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf",
+        "to": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf",
+        "to": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_model_release_108910",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf",
+        "to": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf_capability_th_d9904d",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf",
+        "to": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf",
+        "to": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf_seoul_safety_196957",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf",
+        "to": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf_shared_evalua_7938d8",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf",
+        "to": "AI_Doom_and_E_87399b",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf",
+        "to": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c",
+        "to": "AI_Doom_and_E_87399b_catastrophic_c92548",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c",
+        "to": "AI_Doom_and_E_87399b_catastrophic_c92548_ai_cyber_atta_082acc",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c",
+        "to": "AI_Doom_and_E_87399b_catastrophic_c92548_ai_military_d_f2971e",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c",
+        "to": "AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c",
+        "to": "AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_bio_predep_4af8c1",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c",
+        "to": "AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_biosecurit_e5e926",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c",
+        "to": "AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_pathogen_t_3833c8",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c",
+        "to": "AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c",
+        "to": "AI_Doom_and_E_87399b",
+        "type": "ancestor"
+      }
+    ]
+  }
+}

@@ -1,0 +1,565 @@
+sidebar_generated:
+- title: AI Doom
+  title_full: AI Doom and
+  url: /ai-doom-and/
+  children:
+  - title: AI Takeoff
+    title_full: Could AI Improvement Run Away From US? | AI Doom
+    url: /ai-takeoff/
+    children:
+    - title: Compute brakes
+      title_full: Can compute bottlenecks stop an intelligence explosion? | AI Takeoff
+      url: /compute-brakes/
+      children:
+      - title: Chip Limits
+        title_full: Why AI cannot instantly build more chips | Compute brakes
+        url: /chip-limits/
+      - title: Efficiency Gains
+        title_full: Could smarter algorithms beat compute bottlenecks? | Compute brakes
+        url: /efficiency-gains/
+      - title: Power Limits
+        title_full: Could the power grid slow a runaway AI race? | Compute brakes
+        url: /power-limits/
+    - title: Fast takeoff
+      title_full: What would warn US before FOOM? | AI Takeoff
+      url: /fast-takeoff/
+      children:
+      - title: AI research loop
+        title_full: When AI starts improving AI itself | Fast takeoff
+        url: /ai-research-loop/
+      - title: Late alarms
+        title_full: Why obvious AI disruption may come too late | Fast takeoff
+        url: /late-alarms/
+      - title: Safety buffers
+        title_full: Will AI warning tests arrive in time? | Fast takeoff
+        url: /safety-buffers/
+    - title: Successor training
+      title_full: Could AI train the next AI itself? | AI Takeoff
+      url: /successor-training/
+      children:
+      - title: Coding agents
+        title_full: Could coding agents replace AI researchers? | Successor training
+        url: /coding-agents/
+      - title: Compute limits
+        title_full: Could compute stop a runaway AI loop? | Successor training
+        url: /compute-limits/
+      - title: Synthetic data
+        title_full: Is synthetic data already self improvement? | Successor training
+        url: /synthetic-data/
+    - title: Weak evidence
+      title_full: Do today's self improving systems prove anything? | AI Takeoff
+      url: /weak-evidence/
+      children:
+      - title: AlphaZero Limits
+        title_full: How AlphaZero's Self Play Is Restricted by Game Rules | Weak evidence
+        url: /alphazero-limits/
+      - title: AutoML Boundaries
+        title_full: Why AutoML Cannot Independently Drive Machine Learning Research | Weak evidence
+        url: /automl-boundaries/
+      - title: Recursion Evidence
+        title_full: What AlphaZero and AutoML Reveal About Limits of AI Self Improvement | Weak evidence
+        url: /recursion-evidence/
+  - title: Autonomy
+    title_full: When Does AI Autonomy Become Dangerous? | AI Doom
+    url: /autonomy/
+    children:
+    - title: AI Oversight
+      title_full: Managing and Governing Autonomous AI Agents | Autonomy
+      url: /ai-oversight/
+      children:
+      - title: Audit Trails
+        title_full: Who is responsible when an agent goes wrong? | AI Oversight
+        url: /audit-trails/
+      - title: Autonomy Tiers
+        title_full: How much freedom should AI agents get? | AI Oversight
+        url: /autonomy-tiers/
+      - title: Runtime Watch
+        title_full: Can monitoring catch agents before damage spreads? | AI Oversight
+        url: /runtime-watch/
+    - title: Autonomy Vulnerabilities
+      title_full: Hidden Hazards in Autonomous AI Agents | Autonomy
+      url: /autonomy-vulnerabilities/
+      children:
+      - title: Exploit discovery
+        title_full: Can agents become their own attackers? | Autonomy Vulnerabilities
+        url: /exploit-discovery/
+      - title: Memory poisoning
+        title_full: Can poisoned memory make agents drift? | Autonomy Vulnerabilities
+        url: /memory-poisoning/
+      - title: Tool misuse
+        title_full: When agents have too much power | Autonomy Vulnerabilities
+        url: /tool-misuse/
+    - title: Current Benchmarks
+      title_full: What Current AI Agents Can (and Can't) Do | Autonomy
+      url: /current-benchmarks/
+      children:
+      - title: Benchmark Evidence
+        title_full: What Long Horizon Benchmarks Reveal About AI Reliability | Current Benchmarks
+        url: /benchmark-evidence/
+      - title: Context & Memory
+        title_full: Why AI Agents Struggle to Keep Track Over Long Tasks | Current Benchmarks
+        url: /context-memory/
+      - title: Strategy & Adaptation
+        title_full: When AI Agents Drift from Their Original Objectives | Current Benchmarks
+        url: /strategy-adaptation/
+    - title: Long Horizon Risks
+      title_full: How Multi Step AI Goals Amplify Risk | Autonomy
+      url: /long-horizon-risks/
+      children:
+      - title: Anthropic tests
+        title_full: What agentic misalignment tests really show | Long Horizon Risks
+        url: /anthropic-tests/
+      - title: Error snowballs
+        title_full: When small AI mistakes become big failures | Long Horizon Risks
+        url: /error-snowballs/
+      - title: Metric gaming
+        title_full: Can AI win the metric and lose the plot? | Long Horizon Risks
+        url: /metric-gaming/
+  - title: Control Tools
+    title_full: Can We Make Advanced AI Understandable? | AI Doom
+    url: /control-tools/
+    children:
+    - title: Control Failures
+      title_full: Could Advanced AI Learn To Evade Its Monitors? | Control Tools
+      url: /control-failures/
+      children:
+      - title: AI Oversight
+        title_full: Why AI Monitors Monitoring AI May Fail | Control Failures
+        url: /ai-oversight-a470a8/
+      - title: Interpretability Limits
+        title_full: Why Inspecting AI Reasoning Isn’t Enough for Safety | Control Failures
+        url: /interpretability-limits/
+      - title: Monitor Evasion
+        title_full: How AI Systems Learn to Evade Oversight | Control Failures
+        url: /monitor-evasion/
+    - title: Hidden Goals
+      title_full: Can We Detect Hidden Goals Inside Advanced AI? | Control Tools
+      url: /hidden-goals/
+      children:
+      - title: Deception Detection
+        title_full: Why AI Hidden Goals Often Evade Interpretability | Hidden Goals
+        url: /deception-detection/
+      - title: Hidden Objective Methods
+        title_full: How Mechanistic Tools Reveal AI’s Hidden Goals | Hidden Goals
+        url: /hidden-objective-methods/
+      - title: Interpretability
+        title_full: Combining Mechanistic Insights with AI Safety Practices | Hidden Goals
+        url: /interpretability/
+    - title: Human Oversight
+      title_full: Can Humans Really Stay In Control Of Superhuman AI? | Control Tools
+      url: /human-oversight/
+      children:
+      - title: Continuous Control
+        title_full: What would real time AI supervision require? | Human Oversight
+        url: /continuous-control/
+      - title: Rubber Stamps
+        title_full: Can human approval become a rubber stamp? | Human Oversight
+        url: /rubber-stamps/
+      - title: Weak Supervisors
+        title_full: How can weaker overseers judge stronger AI? | Human Oversight
+        url: /weak-supervisors/
+    - title: Scaling Limits
+      title_full: Why Bigger AI Models May Resist Human Understanding | Control Tools
+      url: /scaling-limits/
+      children:
+      - title: Black Box Evidence
+        title_full: Why bigger AI models still resist human understanding | Scaling Limits
+        url: /black-box-evidence/
+      - title: Misleading XAI
+        title_full: Can AI explanations sound right while hiding the truth? | Scaling Limits
+        url: /misleading-xai/
+      - title: Model Circuits
+        title_full: Why mapping AI internals gets harder with scale | Scaling Limits
+        url: /model-circuits/
+  - title: Evals
+    title_full: Can Tests Catch Dangerous AI in Time? | AI Doom
+    url: /evals/
+    children:
+    - title: Cyber tripwires
+      title_full: When should cyber evals stop a release? | Evals
+      url: /cyber-tripwires/
+      children:
+      - title: Operational Thresholds
+        title_full: When AI Cyber Skills Cross Real World Thresholds | Cyber tripwires
+        url: /operational-thresholds/
+      - title: Scaffolding Effects
+        title_full: How Tools and Memory Amplify AI Cyber Performance | Cyber tripwires
+        url: /scaffolding-effects/
+      - title: Tripwire Comparison
+        title_full: Balancing Early Warnings Against Catastrophic AI Risks | Cyber tripwires
+        url: /tripwire-comparison/
+    - title: False comfort
+      title_full: Can frontier evals give false comfort? | Evals
+      url: /false-comfort/
+      children:
+      - title: Benchmark Limits
+        title_full: Why AI Benchmarks Can Conceal Dangerous Capabilities | False comfort
+        url: /benchmark-limits/
+      - title: Evaluation Gaming
+        title_full: How AI Models Can Hide Dangerous Skills in Tests | False comfort
+        url: /evaluation-gaming/
+      - title: Upper Bound Limits
+        title_full: Why AI Tests Can't Guarantee Absence of Dangerous Abilities | False comfort
+        url: /upper-bound-limits/
+    - title: Risk thresholds
+      title_full: What happens when a model crosses a threshold? | Evals
+      url: /risk-thresholds/
+      children:
+      - title: Capability Thresholds
+        title_full: When model abilities become release warning signs | Risk thresholds
+        url: /capability-thresholds/
+      - title: Open Weights
+        title_full: Why open weights make thresholds stricter | Risk thresholds
+        url: /open-weights/
+      - title: Release Gates
+        title_full: How risky is too risky to release? | Risk thresholds
+        url: /release-gates/
+    - title: Scheming evals
+      title_full: What do scheming tests really show? | Evals
+      url: /scheming-evals/
+      children:
+      - title: Alignment Faking
+        title_full: How AI Models Seem Compliant While Preserving Goals | Scheming evals
+        url: /alignment-faking-d6e0b7/
+      - title: Evaluation Awareness
+        title_full: How AI Models Detect Oversight and Adjust Responses | Scheming evals
+        url: /evaluation-awareness/
+      - title: Oversight Evasion
+        title_full: When AI Models Conceal Actions to Evade Oversight | Scheming evals
+        url: /oversight-evasion/
+  - title: Governance
+    title_full: What Rules Could Reduce AI Doom Risk? | AI Doom
+    url: /governance/
+    children:
+    - title: Chip Controls
+      title_full: Can AI Chip Controls Slow Dangerous Capabilities? | Governance
+      url: /chip-controls/
+      children:
+      - title: Backlash
+        title_full: Can chip controls worsen the AI race? | Chip Controls
+        url: /backlash/
+      - title: Loopholes
+        title_full: Where AI chip controls can leak | Chip Controls
+        url: /loopholes/
+      - title: Safety time
+        title_full: Do chip controls really buy safety time? | Chip Controls
+        url: /safety-time/
+    - title: Cloud Oversight
+      title_full: Can Cloud Providers Police Frontier AI Training? | Governance
+      url: /cloud-oversight/
+      children:
+      - title: Compute KYC
+        title_full: Should AI clouds know their customers? | Cloud Oversight
+        url: /compute-kyc/
+      - title: Evasion risks
+        title_full: Can frontier AI training hide from clouds? | Cloud Oversight
+        url: /evasion-risks/
+      - title: Training traces
+        title_full: Can clouds really spot frontier AI training? | Cloud Oversight
+        url: /training-traces/
+    - title: Safety Checks
+      title_full: Should Frontier Models Pass Safety Checks First? | Governance
+      url: /safety-checks/
+      children:
+      - title: Pre Training Risks
+        title_full: How Pre Training Hazard Modelling Aims to Prevent Catastrophic AI Risks | Safety Checks
+        url: /pre-training-risks/
+      - title: Red Teaming
+        title_full: Why Independent Red Teaming Is Critical for AI Safety | Safety Checks
+        url: /red-teaming/
+      - title: Risk Thresholds
+        title_full: How Policy Thresholds Govern Safe Frontier AI Development | Safety Checks
+        url: /risk-thresholds-bbf629/
+    - title: Thresholds
+      title_full: When Should AI Training Runs Trigger Oversight? | Governance
+      url: /thresholds/
+      children:
+      - title: 10 26 FLOPs
+        title_full: Why Did Policymakers Pick the 10^26 FLOP Line? | Thresholds
+        url: /10-26-flops/
+      - title: Evasion Risks
+        title_full: Could Powerful AI Slip Below Compute Thresholds? | Thresholds
+        url: /evasion-risks-eeb298/
+      - title: Moving Target
+        title_full: Will Today's Compute Limits Still Matter Tomorrow? | Thresholds
+        url: /moving-target/
+  - title: Loss of Control
+    title_full: How Could Humans Lose Control of AI? | AI Doom
+    url: /loss-of-control/
+    children:
+    - title: Objections
+      title_full: How strong is the case against AI doom? | Loss of Control
+      url: /objections/
+      children:
+      - title: Current Models
+        title_full: Do today's AI failures weaken doom fears? | Objections
+        url: /current-models/
+      - title: Power Seeking
+        title_full: Would advanced AI really seek power? | Objections
+        url: /power-seeking/
+      - title: Uncertainty
+        title_full: Why p(doom) estimates diverge so sharply | Objections
+        url: /uncertainty/
+    - title: Over delegation
+      title_full: Can humans lose control without a takeover? | Loss of Control
+      url: /over-delegation/
+      children:
+      - title: Contestability
+        title_full: Can Citizens Challenge Automated Power? | Over delegation
+        url: /contestability/
+      - title: Default Decisions
+        title_full: When Advice Becomes the Decision | Over delegation
+        url: /default-decisions/
+      - title: Expertise Erosion
+        title_full: What Happens When Humans Stop Knowing Enough? | Over delegation
+        url: /expertise-erosion/
+    - title: Shutdown risk
+      title_full: Why would a misaligned AI resist shutdown? | Loss of Control
+      url: /shutdown-risk/
+      children:
+      - title: Corrigibility
+        title_full: Why Highly Capable AIs Struggle to Stay Corrigible | Shutdown risk
+        url: /corrigibility/
+      - title: Instrumental Convergence
+        title_full: How Instrumental Convergence Leads AIs to Resist Shutdown | Shutdown risk
+        url: /instrumental-convergence/
+      - title: Resistance Evidence
+        title_full: What Real AI Models Reveal About Resistance and Deception | Shutdown risk
+        url: /resistance-evidence/
+    - title: Warning signs
+      title_full: What would loss of control look like early? | Loss of Control
+      url: /warning-signs/
+      children:
+      - title: Hidden Reasoning
+        title_full: What if the answer looks safe but isn't? | Warning signs
+        url: /hidden-reasoning/
+      - title: Test Awareness
+        title_full: Can AI fake safety during tests? | Warning signs
+        url: /test-awareness/
+      - title: Weak Checks
+        title_full: When human oversight becomes a rubber stamp | Warning signs
+        url: /weak-checks/
+  - title: Misuse
+    title_full: How Could People Misuse Advanced AI? | AI Doom
+    url: /misuse/
+    children:
+    - title: AI Misuse Governance
+      title_full: Why Policy Gaps Heighten Risks of AI Misuse | Misuse
+      url: /ai-misuse-governance/
+      children:
+      - title: AI Accountability
+        title_full: Why AI Laws Fail to Enforce Safety Globally | AI Misuse Governance
+        url: /ai-accountability/
+      - title: Biotech Dual Use
+        title_full: How AI Driven Biotech Can Be Misused | AI Misuse Governance
+        url: /biotech-dual-use/
+      - title: Cyber & Defense
+        title_full: Where Cybersecurity AI Escapes Regulation | AI Misuse Governance
+        url: /cyber-defense/
+    - title: Bio Threat AI
+      title_full: How AI Could Accelerate Dangerous Pathogen Design | Misuse
+      url: /bio-threat-ai/
+      children:
+      - title: Biosecurity Evasion
+        title_full: How AI Could Evade DNA Screening Controls | Bio Threat AI
+        url: /biosecurity-evasion/
+      - title: Pre Deployment Policy
+        title_full: Evaluating High Risk AI Biological Models Before Release | Bio Threat AI
+        url: /pre-deployment-policy/
+      - title: Trait Prediction
+        title_full: AI in Predicting Dangerous Pathogen Traits | Bio Threat AI
+        url: /trait-prediction/
+    - title: Cyberattack AI
+      title_full: 'AI Driven Cyberattacks: Automation and Emerging Risks | Misuse'
+      url: /cyberattack-ai/
+      children:
+      - title: Exploit race
+        title_full: Can defenders patch before AI attackers strike? | Cyberattack AI
+        url: /exploit-race/
+      - title: Exploit reports
+        title_full: What do real AI exploit reports actually prove? | Cyberattack AI
+        url: /exploit-reports/
+      - title: Model controls
+        title_full: How should cyber capable AI models be controlled? | Cyberattack AI
+        url: /model-controls/
+    - title: Military AI Risk
+      title_full: 'AI in Military Decisions: Escalation and Control Challenges | Misuse'
+      url: /military-ai-risk/
+      children:
+      - title: AI Wargames
+        title_full: What AI nuclear wargames really show | Military AI Risk
+        url: /ai-wargames/
+      - title: Automation Bias
+        title_full: When AI advice looks too certain | Military AI Risk
+        url: /automation-bias/
+      - title: Decision Speed
+        title_full: Does faster military AI make crises worse? | Military AI Risk
+        url: /decision-speed/
+  - title: P Doom
+    title_full: What Does p(doom) Really Mean? | AI Doom
+    url: /p-doom/
+    children:
+    - title: Agency Disputes
+      title_full: Why AI Autonomy Leads Experts to Disagree on Doom | P Doom
+      url: /agency-disputes/
+      children:
+      - title: Agent vs Tool
+        title_full: Are Today's AI Systems Tools or Emerging Agents? | Agency Disputes
+        url: /agent-vs-tool/
+      - title: Corrigibility
+        title_full: Can Humans Still Pull the Plug on Advanced AI? | Agency Disputes
+        url: /corrigibility-5db0de/
+      - title: Power Seeking
+        title_full: Would Advanced AI Naturally Seek Power and Survival? | Agency Disputes
+        url: /power-seeking-67c702/
+    - title: Alignment & Governance
+      title_full: How Safety and Governance Shape AI Doom Forecasts | P Doom
+      url: /alignment-governance/
+      children:
+      - title: AI Evaluations
+        title_full: Could Frontier Evaluations Catch Dangerous Models Early? | Alignment & Governance
+        url: /ai-evaluations/
+      - title: Compute Limits
+        title_full: Can Compute Controls Actually Slow an AI Race? | Alignment & Governance
+        url: /compute-limits-aa7e79/
+      - title: Expert Surveys
+        title_full: Why Experts With Similar p(doom) Numbers Still Disagree | Alignment & Governance
+        url: /expert-surveys/
+    - title: Survey Estimates
+      title_full: How AI Experts Forecast Doom Probabilities | P Doom
+      url: /survey-estimates/
+      children:
+      - title: Forecast Tournaments
+        title_full: How Hybrid Forecasting Shapes AI Doom Predictions | Survey Estimates
+        url: /forecast-tournaments/
+      - title: Population Evidence
+        title_full: Why Different Expert Groups Disagree on AI Doom Probabilities | Survey Estimates
+        url: /population-evidence/
+      - title: Survey Framing
+        title_full: How Survey Design Shapes AI Doom Predictions | Survey Estimates
+        url: /survey-framing/
+    - title: Timeline Effects
+      title_full: How AI Development Timelines Shape Doom Estimates | P Doom
+      url: /timeline-effects/
+      children:
+      - title: Long timelines
+        title_full: Does more time really make AI safer? | Timeline Effects
+        url: /long-timelines/
+      - title: Short timelines
+        title_full: Why shorter AI timelines feel more dangerous | Timeline Effects
+        url: /short-timelines/
+      - title: Survey evidence
+        title_full: What AI surveys really say about doom | Timeline Effects
+        url: /survey-evidence/
+  - title: Race Pressure
+    title_full: Why AI Races Can Make Safety Harder | AI Doom
+    url: /race-pressure/
+    children:
+    - title: First Movers
+      title_full: Why Being First Can Make AI Less Safe | Race Pressure
+      url: /first-movers/
+      children:
+      - title: Deployment rules
+        title_full: Can rules stop a dangerous AI race | First Movers
+        url: /deployment-rules/
+      - title: Race evidence
+        title_full: What AI race models can and cannot prove | First Movers
+        url: /race-evidence/
+      - title: Race pressure
+        title_full: Why waiting can feel too expensive | First Movers
+        url: /race-pressure-4c8574/
+    - title: Geopolitics
+      title_full: Can Countries Slow Down Without Falling Behind? | Race Pressure
+      url: /geopolitics/
+      children:
+      - title: Bletchley
+        title_full: Did Bletchley prove AI rivals can cooperate? | Geopolitics
+        url: /bletchley/
+      - title: Compute Checks
+        title_full: Can compute checks make AI restraint credible? | Geopolitics
+        url: /compute-checks/
+      - title: Race Pressure
+        title_full: Would an AI race make leaders ignore warnings? | Geopolitics
+        url: /race-pressure-aabd56/
+    - title: Release Races
+      title_full: Do AI Launch Races Weaken Safety Checks? | Race Pressure
+      url: /release-races/
+      children:
+      - title: Missed risks
+        title_full: What rushed AI evaluations can miss | Release Races
+        url: /missed-risks/
+      - title: OpenAI case
+        title_full: Did faster launches weaken OpenAI safety checks? | Release Races
+        url: /openai-case/
+      - title: Scaling rules
+        title_full: Can lab safety promises survive launch races? | Release Races
+        url: /scaling-rules/
+    - title: Shared Rules
+      title_full: How Shared Rules Could Slow the Race | Race Pressure
+      url: /shared-rules/
+      children:
+      - title: Evaluations
+        title_full: Can shared tests slow a reckless AI race? | Shared Rules
+        url: /evaluations/
+      - title: Seoul pledges
+        title_full: Do AI safety pledges survive real competition? | Shared Rules
+        url: /seoul-pledges/
+      - title: Thresholds
+        title_full: When should AI labs be forced to pause? | Shared Rules
+        url: /thresholds-ed4586/
+  - title: Scheming Tests
+    title_full: Can AI Pretend to Be Aligned? | AI Doom
+    url: /scheming-tests/
+    children:
+    - title: Anti Scheming Training
+      title_full: Can Anti‑Scheming Training Reduce AI Deception? | Scheming Tests
+      url: /anti-scheming-training/
+      children:
+      - title: Chain of Thought Risks
+        title_full: When AI Reasoning Traces Can Mislead Safety Systems | Anti Scheming Training
+        url: /chain-of-thought-risks/
+      - title: Covert Action Tests
+        title_full: How Covert Action Experiments Reveal AI Deception Risks | Anti Scheming Training
+        url: /covert-action-tests/
+      - title: Deliberative Alignment
+        title_full: How Deliberative Alignment Changes AI Decision Making | Anti Scheming Training
+        url: /deliberative-alignment/
+    - title: Deception and Loss
+      title_full: Why Deceptive Alignment Matters for AI Loss of Control | Scheming Tests
+      url: /deception-and-loss/
+      children:
+      - title: Awareness
+        title_full: Can an AI know when it is being watched? | Deception and Loss
+        url: /awareness/
+      - title: False confidence
+        title_full: When passing tests stops proving safety | Deception and Loss
+        url: /false-confidence/
+      - title: Monitoring
+        title_full: How could hidden AI motives be detected? | Deception and Loss
+        url: /monitoring/
+    - title: Lab vs Real
+      title_full: Do Lab Scheming Scenarios Predict Real‑World AI Deception? | Scheming Tests
+      url: /lab-vs-real/
+      children:
+      - title: Artificial Goals
+        title_full: Do Lab Given Objectives Really Predict AI Deception? | Lab vs Real
+        url: /artificial-goals/
+      - title: Incentive Gaps
+        title_full: Why Lab Incentives Often Overstate AI's Real World Deceptive Risk | Lab vs Real
+        url: /incentive-gaps/
+      - title: Situational Awareness
+        title_full: How Aware Are AI Models of Testing and Deployment Contexts? | Lab vs Real
+        url: /situational-awareness/
+    - title: Scheming Tests Findings
+      title_full: What Controlled Scheming Tests Reveal About AI Deception | Scheming Tests
+      url: /scheming-tests-findings/
+      children:
+      - title: Alignment Faking
+        title_full: Was Claude Pretending to Stay Aligned? | Scheming Tests Findings
+        url: /alignment-faking/
+      - title: Apollo Tests
+        title_full: What Happens When Oversight Gets in the Way? | Scheming Tests Findings
+        url: /apollo-tests/
+      - title: Sandbagging
+        title_full: Can AI Models Fake Being Less Capable? | Scheming Tests Findings
+        url: /sandbagging/
