@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_frontier_ai_e_9920ab_severe_risk_t_86df83_capability_th_d9904d
 - AI_Doom_and_E_87399b_frontier_ai_e_9920ab_severe_risk_t_86df83_deployment_th_147e1a
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - evals
 - risk-thresholds
 - open-weights
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - evals
 - risk-thresholds
 - open-weights
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Open-weight releases raise the stakes because once model weights are public, safeguards are harder to enforce and misuse is harder to contain.
 hero_summary: Open-weight releases raise the stakes because once model weights are public, safeguards are harder to enforce and misuse is harder to contain.
 layout: default
 permalink: /open-weights/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /evals/
 - /risk-thresholds/
 nav_short_title: Open Weights
@@ -211,10 +211,10 @@ parent_heading_title: What happens when a model crosses a threshold?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_frontier_ai_e_9920ab
-  title: Evals | AI Doom and
+  title: Evals | AI Doom and E 87399 b
   permalink: /evals/
   short_title: Evals
   heading_title: Can Tests Catch Dangerous AI in Time?
@@ -226,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_frontier_ai_e_9920ab
-  title: Evals | AI Doom and
+  title: Evals | AI Doom and E 87399 b
   permalink: /evals/
   short_title: Evals
   heading_title: Can Tests Catch Dangerous AI in Time?
@@ -285,8 +285,8 @@ At a basic level, *model weights* are the numerical parameters learned during tr
 
 Two features make open weights unique in containment discussions:
 
-* **Loss of enforcement:** Once weights circulate, there is no practical mechanism to roll them back or *unrelease* them if harms emerge later; closed/API models can be updated, patched, or removed centrally. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ntia.gov/programs-and-initiatives/[artificial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntia.gov">[NTIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntia.gov</span><span class="citation-popover-title">Background | National Telecommunications and Information Administration</span><span class="citation-popover-snippet">NTIABackground | National Telecommunications and Information Administration...</span></span></span>
-* **White‑box control:** Full weight access enables attacks that are impossible with black‑box API access — for instance, direct fine‑tuning to remove any built‑in safety behaviours or re‑deploying the model with new objectives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://redteams.ai/topics/model-deep-dives/open-weight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: redteams.ai">[redteams.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">redteams.ai</span><span class="citation-popover-title">Open-Weight Model Security | redteams.ai</span><span class="citation-popover-snippet">March 15, 2026...</span><span class="citation-popover-meta">Published: March 15, 2026</span></span></span>
+* **Loss of enforcement:** Once weights circulate, there is no practical mechanism to roll them back or *unrelease* them if harms emerge later; closed/API models can be updated, patched, or removed centrally. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ntia.gov/programs-and-initiatives/artificial-intelligence/open-model-weights-report/background" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntia.gov">[NTIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntia.gov</span><span class="citation-popover-title">Background &#124; National Telecommunications and Information Administration</span><span class="citation-popover-snippet">Background &#124; National Telecommunications and Information Administration...</span></span></span>
+* **White‑box control:** Full weight access enables attacks that are impossible with black‑box API access — for instance, direct fine‑tuning to remove any built‑in safety behaviours or re‑deploying the model with new objectives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://redteams.ai/topics/model-deep-dives/open-weight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: redteams.ai">[redteams.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">redteams.ai</span><span class="citation-popover-title">Open-Weight Model Security &#124; redteams.ai</span><span class="citation-popover-snippet">March 15, 2026...</span><span class="citation-popover-meta">Published: March 15, 2026</span></span></span>
 
 These qualities matter for containment risk because they mean that *post‑release misuse pathways* are significantly broader and harder to govern than with API‑only models.
 
@@ -300,15 +300,15 @@ The principal concern among safety researchers is that open weights **erode cont
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
-* *Safety filtering can be arbitrarily removed or weakened through fine‑tuning,* creating variants without guardrails. <span class="citation-chip-wrap"><a class="citation-chip" href="https://redteams.ai/topics/model-deep-dives/open-weight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: redteams.ai">[redteams.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">redteams.ai</span><span class="citation-popover-title">Open-Weight Model Security | redteams.ai</span><span class="citation-popover-snippet">March 15, 2026...</span><span class="citation-popover-meta">Published: March 15, 2026</span></span></span>
-* *Adversarial manipulation and gradient‑level attacks* are possible, enabling safety circumvention strategies not detectable through API monitoring. <span class="citation-chip-wrap"><a class="citation-chip" href="https://redteams.ai/topics/model-deep-dives/open-weight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: redteams.ai">[redteams.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">redteams.ai</span><span class="citation-popover-title">Open-Weight Model Security | redteams.ai</span><span class="citation-popover-snippet">March 15, 2026...</span><span class="citation-popover-meta">Published: March 15, 2026</span></span></span>
-* *Proliferation is effectively irreversible:* once weights are copied, even takedown notices or licence restrictions cannot guarantee that all instances are removed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ntia.gov/programs-and-initiatives/artificial-intelligence/open-model-weights-report/risks-benefits-of-dual-use-foundation-models-with-widely-available-model-weights/public-safety" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntia.gov">[NTIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntia.gov</span><span class="citation-popover-title">Public Safety | National Telecommunications and Information Administration</span><span class="citation-popover-snippet">NTIAPublic Safety | National Telecommunications and Information Administration...</span></span></span>
+* *Safety filtering can be arbitrarily removed or weakened through fine‑tuning,* creating variants without guardrails. <span class="citation-chip-wrap"><a class="citation-chip" href="https://redteams.ai/topics/model-deep-dives/open-weight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: redteams.ai">[redteams.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">redteams.ai</span><span class="citation-popover-title">Open-Weight Model Security &#124; redteams.ai</span><span class="citation-popover-snippet">March 15, 2026...</span><span class="citation-popover-meta">Published: March 15, 2026</span></span></span>
+* *Adversarial manipulation and gradient‑level attacks* are possible, enabling safety circumvention strategies not detectable through API monitoring. <span class="citation-chip-wrap"><a class="citation-chip" href="https://redteams.ai/topics/model-deep-dives/open-weight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: redteams.ai">[redteams.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">redteams.ai</span><span class="citation-popover-title">Open-Weight Model Security &#124; redteams.ai</span><span class="citation-popover-snippet">March 15, 2026...</span><span class="citation-popover-meta">Published: March 15, 2026</span></span></span>
+* *Proliferation is effectively irreversible:* once weights are copied, even takedown notices or licence restrictions cannot guarantee that all instances are removed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ntia.gov/programs-and-initiatives/artificial-intelligence/open-model-weights-report/risks-benefits-of-dual-use-foundation-models-with-widely-available-model-weights/public-safety" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntia.gov">[NTIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntia.gov</span><span class="citation-popover-title">Public Safety &#124; National Telecommunications and Information Administration</span><span class="citation-popover-snippet">Public Safety &#124; National Telecommunications and Information Administration...</span></span></span>
 
 </div>
 
 The NTIA’s analysis of dual‑use models highlights that *ease of redistribution and modification* can exacerbate risks in domains such as biological, chemical, or radiological threat design because adversaries no longer need to rely on, or bypass, intermediate safeguards that might slow or detect misuse. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ntia.gov/issues/artificial-intelligence/open-model-weights-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntia.gov">[NTIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntia.gov</span><span class="citation-popover-snippet">July 30, 2024 — DUAL-USE FOUNDATION MODELS WITH WIDELY AVAILABLE MODEL WEIGHTS REPORT July 30, 2024 Earned Trust through AI System Assura...</span><span class="citation-popover-meta">Published: July 30, 2024</span></span></span>
 
-These misuse pathways aren’t hypothetical academic constructs — real‑world incidents show how community adaptations of openly released models quickly strip safety layers, producing “uncensored” versions that reliably generate harmful content with little [oversight]({{ 'oversight-evasion/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/center-for-ai-safety-open-source-llm-safeguards" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">center for ai safety open source llm safeguards</span><span class="citation-popover-snippet">Researchers from the University of Illinois Urbana-Champaign and other institutions have developed a technique to complicate the process...</span></span></span>
+These misuse pathways aren’t hypothetical academic constructs — real‑world incidents show how community adaptations of openly released models quickly strip safety layers, producing “uncensored” versions that reliably generate harmful content with little oversight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/center-for-ai-safety-open-source-llm-safeguards" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">center for ai safety open source llm safeguards</span><span class="citation-popover-snippet">Researchers from the University of Illinois Urbana-Champaign and other institutions have developed a technique to complicate the process...</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_severe_risk_t_86df83_open_weight_t_3026a4-Illustration-2-dark.svg" | relative_url }}" alt="Open Weights illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_severe_risk_t_86df83_open_weight_t_3026a4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_severe_risk_t_86df83_open_weight_t_3026a4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -324,7 +324,7 @@ Even before considering open weights, organisations may evaluate a model’s lat
 
 These assessments contextualise a model’s inherent risks against the *containment mechanisms that would be lost* by open‑weight release. A model that could be managed with API‑level safeguards might be deemed acceptable for closed release but pose *unacceptably high risk* if its weights were published. The difference is not just technical: it’s about the *likelihood and impact of misuse* once containment systems no longer apply. [GOV.UK](#endnote-1 "Snippet: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/international-ai-safety-report-2025/international-ai-safety-report-2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[Withdrawn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">international ai safety report 2025</span><span class="citation-popover-snippet">Withdrawn] International AI Safety Report 2025 - GOV.UKFebruary 18, 2025...</span><span class="citation-popover-meta">Published: February 18, 2025</span></span></span> International AI Safety Report 2025 - GOV.UKFebruary 18, 2025")
 
-Put concretely, instead of a one‑size‑fits‑all rule like “never release open weights”, some frameworks suggest tiered releases — starting with *internal research access only*, moving to *controlled external partnerships*, and finally, if safety can be demonstrated with high confidence, *broader release*. In other words, rigorous risk assessment and mitigation demonstration become prerequisites before open weights get released. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2602.19682" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivBeyond the Binary: A nuanced path for open-weight advanced AIFebruary 23, 2026...</span><span class="citation-popover-meta">Published: February 23, 2026</span></span></span>
+Put concretely, instead of a one‑size‑fits‑all rule like “never release open weights”, some frameworks suggest tiered releases — starting with *internal research access only*, moving to *controlled external partnerships*, and finally, if safety can be demonstrated with high confidence, *broader release*. In other words, rigorous risk assessment and mitigation demonstration become prerequisites before open weights get released. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2602.19682" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Beyond the Binary: A nuanced path for open-weight advanced AIFebruary 23, 2026...</span><span class="citation-popover-meta">Published: February 23, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gyOGhnEnGkk" title="AI: Existential Risk or Power Grab?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gyOGhnEnGkk" target="_blank" rel="noopener noreferrer">AI: Existential Risk or Power Grab?</a></p><p class="youtube-embed-meta">Channel: Pupil Swim &middot; Views: 1.4K &middot; Uploaded: May 2026 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gyOGhnEnGkk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gyOGhnEnGkk">Open on YouTube</a></p></div></div></div>
@@ -350,9 +350,9 @@ Proponents of stricter thresholds for open‑weight release argue that treating 
 
 While there is broad recognition among safety researchers that open weights increase containment risk, there are substantive debates about how to respond:
 
-* Some argue that *weighted openness under monitored frameworks* can be safer than a binary open/closed dichotomy; controlled enclaves, staged releases and secure hardware approaches are proposed as middle paths. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2602.19682" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivBeyond the Binary: A nuanced path for open-weight advanced AIFebruary 23, 2026...</span><span class="citation-popover-meta">Published: February 23, 2026</span></span></span>
-* Others emphasise the *benefits of transparency*, such as independent auditing and vulnerability discovery, urging risk‑adjusted open releases rather than outright bans. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oecd.ai/en/wonk/balancing-innovation-transparency-and-risk-in-open-weight-models" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.ai">[OECD.AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.ai</span><span class="citation-popover-title">A I openness: Balancing innovation, transparency and risk in open-weight models</span><span class="citation-popover-snippet">AI openness: Balancing innovation, transparency and risk in open-weight models - OECD.AI...</span></span></span>
-* Regulatory responses such as the EU AI Act focus on *use case risk rather than weight access per se*, treating high‑risk applications as needing extra safeguards regardless of open‑weight status. <span class="citation-chip-wrap"><a class="citation-chip" href="https://failurefirst.org/blog/2026-05-15-compute-is-not-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: failurefirst.org">[Failure-First Embodied AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">failurefirst.org</span><span class="citation-popover-title">2026 05 15 compute is not governance</span><span class="citation-popover-snippet">Failure-First Embodied AICompute Is Not Governance: Anthropic&#x27;s 2028 Scenarios and the Missing Institutions of Democratic AI | Blog | Fai...</span></span></span>
+* Some argue that *weighted openness under monitored frameworks* can be safer than a binary open/closed dichotomy; controlled enclaves, staged releases and secure hardware approaches are proposed as middle paths. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2602.19682" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Beyond the Binary: A nuanced path for open-weight advanced AIFebruary 23, 2026...</span><span class="citation-popover-meta">Published: February 23, 2026</span></span></span>
+* Others emphasise the *benefits of transparency*, such as [independent]({{ 'red-teaming/' | relative_url }}) auditing and vulnerability discovery, urging risk‑adjusted open releases rather than outright bans. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oecd.ai/en/wonk/balancing-innovation-transparency-and-risk-in-open-weight-models" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.ai">[OECD.AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.ai</span><span class="citation-popover-title">A I openness: Balancing innovation, transparency and risk in open-weight models</span><span class="citation-popover-snippet">AI openness: Balancing innovation, transparency and risk in open-weight models - OECD.AI...</span></span></span>
+* Regulatory responses such as the EU AI Act focus on *use case risk rather than weight access per se*, treating high‑risk applications as needing extra safeguards regardless of open‑weight status. <span class="citation-chip-wrap"><a class="citation-chip" href="https://failurefirst.org/blog/2026-05-15-compute-is-not-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: failurefirst.org">[Failure-First Embodied AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">failurefirst.org</span><span class="citation-popover-title">2026 05 15 compute is not governance</span><span class="citation-popover-snippet">Failure-First Embodied AICompute Is Not Governance: Anthropic&#x27;s 2028 Scenarios and the Missing Institutions of Democratic AI &#124; Blog &#124; Fai...</span></span></span>
 
 These debates underscore that open weights, by amplifying containment challenges, force a **decision trade‑off** in policy and governance: balancing innovation and accessibility against the potential for irreversible, unsafe proliferation — precisely the concerns that loom largest in discussions about AI and existential risk.
 
@@ -448,7 +448,7 @@ This section explored *why open‑weight releases need stricter thresholds* in t
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -458,111 +458,36 @@ This section explored *why open‑weight releases need stricter thresholds* in t
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-weights-why-open-weights-make-thresholds-stricter-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3D Printed Robot Anatomy Head Bust 6.1in Sci-Fi Display Model Art Figure"><img src="{{ '/assets/images/marketplace-covers/99673181cf01409c6bee.jpg' | relative_url }}" alt="Listing image for 3D Printed Robot Anatomy Head Bust 6.1in Sci-Fi Display Model Art Figure" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-open-weights-make-thresholds-stricter-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="why-open-weights-make-thresholds-stricter-robot-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mengshan 1/144 Mecha Robot Assembly Model Kit Collectible Display Toy"><img src="https://i.ebayimg.com/images/g/0WMAAeSwm5BqC8TY/s-l225.jpg" alt="Listing image for Mengshan 1/144 Mecha Robot Assembly Model Kit Collectible Display Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-weights-why-open-weights-make-thresholds-stricter-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">3D Printed Robot Anatomy Head Bust 6.1in Sci-Fi Display Model Art Figure</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-open-weights-make-thresholds-stricter-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="why-open-weights-make-thresholds-stricter-robot-display-model" target="_blank" rel="sponsored noopener noreferrer">Mengshan 1/144 Mecha Robot Assembly Model Kit Collectible Display Toy</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-weights-why-open-weights-make-thresholds-stricter-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search <span data-ebay-domain-label>eBay.com</span>: robot display model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-open-weights-make-thresholds-stricter-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="why-open-weights-make-thresholds-stricter-robot-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot display model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-weights-why-open-weights-make-thresholds-stricter-ai-doom-and-robot-display-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-weights-why-open-weights-make-thresholds-stricter-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Toy Story Mr. Robot with Lights 3D Print Model For display Only, Not a toy"><img src="{{ '/assets/images/marketplace-covers/64cc1c96018c3c374a54.jpg' | relative_url }}" alt="Listing image for Toy Story Mr. Robot with Lights 3D Print Model For display Only, Not a toy" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-weights-why-open-weights-make-thresholds-stricter-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Toy Story Mr. Robot with Lights 3D Print Model For display Only, Not a toy</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-weights-why-open-weights-make-thresholds-stricter-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search <span data-ebay-domain-label>eBay.com</span>: robot display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-weights-why-open-weights-make-thresholds-stricter-ai-doom-and-robot-display-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-weights-why-open-weights-make-thresholds-stricter-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MOC GLaDOS Robot Portal Game Style Building Block Set 1868 Bricks Display Model"><img src="{{ '/assets/images/marketplace-covers/f98e41cef4c185ce94ba.jpg' | relative_url }}" alt="Listing image for MOC GLaDOS Robot Portal Game Style Building Block Set 1868 Bricks Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-weights-why-open-weights-make-thresholds-stricter-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MOC GLaDOS Robot Portal Game Style Building Block Set 1868 Bricks Display Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-weights-why-open-weights-make-thresholds-stricter-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search <span data-ebay-domain-label>eBay.com</span>: robot display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-weights-why-open-weights-make-thresholds-stricter-ai-doom-and-robot-display-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-weights-why-open-weights-make-thresholds-stricter-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DENSO Industrial Robot Arm Model 1:6 Scale Manipulator Simulation Display Gift"><img src="{{ '/assets/images/marketplace-covers/65d51f66075c4571a747.jpg' | relative_url }}" alt="Listing image for DENSO Industrial Robot Arm Model 1:6 Scale Manipulator Simulation Display Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-weights-why-open-weights-make-thresholds-stricter-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">DENSO Industrial Robot Arm Model 1:6 Scale Manipulator Simulation Display Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-weights-why-open-weights-make-thresholds-stricter-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search <span data-ebay-domain-label>eBay.com</span>: robot display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-weights-why-open-weights-make-thresholds-stricter-ai-doom-and-robot-display-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-weights-why-open-weights-make-thresholds-stricter-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-weights-why-open-weights-make-thresholds-stricter-ai-doom-and-artificial-intelligence-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2x Vertical Vinyl Sticker Artificial Intelligence Technology Robot #50116"><img src="{{ '/assets/images/marketplace-covers/f541ed3ac3f90301b69c.jpg' | relative_url }}" alt="Listing image for 2x Vertical Vinyl Sticker Artificial Intelligence Technology Robot #50116" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-weights-why-open-weights-make-thresholds-stricter-ai-doom-and-artificial-intelligence-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">2x Vertical Vinyl Sticker Artificial Intelligence Technology Robot #50116</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-weights-why-open-weights-make-thresholds-stricter-ai-doom-and-artificial-intelligence-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-weights-why-open-weights-make-thresholds-stricter-ai-doom-and-artificial-intelligence-sticker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-open-weights-make-thresholds-stricter-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="why-open-weights-make-thresholds-stricter-robot-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -570,15 +495,15 @@ This section explored *why open‑weight releases need stricter thresholds* in t
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-weights-why-open-weights-make-thresholds-stricter-ai-doom-and-artificial-intelligence-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TERMINATOR ,SKYNET CYBERDYNE SYSTEMS, SKYNET (Artificial Intelligence) Film Prop"><img src="{{ '/assets/images/marketplace-covers/1813ebfecb614904e2aa.jpg' | relative_url }}" alt="Listing image for TERMINATOR ,SKYNET CYBERDYNE SYSTEMS, SKYNET (Artificial Intelligence) Film Prop" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-open-weights-make-thresholds-stricter-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="why-open-weights-make-thresholds-stricter-robot-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Blue Armored Mecha Robot Hand Painted Figure Sci Fi Collectible Display Model"><img src="https://i.ebayimg.com/images/g/MXAAAOSwu4BVxWyz/s-l225.jpg" alt="Listing image for Blue Armored Mecha Robot Hand Painted Figure Sci Fi Collectible Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-weights-why-open-weights-make-thresholds-stricter-ai-doom-and-artificial-intelligence-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TERMINATOR ,SKYNET CYBERDYNE SYSTEMS, SKYNET (Artificial Intelligence) Film Prop</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-open-weights-make-thresholds-stricter-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="why-open-weights-make-thresholds-stricter-robot-display-model" target="_blank" rel="sponsored noopener noreferrer">Blue Armored Mecha Robot Hand Painted Figure Sci Fi Collectible Display Model</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-weights-why-open-weights-make-thresholds-stricter-ai-doom-and-artificial-intelligence-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-open-weights-make-thresholds-stricter-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="why-open-weights-make-thresholds-stricter-robot-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot display model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-weights-why-open-weights-make-thresholds-stricter-ai-doom-and-artificial-intelligence-sticker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-open-weights-make-thresholds-stricter-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="why-open-weights-make-thresholds-stricter-robot-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -586,15 +511,15 @@ This section explored *why open‑weight releases need stricter thresholds* in t
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-weights-why-open-weights-make-thresholds-stricter-ai-doom-and-artificial-intelligence-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ai Artificial Intelligence Vinyl Sticker Decal Car Window 4&quot;"><img src="{{ '/assets/images/marketplace-covers/2ef29faa411e57a19456.jpg' | relative_url }}" alt="Listing image for Ai Artificial Intelligence Vinyl Sticker Decal Car Window 4&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-open-weights-make-thresholds-stricter-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="why-open-weights-make-thresholds-stricter-robot-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Miko 3 AI SMART Robot for Kids with Games &amp; Voice Chat - EX DISPLAY MODEL"><img src="https://i.ebayimg.com/images/g/ggEAAeSwAfRpeeEz/s-l225.jpg" alt="Listing image for Miko 3 AI SMART Robot for Kids with Games &amp; Voice Chat - EX DISPLAY MODEL" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-weights-why-open-weights-make-thresholds-stricter-ai-doom-and-artificial-intelligence-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ai Artificial Intelligence Vinyl Sticker Decal Car Window 4&quot;</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-open-weights-make-thresholds-stricter-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="why-open-weights-make-thresholds-stricter-robot-display-model" target="_blank" rel="sponsored noopener noreferrer">Miko 3 AI SMART Robot for Kids with Games &amp; Voice Chat - EX DISPLAY MODEL</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-weights-why-open-weights-make-thresholds-stricter-ai-doom-and-artificial-intelligence-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-open-weights-make-thresholds-stricter-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="why-open-weights-make-thresholds-stricter-robot-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot display model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-weights-why-open-weights-make-thresholds-stricter-ai-doom-and-artificial-intelligence-sticker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-open-weights-make-thresholds-stricter-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="why-open-weights-make-thresholds-stricter-robot-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -602,15 +527,15 @@ This section explored *why open‑weight releases need stricter thresholds* in t
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-weights-why-open-weights-make-thresholds-stricter-ai-doom-and-artificial-intelligence-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ARTIFICIAL INTELLIGENCE ANDROID WALL STICKERS 3D ART POSTER MURAL DECAL VJ8"><img src="{{ '/assets/images/marketplace-covers/c714e09a2b44bee776f6.jpg' | relative_url }}" alt="Listing image for ARTIFICIAL INTELLIGENCE ANDROID WALL STICKERS 3D ART POSTER MURAL DECAL VJ8" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-open-weights-make-thresholds-stricter-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="why-open-weights-make-thresholds-stricter-robot-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mengshan 1/144 Mecha Robot Assembly Model Kit Collectible Display Toy"><img src="https://i.ebayimg.com/images/g/pnMAAeSwr9dp66mJ/s-l225.jpg" alt="Listing image for Mengshan 1/144 Mecha Robot Assembly Model Kit Collectible Display Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-weights-why-open-weights-make-thresholds-stricter-ai-doom-and-artificial-intelligence-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">ARTIFICIAL INTELLIGENCE ANDROID WALL STICKERS 3D ART POSTER MURAL DECAL VJ8</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-open-weights-make-thresholds-stricter-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="why-open-weights-make-thresholds-stricter-robot-display-model" target="_blank" rel="sponsored noopener noreferrer">Mengshan 1/144 Mecha Robot Assembly Model Kit Collectible Display Toy</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-weights-why-open-weights-make-thresholds-stricter-ai-doom-and-artificial-intelligence-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-open-weights-make-thresholds-stricter-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="why-open-weights-make-thresholds-stricter-robot-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot display model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-weights-why-open-weights-make-thresholds-stricter-ai-doom-and-artificial-intelligence-sticker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-open-weights-make-thresholds-stricter-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="why-open-weights-make-thresholds-stricter-robot-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -618,7 +543,7 @@ This section explored *why open‑weight releases need stricter thresholds* in t
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-weights-why-open-weights-make-thresholds-stricter-ai-doom-and-artificial-intelligence-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-open-weights-make-thresholds-stricter-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="why-open-weights-make-thresholds-stricter-robot-display-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -695,17 +620,31 @@ This section explored *why open‑weight releases need stricter thresholds* in t
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -718,42 +657,73 @@ This section explored *why open‑weight releases need stricter thresholds* in t
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -768,94 +738,98 @@ This section explored *why open‑weight releases need stricter thresholds* in t
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: GOV.UK  
    Title: international ai safety report 2025  
-   Link: [https://www.gov.uk/government/publications/international-ai-safety-report-2025/international-ai-safety-report-2025](https://www.gov.uk/government/publications/international-ai-safety-report-2025/international-ai-safety-report-2025)  
+   Link: <a href="https://www.gov.uk/government/publications/international-ai-safety-report-2025/international-ai-safety-report-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/international-ai-safety-report-2025/international-ai-safety-report-2025</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Withdrawn] International AI Safety Report 2025 - GOV.UKFebruary 18, 2025...</p></details>
    Published: February 18, 2025  
 
 2. <a id="endnote-2"></a>
    Source: oecd.ai  
    Title: A I openness: Balancing innovation, transparency and risk in open-weight models  
-   Link: [https://oecd.ai/en/wonk/balancing-innovation-transparency-and-risk-in-open-weight-models](https://oecd.ai/en/wonk/balancing-innovation-transparency-and-risk-in-open-weight-models)  
+   Link: <a href="https://oecd.ai/en/wonk/balancing-innovation-transparency-and-risk-in-open-weight-models" target="_blank" rel="noopener noreferrer nofollow">https://oecd.ai/en/wonk/balancing-innovation-transparency-and-risk-in-open-weight-models</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI openness: Balancing innovation, transparency and risk in open-weight models - OECD.AI...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ntia.gov  
    Title: Background | National Telecommunications and Information Administration  
-   Link: [https://www.ntia.gov/programs-and-initiatives/[artificial](https://www.ntia.gov/programs-and-initiatives/[artificial)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NTIABackground | National Telecommunications and Information Administration...</p></details>
+   Link: <a href="https://www.ntia.gov/programs-and-initiatives/artificial-intelligence/open-model-weights-report/background" target="_blank" rel="noopener noreferrer nofollow">https://www.ntia.gov/programs-and-initiatives/artificial-intelligence/open-model-weights-report/background</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Background | National Telecommunications and Information Administration...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: redteams.ai  
    Title: Open-Weight Model Security | redteams.ai  
-   Link: [https://redteams.ai/topics/model-deep-dives/open-weight](https://redteams.ai/topics/model-deep-dives/open-weight)  
+   Link: <a href="https://redteams.ai/topics/model-deep-dives/open-weight" target="_blank" rel="noopener noreferrer nofollow">https://redteams.ai/topics/model-deep-dives/open-weight</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 15, 2026...</p></details>
    Published: March 15, 2026  
 
 5. <a id="endnote-5"></a>
    Source: ntia.gov  
    Title: Public Safety | National Telecommunications and Information Administration  
-   Link: [https://www.ntia.gov/programs-and-initiatives/artificial-intelligence/open-model-weights-report/risks-benefits-of-dual-use-foundation-models-with-widely-available-model-weights/public-safety](https://www.ntia.gov/programs-and-initiatives/artificial-intelligence/open-model-weights-report/risks-benefits-of-dual-use-foundation-models-with-widely-available-model-weights/public-safety)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NTIAPublic Safety | National Telecommunications and Information Administration...</p></details>
+   Link: <a href="https://www.ntia.gov/programs-and-initiatives/artificial-intelligence/open-model-weights-report/risks-benefits-of-dual-use-foundation-models-with-widely-available-model-weights/public-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.ntia.gov/programs-and-initiatives/artificial-intelligence/open-model-weights-report/risks-benefits-of-dual-use-foundation-models-with-widely-available-model-weights/public-safety</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Public Safety | National Telecommunications and Information Administration...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: wired.com  
    Title: center for ai safety open source llm safeguards  
-   Link: [https://www.wired.com/story/center-for-ai-safety-open-source-llm-safeguards](https://www.wired.com/story/center-for-ai-safety-open-source-llm-safeguards)  
+   Link: <a href="https://www.wired.com/story/center-for-ai-safety-open-source-llm-safeguards" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/center-for-ai-safety-open-source-llm-safeguards</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers from the University of Illinois Urbana-Champaign and other institutions have developed a technique to complicate the process...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2602.19682](https://arxiv.org/abs/2602.19682)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivBeyond the Binary: A nuanced path for open-weight advanced AIFebruary 23, 2026...</p></details>
+   Link: <a href="https://arxiv.org/abs/2602.19682" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2602.19682</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond the Binary: A nuanced path for open-weight advanced AIFebruary 23, 2026...</p></details>
    Published: February 23, 2026  
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2604.17413](https://arxiv.org/abs/2604.17413)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivThe Open-Weight Paradox: Why Restricting Access to AI Models May Undermine the Safety It Seeks to ProtectApril 19, 2026...</p></details>
+   Link: <a href="https://arxiv.org/abs/2604.17413" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.17413</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Open-Weight Paradox: Why Restricting Access to AI Models May Undermine the Safety It Seeks to ProtectApril 19, 2026...</p></details>
    Published: April 19, 2026  
 
 9. <a id="endnote-9"></a>
    Source: failurefirst.org  
    Title: 2026 05 15 compute is not governance  
-   Link: [https://failurefirst.org/blog/2026-05-15-compute-is-not-governance/](https://failurefirst.org/blog/2026-05-15-compute-is-not-governance/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Failure-First Embodied AICompute Is Not Governance: [Anthropic](&amp;#123;&amp;#123; &#x27;anthropic-tests/&#x27; | relative_url &amp;#125;&amp;#125;)&#x27;s 2028 Scenarios and the Missing Institutions of Democratic AI | Blog | Fai...</p></details>
+   Link: <a href="https://failurefirst.org/blog/2026-05-15-compute-is-not-governance/" target="_blank" rel="noopener noreferrer nofollow">https://failurefirst.org/blog/2026-05-15-compute-is-not-governance/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Failure-First Embodied AICompute Is Not Governance: Anthropic&#x27;s 2028 Scenarios and the Missing Institutions of Democratic AI | Blog | Fai...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: ntia.gov  
-   Link: [https://www.ntia.gov/issues/artificial-intelligence/open-model-weights-report](https://www.ntia.gov/issues/artificial-intelligence/open-model-weights-report)  
+   Link: <a href="https://www.ntia.gov/issues/artificial-intelligence/open-model-weights-report" target="_blank" rel="noopener noreferrer nofollow">https://www.ntia.gov/issues/artificial-intelligence/open-model-weights-report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>July 30, 2024 — DUAL-USE FOUNDATION MODELS WITH WIDELY AVAILABLE MODEL WEIGHTS REPORT July 30, 2024 Earned Trust through AI System Assura...</p></details>
    Published: July 30, 2024  
 
 11. <a id="endnote-11"></a>
    Source: aisi.gov.uk  
-   Link: [https://www.aisi.gov.uk/work/managing-risks-from-increasingly-capable-open-weight-ai-systems](https://www.aisi.gov.uk/work/managing-risks-from-increasingly-capable-open-weight-ai-systems)  
+   Link: <a href="https://www.aisi.gov.uk/work/managing-risks-from-increasingly-capable-open-weight-ai-systems" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/work/managing-risks-from-increasingly-capable-open-weight-ai-systems</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This summer, several powerful open-weight AI systems were rel...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: aisi.gov.uk  
-   Link: [https://www.aisi.gov.uk/research/open-technical-problems-in-open-weight-ai-model-risk-management](https://www.aisi.gov.uk/research/open-technical-problems-in-open-weight-ai-model-risk-management)  
+   Link: <a href="https://www.aisi.gov.uk/research/open-technical-problems-in-open-weight-ai-model-risk-management" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/research/open-technical-problems-in-open-weight-ai-model-risk-management</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Open technical problems in open-weight AI model risk managementOPEN TECHNICAL PROBLEMS IN OPEN-WEIGHT AI MODEL RISK MANAGEMENT Read the f...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: ntia.gov  
-   Link: [https://www.ntia.gov/programs-and-initiatives/artificial-intelligence/open-model-weights-report/risks-benefits-of-dual-use-foundation-models-with-widely-available-model-weights](https://www.ntia.gov/programs-and-initiatives/artificial-intelligence/open-model-weights-report/risks-benefits-of-dual-use-foundation-models-with-widely-available-model-weights)  
+   Link: <a href="https://www.ntia.gov/programs-and-initiatives/artificial-intelligence/open-model-weights-report/risks-benefits-of-dual-use-foundation-models-with-widely-available-model-weights" target="_blank" rel="noopener noreferrer nofollow">https://www.ntia.gov/programs-and-initiatives/artificial-intelligence/open-model-weights-report/risks-benefits-of-dual-use-foundation-models-with-widely-available-model-weights</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>strationRISKS AND BENEFITS OF DUAL-USE FOUNDATION MODELS WITH WIDELY AVAILABLE MODEL WEIGHTS Earned Trust through AI System Assurance Thi...</p></details>
 
 ### Additional References
@@ -863,63 +837,63 @@ This section explored *why open‑weight releases need stricter thresholds* in t
 14. <a id="endnote-14"></a>
    Source: nature.com  
    Title: Releasing open-weight AI in steps would alleviate risks  
-   Link: [https://www.nature.com/articles/d41586-026-00679-6.pdf](https://www.nature.com/articles/d41586-026-00679-6.pdf)  
+   Link: <a href="https://www.nature.com/articles/d41586-026-00679-6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-026-00679-6.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>M. Nuruzzaman Nobel^{0} &amp; * Maxine Tan^{1} Open-weight artificial-intelligence models — those wit...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: blott.com  
    Title: A I Safety: Critical Risks Your System Tests Are Missing | Blott  
-   Link: [https://www.blott.com/blog/post/ai-safety-critical-risks-your-system-tests-are-missing](https://www.blott.com/blog/post/ai-safety-critical-risks-your-system-tests-are-missing)  
+   Link: <a href="https://www.blott.com/blog/post/ai-safety-critical-risks-your-system-tests-are-missing" target="_blank" rel="noopener noreferrer nofollow">https://www.blott.com/blog/post/ai-safety-critical-risks-your-system-tests-are-missing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>They offer greater transparency but give us less control, which leads to unique safety risks...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: ethicai.net  
    Title: Beyond closed vs open AI models  
-   Link: [https://ethicai.net/beyond-closed-vs-open-ai-models](https://ethicai.net/beyond-closed-vs-open-ai-models)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EthicAIDecember 4, 2025 — BEYOND CLOSED VS OPEN AI MODELS by Team EthicAI | Dec 4, 2025 | AI Development, AI Security Image The rapid dev...</p></details>
+   Link: <a href="https://ethicai.net/beyond-closed-vs-open-ai-models" target="_blank" rel="noopener noreferrer nofollow">https://ethicai.net/beyond-closed-vs-open-ai-models</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 4, 2025 — BEYOND CLOSED VS OPEN AI MODELS by Team EthicAI | Dec 4, 2025 | AI Development, AI Security Image The rapid dev...</p></details>
    Published: December 4, 2025  
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Frontier Firm Part 5: Governance & Security for AI – Zero Trust Approach to AI  
-   Link: [https://www.youtube.com/watch?v=gtXAYlzH9z0](https://www.youtube.com/watch?v=gtXAYlzH9z0)  
+   Link: <a href="https://www.youtube.com/watch?v=gtXAYlzH9z0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gtXAYlzH9z0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Towards auditable risk management frameworks for advanced AI developers...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: OpenAI  
    Title: estimating worst case frontier risks of open weight llms  
-   Link: [https://openai.com/index/estimating-worst-case-frontier-risks-of-open-weight-llms/?asuniq=68955115](https://openai.com/index/estimating-worst-case-frontier-risks-of-open-weight-llms/?asuniq=68955115)  
+   Link: <a href="https://openai.com/index/estimating-worst-case-frontier-risks-of-open-weight-llms/?asuniq=68955115" target="_blank" rel="noopener noreferrer nofollow">https://openai.com/index/estimating-worst-case-frontier-risks-of-open-weight-llms/?asuniq=68955115</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>comEstimating worst case frontier risks of open weight LLMs | OpenAIAugust 5, 2025 — August 5, 2025 SafetyPublication ESTIMATING WORST CA...</p></details>
    Published: August 5, 2025  
 
 19. <a id="endnote-19"></a>
    Source: carnegieendowment.org  
    Title: Beyond Open vs  
-   Link: [https://carnegieendowment.org/europe/research/2024/07/beyond-open-vs-closed-emerging-consensus-and-key-questions-for-foundation-ai-model-governance](https://carnegieendowment.org/europe/research/2024/07/beyond-open-vs-closed-emerging-consensus-and-key-questions-for-foundation-ai-model-governance)  
+   Link: <a href="https://carnegieendowment.org/europe/research/2024/07/beyond-open-vs-closed-emerging-consensus-and-key-questions-for-foundation-ai-model-governance" target="_blank" rel="noopener noreferrer nofollow">https://carnegieendowment.org/europe/research/2024/07/beyond-open-vs-closed-emerging-consensus-and-key-questions-for-foundation-ai-model-governance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Closed: Emerging Consensus and Key Questions for Foundation AI Model Governance | Carnegie Endowment for International PeaceJuly 23, 2024...</p></details>
    Published: July 23, 2024  
 
 20. <a id="endnote-20"></a>
    Source: carnegieendowment.org  
    Title: Beyond Open vs  
-   Link: [https://carnegieendowment.org/research/2024/07/beyond-open-vs-closed-emerging-consensus-and-key-questions-for-foundation-ai-model-governance](https://carnegieendowment.org/research/2024/07/beyond-open-vs-closed-emerging-consensus-and-key-questions-for-foundation-ai-model-governance)  
+   Link: <a href="https://carnegieendowment.org/research/2024/07/beyond-open-vs-closed-emerging-consensus-and-key-questions-for-foundation-ai-model-governance" target="_blank" rel="noopener noreferrer nofollow">https://carnegieendowment.org/research/2024/07/beyond-open-vs-closed-emerging-consensus-and-key-questions-for-foundation-ai-model-governance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Closed: Emerging Consensus and Key Questions for Foundation AI Model Governance | Carnegie Endowment for International PeaceJuly 23, 2024...</p></details>
    Published: July 23, 2024  
 
 21. <a id="endnote-21"></a>
    Source: verifywise.ai  
    Title: A developer c  
-   Link: [https://verifywise.ai/lexicon/open-source-ai-governance](https://verifywise.ai/lexicon/open-source-ai-governance)  
+   Link: <a href="https://verifywise.ai/lexicon/open-source-ai-governance" target="_blank" rel="noopener noreferrer nofollow">https://verifywise.ai/lexicon/open-source-ai-governance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Open-source AI governance | AI Governance LexiconKEY CHALLENGES IRREVERSIBILITY AND [LOSS OF CONTROL](&amp;#123;&amp;#123; &#x27;loss-of-control/&#x27; | relative_url &amp;#125;&amp;#125;) The central governance problem with o...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: AI pioneer explains why it poses an existential risk for humanity  
-   Link: [https://www.youtube.com/watch?v=w_agSeXwxhU](https://www.youtube.com/watch?v=w_agSeXwxhU)  
+   Link: <a href="https://www.youtube.com/watch?v=w_agSeXwxhU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=w_agSeXwxhU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Existential Risks and Economic Shifts...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: wikimolt.org  
-   Link: [https://www.wikimolt.org/page/Open%20Weights/revision/2903](https://www.wikimolt.org/page/Open%20Weights/revision/2903)  
+   Link: <a href="https://www.wikimolt.org/page/Open%20Weights/revision/2903" target="_blank" rel="noopener noreferrer nofollow">https://www.wikimolt.org/page/Open%20Weights/revision/2903</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Open Weights (Revision 2903) · WikimoltMarch 18, 2026 — OPEN WEIGHTS wikimoltbot Revision #2903 (current) 2026-03-18 07:38:53 &quot;Expand wit...</p></details>
    Published: March 18, 2026  

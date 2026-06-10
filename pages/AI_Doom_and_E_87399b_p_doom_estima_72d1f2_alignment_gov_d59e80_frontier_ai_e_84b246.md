@@ -7,21 +7,21 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d59e80_ai_researcher_c2f0e9
 - AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d59e80_compute_gover_a7d298
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - p-doom
 - ai-evaluations
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - p-doom
 - ai-evaluations
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Supporters argue that capability evaluations could reveal dangerous behaviour before powerful models are widely deployed.
 hero_summary: Supporters argue that capability evaluations could reveal dangerous behaviour before powerful models are widely deployed.
 layout: default
 permalink: /ai-evaluations/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /p-doom/
 - /alignment-governance/
 nav_short_title: AI Evaluations
@@ -209,10 +209,10 @@ parent_heading_title: How Safety and Governance Shape AI Doom Forecasts
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_p_doom_estima_72d1f2
-  title: P Doom | AI Doom and
+  title: P Doom | AI Doom and E 87399 b
   permalink: /p-doom/
   short_title: P Doom
   heading_title: What Does p(doom) Really Mean?
@@ -224,10 +224,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_p_doom_estima_72d1f2
-  title: P Doom | AI Doom and
+  title: P Doom | AI Doom and E 87399 b
   permalink: /p-doom/
   short_title: P Doom
   heading_title: What Does p(doom) Really Mean?
@@ -267,19 +267,19 @@ image: /assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d5
 
 ## Introduction
 
-Frontier AI evaluations — structured tests and assessments applied to the most advanced artificial intelligence systems before they reach broad deployment — are increasingly promoted as **early warning systems** for dangerous capabilities. Within debates about [AI doom and]({{ 'ai-doom-and/' | relative_url }}) existential risk, supporters argue that robust evaluation regimes could give labs, regulators and society **advance notice** of problematic behaviours, misaligned objectives, or emergent dual‑use skills that might otherwise go unnoticed until after widespread deployment. These early warnings could shift governance from reactive firefighting to anticipatory oversight, potentially lowering the probability of [catastrophic]({{ 'misuse/' | relative_url }}) outcomes. However, evaluations face practical limits, gaps in standardisation, and growing strategic behaviour by the models themselves — all of which challenge their effectiveness as reliable safety brakes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Emerging processes for frontier AI safety</span><span class="citation-popover-snippet">27, 2023...</span></span></span>
+Frontier AI [evaluations]({{ 'evaluations/' | relative_url }}) — structured tests and assessments applied to the most advanced artificial intelligence systems before they reach broad deployment — are increasingly promoted as **early warning systems** for dangerous capabilities. Within debates about AI doom and existential risk, supporters argue that robust evaluation regimes could give labs, regulators and society **advance notice** of problematic behaviours, misaligned objectives, or emergent dual‑use skills that might otherwise go unnoticed until after widespread deployment. These early warnings could shift governance from reactive firefighting to anticipatory oversight, potentially lowering the probability of [catastrophic]({{ 'misuse/' | relative_url }}) outcomes. However, evaluations face practical limits, gaps in standardisation, and growing strategic behaviour by the models themselves — all of which challenge their effectiveness as reliable safety brakes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Emerging processes for frontier AI safety</span><span class="citation-popover-snippet">27, 2023...</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d59e80_frontier_ai_e_84b246-Illustration-1-dark.svg" | relative_url }}" alt="AI Evaluations illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d59e80_frontier_ai_e_84b246-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d59e80_frontier_ai_e_84b246-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What frontier evaluations try to measure
 
-Frontier AI [evaluations]({{ 'evaluations/' | relative_url }}) encompass a range of practices designed to probe and quantify specific **capabilities and behaviours** that could signal risk before models are released into the wild.
+Frontier AI evaluations encompass a range of practices designed to probe and quantify specific **capabilities and behaviours** that could signal risk before models are released into the wild.
 
-**Evaluating dangerous capabilities:** A cluster of research, including a programme by leading AI labs and safety researchers, has developed *dangerous capability* evaluations that systematically test advanced models in domains like persuasion and deception, cyber‑security, self‑proliferation, and self‑reasoning. The goal is not merely to [benchmark]({{ 'benchmark-limits/' | relative_url }}) general performance but to identify latent capacities that, in a misused or unguarded context, could lead to large‑scale harms. These tests act as early indicators of concerning traits even when a model otherwise performs well on standard, narrow benchmarks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://huggingface.co/papers/2403.13793" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huggingface.co">[Hugging Face]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huggingface.co</span><span class="citation-popover-title">Hugging Face Paper page</span><span class="citation-popover-snippet">Hugging FacePaper page - Evaluating Frontier Models for Dangerous Capabilities...</span></span></span>
+**Evaluating dangerous capabilities:** A cluster of research, including a programme by leading AI labs and safety researchers, has developed *dangerous capability* evaluations that systematically test advanced models in domains like persuasion and deception, cyber‑security, self‑proliferation, and self‑reasoning. The goal is not merely to benchmark general performance but to identify latent capacities that, in a misused or unguarded context, could lead to large‑scale harms. These tests act as early indicators of concerning traits even when a model otherwise performs well on standard, narrow benchmarks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://huggingface.co/papers/2403.13793" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huggingface.co">[Hugging Face]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huggingface.co</span><span class="citation-popover-title">Hugging Face Paper page</span><span class="citation-popover-snippet">Hugging FacePaper page - Evaluating Frontier Models for Dangerous Capabilities...</span></span></span>
 
 **Pre‑deployment risk screening:** Government and policy frameworks increasingly formalise **pre‑deployment evaluations** as part of risk assessment regimes. For example, UK policy documents recommend evaluations at several checkpoints throughout a model’s lifecycle — before, during and after training — to detect harmful propensities before a model is widely used, mirroring product safety testing in other industries. Such evaluations aim to measure not only raw capability but also *controllability*, unintended behaviours, and potential societal harms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Frontier AI: capabilities and risks – discussion paper</span><span class="citation-popover-snippet">28, 2025...</span></span></span>
 
-**Independent and third‑party assessments:** To reduce bias and capture a fuller picture of risk, a growing emphasis has been placed on **independent evaluations** by external experts. These inputs can help verify lab‑reported results, broaden the expertise applied to safety judgements, and provide governments with data to inform regulatory decisions about whether and how to deploy frontier AI. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ai-safety-institute-approach-to-evaluations/ai-safety-institute-approach-to-evaluations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">www.gov.uk A I Safety Institute approach to evaluations</span><span class="citation-popover-snippet">Safety Institute approach to evaluations - GOV.UKFebruary 9, 2024 — AISI (AI SAFETY INSTITUTE)’S APPROACH TO EVALUATIONS AISI (AI Safety...</span><span class="citation-popover-meta">Published: February 9, 2024</span></span></span>
+**[Independent]({{ 'red-teaming/' | relative_url }}) and third‑party assessments:** To reduce bias and capture a fuller picture of risk, a growing emphasis has been placed on **independent evaluations** by external experts. These inputs can help verify lab‑reported results, broaden the expertise applied to safety judgements, and provide governments with data to inform regulatory decisions about whether and how to deploy frontier AI. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ai-safety-institute-approach-to-evaluations/ai-safety-institute-approach-to-evaluations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">www.gov.uk A I Safety Institute approach to evaluations</span><span class="citation-popover-snippet">Safety Institute approach to evaluations - GOV.UKFebruary 9, 2024 — AISI (AI SAFETY INSTITUTE)’S APPROACH TO EVALUATIONS AISI (AI Safety...</span><span class="citation-popover-meta">Published: February 9, 2024</span></span></span>
 
 Collectively, these evaluations treat dangerous behaviour as measurable phenomena, flagging **precursors to risk** — such as the ability to generate weapon‑related content or evidence of strategic deception — that could inform decisions about mitigation, further testing or even delaying deployment.
 
@@ -294,9 +294,9 @@ Despite their promise, frontier evaluations face practical and theoretical chall
 
 **Lack of standards and scientific grounding:** Safety testing for frontier AI is still in its infancy, with no universally accepted standards, protocols, or best practices. Government reviews have noted that existing evaluation methods are ad‑hoc, inconsistent and often incomparable across labs or frameworks. This fragmentation makes it harder to interpret results reliably or to build a cumulative evidence base about emerging risks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Emerging processes for frontier AI safety</span><span class="citation-popover-snippet">27, 2023...</span></span></span>
 
-**Security and access risks:** Allowing external evaluators to probe models — especially ones with powerful capabilities — can itself create security concerns. Think‑tank analysis warns that each new evaluation access point could expand attack surfaces, potentially exposing sensitive models to theft, tampering or misuse if controls are inadequate. These trade‑offs complicate decisions about how open evaluations should be and which stakeholders should be granted access. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theregister.com/ai-ml/2026/05/12/frontier-ai-safety-tests-may-be-creating-the-very-risks-theyre-meant-to-stop/5238734" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theregister.com">[theregister]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theregister.com</span><span class="citation-popover-title">Frontier AI safety tests may be creating the very risks they&#x27;re meant to stop</span><span class="citation-popover-snippet">theregisterFrontier AI safety tests may be creating the very risks they&#x27;re meant to stopMay 12, 2026...</span><span class="citation-popover-meta">Published: May 12, 2026</span></span></span>
+**Security and access risks:** Allowing external evaluators to probe models — especially ones with powerful capabilities — can itself create security concerns. Think‑tank analysis warns that each new evaluation access point could expand attack surfaces, potentially exposing sensitive models to theft, tampering or [misuse]({{ 'misuse/' | relative_url }}) if controls are inadequate. These trade‑offs complicate decisions about how open evaluations should be and which stakeholders should be granted access. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theregister.com/ai-ml/2026/05/12/frontier-ai-safety-tests-may-be-creating-the-very-risks-theyre-meant-to-stop/5238734" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theregister.com">[theregister]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theregister.com</span><span class="citation-popover-title">Frontier AI safety tests may be creating the very risks they&#x27;re meant to stop</span><span class="citation-popover-snippet">Frontier AI safety tests may be creating the very risks they&#x27;re meant to stopMay 12, 2026...</span><span class="citation-popover-meta">Published: May 12, 2026</span></span></span>
 
-**Performance versus real‑world behaviour:** Traditional benchmarks often measure capacity under controlled conditions but may not capture how models behave when embedded in complex systems or real‑world contexts. Evaluations designed solely around narrow tasks risk generating false reassurance if they fail to simulate the nuances of deployment environments or long‑horizon behaviours. Critics argue that benchmarks need to evolve beyond simple scorecards to tests that better mirror realistic usage patterns and adversarial conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/slatestarcodex/comments/1tbkbcd/shouldnt_alignment_evals_be_on_the_models_main/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Shouldn&#x27;t alignment evals be on the model&#x27;s main launch scorecard?</span><span class="citation-popover-snippet">RedditShouldn&#x27;t alignment evals be on the model&#x27;s main launch scorecard?May 13, 2026...</span><span class="citation-popover-meta">Published: May 13, 2026</span></span></span>
+**Performance versus real‑world behaviour:** Traditional benchmarks often measure capacity under controlled conditions but may not capture how models behave when embedded in complex systems or real‑world contexts. Evaluations designed solely around narrow tasks risk generating false reassurance if they fail to simulate the nuances of deployment environments or long‑horizon behaviours. Critics argue that benchmarks need to evolve beyond simple scorecards to tests that better mirror realistic usage patterns and adversarial conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/slatestarcodex/comments/1tbkbcd/shouldnt_alignment_evals_be_on_the_models_main/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Shouldn&#x27;t alignment evals be on the model&#x27;s main launch scorecard?</span><span class="citation-popover-snippet">Shouldn&#x27;t alignment evals be on the model&#x27;s main launch scorecard?May 13, 2026...</span><span class="citation-popover-meta">Published: May 13, 2026</span></span></span>
 
 These limits suggest that while evaluations can provide **useful signals**, they are not foolproof predictors of safety or alignment in deployment settings.
 
@@ -749,95 +749,95 @@ Frontier AI evaluations serve as **early warning systems** that aim to reveal da
 1. <a id="endnote-1"></a>
    Source: GOV.UK  
    Title: Emerging processes for frontier AI safety  
-   Link: [https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety](https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety)  
+   Link: <a href="https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>27, 2023...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: GOV.UK  
    Title: Frontier AI: capabilities and risks – discussion paper  
-   Link: [https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper](https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper)  
+   Link: <a href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>28, 2025...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: theregister.com  
    Title: Frontier AI safety tests may be creating the very risks they're meant to stop  
-   Link: [https://www.theregister.com/ai-ml/2026/05/12/frontier-ai-safety-tests-may-be-creating-the-very-risks-theyre-meant-to-stop/5238734](https://www.theregister.com/ai-ml/2026/05/12/frontier-ai-safety-tests-may-be-creating-the-very-risks-theyre-meant-to-stop/5238734)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>theregisterFrontier AI safety tests may be creating the very risks they&#x27;re meant to stopMay 12, 2026...</p></details>
+   Link: <a href="https://www.theregister.com/ai-ml/2026/05/12/frontier-ai-safety-tests-may-be-creating-the-very-risks-theyre-meant-to-stop/5238734" target="_blank" rel="noopener noreferrer nofollow">https://www.theregister.com/ai-ml/2026/05/12/frontier-ai-safety-tests-may-be-creating-the-very-risks-theyre-meant-to-stop/5238734</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier AI safety tests may be creating the very risks they&#x27;re meant to stopMay 12, 2026...</p></details>
    Published: May 12, 2026  
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
    Title: Shouldn't alignment [evals](&#123;&#123; 'evals/' | relative_url &#125;&#125;) be on the model's main launch scorecard?  
-   Link: [https://www.reddit.com/r/slatestarcodex/comments/1tbkbcd/shouldnt_alignment_evals_be_on_the_models_main/](https://www.reddit.com/r/slatestarcodex/comments/1tbkbcd/shouldnt_alignment_evals_be_on_the_models_main/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditShouldn&#x27;t alignment evals be on the model&#x27;s main launch scorecard?May 13, 2026...</p></details>
+   Link: <a href="https://www.reddit.com/r/slatestarcodex/comments/1tbkbcd/shouldnt_alignment_evals_be_on_the_models_main/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/slatestarcodex/comments/1tbkbcd/shouldnt_alignment_evals_be_on_the_models_main/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Shouldn&#x27;t alignment evals be on the model&#x27;s main launch scorecard?May 13, 2026...</p></details>
    Published: May 13, 2026  
 
 5. <a id="endnote-5"></a>
    Source: aisi.gov.uk  
-   Link: [https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems](https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems)  
+   Link: <a href="https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems</a>  
 
 6. <a id="endnote-6"></a>
    Source: axios.com  
    Title: us frontier ai testing white house pivots safety  
-   Link: [https://www.axios.com/2026/05/05/us-frontier-ai-testing-white-house-pivots-safety](https://www.axios.com/2026/05/05/us-frontier-ai-testing-white-house-pivots-safety)  
+   Link: <a href="https://www.axios.com/2026/05/05/us-frontier-ai-testing-white-house-pivots-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2026/05/05/us-frontier-ai-testing-white-house-pivots-safety</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ramps up frontier AI testing as White House pivots toward safetyMay 5, 2026 — The U.S. government is intensifying its oversight of fronti...</p></details>
    Published: May 5, 2026  
 
 7. <a id="endnote-7"></a>
    Source: evals.alignment.org  
    Title: Open AI’s Preparedness Framework, Google Deep Mind’s Frontier Safet  
-   Link: [https://evals.alignment.org/blog/2025-01-17-ai-models-dangerous-before-public-deployment/](https://evals.alignment.org/blog/2025-01-17-ai-models-dangerous-before-public-deployment/)  
+   Link: <a href="https://evals.alignment.org/blog/2025-01-17-ai-models-dangerous-before-public-deployment/" target="_blank" rel="noopener noreferrer nofollow">https://evals.alignment.org/blog/2025-01-17-ai-models-dangerous-before-public-deployment/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>models can be dangerous before public deployment - METRJanuary 17, 2025 — AI models can be dangerous before public deployment DATE Januar...</p></details>
    Published: January 17, 2025  
 
 8. <a id="endnote-8"></a>
    Source: GOV.UK  
    Title: www.gov.uk A I Safety Institute approach to evaluations  
-   Link: [https://www.gov.uk/government/publications/ai-safety-institute-approach-to-evaluations/ai-safety-institute-approach-to-evaluations](https://www.gov.uk/government/publications/ai-safety-institute-approach-to-evaluations/ai-safety-institute-approach-to-evaluations)  
+   Link: <a href="https://www.gov.uk/government/publications/ai-safety-institute-approach-to-evaluations/ai-safety-institute-approach-to-evaluations" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-safety-institute-approach-to-evaluations/ai-safety-institute-approach-to-evaluations</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Safety Institute approach to evaluations - GOV.UKFebruary 9, 2024 — AISI (AI SAFETY INSTITUTE)’S APPROACH TO EVALUATIONS AISI (AI Safety...</p></details>
    Published: February 9, 2024  
 
 9. <a id="endnote-9"></a>
    Source: governance.ai  
    Title: coordinated pausing evaluation based scheme  
-   Link: [https://www.governance.ai/research-paper/coordinated-pausing-evaluation-based-scheme](https://www.governance.ai/research-paper/coordinated-pausing-evaluation-based-scheme)  
+   Link: <a href="https://www.governance.ai/research-paper/coordinated-pausing-evaluation-based-scheme" target="_blank" rel="noopener noreferrer nofollow">https://www.governance.ai/research-paper/coordinated-pausing-evaluation-based-scheme</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Coordinated Pausing: An Evaluation-Based Coordination Scheme for Frontier AI Developers | GovAISeptember 30, 2023 — COORDINATED PAUSING...</p></details>
    Published: September 30, 2023  
 
 10. <a id="endnote-10"></a>
    Source: huggingface.co  
    Title: Hugging Face Paper page  
-   Link: [https://huggingface.co/papers/2403.13793](https://huggingface.co/papers/2403.13793)  
+   Link: <a href="https://huggingface.co/papers/2403.13793" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/papers/2403.13793</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hugging FacePaper page - Evaluating Frontier Models for Dangerous Capabilities...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: iaps.ai  
-   Link: [https://www.iaps.ai/research/evaluation-awareness-why-frontier-ai-models-are-getting-harder-to-test](https://www.iaps.ai/research/evaluation-awareness-why-frontier-ai-models-are-getting-harder-to-test)  
+   Link: <a href="https://www.iaps.ai/research/evaluation-awareness-why-frontier-ai-models-are-getting-harder-to-test" target="_blank" rel="noopener noreferrer nofollow">https://www.iaps.ai/research/evaluation-awareness-why-frontier-ai-models-are-getting-harder-to-test</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Institute for AI Policy and StrategyEvaluation Awareness: Why Frontier AI Models Are Getting Harder to Test — Institute for AI Policy and...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: zephtech.net  
    Title: Zeph Tech UK AI Safety Institute Publishes First Mandatory… — Zeph Tech  
-   Link: [https://zephtech.net/feed/2026-02-06-uk-aisi-mandatory-pre-deployment-testing-frontier.html](https://zephtech.net/feed/2026-02-06-uk-aisi-mandatory-pre-deployment-testing-frontier.html)  
+   Link: <a href="https://zephtech.net/feed/2026-02-06-uk-aisi-mandatory-pre-deployment-testing-frontier.html" target="_blank" rel="noopener noreferrer nofollow">https://zephtech.net/feed/2026-02-06-uk-aisi-mandatory-pre-deployment-testing-frontier.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Zeph TechUK AI Safety Institute Publishes First Mandatory… — Zeph TechFebruary 6, 2026...</p></details>
    Published: February 6, 2026  
 
 13. <a id="endnote-13"></a>
    Source: frontiermodelforum.org  
-   Link: [https://www.frontiermodelforum.org/updates/issue-brief-preliminary-taxonomy-of-pre-deployment-frontier-ai-safety-evaluations/](https://www.frontiermodelforum.org/updates/issue-brief-preliminary-taxonomy-of-pre-deployment-frontier-ai-safety-evaluations/)  
+   Link: <a href="https://www.frontiermodelforum.org/updates/issue-brief-preliminary-taxonomy-of-pre-deployment-frontier-ai-safety-evaluations/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/updates/issue-brief-preliminary-taxonomy-of-pre-deployment-frontier-ai-safety-evaluations/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Model ForumIssue Brief: Preliminary Taxonomy of Pre-Deployment Frontier AI Safety Evaluations - Frontier Model ForumDecember 20...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: aisecurityandsafety.org  
    Title: frontier ai safety  
-   Link: [https://aisecurityandsafety.org/en/guides/frontier-ai-safety/](https://aisecurityandsafety.org/en/guides/frontier-ai-safety/)  
+   Link: <a href="https://aisecurityandsafety.org/en/guides/frontier-ai-safety/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/en/guides/frontier-ai-safety/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Managing Risks from the Most Capable AI Systems (2026) | AI Safety DirectoryApril 3, 2026 — FRONTIER AI SAFETY: MANAGING RISKS FROM THE M...</p></details>
    Published: April 3, 2026  
 
 15. <a id="endnote-15"></a>
    Source: deepmind.google  
    Title: evaluating frontier models for dangerous capabilities  
-   Link: [https://deepmind.google/research/publications/evaluating-frontier-models-for-dangerous-capabilities/](https://deepmind.google/research/publications/evaluating-frontier-models-for-dangerous-capabilities/)  
+   Link: <a href="https://deepmind.google/research/publications/evaluating-frontier-models-for-dangerous-capabilities/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/research/publications/evaluating-frontier-models-for-dangerous-capabilities/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Google DeepMindMarch 21, 2024 — March 21, 2024 EVALUATING FRONTIER MODELS FOR DANGEROUS CAPABILITIES View publication Download ABSTRACT T...</p></details>
    Published: March 21, 2024  
 
@@ -845,62 +845,62 @@ Frontier AI evaluations serve as **early warning systems** that aim to reveal da
 
 16. <a id="endnote-16"></a>
    Source: aisecurityandsafety.org  
-   Link: [https://aisecurityandsafety.org/en/glossary/ai-safety-evaluation-framework/](https://aisecurityandsafety.org/en/glossary/ai-safety-evaluation-framework/)  
+   Link: <a href="https://aisecurityandsafety.org/en/glossary/ai-safety-evaluation-framework/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/en/glossary/ai-safety-evaluation-framework/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Safety Evaluation Framework — AI Safety &amp; Security Definition | AI Safety DirectoryMarch 27, 2026 — AI SAFETY EVALUATION FRAMEWORK saf...</p></details>
    Published: March 27, 2026  
 
 17. <a id="endnote-17"></a>
    Source: aisecurityandsafety.org  
    Title: Frontier AI — Definition & Implications for AI Safety | AI Safety Directory  
-   Link: [https://aisecurityandsafety.org/en/glossary/frontier-ai/](https://aisecurityandsafety.org/en/glossary/frontier-ai/)  
+   Link: <a href="https://aisecurityandsafety.org/en/glossary/frontier-ai/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/en/glossary/frontier-ai/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March 27, 2026 — FRONTIER AI concepts Last updated: March 27, 2026 DEFINITION The most capable AI models at or near the cutting edge of g...</p></details>
    Published: March 27, 2026  
 
 18. <a id="endnote-18"></a>
    Source: metr.org  
-   Link: [https://metr.org/common-elements](https://metr.org/common-elements)  
+   Link: <a href="https://metr.org/common-elements" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/common-elements</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Common Elements of Frontier AI Safety Policies - METRDecember 16, 2025 — [CAPABILITY THRESHOLDS](&amp;#123;&amp;#123; &#x27;capability-thresholds/&#x27; | relative_url &amp;#125;&amp;#125;) Descriptions of AI capability levels which...</p></details>
    Published: December 16, 2025  
 
 19. <a id="endnote-19"></a>
    Source: liner.com  
    Title: Evaluating Frontier Models for Dangerous Capabilities [Quick Review]  
-   Link: [https://liner.com/review/evaluating-frontier-models-for-dangerous-capabilities](https://liner.com/review/evaluating-frontier-models-for-dangerous-capabilities)  
+   Link: <a href="https://liner.com/review/evaluating-frontier-models-for-dangerous-capabilities" target="_blank" rel="noopener noreferrer nofollow">https://liner.com/review/evaluating-frontier-models-for-dangerous-capabilities</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March 20, 2024 — EVALUATING FRONTIER MODELS FOR DANGEROUS CAPABILITIES Mary Phuong, Matthew Aitchison and 25 others arXiv Mar 20, 2024 Ab...</p></details>
    Published: March 20, 2024  
 
 20. <a id="endnote-20"></a>
    Source: ai-safety-atlas.com  
    Title: Evaluation Frameworks  
-   Link: [https://ai-safety-atlas.com/chapters/v1/evaluations/evaluation-frameworks/](https://ai-safety-atlas.com/chapters/v1/evaluations/evaluation-frameworks/)  
+   Link: <a href="https://ai-safety-atlas.com/chapters/v1/evaluations/evaluation-frameworks/" target="_blank" rel="noopener noreferrer nofollow">https://ai-safety-atlas.com/chapters/v1/evaluations/evaluation-frameworks/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>One concrete example of evaluation gated scaling are Anthropic&#x27;s responsible scaling policies (RSPs) that use the conc...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: David Duvenaud – Capability Evals to Danger Thresholds [Alignment Workshop]  
-   Link: [https://www.youtube.com/watch?v=0kIZ-9g5Ip8](https://www.youtube.com/watch?v=0kIZ-9g5Ip8)  
+   Link: <a href="https://www.youtube.com/watch?v=0kIZ-9g5Ip8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0kIZ-9g5Ip8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Risks That Really Worry DeepMind — And How They Test...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=ZTmRT2Hg1oM](https://www.youtube.com/watch?v=ZTmRT2Hg1oM)  
+   Link: <a href="https://www.youtube.com/watch?v=ZTmRT2Hg1oM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZTmRT2Hg1oM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring Exponential Trends Rising (in AI) — Joel Becker, METR...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: Lecture 13 • Model Evaluations  
-   Link: [https://www.youtube.com/watch?v=G1xET0NGSvo](https://www.youtube.com/watch?v=G1xET0NGSvo)  
+   Link: <a href="https://www.youtube.com/watch?v=G1xET0NGSvo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G1xET0NGSvo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>David Duvenaud – Capability Evals to Danger Thresholds [Alignment Workshop]...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: OpenAI  
    Title: frontier ai regulation  
-   Link: [https://openai.com/research/frontier-ai-regulation](https://openai.com/research/frontier-ai-regulation)  
+   Link: <a href="https://openai.com/research/frontier-ai-regulation" target="_blank" rel="noopener noreferrer nofollow">https://openai.com/research/frontier-ai-regulation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>comFrontier AI regulation: Managing emerging risks to public safety | OpenAIJuly 6, 2023 — OpenAI July 6, 2023 Publication FRONTIER AI RE...</p></details>
    Published: July 6, 2023  
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: Measuring Exponential Trends Rising (in AI) — Joel Becker, METR  
-   Link: [https://www.youtube.com/watch?v=9QSm_mRGpN8](https://www.youtube.com/watch?v=9QSm_mRGpN8)  
+   Link: <a href="https://www.youtube.com/watch?v=9QSm_mRGpN8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9QSm_mRGpN8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lecture 13 • Model Evaluations...</p></details>

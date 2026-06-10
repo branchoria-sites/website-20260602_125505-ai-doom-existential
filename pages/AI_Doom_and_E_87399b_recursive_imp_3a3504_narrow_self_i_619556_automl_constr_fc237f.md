@@ -7,32 +7,32 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_alphazero_sel_8e9d74
 - AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_self_improvem_e1ba6a
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - ai-takeoff
 - weak-evidence
-- automl-boundaries
+- auto-ml-boundaries
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - ai-takeoff
 - weak-evidence
-- automl-boundaries
-affiliate_category: ai-doom-and
+- auto-ml-boundaries
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: AutoML automates model selection and tuning but still depends on humans for defining objectives, architectures, and evaluation metrics.
 hero_summary: AutoML automates model selection and tuning but still depends on humans for defining objectives, architectures, and evaluation metrics.
 layout: default
-permalink: /automl-boundaries/
+permalink: /auto-ml-boundaries/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /ai-takeoff/
 - /weak-evidence/
-nav_short_title: AutoML Boundaries
-title: Why AutoML Cannot Independently Drive Machine Learning Research
-title_full: Why AutoML Cannot Independently Drive Machine Learning Research | Weak evidence
-display_title_short: AutoML Boundaries
-display_title: AutoML Boundaries
-heading_title: Why AutoML Cannot Independently Drive Machine Learning Research
-page_heading_title: Why AutoML Cannot Independently Drive Machine Learning Research
+nav_short_title: Auto ML Boundaries
+title: Why Auto ML Cannot Independently Drive Machine Learning Research
+title_full: Why Auto ML Cannot Independently Drive Machine Learning Research | Weak evidence
+display_title_short: Auto ML Boundaries
+display_title: Auto ML Boundaries
+heading_title: Why Auto ML Cannot Independently Drive Machine Learning Research
+page_heading_title: Why Auto ML Cannot Independently Drive Machine Learning Research
 source_count: 30
 infographic_count: 3
 planned_sections:
@@ -211,10 +211,10 @@ parent_heading_title: Do today's self improving systems prove anything?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_recursive_imp_3a3504
-  title: AI Takeoff | AI Doom and
+  title: AI Takeoff | AI Doom and E 87399 b
   permalink: /ai-takeoff/
   short_title: AI Takeoff
   heading_title: Could AI Improvement Run Away From US?
@@ -226,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_recursive_imp_3a3504
-  title: AI Takeoff | AI Doom and
+  title: AI Takeoff | AI Doom and E 87399 b
   permalink: /ai-takeoff/
   short_title: AI Takeoff
   heading_title: Could AI Improvement Run Away From US?
@@ -240,15 +240,15 @@ breadcrumb_links:
   heading_title: Do today's self improving systems prove anything?
 sibling_links:
 - basename: AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_alphazero_sel_8e9d74
-  title: AlphaZero Limits | Weak evidence
-  permalink: /alphazero-limits/
-  short_title: AlphaZero Limits
-  heading_title: How AlphaZero's Self Play Is Restricted by Game Rules
+  title: Alpha Zero Limits | Weak evidence
+  permalink: /alpha-zero-limits/
+  short_title: Alpha Zero Limits
+  heading_title: How Alpha Zero's Self Play Is Restricted by Game Rules
 - basename: AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_self_improvem_e1ba6a
   title: Recursion Evidence | Weak evidence
   permalink: /recursion-evidence/
   short_title: Recursion Evidence
-  heading_title: What AlphaZero and AutoML Reveal About Limits of AI Self Improvement
+  heading_title: What Alpha Zero and Auto ML Reveal About Limits of AI Self Improvement
 up_link:
   basename: AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556
   title: Weak evidence | AI Takeoff
@@ -257,16 +257,16 @@ up_link:
   heading_title: Do today's self improving systems prove anything?
 prev_link:
   basename: AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_alphazero_sel_8e9d74
-  title: AlphaZero Limits | Weak evidence
-  permalink: /alphazero-limits/
-  short_title: AlphaZero Limits
-  heading_title: How AlphaZero's Self Play Is Restricted by Game Rules
+  title: Alpha Zero Limits | Weak evidence
+  permalink: /alpha-zero-limits/
+  short_title: Alpha Zero Limits
+  heading_title: How Alpha Zero's Self Play Is Restricted by Game Rules
 next_link:
   basename: AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_self_improvem_e1ba6a
   title: Recursion Evidence | Weak evidence
   permalink: /recursion-evidence/
   short_title: Recursion Evidence
-  heading_title: What AlphaZero and AutoML Reveal About Limits of AI Self Improvement
+  heading_title: What Alpha Zero and Auto ML Reveal About Limits of AI Self Improvement
 header:
   og_image: /assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_automl_constr_fc237f-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_automl_constr_fc237f-Illustration-1.webp
@@ -275,36 +275,36 @@ image: /assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_61
 
 ## Introduction
 
-AutoML — automated machine learning — is often discussed in both [AI research]({{ 'ai-research-loop/' | relative_url }}) and practical data‑science communities as a way to reduce human effort in building models. In the context of arguments about [recursive]({{ 'ai-takeoff/' | relative_url }}) self‑improvement and risk from advanced AI, some people point to AutoML and similar tools as signs that machines can meaningfully automate their own development. That impression overstates what current AutoML actually does. In reality, AutoML systems automate specific optimisation tasks such as hyperparameter tuning or model selection within a well‑defined space, but they require human‑defined objectives, constraints and oversight at every stage and cannot autonomously set research goals or expand their own design space. This article explains those limits and why they matter for assessing claims about machine‑driven improvement loops.
+AutoML — automated machine learning — is often discussed in both AI research and practical data‑science communities as a way to reduce human effort in building models. In the context of arguments about recursive self‑improvement and risk from advanced AI, some people point to AutoML and similar tools as signs that machines can meaningfully automate their own development. That impression overstates what current AutoML actually does. In reality, AutoML systems automate specific optimisation tasks such as hyperparameter tuning or model selection within a well‑defined space, but they require human‑defined objectives, constraints and oversight at every stage and cannot autonomously set research goals or expand their own design space. This article explains those limits and why they matter for assessing claims about machine‑driven improvement loops.
 
 
-<img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_automl_constr_fc237f-Illustration-1-dark.svg" | relative_url }}" alt="AutoML Boundaries illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_automl_constr_fc237f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_automl_constr_fc237f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_automl_constr_fc237f-Illustration-1-dark.svg" | relative_url }}" alt="Auto ML Boundaries illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_automl_constr_fc237f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_automl_constr_fc237f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Automated model design and hyperparameter tuning
 
 At its core, AutoML encompasses methods that automate parts of the machine‑learning workflow that were traditionally done by human engineers. Examples include searching over hyperparameter settings, comparing candidate model architectures, feature engineering, and evaluating performance. Neural architecture search (NAS), for instance, uses algorithmic search techniques to find effective neural network structures for a given task. These methods can yield models that perform as well or better than hand‑designed ones on that task and in that constrained space. They are a genuine efficiency gain for practitioners and can lower barriers to building effective models.
 
-However, the [automation]({{ 'automation-bias/' | relative_url }}) applies to optimisation within a predefined problem specification. The training objective, the data, the metric used to compare models, and the search space itself are all supplied by humans. AutoML systems search for good solutions within that space but do not invent new tasks, redefine what counts as success, or autonomously alter their own objectives. In other words, the “automation” pertains to exploration and evaluation in a bounded configuration space rather than open‑ended research or self‑generated goals.
+However, the automation applies to optimisation within a predefined problem specification. The training objective, the data, the metric used to compare models, and the search space itself are all supplied by humans. AutoML systems search for good solutions within that space but do not invent new tasks, redefine what counts as success, or autonomously alter their own objectives. In other words, the “automation” pertains to exploration and evaluation in a bounded configuration space rather than open‑ended research or self‑generated goals.
 
-Recent literature on AutoML explicitly recognises these boundaries. Although advanced systems increasingly integrate meta‑learning and constraint handling, state‑of‑the‑art AutoML cannot adapt its own meta‑configuration — its own search heuristics or design space — without human guidance, nor can it reconcile competing high‑level goals unless those are encoded by the user in advance. For example, in constrained scenarios, AutoML cannot automatically incorporate novel application constraints beyond those it was programmed to consider without external input. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s00778-023-00820-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">SpringerAutoML in heavily constrained applications | The VLDB Journal | Springer Nature LinkNovember 17, 2023...</span><span class="citation-popover-meta">Published: November 17, 2023</span></span></span>
+Recent literature on AutoML explicitly recognises these boundaries. Although advanced systems increasingly integrate meta‑learning and constraint handling, state‑of‑the‑art AutoML cannot adapt its own meta‑configuration — its own search heuristics or design space — without human guidance, nor can it reconcile competing high‑level goals unless those are encoded by the user in advance. For example, in constrained scenarios, AutoML cannot automatically incorporate novel application constraints beyond those it was programmed to consider without external input. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s00778-023-00820-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">AutoML in heavily constrained applications &#124; The VLDB Journal &#124; Springer Nature LinkNovember 17, 2023...</span><span class="citation-popover-meta">Published: November 17, 2023</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4Cb_l2LJAW8" title="Claude Code + Karpathy Autoresearch = The New Meta" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4Cb_l2LJAW8" target="_blank" rel="noopener noreferrer">Claude Code + Karpathy Autoresearch = The New Meta</a></p><p class="youtube-embed-meta">Channel: Nick Saraev &middot; Views: 162.6K &middot; Uploaded: March 2026 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4Cb_l2LJAW8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4Cb_l2LJAW8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cZeiNlIMoJ4" title="tinyML Summit 2022: Automated Machine Learning under model’s deployability on tiny devices" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cZeiNlIMoJ4" target="_blank" rel="noopener noreferrer">tinyML Summit 2022: Automated Machine Learning under model’s deployability on tiny devices</a></p><p class="youtube-embed-meta">Channel: EDGE AI FOUNDATION &middot; Views: 246 &middot; Uploaded: April 2022 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cZeiNlIMoJ4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cZeiNlIMoJ4">Open on YouTube</a></p></div></div></div>
 
 ## Role of human oversight and objective specification
 
-A recurring theme in research and practice is that AutoML tools augment rather than replace skilled human involvement. Reviews of industry AutoML tools find that they require domain knowledge to be effectively configured and interpreted, and that “human agency” remains central to successful application. Users often need to adjust settings, assess the meaningfulness of results, interpret outcomes in context, and decide how to handle trade‑offs such as performance versus explainability or fairness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0950584924002131" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectA multivocal literature review on the benefits and limitations of industry-leading AutoML tools - ScienceDirectFebruary 1, 2025...</span><span class="citation-popover-meta">Published: February 1, 2025</span></span></span>
+A recurring theme in research and practice is that AutoML tools augment rather than replace skilled human involvement. Reviews of industry AutoML tools find that they require domain knowledge to be effectively configured and interpreted, and that “human agency” remains central to successful application. Users often need to adjust settings, assess the meaningfulness of results, interpret outcomes in context, and decide how to handle trade‑offs such as performance versus explainability or fairness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0950584924002131" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A multivocal literature review on the benefits and limitations of industry-leading AutoML tools - ScienceDirectFebruary 1, 2025...</span><span class="citation-popover-meta">Published: February 1, 2025</span></span></span>
 
-Indeed, several authors argue for a “human‑centred” rather than purely “machine‑centred” AutoML paradigm, precisely because current systems lack the flexibility, context [awareness]({{ 'awareness/' | relative_url }}) and iterative interaction that expert human practitioners bring. Under this paradigm, humans remain responsible for specifying objectives, injecting domain knowledge, and steering optimisation according to broader organisational or ethical constraints, while the automated components handle well‑defined optimisation searches. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.automl.org/rethinking-automl-advancing-from-a-machine-centered-to-human-centered-paradigm/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: automl.org">[AutoML]</a><span class="citation-popover" role="note"><span class="citation-popover-source">automl.org</span><span class="citation-popover-snippet">AutoMLAutoML | Rethinking AutoML: Advancing from a Machine-Centered to Human-Centered ParadigmNovember 30, 2022...</span><span class="citation-popover-meta">Published: November 30, 2022</span></span></span>
+Indeed, several authors argue for a “human‑centred” rather than purely “machine‑centred” AutoML paradigm, precisely because current systems lack the flexibility, context [awareness]({{ 'awareness/' | relative_url }}) and iterative interaction that expert human practitioners bring. Under this paradigm, humans remain responsible for specifying objectives, injecting domain knowledge, and steering optimisation according to broader organisational or ethical constraints, while the automated components handle well‑defined optimisation searches. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.automl.org/rethinking-automl-advancing-from-a-machine-centered-to-human-centered-paradigm/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: automl.org">[AutoML]</a><span class="citation-popover" role="note"><span class="citation-popover-source">automl.org</span><span class="citation-popover-snippet">AutoML &#124; Rethinking AutoML: Advancing from a Machine-Centered to Human-Centered ParadigmNovember 30, 2022...</span><span class="citation-popover-meta">Published: November 30, 2022</span></span></span>
 
 This human‑in‑the‑loop requirement reflects a broader reality: automated procedures like hyperparameter tuning or NAS are essentially optimisation engines that explore a search space defined by engineers. They do not generate new research directions, conceptualise new types of problems to solve, or update their own objective functions based on autonomous reflection. Without explicit, human‑provided goals and evaluation metrics, AutoML has no innate basis for deciding what constitutes “improvement” or “desirable” change.
 
 
-<img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_automl_constr_fc237f-Illustration-2-dark.svg" | relative_url }}" alt="AutoML Boundaries illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_automl_constr_fc237f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_automl_constr_fc237f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_automl_constr_fc237f-Illustration-2-dark.svg" | relative_url }}" alt="Auto ML Boundaries illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_automl_constr_fc237f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_automl_constr_fc237f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Limits for recursive AI self‑improvement claims
 
 Arguments about existential risk from recursive self‑improvement often hinge on the idea of systems that can autonomously bootstrap increasingly powerful versions of themselves. To substantiate that claim, one would need evidence that an AI can: (1) define new, higher‑level goals beyond immediate optimisation criteria, (2) restructure its own learning algorithms or objectives, and (3) identify and implement changes that meaningfully expand its capabilities across domains.
 
-Real‑world AutoML systems fall markedly short of these criteria. Their automation is confined to optimising within fixed problem formulations, and they rely on human engineers to set those formulations and interpret the results. An AutoML pipeline cannot decide to itself explore new areas of research — only an engineer with domain [expertise]({{ 'expertise-erosion/' | relative_url }}) can do that. Researchers have noted that while automation assists practitioners and can speed up routine optimisation, it does not replace the need for iterative human decisions and contextual understanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.snowflake.com/en/fundamentals/automl/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snowflake.com">[Snowflake]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snowflake.com</span><span class="citation-popover-title">What Is Auto ML? A Guide to Automated Machine Learning</span><span class="citation-popover-snippet">SnowflakeWhat Is AutoML? A Guide to Automated Machine Learning...</span></span></span>
+Real‑world AutoML systems fall markedly short of these criteria. Their automation is confined to optimising within fixed problem formulations, and they rely on human engineers to set those formulations and interpret the results. An AutoML pipeline cannot decide to itself explore new areas of research — only an engineer with domain expertise can do that. Researchers have noted that while automation assists practitioners and can speed up routine optimisation, it does not replace the need for iterative human decisions and contextual understanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.snowflake.com/en/fundamentals/automl/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snowflake.com">[Snowflake]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snowflake.com</span><span class="citation-popover-title">What Is Auto ML? A Guide to Automated Machine Learning</span><span class="citation-popover-snippet">What Is AutoML? A Guide to Automated Machine Learning...</span></span></span>
 
 In practical settings, moreover, users routinely exercise agency to cope with AutoML’s limitations. Studies of real‑world practitioners show that customisation, transparency and privacy concerns lead people to intervene, sometimes ceasing to use automated tools when their constraints or preferences are not adequately captured. <span class="citation-chip-wrap"><a class="citation-chip" href="https://researchconnect.suny.edu/en/publications/automl-in-the-wild-obstacles-workarounds-and-expectations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchconnect.suny.edu">[SUNY Research Connect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchconnect.suny.edu</span><span class="citation-popover-title">Research Connect Auto ML in The Wild: Obstacles, Workarounds, and Expectations</span><span class="citation-popover-snippet">SUNY Research ConnectAutoML in The Wild: Obstacles, Workarounds, and Expectations - SUNY Research Connect...</span></span></span>
 
@@ -323,7 +323,7 @@ For readers thinking about AI doom arguments, it’s important to separate two i
 Understanding these limits helps ground discussions about advanced AI and existential risk in the actual capabilities of current systems. AutoML’s progress is real and practically useful, but its dependence on human input for defining goals, constraints and evaluation criteria places a hard boundary around how “self‑improving” it truly is in the sense relevant to long‑term risk debates. That boundary matters not just for technical accuracy but for policy and [governance]({{ 'governance/' | relative_url }}) conversations about where real risks and uncertainties lie.
 
 
-<img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_automl_constr_fc237f-Illustration-3-dark.svg" | relative_url }}" alt="AutoML Boundaries illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_automl_constr_fc237f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_automl_constr_fc237f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_automl_constr_fc237f-Illustration-3-dark.svg" | relative_url }}" alt="Auto ML Boundaries illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_automl_constr_fc237f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_automl_constr_fc237f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -730,143 +730,143 @@ Understanding these limits helps ground discussions about advanced AI and existe
 
 1. <a id="endnote-1"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s00778-023-00820-1](https://link.springer.com/article/10.1007/s00778-023-00820-1)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpringerAutoML in heavily constrained applications | The VLDB Journal | Springer Nature LinkNovember 17, 2023...</p></details>
+   Link: <a href="https://link.springer.com/article/10.1007/s00778-023-00820-1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s00778-023-00820-1</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AutoML in heavily constrained applications | The VLDB Journal | Springer Nature LinkNovember 17, 2023...</p></details>
    Published: November 17, 2023  
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0950584924002131](https://www.sciencedirect.com/science/article/pii/S0950584924002131)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectA multivocal literature review on the benefits and limitations of industry-leading AutoML tools - ScienceDirectFebruary 1, 2025...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0950584924002131" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0950584924002131</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A multivocal literature review on the benefits and limitations of industry-leading AutoML tools - ScienceDirectFebruary 1, 2025...</p></details>
    Published: February 1, 2025  
 
 3. <a id="endnote-3"></a>
    Source: researchconnect.suny.edu  
    Title: Research Connect Auto ML in The Wild: Obstacles, Workarounds, and Expectations  
-   Link: [https://researchconnect.suny.edu/en/publications/automl-in-the-wild-obstacles-workarounds-and-expectations/](https://researchconnect.suny.edu/en/publications/automl-in-the-wild-obstacles-workarounds-and-expectations/)  
+   Link: <a href="https://researchconnect.suny.edu/en/publications/automl-in-the-wild-obstacles-workarounds-and-expectations/" target="_blank" rel="noopener noreferrer nofollow">https://researchconnect.suny.edu/en/publications/automl-in-the-wild-obstacles-workarounds-and-expectations/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>SUNY Research ConnectAutoML in The Wild: Obstacles, Workarounds, and Expectations - SUNY Research Connect...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: automl.org  
-   Link: [https://www.automl.org/rethinking-automl-advancing-from-a-machine-centered-to-human-centered-paradigm/](https://www.automl.org/rethinking-automl-advancing-from-a-machine-centered-to-human-centered-paradigm/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AutoMLAutoML | Rethinking AutoML: Advancing from a Machine-Centered to Human-Centered ParadigmNovember 30, 2022...</p></details>
+   Link: <a href="https://www.automl.org/rethinking-automl-advancing-from-a-machine-centered-to-human-centered-paradigm/" target="_blank" rel="noopener noreferrer nofollow">https://www.automl.org/rethinking-automl-advancing-from-a-machine-centered-to-human-centered-paradigm/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AutoML | Rethinking AutoML: Advancing from a Machine-Centered to Human-Centered ParadigmNovember 30, 2022...</p></details>
    Published: November 30, 2022  
 
 5. <a id="endnote-5"></a>
    Source: automl.org  
-   Link: [https://www.automl.org/position-a-call-to-action-for-a-human-centered-automl-paradigm/](https://www.automl.org/position-a-call-to-action-for-a-human-centered-automl-paradigm/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AutoML | Position: A Call to Action for a Human-Centered AutoML ParadigmJuly 18, 2024 — POSITION: A CALL TO ACTION FOR A HUMAN-CENTERED A...</p></details>
+   Link: <a href="https://www.automl.org/position-a-call-to-action-for-a-human-centered-automl-paradigm/" target="_blank" rel="noopener noreferrer nofollow">https://www.automl.org/position-a-call-to-action-for-a-human-centered-automl-paradigm/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Position: A Call to Action for a Human-Centered AutoML ParadigmJuly 18, 2024 — POSITION: A CALL TO ACTION FOR A HUMAN-CENTERED A...</p></details>
    Published: July 18, 2024  
 
 6. <a id="endnote-6"></a>
    Source: snowflake.com  
    Title: What Is Auto ML? A Guide to Automated Machine Learning  
-   Link: [https://www.snowflake.com/en/fundamentals/automl/](https://www.snowflake.com/en/fundamentals/automl/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SnowflakeWhat Is AutoML? A Guide to Automated Machine Learning...</p></details>
+   Link: <a href="https://www.snowflake.com/en/fundamentals/automl/" target="_blank" rel="noopener noreferrer nofollow">https://www.snowflake.com/en/fundamentals/automl/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is AutoML? A Guide to Automated Machine Learning...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s43681-026-01147-7](https://link.springer.com/article/10.1007/s43681-026-01147-7)  
+   Link: <a href="https://link.springer.com/article/10.1007/s43681-026-01147-7" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s43681-026-01147-7</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>meaningful [human oversight](&amp;#123;&amp;#123; &#x27;human-oversight/&#x27; | relative_url &amp;#125;&amp;#125;) in AI | AI and Ethics | Springer Nature LinkMay 4, 2026 — 2 RELATED WORK A wide range of AI ethics guidelines...</p></details>
    Published: May 4, 2026  
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
    Title: Is human oversight to AI systems still possible?  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1871678424005636](https://www.sciencedirect.com/science/article/pii/S1871678424005636)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectMarch 25, 2025 — CHALLENGES OF HUMAN OVERSIGHT IN AI SYSTEMS Human oversight in AI systems faces several significant challen...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1871678424005636" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1871678424005636</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 25, 2025 — CHALLENGES OF HUMAN OVERSIGHT IN AI SYSTEMS Human oversight in AI systems faces several significant challen...</p></details>
    Published: March 25, 2025  
 
 9. <a id="endnote-9"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s10462-024-10726-1](https://link.springer.com/article/10.1007/s10462-024-10726-1)  
+   Link: <a href="https://link.springer.com/article/10.1007/s10462-024-10726-1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10462-024-10726-1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>machine learning: past, present and future | Artificial Intelligence Review | Springer Nature LinkApril 18, 2024 — AUTOMATED MACHINE LEAR...</p></details>
    Published: April 18, 2024  
 
 10. <a id="endnote-10"></a>
    Source: automl.org  
    Title: It seems only natural to ask whether it would be possible  
-   Link: [https://www.automl.org/can-fairness-be-automated/](https://www.automl.org/can-fairness-be-automated/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AutoML | Can Fairness be Automated?April 3, 2023 — The field of AutoML increasingly focuses on incorporating objectives other than predic...</p></details>
+   Link: <a href="https://www.automl.org/can-fairness-be-automated/" target="_blank" rel="noopener noreferrer nofollow">https://www.automl.org/can-fairness-be-automated/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Can Fairness be Automated?April 3, 2023 — The field of AutoML increasingly focuses on incorporating objectives other than predic...</p></details>
    Published: April 3, 2023  
 
 11. <a id="endnote-11"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s00146-023-01635-y](https://link.springer.com/article/10.1007/s00146-023-01635-y)  
+   Link: <a href="https://link.springer.com/article/10.1007/s00146-023-01635-y" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s00146-023-01635-y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in artificial intelligence: what it is and how it works | AI &amp; SOCIETY | Springer Nature LinkFebruary 7, 2023 — ACCOUNTABILITY IN ARTIFIC...</p></details>
    Published: February 7, 2023  
 
 12. <a id="endnote-12"></a>
    Source: sciencedirect.com  
    Title: Auto M L: A survey of the state-of-the-art  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0950705120307516](https://www.sciencedirect.com/science/article/pii/S0950705120307516)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0950705120307516" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0950705120307516</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AutoML: A survey of the state-of-the-art - ScienceDirectJanuary 5, 2021 — KNOWLEDGE-BASED SYSTEMS Volume 212, 5 January 2021, 106622 AUTO...</p></details>
    Published: January 5, 2021  
 
 13. <a id="endnote-13"></a>
    Source: pure.psu.edu  
    Title: automl in the wild obstacles workarounds and expectations  
-   Link: [https://pure.psu.edu/en/publications/automl-in-the-wild-obstacles-workarounds-and-expectations](https://pure.psu.edu/en/publications/automl-in-the-wild-obstacles-workarounds-and-expectations)  
+   Link: <a href="https://pure.psu.edu/en/publications/automl-in-the-wild-obstacles-workarounds-and-expectations" target="_blank" rel="noopener noreferrer nofollow">https://pure.psu.edu/en/publications/automl-in-the-wild-obstacles-workarounds-and-expectations</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in The Wild: Obstacles, Workarounds, and Expectations - Penn StateApril 19, 2023 — AUTOML IN THE WILD: OBSTACLES, WORKAROUNDS, AND EXPECT...</p></details>
    Published: April 19, 2023  
 
 15. <a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: However, some AI systems have yielded unexpected or undesirable outcomes or h  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11638207/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11638207/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11638207/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11638207/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and evaluating trustworthy AI: overview and research challenges - PMCNovember 29, 2024 — ABSTRACT Artificial intelligence (AI) technologi...</p></details>
    Published: November 29, 2024  
 
 16. <a id="endnote-16"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/articles/10.3389/fcomp.2026.1737008](https://www.frontiersin.org/articles/10.3389/fcomp.2026.1737008)  
+   Link: <a href="https://www.frontiersin.org/articles/10.3389/fcomp.2026.1737008" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/articles/10.3389/fcomp.2026.1737008</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 1, 2026 — 6 XAI PRACTICES FOR REGULATORY REQUIREMENTS (RQ4) This section examines the degree of prospective alignment between the rev...</p></details>
    Published: May 1, 2026  
 
 17. <a id="endnote-17"></a>
    Source: researchgate.net  
-   Title: (PDF) Limits of Safe AI [Deployment](&#123;&#123; 'release-gates/' | relative_url &#125;&#125;): Differentiating Oversight and Control  
-   Link: [https://www.researchgate.net/publication/393478318_Limits_of_Safe_AI_Deployment_Differentiating_Oversight_and_Control](https://www.researchgate.net/publication/393478318_Limits_of_Safe_AI_Deployment_Differentiating_Oversight_and_Control)  
+   Title: (PDF) Limits of Safe AI Deployment: Differentiating Oversight and Control  
+   Link: <a href="https://www.researchgate.net/publication/393478318_Limits_of_Safe_AI_Deployment_Differentiating_Oversight_and_Control" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/393478318_Limits_of_Safe_AI_Deployment_Differentiating_Oversight_and_Control</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>July 4, 2025 — LIMITS OF SAFE AI DEPLOYMENT: DIFFERENTIATING OVERSIGHT AND CONTROL * July 2025 DOI:10.48550/arXiv.2507.03525 * License *...</p></details>
    Published: July 4, 2025  
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=cZeiNlIMoJ4](https://www.youtube.com/watch?v=cZeiNlIMoJ4)  
+   Link: <a href="https://www.youtube.com/watch?v=cZeiNlIMoJ4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cZeiNlIMoJ4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[AI Experts Series by IP Paris ] Prof. Eric Xing, President of MBZUAI - YouTube [AI Experts Series by IP Paris ] Prof. Eric Xing, Preside...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: researchgate.net  
    Title: (PDF) Auto ML in Heavily Constrained Applications  
-   Link: [https://www.researchgate.net/publication/371954266_AutoML_in_Heavily_Constrained_Applications](https://www.researchgate.net/publication/371954266_AutoML_in_Heavily_Constrained_Applications)  
+   Link: <a href="https://www.researchgate.net/publication/371954266_AutoML_in_Heavily_Constrained_Applications" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371954266_AutoML_in_Heavily_Constrained_Applications</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) AutoML in Heavily Constrained ApplicationsJune 30, 2023 — AUTOML IN HEAVILY CONSTRAINED APPLICATIONS * June 2023 DOI:10.48550/arXiv...</p></details>
    Published: June 30, 2023  
 
 20. <a id="endnote-20"></a>
    Source: researchgate.net  
    Title: (PDF) Can Fairness be Automated?  
-   Link: [https://www.researchgate.net/publication/378367242_Can_Fairness_be_Automated_Guidelines_and_Opportunities_for_Fairness-aware_AutoML](https://www.researchgate.net/publication/378367242_Can_Fairness_be_Automated_Guidelines_and_Opportunities_for_Fairness-aware_AutoML)  
+   Link: <a href="https://www.researchgate.net/publication/378367242_Can_Fairness_be_Automated_Guidelines_and_Opportunities_for_Fairness-aware_AutoML" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/378367242_Can_Fairness_be_Automated_Guidelines_and_Opportunities_for_Fairness-aware_AutoML</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Guidelines and Opportunities for Fairness-aware AutoMLArticle PDF Available CAN FAIRNESS BE AUTOMATED? GUIDELINES AND OPPORTUNITIES FOR F...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: AI Just Replicated Itself  
-   Link: [https://www.youtube.com/watch?v=Ia_UKehYysA](https://www.youtube.com/watch?v=Ia_UKehYysA)  
+   Link: <a href="https://www.youtube.com/watch?v=Ia_UKehYysA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ia_UKehYysA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>tinyML Summit 2022: Automated Machine Learning under model&#x27;s deployability on tiny devices...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=PPOTCulM5EU](https://www.youtube.com/watch?v=PPOTCulM5EU)  
+   Link: <a href="https://www.youtube.com/watch?v=PPOTCulM5EU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PPOTCulM5EU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Just Replicated Itself - Here&#x27;s What That Means | Warning Shots #41...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: [AI Experts Series by IP Paris ] Prof. Eric Xing, President of MBZUAI  
-   Link: [https://www.youtube.com/watch?v=i47H72s8LQM](https://www.youtube.com/watch?v=i47H72s8LQM)  
+   Link: <a href="https://www.youtube.com/watch?v=i47H72s8LQM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i47H72s8LQM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MLconf SF 2022: A Generative AutoML for Tabular Data by Dr. Mehdi Bahrami @Fujitsu...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: NOT-Recursive NOT-Self Improvement: autoresearch isn't Super AI's next step  
-   Link: [https://www.youtube.com/watch?v=AkadGXzDqBw](https://www.youtube.com/watch?v=AkadGXzDqBw)  
+   Link: <a href="https://www.youtube.com/watch?v=AkadGXzDqBw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AkadGXzDqBw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[AI Experts Series by IP Paris ] Prof. Eric Xing, President of MBZUAI...</p></details>

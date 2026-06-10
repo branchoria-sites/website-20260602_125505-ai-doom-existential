@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-dangerous-aut/
 description: Focused pages that expand on Autonomy Vulnerabilities.
-date: '2026-06-02'
+date: '2026-06-10'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_dangerous_aut_8f4266_autonomy_secu_d6c65d
 parent_title: Autonomy Vulnerabilities | Autonomy

@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_cyber_tripwir_00207f
 - AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_operational_c_79f69a
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - evals
 - cyber-tripwires
 - scaffolding-effects
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - evals
 - cyber-tripwires
 - scaffolding-effects
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: This page explores how adding tools, memory, and planning loops can drastically boost AI attack performance in tests.
 hero_summary: This page explores how adding tools, memory, and planning loops can drastically boost AI attack performance in tests.
 layout: default
 permalink: /scaffolding-effects/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /evals/
 - /cyber-tripwires/
 nav_short_title: Scaffolding Effects
@@ -211,10 +211,10 @@ parent_heading_title: When should cyber evals stop a release?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_frontier_ai_e_9920ab
-  title: Evals | AI Doom and
+  title: Evals | AI Doom and E 87399 b
   permalink: /evals/
   short_title: Evals
   heading_title: Can Tests Catch Dangerous AI in Time?
@@ -226,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_frontier_ai_e_9920ab
-  title: Evals | AI Doom and
+  title: Evals | AI Doom and E 87399 b
   permalink: /evals/
   short_title: Evals
   heading_title: Can Tests Catch Dangerous AI in Time?
@@ -283,10 +283,15 @@ When frontier AI models are tested for cyber‑security capabilities within the 
 
 In the context of AI cyber capability testing, **scaffolding refers to any supporting structures or mechanisms beyond the base model that help it perform tasks**. These typically include:
 
+
+<div class="content-enhancement content-enhancement--metric" markdown="1">
+
 * **Tool integration:** letting the model invoke specialised software like vulnerability scanners or network tools.
 * **Memory systems:** persistent state or vectors that help the agent retain context across long sequences.
 * **Planning and workflow loops:** structured loops (e.g. think‑plan‑act cycles) that break tasks into substeps and monitor progress.
-* **Extended inference budgets:** allowing many more tokens or turns than typical [benchmark]({{ 'benchmark-limits/' | relative_url }}) settings.
+* **Extended inference budgets:** allowing many more tokens or turns than typical benchmark settings.
+
+</div>
 
 This contrasts with evaluating a model as a stateless language assistant answering isolated queries. Robust scaffolding effectively turns a model into an *agentic system* that can manage multi‑phase tasks and maintain procedural state, a shift with major consequences for evaluation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -299,7 +304,7 @@ This contrasts with evaluating a model as a stateless language assistant answeri
 
 Recent internal evaluations by the UK AI Security Institute (AISI) show that **enhancing the supporting scaffold around an AI model boosts measured cyber task performance**. By refining system prompts and expanding interactive tool access, a leading model’s success rate on a development set of cyber challenges rose by nearly ten percentage points compared with a less‑scaffolded baseline. Moreover, a better scaffold often needed **significantly less inference budget** to reach the same performance level, suggesting scaffold design interacts with compute efficiency. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-A key mechanism here is **context retention across steps**. Standard large language models are limited by their short context windows: as tasks grow longer and more chained, they tend to lose track of earlier decisions and outputs. Systems that embed a **[recursive]({{ 'ai-takeoff/' | relative_url }}) memory or structured context store** help the model track procedural states over many actions, materially enhancing multi‑step task execution. Scaffolded systems like this often integrate retrieval and context compaction mechanisms that ensure past outputs remain relevant to future steps — something raw chat‑style prompts struggle to accomplish. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s11227-026-08439-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkAutosecagent: a semi-automated AI-driven penetration testing framework through recursive memory and real-time RAG | The Jour...</span></span></span>
+A key mechanism here is **context retention across steps**. Standard large language models are limited by their short context windows: as tasks grow longer and more chained, they tend to lose track of earlier decisions and outputs. Systems that embed a **recursive memory or structured context store** help the model track procedural states over many actions, materially enhancing multi‑step task execution. Scaffolded systems like this often integrate retrieval and context compaction mechanisms that ensure past outputs remain relevant to future steps — something raw chat‑style prompts struggle to accomplish. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s11227-026-08439-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkAutosecagent: a semi-automated AI-driven penetration testing framework through recursive memory and real-time RAG &#124; The Jour...</span></span></span>
 
 ### Extended Compute or Token Budgets Reveal More Capability
 
@@ -311,15 +316,15 @@ This scaling effect matters because it implies that **evaluation outcomes are no
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_ai_scaffoldin_dac3b3-Illustration-2-dark.svg" | relative_url }}" alt="Scaffolding Effects illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_ai_scaffoldin_dac3b3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_ai_scaffoldin_dac3b3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Scaffolding Introduces Hidden Variables into Benchmarking
 
-Researchers outside policy organisations also note that **how a model is scaffolded can outweigh the choice of base model weights**. Informal assessments shared in technical forums suggest that swapping the surrounding architecture — from rudimentary prompt loops to fully integrated tool pipelines with memory — can change task‑completion metrics by noticeable margins, sometimes above 10–15 percent, even with identical core model weights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/AI_Agents/comments/1s3qure/title_we_mapped_six_levels_of_how_intelligence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditTitle: We mapped six levels of how intelligence organizes itself around AI models — not inside themMarch 25, 2026...</span><span class="citation-popover-meta">Published: March 25, 2026</span></span></span>
+Researchers outside policy organisations also note that **how a model is scaffolded can outweigh the choice of base model weights**. Informal assessments shared in technical forums suggest that swapping the surrounding architecture — from rudimentary prompt loops to fully integrated tool pipelines with memory — can change task‑completion metrics by noticeable margins, sometimes above 10–15 percent, even with identical core model weights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/AI_Agents/comments/1s3qure/title_we_mapped_six_levels_of_how_intelligence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Title: We mapped six levels of how intelligence organizes itself around AI models — not inside themMarch 25, 2026...</span><span class="citation-popover-meta">Published: March 25, 2026</span></span></span>
 
-This observation dovetails with academic work on meta‑benchmarks, which finds that **scaffolding interacts with task difficulty** and can produce large differences in success rates across evaluation categories. Properly matched scaffolds can mean the difference between a model’s capability appearing limited or showing substantial offensive or defensive competence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2510.24317" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivCybersecurity AI Benchmark (CAIBench): A Meta-Benchmark for Evaluating Cybersecurity AI AgentsOctober 28, 2025...</span><span class="citation-popover-meta">Published: October 28, 2025</span></span></span>
+This observation dovetails with academic work on meta‑benchmarks, which finds that **scaffolding interacts with task difficulty** and can produce large differences in success rates across evaluation categories. Properly matched scaffolds can mean the difference between a model’s capability appearing limited or showing substantial offensive or defensive competence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2510.24317" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Cybersecurity AI Benchmark (CAIBench): A Meta-Benchmark for Evaluating Cybersecurity AI AgentsOctober 28, 2025...</span><span class="citation-popover-meta">Published: October 28, 2025</span></span></span>
 
 ## Why Scaffolding Effects Matter for Risk Assessment
 
 ### Misleading Signals in Threshold‑Based Safeguards
 
-In [AI doom and]({{ 'ai-doom-and/' | relative_url }}) existential‑risk frameworks, [deployment]({{ 'release-gates/' | relative_url }}) tripwires are often defined by capability thresholds: once a model demonstrably reaches a level associated with serious misuse, safeguards trigger stricter controls. If evaluation outcomes are heavily influenced by scaffolding choices, then **thresholds tied to benchmark performance may reflect scaffolding design decisions rather than fundamental model risk**. A model may underperform on a narrow, unsupplemented test yet pose a much larger real‑world threat when given reasonable tool access and memory structures similar to those that might be exploited in practice.
+In AI doom and existential‑risk frameworks, deployment tripwires are often defined by capability thresholds: once a model demonstrably reaches a level associated with serious [misuse]({{ 'misuse/' | relative_url }}), safeguards trigger stricter controls. If evaluation outcomes are heavily influenced by scaffolding choices, then **thresholds tied to benchmark performance may reflect scaffolding design decisions rather than fundamental model risk**. A model may underperform on a narrow, unsupplemented test yet pose a much larger real‑world threat when given reasonable tool access and memory structures similar to those that might be exploited in practice.
 
 This gap becomes especially concerning if policymakers or lab [governance]({{ 'governance/' | relative_url }}) relies on bare benchmark numbers without clarifying what scaffolding was included. A threshold set on non‑scaffolded performance might allow release of systems that, when scaffolded in realistic scenarios, could exceed danger thresholds — or conversely, unfairly penalise models that perform poorly without scaffolds but gain little from them.
 
@@ -769,41 +774,41 @@ The **impact of scaffolding — tools, memory, planning loops and compute budget
 
 1. <a id="endnote-1"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s11227-026-08439-z](https://link.springer.com/article/10.1007/s11227-026-08439-z)  
+   Link: <a href="https://link.springer.com/article/10.1007/s11227-026-08439-z" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11227-026-08439-z</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkAutosecagent: a semi-automated AI-driven penetration testing framework through recursive memory and real-time RAG | The Jour...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/AI_Agents/comments/1s3qure/title_we_mapped_six_levels_of_how_intelligence/](https://www.reddit.com/r/AI_Agents/comments/1s3qure/title_we_mapped_six_levels_of_how_intelligence/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditTitle: We mapped six levels of how intelligence organizes itself around AI models — not inside themMarch 25, 2026...</p></details>
+   Link: <a href="https://www.reddit.com/r/AI_Agents/comments/1s3qure/title_we_mapped_six_levels_of_how_intelligence/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AI_Agents/comments/1s3qure/title_we_mapped_six_levels_of_how_intelligence/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Title: We mapped six levels of how intelligence organizes itself around AI models — not inside themMarch 25, 2026...</p></details>
    Published: March 25, 2026  
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2510.24317](https://arxiv.org/abs/2510.24317)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivCybersecurity AI Benchmark (CAIBench): A Meta-Benchmark for Evaluating Cybersecurity AI AgentsOctober 28, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2510.24317" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2510.24317</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cybersecurity AI Benchmark (CAIBench): A Meta-Benchmark for Evaluating Cybersecurity AI AgentsOctober 28, 2025...</p></details>
    Published: October 28, 2025  
 
 4. <a id="endnote-4"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s10207-025-01179-w](https://link.springer.com/article/10.1007/s10207-025-01179-w)  
+   Link: <a href="https://link.springer.com/article/10.1007/s10207-025-01179-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10207-025-01179-w</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ASCERT: generative AI for cyber-range scenario generation | International Journal of Information Security | Springer Nature LinkDecember...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: aisi.gov.uk  
-   Link: [https://www.aisi.gov.uk/frontier-ai-trends-report](https://www.aisi.gov.uk/frontier-ai-trends-report)  
+   Link: <a href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/frontier-ai-trends-report</a>  
 
 6. <a id="endnote-6"></a>
    Source: aisi.gov.uk  
-   Link: [https://www.aisi.gov.uk/blog/evidence-for-inference-scaling-in-ai-cyber-tasks-increased-evaluation-budgets-reveal-higher-success-rates](https://www.aisi.gov.uk/blog/evidence-for-inference-scaling-in-ai-cyber-tasks-increased-evaluation-budgets-reveal-higher-success-rates)  
+   Link: <a href="https://www.aisi.gov.uk/blog/evidence-for-inference-scaling-in-ai-cyber-tasks-increased-evaluation-budgets-reveal-higher-success-rates" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/blog/evidence-for-inference-scaling-in-ai-cyber-tasks-increased-evaluation-budgets-reveal-higher-success-rates</a>  
 
 7. <a id="endnote-7"></a>
    Source: aisi.gov.uk  
-   Link: [https://www.aisi.gov.uk/research/measuring-ai-agents-progress-on-multi-step-cyber-attack-scenarios](https://www.aisi.gov.uk/research/measuring-ai-agents-progress-on-multi-step-cyber-attack-scenarios)  
+   Link: <a href="https://www.aisi.gov.uk/research/measuring-ai-agents-progress-on-multi-step-cyber-attack-scenarios" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/research/measuring-ai-agents-progress-on-multi-step-cyber-attack-scenarios</a>  
 
 8. <a id="endnote-8"></a>
    Source: commonplace.workforcefutures.net  
-   Link: [https://commonplace.workforcefutures.net/paper/arxiv%3A2605.20023](https://commonplace.workforcefutures.net/paper/arxiv%3A2605.20023)  
+   Link: <a href="https://commonplace.workforcefutures.net/paper/arxiv%3A2605.20023" target="_blank" rel="noopener noreferrer nofollow">https://commonplace.workforcefutures.net/paper/arxiv%3A2605.20023</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skills Don&#x27;t Help: A Negative Result on Procedural Knowledge for Tool-Grounded Agents in Offensive Cybersecurity — The CommonplaceMay 19...</p></details>
 
 ### Additional References
@@ -811,60 +816,60 @@ The **impact of scaffolding — tools, memory, planning loops and compute budget
 9. <a id="endnote-9"></a>
    Source: ornl.gov  
    Title: assessment usability machine learning based tools security operations center  
-   Link: [https://www.ornl.gov/publication/assessment-usability-machine-learning-based-tools-security-operations-center](https://www.ornl.gov/publication/assessment-usability-machine-learning-based-tools-security-operations-center)  
+   Link: <a href="https://www.ornl.gov/publication/assessment-usability-machine-learning-based-tools-security-operations-center" target="_blank" rel="noopener noreferrer nofollow">https://www.ornl.gov/publication/assessment-usability-machine-learning-based-tools-security-operations-center</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>An Assessment of the Usability of Machine Learning Based Tools for the Security Operations Center | ORNLNovember 1, 2020 — AN ASSESSMENT...</p></details>
    Published: November 1, 2020  
 
 10. <a id="endnote-10"></a>
    Source: irregular.com  
-   Link: [https://www.irregular.com/publications/cyber-capabilities-exceed-standard-evaluation-budgets](https://www.irregular.com/publications/cyber-capabilities-exceed-standard-evaluation-budgets)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IrregularMarch 5, 2026 — EVIDENCE FOR INFERENCE SCALING IN AI CYBER TASKS: INCREASED EVALUATION BUDGETS REVEAL HIGHER SUCCESS RATES March...</p></details>
+   Link: <a href="https://www.irregular.com/publications/cyber-capabilities-exceed-standard-evaluation-budgets" target="_blank" rel="noopener noreferrer nofollow">https://www.irregular.com/publications/cyber-capabilities-exceed-standard-evaluation-budgets</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 5, 2026 — EVIDENCE FOR INFERENCE SCALING IN AI CYBER TASKS: INCREASED EVALUATION BUDGETS REVEAL HIGHER SUCCESS RATES March...</p></details>
    Published: March 5, 2026  
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0045790626002569](https://www.sciencedirect.com/science/article/abs/pii/S0045790626002569)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectJuly 1, 2026 — COMPUTERS AND ELECTRICAL ENGINEERING Volume 135, July 2026, 111184 SECURE AUTONOMOUS CYBER DEFENSE WITH LLM A...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0045790626002569" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0045790626002569</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 1, 2026 — COMPUTERS AND ELECTRICAL ENGINEERING Volume 135, July 2026, 111184 SECURE AUTONOMOUS CYBER DEFENSE WITH LLM A...</p></details>
    Published: July 1, 2026  
 
 12. <a id="endnote-12"></a>
    Source: pure.york.ac.uk  
-   Link: [https://pure.york.ac.uk/portal/en/publications/an-ai-tool-for-scaffolding-complex-thinking-challenges-and-soluti](https://pure.york.ac.uk/portal/en/publications/an-ai-tool-for-scaffolding-complex-thinking-challenges-and-soluti)  
+   Link: <a href="https://pure.york.ac.uk/portal/en/publications/an-ai-tool-for-scaffolding-complex-thinking-challenges-and-soluti" target="_blank" rel="noopener noreferrer nofollow">https://pure.york.ac.uk/portal/en/publications/an-ai-tool-for-scaffolding-complex-thinking-challenges-and-soluti</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI tool for scaffolding complex thinking: challenges and solutions in developing an LLM prompt protocol suite - York Research DatabaseJul...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: openreview.net  
-   Link: [https://openreview.net/forum?id=kGEuZXaXU6](https://openreview.net/forum?id=kGEuZXaXU6)  
+   Link: <a href="https://openreview.net/forum?id=kGEuZXaXU6" target="_blank" rel="noopener noreferrer nofollow">https://openreview.net/forum?id=kGEuZXaXU6</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PACEbench: A Framework for Evaluating Practical AI Cyber-Exploitation Capabilities | OpenReviewJanuary 26, 2026 — PACEBENCH: A FRAMEWORK...</p></details>
    Published: January 26, 2026  
 
 14. <a id="endnote-14"></a>
    Source: researchtrend.ai  
-   Link: [https://researchtrend.ai/papers/2603.11214](https://researchtrend.ai/papers/2603.11214)  
+   Link: <a href="https://researchtrend.ai/papers/2603.11214" target="_blank" rel="noopener noreferrer nofollow">https://researchtrend.ai/papers/2603.11214</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack Scenarios | ResearchTrend.AIMarch 11, 2026 — MEASURING AI AGENTS&#x27; PROGRESS ON MU...</p></details>
    Published: March 11, 2026  
 
 15. <a id="endnote-15"></a>
    Source: impact.ornl.gov  
    Title: an assessment of the usability of machine learning based tools fo  
-   Link: [https://impact.ornl.gov/en/publications/an-assessment-of-the-usability-of-machine-learning-based-tools-fo](https://impact.ornl.gov/en/publications/an-assessment-of-the-usability-of-machine-learning-based-tools-fo)  
+   Link: <a href="https://impact.ornl.gov/en/publications/an-assessment-of-the-usability-of-machine-learning-based-tools-fo" target="_blank" rel="noopener noreferrer nofollow">https://impact.ornl.gov/en/publications/an-assessment-of-the-usability-of-machine-learning-based-tools-fo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Assessment of the Usability of Machine Learning Based Tools for the Security Operations Center - Oak Ridge National LaboratoryNovember 2...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: resultsense.com  
-   Link: [https://www.resultsense.com/insights/2026-03-18-frontier-ai-agents-multi-step-cyber-attacks-aisi-evaluation/](https://www.resultsense.com/insights/2026-03-18-frontier-ai-agents-multi-step-cyber-attacks-aisi-evaluation/)  
+   Link: <a href="https://www.resultsense.com/insights/2026-03-18-frontier-ai-agents-multi-step-cyber-attacks-aisi-evaluation/" target="_blank" rel="noopener noreferrer nofollow">https://www.resultsense.com/insights/2026-03-18-frontier-ai-agents-multi-step-cyber-attacks-aisi-evaluation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI agents can now execute complex cyber attacks — and they&#x27;re getting better fast - ResultsenseMarch 18, 2026 — Thought Leadership 18 Mar...</p></details>
    Published: March 18, 2026  
 
 17. <a id="endnote-17"></a>
    Source: research-information.bris.ac.uk  
    Title: bris.ac.uk Evaluating Reinforcement Learning Agents for Autonomous Cyber Defence  
-   Link: [https://research-information.bris.ac.uk/en/publications/evaluating-reinforcement-learning-agents-for-autonomous-cyber-def](https://research-information.bris.ac.uk/en/publications/evaluating-reinforcement-learning-agents-for-autonomous-cyber-def)  
+   Link: <a href="https://research-information.bris.ac.uk/en/publications/evaluating-reinforcement-learning-agents-for-autonomous-cyber-def" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/en/publications/evaluating-reinforcement-learning-agents-for-autonomous-cyber-def</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reinforcement Learning Agents for Autonomous Cyber Defence - University of BristolOctober 1, 2025 — EVALUATING REINFORCEMENT LEARNING AGE...</p></details>
    Published: October 1, 2025  
 
 18. <a id="endnote-18"></a>
    Source: aisi.gov.uk  
    Title: How do frontier AI agents perform in multi-step cyber-attack scenarios?  
-   Link: [https://www.aisi.gov.uk/blog/how-do-frontier-ai-agents-perform-in-multi-step-cyber-attack-scenarios](https://www.aisi.gov.uk/blog/how-do-frontier-ai-agents-perform-in-multi-step-cyber-attack-scenarios)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| AISI WorkHOW DO FRONTIER AI AGENTS PERFORM IN MULTI-STEP CYBER-ATTACK SCENARIOS? We tested seven large language models (LLMs) on two cu...</p></details>
+   Link: <a href="https://www.aisi.gov.uk/blog/how-do-frontier-ai-agents-perform-in-multi-step-cyber-attack-scenarios" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/blog/how-do-frontier-ai-agents-perform-in-multi-step-cyber-attack-scenarios</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AISI WorkHOW DO FRONTIER AI AGENTS PERFORM IN MULTI-STEP CYBER-ATTACK SCENARIOS? We tested seven large language models (LLMs) on two cu...</p></details>

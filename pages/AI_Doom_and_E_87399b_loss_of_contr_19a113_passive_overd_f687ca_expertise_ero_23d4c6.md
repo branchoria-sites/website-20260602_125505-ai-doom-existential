@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca_ai_advice_def_130a4f
 - AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca_citizens_cont_36114b
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - loss-of-control
 - over-delegation
 - expertise-erosion
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - loss-of-control
 - over-delegation
 - expertise-erosion
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Organisations can lose control when staff become too dependent on AI outputs to judge whether the system is wrong.
 hero_summary: Organisations can lose control when staff become too dependent on AI outputs to judge whether the system is wrong.
 layout: default
 permalink: /expertise-erosion/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /loss-of-control/
 - /over-delegation/
 nav_short_title: Expertise Erosion
@@ -211,10 +211,10 @@ parent_heading_title: Can humans lose control without a takeover?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_loss_of_contr_19a113
-  title: Loss of Control | AI Doom and
+  title: Loss of Control | AI Doom and E 87399 b
   permalink: /loss-of-control/
   short_title: Loss of Control
   heading_title: How Could Humans Lose Control of AI?
@@ -226,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_loss_of_contr_19a113
-  title: Loss of Control | AI Doom and
+  title: Loss of Control | AI Doom and E 87399 b
   permalink: /loss-of-control/
   short_title: Loss of Control
   heading_title: How Could Humans Lose Control of AI?
@@ -269,17 +269,17 @@ image: /assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f6
 
 ## Introduction
 
-When organisations lean heavily on AI systems to make, recommend or automate decisions, something less visible but profoundly consequential can happen: **human expertise erodes**. In the context of existential risk from advanced AI systems, this *expertise erosion* isn’t just a workplace learning issue — it can weaken the very capacity of organisations to oversee, contest or correct the systems they depend on. Over time, human judgement and domain knowledge can atrophy as routine cognitive work migrates into opaque automated layers. This creates a *passive [loss of control]({{ 'loss-of-control/' | relative_url }}) through over‑delegation*: humans retain formal authority on paper, but lack the real capability to exercise it. The result is an organisational fragility that amplifies other systemic risks linked to advanced AI. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6610518" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">SSRNThe Accountability Vacuum: Why Agentic AI Governance Fails Under Conditions of Expertise Erosion by Gabriel Sze:: SSRNApril 20...</span></span></span>
+When organisations lean heavily on AI systems to make, recommend or automate decisions, something less visible but profoundly consequential can happen: **human expertise erodes**. In the context of existential risk from advanced AI systems, this *expertise erosion* isn’t just a workplace learning issue — it can weaken the very capacity of organisations to oversee, contest or correct the systems they depend on. Over time, human judgement and domain knowledge can atrophy as routine cognitive work migrates into opaque automated layers. This creates a *passive [loss of control]({{ 'loss-of-control/' | relative_url }}) through over‑delegation*: humans retain formal authority on paper, but lack the real capability to exercise it. The result is an organisational fragility that amplifies other systemic risks linked to advanced AI. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6610518" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">The Accountability Vacuum: Why Agentic AI Governance Fails Under Conditions of Expertise Erosion by Gabriel Sze:: SSRNApril 20...</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca_expertise_ero_23d4c6-Illustration-1-dark.svg" | relative_url }}" alt="Expertise Erosion illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca_expertise_ero_23d4c6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca_expertise_ero_23d4c6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Reliance on AI Weakens Human Judgement
 
-One of the clearest mechanisms by which expertise erosion unfolds is **deskilling** — the process where human capabilities shrink because AI takes over tasks that once sustained and sharpened those capabilities. This is well documented in fields such as medicine, where clinicians repeatedly relying on decision‑support systems can lose diagnostic or interpretive skills over time. In radiology and endoscopy, for example, empirical research has found that physicians’ performance can drop significantly when AI support is removed, indicating that expertise has been weakened through repeated reliance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13015734/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCMarch 19, 2026...</span><span class="citation-popover-meta">Published: March 19, 2026</span></span></span>
+One of the clearest mechanisms by which expertise erosion unfolds is **deskilling** — the process where human capabilities shrink because AI takes over tasks that once sustained and sharpened those capabilities. This is well documented in fields such as medicine, where clinicians repeatedly relying on decision‑support systems can lose diagnostic or interpretive skills over time. In radiology and endoscopy, for example, empirical research has found that physicians’ performance can drop significantly when AI support is removed, indicating that expertise has been weakened through repeated reliance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13015734/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">March 19, 2026...</span><span class="citation-popover-meta">Published: March 19, 2026</span></span></span>
 
 More broadly, organisational research recognises that routine engagement with complex tasks is a core pathway for **developing and maintaining domain knowledge** and judgement. When AI automates these tasks — from data analysis to strategic planning — staff get fewer opportunities to practise, critique and refine their reasoning. Over time, they may shift from *doing the work* to merely *approving outputs*, undermining deep familiarity with the subject matter and the processes that underlie quality decisions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6526739" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">SSRN The Judgment Vacuum AI, Apprenticeship Collapse, and the Non-Formation of Organisational Go...</span></span></span>
 
-Relatedly, academic work has identified structural conditions such as the *Judgment Vacuum* — where organisations expand AI usage while simultaneously compressing the apprenticeship and [governance]({{ 'governance/' | relative_url }}) pathways that cultivate human judgement. As AI systems displace entry‑level cognitive work, newcomers find fewer opportunities to acquire tacit knowledge, which traditionally serves as the foundation for critical [oversight]({{ 'oversight-evasion/' | relative_url }}) later in careers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6398398" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">SSRNUse it or Slowly Lose it: Expertise Atrophy with Organizational AI Usage by James Siderius, Robert A. Shumsky, Alva Taylor:: SSRNMa...</span></span></span>
+Relatedly, academic work has identified structural conditions such as the *Judgment Vacuum* — where organisations expand AI usage while simultaneously compressing the apprenticeship and [governance]({{ 'governance/' | relative_url }}) pathways that cultivate human judgement. As AI systems displace entry‑level cognitive work, newcomers find fewer opportunities to acquire tacit knowledge, which traditionally serves as the foundation for critical oversight later in careers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6398398" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Use it or Slowly Lose it: Expertise Atrophy with Organizational AI Usage by James Siderius, Robert A. Shumsky, Alva Taylor:: SSRNMa...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rU-UGcy_Jpg" title="Beyond &quot;Is AI Accurate?&quot; A Practical AI Risk Modeling Playbook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rU-UGcy_Jpg" target="_blank" rel="noopener noreferrer">Beyond &quot;Is AI Accurate?&quot; A Practical AI Risk Modeling Playbook</a></p><p class="youtube-embed-meta">Channel: RISK-ACADEMY - risk management &amp; AI risk analysis &middot; Views: 39 &middot; Uploaded: October 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rU-UGcy_Jpg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rU-UGcy_Jpg">Open on YouTube</a></p></div></div></div>
@@ -288,9 +288,9 @@ Relatedly, academic work has identified structural conditions such as the *Judgm
 
 Expertise erosion matters for organisational control because **competent [human oversight]({{ 'human-oversight/' | relative_url }}) depends on human competence**. Many AI governance frameworks assume that a skilled person remains capable of interpreting system behaviour, spotting errors and intervening when needed. But if that capacity has quietly decayed, those assumptions collapse into what some scholars term an *accountability vacuum*: organisations have named responsibilities, but lack people with the competence to exercise them meaningfully. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6814040" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Governance Inversion Hypothesis: Why More AI Regulation May Produce Less Organisational Control by Victor Frimpong:: SSRNMay 22, 2026 —...</span><span class="citation-popover-meta">Published: May 22, 2026</span></span></span>
 
-This phenomenon is reinforced by economic incentives: as AI improves efficiency and output quality, organisations have less perceived need to invest in training or to retain staff who could question or challenge automated outcomes. Over time, the workforce becomes **dependently structured**, where fast, AI‑produced results look satisfactory and legitimate, even when they conceal latent errors or bias. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gartner.com/en/articles/ai-lock-in" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gartner.com">[Gartner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gartner.com</span><span class="citation-popover-title">AI Lock-In: Why Skill Loss Puts Your Workforce at Risk | Gartner</span><span class="citation-popover-snippet">GartnerAI Lock-In: Why Skill Loss Puts Your Workforce at Risk | Gartner...</span></span></span>
+This phenomenon is reinforced by economic incentives: as AI improves efficiency and output quality, organisations have less perceived need to invest in training or to retain staff who could question or challenge automated outcomes. Over time, the workforce becomes **dependently structured**, where fast, AI‑produced results look satisfactory and legitimate, even when they conceal latent errors or bias. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gartner.com/en/articles/ai-lock-in" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gartner.com">[Gartner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gartner.com</span><span class="citation-popover-title">AI Lock-In: Why Skill Loss Puts Your Workforce at Risk &#124; Gartner</span><span class="citation-popover-snippet">AI Lock-In: Why Skill Loss Puts Your Workforce at Risk &#124; Gartner...</span></span></span>
 
-Moreover, expertise erosion tends to be **latent until it’s too late**. Like skill decay seen when calculators diminish mental arithmetic or navigation apps reduce spatial reasoning, dependency effects can remain invisible until the AI is unavailable, behaves unexpectedly, or must be overridden. At that point, the organisation discovers that a decade of offloading cognitive tasks has also offloaded the human capacity to take them back. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/QuestionClass/comments/1rqv8lp/what_are_the_risks_of_overreliance_on_automation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">what are the risks of overreliance on automation</span><span class="citation-popover-snippet">RedditWhat are the risks of over-reliance on automation in 2026?March 11, 2026...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span>
+Moreover, expertise erosion tends to be **latent until it’s too late**. Like skill decay seen when calculators diminish mental arithmetic or navigation apps reduce spatial reasoning, dependency effects can remain invisible until the AI is unavailable, behaves unexpectedly, or must be overridden. At that point, the organisation discovers that a decade of offloading cognitive tasks has also offloaded the human capacity to take them back. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/QuestionClass/comments/1rqv8lp/what_are_the_risks_of_overreliance_on_automation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">what are the risks of overreliance on automation</span><span class="citation-popover-snippet">What are the risks of over-reliance on automation in 2026?March 11, 2026...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca_expertise_ero_23d4c6-Illustration-2-dark.svg" | relative_url }}" alt="Expertise Erosion illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca_expertise_ero_23d4c6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca_expertise_ero_23d4c6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -315,7 +315,7 @@ Preventing expertise erosion — and the control loss that comes with it — req
 * **Human‑AI role calibration**: Define clear boundaries where tasks remain human‑led, especially those involving nuanced judgements or ethical trade‑offs, ensuring that staff remain actively engaged in decision cycles.
 * **Training and apprenticeship renewal**: Invest in training pathways that combine traditional learning with AI‑augmented experiences, so workers cultivate deep understanding rather than merely supervise outputs.
 * **Friction and reflection in workflows**: Instead of frictionless automation for all tasks, introduce moments where humans must engage with core reasoning steps, interpret rationale, or justify overrides, preserving cognitive engagement.
-* **Capability monitoring**: Track not just compliance with AI governance policies, but human capability metrics — competence in domain knowledge, resilience in manual task execution, and confidence in decision‑making under uncertainty.
+* **Capability [monitoring]({{ 'monitoring/' | relative_url }})**: Track not just compliance with AI governance policies, but human capability metrics — competence in domain knowledge, resilience in manual task execution, and confidence in decision‑making under [uncertainty]({{ 'uncertainty/' | relative_url }}).
 * **Governance embedded in architecture**: Treat accountability and oversight as structural properties of AI systems — for example, by designing systems that require human re‑engagement for atypical cases and provide interpretable rationales to support learning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/Delivery.cfm/6589658.pdf?abstractid=6589658&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">ssrn.com AI Deployment Fails at Governance, Not Accuracy: Judgment Boundary Reallocation for Preventing Irreversible Lo...</span></span></span>
 
 These approaches aim to preserve **epistemic sovereignty** — the organisation’s capacity to think and decide independently of automated assistants — even as AI systems augment routine productivity.
@@ -326,7 +326,7 @@ These approaches aim to preserve **epistemic sovereignty** — the organisation�
 
 Within the broader debate on existential risk from advanced AI systems, expertise erosion highlights a subtle but significant pathway to loss of control that doesn’t rely on malicious AI intent. Even harmless, well‑intentioned automation can transfer authority away from human actors if it erodes the human skills needed to contest and direct AI behaviour. Over long time horizons, this can compound with other systemic risks — such as misalignment or governance fragmentation — making organisations more brittle and less capable of responding to unexpected AI behaviours at scale.
 
-Understanding and addressing expertise erosion is thus essential not just for [operational]({{ 'operational-thresholds/' | relative_url }}) effectiveness, but for maintaining **meaningful human oversight** — a core pillar in reducing the plausibility of uncontrolled AI trajectories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6565538" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Barnes PhD:: SSRNApril 12, 2026 — Download This Paper Open PDF in Browser THE SOVEREIGNTY CRISIS: AI, WORKFORCE ATROPHY, AND SYSTEMIC RI...</span><span class="citation-popover-meta">Published: April 12, 2026</span></span></span>
+Understanding and addressing expertise erosion is thus essential not just for operational effectiveness, but for maintaining **meaningful human oversight** — a core pillar in reducing the plausibility of uncontrolled AI trajectories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6565538" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Barnes PhD:: SSRNApril 12, 2026 — Download This Paper Open PDF in Browser THE SOVEREIGNTY CRISIS: AI, WORKFORCE ATROPHY, AND SYSTEMIC RI...</span><span class="citation-popover-meta">Published: April 12, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pl-Il3qNRVQ" title="AI in Risk Management" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pl-Il3qNRVQ" target="_blank" rel="noopener noreferrer">AI in Risk Management</a></p><p class="youtube-embed-meta">Channel: Centraleyes - Next Generation GRC &middot; Views: 31 &middot; Uploaded: January 2026 &middot; Length: 3 minutes 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pl-Il3qNRVQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pl-Il3qNRVQ">Open on YouTube</a></p></div></div></div>
@@ -753,123 +753,123 @@ Understanding and addressing expertise erosion is thus essential not just for [o
 
 1. <a id="endnote-1"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6610518](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6610518)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SSRNThe Accountability Vacuum: Why Agentic AI Governance Fails Under Conditions of Expertise Erosion &lt;br&gt; by Gabriel Sze:: SSRNApril 20...</p></details>
+   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6610518" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6610518</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Accountability Vacuum: Why Agentic AI Governance Fails Under Conditions of Expertise Erosion &lt;br&gt; by Gabriel Sze:: SSRNApril 20...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6526739](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6526739)  
+   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6526739" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6526739</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>SSRN&lt;p&gt; &lt;/p&gt; &lt;p&gt; &lt;b&gt;&lt;span&gt;The Judgment Vacuum &lt;/span&gt;&lt;/b&gt;&lt;i&gt;&lt;span&gt;AI, Apprenticeship Collapse, and the Non-Formation of Organisational Go...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC13015734/](https://pmc.ncbi.nlm.nih.gov/articles/PMC13015734/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCMarch 19, 2026...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13015734/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC13015734/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 19, 2026...</p></details>
    Published: March 19, 2026  
 
 4. <a id="endnote-4"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6398398](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6398398)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SSRNUse it or Slowly Lose it: Expertise Atrophy with Organizational AI Usage by James Siderius, Robert A. Shumsky, Alva Taylor:: SSRNMa...</p></details>
+   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6398398" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6398398</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Use it or Slowly Lose it: Expertise Atrophy with Organizational AI Usage by James Siderius, Robert A. Shumsky, Alva Taylor:: SSRNMa...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: gartner.com  
    Title: AI Lock-In: Why Skill Loss Puts Your Workforce at Risk | Gartner  
-   Link: [https://www.gartner.com/en/articles/ai-lock-in](https://www.gartner.com/en/articles/ai-lock-in)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GartnerAI Lock-In: Why Skill Loss Puts Your Workforce at Risk | Gartner...</p></details>
+   Link: <a href="https://www.gartner.com/en/articles/ai-lock-in" target="_blank" rel="noopener noreferrer nofollow">https://www.gartner.com/en/articles/ai-lock-in</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Lock-In: Why Skill Loss Puts Your Workforce at Risk | Gartner...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
    Title: what are the risks of overreliance on automation  
-   Link: [https://www.reddit.com/r/QuestionClass/comments/1rqv8lp/what_are_the_risks_of_overreliance_on_automation/](https://www.reddit.com/r/QuestionClass/comments/1rqv8lp/what_are_the_risks_of_overreliance_on_automation/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditWhat are the risks of over-reliance on automation in 2026?March 11, 2026...</p></details>
+   Link: <a href="https://www.reddit.com/r/QuestionClass/comments/1rqv8lp/what_are_the_risks_of_overreliance_on_automation/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/QuestionClass/comments/1rqv8lp/what_are_the_risks_of_overreliance_on_automation/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What are the risks of over-reliance on automation in 2026?March 11, 2026...</p></details>
    Published: March 11, 2026  
 
 7. <a id="endnote-7"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6814040](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6814040)  
+   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6814040" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6814040</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Governance Inversion Hypothesis: Why More AI Regulation May Produce Less Organisational Control by Victor Frimpong:: SSRNMay 22, 2026 —...</p></details>
    Published: May 22, 2026  
 
 8. <a id="endnote-8"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/Delivery.cfm/6565538.pdf?abstractid=6565538&mirid=1&type=2](https://papers.ssrn.com/sol3/Delivery.cfm/6565538.pdf?abstractid=6565538&mirid=1&type=2)  
+   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/6565538.pdf?abstractid=6565538&amp;mirid=1&amp;type=2" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/6565538.pdf?abstractid=6565538&amp;mirid=1&amp;type=2</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Barnes PhD:: SSRNApril 30, 2026 — THE SOVEREIGNTY CRISIS: AI, WORKFORCE ATROPHY, AND SYSTEMIC RISK IN THE AGENTIC ERA A POLICY-TECHNICAL...</p></details>
    Published: April 30, 2026  
 
 9. <a id="endnote-9"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/Delivery.cfm/6589658.pdf?abstractid=6589658&mirid=1](https://papers.ssrn.com/sol3/Delivery.cfm/6589658.pdf?abstractid=6589658&mirid=1)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ssrn.com&lt;div&gt; AI [Deployment](&amp;#123;&amp;#123; &#x27;release-gates/&#x27; | relative_url &amp;#125;&amp;#125;) Fails at Governance, Not Accuracy: &lt;/div&gt; &lt;div&gt; Judgment Boundary Reallocation for Preventing Irreversible Lo...</p></details>
+   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/6589658.pdf?abstractid=6589658&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/6589658.pdf?abstractid=6589658&amp;mirid=1</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ssrn.com&lt;div&gt; AI Deployment Fails at Governance, Not Accuracy: &lt;/div&gt; &lt;div&gt; Judgment Boundary Reallocation for Preventing Irreversible Lo...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6565538](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6565538)  
+   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6565538" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6565538</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Barnes PhD:: SSRNApril 12, 2026 — Download This Paper Open PDF in Browser THE SOVEREIGNTY CRISIS: AI, WORKFORCE ATROPHY, AND SYSTEMIC RI...</p></details>
    Published: April 12, 2026  
 
 11. <a id="endnote-11"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/Delivery.cfm/6191198.pdf?abstractid=6191198&mirid=1](https://papers.ssrn.com/sol3/Delivery.cfm/6191198.pdf?abstractid=6191198&mirid=1)  
+   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/6191198.pdf?abstractid=6191198&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/6191198.pdf?abstractid=6191198&amp;mirid=1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Great Displacement: AI-Driven Professional Commoditization, Premium Erosion, and the Enterprise Sovereignty™ Response by Rajesh Veerapane...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/full/10.1177/00081256231211020](https://journals.sagepub.com/doi/full/10.1177/00081256231211020)  
+   Link: <a href="https://journals.sagepub.com/doi/full/10.1177/00081256231211020" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/full/10.1177/00081256231211020</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the Intelligent Organization: Six Principles for Human-AI Collaboration - Vegard Kolbjørnsrud, 2024November 30, 2023 — Open access Resear...</p></details>
    Published: November 30, 2023  
 
 13. <a id="endnote-13"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2949820126000123](https://www.sciencedirect.com/science/article/pii/S2949820126000123)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Artificial](&amp;#123;&amp;#123; &#x27;artificial-goals/&#x27; | relative_url &amp;#125;&amp;#125;) intelligence in medicine: a scoping review of the risk of deskilling and loss of expertise among physicians - ScienceDirectTod...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2949820126000123" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2949820126000123</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligence in medicine: a scoping review of the risk of deskilling and loss of expertise among physicians - ScienceDirectTod...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: kwpublications.com  
-   Link: [https://kwpublications.com/papers/detail/IJARBSS/21445/The-Deskilling-Yet-Oversight-Paradox-AI-Automation-Role-Identity-Erosion-and-Technostress-among-Data-Centre-Operators-in-Malaysia](https://kwpublications.com/papers/detail/IJARBSS/21445/The-Deskilling-Yet-Oversight-Paradox-AI-Automation-Role-Identity-Erosion-and-Technostress-among-Data-Centre-Operators-in-Malaysia)  
+   Link: <a href="https://kwpublications.com/papers/detail/IJARBSS/21445/The-Deskilling-Yet-Oversight-Paradox-AI-Automation-Role-Identity-Erosion-and-Technostress-among-Data-Centre-Operators-in-Malaysia" target="_blank" rel="noopener noreferrer nofollow">https://kwpublications.com/papers/detail/IJARBSS/21445/The-Deskilling-Yet-Oversight-Paradox-AI-Automation-Role-Identity-Erosion-and-Technostress-among-Data-Centre-Operators-in-Malaysia</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>April 30, 2026 — THE DESKILLING-YET-OVERSIGHT PARADOX: AI AUTOMATION, ROLE IDENTITY EROSION, AND TECHNOSTRESS AMONG DATA CENTRE OPERATORS...</p></details>
    Published: April 30, 2026  
 
 15. <a id="endnote-15"></a>
    Source: eprints.lse.ac.uk  
-   Link: [https://eprints.lse.ac.uk/130104/](https://eprints.lse.ac.uk/130104/)  
+   Link: <a href="https://eprints.lse.ac.uk/130104/" target="_blank" rel="noopener noreferrer nofollow">https://eprints.lse.ac.uk/130104/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>me explain: a comparative field study on how experts enact authority over clients when facing AI decisions - LSE Research OnlineLET ME EX...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: aisel.aisnet.org  
    Title: THE VICIOUS CIRCLES OF SKILL EROSION: A CASE STUDY OF COGNITIVE AUTOMATION * Tap  
-   Link: [https://aisel.aisnet.org/jais/vol24/iss5/2/](https://aisel.aisnet.org/jais/vol24/iss5/2/)  
+   Link: <a href="https://aisel.aisnet.org/jais/vol24/iss5/2/" target="_blank" rel="noopener noreferrer nofollow">https://aisel.aisnet.org/jais/vol24/iss5/2/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Vicious Circles of Skill Erosion: A Case Study of Cognitive Automation&quot;The Vicious Circles of Skill Erosion: A Case Study of Cognitive Au...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: research.aalto.fi  
    Title: fi The Vicious Circles of Skill Erosion: A Case Study of Cognitive Automation  
-   Link: [https://research.aalto.fi/en/publications/the-vicious-circles-of-skill-erosion-a-case-study-of-cognitive-au](https://research.aalto.fi/en/publications/the-vicious-circles-of-skill-erosion-a-case-study-of-cognitive-au)  
+   Link: <a href="https://research.aalto.fi/en/publications/the-vicious-circles-of-skill-erosion-a-case-study-of-cognitive-au" target="_blank" rel="noopener noreferrer nofollow">https://research.aalto.fi/en/publications/the-vicious-circles-of-skill-erosion-a-case-study-of-cognitive-au</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Vicious Circles of Skill Erosion: A Case Study of Cognitive Automation - Aalto University&#x27;s research portalTHE VICIOUS CIRCLES OF SKILL E...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: researchportal.helsinki.fi  
    Title: fi The Vicious Circles of Skill Erosion: A Case Study of Cognitive Automation  
-   Link: [https://researchportal.helsinki.fi/en/publications/the-vicious-circles-of-skill-erosion-a-case-study-of-cognitive-au/](https://researchportal.helsinki.fi/en/publications/the-vicious-circles-of-skill-erosion-a-case-study-of-cognitive-au/)  
+   Link: <a href="https://researchportal.helsinki.fi/en/publications/the-vicious-circles-of-skill-erosion-a-case-study-of-cognitive-au/" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.helsinki.fi/en/publications/the-vicious-circles-of-skill-erosion-a-case-study-of-cognitive-au/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Vicious Circles of Skill Erosion: A Case Study of Cognitive Automation - University of HelsinkiTHE VICIOUS CIRCLES OF SKILL EROSION: A CA...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: mdpi.com  
    Title: Where Are the AI Governance Roles?  
-   Link: [https://www.mdpi.com/2673-7116/6/2/18](https://www.mdpi.com/2673-7116/6/2/18)  
+   Link: <a href="https://www.mdpi.com/2673-7116/6/2/18" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2673-7116/6/2/18</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>An Early-Stage Empirical Mapping of Presence, Absence, and Structure in Organisational AI OversightApril 19, 2026 — Background: Open Acce...</p></details>
    Published: April 19, 2026  
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Beyond "Is AI Accurate?" A Practical AI Risk Modeling Playbook  
-   Link: [https://www.youtube.com/watch?v=rU-UGcy_Jpg](https://www.youtube.com/watch?v=rU-UGcy_Jpg)  
+   Link: <a href="https://www.youtube.com/watch?v=rU-UGcy_Jpg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rU-UGcy_Jpg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI and Rehabilitation – What Should Change, What Must Not?...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s00146-025-02686-z](https://link.springer.com/article/10.1007/s00146-025-02686-z)  
+   Link: <a href="https://link.springer.com/article/10.1007/s00146-025-02686-z" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s00146-025-02686-z</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>deskilling is a structural problem | AI &amp; SOCIETY | Springer Nature LinkNovember 5, 2025 — AI DESKILLING IS A STRUCTURAL PROBLEM * Resear...</p></details>
    Published: November 5, 2025  

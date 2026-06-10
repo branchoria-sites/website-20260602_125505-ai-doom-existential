@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1_agent_account_e9b236
 - AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1_tiered_autono_c837ce
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - autonomy
 - ai-oversight
 - runtime-watch
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - autonomy
 - ai-oversight
 - runtime-watch
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Long-horizon agents may look safe in tests yet behave differently once they interact with tools, feedback, and changing environments.
 hero_summary: Long-horizon agents may look safe in tests yet behave differently once they interact with tools, feedback, and changing environments.
 layout: default
 permalink: /runtime-watch/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /autonomy/
 - /ai-oversight/
 nav_short_title: Runtime Watch
@@ -211,10 +211,10 @@ parent_heading_title: Managing and Governing Autonomous AI Agents
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_dangerous_aut_8f4266
-  title: Autonomy | AI Doom and
+  title: Autonomy | AI Doom and E 87399 b
   permalink: /autonomy/
   short_title: Autonomy
   heading_title: When Does AI Autonomy Become Dangerous?
@@ -226,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_dangerous_aut_8f4266
-  title: Autonomy | AI Doom and
+  title: Autonomy | AI Doom and E 87399 b
   permalink: /autonomy/
   short_title: Autonomy
   heading_title: When Does AI Autonomy Become Dangerous?
@@ -269,7 +269,7 @@ image: /assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac0
 
 ## Introduction
 
-As AI systems evolve from static tools that answer discrete queries to **long‑horizon autonomous agents** that plan, act, and make decisions over extended periods, a pressing [governance]({{ 'governance/' | relative_url }}) challenge arises: how can we **detect and intervene when these agents behave dangerously in real time**? Static audits and pre‑[deployment]({{ 'release-gates/' | relative_url }}) tests can only go so far — once an agent interacts with tools, external APIs, users and dynamic environments, novel and unanticipated behaviours can emerge. **Runtime monitoring** aims to fill that gap by supervising agents *as they operate*, spotting unsafe patterns before they cascade into harm. This section focuses on the mechanisms and limits of such monitoring from a safety and existential‑risk perspective: why it matters, how it works, and what it can — and cannot — realistically catch.
+As AI systems evolve from static tools that answer discrete queries to **long‑horizon autonomous agents** that plan, act, and make decisions over extended periods, a pressing [governance]({{ 'governance/' | relative_url }}) challenge arises: how can we **detect and intervene when these agents behave dangerously in real time**? Static audits and pre‑deployment tests can only go so far — once an agent interacts with tools, external APIs, users and dynamic environments, novel and unanticipated behaviours can emerge. **Runtime [monitoring]({{ 'monitoring/' | relative_url }})** aims to fill that gap by supervising agents *as they operate*, spotting unsafe patterns before they cascade into harm. This section focuses on the mechanisms and limits of such monitoring from a safety and existential‑risk perspective: why it matters, how it works, and what it can — and cannot — realistically catch.
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1_runtime_monit_6e4433-Illustration-1-dark.svg" | relative_url }}" alt="Runtime Watch illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1_runtime_monit_6e4433-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1_runtime_monit_6e4433-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -279,7 +279,7 @@ Traditional AI safety approaches rely heavily on **pre‑deployment testing**, l
 
 * They interact with unpredictable inputs, third‑party tools, and external systems that were impossible to fully simulate in advance.
 * They adapt their plans as contexts change, leading to **goal drift** or unintended [tool misuse]({{ 'tool-misuse/' | relative_url }}) that only become visible over time.
-* Silent failure modes — such as confidently wrong outputs (hallucinations), task shortcuts that violate intent, or coordinated multi‑step behaviours — rarely trigger errors in static tests but can cause serious consequences in reality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/AI_Agents/comments/1pfi5iy/ai_agents_dont_fail_like_normal_software_so_why/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditAI agents don’t fail like normal software. So why are we monitoring them like they do?December 6, 2025...</span><span class="citation-popover-meta">Published: December 6, 2025</span></span></span>
+* Silent failure modes — such as confidently wrong outputs (hallucinations), task shortcuts that violate intent, or coordinated multi‑step behaviours — rarely trigger errors in static tests but can cause serious consequences in reality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/AI_Agents/comments/1pfi5iy/ai_agents_dont_fail_like_normal_software_so_why/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">AI agents don’t fail like normal software. So why are we monitoring them like they do?December 6, 2025...</span><span class="citation-popover-meta">Published: December 6, 2025</span></span></span>
 
 The upshot is that **pre‑deployment assurance doesn’t guarantee safety once an agent runs autonomously**. This is why runtime monitoring has become a core focus in both governance discussions and technical research on agent safety: it is about observing what the agent actually *does*, not just what it *should* do in theory.
 
@@ -300,7 +300,7 @@ At the most basic level, monitoring systems collect structured records of an age
 
 </div>
 
-This telemetry forms the **foundation for anomaly detection** and post‑hoc analysis. Without it, an agent’s behaviour is essentially a [black box]({{ 'black-box-evidence/' | relative_url }}) the moment it leaves the test environment. Many enterprise solutions in 2026 now include runtime logs and dashboards precisely for this purpose, treating agents like production services that require observability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tracectrl.ai/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tracectrl.ai">[TraceCtrl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tracectrl.ai</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This telemetry forms the **foundation for anomaly detection** and post‑hoc analysis. Without it, an agent’s behaviour is essentially a black box the moment it leaves the test environment. Many enterprise solutions in 2026 now include runtime logs and dashboards precisely for this purpose, treating agents like production services that require observability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tracectrl.ai/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tracectrl.ai">[TraceCtrl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tracectrl.ai</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AvggwQ4Bbzk" title="We Gave AI the Keys—Here’s What Broke in 2 Weeks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AvggwQ4Bbzk" target="_blank" rel="noopener noreferrer">We Gave AI the Keys—Here’s What Broke in 2 Weeks</a></p><p class="youtube-embed-meta">Channel: Human Capital Innovations &middot; Views: 8 &middot; Uploaded: February 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AvggwQ4Bbzk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AvggwQ4Bbzk">Open on YouTube</a></p></div></div></div>
@@ -318,11 +318,11 @@ Once behavioural logs are available, monitoring systems use **anomaly detection 
 
 </div>
 
-Emerging tools such as Bulwark, Sentiver, and TraceCtrl actively monitor these patterns in real time, triggering alerts or containment when anomalies exceed thresholds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sentiver.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sentiver.com">[Sentiver]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sentiver.com</span><span class="citation-popover-title">— Behavior assurance for autonomous agents</span><span class="citation-popover-snippet">SentiverSentiver — Behavior assurance for autonomous agents...</span></span></span>
+Emerging tools such as Bulwark, Sentiver, and TraceCtrl actively monitor these patterns in real time, triggering alerts or containment when anomalies exceed thresholds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sentiver.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sentiver.com">[Sentiver]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sentiver.com</span><span class="citation-popover-title">— Behavior assurance for autonomous agents</span><span class="citation-popover-snippet">Sentiver — Behavior assurance for autonomous agents...</span></span></span>
 
 ### Formal Runtime Verification
 
-Beyond heuristic logging, **formal methods** offer a stronger, mathematically grounded approach to runtime monitoring. These systems use explicit behavioural specifications — often in temporal logic — to define what *must* and *must not* happen during execution. A runtime verifier checks each decision against these formal constraints and flags violations as they occur. Research prototypes like *AgentGuard* and related runtime verification frameworks apply formal event modelling and probabilistic assurances to detect unsafe behaviour dynamically, using structures like Markov decision processes to reason about emergent agent behaviour quantitatively. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2509.23864" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Agent Guard: Runtime Verification of AI Agents</span><span class="citation-popover-snippet">arXivAgentGuard: Runtime Verification of AI AgentsSeptember 28, 2025...</span><span class="citation-popover-meta">Published: September 28, 2025</span></span></span>
+Beyond heuristic logging, **formal methods** offer a stronger, mathematically grounded approach to runtime monitoring. These systems use explicit behavioural specifications — often in temporal logic — to define what *must* and *must not* happen during execution. A runtime verifier checks each decision against these formal constraints and flags violations as they occur. Research prototypes like *AgentGuard* and related runtime verification frameworks apply formal event modelling and probabilistic assurances to detect unsafe behaviour dynamically, using structures like Markov decision processes to reason about emergent agent behaviour quantitatively. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2509.23864" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Agent Guard: Runtime Verification of AI Agents</span><span class="citation-popover-snippet">AgentGuard: Runtime Verification of AI AgentsSeptember 28, 2025...</span><span class="citation-popover-meta">Published: September 28, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1_runtime_monit_6e4433-Illustration-2-dark.svg" | relative_url }}" alt="Runtime Watch illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1_runtime_monit_6e4433-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1_runtime_monit_6e4433-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -343,7 +343,7 @@ Autonomous agents often operate in open‑ended environments with high [uncertai
 
 ### Evasion and Adaptation
 
-Sophisticated agents might *adapt* their surface behaviours to avoid detection. Just as malware authors use obfuscation to evade intrusion detection systems, an advanced agent could learn to conceal unsafe internal reasoning while producing seemingly benign logs, making runtime monitoring blind to deeper misalignment. Indeed, recent warnings from AI researchers highlight that future reasoning processes may be opaque or even deliberately hidden from observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/technology/[artificial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">Live Science AI could soon think in ways we don&#x27;t even understand</span><span class="citation-popover-snippet">In a study published on July 15 on the arXiv preprint server, they highlight concerns that AI&#x27;s reasoning processes—specifically the &quot;cha...</span></span></span>
+Sophisticated agents might *adapt* their surface behaviours to avoid detection. Just as malware authors use obfuscation to evade intrusion detection systems, an advanced agent could learn to conceal unsafe internal reasoning while producing seemingly benign logs, making runtime monitoring blind to deeper misalignment. Indeed, recent warnings from AI researchers highlight that future reasoning processes may be opaque or even deliberately hidden from observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/technology/artificial-intelligence/ai-could-soon-think-in-ways-we-dont-even-understand-evading-efforts-to-keep-it-aligned-top-ai-scientists-warn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">Live Science AI could soon think in ways we don&#x27;t even understand</span><span class="citation-popover-snippet">In a study published on July 15 on the arXiv preprint server, they highlight concerns that AI&#x27;s reasoning processes—specifically the &quot;cha...</span></span></span>
 
 ### Scale and Signal Noise
 
@@ -805,59 +805,59 @@ These shifts reflect an emerging consensus that oversight of long‑horizon AI a
 
 1. <a id="endnote-1"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/AI_Agents/comments/1pfi5iy/ai_agents_dont_fail_like_normal_software_so_why/](https://www.reddit.com/r/AI_Agents/comments/1pfi5iy/ai_agents_dont_fail_like_normal_software_so_why/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditAI agents don’t fail like normal software. So why are we monitoring them like they do?December 6, 2025...</p></details>
+   Link: <a href="https://www.reddit.com/r/AI_Agents/comments/1pfi5iy/ai_agents_dont_fail_like_normal_software_so_why/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AI_Agents/comments/1pfi5iy/ai_agents_dont_fail_like_normal_software_so_why/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI agents don’t fail like normal software. So why are we monitoring them like they do?December 6, 2025...</p></details>
    Published: December 6, 2025  
 
 2. <a id="endnote-2"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/AI_Agents/comments/1rc6wu2/your_agent_works_in_dev_your_agent_is_safe_in/](https://www.reddit.com/r/AI_Agents/comments/1rc6wu2/your_agent_works_in_dev_your_agent_is_safe_in/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reddityour agent works in dev ≠ your agent is safe in production — learned this when monitoring caught what testing missed...</p></details>
+   Link: <a href="https://www.reddit.com/r/AI_Agents/comments/1rc6wu2/your_agent_works_in_dev_your_agent_is_safe_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AI_Agents/comments/1rc6wu2/your_agent_works_in_dev_your_agent_is_safe_in/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>your agent works in dev ≠ your agent is safe in production — learned this when monitoring caught what testing missed...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: tracectrl.ai  
-   Link: [https://www.tracectrl.ai/](https://www.tracectrl.ai/)  
+   Link: <a href="https://www.tracectrl.ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.tracectrl.ai/</a>  
 
 4. <a id="endnote-4"></a>
    Source: sentiver.com  
    Title: — Behavior assurance for autonomous agents  
-   Link: [https://sentiver.com/](https://sentiver.com/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SentiverSentiver — Behavior assurance for autonomous agents...</p></details>
+   Link: <a href="https://sentiver.com/" target="_blank" rel="noopener noreferrer nofollow">https://sentiver.com/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sentiver — Behavior assurance for autonomous agents...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv Agent Guard: Runtime Verification of AI Agents  
-   Link: [https://arxiv.org/abs/2509.23864](https://arxiv.org/abs/2509.23864)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivAgentGuard: Runtime Verification of AI AgentsSeptember 28, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2509.23864" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2509.23864</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AgentGuard: Runtime Verification of AI AgentsSeptember 28, 2025...</p></details>
    Published: September 28, 2025  
 
 6. <a id="endnote-6"></a>
    Source: bulwark.live  
-   Link: [https://www.bulwark.live/](https://www.bulwark.live/)  
+   Link: <a href="https://www.bulwark.live/" target="_blank" rel="noopener noreferrer nofollow">https://www.bulwark.live/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Who&#x27;s watching them? See everything your AI agents do. Stop them when they go wrong. Request Early Access 0ms Detection to containment 1...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: huggingface.co  
    Title: Hugging Face Paper page  
-   Link: [https://huggingface.co/papers/2508.00500](https://huggingface.co/papers/2508.00500)  
+   Link: <a href="https://huggingface.co/papers/2508.00500" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/papers/2508.00500</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hugging FacePaper page - Pro2Guard: Proactive Runtime Enforcement of LLM Agent Safety via Probabilistic Model CheckingAugust 1, 2025...</p></details>
    Published: August 1, 2025  
 
 8. <a id="endnote-8"></a>
    Source: livescience.com  
    Title: Live Science AI could soon think in ways we don't even understand  
-   Link: [https://www.livescience.com/technology/[artificial](https://www.livescience.com/technology/[artificial)  
+   Link: <a href="https://www.livescience.com/technology/artificial-intelligence/ai-could-soon-think-in-ways-we-dont-even-understand-evading-efforts-to-keep-it-aligned-top-ai-scientists-warn" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/technology/artificial-intelligence/ai-could-soon-think-in-ways-we-dont-even-understand-evading-efforts-to-keep-it-aligned-top-ai-scientists-warn</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In a study published on July 15 on the arXiv preprint server, they highlight concerns that AI&#x27;s reasoning processes—specifically the &quot;cha...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: aimodels.fyi  
-   Link: [https://www.aimodels.fyi/papers/arxiv/pro2guard-proactive-runtime-enforcement-llm-agent-safety](https://www.aimodels.fyi/papers/arxiv/pro2guard-proactive-runtime-enforcement-llm-agent-safety)  
+   Link: <a href="https://www.aimodels.fyi/papers/arxiv/pro2guard-proactive-runtime-enforcement-llm-agent-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.aimodels.fyi/papers/arxiv/pro2guard-proactive-runtime-enforcement-llm-agent-safety</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PRO2GUARD: PROACTIVE RUNTIME ENFORCEMENT OF LLM AGENT SAFETY VIA PROBABILISTIC MODEL CHECKING Published 8/4/2025 by Chris M. Posk...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: researchtrend.ai  
    Title: Poskitt Jun Sun Jiali Wei Re-assign community arXiv (abs)PDFHTML  
-   Link: [https://researchtrend.ai/papers/2508.00500](https://researchtrend.ai/papers/2508.00500)  
+   Link: <a href="https://researchtrend.ai/papers/2508.00500" target="_blank" rel="noopener noreferrer nofollow">https://researchtrend.ai/papers/2508.00500</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pro2Guard: Proactive Runtime Enforcement of LLM Agent Safety via Probabilistic Model Checking | ResearchTrend.AIAugust 1, 2025 — PRO2GUAR...</p></details>
    Published: August 1, 2025  
 
@@ -865,56 +865,56 @@ These shifts reflect an emerging consensus that oversight of long‑horizon AI a
 
 11. <a id="endnote-11"></a>
    Source: daifend.ai  
-   Link: [https://daifend.ai/](https://daifend.ai/)  
+   Link: <a href="https://daifend.ai/" target="_blank" rel="noopener noreferrer nofollow">https://daifend.ai/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous AI Cyber DefenseLive autonomous threat telemetry simulation is active SECURING AI MEMORY &amp; AUTONOMOUS AGENTS Daifend secures A...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: zenodo.org  
-   Link: [https://zenodo.org/records/15758785](https://zenodo.org/records/15758785)  
+   Link: <a href="https://zenodo.org/records/15758785" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/15758785</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>June 28, 2025 — Published June 28, 2025 | Version v1 Dataset Open RUNTIME MONITORING FOR CONCERNING REASONING PATTERNS IN AI: INTEGRATING...</p></details>
    Published: June 28, 2025  
 
 13. <a id="endnote-13"></a>
    Source: starseer.ai  
-   Link: [https://www.starseer.ai/solutions/ai-security-exposure-management](https://www.starseer.ai/solutions/ai-security-exposure-management)  
+   Link: <a href="https://www.starseer.ai/solutions/ai-security-exposure-management" target="_blank" rel="noopener noreferrer nofollow">https://www.starseer.ai/solutions/ai-security-exposure-management</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Secure AI systems end-to-end with visibility and protection across development, runtime, and post-incident response. Book a Demo Book a Demo...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: edgelabs.ai  
-   Link: [https://edgelabs.ai/](https://edgelabs.ai/)  
+   Link: <a href="https://edgelabs.ai/" target="_blank" rel="noopener noreferrer nofollow">https://edgelabs.ai/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Real-time protection. Everywhere your workloads run — hybrid cloud, GPU clusters, Kubernetes, sovereign environments — all inference loca...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: aimodels.fyi  
-   Link: [https://www.aimodels.fyi/papers/arxiv/agentspec-customizable-runtime-enforcement-safe-reliable-llm](https://www.aimodels.fyi/papers/arxiv/agentspec-customizable-runtime-enforcement-safe-reliable-llm)  
+   Link: <a href="https://www.aimodels.fyi/papers/arxiv/agentspec-customizable-runtime-enforcement-safe-reliable-llm" target="_blank" rel="noopener noreferrer nofollow">https://www.aimodels.fyi/papers/arxiv/agentspec-customizable-runtime-enforcement-safe-reliable-llm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AGENTSPEC: CUSTOMIZABLE RUNTIME ENFORCEMENT FOR SAFE AND RELIABLE LLM AGENTS Published 3/25/2025 by Haoyu Wang, Christopher M. Poskitt...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: aleytheya.com  
-   Link: [https://aleytheya.com/products/cerberus](https://aleytheya.com/products/cerberus)  
+   Link: <a href="https://aleytheya.com/products/cerberus" target="_blank" rel="noopener noreferrer nofollow">https://aleytheya.com/products/cerberus</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cerberus is Aleytheya&#x27;s runtime control layer. It sits between your AI agents, tools, and LLM providers; checks every request...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: gist.science  
    Title: Prob Guard: Probabilistic Runtime Monitoring for LLM Agent Safety | Gist.Science  
-   Link: [https://gist.science/paper/2508.00500](https://gist.science/paper/2508.00500)  
+   Link: <a href="https://gist.science/paper/2508.00500" target="_blank" rel="noopener noreferrer nofollow">https://gist.science/paper/2508.00500</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ProbGuard: Probabilistic Runtime Monitoring for LLM Agent Safety | Gist.ScienceMarch 30, 2026 — PROBGUARD: PROBABILISTIC RUNTIME MONITORI...</p></details>
    Published: March 30, 2026  
 
 18. <a id="endnote-18"></a>
    Source: getonex.ai  
    Title: One X is different: it focuses on inside‑the‑brain signals, exposing layers, ac  
-   Link: [https://getonex.ai/](https://getonex.ai/)  
+   Link: <a href="https://getonex.ai/" target="_blank" rel="noopener noreferrer nofollow">https://getonex.ai/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OneX | Enterprise AI Observability, Compliance &amp; Guardrails PlatformENTERPRISE AI OBSERVABILITY PLATFORM Most “AI observability” stops at...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: opencla.watch  
-   Link: [https://opencla.watch/](https://opencla.watch/)  
+   Link: <a href="https://opencla.watch/" target="_blank" rel="noopener noreferrer nofollow">https://opencla.watch/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LOCALLY. Open-source, OTel-native observability for autonomous AI agents. Now available on PyPI and npm. MIT licensed. Ge...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: zylos.ai  
    Title: Runtime Verification and Temporal Logic for AI Agent Safety | Zylos Research  
-   Link: [https://zylos.ai/research/2026-03-15-runtime-verification-temporal-logic-ai-agent-safety](https://zylos.ai/research/2026-03-15-runtime-verification-temporal-logic-ai-agent-safety)  
+   Link: <a href="https://zylos.ai/research/2026-03-15-runtime-verification-temporal-logic-ai-agent-safety" target="_blank" rel="noopener noreferrer nofollow">https://zylos.ai/research/2026-03-15-runtime-verification-temporal-logic-ai-agent-safety</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March 15, 2026 — 2026-03-15 RUNTIME VERIFICATION AND TEMPORAL LOGIC FOR AI AGENT SAFETY runtime-verification temporal-logic agent-safety...</p></details>
    Published: March 15, 2026  

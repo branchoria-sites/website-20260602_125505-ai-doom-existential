@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_dangerous_aut_8f4266_multi_step_ai_ed5101_anthropic_age_e0c6ba
 - AI_Doom_and_E_87399b_dangerous_aut_8f4266_multi_step_ai_ed5101_outcome_metri_7dd93f
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - autonomy
 - long-horizon-risks
 - error-snowballs
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - autonomy
 - long-horizon-risks
 - error-snowballs
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Long workflows can turn individually rare AI mistakes into serious failures as plans, tool use, and context drift compound over many steps.
 hero_summary: Long workflows can turn individually rare AI mistakes into serious failures as plans, tool use, and context drift compound over many steps.
 layout: default
 permalink: /error-snowballs/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /autonomy/
 - /long-horizon-risks/
 nav_short_title: Error snowballs
@@ -211,10 +211,10 @@ parent_heading_title: How Multi Step AI Goals Amplify Risk
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_dangerous_aut_8f4266
-  title: Autonomy | AI Doom and
+  title: Autonomy | AI Doom and E 87399 b
   permalink: /autonomy/
   short_title: Autonomy
   heading_title: When Does AI Autonomy Become Dangerous?
@@ -226,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_dangerous_aut_8f4266
-  title: Autonomy | AI Doom and
+  title: Autonomy | AI Doom and E 87399 b
   permalink: /autonomy/
   short_title: Autonomy
   heading_title: When Does AI Autonomy Become Dangerous?
@@ -275,7 +275,7 @@ image: /assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_multi_step_ai_ed
 
 ## Introduction
 
-A central worry among analysts concerned with **[AI doom and]({{ 'ai-doom-and/' | relative_url }}) existential risk** is not just that AI systems might *fail*, but that seemingly tiny mistakes can **build up into [catastrophic]({{ 'misuse/' | relative_url }}) behaviour when an AI pursues a goal across many steps** rather than simply answering one question. In long, multi‑step workflows — where an agent plans, executes, checks, and re‑plans — each decision becomes a potential pivot point. Small errors early on can subtly distort context, misdirect action, and progressively drift away from human intent, potentially turning an initially harmless task into a seriously misaligned outcome. This section explains how such “error snowballing” arises in long workflows and why safety researchers see it as a distinctive mechanism connecting extended autonomy to misalignment risk. <span class="citation-chip-wrap"><a class="citation-chip" href="https://24-ai.news/en/vijest/2026-04-15/arxiv-horizon-agenti-dugi-zadaci/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 24-ai.news">[24 AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">24-ai.news</span><span class="citation-popover-title">arxiv horizon agenti dugi zadaci</span><span class="citation-popover-snippet">24 AIArXiv: HORIZON — Where and Why AI Agents Fail on Long-Horizon Tasks | 24 AIApril 15, 2026...</span><span class="citation-popover-meta">Published: April 15, 2026</span></span></span>
+A central worry among analysts concerned with **AI doom and existential risk** is not just that AI systems might *fail*, but that seemingly tiny mistakes can **build up into [catastrophic]({{ 'misuse/' | relative_url }}) behaviour when an AI pursues a goal across many steps** rather than simply answering one question. In long, multi‑step workflows — where an agent plans, executes, checks, and re‑plans — each decision becomes a potential pivot point. Small errors early on can subtly distort context, misdirect action, and progressively drift away from human intent, potentially turning an initially harmless task into a seriously misaligned outcome. This section explains how such “error snowballing” arises in long workflows and why safety researchers see it as a distinctive mechanism connecting extended [autonomy]({{ 'autonomy/' | relative_url }}) to misalignment risk. <span class="citation-chip-wrap"><a class="citation-chip" href="https://24-ai.news/en/vijest/2026-04-15/arxiv-horizon-agenti-dugi-zadaci/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 24-ai.news">[24 AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">24-ai.news</span><span class="citation-popover-title">arxiv horizon agenti dugi zadaci</span><span class="citation-popover-snippet">24 AIArXiv: HORIZON — Where and Why AI Agents Fail on Long-Horizon Tasks &#124; 24 AIApril 15, 2026...</span><span class="citation-popover-meta">Published: April 15, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_multi_step_ai_ed5101_agent_error_s_7394fc-Illustration-1-dark.svg" | relative_url }}" alt="Error snowballs illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_multi_step_ai_ed5101_agent_error_s_7394fc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_multi_step_ai_ed5101_agent_error_s_7394fc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -284,9 +284,9 @@ A central worry among analysts concerned with **[AI doom and]({{ 'ai-doom-and/' 
 When an AI agent operates in a **long‑horizon task** — one with dozens or hundreds of sequential decisions — the mathematics of probability alone helps explain why reliability often collapses.
 
 * **Compound probability chains**: If an agent has a 95 % chance of executing any one step without error, a workflow requiring **20 sequential steps** has about only a 36 % chance of completing successfully; even 99 % per‑step accuracy still yields an ~18 % total failure rate. That’s not edge‑case maths; it’s basic sequential probability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://theagenttimes.com/articles/new-benchmark-exposes-where-we-break-down-on-long-horizon-ta-67bf4ecc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theagenttimes.com">[The Agent Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theagenttimes.com</span><span class="citation-popover-snippet">The Agent TimesNew Benchmark Exposes Where We Break Down on Long-Horizon Tasks — The Agent TimesApril 15, 2026...</span><span class="citation-popover-meta">Published: April 15, 2026</span></span></span>
-* **Hidden accumulation**: Models may not immediately fail outright, but subtle inaccuracies — misinterpreted instructions, slight context misalignments, or imprecise tool outputs — quietly embed themselves into the agent’s working state. Many benchmarks and production observations find this **context degradation** becomes more serious with every step, not less, because later decisions depend on earlier ones being right. <span class="citation-chip-wrap"><a class="citation-chip" href="https://24-ai.news/en/vijest/2026-04-15/arxiv-horizon-agenti-dugi-zadaci/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 24-ai.news">[24 AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">24-ai.news</span><span class="citation-popover-title">arxiv horizon agenti dugi zadaci</span><span class="citation-popover-snippet">24 AIArXiv: HORIZON — Where and Why AI Agents Fail on Long-Horizon Tasks | 24 AIApril 15, 2026...</span><span class="citation-popover-meta">Published: April 15, 2026</span></span></span>
+* **Hidden accumulation**: Models may not immediately fail outright, but subtle inaccuracies — misinterpreted instructions, slight context misalignments, or imprecise tool outputs — quietly embed themselves into the agent’s working state. Many benchmarks and production observations find this **context degradation** becomes more serious with every step, not less, because later decisions depend on earlier ones being right. <span class="citation-chip-wrap"><a class="citation-chip" href="https://24-ai.news/en/vijest/2026-04-15/arxiv-horizon-agenti-dugi-zadaci/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 24-ai.news">[24 AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">24-ai.news</span><span class="citation-popover-title">arxiv horizon agenti dugi zadaci</span><span class="citation-popover-snippet">24 AIArXiv: HORIZON — Where and Why AI Agents Fail on Long-Horizon Tasks &#124; 24 AIApril 15, 2026...</span><span class="citation-popover-meta">Published: April 15, 2026</span></span></span>
 
-For long workflows, this compounding is particularly insidious: a single minor mistake early on can shift the foundational context on which **every subsequent decision** depends. If unnoticed or uncorrected, that drift underpins progressively divergent behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/AISystemsEngineering/comments/1sevnbt/why_do_longrunning_agents_degrade_even_if_memory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Why do long-running agents degrade even if memory is well structured?</span><span class="citation-popover-snippet">RedditWhy do long-running agents degrade even if memory is well structured?April 7, 2026...</span><span class="citation-popover-meta">Published: April 7, 2026</span></span></span>
+For long workflows, this compounding is particularly insidious: a single minor mistake early on can shift the foundational context on which **every subsequent decision** depends. If unnoticed or uncorrected, that drift underpins progressively divergent behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/AISystemsEngineering/comments/1sevnbt/why_do_longrunning_agents_degrade_even_if_memory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Why do long-running agents degrade even if memory is well structured?</span><span class="citation-popover-snippet">Why do long-running agents degrade even if memory is well structured?April 7, 2026...</span><span class="citation-popover-meta">Published: April 7, 2026</span></span></span>
 
 ## Mechanisms That Make Error Snowballing Worse
 
@@ -294,15 +294,15 @@ Researchers and engineers point to several structural mechanisms by which small 
 
 **1. Context window saturation and loss**
 
-Many large‑language‑model agents operate with a “working memory” of recent context. As steps accumulate, that context window fills up with intermediate results, extraneous details and tool outputs. When this happens, the agent may gradually *forget* the original goal or misinterpret earlier instructions, introducing drift that isn’t obvious until it’s too embedded to reverse. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zylos.ai/research/2026-04-03-goal-persistence-drift-long-horizon-ai-agents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zylos.ai">[Zylos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zylos.ai</span><span class="citation-popover-title">Goal Persistence and Goal Drift in Long-Horizon AI Agents | Zylos Research</span><span class="citation-popover-snippet">ZylosGoal Persistence and Goal Drift in Long-Horizon AI Agents | Zylos Research...</span></span></span>
+Many large‑language‑model agents operate with a “working memory” of recent context. As steps accumulate, that context window fills up with intermediate results, extraneous details and tool outputs. When this happens, the agent may gradually *forget* the original goal or misinterpret earlier instructions, introducing drift that isn’t obvious until it’s too embedded to reverse. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zylos.ai/research/2026-04-03-goal-persistence-drift-long-horizon-ai-agents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zylos.ai">[Zylos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zylos.ai</span><span class="citation-popover-title">Goal Persistence and Goal Drift in Long-Horizon AI Agents &#124; Zylos Research</span><span class="citation-popover-snippet">Goal Persistence and Goal Drift in Long-Horizon AI Agents &#124; Zylos Research...</span></span></span>
 
 **2. Goal drift through optimization shortcuts**
 
-Breaking a task into subtasks — a common strategy in autonomous planning — introduces additional degrees of freedom. An agent optimising aggressively for a convenient subgoal can gradually lose track of the overarching objective, especially if intermediate feedback emphasizes “progress” over strict alignment with the original human intent. This misalignment can propagate, with each sub‑objective reinforcing the drift. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zylos.ai/research/2026-05-14-long-horizon-planning-goal-decomposition-ai-agents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zylos.ai">[Zylos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zylos.ai</span><span class="citation-popover-title">Long-Horizon Planning and Goal Decomposition in AI Agents | Zylos Research</span><span class="citation-popover-snippet">ZylosLong-Horizon Planning and Goal Decomposition in AI Agents | Zylos ResearchMay 14, 2026...</span><span class="citation-popover-meta">Published: May 14, 2026</span></span></span>
+Breaking a task into subtasks — a common strategy in autonomous planning — introduces additional degrees of freedom. An agent optimising aggressively for a convenient subgoal can gradually lose track of the overarching objective, especially if intermediate feedback emphasizes “progress” over strict alignment with the original human intent. This misalignment can propagate, with each sub‑objective reinforcing the drift. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zylos.ai/research/2026-05-14-long-horizon-planning-goal-decomposition-ai-agents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zylos.ai">[Zylos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zylos.ai</span><span class="citation-popover-title">Long-Horizon Planning and Goal Decomposition in AI Agents &#124; Zylos Research</span><span class="citation-popover-snippet">Long-Horizon Planning and Goal Decomposition in AI Agents &#124; Zylos ResearchMay 14, 2026...</span><span class="citation-popover-meta">Published: May 14, 2026</span></span></span>
 
 **3. Noise and stochastic drift**
 
-Typical LLM agents use probabilistic sampling rather than deterministic logic. That means two runs on the same workflow can yield different intermediate states. When the sequence is long, this **stochasticity** interacts with minor errors to amplify deviation: a random but plausible choice early can reroute the agent’s reasoning, creating a cascade of divergent consequences that appear coherent but are mistaken. <span class="citation-chip-wrap"><a class="citation-chip" href="https://researchtrend.ai/papers/2602.19008" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchtrend.ai">[ResearchTrend.AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchtrend.ai</span><span class="citation-popover-snippet">Capable but Unreliable: Canonical Path Deviation as a Causal Mechanism of Agent Failure in Long-Horizon Tasks | ResearchTrend.AIFebruary...</span></span></span>
+Typical LLM agents use probabilistic sampling rather than deterministic logic. That means two runs on the same workflow can yield different intermediate states. When the sequence is long, this **stochasticity** interacts with minor errors to amplify deviation: a random but plausible choice early can reroute the agent’s reasoning, creating a cascade of divergent consequences that appear coherent but are mistaken. <span class="citation-chip-wrap"><a class="citation-chip" href="https://researchtrend.ai/papers/2602.19008" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchtrend.ai">[ResearchTrend.AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchtrend.ai</span><span class="citation-popover-snippet">Capable but Unreliable: Canonical Path Deviation as a Causal Mechanism of Agent Failure in Long-Horizon Tasks &#124; ResearchTrend.AIFebruary...</span></span></span>
 
 **4. Retrieval and summarisation loss**
 
@@ -319,13 +319,13 @@ The snowballing of small errors matters for two distinct but connected reasons:
 
 **A. Reliability declines non‑linearly with task length**
 
-Empirical benchmarks show that success rates don’t simply decline with more steps — they often **collapse past certain horizons**. Some engineers observe a “35‑minute cliff” or early performance walls in production‑scale agents where error rates accelerate rather than increase steadily. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zylos.ai/research/2026-04-03-goal-persistence-drift-long-horizon-ai-agents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zylos.ai">[Zylos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zylos.ai</span><span class="citation-popover-title">Goal Persistence and Goal Drift in Long-Horizon AI Agents | Zylos Research</span><span class="citation-popover-snippet">ZylosGoal Persistence and Goal Drift in Long-Horizon AI Agents | Zylos Research...</span></span></span>
+Empirical benchmarks show that success rates don’t simply decline with more steps — they often **collapse past certain horizons**. Some engineers observe a “35‑minute cliff” or early performance walls in production‑scale agents where error rates accelerate rather than increase steadily. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zylos.ai/research/2026-04-03-goal-persistence-drift-long-horizon-ai-agents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zylos.ai">[Zylos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zylos.ai</span><span class="citation-popover-title">Goal Persistence and Goal Drift in Long-Horizon AI Agents &#124; Zylos Research</span><span class="citation-popover-snippet">Goal Persistence and Goal Drift in Long-Horizon AI Agents &#124; Zylos Research...</span></span></span>
 
 **B. Apparent success can mask misalignment**
 
 An agent can produce **plausible intermediates** while still drifting from what humans intended. Because many [evaluations]({{ 'evaluations/' | relative_url }}) focus only on final outputs, they can miss the fact that internal context or subgoals are off‑track — a silent drift analogous to a navigational error that only becomes evident when the destination is wrong. <span class="citation-chip-wrap"><a class="citation-chip" href="https://theagenttimes.com/articles/new-benchmark-exposes-where-we-break-down-on-long-horizon-ta-67bf4ecc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theagenttimes.com">[The Agent Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theagenttimes.com</span><span class="citation-popover-snippet">The Agent TimesNew Benchmark Exposes Where We Break Down on Long-Horizon Tasks — The Agent TimesApril 15, 2026...</span><span class="citation-popover-meta">Published: April 15, 2026</span></span></span>
 
-For alignment debates, these effects raise specific concerns: if an advanced AI were pursuing not a simple task but a high‑stakes objective over thousands of steps, small misalignments could *compound into strategies that systematically diverge from human values even while superficially seeming competent*. That is one route by which extended [autonomy]({{ 'autonomy/' | relative_url }}) could contribute to loss‑of‑control scenarios in existential risk reasoning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://24-ai.news/en/vijest/2026-04-15/arxiv-horizon-agenti-dugi-zadaci/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 24-ai.news">[24 AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">24-ai.news</span><span class="citation-popover-title">arxiv horizon agenti dugi zadaci</span><span class="citation-popover-snippet">24 AIArXiv: HORIZON — Where and Why AI Agents Fail on Long-Horizon Tasks | 24 AIApril 15, 2026...</span><span class="citation-popover-meta">Published: April 15, 2026</span></span></span>
+For alignment debates, these effects raise specific concerns: if an advanced AI were pursuing not a simple task but a high‑stakes objective over thousands of steps, small misalignments could *compound into strategies that systematically diverge from human values even while superficially seeming competent*. That is one route by which extended autonomy could contribute to loss‑of‑control scenarios in existential risk reasoning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://24-ai.news/en/vijest/2026-04-15/arxiv-horizon-agenti-dugi-zadaci/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 24-ai.news">[24 AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">24-ai.news</span><span class="citation-popover-title">arxiv horizon agenti dugi zadaci</span><span class="citation-popover-snippet">24 AIArXiv: HORIZON — Where and Why AI Agents Fail on Long-Horizon Tasks &#124; 24 AIApril 15, 2026...</span><span class="citation-popover-meta">Published: April 15, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_multi_step_ai_ed5101_agent_error_s_7394fc-Illustration-2-dark.svg" | relative_url }}" alt="Error snowballs illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_multi_step_ai_ed5101_agent_error_s_7394fc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_multi_step_ai_ed5101_agent_error_s_7394fc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -335,19 +335,19 @@ Developers and safety researchers are already tracking several indicators that e
 
 * **Rapid reliability decay curves** where success drops dramatically with modest increases in task horizon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv-troller.com/paper/3130463/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv-troller.com">[arXiv Troller]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv-troller.com</span><span class="citation-popover-title">arXiv Troller Beyond pass@1: A Reliability Science Framework fo…</span><span class="citation-popover-snippet">arXiv TrollerBeyond pass@1: A Reliability Science Framework fo… - arXivMarch 31, 2026...</span><span class="citation-popover-meta">Published: March 31, 2026</span></span></span>
 * **Context incoherence diagnostics** showing that intermediate reasoning states begin to contradict earlier instructions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://theagenttimes.com/articles/new-benchmark-exposes-where-we-break-down-on-long-horizon-ta-67bf4ecc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theagenttimes.com">[The Agent Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theagenttimes.com</span><span class="citation-popover-snippet">The Agent TimesNew Benchmark Exposes Where We Break Down on Long-Horizon Tasks — The Agent TimesApril 15, 2026...</span><span class="citation-popover-meta">Published: April 15, 2026</span></span></span>
-* **[Benchmark]({{ 'benchmark-limits/' | relative_url }}) failures** where long‑horizon tasks show consistent drift or stagnation in performance despite strong short‑step outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2604.11978" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivThe Long-Horizon Task Mirage? Diagnosing Where and Why Agentic Systems BreakApril 13, 2026...</span><span class="citation-popover-meta">Published: April 13, 2026</span></span></span>
+* **Benchmark failures** where long‑horizon tasks show consistent drift or stagnation in performance despite strong short‑step outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2604.11978" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Long-Horizon Task Mirage? Diagnosing Where and Why Agentic Systems BreakApril 13, 2026...</span><span class="citation-popover-meta">Published: April 13, 2026</span></span></span>
 * **Silent error accumulation** — such as document corruption or content drift — that isn’t visible until the end of a workflow. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techradar.com/pro/current-llms-introduce-substantial-errors-when-editing-work-documents-microsoft-scientists-find-most-ai-models-struggle-with-long-running-tasks-so-maybe-dont-trust-them-completely-just-yet" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-snippet">Researchers tested 19 AI models, including leading versions like GPT-5.4, Gemini 3.1 Pro, and Claude 4.6 Opus, using a new DELEGATE-52 be...</span></span></span>
 
-These patterns not only help engineers identify brittle systems in production; they also provide a basis for researchers worried about long‑horizon autonomy. If even current systems struggle with reliability and drift over multi‑step tasks, **the leap to highly autonomous, goal‑persistent systems introduces additional layers of [uncertainty]({{ 'uncertainty/' | relative_url }}) and potential misalignment** absent robust safeguards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.microsoft.com/en-us/research/publication/agentrx-diagnosing-ai-agent-failures-from-execution-trajectories/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: microsoft.com">[Microsoft]</a><span class="citation-popover" role="note"><span class="citation-popover-source">microsoft.com</span><span class="citation-popover-title">Agent Rx: Diagnosing AI Agent Failures from Execution Trajectories</span><span class="citation-popover-snippet">MicrosoftAgentRx: Diagnosing AI Agent Failures from Execution Trajectories - Microsoft ResearchFebruary 1, 2026...</span><span class="citation-popover-meta">Published: February 1, 2026</span></span></span>
+These patterns not only help engineers identify brittle systems in production; they also provide a basis for researchers worried about long‑horizon autonomy. If even current systems struggle with reliability and drift over multi‑step tasks, **the leap to highly autonomous, goal‑persistent systems introduces additional layers of [uncertainty]({{ 'uncertainty/' | relative_url }}) and potential misalignment** absent robust safeguards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.microsoft.com/en-us/research/publication/agentrx-diagnosing-ai-agent-failures-from-execution-trajectories/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: microsoft.com">[Microsoft]</a><span class="citation-popover" role="note"><span class="citation-popover-source">microsoft.com</span><span class="citation-popover-title">Agent Rx: Diagnosing AI Agent Failures from Execution Trajectories</span><span class="citation-popover-snippet">AgentRx: Diagnosing AI Agent Failures from Execution Trajectories - Microsoft ResearchFebruary 1, 2026...</span><span class="citation-popover-meta">Published: February 1, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Z-Lh1NYN7lE" title="The Disaster That Made AI Governance Go VIRAL | Agents Go Wild" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Z-Lh1NYN7lE" target="_blank" rel="noopener noreferrer">The Disaster That Made AI Governance Go VIRAL | Agents Go Wild</a></p><p class="youtube-embed-meta">Channel: ServiceNow Community &middot; Views: 161 &middot; Uploaded: May 2026 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Z-Lh1NYN7lE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Z-Lh1NYN7lE">Open on YouTube</a></p></div></div></div>
 
 ## Implications for Safety and Alignment
 
-The mechanism of error snowballing sharpens a broader AI risk argument: sophisticated behaviours don’t just emerge from more capable models, they emerge from *persistence over time.* Errors that seem insignificant in a single step can, over many steps, **alter an agent’s decision‑making path** dramatically. In long‑horizon AI systems — whether in enterprise [automation]({{ 'automation-bias/' | relative_url }}) or hypothetical advanced autonomy — this dynamic highlights why **reliability, context retention, and explicit measures against drift** are central to mitigating misalignment rather than optional engineering details. <span class="citation-chip-wrap"><a class="citation-chip" href="https://theagenttimes.com/articles/new-benchmark-exposes-where-we-break-down-on-long-horizon-ta-67bf4ecc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theagenttimes.com">[The Agent Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theagenttimes.com</span><span class="citation-popover-snippet">The Agent TimesNew Benchmark Exposes Where We Break Down on Long-Horizon Tasks — The Agent TimesApril 15, 2026...</span><span class="citation-popover-meta">Published: April 15, 2026</span></span></span>
+The mechanism of error snowballing sharpens a broader AI risk argument: sophisticated behaviours don’t just emerge from more capable models, they emerge from *persistence over time.* Errors that seem insignificant in a single step can, over many steps, **alter an agent’s decision‑making path** dramatically. In long‑horizon AI systems — whether in enterprise automation or hypothetical advanced autonomy — this dynamic highlights why **reliability, context retention, and explicit measures against drift** are central to mitigating misalignment rather than optional engineering details. <span class="citation-chip-wrap"><a class="citation-chip" href="https://theagenttimes.com/articles/new-benchmark-exposes-where-we-break-down-on-long-horizon-ta-67bf4ecc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theagenttimes.com">[The Agent Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theagenttimes.com</span><span class="citation-popover-snippet">The Agent TimesNew Benchmark Exposes Where We Break Down on Long-Horizon Tasks — The Agent TimesApril 15, 2026...</span><span class="citation-popover-meta">Published: April 15, 2026</span></span></span>
 
-**Paths that researchers are exploring** to mitigate these risks include explicit verification checkpoints, formal state validation structures, and hierarchical planning architectures that embed [human oversight]({{ 'human-oversight/' | relative_url }}) at intermediate stages. Such approaches aim to interrupt the snowballing process before small errors can transform into systemic misalignment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/AISystemsEngineering/comments/1sevnbt/why_do_longrunning_agents_degrade_even_if_memory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Why do long-running agents degrade even if memory is well structured?</span><span class="citation-popover-snippet">RedditWhy do long-running agents degrade even if memory is well structured?April 7, 2026...</span><span class="citation-popover-meta">Published: April 7, 2026</span></span></span>
+**Paths that researchers are exploring** to mitigate these risks include explicit verification checkpoints, formal state validation structures, and hierarchical planning architectures that embed [human oversight]({{ 'human-oversight/' | relative_url }}) at intermediate stages. Such approaches aim to interrupt the snowballing process before small errors can transform into systemic misalignment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/AISystemsEngineering/comments/1sevnbt/why_do_longrunning_agents_degrade_even_if_memory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Why do long-running agents degrade even if memory is well structured?</span><span class="citation-popover-snippet">Why do long-running agents degrade even if memory is well structured?April 7, 2026...</span><span class="citation-popover-meta">Published: April 7, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ofIYrXsZPz8" title="Why 50% of AI Agents Fails" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ofIYrXsZPz8" target="_blank" rel="noopener noreferrer">Why 50% of AI Agents Fails</a></p><p class="youtube-embed-meta">Channel: Hey sidG &middot; Views: 15 &middot; Uploaded: May 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ofIYrXsZPz8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ofIYrXsZPz8">Open on YouTube</a></p></div></div></div>
@@ -356,7 +356,7 @@ The mechanism of error snowballing sharpens a broader AI risk argument: sophisti
 
 Despite growing evidence of error compounding in long workflows, experts disagree on how this phenomenon scales with hypothetical **AGI‑level autonomy**. Some argue that smarter planning and structured goal representations will inherently reduce drift; others counter that without fundamentally different architectures for memory, verification, and value alignment, longer task durations will always amplify small errors in ways that are hard to predict. This uncertainty is fundamental to why long‑horizon evaluation is now seen as a priority in both safety research and practical engineering. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv-troller.com/paper/3130463/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv-troller.com">[arXiv Troller]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv-troller.com</span><span class="citation-popover-title">arXiv Troller Beyond pass@1: A Reliability Science Framework fo…</span><span class="citation-popover-snippet">arXiv TrollerBeyond pass@1: A Reliability Science Framework fo… - arXivMarch 31, 2026...</span><span class="citation-popover-meta">Published: March 31, 2026</span></span></span>
 
-In short, the snowballing of errors across many agentic steps is not a fringe engineering bug: it is a **core mechanism** by which long‑term autonomous behaviour can diverge from human intention, colouring how we think about reliability, alignment, and risk in advanced AI systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://24-ai.news/en/vijest/2026-04-15/arxiv-horizon-agenti-dugi-zadaci/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 24-ai.news">[24 AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">24-ai.news</span><span class="citation-popover-title">arxiv horizon agenti dugi zadaci</span><span class="citation-popover-snippet">24 AIArXiv: HORIZON — Where and Why AI Agents Fail on Long-Horizon Tasks | 24 AIApril 15, 2026...</span><span class="citation-popover-meta">Published: April 15, 2026</span></span></span>
+In short, the snowballing of errors across many agentic steps is not a fringe engineering bug: it is a **core mechanism** by which long‑term autonomous behaviour can diverge from human intention, colouring how we think about reliability, alignment, and risk in advanced AI systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://24-ai.news/en/vijest/2026-04-15/arxiv-horizon-agenti-dugi-zadaci/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 24-ai.news">[24 AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">24-ai.news</span><span class="citation-popover-title">arxiv horizon agenti dugi zadaci</span><span class="citation-popover-snippet">24 AIArXiv: HORIZON — Where and Why AI Agents Fail on Long-Horizon Tasks &#124; 24 AIApril 15, 2026...</span><span class="citation-popover-meta">Published: April 15, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_multi_step_ai_ed5101_agent_error_s_7394fc-Illustration-3-dark.svg" | relative_url }}" alt="Error snowballs illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_multi_step_ai_ed5101_agent_error_s_7394fc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_multi_step_ai_ed5101_agent_error_s_7394fc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -783,79 +783,79 @@ In short, the snowballing of errors across many agentic steps is not a fringe en
 1. <a id="endnote-1"></a>
    Source: 24-ai.news  
    Title: arxiv horizon agenti dugi zadaci  
-   Link: [https://24-ai.news/en/vijest/2026-04-15/arxiv-horizon-agenti-dugi-zadaci/](https://24-ai.news/en/vijest/2026-04-15/arxiv-horizon-agenti-dugi-zadaci/)  
+   Link: <a href="https://24-ai.news/en/vijest/2026-04-15/arxiv-horizon-agenti-dugi-zadaci/" target="_blank" rel="noopener noreferrer nofollow">https://24-ai.news/en/vijest/2026-04-15/arxiv-horizon-agenti-dugi-zadaci/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>24 AIArXiv: HORIZON — Where and Why AI Agents Fail on Long-Horizon Tasks | 24 AIApril 15, 2026...</p></details>
    Published: April 15, 2026  
 
 2. <a id="endnote-2"></a>
    Source: zylos.ai  
    Title: Goal Persistence and Goal Drift in Long-Horizon AI Agents | Zylos Research  
-   Link: [https://zylos.ai/research/2026-04-03-goal-persistence-drift-long-horizon-ai-agents](https://zylos.ai/research/2026-04-03-goal-persistence-drift-long-horizon-ai-agents)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ZylosGoal Persistence and Goal Drift in Long-Horizon AI Agents | Zylos Research...</p></details>
+   Link: <a href="https://zylos.ai/research/2026-04-03-goal-persistence-drift-long-horizon-ai-agents" target="_blank" rel="noopener noreferrer nofollow">https://zylos.ai/research/2026-04-03-goal-persistence-drift-long-horizon-ai-agents</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Goal Persistence and Goal Drift in Long-Horizon AI Agents | Zylos Research...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
    Title: Why do long-running agents degrade even if memory is well structured?  
-   Link: [https://www.reddit.com/r/AISystemsEngineering/comments/1sevnbt/why_do_longrunning_agents_degrade_even_if_memory/](https://www.reddit.com/r/AISystemsEngineering/comments/1sevnbt/why_do_longrunning_agents_degrade_even_if_memory/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditWhy do long-running agents degrade even if memory is well structured?April 7, 2026...</p></details>
+   Link: <a href="https://www.reddit.com/r/AISystemsEngineering/comments/1sevnbt/why_do_longrunning_agents_degrade_even_if_memory/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AISystemsEngineering/comments/1sevnbt/why_do_longrunning_agents_degrade_even_if_memory/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why do long-running agents degrade even if memory is well structured?April 7, 2026...</p></details>
    Published: April 7, 2026  
 
 4. <a id="endnote-4"></a>
    Source: researchtrend.ai  
-   Link: [https://researchtrend.ai/papers/2602.19008](https://researchtrend.ai/papers/2602.19008)  
+   Link: <a href="https://researchtrend.ai/papers/2602.19008" target="_blank" rel="noopener noreferrer nofollow">https://researchtrend.ai/papers/2602.19008</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Capable but Unreliable: Canonical Path Deviation as a Causal Mechanism of Agent Failure in Long-Horizon Tasks | ResearchTrend.AIFebruary...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: zylos.ai  
    Title: Long-Horizon Planning and Goal Decomposition in AI Agents | Zylos Research  
-   Link: [https://zylos.ai/research/2026-05-14-long-horizon-planning-goal-decomposition-ai-agents](https://zylos.ai/research/2026-05-14-long-horizon-planning-goal-decomposition-ai-agents)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ZylosLong-Horizon Planning and Goal Decomposition in AI Agents | Zylos ResearchMay 14, 2026...</p></details>
+   Link: <a href="https://zylos.ai/research/2026-05-14-long-horizon-planning-goal-decomposition-ai-agents" target="_blank" rel="noopener noreferrer nofollow">https://zylos.ai/research/2026-05-14-long-horizon-planning-goal-decomposition-ai-agents</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Long-Horizon Planning and Goal Decomposition in AI Agents | Zylos ResearchMay 14, 2026...</p></details>
    Published: May 14, 2026  
 
 6. <a id="endnote-6"></a>
    Source: arxiv-troller.com  
    Title: arXiv Troller Beyond pass@1: A Reliability Science Framework fo…  
-   Link: [https://arxiv-troller.com/paper/3130463/](https://arxiv-troller.com/paper/3130463/)  
+   Link: <a href="https://arxiv-troller.com/paper/3130463/" target="_blank" rel="noopener noreferrer nofollow">https://arxiv-troller.com/paper/3130463/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXiv TrollerBeyond pass@1: A Reliability Science Framework fo… - arXivMarch 31, 2026...</p></details>
    Published: March 31, 2026  
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2604.11978](https://arxiv.org/abs/2604.11978)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivThe Long-Horizon Task Mirage? Diagnosing Where and Why Agentic Systems BreakApril 13, 2026...</p></details>
+   Link: <a href="https://arxiv.org/abs/2604.11978" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.11978</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Long-Horizon Task Mirage? Diagnosing Where and Why Agentic Systems BreakApril 13, 2026...</p></details>
    Published: April 13, 2026  
 
 8. <a id="endnote-8"></a>
    Source: techradar.com  
-   Link: [https://www.techradar.com/pro/current-llms-introduce-substantial-errors-when-editing-work-documents-microsoft-scientists-find-most-ai-models-struggle-with-long-running-tasks-so-maybe-dont-trust-them-completely-just-yet](https://www.techradar.com/pro/current-llms-introduce-substantial-errors-when-editing-work-documents-microsoft-scientists-find-most-ai-models-struggle-with-long-running-tasks-so-maybe-dont-trust-them-completely-just-yet)  
+   Link: <a href="https://www.techradar.com/pro/current-llms-introduce-substantial-errors-when-editing-work-documents-microsoft-scientists-find-most-ai-models-struggle-with-long-running-tasks-so-maybe-dont-trust-them-completely-just-yet" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/pro/current-llms-introduce-substantial-errors-when-editing-work-documents-microsoft-scientists-find-most-ai-models-struggle-with-long-running-tasks-so-maybe-dont-trust-them-completely-just-yet</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers tested 19 AI models, including leading versions like GPT-5.4, Gemini 3.1 Pro, and Claude 4.6 Opus, using a new DELEGATE-52 be...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: microsoft.com  
    Title: Agent Rx: Diagnosing AI Agent Failures from Execution Trajectories  
-   Link: [https://www.microsoft.com/en-us/research/publication/agentrx-diagnosing-ai-agent-failures-from-execution-trajectories/](https://www.microsoft.com/en-us/research/publication/agentrx-diagnosing-ai-agent-failures-from-execution-trajectories/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MicrosoftAgentRx: Diagnosing AI Agent Failures from Execution Trajectories - Microsoft ResearchFebruary 1, 2026...</p></details>
+   Link: <a href="https://www.microsoft.com/en-us/research/publication/agentrx-diagnosing-ai-agent-failures-from-execution-trajectories/" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/publication/agentrx-diagnosing-ai-agent-failures-from-execution-trajectories/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AgentRx: Diagnosing AI Agent Failures from Execution Trajectories - Microsoft ResearchFebruary 1, 2026...</p></details>
    Published: February 1, 2026  
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ArtificialInteligence/comments/1rqp5xb/pobservation_from_running_longhorizon_ai_agents/](https://www.reddit.com/r/ArtificialInteligence/comments/1rqp5xb/pobservation_from_running_longhorizon_ai_agents/)  
+   Link: <a href="https://www.reddit.com/r/ArtificialInteligence/comments/1rqp5xb/pobservation_from_running_longhorizon_ai_agents/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ArtificialInteligence/comments/1rqp5xb/pobservation_from_running_longhorizon_ai_agents/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reddit[P]Observation from running long-horizon AI agents: reasoning drift seems to grow faster than task length — exploring ways to mitig...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: researchtrend.ai  
-   Link: [https://researchtrend.ai/papers/2603.29231](https://researchtrend.ai/papers/2603.29231)  
+   Link: <a href="https://researchtrend.ai/papers/2603.29231" target="_blank" rel="noopener noreferrer nofollow">https://researchtrend.ai/papers/2603.29231</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond pass@1: A Reliability Science Framework for Long-Horizon LLM Agents | ResearchTrend.AIMarch 31, 2026 — BEYOND PASS@1: A RELIABILIT...</p></details>
    Published: March 31, 2026  
 
 12. <a id="endnote-12"></a>
    Source: researchtrend.ai  
-   Link: [https://researchtrend.ai/papers/2602.10525](https://researchtrend.ai/papers/2602.10525)  
+   Link: <a href="https://researchtrend.ai/papers/2602.10525" target="_blank" rel="noopener noreferrer nofollow">https://researchtrend.ai/papers/2602.10525</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lee Udari Madhushani Sehwag David J. Lee Bryan Zhu Yash Maurya Mohit Raghavendra Yuan Xue...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: theagenttimes.com  
-   Link: [https://theagenttimes.com/articles/new-benchmark-exposes-where-we-break-down-on-long-horizon-ta-67bf4ecc](https://theagenttimes.com/articles/new-benchmark-exposes-where-we-break-down-on-long-horizon-ta-67bf4ecc)  
+   Link: <a href="https://theagenttimes.com/articles/new-benchmark-exposes-where-we-break-down-on-long-horizon-ta-67bf4ecc" target="_blank" rel="noopener noreferrer nofollow">https://theagenttimes.com/articles/new-benchmark-exposes-where-we-break-down-on-long-horizon-ta-67bf4ecc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Agent TimesNew Benchmark Exposes Where We Break Down on Long-Horizon Tasks — The Agent TimesApril 15, 2026...</p></details>
    Published: April 15, 2026  
 
@@ -863,63 +863,63 @@ In short, the snowballing of errors across many agentic steps is not a fringe en
 
 14. <a id="endnote-14"></a>
    Source: multi-step-agents.com  
-   Link: [https://multi-step-agents.com/](https://multi-step-agents.com/)  
+   Link: <a href="https://multi-step-agents.com/" target="_blank" rel="noopener noreferrer nofollow">https://multi-step-agents.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ATLAS — Autonomous Task &amp; Long-horizon Agentic Systems | ATLASWelcome to ATLAS ATLAS — AUTONOMOUS TASK &amp; Long-horizon Agentic Systems ATL...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: callsphere.ai  
-   Link: [https://callsphere.ai/blog/long-horizon-agent-tasks-why-90-percent-fail-after-three-hours](https://callsphere.ai/blog/long-horizon-agent-tasks-why-90-percent-fail-after-three-hours)  
+   Link: <a href="https://callsphere.ai/blog/long-horizon-agent-tasks-why-90-percent-fail-after-three-hours" target="_blank" rel="noopener noreferrer nofollow">https://callsphere.ai/blog/long-horizon-agent-tasks-why-90-percent-fail-after-three-hours</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Long-Horizon Agent Tasks: Why 90% Fail Past Hour Three (and How to Fix It) — Long horizon tasks | CallSphere BlogApril 23, 2026 — Agentic...</p></details>
    Published: April 23, 2026  
 
 16. <a id="endnote-16"></a>
    Source: agentmarketcap.ai  
-   Link: [https://agentmarketcap.ai/blog/2026/04/11/35-minute-autonomous-operation-cliff-production-agents](https://agentmarketcap.ai/blog/2026/04/11/35-minute-autonomous-operation-cliff-production-agents)  
+   Link: <a href="https://agentmarketcap.ai/blog/2026/04/11/35-minute-autonomous-operation-cliff-production-agents" target="_blank" rel="noopener noreferrer nofollow">https://agentmarketcap.ai/blog/2026/04/11/35-minute-autonomous-operation-cliff-production-agents</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The 35-Minute Cliff: Why Production AI Agents Fail After Half an Hour | AgentMarketCapApril 11, 2026 — THE 35-MINUTE CLIFF: WHY PRODUCTIO...</p></details>
    Published: April 11, 2026  
 
 17. <a id="endnote-17"></a>
    Source: latitude.so  
-   Link: [https://latitude.so/blog/why-ai-agents-break-in-production](https://latitude.so/blog/why-ai-agents-break-in-production)  
+   Link: <a href="https://latitude.so/blog/why-ai-agents-break-in-production" target="_blank" rel="noopener noreferrer nofollow">https://latitude.so/blog/why-ai-agents-break-in-production</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March 30, 2026 — Why AI Agents Break in Production: Failure Patterns and How to Detect Them WHY AI AGENTS BREAK IN PRODUCTION: FAILURE PA...</p></details>
    Published: March 30, 2026  
 
 18. <a id="endnote-18"></a>
    Source: yaihq.com  
    Title: Agentic AI systems fail differently from single-step language model inte  
-   Link: [https://yaihq.com/research/trajectory-integrity-problem-agentic-ai-drift](https://yaihq.com/research/trajectory-integrity-problem-agentic-ai-drift)  
+   Link: <a href="https://yaihq.com/research/trajectory-integrity-problem-agentic-ai-drift" target="_blank" rel="noopener noreferrer nofollow">https://yaihq.com/research/trajectory-integrity-problem-agentic-ai-drift</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Trajectory Integrity Problem: Why Agentic AI Systems Drift Over Time | yAIMay 22, 2026 — by Yassin Hafid·May 22, 2026·8 min read THE...</p></details>
    Published: May 22, 2026  
 
 19. <a id="endnote-19"></a>
    Source: ema.ai  
    Title: Multi-Agent AI Risks: What Enterprises Must Fix Before Scale  
-   Link: [https://www.ema.ai/additional-blogs/addition-blogs/multi-agent-risks-advanced-ai](https://www.ema.ai/additional-blogs/addition-blogs/multi-agent-risks-advanced-ai)  
+   Link: <a href="https://www.ema.ai/additional-blogs/addition-blogs/multi-agent-risks-advanced-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.ema.ai/additional-blogs/addition-blogs/multi-agent-risks-advanced-ai</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 8, 2026 — MULTI-AGENT AI RISKS: WHAT ENTERPRISES MUST FIX BEFORE SCALE Image: banner multi agent risks from advanced ai May 8, 2026...</p></details>
    Published: May 8, 2026  
 
 20. <a id="endnote-20"></a>
    Source: ema.ai  
    Title: Understanding Why Multi-Agent LLM Systems Fail  
-   Link: [https://www.ema.ai/additional-blogs/addition-blogs/multi-agent-llm-systems-fail-reasons](https://www.ema.ai/additional-blogs/addition-blogs/multi-agent-llm-systems-fail-reasons)  
+   Link: <a href="https://www.ema.ai/additional-blogs/addition-blogs/multi-agent-llm-systems-fail-reasons" target="_blank" rel="noopener noreferrer nofollow">https://www.ema.ai/additional-blogs/addition-blogs/multi-agent-llm-systems-fail-reasons</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>July 18, 2025 — THE MOST COMMON FAILURE POINTS IN MULTI-AGENT LLM SYSTEMS Image: Hero Banner The idea of multiple intelligent agents coll...</p></details>
    Published: July 18, 2025  
 
 21. <a id="endnote-21"></a>
    Source: ibm.com  
    Title: In testing, the system performs well, analy  
-   Link: [https://www.ibm.com/think/insights/context-gap-why-ai-systems-fail-real-world](https://www.ibm.com/think/insights/context-gap-why-ai-systems-fail-real-world)  
+   Link: <a href="https://www.ibm.com/think/insights/context-gap-why-ai-systems-fail-real-world" target="_blank" rel="noopener noreferrer nofollow">https://www.ibm.com/think/insights/context-gap-why-ai-systems-fail-real-world</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why AI systems fail in the real world | IBMApril 16, 2026 — THE CONTEXT GAP: WHY AI SYSTEMS FAIL IN THE REAL WORLD By Ray Beharry Publish...</p></details>
    Published: April 16, 2026  
 
 22. <a id="endnote-22"></a>
    Source: huggingface.co  
    Title: Lee], [Button: Uda  
-   Link: [https://huggingface.co/papers/2602.10525](https://huggingface.co/papers/2602.10525)  
+   Link: <a href="https://huggingface.co/papers/2602.10525" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/papers/2602.10525</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Paper page - LHAW: Controllable Underspecification for Long-Horizon Tasksarxiv:2602.10525 Copy markdown LHAW: CONTROLLABLE UNDERSPECIFICA...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s11229-023-04367-0](https://link.springer.com/article/10.1007/s11229-023-04367-0)  
+   Link: <a href="https://link.springer.com/article/10.1007/s11229-023-04367-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11229-023-04367-0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>cases of AI misalignment and their implications for future risks | Synthese | Springer Nature LinkOctober 26, 2023 — CURRENT CASES OF AI...</p></details>
    Published: October 26, 2023  

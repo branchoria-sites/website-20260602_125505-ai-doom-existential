@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e_compute_limit_3ad269
 - AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e_synthetic_dat_d1a2c9
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - ai-takeoff
 - successor-training
 - coding-agents
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - ai-takeoff
 - successor-training
 - coding-agents
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Coding progress matters because frontier AI development still depends heavily on software engineering, debugging, and experiment plumbing.
 hero_summary: Coding progress matters because frontier AI development still depends heavily on software engineering, debugging, and experiment plumbing.
 layout: default
 permalink: /coding-agents/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /ai-takeoff/
 - /successor-training/
 nav_short_title: Coding agents
@@ -211,10 +211,10 @@ parent_heading_title: Could AI train the next AI itself?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_recursive_imp_3a3504
-  title: AI Takeoff | AI Doom and
+  title: AI Takeoff | AI Doom and E 87399 b
   permalink: /ai-takeoff/
   short_title: AI Takeoff
   heading_title: Could AI Improvement Run Away From US?
@@ -226,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_recursive_imp_3a3504
-  title: AI Takeoff | AI Doom and
+  title: AI Takeoff | AI Doom and E 87399 b
   permalink: /ai-takeoff/
   short_title: AI Takeoff
   heading_title: Could AI Improvement Run Away From US?
@@ -269,11 +269,11 @@ image: /assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_716
 
 ## Introduction
 
-A key question in debates about [AI doom and]({{ 'ai-doom-and/' | relative_url }}) recursive self-improvement is whether coding agents could remove one of the biggest bottlenecks in frontier AI development: software engineering. Modern AI labs do not advance purely through scientific breakthroughs. They depend on vast amounts of coding, debugging, experiment management, evaluation infrastructure, data pipelines, monitoring systems, and [deployment]({{ 'release-gates/' | relative_url }}) work. If AI systems become able to perform much of that labour, the pace of AI development could accelerate significantly. If they cannot, then many fast-takeoff and intelligence-explosion scenarios become harder to realise.
+A key question in debates about AI doom and recursive self-improvement is whether coding agents could remove one of the biggest bottlenecks in frontier AI development: software engineering. Modern AI labs do not advance purely through scientific breakthroughs. They depend on vast amounts of coding, debugging, experiment management, evaluation infrastructure, data pipelines, [monitoring]({{ 'monitoring/' | relative_url }}) systems, and deployment work. If AI systems become able to perform much of that labour, the pace of AI development could accelerate significantly. If they cannot, then many fast-takeoff and intelligence-explosion scenarios become harder to realise.
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e_coding_agents_5cf58d-Illustration-1-dark.svg" | relative_url }}" alt="Coding agents illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e_coding_agents_5cf58d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e_coding_agents_5cf58d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The short answer is that coding agents are already removing some engineering bottlenecks, but there is little evidence that they can yet replace the full range of work performed by experienced AI researchers and research engineers. The importance of this question for existential-risk discussions is that software engineering may be easier to automate than scientific discovery. If machines can take over enough of the engineering burden, even without becoming brilliant scientists, they may still speed up the creation of more capable successor systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://github.com/anthropics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-snippet">GitHubAnthropicClaude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://metr.org/research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[Metr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-snippet">MetrResearchForecasting the Impacts of AI R&amp;D Acceleration: Results of a Pilot Study. 20 August 2025. AI agents are improving rapidly at...</span><span class="citation-popover-meta">Published: August 2025</span></span></span>
+The short answer is that coding agents are already removing some engineering bottlenecks, but there is little evidence that they can yet replace the full range of work performed by experienced AI researchers and research engineers. The importance of this question for existential-risk discussions is that software engineering may be easier to automate than scientific discovery. If machines can take over enough of the engineering burden, even without becoming brilliant scientists, they may still speed up the creation of more capable successor systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://github.com/anthropics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-snippet">AnthropicClaude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://metr.org/research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[Metr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-snippet">ResearchForecasting the Impacts of AI R&amp;D Acceleration: Results of a Pilot Study. 20 August 2025. AI agents are improving rapidly at...</span><span class="citation-popover-meta">Published: August 2025</span></span></span>
 
 ## Why AI labs depend on software engineering
 
@@ -281,7 +281,7 @@ Outside observers sometimes imagine frontier AI progress as being driven mainly 
 
 Training a frontier model requires maintaining enormous codebases, building data-processing pipelines, managing compute clusters, running thousands of experiments, tracking failures, evaluating model behaviour, analysing results, and integrating new techniques into production systems. Many proposed improvements never become useful because implementation, testing, and debugging take too long.
 
-This matters because engineering work is often more structured and measurable than open-ended scientific research. A coding agent does not necessarily need deep scientific insight to generate substantial productivity gains. If it can reliably fix bugs, write infrastructure, create tests, automate evaluations, and run experiments, it may remove delays that currently slow research teams. Several AI-risk forecasting efforts therefore treat AI automation of AI research and engineering as an especially important milestone because it could create a feedback loop in which AI systems help build better AI systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/2603.03992" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Measuring AI R&amp;D Automation</span><span class="citation-popover-snippet">arXivMeasuring AI R&amp;D AutomationMarch 4, 2026 — by A Chan · 2026 — For tasks more directly relevant to frontier research, METR&#x27;s RE-Bench...</span><span class="citation-popover-meta">Published: March 4, 2026</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://metr.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[Metr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-snippet">MetrMETROur AI evaluations research focuses on assessing broad autonomous capabilities and the ability of AI systems to accelerate AI R&amp;D...</span></span></span>
+This matters because engineering work is often more structured and measurable than open-ended scientific research. A coding agent does not necessarily need deep scientific insight to generate substantial productivity gains. If it can reliably fix bugs, write infrastructure, create tests, automate [evaluations]({{ 'evaluations/' | relative_url }}), and run experiments, it may remove delays that currently slow research teams. Several AI-risk forecasting efforts therefore treat AI automation of AI research and engineering as an especially important milestone because it could create a feedback loop in which AI systems help build better AI systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/2603.03992" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Measuring AI R&amp;D Automation</span><span class="citation-popover-snippet">Measuring AI R&amp;D AutomationMarch 4, 2026 — by A Chan · 2026 — For tasks more directly relevant to frontier research, METR&#x27;s RE-Bench...</span><span class="citation-popover-meta">Published: March 4, 2026</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://metr.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[Metr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-snippet">METROur AI evaluations research focuses on assessing broad autonomous capabilities and the ability of AI systems to accelerate AI R&amp;D...</span></span></span>
 
 One reason this possibility receives attention in x-risk discussions is that frontier AI development is increasingly constrained by skilled labour. Compute and funding matter, but experienced research engineers remain scarce. If AI systems can effectively multiply the productivity of those engineers, the practical research capacity of a lab could expand far faster than headcount alone would suggest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hyperdimensional.co/p/on-recursive-self-improvement-part" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hyperdimensional.co">[Hyperdimensional]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hyperdimensional.co</span><span class="citation-popover-title">On Recursive Self-Improvement (Part I</span><span class="citation-popover-snippet">BallFebruary 5, 2026 — 5 Feb 2026 — America&#x27;s major frontier AI labs have begun automating large fractions of their research and engineer...</span><span class="citation-popover-meta">Published: February 5, 2026</span></span></span>
 
@@ -297,12 +297,12 @@ Modern coding agents can often:
 * Search and understand large codebases.
 * Generate tests and documentation.
 * Debug routine software failures.
-* Execute repetitive engineering tasks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/2603.03992" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Measuring AI R&amp;D Automation</span><span class="citation-popover-snippet">arXivMeasuring AI R&amp;D AutomationMarch 4, 2026 — by A Chan · 2026 — For tasks more directly relevant to frontier research, METR&#x27;s RE-Bench...</span><span class="citation-popover-meta">Published: March 4, 2026</span></span></span>
-* Run bounded development workflows with limited supervision. <span class="citation-chip-wrap"><a class="citation-chip" href="https://github.com/anthropics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-snippet">GitHubAnthropicClaude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://checkmarx.com/learn/ai-security/top-12-ai-developer-tools-in-2026-for-security-coding-and-quality/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: checkmarx.com">[checkmarx]</a><span class="citation-popover" role="note"><span class="citation-popover-source">checkmarx.com</span><span class="citation-popover-title">top 12 ai developer tools in 2026 for security coding and quality</span><span class="citation-popover-snippet">Top 12 AI Developer Tools in 2026 for Security, Coding...Mar 11, 2026 — AI developer tools use large language models, embeddings, and au...</span></span></span> These capabilities are directly relevant to AI labs because much AI development consists of exactly these activities.
+* Execute repetitive engineering tasks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/2603.03992" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Measuring AI R&amp;D Automation</span><span class="citation-popover-snippet">Measuring AI R&amp;D AutomationMarch 4, 2026 — by A Chan · 2026 — For tasks more directly relevant to frontier research, METR&#x27;s RE-Bench...</span><span class="citation-popover-meta">Published: March 4, 2026</span></span></span>
+* Run bounded development workflows with limited supervision. <span class="citation-chip-wrap"><a class="citation-chip" href="https://github.com/anthropics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-snippet">AnthropicClaude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://checkmarx.com/learn/ai-security/top-12-ai-developer-tools-in-2026-for-security-coding-and-quality/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: checkmarx.com">[checkmarx]</a><span class="citation-popover" role="note"><span class="citation-popover-source">checkmarx.com</span><span class="citation-popover-title">top 12 ai developer tools in 2026 for security coding and quality</span><span class="citation-popover-snippet">Top 12 AI Developer Tools in 2026 for Security, Coding...Mar 11, 2026 — AI developer tools use large language models, embeddings, and au...</span></span></span> These capabilities are directly relevant to AI labs because much AI development consists of exactly these activities.
 
 However, the limitations are equally important.
 
-Many evaluations still show a significant gap between benchmark performance and real-world engineering. Some benchmark scores may be inflated by contamination, infrastructure quirks, or evaluation design. Researchers have repeatedly found that benchmark success does not automatically translate into reliable performance on messy production systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tianpan.co/blog/2026-04-09-agentic-coding-production-swebench-gap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tianpan.co">[TianPan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tianpan.co</span><span class="citation-popover-snippet">TianPanAgentic Coding in Production: What SWE-bench Scores...Apr 9, 2026 — SWE-bench Verified became the de facto standard for evaluatin...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/engineering/infrastructure-noise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-title">infrastructure noise</span><span class="citation-popover-snippet">AnthropicQuantifying infrastructure noise in agentic coding evalsFeb 5, 2026 — Agentic coding benchmarks like SWE-bench and Terminal-Benc...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rdi.berkeley.edu">[Berkeley RDI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rdi.berkeley.edu</span><span class="citation-popover-snippet">Berkeley RDIHow We Broke Top AI Agent BenchmarksWe built an automated scanning agent that systematically audited eight among the most pro...</span></span></span>
+Many evaluations still show a significant gap between benchmark performance and real-world engineering. Some benchmark scores may be inflated by contamination, infrastructure quirks, or evaluation design. Researchers have repeatedly found that benchmark success does not automatically translate into reliable performance on messy production systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tianpan.co/blog/2026-04-09-agentic-coding-production-swebench-gap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tianpan.co">[TianPan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tianpan.co</span><span class="citation-popover-snippet">Agentic Coding in Production: What SWE-bench Scores...Apr 9, 2026 — SWE-bench Verified became the de facto standard for evaluatin...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/engineering/infrastructure-noise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-title">infrastructure noise</span><span class="citation-popover-snippet">Quantifying infrastructure noise in agentic coding evalsFeb 5, 2026 — Agentic coding benchmarks like SWE-bench and Terminal-Benc...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rdi.berkeley.edu">[Berkeley RDI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rdi.berkeley.edu</span><span class="citation-popover-snippet">Berkeley RDIHow We Broke Top AI Agent BenchmarksWe built an automated scanning agent that systematically audited eight among the most pro...</span></span></span>
 
 Current coding agents also struggle with: <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2604.25067v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Frontier Coding Agents Can Now Implement an AlphaZero...29 Apr 2026 — This paper is particularly concerned with recursive self-improveme...</span></span></span>
 
@@ -326,9 +326,9 @@ Instead, it relies on a narrower claim: software engineering may be the largest 
 
 Imagine a lab where researchers already know dozens of promising ideas they would like to test but lack the engineering capacity to implement and evaluate them all. If coding agents multiply engineering throughput several-fold, more experiments can be run, more model variants can be tested, and more improvements can be incorporated into future systems.
 
-In that scenario, AI systems accelerate progress without independently inventing entirely new paradigms. They function as force multipliers for human researchers. If the resulting models are themselves better coding agents, the process could repeat. This is one of the mechanisms by which [recursive]({{ 'ai-takeoff/' | relative_url }}) capability gains might emerge gradually rather than through a sudden scientific breakthrough. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/2603.03992" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Measuring AI R&amp;D Automation</span><span class="citation-popover-snippet">arXivMeasuring AI R&amp;D AutomationMarch 4, 2026 — by A Chan · 2026 — For tasks more directly relevant to frontier research, METR&#x27;s RE-Bench...</span><span class="citation-popover-meta">Published: March 4, 2026</span></span></span> [3Metr 3Metr]
+In that scenario, AI systems accelerate progress without independently inventing entirely new paradigms. They function as force multipliers for human researchers. If the resulting models are themselves better coding agents, the process could repeat. This is one of the mechanisms by which recursive capability gains might emerge gradually rather than through a sudden scientific breakthrough. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/2603.03992" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Measuring AI R&amp;D Automation</span><span class="citation-popover-snippet">Measuring AI R&amp;D AutomationMarch 4, 2026 — by A Chan · 2026 — For tasks more directly relevant to frontier research, METR&#x27;s RE-Bench...</span><span class="citation-popover-meta">Published: March 4, 2026</span></span></span> [3Metr 3Metr]
 
-Some recent forecasting work explicitly examines AI R&D acceleration through automation of software engineering and machine-learning tasks. The concern is not that an AI wakes up and redesigns itself overnight, but that increasingly capable agents steadily compress research cycles by reducing the amount of human labour required per generation of models. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://metr.org/time-horizons/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[Metr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-snippet">MetrTask-Completion Time Horizons of Frontier AI ModelsIt varies by model, task, and the exact agent setup, but AI agents are typically s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://metr.org/notes/2026-02-17-exploratory-transcript-analysis-for-estimating-time-savings-from-coding-agents/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[Metr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-snippet">MetrAnalyzing coding agent transcripts to upper bound...17 Feb 2026 — This method estimates a time savings factor of ~1.5x to ~13x on Cl...</span></span></span>
+Some recent forecasting work explicitly examines AI R&D acceleration through automation of software engineering and machine-learning tasks. The concern is not that an AI wakes up and redesigns itself overnight, but that increasingly capable agents steadily compress research cycles by reducing the amount of human labour required per generation of models. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://metr.org/time-horizons/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[Metr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-snippet">Task-Completion Time Horizons of Frontier AI ModelsIt varies by model, task, and the exact agent setup, but AI agents are typically s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://metr.org/notes/2026-02-17-exploratory-transcript-analysis-for-estimating-time-savings-from-coding-agents/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[Metr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-snippet">Analyzing coding agent transcripts to upper bound...17 Feb 2026 — This method estimates a time savings factor of ~1.5x to ~13x on Cl...</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e_coding_agents_5cf58d-Illustration-3-dark.svg" | relative_url }}" alt="Coding agents illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e_coding_agents_5cf58d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e_coding_agents_5cf58d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -381,7 +381,7 @@ The first condition increasingly appears plausible. The second remains uncertain
 
 This is why coding agents occupy a prominent place in AI-doom discussions. They offer a concrete mechanism through which AI systems might speed up the creation of successor systems. Unlike hypothetical superhuman scientific genius, automated coding is already visible and measurable.
 
-At the same time, current evidence does not show that coding agents can independently run frontier AI laboratories. They appear much closer to highly productive research assistants than autonomous research directors. The central [uncertainty]({{ 'uncertainty/' | relative_url }}) is whether future improvements merely continue this pattern of assistance or eventually remove enough engineering bottlenecks to create a self-reinforcing acceleration cycle. That uncertainty sits near the heart of modern debates about p(doom), recursive improvement, and the possibility of losing control of increasingly capable AI systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/2603.03992" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Measuring AI R&amp;D Automation</span><span class="citation-popover-snippet">arXivMeasuring AI R&amp;D AutomationMarch 4, 2026 — by A Chan · 2026 — For tasks more directly relevant to frontier research, METR&#x27;s RE-Bench...</span><span class="citation-popover-meta">Published: March 4, 2026</span></span></span> [3Metr 3Metr]
+At the same time, current evidence does not show that coding agents can independently run frontier AI laboratories. They appear much closer to highly productive research assistants than autonomous research directors. The central [uncertainty]({{ 'uncertainty/' | relative_url }}) is whether future improvements merely continue this pattern of assistance or eventually remove enough engineering bottlenecks to create a self-reinforcing acceleration cycle. That uncertainty sits near the heart of modern debates about p(doom), recursive improvement, and the possibility of losing control of increasingly capable AI systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/2603.03992" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Measuring AI R&amp;D Automation</span><span class="citation-popover-snippet">Measuring AI R&amp;D AutomationMarch 4, 2026 — by A Chan · 2026 — For tasks more directly relevant to frontier research, METR&#x27;s RE-Bench...</span><span class="citation-popover-meta">Published: March 4, 2026</span></span></span> [3Metr 3Metr]
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FF90PmbZ0T0" title="Coding with AI Agents in 2025: A Game Changer for Developers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FF90PmbZ0T0" target="_blank" rel="noopener noreferrer">Coding with AI Agents in 2025: A Game Changer for Developers</a></p><p class="youtube-embed-meta">Channel: EngX Space &middot; Views: 1.2K &middot; Uploaded: April 2025 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FF90PmbZ0T0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FF90PmbZ0T0">Open on YouTube</a></p></div></div></div>
@@ -808,219 +808,219 @@ At the same time, current evidence does not show that coding agents can independ
 
 1. <a id="endnote-1"></a>
    Source: github.com  
-   Link: [https://github.com/anthropics](https://github.com/anthropics)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GitHubAnthropicClaude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by...</p></details>
+   Link: <a href="https://github.com/anthropics" target="_blank" rel="noopener noreferrer nofollow">https://github.com/anthropics</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AnthropicClaude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: metr.org  
-   Link: [https://metr.org/research/](https://metr.org/research/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MetrResearchForecasting the Impacts of AI R&amp;D Acceleration: Results of a Pilot Study. 20 August 2025. AI agents are improving rapidly at...</p></details>
+   Link: <a href="https://metr.org/research/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/research/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchForecasting the Impacts of AI R&amp;D Acceleration: Results of a Pilot Study. 20 August 2025. AI agents are improving rapidly at...</p></details>
    Published: August 2025  
 
 3. <a id="endnote-3"></a>
    Source: metr.org  
-   Link: [https://metr.org/](https://metr.org/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MetrMETROur AI evaluations research focuses on assessing broad autonomous capabilities and the ability of AI systems to accelerate AI R&amp;D...</p></details>
+   Link: <a href="https://metr.org/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>METROur [AI evaluations](&amp;#123;&amp;#123; &#x27;ai-evaluations/&#x27; | relative_url &amp;#125;&amp;#125;) research focuses on assessing broad autonomous capabilities and the ability of AI systems to accelerate AI R&amp;D...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Measuring AI R&D Automation  
-   Link: [https://arxiv.org/pdf/2603.03992](https://arxiv.org/pdf/2603.03992)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivMeasuring AI R&amp;D AutomationMarch 4, 2026 — by A Chan · 2026 — For tasks more directly relevant to frontier research, METR&#x27;s RE-Bench...</p></details>
+   Link: <a href="https://arxiv.org/pdf/2603.03992" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2603.03992</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring AI R&amp;D AutomationMarch 4, 2026 — by A Chan · 2026 — For tasks more directly relevant to frontier research, METR&#x27;s RE-Bench...</p></details>
    Published: March 4, 2026  
 
 5. <a id="endnote-5"></a>
    Source: metr.org  
    Title: 2025 08 20 forecasting impacts of ai acceleration  
-   Link: [https://metr.org/blog/2025-08-20-forecasting-impacts-of-ai-acceleration/](https://metr.org/blog/2025-08-20-forecasting-impacts-of-ai-acceleration/)  
+   Link: <a href="https://metr.org/blog/2025-08-20-forecasting-impacts-of-ai-acceleration/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/blog/2025-08-20-forecasting-impacts-of-ai-acceleration/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forecasting the Impacts of AI R&amp;D Acceleration20 Aug 2025 — AI agents are improving rapidly at autonomous software development and machin...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: metr.org  
-   Title: 2026 02 10 simpler [ai timelines](&#123;&#123; 'timeline-effects/' | relative_url &#125;&#125;) model  
-   Link: [https://metr.org/notes/2026-02-10-simpler-ai-timelines-model/](https://metr.org/notes/2026-02-10-simpler-ai-timelines-model/)  
+   Title: 2026 02 10 simpler ai timelines model  
+   Link: <a href="https://metr.org/notes/2026-02-10-simpler-ai-timelines-model/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/notes/2026-02-10-simpler-ai-timelines-model/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A simpler AI timelines model predicts 99% AI R&amp;D...10 Feb 2026 — In this post, I describe a simple model for forecasting when AI will au...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: hyperdimensional.co  
    Title: On Recursive Self-Improvement (Part I)  
-   Link: [https://www.hyperdimensional.co/p/on-recursive-self-improvement-part](https://www.hyperdimensional.co/p/on-recursive-self-improvement-part)  
+   Link: <a href="https://www.hyperdimensional.co/p/on-recursive-self-improvement-part" target="_blank" rel="noopener noreferrer nofollow">https://www.hyperdimensional.co/p/on-recursive-self-improvement-part</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>BallFebruary 5, 2026 — 5 Feb 2026 — America&#x27;s major frontier AI labs have begun automating large fractions of their research and engineer...</p></details>
    Published: February 5, 2026  
 
 8. <a id="endnote-8"></a>
    Source: github.com  
-   Link: [https://github.com/swe-bench/SWE-bench](https://github.com/swe-bench/SWE-bench)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GitHubSWE-bench: Can Language Models Resolve Real-...SWE-bench is a benchmark for evaluating large language models on real world softwar...</p></details>
+   Link: <a href="https://github.com/swe-bench/SWE-bench" target="_blank" rel="noopener noreferrer nofollow">https://github.com/swe-bench/SWE-bench</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>SWE-bench: Can Language Models Resolve Real-...SWE-bench is a benchmark for evaluating large language models on real world softwar...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: checkmarx.com  
    Title: top 12 ai developer tools in 2026 for security coding and quality  
-   Link: [https://checkmarx.com/learn/ai-security/top-12-ai-developer-tools-in-2026-for-security-coding-and-quality/](https://checkmarx.com/learn/ai-security/top-12-ai-developer-tools-in-2026-for-security-coding-and-quality/)  
+   Link: <a href="https://checkmarx.com/learn/ai-security/top-12-ai-developer-tools-in-2026-for-security-coding-and-quality/" target="_blank" rel="noopener noreferrer nofollow">https://checkmarx.com/learn/ai-security/top-12-ai-developer-tools-in-2026-for-security-coding-and-quality/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 12 AI Developer Tools in 2026 for Security, Coding...Mar 11, 2026 — AI developer tools use large language models, embeddings, and au...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: anthropic.com  
    Title: infrastructure noise  
-   Link: [https://www.anthropic.com/engineering/infrastructure-noise](https://www.anthropic.com/engineering/infrastructure-noise)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AnthropicQuantifying infrastructure noise in agentic coding evalsFeb 5, 2026 — Agentic coding benchmarks like SWE-bench and Terminal-Benc...</p></details>
+   Link: <a href="https://www.anthropic.com/engineering/infrastructure-noise" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/engineering/infrastructure-noise</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Quantifying infrastructure noise in agentic coding evalsFeb 5, 2026 — Agentic coding benchmarks like SWE-bench and Terminal-Benc...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: rdi.berkeley.edu  
-   Link: [https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/)  
+   Link: <a href="https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/" target="_blank" rel="noopener noreferrer nofollow">https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Berkeley RDIHow We Broke Top AI Agent BenchmarksWe built an automated scanning agent that systematically audited eight among the most pro...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2505.20411](https://arxiv.org/abs/2505.20411)  
+   Link: <a href="https://arxiv.org/abs/2505.20411" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.20411</a>  
 
 13. <a id="endnote-13"></a>
    Source: tianpan.co  
-   Link: [https://tianpan.co/blog/2026-04-09-agentic-coding-production-swebench-gap](https://tianpan.co/blog/2026-04-09-agentic-coding-production-swebench-gap)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TianPanAgentic Coding in Production: What SWE-bench Scores...Apr 9, 2026 — SWE-bench Verified became the de facto standard for evaluatin...</p></details>
+   Link: <a href="https://tianpan.co/blog/2026-04-09-agentic-coding-production-swebench-gap" target="_blank" rel="noopener noreferrer nofollow">https://tianpan.co/blog/2026-04-09-agentic-coding-production-swebench-gap</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Agentic Coding in Production: What SWE-bench Scores...Apr 9, 2026 — SWE-bench Verified became the de facto standard for evaluatin...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: metr.org  
-   Link: [https://metr.org/time-horizons/](https://metr.org/time-horizons/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MetrTask-Completion Time Horizons of Frontier AI ModelsIt varies by model, task, and the exact agent setup, but AI agents are typically s...</p></details>
+   Link: <a href="https://metr.org/time-horizons/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/time-horizons/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Task-Completion Time Horizons of Frontier AI ModelsIt varies by model, task, and the exact agent setup, but AI agents are typically s...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: metr.org  
-   Link: [https://metr.org/notes/2026-02-17-exploratory-transcript-analysis-for-estimating-time-savings-from-coding-agents/](https://metr.org/notes/2026-02-17-exploratory-transcript-analysis-for-estimating-time-savings-from-coding-agents/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MetrAnalyzing coding agent transcripts to [upper bound](&amp;#123;&amp;#123; &#x27;upper-bound-limits/&#x27; | relative_url &amp;#125;&amp;#125;)...17 Feb 2026 — This method estimates a time savings factor of ~1.5x to ~13x on Cl...</p></details>
+   Link: <a href="https://metr.org/notes/2026-02-17-exploratory-transcript-analysis-for-estimating-time-savings-from-coding-agents/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/notes/2026-02-17-exploratory-transcript-analysis-for-estimating-time-savings-from-coding-agents/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Analyzing coding agent transcripts to upper bound...17 Feb 2026 — This method estimates a time savings factor of ~1.5x to ~13x on Cl...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2604.25067v2](https://arxiv.org/html/2604.25067v2)  
+   Link: <a href="https://arxiv.org/html/2604.25067v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2604.25067v2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Coding Agents Can Now Implement an AlphaZero...29 Apr 2026 — This paper is particularly concerned with recursive self-improveme...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: techradar.com  
    Title: ai has slashed coding time in 2026 but its sacrificed software stability  
-   Link: [https://www.techradar.com/pro/ai-has-slashed-coding-time-in-2026-but-its-sacrificed-software-stability](https://www.techradar.com/pro/ai-has-slashed-coding-time-in-2026-but-its-sacrificed-software-stability)  
+   Link: <a href="https://www.techradar.com/pro/ai-has-slashed-coding-time-in-2026-but-its-sacrificed-software-stability" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/pro/ai-has-slashed-coding-time-in-2026-but-its-sacrificed-software-stability</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Teams using AI tools frequently are releasing code faster—with 45% deploying daily—compared to just 15% of occasional users. However, thi...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: metr.org  
    Title: 2025 07 10 early 2025 ai experienced os dev study  
-   Link: [https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/)  
+   Link: <a href="https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring the Impact of Early-2025 AI on Experienced...10 Jul 2025 — We conduct a randomized controlled trial (RCT) to understand how ea...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: metr.org  
    Title: 2026 05 11 ai usage survey  
-   Link: [https://metr.org/blog/2026-05-11-ai-usage-survey/](https://metr.org/blog/2026-05-11-ai-usage-survey/)  
+   Link: <a href="https://metr.org/blog/2026-05-11-ai-usage-survey/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/blog/2026-05-11-ai-usage-survey/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>We propose measuring AI performance in terms of the length of tasks AI agents can complete. We...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: metr.org  
    Title: 2026 02 24 uplift update  
-   Link: [https://metr.org/blog/2026-02-24-uplift-update/](https://metr.org/blog/2026-02-24-uplift-update/)  
+   Link: <a href="https://metr.org/blog/2026-02-24-uplift-update/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/blog/2026-02-24-uplift-update/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>We are Changing our Developer Productivity Experiment...24 Feb 2026 — To understand how AI is impacting developer productivity over time...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: anthropic.com  
-   Link: [https://www.anthropic.com/](https://www.anthropic.com/)  
+   Link: <a href="https://www.anthropic.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/</a>  
 
 22. <a id="endnote-22"></a>
    Source: github.com  
    Title: awesome ai agent papers  
-   Link: [https://github.com/VoltAgent/awesome-ai-agent-papers](https://github.com/VoltAgent/awesome-ai-agent-papers)  
+   Link: <a href="https://github.com/VoltAgent/awesome-ai-agent-papers" target="_blank" rel="noopener noreferrer nofollow">https://github.com/VoltAgent/awesome-ai-agent-papers</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>VoltAgent/awesome-ai-agent-papersA curated collection of AI agent research papers released in 2026, covering agent engineering, memory, e...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: swebench.com  
-   Link: [https://www.swebench.com/](https://www.swebench.com/)  
+   Link: <a href="https://www.swebench.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.swebench.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SWE-benchSWE-bench LeaderboardsOfficial Leaderboards. mini-SWE-agent scores up to 74% on SWE-bench Verified in 100 lines of Python code.R...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: importai.substack.com  
    Title: Import AIAI systems are about to start building themselves  
-   Link: [https://importai.substack.com/p/import-ai-455-automating-ai-research](https://importai.substack.com/p/import-ai-455-automating-ai-research)  
+   Link: <a href="https://importai.substack.com/p/import-ai-455-automating-ai-research" target="_blank" rel="noopener noreferrer nofollow">https://importai.substack.com/p/import-ai-455-automating-ai-research</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Import AI 455Solving real-world software engineering problems: SWE-Bench is a widely used coding test which evaluates how well AI systems...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Anthropic](https://en.wikipedia.org/wiki/Anthropic)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AnthropicAnthropic is an American [artificial](&amp;#123;&amp;#123; &#x27;artificial-goals/&#x27; | relative_url &amp;#125;&amp;#125;) intelligence (AI) company headquartered in San Francisco. It has developed a series of la...</p></details>
+   Link: <a href="https://en.wikipedia.org/wiki/Anthropic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anthropic</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AnthropicAnthropic is an American artificial intelligence (AI) company headquartered in San Francisco. It has developed a series of la...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/METR](https://en.wikipedia.org/wiki/METR)  
+   Link: <a href="https://en.wikipedia.org/wiki/METR" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/METR</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>METRModel Evaluation and Threat Research (METR) (MEE-tər), is a nonprofit research institute, based in Berkeley, California, that eval...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: codeant.ai  
    Title: swe bench scores  
-   Link: [https://www.codeant.ai/blogs/swe-bench-scores](https://www.codeant.ai/blogs/swe-bench-scores)  
+   Link: <a href="https://www.codeant.ai/blogs/swe-bench-scores" target="_blank" rel="noopener noreferrer nofollow">https://www.codeant.ai/blogs/swe-bench-scores</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SWE-bench Leaderboard 2026: All Model Scores...13 Apr 2026 — SWE-bench is a benchmark that gives an AI model a real GitHub issue and a c...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: epoch.ai  
-   Link: [https://epoch.ai/benchmarks/swe-bench-verified](https://epoch.ai/benchmarks/swe-bench-verified)  
+   Link: <a href="https://epoch.ai/benchmarks/swe-bench-verified" target="_blank" rel="noopener noreferrer nofollow">https://epoch.ai/benchmarks/swe-bench-verified</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SWE-bench VerifiedSWE-bench Verified is a human-validated subset of the original SWE-bench dataset, consisting of 500 samples that evalua...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: labs.scale.com  
    Title: swe bench pro public  
-   Link: [https://labs.scale.com/leaderboard/swe_bench_pro_public](https://labs.scale.com/leaderboard/swe_bench_pro_public)  
+   Link: <a href="https://labs.scale.com/leaderboard/swe_bench_pro_public" target="_blank" rel="noopener noreferrer nofollow">https://labs.scale.com/leaderboard/swe_bench_pro_public</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>scale.comSWE-Bench Pro (Public Dataset) - Scale LabsSWE-Bench Pro is a benchmark designed to provide a rigorous and realistic evaluation...</p></details>
 
 ### Additional References
 
 30. <a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/404948272_Hybrid_Architectures_for_Pairing_Frontier_AI_Code_Agents_with_Resource-Efficient_Models](https://www.researchgate.net/publication/404948272_Hybrid_Architectures_for_Pairing_Frontier_AI_Code_Agents_with_Resource-Efficient_Models)  
+   Link: <a href="https://www.researchgate.net/publication/404948272_Hybrid_Architectures_for_Pairing_Frontier_AI_Code_Agents_with_Resource-Efficient_Models" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/404948272_Hybrid_Architectures_for_Pairing_Frontier_AI_Code_Agents_with_Resource-Efficient_Models</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hybrid Architectures for Pairing Frontier AI Code Agents...18 May 2026 — This article investigates hybrid architectures designed to pair...</p></details>
    Published: May 2026  
 
 31. <a id="endnote-31"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/ai-coding-agents-have-become-cheap-labor-[governance](https://www.linkedin.com/pulse/ai-coding-agents-have-become-cheap-labor-[governance)  
+   Link: <a href="https://www.linkedin.com/pulse/ai-coding-agents-have-become-cheap-labor-[governance" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/ai-coding-agents-have-become-cheap-labor-[governance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Coding Agents Have Become Cheap Labor....We created methodologies, governance structures, CABs, SDLC frameworks, release controls, te...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: timesofindia.indiatimes.com  
-   Link: [https://timesofindia.indiatimes.com/technology/tech-news/salesforce-ceo-marc-benioff-says-that-the-company-has-almost-not-hired-engineers-since-last-two-years-reason-is-ai-coding-agents-with-/articleshow/131383964.cms](https://timesofindia.indiatimes.com/technology/tech-news/salesforce-ceo-marc-benioff-says-that-the-company-has-almost-not-hired-engineers-since-last-two-years-reason-is-ai-coding-agents-with-/articleshow/131383964.cms)  
+   Link: <a href="https://timesofindia.indiatimes.com/technology/tech-news/salesforce-ceo-marc-benioff-says-that-the-company-has-almost-not-hired-engineers-since-last-two-years-reason-is-ai-coding-agents-with-/articleshow/131383964.cms" target="_blank" rel="noopener noreferrer nofollow">https://timesofindia.indiatimes.com/technology/tech-news/salesforce-ceo-marc-benioff-says-that-the-company-has-almost-not-hired-engineers-since-last-two-years-reason-is-ai-coding-agents-with-/articleshow/131383964.cms</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Speaking during a quarterly earnings call, Benioff explained that the engineering team has remained roughly constant at around 15,000 emp...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/amlau_you-may-have-heard-about-the-recent-metr-activity-7353133629553745920-i51q](https://www.linkedin.com/posts/amlau_you-may-have-heard-about-the-recent-metr-activity-7353133629553745920-i51q)  
+   Link: <a href="https://www.linkedin.com/posts/amlau_you-may-have-heard-about-the-recent-metr-activity-7353133629553745920-i51q" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/amlau_you-may-have-heard-about-the-recent-metr-activity-7353133629553745920-i51q</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>You may have heard about the recent METR AI productivity...METR found that experienced open source developers doing typical coding tasks...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: faros.ai  
-   Link: [https://www.faros.ai/blog/lab-vs-reality-ai-productivity-study-findings](https://www.faros.ai/blog/lab-vs-reality-ai-productivity-study-findings)  
+   Link: <a href="https://www.faros.ai/blog/lab-vs-reality-ai-productivity-study-findings" target="_blank" rel="noopener noreferrer nofollow">https://www.faros.ai/blog/lab-vs-reality-ai-productivity-study-findings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What METR&#x27;s Study Missed About AI Productivity in the WildJul 28, 2025 — METR&#x27;s study found AI tooling slowed developers down...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: programming-helper.com  
    Title: anthropic claude opus 4 5 coding breakthrough 2026 human level performance  
-   Link: [https://www.programming-helper.com/tech/anthropic-claude-opus-4-5-coding-breakthrough-2026-human-level-performance](https://www.programming-helper.com/tech/anthropic-claude-opus-4-5-coding-breakthrough-2026-human-level-performance)  
+   Link: <a href="https://www.programming-helper.com/tech/anthropic-claude-opus-4-5-coding-breakthrough-2026-human-level-performance" target="_blank" rel="noopener noreferrer nofollow">https://www.programming-helper.com/tech/anthropic-claude-opus-4-5-coding-breakthrough-2026-human-level-performance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic Claude Opus 4.5: How 80.9% SWE-bench...25 Jan 2026 — Anthropic&#x27;s Claude Opus 4.5, released in November 2025, represents a hist...</p></details>
    Published: November 2025  
 
 36. <a id="endnote-36"></a>
    Source: codegen.com  
    Title: Cursor, Claude Code, Devin, Codegen, and more — compared on what  
-   Link: [https://codegen.com/best-ai-coding-agents/](https://codegen.com/best-ai-coding-agents/)  
+   Link: <a href="https://codegen.com/best-ai-coding-agents/" target="_blank" rel="noopener noreferrer nofollow">https://codegen.com/best-ai-coding-agents/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Best AI Coding Agents in 2026: Ranked and ComparedThe best AI coding agents ranked by the team that built agent orchestration infrastructure...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: businessinsider.com  
    Title: Business Insider Why AI hasn't replaced every 'automatable' job  
-   Link: [https://www.businessinsider.com/why-ai-hasnt-replaced-every-automatable-job-yet-2026-5](https://www.businessinsider.com/why-ai-hasnt-replaced-every-automatable-job-yet-2026-5)  
+   Link: <a href="https://www.businessinsider.com/why-ai-hasnt-replaced-every-automatable-job-yet-2026-5" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/why-ai-hasnt-replaced-every-automatable-job-yet-2026-5</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>According to Benjamin Todd, president of 80,000 Hours, the reason lies in AI&#x27;s current limitations—it often automates only parts of a job...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: thenextweb.com  
    Title: anthropic claude opus 4 7 coding agentic benchmarks release  
-   Link: [https://thenextweb.com/news/anthropic-claude-opus-4-7-coding-agentic-benchmarks-release](https://thenextweb.com/news/anthropic-claude-opus-4-7-coding-agentic-benchmarks-release)  
+   Link: <a href="https://thenextweb.com/news/anthropic-claude-opus-4-7-coding-agentic-benchmarks-release" target="_blank" rel="noopener noreferrer nofollow">https://thenextweb.com/news/anthropic-claude-opus-4-7-coding-agentic-benchmarks-release</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Claude Opus 4.7 leads on SWE-bench and agentic...Apr 16, 2026 — Anthropic&#x27;s Claude Opus 4.7 scores 64.3% on SWE-bench Pro, adds multi-ag...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: youtube.com  
    Title: AI Agent Automatically Codes WITH TOOLS  
-   Link: [https://www.youtube.com/watch?v=9-JBHGlYEBI](https://www.youtube.com/watch?v=9-JBHGlYEBI)  
+   Link: <a href="https://www.youtube.com/watch?v=9-JBHGlYEBI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9-JBHGlYEBI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Advancing Scientific Research with AI Research Agents - YouTube Advancing Scientific Research with AI Research Agents - YouTube...</p></details>

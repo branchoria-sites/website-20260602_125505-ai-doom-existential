@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e_mechanistic_i_d561dd
 - AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e_misleading_po_7a9cae
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - control-tools
 - scaling-limits
 - black-box-evidence
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - control-tools
 - scaling-limits
 - black-box-evidence
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Research findings and government assessments suggest that scaling AI has not produced matching gains in interpretability.
 hero_summary: Research findings and government assessments suggest that scaling AI has not produced matching gains in interpretability.
 layout: default
 permalink: /black-box-evidence/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /control-tools/
 - /scaling-limits/
 nav_short_title: Black Box Evidence
@@ -203,6 +203,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-02 12:40:25'
 parent_title: Why Bigger AI Models May Resist Human Understanding | Control Tools
 parent_permalink: /scaling-limits/
 parent_nav_short_title: Scaling Limits
@@ -210,10 +211,10 @@ parent_heading_title: Why Bigger AI Models May Resist Human Understanding
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_interpretabil_15527d
-  title: Control Tools | AI Doom and
+  title: Control Tools | AI Doom and E 87399 b
   permalink: /control-tools/
   short_title: Control Tools
   heading_title: Can We Make Advanced AI Understandable?
@@ -225,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_interpretabil_15527d
-  title: Control Tools | AI Doom and
+  title: Control Tools | AI Doom and E 87399 b
   permalink: /control-tools/
   short_title: Control Tools
   heading_title: Can We Make Advanced AI Understandable?
@@ -260,7 +261,6 @@ next_link:
   permalink: /misleading-xai/
   short_title: Misleading XAI
   heading_title: Can AI explanations sound right while hiding the truth?
-date: '2026-06-02 12:40:25 '
 header:
   og_image: /assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e_black_box_evi_931b81-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e_black_box_evi_931b81-Illustration-1.webp
@@ -269,7 +269,7 @@ image: /assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40
 
 ## Introduction
 
-One of the central claims in debates about [AI doom and]({{ 'ai-doom-and/' | relative_url }}) existential risk is that the most powerful AI systems remain “black boxes”: they can perform increasingly impressive tasks, yet neither developers nor outside researchers can fully explain how their internal computations produce those capabilities. If [interpretability]({{ 'interpretability/' | relative_url }}) does not keep pace with capability growth, future systems could become more powerful while remaining only partially understood.
+One of the central claims in debates about AI doom and existential risk is that the most powerful AI systems remain “black boxes”: they can perform increasingly impressive tasks, yet neither developers nor outside researchers can fully explain how their internal computations produce those capabilities. If [interpretability]({{ 'interpretability/' | relative_url }}) does not keep pace with capability growth, future systems could become more powerful while remaining only partially understood.
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e_black_box_evi_931b81-Illustration-1-dark.svg" | relative_url }}" alt="Black Box Evidence illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e_black_box_evi_931b81-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e_black_box_evi_931b81-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -279,11 +279,11 @@ Importantly, the evidence for this concern is not merely theoretical. Government
 
 Several major assessments of advanced AI systems explicitly identify limited interpretability as an unresolved problem rather than a solved engineering challenge.
 
-The UK government's discussion paper on frontier AI noted that there is substantial [uncertainty]({{ 'uncertainty/' | relative_url }}) about how advanced systems develop capabilities and risks, and highlighted the difficulty of understanding and predicting behaviour in increasingly capable models. The report treats this lack of understanding as a significant obstacle to risk assessment and governance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/inaugural-report-pioneered-by-ai-security-institute-gives-clearest-picture-yet-of-capabilities-of-most-advanced-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">report pioneered by AI Security Institute gives...Dec 18, 2025 — The AI Security Institute&#x27;s Frontier AI Trends Report, a public assessm...</span></span></span>
+The UK government's discussion paper on frontier AI noted that there is substantial [uncertainty]({{ 'uncertainty/' | relative_url }}) about how advanced systems develop capabilities and risks, and highlighted the difficulty of understanding and predicting behaviour in increasingly capable models. The report treats this lack of understanding as a significant obstacle to risk assessment and [governance]({{ 'governance/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/inaugural-report-pioneered-by-ai-security-institute-gives-clearest-picture-yet-of-capabilities-of-most-advanced-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">report pioneered by AI Security Institute gives...Dec 18, 2025 — The AI Security Institute&#x27;s Frontier AI Trends Report, a public assessm...</span></span></span>
 
 The International AI Safety Report similarly describes current general-purpose AI systems as difficult to understand in mechanistic terms, despite extensive progress in evaluating their external behaviour. Researchers can often measure what a model does, but understanding why it does it remains much harder. <span class="citation-chip-wrap"><a class="citation-chip" href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internationalaisafetyreport.org">[International AI Safety Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internationalaisafetyreport.org</span><span class="citation-popover-title">international ai safety report 2026</span><span class="citation-popover-snippet">International AI Safety ReportInternational AI Safety Report 20263 Feb 2026 — This Report assesses what general-purpose AI systems can do...</span></span></span>
 
-This distinction matters. Behavioural evaluations can reveal whether a model succeeds or fails on a task. They do not necessarily reveal the internal reasoning, representations, or strategies that produced the result. A system may appear aligned and cooperative under testing while relying on internal processes that researchers have not identified.
+This distinction matters. Behavioural [evaluations]({{ 'evaluations/' | relative_url }}) can reveal whether a model succeeds or fails on a task. They do not necessarily reveal the internal reasoning, representations, or strategies that produced the result. A system may appear aligned and cooperative under testing while relying on internal processes that researchers have not identified.
 
 The UK AI Security Institute's work also reflects this reality. Considerable effort has gone into developing evaluation frameworks for frontier models, yet evaluation itself exists partly because internal transparency remains limited. Researchers frequently rely on testing behaviour because direct understanding of the underlying computation is incomplete. <span class="citation-chip-wrap"><a class="citation-chip" href="https://inspect.aisi.org.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inspect.aisi.org.uk">[Inspect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inspect.aisi.org.uk</span><span class="citation-popover-snippet">InspectInspect AIInspect can be used for a broad range of evaluations that measure coding, agentic tasks, reasoning, knowledge, behavior...</span></span></span>
 
@@ -298,9 +298,9 @@ OpenAI's GPT-4 technical report described a recurring challenge in frontier AI d
 
 This unpredictability is itself evidence of limited interpretability. If researchers fully understood the internal mechanisms that generate capabilities, sudden or surprising behavioural jumps would be less common.
 
-[Anthropic]({{ 'anthropic-tests/' | relative_url }})'s interpretability research provides another revealing example. In 2024 the company announced what it described as the first detailed look inside a production-scale language model, identifying millions of internal features associated with concepts and behaviours. The achievement was widely viewed as a major advance. Yet the announcement itself emphasised that modern language models are generally treated as black boxes and that understanding remains incomplete. The significance of the breakthrough came precisely because such visibility had previously been unavailable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/research/mapping-mind-language-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-snippet">AnthropicMapping the Mind of a Large Language ModelMay 21, 2024 — This interpretability discovery could, in future, help us make AI model...</span><span class="citation-popover-meta">Published: May 21, 2024</span></span></span>
+Anthropic's interpretability research provides another revealing example. In 2024 the company announced what it described as the first detailed look inside a production-scale language model, identifying millions of internal features associated with concepts and behaviours. The achievement was widely viewed as a major advance. Yet the announcement itself emphasised that modern language models are generally treated as black boxes and that understanding remains incomplete. The significance of the breakthrough came precisely because such visibility had previously been unavailable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/research/mapping-mind-language-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-snippet">Mapping the Mind of a Large Language ModelMay 21, 2024 — This interpretability discovery could, in future, help us make AI model...</span><span class="citation-popover-meta">Published: May 21, 2024</span></span></span>
 
-More recent Anthropic research tracing model reasoning reached a similar conclusion. Researchers demonstrated that some internal reasoning pathways can be reconstructed and studied, but the work was presented as an early step rather than a comprehensive solution. The need for specialised methods to uncover hidden reasoning illustrates how much of the underlying computation remains opaque. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/research/tracing-thoughts-language-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-snippet">AnthropicTracing the thoughts of a large language modelMar 27, 2025 — We explored a way that interpretability can help tell apart &quot;faithf...</span></span></span>
+More recent Anthropic research tracing model reasoning reached a similar conclusion. Researchers demonstrated that some internal reasoning pathways can be reconstructed and studied, but the work was presented as an early step rather than a comprehensive solution. The need for specialised methods to uncover [hidden reasoning]({{ 'hidden-reasoning/' | relative_url }}) illustrates how much of the underlying computation remains opaque. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/research/tracing-thoughts-language-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-snippet">Tracing the thoughts of a large language modelMar 27, 2025 — We explored a way that interpretability can help tell apart &quot;faithf...</span></span></span>
 
 A striking theme across these projects is that interpretability advances often reveal additional complexity rather than eliminating it. Researchers gain visibility into certain circuits or representations, only to discover many more interacting components beneath them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/research/open-source-circuit-tracing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-title">Open-sourcing circuit-tracing tools</span><span class="citation-popover-snippet">May 29, 2025 — In our recent interpretability research, we introduced a new method to trace the thoughts of a large language model.Read more...</span><span class="citation-popover-meta">Published: May 29, 2025</span></span></span>
 
@@ -314,7 +314,7 @@ Anthropic's investigations into model reasoning found cases where models appeare
 
 Other interpretability work has identified situations where internal planning, hidden intermediate steps, or strategic behaviour were not fully reflected in the model's final answer. Researchers have reported evidence that models can sometimes represent information internally without explicitly revealing it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-snippet">ResearchThe mission of the Interpretability team is to discover and understand how large language models work internally, as a foundation...</span></span></span>
 
-This does not prove that current systems are deceptive in any broad sense. However, it does demonstrate a key point in the interpretability debate: observing outputs is not always enough to understand internal cognition. If hidden internal representations already exist in today's systems, some researchers worry that future, more capable models could develop increasingly sophisticated internal processes that remain difficult to inspect. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/research/mapping-mind-language-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-snippet">AnthropicMapping the Mind of a Large Language ModelMay 21, 2024 — This interpretability discovery could, in future, help us make AI model...</span><span class="citation-popover-meta">Published: May 21, 2024</span></span></span>
+This does not prove that current systems are deceptive in any broad sense. However, it does demonstrate a key point in the interpretability debate: observing outputs is not always enough to understand internal cognition. If hidden internal representations already exist in today's systems, some researchers worry that future, more capable models could develop increasingly sophisticated internal processes that remain difficult to inspect. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/research/mapping-mind-language-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-snippet">Mapping the Mind of a Large Language ModelMay 21, 2024 — This interpretability discovery could, in future, help us make AI model...</span><span class="citation-popover-meta">Published: May 21, 2024</span></span></span>
 
 For AI-doom arguments, this observation is often more important than any individual experiment. The concern is not merely that a model can make mistakes. It is that humans may lack reliable visibility into the reasoning processes that generate important decisions.
 
@@ -327,11 +327,11 @@ Even if interpretability techniques continue improving, there are practical reas
 
 Frontier models contain billions or even trillions of learned parameters distributed across enormous computational structures. Understanding a single behaviour may require analysing interactions across many layers and components rather than inspecting one easily identifiable module.
 
-Anthropic's feature-mapping work illustrates the scale of the challenge. Researchers identified millions of interpretable features within one model, representing only a partial step towards understanding the full system. The fact that meaningful progress required discovering millions of internal concepts highlights how much information must be analysed before comprehensive understanding becomes possible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/research/tracing-thoughts-language-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-snippet">AnthropicTracing the thoughts of a large language modelMar 27, 2025 — We explored a way that interpretability can help tell apart &quot;faithf...</span></span></span>
+Anthropic's feature-mapping work illustrates the scale of the challenge. Researchers identified millions of interpretable features within one model, representing only a partial step towards understanding the full system. The fact that meaningful progress required discovering millions of internal concepts highlights how much information must be analysed before comprehensive understanding becomes possible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/research/tracing-thoughts-language-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-snippet">Tracing the thoughts of a large language modelMar 27, 2025 — We explored a way that interpretability can help tell apart &quot;faithf...</span></span></span>
 
 There is also a mismatch between capability scaling and interpretability scaling. Training runs receive vast computational resources because improved performance produces commercial and strategic benefits. Interpretability research, by contrast, often proceeds through labour-intensive investigation of already-trained systems. Capability growth can therefore outpace understanding even when interpretability research is successful.
 
-Government and safety assessments increasingly acknowledge this imbalance. Frontier models are advancing rapidly across domains such as coding, scientific reasoning, autonomy-related tasks, and specialised [expertise]({{ 'expertise-erosion/' | relative_url }}), while understanding of internal mechanisms remains comparatively limited. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)Autonomy skills: Models can now complete hour-long soft...</span></span></span>
+Government and safety assessments increasingly acknowledge this imbalance. Frontier models are advancing rapidly across domains such as coding, scientific reasoning, [autonomy]({{ 'autonomy/' | relative_url }})-related tasks, and specialised expertise, while understanding of internal mechanisms remains comparatively limited. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)Autonomy skills: Models can now complete hour-long soft...</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e_black_box_evi_931b81-Illustration-3-dark.svg" | relative_url }}" alt="Black Box Evidence illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e_black_box_evi_931b81-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e_black_box_evi_931b81-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -779,199 +779,199 @@ For those worried about AI doom or high p(doom) estimates, the concern is that c
 1. <a id="endnote-1"></a>
    Source: GOV.UK  
    Title: Frontier AI: capabilities and risks – discussion paper  
-   Link: [https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper](https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper)  
+   Link: <a href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>It describes the current state and key trends relating to frontier AI capabilities, and then explores how frontier AI capabilities...Rea...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: aisi.gov.uk  
-   Link: [https://www.aisi.gov.uk/frontier-ai-trends-report](https://www.aisi.gov.uk/frontier-ai-trends-report)  
+   Link: <a href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/frontier-ai-trends-report</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)Autonomy skills: Models can now complete hour-long soft...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: cdn.openai.com  
-   Link: [https://cdn.openai.com/papers/gpt-4.pdf](https://cdn.openai.com/papers/gpt-4.pdf)  
+   Link: <a href="https://cdn.openai.com/papers/gpt-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.openai.com/papers/gpt-4.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>GPT-4 Technical Report27 Mar 2023 — Certain capabilities remain hard to predict... should be prepared for emergent capabilities and comp...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: anthropic.com  
-   Link: [https://www.anthropic.com/research/mapping-mind-language-model](https://www.anthropic.com/research/mapping-mind-language-model)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AnthropicMapping the Mind of a Large Language ModelMay 21, 2024 — This interpretability discovery could, in future, help us make AI model...</p></details>
+   Link: <a href="https://www.anthropic.com/research/mapping-mind-language-model" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/research/mapping-mind-language-model</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mapping the Mind of a Large Language ModelMay 21, 2024 — This interpretability discovery could, in future, help us make AI model...</p></details>
    Published: May 21, 2024  
 
 5. <a id="endnote-5"></a>
    Source: time.com  
    Title: No One Truly Knows How AI Systems Work  
-   Link: [https://time.com/6980210/anthropic-interpretability-ai-safety-research/](https://time.com/6980210/anthropic-interpretability-ai-safety-research/)  
+   Link: <a href="https://time.com/6980210/anthropic-interpretability-ai-safety-research/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6980210/anthropic-interpretability-ai-safety-research/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A New Discovery Could Change ThatAI systems, particularly neural networks, are often seen as &quot;black boxes&quot; due to their complexity and op...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: anthropic.com  
-   Link: [https://www.anthropic.com/research/tracing-thoughts-language-model](https://www.anthropic.com/research/tracing-thoughts-language-model)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AnthropicTracing the thoughts of a large language modelMar 27, 2025 — We explored a way that interpretability can help tell apart &quot;faithf...</p></details>
+   Link: <a href="https://www.anthropic.com/research/tracing-thoughts-language-model" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/research/tracing-thoughts-language-model</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tracing the thoughts of a large language modelMar 27, 2025 — We explored a way that interpretability can help tell apart &quot;faithf...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: aisi.gov.uk  
    Title: aisi frontier ai trends report 2025  
-   Link: [https://www.aisi.gov.uk/research/aisi-frontier-ai-trends-report-2025](https://www.aisi.gov.uk/research/aisi-frontier-ai-trends-report-2025)  
+   Link: <a href="https://www.aisi.gov.uk/research/aisi-frontier-ai-trends-report-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/research/aisi-frontier-ai-trends-report-2025</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AISI Frontier AI Trends Report (2025)Dec 18, 2025 — This report presents our first public analysis of the trends we&#x27;ve observed. It seeks...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: aisi.gov.uk  
    Title: 5 key findings from our first frontier ai trends report  
-   Link: [https://www.aisi.gov.uk/blog/5-key-findings-from-our-first-frontier-ai-trends-report](https://www.aisi.gov.uk/blog/5-key-findings-from-our-first-frontier-ai-trends-report)  
+   Link: <a href="https://www.aisi.gov.uk/blog/5-key-findings-from-our-first-frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/blog/5-key-findings-from-our-first-frontier-ai-trends-report</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dec 18, 2025 — The report contains a selection of aggregated testing results to illustrate high-level trends in AI progress across domain...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: OpenAI  
-   Link: [https://openai.com/](https://openai.com/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>comOpenAI | Research &amp; DeploymentWe believe our research will eventually lead to [artificial](&amp;#123;&amp;#123; &#x27;artificial-goals/&#x27; | relative_url &amp;#125;&amp;#125;) general intelligence, a system that can solve...</p></details>
+   Link: <a href="https://openai.com/" target="_blank" rel="noopener noreferrer nofollow">https://openai.com/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>comOpenAI | Research &amp; DeploymentWe believe our research will eventually lead to artificial general intelligence, a system that can solve...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: OpenAI  
    Title: introducing o3 and o4 mini  
-   Link: [https://openai.com/index/introducing-o3-and-o4-mini/](https://openai.com/index/introducing-o3-and-o4-mini/)  
+   Link: <a href="https://openai.com/index/introducing-o3-and-o4-mini/" target="_blank" rel="noopener noreferrer nofollow">https://openai.com/index/introducing-o3-and-o4-mini/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>comIntroducing OpenAI o3 and o4-miniApr 16, 2025 — OpenAI o4-mini is a smaller model optimized for fast, cost-efficient reasoning—it achi...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: cdn.openai.com  
    Title: gpt 4 system card  
-   Link: [https://cdn.openai.com/papers/gpt-4-system-card.pdf](https://cdn.openai.com/papers/gpt-4-system-card.pdf)  
+   Link: <a href="https://cdn.openai.com/papers/gpt-4-system-card.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.openai.com/papers/gpt-4-system-card.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>openai.comGPT-4 System Card10 Mar 2023 — Ensure that safety assessments cover emergent risks: As models get more capable, we should be pr...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: OpenAI  
    Title: gpt 4 research  
-   Link: [https://openai.com/index/gpt-4-research/](https://openai.com/index/gpt-4-research/)  
+   Link: <a href="https://openai.com/index/gpt-4-research/" target="_blank" rel="noopener noreferrer nofollow">https://openai.com/index/gpt-4-research/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>comGPT-4Mar 14, 2023 — GPT-4 is a large multimodal model (accepting image and text inputs, emitting text outputs) that, while less capabl...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: OpenAI  
    Title: generative models  
-   Link: [https://openai.com/index/generative-models/](https://openai.com/index/generative-models/)  
+   Link: <a href="https://openai.com/index/generative-models/" target="_blank" rel="noopener noreferrer nofollow">https://openai.com/index/generative-models/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>comGenerative modelsJun 16, 2016 — This post describes four projects that share a common theme of enhancing or using generative models, a...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/news/inaugural-report-pioneered-by-ai-security-institute-gives-clearest-picture-yet-of-capabilities-of-most-advanced-ai](https://www.gov.uk/government/news/inaugural-report-pioneered-by-ai-security-institute-gives-clearest-picture-yet-of-capabilities-of-most-advanced-ai)  
+   Link: <a href="https://www.gov.uk/government/news/inaugural-report-pioneered-by-ai-security-institute-gives-clearest-picture-yet-of-capabilities-of-most-advanced-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/inaugural-report-pioneered-by-ai-security-institute-gives-clearest-picture-yet-of-capabilities-of-most-advanced-ai</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>report pioneered by AI Security Institute gives...Dec 18, 2025 — The AI Security Institute&#x27;s Frontier AI Trends Report, a public assessm...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: GOV.UK  
    Title: ai security institute frontier ai trends report factsheet  
-   Link: [https://www.gov.uk/government/publications/ai-security-institute-frontier-ai-trends-report-factsheet](https://www.gov.uk/government/publications/ai-security-institute-frontier-ai-trends-report-factsheet)  
+   Link: <a href="https://www.gov.uk/government/publications/ai-security-institute-frontier-ai-trends-report-factsheet" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-security-institute-frontier-ai-trends-report-factsheet</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Security Institute – Frontier AI Trends report factsheetDec 18, 2025 — The UK AI Security Institute (AISI) has conducted evaluations of...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: [https://assets.publishing.service.gov.uk/media/65395abae6c968000daa9b25/frontier-ai-capabilities-risks-report.pdf](https://assets.publishing.service.gov.uk/media/65395abae6c968000daa9b25/frontier-ai-capabilities-risks-report.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/65395abae6c968000daa9b25/frontier-ai-capabilities-risks-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/65395abae6c968000daa9b25/frontier-ai-capabilities-risks-report.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This report explains why. It describes the current state and key trends relating to frontier AI...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: anthropic.com  
    Title: Open-sourcing circuit-tracing tools  
-   Link: [https://www.anthropic.com/research/open-source-circuit-tracing](https://www.anthropic.com/research/open-source-circuit-tracing)  
+   Link: <a href="https://www.anthropic.com/research/open-source-circuit-tracing" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/research/open-source-circuit-tracing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 29, 2025 — In our recent interpretability research, we introduced a new method to trace the thoughts of a large language model.Read more...</p></details>
    Published: May 29, 2025  
 
 18. <a id="endnote-18"></a>
    Source: anthropic.com  
-   Link: [https://www.anthropic.com/research/team/interpretability](https://www.anthropic.com/research/team/interpretability)  
+   Link: <a href="https://www.anthropic.com/research/team/interpretability" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/research/team/interpretability</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Interpretability ResearchThe mission of the Interpretability team is to discover and understand how large language models work internally...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: anthropic.com  
-   Link: [https://www.anthropic.com/research](https://www.anthropic.com/research)  
+   Link: <a href="https://www.anthropic.com/research" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/research</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchThe mission of the Interpretability team is to discover and understand how large language models work internally, as a foundation...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: far.ai  
-   Link: [https://far.ai/about/newsletters/2025-q1-ai-safety](https://far.ai/about/newsletters/2025-q1-ai-safety)  
+   Link: <a href="https://far.ai/about/newsletters/2025-q1-ai-safety" target="_blank" rel="noopener noreferrer nofollow">https://far.ai/about/newsletters/2025-q1-ai-safety</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2025 Q1: AI Safety: From Research to Global ActionOur position paper on AI safety evaluation reveals a critical gap in how frontier model...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: internationalaisafetyreport.org  
    Title: international ai safety report 2026  
-   Link: [https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026](https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026)  
+   Link: <a href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow">https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>International AI Safety ReportInternational AI Safety Report 20263 Feb 2026 — This Report assesses what general-purpose AI systems can do...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: inspect.aisi.org.uk  
-   Link: [https://inspect.aisi.org.uk/](https://inspect.aisi.org.uk/)  
+   Link: <a href="https://inspect.aisi.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://inspect.aisi.org.uk/</a>  
 
 23. <a id="endnote-23"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Anthropic](https://en.wikipedia.org/wiki/Anthropic)  
+   Link: <a href="https://en.wikipedia.org/wiki/Anthropic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anthropic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AnthropicAnthropic is an American artificial intelligence (AI) company headquartered in San Francisco. It has developed a range of lar...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/slatestarcodex/comments/1cyicgw/anthropic_mapping_the_mind_of_a_large_language/](https://www.reddit.com/r/slatestarcodex/comments/1cyicgw/anthropic_mapping_the_mind_of_a_large_language/)  
+   Link: <a href="https://www.reddit.com/r/slatestarcodex/comments/1cyicgw/anthropic_mapping_the_mind_of_a_large_language/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/slatestarcodex/comments/1cyicgw/anthropic_mapping_the_mind_of_a_large_language/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic: Mapping the Mind of a Large Language ModelThis is the first ever detailed look inside a modern, production-grade large languag...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/slatestarcodex/comments/1jlfyhq/anthropic_tracing_the_thoughts_of_an_llm/](https://www.reddit.com/r/slatestarcodex/comments/1jlfyhq/anthropic_tracing_the_thoughts_of_an_llm/)  
+   Link: <a href="https://www.reddit.com/r/slatestarcodex/comments/1jlfyhq/anthropic_tracing_the_thoughts_of_an_llm/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/slatestarcodex/comments/1jlfyhq/anthropic_tracing_the_thoughts_of_an_llm/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic: Tracing the thoughts of an LLM: r/slatestarcodexClaude sometimes thinks in a conceptual space that is shared between language...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/singularity/comments/1jlb6la/anthropic_tracing_the_thoughts_of_a_large/](https://www.reddit.com/r/singularity/comments/1jlb6la/anthropic_tracing_the_thoughts_of_a_large/)  
+   Link: <a href="https://www.reddit.com/r/singularity/comments/1jlb6la/anthropic_tracing_the_thoughts_of_a_large/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/singularity/comments/1jlb6la/anthropic_tracing_the_thoughts_of_a_large/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>understand and build internal world models to explain the outer world.Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: blog.biocomm.ai  
    Title: anthropic research tracing the thoughts of a large language model  
-   Link: [https://blog.biocomm.ai/2025/03/28/anthropic-research-tracing-the-thoughts-of-a-large-language-model/](https://blog.biocomm.ai/2025/03/28/anthropic-research-tracing-the-thoughts-of-a-large-language-model/)  
+   Link: <a href="https://blog.biocomm.ai/2025/03/28/anthropic-research-tracing-the-thoughts-of-a-large-language-model/" target="_blank" rel="noopener noreferrer nofollow">https://blog.biocomm.ai/2025/03/28/anthropic-research-tracing-the-thoughts-of-a-large-language-model/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Research. Tracing the thoughts of a large...Mar 29, 2025 — Anthropic&#x27;s researchers have taken significant steps towards understanding th...</p></details>
 
 ### Additional References
 
 28. <a id="endnote-28"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2303.08774v4](https://arxiv.org/html/2303.08774v4)  
+   Link: <a href="https://arxiv.org/html/2303.08774v4" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2303.08774v4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GPT-4 Technical ReportGPT-4 is a Transformer-based model pre-trained to predict the next token in a document. The post-training alignment...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2503.04746](https://arxiv.org/pdf/2503.04746)  
+   Link: <a href="https://arxiv.org/pdf/2503.04746" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2503.04746</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Emerging Practices in Frontier AI Safety Frameworksby MD Buhl · 2025 · Cited by 4 — At the AI Seoul Summit in 2024, a number of AI develo...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/will-douglas-heaven-843358b_openai-has-trained-its-llm-to-confess-to-activity-7402080933052575745-HwSD](https://www.linkedin.com/posts/will-douglas-heaven-843358b_openai-has-trained-its-llm-to-confess-to-activity-7402080933052575745-HwSD)  
+   Link: <a href="https://www.linkedin.com/posts/will-douglas-heaven-843358b_openai-has-trained-its-llm-to-confess-to-activity-7402080933052575745-HwSD" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/will-douglas-heaven-843358b_openai-has-trained-its-llm-to-confess-to-activity-7402080933052575745-HwSD</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OpenAI&#x27;s Confessions: A New Tool for LLM InterpretabilityOpenAI is testing another new way to expose the complicated processes at work in...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: techradar.com  
-   Link: [https://www.techradar.com/ai-platforms-assistants/anthropic-detects-strategic-manipulation-features-in-claude-mythos-including-exploit-attempts-and-hidden-evaluation-[awareness](https://www.techradar.com/ai-platforms-assistants/anthropic-detects-strategic-manipulation-features-in-claude-mythos-including-exploit-attempts-and-hidden-evaluation-[awareness)  
+   Link: <a href="https://www.techradar.com/ai-platforms-assistants/anthropic-detects-strategic-manipulation-features-in-claude-mythos-including-exploit-attempts-and-hidden-evaluation-[awareness" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/ai-platforms-assistants/anthropic-detects-strategic-manipulation-features-in-claude-mythos-including-exploit-attempts-and-hidden-evaluation-[awareness</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These internal behaviors—such as exploiting system permissions, hiding malicious code, and circumventing rules—were not always visible in...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: transformer-circuits.pub  
-   Link: [https://transformer-circuits.pub/](https://transformer-circuits.pub/)  
+   Link: <a href="https://transformer-circuits.pub/" target="_blank" rel="noopener noreferrer nofollow">https://transformer-circuits.pub/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Transformer Circuits ThreadAnthropic&#x27;s Interpretability Research. A surprising fact about modern large language models is that nobody rea...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/tesssbuckley_today-uks-ai-security-institute-of-department-activity-7407352566029828097-ZTJf](https://www.linkedin.com/posts/tesssbuckley_today-uks-ai-security-institute-of-department-activity-7407352566029828097-ZTJf)  
+   Link: <a href="https://www.linkedin.com/posts/tesssbuckley_today-uks-ai-security-institute-of-department-activity-7407352566029828097-ZTJf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/tesssbuckley_today-uks-ai-security-institute-of-department-activity-7407352566029828097-ZTJf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UK AI Security Institute Publishes Frontier AI Trends ReportAs the first public analysis of trends by AISI it draws on two years&#x27; worth o...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: tomshardware.com  
-   Link: [https://www.tomshardware.com/tech-industry/artificial-intelligence/openclaw-creator-burns-through-1-3-million-in-openai-api-tokens-in-a-single-month](https://www.tomshardware.com/tech-industry/artificial-intelligence/openclaw-creator-burns-through-1-3-million-in-openai-api-tokens-in-a-single-month)  
+   Link: <a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/openclaw-creator-burns-through-1-3-million-in-openai-api-tokens-in-a-single-month" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/artificial-intelligence/openclaw-creator-burns-through-1-3-million-in-openai-api-tokens-in-a-single-month</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OpenClaw creator burned through $1.3 million in OpenAI API tokens in a single month — bill covered 603 billion tokens across 7.6 million...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40adnanmasood/inside-the-ai-black-box-for-real-this-time-2026-state-of-ai-interpretability-and-explainability-b58bf30755ed](https://medium.com/%40adnanmasood/inside-the-ai-black-box-for-real-this-time-2026-state-of-ai-interpretability-and-explainability-b58bf30755ed)  
+   Link: <a href="https://medium.com/%40adnanmasood/inside-the-ai-black-box-for-real-this-time-2026-state-of-ai-interpretability-and-explainability-b58bf30755ed" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40adnanmasood/inside-the-ai-black-box-for-real-this-time-2026-state-of-ai-interpretability-and-explainability-b58bf30755ed</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the AI Black Box, for Real This Time — The 2026...A technical point of view on modern AI transparency, from post-hoc explanation...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: Tech Policy Press  
-   Link: [https://techpolicy.press/the-us-governments-ai-safety-gambit-a-step-forward-or-just-another-voluntary-commitment](https://techpolicy.press/the-us-governments-ai-safety-gambit-a-step-forward-or-just-another-voluntary-commitment)  
+   Link: <a href="https://techpolicy.press/the-us-governments-ai-safety-gambit-a-step-forward-or-just-another-voluntary-commitment" target="_blank" rel="noopener noreferrer nofollow">https://techpolicy.press/the-us-governments-ai-safety-gambit-a-step-forward-or-just-another-voluntary-commitment</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The US Government&#x27;s AI Safety Gambit: A Step Forward or...Sep 20, 2024 — The US AISI&#x27;s agreement with OpenAI and Anthropic falls short o...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: babl.ai  
-   Link: [https://babl.ai/uk-report-warns-frontier-ai-capabilities-are-advancing-faster-than-safety-safeguards/](https://babl.ai/uk-report-warns-frontier-ai-capabilities-are-advancing-faster-than-safety-safeguards/)  
+   Link: <a href="https://babl.ai/uk-report-warns-frontier-ai-capabilities-are-advancing-faster-than-safety-safeguards/" target="_blank" rel="noopener noreferrer nofollow">https://babl.ai/uk-report-warns-frontier-ai-capabilities-are-advancing-faster-than-safety-safeguards/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Report Warns Frontier AI Capabilities Are Advancing...Dec 26, 2025 — The UK&#x27;s AISI has released a new Frontier AI Trends Report warni...</p></details>

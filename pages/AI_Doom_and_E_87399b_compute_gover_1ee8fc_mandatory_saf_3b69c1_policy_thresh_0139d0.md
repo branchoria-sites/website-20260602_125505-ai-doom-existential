@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1_independent_r_169369
 - AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1_pre_training_b6a05c
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - governance
 - safety-checks
 - risk-thresholds
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - governance
 - safety-checks
 - risk-thresholds
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Describes how predefined risk limits trigger interventions like pausing training, additional safeguards, or regulatory reporting.
 hero_summary: Describes how predefined risk limits trigger interventions like pausing training, additional safeguards, or regulatory reporting.
 layout: default
 permalink: /risk-thresholds-bbf629/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /governance/
 - /safety-checks/
 nav_short_title: Risk Thresholds
@@ -203,6 +203,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-02 12:27:38'
 parent_title: Should Frontier Models Pass Safety Checks First? | Governance
 parent_permalink: /safety-checks/
 parent_nav_short_title: Safety Checks
@@ -210,10 +211,10 @@ parent_heading_title: Should Frontier Models Pass Safety Checks First?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_compute_gover_1ee8fc
-  title: Governance | AI Doom and
+  title: Governance | AI Doom and E 87399 b
   permalink: /governance/
   short_title: Governance
   heading_title: What Rules Could Reduce AI Doom Risk?
@@ -225,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_compute_gover_1ee8fc
-  title: Governance | AI Doom and
+  title: Governance | AI Doom and E 87399 b
   permalink: /governance/
   short_title: Governance
   heading_title: What Rules Could Reduce AI Doom Risk?
@@ -260,7 +261,6 @@ prev_link:
   permalink: /red-teaming/
   short_title: Red Teaming
   heading_title: Why Independent Red Teaming Is Critical for AI Safety
-date: '2026-06-02 12:27:38 '
 header:
   og_image: /assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1_policy_thresh_0139d0-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1_policy_thresh_0139d0-Illustration-1.webp
@@ -287,7 +287,7 @@ Several categories appear repeatedly in frontier AI governance discussions:
 * **Deployment thresholds**: based on the context in which a model is used and the safeguards surrounding it.
 * **Combined thresholds**: using several indicators together rather than relying on one measure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">risk taxonomy and thresholds</span><span class="citation-popover-snippet">for Frontier AI Frameworks18 Jun 2025 — This report examines the rationale for including only select risk domains within frontier AI fram...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">emerging processes for frontier ai safety</span><span class="citation-popover-snippet">processes for frontier AI safety27 Oct 2023 — This document contains the world&#x27;s first overview of emerging safety processes focused on f...</span></span></span>
 
-Many frontier safety frameworks increasingly rely on capability-based thresholds. The reasoning is straightforward: existential risk comes from what a system can do rather than how many computers were used to build it. Frameworks published by major AI developers and analysed by independent researchers commonly define capability levels that trigger additional safeguards once models approach areas such as cyber offence, biological assistance, autonomous replication, strategic deception, or AI-enabled acceleration of further AI development. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://metr.org/common-elements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[Metr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-title">common elements</span><span class="citation-popover-snippet">MetrCommon Elements of Frontier AI Safety Policies16 Dec 2025 — The Framework is built around capability thresholds called “Critical Capa...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://metr.org/blog/2025-12-09-common-elements-of-frontier-ai-safety-policies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[Metr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-title">2025 12 09 common elements of frontier ai safety policies</span><span class="citation-popover-snippet">Common Elements of Frontier AI Safety Policies...9 Dec 2025 — The policies also outline commitments to conduct model evaluations assessi...</span></span></span>
+Many frontier safety frameworks increasingly rely on capability-based thresholds. The reasoning is straightforward: existential risk comes from what a system can do rather than how many computers were used to build it. Frameworks published by major AI developers and analysed by [independent]({{ 'red-teaming/' | relative_url }}) researchers commonly define capability levels that trigger additional safeguards once models approach areas such as cyber offence, biological assistance, autonomous replication, strategic deception, or AI-enabled acceleration of further AI development. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://metr.org/common-elements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[Metr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-title">common elements</span><span class="citation-popover-snippet">Common Elements of Frontier AI Safety Policies16 Dec 2025 — The Framework is built around capability thresholds called “Critical Capa...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://metr.org/blog/2025-12-09-common-elements-of-frontier-ai-safety-policies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[Metr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-title">2025 12 09 common elements of frontier ai safety policies</span><span class="citation-popover-snippet">Common Elements of Frontier AI Safety Policies...9 Dec 2025 — The policies also outline commitments to conduct model evaluations assessi...</span></span></span>
 
 ## Why Compute Thresholds Remain Important
 
@@ -309,11 +309,11 @@ The defining feature of threshold-based governance is that crossing a limit has 
 Different frameworks propose different responses, but common interventions include:
 
 1. **Mandatory additional [evaluations]({{ 'evaluations/' | relative_url }})** before development continues.
+2. **Independent external review** by regulators or accredited assessors.
+3. **Enhanced security requirements** to reduce theft, [misuse]({{ 'misuse/' | relative_url }}), or model leakage.
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
-2. **Independent external review** by regulators or accredited assessors.
-3. **Enhanced security requirements** to reduce theft, misuse, or model leakage.
 4. **Deployment restrictions** limiting access to high-risk capabilities.
 5. **Incident reporting obligations** when dangerous behaviour is discovered.
 6. **Temporary pauses in training or deployment** until risks are addressed.
@@ -763,7 +763,7 @@ Capability thresholds can appear more directly connected to real-world harm than
 
 Risk thresholds attempt to solve this problem by focusing directly on harm. Instead of asking whether a model can perform a task, they ask whether it raises the probability of severe damage beyond an acceptable level. In principle, this approach is more defensible because it targets outcomes rather than proxies. In practice, estimating the probability of unprecedented harms remains extremely difficult. Researchers therefore often recommend combining risk thresholds with more measurable capability indicators. [arXiv](#endnote-2 "Endnote 2")
 
-This uncertainty is especially important in AI doom discussions. If existential risks arise from novel forms of misalignment, deception, or strategic planning that have never previously existed, policymakers may not know which capabilities are most predictive. Thresholds could therefore be set too low, creating unnecessary restrictions, or too high, failing to intervene before [dangerous]({{ 'autonomy/' | relative_url }}) systems emerge.
+This uncertainty is especially important in AI doom discussions. If existential risks arise from novel forms of misalignment, deception, or strategic planning that have never previously existed, policymakers may not know which capabilities are most predictive. Thresholds could therefore be set too low, creating unnecessary restrictions, or too high, failing to intervene before dangerous systems emerge.
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1_policy_thresh_0139d0-Illustration-3-dark.svg" | relative_url }}" alt="Risk Thresholds illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1_policy_thresh_0139d0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1_policy_thresh_0139d0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -784,196 +784,196 @@ For advocates of mandatory frontier AI safety evaluations before training, thres
 1. <a id="endnote-1"></a>
    Source: GOV.UK  
    Title: frontier ai safety commitments ai seoul summit 2024  
-   Link: [https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024/frontier-ai-safety-commitments-ai-seoul-summit-2024](https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024/frontier-ai-safety-commitments-ai-seoul-summit-2024)  
+   Link: <a href="https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024/frontier-ai-safety-commitments-ai-seoul-summit-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024/frontier-ai-safety-commitments-ai-seoul-summit-2024</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier AI Safety Commitments, AI Seoul Summit 2024Feb 7, 2025 — Thresholds can be defined using model capabilities, estimates of risk...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
    Title: arXiv Risk thresholds for frontier AI  
-   Link: [https://arxiv.org/abs/2406.14713](https://arxiv.org/abs/2406.14713)  
+   Link: <a href="https://arxiv.org/abs/2406.14713" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2406.14713</a>  
 
 3. <a id="endnote-3"></a>
    Source: metr.org  
    Title: common elements  
-   Link: [https://metr.org/common-elements](https://metr.org/common-elements)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MetrCommon Elements of Frontier AI Safety Policies16 Dec 2025 — The Framework is built around capability thresholds called “Critical Capa...</p></details>
+   Link: <a href="https://metr.org/common-elements" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/common-elements</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Common Elements of Frontier AI Safety Policies16 Dec 2025 — The Framework is built around capability thresholds called “Critical Capa...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: metr.org  
    Title: 2025 12 09 common elements of frontier ai safety policies  
-   Link: [https://metr.org/blog/2025-12-09-common-elements-of-frontier-ai-safety-policies/](https://metr.org/blog/2025-12-09-common-elements-of-frontier-ai-safety-policies/)  
+   Link: <a href="https://metr.org/blog/2025-12-09-common-elements-of-frontier-ai-safety-policies/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/blog/2025-12-09-common-elements-of-frontier-ai-safety-policies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Common Elements of Frontier AI Safety Policies...9 Dec 2025 — The policies also outline commitments to conduct model evaluations assessi...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2406.14713](https://arxiv.org/pdf/2406.14713)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivRisk thresholds for frontier AIJune 20, 2024 — by L Koessler · 2024 · Cited by 25 — Compute thresholds should thus be used as an ini...</p></details>
+   Link: <a href="https://arxiv.org/pdf/2406.14713" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2406.14713</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Risk thresholds for frontier AIJune 20, 2024 — by L Koessler · 2024 · Cited by 25 — Compute thresholds should thus be used as an ini...</p></details>
    Published: June 20, 2024  
 
 6. <a id="endnote-6"></a>
    Source: longtermresilience.org  
    Title: frontier ai safety frameworks need to include risk governance  
-   Link: [https://www.longtermresilience.org/reports/frontier-ai-safety-frameworks-need-to-include-risk-governance/](https://www.longtermresilience.org/reports/frontier-ai-safety-frameworks-need-to-include-risk-governance/)  
+   Link: <a href="https://www.longtermresilience.org/reports/frontier-ai-safety-frameworks-need-to-include-risk-governance/" target="_blank" rel="noopener noreferrer nofollow">https://www.longtermresilience.org/reports/frontier-ai-safety-frameworks-need-to-include-risk-governance/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CLTRFrontier AI safety frameworks need to include risk...5 Feb 2025 — These frameworks aim to set thresholds for powerful AI models, and...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2507.16534](https://arxiv.org/abs/2507.16534)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivFrontier AI Risk Management Framework in Practice: A Risk Analysis Technical ReportJuly 22, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2507.16534" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2507.16534</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier AI Risk Management Framework in Practice: A Risk Analysis Technical ReportJuly 22, 2025...</p></details>
    Published: July 22, 2025  
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Title: arXiv Intolerable Risk Threshold Recommendations for [Artificial](&#123;&#123; 'artificial-goals/' | relative_url &#125;&#125;) Intelligence  
-   Link: [https://arxiv.org/abs/2503.05812](https://arxiv.org/abs/2503.05812)  
+   Title: arXiv Intolerable Risk Threshold Recommendations for Artificial Intelligence  
+   Link: <a href="https://arxiv.org/abs/2503.05812" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2503.05812</a>  
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Safe and Secure Innovation for Frontier Artificial Intelligence Models Act  
-   Link: [https://en.wikipedia.org/wiki/Safe_and_Secure_Innovation_for_Frontier_Artificial_Intelligence_Models_Act](https://en.wikipedia.org/wiki/Safe_and_Secure_Innovation_for_Frontier_Artificial_Intelligence_Models_Act)  
+   Link: <a href="https://en.wikipedia.org/wiki/Safe_and_Secure_Innovation_for_Frontier_Artificial_Intelligence_Models_Act" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Safe_and_Secure_Innovation_for_Frontier_Artificial_Intelligence_Models_Act</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Safe and Secure Innovation for Frontier Artificial...The Safe and Secure Innovation for Frontier Artificial Intelligence Models Act...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2512.01166](https://arxiv.org/abs/2512.01166)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivEvaluating AI Companies&#x27; Frontier Safety Frameworks: Methodology and ResultsDecember 1, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2512.01166" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2512.01166</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating AI Companies&#x27; Frontier Safety Frameworks: Methodology and ResultsDecember 1, 2025...</p></details>
    Published: December 1, 2025  
 
 11. <a id="endnote-11"></a>
    Source: metr.org  
-   Link: [https://metr.org/notes/2026-01-29-frontier-ai-safety-regulations/](https://metr.org/notes/2026-01-29-frontier-ai-safety-regulations/)  
+   Link: <a href="https://metr.org/notes/2026-01-29-frontier-ai-safety-regulations/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/notes/2026-01-29-frontier-ai-safety-regulations/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier AI safety regulations: A reference for lab staff29 Jan 2026 — Signatories have been expected to comply with the Code since Augus...</p></details>
    Published: August 2025  
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Artificial intelligence  
-   Link: [https://en.wikipedia.org/wiki/Artificial_intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)  
+   Link: <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Artificial_intelligence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligenceArtificial intelligence (AI) is the capability of computational systems to perform tasks typically associated w...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: GOV.UK  
    Title: emerging processes for frontier ai safety  
-   Link: [https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety](https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety)  
+   Link: <a href="https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>processes for frontier AI safety27 Oct 2023 — This document contains the world&#x27;s first overview of emerging safety processes focused on f...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2512.01166v3](https://arxiv.org/html/2512.01166v3)  
+   Link: <a href="https://arxiv.org/html/2512.01166v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2512.01166v3</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating AI Providers&#x27; Frontier AI Safety Frameworks26 Mar 2026 — Capability Thresholds: Defined levels of AI system performance that...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: frontiermodelforum.org  
    Title: issue brief thresholds for frontier ai safety frameworks  
-   Link: [https://www.frontiermodelforum.org/updates/issue-brief-thresholds-for-frontier-ai-safety-frameworks/](https://www.frontiermodelforum.org/updates/issue-brief-thresholds-for-frontier-ai-safety-frameworks/)  
+   Link: <a href="https://www.frontiermodelforum.org/updates/issue-brief-thresholds-for-frontier-ai-safety-frameworks/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/updates/issue-brief-thresholds-for-frontier-ai-safety-frameworks/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Model ForumIssue Brief: Thresholds for Frontier AI Safety Frameworks7 Feb 2025 — This brief elaborates on the importance of thre...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: internationalaisafetyreport.org  
    Title: international ai safety report 2026  
-   Link: [https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026](https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026)  
+   Link: <a href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow">https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>International AI Safety ReportInternational AI Safety Report 20263 Feb 2026 — For example, some current governance approaches use thresho...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: digital-strategy.ec.europa.eu  
-   Link: [https://digital-strategy.ec.europa.eu/en/factpages/general-purpose-ai-obligations-under-ai-act](https://digital-strategy.ec.europa.eu/en/factpages/general-purpose-ai-obligations-under-ai-act)  
+   Link: <a href="https://digital-strategy.ec.europa.eu/en/factpages/general-purpose-ai-obligations-under-ai-act" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/factpages/general-purpose-ai-obligations-under-ai-act</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital StrategyGeneral-purpose AI obligations under the AI ActAug 1, 2025 — **GPAI models are presumed to pose systemic risk if they are...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: artificialintelligenceact.eu  
    Title: gpai guidelines overview  
-   Link: [https://artificialintelligenceact.eu/gpai-guidelines-overview/](https://artificialintelligenceact.eu/gpai-guidelines-overview/)  
+   Link: <a href="https://artificialintelligenceact.eu/gpai-guidelines-overview/" target="_blank" rel="noopener noreferrer nofollow">https://artificialintelligenceact.eu/gpai-guidelines-overview/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: digital-strategy.ec.europa.eu  
    Title: general purpose ai models ai act questions answers  
-   Link: [https://digital-strategy.ec.europa.eu/en/faqs/general-purpose-ai-models-ai-act-questions-answers](https://digital-strategy.ec.europa.eu/en/faqs/general-purpose-ai-models-ai-act-questions-answers)  
+   Link: <a href="https://digital-strategy.ec.europa.eu/en/faqs/general-purpose-ai-models-ai-act-questions-answers" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/faqs/general-purpose-ai-models-ai-act-questions-answers</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital StrategyGeneral-Purpose AI Models in the AI Act – Questions &amp; Answers10 Jul 2025 — The obligations for providers of general-purpo...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: morganlewis.com  
-   Link: [https://www.morganlewis.com/pubs/2024/08/californias-sb-1047-would-impose-new-safety-requirements-for-developers-of-large-scale-ai-models](https://www.morganlewis.com/pubs/2024/08/californias-sb-1047-would-impose-new-safety-requirements-for-developers-of-large-scale-ai-models)  
+   Link: <a href="https://www.morganlewis.com/pubs/2024/08/californias-sb-1047-would-impose-new-safety-requirements-for-developers-of-large-scale-ai-models" target="_blank" rel="noopener noreferrer nofollow">https://www.morganlewis.com/pubs/2024/08/californias-sb-1047-would-impose-new-safety-requirements-for-developers-of-large-scale-ai-models</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Morgan LewisCalifornia&#x27;s SB 1047 Would Impose New Safety...August 29, 2024 — 29 Aug 2024 — The bill would broadly cover any AI developer...</p></details>
    Published: August 29, 2024  
 
 21. <a id="endnote-21"></a>
    Source: artificialintelligenceact.eu  
-   Link: [https://artificialintelligenceact.eu/article/51/](https://artificialintelligenceact.eu/article/51/)  
+   Link: <a href="https://artificialintelligenceact.eu/article/51/" target="_blank" rel="noopener noreferrer nofollow">https://artificialintelligenceact.eu/article/51/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>If the AI model has high impact capabilities, determined by technical tools and...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: digital-strategy.ec.europa.eu  
    Title: eu A I Act | Shaping Europe's digital future  
-   Link: [https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai)  
+   Link: <a href="https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Act | Shaping Europe&#x27;s digital future - European UnionThe AI Act is the first-ever legal framework on AI, which addresses the risks of AI...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: digital-strategy.ec.europa.eu  
    Title: contents code gpai  
-   Link: [https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai](https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai)  
+   Link: <a href="https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>General-Purpose AI Code of PracticeJul 10, 2025 — The Code of Practice helps industry comply with the AI Act legal obligations on safety...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: frontiermodelforum.org  
    Title: risk taxonomy and thresholds  
-   Link: [https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/](https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/)  
+   Link: <a href="https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>for Frontier AI Frameworks18 Jun 2025 — This report examines the rationale for including only select risk domains within frontier AI fram...</p></details>
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: twobirds.com  
-   Link: [https://www.twobirds.com/en/insights/2025/taking-the-eu-ai-act-to-practice-how-the-final-gpai-guidelines-shape-the-ai-regulatory-landscape](https://www.twobirds.com/en/insights/2025/taking-the-eu-ai-act-to-practice-how-the-final-gpai-guidelines-shape-the-ai-regulatory-landscape)  
+   Link: <a href="https://www.twobirds.com/en/insights/2025/taking-the-eu-ai-act-to-practice-how-the-final-gpai-guidelines-shape-the-ai-regulatory-landscape" target="_blank" rel="noopener noreferrer nofollow">https://www.twobirds.com/en/insights/2025/taking-the-eu-ai-act-to-practice-how-the-final-gpai-guidelines-shape-the-ai-regulatory-landscape</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taking the EU AI Act to Practice How the Final GPAI...31 Jul 2025 — The AI Act itself establishes that a GPAI model poses a systemic ris...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: enkryptai.com  
    Title: frontier safety frameworks comprehensive overview  
-   Link: [https://www.enkryptai.com/blog/frontier-safety-frameworks-comprehensive-overview](https://www.enkryptai.com/blog/frontier-safety-frameworks-comprehensive-overview)  
+   Link: <a href="https://www.enkryptai.com/blog/frontier-safety-frameworks-comprehensive-overview" target="_blank" rel="noopener noreferrer nofollow">https://www.enkryptai.com/blog/frontier-safety-frameworks-comprehensive-overview</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Safety Frameworks — A Comprehensive Picture17 Jul 2025 — Google DeepMind&#x27;s Frontier Safety Framework introduces Critical Capabil...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/sustainability/boards-policy-regulation/ai-models-with-systemic-risks-given-pointers-how-comply-with-eu-ai-rules-2025-07-18/](https://www.reuters.com/sustainability/boards-policy-regulation/ai-models-with-systemic-risks-given-pointers-how-comply-with-eu-ai-rules-2025-07-18/)  
+   Link: <a href="https://www.reuters.com/sustainability/boards-policy-regulation/ai-models-with-systemic-risks-given-pointers-how-comply-with-eu-ai-rules-2025-07-18/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/sustainability/boards-policy-regulation/ai-models-with-systemic-risks-given-pointers-how-comply-with-eu-ai-rules-2025-07-18/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These guidelines aim to ease the regulatory burden for businesses and provide clarity for complying with the law, which comes into effect...</p></details>
    Published: July 18, 2025  
 
 28. <a id="endnote-28"></a>
    Source: theverge.com  
-   Link: [https://www.theverge.com/2024/8/28/24229068/california-sb-1047-ai-safety-bill-passed-state-assembly-governor-newsom-signature](https://www.theverge.com/2024/8/28/24229068/california-sb-1047-ai-safety-bill-passed-state-assembly-governor-newsom-signature)  
+   Link: <a href="https://www.theverge.com/2024/8/28/24229068/california-sb-1047-ai-safety-bill-passed-state-assembly-governor-newsom-signature" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/2024/8/28/24229068/california-sb-1047-ai-safety-bill-passed-state-assembly-governor-newsom-signature</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Esta ley obliga a las empresas de IA que operan en California a implementar una serie de precauciones antes de entrenar un modelo de base...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: ai.google  
    Title: Google AI  
-   Link: [https://ai.google/](https://ai.google/)  
+   Link: <a href="https://ai.google/" target="_blank" rel="noopener noreferrer nofollow">https://ai.google/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How we&#x27;re making AI helpful for everyoneDiscover how Google AI is committed to enriching knowledge, solving complex challenges and helpin...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: assets.amazon.science  
    Title: pc amazon frontier model safety framework 2 7 final 2 9  
-   Link: [https://assets.amazon.science/a7/7c/8bdade5c4eda9168f3dee6434fff/pc-amazon-frontier-model-safety-framework-2-7-final-2-9.pdf](https://assets.amazon.science/a7/7c/8bdade5c4eda9168f3dee6434fff/pc-amazon-frontier-model-safety-framework-2-7-final-2-9.pdf)  
+   Link: <a href="https://assets.amazon.science/a7/7c/8bdade5c4eda9168f3dee6434fff/pc-amazon-frontier-model-safety-framework-2-7-final-2-9.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.amazon.science/a7/7c/8bdade5c4eda9168f3dee6434fff/pc-amazon-frontier-model-safety-framework-2-7-final-2-9.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>amazon.scienceAmazon&#x27;s Frontier Model Safety Framework9 Feb 2025 — First, it specifies Critical Capability. Thresholds, a set of model ca...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: brookings.edu  
    Title: misrepresentations of californias ai safety bill  
-   Link: [https://www.brookings.edu/articles/misrepresentations-of-californias-ai-safety-bill/](https://www.brookings.edu/articles/misrepresentations-of-californias-ai-safety-bill/)  
+   Link: <a href="https://www.brookings.edu/articles/misrepresentations-of-californias-ai-safety-bill/" target="_blank" rel="noopener noreferrer nofollow">https://www.brookings.edu/articles/misrepresentations-of-californias-ai-safety-bill/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Misrepresentations of California&#x27;s AI safety bill27 Sept 2024 — California Senate Bill 1047 (SB-1047), which aims to regulate catastrophi...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: eipa.eu  
    Title: understanding general purpose ai  
-   Link: [https://www.eipa.eu/blog/understanding-general-purpose-ai/](https://www.eipa.eu/blog/understanding-general-purpose-ai/)  
+   Link: <a href="https://www.eipa.eu/blog/understanding-general-purpose-ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.eipa.eu/blog/understanding-general-purpose-ai/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>11 Mar 2025 — The simple answer? GPAI models are regulated based on the extent of systemic risk they pose, as defined in Article 51 of th...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: european-union.europa.eu  
-   Link: [https://european-union.europa.eu/index_en](https://european-union.europa.eu/index_en)  
+   Link: <a href="https://european-union.europa.eu/index_en" target="_blank" rel="noopener noreferrer nofollow">https://european-union.europa.eu/index_en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Union: Your gateway to the EU, News, Highlights5 hours ago — Discover what the EU does for citizens, how it protects rights, promotes pro...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: freshfields.com  
-   Link: [https://www.freshfields.com/en/our-thinking/campaigns/tech-data-and-ai-the-digital-frontier/eu-digital-strategy/artificial-intelligence-act](https://www.freshfields.com/en/our-thinking/campaigns/tech-data-and-ai-the-digital-frontier/eu-digital-strategy/artificial-intelligence-act)  
+   Link: <a href="https://www.freshfields.com/en/our-thinking/campaigns/tech-data-and-ai-the-digital-frontier/eu-digital-strategy/artificial-intelligence-act" target="_blank" rel="noopener noreferrer nofollow">https://www.freshfields.com/en/our-thinking/campaigns/tech-data-and-ai-the-digital-frontier/eu-digital-strategy/artificial-intelligence-act</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial Intelligence ActThe AI Act introduces EU-wide minimum requirements for AI systems and proposes a sliding scale of rules based...</p></details>

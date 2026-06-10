@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf_seoul_safety_196957
 - AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf_shared_evalua_7938d8
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - race-pressure
 - shared-rules
 - thresholds
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - race-pressure
 - shared-rules
 - thresholds
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Capability thresholds aim to stop labs treating dangerous model abilities as private judgement calls during a competitive race.
 hero_summary: Capability thresholds aim to stop labs treating dangerous model abilities as private judgement calls during a competitive race.
 layout: default
 permalink: /thresholds-ed4586/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /race-pressure/
 - /shared-rules/
 nav_short_title: Thresholds
@@ -211,10 +211,10 @@ parent_heading_title: How Shared Rules Could Slow the Race
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_ai_race_dynam_a5d049
-  title: Race Pressure | AI Doom and
+  title: Race Pressure | AI Doom and E 87399 b
   permalink: /race-pressure/
   short_title: Race Pressure
   heading_title: Why AI Races Can Make Safety Harder
@@ -226,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_ai_race_dynam_a5d049
-  title: Race Pressure | AI Doom and
+  title: Race Pressure | AI Doom and E 87399 b
   permalink: /race-pressure/
   short_title: Race Pressure
   heading_title: Why AI Races Can Make Safety Harder
@@ -269,33 +269,33 @@ image: /assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a7
 
 ## Introduction
 
-In debates about **[AI doom and]({{ 'ai-doom-and/' | relative_url }}) existential risk**, one of the persistent governance challenges is deciding **when AI systems become dangerous enough that developers should be required to change course** — either by stopping development, imposing stricter safeguards, or limiting deployment. A core response in recent policy and safety frameworks is the use of **[capability thresholds]({{ 'capability-thresholds/' | relative_url }})**: defined levels of model competence that act as **triggers for stronger safety controls** and potentially forced pauses in deployment choices. Capability thresholds aim to shift decisions from ad‑hoc internal judgement calls to shared, measurable triggers that make cautious behaviour a **common standard**, reducing incentives for any one lab to rush ahead without safeguards.<span class="citation-chip-wrap"><a class="citation-chip" href="https://metr.org/common-elements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[METR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-title">Common Elements of Frontier AI Safety Policies</span><span class="citation-popover-snippet">METRCommon Elements of Frontier AI Safety Policies - METRDecember 16, 2025...</span><span class="citation-popover-meta">Published: December 16, 2025</span></span></span>
+In debates about **AI doom and existential risk**, one of the persistent [governance]({{ 'governance/' | relative_url }}) challenges is deciding **when AI systems become dangerous enough that developers should be required to change course** — either by stopping development, imposing stricter safeguards, or limiting deployment. A core response in recent policy and safety frameworks is the use of **[capability thresholds]({{ 'capability-thresholds/' | relative_url }})**: defined levels of model competence that act as **triggers for stronger safety controls** and potentially forced pauses in deployment choices. Capability thresholds aim to shift decisions from ad‑hoc internal judgement calls to shared, measurable triggers that make cautious behaviour a **common standard**, reducing incentives for any one lab to rush ahead without safeguards.<span class="citation-chip-wrap"><a class="citation-chip" href="https://metr.org/common-elements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[METR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-title">Common Elements of Frontier AI Safety Policies</span><span class="citation-popover-snippet">Common Elements of Frontier AI Safety Policies - METRDecember 16, 2025...</span><span class="citation-popover-meta">Published: December 16, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf_capability_th_d9904d-Illustration-1-dark.svg" | relative_url }}" alt="Thresholds illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf_capability_th_d9904d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf_capability_th_d9904d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Counts as a Dangerous Capability Threshold
 
-At its simplest, a capability threshold is **a pre‑specified point in a model’s abilities** — such as performance on certain tasks, degree of autonomy, or ability to meaningfully assist harmful actors — **that activates new governance obligations**. These obligations can include deeper safety [evaluations]({{ 'evaluations/' | relative_url }}), enhanced security controls, restrictions on certain kinds of [deployment]({{ 'release-gates/' | relative_url }}), and in some frameworks, **deliberate pauses** in training until mitigations are in place.<span class="citation-chip-wrap"><a class="citation-chip" href="https://juncturepolicy.org/glossary/terms-c/capability-threshold/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: juncturepolicy.org">[Juncture Policy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">juncturepolicy.org</span><span class="citation-popover-title">Juncture Policy Capability Threshold</span><span class="citation-popover-snippet">Juncture PolicyCapability Threshold - Juncture Policy...</span></span></span>
+At its simplest, a capability threshold is **a pre‑specified point in a model’s abilities** — such as performance on certain tasks, degree of [autonomy]({{ 'autonomy/' | relative_url }}), or ability to meaningfully assist harmful actors — **that activates new governance obligations**. These obligations can include deeper safety [evaluations]({{ 'evaluations/' | relative_url }}), enhanced security controls, restrictions on certain kinds of deployment, and in some frameworks, **deliberate pauses** in training until mitigations are in place.<span class="citation-chip-wrap"><a class="citation-chip" href="https://juncturepolicy.org/glossary/terms-c/capability-threshold/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: juncturepolicy.org">[Juncture Policy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">juncturepolicy.org</span><span class="citation-popover-title">Juncture Policy Capability Threshold</span><span class="citation-popover-snippet">Juncture PolicyCapability Threshold - Juncture Policy...</span></span></span>
 
-Across the frontier AI safety frameworks published by major developers, the notion of “[dangerous]({{ 'autonomy/' | relative_url }})” varies but generally aligns with abilities that could **enable large‑scale harm without substantial mitigation**: assisting in biological [misuse]({{ 'misuse/' | relative_url }}), automating sophisticated cyberattacks, or providing autonomous capability to execute harmful strategies. These thresholds are not based solely on broad resource proxies like compute but are tied to **specific, identifiable capabilities** that correlate with societal risk vectors.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">Frontier Model Forum Risk Taxonomy and Thresholds for Frontier AI Frameworks</span><span class="citation-popover-snippet">Frontier Model ForumRisk Taxonomy and Thresholds for Frontier AI Frameworks - Frontier Model Forum...</span></span></span>
+Across the frontier AI safety frameworks published by major developers, the notion of “dangerous” varies but generally aligns with abilities that could **enable large‑scale harm without substantial mitigation**: assisting in biological [misuse]({{ 'misuse/' | relative_url }}), automating sophisticated cyberattacks, or providing autonomous capability to execute harmful strategies. These thresholds are not based solely on broad resource proxies like compute but are tied to **specific, identifiable capabilities** that correlate with societal risk vectors.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">Frontier Model Forum Risk Taxonomy and Thresholds for Frontier AI Frameworks</span><span class="citation-popover-snippet">Frontier Model ForumRisk Taxonomy and Thresholds for Frontier AI Frameworks - Frontier Model Forum...</span></span></span>
 
 A typical structure seen in these frameworks involves two linked concepts:
 
 * **Enabling capability thresholds** signal that a model has reached skills that *could* make certain harmful outcomes plausible if not mitigated.
 * **Deployment or residual risk thresholds** then assess whether a model that has crossed an enabling threshold can be **safely deployed** after specified safeguards are in place.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">Frontier Model Forum Risk Taxonomy and Thresholds for Frontier AI Frameworks</span><span class="citation-popover-snippet">Frontier Model ForumRisk Taxonomy and Thresholds for Frontier AI Frameworks - Frontier Model Forum...</span></span></span>
 
-Because true risk — in terms of societal harm probability — is very hard to estimate for novel technologies, many frameworks currently use **capability thresholds as proxies for risk triggers**, balancing measurability with risk relevance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.governance.ai/research-paper/risk-thresholds-for-frontier-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governance.ai">[GovAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governance.ai</span><span class="citation-popover-title">risk thresholds for frontier ai</span><span class="citation-popover-snippet">GovAIRisk Thresholds for Frontier AI | GovAIJune 20, 2024...</span><span class="citation-popover-meta">Published: June 20, 2024</span></span></span>
+Because true risk — in terms of societal harm probability — is very hard to estimate for novel technologies, many frameworks currently use **capability thresholds as proxies for risk triggers**, balancing measurability with risk relevance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.governance.ai/research-paper/risk-thresholds-for-frontier-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governance.ai">[GovAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governance.ai</span><span class="citation-popover-title">risk thresholds for frontier ai</span><span class="citation-popover-snippet">GovAIRisk Thresholds for Frontier AI &#124; GovAIJune 20, 2024...</span><span class="citation-popover-meta">Published: June 20, 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jXtk68Kzmms" title="The Most Important Graph in AI Right Now | Beth Barnes, CEO of METR" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jXtk68Kzmms" target="_blank" rel="noopener noreferrer">The Most Important Graph in AI Right Now | Beth Barnes, CEO of METR</a></p><p class="youtube-embed-meta">Channel: 80,000 Hours &middot; Views: 76.3K &middot; Uploaded: June 2025 &middot; Length: 3 hours 57 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jXtk68Kzmms" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jXtk68Kzmms">Open on YouTube</a></p></div></div></div>
 
 ## How Capability Thresholds Can Reduce Competitive Race Incentives
 
-A central problem that drives premature deployment in the AI race is the fear of **losing advantage** if a lab slows while competitors keep developing or deploying. Shared capability thresholds help realign incentives by making safety obligations **predictable and common** rather than private policy choices. If all actors agree that, for example, ability to generate detailed actionable biological synthesis instructions, or to autonomously coordinate harmful digital operations, triggers compulsory safeguards or deployment restrictions, then no single actor can treat those capabilities as a private risk judgement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://metr.org/common-elements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[METR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-title">Common Elements of Frontier AI Safety Policies</span><span class="citation-popover-snippet">METRCommon Elements of Frontier AI Safety Policies - METRDecember 16, 2025...</span><span class="citation-popover-meta">Published: December 16, 2025</span></span></span>
+A central problem that drives premature deployment in the AI race is the fear of **losing advantage** if a lab slows while competitors keep developing or deploying. Shared capability thresholds help realign incentives by making safety obligations **predictable and common** rather than private policy choices. If all actors agree that, for example, ability to generate detailed actionable biological synthesis instructions, or to autonomously coordinate harmful digital operations, triggers compulsory safeguards or deployment restrictions, then no single actor can treat those capabilities as a private risk judgement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://metr.org/common-elements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[METR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-title">Common Elements of Frontier AI Safety Policies</span><span class="citation-popover-snippet">Common Elements of Frontier AI Safety Policies - METRDecember 16, 2025...</span><span class="citation-popover-meta">Published: December 16, 2025</span></span></span>
 
-This shared triggering reduces the strategic advantage of secrecy around risk signalling. Developers know that **exceeding an agreed threshold will automatically elevate safety requirements**, so there is less value in hiding or downplaying risky features to reach the market faster. It also helps external auditors, regulators, and governments to understand **when and why** higher safety controls should apply, providing a basis for consistent [oversight]({{ 'oversight-evasion/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">Frontier Model Forum Risk Taxonomy and Thresholds for Frontier AI Frameworks</span><span class="citation-popover-snippet">Frontier Model ForumRisk Taxonomy and Thresholds for Frontier AI Frameworks - Frontier Model Forum...</span></span></span>
+This shared triggering reduces the strategic advantage of secrecy around risk signalling. Developers know that **exceeding an agreed threshold will automatically elevate safety requirements**, so there is less value in hiding or downplaying risky features to reach the market faster. It also helps external auditors, regulators, and governments to understand **when and why** higher safety controls should apply, providing a basis for consistent oversight.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">Frontier Model Forum Risk Taxonomy and Thresholds for Frontier AI Frameworks</span><span class="citation-popover-snippet">Frontier Model ForumRisk Taxonomy and Thresholds for Frontier AI Frameworks - Frontier Model Forum...</span></span></span>
 
-Importantly, capability thresholds are sometimes embedded in **tiered safety regimes**, much like biosafety levels in laboratories. Lower thresholds might require additional internal testing and oversight, while higher ones temporarily halt open deployment until concrete mitigations — such as containment protocols, external audits, or behavioural constraints — are proven effective.<span class="citation-chip-wrap"><a class="citation-chip" href="https://metr.org/common-elements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[METR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-title">Common Elements of Frontier AI Safety Policies</span><span class="citation-popover-snippet">METRCommon Elements of Frontier AI Safety Policies - METRDecember 16, 2025...</span><span class="citation-popover-meta">Published: December 16, 2025</span></span></span>
+Importantly, capability thresholds are sometimes embedded in **tiered safety regimes**, much like biosafety levels in laboratories. Lower thresholds might require additional internal testing and oversight, while higher ones temporarily halt open deployment until concrete mitigations — such as containment protocols, external audits, or behavioural constraints — are proven effective.<span class="citation-chip-wrap"><a class="citation-chip" href="https://metr.org/common-elements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[METR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-title">Common Elements of Frontier AI Safety Policies</span><span class="citation-popover-snippet">Common Elements of Frontier AI Safety Policies - METRDecember 16, 2025...</span><span class="citation-popover-meta">Published: December 16, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf_capability_th_d9904d-Illustration-2-dark.svg" | relative_url }}" alt="Thresholds illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf_capability_th_d9904d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf_capability_th_d9904d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -303,10 +303,10 @@ Importantly, capability thresholds are sometimes embedded in **tiered safety reg
 
 Although capability thresholds are gaining traction, they are **not without controversy or limits**.
 
-* **Measurement challenges:** Evaluating whether a model truly possesses a dangerous capability is difficult. Benchmark scores or task success rates are imperfect proxies for real‑world harm potential, and capabilities may emerge unpredictably outside defined tests.<span class="citation-chip-wrap"><a class="citation-chip" href="https://metr.org/common-elements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[METR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-title">Common Elements of Frontier AI Safety Policies</span><span class="citation-popover-snippet">METRCommon Elements of Frontier AI Safety Policies - METRDecember 16, 2025...</span><span class="citation-popover-meta">Published: December 16, 2025</span></span></span>
+* **Measurement challenges:** Evaluating whether a model truly possesses a dangerous capability is difficult. Benchmark scores or task success rates are imperfect proxies for real‑world harm potential, and capabilities may emerge unpredictably outside defined tests.<span class="citation-chip-wrap"><a class="citation-chip" href="https://metr.org/common-elements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[METR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-title">Common Elements of Frontier AI Safety Policies</span><span class="citation-popover-snippet">Common Elements of Frontier AI Safety Policies - METRDecember 16, 2025...</span><span class="citation-popover-meta">Published: December 16, 2025</span></span></span>
 * **Compute versus capability proxies:** Some propose simpler triggers based on training compute (e.g., FLOPs thresholds) because they are easy to measure. But relying on resource use alone can miss small models with harmful behaviours or overflag benign systems, making compute thresholds a rougher tool than capability‑based ones.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">Frontier Model Forum Risk Taxonomy and Thresholds for Frontier AI Frameworks</span><span class="citation-popover-snippet">Frontier Model ForumRisk Taxonomy and Thresholds for Frontier AI Frameworks - Frontier Model Forum...</span></span></span>
-* **Risk thresholds versus capability thresholds:** True **risk thresholds** — explicit limits on acceptable harm probability or impact — are arguably more principled but currently too hard to compute with any confidence for unforeseen AI risks. Capability thresholds therefore serve as a **stand‑in**, though experts caution against treating them as direct measures of ultimate danger.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.governance.ai/research-paper/risk-thresholds-for-frontier-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governance.ai">[GovAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governance.ai</span><span class="citation-popover-title">risk thresholds for frontier ai</span><span class="citation-popover-snippet">GovAIRisk Thresholds for Frontier AI | GovAIJune 20, 2024...</span><span class="citation-popover-meta">Published: June 20, 2024</span></span></span>
-* **Governance implementation:** Even when thresholds are defined, enforcing them across labs globally is difficult. Without binding regulation or mutual verification, voluntary frameworks risk divergence and strategic non‑compliance, especially under competitive pressure. A recent example is the shift in some companies’ safety policies away from explicit **pause commitments**, which raises concerns about the reliability of self‑imposed thresholds in practice.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pcgamer.com/software/ai/[anthropic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pcgamer.com">[PC Gamer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pcgamer.com</span><span class="citation-popover-snippet">Previously, under its Responsible Scaling Policy (RSP), Anthropic pledged to halt AI development should new systems reach dangerous capab...</span></span></span>
+* **Risk thresholds versus capability thresholds:** True **risk thresholds** — explicit limits on acceptable harm probability or impact — are arguably more principled but currently too hard to compute with any confidence for unforeseen AI risks. Capability thresholds therefore serve as a **stand‑in**, though experts caution against treating them as direct measures of ultimate danger.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.governance.ai/research-paper/risk-thresholds-for-frontier-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governance.ai">[GovAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governance.ai</span><span class="citation-popover-title">risk thresholds for frontier ai</span><span class="citation-popover-snippet">GovAIRisk Thresholds for Frontier AI &#124; GovAIJune 20, 2024...</span><span class="citation-popover-meta">Published: June 20, 2024</span></span></span>
+* **Governance implementation:** Even when thresholds are defined, enforcing them across labs globally is difficult. Without binding regulation or mutual verification, voluntary frameworks risk divergence and strategic non‑compliance, especially under competitive pressure. A recent example is the shift in some companies’ safety policies away from explicit **pause commitments**, which raises concerns about the reliability of self‑imposed thresholds in practice.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pcgamer.com/software/ai/anthropic-ditches-its-defining-safety-promise-to-pause-dangerous-ai-development-because-its-basically-pointless-when-everybody-else-is-blazing-ahead/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pcgamer.com">[PC Gamer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pcgamer.com</span><span class="citation-popover-snippet">Previously, under its Responsible Scaling Policy (RSP), Anthropic pledged to halt AI development should new systems reach dangerous capab...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0lWXXJ5CY4Y" title="Christopher Painter - Challenges in Creating “If-Then Commitments” [AI Security Forum]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0lWXXJ5CY4Y" target="_blank" rel="noopener noreferrer">Christopher Painter - Challenges in Creating “If-Then Commitments” [AI Security Forum]</a></p><p class="youtube-embed-meta">Channel: FAR․AI &middot; Views: 220 &middot; Uploaded: April 2025 &middot; Length: 32 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0lWXXJ5CY4Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0lWXXJ5CY4Y">Open on YouTube</a></p></div></div></div>
@@ -321,7 +321,7 @@ Capability thresholds are becoming a staple of **frontier AI safety frameworks**
 * A **catalogue of hazardous capabilities** identified through threat modelling;
 * **Evaluation protocols** that test models against those capabilities;
 * **Decision processes** that link test outcomes to governance steps;
-* **Escalation rules** that require stronger safeguards or pauses if thresholds are crossed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/glossary/frontier-ai-safety-framework/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryFrontier AI Safety Framework — AI Governance Definition &amp; Guide | AI Safety DirectoryMarch 27, 2026...</span><span class="citation-popover-meta">Published: March 27, 2026</span></span></span>
+* **Escalation rules** that require stronger safeguards or pauses if thresholds are crossed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/glossary/frontier-ai-safety-framework/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryFrontier AI Safety Framework — AI Governance Definition &amp; Guide &#124; AI Safety DirectoryMarch 27, 2026...</span><span class="citation-popover-meta">Published: March 27, 2026</span></span></span>
 
 </div>
 
@@ -759,85 +759,85 @@ Capability thresholds have emerged as one of the **most tractable governance too
 1. <a id="endnote-1"></a>
    Source: metr.org  
    Title: Common Elements of Frontier AI Safety Policies  
-   Link: [https://metr.org/common-elements](https://metr.org/common-elements)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>METRCommon Elements of Frontier AI Safety Policies - METRDecember 16, 2025...</p></details>
+   Link: <a href="https://metr.org/common-elements" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/common-elements</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Common Elements of Frontier AI Safety Policies - METRDecember 16, 2025...</p></details>
    Published: December 16, 2025  
 
 2. <a id="endnote-2"></a>
    Source: governance.ai  
    Title: risk thresholds for frontier ai  
-   Link: [https://www.governance.ai/research-paper/risk-thresholds-for-frontier-ai](https://www.governance.ai/research-paper/risk-thresholds-for-frontier-ai)  
+   Link: <a href="https://www.governance.ai/research-paper/risk-thresholds-for-frontier-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.governance.ai/research-paper/risk-thresholds-for-frontier-ai</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>GovAIRisk Thresholds for Frontier AI | GovAIJune 20, 2024...</p></details>
    Published: June 20, 2024  
 
 3. <a id="endnote-3"></a>
    Source: GOV.UK  
    Title: Emerging processes for frontier AI safety  
-   Link: [https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety](https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety)  
+   Link: <a href="https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>27, 2023...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: governance.ai  
    Title: coordinated pausing evaluation based scheme  
-   Link: [https://www.governance.ai/research-paper/coordinated-pausing-evaluation-based-scheme](https://www.governance.ai/research-paper/coordinated-pausing-evaluation-based-scheme)  
+   Link: <a href="https://www.governance.ai/research-paper/coordinated-pausing-evaluation-based-scheme" target="_blank" rel="noopener noreferrer nofollow">https://www.governance.ai/research-paper/coordinated-pausing-evaluation-based-scheme</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Coordinated Pausing: An Evaluation-Based Coordination Scheme for Frontier AI Developers | GovAISeptember 30, 2023 — COORDINATED PAUSING...</p></details>
    Published: September 30, 2023  
 
 5. <a id="endnote-5"></a>
    Source: frontiermodelforum.org  
    Title: Frontier Model Forum Risk Taxonomy and Thresholds for Frontier AI Frameworks  
-   Link: [https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/](https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/)  
+   Link: <a href="https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Model ForumRisk Taxonomy and Thresholds for Frontier AI Frameworks - Frontier Model Forum...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: juncturepolicy.org  
    Title: Juncture Policy Capability Threshold  
-   Link: [https://juncturepolicy.org/glossary/terms-c/capability-threshold/](https://juncturepolicy.org/glossary/terms-c/capability-threshold/)  
+   Link: <a href="https://juncturepolicy.org/glossary/terms-c/capability-threshold/" target="_blank" rel="noopener noreferrer nofollow">https://juncturepolicy.org/glossary/terms-c/capability-threshold/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Juncture PolicyCapability Threshold - Juncture Policy...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: frontiermodelforum.org  
    Title: Frontier Model Forum Frontier AI Biosafety Thresholds  
-   Link: [https://www.frontiermodelforum.org/issue-briefs/frontier-ai-biosafety-thresholds/](https://www.frontiermodelforum.org/issue-briefs/frontier-ai-biosafety-thresholds/)  
+   Link: <a href="https://www.frontiermodelforum.org/issue-briefs/frontier-ai-biosafety-thresholds/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/issue-briefs/frontier-ai-biosafety-thresholds/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier AI Biosafety Thresholds - Frontier Model ForumMay 12, 2025 — ISSUE BRIEF FRONTIER AI BIOSAFETY THRESHOLDS Posted on: 12th May 20...</p></details>
    Published: May 12, 2025  
 
 8. <a id="endnote-8"></a>
    Source: frontiermodelforum.org  
    Title: Frontier Model Forum Issue Brief: Thresholds for Frontier AI Safety Frameworks  
-   Link: [https://www.frontiermodelforum.org/updates/issue-brief-thresholds-for-frontier-ai-safety-frameworks/](https://www.frontiermodelforum.org/updates/issue-brief-thresholds-for-frontier-ai-safety-frameworks/)  
+   Link: <a href="https://www.frontiermodelforum.org/updates/issue-brief-thresholds-for-frontier-ai-safety-frameworks/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/updates/issue-brief-thresholds-for-frontier-ai-safety-frameworks/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Model ForumIssue Brief: Thresholds for Frontier AI Safety Frameworks - Frontier Model ForumFebruary 7, 2025...</p></details>
    Published: February 7, 2025  
 
 9. <a id="endnote-9"></a>
    Source: pcgamer.com  
-   Link: [https://www.pcgamer.com/software/ai/[anthropic](https://www.pcgamer.com/software/ai/[anthropic)  
+   Link: <a href="https://www.pcgamer.com/software/ai/anthropic-ditches-its-defining-safety-promise-to-pause-dangerous-ai-development-because-its-basically-pointless-when-everybody-else-is-blazing-ahead/" target="_blank" rel="noopener noreferrer nofollow">https://www.pcgamer.com/software/ai/anthropic-ditches-its-defining-safety-promise-to-pause-dangerous-ai-development-because-its-basically-pointless-when-everybody-else-is-blazing-ahead/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Previously, under its Responsible Scaling Policy (RSP), Anthropic pledged to halt AI development should new systems reach dangerous capab...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: aisecurityandsafety.org  
-   Link: [https://aisecurityandsafety.org/en/glossary/frontier-ai-safety-framework/](https://aisecurityandsafety.org/en/glossary/frontier-ai-safety-framework/)  
+   Link: <a href="https://aisecurityandsafety.org/en/glossary/frontier-ai-safety-framework/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/en/glossary/frontier-ai-safety-framework/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security &amp; Safety DirectoryFrontier AI Safety Framework — AI Governance Definition &amp; Guide | AI Safety DirectoryMarch 27, 2026...</p></details>
    Published: March 27, 2026  
 
 11. <a id="endnote-11"></a>
    Source: aiwiki.ai  
    Title: Responsible Scaling Policy | AI Wiki  
-   Link: [https://aiwiki.ai/wiki/responsible_scaling_policy](https://aiwiki.ai/wiki/responsible_scaling_policy)  
+   Link: <a href="https://aiwiki.ai/wiki/responsible_scaling_policy" target="_blank" rel="noopener noreferrer nofollow">https://aiwiki.ai/wiki/responsible_scaling_policy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 7, 2026 — Responsible Scaling Policy RESPONSIBLE SCALING POLICY AI GovernanceAI PolicyAI SafetyFrontier AI 39 min read Updated May 7...</p></details>
    Published: May 7, 2026  
 
 12. <a id="endnote-12"></a>
    Source: comparativeai.org  
    Title: safety framework  
-   Link: [https://comparativeai.org/en/companies/openai/safety-framework/](https://comparativeai.org/en/companies/openai/safety-framework/)  
+   Link: <a href="https://comparativeai.org/en/companies/openai/safety-framework/" target="_blank" rel="noopener noreferrer nofollow">https://comparativeai.org/en/companies/openai/safety-framework/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Comparative AIApril 25, 2026 — SAFETY FRAMEWORK &gt; Snapshot: based on the Preparedness Framework v2.0 (15 April 2025), 2025–2026 blog upda...</p></details>
    Published: April 25, 2026  
 
 13. <a id="endnote-13"></a>
    Source: frontiermodelforum.org  
    Title: Managing Advanced Cyber Risks in Frontier AI Frameworks  
-   Link: [https://www.frontiermodelforum.org/technical-reports/managing-advanced-cyber-risks-in-frontier-ai-frameworks/](https://www.frontiermodelforum.org/technical-reports/managing-advanced-cyber-risks-in-frontier-ai-frameworks/)  
+   Link: <a href="https://www.frontiermodelforum.org/technical-reports/managing-advanced-cyber-risks-in-frontier-ai-frameworks/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/technical-reports/managing-advanced-cyber-risks-in-frontier-ai-frameworks/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Model ForumFebruary 13, 2026 — 1.3 CURRENT CONSENSUS ON CYBER THRESHOLDS Frontier AI frameworks use thresholds to help determine...</p></details>
    Published: February 13, 2026  
 
@@ -845,62 +845,62 @@ Capability thresholds have emerged as one of the **most tractable governance too
 
 14. <a id="endnote-14"></a>
    Source: pattrndata.io  
-   Link: [https://www.pattrndata.io/blog/ai-governance-committee-decision-rights-charter-approve-pause-terminate](https://www.pattrndata.io/blog/ai-governance-committee-decision-rights-charter-approve-pause-terminate)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| AI Governance Questions | Pattrn DataMarch 16, 2026 — WHAT DECISION RIGHTS AND CHARTER SHOULD AN AI GOVERNANCE COMMITTEE HAVE TO APPROV...</p></details>
+   Link: <a href="https://www.pattrndata.io/blog/ai-governance-committee-decision-rights-charter-approve-pause-terminate" target="_blank" rel="noopener noreferrer nofollow">https://www.pattrndata.io/blog/ai-governance-committee-decision-rights-charter-approve-pause-terminate</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Governance Questions | Pattrn DataMarch 16, 2026 — WHAT DECISION RIGHTS AND CHARTER SHOULD AN AI GOVERNANCE COMMITTEE HAVE TO APPROV...</p></details>
    Published: March 16, 2026  
 
 15. <a id="endnote-15"></a>
    Source: oecd.ai  
    Title: Risk thresholds for frontier AI: Insights from the AI Action Summit  
-   Link: [https://oecd.ai/en/wonk/risk-thresholds-for-frontier-ai-insights-from-the-ai-action-summit](https://oecd.ai/en/wonk/risk-thresholds-for-frontier-ai-insights-from-the-ai-action-summit)  
+   Link: <a href="https://oecd.ai/en/wonk/risk-thresholds-for-frontier-ai-insights-from-the-ai-action-summit" target="_blank" rel="noopener noreferrer nofollow">https://oecd.ai/en/wonk/risk-thresholds-for-frontier-ai-insights-from-the-ai-action-summit</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>5, 2025 — RISK THRESHOLDS FOR FRONTIER AI: INSIGHTS FROM THE AI ACTION SUMMIT Eunseo Dana Choi, Dylan Rogers March 5, 2025 — Image: clock...</p></details>
    Published: March 5, 2025  
 
 16. <a id="endnote-16"></a>
    Source: aigi.ox.ac.uk  
    Title: ox.ac.uk Survey on thresholds for advanced AI systems  
-   Link: [https://aigi.ox.ac.uk/publications/survey-on-thresholds-for-advanced-ai-systems/](https://aigi.ox.ac.uk/publications/survey-on-thresholds-for-advanced-ai-systems/)  
+   Link: <a href="https://aigi.ox.ac.uk/publications/survey-on-thresholds-for-advanced-ai-systems/" target="_blank" rel="noopener noreferrer nofollow">https://aigi.ox.ac.uk/publications/survey-on-thresholds-for-advanced-ai-systems/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>on thresholds for advanced AI systems - Oxford Martin AIGIAugust 29, 2025 — Image: Survey on thresholds for advanced AI systems SURVEY ON...</p></details>
    Published: August 29, 2025  
 
 17. <a id="endnote-17"></a>
    Source: emergentmind.com  
    Title: risk thresholds for frontier ai  
-   Link: [https://www.emergentmind.com/topics/risk-thresholds-for-frontier-ai](https://www.emergentmind.com/topics/risk-thresholds-for-frontier-ai)  
+   Link: <a href="https://www.emergentmind.com/topics/risk-thresholds-for-frontier-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.emergentmind.com/topics/risk-thresholds-for-frontier-ai</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>January 11, 2026 — RISK THRESHOLDS FOR FRONTIER AI Updated 11 January 2026 * Risk Thresholds for Frontier AI are quantitatively defined l...</p></details>
    Published: January 11, 2026  
 
 18. <a id="endnote-18"></a>
    Source: emergentmind.com  
    Title: Frontier AI Regulation  
-   Link: [https://www.emergentmind.com/topics/frontier-ai-regulation](https://www.emergentmind.com/topics/frontier-ai-regulation)  
+   Link: <a href="https://www.emergentmind.com/topics/frontier-ai-regulation" target="_blank" rel="noopener noreferrer nofollow">https://www.emergentmind.com/topics/frontier-ai-regulation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THRESHOLDS: RISK, CAPABILITY, AND COMPUTE Threshold-based regulation is a core strategy for scalable oversight (Koessler et al., 2024, Ra...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Christopher Painter  
-   Link: [https://www.youtube.com/watch?v=0lWXXJ5CY4Y](https://www.youtube.com/watch?v=0lWXXJ5CY4Y)  
+   Link: <a href="https://www.youtube.com/watch?v=0lWXXJ5CY4Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0lWXXJ5CY4Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Important Graph in AI Right Now | Beth Barnes, CEO of METR...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: The Most Important Graph in AI Right Now | Beth Barnes, CEO of METR  
-   Link: [https://www.youtube.com/watch?v=jXtk68Kzmms](https://www.youtube.com/watch?v=jXtk68Kzmms)  
+   Link: <a href="https://www.youtube.com/watch?v=jXtk68Kzmms" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jXtk68Kzmms</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pattern Nobody&#x27;s Talking About | AI Safety Collapse...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Z19UEZHJzAg](https://www.youtube.com/watch?v=Z19UEZHJzAg)  
+   Link: <a href="https://www.youtube.com/watch?v=Z19UEZHJzAg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Z19UEZHJzAg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sovereign AI Stacks: The New Strategic National Resource...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: The Pattern Nobody's Talking About | AI Safety Collapse  
-   Link: [https://www.youtube.com/watch?v=c5Yw4qMgj3s](https://www.youtube.com/watch?v=c5Yw4qMgj3s)  
+   Link: <a href="https://www.youtube.com/watch?v=c5Yw4qMgj3s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=c5Yw4qMgj3s</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>By 2050 we could get &quot;10,000 years of technological progress&quot;...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5908745](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5908745)  
+   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5908745" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5908745</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Thresholds for Managing Frontier AI Risks by Freeman Jackson:: SSRNDecember 11, 2025 — Download This Paper Open PDF in Browser Add Paper...</p></details>
    Published: December 11, 2025  

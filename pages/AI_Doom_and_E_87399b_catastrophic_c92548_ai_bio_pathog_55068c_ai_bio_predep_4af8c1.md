@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_biosecurit_e5e926
 - AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_pathogen_t_3833c8
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - misuse
 - bio-threat-ai
 - pre-deployment-policy
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - misuse
 - bio-threat-ai
 - pre-deployment-policy
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Experts suggest assessing high-consequence AI biological models before release to prevent misuse and inform safety measures.
 hero_summary: Experts suggest assessing high-consequence AI biological models before release to prevent misuse and inform safety measures.
 layout: default
 permalink: /pre-deployment-policy/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /misuse/
 - /bio-threat-ai/
 nav_short_title: Pre Deployment Policy
@@ -211,10 +211,10 @@ parent_heading_title: How AI Could Accelerate Dangerous Pathogen Design
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_catastrophic_c92548
-  title: Misuse | AI Doom and
+  title: Misuse | AI Doom and E 87399 b
   permalink: /misuse/
   short_title: Misuse
   heading_title: How Could People Misuse Advanced AI?
@@ -226,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_catastrophic_c92548
-  title: Misuse | AI Doom and
+  title: Misuse | AI Doom and E 87399 b
   permalink: /misuse/
   short_title: Misuse
   heading_title: How Could People Misuse Advanced AI?
@@ -275,17 +275,17 @@ image: /assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_550
 
 ## Introduction
 
-As fears about **AI‑assisted design of enhanced biological pathogens** grow within broader debates about **[AI doom and]({{ 'ai-doom-and/' | relative_url }}) existential risk**, policymakers and technical experts are increasingly focused on one narrow but high‑stakes problem: *How should regulators and developers evaluate powerful biological AI models *before* they are released or widely deployed?* Pre‑deployment evaluation isn’t about minor tweaks to guidance; it’s about stopping potentially [catastrophic]({{ 'misuse/' | relative_url }}) capabilities from ever leaving the lab or cloud in unexamined form — especially when those capabilities could *meaningfully lower the barriers to harmful biological design*.
+As fears about **AI‑assisted design of enhanced biological pathogens** grow within broader debates about **AI doom and existential risk**, policymakers and technical experts are increasingly focused on one narrow but high‑stakes problem: *How should regulators and developers evaluate powerful biological AI models *before* they are released or widely deployed?* Pre‑deployment evaluation isn’t about minor tweaks to guidance; it’s about stopping potentially [catastrophic]({{ 'misuse/' | relative_url }}) capabilities from ever leaving the lab or cloud in unexamined form — especially when those capabilities could *meaningfully lower the barriers to harmful biological design*.
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_bio_predep_4af8c1-Illustration-1-dark.svg" | relative_url }}" alt="Pre Deployment Policy illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_bio_predep_4af8c1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_bio_predep_4af8c1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This page examines the **policy approaches being proposed and piloted for pre‑deployment evaluation of bio‑AI** — advanced [artificial]({{ 'artificial-goals/' | relative_url }}) intelligence systems that may have dual‑use or harmful biological capabilities — with an eye on why these approaches matter to long‑term safety and existential‑risk concerns, what they aim to assess, and where the most active debates lie.
+This page examines the **policy approaches being proposed and piloted for pre‑deployment evaluation of bio‑AI** — advanced artificial intelligence systems that may have dual‑use or harmful biological capabilities — with an eye on why these approaches matter to long‑term safety and existential‑risk concerns, what they aim to assess, and where the most active debates lie.
 
 ## What “Pre‑Deployment Evaluation” Means in High‑Risk AI Contexts
 
 At its core, **pre‑deployment evaluation** refers to structured, systematic testing and assessment of an AI model *before* it is released for public or broad use, with the explicit aim of identifying dangerous capabilities and deciding whether release should proceed, be modified, or be blocked.
 
-For biological AI models — systems trained on genomic data, biomolecular design tasks, or other life‑science domains — the stakes are especially high because of the potential for misuse in designing or interpreting pathogenic sequences. These evaluations attempt to answer two linked questions:
+For biological AI models — systems trained on genomic data, biomolecular design tasks, or other life‑science domains — the stakes are especially high because of the potential for [misuse]({{ 'misuse/' | relative_url }}) in designing or interpreting pathogenic sequences. These [evaluations]({{ 'evaluations/' | relative_url }}) attempt to answer two linked questions:
 
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
@@ -295,7 +295,7 @@ For biological AI models — systems trained on genomic data, biomolecular desig
 
 </div>
 
-Pre‑deployment evaluation sits at the intersection of **biosecurity governance**, **AI risk assessment**, and **standards‑based regulation**, drawing on analogies with environmental impact assessments and traditional drug or clinical device approvals but adapted for the unique unpredictability of AI systems.
+Pre‑deployment evaluation sits at the intersection of **biosecurity [governance]({{ 'governance/' | relative_url }})**, **AI risk assessment**, and **standards‑based regulation**, drawing on analogies with environmental impact assessments and traditional drug or clinical device approvals but adapted for the unique unpredictability of AI systems.
 
 ## Frameworks and Structures Being Proposed
 
@@ -303,9 +303,9 @@ Current policy thinking on pre‑deployment evaluation of frontier AI models pri
 
 ### Mandatory Technical Evaluations Before Release
 
-The **UK AI Safety Institute (AISI)** has published one of the first *formalised, [mandatory]({{ 'safety-checks/' | relative_url }})* pre‑deployment testing regimes for frontier AI models that include biological risk assessment components. Under this framework:
+The **UK AI Safety Institute (AISI)** has published one of the first *formalised, mandatory* pre‑deployment testing regimes for frontier AI models that include biological risk assessment components. Under this framework:
 
-* Models exceeding defined capability thresholds (e.g. high cumulative compute or broad functional ability) must undergo specific evaluations before they can be deployed in the UK market.
+* Models exceeding defined [capability thresholds]({{ 'capability-thresholds/' | relative_url }}) (e.g. high cumulative compute or broad functional ability) must undergo specific evaluations before they can be deployed in the UK market.
 * These evaluations are not just internal checklists; they include defined methodologies for assessing “dangerous capabilities”, including dual‑use biological tasks, and explicitly *binding criteria* that can delay or prevent release if concerns are found.
 * This kind of regime goes beyond voluntary industry commitments by giving a government‑linked body authority to *block or delay deployment* pending safety review. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zephtech.net/feed/2026-02-06-uk-aisi-mandatory-pre-deployment-testing-frontier.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zephtech.net">[Zeph Tech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zephtech.net</span><span class="citation-popover-title">Zeph Tech UK AI Safety Institute Publishes First Mandatory… — Zeph Tech</span><span class="citation-popover-snippet">Zeph TechUK AI Safety Institute Publishes First Mandatory… — Zeph TechFebruary 6, 2026...</span><span class="citation-popover-meta">Published: February 6, 2026</span></span></span>
 
@@ -320,7 +320,7 @@ Many proposals, including industry and think‑tank commentaries, argue for **pr
 
 * Developers should assess whether a model’s capabilities cross into high‑risk territory that could meaningfully enable misuse or harmful outcomes.
 * These risk assessments should be *structured*, documented, and repeatable, not informal judgements, and should account both for current behaviours and plausible near‑term escalations.
-* Such assessments can incorporate existing standards, such as the **NIST AI Risk Management Framework**, to provide consistency with broader AI governance ecosystems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnas.org/publications/commentary/ostp-national-priorities-for-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnas.org">[CNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnas.org</span><span class="citation-popover-title">ostp national priorities for artificial intelligence</span><span class="citation-popover-snippet">CNASResponse to OSTP “National Priorities for Artificial Intelligence Request for Information” | CNASJuly 20, 2023...</span><span class="citation-popover-meta">Published: July 20, 2023</span></span></span>
+* Such assessments can incorporate existing standards, such as the **NIST AI Risk Management Framework**, to provide consistency with broader AI governance ecosystems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnas.org/publications/commentary/ostp-national-priorities-for-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnas.org">[CNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnas.org</span><span class="citation-popover-title">ostp national priorities for artificial intelligence</span><span class="citation-popover-snippet">Response to OSTP “National Priorities for Artificial Intelligence Request for Information” &#124; CNASJuly 20, 2023...</span><span class="citation-popover-meta">Published: July 20, 2023</span></span></span>
 
 Linking evaluations to capability thresholds — for example, a metric of model size, compute used, or performance in biological reasoning tasks — is intended to make the process predictable and transparent rather than discretionary.
 
@@ -343,16 +343,11 @@ Such external checks are especially important for biological AI, given that unde
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_bio_predep_4af8c1-Illustration-2-dark.svg" | relative_url }}" alt="Pre Deployment Policy illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_bio_predep_4af8c1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_bio_predep_4af8c1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Red Teaming and Capability Benchmarking
 
-A set of evaluation techniques are now common in frontier AI risk thinking: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.convergenceanalysis.org/ai-regulatory-landscape/ai-evaluation-and-risk-assessments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: convergenceanalysis.org">[convergenceanalysis.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">convergenceanalysis.org</span><span class="citation-popover-title">A I Evaluation &amp; Risk Assessments | Convergence Analysis</span><span class="citation-popover-snippet">AI Evaluation &amp; Risk Assessments | Convergence AnalysisMay 4, 2024 — CHINA China’s Interim Measures for the Management of Generative AI S...</span><span class="citation-popover-meta">Published: May 4, 2024</span></span></span>
+A set of evaluation techniques are now common in frontier AI risk thinking: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.convergenceanalysis.org/ai-regulatory-landscape/ai-evaluation-and-risk-assessments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: convergenceanalysis.org">[convergenceanalysis.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">convergenceanalysis.org</span><span class="citation-popover-title">A I Evaluation &amp; Risk Assessments &#124; Convergence Analysis</span><span class="citation-popover-snippet">AI Evaluation &amp; Risk Assessments &#124; Convergence AnalysisMay 4, 2024 — CHINA China’s Interim Measures for the Management of Generative AI S...</span><span class="citation-popover-meta">Published: May 4, 2024</span></span></span>
 
-
-<div class="content-enhancement content-enhancement--comparison" markdown="1">
-
-* **Red teaming** — adversarial testing designed to explore how a system could be *misused* or coaxed into responses that reveal dangerous capabilities.
+* **[Red teaming]({{ 'red-teaming/' | relative_url }})** — adversarial testing designed to explore how a system could be *misused* or coaxed into responses that reveal dangerous capabilities.
 * **Benchmark evaluations** — systematic testing against standardised tasks to measure performance and compare across models.
 * Emerging taxonomies for frontier AI evaluations highlight that both approaches are essential: benchmarks flag baseline capabilities, while red teaming simulates adversarial misuse paths. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/updates/issue-brief-preliminary-taxonomy-of-pre-deployment-frontier-ai-safety-evaluations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-snippet">Frontier Model ForumIssue Brief: Preliminary Taxonomy of Pre-Deployment Frontier AI Safety Evaluations - Frontier Model ForumDecember 20...</span></span></span>
-
-</div>
 
 For bio‑AI, these techniques might mean testing how models respond to prompts about biomolecular design, pathogen engineering pathways, or debugging of biological protocols — seeking to measure potential to assist harmful tasks *versus* legitimate scientific utility.
 
@@ -365,7 +360,7 @@ The prospect of introducing pre‑deployment evaluations raises a set of regulat
 
 ### Balancing Safety and Innovation
 
-A central policy challenge is avoiding choking off *beneficial* biological AI innovation while still constraining dangerous capabilities. Critics of heavy‑handed regimes sometimes worry that broad obligation could stifle research on vaccine design, [synthetic]({{ 'synthetic-data/' | relative_url }}) biology tools with positive applications, or scientific discovery; supporters counter that *structured, evidence‑based evaluation processes* can isolate harmful capabilities without blocking benign work.
+A central policy challenge is avoiding choking off *beneficial* biological AI innovation while still constraining dangerous capabilities. Critics of heavy‑handed regimes sometimes worry that broad obligation could stifle research on vaccine design, synthetic biology tools with positive applications, or scientific discovery; supporters counter that *structured, evidence‑based evaluation processes* can isolate harmful capabilities without blocking benign work.
 
 Some proposals borrow from traditional governance analogies – such as environmental impact assessments or clinical trial phases – to ensure that evaluation is *context‑sensitive* and proportionate, rather than one‑size‑fits‑all.
 
@@ -411,11 +406,16 @@ In this light, pre‑deployment evaluation is not a bureaucratic add‑on but a 
 
 Despite growing consensus on evaluation as a policy tool, significant uncertainties remain:
 
+
+<div class="content-enhancement content-enhancement--caution" markdown="1">
+
 * **What exact metrics or benchmarks should be used** for biological risk? Unlike simple toxicity tests, biological AI risks are multi‑dimensional and hard to reduce to single numbers.
-* **Who should enforce and govern evaluations?** Government bodies, independent standards organisations, or consortia of experts each have different trade‑offs in legitimacy, [expertise]({{ 'expertise-erosion/' | relative_url }}), and enforceability.
+* **Who should enforce and govern evaluations?** Government bodies, independent standards organisations, or consortia of experts each have different trade‑offs in legitimacy, expertise, and enforceability.
 * **How to handle open‑source models?** Evaluation and control are far easier for proprietary models under a regulator’s jurisdiction than for open‑source models that can be freely modified and deployed.
 
-And perhaps most fundamentally, *pre‑deployment evaluation doesn’t eliminate risk by itself*; it must be entwined with broader governance strategies including monitoring, access controls, post‑deployment response mechanisms, and international cooperation.
+</div>
+
+And perhaps most fundamentally, *pre‑deployment evaluation doesn’t eliminate risk by itself*; it must be entwined with broader governance strategies including [monitoring]({{ 'monitoring/' | relative_url }}), access controls, post‑deployment response mechanisms, and international cooperation.
 
 In summary, policy approaches to **pre‑deployment evaluation of bio‑AI** are emerging from a blend of frontier AI safety thinking and traditional regulatory governance, seeking to systematically test, measure, and govern high‑risk models before they are deployed. While significant design and implementation challenges remain, structured evaluation frameworks, mandatory testing regimes, and standardised metrics are rapidly moving from abstract proposals to real policy instruments — with implications that touch directly on how society manages one of the most delicate intersections of AI capability and biological risk.
 
@@ -829,130 +829,130 @@ In summary, policy approaches to **pre‑deployment evaluation of bio‑AI** are
 1. <a id="endnote-1"></a>
    Source: cnas.org  
    Title: ostp national priorities for artificial intelligence  
-   Link: [https://www.cnas.org/publications/commentary/ostp-national-priorities-for-artificial-intelligence](https://www.cnas.org/publications/commentary/ostp-national-priorities-for-artificial-intelligence)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CNASResponse to OSTP “National Priorities for Artificial Intelligence Request for Information” | CNASJuly 20, 2023...</p></details>
+   Link: <a href="https://www.cnas.org/publications/commentary/ostp-national-priorities-for-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.cnas.org/publications/commentary/ostp-national-priorities-for-artificial-intelligence</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Response to OSTP “National Priorities for Artificial Intelligence Request for Information” | CNASJuly 20, 2023...</p></details>
    Published: July 20, 2023  
 
 2. <a id="endnote-2"></a>
    Source: GOV.UK  
    Title: Emerging processes for frontier AI safety  
-   Link: [https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety](https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety)  
+   Link: <a href="https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>27, 2023...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: GOV.UK  
    Title: Many AI systems work in complex and unpredictable enviro  
-   Link: [https://www.gov.uk/government/publications/data-ethics-framework/data-and-ai-ethics-framework](https://www.gov.uk/government/publications/data-ethics-framework/data-and-ai-ethics-framework)  
+   Link: <a href="https://www.gov.uk/government/publications/data-ethics-framework/data-and-ai-ethics-framework" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/data-ethics-framework/data-and-ai-ethics-framework</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>and AI Ethics Framework - GOV.UKDecember 18, 2025 — BUILDING SAFE AI SYSTEMS AI systems can behave in unexpected ways, especially if they...</p></details>
    Published: December 18, 2025  
 
 4. <a id="endnote-4"></a>
    Source: GOV.UK  
    Title: www.gov.uk Code of Practice for the Cyber Security of AI  
-   Link: [https://www.gov.uk/government/publications/ai-cyber-security-code-of-practice/code-of-practice-for-the-cyber-security-of-ai](https://www.gov.uk/government/publications/ai-cyber-security-code-of-practice/code-of-practice-for-the-cyber-security-of-ai)  
+   Link: <a href="https://www.gov.uk/government/publications/ai-cyber-security-code-of-practice/code-of-practice-for-the-cyber-security-of-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-cyber-security-code-of-practice/code-of-practice-for-the-cyber-security-of-ai</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Practice for the Cyber Security of AI - GOV.UKJanuary 31, 2025 — STRUCTURE OF THE VOLUNTARY CODE OF PRACTICE Principle 1: Raise awaren...</p></details>
    Published: January 31, 2025  
 
 5. <a id="endnote-5"></a>
    Source: GOV.UK  
    Title: www.gov.uk A I Safety Institute approach to evaluations  
-   Link: [https://www.gov.uk/government/publications/ai-safety-institute-approach-to-evaluations/ai-safety-institute-approach-to-evaluations](https://www.gov.uk/government/publications/ai-safety-institute-approach-to-evaluations/ai-safety-institute-approach-to-evaluations)  
+   Link: <a href="https://www.gov.uk/government/publications/ai-safety-institute-approach-to-evaluations/ai-safety-institute-approach-to-evaluations" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-safety-institute-approach-to-evaluations/ai-safety-institute-approach-to-evaluations</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Safety Institute approach to evaluations - GOV.UKFebruary 9, 2024 — AISI (AI SAFETY INSTITUTE)’S APPROACH TO EVALUATIONS AISI (AI Safety...</p></details>
    Published: February 9, 2024  
 
 6. <a id="endnote-6"></a>
    Source: aisi.gov.uk  
    Title: A I Safety Institute approach to evaluations  
-   Link: [https://www.aisi.gov.uk/blog/our-approach-to-evaluations](https://www.aisi.gov.uk/blog/our-approach-to-evaluations)  
+   Link: <a href="https://www.aisi.gov.uk/blog/our-approach-to-evaluations" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/blog/our-approach-to-evaluations</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Safety Institute approach to evaluations - GOV.UKFebruary 9, 2024 — AISI (AI SAFETY INSTITUTE)’S APPROACH TO EVALUATIONS AISI (AI Safe...</p></details>
    Published: February 9, 2024  
 
 7. <a id="endnote-7"></a>
    Source: zephtech.net  
    Title: Zeph Tech UK AI Safety Institute Publishes First Mandatory… — Zeph Tech  
-   Link: [https://zephtech.net/feed/2026-02-06-uk-aisi-mandatory-pre-deployment-testing-frontier.html](https://zephtech.net/feed/2026-02-06-uk-aisi-mandatory-pre-deployment-testing-frontier.html)  
+   Link: <a href="https://zephtech.net/feed/2026-02-06-uk-aisi-mandatory-pre-deployment-testing-frontier.html" target="_blank" rel="noopener noreferrer nofollow">https://zephtech.net/feed/2026-02-06-uk-aisi-mandatory-pre-deployment-testing-frontier.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Zeph TechUK AI Safety Institute Publishes First Mandatory… — Zeph TechFebruary 6, 2026...</p></details>
    Published: February 6, 2026  
 
 8. <a id="endnote-8"></a>
    Source: frontiermodelforum.org  
-   Link: [https://www.frontiermodelforum.org/updates/issue-brief-preliminary-taxonomy-of-pre-deployment-frontier-ai-safety-evaluations/](https://www.frontiermodelforum.org/updates/issue-brief-preliminary-taxonomy-of-pre-deployment-frontier-ai-safety-evaluations/)  
+   Link: <a href="https://www.frontiermodelforum.org/updates/issue-brief-preliminary-taxonomy-of-pre-deployment-frontier-ai-safety-evaluations/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/updates/issue-brief-preliminary-taxonomy-of-pre-deployment-frontier-ai-safety-evaluations/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Model ForumIssue Brief: Preliminary Taxonomy of Pre-Deployment Frontier AI Safety Evaluations - Frontier Model ForumDecember 20...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: convergenceanalysis.org  
    Title: A I Evaluation & Risk Assessments | Convergence Analysis  
-   Link: [https://www.convergenceanalysis.org/ai-regulatory-landscape/ai-evaluation-and-risk-assessments](https://www.convergenceanalysis.org/ai-regulatory-landscape/ai-evaluation-and-risk-assessments)  
+   Link: <a href="https://www.convergenceanalysis.org/ai-regulatory-landscape/ai-evaluation-and-risk-assessments" target="_blank" rel="noopener noreferrer nofollow">https://www.convergenceanalysis.org/ai-regulatory-landscape/ai-evaluation-and-risk-assessments</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Evaluation &amp; Risk Assessments | Convergence AnalysisMay 4, 2024 — CHINA China’s Interim Measures for the Management of Generative AI S...</p></details>
    Published: May 4, 2024  
 
 10. <a id="endnote-10"></a>
    Source: cltc.berkeley.edu  
-   Link: [https://cltc.berkeley.edu/policy](https://cltc.berkeley.edu/policy)  
+   Link: <a href="https://cltc.berkeley.edu/policy" target="_blank" rel="noopener noreferrer nofollow">https://cltc.berkeley.edu/policy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ENSURE THAT DEVELOPERS OF GPAIS, FOUNDATION MODELS, AND GENERATIVE AI ADHERE TO APPROPRIATE AI RISK MANAGEMENT STANDARDS AND GUIDANCE The...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: zephtech.net  
-   Link: [https://zephtech.net/policy/](https://zephtech.net/policy/)  
+   Link: <a href="https://zephtech.net/policy/" target="_blank" rel="noopener noreferrer nofollow">https://zephtech.net/policy/</a>  
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: iaps.ai  
-   Link: [https://www.iaps.ai/research/deployment-corrections](https://www.iaps.ai/research/deployment-corrections)  
+   Link: <a href="https://www.iaps.ai/research/deployment-corrections" target="_blank" rel="noopener noreferrer nofollow">https://www.iaps.ai/research/deployment-corrections</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Deployment Corrections: An Incident Response Framework for Frontier AI Models — Institute for AI Policy and StrategyDEPLOYMENT CORRECTION...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: faf.ae  
-   Link: [https://www.faf.ae/home/2026/5/5/governing-the-convergence-google-deepmind-the-nuclear-threat-initiative-dna-synthesis-screening-and-the-architecture-of-ai-biosecurity-part-iii](https://www.faf.ae/home/2026/5/5/governing-the-convergence-google-deepmind-the-nuclear-threat-initiative-dna-synthesis-screening-and-the-architecture-of-ai-biosecurity-part-iii)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Governing the Convergence: Google DeepMind, the Nuclear Threat Initiative, DNA Synthesis Screening, and the Architecture of [AI Biosecurit](&amp;#123;&amp;#123; &#x27;biosecurity-evasion/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link: <a href="https://www.faf.ae/home/2026/5/5/governing-the-convergence-google-deepmind-the-nuclear-threat-initiative-dna-synthesis-screening-and-the-architecture-of-ai-biosecurity-part-iii" target="_blank" rel="noopener noreferrer nofollow">https://www.faf.ae/home/2026/5/5/governing-the-convergence-google-deepmind-the-nuclear-threat-initiative-dna-synthesis-screening-and-the-architecture-of-ai-biosecurity-part-iii</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Governing the Convergence: Google DeepMind, the Nuclear Threat Initiative, DNA Synthesis Screening, and the Architecture of AI Biosecurit...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: montrealethics.ai  
-   Link: [https://montrealethics.ai/deployment-corrections-an-incident-response-framework-for-frontier-ai-models/](https://montrealethics.ai/deployment-corrections-an-incident-response-framework-for-frontier-ai-models/)  
+   Link: <a href="https://montrealethics.ai/deployment-corrections-an-incident-response-framework-for-frontier-ai-models/" target="_blank" rel="noopener noreferrer nofollow">https://montrealethics.ai/deployment-corrections-an-incident-response-framework-for-frontier-ai-models/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>January 25, 2024 — DEPLOYMENT CORRECTIONS: AN INCIDENT RESPONSE FRAMEWORK FOR FRONTIER AI MODELS January 25, 2024 Image Image 🔬 Research...</p></details>
    Published: January 25, 2024  
 
 15. <a id="endnote-15"></a>
    Source: centeraipolicy.org  
-   Link: [https://www.centeraipolicy.org/work/bio-risks-and-broken-guardrails-what-the-aisi-report-tells-us-about-ai-safety-standards](https://www.centeraipolicy.org/work/bio-risks-and-broken-guardrails-what-the-aisi-report-tells-us-about-ai-safety-standards)  
+   Link: <a href="https://www.centeraipolicy.org/work/bio-risks-and-broken-guardrails-what-the-aisi-report-tells-us-about-ai-safety-standards" target="_blank" rel="noopener noreferrer nofollow">https://www.centeraipolicy.org/work/bio-risks-and-broken-guardrails-what-the-aisi-report-tells-us-about-ai-safety-standards</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bio Risks and Broken Guardrails: What the AISI Report Tells Us About AI Safety Standards | Center for AI Policy | CAIPNovember 20, 2024 —...</p></details>
    Published: November 20, 2024  
 
 16. <a id="endnote-16"></a>
    Source: longtermresilience.org  
-   Link: [https://www.longtermresilience.org/reports/why-we-recommend-risk-assessments-over-evaluations-for-ai-enabled-biological-tools-bts/](https://www.longtermresilience.org/reports/why-we-recommend-risk-assessments-over-evaluations-for-ai-enabled-biological-tools-bts/)  
+   Link: <a href="https://www.longtermresilience.org/reports/why-we-recommend-risk-assessments-over-evaluations-for-ai-enabled-biological-tools-bts/" target="_blank" rel="noopener noreferrer nofollow">https://www.longtermresilience.org/reports/why-we-recommend-risk-assessments-over-evaluations-for-ai-enabled-biological-tools-bts/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Risk assessments for AI-enabled biological tools (BTs) | CLTRMarch 27, 2024 — WHY WE RECOMMEND RISK ASSESSMENTS OVER EVALUATIONS FOR AI-E...</p></details>
    Published: March 27, 2024  
 
 17. <a id="endnote-17"></a>
    Source: eurekalert.org  
    Title: Governance needed to ensure biosecurity of biological AI models | Eurek Alert!  
-   Link: [https://www.eurekalert.org/news-releases/1054902](https://www.eurekalert.org/news-releases/1054902)  
+   Link: <a href="https://www.eurekalert.org/news-releases/1054902" target="_blank" rel="noopener noreferrer nofollow">https://www.eurekalert.org/news-releases/1054902</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Governance needed to ensure biosecurity of biological AI models | EurekAlert!August 22, 2024 — News Release 22-Aug-2024 GOVERNANCE NEEDED...</p></details>
    Published: August 22, 2024  
 
 18. <a id="endnote-18"></a>
    Source: bankofengland.co.uk  
    Title: For example: * pre-deployment: how should the quality of train  
-   Link: [https://www.bankofengland.co.uk/prudential-regulation/publication/2022/october/artificial-intelligence%C2%A0](https://www.bankofengland.co.uk/prudential-regulation/publication/2022/october/artificial-intelligence%C2%A0)  
+   Link: <a href="https://www.bankofengland.co.uk/prudential-regulation/publication/2022/october/artificial-intelligence%C2%A0" target="_blank" rel="noopener noreferrer nofollow">https://www.bankofengland.co.uk/prudential-regulation/publication/2022/october/artificial-intelligence%C2%A0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DP5/22 - Artificial Intelligence and Machine Learning | Bank of EnglandOctober 11, 2022 — AI LIFECYCLE 4.59 One useful approach to unders...</p></details>
    Published: October 11, 2022  
 
 19. <a id="endnote-19"></a>
    Source: epoch.ai  
    Title: expanding our analysis of biological ai models  
-   Link: [https://epoch.ai/blog/expanding-our-analysis-of-biological-ai-models](https://epoch.ai/blog/expanding-our-analysis-of-biological-ai-models)  
+   Link: <a href="https://epoch.ai/blog/expanding-our-analysis-of-biological-ai-models" target="_blank" rel="noopener noreferrer nofollow">https://epoch.ai/blog/expanding-our-analysis-of-biological-ai-models</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>20, 2026 EXPANDING OUR ANALYSIS OF BIOLOGICAL AI MODELS We release a database of over 1,100 biological AI models across nine categories...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: datafield.dev  
    Title: Once an AI system is deployed at sca  
-   Link: [https://datafield.dev/ai-ethics/ch19-auditing-ai-systems/](https://datafield.dev/ai-ethics/ch19-auditing-ai-systems/)  
+   Link: <a href="https://datafield.dev/ai-ethics/ch19-auditing-ai-systems/" target="_blank" rel="noopener noreferrer nofollow">https://datafield.dev/ai-ethics/ch19-auditing-ai-systems/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 19: Auditing AI Systems | AI Ethics | DataField.DevSECTION 19.3: PRE-DEPLOYMENT AUDITING — ALGORITHMIC IMPACT ASSESSMENTS THE CON...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12061118/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12061118/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12061118/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12061118/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govDual-use capabilities of concern of biological AI models - PMCMay 8, 2025 — POLICYMAKER GUIDANCE FOR HAZARDOUS BIOLOGICAL AI CAPAB...</p></details>
    Published: May 8, 2025  

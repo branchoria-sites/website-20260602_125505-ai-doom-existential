@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549_cloud_monitor_82c6db
 - AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549_cloud_trainin_79cb04
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - governance
 - cloud-oversight
 - compute-kyc
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - governance
 - cloud-oversight
 - compute-kyc
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: AI compute KYC would make cloud providers verify who is buying major AI infrastructure and report high-risk training activity.
 hero_summary: AI compute KYC would make cloud providers verify who is buying major AI infrastructure and report high-risk training activity.
 layout: default
 permalink: /compute-kyc/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /governance/
 - /cloud-oversight/
 nav_short_title: Compute KYC
@@ -203,6 +203,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-02 12:25:28'
 parent_title: Can Cloud Providers Police Frontier AI Training? | Governance
 parent_permalink: /cloud-oversight/
 parent_nav_short_title: Cloud Oversight
@@ -210,10 +211,10 @@ parent_heading_title: Can Cloud Providers Police Frontier AI Training?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_compute_gover_1ee8fc
-  title: Governance | AI Doom and
+  title: Governance | AI Doom and E 87399 b
   permalink: /governance/
   short_title: Governance
   heading_title: What Rules Could Reduce AI Doom Risk?
@@ -225,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_compute_gover_1ee8fc
-  title: Governance | AI Doom and
+  title: Governance | AI Doom and E 87399 b
   permalink: /governance/
   short_title: Governance
   heading_title: What Rules Could Reduce AI Doom Risk?
@@ -260,7 +261,6 @@ next_link:
   permalink: /evasion-risks/
   short_title: Evasion risks
   heading_title: Can frontier AI training hide from clouds?
-date: '2026-06-02 12:25:28 '
 header:
   og_image: /assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549_ai_compute_ky_377148-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549_ai_compute_ky_377148-Illustration-1.webp
@@ -273,7 +273,7 @@ Know Your Customer (KYC) rules for AI compute are a proposal to require major cl
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549_ai_compute_ky_377148-Illustration-1-dark.svg" | relative_url }}" alt="Compute KYC illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549_ai_compute_ky_377148-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549_ai_compute_ky_377148-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within debates about [AI doom and]({{ 'ai-doom-and/' | relative_url }}) existential risk, compute KYC is attractive because frontier AI development is unusually dependent on large-scale computing infrastructure. If governments are worried that a highly capable and potentially [dangerous]({{ 'autonomy/' | relative_url }}) AI system could be developed without oversight, cloud providers may be one of the few places where such activity can be observed. Supporters argue that identity verification and reporting requirements could make advanced AI development more visible. Critics argue that the approach may be intrusive, difficult to implement globally, and only partially effective against determined actors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.governance.ai/research-paper/oversight-for-frontier-ai-through-kyc-scheme-for-compute-providers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governance.ai">[governance.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governance.ai</span><span class="citation-popover-snippet">w-Your-Customer (KYC) schemes...</span></span></span>
+Within debates about AI doom and existential risk, compute KYC is attractive because frontier AI development is unusually dependent on large-scale computing infrastructure. If governments are worried that a highly capable and potentially dangerous AI system could be developed without oversight, cloud providers may be one of the few places where such activity can be observed. Supporters argue that identity verification and reporting requirements could make advanced AI development more visible. Critics argue that the approach may be intrusive, difficult to implement globally, and only partially effective against determined actors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.governance.ai/research-paper/oversight-for-frontier-ai-through-kyc-scheme-for-compute-providers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governance.ai">[governance.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governance.ai</span><span class="citation-popover-snippet">w-Your-Customer (KYC) schemes...</span></span></span>
 
 ## What AI compute KYC would require
 
@@ -294,9 +294,9 @@ One frequently discussed motivation is attribution. If a dangerous model were la
 
 ## How reporting thresholds could trigger oversight
 
-The most important design question is usually not identity verification itself but the threshold that determines when additional [oversight]({{ 'oversight-evasion/' | relative_url }}) begins.
+The most important design question is usually not identity verification itself but the threshold that determines when additional oversight begins.
 
-Most compute governance proposals assume that only a small fraction of AI projects would cross the relevant threshold. Regulators would define a level of compute consumption associated with frontier or potentially high-risk development. Crossing that level could trigger reporting obligations, audits, [evaluations]({{ 'evaluations/' | relative_url }}), or other scrutiny. <span class="citation-chip-wrap"><a class="citation-chip" href="https://law-ai.org/the-role-of-compute-thresholds-for-ai-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law-ai.org">[Institute for Law &amp; AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law-ai.org</span><span class="citation-popover-title">Institute for Law &amp; AIThe Role of Compute Thresholds for AI Governance</span><span class="citation-popover-snippet">February 20, 2025 — This article discusses the role of training compute thresholds, which use training compute to determine which potenti...</span><span class="citation-popover-meta">Published: February 20, 2025</span></span></span>
+Most compute [governance]({{ 'governance/' | relative_url }}) proposals assume that only a small fraction of AI projects would cross the relevant threshold. Regulators would define a level of compute consumption associated with frontier or potentially high-risk development. Crossing that level could trigger reporting obligations, audits, [evaluations]({{ 'evaluations/' | relative_url }}), or other scrutiny. <span class="citation-chip-wrap"><a class="citation-chip" href="https://law-ai.org/the-role-of-compute-thresholds-for-ai-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law-ai.org">[Institute for Law &amp; AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law-ai.org</span><span class="citation-popover-title">Institute for Law &amp; AIThe Role of Compute Thresholds for AI Governance</span><span class="citation-popover-snippet">February 20, 2025 — This article discusses the role of training compute thresholds, which use training compute to determine which potenti...</span><span class="citation-popover-meta">Published: February 20, 2025</span></span></span>
 
 The logic is straightforward. Training compute is not a perfect measure of risk, but it is one of the few measurable indicators that tends to correlate with the capabilities of advanced AI systems. As models become larger and more capable, they generally require greater quantities of specialised computing resources. Regulators therefore use compute thresholds as an initial filter rather than as proof that a system is dangerous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://law-ai.org/the-role-of-compute-thresholds-for-ai-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law-ai.org">[Institute for Law &amp; AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law-ai.org</span><span class="citation-popover-title">Institute for Law &amp; AIThe Role of Compute Thresholds for AI Governance</span><span class="citation-popover-snippet">February 20, 2025 — This article discusses the role of training compute thresholds, which use training compute to determine which potenti...</span><span class="citation-popover-meta">Published: February 20, 2025</span></span></span>
 
@@ -734,11 +734,11 @@ In practice, a reporting system might work like this:
 
 </div>
 
-For AI doom advocates, the value of such a system is that warning signs could become visible before a powerful model is publicly deployed. Rather than discovering a frontier capability only after release, governments might receive advance notice that a major training effort is underway. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2310.13625" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+For AI doom advocates, the value of such a system is that [warning signs]({{ 'warning-signs/' | relative_url }}) could become visible before a powerful model is publicly deployed. Rather than discovering a frontier capability only after release, governments might receive advance notice that a major training effort is underway. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2310.13625" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## Why some researchers see compute KYC as an existential-risk measure
 
-Arguments for compute KYC are closely tied to concerns about loss of control, dangerous autonomy, and rapid capability advances.
+Arguments for compute KYC are closely tied to concerns about [loss of control]({{ 'loss-of-control/' | relative_url }}), dangerous [autonomy]({{ 'autonomy/' | relative_url }}), and rapid capability advances.
 
 Many AI-risk researchers believe that if transformative or potentially catastrophic AI systems emerge, they are likely to require enormous computing resources during development. If that assumption is correct, then cloud providers become natural monitoring points. A relatively small number of companies supply much of the world's frontier AI infrastructure, making oversight more feasible than attempting to monitor every developer directly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.robots.ox.ac.uk/~mosb/public/pdf/3343/Heim%20et%20al.%20-%202024%20-%20Governing%20Through%20the%20Cloud%20The%20Intermediary%20Role.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: robots.ox.ac.uk">[robots.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">robots.ox.ac.uk</span><span class="citation-popover-title">Heim et al. 2024 Governing Through the Cloud The Intermediary Role</span><span class="citation-popover-snippet">THE INTERMEDIARY ROLE OF COMPUTE PROVIDERS...26 Mar 2024 — Increases visibility into AI development, links customers and their usage to...</span></span></span>
 
@@ -755,7 +755,7 @@ Importantly, advocates generally do not argue that KYC by itself solves AI doom.
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549_ai_compute_ky_377148-Illustration-2-dark.svg" | relative_url }}" alt="Compute KYC illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549_ai_compute_ky_377148-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549_ai_compute_ky_377148-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why identity checks raise privacy and confidentiality concerns
 
-The strongest [objections]({{ 'objections/' | relative_url }}) to compute KYC are often not technical but political and legal.
+The strongest objections to compute KYC are often not technical but political and legal.
 
 A cloud provider that knows exactly who is training major AI systems will inevitably hold sensitive information about research programmes, commercial strategy, and intellectual property. Companies may worry that mandatory reporting exposes confidential projects to regulators or creates new cybersecurity risks if records are compromised. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.robots.ox.ac.uk/~mosb/public/pdf/3343/Heim%20et%20al.%20-%202024%20-%20Governing%20Through%20the%20Cloud%20The%20Intermediary%20Role.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: robots.ox.ac.uk">[robots.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">robots.ox.ac.uk</span><span class="citation-popover-title">Heim et al. 2024 Governing Through the Cloud The Intermediary Role</span><span class="citation-popover-snippet">THE INTERMEDIARY ROLE OF COMPUTE PROVIDERS...26 Mar 2024 — Increases visibility into AI development, links customers and their usage to...</span></span></span>
 
@@ -773,7 +773,7 @@ Potential evasion routes include:
 * Using intermediaries and resellers.
 * Training on privately owned hardware rather than public cloud infrastructure.
 * Operating in jurisdictions that do not adopt comparable rules.
-* Exploiting loopholes in compute-threshold definitions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2310.13625" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> ChinaTalk Researchers have highlighted a related problem known as <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chinatalk.media/p/can-bis-control-the-cloud" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chinatalk.media">[chinatalk.media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chinatalk.media</span><span class="citation-popover-title">China Talk Can BIS Control the Cloud?</span><span class="citation-popover-snippet">Can BIS Control the Cloud? - by Nicholas Welch31 Jan 2024 — This regulation makes it possible for cloud providers to implement “Know Your...</span></span></span>"compute structuring", analogous to financial structuring. Just as financial transactions can be divided into smaller pieces to avoid reporting requirements, AI developers could potentially spread workloads across systems to remain below regulatory thresholds. Whether such behaviour can be reliably detected remains an active research question. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2310.13625" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* Exploiting [loopholes]({{ 'loopholes/' | relative_url }}) in compute-threshold definitions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2310.13625" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> ChinaTalk Researchers have highlighted a related problem known as <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chinatalk.media/p/can-bis-control-the-cloud" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chinatalk.media">[chinatalk.media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chinatalk.media</span><span class="citation-popover-title">China Talk Can BIS Control the Cloud?</span><span class="citation-popover-snippet">Can BIS Control the Cloud? - by Nicholas Welch31 Jan 2024 — This regulation makes it possible for cloud providers to implement “Know Your...</span></span></span>"compute structuring", analogous to financial structuring. Just as financial transactions can be divided into smaller pieces to avoid reporting requirements, AI developers could potentially spread workloads across systems to remain below regulatory thresholds. Whether such behaviour can be reliably detected remains an active research question. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2310.13625" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Because of these limitations, even supporters usually describe compute KYC as a risk-reduction measure rather than a complete solution. The goal is to make frontier AI development harder to hide, not to guarantee perfect visibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2310.13625" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -797,7 +797,7 @@ The debate over compute KYC ultimately reflects a broader disagreement about how
 
 People concerned about AI doom often see cloud providers as one of the few realistic governance choke points available before highly capable systems are deployed. From this perspective, requiring providers to know who is training frontier models is a modest and potentially valuable precaution. If warning signs of dangerous capability development emerge, governments would at least have some visibility into who is conducting the work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2310.13625" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.robots.ox.ac.uk/~mosb/public/pdf/3343/Heim%20et%20al.%20-%202024%20-%20Governing%20Through%20the%20Cloud%20The%20Intermediary%20Role.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: robots.ox.ac.uk">[2robots.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">robots.ox.ac.uk</span><span class="citation-popover-title">Heim et al. 2024 Governing Through the Cloud The Intermediary Role</span><span class="citation-popover-snippet">THE INTERMEDIARY ROLE OF COMPUTE PROVIDERS...26 Mar 2024 — Increases visibility into AI development, links customers and their usage to...</span></span></span>
 
-Sceptics accept that visibility may be useful but question whether the benefits justify the costs. They worry about privacy, commercial secrecy, international competitiveness, regulatory overreach, and the possibility that sophisticated actors will simply evade the rules. They also note that knowing who trained a model does not by itself solve the deeper problems of alignment, control, or [misuse]({{ 'misuse/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lawfaremedia.org/article/know-your-customer-is-coming-for-the-cloud-the-stakes-are-high" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Lawfare">[Default]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Lawfare</span><span class="citation-popover-title">know your customer is coming for the cloud the stakes are high</span><span class="citation-popover-snippet">DefaultKnow-Your-Customer Is Coming for the Cloud—The...29 Apr 2024 — The new cloud KYC rules will build on these initiatives by requiri...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sidley.com/en/insights/newsupdates/2024/02/new-know-your-customer-and-reporting-rules-proposed-for-cloud-providers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sidley.com">[Sidley Austin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sidley.com</span><span class="citation-popover-title">new know your customer and reporting rules proposed for cloud providers</span><span class="citation-popover-snippet">Sidley AustinNew Know-Your-Customer and Reporting Rules Proposed...Feb 8, 2024 — The IaaS Rule seeks to strengthen the US government&#x27;s a...</span></span></span>
+Sceptics accept that visibility may be useful but question whether the benefits justify the costs. They worry about privacy, commercial secrecy, international competitiveness, regulatory overreach, and the possibility that sophisticated actors will simply evade the rules. They also note that knowing who trained a model does not by itself solve the deeper problems of alignment, control, or misuse. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lawfaremedia.org/article/know-your-customer-is-coming-for-the-cloud-the-stakes-are-high" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Lawfare">[Default]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Lawfare</span><span class="citation-popover-title">know your customer is coming for the cloud the stakes are high</span><span class="citation-popover-snippet">DefaultKnow-Your-Customer Is Coming for the Cloud—The...29 Apr 2024 — The new cloud KYC rules will build on these initiatives by requiri...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sidley.com/en/insights/newsupdates/2024/02/new-know-your-customer-and-reporting-rules-proposed-for-cloud-providers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sidley.com">[Sidley Austin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sidley.com</span><span class="citation-popover-title">new know your customer and reporting rules proposed for cloud providers</span><span class="citation-popover-snippet">Sidley AustinNew Know-Your-Customer and Reporting Rules Proposed...Feb 8, 2024 — The IaaS Rule seeks to strengthen the US government&#x27;s a...</span></span></span>
 
 As a result, compute KYC is best understood not as a complete answer to existential AI risk, but as a proposal for making frontier AI development less invisible. Whether that visibility would materially reduce p(doom) remains uncertain, but it is one of the most concrete and actively discussed governance mechanisms within the broader effort to monitor and govern advanced AI systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2310.13625" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.robots.ox.ac.uk/~mosb/public/pdf/3343/Heim%20et%20al.%20-%202024%20-%20Governing%20Through%20the%20Cloud%20The%20Intermediary%20Role.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: robots.ox.ac.uk">[2robots.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">robots.ox.ac.uk</span><span class="citation-popover-title">Heim et al. 2024 Governing Through the Cloud The Intermediary Role</span><span class="citation-popover-snippet">THE INTERMEDIARY ROLE OF COMPUTE PROVIDERS...26 Mar 2024 — Increases visibility into AI development, links customers and their usage to...</span></span></span>
 
@@ -807,153 +807,153 @@ As a result, compute KYC is best understood not as a complete answer to existent
 
 1. <a id="endnote-1"></a>
    Source: governance.ai  
-   Link: [https://www.governance.ai/research-paper/oversight-for-frontier-ai-through-kyc-scheme-for-compute-providers](https://www.governance.ai/research-paper/oversight-for-frontier-ai-through-kyc-scheme-for-compute-providers)  
+   Link: <a href="https://www.governance.ai/research-paper/oversight-for-frontier-ai-through-kyc-scheme-for-compute-providers" target="_blank" rel="noopener noreferrer nofollow">https://www.governance.ai/research-paper/oversight-for-frontier-ai-through-kyc-scheme-for-compute-providers</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>w-Your-Customer (KYC) schemes...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2310.13625](https://arxiv.org/abs/2310.13625)  
+   Link: <a href="https://arxiv.org/abs/2310.13625" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2310.13625</a>  
 
 3. <a id="endnote-3"></a>
    Source: robots.ox.ac.uk  
    Title: Heim et al. 2024 Governing Through the Cloud The Intermediary Role  
-   Link: [https://www.robots.ox.ac.uk/~mosb/public/pdf/3343/Heim%20et%20al.%20-%202024%20-%20Governing%20Through%20the%20Cloud%20The%20Intermediary%20Role.pdf](https://www.robots.ox.ac.uk/~mosb/public/pdf/3343/Heim%20et%20al.%20-%202024%20-%20Governing%20Through%20the%20Cloud%20The%20Intermediary%20Role.pdf)  
+   Link: <a href="https://www.robots.ox.ac.uk/~mosb/public/pdf/3343/Heim%20et%20al.%20-%202024%20-%20Governing%20Through%20the%20Cloud%20The%20Intermediary%20Role.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.robots.ox.ac.uk/~mosb/public/pdf/3343/Heim%20et%20al.%20-%202024%20-%20Governing%20Through%20the%20Cloud%20The%20Intermediary%20Role.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE INTERMEDIARY ROLE OF COMPUTE PROVIDERS...26 Mar 2024 — Increases visibility into AI development, links customers and their usage to...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: cdn.governance.ai  
    Title: Oversight for Frontier AI through a Know-Your-Customer  
-   Link: [https://cdn.governance.ai/Oversight_for_Frontier_AI_through_a_KYC_Scheme_for_Compute_Providers.pdf](https://cdn.governance.ai/Oversight_for_Frontier_AI_through_a_KYC_Scheme_for_Compute_Providers.pdf)  
+   Link: <a href="https://cdn.governance.ai/Oversight_for_Frontier_AI_through_a_KYC_Scheme_for_Compute_Providers.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.governance.ai/Oversight_for_Frontier_AI_through_a_KYC_Scheme_for_Compute_Providers.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 23, 2023 — by J Egan · 2023 · Cited by 19 — with compute providers, KYC requirements for advanced AI cloud compute might include...</p></details>
    Published: October 23, 2023  
 
 5. <a id="endnote-5"></a>
    Source: blog.heim.xyz  
-   Link: [https://blog.heim.xyz/governing-through-the-cloud/](https://blog.heim.xyz/governing-through-the-cloud/)  
+   Link: <a href="https://blog.heim.xyz/governing-through-the-cloud/" target="_blank" rel="noopener noreferrer nofollow">https://blog.heim.xyz/governing-through-the-cloud/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lennart HeimThe Intermediary Role of Compute Providers in AI Regulation13 Mar 2024 — Using AI Executive Order 14110 as a case study, we o...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: law-ai.org  
    Title: Institute for Law & AIThe Role of Compute Thresholds for AI Governance  
-   Link: [https://law-ai.org/the-role-of-compute-thresholds-for-ai-governance/](https://law-ai.org/the-role-of-compute-thresholds-for-ai-governance/)  
+   Link: <a href="https://law-ai.org/the-role-of-compute-thresholds-for-ai-governance/" target="_blank" rel="noopener noreferrer nofollow">https://law-ai.org/the-role-of-compute-thresholds-for-ai-governance/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 20, 2025 — This article discusses the role of training compute thresholds, which use training compute to determine which potenti...</p></details>
    Published: February 20, 2025  
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
    Title: arXiv Training Compute Thresholds: Features and Functions in AI Regulation  
-   Link: [https://arxiv.org/abs/2405.10799](https://arxiv.org/abs/2405.10799)  
+   Link: <a href="https://arxiv.org/abs/2405.10799" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.10799</a>  
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2604.04712v1](https://arxiv.org/html/2604.04712v1)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivHardware-Level Governance of AI Compute: A Feasibility...6 Apr 2026 — US Executive Order 14110 (October 2023) imposed reporting req...</p></details>
+   Link: <a href="https://arxiv.org/html/2604.04712v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2604.04712v1</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hardware-Level Governance of AI Compute: A Feasibility...6 Apr 2026 — US Executive Order 14110 (October 2023) imposed reporting req...</p></details>
    Published: October 2023  
 
 9. <a id="endnote-9"></a>
    Source: sidley.com  
    Title: new know your customer and reporting rules proposed for cloud providers  
-   Link: [https://www.sidley.com/en/insights/newsupdates/2024/02/new-know-your-customer-and-reporting-rules-proposed-for-cloud-providers](https://www.sidley.com/en/insights/newsupdates/2024/02/new-know-your-customer-and-reporting-rules-proposed-for-cloud-providers)  
+   Link: <a href="https://www.sidley.com/en/insights/newsupdates/2024/02/new-know-your-customer-and-reporting-rules-proposed-for-cloud-providers" target="_blank" rel="noopener noreferrer nofollow">https://www.sidley.com/en/insights/newsupdates/2024/02/new-know-your-customer-and-reporting-rules-proposed-for-cloud-providers</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sidley AustinNew Know-Your-Customer and Reporting Rules Proposed...Feb 8, 2024 — The IaaS Rule seeks to strengthen the US government&#x27;s a...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
    Title: arXiv Defending Compute Thresholds Against Legal Loopholes  
-   Link: [https://arxiv.org/abs/2502.00003](https://arxiv.org/abs/2502.00003)  
+   Link: <a href="https://arxiv.org/abs/2502.00003" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.00003</a>  
 
 11. <a id="endnote-11"></a>
    Source: chinatalk.media  
    Title: China Talk Can BIS Control the Cloud?  
-   Link: [https://www.chinatalk.media/p/can-bis-control-the-cloud](https://www.chinatalk.media/p/can-bis-control-the-cloud)  
+   Link: <a href="https://www.chinatalk.media/p/can-bis-control-the-cloud" target="_blank" rel="noopener noreferrer nofollow">https://www.chinatalk.media/p/can-bis-control-the-cloud</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Can BIS Control the Cloud? - by Nicholas Welch31 Jan 2024 — This regulation makes it possible for cloud providers to implement “Know Your...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reuters.com  
    Title: The 'ICTS' rules: Technology supply chain regulation has arrived The U.S  
-   Link: [https://www.reuters.com/legal/legalindustry/icts-rules-technology-supply-chain-regulation-has-arrived-2024-10-30/](https://www.reuters.com/legal/legalindustry/icts-rules-technology-supply-chain-regulation-has-arrived-2024-10-30/)  
+   Link: <a href="https://www.reuters.com/legal/legalindustry/icts-rules-technology-supply-chain-regulation-has-arrived-2024-10-30/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/legalindustry/icts-rules-technology-supply-chain-regulation-has-arrived-2024-10-30/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Commerce has significantly increased regulatory actions under its Information and Communications Technology and Services (I...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: datamatters.sidley.com  
-   Link: [https://datamatters.sidley.com/2024/02/09/new-know-your-customer-and-reporting-rules-proposed-for-cloud-providers-five-key-takeaways/](https://datamatters.sidley.com/2024/02/09/new-know-your-customer-and-reporting-rules-proposed-for-cloud-providers-five-key-takeaways/)  
+   Link: <a href="https://datamatters.sidley.com/2024/02/09/new-know-your-customer-and-reporting-rules-proposed-for-cloud-providers-five-key-takeaways/" target="_blank" rel="noopener noreferrer nofollow">https://datamatters.sidley.com/2024/02/09/new-know-your-customer-and-reporting-rules-proposed-for-cloud-providers-five-key-takeaways/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Know-Your-Customer and Reporting Rules Proposed for...9 Feb 2024 — The IaaS Rule seeks to strengthen the US government&#x27;s ability to trac...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: bis.gov  
-   Link: [https://www.bis.gov/press-release/commerce-proposes-reporting-requirements-frontier-ai-developers-compute-providers](https://www.bis.gov/press-release/commerce-proposes-reporting-requirements-frontier-ai-developers-compute-providers)  
+   Link: <a href="https://www.bis.gov/press-release/commerce-proposes-reporting-requirements-frontier-ai-developers-compute-providers" target="_blank" rel="noopener noreferrer nofollow">https://www.bis.gov/press-release/commerce-proposes-reporting-requirements-frontier-ai-developers-compute-providers</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bureau of Industry and SecurityCommerce Proposes Reporting Requirements for Frontier...9 Sept 2024 — Proposed rule would help Department...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: Lawfare  
    Title: know your customer is coming for the cloud the stakes are high  
-   Link: [https://www.lawfaremedia.org/article/know-your-customer-is-coming-for-the-cloud-the-stakes-are-high](https://www.lawfaremedia.org/article/know-your-customer-is-coming-for-the-cloud-the-stakes-are-high)  
+   Link: <a href="https://www.lawfaremedia.org/article/know-your-customer-is-coming-for-the-cloud-the-stakes-are-high" target="_blank" rel="noopener noreferrer nofollow">https://www.lawfaremedia.org/article/know-your-customer-is-coming-for-the-cloud-the-stakes-are-high</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DefaultKnow-Your-Customer Is Coming for the Cloud—The...29 Apr 2024 — The new cloud KYC rules will build on these initiatives by requiri...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: federalregister.gov  
-   Link: [https://www.federalregister.gov/documents/2024/01/29/2024-01580/taking-additional-steps-to-address-the-national-emergency-with-respect-to-significant-malicious](https://www.federalregister.gov/documents/2024/01/29/2024-01580/taking-additional-steps-to-address-the-national-emergency-with-respect-to-significant-malicious)  
+   Link: <a href="https://www.federalregister.gov/documents/2024/01/29/2024-01580/taking-additional-steps-to-address-the-national-emergency-with-respect-to-significant-malicious" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2024/01/29/2024-01580/taking-additional-steps-to-address-the-national-emergency-with-respect-to-significant-malicious</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal RegisterProposed Rule29 Jan 2024 — Foreign malicious cyber actors have utilized U.S. IaaS products to commit intellectual propert...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: bis.gov  
-   Link: [https://www.bis.gov/press-release/commerce-proposes-rule-advance-u.s.-national-security-interests-implement-biden-harris-administrations-ai](https://www.bis.gov/press-release/commerce-proposes-rule-advance-u.s.-national-security-interests-implement-biden-harris-administrations-ai)  
+   Link: <a href="https://www.bis.gov/press-release/commerce-proposes-rule-advance-u.s.-national-security-interests-implement-biden-harris-administrations-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.bis.gov/press-release/commerce-proposes-rule-advance-u.s.-national-security-interests-implement-biden-harris-administrations-ai</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Commerce Proposes Rule to Advance US National...29 Jan 2024 — The NPRM outlines proposed requirements to address the risk of foreign mal...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: trumpwhitehouse.archives.gov  
-   Link: [https://trumpwhitehouse.archives.gov/presidential-actions/executive-order-taking-additional-steps-address-national-emergency-respect-significant-malicious-cyber-enabled-activities/](https://trumpwhitehouse.archives.gov/presidential-actions/executive-order-taking-additional-steps-address-national-emergency-respect-significant-malicious-cyber-enabled-activities/)  
+   Link: <a href="https://trumpwhitehouse.archives.gov/presidential-actions/executive-order-taking-additional-steps-address-national-emergency-respect-significant-malicious-cyber-enabled-activities/" target="_blank" rel="noopener noreferrer nofollow">https://trumpwhitehouse.archives.gov/presidential-actions/executive-order-taking-additional-steps-address-national-emergency-respect-significant-malicious-cyber-enabled-activities/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Order on Taking Additional Steps to Address the...19 Jan 2021 — (A) evidence that foreign malicious cyber actors have obtained United St...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: cybereason.com  
-   Link: [https://www.cybereason.com/blog/last-hurrah-executive-order-to-protect-iaas-platforms-from-malicious-actors](https://www.cybereason.com/blog/last-hurrah-executive-order-to-protect-iaas-platforms-from-malicious-actors)  
+   Link: <a href="https://www.cybereason.com/blog/last-hurrah-executive-order-to-protect-iaas-platforms-from-malicious-actors" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/last-hurrah-executive-order-to-protect-iaas-platforms-from-malicious-actors</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Last Hurrah: Executive Order to Protect IaaS Platforms from...President Donald Trump signed an executive order to prevent foreign malici...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: steptoe.com  
-   Link: [https://www.steptoe.com/en/news-publications/international-compliance-blog/us-infrastructure-as-a-service-providers-iaas-new-know-your-customer-requirements.html](https://www.steptoe.com/en/news-publications/international-compliance-blog/us-infrastructure-as-a-service-providers-iaas-new-know-your-customer-requirements.html)  
+   Link: <a href="https://www.steptoe.com/en/news-publications/international-compliance-blog/us-infrastructure-as-a-service-providers-iaas-new-know-your-customer-requirements.html" target="_blank" rel="noopener noreferrer nofollow">https://www.steptoe.com/en/news-publications/international-compliance-blog/us-infrastructure-as-a-service-providers-iaas-new-know-your-customer-requirements.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US Infrastructure as a Service Providers (IaaS)1 Feb 2021 — The EO identifies a number of factors to be applied in deciding whether a for...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: longtermwiki.com  
    Title: U S Executive Order on Safe, Secure, and Trustworthy AICloud Compute Governance  
-   Link: [https://www.longtermwiki.com/wiki/E366](https://www.longtermwiki.com/wiki/E366)  
+   Link: <a href="https://www.longtermwiki.com/wiki/E366" target="_blank" rel="noopener noreferrer nofollow">https://www.longtermwiki.com/wiki/E366</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The order introduced &quot;Know Your Customer&quot; (KYC) requirements for Infrastructure-as-a-Service (IaaS) providers, mandating that cloud...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: visualcompliance.com  
    Title: u s proposes kyc rules for cloud infrastructure providers  
-   Link: [https://www.visualcompliance.com/blog/u-s-proposes-kyc-rules-for-cloud-infrastructure-providers/](https://www.visualcompliance.com/blog/u-s-proposes-kyc-rules-for-cloud-infrastructure-providers/)  
+   Link: <a href="https://www.visualcompliance.com/blog/u-s-proposes-kyc-rules-for-cloud-infrastructure-providers/" target="_blank" rel="noopener noreferrer nofollow">https://www.visualcompliance.com/blog/u-s-proposes-kyc-rules-for-cloud-infrastructure-providers/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Proposes KYC Rules for Cloud Infrastructure ProvidersFeb 7, 2024 — The U.S. is requiring cloud infrastructure providers to use KYC rules...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: kelleydrye.com  
-   Link: [https://www.kelleydrye.com/viewpoints/blogs/trade-and-manufacturing-monitor/bis-proposes-kyc-and-other-cybersecurity-requirements-on-cloud-services-and-ai-training](https://www.kelleydrye.com/viewpoints/blogs/trade-and-manufacturing-monitor/bis-proposes-kyc-and-other-cybersecurity-requirements-on-cloud-services-and-ai-training)  
+   Link: <a href="https://www.kelleydrye.com/viewpoints/blogs/trade-and-manufacturing-monitor/bis-proposes-kyc-and-other-cybersecurity-requirements-on-cloud-services-and-ai-training" target="_blank" rel="noopener noreferrer nofollow">https://www.kelleydrye.com/viewpoints/blogs/trade-and-manufacturing-monitor/bis-proposes-kyc-and-other-cybersecurity-requirements-on-cloud-services-and-ai-training</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>critical infrastructure or national security posed by malicious, cyber-enabled...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: futureoflife.org  
    Title: bis rule for establishment of reporting requirements  
-   Link: [https://futureoflife.org/document/bis-rule-for-establishment-of-reporting-requirements/](https://futureoflife.org/document/bis-rule-for-establishment-of-reporting-requirements/)  
+   Link: <a href="https://futureoflife.org/document/bis-rule-for-establishment-of-reporting-requirements/" target="_blank" rel="noopener noreferrer nofollow">https://futureoflife.org/document/bis-rule-for-establishment-of-reporting-requirements/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Input on Federal AI Reporting Requirements11 Oct 2024 — There is precedent for implementing KYC requirements for foreign purchasers of hi...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: researchgate.net  
    Title: (PDF) Oversight for Frontier AI through a Know-Your  
-   Link: [https://www.researchgate.net/publication/375393992_Oversight_for_Frontier_AI_through_a_Know-Your-Customer_Scheme_for_Compute_Providers](https://www.researchgate.net/publication/375393992_Oversight_for_Frontier_AI_through_a_Know-Your-Customer_Scheme_for_Compute_Providers)  
+   Link: <a href="https://www.researchgate.net/publication/375393992_Oversight_for_Frontier_AI_through_a_Know-Your-Customer_Scheme_for_Compute_Providers" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/375393992_Oversight_for_Frontier_AI_through_a_Know-Your-Customer_Scheme_for_Compute_Providers</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>training runs above a certain (very high) threshold. 3. Requiring compute providers to have “Know Your Customer (KYC)” processes. 4. Faci...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: home.treasury.gov  
    Title: outbound investment program  
-   Link: [https://home.treasury.gov/policy-issues/international/outbound-investment-program](https://home.treasury.gov/policy-issues/international/outbound-investment-program)  
+   Link: <a href="https://home.treasury.gov/policy-issues/international/outbound-investment-program" target="_blank" rel="noopener noreferrer nofollow">https://home.treasury.gov/policy-issues/international/outbound-investment-program</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Investment Security ProgramOn October 28, 2024, the Treasury Department issued a final rule (the Outbound Rules) implementing the Outboun...</p></details>
    Published: October 28, 2024  
 
 27. <a id="endnote-27"></a>
    Source: govinfo.gov  
    Title: Administration of Donald J  
-   Link: [https://www.govinfo.gov/link/cpd/executiveorder/13984](https://www.govinfo.gov/link/cpd/executiveorder/13984)  
+   Link: <a href="https://www.govinfo.gov/link/cpd/executiveorder/13984" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/link/cpd/executiveorder/13984</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Trump, 2021 Executive Order...19 Jan 2021 — Foreign malicious cyber actors aim to harm the United States economy through the theft of in...</p></details>

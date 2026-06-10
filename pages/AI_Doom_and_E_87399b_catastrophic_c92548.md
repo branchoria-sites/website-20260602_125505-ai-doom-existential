@@ -19,19 +19,19 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_p_doom_estima_72d1f2
 - AI_Doom_and_E_87399b_recursive_imp_3a3504
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - misuse
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - misuse
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Some existential AI risk comes from humans using advanced models to magnify biological, cyber or military threats.
 hero_summary: Some existential AI risk comes from humans using advanced models to magnify biological, cyber or military threats.
 layout: default
 permalink: /misuse/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 nav_short_title: Misuse
 title: How Could People Misuse Advanced AI?
 title_full: How Could People Misuse Advanced AI? | AI Doom
@@ -211,61 +211,61 @@ ui_strings:
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 15:11:49'
 parent_title: AI Doom
-parent_permalink: /ai-doom-and/
+parent_permalink: /ai-doom-and-e-87399-b/
 parent_nav_short_title: AI Doom
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 sibling_links:
 - basename: AI_Doom_and_E_87399b_recursive_imp_3a3504
-  title: AI Takeoff | AI Doom and
+  title: AI Takeoff | AI Doom and E 87399 b
   permalink: /ai-takeoff/
   short_title: AI Takeoff
   heading_title: Could AI Improvement Run Away From US?
 - basename: AI_Doom_and_E_87399b_dangerous_aut_8f4266
-  title: Autonomy | AI Doom and
+  title: Autonomy | AI Doom and E 87399 b
   permalink: /autonomy/
   short_title: Autonomy
   heading_title: When Does AI Autonomy Become Dangerous?
 - basename: AI_Doom_and_E_87399b_interpretabil_15527d
-  title: Control Tools | AI Doom and
+  title: Control Tools | AI Doom and E 87399 b
   permalink: /control-tools/
   short_title: Control Tools
   heading_title: Can We Make Advanced AI Understandable?
 - basename: AI_Doom_and_E_87399b_frontier_ai_e_9920ab
-  title: Evals | AI Doom and
+  title: Evals | AI Doom and E 87399 b
   permalink: /evals/
   short_title: Evals
   heading_title: Can Tests Catch Dangerous AI in Time?
 - basename: AI_Doom_and_E_87399b_compute_gover_1ee8fc
-  title: Governance | AI Doom and
+  title: Governance | AI Doom and E 87399 b
   permalink: /governance/
   short_title: Governance
   heading_title: What Rules Could Reduce AI Doom Risk?
 - basename: AI_Doom_and_E_87399b_loss_of_contr_19a113
-  title: Loss of Control | AI Doom and
+  title: Loss of Control | AI Doom and E 87399 b
   permalink: /loss-of-control/
   short_title: Loss of Control
   heading_title: How Could Humans Lose Control of AI?
 - basename: AI_Doom_and_E_87399b_p_doom_estima_72d1f2
-  title: P Doom | AI Doom and
+  title: P Doom | AI Doom and E 87399 b
   permalink: /p-doom/
   short_title: P Doom
   heading_title: What Does p(doom) Really Mean?
 - basename: AI_Doom_and_E_87399b_ai_race_dynam_a5d049
-  title: Race Pressure | AI Doom and
+  title: Race Pressure | AI Doom and E 87399 b
   permalink: /race-pressure/
   short_title: Race Pressure
   heading_title: Why AI Races Can Make Safety Harder
 - basename: AI_Doom_and_E_87399b_deceptive_ali_f9f449
-  title: Scheming Tests | AI Doom and
+  title: Scheming Tests | AI Doom and E 87399 b
   permalink: /scheming-tests/
   short_title: Scheming Tests
   heading_title: Can AI Pretend to Be Aligned?
@@ -293,17 +293,17 @@ child_links:
 up_link:
   basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 prev_link:
   basename: AI_Doom_and_E_87399b_loss_of_contr_19a113
-  title: Loss of Control | AI Doom and
+  title: Loss of Control | AI Doom and E 87399 b
   permalink: /loss-of-control/
   short_title: Loss of Control
   heading_title: How Could Humans Lose Control of AI?
 next_link:
   basename: AI_Doom_and_E_87399b_p_doom_estima_72d1f2
-  title: P Doom | AI Doom and
+  title: P Doom | AI Doom and E 87399 b
   permalink: /p-doom/
   short_title: P Doom
   heading_title: What Does p(doom) Really Mean?
@@ -315,7 +315,7 @@ image: /assets/images/AI_Doom_and_E_87399b_catastrophic_c92548-overview-social.j
 
 ## Introduction
 
-One of the most contested strands in the debate about **[AI doom and]({{ 'ai-doom-and/' | relative_url }}) existential risk** is not only whether AI could behave in harmful ways on its own, but how *humans might misuse* powerful AI systems to cause catastrophic damage on a scale that threatens civilisation or even human survival. This page focuses squarely on that question: not the classic alignment problem of an AI pursuing unintended goals, but the very real possibility that *people use increasingly capable AI* to magnify biological threats, automate cyberattack and sabotage, or accelerate military escalation — with consequences that, in the extreme, could be catastrophic. While current AI systems are far from superintelligent, researchers and policymakers agree that misuse risks deserve serious attention now, because these pathways already intersect with domains — biosecurity, cybersecurity, [geopolitics]({{ 'geopolitics/' | relative_url }}) — where errors or deliberate harm can have cascading systemic effects.[GOV.UK]
+One of the most contested strands in the debate about **AI doom and existential risk** is not only whether AI could behave in harmful ways on its own, but how *humans might misuse* powerful AI systems to cause catastrophic damage on a scale that threatens civilisation or even human survival. This page focuses squarely on that question: not the classic alignment problem of an AI pursuing unintended goals, but the very real possibility that *people use increasingly capable AI* to magnify biological threats, automate cyberattack and sabotage, or accelerate military escalation — with consequences that, in the extreme, could be catastrophic. While current AI systems are far from superintelligent, researchers and policymakers agree that misuse risks deserve serious attention now, because these pathways already intersect with domains — biosecurity, cybersecurity, [geopolitics]({{ 'geopolitics/' | relative_url }}) — where errors or deliberate harm can have cascading systemic effects.[GOV.UK]
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548-overview.webp" | relative_url }}" alt="Overview image for Misuse" loading="eager" decoding="sync" fetchpriority="high">
@@ -323,11 +323,11 @@ One of the most contested strands in the debate about **[AI doom and]({{ 'ai-doo
 
 AI’s ability to process, summarise and generate biological information at scale has opened new opportunities in research and healthcare — but those same capabilities could *lower barriers* to designing, optimising or deploying biological threats.
 
-* **Dual-use research concerns.** Scientific work on so-called *dual-use capabilities* identifies how AI could be misused to augment biological threat creation by assisting in the design of harmful agents, even when the original goal was legitimate research. The concern is that increasingly capable models could accelerate tasks such as protein design or genetic editing in ways that outpace current [oversight]({{ 'oversight-evasion/' | relative_url }}) frameworks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1012975" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">PLOSDual-use capabilities of concern of biological AI models | PLOS Computational BiologyMay 8, 2025...</span><span class="citation-popover-meta">Published: May 8, 2025</span></span></span>
-* **Criminal dissemination and enhanced pathogens.** Analyses of emerging bio-threat landscapes flag the risk that AI tools might help adversaries — state or non‑state — to design genetically modified organisms (GMOs) with enhanced lethality, resistance to treatment, or broader host ranges. Such manipulation could trigger widespread outbreaks that overwhelm healthcare systems and disrupt social stability if safeguards and surveillance fail.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/articles/10.3389/frai.2024.1382356/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers | Artificial intelligence challenges in the face of biological threats: emerging catastrophic risks for public healthM...</span></span></span>
+* **Dual-use research concerns.** Scientific work on so-called *dual-use capabilities* identifies how AI could be misused to augment biological threat creation by assisting in the design of harmful agents, even when the original goal was legitimate research. The concern is that increasingly capable models could accelerate tasks such as protein design or genetic editing in ways that outpace current oversight frameworks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1012975" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Dual-use capabilities of concern of biological AI models &#124; PLOS Computational BiologyMay 8, 2025...</span><span class="citation-popover-meta">Published: May 8, 2025</span></span></span>
+* **Criminal dissemination and enhanced pathogens.** Analyses of emerging bio-threat landscapes flag the risk that AI tools might help adversaries — state or non‑state — to design genetically modified organisms (GMOs) with enhanced lethality, resistance to treatment, or broader host ranges. Such manipulation could trigger widespread outbreaks that overwhelm healthcare systems and disrupt social stability if safeguards and surveillance fail.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/articles/10.3389/frai.2024.1382356/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers &#124; Artificial intelligence challenges in the face of biological threats: emerging catastrophic risks for public healthM...</span></span></span>
 * **No strong current evidence but plausible future risk.** Government reports on frontier AI recognise that while *present-day models* do not demonstrably enable novice users to create biological weapons, future systems with deeper domain knowledge might significantly lower the expertise required to attempt such activities. This doesn’t mean biological catastrophe is imminent — but it does mean the potential *trajectory* of capability demands [governance]({{ 'governance/' | relative_url }}) and research into mitigation now.[GOV.UK]
 
-In summary, the biological misuse pathway illustrates how *human-directed use of AI*, particularly if combined with advances in biotechnology, could enable actors to pursue high‑consequence biological missions that were previously out of reach — a core concern for those who see [AI misuse]({{ 'ai-misuse-governance/' | relative_url }}) as a catastrophic risk vector.
+In summary, the biological misuse pathway illustrates how *human-directed use of AI*, particularly if combined with advances in biotechnology, could enable actors to pursue high‑consequence biological missions that were previously out of reach — a core concern for those who see AI misuse as a catastrophic risk vector.
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548-Illustration-1-dark.svg" | relative_url }}" alt="Misuse illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -335,9 +335,9 @@ In summary, the biological misuse pathway illustrates how *human-directed use of
 
 Cybersecurity has long been a battleground of attackers and defenders, and advanced AI threatens to significantly shift the balance by *automating and amplifying offensive operations*.
 
-* **AI uplift in cyber offence.** Technical research into cybersecurity risk modelling shows that AI can systematically increase the *efficacy, frequency and reach* of cyberattacks by automating tasks that currently require skilled humans, from discovering vulnerabilities to crafting exploit code or bypassing defences. This systematic uplift accelerates the pace of attacks and broadens the pool of potential attackers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2512.08864" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Toward Quantitative Modeling of Cybersecurity Risks Due to AI Misuse</span><span class="citation-popover-snippet">arXivToward Quantitative Modeling of Cybersecurity Risks Due to AI MisuseDecember 9, 2025...</span><span class="citation-popover-meta">Published: December 9, 2025</span></span></span>
-* **Ease of weaponising AI for zero‑day exploits.** There are emerging reports — including indicated use of AI‑assisted discovery of zero‑day vulnerabilities — that illustrate how AI is no longer merely a defensive tool but a dual‑use one: malicious actors could leverage it to find novel exploits or bypass security controls at scale, making existing legal and institutional frameworks for cybercrime less effective.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/Technology_Law/comments/1tcae7l/the_cybersecurity_risks_of_aicreated_exploits/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The cybersecurity risks of AI-created exploits: Google Zero Day Exploits</span><span class="citation-popover-snippet">RedditThe cybersecurity risks of AI-created exploits: Google Zero Day Exploits.May 13, 2026...</span><span class="citation-popover-meta">Published: May 13, 2026</span></span></span>
-* **Broad concern in policy circles.** National security and scientific assessments emphasise that general‑purpose AI could *uplift* the cyber [expertise]({{ 'expertise-erosion/' | relative_url }}) of a broad range of actors, including those lacking deep technical training, by automating complex operations like social engineering or code generation. While the same technologies also bolster cyber defence, the asymmetric advantage could favour attackers absent robust safeguards.[GOV.UK]
+* **AI uplift in cyber offence.** Technical research into cybersecurity risk modelling shows that AI can systematically increase the *efficacy, frequency and reach* of cyberattacks by automating tasks that currently require skilled humans, from discovering vulnerabilities to crafting exploit code or bypassing defences. This systematic uplift accelerates the pace of attacks and broadens the pool of potential attackers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2512.08864" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Toward Quantitative Modeling of Cybersecurity Risks Due to AI Misuse</span><span class="citation-popover-snippet">Toward Quantitative Modeling of Cybersecurity Risks Due to AI MisuseDecember 9, 2025...</span><span class="citation-popover-meta">Published: December 9, 2025</span></span></span>
+* **Ease of weaponising AI for zero‑day exploits.** There are emerging reports — including indicated use of AI‑assisted discovery of zero‑day vulnerabilities — that illustrate how AI is no longer merely a defensive tool but a dual‑use one: malicious actors could leverage it to find novel exploits or bypass security controls at scale, making existing legal and institutional frameworks for cybercrime less effective.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/Technology_Law/comments/1tcae7l/the_cybersecurity_risks_of_aicreated_exploits/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The cybersecurity risks of AI-created exploits: Google Zero Day Exploits</span><span class="citation-popover-snippet">The cybersecurity risks of AI-created exploits: Google Zero Day Exploits.May 13, 2026...</span><span class="citation-popover-meta">Published: May 13, 2026</span></span></span>
+* **Broad concern in policy circles.** National security and scientific assessments emphasise that general‑purpose AI could *uplift* the cyber expertise of a broad range of actors, including those lacking deep technical training, by automating complex operations like social engineering or code generation. While the same technologies also bolster cyber defence, the asymmetric advantage could favour attackers absent robust safeguards.[GOV.UK]
 
 Taken together, this paints a picture where *AI‑assisted cyber offence* could magnify the destructive impact of digital attacks — from crippling infrastructure to undermining critical services — especially if adversaries weaponise AI faster than defences can adapt.
 
@@ -348,9 +348,9 @@ Taken together, this paints a picture where *AI‑assisted cyber offence* could 
 
 AI is increasingly integrated into defence planning, from decision support to autonomous systems. This raises distinct misuse concerns in the context of war, deterrence, and human control over force.
 
-* **AI in military decision‑making.** Academic research on AI’s role in ‘resort‑to‑force’ decisions highlights the risk that incorporating AI into strategic choices — such as whether to escalate a conflict — could *mediate or distort human judgement* under pressure if operators over‑rely on algorithmic outputs or if adversaries exploit AI‑influenced systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/cambridge-forum-on-ai-law-and-governance/article/integrators-at-war-mediating-in-aiassisted-resorttoforce-decisions/D176832403A3BE49069FD0E86038D989" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentIntegrators at war: Mediating in AI-assisted resort-to-force decisions | Cambridge Forum on AI: La...</span></span></span> University Press & Assessment
-* **Global catastrophic risk through escalation.** Longer‑form analyses of military AI argue that rapid adoption of AI for command, control, and autonomous weapons platforms could contribute to global catastrophic risk by lowering thresholds for conflict, shortening decision times, and complicating arms‑race dynamics, especially among nuclear‑armed states. Autonomous or semi‑autonomous systems may interact with strategic warning systems in unpredictable ways that enhance the chance of inadvertent escalation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4136610_code2918001.pdf?abstractid=4115010" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">SSRNMilitary Artificial Intelligence as Contributor to Global Catastrophic Risk by Matthijs M. Maas, Kayla Matteucci, Di Cooke:: SSRNMay...</span></span></span>
-* **Governance and human oversight challenges.** Even when AI systems are not themselves autonomous agents with independent agency, their integration into military operations raises questions about *control and accountability* — how decisions are made, who bears responsibility, and whether safeguards can operate under crisis conditions.
+* **AI in military decision‑making.** Academic research on AI’s role in ‘resort‑to‑force’ decisions highlights the risk that incorporating AI into strategic choices — such as whether to escalate a conflict — could *mediate or distort human judgement* under pressure if operators over‑rely on algorithmic outputs or if adversaries exploit AI‑influenced systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/cambridge-forum-on-ai-law-and-governance/article/integrators-at-war-mediating-in-aiassisted-resorttoforce-decisions/D176832403A3BE49069FD0E86038D989" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentIntegrators at war: Mediating in AI-assisted resort-to-force decisions &#124; Cambridge Forum on AI: La...</span></span></span> University Press & Assessment
+* **Global catastrophic risk through escalation.** Longer‑form analyses of military AI argue that rapid adoption of AI for command, control, and autonomous weapons platforms could contribute to global catastrophic risk by lowering thresholds for conflict, shortening decision times, and complicating arms‑race dynamics, especially among nuclear‑armed states. Autonomous or semi‑autonomous systems may interact with strategic warning systems in unpredictable ways that enhance the chance of inadvertent escalation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4136610_code2918001.pdf?abstractid=4115010" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Military Artificial Intelligence as Contributor to Global Catastrophic Risk by Matthijs M. Maas, Kayla Matteucci, Di Cooke:: SSRNMay...</span></span></span>
+* **Governance and [human oversight]({{ 'human-oversight/' | relative_url }}) challenges.** Even when AI systems are not themselves autonomous agents with [independent]({{ 'red-teaming/' | relative_url }}) agency, their integration into military operations raises questions about *control and accountability* — how decisions are made, who bears responsibility, and whether safeguards can operate under crisis conditions.
 
 In the military sphere, misuse is less about rogue actors in the traditional sense and more about geopolitical dynamics and organisational incentives that could push states to deploy powerful AI systems in ways that increase the likelihood of *large‑scale conflict or catastrophic mistakes*.
 
@@ -360,8 +360,8 @@ In the military sphere, misuse is less about rogue actors in the traditional sen
 
 Across biosecurity, cybersecurity and military contexts, several themes recur in the discourse on catastrophic misuse:
 
-* **Human agency and dual use.** Unlike the classic ‘[loss of control]({{ 'loss-of-control/' | relative_url }})’ alignment argument, misuse risks centre on *humans* using powerful AI to do harm — intentionally or negligently. Advanced AI systems amplify human capabilities, so the *same tools* that improve research or defence could also be repurposed for destructive ends.<span class="citation-chip-wrap"><a class="citation-chip" href="https://researchtrend.ai/papers/2508.13700" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchtrend.ai">[ResearchTrend.AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchtrend.ai</span><span class="citation-popover-snippet">The AI Risk Spectrum: From Dangerous Capabilities to Existential Threats | ResearchTrend.AIAugust 19, 2025...</span><span class="citation-popover-meta">Published: August 19, 2025</span></span></span>
-* **Barriers and uncertainties.** Experts broadly agree that present AI does not yet enable easy creation of biological weapons or fully autonomous offensive cyber capabilities, but they also emphasise *uncertainty* about how quickly capabilities will grow and where governance can keep pace.[GOV.UK]
+* **Human agency and dual use.** Unlike the classic ‘[loss of control]({{ 'loss-of-control/' | relative_url }})’ alignment argument, misuse risks centre on *humans* using powerful AI to do harm — intentionally or negligently. Advanced AI systems amplify human capabilities, so the *same tools* that improve research or defence could also be repurposed for destructive ends.<span class="citation-chip-wrap"><a class="citation-chip" href="https://researchtrend.ai/papers/2508.13700" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchtrend.ai">[ResearchTrend.AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchtrend.ai</span><span class="citation-popover-snippet">The AI Risk Spectrum: From Dangerous Capabilities to Existential Threats &#124; ResearchTrend.AIAugust 19, 2025...</span><span class="citation-popover-meta">Published: August 19, 2025</span></span></span>
+* **Barriers and uncertainties.** Experts broadly agree that present AI does not yet enable easy creation of biological weapons or fully autonomous offensive cyber capabilities, but they also emphasise *[uncertainty]({{ 'uncertainty/' | relative_url }})* about how quickly capabilities will grow and where governance can keep pace.[GOV.UK]
 * **Policy and governance gaps.** Independent evaluations of AI industry preparedness underscore that many powerful AI developers lack comprehensive safeguards to prevent misuse — a gap that contributes to anxiety in both safety research and policy communities about the ability to manage these risks as capabilities increase.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2025/12/03/ai-risks-agi-anthropic-google-openai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">AI firms flunk existential risk planning, new report finds</span><span class="citation-popover-snippet">Despite public statements by many AI company leaders acknowledging the importance of mitigating such risks, none of the firms were found...</span></span></span>
 
 Critics of misuse‑focused doom narratives argue that catastrophic human misuse is no more likely than the misuse of other powerful technologies — and that robust governance, norms, and international cooperation could prevent extreme outcomes — but proponents counter that the *scale, speed and accessibility* of AI‑enabled capabilities make this a distinct and urgent challenge.
@@ -376,14 +376,9 @@ Critics of misuse‑focused doom narratives argue that catastrophic human misuse
 
 Understanding catastrophic misuse is crucial because it represents a bridge between *near‑term observable trends* and the speculative but serious concerns about existential harm:
 
-
-<div class="content-enhancement content-enhancement--caution" markdown="1">
-
-* **Warning signs to watch.** Indicators such as widespread AI‑powered cyber incidents, deliberate use of AI tools by malicious actors, and rapid military integration with limited oversight could signal escalating misuse risks.
+* **[Warning signs]({{ 'warning-signs/' | relative_url }}) to watch.** Indicators such as widespread AI‑powered cyber incidents, deliberate use of AI tools by malicious actors, and rapid military integration with limited oversight could signal escalating misuse risks.
 * **Risk mitigation paths.** Experts propose targeted capability restrictions, improved governance frameworks, tighter export controls on high‑impact AI, and stronger international norms — particularly in biosecurity and military AI policy.
 * **Uncertainty and plural perspectives.** While misuse pathways are grounded in plausible mechanisms, there is active debate about *how plausible* catastrophic misuse is relative to other AI disaster scenarios, and about which interventions will be most effective.
-
-</div>
 
 By centring on the *human dimensions* of misuse — decisions, incentives, and institutional controls — this view of AI doom complements alignment concerns and underscores that existential threats from AI could arise not only from errant machine goals but also from how powerful tools are wielded in contexts where the stakes are highest.
 
@@ -812,145 +807,145 @@ By centring on the *human dimensions* of misuse — decisions, incentives, and i
 1. <a id="endnote-1"></a>
    Source: GOV.UK  
    Title: International scientific report on the safety of advanced AI: interim report  
-   Link: [https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai/international-scientific-report-on-the-safety-of-advanced-ai-interim-report](https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai/international-scientific-report-on-the-safety-of-advanced-ai-interim-report)  
+   Link: <a href="https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai/international-scientific-report-on-the-safety-of-advanced-ai-interim-report" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai/international-scientific-report-on-the-safety-of-advanced-ai-interim-report</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>22, 2025...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: GOV.UK  
    Title: Frontier AI: capabilities and risks – discussion paper  
-   Link: [https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper](https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper)  
+   Link: <a href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper</a>  
 
 3. <a id="endnote-3"></a>
    Source: journals.plos.org  
-   Link: [https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1012975](https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1012975)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PLOSDual-use capabilities of concern of biological AI models | PLOS Computational BiologyMay 8, 2025...</p></details>
+   Link: <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1012975" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1012975</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dual-use capabilities of concern of biological AI models | PLOS Computational BiologyMay 8, 2025...</p></details>
    Published: May 8, 2025  
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Toward Quantitative Modeling of Cybersecurity Risks Due to AI Misuse  
-   Link: [https://arxiv.org/abs/2512.08864](https://arxiv.org/abs/2512.08864)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivToward Quantitative Modeling of Cybersecurity Risks Due to AI MisuseDecember 9, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2512.08864" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2512.08864</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Toward Quantitative Modeling of Cybersecurity Risks Due to AI MisuseDecember 9, 2025...</p></details>
    Published: December 9, 2025  
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
    Title: The cybersecurity risks of AI-created exploits: Google Zero Day Exploits  
-   Link: [https://www.reddit.com/r/Technology_Law/comments/1tcae7l/the_cybersecurity_risks_of_aicreated_exploits/](https://www.reddit.com/r/Technology_Law/comments/1tcae7l/the_cybersecurity_risks_of_aicreated_exploits/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditThe cybersecurity risks of AI-created exploits: Google Zero Day Exploits.May 13, 2026...</p></details>
+   Link: <a href="https://www.reddit.com/r/Technology_Law/comments/1tcae7l/the_cybersecurity_risks_of_aicreated_exploits/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Technology_Law/comments/1tcae7l/the_cybersecurity_risks_of_aicreated_exploits/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The cybersecurity risks of AI-created exploits: Google Zero Day Exploits.May 13, 2026...</p></details>
    Published: May 13, 2026  
 
 6. <a id="endnote-6"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/journals/cambridge-forum-on-ai-law-and-governance/article/integrators-at-war-mediating-in-aiassisted-resorttoforce-decisions/D176832403A3BE49069FD0E86038D989](https://www.cambridge.org/core/journals/cambridge-forum-on-ai-law-and-governance/article/integrators-at-war-mediating-in-aiassisted-resorttoforce-decisions/D176832403A3BE49069FD0E86038D989)  
+   Link: <a href="https://www.cambridge.org/core/journals/cambridge-forum-on-ai-law-and-governance/article/integrators-at-war-mediating-in-aiassisted-resorttoforce-decisions/D176832403A3BE49069FD0E86038D989" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/cambridge-forum-on-ai-law-and-governance/article/integrators-at-war-mediating-in-aiassisted-resorttoforce-decisions/D176832403A3BE49069FD0E86038D989</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentIntegrators at war: Mediating in AI-assisted resort-to-force decisions | Cambridge Forum on AI: La...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4136610_code2918001.pdf?abstractid=4115010](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4136610_code2918001.pdf?abstractid=4115010)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SSRNMilitary [Artificial](&amp;#123;&amp;#123; &#x27;artificial-goals/&#x27; | relative_url &amp;#125;&amp;#125;) Intelligence as Contributor to Global Catastrophic Risk by Matthijs M. Maas, Kayla Matteucci, Di Cooke:: SSRNMay...</p></details>
+   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4136610_code2918001.pdf?abstractid=4115010" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4136610_code2918001.pdf?abstractid=4115010</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Military Artificial Intelligence as Contributor to Global Catastrophic Risk by Matthijs M. Maas, Kayla Matteucci, Di Cooke:: SSRNMay...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: researchtrend.ai  
-   Link: [https://researchtrend.ai/papers/2508.13700](https://researchtrend.ai/papers/2508.13700)  
+   Link: <a href="https://researchtrend.ai/papers/2508.13700" target="_blank" rel="noopener noreferrer nofollow">https://researchtrend.ai/papers/2508.13700</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The AI Risk Spectrum: From Dangerous Capabilities to Existential Threats | ResearchTrend.AIAugust 19, 2025...</p></details>
    Published: August 19, 2025  
 
 9. <a id="endnote-9"></a>
    Source: axios.com  
    Title: AI firms flunk existential risk planning, new report finds  
-   Link: [https://www.axios.com/2025/12/03/ai-risks-agi-anthropic-google-openai](https://www.axios.com/2025/12/03/ai-risks-agi-anthropic-google-openai)  
+   Link: <a href="https://www.axios.com/2025/12/03/ai-risks-agi-anthropic-google-openai" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2025/12/03/ai-risks-agi-anthropic-google-openai</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite public statements by many AI company leaders acknowledging the importance of mitigating such risks, none of the firms were found...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a](https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a)  
+   Link: <a href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Executive summary 2. Context 3. Current Frontier AI capabilities 4. Future Frontier AI capabilities 5. Other critical uncert...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/journals/european-journal-of-international-security/article/inadvertent-escalation-in-the-age-of-intelligence-machines-a-new-model-for-nuclear-risk-in-the-digital-age/D1F1FC47D12FA4DCB12D1648412B696B](https://www.cambridge.org/core/journals/european-journal-of-international-security/article/inadvertent-escalation-in-the-age-of-intelligence-machines-a-new-model-for-nuclear-risk-in-the-digital-age/D1F1FC47D12FA4DCB12D1648412B696B)  
+   Link: <a href="https://www.cambridge.org/core/journals/european-journal-of-international-security/article/inadvertent-escalation-in-the-age-of-intelligence-machines-a-new-model-for-nuclear-risk-in-the-digital-age/D1F1FC47D12FA4DCB12D1648412B696B" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/european-journal-of-international-security/article/inadvertent-escalation-in-the-age-of-intelligence-machines-a-new-model-for-nuclear-risk-in-the-digital-age/D1F1FC47D12FA4DCB12D1648412B696B</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>tional Security | Cambridge CoreOctober 15, 2021 — INADVERTENT ESCALATION IN THE AGE OF INTELLIGENCE MACHINES: A NEW MODEL FOR NUCLEAR RI...</p></details>
    Published: October 15, 2021  
 
 12. <a id="endnote-12"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/articles/10.3389/frai.2024.1382356/full](https://www.frontiersin.org/articles/10.3389/frai.2024.1382356/full)  
+   Link: <a href="https://www.frontiersin.org/articles/10.3389/frai.2024.1382356/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/articles/10.3389/frai.2024.1382356/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersFrontiers | Artificial intelligence challenges in the face of biological threats: emerging catastrophic risks for public healthM...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: papers.cool  
-   Link: [https://papers.cool/arxiv/2508.13700](https://papers.cool/arxiv/2508.13700)  
+   Link: <a href="https://papers.cool/arxiv/2508.13700" target="_blank" rel="noopener noreferrer nofollow">https://papers.cool/arxiv/2508.13700</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Immersive Paper DiscoveryAugust 19, 2025 — 2508.13700 Total: 1 #1 THE AI RISK SPECTRUM: FROM DANGEROUS CAPABILITIES TO EXISTENTIAL THREAT...</p></details>
    Published: August 19, 2025  
 
 14. <a id="endnote-14"></a>
    Source: journals.ub.uni-koeln.de  
-   Link: [https://journals.ub.uni-koeln.de/index.php/phai/article/view/2801](https://journals.ub.uni-koeln.de/index.php/phai/article/view/2801)  
+   Link: <a href="https://journals.ub.uni-koeln.de/index.php/phai/article/view/2801" target="_blank" rel="noopener noreferrer nofollow">https://journals.ub.uni-koeln.de/index.php/phai/article/view/2801</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Survival Stories: a Taxonomic Analysis of AI Existential Risk | Philosophy of AIJune 20, 2025 — AI SURVIVAL STORIES: A TAXONOMIC ANALYSIS...</p></details>
    Published: June 20, 2025  
 
 15. <a id="endnote-15"></a>
    Source: ai-safety-atlas.com  
-   Link: [https://ai-safety-atlas.com/chapters/v1/risks/misuse-risks/](https://ai-safety-atlas.com/chapters/v1/risks/misuse-risks/)  
+   Link: <a href="https://ai-safety-atlas.com/chapters/v1/risks/misuse-risks/" target="_blank" rel="noopener noreferrer nofollow">https://ai-safety-atlas.com/chapters/v1/risks/misuse-risks/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Misuse Risks - Chapter 2 - AI Safety AtlasEven when systems nominally keep humans in control, combat conditions can make this control mor...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/abs/10.1080/23738871.2019.1701693](https://www.tandfonline.com/doi/abs/10.1080/23738871.2019.1701693)  
+   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/23738871.2019.1701693" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/23738871.2019.1701693</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>r 9, 2019 — 3,168 Views 34 CrossRef citations to date 0 Altmetric Articles THE AI-CYBER NEXUS: IMPLICATIONS FOR MILITARY ESCALATION, DETE...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: cris.technion.ac.il  
-   Link: [https://cris.technion.ac.il/en/publications/understanding-the-theoretical-limits-of-ai-enabled-pathogen-desig](https://cris.technion.ac.il/en/publications/understanding-the-theoretical-limits-of-ai-enabled-pathogen-desig)  
+   Link: <a href="https://cris.technion.ac.il/en/publications/understanding-the-theoretical-limits-of-ai-enabled-pathogen-desig" target="_blank" rel="noopener noreferrer nofollow">https://cris.technion.ac.il/en/publications/understanding-the-theoretical-limits-of-ai-enabled-pathogen-desig</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the Theoretical Limits of AI-Enabled Pathogen Design: Insights from a Delphi Study - Technion - Israel Institute of TechnologyUNDERSTANDI...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: abdn.elsevierpure.com  
    Title: the ai cyber nexus implications for military escalation deterrenc  
-   Link: [https://abdn.elsevierpure.com/en/publications/the-ai-cyber-nexus-implications-for-military-escalation-deterrenc](https://abdn.elsevierpure.com/en/publications/the-ai-cyber-nexus-implications-for-military-escalation-deterrenc)  
+   Link: <a href="https://abdn.elsevierpure.com/en/publications/the-ai-cyber-nexus-implications-for-military-escalation-deterrenc" target="_blank" rel="noopener noreferrer nofollow">https://abdn.elsevierpure.com/en/publications/the-ai-cyber-nexus-implications-for-military-escalation-deterrenc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-cyber nexus: implications for military escalation, deterrence, &amp; strategic stability - The University of Aberdeen Research PortalDecem...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: globalsecurity.org  
-   Link: [https://www.globalsecurity.org/military/systems/ai-risks.htm](https://www.globalsecurity.org/military/systems/ai-risks.htm)  
+   Link: <a href="https://www.globalsecurity.org/military/systems/ai-risks.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.globalsecurity.org/military/systems/ai-risks.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ters strategic stability by compressing decision timelines, potentially undermining nuclear de...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: forethought.org  
    Title: The biggest risks come from the le  
-   Link: [https://www.forethought.org/research/ai-enabled-coups-how-a-small-group-could-use-ai-to-seize-power](https://www.forethought.org/research/ai-enabled-coups-how-a-small-group-could-use-ai-to-seize-power)  
+   Link: <a href="https://www.forethought.org/research/ai-enabled-coups-how-a-small-group-could-use-ai-to-seize-power" target="_blank" rel="noopener noreferrer nofollow">https://www.forethought.org/research/ai-enabled-coups-how-a-small-group-could-use-ai-to-seize-power</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-Enabled Coups: How a Small Group Could Use AI to Seize PowerApril 15, 2025 — 1 INTRODUCTION This report assesses the risk that a small...</p></details>
    Published: April 15, 2025  
 
 21. <a id="endnote-21"></a>
    Source: longtermrisk.org  
    Title: Discussions of the existential r  
-   Link: [https://longtermrisk.org/overview-of-transformative-ai-misuse-risks-what-could-go-wrong-beyond-misalignment/](https://longtermrisk.org/overview-of-transformative-ai-misuse-risks-what-could-go-wrong-beyond-misalignment/)  
+   Link: <a href="https://longtermrisk.org/overview-of-transformative-ai-misuse-risks-what-could-go-wrong-beyond-misalignment/" target="_blank" rel="noopener noreferrer nofollow">https://longtermrisk.org/overview-of-transformative-ai-misuse-risks-what-could-go-wrong-beyond-misalignment/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Overview of Transformative AI Misuse Risks: What Could Go Wrong Beyond Misalignment – Center on Long-Term RiskDecember 9, 2024 — OVERVIEW...</p></details>
    Published: December 9, 2024  
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=jAQKdpwXFzs](https://www.youtube.com/watch?v=jAQKdpwXFzs)  
+   Link: <a href="https://www.youtube.com/watch?v=jAQKdpwXFzs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jAQKdpwXFzs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2 AI Gets Military Secrets - What Could Go Wrong? | Warning Shots #40...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=kgHwrOhwe04](https://www.youtube.com/watch?v=kgHwrOhwe04)  
+   Link: <a href="https://www.youtube.com/watch?v=kgHwrOhwe04" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kgHwrOhwe04</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Existential risk: Is artificial intelligence a threat that will end humanity...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: safer-ai.org  
    Title: a short overview of ai related biorisks  
-   Link: [https://www.safer-ai.org/a-short-overview-of-ai-related-biorisks](https://www.safer-ai.org/a-short-overview-of-ai-related-biorisks)  
+   Link: <a href="https://www.safer-ai.org/a-short-overview-of-ai-related-biorisks" target="_blank" rel="noopener noreferrer nofollow">https://www.safer-ai.org/a-short-overview-of-ai-related-biorisks</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A short overview of AI-related biorisks – SaferAIApril 21, 2024 — Image A SHORT OVERVIEW OF AI-RELATED BIORISKS PUBLICATION DATE April 21...</p></details>
    Published: April 21, 2024  
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: How the Mythos AI Breached Military-Grade Defenses in 18 Seconds  
-   Link: [https://www.youtube.com/watch?v=gjpxQeN4iM8](https://www.youtube.com/watch?v=gjpxQeN4iM8)  
+   Link: <a href="https://www.youtube.com/watch?v=gjpxQeN4iM8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gjpxQeN4iM8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Studies reveal risks of relying on AI systems for military combat | Generation AI...</p></details>

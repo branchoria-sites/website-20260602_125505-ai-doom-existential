@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_ai_scaffoldin_dac3b3
 - AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_operational_c_79f69a
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - evals
 - cyber-tripwires
 - tripwire-comparison
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - evals
 - cyber-tripwires
 - tripwire-comparison
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: This page compares different deployment thresholds, from early detection of expert-level AI skills to signs of nation-level cyber threat potential.
 hero_summary: This page compares different deployment thresholds, from early detection of expert-level AI skills to signs of nation-level cyber threat potential.
 layout: default
 permalink: /tripwire-comparison/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /evals/
 - /cyber-tripwires/
 nav_short_title: Tripwire Comparison
@@ -211,10 +211,10 @@ parent_heading_title: When should cyber evals stop a release?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_frontier_ai_e_9920ab
-  title: Evals | AI Doom and
+  title: Evals | AI Doom and E 87399 b
   permalink: /evals/
   short_title: Evals
   heading_title: Can Tests Catch Dangerous AI in Time?
@@ -226,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_frontier_ai_e_9920ab
-  title: Evals | AI Doom and
+  title: Evals | AI Doom and E 87399 b
   permalink: /evals/
   short_title: Evals
   heading_title: Can Tests Catch Dangerous AI in Time?
@@ -269,7 +269,7 @@ image: /assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b
 
 ## Introduction
 
-In debates about *AI doom* and existential risk from advanced AI systems, technologists and policymakers increasingly talk about “tripwires”: pre‑defined, capability‑based thresholds that trigger specific risk management actions before [deployment]({{ 'release-gates/' | relative_url }}). One core debate within this terrain is the trade‑off between **early‑warning tripwires** — signals of emerging risky capabilities — and **[catastrophic]({{ 'misuse/' | relative_url }})‑risk tripwires** — thresholds tied to the potential for truly large‑scale harm. Understanding the difference sheds light on how we might detect and manage dangerous AI capabilities in time, without either overreacting to innocuous advances or underestimating the onset of truly catastrophic risks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://carnegieendowment.org/research/2024/12/a-sketch-of-potential-tripwire-capabilities-for-ai?lang=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carnegieendowment.org">[Carnegie Endowment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carnegieendowment.org</span><span class="citation-popover-snippet">Carnegie EndowmentA Sketch of Potential Tripwire Capabilities for AI | Carnegie Endowment for International PeaceDecember 10, 2024...</span><span class="citation-popover-meta">Published: December 10, 2024</span></span></span>
+In debates about *AI doom* and existential risk from advanced AI systems, technologists and policymakers increasingly talk about “tripwires”: pre‑defined, capability‑based thresholds that trigger specific risk management actions before deployment. One core debate within this terrain is the trade‑off between **early‑warning tripwires** — signals of emerging risky capabilities — and **[catastrophic]({{ 'misuse/' | relative_url }})‑risk tripwires** — thresholds tied to the potential for truly large‑scale harm. Understanding the difference sheds light on how we might detect and manage dangerous AI capabilities in time, without either overreacting to innocuous advances or underestimating the onset of truly catastrophic risks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://carnegieendowment.org/research/2024/12/a-sketch-of-potential-tripwire-capabilities-for-ai?lang=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carnegieendowment.org">[Carnegie Endowment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carnegieendowment.org</span><span class="citation-popover-snippet">Carnegie EndowmentA Sketch of Potential Tripwire Capabilities for AI &#124; Carnegie Endowment for International PeaceDecember 10, 2024...</span><span class="citation-popover-meta">Published: December 10, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_cyber_tripwir_00207f-Illustration-1-dark.svg" | relative_url }}" alt="Tripwire Comparison illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_cyber_tripwir_00207f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_cyber_tripwir_00207f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -278,7 +278,7 @@ In debates about *AI doom* and existential risk from advanced AI systems, techno
 Early‑warning tripwires are designed to notice *proximal indicators* of capability growth that could eventually lead to serious [misuse]({{ 'misuse/' | relative_url }}) or [loss of control]({{ 'loss-of-control/' | relative_url }}), but which are themselves not yet catastrophic. They serve three practical purposes:
 
 * **Advance notice:** By flagging capabilities that are causally connected to more dangerous skills, early‑warning tripwires give developers and regulators time to assess, share information, and prepare mitigations before risk escalates further. This can include *precursory capabilities* that are necessary stepping stones for harmful actions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apolloresearch.ai/research/precursory-capabilities-a-refinement-to-pre-deployment-information-sharing-and-tripwire-capabilities" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apolloresearch.ai">[Apollo Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apolloresearch.ai</span><span class="citation-popover-snippet">Apollo ResearchPrecursory Capabilities: A Refinement to Pre-deployment Information Sharing and Tripwire Capabilities – Apollo ResearchJun...</span></span></span>
-* **Granularity and continuous monitoring:** Rather than a single cliff edge where “danger begins,” early warnings allow risk governance to be graduated — spotting when models begin to learn skills that *could* cascade into high‑impact harms if combined or refined.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.repec.org/p/arx/papers/2412.15433.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[IDEAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.repec.org/p/arx/papers/2412.15433.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[RePEc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* **Granularity and continuous [monitoring]({{ 'monitoring/' | relative_url }}):** Rather than a single cliff edge where “danger begins,” early warnings allow risk [governance]({{ 'governance/' | relative_url }}) to be graduated — spotting when models begin to learn skills that *could* cascade into high‑impact harms if combined or refined.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.repec.org/p/arx/papers/2412.15433.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[IDEAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.repec.org/p/arx/papers/2412.15433.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[RePEc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 * **Operationalisation:** Early‑warning thresholds help align technical evaluations with governance decisions — for instance, signalling when to expand testing, red‑team more intensively, or convene expert review panels. They support decision‑makers to adapt rather than wait until full‑blown danger is obvious.
 
 The logic behind early‑warning tripwires is similar to early warning systems in other domains (e.g. public health surveillance): catching incremental trends before they coalesce into crises, thereby *giving space for response*. In the AI governance context, this means watching for performance in security assessments, multi‑step reasoning tasks, or other proxy measures that historically precede broader misuse capabilities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.repec.org/p/arx/papers/2412.15433.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[IDEAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.repec.org/p/arx/papers/2412.15433.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[RePEc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -290,9 +290,9 @@ The logic behind early‑warning tripwires is similar to early warning systems i
 
 Catastrophic‑risk tripwires operate at the other end of the spectrum. Instead of signalling *potential* future harm, they are aimed at detecting when an AI system’s capabilities are directly associated with risks that could, if realised, lead to *severe, widespread, or irreversible harm*. These tripwires are closely tied to debates over AI doom because by definition they aim to catch risk where it truly matters:
 
-* **Risk of existential or mass‑scale harms:** Tripwires in this category are linked to capabilities that appear to make feasible outcomes like systemic cyber disruption, autonomous weaponisation, or cascading failures of safety systems. These aren’t just preliminary skills but direct enablers of broad devastation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://carnegieendowment.org/research/2024/12/a-sketch-of-potential-tripwire-capabilities-for-ai?lang=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carnegieendowment.org">[Carnegie Endowment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carnegieendowment.org</span><span class="citation-popover-snippet">Carnegie EndowmentA Sketch of Potential Tripwire Capabilities for AI | Carnegie Endowment for International PeaceDecember 10, 2024...</span><span class="citation-popover-meta">Published: December 10, 2024</span></span></span>
-* **Commitments to mitigate or pause:** Many proposals for catastrophic‑risk tripwires come in the form of *if‑then commitments*: “if model has capability X, then we must implement mitigation Y *before* deployment or even delay release entirely.” These tie risk detection to concrete mitigation obligations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://carnegieendowment.org/research/2024/12/a-sketch-of-potential-tripwire-capabilities-for-ai?lang=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carnegieendowment.org">[Carnegie Endowment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carnegieendowment.org</span><span class="citation-popover-snippet">Carnegie EndowmentA Sketch of Potential Tripwire Capabilities for AI | Carnegie Endowment for International PeaceDecember 10, 2024...</span><span class="citation-popover-meta">Published: December 10, 2024</span></span></span>
-* **High bar for action:** Because actions triggered by catastrophic‑risk tripwires often involve costly mitigation efforts or stoppages to development, the thresholds tend to be grounded in *plausible threat models* and include judgements about whether easy countermeasures exist or whether harms would remain significant even with interventions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://carnegieendowment.org/research/2024/12/a-sketch-of-potential-tripwire-capabilities-for-ai?lang=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carnegieendowment.org">[Carnegie Endowment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carnegieendowment.org</span><span class="citation-popover-snippet">Carnegie EndowmentA Sketch of Potential Tripwire Capabilities for AI | Carnegie Endowment for International PeaceDecember 10, 2024...</span><span class="citation-popover-meta">Published: December 10, 2024</span></span></span>
+* **Risk of existential or mass‑scale harms:** Tripwires in this category are linked to capabilities that appear to make feasible outcomes like systemic cyber disruption, autonomous weaponisation, or cascading failures of safety systems. These aren’t just preliminary skills but direct enablers of broad devastation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://carnegieendowment.org/research/2024/12/a-sketch-of-potential-tripwire-capabilities-for-ai?lang=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carnegieendowment.org">[Carnegie Endowment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carnegieendowment.org</span><span class="citation-popover-snippet">Carnegie EndowmentA Sketch of Potential Tripwire Capabilities for AI &#124; Carnegie Endowment for International PeaceDecember 10, 2024...</span><span class="citation-popover-meta">Published: December 10, 2024</span></span></span>
+* **Commitments to mitigate or pause:** Many proposals for catastrophic‑risk tripwires come in the form of *if‑then commitments*: “if model has capability X, then we must implement mitigation Y *before* deployment or even delay release entirely.” These tie risk detection to concrete mitigation obligations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://carnegieendowment.org/research/2024/12/a-sketch-of-potential-tripwire-capabilities-for-ai?lang=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carnegieendowment.org">[Carnegie Endowment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carnegieendowment.org</span><span class="citation-popover-snippet">Carnegie EndowmentA Sketch of Potential Tripwire Capabilities for AI &#124; Carnegie Endowment for International PeaceDecember 10, 2024...</span><span class="citation-popover-meta">Published: December 10, 2024</span></span></span>
+* **High bar for action:** Because actions triggered by catastrophic‑risk tripwires often involve costly mitigation efforts or stoppages to development, the thresholds tend to be grounded in *plausible threat models* and include judgements about whether easy countermeasures exist or whether harms would remain significant even with interventions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://carnegieendowment.org/research/2024/12/a-sketch-of-potential-tripwire-capabilities-for-ai?lang=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carnegieendowment.org">[Carnegie Endowment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carnegieendowment.org</span><span class="citation-popover-snippet">Carnegie EndowmentA Sketch of Potential Tripwire Capabilities for AI &#124; Carnegie Endowment for International PeaceDecember 10, 2024...</span><span class="citation-popover-meta">Published: December 10, 2024</span></span></span>
 
 These tripwires align more directly with concerns at the heart of AI doom discussions: not just any harm, but harms that could reshape society or endanger humanity’s future in a way that is difficult or impossible to reverse.
 
@@ -311,7 +311,7 @@ Early‑warning and catastrophic‑risk tripwires are complementary in theory bu
 Current frontier AI risk frameworks — both corporate safety frameworks and emerging public policy proposals — reflect these tensions:
 
 * **Capability thresholds:** Many frameworks define layers of capability thresholds that work in sequence: early‑warning indicators (e.g. proficiency in diagnostic tasks, multi‑modal reasoning skills) are used to decide when to intensify evaluation or mitigation efforts, while catastrophic tripwires (e.g. autonomous cyber operations, large‑scale misinformation generation) would trigger stronger controls, suspension of deployment, or legally binding safeguards.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">Frontier Model Forum Risk Taxonomy and Thresholds for Frontier AI Frameworks</span><span class="citation-popover-snippet">Frontier Model ForumRisk Taxonomy and Thresholds for Frontier AI Frameworks - Frontier Model ForumJune 18, 2025...</span><span class="citation-popover-meta">Published: June 18, 2025</span></span></span>
-* **Measurement challenges:** A significant strain in the literature concerns how to *measure* both early‑warning indicators and catastrophic thresholds in a way that is reliable, comparable, and operationally useful. Safety frameworks often struggle with validity and reliability of metrics, partly because abstract capability measures do not always map cleanly to real‑world misuse potential.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techpolicy.press/measurement-challenges-in-ai-catastrophic-risk-governance-and-safety-frameworks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Tech Policy Press">[Tech Policy Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Tech Policy Press</span><span class="citation-popover-snippet">Measurement Challenges in AI Catastrophic Risk Governance and Safety Frameworks | TechPolicy.PressSeptember 30, 2024...</span><span class="citation-popover-meta">Published: September 30, 2024</span></span></span>
+* **Measurement challenges:** A significant strain in the literature concerns how to *measure* both early‑warning indicators and catastrophic thresholds in a way that is reliable, comparable, and operationally useful. Safety frameworks often struggle with validity and reliability of metrics, partly because abstract capability measures do not always map cleanly to real‑world misuse potential.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techpolicy.press/measurement-challenges-in-ai-catastrophic-risk-governance-and-safety-frameworks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Tech Policy Press">[Tech Policy Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Tech Policy Press</span><span class="citation-popover-snippet">Measurement Challenges in AI Catastrophic Risk Governance and Safety Frameworks &#124; TechPolicy.PressSeptember 30, 2024...</span><span class="citation-popover-meta">Published: September 30, 2024</span></span></span>
 * **Political and institutional gaps:** Without harmonised international standards, developers may adopt differing tripwires that reflect their own risk tolerances, potentially creating gaps in coverage or differing interpretations of what constitutes catastrophic risk. This governance uncertainty increases friction between early detection and decisive action.[CLTC]
 
 
@@ -338,10 +338,10 @@ Practical proposals often marry both: using early‑warning tripwires as *leadin
 Despite growing attention to tripwires in frontier AI governance, several uncertainties persist:
 
 * **Defining risk in measurable terms:** There is no universally accepted way to quantify when a capability indicates approaching catastrophic risk, especially as AI systems become more general and adaptive.
-* **Evaluations’ limits:** Recent technical analyses caution that evaluations can establish *lower bounds* on capabilities but struggle to provide reliable [upper bounds]({{ 'upper-bound-limits/' | relative_url }}) or forecasts of emergent behaviour, limiting confidence in any threshold‑based approach.<span class="citation-chip-wrap"><a class="citation-chip" href="https://techgov.intelligence.org/research/what-ai-evaluations-for-preventing-catastrophic-risks-can-and-cannot-do" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techgov.intelligence.org">[TechGov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techgov.intelligence.org</span><span class="citation-popover-snippet">TechGovWhat AI evaluations for preventing catastrophic risks can and cannot do — MIRI Technical Governance TeamDecember 2, 2024...</span><span class="citation-popover-meta">Published: December 2, 2024</span></span></span>
+* **[Evaluations]({{ 'evaluations/' | relative_url }})’ limits:** Recent technical analyses caution that evaluations can establish *lower bounds* on capabilities but struggle to provide reliable upper bounds or forecasts of emergent behaviour, limiting confidence in any threshold‑based approach.<span class="citation-chip-wrap"><a class="citation-chip" href="https://techgov.intelligence.org/research/what-ai-evaluations-for-preventing-catastrophic-risks-can-and-cannot-do" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techgov.intelligence.org">[TechGov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techgov.intelligence.org</span><span class="citation-popover-snippet">What AI evaluations for preventing catastrophic risks can and cannot do — MIRI Technical Governance TeamDecember 2, 2024...</span><span class="citation-popover-meta">Published: December 2, 2024</span></span></span>
 * **Governance implementation:** Translating academic and corporate thresholds into enforceable public policy is hard, especially across jurisdictions with varying priorities and legal frameworks.
 
-In debates about AI doom and existential risk, the tension between early‑warning and catastrophic thresholds is less about picking one over the other and more about designing systems where they interact sensibly: early warnings siphon signals into governance processes, and well justified catastrophic tripwires ensure actions are taken before harms reach irreversible scales.<span class="citation-chip-wrap"><a class="citation-chip" href="https://carnegieendowment.org/research/2024/12/a-sketch-of-potential-tripwire-capabilities-for-ai?lang=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carnegieendowment.org">[Carnegie Endowment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carnegieendowment.org</span><span class="citation-popover-snippet">Carnegie EndowmentA Sketch of Potential Tripwire Capabilities for AI | Carnegie Endowment for International PeaceDecember 10, 2024...</span><span class="citation-popover-meta">Published: December 10, 2024</span></span></span>
+In debates about AI doom and existential risk, the tension between early‑warning and catastrophic thresholds is less about picking one over the other and more about designing systems where they interact sensibly: early warnings siphon signals into governance processes, and well justified catastrophic tripwires ensure actions are taken before harms reach irreversible scales.<span class="citation-chip-wrap"><a class="citation-chip" href="https://carnegieendowment.org/research/2024/12/a-sketch-of-potential-tripwire-capabilities-for-ai?lang=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carnegieendowment.org">[Carnegie Endowment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carnegieendowment.org</span><span class="citation-popover-snippet">Carnegie EndowmentA Sketch of Potential Tripwire Capabilities for AI &#124; Carnegie Endowment for International PeaceDecember 10, 2024...</span><span class="citation-popover-meta">Published: December 10, 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/05l4veEAr5c" title="The Turing Lectures: Frontier AI Under Pressure — Building Resilience (Highlights)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=05l4veEAr5c" target="_blank" rel="noopener noreferrer">The Turing Lectures: Frontier AI Under Pressure — Building Resilience (Highlights)</a></p><p class="youtube-embed-meta">Channel: The Alan Turing Institute &middot; Views: 417 &middot; Uploaded: May 2026 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=05l4veEAr5c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=05l4veEAr5c">Open on YouTube</a></p></div></div></div>
@@ -768,54 +768,54 @@ In debates about AI doom and existential risk, the tension between early‑warni
 
 1. <a id="endnote-1"></a>
    Source: ideas.repec.org  
-   Link: [https://ideas.repec.org/p/arx/papers/2412.15433.html](https://ideas.repec.org/p/arx/papers/2412.15433.html)  
+   Link: <a href="https://ideas.repec.org/p/arx/papers/2412.15433.html" target="_blank" rel="noopener noreferrer nofollow">https://ideas.repec.org/p/arx/papers/2412.15433.html</a>  
 
 2. <a id="endnote-2"></a>
    Source: governance.ai  
    Title: But what level of risk is acceptable? One increasingly popu  
-   Link: [https://www.governance.ai/research-paper/risk-thresholds-for-frontier-ai](https://www.governance.ai/research-paper/risk-thresholds-for-frontier-ai)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Risk Thresholds for Frontier AI | GovAIJune 20, 2024 — RISK THRESHOLDS FOR FRONTIER AI Frontier [artificial](&amp;#123;&amp;#123; &#x27;artificial-goals/&#x27; | relative_url &amp;#125;&amp;#125;) intelligence (AI) systems coul...</p></details>
+   Link: <a href="https://www.governance.ai/research-paper/risk-thresholds-for-frontier-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.governance.ai/research-paper/risk-thresholds-for-frontier-ai</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Risk Thresholds for Frontier AI | GovAIJune 20, 2024 — RISK THRESHOLDS FOR FRONTIER AI Frontier artificial intelligence (AI) systems coul...</p></details>
    Published: June 20, 2024  
 
 3. <a id="endnote-3"></a>
    Source: carnegieendowment.org  
-   Link: [https://carnegieendowment.org/research/2024/12/a-sketch-of-potential-tripwire-capabilities-for-ai?lang=en](https://carnegieendowment.org/research/2024/12/a-sketch-of-potential-tripwire-capabilities-for-ai?lang=en)  
+   Link: <a href="https://carnegieendowment.org/research/2024/12/a-sketch-of-potential-tripwire-capabilities-for-ai?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://carnegieendowment.org/research/2024/12/a-sketch-of-potential-tripwire-capabilities-for-ai?lang=en</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Carnegie EndowmentA Sketch of Potential Tripwire Capabilities for AI | Carnegie Endowment for International PeaceDecember 10, 2024...</p></details>
    Published: December 10, 2024  
 
 4. <a id="endnote-4"></a>
    Source: apolloresearch.ai  
-   Link: [https://www.apolloresearch.ai/research/precursory-capabilities-a-refinement-to-pre-deployment-information-sharing-and-tripwire-capabilities](https://www.apolloresearch.ai/research/precursory-capabilities-a-refinement-to-pre-deployment-information-sharing-and-tripwire-capabilities)  
+   Link: <a href="https://www.apolloresearch.ai/research/precursory-capabilities-a-refinement-to-pre-deployment-information-sharing-and-tripwire-capabilities" target="_blank" rel="noopener noreferrer nofollow">https://www.apolloresearch.ai/research/precursory-capabilities-a-refinement-to-pre-deployment-information-sharing-and-tripwire-capabilities</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apollo ResearchPrecursory Capabilities: A Refinement to Pre-deployment Information Sharing and Tripwire Capabilities – Apollo ResearchJun...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: frontiermodelforum.org  
    Title: Frontier Model Forum Risk Taxonomy and Thresholds for Frontier AI Frameworks  
-   Link: [https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/](https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/)  
+   Link: <a href="https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Model ForumRisk Taxonomy and Thresholds for Frontier AI Frameworks - Frontier Model ForumJune 18, 2025...</p></details>
    Published: June 18, 2025  
 
 6. <a id="endnote-6"></a>
    Source: Tech Policy Press  
-   Link: [https://www.techpolicy.press/measurement-challenges-in-ai-catastrophic-risk-governance-and-safety-frameworks](https://www.techpolicy.press/measurement-challenges-in-ai-catastrophic-risk-governance-and-safety-frameworks)  
+   Link: <a href="https://www.techpolicy.press/measurement-challenges-in-ai-catastrophic-risk-governance-and-safety-frameworks" target="_blank" rel="noopener noreferrer nofollow">https://www.techpolicy.press/measurement-challenges-in-ai-catastrophic-risk-governance-and-safety-frameworks</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Measurement Challenges in AI Catastrophic Risk Governance and Safety Frameworks | TechPolicy.PressSeptember 30, 2024...</p></details>
    Published: September 30, 2024  
 
 7. <a id="endnote-7"></a>
    Source: techgov.intelligence.org  
-   Link: [https://techgov.intelligence.org/research/what-ai-evaluations-for-preventing-catastrophic-risks-can-and-cannot-do](https://techgov.intelligence.org/research/what-ai-evaluations-for-preventing-catastrophic-risks-can-and-cannot-do)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TechGovWhat [AI evaluations](&amp;#123;&amp;#123; &#x27;ai-evaluations/&#x27; | relative_url &amp;#125;&amp;#125;) for preventing catastrophic risks can and cannot do — MIRI Technical Governance TeamDecember 2, 2024...</p></details>
+   Link: <a href="https://techgov.intelligence.org/research/what-ai-evaluations-for-preventing-catastrophic-risks-can-and-cannot-do" target="_blank" rel="noopener noreferrer nofollow">https://techgov.intelligence.org/research/what-ai-evaluations-for-preventing-catastrophic-risks-can-and-cannot-do</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What [AI evaluations](&amp;#123;&amp;#123; &#x27;ai-evaluations/&#x27; | relative_url &amp;#125;&amp;#125;) for preventing catastrophic risks can and cannot do — MIRI Technical Governance TeamDecember 2, 2024...</p></details>
    Published: December 2, 2024  
 
 8. <a id="endnote-8"></a>
    Source: carnegieendowment.org  
-   Link: [https://carnegieendowment.org/research/2024/12/a-sketch-of-potential-tripwire-capabilities-for-ai](https://carnegieendowment.org/research/2024/12/a-sketch-of-potential-tripwire-capabilities-for-ai)  
+   Link: <a href="https://carnegieendowment.org/research/2024/12/a-sketch-of-potential-tripwire-capabilities-for-ai" target="_blank" rel="noopener noreferrer nofollow">https://carnegieendowment.org/research/2024/12/a-sketch-of-potential-tripwire-capabilities-for-ai</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Sketch of Potential Tripwire Capabilities for AI | Carnegie Endowment for International PeaceDecember 10, 2024 — Paper A SKETCH OF POTE...</p></details>
    Published: December 10, 2024  
 
 9. <a id="endnote-9"></a>
    Source: carnegieendowment.org  
-   Link: [https://carnegieendowment.org/china/research/2024/09/if-then-commitments-for-ai-risk-reduction](https://carnegieendowment.org/china/research/2024/09/if-then-commitments-for-ai-risk-reduction)  
+   Link: <a href="https://carnegieendowment.org/china/research/2024/09/if-then-commitments-for-ai-risk-reduction" target="_blank" rel="noopener noreferrer nofollow">https://carnegieendowment.org/china/research/2024/09/if-then-commitments-for-ai-risk-reduction</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 13, 2024 — THE EXAMPLE IF-THEN COMMITMENT In an attempt to contain the risk of widely proliferating expertise in weapons of mas...</p></details>
    Published: September 13, 2024  
 
@@ -823,57 +823,57 @@ In debates about AI doom and existential risk, the tension between early‑warni
 
 10. <a id="endnote-10"></a>
    Source: iaps.ai  
-   Link: [https://www.iaps.ai/research/deployment-corrections](https://www.iaps.ai/research/deployment-corrections)  
+   Link: <a href="https://www.iaps.ai/research/deployment-corrections" target="_blank" rel="noopener noreferrer nofollow">https://www.iaps.ai/research/deployment-corrections</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Deployment Corrections: An Incident Response Framework for Frontier AI Models — Institute for AI Policy and StrategyDEPLOYMENT CORRECTION...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: themoonlight.io  
-   Link: [https://www.themoonlight.io/review/measurement-challenges-in-ai-catastrophic-risk-governance-and-safety-frameworks](https://www.themoonlight.io/review/measurement-challenges-in-ai-catastrophic-risk-governance-and-safety-frameworks)  
+   Link: <a href="https://www.themoonlight.io/review/measurement-challenges-in-ai-catastrophic-risk-governance-and-safety-frameworks" target="_blank" rel="noopener noreferrer nofollow">https://www.themoonlight.io/review/measurement-challenges-in-ai-catastrophic-risk-governance-and-safety-frameworks</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>October 1, 2024 — [LITERATURE REVIEW] MEASUREMENT CHALLENGES IN AI CATASTROPHIC RISK GOVERNANCE AND SAFETY FRAMEWORKS Open PDF directly 2...</p></details>
    Published: October 1, 2024  
 
 12. <a id="endnote-12"></a>
    Source: aigouvernance.com  
-   Link: [https://aigouvernance.com/safety-frameworks-and-standards-a-comparative-analysis-to-advance-risk-management-of-frontier-ai-2025/](https://aigouvernance.com/safety-frameworks-and-standards-a-comparative-analysis-to-advance-risk-management-of-frontier-ai-2025/)  
+   Link: <a href="https://aigouvernance.com/safety-frameworks-and-standards-a-comparative-analysis-to-advance-risk-management-of-frontier-ai-2025/" target="_blank" rel="noopener noreferrer nofollow">https://aigouvernance.com/safety-frameworks-and-standards-a-comparative-analysis-to-advance-risk-management-of-frontier-ai-2025/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Safety Frameworks and Standards: A comparative analysis to advance risk management of frontier AI (2025) - AI Governance Library, Article...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: hyper.ai  
    Title: A I9 months ago Modeling Security Artificial Intelligence  
-   Link: [https://hyper.ai/en/papers/2507.16534](https://hyper.ai/en/papers/2507.16534)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HyperAI9 months ago ModelingSecurityArtificial Intelligence SummaryPaper Frontier AI Risk Management Framework in Practice: A Risk Analys...</p></details>
+   Link: <a href="https://hyper.ai/en/papers/2507.16534" target="_blank" rel="noopener noreferrer nofollow">https://hyper.ai/en/papers/2507.16534</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI9 months ago ModelingSecurityArtificial Intelligence SummaryPaper Frontier AI Risk Management Framework in Practice: A Risk Analys...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: cltc.berkeley.edu  
-   Link: [https://cltc.berkeley.edu/2024/11/18/cltc-submits-working-paper-for-ai-action-summit/](https://cltc.berkeley.edu/2024/11/18/cltc-submits-working-paper-for-ai-action-summit/)  
+   Link: <a href="https://cltc.berkeley.edu/2024/11/18/cltc-submits-working-paper-for-ai-action-summit/" target="_blank" rel="noopener noreferrer nofollow">https://cltc.berkeley.edu/2024/11/18/cltc-submits-working-paper-for-ai-action-summit/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CLTC UC Berkeley Center for Long-Term CybersecurityNovember 18, 2024...</p></details>
    Published: November 18, 2024  
 
 15. <a id="endnote-15"></a>
    Source: GOV.UK  
    Title: www.gov.uk Emerging processes for frontier AI safety  
-   Link: [https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety](https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety)  
+   Link: <a href="https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Specific technical terms are described within their relevant section. AI (Artificial Intelligence) or AI (Artificia...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s00146-019-00890-2](https://link.springer.com/article/10.1007/s00146-019-00890-2)  
+   Link: <a href="https://link.springer.com/article/10.1007/s00146-019-00890-2" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s00146-019-00890-2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>management standards and the active management of malicious intent in artificial superintelligence | AI &amp; SOCIETY | Springer Nature LinkA...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s00146-023-01811-0](https://link.springer.com/article/10.1007/s00146-023-01811-0)  
+   Link: <a href="https://link.springer.com/article/10.1007/s00146-023-01811-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s00146-023-01811-0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>lines of defense against risks from AI | AI &amp; SOCIETY | Springer Nature LinkNovember 27, 2023 — THREE LINES OF DEFENSE AGAINST RISKS FROM...</p></details>
    Published: November 27, 2023  
 
 18. <a id="endnote-18"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s43681-024-00475-w](https://link.springer.com/article/10.1007/s43681-024-00475-w)  
+   Link: <a href="https://link.springer.com/article/10.1007/s43681-024-00475-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s43681-024-00475-w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>approaches for reducing catastrophic risks from AI | AI and Ethics | Springer Nature LinkApril 8, 2024 — EVALUATING APPROACHES FOR REDUCI...</p></details>
    Published: April 8, 2024  
 
 19. <a id="endnote-19"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s44206-024-00095-1](https://link.springer.com/article/10.1007/s44206-024-00095-1)  
+   Link: <a href="https://link.springer.com/article/10.1007/s44206-024-00095-1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s44206-024-00095-1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Risk Assessment: A Scenario-Based, Proportional Methodology for the AI Act | Digital Society | Springer Nature LinkMarch 7, 2024 — AI RIS...</p></details>
    Published: March 7, 2024  

@@ -7,21 +7,21 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6_ai_enforcemen_308bdc
 - AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6_biotech_dual_d8e3eb
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - misuse
 - ai-misuse-governance
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - misuse
 - ai-misuse-governance
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: This page analyzes how civil AI regulations often exclude defense and cybersecurity applications, leaving high-risk systems unmonitored.
 hero_summary: This page analyzes how civil AI regulations often exclude defense and cybersecurity applications, leaving high-risk systems unmonitored.
 layout: default
 permalink: /cyber-defense/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /misuse/
 - /ai-misuse-governance/
 nav_short_title: Cyber & Defense
@@ -209,10 +209,10 @@ parent_heading_title: Why Policy Gaps Heighten Risks of AI Misuse
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_catastrophic_c92548
-  title: Misuse | AI Doom and
+  title: Misuse | AI Doom and E 87399 b
   permalink: /misuse/
   short_title: Misuse
   heading_title: How Could People Misuse Advanced AI?
@@ -224,10 +224,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_catastrophic_c92548
-  title: Misuse | AI Doom and
+  title: Misuse | AI Doom and E 87399 b
   permalink: /misuse/
   short_title: Misuse
   heading_title: How Could People Misuse Advanced AI?
@@ -267,7 +267,7 @@ image: /assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2
 
 ## Introduction
 
-One of the least discussed [governance]({{ 'governance/' | relative_url }}) gaps in the AI doom debate sits at the intersection of cybersecurity, military systems and national security law. While governments increasingly regulate civilian AI, many of the most powerful AI-enabled cyber capabilities fall partly or entirely outside those frameworks. Defence systems, intelligence programmes, cyber operations and dual-use security tools are often subject to separate rules, classified [oversight]({{ 'oversight-evasion/' | relative_url }}) or explicit legal exemptions. The result is a regulatory blind spot: some of the AI systems most relevant to strategic instability, autonomous cyber conflict and loss-of-control concerns receive less public scrutiny than consumer-facing applications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://verfassungsblog.de/the-ai-act-national-security-exception/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verfassungsblog.de">[Verfassungsblog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verfassungsblog.de</span><span class="citation-popover-title">the ai act national security exception</span><span class="citation-popover-snippet">VerfassungsblogThe AI Act National Security Exceptionby P Vogiatzoglou · 2024 · Cited by 4 — AI systems are not subject to the AI Act whe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cetas.turing.ac.uk/publications/eu-ai-act-national-security-implications" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cetas.turing.ac.uk">[TechSec Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cetas.turing.ac.uk</span><span class="citation-popover-snippet">TechSec CenterThe EU AI Act: National Security Implications31 Jul 2024 — This exclusion applies to both public and private entities devel...</span></span></span>
+One of the least discussed [governance]({{ 'governance/' | relative_url }}) gaps in the AI doom debate sits at the intersection of cybersecurity, military systems and national security law. While governments increasingly regulate civilian AI, many of the most powerful AI-enabled cyber capabilities fall partly or entirely outside those frameworks. Defence systems, intelligence programmes, cyber operations and dual-use security tools are often subject to separate rules, classified oversight or explicit legal exemptions. The result is a regulatory blind spot: some of the AI systems most relevant to strategic instability, autonomous cyber conflict and loss-of-control concerns receive less public scrutiny than consumer-facing applications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://verfassungsblog.de/the-ai-act-national-security-exception/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verfassungsblog.de">[Verfassungsblog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verfassungsblog.de</span><span class="citation-popover-title">the ai act national security exception</span><span class="citation-popover-snippet">The AI Act National Security Exceptionby P Vogiatzoglou · 2024 · Cited by 4 — AI systems are not subject to the AI Act whe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cetas.turing.ac.uk/publications/eu-ai-act-national-security-implications" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cetas.turing.ac.uk">[TechSec Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cetas.turing.ac.uk</span><span class="citation-popover-snippet">TechSec CenterThe EU AI Act: National Security Implications31 Jul 2024 — This exclusion applies to both public and private entities devel...</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6_cyber_militar_b09dc5-Illustration-1-dark.svg" | relative_url }}" alt="Cyber &amp; Defense illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6_cyber_militar_b09dc5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6_cyber_militar_b09dc5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -277,11 +277,11 @@ For people worried about AI doom or broader existential risk, this matters becau
 
 A recurring pattern in AI governance is that the strongest regulations often apply to civilian systems, while national security and military uses receive exemptions.
 
-The European Union's AI Act is one of the clearest examples. AI systems used exclusively for military, defence or national security purposes are excluded from the regulation's scope. The rationale is that national security remains primarily the responsibility of member states rather than EU institutions. However, this creates an unusual situation in which some of the highest-stakes AI systems can sit outside the framework that governs many commercial applications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://verfassungsblog.de/the-ai-act-national-security-exception/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verfassungsblog.de">[Verfassungsblog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verfassungsblog.de</span><span class="citation-popover-title">the ai act national security exception</span><span class="citation-popover-snippet">VerfassungsblogThe AI Act National Security Exceptionby P Vogiatzoglou · 2024 · Cited by 4 — AI systems are not subject to the AI Act whe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cetas.turing.ac.uk/publications/eu-ai-act-national-security-implications" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cetas.turing.ac.uk">[TechSec Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cetas.turing.ac.uk</span><span class="citation-popover-snippet">TechSec CenterThe EU AI Act: National Security Implications31 Jul 2024 — This exclusion applies to both public and private entities devel...</span></span></span>
+The European Union's AI Act is one of the clearest examples. AI systems used exclusively for military, defence or national security purposes are excluded from the regulation's scope. The rationale is that national security remains primarily the responsibility of member states rather than EU institutions. However, this creates an unusual situation in which some of the highest-stakes AI systems can sit outside the framework that governs many commercial applications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://verfassungsblog.de/the-ai-act-national-security-exception/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verfassungsblog.de">[Verfassungsblog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verfassungsblog.de</span><span class="citation-popover-title">the ai act national security exception</span><span class="citation-popover-snippet">The AI Act National Security Exceptionby P Vogiatzoglou · 2024 · Cited by 4 — AI systems are not subject to the AI Act whe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cetas.turing.ac.uk/publications/eu-ai-act-national-security-implications" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cetas.turing.ac.uk">[TechSec Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cetas.turing.ac.uk</span><span class="citation-popover-snippet">TechSec CenterThe EU AI Act: National Security Implications31 Jul 2024 — This exclusion applies to both public and private entities devel...</span></span></span>
 
-Critics do not generally argue that military systems should be regulated exactly like consumer software. The concern is that exclusion creates accountability gaps. Advanced cyber-defence agents, military decision-support systems and offensive cyber tools may operate under classified procedures that are difficult for external regulators, researchers or the public to examine. Independent auditing becomes harder, and incidents may never become publicly visible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rsis.edu.sg/rsis-publication/idss/ip24054-military-ai-governance-moving-beyond-autonomous-weapon-systems/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rsis.edu.sg">[@RSIS_NTU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rsis.edu.sg</span><span class="citation-popover-title">ip24054 military ai governance moving beyond autonomous weapon systems</span><span class="citation-popover-snippet">@RSIS_NTUIP24054 | Military AI Governance: Moving Beyond...24 Jun 2024 — Governance of artificial intelligence in the military domain ha...</span></span></span>
+Critics do not generally argue that military systems should be regulated exactly like consumer software. The concern is that exclusion creates accountability gaps. Advanced cyber-defence agents, military decision-support systems and offensive cyber tools may operate under classified procedures that are difficult for external regulators, researchers or the public to examine. [Independent]({{ 'red-teaming/' | relative_url }}) auditing becomes harder, and incidents may never become publicly visible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rsis.edu.sg/rsis-publication/idss/ip24054-military-ai-governance-moving-beyond-autonomous-weapon-systems/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rsis.edu.sg">[@RSIS_NTU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rsis.edu.sg</span><span class="citation-popover-title">ip24054 military ai governance moving beyond autonomous weapon systems</span><span class="citation-popover-snippet">@RSIS_NTUIP24054 &#124; Military AI Governance: Moving Beyond...24 Jun 2024 — Governance of artificial intelligence in the military domain ha...</span></span></span>
 
-The practical picture is more complicated than a simple exemption. Many defence companies build systems that serve both military and civilian customers. European legal analysis has repeatedly noted that mixed-use systems can fall back within regulatory scope, particularly when military technologies migrate into civilian environments. Yet determining where military use ends and civilian use begins is often difficult in cybersecurity, where the same software may be used by armed forces, intelligence agencies, critical infrastructure operators and commercial security teams. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.modulos.ai/industries/defense/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: modulos.ai">[Modulos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">modulos.ai</span><span class="citation-popover-snippet">ModulosAI Governance for Defense &amp; EU AI Act | ModulosArticle 2(3) excludes AI systems placed on the market, put into service, or used ex...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lutzabel.com/en/article/it-related-legal-challenges-for-defense-companies-with-dual-use-products/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lutzabel.com">[3LUTZ | ABEL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lutzabel.com</span><span class="citation-popover-title">This article explains when the AI Act, CRA, and NIS2 apply despite military use</span><span class="citation-popover-snippet">LUTZ | ABELDual-Use &amp; Defense: The Underestimated Risks of the AI...Many defense companies overestimate the scope of regulatory exemptions...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Artificial_Intelligence_Act" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Artificial Intelligence Act]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Artificial Intelligence ActIn particular, the Regulation does not apply where AI systems are used exclusively for military, defence or...</span></span></span>
+The practical picture is more complicated than a simple exemption. Many defence companies build systems that serve both military and civilian customers. European legal analysis has repeatedly noted that mixed-use systems can fall back within regulatory scope, particularly when military technologies migrate into civilian environments. Yet determining where military use ends and civilian use begins is often difficult in cybersecurity, where the same software may be used by armed forces, intelligence agencies, critical infrastructure operators and commercial security teams. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.modulos.ai/industries/defense/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: modulos.ai">[Modulos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">modulos.ai</span><span class="citation-popover-snippet">AI Governance for Defense &amp; EU AI Act &#124; ModulosArticle 2(3) excludes AI systems placed on the market, put into service, or used ex...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lutzabel.com/en/article/it-related-legal-challenges-for-defense-companies-with-dual-use-products/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lutzabel.com">[3LUTZ &#124; ABEL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lutzabel.com</span><span class="citation-popover-title">This article explains when the AI Act, CRA, and NIS2 apply despite military use</span><span class="citation-popover-snippet">LUTZ &#124; ABELDual-Use &amp; Defense: The Underestimated Risks of the AI...Many defense companies overestimate the scope of regulatory exemptions...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Artificial_Intelligence_Act" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Artificial Intelligence Act]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Artificial Intelligence ActIn particular, the Regulation does not apply where AI systems are used exclusively for military, defence or...</span></span></span>
 
 For AI-risk analysts, this ambiguity matters because powerful cyber capabilities rarely remain confined to a single domain. Techniques developed for military resilience may eventually appear in civilian infrastructure. Conversely, commercial AI systems may later become embedded in national-security operations.
 
@@ -291,7 +291,7 @@ Cybersecurity is a classic dual-use field. A capability that helps defenders ide
 
 This creates a governance challenge that differs from traditional weapons regulation. Governments can regulate missiles, aircraft or explosives as distinct military technologies. AI-enabled cyber systems are often software models, data pipelines or autonomous agents that can perform both defensive and offensive functions depending on who operates them and under what instructions.
 
-Several NATO-related research programmes illustrate this dual-use problem. NATO researchers have spent years exploring Autonomous Intelligent Cyber Defence Agents (AICAs), software agents designed to detect, respond to and counter cyber attacks in contested military environments. The stated goal is defensive: protecting military networks and battlefield systems when human operators cannot respond quickly enough. Yet the same autonomy, adaptability and network access that make such systems useful for defence could also make them powerful instruments if repurposed for offensive activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1806.08657" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivTowards an Active, Autonomous and Intelligent Cyber Defense of Military Systems: the NATO AICA Reference ArchitectureJune 7, 2018...</span><span class="citation-popover-meta">Published: June 7, 2018</span></span></span>
+Several NATO-related research programmes illustrate this dual-use problem. NATO researchers have spent years exploring Autonomous Intelligent Cyber Defence Agents (AICAs), software agents designed to detect, respond to and counter cyber attacks in contested military environments. The stated goal is defensive: protecting military networks and battlefield systems when human operators cannot respond quickly enough. Yet the same [autonomy]({{ 'autonomy/' | relative_url }}), adaptability and network access that make such systems useful for defence could also make them powerful instruments if repurposed for offensive activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1806.08657" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Towards an Active, Autonomous and Intelligent Cyber Defense of Military Systems: the NATO AICA Reference ArchitectureJune 7, 2018...</span><span class="citation-popover-meta">Published: June 7, 2018</span></span></span>
 
 This does not mean NATO or similar organisations are secretly building uncontrolled cyber weapons. Rather, it highlights a broader governance problem. The technical distinction between offensive and defensive cyber AI is often weaker than the legal distinction. A vulnerability-discovery system, autonomous network agent or model capable of identifying attack paths may support both security testing and cyber operations.
 
@@ -342,11 +342,11 @@ Civilian regulators typically rely on transparency requirements, reporting oblig
 
 Neither approach is inherently wrong. Defence systems contain information that governments reasonably wish to protect. Yet secrecy creates a difficult trade-off.
 
-If a military AI system exhibits dangerous behaviour, external researchers may never learn enough to evaluate the risk. Independent verification becomes difficult. Academic scrutiny declines. Failures may be visible only to a small group of officials with limited technical [expertise]({{ 'expertise-erosion/' | relative_url }}) or competing institutional incentives.
+If a military AI system exhibits dangerous behaviour, external researchers may never learn enough to evaluate the risk. Independent verification becomes difficult. Academic scrutiny declines. Failures may be visible only to a small group of officials with limited technical expertise or competing institutional incentives.
 
-This issue extends beyond autonomous weapons. Analysts of military AI governance increasingly argue that public debate focuses heavily on lethal autonomous weapons while giving less attention to AI decision-support systems, intelligence analysis tools and cyber operations platforms. Yet these systems may become more widely deployed and more strategically consequential than fully autonomous weapons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rsis.edu.sg/rsis-publication/idss/ip24054-military-ai-governance-moving-beyond-autonomous-weapon-systems/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rsis.edu.sg">[@RSIS_NTU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rsis.edu.sg</span><span class="citation-popover-title">ip24054 military ai governance moving beyond autonomous weapon systems</span><span class="citation-popover-snippet">@RSIS_NTUIP24054 | Military AI Governance: Moving Beyond...24 Jun 2024 — Governance of artificial intelligence in the military domain ha...</span></span></span>
+This issue extends beyond autonomous weapons. Analysts of military AI governance increasingly argue that public debate focuses heavily on lethal autonomous weapons while giving less attention to AI decision-support systems, intelligence analysis tools and cyber operations platforms. Yet these systems may become more widely deployed and more strategically consequential than fully autonomous weapons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rsis.edu.sg/rsis-publication/idss/ip24054-military-ai-governance-moving-beyond-autonomous-weapon-systems/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rsis.edu.sg">[@RSIS_NTU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rsis.edu.sg</span><span class="citation-popover-title">ip24054 military ai governance moving beyond autonomous weapon systems</span><span class="citation-popover-snippet">@RSIS_NTUIP24054 &#124; Military AI Governance: Moving Beyond...24 Jun 2024 — Governance of artificial intelligence in the military domain ha...</span></span></span>
 
-For existential-risk discussions, this creates an information problem. If warning signs of dangerous autonomy or loss of human control emerge first inside classified cyber or defence systems, the wider research community may receive little advance notice.
+For existential-risk discussions, this creates an information problem. If [warning signs]({{ 'warning-signs/' | relative_url }}) of dangerous autonomy or loss of human control emerge first inside classified cyber or defence systems, the wider research community may receive little advance notice.
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6_cyber_militar_b09dc5-Illustration-2-dark.svg" | relative_url }}" alt="Cyber &amp; Defense illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6_cyber_militar_b09dc5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6_cyber_militar_b09dc5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -385,7 +385,7 @@ Each institution tends to focus on its own mandate. As a result, no single autho
 
 The problem becomes more acute when systems cross boundaries. A model trained by a commercial company may later support defence applications. A military cybersecurity capability may be adapted for civilian infrastructure. An intelligence agency may rely on technologies originally built for commercial markets.
 
-Legal analysts examining the EU AI Act have repeatedly highlighted this difficulty. The law's military and national-security exclusions coexist with other frameworks such as cybersecurity regulations and critical-infrastructure requirements, creating overlapping but incomplete oversight structures. Determining who is responsible for evaluating risk can become surprisingly difficult. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lutzabel.com/en/article/it-related-legal-challenges-for-defense-companies-with-dual-use-products/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lutzabel.com">[LUTZ | ABEL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lutzabel.com</span><span class="citation-popover-title">This article explains when the AI Act, CRA, and NIS2 apply despite military use</span><span class="citation-popover-snippet">LUTZ | ABELDual-Use &amp; Defense: The Underestimated Risks of the AI...Many defense companies overestimate the scope of regulatory exemptions...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cetas.turing.ac.uk/publications/eu-ai-act-national-security-implications" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cetas.turing.ac.uk">[TechSec Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cetas.turing.ac.uk</span><span class="citation-popover-snippet">TechSec CenterThe EU AI Act: National Security Implications31 Jul 2024 — This exclusion applies to both public and private entities devel...</span></span></span>
+Legal analysts examining the EU AI Act have repeatedly highlighted this difficulty. The law's military and national-security exclusions coexist with other frameworks such as cybersecurity regulations and critical-infrastructure requirements, creating overlapping but incomplete oversight structures. Determining who is responsible for evaluating risk can become surprisingly difficult. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lutzabel.com/en/article/it-related-legal-challenges-for-defense-companies-with-dual-use-products/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lutzabel.com">[LUTZ &#124; ABEL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lutzabel.com</span><span class="citation-popover-title">This article explains when the AI Act, CRA, and NIS2 apply despite military use</span><span class="citation-popover-snippet">LUTZ &#124; ABELDual-Use &amp; Defense: The Underestimated Risks of the AI...Many defense companies overestimate the scope of regulatory exemptions...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cetas.turing.ac.uk/publications/eu-ai-act-national-security-implications" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cetas.turing.ac.uk">[TechSec Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cetas.turing.ac.uk</span><span class="citation-popover-snippet">TechSec CenterThe EU AI Act: National Security Implications31 Jul 2024 — This exclusion applies to both public and private entities devel...</span></span></span>
 
 This coordination problem is especially relevant to [catastrophic]({{ 'misuse/' | relative_url }})-risk discussions because existential risks are often cross-sector by nature. A failure that begins in one domain may rapidly spread into others.
 
@@ -412,7 +412,7 @@ Traditional cybersecurity reviews focus on vulnerabilities, access controls and 
 
 ### International coordination
 
-Military AI development is increasingly multinational. NATO, allied governments and defence contractors all participate in shared ecosystems. Governance mechanisms that operate only at national level may struggle to track technologies moving across alliances and supply chains. NATO's responsible-use principles for AI represent one attempt to create common expectations, although critics argue that principles alone do not solve enforcement problems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cigionline.org/publications/advancing-responsible-ai-across-nato-innovation-and-interoperability/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cigionline.org">[CIGI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cigionline.org</span><span class="citation-popover-snippet">April 20, 2026 — NATO&#x27;s first AI strategy from 2021 outlines six guiding principles: lawfulness, responsibility and accountability, expla...</span><span class="citation-popover-meta">Published: April 20, 2026</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2021/10/22/summary-of-the-nato-[artificial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nato.int">[NATO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nato.int</span><span class="citation-popover-snippet">NATOSummary of the NATO Artificial Intelligence StrategyOct 22, 2021 — Allies and NATO must strive to protect the use of AI from such int...</span></span></span>
+Military AI development is increasingly multinational. NATO, allied governments and defence contractors all participate in shared ecosystems. Governance mechanisms that operate only at national level may struggle to track technologies moving across alliances and supply chains. NATO's responsible-use principles for AI represent one attempt to create common expectations, although critics argue that principles alone do not solve enforcement problems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cigionline.org/publications/advancing-responsible-ai-across-nato-innovation-and-interoperability/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cigionline.org">[CIGI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cigionline.org</span><span class="citation-popover-snippet">April 20, 2026 — NATO&#x27;s first AI strategy from 2021 outlines six guiding principles: lawfulness, responsibility and accountability, expla...</span><span class="citation-popover-meta">Published: April 20, 2026</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2021/10/22/summary-of-the-nato-artificial-intelligence-strategy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nato.int">[NATO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nato.int</span><span class="citation-popover-snippet">Summary of the NATO Artificial Intelligence StrategyOct 22, 2021 — Allies and NATO must strive to protect the use of AI from such int...</span></span></span>
 
 ## The Unresolved Question
 
@@ -828,177 +828,177 @@ For the broader AI doom debate, this [uncertainty]({{ 'uncertainty/' | relative_
 1. <a id="endnote-1"></a>
    Source: verfassungsblog.de  
    Title: the ai act national security exception  
-   Link: [https://verfassungsblog.de/the-ai-act-national-security-exception/](https://verfassungsblog.de/the-ai-act-national-security-exception/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>VerfassungsblogThe AI Act National Security Exceptionby P Vogiatzoglou · 2024 · Cited by 4 — AI systems are not subject to the AI Act whe...</p></details>
+   Link: <a href="https://verfassungsblog.de/the-ai-act-national-security-exception/" target="_blank" rel="noopener noreferrer nofollow">https://verfassungsblog.de/the-ai-act-national-security-exception/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The AI Act National Security Exceptionby P Vogiatzoglou · 2024 · Cited by 4 — AI systems are not subject to the AI Act whe...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: publications.sto.nato.int  
-   Link: [https://publications.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-IST-210/MP-IST-210-3.02.pdf](https://publications.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-IST-210/MP-IST-210-3.02.pdf)  
+   Link: <a href="https://publications.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-IST-210/MP-IST-210-3.02.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-IST-210/MP-IST-210-3.02.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous AI Systems Face to Face with the Law of...by A Guarino — Furthermore, AI systems used in military operations must be resilien...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: lutzabel.com  
    Title: This article explains when the AI Act, CRA, and NIS2 apply despite military use  
-   Link: [https://www.lutzabel.com/en/article/it-related-legal-challenges-for-defense-companies-with-dual-use-products/](https://www.lutzabel.com/en/article/it-related-legal-challenges-for-defense-companies-with-dual-use-products/)  
+   Link: <a href="https://www.lutzabel.com/en/article/it-related-legal-challenges-for-defense-companies-with-dual-use-products/" target="_blank" rel="noopener noreferrer nofollow">https://www.lutzabel.com/en/article/it-related-legal-challenges-for-defense-companies-with-dual-use-products/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LUTZ | ABELDual-Use &amp; Defense: The Underestimated Risks of the AI...Many defense companies overestimate the scope of regulatory exemptions...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: modulos.ai  
-   Link: [https://www.modulos.ai/industries/defense/](https://www.modulos.ai/industries/defense/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ModulosAI Governance for Defense &amp; EU AI Act | ModulosArticle 2(3) excludes AI systems placed on the market, put into service, or used ex...</p></details>
+   Link: <a href="https://www.modulos.ai/industries/defense/" target="_blank" rel="noopener noreferrer nofollow">https://www.modulos.ai/industries/defense/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Governance for Defense &amp; EU AI Act | ModulosArticle 2(3) excludes AI systems placed on the market, put into service, or used ex...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1806.08657](https://arxiv.org/abs/1806.08657)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivTowards an Active, Autonomous and Intelligent Cyber Defense of Military Systems: the NATO AICA Reference ArchitectureJune 7, 2018...</p></details>
+   Link: <a href="https://arxiv.org/abs/1806.08657" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1806.08657</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Towards an Active, Autonomous and Intelligent Cyber Defense of Military Systems: the NATO AICA Reference ArchitectureJune 7, 2018...</p></details>
    Published: June 7, 2018  
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1803.10664](https://arxiv.org/abs/1803.10664)  
+   Link: <a href="https://arxiv.org/abs/1803.10664" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1803.10664</a>  
 
 7. <a id="endnote-7"></a>
    Source: nato.int  
-   Link: [https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2021/10/22/summary-of-the-nato-[artificial](https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2021/10/22/summary-of-the-nato-[artificial)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NATOSummary of the NATO Artificial Intelligence StrategyOct 22, 2021 — Allies and NATO must strive to protect the use of AI from such int...</p></details>
+   Link: <a href="https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2021/10/22/summary-of-the-nato-artificial-intelligence-strategy" target="_blank" rel="noopener noreferrer nofollow">https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2021/10/22/summary-of-the-nato-artificial-intelligence-strategy</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Summary of the NATO Artificial Intelligence StrategyOct 22, 2021 — Allies and NATO must strive to protect the use of AI from such int...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: nato.int  
-   Link: [https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2024/07/10/summary-of-natos-revised-artificial-intelligence-ai-strategy](https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2024/07/10/summary-of-natos-revised-artificial-intelligence-ai-strategy)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NATOSummary of NATO&#x27;s revised Artificial Intelligence (AI) strategy10 Jul 2024 — Within the AI Strategy, Allies endorsed six Principles o...</p></details>
+   Link: <a href="https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2024/07/10/summary-of-natos-revised-artificial-intelligence-ai-strategy" target="_blank" rel="noopener noreferrer nofollow">https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2024/07/10/summary-of-natos-revised-artificial-intelligence-ai-strategy</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Summary of NATO&#x27;s revised Artificial Intelligence (AI) strategy10 Jul 2024 — Within the AI Strategy, Allies endorsed six Principles o...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: cigionline.org  
-   Link: [https://www.cigionline.org/publications/advancing-responsible-ai-across-nato-innovation-and-interoperability/](https://www.cigionline.org/publications/advancing-responsible-ai-across-nato-innovation-and-interoperability/)  
+   Link: <a href="https://www.cigionline.org/publications/advancing-responsible-ai-across-nato-innovation-and-interoperability/" target="_blank" rel="noopener noreferrer nofollow">https://www.cigionline.org/publications/advancing-responsible-ai-across-nato-innovation-and-interoperability/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 20, 2026 — NATO&#x27;s first AI strategy from 2021 outlines six guiding principles: lawfulness, responsibility and accountability, expla...</p></details>
    Published: April 20, 2026  
 
 10. <a id="endnote-10"></a>
    Source: regulations.ai  
    Title: NAT O Principles for Responsible Use of AI in Defence  
-   Link: [https://regulations.ai/regulations/RAI-X6-GO-RESPONS-2024](https://regulations.ai/regulations/RAI-X6-GO-RESPONS-2024)  
+   Link: <a href="https://regulations.ai/regulations/RAI-X6-GO-RESPONS-2024" target="_blank" rel="noopener noreferrer nofollow">https://regulations.ai/regulations/RAI-X6-GO-RESPONS-2024</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NATO Principles for Responsible Use of AI in Defence - Regulations.aiJanuary 8, 2026 — NATO&#x27;s Responsible AI Principles guide the ethical...</p></details>
    Published: January 8, 2026  
 
 11. <a id="endnote-11"></a>
    Source: nato.int  
-   Link: [https://www.nato.int/en](https://www.nato.int/en)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NATO: North Atlantic Treaty OrganizationNATO is a defensive alliance of 32 countries from Europe and North America. Its mission is to def...</p></details>
+   Link: <a href="https://www.nato.int/en" target="_blank" rel="noopener noreferrer nofollow">https://www.nato.int/en</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>North Atlantic Treaty OrganizationNATO is a defensive alliance of 32 countries from Europe and North America. Its mission is to def...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: history.state.gov  
-   Link: [https://history.state.gov/milestones/1945-1952/nato](https://history.state.gov/milestones/1945-1952/nato)  
+   Link: <a href="https://history.state.gov/milestones/1945-1952/nato" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/milestones/1945-1952/nato</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Atlantic Treaty Organization (NATO), 1949The North Atlantic Treaty Organization was created in 1949 by the United States, Canada, and sev...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: cetas.turing.ac.uk  
-   Link: [https://cetas.turing.ac.uk/publications/eu-ai-act-national-security-implications](https://cetas.turing.ac.uk/publications/eu-ai-act-national-security-implications)  
+   Link: <a href="https://cetas.turing.ac.uk/publications/eu-ai-act-national-security-implications" target="_blank" rel="noopener noreferrer nofollow">https://cetas.turing.ac.uk/publications/eu-ai-act-national-security-implications</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TechSec CenterThe EU AI Act: National Security Implications31 Jul 2024 — This exclusion applies to both public and private entities devel...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: rsis.edu.sg  
    Title: ip24054 military ai governance moving beyond autonomous weapon systems  
-   Link: [https://rsis.edu.sg/rsis-publication/idss/ip24054-military-ai-governance-moving-beyond-autonomous-weapon-systems/](https://rsis.edu.sg/rsis-publication/idss/ip24054-military-ai-governance-moving-beyond-autonomous-weapon-systems/)  
+   Link: <a href="https://rsis.edu.sg/rsis-publication/idss/ip24054-military-ai-governance-moving-beyond-autonomous-weapon-systems/" target="_blank" rel="noopener noreferrer nofollow">https://rsis.edu.sg/rsis-publication/idss/ip24054-military-ai-governance-moving-beyond-autonomous-weapon-systems/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>@RSIS_NTUIP24054 | Military AI Governance: Moving Beyond...24 Jun 2024 — Governance of artificial intelligence in the military domain ha...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: artificialintelligenceact.eu  
-   Link: [https://artificialintelligenceact.eu/recital/24/](https://artificialintelligenceact.eu/recital/24/)  
+   Link: <a href="https://artificialintelligenceact.eu/recital/24/" target="_blank" rel="noopener noreferrer nofollow">https://artificialintelligenceact.eu/recital/24/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Recital 24 | EU Artificial Intelligence ActAI systems placed on the market or put into service for an excluded purpose, namely military...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: atlanticcouncil.org  
-   Link: [https://www.atlanticcouncil.org/in-depth-research-reports/report/how-nato-can-integrate-ai-to-prevail-in-future-algorithmic-warfare/](https://www.atlanticcouncil.org/in-depth-research-reports/report/how-nato-can-integrate-ai-to-prevail-in-future-algorithmic-warfare/)  
+   Link: <a href="https://www.atlanticcouncil.org/in-depth-research-reports/report/how-nato-can-integrate-ai-to-prevail-in-future-algorithmic-warfare/" target="_blank" rel="noopener noreferrer nofollow">https://www.atlanticcouncil.org/in-depth-research-reports/report/how-nato-can-integrate-ai-to-prevail-in-future-algorithmic-warfare/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Atlantic CouncilHow NATO can integrate AI to prevail in future algorithmic warfareMarch 30, 2026 — This report argues that integrating AI...</p></details>
    Published: March 30, 2026  
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
    Title: European Union  
-   Link: [https://en.wikipedia.org/wiki/European_Union](https://en.wikipedia.org/wiki/European_Union)  
+   Link: <a href="https://en.wikipedia.org/wiki/European_Union" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/European_Union</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>European UnionThe European Union (EU) is a political and economic union of 27 member states that are located primarily in Europe. A su...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/NATO](https://en.wikipedia.org/wiki/NATO)  
+   Link: <a href="https://en.wikipedia.org/wiki/NATO" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NATO</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NATOThe North Atlantic Treaty Organization (NATO) is an intergovernmental military alliance between 32 member states—30 in Europe and...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Artificial Intelligence Act  
-   Link: [https://en.wikipedia.org/wiki/Artificial_Intelligence_Act](https://en.wikipedia.org/wiki/Artificial_Intelligence_Act)  
+   Link: <a href="https://en.wikipedia.org/wiki/Artificial_Intelligence_Act" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Artificial_Intelligence_Act</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial Intelligence ActIn particular, the Regulation does not apply where AI systems are used exclusively for military, defence or...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: idr.ro  
    Title: Codreanu NATO cyber 1  
-   Link: [https://www.idr.ro/publicatii/Codreanu-NATO-cyber_1.pdf](https://www.idr.ro/publicatii/Codreanu-NATO-cyber_1.pdf)  
+   Link: <a href="https://www.idr.ro/publicatii/Codreanu-NATO-cyber_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.idr.ro/publicatii/Codreanu-NATO-cyber_1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NATO adopted an Emerging and Disruptive Technology Implementation Roadmap in 2019, which tends to developments in AI software, autonomous...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: digital-strategy.ec.europa.eu  
    Title: eu A I Act | Shaping Europe's digital future  
-   Link: [https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai)  
+   Link: <a href="https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Act | Shaping Europe&#x27;s digital future - European UnionThe AI Act is the first-ever legal framework on AI, which addresses the risks of AI...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: pure.uva.nl  
    Title: verfassungsblog.de The AI Act National Security Exception  
-   Link: [https://pure.uva.nl/ws/files/277168848/verfassungsblog.de-The_AI_Act_National_Security_Exception.pdf](https://pure.uva.nl/ws/files/277168848/verfassungsblog.de-The_AI_Act_National_Security_Exception.pdf)  
+   Link: <a href="https://pure.uva.nl/ws/files/277168848/verfassungsblog.de-The_AI_Act_National_Security_Exception.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.uva.nl/ws/files/277168848/verfassungsblog.de-The_AI_Act_National_Security_Exception.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Act National Security Exception9 Dec 2024 — AI systems are not subject to the AI Act when put in the EU market or service exclusively...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NATO/](https://www.facebook.com/NATO/)  
+   Link: <a href="https://www.facebook.com/NATO/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NATO/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BrusselsNATO, Brussels. 2430882 likes · 65741 talking about this · 27835 were here. Official Facebook page of NATO - the North Atlantic T...</p></details>
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/ai-act-defence-true-exemption-emanuele-gambula-bdvyf](https://www.linkedin.com/pulse/ai-act-defence-true-exemption-emanuele-gambula-bdvyf)  
+   Link: <a href="https://www.linkedin.com/pulse/ai-act-defence-true-exemption-emanuele-gambula-bdvyf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/ai-act-defence-true-exemption-emanuele-gambula-bdvyf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI ACT IN DEFENCE: A TRUE EXEMPTION?Apparently, the regulation does not apply where AI systems are placed on the market, put into service...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: globsec.org  
-   Link: [https://www.globsec.org/sites/default/files/2025-02/Leveraging%20Artificial%20Intelligence%20for%20NATO%27s%20cyber%20resilience%20-%20Preliminary%20perspectives_web.pdf](https://www.globsec.org/sites/default/files/2025-02/Leveraging%20Artificial%20Intelligence%20for%20NATO%27s%20cyber%20resilience%20-%20Preliminary%20perspectives_web.pdf)  
+   Link: <a href="https://www.globsec.org/sites/default/files/2025-02/Leveraging%20Artificial%20Intelligence%20for%20NATO%27s%20cyber%20resilience%20-%20Preliminary%20perspectives_web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.globsec.org/sites/default/files/2025-02/Leveraging%20Artificial%20Intelligence%20for%20NATO%27s%20cyber%20resilience%20-%20Preliminary%20perspectives_web.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Leveraging Artificial Intelligence for NATO&#x27;s cyber resilienceThis brief is part of a new research series exploring NATO&#x27;s potential in u...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: ccdcoe.org  
-   Link: [https://ccdcoe.org/uploads/2018/11/Towards_NATO_AICA.pdf](https://ccdcoe.org/uploads/2018/11/Towards_NATO_AICA.pdf)  
+   Link: <a href="https://ccdcoe.org/uploads/2018/11/Towards_NATO_AICA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ccdcoe.org/uploads/2018/11/Towards_NATO_AICA.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The NATO AICA reference architectureTo fight cyber-attacks that may target this last class of military systems, we expect that NATO needs...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: edri.org  
-   Link: [https://edri.org/our-work/eu-ai-act-needs-clear-safeguards-for-ai-systems-for-military-and-national-security-purposes/](https://edri.org/our-work/eu-ai-act-needs-clear-safeguards-for-ai-systems-for-military-and-national-security-purposes/)  
+   Link: <a href="https://edri.org/our-work/eu-ai-act-needs-clear-safeguards-for-ai-systems-for-military-and-national-security-purposes/" target="_blank" rel="noopener noreferrer nofollow">https://edri.org/our-work/eu-ai-act-needs-clear-safeguards-for-ai-systems-for-military-and-national-security-purposes/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EU AI Act needs clear safeguards for AI systems for military...Mar 23, 2022 — The proposed AIA excludes AI systems developed or used exc...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: defencefinancemonitor.com  
-   Link: [https://www.defencefinancemonitor.com/p/eu-ai-act-defence-exemption-boundary](https://www.defencefinancemonitor.com/p/eu-ai-act-defence-exemption-boundary)  
+   Link: <a href="https://www.defencefinancemonitor.com/p/eu-ai-act-defence-exemption-boundary" target="_blank" rel="noopener noreferrer nofollow">https://www.defencefinancemonitor.com/p/eu-ai-act-defence-exemption-boundary</a>  
 
 29. <a id="endnote-29"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/cigionline_nato-has-an-ai-strategy-but-without-operationalization-activity-7451996936594907136-Hrtz](https://www.linkedin.com/posts/cigionline_nato-has-an-ai-strategy-but-without-operationalization-activity-7451996936594907136-Hrtz)  
+   Link: <a href="https://www.linkedin.com/posts/cigionline_nato-has-an-ai-strategy-but-without-operationalization-activity-7451996936594907136-Hrtz" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/cigionline_nato-has-an-ai-strategy-but-without-operationalization-activity-7451996936594907136-Hrtz</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Centre for International Governance Innovation (CIGI)&#x27;s PostNATO&#x27;s AI strategy from 2021 outlines six principles of responsible use...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: revista.unap.ro  
-   Link: [https://revista.unap.ro/index.php/XXI_FSA/article/download/1274/1237/4470](https://revista.unap.ro/index.php/XXI_FSA/article/download/1274/1237/4470)  
+   Link: <a href="https://revista.unap.ro/index.php/XXI_FSA/article/download/1274/1237/4470" target="_blank" rel="noopener noreferrer nofollow">https://revista.unap.ro/index.php/XXI_FSA/article/download/1274/1237/4470</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>unap.roNATO&#x27;S ENCOUNTERS IN THE CYBER DOMAINby DM Păunescu · Cited by 2 — By adapting its posture in the cyber domain, refining doctrine...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: techradar.com  
-   Link: [https://www.techradar.com/pro/the-eu-ai-act-what-it-means-and-how-to-comply](https://www.techradar.com/pro/the-eu-ai-act-what-it-means-and-how-to-comply)  
+   Link: <a href="https://www.techradar.com/pro/the-eu-ai-act-what-it-means-and-how-to-comply" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/pro/the-eu-ai-act-what-it-means-and-how-to-comply</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It mandates technical protections against threats like data poisoning, adversarial attacks, and model vulnerabilities, requiring continuo...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: c2coe.org  
-   Link: [https://c2coe.org/download/human-oversight-in-ai-driven-defence-at-what-positions-do-we-need-the-human-in-the-loop/](https://c2coe.org/download/human-oversight-in-ai-driven-defence-at-what-positions-do-we-need-the-human-in-the-loop/)  
+   Link: <a href="https://c2coe.org/download/human-oversight-in-ai-driven-defence-at-what-positions-do-we-need-the-human-in-the-loop/" target="_blank" rel="noopener noreferrer nofollow">https://c2coe.org/download/human-oversight-in-ai-driven-defence-at-what-positions-do-we-need-the-human-in-the-loop/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[Human Oversight](&amp;#123;&amp;#123; &#x27;human-oversight/&#x27; | relative_url &amp;#125;&amp;#125;) in AI-Driven Defence – at what positions...4 Aug 2025 — When an AI highlights a potential threat in a busy area, a human...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: edri.org  
-   Link: [https://edri.org/our-work/the-ai-act-isnt-enough-closing-the-dangerous-loopholes-that-enable-rights-violations/](https://edri.org/our-work/the-ai-act-isnt-enough-closing-the-dangerous-loopholes-that-enable-rights-violations/)  
+   Link: <a href="https://edri.org/our-work/the-ai-act-isnt-enough-closing-the-dangerous-loopholes-that-enable-rights-violations/" target="_blank" rel="noopener noreferrer nofollow">https://edri.org/our-work/the-ai-act-isnt-enough-closing-the-dangerous-loopholes-that-enable-rights-violations/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The AI Act isn&#x27;t enough13 Nov 2025 — While the EU&#x27;s AI Act aims to regulate high-risk AI systems, it is undermined by major loopholes tha...</p></details>

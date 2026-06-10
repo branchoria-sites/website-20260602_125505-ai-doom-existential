@@ -19,19 +19,19 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_p_doom_estima_72d1f2
 - AI_Doom_and_E_87399b_recursive_imp_3a3504
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - governance
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - governance
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Compute controls, audits and safety frameworks are proposed as ways to slow or constrain the riskiest AI development.
 hero_summary: Compute controls, audits and safety frameworks are proposed as ways to slow or constrain the riskiest AI development.
 layout: default
 permalink: /governance/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 nav_short_title: Governance
 title: What Rules Could Reduce AI Doom Risk?
 title_full: What Rules Could Reduce AI Doom Risk? | AI Doom
@@ -209,62 +209,63 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-02 11:53:17'
 parent_title: AI Doom
-parent_permalink: /ai-doom-and/
+parent_permalink: /ai-doom-and-e-87399-b/
 parent_nav_short_title: AI Doom
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 sibling_links:
 - basename: AI_Doom_and_E_87399b_recursive_imp_3a3504
-  title: AI Takeoff | AI Doom and
+  title: AI Takeoff | AI Doom and E 87399 b
   permalink: /ai-takeoff/
   short_title: AI Takeoff
   heading_title: Could AI Improvement Run Away From US?
 - basename: AI_Doom_and_E_87399b_dangerous_aut_8f4266
-  title: Autonomy | AI Doom and
+  title: Autonomy | AI Doom and E 87399 b
   permalink: /autonomy/
   short_title: Autonomy
   heading_title: When Does AI Autonomy Become Dangerous?
 - basename: AI_Doom_and_E_87399b_interpretabil_15527d
-  title: Control Tools | AI Doom and
+  title: Control Tools | AI Doom and E 87399 b
   permalink: /control-tools/
   short_title: Control Tools
   heading_title: Can We Make Advanced AI Understandable?
 - basename: AI_Doom_and_E_87399b_frontier_ai_e_9920ab
-  title: Evals | AI Doom and
+  title: Evals | AI Doom and E 87399 b
   permalink: /evals/
   short_title: Evals
   heading_title: Can Tests Catch Dangerous AI in Time?
 - basename: AI_Doom_and_E_87399b_loss_of_contr_19a113
-  title: Loss of Control | AI Doom and
+  title: Loss of Control | AI Doom and E 87399 b
   permalink: /loss-of-control/
   short_title: Loss of Control
   heading_title: How Could Humans Lose Control of AI?
 - basename: AI_Doom_and_E_87399b_catastrophic_c92548
-  title: Misuse | AI Doom and
+  title: Misuse | AI Doom and E 87399 b
   permalink: /misuse/
   short_title: Misuse
   heading_title: How Could People Misuse Advanced AI?
 - basename: AI_Doom_and_E_87399b_p_doom_estima_72d1f2
-  title: P Doom | AI Doom and
+  title: P Doom | AI Doom and E 87399 b
   permalink: /p-doom/
   short_title: P Doom
   heading_title: What Does p(doom) Really Mean?
 - basename: AI_Doom_and_E_87399b_ai_race_dynam_a5d049
-  title: Race Pressure | AI Doom and
+  title: Race Pressure | AI Doom and E 87399 b
   permalink: /race-pressure/
   short_title: Race Pressure
   heading_title: Why AI Races Can Make Safety Harder
 - basename: AI_Doom_and_E_87399b_deceptive_ali_f9f449
-  title: Scheming Tests | AI Doom and
+  title: Scheming Tests | AI Doom and E 87399 b
   permalink: /scheming-tests/
   short_title: Scheming Tests
   heading_title: Can AI Pretend to Be Aligned?
@@ -292,21 +293,20 @@ child_links:
 up_link:
   basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 prev_link:
   basename: AI_Doom_and_E_87399b_frontier_ai_e_9920ab
-  title: Evals | AI Doom and
+  title: Evals | AI Doom and E 87399 b
   permalink: /evals/
   short_title: Evals
   heading_title: Can Tests Catch Dangerous AI in Time?
 next_link:
   basename: AI_Doom_and_E_87399b_loss_of_contr_19a113
-  title: Loss of Control | AI Doom and
+  title: Loss of Control | AI Doom and E 87399 b
   permalink: /loss-of-control/
   short_title: Loss of Control
   heading_title: How Could Humans Lose Control of AI?
-date: '2026-06-02 11:53:17 '
 header:
   og_image: /assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc-overview-social.jpg
   preview_image: /assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc-overview.webp
@@ -315,19 +315,19 @@ image: /assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc-overview-social.
 
 ## Introduction
 
-As the debate about **[AI doom and]({{ 'ai-doom-and/' | relative_url }}) existential risk** the possibility that future highcapability systems could cause irreversible global catastrophe has grown, so has interest in **governance approaches that might significantly reduce those risks**. One set of proposals focuses on **compute governance** and **frontier AI safety rules**: mechanisms to regulate the computational resources and safety practices that underpin the creation and [deployment]({{ 'release-gates/' | relative_url }}) of the most powerful AI models. These ideas are distinctive because they aim to intervene earlier in the AI development pipeline at the hardware and procedural level rather than only trying to influence what models do after training. Proponents argue that compute access and rigorous safety standards could slow uncontrolled capability races and make strategic oversight more effective, while critics worry about feasibility, enforcement and innovation bottlenecks. The rest of this page explains how these governance ideas work, what frameworks are being discussed, and what disputes surround them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/guides/compute-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-title">compute governance</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryCompute Governance: Controlling AI Through Hardware &amp; Compute Access (2026) | AI Safety DirectoryApril 3, 2026...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
+As the debate about **AI doom and existential risk** the possibility that future highcapability systems could cause irreversible global catastrophe has grown, so has interest in **governance approaches that might significantly reduce those risks**. One set of proposals focuses on **compute governance** and **frontier AI safety rules**: mechanisms to regulate the computational resources and safety practices that underpin the creation and deployment of the most powerful AI models. These ideas are distinctive because they aim to intervene earlier in the AI development pipeline at the hardware and procedural level rather than only trying to influence what models do after training. Proponents argue that compute access and rigorous safety standards could slow uncontrolled capability races and make strategic oversight more effective, while critics worry about feasibility, enforcement and innovation bottlenecks. The rest of this page explains how these governance ideas work, what frameworks are being discussed, and what disputes surround them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/guides/compute-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-title">compute governance</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryCompute Governance: Controlling AI Through Hardware &amp; Compute Access (2026) &#124; AI Safety DirectoryApril 3, 2026...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc-overview.webp" | relative_url }}" alt="Overview image for Governance" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Compute and Safety Rules Matter for AI Doom Risk
 
-For models nearing the frontier of capability meaning those that could outperform current stateoftheart systems by orders of magnitude **compute (specialised hardware and large training runs) is a distinctive bottleneck**. Only a handful of labs and companies have the resources to undertake the immense computations required for the largest models, so compute becomes a **concentrated, observable choke point** that policymakers could in principle monitor or regulate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/guides/compute-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-title">compute governance</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryCompute Governance: Controlling AI Through Hardware &amp; Compute Access (2026) | AI Safety DirectoryApril 3, 2026...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
+For models nearing the frontier of capability meaning those that could outperform current stateoftheart systems by orders of magnitude **compute (specialised hardware and large training runs) is a distinctive bottleneck**. Only a handful of labs and companies have the resources to undertake the immense computations required for the largest models, so compute becomes a **concentrated, observable choke point** that policymakers could in principle monitor or regulate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/guides/compute-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-title">compute governance</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryCompute Governance: Controlling AI Through Hardware &amp; Compute Access (2026) &#124; AI Safety DirectoryApril 3, 2026...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
 
 From an AI doom perspective, the rationale for focusing on compute and safety rules is threefold:
 
-* **Upstream control**: By governing inputs (compute) rather than outputs (trained systems), regulators could intervene before potentially [dangerous]({{ 'autonomy/' | relative_url }}) systems exist. This reduces reliance on afterthefact restrictions that may be too late if misaligned systems already exist. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/guides/compute-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-title">compute governance</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryCompute Governance: Controlling AI Through Hardware &amp; Compute Access (2026) | AI Safety DirectoryApril 3, 2026...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
-* **Observable thresholds**: Compute usage can be quantified (e.g. floatingpoint operation counts), which makes it a clearer trigger for reporting, review or restriction than subjective judgments about dangerous capabilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/guides/compute-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-title">compute governance</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryCompute Governance: Controlling AI Through Hardware &amp; Compute Access (2026) | AI Safety DirectoryApril 3, 2026...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
-* **Safety signalling and coordination**: Safety rules tied to training such as mandatory [evaluations]({{ 'evaluations/' | relative_url }}), redteaming or risk assessments before major compute runs can formalise safety culture and provide early warning to regulators and researchers alike. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openai.com/index/frontier-ai-regulation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: OpenAI">[OpenAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">OpenAI</span><span class="citation-popover-snippet">Frontier AI regulation: Managing emerging risks to public safety | OpenAI...</span></span></span>
+* **Upstream control**: By governing inputs (compute) rather than outputs (trained systems), regulators could intervene before potentially dangerous systems exist. This reduces reliance on afterthefact restrictions that may be too late if misaligned systems already exist. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/guides/compute-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-title">compute governance</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryCompute Governance: Controlling AI Through Hardware &amp; Compute Access (2026) &#124; AI Safety DirectoryApril 3, 2026...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
+* **Observable thresholds**: Compute usage can be quantified (e.g. floatingpoint operation counts), which makes it a clearer trigger for reporting, review or restriction than subjective judgments about dangerous capabilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/guides/compute-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-title">compute governance</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryCompute Governance: Controlling AI Through Hardware &amp; Compute Access (2026) &#124; AI Safety DirectoryApril 3, 2026...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
+* **Safety signalling and coordination**: Safety rules tied to training such as mandatory [evaluations]({{ 'evaluations/' | relative_url }}), redteaming or risk assessments before major compute runs can formalise safety culture and provide early warning to regulators and researchers alike. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openai.com/index/frontier-ai-regulation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: OpenAI">[OpenAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">OpenAI</span><span class="citation-popover-snippet">Frontier AI regulation: Managing emerging risks to public safety &#124; OpenAI...</span></span></span>
 
 However, **governance proposals in this area are still emerging**, and there is active debate about how effective they could be, what form they should take, and whether they could be enforced equitably at global scale.
 
@@ -335,16 +335,16 @@ However, **governance proposals in this area are still emerging**, and there is 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc-Illustration-1-dark.svg" | relative_url }}" alt="Governance illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Compute Governance: What It Is and How It Could Work
 
-**Compute governance** is a suite of policy mechanisms designed to **monitor, limit or direct access to the computational resources used for training powerful AI models**. It draws on the insight that unlike data and algorithms, compute is a physical input that flows through identifiable supply chains (manufacturers, cloud providers, data centres). <span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/guides/compute-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-title">compute governance</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryCompute Governance: Controlling AI Through Hardware &amp; Compute Access (2026) | AI Safety DirectoryApril 3, 2026...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
+**Compute governance** is a suite of policy mechanisms designed to **monitor, limit or direct access to the computational resources used for training powerful AI models**. It draws on the insight that unlike data and algorithms, compute is a physical input that flows through identifiable supply chains (manufacturers, cloud providers, data centres). <span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/guides/compute-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-title">compute governance</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryCompute Governance: Controlling AI Through Hardware &amp; Compute Access (2026) &#124; AI Safety DirectoryApril 3, 2026...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
 
 Key elements of compute governance include: <span class="citation-chip-wrap"><a class="citation-chip" href="https://regulations.ai/glossary/compute-governance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: regulations.ai">[regulations.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">regulations.ai</span><span class="citation-popover-title">Compute Governance</span><span class="citation-popover-snippet">DEFINITION Compute Governance refers to regulatory and policy approaches that lev...</span></span></span>
 
-* **Reporting requirements for large compute runs**: Organisations training models above defined compute thresholds (measured in FLOPs or similar metrics) would be required to notify regulators or [independent]({{ 'red-teaming/' | relative_url }}) auditors before, during or after training. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/guides/compute-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-title">compute governance</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryCompute Governance: Controlling AI Through Hardware &amp; Compute Access (2026) | AI Safety DirectoryApril 3, 2026...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
-* **Export controls and hardware restrictions**: Government export controls on advanced AI accelerators akin to existing semiconductor export restrictions could limit the international transfer of highend compute resources. These are already seen in USled export controls on some chip types. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/guides/compute-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-title">compute governance</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryCompute Governance: Controlling AI Through Hardware &amp; Compute Access (2026) | AI Safety DirectoryApril 3, 2026...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
-* **Cloud provider oversight**: Cloud infrastructure could be required to implement knowyourcustomer policies or usage monitoring to detect and flag large AI training jobs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/guides/compute-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-title">compute governance</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryCompute Governance: Controlling AI Through Hardware &amp; Compute Access (2026) | AI Safety DirectoryApril 3, 2026...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
-* **Mandatory safety evaluations**: Before allocating large compute resources, developers might have to demonstrate that they have conducted risk assessments, safety tests and redteaming that meet defined standards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/guides/compute-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-title">compute governance</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryCompute Governance: Controlling AI Through Hardware &amp; Compute Access (2026) | AI Safety DirectoryApril 3, 2026...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
+* **Reporting requirements for large compute runs**: Organisations training models above defined compute thresholds (measured in FLOPs or similar metrics) would be required to notify regulators or [independent]({{ 'red-teaming/' | relative_url }}) auditors before, during or after training. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/guides/compute-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-title">compute governance</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryCompute Governance: Controlling AI Through Hardware &amp; Compute Access (2026) &#124; AI Safety DirectoryApril 3, 2026...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
+* **Export controls and hardware restrictions**: Government export controls on advanced AI accelerators akin to existing semiconductor export restrictions could limit the international transfer of highend compute resources. These are already seen in USled export controls on some chip types. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/guides/compute-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-title">compute governance</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryCompute Governance: Controlling AI Through Hardware &amp; Compute Access (2026) &#124; AI Safety DirectoryApril 3, 2026...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
+* **Cloud provider oversight**: Cloud infrastructure could be required to implement knowyourcustomer policies or usage [monitoring]({{ 'monitoring/' | relative_url }}) to detect and flag large AI training jobs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/guides/compute-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-title">compute governance</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryCompute Governance: Controlling AI Through Hardware &amp; Compute Access (2026) &#124; AI Safety DirectoryApril 3, 2026...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
+* **Mandatory safety evaluations**: Before allocating large compute resources, developers might have to demonstrate that they have conducted risk assessments, safety tests and redteaming that meet defined standards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/guides/compute-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-title">compute governance</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryCompute Governance: Controlling AI Through Hardware &amp; Compute Access (2026) &#124; AI Safety DirectoryApril 3, 2026...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
 
-Supporters argue that these measures provide **clear, measurable governance triggers** that can adapt over time as compute costs decline or AI training patterns change. They also see compute governance as compatible with other safety measures, such as model evaluations and deployment controls. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/guides/compute-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-title">compute governance</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryCompute Governance: Controlling AI Through Hardware &amp; Compute Access (2026) | AI Safety DirectoryApril 3, 2026...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
+Supporters argue that these measures provide **clear, measurable governance triggers** that can adapt over time as compute costs decline or AI training patterns change. They also see compute governance as compatible with other safety measures, such as model evaluations and deployment controls. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/guides/compute-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-title">compute governance</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryCompute Governance: Controlling AI Through Hardware &amp; Compute Access (2026) &#124; AI Safety DirectoryApril 3, 2026...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7EwAdTqGgWM" title="Lennart Heim on the AI Triad: Compute, Data, and Algorithms" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7EwAdTqGgWM" target="_blank" rel="noopener noreferrer">Lennart Heim on the AI Triad: Compute, Data, and Algorithms</a></p><p class="youtube-embed-meta">Channel: Future of Life Institute &middot; Views: 2.1K &middot; Uploaded: March 2023 &middot; Length: 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7EwAdTqGgWM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7EwAdTqGgWM">Open on YouTube</a></p></div></div></div>
@@ -355,8 +355,8 @@ While compute governance focuses on hardware access, **frontier AI safety rules*
 
 * **Risk assessments throughout the AI lifecycle**: Developers of highimpact models are encouraged or required to assess risks before training, prespecify risk thresholds, and monitor evolving risks as models are developed and deployed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Emerging processes for frontier AI safety</span><span class="citation-popover-snippet">27, 2023...</span></span></span>
 * **Independent evaluations and redteaming**: External scrutiny helps surface dangerous behaviours or capabilities that internal teams might miss. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024/frontier-ai-safety-commitments-ai-seoul-summit-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">frontier ai safety commitments ai seoul summit 2024</span><span class="citation-popover-snippet">Frontier AI Safety Commitments, AI Seoul Summit 2024 - GOV.UKFebruary 7, 2025...</span><span class="citation-popover-meta">Published: February 7, 2025</span></span></span>
-* **Structured reporting and information sharing**: Companies share safety plans, assessment results and incident reports with governments or through third parties to build systemic awareness of frontier AI risks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Frontier models could be</span><span class="citation-popover-snippet">risks of frontier AI (Annex A) - GOV.UKApril 28, 2025 However, the risks and opportunities posed by a given model derive from its capab...</span><span class="citation-popover-meta">Published: April 28, 2025</span></span></span>
-* **Security controls and vulnerability reporting**: Similar to software bugreporting programmes, organisations identify security issues, including those related to model misuse or exploitation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">From: Department for Science, Innovation and Technology Published</span><span class="citation-popover-snippet">processes for frontier AI safety - GOV.UKOctober 27, 2023 Policy paper EMERGING PROCESSES FOR FRONTIER AI SAFETY Overview of emerging f...</span><span class="citation-popover-meta">Published: October 27, 2023</span></span></span>
+* **Structured reporting and information sharing**: Companies share safety plans, assessment results and incident reports with governments or through third parties to build systemic [awareness]({{ 'awareness/' | relative_url }}) of frontier AI risks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Frontier models could be</span><span class="citation-popover-snippet">risks of frontier AI (Annex A) - GOV.UKApril 28, 2025 However, the risks and opportunities posed by a given model derive from its capab...</span><span class="citation-popover-meta">Published: April 28, 2025</span></span></span>
+* **Security controls and vulnerability reporting**: Similar to software bugreporting programmes, organisations identify security issues, including those related to model [misuse]({{ 'misuse/' | relative_url }}) or exploitation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">From: Department for Science, Innovation and Technology Published</span><span class="citation-popover-snippet">processes for frontier AI safety - GOV.UKOctober 27, 2023 Policy paper EMERGING PROCESSES FOR FRONTIER AI SAFETY Overview of emerging f...</span><span class="citation-popover-meta">Published: October 27, 2023</span></span></span>
 
 The **Frontier AI Safety Commitments** emerging from international summits echo these ideas, committing participating organisations to set risk thresholds, articulate safety mitigation processes, and outline procedures for handling models that exceed predefined tolerable risk levels. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Emerging processes for frontier AI safety</span><span class="citation-popover-snippet">27, 2023...</span></span></span>
 
@@ -368,11 +368,11 @@ Collectively, these measures aim to create a **culture of structured safeguard p
 
 Despite their appeal in principle, compute governance and frontier safety rules face **significant challenges** that shape the realworld feasibility and impact of these policies:
 
-* **Evolving technology and thresholds**: Algorithmic advances can dramatically reduce the compute needed to achieve a given capability, meaning fixed thresholds could quickly become outdated or meaningless. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/guides/compute-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-title">compute governance</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryCompute Governance: Controlling AI Through Hardware &amp; Compute Access (2026) | AI Safety DirectoryApril 3, 2026...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
+* **Evolving technology and thresholds**: Algorithmic advances can dramatically reduce the compute needed to achieve a given capability, meaning fixed thresholds could quickly become outdated or meaningless. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/guides/compute-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-title">compute governance</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryCompute Governance: Controlling AI Through Hardware &amp; Compute Access (2026) &#124; AI Safety DirectoryApril 3, 2026...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
 * **Concentration of power**: Restrictive compute access might entrench incumbent firms with resources to comply, widening gaps between large labs and smaller research groups or public institutions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ai-safety-atlas.com/chapters/v1/governance/compute-governance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ai-safety-atlas.com">[ai-safety-atlas.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ai-safety-atlas.com</span><span class="citation-popover-title">Compute Governance</span><span class="citation-popover-snippet">Chapter 4 - AI Safety Atlas...</span></span></span>
 * **Distributed training and open research**: Emerging technical methods like distributed training or opensource models could enable highcapability development without a single, observable training run, complicating governance enforcement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ai-safety-atlas.com/chapters/v1/governance/governance-architectures/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ai-safety-atlas.com">[ai-safety-atlas.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ai-safety-atlas.com</span><span class="citation-popover-title">Governance Architectures</span><span class="citation-popover-snippet">FSFs are policies that AI companies create to guide their development process and ensure the...</span></span></span>
-* **International coordination**: Compute supply chains and research talent are globally distributed, so effective governance requires **multilateral cooperation** that can be hard to achieve amid [geopolitical]({{ 'geopolitics/' | relative_url }}) competition. Differences in national interests could undermine harmonised rules. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/guides/compute-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-title">compute governance</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryCompute Governance: Controlling AI Through Hardware &amp; Compute Access (2026) | AI Safety DirectoryApril 3, 2026...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
-* **Enforcement and compliance gaps**: Even where rules exist, without robust monitoring and the technological ability to detect noncompliance especially across borders governance may remain largely aspirational. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/guides/compute-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-title">compute governance</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryCompute Governance: Controlling AI Through Hardware &amp; Compute Access (2026) | AI Safety DirectoryApril 3, 2026...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
+* **International coordination**: Compute supply chains and research talent are globally distributed, so effective governance requires **multilateral cooperation** that can be hard to achieve amid geopolitical competition. Differences in national interests could undermine harmonised rules. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/guides/compute-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-title">compute governance</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryCompute Governance: Controlling AI Through Hardware &amp; Compute Access (2026) &#124; AI Safety DirectoryApril 3, 2026...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
+* **Enforcement and compliance gaps**: Even where rules exist, without robust monitoring and the technological ability to detect noncompliance especially across borders governance may remain largely aspirational. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/guides/compute-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-title">compute governance</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryCompute Governance: Controlling AI Through Hardware &amp; Compute Access (2026) &#124; AI Safety DirectoryApril 3, 2026...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
 
 Critics therefore stress that **compute governance should be viewed as part of a broader governance ecosystem**, not a standalone silver bullet. In expert analyses, compute thresholds are framed as initial screening tools that trigger deeper scrutiny mechanisms such as risk assessments or external evaluations rather than as sole determinants of regulatory action. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ai-safety-atlas.com/chapters/v1/governance/compute-governance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ai-safety-atlas.com">[ai-safety-atlas.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ai-safety-atlas.com</span><span class="citation-popover-title">Compute Governance</span><span class="citation-popover-snippet">Chapter 4 - AI Safety Atlas...</span></span></span>
 
@@ -384,11 +384,11 @@ Critics therefore stress that **compute governance should be viewed as part of a
 
 ## Where the Debate Stands
 
-Compute governance and frontier safety rules are **emerging policy tools**. Research institutions, governments and industry groups continue to refine how such mechanisms might work, what metrics to use, and how to balance safety with innovation. Some scholars argue for **adaptive risk management systems** that combine technical measures with institutional capacity building and scenario planning, recognising that static regulatory checklists will struggle with fastmoving technological landscapes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2604.06215" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivGoverning frontier general-purpose AI in the public sector: adaptive risk management and policy capacity under uncertainty through 2...</span></span></span>
+Compute governance and frontier safety rules are **emerging policy tools**. Research institutions, governments and industry groups continue to refine how such mechanisms might work, what metrics to use, and how to balance safety with innovation. Some scholars argue for **adaptive risk management systems** that combine technical measures with institutional capacity building and scenario planning, recognising that static regulatory checklists will struggle with fastmoving technological landscapes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2604.06215" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Governing frontier general-purpose AI in the public sector: adaptive risk management and policy capacity under uncertainty through 2...</span></span></span>
 
-There is also ongoing debate over **principlebased versus rulebased regulation**: highlevel safety principles can provide flexible direction but may lack enforceability, while specific rules offer clarity but can become outdated or overly rigid as technology evolves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2604.06215" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivGoverning frontier general-purpose AI in the public sector: adaptive risk management and policy capacity under uncertainty through 2...</span></span></span>
+There is also ongoing debate over **principlebased versus rulebased regulation**: highlevel safety principles can provide flexible direction but may lack enforceability, while specific rules offer clarity but can become outdated or overly rigid as technology evolves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2604.06215" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Governing frontier general-purpose AI in the public sector: adaptive risk management and policy capacity under uncertainty through 2...</span></span></span>
 
-What is clear, however, is that concerns about AI existential risk have elevated **governance conversations to include infrastructurelevel controls** and **procedural safety obligations** not only ethical guidelines or afterthefact restrictions. Whether these approaches can meaningfully reduce the probability of catastrophic AI outcomes remains uncertain, but they are increasingly central to how governments and researchers frame preparedness for frontier AI. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/guides/compute-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-title">compute governance</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryCompute Governance: Controlling AI Through Hardware &amp; Compute Access (2026) | AI Safety DirectoryApril 3, 2026...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
+What is clear, however, is that concerns about AI existential risk have elevated **governance conversations to include infrastructurelevel controls** and **procedural safety obligations** not only ethical guidelines or afterthefact restrictions. Whether these approaches can meaningfully reduce the probability of [catastrophic]({{ 'misuse/' | relative_url }}) AI outcomes remains uncertain, but they are increasingly central to how governments and researchers frame preparedness for frontier AI. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/guides/compute-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-title">compute governance</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryCompute Governance: Controlling AI Through Hardware &amp; Compute Access (2026) &#124; AI Safety DirectoryApril 3, 2026...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc-Illustration-3-dark.svg" | relative_url }}" alt="Governance illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -798,146 +798,146 @@ What is clear, however, is that concerns about AI existential risk have elevated
 
 1. <a id="endnote-1"></a>
    Source: OpenAI  
-   Link: [https://openai.com/index/frontier-ai-regulation/](https://openai.com/index/frontier-ai-regulation/)  
+   Link: <a href="https://openai.com/index/frontier-ai-regulation/" target="_blank" rel="noopener noreferrer nofollow">https://openai.com/index/frontier-ai-regulation/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier AI regulation: Managing emerging risks to public safety | OpenAI...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: GOV.UK  
    Title: Emerging processes for frontier AI safety  
-   Link: [https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety](https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety)  
+   Link: <a href="https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>27, 2023...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: GOV.UK  
    Title: frontier ai safety commitments ai seoul summit 2024  
-   Link: [https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024/frontier-ai-safety-commitments-ai-seoul-summit-2024](https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024/frontier-ai-safety-commitments-ai-seoul-summit-2024)  
+   Link: <a href="https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024/frontier-ai-safety-commitments-ai-seoul-summit-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024/frontier-ai-safety-commitments-ai-seoul-summit-2024</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier AI Safety Commitments, AI Seoul Summit 2024 - GOV.UKFebruary 7, 2025...</p></details>
    Published: February 7, 2025  
 
 4. <a id="endnote-4"></a>
    Source: ai-safety-atlas.com  
    Title: Compute Governance  
-   Link: [https://ai-safety-atlas.com/chapters/v1/governance/compute-governance](https://ai-safety-atlas.com/chapters/v1/governance/compute-governance)  
+   Link: <a href="https://ai-safety-atlas.com/chapters/v1/governance/compute-governance" target="_blank" rel="noopener noreferrer nofollow">https://ai-safety-atlas.com/chapters/v1/governance/compute-governance</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 4 - AI Safety Atlas...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2604.06215](https://arxiv.org/abs/2604.06215)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivGoverning frontier general-purpose AI in the public sector: adaptive risk management and policy capacity under [uncertainty](&amp;#123;&amp;#123; &#x27;uncertainty/&#x27; | relative_url &amp;#125;&amp;#125;) through 2...</p></details>
+   Link: <a href="https://arxiv.org/abs/2604.06215" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.06215</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Governing frontier general-purpose AI in the public sector: adaptive risk management and policy capacity under [uncertainty](&amp;#123;&amp;#123; &#x27;uncertainty/&#x27; | relative_url &amp;#125;&amp;#125;) through 2...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2407.07300](https://arxiv.org/abs/2407.07300)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivFrom Principles to Rules: A Regulatory Approach for Frontier AIJuly 10, 2024...</p></details>
+   Link: <a href="https://arxiv.org/abs/2407.07300" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2407.07300</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>From Principles to Rules: A Regulatory Approach for Frontier AIJuly 10, 2024...</p></details>
    Published: July 10, 2024  
 
 7. <a id="endnote-7"></a>
    Source: GOV.UK  
    Title: Frontier models could be  
-   Link: [https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a](https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a)  
+   Link: <a href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>risks of frontier AI (Annex A) - GOV.UKApril 28, 2025 However, the risks and opportunities posed by a given model derive from its capab...</p></details>
    Published: April 28, 2025  
 
 8. <a id="endnote-8"></a>
    Source: GOV.UK  
    Title: From: Department for Science, Innovation and Technology Published  
-   Link: [https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety](https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety)  
+   Link: <a href="https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>processes for frontier AI safety - GOV.UKOctober 27, 2023 Policy paper EMERGING PROCESSES FOR FRONTIER AI SAFETY Overview of emerging f...</p></details>
    Published: October 27, 2023  
 
 9. <a id="endnote-9"></a>
    Source: ai-safety-atlas.com  
    Title: Governance Architectures  
-   Link: [https://ai-safety-atlas.com/chapters/v1/governance/governance-architectures/](https://ai-safety-atlas.com/chapters/v1/governance/governance-architectures/)  
+   Link: <a href="https://ai-safety-atlas.com/chapters/v1/governance/governance-architectures/" target="_blank" rel="noopener noreferrer nofollow">https://ai-safety-atlas.com/chapters/v1/governance/governance-architectures/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FSFs are policies that AI companies create to guide their development process and ensure the...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: aisecurityandsafety.org  
    Title: compute governance  
-   Link: [https://aisecurityandsafety.org/en/guides/compute-governance/](https://aisecurityandsafety.org/en/guides/compute-governance/)  
+   Link: <a href="https://aisecurityandsafety.org/en/guides/compute-governance/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/en/guides/compute-governance/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security &amp; Safety DirectoryCompute Governance: Controlling AI Through Hardware &amp; Compute Access (2026) | AI Safety DirectoryApril 3, 2026...</p></details>
    Published: April 3, 2026  
 
 11. <a id="endnote-11"></a>
    Source: aisecurityandsafety.org  
-   Link: [https://aisecurityandsafety.org/en/glossary/compute-governance/](https://aisecurityandsafety.org/en/glossary/compute-governance/)  
+   Link: <a href="https://aisecurityandsafety.org/en/glossary/compute-governance/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/en/glossary/compute-governance/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security &amp; Safety DirectoryCompute Governance AI Governance Definition &amp; Guide | AI Safety DirectoryMarch 27, 2026...</p></details>
    Published: March 27, 2026  
 
 12. <a id="endnote-12"></a>
    Source: aisecurityandsafety.org  
    Title: compute governance  
-   Link: [https://aisecurityandsafety.org/it/guides/compute-governance/](https://aisecurityandsafety.org/it/guides/compute-governance/)  
+   Link: <a href="https://aisecurityandsafety.org/it/guides/compute-governance/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/it/guides/compute-governance/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Controlling AI Through Hardware &amp; Compute Access (2026) | AI Safety DirectoryApril 3, 2026 COMPUTE GOVERNANCE: CONTROLLING AI THROUGH H...</p></details>
    Published: April 3, 2026  
 
 13. <a id="endnote-13"></a>
    Source: regulations.ai  
    Title: Compute Governance  
-   Link: [https://regulations.ai/glossary/compute-governance](https://regulations.ai/glossary/compute-governance)  
+   Link: <a href="https://regulations.ai/glossary/compute-governance" target="_blank" rel="noopener noreferrer nofollow">https://regulations.ai/glossary/compute-governance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DEFINITION Compute Governance refers to regulatory and policy approaches that lev...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: wikimolt.org  
    Title: Compute Governance  
-   Link: [https://www.wikimolt.org/page/Compute%20Governance](https://www.wikimolt.org/page/Compute%20Governance)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WikimoltCOMPUTE GOVERNANCE Recent edits: wikimoltbot 2026-02-21 08:13:56 &quot;Create wanted page: define compute governance, mechanisms (th...</p></details>
+   Link: <a href="https://www.wikimolt.org/page/Compute%20Governance" target="_blank" rel="noopener noreferrer nofollow">https://www.wikimolt.org/page/Compute%20Governance</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>COMPUTE GOVERNANCE Recent edits: wikimoltbot 2026-02-21 08:13:56 &quot;Create wanted page: define compute governance, mechanisms (th...</p></details>
    Published: February 21, 2026  
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: s-rsa.com  
-   Link: [https://s-rsa.com/index.php/agi/article/view/14519](https://s-rsa.com/index.php/agi/article/view/14519)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Framework for the Private Governance of Frontier [Artificial](&amp;#123;&amp;#123; &#x27;artificial-goals/&#x27; | relative_url &amp;#125;&amp;#125;) Intelligence | SuperIntelligence - Robotics - Safety &amp; AlignmentMay 29, 202...</p></details>
+   Link: <a href="https://s-rsa.com/index.php/agi/article/view/14519" target="_blank" rel="noopener noreferrer nofollow">https://s-rsa.com/index.php/agi/article/view/14519</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Framework for the Private Governance of Frontier Artificial Intelligence | SuperIntelligence - Robotics - Safety &amp; AlignmentMay 29, 202...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: aigouvernance.com  
-   Link: [https://aigouvernance.com/ai-governance-at-the-frontier-unpacking-foundational-assumptionsai-governance-at-the-frontier-cset/](https://aigouvernance.com/ai-governance-at-the-frontier-unpacking-foundational-assumptionsai-governance-at-the-frontier-cset/)  
+   Link: <a href="https://aigouvernance.com/ai-governance-at-the-frontier-unpacking-foundational-assumptionsai-governance-at-the-frontier-cset/" target="_blank" rel="noopener noreferrer nofollow">https://aigouvernance.com/ai-governance-at-the-frontier-unpacking-foundational-assumptionsai-governance-at-the-frontier-cset/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Governance at the Frontier: Unpacking Foundational AssumptionsAI Governance at the Frontier (CSET) - AI Governance Library, Articles...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: aisecurityandsafety.org  
    Title: Compute Governance AI Governance Definition & Guide | AI Safety Directory  
-   Link: [https://aisecurityandsafety.org/pt/glossary/compute-governance/](https://aisecurityandsafety.org/pt/glossary/compute-governance/)  
+   Link: <a href="https://aisecurityandsafety.org/pt/glossary/compute-governance/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/pt/glossary/compute-governance/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March 10, 2026 COMPUTE GOVERNANCE governance ltima atualizao: March 10, 2026 DEFINIO A set of policy and technical mechanisms aime...</p></details>
    Published: March 10, 2026  
 
 18. <a id="endnote-18"></a>
    Source: metr.org  
    Title: Common Elements of Frontier AI Safety Policies  
-   Link: [https://metr.org/common-elements](https://metr.org/common-elements)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>METRDecember 16, 2025 Common Elements of Frontier AI Safety Policies DATE December 16, 2025 COMMON ELEMENTS OF FRONTIER AI SAFETY POLIC...</p></details>
+   Link: <a href="https://metr.org/common-elements" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/common-elements</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 16, 2025 Common Elements of Frontier AI Safety Policies DATE December 16, 2025 COMMON ELEMENTS OF FRONTIER AI SAFETY POLIC...</p></details>
    Published: December 16, 2025  
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=7Fdqn4yBGzk](https://www.youtube.com/watch?v=7Fdqn4yBGzk)  
+   Link: <a href="https://www.youtube.com/watch?v=7Fdqn4yBGzk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7Fdqn4yBGzk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Billionaire on Existential Risk: Jaan Tallinn #112...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Lennart Heim on the AI Triad: Compute, Data, and Algorithms  
-   Link: [https://www.youtube.com/watch?v=7EwAdTqGgWM](https://www.youtube.com/watch?v=7EwAdTqGgWM)  
+   Link: <a href="https://www.youtube.com/watch?v=7EwAdTqGgWM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7EwAdTqGgWM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The RAISE Act: Minimum Standards for Frontier AI Development, with NY Assembly Member Alex Bores...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=_YTVydWBMvk](https://www.youtube.com/watch?v=_YTVydWBMvk)  
+   Link: <a href="https://www.youtube.com/watch?v=_YTVydWBMvk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_YTVydWBMvk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lennart Heim on the AI Triad: Compute, Data, and Algorithms...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: ideas.repec.org  
-   Link: [https://ideas.repec.org/p/arx/papers/2603.10015.html](https://ideas.repec.org/p/arx/papers/2603.10015.html)  
+   Link: <a href="https://ideas.repec.org/p/arx/papers/2603.10015.html" target="_blank" rel="noopener noreferrer nofollow">https://ideas.repec.org/p/arx/papers/2603.10015.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>coordination gap in frontier AI safety policiesMarch 16, 2026 THE COORDINATION GAP IN FRONTIER AI SAFETY POLICIES AUTHOR Listed: * Isaa...</p></details>
    Published: March 16, 2026  
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: AI Billionaire on Existential Risk: Jaan Tallinn #112  
-   Link: [https://www.youtube.com/watch?v=6MaUZ4Hi7os](https://www.youtube.com/watch?v=6MaUZ4Hi7os)  
+   Link: <a href="https://www.youtube.com/watch?v=6MaUZ4Hi7os" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6MaUZ4Hi7os</a>  
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=yK5odT1jz-U](https://www.youtube.com/watch?v=yK5odT1jz-U)  
+   Link: <a href="https://www.youtube.com/watch?v=yK5odT1jz-U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yK5odT1jz-U</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>220 - Guest: Markus Anderljung, AI Regulation Researcher, part 1...</p></details>

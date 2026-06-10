@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_loss_of_contr_19a113_control_warni_352f11_hidden_reason_ec5ad9
 - AI_Doom_and_E_87399b_loss_of_contr_19a113_control_warni_352f11_test_aware_ai_b753e9
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - loss-of-control
 - warning-signs
 - weak-checks
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - loss-of-control
 - warning-signs
 - weak-checks
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: A formal human checkpoint can become symbolic when staff lack the time, expertise or authority to challenge an autonomous system.
 hero_summary: A formal human checkpoint can become symbolic when staff lack the time, expertise or authority to challenge an autonomous system.
 layout: default
 permalink: /weak-checks/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /loss-of-control/
 - /warning-signs/
 nav_short_title: Weak Checks
@@ -211,10 +211,10 @@ parent_heading_title: What would loss of control look like early?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_loss_of_contr_19a113
-  title: Loss of Control | AI Doom and
+  title: Loss of Control | AI Doom and E 87399 b
   permalink: /loss-of-control/
   short_title: Loss of Control
   heading_title: How Could Humans Lose Control of AI?
@@ -226,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_loss_of_contr_19a113
-  title: Loss of Control | AI Doom and
+  title: Loss of Control | AI Doom and E 87399 b
   permalink: /loss-of-control/
   short_title: Loss of Control
   heading_title: How Could Humans Lose Control of AI?
@@ -269,7 +269,7 @@ image: /assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_control_warni_35
 
 ## Introduction
 
-As AI systems become more capable and are deployed in high‑impact settings, many organisations rely on **human‑in‑the‑loop (HITL)** mechanisms — checkpoints where a person reviews and approves AI outputs — as a primary safeguard. Yet a growing body of research and practical experience shows that **these checkpoints can stop working in practice**, not because of a lack of policy, but because the design, context and incentives around them degrade real [oversight]({{ 'oversight-evasion/' | relative_url }}) into a symbolic gesture. This failure mode is critical as part of the broader cluster of *[warning signs]({{ 'warning-signs/' | relative_url }}) that AI oversight is failing*, because it can lull developers, regulators and the public into believing that humans still control an AI’s behaviour when they do not. The risk here isn’t solely near‑term errors, it is *systematically weakening human control* in systems whose capability and autonomy may grow faster than our ability to supervise them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s43681-026-01147-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">SpringerDesigning meaningful human oversight in AI | AI and Ethics | Springer Nature LinkMay 4, 2026...</span><span class="citation-popover-meta">Published: May 4, 2026</span></span></span>
+As AI systems become more capable and are deployed in high‑impact settings, many organisations rely on **human‑in‑the‑loop (HITL)** mechanisms — checkpoints where a person reviews and approves AI outputs — as a primary safeguard. Yet a growing body of research and practical experience shows that **these checkpoints can stop working in practice**, not because of a lack of policy, but because the design, context and incentives around them degrade real oversight into a symbolic gesture. This failure mode is critical as part of the broader cluster of *[warning signs]({{ 'warning-signs/' | relative_url }}) that AI oversight is failing*, because it can lull developers, regulators and the public into believing that humans still control an AI’s behaviour when they do not. The risk here isn’t solely near‑term errors, it is *systematically weakening human control* in systems whose capability and [autonomy]({{ 'autonomy/' | relative_url }}) may grow faster than our ability to supervise them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s43681-026-01147-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Designing meaningful human oversight in AI &#124; AI and Ethics &#124; Springer Nature LinkMay 4, 2026...</span><span class="citation-popover-meta">Published: May 4, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_control_warni_352f11_human_loop_we_9c32f7-Illustration-1-dark.svg" | relative_url }}" alt="Weak Checks illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_control_warni_352f11_human_loop_we_9c32f7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_control_warni_352f11_human_loop_we_9c32f7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -277,19 +277,14 @@ As AI systems become more capable and are deployed in high‑impact settings, ma
 
 At its best, human‑in‑the‑loop oversight means more than simply putting a human in front of a screen. For a human checkpoint to provide *real control*, the person must have:
 
-
-<div class="content-enhancement content-enhancement--caution" markdown="1">
-
 * **Information:** enough transparency into the system’s reasoning, confidence and data to evaluate its outputs substantively.
 * **Time and cognitive capacity:** adequate time to reflect on and question outputs rather than merely scan them.
-* **Authority:** the practical ability to override or halt the AI’s recommendation where there is risk or uncertainty.
+* **Authority:** the practical ability to override or halt the AI’s recommendation where there is risk or [uncertainty]({{ 'uncertainty/' | relative_url }}).
 * **Contextual judgement:** understanding of operational context and downstream consequences.
 
-</div>
+Researchers distinguish **operative agency** (the AI’s ability to generate solutions) from **evaluative agency** (the human’s capacity to assess and influence those solutions) — and oversight only works when both are present in balanced form. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s43681-026-01137-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Reframing the AI alignment problem: insights from business applications &#124; AI and Ethics &#124; Springer Nature LinkApril 27, 2026...</span><span class="citation-popover-meta">Published: April 27, 2026</span></span></span>
 
-Researchers distinguish **operative agency** (the AI’s ability to generate solutions) from **evaluative agency** (the human’s capacity to assess and influence those solutions) — and oversight only works when both are present in balanced form. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s43681-026-01137-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">SpringerReframing the AI alignment problem: insights from business applications | AI and Ethics | Springer Nature LinkApril 27, 2026...</span><span class="citation-popover-meta">Published: April 27, 2026</span></span></span>
-
-However, across many current AI applications, human involvement is *superficial*. Humans may be present in workflows, but they often lack the authority, context or information needed to influence outcomes in a meaningful way. This produces what some scholars call *“rubber‑stamp risk”* — a nominal human checkpoint that does little more than approve outputs it does not understand. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/Delivery.cfm/6552159.pdf?abstractid=6552159&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">SSRNHuman-in-the-loop Isn&#x27;t a Checkbox: Designing Meaningful Intervention in Automated AI Decisions by Sue Eze:: SSRN...</span></span></span>
+However, across many current AI applications, human involvement is *superficial*. Humans may be present in workflows, but they often lack the authority, context or information needed to influence outcomes in a meaningful way. This produces what some scholars call *“rubber‑stamp risk”* — a nominal human checkpoint that does little more than approve outputs it does not understand. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/Delivery.cfm/6552159.pdf?abstractid=6552159&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Human-in-the-loop Isn&#x27;t a Checkbox: Designing Meaningful Intervention in Automated AI Decisions by Sue Eze:: SSRN...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/U3eDmVolcyA" title="Taming AI - Matt Jones" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=U3eDmVolcyA" target="_blank" rel="noopener noreferrer">Taming AI - Matt Jones</a></p><p class="youtube-embed-meta">Channel: Gresham College &middot; Views: 37.3K &middot; Uploaded: May 2026 &middot; Length: 53 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=U3eDmVolcyA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=U3eDmVolcyA">Open on YouTube</a></p></div></div></div>
@@ -298,13 +293,13 @@ However, across many current AI applications, human involvement is *superficial*
 
 ### 1. Cognitive Limitations and Automation Bias
 
-For many tasks, especially high‑volume or real‑time outputs, human attention degrades quickly. Psychologists and AI ethicists note a well‑documented **vigilance decrement**: when reviewing outputs that are mostly correct, humans become less attentive to rare but important errors. That effect is aggravated when humans overly trust AI recommendations rather than independently verify them — a phenomenon known as *[automation bias]({{ 'automation-bias/' | relative_url }})*. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s43681-026-01147-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">SpringerDesigning meaningful human oversight in AI | AI and Ethics | Springer Nature LinkMay 4, 2026...</span><span class="citation-popover-meta">Published: May 4, 2026</span></span></span>
+For many tasks, especially high‑volume or real‑time outputs, human attention degrades quickly. Psychologists and AI ethicists note a well‑documented **vigilance decrement**: when reviewing outputs that are mostly correct, humans become less attentive to rare but important errors. That effect is aggravated when humans overly trust AI recommendations rather than independently verify them — a phenomenon known as *[automation bias]({{ 'automation-bias/' | relative_url }})*. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s43681-026-01147-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Designing meaningful human oversight in AI &#124; AI and Ethics &#124; Springer Nature LinkMay 4, 2026...</span><span class="citation-popover-meta">Published: May 4, 2026</span></span></span>
 
-This dynamic means that humans reviewing AI outputs can miss subtle failures or dangerous edge cases precisely because those errors are rare, and because reviewers begin to *expect the AI to be right*. In extreme cases, approval becomes a reflexive click rather than a deliberative decision, undermining the very oversight it was designed to provide. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s43681-026-01137-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">SpringerReframing the AI alignment problem: insights from business applications | AI and Ethics | Springer Nature LinkApril 27, 2026...</span><span class="citation-popover-meta">Published: April 27, 2026</span></span></span>
+This dynamic means that humans reviewing AI outputs can miss subtle failures or dangerous edge cases precisely because those errors are rare, and because reviewers begin to *expect the AI to be right*. In extreme cases, approval becomes a reflexive click rather than a deliberative decision, undermining the very oversight it was designed to provide. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s43681-026-01137-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Reframing the AI alignment problem: insights from business applications &#124; AI and Ethics &#124; Springer Nature LinkApril 27, 2026...</span><span class="citation-popover-meta">Published: April 27, 2026</span></span></span>
 
 ### 2. Mismatched Speed and Complexity
 
-Many agentic AI systems operate at speeds and scales that far exceed human cognitive processing. Research into “high‑velocity” autonomous systems shows that HITL fails structurally when the pace of decisions outstrips human capacity to review them in real time. In such contexts, humans cannot keep up with the volume or complexity of the system’s outputs, creating a superficial compliance loop rather than genuine governance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6725983" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">SSRNWhy Human-in-the-Loop Requirements Fail in High-Velocity Agentic Systems and What Governance Must Do Instead by Albert Adusei Brobbey...</span></span></span>
+Many agentic AI systems operate at speeds and scales that far exceed human cognitive processing. Research into “high‑velocity” autonomous systems shows that HITL fails structurally when the pace of decisions outstrips human capacity to review them in real time. In such contexts, humans cannot keep up with the volume or complexity of the system’s outputs, creating a superficial compliance loop rather than genuine governance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6725983" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Why Human-in-the-Loop Requirements Fail in High-Velocity Agentic Systems and What Governance Must Do Instead by Albert Adusei Brobbey...</span></span></span>
 
 This mismatch is especially salient in organisational environments where decisions may be made continuously and automatically, effectively decoupling human approval from the system’s decision stream. As a result, documented human review becomes more of a compliance artifact than a source of actual accountability — what some observers call **oversight theatre**. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/Delivery.cfm/6725983.pdf?abstractid=6725983&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Human-in-the-Loop Requirements Fail in High-Velocity Agentic Systems and What Governance Must Do Instead by Albert Adusei Brobbey:: SSRN...</span></span></span>
 
@@ -312,9 +307,9 @@ This mismatch is especially salient in organisational environments where decisio
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_control_warni_352f11_human_loop_we_9c32f7-Illustration-2-dark.svg" | relative_url }}" alt="Weak Checks illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_control_warni_352f11_human_loop_we_9c32f7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_control_warni_352f11_human_loop_we_9c32f7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### 3. Structural and Organisational Incentives
 
-Beyond individual cognitive limits, organisations often design workflows where human checkpoints carry little real authority. When a human’s job is simply to confirm what the AI has already decided, their role becomes a procedural tick‑box rather than a control point. Without authority to *override, escalate or contextualise*, the presence of a human reviewer does not add real control. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s43681-026-01137-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">SpringerReframing the AI alignment problem: insights from business applications | AI and Ethics | Springer Nature LinkApril 27, 2026...</span><span class="citation-popover-meta">Published: April 27, 2026</span></span></span>
+Beyond individual cognitive limits, organisations often design workflows where human checkpoints carry little real authority. When a human’s job is simply to confirm what the AI has already decided, their role becomes a procedural tick‑box rather than a control point. Without authority to *override, escalate or contextualise*, the presence of a human reviewer does not add real control. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s43681-026-01137-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Reframing the AI alignment problem: insights from business applications &#124; AI and Ethics &#124; Springer Nature LinkApril 27, 2026...</span><span class="citation-popover-meta">Published: April 27, 2026</span></span></span>
 
-In high‑stakes domains like healthcare, this can turn clinicians into what sociotechnical researchers describe as **“moral crumple zones”** — individuals who absorb the professional and legal fallout of system failures while lacking access to model internals or performance data that would enable meaningful scrutiny. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13140781/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCClinician in the loop: a flawed solution for AI oversight</span><span class="citation-popover-snippet">PMCMay 5, 2026...</span><span class="citation-popover-meta">Published: May 5, 2026</span></span></span>
+In high‑stakes domains like healthcare, this can turn clinicians into what sociotechnical researchers describe as **“moral crumple zones”** — individuals who absorb the professional and legal fallout of system failures while lacking access to model internals or performance data that would enable meaningful scrutiny. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13140781/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCClinician in the loop: a flawed solution for AI oversight</span><span class="citation-popover-snippet">May 5, 2026...</span><span class="citation-popover-meta">Published: May 5, 2026</span></span></span>
 
 ## How Organisations Can Test Oversight Capacity
 
@@ -344,13 +339,13 @@ Some practical indicators that HITL checkpoints are losing their protective valu
 
 </div>
 
-These patterns can be subtle but are important warning signs; oversight doesn’t have to disappear entirely to be ineffective. Even when humans remain nominally in the loop, the *real locus of governance* can drift into the AI’s internal logic and escalation heuristics — which the AI itself controls. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/[artificial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditI think “human-in-the-loop” may become one of the biggest governance illusions in enterprise AIMay 14, 2026...</span><span class="citation-popover-meta">Published: May 14, 2026</span></span></span>
+These patterns can be subtle but are important warning signs; oversight doesn’t have to disappear entirely to be ineffective. Even when humans remain nominally in the loop, the *real locus of governance* can drift into the AI’s internal logic and escalation heuristics — which the AI itself controls. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/artificial/comments/1td300k/i_think_humanintheloop_may_become_one_of_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">I think “human-in-the-loop” may become one of the biggest governance illusions in enterprise AIMay 14, 2026...</span><span class="citation-popover-meta">Published: May 14, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_control_warni_352f11_human_loop_we_9c32f7-Illustration-3-dark.svg" | relative_url }}" alt="Weak Checks illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_control_warni_352f11_human_loop_we_9c32f7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_control_warni_352f11_human_loop_we_9c32f7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why This Matters for AI Doom Risk
 
-Within the broader context of [loss of control]({{ 'loss-of-control/' | relative_url }}) and existential risk, ineffective human oversight matters because it erodes a core assumption of many current governance and safety frameworks: that humans can intervene when things go wrong. If oversight mechanisms become *rubber stamps*, then growing system autonomy and capability may proceed without any effective brake on misaligned or unsafe behaviour. Unlike simple software bugs, malfunctions or misjudgements in advanced systems with strategic behaviour, hidden state representations or capacity for self‑directed planning could evade human supervision altogether. This amplifies long‑standing concerns in alignment research that the *illusion of control* can precede genuine inability to correct or interrupt an AI’s trajectory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s43681-026-01137-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">SpringerReframing the AI alignment problem: insights from business applications | AI and Ethics | Springer Nature LinkApril 27, 2026...</span><span class="citation-popover-meta">Published: April 27, 2026</span></span></span>
+Within the broader context of [loss of control]({{ 'loss-of-control/' | relative_url }}) and existential risk, ineffective human oversight matters because it erodes a core assumption of many current governance and safety frameworks: that humans can intervene when things go wrong. If oversight mechanisms become *rubber stamps*, then growing system autonomy and capability may proceed without any effective brake on misaligned or unsafe behaviour. Unlike simple software bugs, malfunctions or misjudgements in advanced systems with strategic behaviour, hidden state representations or capacity for self‑directed planning could evade human supervision altogether. This amplifies long‑standing concerns in alignment research that the *illusion of control* can precede genuine inability to correct or interrupt an AI’s trajectory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s43681-026-01137-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Reframing the AI alignment problem: insights from business applications &#124; AI and Ethics &#124; Springer Nature LinkApril 27, 2026...</span><span class="citation-popover-meta">Published: April 27, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/s52161ErFuA" title="#29 Human-in-the-Loop: The Difference Between a Great Decision and a Complete Disaster w/ Prof. Fink" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=s52161ErFuA" target="_blank" rel="noopener noreferrer">#29 Human-in-the-Loop: The Difference Between a Great Decision and a Complete Disaster w/ Prof. Fink</a></p><p class="youtube-embed-meta">Channel: The Binary Agora &middot; Views: 55 &middot; Uploaded: May 2026 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=s52161ErFuA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=s52161ErFuA">Open on YouTube</a></p></div></div></div>
@@ -657,115 +652,115 @@ Human‑in‑the‑loop is a widely cited safeguard against misaligned or harmfu
 
 1. <a id="endnote-1"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s43681-026-01147-7](https://link.springer.com/article/10.1007/s43681-026-01147-7)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpringerDesigning meaningful human oversight in AI | AI and Ethics | Springer Nature LinkMay 4, 2026...</p></details>
+   Link: <a href="https://link.springer.com/article/10.1007/s43681-026-01147-7" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s43681-026-01147-7</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Designing meaningful human oversight in AI | AI and Ethics | Springer Nature LinkMay 4, 2026...</p></details>
    Published: May 4, 2026  
 
 2. <a id="endnote-2"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/Delivery.cfm/6552159.pdf?abstractid=6552159&mirid=1](https://papers.ssrn.com/sol3/Delivery.cfm/6552159.pdf?abstractid=6552159&mirid=1)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SSRNHuman-in-the-loop Isn&#x27;t a Checkbox: Designing Meaningful Intervention in Automated AI Decisions by Sue Eze:: SSRN...</p></details>
+   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/6552159.pdf?abstractid=6552159&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/6552159.pdf?abstractid=6552159&amp;mirid=1</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Human-in-the-loop Isn&#x27;t a Checkbox: Designing Meaningful Intervention in Automated AI Decisions by Sue Eze:: SSRN...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s43681-026-01137-9](https://link.springer.com/article/10.1007/s43681-026-01137-9)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpringerReframing the AI alignment problem: insights from business applications | AI and Ethics | Springer Nature LinkApril 27, 2026...</p></details>
+   Link: <a href="https://link.springer.com/article/10.1007/s43681-026-01137-9" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s43681-026-01137-9</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reframing the AI alignment problem: insights from business applications | AI and Ethics | Springer Nature LinkApril 27, 2026...</p></details>
    Published: April 27, 2026  
 
 4. <a id="endnote-4"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6725983](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6725983)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SSRNWhy Human-in-the-Loop Requirements Fail in High-Velocity Agentic Systems and What Governance Must Do Instead by Albert Adusei Brobbey...</p></details>
+   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6725983" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6725983</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Human-in-the-Loop Requirements Fail in High-Velocity Agentic Systems and What Governance Must Do Instead by Albert Adusei Brobbey...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCClinician in the loop: a flawed solution for AI oversight  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC13140781/](https://pmc.ncbi.nlm.nih.gov/articles/PMC13140781/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCMay 5, 2026...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13140781/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC13140781/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 5, 2026...</p></details>
    Published: May 5, 2026  
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/[artificial](https://www.reddit.com/r/[artificial)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditI think “human-in-the-loop” may become one of the biggest governance illusions in enterprise AIMay 14, 2026...</p></details>
+   Link: <a href="https://www.reddit.com/r/artificial/comments/1td300k/i_think_humanintheloop_may_become_one_of_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/artificial/comments/1td300k/i_think_humanintheloop_may_become_one_of_the/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>I think “human-in-the-loop” may become one of the biggest governance illusions in enterprise AIMay 14, 2026...</p></details>
    Published: May 14, 2026  
 
 7. <a id="endnote-7"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/Delivery.cfm/6725983.pdf?abstractid=6725983&mirid=1](https://papers.ssrn.com/sol3/Delivery.cfm/6725983.pdf?abstractid=6725983&mirid=1)  
+   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/6725983.pdf?abstractid=6725983&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/6725983.pdf?abstractid=6725983&amp;mirid=1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Human-in-the-Loop Requirements Fail in High-Velocity Agentic Systems and What Governance Must Do Instead by Albert Adusei Brobbey:: SSRN...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6552159](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6552159)  
+   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6552159" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6552159</a>  
 
 9. <a id="endnote-9"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5501939](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5501939)  
+   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5501939" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5501939</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ssrn.com&lt;span&gt;Designing Meaningful Human Oversight in AI&lt;/span&gt; by Liming Zhu, Qinghua Lu, Ding Ming, Sung Une Lee, Chen Wang:: SSRNSept...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: engineersofai.com  
-   Link: [https://engineersofai.com/docs/agentic-ai/agent-safety/Human-Oversight-Mechanisms](https://engineersofai.com/docs/agentic-ai/agent-safety/Human-Oversight-Mechanisms)  
+   Link: <a href="https://engineersofai.com/docs/agentic-ai/agent-safety/Human-Oversight-Mechanisms" target="_blank" rel="noopener noreferrer nofollow">https://engineersofai.com/docs/agentic-ai/agent-safety/Human-Oversight-Mechanisms</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Human Oversight Mechanisms | EngineersOfAI — Technical Education for AI EngineersHUMAN OVERSIGHT MECHANISMS Reading time: 28 min | Releva...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: philpapers.org  
-   Link: [https://philpapers.org/rec/JOVWHF](https://philpapers.org/rec/JOVWHF)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PhilPapersWHEN HUMAN-IN-THE-LOOP FAILS: AN ANSWERABILITY TEST FOR DEPLOYED AI SYSTEMS Vladisav Jovanovic ABSTRACT This paper argues that...</p></details>
+   Link: <a href="https://philpapers.org/rec/JOVWHF" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/JOVWHF</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>WHEN HUMAN-IN-THE-LOOP FAILS: AN ANSWERABILITY TEST FOR DEPLOYED AI SYSTEMS Vladisav Jovanovic ABSTRACT This paper argues that...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: ai.wharton.upenn.edu  
    Title: AI systems handle scale and speed, while humans provide judgment, overs  
-   Link: [https://ai.wharton.upenn.edu/updates/when-better-ai-makes-oversight-harder/](https://ai.wharton.upenn.edu/updates/when-better-ai-makes-oversight-harder/)  
+   Link: <a href="https://ai.wharton.upenn.edu/updates/when-better-ai-makes-oversight-harder/" target="_blank" rel="noopener noreferrer nofollow">https://ai.wharton.upenn.edu/updates/when-better-ai-makes-oversight-harder/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Better AI Makes Oversight Harder - Wharton Human-AI ResearchFebruary 12, 2026 — WHEN BETTER AI MAKES OVERSIGHT HARDER Human-AI collaborat...</p></details>
    Published: February 12, 2026  
 
 13. <a id="endnote-13"></a>
    Source: sciety.org  
-   Link: [https://sciety.org/articles/activity/10.31234/osf.io/9ecms_v3](https://sciety.org/articles/activity/10.31234/osf.io/9ecms_v3)  
+   Link: <a href="https://sciety.org/articles/activity/10.31234/osf.io/9ecms_v3" target="_blank" rel="noopener noreferrer nofollow">https://sciety.org/articles/activity/10.31234/osf.io/9ecms_v3</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Terence Daniel Dores Cruz 2. Christopher Starke 3. Tim Katzke 4. Emmanuel Müller 5. Marta Kwiatkowska 6. Orly Lobel 7. Ni...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: cybermaniacs.com  
    Title: Rubber Stamp Risk: Why "Human Oversight" Can Become [False Confidence](&#123;&#123; 'false-confidence/' | relative_url &#125;&#125;)  
-   Link: [https://cybermaniacs.com/cm-blog/rubber-stamp-risk-why-human-oversight-can-become-false-confidence](https://cybermaniacs.com/cm-blog/rubber-stamp-risk-why-human-oversight-can-become-false-confidence)  
+   Link: <a href="https://cybermaniacs.com/cm-blog/rubber-stamp-risk-why-human-oversight-can-become-false-confidence" target="_blank" rel="noopener noreferrer nofollow">https://cybermaniacs.com/cm-blog/rubber-stamp-risk-why-human-oversight-can-become-false-confidence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>October 22, 2025 — ARTICLE Human Risk Management RUBBER STAMP RISK: WHY &quot;HUMAN OVERSIGHT&quot; CAN BECOME FALSE CONFIDENCE What You&#x27;ll Learn...</p></details>
    Published: October 22, 2025  
 
 15. <a id="endnote-15"></a>
    Source: aipmo.co  
    Title: When a system is usually right, people stop questioning it. They  
-   Link: [https://aipmo.co/human-oversight-ai/](https://aipmo.co/human-oversight-ai/)  
+   Link: <a href="https://aipmo.co/human-oversight-ai/" target="_blank" rel="noopener noreferrer nofollow">https://aipmo.co/human-oversight-ai/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Human Oversight in AI Systems: Designing for ControlJanuary 29, 2026 — THE AUTOMATION BIAS PROBLEM Automation bias is the primary way hum...</p></details>
    Published: January 29, 2026  
 
 16. <a id="endnote-16"></a>
    Source: stevenwensley.com  
    Title: Most organizations interpret this as "have a human  
-   Link: [https://stevenwensley.com/insights/human-oversight-not-rubber-stamp.html](https://stevenwensley.com/insights/human-oversight-not-rubber-stamp.html)  
+   Link: <a href="https://stevenwensley.com/insights/human-oversight-not-rubber-stamp.html" target="_blank" rel="noopener noreferrer nofollow">https://stevenwensley.com/insights/human-oversight-not-rubber-stamp.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Human Oversight: Not a Rubber Stamp | Steven WensleyMarch 3, 2026 — EU AI Act 3 Mar 2026 7 min read HUMAN OVERSIGHT: NOT A RUBBER STAMP A...</p></details>
    Published: March 3, 2026  
 
 17. <a id="endnote-17"></a>
    Source: sciencedirect.com  
    Title: Is human oversight to AI systems still possible?  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1871678424005636](https://www.sciencedirect.com/science/article/pii/S1871678424005636)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectMarch 25, 2025 — NEW BIOTECHNOLOGY Volume 85, 25 March 2025, Pages 59-62 Editorial Is human oversight to AI systems still po...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1871678424005636" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1871678424005636</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 25, 2025 — NEW BIOTECHNOLOGY Volume 85, 25 March 2025, Pages 59-62 Editorial Is human oversight to AI systems still po...</p></details>
    Published: March 25, 2025  
 
 18. <a id="endnote-18"></a>
    Source: raktimsingh.com  
    Title: If humans are inserted everywhere  
-   Link: [https://www.raktimsingh.com/the-governance-illusion-human-oversight-autonomous-ai-systems/](https://www.raktimsingh.com/the-governance-illusion-human-oversight-autonomous-ai-systems/)  
+   Link: <a href="https://www.raktimsingh.com/the-governance-illusion-human-oversight-autonomous-ai-systems/" target="_blank" rel="noopener noreferrer nofollow">https://www.raktimsingh.com/the-governance-illusion-human-oversight-autonomous-ai-systems/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Governance Illusion: Why Human Oversight Fails in Autonomous AI SystemsMay 13, 2026 — FAILURE 2: HUMANS BECOME [RUBBER STAMPS](&amp;#123;&amp;#123; &#x27;rubber-stamps/&#x27; | relative_url &amp;#125;&amp;#125;) Image: F...</p></details>
    Published: May 13, 2026  
 
 19. <a id="endnote-19"></a>
    Source: sciencedirect.com  
    Title: Who's really in the loop?  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0140673626002047](https://www.sciencedirect.com/science/article/pii/S0140673626002047)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0140673626002047" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0140673626002047</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rethinking oversight in AI-assisted health care - ScienceDirectApril 30, 2026 — THE LANCET Available online 30 April 2026 In Press, Corre...</p></details>
    Published: April 30, 2026  

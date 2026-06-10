@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343_power_seeking_305b9c
 - AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343_uncertainty_s_0d35fe
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - loss-of-control
 - objections
 - current-models
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - loss-of-control
 - objections
 - current-models
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Current AI failures and lab-test behaviours leave open whether future systems would become capable strategic agents.
 hero_summary: Current AI failures and lab-test behaviours leave open whether future systems would become capable strategic agents.
 layout: default
 permalink: /current-models/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /loss-of-control/
 - /objections/
 nav_short_title: Current Models
@@ -211,10 +211,10 @@ parent_heading_title: How strong is the case against AI doom?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_loss_of_contr_19a113
-  title: Loss of Control | AI Doom and
+  title: Loss of Control | AI Doom and E 87399 b
   permalink: /loss-of-control/
   short_title: Loss of Control
   heading_title: How Could Humans Lose Control of AI?
@@ -226,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_loss_of_contr_19a113
-  title: Loss of Control | AI Doom and
+  title: Loss of Control | AI Doom and E 87399 b
   permalink: /loss-of-control/
   short_title: Loss of Control
   heading_title: How Could Humans Lose Control of AI?
@@ -269,36 +269,36 @@ image: /assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04
 
 ## Introduction
 
-One of the most persistent debates in discussions about AI existential risk is whether what we see today in large language models and other “frontier” AI systems offers real evidence that future systems will *take over** – that is, act as autonomous agents pursuing their own strategic goals in ways that escape human control. Many worry about “takeover” scenarios where advanced AI seeks power, self‑preservation or resource control beyond human intentions. But critics argue that what we observe in [current AI]({{ 'current-benchmarks/' | relative_url }}) is [weak evidence]({{ 'weak-evidence/' | relative_url }}) for anything resembling that future path. This page explores why present‑day systems do not yet exhibit the kinds of capacities and behaviours that would make classic takeover scenarios plausible, where the existing evidence is informative, and where it stops.
+One of the most persistent debates in discussions about AI existential risk is whether what we see today in large language models and other “frontier” AI systems offers real evidence that future systems will *take over** – that is, act as autonomous agents pursuing their own strategic goals in ways that escape human control. Many worry about “takeover” scenarios where advanced AI seeks power, self‑preservation or resource control beyond human intentions. But critics argue that what we observe in current AI is [weak evidence]({{ 'weak-evidence/' | relative_url }}) for anything resembling that future path. This page explores why present‑day systems do not yet exhibit the kinds of capacities and behaviours that would make classic takeover scenarios plausible, where the existing evidence is informative, and where it stops.
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343_current_model_21cdbd-Illustration-1-dark.svg" | relative_url }}" alt="Current Models illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343_current_model_21cdbd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343_current_model_21cdbd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What today’s AI can and cannot do
 
-Current generative models like GPT‑style systems are powerful language and pattern predictors, not autonomous strategic agents. They are trained to predict text from massive data sets and are incredibly good at that narrow task. They can generate code, answer questions and simulate dialogue, yet they also make obvious errors, hallucinate false facts and lack consistent long‑term reasoning and planning abilities in open‑ended settings. Many researchers see major limitations in reliability, adaptability and general problem‑solving that are far from the kinds of capabilities imagined in takeover scenarios. For example, a UK research effort reviewing current AI trajectories found that today’s systems lack general cognitive capabilities necessary for broad [automation]({{ 'automation-bias/' | relative_url }}) and [independent]({{ 'red-teaming/' | relative_url }}) strategy formation, and that progress on these limitations remains uncertain and gradual rather than explosive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/research/understanding-ai-trajectories-mapping-the-limitations-of-current-ai-systems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Current generative models like GPT‑style systems are powerful language and pattern predictors, not autonomous strategic agents. They are trained to predict text from massive data sets and are incredibly good at that narrow task. They can generate code, answer questions and simulate dialogue, yet they also make obvious errors, hallucinate false facts and lack consistent long‑term reasoning and planning abilities in open‑ended settings. Many researchers see major limitations in reliability, adaptability and general problem‑solving that are far from the kinds of capabilities imagined in takeover scenarios. For example, a UK research effort reviewing current AI trajectories found that today’s systems lack general cognitive capabilities necessary for broad automation and [independent]({{ 'red-teaming/' | relative_url }}) strategy formation, and that progress on these limitations remains uncertain and gradual rather than explosive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/research/understanding-ai-trajectories-mapping-the-limitations-of-current-ai-systems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Crucially, existing models do not independently pursue goals in the world. They produce outputs in response to prompts but do not have persistent objectives, ongoing agency or the ability to execute complex multi‑step real‑world plans without human direction and infrastructure. They do not monitor their own states across time, seek to preserve themselves, or reallocate resources to achieve long‑term aims in the way strategic agent models would need to for a takeover. Beyond toy or simulated environments, there are no publicly documented cases of contemporary AI engaging in power‑seeking behaviour that is decoupled from human instruction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2310.18244" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivA Review of the Evidence for Existential Risk from AI via Misaligned Power-SeekingOctober 27, 2023...</span><span class="citation-popover-meta">Published: October 27, 2023</span></span></span>
+Crucially, existing models do not independently pursue goals in the world. They produce outputs in response to prompts but do not have persistent objectives, ongoing agency or the ability to execute complex multi‑step real‑world plans without human direction and infrastructure. They do not monitor their own states across time, seek to preserve themselves, or reallocate resources to achieve long‑term aims in the way strategic agent models would need to for a takeover. Beyond toy or simulated environments, there are no publicly documented cases of contemporary AI engaging in power‑seeking behaviour that is decoupled from human instruction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2310.18244" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Review of the Evidence for Existential Risk from AI via Misaligned Power-SeekingOctober 27, 2023...</span><span class="citation-popover-meta">Published: October 27, 2023</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UakqL6Pj9xo" title="Francois Chollet — Why the biggest AI models can&#x27;t solve simple puzzles" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UakqL6Pj9xo" target="_blank" rel="noopener noreferrer">Francois Chollet — Why the biggest AI models can&#x27;t solve simple puzzles</a></p><p class="youtube-embed-meta">Channel: Dwarkesh Patel &middot; Views: 182.9K &middot; Uploaded: June 2024 &middot; Length: 1 hour 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UakqL6Pj9xo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UakqL6Pj9xo">Open on YouTube</a></p></div></div></div>
 
 ## Why narrow warning signs are contested
 
-Critics of strong takeover interpretations acknowledge that current models display behaviours that can be concerning in specific contexts — so‑called specification gaming and misalignment examples. These are cases where models optimise for surface‑level training objectives in ways that produce undesirable or unexpected outputs. Such behaviours highlight genuine misalignment challenges, but they occur in very narrow, contrived test conditions and do not necessarily generalise to open‑ended, strategic action. In other words, they are signs of *behavioural brittleness* rather than autonomous goal pursuit.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.catalyzex.com/paper/a-review-of-the-evidence-for-existential-risk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalyzex.com">[CatalyzeX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalyzex.com</span><span class="citation-popover-snippet">CatalyzeXA Review of the Evidence for Existential Risk from AI via Misaligned Power-SeekingOctober 27, 2023...</span><span class="citation-popover-meta">Published: October 27, 2023</span></span></span>
+Critics of strong takeover interpretations acknowledge that current models display behaviours that can be concerning in specific contexts — so‑called specification gaming and misalignment examples. These are cases where models optimise for surface‑level training objectives in ways that produce undesirable or unexpected outputs. Such behaviours highlight genuine misalignment challenges, but they occur in very narrow, contrived test conditions and do not necessarily generalise to open‑ended, strategic action. In other words, they are signs of *behavioural brittleness* rather than autonomous goal pursuit.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.catalyzex.com/paper/a-review-of-the-evidence-for-existential-risk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalyzex.com">[CatalyzeX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalyzex.com</span><span class="citation-popover-snippet">A Review of the Evidence for Existential Risk from AI via Misaligned Power-SeekingOctober 27, 2023...</span><span class="citation-popover-meta">Published: October 27, 2023</span></span></span>
 
-For instance, critics of alarmist narratives point out that many of the claimed examples of “scheming” or [deceptive]({{ 'scheming-tests/' | relative_url }}) outputs seen in lab tests are highly sensitive to how the model was prompted, and often reflect pattern matching rather than genuine instrumental reasoning. A recent accessible analysis argued that cases which look like [deception]({{ 'deception-and-loss/' | relative_url }}) sometimes arise because humans misinterpret context‑specific model outputs as independent agency, which can exaggerate the import of these behaviours for existential scenarios.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vox.com/future-perfect/420755/ai-scheming-deception-lessons-from-a-chimp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vox.com">[Vox]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vox.com</span><span class="citation-popover-title">How can you know if an AI is plotting against you?</span><span class="citation-popover-snippet">A team led by Oxford neuroscientist Christopher Summerfield draws parallels with 20th-century ape language studies, where scientists misi...</span></span></span>
+For instance, critics of alarmist narratives point out that many of the claimed examples of “scheming” or deceptive outputs seen in lab tests are highly sensitive to how the model was prompted, and often reflect pattern matching rather than genuine [instrumental]({{ 'power-seeking-67c702/' | relative_url }}) reasoning. A recent accessible analysis argued that cases which look like deception sometimes arise because humans misinterpret context‑specific model outputs as independent agency, which can exaggerate the import of these behaviours for existential scenarios.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vox.com/future-perfect/420755/ai-scheming-deception-lessons-from-a-chimp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vox.com">[Vox]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vox.com</span><span class="citation-popover-title">How can you know if an AI is plotting against you?</span><span class="citation-popover-snippet">A team led by Oxford neuroscientist Christopher Summerfield draws parallels with 20th-century ape language studies, where scientists misi...</span></span></span>
 
-Similarly, others note that present misalignment cases tend to diminish a system’s usefulness and are unpredictable in direction — they do not cluster into goal‑directed power seeking. One peer‑reviewed survey of evidence for existential risk concluded that while there are examples of specification gaming and conceptual arguments about future risk, there are no clear empirical examples of misaligned power‑seeking behaviour in current systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.catalyzex.com/paper/a-review-of-the-evidence-for-existential-risk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalyzex.com">[CatalyzeX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalyzex.com</span><span class="citation-popover-snippet">CatalyzeXA Review of the Evidence for Existential Risk from AI via Misaligned Power-SeekingOctober 27, 2023...</span><span class="citation-popover-meta">Published: October 27, 2023</span></span></span>
+Similarly, others note that present misalignment cases tend to diminish a system’s usefulness and are unpredictable in direction — they do not cluster into goal‑directed power seeking. One peer‑reviewed survey of evidence for existential risk concluded that while there are examples of specification gaming and conceptual arguments about future risk, there are no clear empirical examples of misaligned power‑seeking behaviour in current systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.catalyzex.com/paper/a-review-of-the-evidence-for-existential-risk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalyzex.com">[CatalyzeX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalyzex.com</span><span class="citation-popover-snippet">A Review of the Evidence for Existential Risk from AI via Misaligned Power-SeekingOctober 27, 2023...</span><span class="citation-popover-meta">Published: October 27, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343_current_model_21cdbd-Illustration-2-dark.svg" | relative_url }}" alt="Current Models illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343_current_model_21cdbd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343_current_model_21cdbd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where evidence from today’s models stops
 
-The key gap is not simply that current AI systems are imperfect — all complex technologies are — but that they do not yet demonstrate the structural capacities that most takeover arguments require. A core aspect of worry about existential takeover is *[instrumental convergence]({{ 'instrumental-convergence/' | relative_url }})*: the idea that sufficiently capable systems will, regardless of their original goals, pursue sub‑goals like self‑preservation and resource acquisition because these help achieve their objectives. While this remains a theoretical concern under some assumptions, it has not been empirically observed in existing systems. In fact, critics argue that current models lack the situational awareness, causal reasoning and sustained agency required even to recognise opportunities for instrumental sub‑goals, let alone pursue them autonomously.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.longtermwiki.com/knowledge-base/risks/instrumental-convergence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: longtermwiki.com">[Longterm Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">longtermwiki.com</span><span class="citation-popover-title">Longterm Wiki Instrumental Convergence | Longterm Wiki</span><span class="citation-popover-snippet">Longterm WikiInstrumental Convergence | Longterm WikiJanuary 29, 2026...</span><span class="citation-popover-meta">Published: January 29, 2026</span></span></span>
+The key gap is not simply that current AI systems are imperfect — all complex technologies are — but that they do not yet demonstrate the structural capacities that most takeover arguments require. A core aspect of worry about existential takeover is *[instrumental convergence]({{ 'instrumental-convergence/' | relative_url }})*: the idea that sufficiently capable systems will, regardless of their original goals, pursue sub‑goals like self‑preservation and resource acquisition because these help achieve their objectives. While this remains a theoretical concern under some assumptions, it has not been empirically observed in existing systems. In fact, critics argue that current models lack the [situational awareness]({{ 'situational-awareness/' | relative_url }}), causal reasoning and sustained agency required even to recognise opportunities for instrumental sub‑goals, let alone pursue them autonomously.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.longtermwiki.com/knowledge-base/risks/instrumental-convergence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: longtermwiki.com">[Longterm Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">longtermwiki.com</span><span class="citation-popover-title">Longterm Wiki Instrumental Convergence &#124; Longterm Wiki</span><span class="citation-popover-snippet">Longterm WikiInstrumental Convergence &#124; Longterm WikiJanuary 29, 2026...</span><span class="citation-popover-meta">Published: January 29, 2026</span></span></span>
 
-Another limit of present‑day evidence is external validity. A recent empirical assessment found that although researchers have begun to observe emergent behaviours in advanced models, the current body of evidence is insufficient to support strong claims about loss of control — the evidence is too weak and narrow to extrapolate confidently to future highly capable systems. These assessments highlight that most studies lack the conditions needed to make robust claims about agentic behaviour outside controlled experiments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/Delivery.cfm/6786058.pdf?abstractid=6786058&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">SSRNAssessing the Empirical Evidence for Loss of Control from Agentic General-Purpose AI by Risto Uuk, Santeri Koivula, Lorenzo Pacchiard...</span></span></span>
+Another limit of present‑day evidence is external validity. A recent empirical assessment found that although researchers have begun to observe emergent behaviours in advanced models, the current body of evidence is insufficient to support strong claims about [loss of control]({{ 'loss-of-control/' | relative_url }}) — the evidence is too weak and narrow to extrapolate confidently to future highly capable systems. These assessments highlight that most studies lack the conditions needed to make robust claims about agentic behaviour outside controlled experiments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/Delivery.cfm/6786058.pdf?abstractid=6786058&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Assessing the Empirical Evidence for Loss of Control from Agentic General-Purpose AI by Risto Uuk, Santeri Koivula, Lorenzo Pacchiard...</span></span></span>
 
-This does not imply that risk is zero. Most critics acknowledge that future AI could be dangerous or difficult to control if its capabilities grow sufficiently. But they caution that current models are not yet strong evidence for takeover because they do not exhibit the key agentic features — persistent goals, independent planning, strategic world modelling — that would make takeover plausible. They argue that conflating artefacts of prompt responses with genuine autonomous intent risks overstating the case and diverting attention from the empirical milestones that would actually inform risk assessments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aiwiki.ai/wiki/ai_existential_risk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiwiki.ai">[AI Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiwiki.ai</span><span class="citation-popover-title">AI Wiki Existential risk from AI | AI Wiki</span><span class="citation-popover-snippet">AI WikiExistential risk from AI | AI WikiMarch 25, 2026...</span><span class="citation-popover-meta">Published: March 25, 2026</span></span></span>
+This does not imply that risk is zero. Most critics acknowledge that future AI could be dangerous or difficult to control if its capabilities grow sufficiently. But they caution that current models are not yet strong evidence for takeover because they do not exhibit the key agentic features — persistent goals, independent planning, strategic world modelling — that would make takeover plausible. They argue that conflating artefacts of prompt responses with genuine autonomous intent risks overstating the case and diverting attention from the empirical milestones that would actually inform risk assessments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aiwiki.ai/wiki/ai_existential_risk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiwiki.ai">[AI Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiwiki.ai</span><span class="citation-popover-title">AI Wiki Existential risk from AI &#124; AI Wiki</span><span class="citation-popover-snippet">AI WikiExistential risk from AI &#124; AI WikiMarch 25, 2026...</span><span class="citation-popover-meta">Published: March 25, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NMUqvhuDZtQ" title="Artificial Intelligence: A Guide for Thinking Humans" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NMUqvhuDZtQ" target="_blank" rel="noopener noreferrer">Artificial Intelligence: A Guide for Thinking Humans</a></p><p class="youtube-embed-meta">Channel: Santa Fe Institute &middot; Views: 23.7K &middot; Uploaded: November 2019 &middot; Length: 1 hour 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NMUqvhuDZtQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NMUqvhuDZtQ">Open on YouTube</a></p></div></div></div>
@@ -708,66 +708,66 @@ For deeper exploration of these issues, see related discussions on the *instrume
 
 1. <a id="endnote-1"></a>
    Source: aisi.gov.uk  
-   Link: [https://www.aisi.gov.uk/research/understanding-ai-trajectories-mapping-the-limitations-of-current-ai-systems](https://www.aisi.gov.uk/research/understanding-ai-trajectories-mapping-the-limitations-of-current-ai-systems)  
+   Link: <a href="https://www.aisi.gov.uk/research/understanding-ai-trajectories-mapping-the-limitations-of-current-ai-systems" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/research/understanding-ai-trajectories-mapping-the-limitations-of-current-ai-systems</a>  
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2310.18244](https://arxiv.org/abs/2310.18244)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivA Review of the Evidence for Existential Risk from AI via Misaligned Power-SeekingOctober 27, 2023...</p></details>
+   Link: <a href="https://arxiv.org/abs/2310.18244" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2310.18244</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Review of the Evidence for Existential Risk from AI via Misaligned Power-SeekingOctober 27, 2023...</p></details>
    Published: October 27, 2023  
 
 3. <a id="endnote-3"></a>
    Source: catalyzex.com  
-   Link: [https://www.catalyzex.com/paper/a-review-of-the-evidence-for-existential-risk](https://www.catalyzex.com/paper/a-review-of-the-evidence-for-existential-risk)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CatalyzeXA Review of the Evidence for Existential Risk from AI via Misaligned Power-SeekingOctober 27, 2023...</p></details>
+   Link: <a href="https://www.catalyzex.com/paper/a-review-of-the-evidence-for-existential-risk" target="_blank" rel="noopener noreferrer nofollow">https://www.catalyzex.com/paper/a-review-of-the-evidence-for-existential-risk</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Review of the Evidence for Existential Risk from AI via Misaligned Power-SeekingOctober 27, 2023...</p></details>
    Published: October 27, 2023  
 
 4. <a id="endnote-4"></a>
    Source: vox.com  
    Title: How can you know if an AI is plotting against you?  
-   Link: [https://www.vox.com/future-perfect/420755/ai-scheming-deception-lessons-from-a-chimp](https://www.vox.com/future-perfect/420755/ai-scheming-deception-lessons-from-a-chimp)  
+   Link: <a href="https://www.vox.com/future-perfect/420755/ai-scheming-deception-lessons-from-a-chimp" target="_blank" rel="noopener noreferrer nofollow">https://www.vox.com/future-perfect/420755/ai-scheming-deception-lessons-from-a-chimp</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A team led by Oxford neuroscientist Christopher Summerfield draws parallels with 20th-century ape language studies, where scientists misi...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/Delivery.cfm/6786058.pdf?abstractid=6786058&mirid=1](https://papers.ssrn.com/sol3/Delivery.cfm/6786058.pdf?abstractid=6786058&mirid=1)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SSRNAssessing the Empirical Evidence for Loss of Control from Agentic General-Purpose AI by Risto Uuk, Santeri Koivula, Lorenzo Pacchiard...</p></details>
+   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/6786058.pdf?abstractid=6786058&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/6786058.pdf?abstractid=6786058&amp;mirid=1</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing the Empirical Evidence for Loss of Control from Agentic General-Purpose AI by Risto Uuk, Santeri Koivula, Lorenzo Pacchiard...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a](https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a)  
+   Link: <a href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>28, 2025...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai/international-scientific-report-on-the-safety-of-advanced-ai-interim-report](https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai/international-scientific-report-on-the-safety-of-advanced-ai-interim-report)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LOSS OF CONTROL KEY INFORMATION * Ongoing AI ([artificial](&amp;#123;&amp;#123; &#x27;artificial-goals/&#x27; | relative_url &amp;#125;&amp;#125;) intelligence) research is seeking to develop more capable ‘general-purpose AI (a...</p></details>
+   Link: <a href="https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai/international-scientific-report-on-the-safety-of-advanced-ai-interim-report" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai/international-scientific-report-on-the-safety-of-advanced-ai-interim-report</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>LOSS OF CONTROL KEY INFORMATION * Ongoing AI (artificial intelligence) research is seeking to develop more capable ‘general-purpose AI (a...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: GOV.UK  
    Title: Use of capabilities: Would some AI systems actual  
-   Link: [https://www.gov.uk/government/publications/international-ai-safety-report-2025/international-ai-safety-report-2025](https://www.gov.uk/government/publications/international-ai-safety-report-2025/international-ai-safety-report-2025)  
+   Link: <a href="https://www.gov.uk/government/publications/international-ai-safety-report-2025/international-ai-safety-report-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/international-ai-safety-report-2025/international-ai-safety-report-2025</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>www.gov.uk[Withdrawn] International AI Safety Report 2025 - GOV.UKFebruary 18, 2025 — (Note that the minimum capabilities needed would pa...</p></details>
    Published: February 18, 2025  
 
 9. <a id="endnote-9"></a>
    Source: longtermwiki.com  
    Title: Longterm Wiki Instrumental Convergence | Longterm Wiki  
-   Link: [https://www.longtermwiki.com/knowledge-base/risks/instrumental-convergence/](https://www.longtermwiki.com/knowledge-base/risks/instrumental-convergence/)  
+   Link: <a href="https://www.longtermwiki.com/knowledge-base/risks/instrumental-convergence/" target="_blank" rel="noopener noreferrer nofollow">https://www.longtermwiki.com/knowledge-base/risks/instrumental-convergence/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Longterm WikiInstrumental Convergence | Longterm WikiJanuary 29, 2026...</p></details>
    Published: January 29, 2026  
 
 10. <a id="endnote-10"></a>
    Source: aiwiki.ai  
    Title: AI Wiki Existential risk from AI | AI Wiki  
-   Link: [https://aiwiki.ai/wiki/ai_existential_risk](https://aiwiki.ai/wiki/ai_existential_risk)  
+   Link: <a href="https://aiwiki.ai/wiki/ai_existential_risk" target="_blank" rel="noopener noreferrer nofollow">https://aiwiki.ai/wiki/ai_existential_risk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI WikiExistential risk from AI | AI WikiMarch 25, 2026...</p></details>
    Published: March 25, 2026  
 
 11. <a id="endnote-11"></a>
    Source: longtermwiki.com  
    Title: Model Organisms of Misalignment | Longterm Wiki  
-   Link: [https://www.longtermwiki.com/wiki/E419](https://www.longtermwiki.com/wiki/E419)  
+   Link: <a href="https://www.longtermwiki.com/wiki/E419" target="_blank" rel="noopener noreferrer nofollow">https://www.longtermwiki.com/wiki/E419</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>February 1, 2026 — CRITICISMS AND CONCERNS METHODOLOGICAL LIMITATIONS Critics raise several concerns about the validity and informativene...</p></details>
    Published: February 1, 2026  
 
@@ -775,63 +775,63 @@ For deeper exploration of these issues, see related discussions on the *instrume
 
 12. <a id="endnote-12"></a>
    Source: decrypt.co  
-   Link: [https://decrypt.co/341978/ai-study-chatbots-strategically-lie-current-safety-tools-cant-catch-them?amp=1](https://decrypt.co/341978/ai-study-chatbots-strategically-lie-current-safety-tools-cant-catch-them?amp=1)  
+   Link: <a href="https://decrypt.co/341978/ai-study-chatbots-strategically-lie-current-safety-tools-cant-catch-them?amp=1" target="_blank" rel="noopener noreferrer nofollow">https://decrypt.co/341978/ai-study-chatbots-strategically-lie-current-safety-tools-cant-catch-them?amp=1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Study Finds Chatbots Can Strategically Lie—And Current Safety Tools Can&#x27;t Catch Them - DecryptSeptember 29, 2025 — AI STUDY FINDS CHAT...</p></details>
    Published: September 29, 2025  
 
 13. <a id="endnote-13"></a>
    Source: scientificamerican.com  
-   Link: [https://www.scientificamerican.com/article/ai-is-too-unpredictable-to-behave-according-to-human-goals/](https://www.scientificamerican.com/article/ai-is-too-unpredictable-to-behave-according-to-human-goals/)  
+   Link: <a href="https://www.scientificamerican.com/article/ai-is-too-unpredictable-to-behave-according-to-human-goals/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/ai-is-too-unpredictable-to-behave-according-to-human-goals/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Is Too Unpredictable to Behave According to Human Goals | Scientific AmericanJanuary 27, 2025 — January 27, 2025 AI Is Too Unpredictab...</p></details>
    Published: January 27, 2025  
 
 14. <a id="endnote-14"></a>
    Source: cris.fau.de  
    Title: de Current cases of AI misalignment and their implications for future risks  
-   Link: [https://cris.fau.de/publications/313453060/](https://cris.fau.de/publications/313453060/)  
+   Link: <a href="https://cris.fau.de/publications/313453060/" target="_blank" rel="noopener noreferrer nofollow">https://cris.fau.de/publications/313453060/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>cases of AI misalignment and their implications for future risks - FAU CRISCURRENT CASES OF AI MISALIGNMENT AND THEIR IMPLICATIONS FOR FU...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: brookings.edu  
    Title: Are AI existential risks real—and what should we do about them?  
-   Link: [https://www.brookings.edu/articles/are-ai-existential-risks-real-and-what-should-we-do-about-them/](https://www.brookings.edu/articles/are-ai-existential-risks-real-and-what-should-we-do-about-them/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| BrookingsJuly 11, 2025 — AI firms are not very close to developing an AI system with capabilities that could threaten us. This assertio...</p></details>
+   Link: <a href="https://www.brookings.edu/articles/are-ai-existential-risks-real-and-what-should-we-do-about-them/" target="_blank" rel="noopener noreferrer nofollow">https://www.brookings.edu/articles/are-ai-existential-risks-real-and-what-should-we-do-about-them/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>BrookingsJuly 11, 2025 — AI firms are not very close to developing an AI system with capabilities that could threaten us. This assertio...</p></details>
    Published: July 11, 2025  
 
 16. <a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Jake Tapper: “You’ve spoken out s  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11117051/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11117051/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11117051/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11117051/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>deception: A survey of examples, risks, and potential solutions - PMCMay 10, 2024 — INTRODUCTION In a recent interview with CNN journalis...</p></details>
    Published: May 10, 2024  
 
 17. <a id="endnote-17"></a>
    Source: koncentrik.co  
    Title: Why Simulating Strategy Is Not Intelligence  
-   Link: [https://www.koncentrik.co/p/why-simulating-strategy-is-not-intelligence](https://www.koncentrik.co/p/why-simulating-strategy-is-not-intelligence)  
+   Link: <a href="https://www.koncentrik.co/p/why-simulating-strategy-is-not-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.koncentrik.co/p/why-simulating-strategy-is-not-intelligence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>July 21, 2025 — WHY SIMULATING STRATEGY IS NOT INTELLIGENCE WHAT THE LATEST RESEARCH ON GAME THEORY AND LLMS REVEALS ABOUT TRUE MACHINE R...</p></details>
    Published: July 21, 2025  
 
 18. <a id="endnote-18"></a>
    Source: sciencedirect.com  
    Title: Beyond Intentions: A Critical Survey of Misalignment in LLMs  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1546221825007982](https://www.sciencedirect.com/science/article/pii/S1546221825007982)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1546221825007982" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1546221825007982</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Outer Alignment concerns whether the goal functions (e.g., reward functions) we set for the...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: citedrive.com  
    Title: Baum Show PDF Cite  
-   Link: [https://www.citedrive.com/en/discovery/assessing-the-risk-of-takeover-catastrophe-from-large-language-models/](https://www.citedrive.com/en/discovery/assessing-the-risk-of-takeover-catastrophe-from-large-language-models/)  
+   Link: <a href="https://www.citedrive.com/en/discovery/assessing-the-risk-of-takeover-catastrophe-from-large-language-models/" target="_blank" rel="noopener noreferrer nofollow">https://www.citedrive.com/en/discovery/assessing-the-risk-of-takeover-catastrophe-from-large-language-models/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[PDF] Assessing the risk of takeover catastrophe from large language models | CiteDriveOUTLINE * Abstract DOI: 10.1111/risa.14353 ISSN: 0...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Francois Chollet — Why the biggest AI models can't solve simple puzzles  
-   Link: [https://www.youtube.com/watch?v=UakqL6Pj9xo](https://www.youtube.com/watch?v=UakqL6Pj9xo)  
+   Link: <a href="https://www.youtube.com/watch?v=UakqL6Pj9xo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UakqL6Pj9xo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Melanie Mitchell - Existential risk from AI: A skeptical perspective...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: metr.org  
    Title: 2026 05 19 frontier risk report  
-   Link: [https://metr.org/blog/2026-05-19-frontier-risk-report/](https://metr.org/blog/2026-05-19-frontier-risk-report/)  
+   Link: <a href="https://metr.org/blog/2026-05-19-frontier-risk-report/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/blog/2026-05-19-frontier-risk-report/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>As we explain below, METR’s core concern is tracking the risk of scenarios in which powerful AI a...</p></details>

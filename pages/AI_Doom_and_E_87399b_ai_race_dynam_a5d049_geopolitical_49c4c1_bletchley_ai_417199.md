@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1_compute_monit_043a89
 - AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1_race_pressure_c5dcfd
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - race-pressure
 - geopolitics
 - bletchley
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - race-pressure
 - geopolitics
 - bletchley
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: The Bletchley Declaration shows that rival governments can agree on frontier AI risks, but declarations are not the same as restraint.
 hero_summary: The Bletchley Declaration shows that rival governments can agree on frontier AI risks, but declarations are not the same as restraint.
 layout: default
 permalink: /bletchley/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /race-pressure/
 - /geopolitics/
 nav_short_title: Bletchley
@@ -211,10 +211,10 @@ parent_heading_title: Can Countries Slow Down Without Falling Behind?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_ai_race_dynam_a5d049
-  title: Race Pressure | AI Doom and
+  title: Race Pressure | AI Doom and E 87399 b
   permalink: /race-pressure/
   short_title: Race Pressure
   heading_title: Why AI Races Can Make Safety Harder
@@ -226,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_ai_race_dynam_a5d049
-  title: Race Pressure | AI Doom and
+  title: Race Pressure | AI Doom and E 87399 b
   permalink: /race-pressure/
   short_title: Race Pressure
   heading_title: Why AI Races Can Make Safety Harder
@@ -269,7 +269,7 @@ image: /assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c
 
 ## Introduction
 
-Did the Bletchley Declaration prove that [geopolitical]({{ 'geopolitics/' | relative_url }}) rivals can cooperate on AI safety? It provided some of the strongest evidence so far that they can, at least to a limited extent. In November 2023, governments including the United States, China, the United Kingdom, EU member states and many others jointly acknowledged that advanced “frontier AI” systems could create serious risks and that international cooperation was needed. For observers worried about AI doom, x-risk, or a loss-of-control scenario, that agreement mattered because it challenged the idea that major powers were completely incapable of coordinating on AI safety. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">The Bletchley Declaration by Countries Attending the AI...2 Nov 2023 — The Bletchley Declaration by Countries Attending the AI Safety Su...</span><span class="citation-popover-meta">Published: november 2023</span></span></span>
+Did the Bletchley Declaration prove that geopolitical rivals can cooperate on AI safety? It provided some of the strongest evidence so far that they can, at least to a limited extent. In November 2023, governments including the United States, China, the United Kingdom, EU member states and many others jointly acknowledged that advanced “frontier AI” systems could create serious risks and that international cooperation was needed. For observers worried about AI doom, x-risk, or a loss-of-control scenario, that agreement mattered because it challenged the idea that major powers were completely incapable of coordinating on AI safety. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">The Bletchley Declaration by Countries Attending the AI...2 Nov 2023 — The Bletchley Declaration by Countries Attending the AI Safety Su...</span><span class="citation-popover-meta">Published: november 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1_bletchley_ai_417199-Illustration-1-dark.svg" | relative_url }}" alt="Bletchley illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1_bletchley_ai_417199-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1_bletchley_ai_417199-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -283,7 +283,7 @@ For readers interested in AI existential risk, the most important aspect was not
 
 This was significant because many discussions of AI doom assume that governments will deny, ignore or downplay frontier AI risks until it is too late. Bletchley showed that leading governments were at least willing to publicly acknowledge such risks. It also established a common vocabulary around “frontier AI”, helping move discussion away from purely commercial questions and towards the possibility of large-scale or even [catastrophic]({{ 'misuse/' | relative_url }}) failures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/topical-events/ai-safety-summit-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ai safety summit 2023</span><span class="citation-popover-snippet">Safety Summit 2023The AI Safety Summit 2023 is a major global event that will take place on the 1 and 2 November at Bletchley Park, Bucki...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ai safety summit 2023 the bletchley declaration</span><span class="citation-popover-snippet">Safety Summit 2023: The Bletchley DeclarationNov 1, 2023 — The Bletchley Declaration on AI Safety announces a new global effort to unlock...</span></span></span>
 
-Another notable feature was China's participation. Many commentators had assumed that growing geopolitical tensions would make even symbolic agreement difficult. The fact that China joined the declaration alongside Western governments became one of the most frequently cited examples of international AI safety cooperation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/technology/britain-brings-together-political-tech-leaders-talk-ai-2023-11-01/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">britain brings together political tech leaders talk ai 2023 11 01</span><span class="citation-popover-snippet">ReutersAI Safety Summit: China, US and EU agree to work together1 Nov 2023 — China agreed to work with the United States, European Union...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.belganewsagency.eu/us-china-and-eu-sign-statement-on-artificial-intelligence-risks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: belganewsagency.eu">[2belganewsagency.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">belganewsagency.eu</span><span class="citation-popover-title">us china and eu sign statement on artificial intelligence risks</span><span class="citation-popover-snippet">US, China and EU sign statement on risks of artificial...1 Nov 2023 — China, the US, the EU and 25 other countries have signed the first...</span></span></span>
+Another notable feature was China's participation. Many commentators had assumed that growing geopolitical tensions would make even symbolic agreement difficult. The fact that China joined the declaration alongside Western governments became one of the most frequently cited examples of international AI safety cooperation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/technology/britain-brings-together-political-tech-leaders-talk-ai-2023-11-01/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">britain brings together political tech leaders talk ai 2023 11 01</span><span class="citation-popover-snippet">AI Safety Summit: China, US and EU agree to work together1 Nov 2023 — China agreed to work with the United States, European Union...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.belganewsagency.eu/us-china-and-eu-sign-statement-on-artificial-intelligence-risks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: belganewsagency.eu">[2belganewsagency.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">belganewsagency.eu</span><span class="citation-popover-title">us china and eu sign statement on artificial intelligence risks</span><span class="citation-popover-snippet">US, China and EU sign statement on risks of artificial...1 Nov 2023 — China, the US, the EU and 25 other countries have signed the first...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iBcRWPkv-E0" title="Perspective - AI: The Road Ahead | 09 November, 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iBcRWPkv-E0" target="_blank" rel="noopener noreferrer">Perspective - AI: The Road Ahead | 09 November, 2023</a></p><p class="youtube-embed-meta">Channel: Sansad TV &middot; Views: 72.8K &middot; Uploaded: November 2023 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iBcRWPkv-E0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iBcRWPkv-E0">Open on YouTube</a></p></div></div></div>
@@ -292,13 +292,13 @@ Another notable feature was China's participation. Many commentators had assumed
 
 The strongest objection to treating Bletchley as decisive evidence against AI-race fears is that declarations and practical restraint are different things.
 
-Countries can agree that a technology is [dangerous]({{ 'autonomy/' | relative_url }}) while simultaneously competing to gain advantages from it. Nuclear weapons provide one historical example: rival states eventually developed treaties and communication channels, but intense competition continued throughout much of the nuclear age. AI could follow a similar pattern, where cooperation and competition coexist rather than one replacing the other.
+Countries can agree that a technology is dangerous while simultaneously competing to gain advantages from it. Nuclear weapons provide one historical example: rival states eventually developed treaties and communication channels, but intense competition continued throughout much of the nuclear age. AI could follow a similar pattern, where cooperation and competition coexist rather than one replacing the other.
 
 This tension was visible even at the time of the summit. Governments emphasised safety concerns, yet they also continued investing heavily in AI capabilities, infrastructure and strategic AI leadership. Analysts noted that the same countries discussing catastrophic risks were also seeking economic and national-security advantages from advanced AI systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/uk-ai-summit-declaration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">World Powers Say They Want to Contain AI</span><span class="citation-popover-snippet">They&#x27;re Also Racing to Advance ItNovember 2, 2023 — On November 1, 2023, twenty-eight countries, including the US, EU members, and China...</span><span class="citation-popover-meta">Published: November 2, 2023</span></span></span>
 
 From an AI doom perspective, this matters because existential-risk concerns are often driven by timing. If advanced systems become extremely powerful before effective safeguards exist, then recognising the danger may not be enough. The crucial question is whether governments would accept meaningful slowdowns, restrictions or [monitoring]({{ 'monitoring/' | relative_url }}) requirements if these appeared to reduce their competitive position.
 
-The Bletchley Declaration did not answer that question. It created a framework for discussion and cooperation, but it did not require signatories to cap computing resources, pause development, restrict [deployment]({{ 'release-gates/' | relative_url }}) or accept external verification. It was explicitly a political declaration rather than a binding treaty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://regulations.ai/regulations/RAI-GB-NA-BDO2AXX-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: regulations.ai">[Regulations.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">regulations.ai</span><span class="citation-popover-snippet">Bletchley Declaration (outcome of 2023 AI Safety Summit)6 Jan 2026 — It sets out a shared agenda to identify AI safety risks of common co...</span></span></span>
+The Bletchley Declaration did not answer that question. It created a framework for discussion and cooperation, but it did not require signatories to cap computing resources, pause development, restrict deployment or accept external verification. It was explicitly a political declaration rather than a binding treaty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://regulations.ai/regulations/RAI-GB-NA-BDO2AXX-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: regulations.ai">[Regulations.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">regulations.ai</span><span class="citation-popover-snippet">Bletchley Declaration (outcome of 2023 AI Safety Summit)6 Jan 2026 — It sets out a shared agenda to identify AI safety risks of common co...</span></span></span>
 
 For that reason, sceptics of international coordination often describe Bletchley as evidence of diplomatic goodwill rather than evidence that an AI race has been avoided.
 
@@ -310,7 +310,7 @@ Although the declaration itself was non-binding, it helped launch several follow
 
 One example was the growth of AI Safety Institutes and international testing cooperation. The United Kingdom and United States later formalised collaboration on evaluating advanced models and sharing technical information about AI safety testing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/6962503/ai-artificial-intelligence-uk-us-safety/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">U.S., U.K</span><span class="citation-popover-snippet">Announce Partnership to Safety Test AI ModelsApril 2, 2024 — The U.S. and U.K. governments announced a partnership to collaborate on safe...</span><span class="citation-popover-meta">Published: April 2, 2024</span></span></span>
 
-Another was the creation of international scientific assessment efforts. The International AI Safety Report, involving experts nominated by governments and international organisations, traces its origins to commitments made through the Bletchley process. The goal was to establish a shared evidence base about AI capabilities and risks rather than forcing countries to rely entirely on their own assessments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2501.17805" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv International AI Safety Report</span><span class="citation-popover-snippet">arXivInternational AI Safety ReportJanuary 29, 2025...</span><span class="citation-popover-meta">Published: January 29, 2025</span></span></span>
+Another was the creation of international scientific assessment efforts. The International AI Safety Report, involving experts nominated by governments and international organisations, traces its origins to commitments made through the Bletchley process. The goal was to establish a shared evidence base about AI capabilities and risks rather than forcing countries to rely entirely on their own assessments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2501.17805" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv International AI Safety Report</span><span class="citation-popover-snippet">International AI Safety ReportJanuary 29, 2025...</span><span class="citation-popover-meta">Published: January 29, 2025</span></span></span>
 
 These developments are important because coordination problems often begin with disagreements about facts. If countries cannot even agree on what frontier systems are capable of or what risks they pose, cooperation becomes much harder. Bletchley helped create institutions aimed at producing a common understanding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">The Bletchley Declaration by Countries Attending the AI...2 Nov 2023 — The Bletchley Declaration by Countries Attending the AI Safety Su...</span><span class="citation-popover-meta">Published: november 2023</span></span></span>
 
@@ -321,7 +321,7 @@ Still, these initiatives largely focused on information sharing, evaluation and 
 
 ## What would count as stronger evidence?
 
-For readers assessing claims about [AI doom and]({{ 'ai-doom-and/' | relative_url }}) geopolitical competition, the key issue is what level of cooperation would genuinely reduce fears of a dangerous race.
+For readers assessing claims about AI doom and geopolitical competition, the key issue is what level of cooperation would genuinely reduce fears of a dangerous race.
 
 Stronger evidence would include measures such as:
 
@@ -337,7 +337,7 @@ Stronger evidence would include measures such as:
 
 </div>
 
-Many proposed AI-governance frameworks focus on these kinds of measures because they move beyond statements of intent and create incentives that can survive periods of geopolitical tension. Some proposals even draw explicit comparisons with arms-control regimes, though AI presents different technical and political challenges. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2501.17805" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv International AI Safety Report</span><span class="citation-popover-snippet">arXivInternational AI Safety ReportJanuary 29, 2025...</span><span class="citation-popover-meta">Published: January 29, 2025</span></span></span>
+Many proposed AI-governance frameworks focus on these kinds of measures because they move beyond statements of intent and create incentives that can survive periods of geopolitical tension. Some proposals even draw explicit comparisons with arms-control regimes, though AI presents different technical and political challenges. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2501.17805" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv International AI Safety Report</span><span class="citation-popover-snippet">International AI Safety ReportJanuary 29, 2025...</span><span class="citation-popover-meta">Published: January 29, 2025</span></span></span>
 
 From the perspective of AI doom debates, the strongest evidence against race-driven catastrophe would not be a declaration acknowledging risks. It would be proof that rival governments are willing to accept meaningful constraints on themselves.
 
@@ -345,7 +345,7 @@ From the perspective of AI doom debates, the strongest evidence against race-dri
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1_bletchley_ai_417199-Illustration-3-dark.svg" | relative_url }}" alt="Bletchley illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1_bletchley_ai_417199-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1_bletchley_ai_417199-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How much weight should doom-oriented readers place on Bletchley?
 
-The Bletchley Declaration is best viewed as moderate evidence for cooperation and weak evidence for restraint.
+The Bletchley Declaration is best viewed as moderate evidence for cooperation and [weak evidence]({{ 'weak-evidence/' | relative_url }}) for restraint.
 
 It demonstrated that governments often portrayed as rivals can publicly recognise frontier AI risks, use common language about catastrophic harms, and create institutions for scientific collaboration. That outcome was more cooperative than many pessimists expected before the summit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/countries-agree-to-safe-and-responsible-development-of-frontier-ai-in-landmark-bletchley-declaration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">Countries agree to safe and responsible development of...1 Nov 2023 — Leading AI nations have reached a world-first agreement at Bletchl...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/technology/2023/nov/01/uk-us-eu-and-china-sign-declaration-of-ais-catastrophic-danger" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">Bletchley summit communique does not agree to set up testing hub in UK.Read more</span><span class="citation-popover-snippet">The GuardianUK, US, EU and China sign declaration of AI&#x27;s &#x27;catastrophic&#x27;...1 Nov 2023 — UK, US, EU and China sign declaration of AI&#x27;s &#x27;c...</span></span></span>
 
@@ -778,204 +778,204 @@ As evidence in the AI doom debate, Bletchley therefore occupies a middle positio
 
 1. <a id="endnote-1"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023](https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023)  
+   Link: <a href="https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Bletchley Declaration by Countries Attending the AI...2 Nov 2023 — The Bletchley Declaration by Countries Attending the AI Safety Su...</p></details>
    Published: november 2023  
 
 2. <a id="endnote-2"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/news/countries-agree-to-safe-and-responsible-development-of-frontier-ai-in-landmark-bletchley-declaration](https://www.gov.uk/government/news/countries-agree-to-safe-and-responsible-development-of-frontier-ai-in-landmark-bletchley-declaration)  
+   Link: <a href="https://www.gov.uk/government/news/countries-agree-to-safe-and-responsible-development-of-frontier-ai-in-landmark-bletchley-declaration" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/countries-agree-to-safe-and-responsible-development-of-frontier-ai-in-landmark-bletchley-declaration</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Countries agree to safe and responsible development of...1 Nov 2023 — Leading AI nations have reached a world-first agreement at Bletchl...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reuters.com  
    Title: britain brings together political tech leaders talk ai 2023 11 01  
-   Link: [https://www.reuters.com/technology/britain-brings-together-political-tech-leaders-talk-ai-2023-11-01/](https://www.reuters.com/technology/britain-brings-together-political-tech-leaders-talk-ai-2023-11-01/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ReutersAI Safety Summit: China, US and EU agree to work together1 Nov 2023 — China agreed to work with the United States, European Union...</p></details>
+   Link: <a href="https://www.reuters.com/technology/britain-brings-together-political-tech-leaders-talk-ai-2023-11-01/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/britain-brings-together-political-tech-leaders-talk-ai-2023-11-01/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Safety Summit: China, US and EU agree to work together1 Nov 2023 — China agreed to work with the United States, European Union...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: industry.gov.au  
    Title: bletchley declaration countries attending ai safety summit 1 2 november 2023  
-   Link: [https://www.industry.gov.au/publications/bletchley-declaration-countries-attending-ai-safety-summit-1-2-november-2023](https://www.industry.gov.au/publications/bletchley-declaration-countries-attending-ai-safety-summit-1-2-november-2023)  
+   Link: <a href="https://www.industry.gov.au/publications/bletchley-declaration-countries-attending-ai-safety-summit-1-2-november-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.industry.gov.au/publications/bletchley-declaration-countries-attending-ai-safety-summit-1-2-november-2023</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Bletchley Declaration by Countries Attending the AI...2 Nov 2023 — The Bletchley Declaration establishes a shared understanding of t...</p></details>
    Published: november 2023  
 
 5. <a id="endnote-5"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/publications/ai-safety-summit-2023-chairs-statement-state-of-the-science-2-november/state-of-the-science-report-to-understand-capabilities-and-risks-of-frontier-ai-statement-by-the-chair-2-november-2023](https://www.gov.uk/government/publications/ai-safety-summit-2023-chairs-statement-state-of-the-science-2-november/state-of-the-science-report-to-understand-capabilities-and-risks-of-frontier-ai-statement-by-the-chair-2-november-2023)  
+   Link: <a href="https://www.gov.uk/government/publications/ai-safety-summit-2023-chairs-statement-state-of-the-science-2-november/state-of-the-science-report-to-understand-capabilities-and-risks-of-frontier-ai-statement-by-the-chair-2-november-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-safety-summit-2023-chairs-statement-state-of-the-science-2-november/state-of-the-science-report-to-understand-capabilities-and-risks-of-frontier-ai-statement-by-the-chair-2-november-2023</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;State of the Science&#x27; Report to Understand Capabilities...Nov 2, 2023 — The intention of the &#x27;State of the Science&#x27; Report is to facili...</p></details>
    Published: november 2023  
 
 6. <a id="endnote-6"></a>
    Source: belganewsagency.eu  
-   Title: us china and eu sign statement on [artificial](&#123;&#123; 'artificial-goals/' | relative_url &#125;&#125;) intelligence risks  
-   Link: [https://www.belganewsagency.eu/us-china-and-eu-sign-statement-on-artificial-intelligence-risks](https://www.belganewsagency.eu/us-china-and-eu-sign-statement-on-artificial-intelligence-risks)  
+   Title: us china and eu sign statement on artificial intelligence risks  
+   Link: <a href="https://www.belganewsagency.eu/us-china-and-eu-sign-statement-on-artificial-intelligence-risks" target="_blank" rel="noopener noreferrer nofollow">https://www.belganewsagency.eu/us-china-and-eu-sign-statement-on-artificial-intelligence-risks</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>US, China and EU sign statement on risks of artificial...1 Nov 2023 — China, the US, the EU and 25 other countries have signed the first...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: wired.com  
    Title: World Powers Say They Want to Contain AI  
-   Link: [https://www.wired.com/story/uk-ai-summit-declaration](https://www.wired.com/story/uk-ai-summit-declaration)  
+   Link: <a href="https://www.wired.com/story/uk-ai-summit-declaration" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/uk-ai-summit-declaration</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>They&#x27;re Also Racing to Advance ItNovember 2, 2023 — On November 1, 2023, twenty-eight countries, including the US, EU members, and China...</p></details>
    Published: November 2, 2023  
 
 8. <a id="endnote-8"></a>
    Source: regulations.ai  
-   Link: [https://regulations.ai/regulations/RAI-GB-NA-BDO2AXX-2023](https://regulations.ai/regulations/RAI-GB-NA-BDO2AXX-2023)  
+   Link: <a href="https://regulations.ai/regulations/RAI-GB-NA-BDO2AXX-2023" target="_blank" rel="noopener noreferrer nofollow">https://regulations.ai/regulations/RAI-GB-NA-BDO2AXX-2023</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bletchley Declaration (outcome of 2023 AI Safety Summit)6 Jan 2026 — It sets out a shared agenda to identify AI safety risks of common co...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: time.com  
    Title: U.S., U.K  
-   Link: [https://time.com/6962503/ai-artificial-intelligence-uk-us-safety/](https://time.com/6962503/ai-artificial-intelligence-uk-us-safety/)  
+   Link: <a href="https://time.com/6962503/ai-artificial-intelligence-uk-us-safety/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6962503/ai-artificial-intelligence-uk-us-safety/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Announce Partnership to Safety Test AI ModelsApril 2, 2024 — The U.S. and U.K. governments announced a partnership to collaborate on safe...</p></details>
    Published: April 2, 2024  
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
    Title: arXiv International AI Safety Report  
-   Link: [https://arxiv.org/abs/2501.17805](https://arxiv.org/abs/2501.17805)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivInternational AI Safety ReportJanuary 29, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2501.17805" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2501.17805</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>International AI Safety ReportJanuary 29, 2025...</p></details>
    Published: January 29, 2025  
 
 11. <a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2602.21012](https://arxiv.org/abs/2602.21012)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivInternational AI Safety Report 2026...</p></details>
+   Link: <a href="https://arxiv.org/abs/2602.21012" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2602.21012</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>International AI Safety Report 2026...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2311.10748](https://arxiv.org/abs/2311.10748)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivAn international treaty to implement a global compute cap for advanced artificial intelligenceNovember 1, 2023...</p></details>
+   Link: <a href="https://arxiv.org/abs/2311.10748" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2311.10748</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>An international treaty to implement a global compute cap for advanced artificial intelligenceNovember 1, 2023...</p></details>
    Published: November 1, 2023  
 
 13. <a id="endnote-13"></a>
    Source: arxiv.org  
    Title: arXiv Frontier AI Regulation: Managing Emerging Risks to Public Safety  
-   Link: [https://arxiv.org/abs/2307.03718](https://arxiv.org/abs/2307.03718)  
+   Link: <a href="https://arxiv.org/abs/2307.03718" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2307.03718</a>  
 
 14. <a id="endnote-14"></a>
    Source: minister.industry.gov.au  
    Title: australia signs bletchley declaration ai safety summit  
-   Link: [https://www.minister.industry.gov.au/ministers/husic/media-releases/australia-signs-bletchley-declaration-ai-safety-summit](https://www.minister.industry.gov.au/ministers/husic/media-releases/australia-signs-bletchley-declaration-ai-safety-summit)  
+   Link: <a href="https://www.minister.industry.gov.au/ministers/husic/media-releases/australia-signs-bletchley-declaration-ai-safety-summit" target="_blank" rel="noopener noreferrer nofollow">https://www.minister.industry.gov.au/ministers/husic/media-releases/australia-signs-bletchley-declaration-ai-safety-summit</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>artificial intelligence (AI). Australia, alongside the EU and 27 countries, including the US, UK and China, signed the Bletchley Declarat...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: assets.publishing.service.gov.uk  
    Title: aiss statement state of science report  
-   Link: [https://assets.publishing.service.gov.uk/media/6543b759d36c910012935cad/aiss-statement-state-of-science-report.pdf](https://assets.publishing.service.gov.uk/media/6543b759d36c910012935cad/aiss-statement-state-of-science-report.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/6543b759d36c910012935cad/aiss-statement-state-of-science-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6543b759d36c910012935cad/aiss-statement-state-of-science-report.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and risks of frontier AI. This comes as part of the commitment in the Bletchley Declaration.Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: assets.publishing.service.gov.uk  
    Title: publishing.service.gov.uk Chair's  
-   Link: [https://assets.publishing.service.gov.uk/media/6543e0b61f1a60000d360d2b/aiss-chair-statement.pdf](https://assets.publishing.service.gov.uk/media/6543e0b61f1a60000d360d2b/aiss-chair-statement.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/6543e0b61f1a60000d360d2b/aiss-chair-statement.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6543e0b61f1a60000d360d2b/aiss-chair-statement.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>publishing.service.gov.ukChair&#x27;s Summary of the AI Safety Summit 2023, Bletchley...1 Nov 2023 — This Summit, the first of its kind, was...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: GOV.UK  
    Title: ai safety summit 2023  
-   Link: [https://www.gov.uk/government/topical-events/ai-safety-summit-2023](https://www.gov.uk/government/topical-events/ai-safety-summit-2023)  
+   Link: <a href="https://www.gov.uk/government/topical-events/ai-safety-summit-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/topical-events/ai-safety-summit-2023</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Safety Summit 2023The AI Safety Summit 2023 is a major global event that will take place on the 1 and 2 November at Bletchley Park, Bucki...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: GOV.UK  
    Title: ai safety summit 2023 the bletchley declaration  
-   Link: [https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration](https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration)  
+   Link: <a href="https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Safety Summit 2023: The Bletchley DeclarationNov 1, 2023 — The Bletchley Declaration on AI Safety announces a new global effort to unlock...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: time.com  
    Title: us china ai safety summit  
-   Link: [https://time.com/6331320/us-china-ai-safety-summit/](https://time.com/6331320/us-china-ai-safety-summit/)  
+   Link: <a href="https://time.com/6331320/us-china-ai-safety-summit/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6331320/us-china-ai-safety-summit/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Safety Summit Puts U.S.-China Relations in the Spotlight3 Nov 2023 — The US and China were two of 29 countries to sign the Bletchley D...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=kXjmMB9YbJY](https://www.youtube.com/watch?v=kXjmMB9YbJY)  
+   Link: <a href="https://www.youtube.com/watch?v=kXjmMB9YbJY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kXjmMB9YbJY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Perspective - AI: The Road Ahead | 09 November, 2023...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=iBcRWPkv-E0](https://www.youtube.com/watch?v=iBcRWPkv-E0)  
+   Link: <a href="https://www.youtube.com/watch?v=iBcRWPkv-E0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iBcRWPkv-E0</a>  
 
 22. <a id="endnote-22"></a>
    Source: datamatters.sidley.com  
    Title: Data Matters Privacy Blog'World-First' Agreement on AI Reached  
-   Link: [https://datamatters.sidley.com/2023/12/07/world-first-agreement-on-ai-reached/](https://datamatters.sidley.com/2023/12/07/world-first-agreement-on-ai-reached/)  
+   Link: <a href="https://datamatters.sidley.com/2023/12/07/world-first-agreement-on-ai-reached/" target="_blank" rel="noopener noreferrer nofollow">https://datamatters.sidley.com/2023/12/07/world-first-agreement-on-ai-reached/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Matters - SidleyDec 7, 2023 — The “Bletchley Declaration” – described by the UK Government as a &#x27;world-first&#x27; agreement – was endors...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: theguardian.com  
    Title: Bletchley summit communique does not agree to set up testing hub in UK.Read more  
-   Link: [https://www.theguardian.com/technology/2023/nov/01/uk-us-eu-and-china-sign-declaration-of-ais-catastrophic-danger](https://www.theguardian.com/technology/2023/nov/01/uk-us-eu-and-china-sign-declaration-of-ais-catastrophic-danger)  
+   Link: <a href="https://www.theguardian.com/technology/2023/nov/01/uk-us-eu-and-china-sign-declaration-of-ais-catastrophic-danger" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2023/nov/01/uk-us-eu-and-china-sign-declaration-of-ais-catastrophic-danger</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianUK, US, EU and China sign declaration of AI&#x27;s &#x27;catastrophic&#x27;...1 Nov 2023 — UK, US, EU and China sign declaration of AI&#x27;s &#x27;c...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: theguardian.com  
    Title: us uk paris ai summit artificial intelligence declaration  
-   Link: [https://www.theguardian.com/technology/2025/feb/11/us-uk-paris-ai-summit-artificial-intelligence-declaration](https://www.theguardian.com/technology/2025/feb/11/us-uk-paris-ai-summit-artificial-intelligence-declaration)  
+   Link: <a href="https://www.theguardian.com/technology/2025/feb/11/us-uk-paris-ai-summit-artificial-intelligence-declaration" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2025/feb/11/us-uk-paris-ai-summit-artificial-intelligence-declaration</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The declaration emphasized the need for AI to be inclusive, ethical, safe, and sustainable. The UK cited insufficient clarity on global g...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Bletchley](https://en.wikipedia.org/wiki/Bletchley)  
+   Link: <a href="https://en.wikipedia.org/wiki/Bletchley" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bletchley</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BletchleyBletchley is a constituent town of Milton Keynes, a city in Buckinghamshire, England. It gives its name to a larger census &quot;b...</p></details>
 
 ### Additional References
 
 26. <a id="endnote-26"></a>
    Source: thetimes.co.uk  
-   Link: [https://www.thetimes.co.uk/article/ai-summit-draft-declaration-criticised-for-lack-of-safety-progress-0kz6znrf5](https://www.thetimes.co.uk/article/ai-summit-draft-declaration-criticised-for-lack-of-safety-progress-0kz6znrf5)  
+   Link: <a href="https://www.thetimes.co.uk/article/ai-summit-draft-declaration-criticised-for-lack-of-safety-progress-0kz6znrf5" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/ai-summit-draft-declaration-criticised-for-lack-of-safety-progress-0kz6znrf5</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The summit, co-hosted by President Macron and Indian Prime Minister Narendra Modi, gathers world leaders and key AI company heads. Attend...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: brookings.edu  
-   Link: [https://www.brookings.edu/articles/the-bletchley-park-process-could-be-a-building-block-for-global-cooperation-on-ai-safety/](https://www.brookings.edu/articles/the-bletchley-park-process-could-be-a-building-block-for-global-cooperation-on-ai-safety/)  
+   Link: <a href="https://www.brookings.edu/articles/the-bletchley-park-process-could-be-a-building-block-for-global-cooperation-on-ai-safety/" target="_blank" rel="noopener noreferrer nofollow">https://www.brookings.edu/articles/the-bletchley-park-process-could-be-a-building-block-for-global-cooperation-on-ai-safety/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Bletchley Park process could be a building block for...4 Oct 2024 — The Bletchley Park AI Safety Summit last November was launched a...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: silicon.co.uk  
    Title: ai safety summit 2023 uk us china eu sign declaration of ais danger 537097  
-   Link: [https://www.silicon.co.uk/e-innovation/artificial-intelligence/ai-safety-summit-2023-uk-us-china-eu-sign-declaration-of-ais-danger-537097](https://www.silicon.co.uk/e-innovation/artificial-intelligence/ai-safety-summit-2023-uk-us-china-eu-sign-declaration-of-ais-danger-537097)  
+   Link: <a href="https://www.silicon.co.uk/e-innovation/artificial-intelligence/ai-safety-summit-2023-uk-us-china-eu-sign-declaration-of-ais-danger-537097" target="_blank" rel="noopener noreferrer nofollow">https://www.silicon.co.uk/e-innovation/artificial-intelligence/ai-safety-summit-2023-uk-us-china-eu-sign-declaration-of-ais-danger-537097</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Safety Summit 2023: UK, US, China, EU Declaration2 Nov 2023 — Bletchley Declaration sees major nations all agreed that artificial inte...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: oxfordmartin.ox.ac.uk  
    Title: promising topics for us china dialogues on ai safety and governance  
-   Link: [https://www.oxfordmartin.ox.ac.uk/publications/promising-topics-for-us-china-dialogues-on-ai-safety-and-governance](https://www.oxfordmartin.ox.ac.uk/publications/promising-topics-for-us-china-dialogues-on-ai-safety-and-governance)  
+   Link: <a href="https://www.oxfordmartin.ox.ac.uk/publications/promising-topics-for-us-china-dialogues-on-ai-safety-and-governance" target="_blank" rel="noopener noreferrer nofollow">https://www.oxfordmartin.ox.ac.uk/publications/promising-topics-for-us-china-dialogues-on-ai-safety-and-governance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Topics for US–China Dialogues on AI… | Oxford...20 Jan 2025 — In 2023, both the US and China signed the Bletchley Declaration, acknowled...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: bradley.com  
    Title: ai regulation efforts are picking up key takeaways for businesses  
-   Link: [https://www.bradley.com/insights/publications/2023/11/ai-regulation-efforts-are-picking-up-key-takeaways-for-businesses](https://www.bradley.com/insights/publications/2023/11/ai-regulation-efforts-are-picking-up-key-takeaways-for-businesses)  
+   Link: <a href="https://www.bradley.com/insights/publications/2023/11/ai-regulation-efforts-are-picking-up-key-takeaways-for-businesses" target="_blank" rel="noopener noreferrer nofollow">https://www.bradley.com/insights/publications/2023/11/ai-regulation-efforts-are-picking-up-key-takeaways-for-businesses</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Regulation Efforts Are Picking Up: Key Takeaways for...9 Nov 2023 — Meanwhile, the 2023 AI Safety Summit, a key initiative for global...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: twobirds.com  
    Title: global superpowers sign agreement on ai safety at bletchley park  
-   Link: [https://www.twobirds.com/en/insights/2023/uk/global-superpowers-sign-agreement-on-ai-safety-at-bletchley-park](https://www.twobirds.com/en/insights/2023/uk/global-superpowers-sign-agreement-on-ai-safety-at-bletchley-park)  
+   Link: <a href="https://www.twobirds.com/en/insights/2023/uk/global-superpowers-sign-agreement-on-ai-safety-at-bletchley-park" target="_blank" rel="noopener noreferrer nofollow">https://www.twobirds.com/en/insights/2023/uk/global-superpowers-sign-agreement-on-ai-safety-at-bletchley-park</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Global superpowers sign agreement on AI safety at...22 Nov 2023 — A significant aspect of the declaration is the focus on “frontier AI,”...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: pinsentmasons.com  
    Title: global powers sign bletchley declaration on ai safety  
-   Link: [https://www.pinsentmasons.com/out-law/news/global-powers-sign-bletchley-declaration-on-ai-safety](https://www.pinsentmasons.com/out-law/news/global-powers-sign-bletchley-declaration-on-ai-safety)  
+   Link: <a href="https://www.pinsentmasons.com/out-law/news/global-powers-sign-bletchley-declaration-on-ai-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.pinsentmasons.com/out-law/news/global-powers-sign-bletchley-declaration-on-ai-safety</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Nov 2023 — The Bletchley declaration on AI safety shows Rishi Sunak has made his mark in establishing a global consensus on the opportu...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: burges-salmon.com  
    Title: bletchley declaration signed at uk ai safety summit  
-   Link: [https://www.burges-salmon.com/articles/102iryj/bletchley-declaration-signed-at-uk-ai-safety-summit/](https://www.burges-salmon.com/articles/102iryj/bletchley-declaration-signed-at-uk-ai-safety-summit/)  
+   Link: <a href="https://www.burges-salmon.com/articles/102iryj/bletchley-declaration-signed-at-uk-ai-safety-summit/" target="_blank" rel="noopener noreferrer nofollow">https://www.burges-salmon.com/articles/102iryj/bletchley-declaration-signed-at-uk-ai-safety-summit/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Declaration, signed at the AI Safety Summit 2023, aims to coordinate global cooperation on artificial intelligence (AI) safety.Read more...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/bletchley-declaration-countries-attending-ai-safety-summit-1-2-jlhne](https://www.linkedin.com/pulse/bletchley-declaration-countries-attending-ai-safety-summit-1-2-jlhne)  
+   Link: <a href="https://www.linkedin.com/pulse/bletchley-declaration-countries-attending-ai-safety-summit-1-2-jlhne" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/bletchley-declaration-countries-attending-ai-safety-summit-1-2-jlhne</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>, we resolve to intensify and sustain our cooperation, and broaden...Read more...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: verfassungsblog.de  
-   Link: [https://verfassungsblog.de/biden-bletchley-and-the-emerging-international-law-of-ai/](https://verfassungsblog.de/biden-bletchley-and-the-emerging-international-law-of-ai/)  
+   Link: <a href="https://verfassungsblog.de/biden-bletchley-and-the-emerging-international-law-of-ai/" target="_blank" rel="noopener noreferrer nofollow">https://verfassungsblog.de/biden-bletchley-and-the-emerging-international-law-of-ai/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Biden, Bletchley, and the emerging international law of AIby NA Smuha · 2023 · Cited by 7 — Biden&#x27;s Executive Order should hence be read...</p></details>

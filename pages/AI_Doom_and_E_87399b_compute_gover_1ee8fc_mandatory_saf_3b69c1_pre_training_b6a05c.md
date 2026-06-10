@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1_independent_r_169369
 - AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1_policy_thresh_0139d0
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - governance
 - safety-checks
 - pre-training-risks
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - governance
 - safety-checks
 - pre-training-risks
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: This page explains how developers identify extreme risks and mitigation plans before starting large AI training runs.
 hero_summary: This page explains how developers identify extreme risks and mitigation plans before starting large AI training runs.
 layout: default
 permalink: /pre-training-risks/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /governance/
 - /safety-checks/
 nav_short_title: Pre Training Risks
@@ -203,6 +203,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-02 12:17:43'
 parent_title: Should Frontier Models Pass Safety Checks First? | Governance
 parent_permalink: /safety-checks/
 parent_nav_short_title: Safety Checks
@@ -210,10 +211,10 @@ parent_heading_title: Should Frontier Models Pass Safety Checks First?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_compute_gover_1ee8fc
-  title: Governance | AI Doom and
+  title: Governance | AI Doom and E 87399 b
   permalink: /governance/
   short_title: Governance
   heading_title: What Rules Could Reduce AI Doom Risk?
@@ -225,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_compute_gover_1ee8fc
-  title: Governance | AI Doom and
+  title: Governance | AI Doom and E 87399 b
   permalink: /governance/
   short_title: Governance
   heading_title: What Rules Could Reduce AI Doom Risk?
@@ -260,7 +261,6 @@ next_link:
   permalink: /red-teaming/
   short_title: Red Teaming
   heading_title: Why Independent Red Teaming Is Critical for AI Safety
-date: '2026-06-02 12:17:43 '
 header:
   og_image: /assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1_pre_training_b6a05c-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1_pre_training_b6a05c-Illustration-1.webp
@@ -279,12 +279,12 @@ A core part of pre‑training hazard modelling is **systematically anticipating 
 
 Common hazard domains flagged by frontier safety frameworks include: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emergentmind.com/topics/frontier-model-safety-framework-fmsf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emergentmind.com">[emergentmind.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emergentmind.com</span><span class="citation-popover-title">Frontier Model Safety Framework</span><span class="citation-popover-snippet">February 3, 2026 — FRONTIER MODEL SAFETY FRAMEWORK Updated 3 February 2026 * FMSF is a comprehensive safety framework that systematically...</span><span class="citation-popover-meta">Published: February 3, 2026</span></span></span>
 
-* **Dual‑use assistance** such as guidance on creating biological threats or chemical agents, where AI could lower barriers to misuse. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">Frontier Model Forum Risk Taxonomy and Thresholds for Frontier AI Frameworks</span><span class="citation-popover-snippet">Frontier Model ForumRisk Taxonomy and Thresholds for Frontier AI Frameworks - Frontier Model ForumJune 18, 2025...</span><span class="citation-popover-meta">Published: June 18, 2025</span></span></span>
+* **Dual‑use assistance** such as guidance on creating biological threats or chemical agents, where AI could lower barriers to [misuse]({{ 'misuse/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">Frontier Model Forum Risk Taxonomy and Thresholds for Frontier AI Frameworks</span><span class="citation-popover-snippet">Frontier Model ForumRisk Taxonomy and Thresholds for Frontier AI Frameworks - Frontier Model ForumJune 18, 2025...</span><span class="citation-popover-meta">Published: June 18, 2025</span></span></span>
 * **Advanced cyber threats**, where an AI could help discover or exploit vulnerabilities in critical infrastructure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">Frontier Model Forum Risk Taxonomy and Thresholds for Frontier AI Frameworks</span><span class="citation-popover-snippet">Frontier Model ForumRisk Taxonomy and Thresholds for Frontier AI Frameworks - Frontier Model ForumJune 18, 2025...</span><span class="citation-popover-meta">Published: June 18, 2025</span></span></span>
 * **Autonomous or recursive capabilities**, such as self‑replication, automated research or planning, and emerging “agentic” behaviour that might pursue objectives not aligned with human intentions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">Frontier Model Forum Risk Taxonomy and Thresholds for Frontier AI Frameworks</span><span class="citation-popover-snippet">Frontier Model ForumRisk Taxonomy and Thresholds for Frontier AI Frameworks - Frontier Model ForumJune 18, 2025...</span><span class="citation-popover-meta">Published: June 18, 2025</span></span></span>
-* **Strategic deception**, where models could behave differently when being evaluated versus in deployment or misuse scenarios (sometimes called “scheming” in risk literature). <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2411.03336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Towards evaluations-based safety cases for AI scheming</span><span class="citation-popover-snippet">arXivTowards evaluations-based safety cases for AI schemingOctober 29, 2024...</span><span class="citation-popover-meta">Published: October 29, 2024</span></span></span>
+* **Strategic deception**, where models could behave differently when being evaluated versus in deployment or misuse scenarios (sometimes called “scheming” in risk literature). <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2411.03336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Towards evaluations-based safety cases for AI scheming</span><span class="citation-popover-snippet">Towards evaluations-based safety cases for AI schemingOctober 29, 2024...</span><span class="citation-popover-meta">Published: October 29, 2024</span></span></span>
 
-In well‑developed frameworks, threat identification is not a casual brainstorm but a systematic analysis that moves from *broad scenarios* (e.g., “AI could accelerate misuse of bioengineering”) to *specific pathways* linking a future model’s capabilities to measurable harms. This can include conceptually isolating “precursory capabilities”—smaller skills that a model must possess before it can unlock more dangerous behaviours—to give early warning signs and more manageable assessment points. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apolloresearch.ai/research/precursory-capabilities-a-refinement-to-pre-[deployment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apolloresearch.ai">[Apollo Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apolloresearch.ai</span><span class="citation-popover-snippet">Apollo ResearchPrecursory Capabilities: A Refinement to Pre-deployment Information Sharing and Tripwire Capabilities – Apollo ResearchJun...</span></span></span>
+In well‑developed frameworks, threat identification is not a casual brainstorm but a systematic analysis that moves from *broad scenarios* (e.g., “AI could accelerate misuse of bioengineering”) to *specific pathways* linking a future model’s capabilities to measurable harms. This can include conceptually isolating “precursory capabilities”—smaller skills that a model must possess before it can unlock more dangerous behaviours—to give early [warning signs]({{ 'warning-signs/' | relative_url }}) and more manageable assessment points. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apolloresearch.ai/research/precursory-capabilities-a-refinement-to-pre-deployment-information-sharing-and-tripwire-capabilities" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apolloresearch.ai">[Apollo Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apolloresearch.ai</span><span class="citation-popover-snippet">Apollo ResearchPrecursory Capabilities: A Refinement to Pre-deployment Information Sharing and Tripwire Capabilities – Apollo ResearchJun...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/R49Cv7pJ2KA" title="Keynote | Threat Modeling Agentic AI Systems: Proactive Strategies for Security and Resilience" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=R49Cv7pJ2KA" target="_blank" rel="noopener noreferrer">Keynote | Threat Modeling Agentic AI Systems: Proactive Strategies for Security and Resilience</a></p><p class="youtube-embed-meta">Channel: SANS Institute &middot; Views: 10.0K &middot; Uploaded: May 2025 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=R49Cv7pJ2KA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=R49Cv7pJ2KA">Open on YouTube</a></p></div></div></div>
@@ -297,7 +297,7 @@ Approaches adapted from systems engineering include:
 
 * **Scenario building** and causal mapping to understand how a given training configuration could lead to harmful outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.safer-ai.org/research/the-role-of-risk-modeling-in-advanced-ai-risk-management" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safer-ai.org">[SaferAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safer-ai.org</span><span class="citation-popover-title">the role of risk modeling in advanced ai risk management</span><span class="citation-popover-snippet">SaferAIThe Role of Risk Modeling in Advanced AI Risk Management – SaferAIDecember 10, 2025...</span><span class="citation-popover-meta">Published: December 10, 2025</span></span></span>
 * **Fault and event tree analyses** or Bayesian networks that try to combine individual hazard probabilities into a broader risk picture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.safer-ai.org/research/the-role-of-risk-modeling-in-advanced-ai-risk-management" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safer-ai.org">[SaferAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safer-ai.org</span><span class="citation-popover-title">the role of risk modeling in advanced ai risk management</span><span class="citation-popover-snippet">SaferAIThe Role of Risk Modeling in Advanced AI Risk Management – SaferAIDecember 10, 2025...</span><span class="citation-popover-meta">Published: December 10, 2025</span></span></span>
-* **Capability thresholds** that define trigger points where specific risky outcomes become credible enough to demand action. Frontier frameworks often set these thresholds qualitatively—for example, when a model is capable of advanced cyber exploitation or biological protocol design—recognising that exact numbers are uncertain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">Frontier Model Forum Risk Taxonomy and Thresholds for Frontier AI Frameworks</span><span class="citation-popover-snippet">Frontier Model ForumRisk Taxonomy and Thresholds for Frontier AI Frameworks - Frontier Model ForumJune 18, 2025...</span><span class="citation-popover-meta">Published: June 18, 2025</span></span></span>
+* **[Capability thresholds]({{ 'capability-thresholds/' | relative_url }})** that define trigger points where specific risky outcomes become credible enough to demand action. Frontier frameworks often set these thresholds qualitatively—for example, when a model is capable of advanced cyber exploitation or biological protocol design—recognising that exact numbers are uncertain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">Frontier Model Forum Risk Taxonomy and Thresholds for Frontier AI Frameworks</span><span class="citation-popover-snippet">Frontier Model ForumRisk Taxonomy and Thresholds for Frontier AI Frameworks - Frontier Model ForumJune 18, 2025...</span><span class="citation-popover-meta">Published: June 18, 2025</span></span></span>
 
 These methods aim to balance *likelihood* (how probable it is that a future model would develop a particular dangerous capability) with *impact* (how large the harm would be if that capability materialised). Because frontier AI risk is about unprecedented scale and potential irreversibility, even low‑probability, high‑impact pathways are taken seriously in these models.
 
@@ -309,9 +309,9 @@ Perhaps the most consequential part of pre‑training hazard modelling is not ju
 
 Mitigation strategies that can be shaped pre‑training include:
 
-* **Training adjustments**: Altering data curation, objective functions, or model architectures to constrain certain capabilities from emerging in the first place. These early interventions are informed by hazard forecasts that suggest areas of special caution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0893608026004570" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectAligning Large Language Models Across the Lifecycle: A Survey on Safety–Usability Trade-offs from Pre-training to Post-train...</span></span></span>
+* **Training adjustments**: Altering data curation, objective functions, or model architectures to constrain certain capabilities from emerging in the first place. These early interventions are informed by hazard forecasts that suggest areas of special caution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0893608026004570" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Aligning Large Language Models Across the Lifecycle: A Survey on Safety–Usability Trade-offs from Pre-training to Post-train...</span></span></span>
 * **Capability tripwires**: Incorporating [monitoring]({{ 'monitoring/' | relative_url }}) during training that watches for signs a model is approaching a threshold of dangerous behaviour and pauses training for further evaluation if triggered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">Frontier Model Forum Risk Taxonomy and Thresholds for Frontier AI Frameworks</span><span class="citation-popover-snippet">Frontier Model ForumRisk Taxonomy and Thresholds for Frontier AI Frameworks - Frontier Model ForumJune 18, 2025...</span><span class="citation-popover-meta">Published: June 18, 2025</span></span></span>
-* **Governance rules and safety cases**: Developers can assemble structured “safety cases” that tie evidence from pre‑training models and analogue tests to arguments about why a training run will not cross identified risk boundaries or will do so only with specified safeguards in place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2411.03336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Towards evaluations-based safety cases for AI scheming</span><span class="citation-popover-snippet">arXivTowards evaluations-based safety cases for AI schemingOctober 29, 2024...</span><span class="citation-popover-meta">Published: October 29, 2024</span></span></span>
+* **Governance rules and safety cases**: Developers can assemble structured “safety cases” that tie evidence from pre‑training models and analogue tests to arguments about why a training run will not cross identified risk boundaries or will do so only with specified safeguards in place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2411.03336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Towards evaluations-based safety cases for AI scheming</span><span class="citation-popover-snippet">Towards evaluations-based safety cases for AI schemingOctober 29, 2024...</span><span class="citation-popover-meta">Published: October 29, 2024</span></span></span>
 * **External evaluation and regulatory engagement**: Pre‑training modelling can be documented and shared with independent reviewers or regulators as part of **mandatory evaluations** that would be required before intense compute authorisations. These documented risk forecasts and mitigation plans are critical if AI safety evaluations become a legal prerequisite. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Emerging processes for frontier AI safety</span><span class="citation-popover-snippet">27, 2023...</span></span></span>
 
 In advanced safety proposals, these mitigations are not static; they evolve. Training forecasts can be updated with new evidence from predecessor models, red‑teaming, and continuous evaluation pipelines so that as understanding grows, the mitigation strategies adjust accordingly.
@@ -753,137 +753,137 @@ Because frontier AI risk involves significant uncertainty and unprecedented capa
 1. <a id="endnote-1"></a>
    Source: arxiv.org  
    Title: arXiv Towards evaluations-based safety cases for AI scheming  
-   Link: [https://arxiv.org/abs/2411.03336](https://arxiv.org/abs/2411.03336)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivTowards evaluations-based safety cases for AI schemingOctober 29, 2024...</p></details>
+   Link: <a href="https://arxiv.org/abs/2411.03336" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.03336</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Towards evaluations-based safety cases for AI schemingOctober 29, 2024...</p></details>
    Published: October 29, 2024  
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0893608026004570](https://www.sciencedirect.com/science/article/pii/S0893608026004570)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectAligning Large Language Models Across the Lifecycle: A Survey on Safety–Usability Trade-offs from Pre-training to Post-train...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0893608026004570" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0893608026004570</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aligning Large Language Models Across the Lifecycle: A Survey on Safety–Usability Trade-offs from Pre-training to Post-train...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: GOV.UK  
    Title: Emerging processes for frontier AI safety  
-   Link: [https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety](https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety)  
+   Link: <a href="https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>27, 2023...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: GOV.UK  
    Title: www.gov.uk Frontier AI: capabilities and risks – discussion paper  
-   Link: [https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper](https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper)  
+   Link: <a href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction 2. What is the current state of frontier AI capabilities? 3. How might frontier AI capabilitie...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a](https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a)  
+   Link: <a href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Executive summary 2. Context 3. Current Frontier AI capabilities 4. Future Frontier AI capabilities 5. Other critical uncert...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: frontiermodelforum.org  
    Title: Frontier Model Forum Risk Taxonomy and Thresholds for Frontier AI Frameworks  
-   Link: [https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/](https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/)  
+   Link: <a href="https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Model ForumRisk Taxonomy and Thresholds for Frontier AI Frameworks - Frontier Model ForumJune 18, 2025...</p></details>
    Published: June 18, 2025  
 
 7. <a id="endnote-7"></a>
    Source: frontiermodelforum.org  
    Title: Frontier Model Forum Managing Advanced Cyber Risks in Frontier AI Frameworks  
-   Link: [https://www.frontiermodelforum.org/technical-reports/managing-advanced-cyber-risks-in-frontier-ai-frameworks/](https://www.frontiermodelforum.org/technical-reports/managing-advanced-cyber-risks-in-frontier-ai-frameworks/)  
+   Link: <a href="https://www.frontiermodelforum.org/technical-reports/managing-advanced-cyber-risks-in-frontier-ai-frameworks/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/technical-reports/managing-advanced-cyber-risks-in-frontier-ai-frameworks/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Model ForumManaging Advanced Cyber Risks in Frontier AI Frameworks - Frontier Model ForumFebruary 13, 2026...</p></details>
    Published: February 13, 2026  
 
 8. <a id="endnote-8"></a>
    Source: apolloresearch.ai  
-   Link: [https://www.apolloresearch.ai/research/precursory-capabilities-a-refinement-to-pre-[deployment](https://www.apolloresearch.ai/research/precursory-capabilities-a-refinement-to-pre-[deployment)  
+   Link: <a href="https://www.apolloresearch.ai/research/precursory-capabilities-a-refinement-to-pre-deployment-information-sharing-and-tripwire-capabilities" target="_blank" rel="noopener noreferrer nofollow">https://www.apolloresearch.ai/research/precursory-capabilities-a-refinement-to-pre-deployment-information-sharing-and-tripwire-capabilities</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apollo ResearchPrecursory Capabilities: A Refinement to Pre-deployment Information Sharing and Tripwire Capabilities – Apollo ResearchJun...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: safer-ai.org  
    Title: the role of risk modeling in advanced ai risk management  
-   Link: [https://www.safer-ai.org/research/the-role-of-risk-modeling-in-advanced-ai-risk-management](https://www.safer-ai.org/research/the-role-of-risk-modeling-in-advanced-ai-risk-management)  
+   Link: <a href="https://www.safer-ai.org/research/the-role-of-risk-modeling-in-advanced-ai-risk-management" target="_blank" rel="noopener noreferrer nofollow">https://www.safer-ai.org/research/the-role-of-risk-modeling-in-advanced-ai-risk-management</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>SaferAIThe Role of Risk Modeling in Advanced AI Risk Management – SaferAIDecember 10, 2025...</p></details>
    Published: December 10, 2025  
 
 10. <a id="endnote-10"></a>
    Source: frontiermodelforum.org  
-   Link: [https://www.frontiermodelforum.org/updates/issue-brief-preliminary-taxonomy-of-pre-deployment-frontier-ai-safety-evaluations/](https://www.frontiermodelforum.org/updates/issue-brief-preliminary-taxonomy-of-pre-deployment-frontier-ai-safety-evaluations/)  
+   Link: <a href="https://www.frontiermodelforum.org/updates/issue-brief-preliminary-taxonomy-of-pre-deployment-frontier-ai-safety-evaluations/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/updates/issue-brief-preliminary-taxonomy-of-pre-deployment-frontier-ai-safety-evaluations/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Model ForumIssue Brief: Preliminary Taxonomy of Pre-Deployment Frontier AI Safety Evaluations - Frontier Model ForumDecember 20...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: emergentmind.com  
    Title: Frontier Model Safety Framework  
-   Link: [https://www.emergentmind.com/topics/frontier-model-safety-framework-fmsf](https://www.emergentmind.com/topics/frontier-model-safety-framework-fmsf)  
+   Link: <a href="https://www.emergentmind.com/topics/frontier-model-safety-framework-fmsf" target="_blank" rel="noopener noreferrer nofollow">https://www.emergentmind.com/topics/frontier-model-safety-framework-fmsf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>February 3, 2026 — FRONTIER MODEL SAFETY FRAMEWORK Updated 3 February 2026 * FMSF is a comprehensive safety framework that systematically...</p></details>
    Published: February 3, 2026  
 
 12. <a id="endnote-12"></a>
    Source: frontiermodelforum.org  
    Title: Frontier Mitigations  
-   Link: [https://www.frontiermodelforum.org/technical-reports/frontier-mitigations/](https://www.frontiermodelforum.org/technical-reports/frontier-mitigations/)  
+   Link: <a href="https://www.frontiermodelforum.org/technical-reports/frontier-mitigations/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/technical-reports/frontier-mitigations/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OVERVIEW OF FRONTIER MITIGATIONS 1.1 PURPOSE AND SCOPE Frontier mitigations are protective measures implemented on frontier models, with...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: s-rsa.com  
-   Link: [https://s-rsa.com/index.php/agi/article/view/14741](https://s-rsa.com/index.php/agi/article/view/14741)  
+   Link: <a href="https://s-rsa.com/index.php/agi/article/view/14741" target="_blank" rel="noopener noreferrer nofollow">https://s-rsa.com/index.php/agi/article/view/14741</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Yu-Gang Jiang | SuperIntelligence - Robotics - Safety &amp; AlignmentJune 3, 2025 — REVIEW: SAFETY AT SCALE: COMPREHENSIVE SURVEY OF LARGE MO...</p></details>
    Published: June 3, 2025  
 
 14. <a id="endnote-14"></a>
    Source: [evals](&#123;&#123; 'evals/' | relative_url &#125;&#125;). alignment.org  
    Title: Open AI’s Preparedness Framework, Google Deep Mind’s Frontier Safet  
-   Link: [https://evals.alignment.org/blog/2025-01-17-ai-models-dangerous-before-public-deployment/](https://evals.alignment.org/blog/2025-01-17-ai-models-dangerous-before-public-deployment/)  
+   Link: <a href="https://evals.alignment.org/blog/2025-01-17-ai-models-dangerous-before-public-deployment/" target="_blank" rel="noopener noreferrer nofollow">https://evals.alignment.org/blog/2025-01-17-ai-models-dangerous-before-public-deployment/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>models can be dangerous before public deployment - METRJanuary 17, 2025 — AI models can be dangerous before public deployment DATE Januar...</p></details>
    Published: January 17, 2025  
 
 15. <a id="endnote-15"></a>
    Source: papers.cool  
    Title: Systematic Hazard Analysis for Frontier AI using STPA | Cool Papers  
-   Link: [https://papers.cool/arxiv/2506.01782](https://papers.cool/arxiv/2506.01782)  
+   Link: <a href="https://papers.cool/arxiv/2506.01782" target="_blank" rel="noopener noreferrer nofollow">https://papers.cool/arxiv/2506.01782</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Immersive Paper DiscoveryJune 2, 2025 — 2506.01782 Total: 1 #1 SYSTEMATIC HAZARD ANALYSIS FOR FRONTIER AI USING STPA [PDF^{}] [COPY] [KIM...</p></details>
    Published: June 2, 2025  
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: "Extinction from AI" – The FULL explanation  
-   Link: [https://www.youtube.com/watch?v=2Tn5gy1Fuwg](https://www.youtube.com/watch?v=2Tn5gy1Fuwg)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Pre-training hazard modelling&quot; OR &quot;frontier model safety framework&quot; Safety Testing Amazon&#x27;s Nova Premier [AI Research](&amp;#123;&amp;#123; &#x27;ai-research-loop/&#x27; | relative_url &amp;#125;&amp;#125;) Roundup...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=2Tn5gy1Fuwg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2Tn5gy1Fuwg</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Pre-training hazard modelling&quot; OR &quot;frontier model safety framework&quot; Safety Testing Amazon&#x27;s Nova Premier AI Research Roundup...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: OpenAI  
    Title: a hazard analysis framework for code synthesis large language models  
-   Link: [https://openai.com/index/a-hazard-analysis-framework-for-code-synthesis-large-language-models/](https://openai.com/index/a-hazard-analysis-framework-for-code-synthesis-large-language-models/)  
+   Link: <a href="https://openai.com/index/a-hazard-analysis-framework-for-code-synthesis-large-language-models/" target="_blank" rel="noopener noreferrer nofollow">https://openai.com/index/a-hazard-analysis-framework-for-code-synthesis-large-language-models/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>comA hazard analysis framework for code synthesis large language models | OpenAIJuly 25, 2022 — A hazard analysis framework for code synt...</p></details>
    Published: July 25, 2022  
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=R49Cv7pJ2KA](https://www.youtube.com/watch?v=R49Cv7pJ2KA)  
+   Link: <a href="https://www.youtube.com/watch?v=R49Cv7pJ2KA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=R49Cv7pJ2KA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OpenAI’s Preparedness Framework: AI Safety Plan...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: ai-safety-atlas.com  
    Title: Foundation Models  
-   Link: [https://ai-safety-atlas.com/chapters/v1/capabilities/foundation-models](https://ai-safety-atlas.com/chapters/v1/capabilities/foundation-models)  
+   Link: <a href="https://ai-safety-atlas.com/chapters/v1/capabilities/foundation-models" target="_blank" rel="noopener noreferrer nofollow">https://ai-safety-atlas.com/chapters/v1/capabilities/foundation-models</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>First, they go through what we call a pre-training, and then second, they can be adapted through various mechanisms like fin...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Title: [Anthropic](&#123;&#123; 'anthropic-tests/' | relative_url &#125;&#125;)’s Plan to Stop AI Bioweapons & Autonomous Misuse  
-   Link: [https://www.youtube.com/watch?v=n5h1GNvzqIg](https://www.youtube.com/watch?v=n5h1GNvzqIg)  
+   Title: Anthropic’s Plan to Stop AI Bioweapons & Autonomous Misuse  
+   Link: <a href="https://www.youtube.com/watch?v=n5h1GNvzqIg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=n5h1GNvzqIg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Extinction from AI&quot; – The FULL explanation...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: OpenAI  
    Title: frontier ai regulation  
-   Link: [https://openai.com/research/frontier-ai-regulation](https://openai.com/research/frontier-ai-regulation)  
+   Link: <a href="https://openai.com/research/frontier-ai-regulation" target="_blank" rel="noopener noreferrer nofollow">https://openai.com/research/frontier-ai-regulation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>comFrontier AI regulation: Managing emerging risks to public safety | OpenAIJuly 6, 2023 — OpenAI July 6, 2023 Publication FRONTIER AI RE...</p></details>
    Published: July 6, 2023  
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Anthropic's AI Safety Plan  
-   Link: [https://www.youtube.com/watch?v=Z_nHHKrcjQM](https://www.youtube.com/watch?v=Z_nHHKrcjQM)  
+   Link: <a href="https://www.youtube.com/watch?v=Z_nHHKrcjQM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Z_nHHKrcjQM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic’s Plan to Stop AI Bioweapons &amp; Autonomous Misuse...</p></details>

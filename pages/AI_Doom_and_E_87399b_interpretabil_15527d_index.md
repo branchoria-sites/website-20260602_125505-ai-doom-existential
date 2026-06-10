@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-interpretabil/
 description: Focused pages that expand on Control Tools.
-date: '2026-06-02'
+date: '2026-06-10'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_interpretabil_15527d
-parent_title: Control Tools | AI Doom and
+parent_title: Control Tools | AI Doom and E 87399 b
 parent_nav_short_title: Control Tools
 parent_permalink: /control-tools/
 ---

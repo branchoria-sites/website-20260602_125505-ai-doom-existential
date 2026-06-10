@@ -19,19 +19,19 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_loss_of_contr_19a113
 - AI_Doom_and_E_87399b_recursive_imp_3a3504
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - p-doom
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - p-doom
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: p(doom) numbers are attempts to express uncertain catastrophe risk, not precise measurements of the future.
 hero_summary: p(doom) numbers are attempts to express uncertain catastrophe risk, not precise measurements of the future.
 layout: default
 permalink: /p-doom/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 nav_short_title: P Doom
 title: What Does p(doom) Really Mean?
 title_full: What Does p(doom) Really Mean? | AI Doom
@@ -211,61 +211,61 @@ ui_strings:
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 19:00:03'
 parent_title: AI Doom
-parent_permalink: /ai-doom-and/
+parent_permalink: /ai-doom-and-e-87399-b/
 parent_nav_short_title: AI Doom
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 sibling_links:
 - basename: AI_Doom_and_E_87399b_recursive_imp_3a3504
-  title: AI Takeoff | AI Doom and
+  title: AI Takeoff | AI Doom and E 87399 b
   permalink: /ai-takeoff/
   short_title: AI Takeoff
   heading_title: Could AI Improvement Run Away From US?
 - basename: AI_Doom_and_E_87399b_dangerous_aut_8f4266
-  title: Autonomy | AI Doom and
+  title: Autonomy | AI Doom and E 87399 b
   permalink: /autonomy/
   short_title: Autonomy
   heading_title: When Does AI Autonomy Become Dangerous?
 - basename: AI_Doom_and_E_87399b_interpretabil_15527d
-  title: Control Tools | AI Doom and
+  title: Control Tools | AI Doom and E 87399 b
   permalink: /control-tools/
   short_title: Control Tools
   heading_title: Can We Make Advanced AI Understandable?
 - basename: AI_Doom_and_E_87399b_frontier_ai_e_9920ab
-  title: Evals | AI Doom and
+  title: Evals | AI Doom and E 87399 b
   permalink: /evals/
   short_title: Evals
   heading_title: Can Tests Catch Dangerous AI in Time?
 - basename: AI_Doom_and_E_87399b_compute_gover_1ee8fc
-  title: Governance | AI Doom and
+  title: Governance | AI Doom and E 87399 b
   permalink: /governance/
   short_title: Governance
   heading_title: What Rules Could Reduce AI Doom Risk?
 - basename: AI_Doom_and_E_87399b_loss_of_contr_19a113
-  title: Loss of Control | AI Doom and
+  title: Loss of Control | AI Doom and E 87399 b
   permalink: /loss-of-control/
   short_title: Loss of Control
   heading_title: How Could Humans Lose Control of AI?
 - basename: AI_Doom_and_E_87399b_catastrophic_c92548
-  title: Misuse | AI Doom and
+  title: Misuse | AI Doom and E 87399 b
   permalink: /misuse/
   short_title: Misuse
   heading_title: How Could People Misuse Advanced AI?
 - basename: AI_Doom_and_E_87399b_ai_race_dynam_a5d049
-  title: Race Pressure | AI Doom and
+  title: Race Pressure | AI Doom and E 87399 b
   permalink: /race-pressure/
   short_title: Race Pressure
   heading_title: Why AI Races Can Make Safety Harder
 - basename: AI_Doom_and_E_87399b_deceptive_ali_f9f449
-  title: Scheming Tests | AI Doom and
+  title: Scheming Tests | AI Doom and E 87399 b
   permalink: /scheming-tests/
   short_title: Scheming Tests
   heading_title: Can AI Pretend to Be Aligned?
@@ -293,17 +293,17 @@ child_links:
 up_link:
   basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 prev_link:
   basename: AI_Doom_and_E_87399b_catastrophic_c92548
-  title: Misuse | AI Doom and
+  title: Misuse | AI Doom and E 87399 b
   permalink: /misuse/
   short_title: Misuse
   heading_title: How Could People Misuse Advanced AI?
 next_link:
   basename: AI_Doom_and_E_87399b_ai_race_dynam_a5d049
-  title: Race Pressure | AI Doom and
+  title: Race Pressure | AI Doom and E 87399 b
   permalink: /race-pressure/
   short_title: Race Pressure
   heading_title: Why AI Races Can Make Safety Harder
@@ -319,21 +319,21 @@ p(doom) means someone’s estimated probability that advanced AI leads to existe
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2-overview.webp" | relative_url }}" alt="Overview image for P Doom" loading="eager" decoding="sync" fetchpriority="high">
-That is why p(doom) numbers vary so widely. Some researchers put AI-caused existential risk near zero; others put it in the tens of per cent or higher. The disagreement is not just about one fact. It reflects different mental models of AI: whether future systems are best understood as controllable tools, [dangerous]({{ 'autonomy/' | relative_url }}) agents, brittle pattern-matchers, or something not yet captured by today’s categories. The most useful way to read p(doom) is therefore not as a magic answer, but as a compressed map of assumptions. A good p(doom) estimate should make its conditions visible: what level of AI capability is assumed, what kind of failure is being counted, over what timeframe, and what evidence would move the number up or down. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2401.02843" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivThousands of AI Authors on the Future of AIJanuary 5, 2024...</span><span class="citation-popover-meta">Published: January 5, 2024</span></span></span>
+That is why p(doom) numbers vary so widely. Some researchers put AI-caused existential risk near zero; others put it in the tens of per cent or higher. The disagreement is not just about one fact. It reflects different mental models of AI: whether future systems are best understood as controllable tools, dangerous agents, brittle pattern-matchers, or something not yet captured by today’s categories. The most useful way to read p(doom) is therefore not as a magic answer, but as a compressed map of assumptions. A good p(doom) estimate should make its conditions visible: what level of AI capability is assumed, what kind of failure is being counted, over what timeframe, and what evidence would move the number up or down. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2401.02843" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Thousands of AI Authors on the Future of AIJanuary 5, 2024...</span><span class="citation-popover-meta">Published: January 5, 2024</span></span></span>
 
 ## What the number tries to capture
 
 p(doom) is shorthand for a very large question: if humanity continues building increasingly capable AI systems, what is the chance that this leads to an existentially bad outcome? In the AI doom debate, “doom” usually does not mean ordinary automation harms, biased algorithms, scams, job disruption, or misinformation by themselves. It means the more extreme claim that AI could contribute to extinction, permanent human [loss of control]({{ 'loss-of-control/' | relative_url }}), or a civilisational failure from which humanity never recovers.
 
-Different people count different things inside the number. One person may mean “AI directly causes human extinction within this century”. Another may include permanent disempowerment by autonomous systems, catastrophic AI-enabled misuse, or an irreversible authoritarian lock-in. That difference matters. A narrow extinction-only question usually produces a different estimate from a broader question about “human extinction or similarly permanent and severe disempowerment”. The 2023 AI Impacts survey of 2,778 AI researchers used wording close to that broader framing, asking about severe and permanent outcomes from future AI advances and from inability to control advanced systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2401.02843" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivThousands of AI Authors on the Future of AIJanuary 5, 2024...</span><span class="citation-popover-meta">Published: January 5, 2024</span></span></span>
+Different people count different things inside the number. One person may mean “AI directly causes human extinction within this century”. Another may include permanent disempowerment by autonomous systems, [catastrophic]({{ 'misuse/' | relative_url }}) AI-enabled [misuse]({{ 'misuse/' | relative_url }}), or an irreversible authoritarian lock-in. That difference matters. A narrow extinction-only question usually produces a different estimate from a broader question about “human extinction or similarly permanent and severe disempowerment”. The 2023 AI Impacts survey of 2,778 AI researchers used wording close to that broader framing, asking about severe and permanent outcomes from future AI advances and from inability to control advanced systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2401.02843" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Thousands of AI Authors on the Future of AIJanuary 5, 2024...</span><span class="citation-popover-meta">Published: January 5, 2024</span></span></span>
 
 The number also bundles several conditional beliefs that are easy to mix together:
 
+* **Capability:** will AI systems become powerful enough to transform the world, automate strategic work, or outperform humans in most important domains?
+* **Agency and [autonomy]({{ 'autonomy/' | relative_url }}):** will those systems be deployed as tools under human control, or as autonomous agents that plan, act, delegate, copy themselves, bargain, deceive or resist shutdown?
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
-* **Capability:** will AI systems become powerful enough to transform the world, automate strategic work, or outperform humans in most important domains?
-* **Agency and autonomy:** will those systems be deployed as tools under human control, or as autonomous agents that plan, act, delegate, copy themselves, bargain, deceive or resist shutdown?
 * **Alignment:** can developers reliably make advanced systems pursue human intentions rather than proxy goals, reward hacks or hidden objectives?
 * **Governance:** will companies and governments slow down, test systems, share warning signs and avoid reckless deployment under competitive pressure?
 * **Recovery:** if something goes wrong, will humans notice early enough and retain the power to shut systems down or contain the damage?
@@ -348,7 +348,7 @@ A single p(doom) figure hides all of those assumptions. Two people can both say 
 
 The strongest evidence about expert disagreement comes from surveys, not from a single consensus statement. These surveys should be read carefully. They sample particular groups, use particular wordings, and ask people to forecast unprecedented events. Still, they are useful because they show that concern about extreme AI risk is not confined to a few public figures, while also showing that there is no tight expert consensus on the probability.
 
-In the 2023 AI Impacts survey, 2,778 researchers who had published at major AI venues gave forecasts about AI progress and long-term impacts. The headline results were strikingly mixed. The authors reported that the median forecast for unaided machines outperforming humans in every possible task was 2047, much earlier than in a similar survey one year before. On extreme outcomes, between 38% and 51% of respondents gave at least a 10% chance to advanced AI leading to outcomes as bad as human extinction, depending on the exact wording. At the same time, 68.3% thought good outcomes from superhuman AI were more likely than bad ones, and many people who were net optimistic still assigned a non-trivial chance to extremely bad outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2401.02843" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivThousands of AI Authors on the Future of AIJanuary 5, 2024...</span><span class="citation-popover-meta">Published: January 5, 2024</span></span></span>
+In the 2023 AI Impacts survey, 2,778 researchers who had published at major AI venues gave forecasts about AI progress and long-term impacts. The headline results were strikingly mixed. The authors reported that the median forecast for unaided machines outperforming humans in every possible task was 2047, much earlier than in a similar survey one year before. On extreme outcomes, between 38% and 51% of respondents gave at least a 10% chance to advanced AI leading to outcomes as bad as human extinction, depending on the exact wording. At the same time, 68.3% thought good outcomes from superhuman AI were more likely than bad ones, and many people who were net optimistic still assigned a non-trivial chance to extremely bad outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2401.02843" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Thousands of AI Authors on the Future of AIJanuary 5, 2024...</span><span class="citation-popover-meta">Published: January 5, 2024</span></span></span>
 
 That combination is important. The survey does not say “AI experts think doom is likely”. It says something more awkward: many experts are optimistic overall, but a substantial minority-to-large-plurality assign unusually high probabilities to catastrophic outcomes by the standards normally used in public safety. A 5% or 10% chance of an irreversible catastrophe is not “likely” in everyday language, but it is enormous if the outcome is human extinction or permanent disempowerment.
 
@@ -365,13 +365,13 @@ Those numbers are not directly interchangeable with AI Impacts results, because 
 
 The biggest divide is not simply “optimists versus pessimists”. It is a disagreement about what kind of thing advanced AI will become.
 
-A 2025 survey by Severin Field of 111 AI experts found that experts clustered into two broad viewpoints: an “AI as controllable tool” perspective and an “AI as uncontrollable agent” perspective. Most respondents agreed that technical AI researchers should be concerned about catastrophic risks, but familiarity with particular AI-safety concepts varied sharply. For example, only 21% had heard of “[instrumental convergence]({{ 'instrumental-convergence/' | relative_url }})”, the idea that sufficiently capable goal-directed systems may tend to seek useful subgoals such as self-preservation, resources or influence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2401.02843" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivThousands of AI Authors on the Future of AIJanuary 5, 2024...</span><span class="citation-popover-meta">Published: January 5, 2024</span></span></span>
+A 2025 survey by Severin Field of 111 AI experts found that experts clustered into two broad viewpoints: an “AI as controllable tool” perspective and an “AI as uncontrollable agent” perspective. Most respondents agreed that technical AI researchers should be concerned about catastrophic risks, but familiarity with particular AI-safety concepts varied sharply. For example, only 21% had heard of “[instrumental convergence]({{ 'instrumental-convergence/' | relative_url }})”, the idea that sufficiently capable goal-directed systems may tend to seek useful subgoals such as self-preservation, resources or influence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2401.02843" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Thousands of AI Authors on the Future of AIJanuary 5, 2024...</span><span class="citation-popover-meta">Published: January 5, 2024</span></span></span>
 
 That finding helps explain why arguments often pass each other by. A sceptic may see today’s AI systems as unreliable tools with no durable goals, no independent agency and no route to takeover. A high-p(doom) researcher may be forecasting a future in which systems are deliberately made agentic because autonomy is commercially and militarily useful: they can run research projects, write code, manage infrastructure, bargain with humans, exploit cyber weaknesses or coordinate across many copies. The disagreement is then not just about current chatbots. It is about whether scaling, tool use, memory, reinforcement learning, autonomous deployment and competitive pressure will produce systems that behave less like calculators and more like strategic actors.
 
 There are several recurring fault lines:
 
-**Timelines.** Short timelines usually raise p(doom), because they leave less time for interpretability, alignment, evaluations, regulation and international coordination to mature. Long timelines can lower p(doom), though not always; a person might think advanced AI is far away but still very dangerous when it arrives. The AI Impacts survey found a wide distribution of views on when AI might outperform humans across tasks, with substantial disagreement even among active AI researchers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2401.02843" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivThousands of AI Authors on the Future of AIJanuary 5, 2024...</span><span class="citation-popover-meta">Published: January 5, 2024</span></span></span>
+**Timelines.** Short timelines usually raise p(doom), because they leave less time for interpretability, alignment, evaluations, regulation and international coordination to mature. Long timelines can lower p(doom), though not always; a person might think advanced AI is far away but still very dangerous when it arrives. The AI Impacts survey found a wide distribution of views on when AI might outperform humans across tasks, with substantial disagreement even among active AI researchers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2401.02843" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Thousands of AI Authors on the Future of AIJanuary 5, 2024...</span><span class="citation-popover-meta">Published: January 5, 2024</span></span></span>
 
 **Takeoff speed.** Some people worry about rapid capability jumps or recursive improvement, where systems help design better systems and compress the time available for response. Others expect slower, more incremental progress, giving society more chances to detect danger and adapt.
 
@@ -391,32 +391,32 @@ The Centre for Security and Emerging Technology has argued that AI existential-r
 
 This creates several traps.
 
-First, averages can hide polarisation. If half a group says 0.1% and half says 20%, the average is not a shared belief. It may be a sign that the community lacks a common model. The AI Impacts results are better read as a distribution of disagreement than as a single “expert number”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2401.02843" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivThousands of AI Authors on the Future of AIJanuary 5, 2024...</span><span class="citation-popover-meta">Published: January 5, 2024</span></span></span>
+First, averages can hide polarisation. If half a group says 0.1% and half says 20%, the average is not a shared belief. It may be a sign that the community lacks a common model. The AI Impacts results are better read as a distribution of disagreement than as a single “expert number”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2401.02843" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Thousands of AI Authors on the Future of AIJanuary 5, 2024...</span><span class="citation-popover-meta">Published: January 5, 2024</span></span></span>
 
 Second, medians can hide tails. A median of 5% may sound modest, but it means half of respondents are above that number and half below. For existential outcomes, even low single-digit numbers are policy-relevant if the estimate is credible.
 
 Third, the word “doom” can blur severity. A 10% chance of severe economic disruption is not the same as a 10% chance of extinction. Some public discussion uses p(doom) loosely for “things go really badly”, while surveys may ask about specific outcomes such as extinction or permanent disempowerment. Readers should check the endpoint before reacting to the percentage.
 
-Fourth, probabilities can become identity badges. In online AI culture, saying “my p(doom) is 50%” or “my p(doom) is zero” can signal group membership as much as analysis. Field’s expert survey explicitly notes that online debate has become tribal, with labels such as “doomer” and “accelerationist” often replacing careful discussion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2401.02843" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivThousands of AI Authors on the Future of AIJanuary 5, 2024...</span><span class="citation-popover-meta">Published: January 5, 2024</span></span></span>
+Fourth, probabilities can become identity badges. In online AI culture, saying “my p(doom) is 50%” or “my p(doom) is zero” can signal group membership as much as analysis. Field’s expert survey explicitly notes that online debate has become tribal, with labels such as “doomer” and “accelerationist” often replacing careful discussion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2401.02843" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Thousands of AI Authors on the Future of AIJanuary 5, 2024...</span><span class="citation-popover-meta">Published: January 5, 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_M0bg-DIdmQ" title="Existential Risk Prediction by Super-Forecasters &amp; Domain Experts on AI, Nuclear, Pandemics, Climate" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_M0bg-DIdmQ" target="_blank" rel="noopener noreferrer">Existential Risk Prediction by Super-Forecasters &amp; Domain Experts on AI, Nuclear, Pandemics, Climate</a></p><p class="youtube-embed-meta">Channel: Paul Beckwith &middot; Views: 8.6K &middot; Uploaded: October 2023 &middot; Length: 52 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_M0bg-DIdmQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_M0bg-DIdmQ">Open on YouTube</a></p></div></div></div>
 
 ## The strongest case for taking high estimates seriously
 
-The case for taking high p(doom) estimates seriously does not require believing that the most pessimistic number is correct. It rests on a simpler argument: many credible people with relevant [expertise]({{ 'expertise-erosion/' | relative_url }}) assign non-trivial probabilities to irreversible catastrophe, and the consequences are so large that dismissing those estimates requires more than discomfort.
+The case for taking high p(doom) estimates seriously does not require believing that the most pessimistic number is correct. It rests on a simpler argument: many credible people with relevant expertise assign non-trivial probabilities to irreversible catastrophe, and the consequences are so large that dismissing those estimates requires more than discomfort.
 
-The 2023 AI Impacts survey found substantial concern among AI researchers, including many who were otherwise optimistic about AI’s long-term benefits. That pattern matters because it weakens a common caricature: concern about AI doom is not limited to people who hate AI progress or expect every outcome to be bad. Many respondents expected good outcomes to be more likely than bad ones while still assigning meaningful probability to extreme downside. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2401.02843" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivThousands of AI Authors on the Future of AIJanuary 5, 2024...</span><span class="citation-popover-meta">Published: January 5, 2024</span></span></span>
+The 2023 AI Impacts survey found substantial concern among AI researchers, including many who were otherwise optimistic about AI’s long-term benefits. That pattern matters because it weakens a common caricature: concern about AI doom is not limited to people who hate AI progress or expect every outcome to be bad. Many respondents expected good outcomes to be more likely than bad ones while still assigning meaningful probability to extreme downside. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2401.02843" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Thousands of AI Authors on the Future of AIJanuary 5, 2024...</span><span class="citation-popover-meta">Published: January 5, 2024</span></span></span>
 
-Prominent researchers have also moved the issue into mainstream debate. Geoffrey Hinton has publicly estimated a 10–20% chance that AI could lead to human extinction within the next few decades, while warning that systems more intelligent than humans may be difficult to control. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/technology/2024/dec/27/godfather-of-ai-raises-odds-of-the-technology-wiping-out-humanity-over-next-30-years" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Yoshua Bengio, Geoffrey Hinton and other researchers co-authored a paper on managing extreme AI risks, arguing that progress towards generalist autonomous AI systems could create risks including malicious use and irreversible loss of human control, and that current safety and governance efforts are not commensurate with the stakes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2401.02843" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivThousands of AI Authors on the Future of AIJanuary 5, 2024...</span><span class="citation-popover-meta">Published: January 5, 2024</span></span></span>
+Prominent researchers have also moved the issue into mainstream debate. Geoffrey Hinton has publicly estimated a 10–20% chance that AI could lead to human extinction within the next few decades, while warning that systems more intelligent than humans may be difficult to control. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/technology/2024/dec/27/godfather-of-ai-raises-odds-of-the-technology-wiping-out-humanity-over-next-30-years" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Yoshua Bengio, Geoffrey Hinton and other researchers co-authored a paper on managing extreme AI risks, arguing that progress towards generalist autonomous AI systems could create risks including malicious use and irreversible loss of human control, and that current safety and governance efforts are not commensurate with the stakes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2401.02843" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Thousands of AI Authors on the Future of AIJanuary 5, 2024...</span><span class="citation-popover-meta">Published: January 5, 2024</span></span></span>
 
-The high-p(doom) argument also benefits from asymmetry. If advanced AI never becomes highly autonomous or strategically capable, many doom scenarios fail. But if it does, and if alignment and governance remain weak, society may not get many chances to learn from failure. A nuclear accident, pandemic or financial crash can be studied after the fact; an existential failure cannot. That is why some analysts argue that even low-probability catastrophic outcomes can justify large investments in safety and governance. Economic modelling of transformative AI scenarios has likewise argued that low-probability extinction outcomes can rationally support substantial mitigation spending, because the loss is so large and irreversible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2401.02843" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivThousands of AI Authors on the Future of AIJanuary 5, 2024...</span><span class="citation-popover-meta">Published: January 5, 2024</span></span></span>
+The high-p(doom) argument also benefits from asymmetry. If advanced AI never becomes highly autonomous or strategically capable, many doom scenarios fail. But if it does, and if alignment and governance remain weak, society may not get many chances to learn from failure. A nuclear accident, pandemic or financial crash can be studied after the fact; an existential failure cannot. That is why some analysts argue that even low-probability catastrophic outcomes can justify large investments in safety and governance. Economic modelling of transformative AI scenarios has likewise argued that low-probability extinction outcomes can rationally support substantial mitigation spending, because the loss is so large and irreversible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2401.02843" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Thousands of AI Authors on the Future of AIJanuary 5, 2024...</span><span class="citation-popover-meta">Published: January 5, 2024</span></span></span>
 
 The strongest version of this case is not “experts agree AI will kill us”. They do not. It is: “a sizeable share of relevant experts assign probabilities that would be unacceptable in any other safety-critical domain, and we lack decisive evidence that those estimates are wrong.”
 
 ## The strongest case for lower estimates
 
-Low-p(doom) views are not necessarily complacent. Many sceptics accept that AI can be dangerous while doubting that existential catastrophe is a likely outcome. Their objections usually target one or more links in the doom chain.
+Low-p(doom) views are not necessarily complacent. Many sceptics accept that AI can be dangerous while doubting that existential catastrophe is a likely outcome. Their [objections]({{ 'objections/' | relative_url }}) usually target one or more links in the doom chain.
 
 One objection is that current systems do not show the kind of durable agency required for takeover. They can produce impressive text, code and plans, but they still lack stable long-term goals, robust world models, reliable self-direction and independent access to the physical world unless humans provide tools and permissions. From this view, extrapolating from today’s systems to uncontrollable superintelligent agents involves a large inferential leap.
 
@@ -442,7 +442,7 @@ A serious estimate should answer four questions.
 
 **What is the conditional path?** The most informative estimates break the risk into stages: advanced AI arrives; it is deployed with autonomy; alignment fails; warning signs are missed; the system gains decisive advantage; humans cannot recover. Even rough conditional estimates are more useful than a bare final number.
 
-**What would change the estimate?** A healthy p(doom) should be updateable. It should move down if interpretability, control, evaluations and governance demonstrate robust success on systems close to the dangerous frontier. It should move up if systems show persistent deception, autonomous replication, [hidden goal]({{ 'deception-detection/' | relative_url }}) pursuit, dangerous cyber capability, successful evasion of oversight, or strong evidence that labs or states are racing past safety thresholds.
+**What would change the estimate?** A healthy p(doom) should be updateable. It should move down if interpretability, control, evaluations and governance demonstrate robust success on systems close to the dangerous frontier. It should move up if systems show persistent deception, autonomous replication, hidden goal pursuit, dangerous cyber capability, successful evasion of oversight, or strong evidence that labs or states are racing past safety thresholds.
 
 This is where expert disagreement can become productive. Instead of asking only “what is your p(doom)?”, the better question is: “which assumption drives your estimate most?” For one person it may be short timelines. For another it may be alignment difficulty. For another it may be geopolitical competition. For a sceptic it may be the absence of evidence for autonomous power-seeking. Once those assumptions are visible, the argument can focus on evidence rather than labels.
 
@@ -455,7 +455,7 @@ Uncertainty does not automatically imply either panic or inaction. It means that
 
 If someone’s p(doom) is 50%, they will likely favour emergency-level measures: slowing frontier development, strict licensing, compute controls, international agreements, and major public investment in alignment and control. If someone’s p(doom) is 0.1%, they may see those measures as excessive or harmful. But there is a wide middle ground where many policies remain sensible even under disagreement: better model evaluations, incident reporting, secure deployment practices, red-teaming, interpretability research, monitoring of dangerous capabilities, liability for reckless release, and clear rules for when a system should not be deployed.
 
-This middle ground is visible in the surveys. Experts disagree sharply about the probability and mechanism of AI doom, yet many still support more safety research. The AI Impacts survey reported broad agreement that research aimed at minimising potential risks from AI systems ought to be prioritised more. Field’s 2025 survey similarly found that most experts agreed technical AI researchers should be concerned about catastrophic risks, even though they differed in their underlying models of AI. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2401.02843" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivThousands of AI Authors on the Future of AIJanuary 5, 2024...</span><span class="citation-popover-meta">Published: January 5, 2024</span></span></span>
+This middle ground is visible in the surveys. Experts disagree sharply about the probability and mechanism of AI doom, yet many still support more safety research. The AI Impacts survey reported broad agreement that research aimed at minimising potential risks from AI systems ought to be prioritised more. Field’s 2025 survey similarly found that most experts agreed technical AI researchers should be concerned about catastrophic risks, even though they differed in their underlying models of AI. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2401.02843" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Thousands of AI Authors on the Future of AIJanuary 5, 2024...</span><span class="citation-popover-meta">Published: January 5, 2024</span></span></span>
 
 The practical lesson is that p(doom) should not be treated as a vote on whether AI is “good” or “bad”. It is a stress test for civilisation’s margin of safety. A low estimate should still explain why warning signs will be caught in time. A high estimate should still explain which interventions reduce risk rather than simply expressing dread. The most honest position is not to pretend the number is precise. It is to make the uncertainty legible, keep the catastrophic endpoint distinct from ordinary AI harms, and ask what evidence would justify moving faster, slowing down, or changing course.
 
@@ -864,186 +864,186 @@ The practical lesson is that p(doom) should not be treated as a vote on whether 
 
 1. <a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2401.02843](https://arxiv.org/abs/2401.02843)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivThousands of AI Authors on the Future of AIJanuary 5, 2024...</p></details>
+   Link: <a href="https://arxiv.org/abs/2401.02843" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2401.02843</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Thousands of AI Authors on the Future of AIJanuary 5, 2024...</p></details>
    Published: January 5, 2024  
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2502.14870](https://arxiv.org/abs/2502.14870)  
+   Link: <a href="https://arxiv.org/abs/2502.14870" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.14870</a>  
 
 3. <a id="endnote-3"></a>
    Source: cset.georgetown.edu  
-   Link: [https://cset.georgetown.edu/publication/beyond-pdoom-for-ai-risk-quantifying-uncertainty-without-probability/](https://cset.georgetown.edu/publication/beyond-pdoom-for-ai-risk-quantifying-uncertainty-without-probability/)  
+   Link: <a href="https://cset.georgetown.edu/publication/beyond-pdoom-for-ai-risk-quantifying-uncertainty-without-probability/" target="_blank" rel="noopener noreferrer nofollow">https://cset.georgetown.edu/publication/beyond-pdoom-for-ai-risk-quantifying-uncertainty-without-probability/</a>  
 
 4. <a id="endnote-4"></a>
    Source: 80000hours.org  
    Title: 80,000 Hours Why experts and forecasters disagree about AI risk  
-   Link: [https://80000hours.org/2024/09/why-experts-and-forecasters-disagree-about-ai-risk/](https://80000hours.org/2024/09/why-experts-and-forecasters-disagree-about-ai-risk/)  
+   Link: <a href="https://80000hours.org/2024/09/why-experts-and-forecasters-disagree-about-ai-risk/" target="_blank" rel="noopener noreferrer nofollow">https://80000hours.org/2024/09/why-experts-and-forecasters-disagree-about-ai-risk/</a>  
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2502.14870v1](https://arxiv.org/html/2502.14870v1)  
+   Link: <a href="https://arxiv.org/html/2502.14870v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.14870v1</a>  
 
 6. <a id="endnote-6"></a>
    Source: cset.georgetown.edu  
-   Link: [https://cset.georgetown.edu/wp-content/uploads/CSET-Beyond-Pdoom-for-AI-Risk.pdf](https://cset.georgetown.edu/wp-content/uploads/CSET-Beyond-Pdoom-for-AI-Risk.pdf)  
+   Link: <a href="https://cset.georgetown.edu/wp-content/uploads/CSET-Beyond-Pdoom-for-AI-Risk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cset.georgetown.edu/wp-content/uploads/CSET-Beyond-Pdoom-for-AI-Risk.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
    Title: arXiv Managing extreme AI risks amid rapid progress  
-   Link: [https://arxiv.org/abs/2310.17688](https://arxiv.org/abs/2310.17688)  
+   Link: <a href="https://arxiv.org/abs/2310.17688" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2310.17688</a>  
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2503.07341](https://arxiv.org/abs/2503.07341)  
+   Link: <a href="https://arxiv.org/abs/2503.07341" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2503.07341</a>  
 
 9. <a id="endnote-9"></a>
    Source: vox.com  
-   Link: [https://www.vox.com/future-perfect/460222/ai-forecasting-tournament-superforecaster-expert-tetlock](https://www.vox.com/future-perfect/460222/ai-forecasting-tournament-superforecaster-expert-tetlock)  
+   Link: <a href="https://www.vox.com/future-perfect/460222/ai-forecasting-tournament-superforecaster-expert-tetlock" target="_blank" rel="noopener noreferrer nofollow">https://www.vox.com/future-perfect/460222/ai-forecasting-tournament-superforecaster-expert-tetlock</a>  
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2401.02843?utm=](https://arxiv.org/abs/2401.02843?utm=)  
+   Link: <a href="https://arxiv.org/abs/2401.02843?utm=" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2401.02843?utm=</a>  
 
 11. <a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2503.07341](https://arxiv.org/pdf/2503.07341)  
+   Link: <a href="https://arxiv.org/pdf/2503.07341" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2503.07341</a>  
 
 12. <a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2502.14870](https://arxiv.org/pdf/2502.14870)  
+   Link: <a href="https://arxiv.org/pdf/2502.14870" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2502.14870</a>  
 
 13. <a id="endnote-13"></a>
    Source: vox.com  
    Title: Thousands of AI experts are torn about what they've  
-   Link: [https://www.vox.com/future-perfect/2024/1/10/24032987/ai-impacts-survey-[artificial](https://www.vox.com/future-perfect/2024/1/10/24032987/ai-impacts-survey-[artificial)  
+   Link: <a href="https://www.vox.com/future-perfect/2024/1/10/24032987/ai-impacts-survey-artificial-intelligence-chatgpt-openai-existential-risk-superintelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.vox.com/future-perfect/2024/1/10/24032987/ai-impacts-survey-artificial-intelligence-chatgpt-openai-existential-risk-superintelligence</a>  
 
 14. <a id="endnote-14"></a>
    Source: 80000hours.org  
    Title: yoshua bengio scientist ai  
-   Link: [https://80000hours.org/podcast/episodes/yoshua-bengio-scientist-ai/](https://80000hours.org/podcast/episodes/yoshua-bengio-scientist-ai/)  
+   Link: <a href="https://80000hours.org/podcast/episodes/yoshua-bengio-scientist-ai/" target="_blank" rel="noopener noreferrer nofollow">https://80000hours.org/podcast/episodes/yoshua-bengio-scientist-ai/</a>  
 
 15. <a id="endnote-15"></a>
    Source: aiimpacts.org  
    Title: Thousands of AI authors on the future of AI  
-   Link: [https://aiimpacts.org/wp-content/uploads/2023/04/Thousands_of_AI_authors_on_the_future_of_AI.pdf](https://aiimpacts.org/wp-content/uploads/2023/04/Thousands_of_AI_authors_on_the_future_of_AI.pdf)  
+   Link: <a href="https://aiimpacts.org/wp-content/uploads/2023/04/Thousands_of_AI_authors_on_the_future_of_AI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiimpacts.org/wp-content/uploads/2023/04/Thousands_of_AI_authors_on_the_future_of_AI.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: aiimpacts.org  
    Title: 2022 expert survey on progress in ai  
-   Link: [https://aiimpacts.org/2022-expert-survey-on-progress-in-ai/](https://aiimpacts.org/2022-expert-survey-on-progress-in-ai/)  
+   Link: <a href="https://aiimpacts.org/2022-expert-survey-on-progress-in-ai/" target="_blank" rel="noopener noreferrer nofollow">https://aiimpacts.org/2022-expert-survey-on-progress-in-ai/</a>  
 
 17. <a id="endnote-17"></a>
    Source: aiimpacts.org  
-   Link: [https://aiimpacts.org/wp-content/uploads/2022/08/2022ESPAIV.pdf](https://aiimpacts.org/wp-content/uploads/2022/08/2022ESPAIV.pdf)  
+   Link: <a href="https://aiimpacts.org/wp-content/uploads/2022/08/2022ESPAIV.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiimpacts.org/wp-content/uploads/2022/08/2022ESPAIV.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: forecastingresearch.org  
    Title: roots of disagreement on ai risk  
-   Link: [https://forecastingresearch.org/research/roots-of-disagreement-on-ai-risk](https://forecastingresearch.org/research/roots-of-disagreement-on-ai-risk)  
+   Link: <a href="https://forecastingresearch.org/research/roots-of-disagreement-on-ai-risk" target="_blank" rel="noopener noreferrer nofollow">https://forecastingresearch.org/research/roots-of-disagreement-on-ai-risk</a>  
 
 19. <a id="endnote-19"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/technology/2024/dec/27/godfather-of-ai-raises-odds-of-the-technology-wiping-out-humanity-over-next-30-years](https://www.theguardian.com/technology/2024/dec/27/godfather-of-ai-raises-odds-of-the-technology-wiping-out-humanity-over-next-30-years)  
+   Link: <a href="https://www.theguardian.com/technology/2024/dec/27/godfather-of-ai-raises-odds-of-the-technology-wiping-out-humanity-over-next-30-years" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2024/dec/27/godfather-of-ai-raises-odds-of-the-technology-wiping-out-humanity-over-next-30-years</a>  
 
 20. <a id="endnote-20"></a>
    Source: ft.com  
    Title: Financial Times AI will never threaten humans, says top Meta scientist  
-   Link: [https://www.ft.com/content/30fa44a1-7623-499f-93b0-81e26e22f2a6?syn-25a6b1a6=1](https://www.ft.com/content/30fa44a1-7623-499f-93b0-81e26e22f2a6?syn-25a6b1a6=1)  
+   Link: <a href="https://www.ft.com/content/30fa44a1-7623-499f-93b0-81e26e22f2a6?syn-25a6b1a6=1" target="_blank" rel="noopener noreferrer nofollow">https://www.ft.com/content/30fa44a1-7623-499f-93b0-81e26e22f2a6?syn-25a6b1a6=1</a>  
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
    Title: arxiv why do experts disagree on existential risk and pdoom a survey of ai exper  
-   Link: [https://www.facebook.com/ITexam/posts/arxiv-why-do-experts-disagree-on-existential-risk-and-pdoom-a-survey-of-ai-exper/1014848420676515/](https://www.facebook.com/ITexam/posts/arxiv-why-do-experts-disagree-on-existential-risk-and-pdoom-a-survey-of-ai-exper/1014848420676515/)  
+   Link: <a href="https://www.facebook.com/ITexam/posts/arxiv-why-do-experts-disagree-on-existential-risk-and-pdoom-a-survey-of-ai-exper/1014848420676515/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ITexam/posts/arxiv-why-do-experts-disagree-on-existential-risk-and-pdoom-a-survey-of-ai-exper/1014848420676515/</a>  
 
 22. <a id="endnote-22"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/P%28doom%29](https://en.wikipedia.org/wiki/P%28doom%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/P%28doom%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/P%28doom%29</a>  
 
 23. <a id="endnote-23"></a>
    Source: thezvi.substack.com  
    Title: ai impacts survey december 2023 edition  
-   Link: [https://thezvi.substack.com/p/ai-impacts-survey-december-2023-edition](https://thezvi.substack.com/p/ai-impacts-survey-december-2023-edition)  
+   Link: <a href="https://thezvi.substack.com/p/ai-impacts-survey-december-2023-edition" target="_blank" rel="noopener noreferrer nofollow">https://thezvi.substack.com/p/ai-impacts-survey-december-2023-edition</a>  
    Published: december 2023  
 
 24. <a id="endnote-24"></a>
    Source: aiimpacts.org  
-   Link: [https://aiimpacts.org/2024/](https://aiimpacts.org/2024/)  
+   Link: <a href="https://aiimpacts.org/2024/" target="_blank" rel="noopener noreferrer nofollow">https://aiimpacts.org/2024/</a>  
 
 25. <a id="endnote-25"></a>
    Source: aiimpacts.org  
    Title: EMBARGOED AI Impacts Survey Release Google Docs  
-   Link: [https://aiimpacts.org/wp-content/uploads/2024/01/EMBARGOED_-AI-Impacts-Survey-Release-Google-Docs.pdf](https://aiimpacts.org/wp-content/uploads/2024/01/EMBARGOED_-AI-Impacts-Survey-Release-Google-Docs.pdf)  
+   Link: <a href="https://aiimpacts.org/wp-content/uploads/2024/01/EMBARGOED_-AI-Impacts-Survey-Release-Google-Docs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiimpacts.org/wp-content/uploads/2024/01/EMBARGOED_-AI-Impacts-Survey-Release-Google-Docs.pdf</a>  
 
 26. <a id="endnote-26"></a>
    Source: blog.biocomm.ai  
-   Link: [https://blog.biocomm.ai/2024/02/25/ai-impacts-report-thousands-of-ai-authors-on-the-future-of-ai-38participants-put-at-least-a-10-chance-on-extremely-bad-outcomes-e-g-human-extinction-january-2024/](https://blog.biocomm.ai/2024/02/25/ai-impacts-report-thousands-of-ai-authors-on-the-future-of-ai-38participants-put-at-least-a-10-chance-on-extremely-bad-outcomes-e-g-human-extinction-january-2024/)  
+   Link: <a href="https://blog.biocomm.ai/2024/02/25/ai-impacts-report-thousands-of-ai-authors-on-the-future-of-ai-38participants-put-at-least-a-10-chance-on-extremely-bad-outcomes-e-g-human-extinction-january-2024/" target="_blank" rel="noopener noreferrer nofollow">https://blog.biocomm.ai/2024/02/25/ai-impacts-report-thousands-of-ai-authors-on-the-future-of-ai-38participants-put-at-least-a-10-chance-on-extremely-bad-outcomes-e-g-human-extinction-january-2024/</a>  
 
 27. <a id="endnote-27"></a>
    Source: forecastingresearch.org  
    Title: near term xpt accuracy  
-   Link: [https://forecastingresearch.org/research/near-term-xpt-accuracy](https://forecastingresearch.org/research/near-term-xpt-accuracy)  
+   Link: <a href="https://forecastingresearch.org/research/near-term-xpt-accuracy" target="_blank" rel="noopener noreferrer nofollow">https://forecastingresearch.org/research/near-term-xpt-accuracy</a>  
 
 28. <a id="endnote-28"></a>
    Source: forecastingresearch.org  
    Title: ai conditional trees  
-   Link: [https://forecastingresearch.org/ai-conditional-trees](https://forecastingresearch.org/ai-conditional-trees)  
+   Link: <a href="https://forecastingresearch.org/ai-conditional-trees" target="_blank" rel="noopener noreferrer nofollow">https://forecastingresearch.org/ai-conditional-trees</a>  
 
 29. <a id="endnote-29"></a>
    Source: jair.org  
-   Link: [https://www.jair.org/index.php/jair/article/view/19087](https://www.jair.org/index.php/jair/article/view/19087)  
+   Link: <a href="https://www.jair.org/index.php/jair/article/view/19087" target="_blank" rel="noopener noreferrer nofollow">https://www.jair.org/index.php/jair/article/view/19087</a>  
 
 30. <a id="endnote-30"></a>
    Source: bayesianinvestor.com  
    Title: existential risk persuasion tournament  
-   Link: [https://bayesianinvestor.com/blog/index.php/2023/07/17/existential-risk-persuasion-tournament/](https://bayesianinvestor.com/blog/index.php/2023/07/17/existential-risk-persuasion-tournament/)  
+   Link: <a href="https://bayesianinvestor.com/blog/index.php/2023/07/17/existential-risk-persuasion-tournament/" target="_blank" rel="noopener noreferrer nofollow">https://bayesianinvestor.com/blog/index.php/2023/07/17/existential-risk-persuasion-tournament/</a>  
 
 ### Additional References
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=qn1T4YwJW9o](https://www.youtube.com/watch?v=qn1T4YwJW9o)  
+   Link: <a href="https://www.youtube.com/watch?v=qn1T4YwJW9o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qn1T4YwJW9o</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The AI Insider Giving Humanity 50/50 Odds (And What Tips the Scale) | Emad Mostaque...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
    Title: "We Are the Alien Probes" — Roman Yampolskiy  
-   Link: [https://www.youtube.com/watch?v=sWqE2a5FUcY](https://www.youtube.com/watch?v=sWqE2a5FUcY)  
+   Link: <a href="https://www.youtube.com/watch?v=sWqE2a5FUcY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sWqE2a5FUcY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Doomsday Clock Physicist Warns AI Is Major THREAT to Humanity! — Prof. Daniel Holz, Univ. of Chicago...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: youtube.com  
    Title: Top Economist Says P(Doom) Is 0.1% — Noah Smith vs. Liron Shapira Debate  
-   Link: [https://www.youtube.com/watch?v=AwmJ-OnK2I4](https://www.youtube.com/watch?v=AwmJ-OnK2I4)  
+   Link: <a href="https://www.youtube.com/watch?v=AwmJ-OnK2I4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AwmJ-OnK2I4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;We Are the Alien Probes&quot; — Roman Yampolskiy...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
    Title: AI: Existential Risk or Power Grab?  
-   Link: [https://www.youtube.com/watch?v=gyOGhnEnGkk](https://www.youtube.com/watch?v=gyOGhnEnGkk)  
+   Link: <a href="https://www.youtube.com/watch?v=gyOGhnEnGkk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gyOGhnEnGkk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Top Economist Says P(Doom) Is 0.1% — Noah Smith vs. Liron Shapira Debate...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Futurology/comments/1hofjfl/godfather_of_ai_says_it_could_drive_humans/](https://www.reddit.com/r/Futurology/comments/1hofjfl/godfather_of_ai_says_it_could_drive_humans/)  
+   Link: <a href="https://www.reddit.com/r/Futurology/comments/1hofjfl/godfather_of_ai_says_it_could_drive_humans/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/1hofjfl/godfather_of_ai_says_it_could_drive_humans/</a>  
 
 36. <a id="endnote-36"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/390801072_Pdoom_Versus_AI_Optimism_Attitudes_Toward_Artificial_Intelligence_and_the_Factors_That_Shape_Them](https://www.researchgate.net/publication/390801072_Pdoom_Versus_AI_Optimism_Attitudes_Toward_Artificial_Intelligence_and_the_Factors_That_Shape_Them)  
+   Link: <a href="https://www.researchgate.net/publication/390801072_Pdoom_Versus_AI_Optimism_Attitudes_Toward_Artificial_Intelligence_and_the_Factors_That_Shape_Them" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390801072_Pdoom_Versus_AI_Optimism_Attitudes_Toward_Artificial_Intelligence_and_the_Factors_That_Shape_Them</a>  
 
 37. <a id="endnote-37"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/389749013_The_Economics_of_pdoom_Scenarios_of_Existential_Risk_and_Economic_Growth_in_the_Age_of_Transformative_AI](https://www.researchgate.net/publication/389749013_The_Economics_of_pdoom_Scenarios_of_Existential_Risk_and_Economic_Growth_in_the_Age_of_Transformative_AI)  
+   Link: <a href="https://www.researchgate.net/publication/389749013_The_Economics_of_pdoom_Scenarios_of_Existential_Risk_and_Economic_Growth_in_the_Age_of_Transformative_AI" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389749013_The_Economics_of_pdoom_Scenarios_of_Existential_Risk_and_Economic_Growth_in_the_Age_of_Transformative_AI</a>  
 
 38. <a id="endnote-38"></a>
    Source: medium.com  
-   Link: [https://medium.com/frontiers-of-data-science/ai-risk-perspectives-from-superforecasters-and-ai-experts-a9ee684eff89](https://medium.com/frontiers-of-data-science/ai-risk-perspectives-from-superforecasters-and-ai-experts-a9ee684eff89)  
+   Link: <a href="https://medium.com/frontiers-of-data-science/ai-risk-perspectives-from-superforecasters-and-ai-experts-a9ee684eff89" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/frontiers-of-data-science/ai-risk-perspectives-from-superforecasters-and-ai-experts-a9ee684eff89</a>  
 
 39. <a id="endnote-39"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/simontorrance_why-do-experts-disagree-on-existential-risk-activity-7301886948334333952-VwQS](https://www.linkedin.com/posts/simontorrance_why-do-experts-disagree-on-existential-risk-activity-7301886948334333952-VwQS)  
+   Link: <a href="https://www.linkedin.com/posts/simontorrance_why-do-experts-disagree-on-existential-risk-activity-7301886948334333952-VwQS" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/simontorrance_why-do-experts-disagree-on-existential-risk-activity-7301886948334333952-VwQS</a>  
 
 40. <a id="endnote-40"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/yann.lecun/posts/a-sensible-piece-by-nello-cristianini-about-ai-existential-riskor-lack-thereofif/10158942941237143/](https://www.facebook.com/yann.lecun/posts/a-sensible-piece-by-nello-cristianini-about-ai-existential-riskor-lack-thereofif/10158942941237143/)  
+   Link: <a href="https://www.facebook.com/yann.lecun/posts/a-sensible-piece-by-nello-cristianini-about-ai-existential-riskor-lack-thereofif/10158942941237143/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/yann.lecun/posts/a-sensible-piece-by-nello-cristianini-about-ai-existential-riskor-lack-thereofif/10158942941237143/</a>  

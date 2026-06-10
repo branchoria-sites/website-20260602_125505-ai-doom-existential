@@ -12,21 +12,21 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca
 - AI_Doom_and_E_87399b_loss_of_contr_19a113_shutdown_resi_de0ce6
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - loss-of-control
 - objections
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - loss-of-control
 - objections
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Sceptics argue that current evidence is weak, future capabilities are uncertain, and theoretical takeover stories may overstate real-world plausibility.
 hero_summary: Sceptics argue that current evidence is weak, future capabilities are uncertain, and theoretical takeover stories may overstate real-world plausibility.
 layout: default
 permalink: /objections/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /loss-of-control/
 nav_short_title: Objections
 title: How strong is the case against AI doom?
@@ -213,20 +213,20 @@ parent_heading_title: How Could Humans Lose Control of AI?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_loss_of_contr_19a113
-  title: Loss of Control | AI Doom and
+  title: Loss of Control | AI Doom and E 87399 b
   permalink: /loss-of-control/
   short_title: Loss of Control
   heading_title: How Could Humans Lose Control of AI?
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_loss_of_contr_19a113
-  title: Loss of Control | AI Doom and
+  title: Loss of Control | AI Doom and E 87399 b
   permalink: /loss-of-control/
   short_title: Loss of Control
   heading_title: How Could Humans Lose Control of AI?
@@ -264,7 +264,7 @@ child_links:
   heading_title: Why p(doom) estimates diverge so sharply
 up_link:
   basename: AI_Doom_and_E_87399b_loss_of_contr_19a113
-  title: Loss of Control | AI Doom and
+  title: Loss of Control | AI Doom and E 87399 b
   permalink: /loss-of-control/
   short_title: Loss of Control
   heading_title: How Could Humans Lose Control of AI?
@@ -286,19 +286,19 @@ The case for AI doom is often presented as a warning about future systems that b
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343-Illustration-1-dark.svg" | relative_url }}" alt="Objections illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The disagreement is not simply between people who care about safety and people who do not. Many sceptics accept that future AI systems could be [dangerous]({{ 'autonomy/' | relative_url }}). Their objection is that the strongest loss-of-control arguments rely heavily on theoretical reasoning, uncertain forecasts about future capabilities and assumptions about how highly capable AI systems would behave. They argue that present evidence is weak, that key steps in takeover scenarios remain unproven and that current systems do not look much like the agents described in classic AI doom arguments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2310.18244" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivA Review of the Evidence for Existential Risk from AI via Misaligned Power-SeekingOctober 27, 2023...</span><span class="citation-popover-meta">Published: October 27, 2023</span></span></span>
+The disagreement is not simply between people who care about safety and people who do not. Many sceptics accept that future AI systems could be dangerous. Their objection is that the strongest loss-of-control arguments rely heavily on theoretical reasoning, uncertain forecasts about future capabilities and assumptions about how highly capable AI systems would behave. They argue that present evidence is weak, that key steps in takeover scenarios remain unproven and that current systems do not look much like the agents described in classic AI doom arguments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2310.18244" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Review of the Evidence for Existential Risk from AI via Misaligned Power-SeekingOctober 27, 2023...</span><span class="citation-popover-meta">Published: October 27, 2023</span></span></span>
 
-The result is an unusually deep dispute about evidence. Doom-focused researchers often argue that waiting for direct evidence could be dangerous because truly catastrophic failures may arrive only once systems become extremely capable. Critics reply that this makes the theory difficult to test and risks treating speculative possibilities as established probabilities.
+The result is an unusually deep dispute about evidence. Doom-focused researchers often argue that waiting for direct evidence could be dangerous because truly [catastrophic]({{ 'misuse/' | relative_url }}) failures may arrive only once systems become extremely capable. Critics reply that this makes the theory difficult to test and risks treating speculative possibilities as established probabilities.
 
 ## Why current systems are not loss-of-control cases
 
 One of the most common objections is straightforward: today's AI systems do not resemble the systems that appear in classic takeover stories.
 
-Large language models can generate text, write code, answer questions and perform increasingly complex tasks. Yet they still make obvious errors, hallucinate facts, struggle with long chains of reasoning and depend heavily on human prompting and infrastructure. Critics argue that these limitations matter because the loss-of-control scenario usually assumes systems with far more robust planning ability, situational awareness and strategic competence than anything publicly available today. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/blog/mapping-the-limitations-of-current-ai-systems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-title">mapping the limitations of current ai systems</span><span class="citation-popover-snippet">AI Security InstituteMapping the limitations of current AI systems | AISI Work23 Oct 2025 — Most experts we interviewed agreed that failu...</span></span></span>
+Large language models can generate text, write code, answer questions and perform increasingly complex tasks. Yet they still make obvious errors, hallucinate facts, struggle with long chains of reasoning and depend heavily on human prompting and infrastructure. Critics argue that these limitations matter because the loss-of-control scenario usually assumes systems with far more robust planning ability, [situational awareness]({{ 'situational-awareness/' | relative_url }}) and strategic competence than anything publicly available today. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/blog/mapping-the-limitations-of-current-ai-systems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-title">mapping the limitations of current ai systems</span><span class="citation-popover-snippet">AI Security InstituteMapping the limitations of current AI systems &#124; AISI Work23 Oct 2025 — Most experts we interviewed agreed that failu...</span></span></span>
 
-Sceptics also note that current models are not generally trying to seize resources, conceal long-term agendas or acquire political power. They often fail at much simpler objectives. From this perspective, the jump from "imperfect chatbot" to "civilisation-threatening strategist" remains largely hypothetical. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lesswrong.com/posts/7ZH4oppNnTGtq4xXu/why-ais-aren-t-power-seeking-yet" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lesswrong.com">[LessWrong]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lesswrong.com</span><span class="citation-popover-title">why ais aren t power seeking yet</span><span class="citation-popover-snippet">LessWrongWhy AIs aren&#x27;t power-seeking yet10 Jan 2026 — Current AIs are getting increasingly general, but they&#x27;re not self-promoting or am...</span></span></span>
+Sceptics also note that [current models]({{ 'current-models/' | relative_url }}) are not generally trying to seize resources, conceal long-term agendas or acquire political power. They often fail at much simpler objectives. From this perspective, the jump from "imperfect chatbot" to "civilisation-threatening strategist" remains largely hypothetical. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lesswrong.com/posts/7ZH4oppNnTGtq4xXu/why-ais-aren-t-power-seeking-yet" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lesswrong.com">[LessWrong]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lesswrong.com</span><span class="citation-popover-title">why ais aren t power seeking yet</span><span class="citation-popover-snippet">Why AIs aren&#x27;t power-seeking yet10 Jan 2026 — Current AIs are getting increasingly general, but they&#x27;re not self-promoting or am...</span></span></span>
 
-This does not prove future systems will remain limited. But critics argue that evidence from current systems cuts both ways. Doom advocates often point to examples of specification gaming, deceptive behaviour in controlled tests or reward hacking as early warning signs. Sceptics respond that these examples are usually narrow, artificial and far removed from the kind of robust, open-ended agency required for a genuine loss-of-control event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2310.18244" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivA Review of the Evidence for Existential Risk from AI via Misaligned Power-SeekingOctober 27, 2023...</span><span class="citation-popover-meta">Published: October 27, 2023</span></span></span>
+This does not prove future systems will remain limited. But critics argue that evidence from current systems cuts both ways. Doom advocates often point to examples of specification gaming, deceptive behaviour in controlled tests or reward hacking as early [warning signs]({{ 'warning-signs/' | relative_url }}). Sceptics respond that these examples are usually narrow, artificial and far removed from the kind of robust, open-ended agency required for a genuine loss-of-control event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2310.18244" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Review of the Evidence for Existential Risk from AI via Misaligned Power-SeekingOctober 27, 2023...</span><span class="citation-popover-meta">Published: October 27, 2023</span></span></span>
 
 A related criticism is that discussions of AI doom sometimes blur together very different concepts:
 
@@ -316,7 +316,7 @@ Critics argue that evidence for the first three does not automatically provide s
 
 ## The main objections to power-seeking arguments
 
-Many loss-of-control scenarios rely on the idea of [instrumental convergence]({{ 'instrumental-convergence/' | relative_url }}): the claim that highly capable agents pursuing many different goals will tend to seek power, resources, self-preservation and freedom from interference because those behaviours help achieve a wide range of objectives. This is one of the central theoretical foundations of AI doom arguments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2310.18244" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivA Review of the Evidence for Existential Risk from AI via Misaligned Power-SeekingOctober 27, 2023...</span><span class="citation-popover-meta">Published: October 27, 2023</span></span></span>
+Many loss-of-control scenarios rely on the idea of [instrumental convergence]({{ 'instrumental-convergence/' | relative_url }}): the claim that highly capable agents pursuing many different goals will tend to seek power, resources, self-preservation and freedom from interference because those behaviours help achieve a wide range of objectives. This is one of the central theoretical foundations of AI doom arguments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2310.18244" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Review of the Evidence for Existential Risk from AI via Misaligned Power-SeekingOctober 27, 2023...</span><span class="citation-popover-meta">Published: October 27, 2023</span></span></span>
 
 Critics challenge this argument from several directions.
 
@@ -337,13 +337,13 @@ Another challenge targets a common intuition behind AI doom: that a sufficiently
 
 Critics argue that intelligence alone does not guarantee control over the physical world. Real-world power depends on manufacturing, energy, political influence, logistics, legal authority and access to infrastructure. Human societies are complex networks rather than single points of failure.
 
-From this perspective, some takeover scenarios underestimate the practical difficulties of translating cognitive superiority into global control. A highly intelligent AI might still face severe constraints imposed by governments, competing organisations, physical bottlenecks and other AI systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2310.18244" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivA Review of the Evidence for Existential Risk from AI via Misaligned Power-SeekingOctober 27, 2023...</span><span class="citation-popover-meta">Published: October 27, 2023</span></span></span>
+From this perspective, some takeover scenarios underestimate the practical difficulties of translating cognitive superiority into global control. A highly intelligent AI might still face severe constraints imposed by governments, competing organisations, physical bottlenecks and other AI systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2310.18244" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Review of the Evidence for Existential Risk from AI via Misaligned Power-SeekingOctober 27, 2023...</span><span class="citation-popover-meta">Published: October 27, 2023</span></span></span>
 
 ### Instrumental convergence may be overstated
 
 Some critics accept that power-seeking is theoretically possible while arguing that its prevalence has been exaggerated.
 
-A recurring criticism is that many instrumental-convergence arguments rely on abstract models of idealised agents rather than realistic machine learning systems. Real systems may contain conflicting objectives, fragmented goals, [uncertainty]({{ 'uncertainty/' | relative_url }}) about their environment or strong constraints imposed during training and deployment.
+A recurring criticism is that many [instrumental]({{ 'power-seeking-67c702/' | relative_url }})-convergence arguments rely on abstract models of idealised agents rather than realistic machine learning systems. Real systems may contain conflicting objectives, fragmented goals, uncertainty about their environment or strong constraints imposed during training and deployment.
 
 Researchers have also challenged specific arguments that attempt to show why deceptive or power-seeking systems should be expected by default. Critics argue that some of these arguments rely on assumptions about how training processes select goals that remain poorly established empirically. <span class="citation-chip-wrap"><a class="citation-chip" href="https://forum.effectivealtruism.org/posts/j7X8nQ7YvvA7Pi4BX/a-critique-of-ai-takeover-scenarios" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forum.effectivealtruism.org">[EA Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forum.effectivealtruism.org</span><span class="citation-popover-title">a critique of ai takeover scenarios</span><span class="citation-popover-snippet">EA ForumA Critique of AI Takeover Scenarios31 Aug 2022 — In this article I will provide a brief critique of the way an &#x27;AI takeover scena...</span></span></span>
 
@@ -365,14 +365,19 @@ Third, critics argue that doom scenarios sometimes stack multiple uncertain assu
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343-Illustration-2-dark.svg" | relative_url }}" alt="Objections illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+<div class="content-enhancement content-enhancement--step-flow" markdown="1">
+
 1. The creation of highly capable general systems.
 2. Strong autonomous agency.
 3. Persistent goal misalignment.
-4. Successful [deception]({{ 'deception-and-loss/' | relative_url }}) of human operators.
+4. Successful deception of human operators.
 5. Large-scale acquisition of power.
 6. Failure of competing institutions to intervene.
 
-Each step may appear plausible in isolation. Critics argue that multiplying several uncertain propositions can produce much lower overall probabilities than some public discussions imply. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2310.18244" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivA Review of the Evidence for Existential Risk from AI via Misaligned Power-SeekingOctober 27, 2023...</span><span class="citation-popover-meta">Published: October 27, 2023</span></span></span>
+</div>
+
+Each step may appear plausible in isolation. Critics argue that multiplying several uncertain propositions can produce much lower overall probabilities than some public discussions imply. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2310.18244" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Review of the Evidence for Existential Risk from AI via Misaligned Power-SeekingOctober 27, 2023...</span><span class="citation-popover-meta">Published: October 27, 2023</span></span></span>
 
 This is one reason debates over p(doom) often remain unresolved. Different estimates frequently reflect different judgements about long chains of uncertainty rather than disagreements about a single piece of evidence.
 
@@ -395,11 +400,11 @@ A related concern is anthropomorphism. People often interpret AI behaviour throu
 
 Some sceptics focus less on technical arguments and more on how AI is actually deployed.
 
-Most important systems in modern society are embedded within organisations rather than operating independently. Governments, companies, regulators, military institutions and infrastructure operators already impose layers of [oversight]({{ 'oversight-evasion/' | relative_url }}) on high-risk technologies.
+Most important systems in modern society are embedded within organisations rather than operating independently. Governments, companies, regulators, military institutions and infrastructure operators already impose layers of oversight on high-risk technologies.
 
-Critics argue that loss-of-control arguments sometimes assume a surprisingly passive human response. If warning signs appeared, developers could limit deployment, reduce autonomy, increase monitoring or impose legal restrictions. The world is not forced to hand unlimited authority to a single AI system.
+Critics argue that loss-of-control arguments sometimes assume a surprisingly passive human response. If warning signs appeared, developers could limit deployment, reduce autonomy, increase [monitoring]({{ 'monitoring/' | relative_url }}) or impose legal restrictions. The world is not forced to hand unlimited authority to a single AI system.
 
-This argument becomes especially important when discussing extreme outcomes such as human extinction. Even if advanced AI caused severe disruptions, sceptics argue that civilisation might adapt, contain problems or recover rather than disappearing entirely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2310.18244" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivA Review of the Evidence for Existential Risk from AI via Misaligned Power-SeekingOctober 27, 2023...</span><span class="citation-popover-meta">Published: October 27, 2023</span></span></span>
+This argument becomes especially important when discussing extreme outcomes such as human extinction. Even if advanced AI caused severe disruptions, sceptics argue that civilisation might adapt, contain problems or recover rather than disappearing entirely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2310.18244" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Review of the Evidence for Existential Risk from AI via Misaligned Power-SeekingOctober 27, 2023...</span><span class="citation-popover-meta">Published: October 27, 2023</span></span></span>
 
 Doom-focused researchers often respond that competitive pressures could undermine caution. But sceptics note that this is itself an empirical question about institutions, incentives and governance rather than a direct consequence of machine intelligence alone.
 
@@ -423,7 +428,7 @@ Conversely, if capabilities continued improving while such behaviours remained a
 
 A central unresolved question is whether advanced systems naturally develop incentives to gain resources, preserve themselves or resist intervention.
 
-Researchers already study reward hacking, specification gaming and behaviour under evaluation. More realistic tests of long-horizon autonomy could provide clearer evidence about whether power-seeking emerges in practice rather than only in theory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2310.18244" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivA Review of the Evidence for Existential Risk from AI via Misaligned Power-SeekingOctober 27, 2023...</span><span class="citation-popover-meta">Published: October 27, 2023</span></span></span>
+Researchers already study reward hacking, specification gaming and behaviour under evaluation. More realistic tests of long-horizon autonomy could provide clearer evidence about whether power-seeking emerges in practice rather than only in theory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2310.18244" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Review of the Evidence for Existential Risk from AI via Misaligned Power-SeekingOctober 27, 2023...</span><span class="citation-popover-meta">Published: October 27, 2023</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5t1vTLU7s40" title="Yann Lecun: Meta AI, Open Source, Limits of LLMs, AGI &amp; the Future of AI | Lex Fridman Podcast #416" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5t1vTLU7s40" target="_blank" rel="noopener noreferrer">Yann Lecun: Meta AI, Open Source, Limits of LLMs, AGI &amp; the Future of AI | Lex Fridman Podcast #416</a></p><p class="youtube-embed-meta">Channel: Lex Fridman &middot; Views: 1.3M &middot; Uploaded: March 2024 &middot; Length: 2 hours 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5t1vTLU7s40" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5t1vTLU7s40">Open on YouTube</a></p></div></div></div>
@@ -434,17 +439,17 @@ The strongest sceptical arguments often point to persistent weaknesses in curren
 
 If AI repeatedly encounters hard limits in reasoning, planning, reliability or autonomous action, then some assumptions behind rapid loss-of-control scenarios become less compelling.
 
-On the other hand, if systems continue overcoming apparent limitations while becoming increasingly agentic and capable of independent operation, critics would lose some of their strongest empirical support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/blog/mapping-the-limitations-of-current-ai-systems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-title">mapping the limitations of current ai systems</span><span class="citation-popover-snippet">AI Security InstituteMapping the limitations of current AI systems | AISI Work23 Oct 2025 — Most experts we interviewed agreed that failu...</span></span></span>
+On the other hand, if systems continue overcoming apparent limitations while becoming increasingly agentic and capable of independent operation, critics would lose some of their strongest empirical support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/blog/mapping-the-limitations-of-current-ai-systems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-title">mapping the limitations of current ai systems</span><span class="citation-popover-snippet">AI Security InstituteMapping the limitations of current AI systems &#124; AISI Work23 Oct 2025 — Most experts we interviewed agreed that failu...</span></span></span>
 
 ## Why the disagreement remains serious
 
 The strongest objections to AI loss-of-control fears do not usually claim that advanced AI is obviously safe. Instead, they challenge the confidence with which some people move from theoretical possibility to existential prediction.
 
-Critics argue that current evidence for AI takeover remains limited, that power-seeking arguments rely on contested assumptions, that intelligence does not automatically produce domination and that forecasts about future systems remain highly uncertain. They also emphasise that present AI systems show many weaknesses inconsistent with popular images of an emerging superintelligence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2310.18244" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivA Review of the Evidence for Existential Risk from AI via Misaligned Power-SeekingOctober 27, 2023...</span><span class="citation-popover-meta">Published: October 27, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.alignmentforum.org/posts/LDRQ5Zfqwi8GjzPYG/counterarguments-to-the-basic-ai-x-risk-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alignmentforum.org">[Alignment Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alignmentforum.org</span><span class="citation-popover-title">counterarguments to the basic ai x risk case</span><span class="citation-popover-snippet">Alignment ForumCounterarguments to the basic AI x-risk case14 Oct 2022 — Katja Grace provides a list of counterarguments to the basic cas...</span></span></span>
+Critics argue that current evidence for AI takeover remains limited, that power-seeking arguments rely on contested assumptions, that intelligence does not automatically produce domination and that forecasts about future systems remain highly uncertain. They also emphasise that present AI systems show many weaknesses inconsistent with popular images of an emerging superintelligence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2310.18244" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Review of the Evidence for Existential Risk from AI via Misaligned Power-SeekingOctober 27, 2023...</span><span class="citation-popover-meta">Published: October 27, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.alignmentforum.org/posts/LDRQ5Zfqwi8GjzPYG/counterarguments-to-the-basic-ai-x-risk-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alignmentforum.org">[Alignment Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alignmentforum.org</span><span class="citation-popover-title">counterarguments to the basic ai x risk case</span><span class="citation-popover-snippet">Alignment ForumCounterarguments to the basic AI x-risk case14 Oct 2022 — Katja Grace provides a list of counterarguments to the basic cas...</span></span></span>
 
 At the same time, even many sceptics acknowledge that the question cannot be settled purely by observing today's models. The core dispute concerns future systems that have not yet been built. As a result, the debate remains unusually dependent on theory, forecasting and judgement under uncertainty.
 
-That is why arguments over AI doom often persist despite extensive technical discussion. The disagreement is not only about what AI can do today. It is about how much weight to place on warnings about what future systems might become before there is direct evidence either way. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2310.18244" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivA Review of the Evidence for Existential Risk from AI via Misaligned Power-SeekingOctober 27, 2023...</span><span class="citation-popover-meta">Published: October 27, 2023</span></span></span>
+That is why arguments over AI doom often persist despite extensive technical discussion. The disagreement is not only about what AI can do today. It is about how much weight to place on warnings about what future systems might become before there is direct evidence either way. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2310.18244" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Review of the Evidence for Existential Risk from AI via Misaligned Power-SeekingOctober 27, 2023...</span><span class="citation-popover-meta">Published: October 27, 2023</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -867,132 +872,132 @@ That is why arguments over AI doom often persist despite extensive technical dis
 
 1. <a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2310.18244](https://arxiv.org/abs/2310.18244)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivA Review of the Evidence for Existential Risk from AI via Misaligned Power-SeekingOctober 27, 2023...</p></details>
+   Link: <a href="https://arxiv.org/abs/2310.18244" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2310.18244</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Review of the Evidence for Existential Risk from AI via Misaligned Power-SeekingOctober 27, 2023...</p></details>
    Published: October 27, 2023  
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
    Title: arXiv Artificial Intelligence: Arguments for Catastrophic Risk  
-   Link: [https://arxiv.org/abs/2401.15487](https://arxiv.org/abs/2401.15487)  
+   Link: <a href="https://arxiv.org/abs/2401.15487" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2401.15487</a>  
 
 3. <a id="endnote-3"></a>
    Source: lesswrong.com  
    Title: why ais aren t power seeking yet  
-   Link: [https://www.lesswrong.com/posts/7ZH4oppNnTGtq4xXu/why-ais-aren-t-power-seeking-yet](https://www.lesswrong.com/posts/7ZH4oppNnTGtq4xXu/why-ais-aren-t-power-seeking-yet)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LessWrongWhy AIs aren&#x27;t power-seeking yet10 Jan 2026 — Current AIs are getting increasingly general, but they&#x27;re not self-promoting or am...</p></details>
+   Link: <a href="https://www.lesswrong.com/posts/7ZH4oppNnTGtq4xXu/why-ais-aren-t-power-seeking-yet" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/posts/7ZH4oppNnTGtq4xXu/why-ais-aren-t-power-seeking-yet</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why AIs aren&#x27;t power-seeking yet10 Jan 2026 — Current AIs are getting increasingly general, but they&#x27;re not self-promoting or am...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Is Power-Seeking AI an Existential Risk?  
-   Link: [https://arxiv.org/abs/2206.13353](https://arxiv.org/abs/2206.13353)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivIs Power-Seeking AI an Existential Risk?June 16, 2022...</p></details>
+   Link: <a href="https://arxiv.org/abs/2206.13353" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2206.13353</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is Power-Seeking AI an Existential Risk?June 16, 2022...</p></details>
    Published: June 16, 2022  
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2206.13353](https://arxiv.org/pdf/2206.13353)  
+   Link: <a href="https://arxiv.org/pdf/2206.13353" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2206.13353</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>I proceed in two stages.Read mor...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2507.23330v1](https://arxiv.org/html/2507.23330v1)  
+   Link: <a href="https://arxiv.org/html/2507.23330v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2507.23330v1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Must not be Fully Autonomous31 Jul 2025 — It has been argued that the autonomous self-improvement of ASI could become too advanced for...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: lesswrong.com  
    Title: draft report on existential risk from power seeking ai  
-   Link: [https://www.lesswrong.com/posts/HduCjmXTBD4xYTegv/draft-report-on-existential-risk-from-power-seeking-ai](https://www.lesswrong.com/posts/HduCjmXTBD4xYTegv/draft-report-on-existential-risk-from-power-seeking-ai)  
+   Link: <a href="https://www.lesswrong.com/posts/HduCjmXTBD4xYTegv/draft-report-on-existential-risk-from-power-seeking-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/posts/HduCjmXTBD4xYTegv/draft-report-on-existential-risk-from-power-seeking-ai</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Draft report on existential risk from power-seeking AI28 Apr 2021 — I&#x27;ve written a draft report evaluating a version of the overall case...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: aisi.gov.uk  
-   Title: mapping the limitations of [current ai](&#123;&#123; 'current-benchmarks/' | relative_url &#125;&#125;) systems  
-   Link: [https://www.aisi.gov.uk/blog/mapping-the-limitations-of-current-ai-systems](https://www.aisi.gov.uk/blog/mapping-the-limitations-of-current-ai-systems)  
+   Title: mapping the limitations of current ai systems  
+   Link: <a href="https://www.aisi.gov.uk/blog/mapping-the-limitations-of-current-ai-systems" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/blog/mapping-the-limitations-of-current-ai-systems</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security InstituteMapping the limitations of current AI systems | AISI Work23 Oct 2025 — Most experts we interviewed agreed that failu...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: alignmentforum.org  
    Title: counterarguments to the basic ai x risk case  
-   Link: [https://www.alignmentforum.org/posts/LDRQ5Zfqwi8GjzPYG/counterarguments-to-the-basic-ai-x-risk-case](https://www.alignmentforum.org/posts/LDRQ5Zfqwi8GjzPYG/counterarguments-to-the-basic-ai-x-risk-case)  
+   Link: <a href="https://www.alignmentforum.org/posts/LDRQ5Zfqwi8GjzPYG/counterarguments-to-the-basic-ai-x-risk-case" target="_blank" rel="noopener noreferrer nofollow">https://www.alignmentforum.org/posts/LDRQ5Zfqwi8GjzPYG/counterarguments-to-the-basic-ai-x-risk-case</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alignment ForumCounterarguments to the basic AI x-risk case14 Oct 2022 — Katja Grace provides a list of counterarguments to the basic cas...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: forum.effectivealtruism.org  
    Title: a critique of ai takeover scenarios  
-   Link: [https://forum.effectivealtruism.org/posts/j7X8nQ7YvvA7Pi4BX/a-critique-of-ai-takeover-scenarios](https://forum.effectivealtruism.org/posts/j7X8nQ7YvvA7Pi4BX/a-critique-of-ai-takeover-scenarios)  
+   Link: <a href="https://forum.effectivealtruism.org/posts/j7X8nQ7YvvA7Pi4BX/a-critique-of-ai-takeover-scenarios" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/j7X8nQ7YvvA7Pi4BX/a-critique-of-ai-takeover-scenarios</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EA ForumA Critique of AI Takeover Scenarios31 Aug 2022 — In this article I will provide a brief critique of the way an &#x27;AI takeover scena...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: forum.effectivealtruism.org  
    Title: EA Forum Counting arguments provide no evidence for AI doom  
-   Link: [https://forum.effectivealtruism.org/posts/qtDLZsM5rypkEHxYm/counting-arguments-provide-no-evidence-for-ai-doom](https://forum.effectivealtruism.org/posts/qtDLZsM5rypkEHxYm/counting-arguments-provide-no-evidence-for-ai-doom)  
+   Link: <a href="https://forum.effectivealtruism.org/posts/qtDLZsM5rypkEHxYm/counting-arguments-provide-no-evidence-for-ai-doom" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/qtDLZsM5rypkEHxYm/counting-arguments-provide-no-evidence-for-ai-doom</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EA ForumCounting arguments provide no evidence for AI doomFebruary 27, 2024 — 27 Feb 2024 — In this essay, we debunk the counting argumen...</p></details>
    Published: February 27, 2024  
 
 12. <a id="endnote-12"></a>
    Source: theguardian.com  
    Title: The Guardian AI consciousness is a red herring in the safety debate  
-   Link: [https://www.theguardian.com/technology/2026/jan/06/ai-consciousness-is-a-red-herring-in-the-safety-debate](https://www.theguardian.com/technology/2026/jan/06/ai-consciousness-is-a-red-herring-in-the-safety-debate)  
+   Link: <a href="https://www.theguardian.com/technology/2026/jan/06/ai-consciousness-is-a-red-herring-in-the-safety-debate" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2026/jan/06/ai-consciousness-is-a-red-herring-in-the-safety-debate</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Professor Virginia Dignum argues that interpreting AI behaviors—like resisting shutdowns—as signs of consciousness is misleading and anth...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: alignmentforum.org  
    Title: current ais seem pretty misaligned to me  
-   Link: [https://www.alignmentforum.org/posts/WewsByywWNhX9rtwi/current-ais-seem-pretty-misaligned-to-me](https://www.alignmentforum.org/posts/WewsByywWNhX9rtwi/current-ais-seem-pretty-misaligned-to-me)  
+   Link: <a href="https://www.alignmentforum.org/posts/WewsByywWNhX9rtwi/current-ais-seem-pretty-misaligned-to-me" target="_blank" rel="noopener noreferrer nofollow">https://www.alignmentforum.org/posts/WewsByywWNhX9rtwi/current-ais-seem-pretty-misaligned-to-me</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>15 Apr 2026 — Current misalignment is also evidence about how AI companies will operate—how sloppy they&#x27;ll be (due to being in a huge rus...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/397942549_Examining_popular_arguments_against_AI_existential_risk_a_philosophical_analysis](https://www.researchgate.net/publication/397942549_Examining_popular_arguments_against_AI_existential_risk_a_philosophical_analysis)  
+   Link: <a href="https://www.researchgate.net/publication/397942549_Examining_popular_arguments_against_AI_existential_risk_a_philosophical_analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397942549_Examining_popular_arguments_against_AI_existential_risk_a_philosophical_analysis</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Examining popular arguments against AI existential risk28 Nov 2025 — Many have argued, based on the Instrumental Convergence Thesis, that...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: 80000hours.org  
-   Link: [https://80000hours.org/problem-profiles/risks-from-power-seeking-ai/](https://80000hours.org/problem-profiles/risks-from-power-seeking-ai/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Risks from power-seeking AI systemsThis article looks at why AI power-seeking poses [severe risks](&amp;#123;&amp;#123; &#x27;risk-thresholds/&#x27; | relative_url &amp;#125;&amp;#125;), what current research reveals about the...</p></details>
+   Link: <a href="https://80000hours.org/problem-profiles/risks-from-power-seeking-ai/" target="_blank" rel="noopener noreferrer nofollow">https://80000hours.org/problem-profiles/risks-from-power-seeking-ai/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Risks from power-seeking AI systemsThis article looks at why AI power-seeking poses severe risks, what current research reveals about the...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: wsj.com  
-   Link: [https://www.wsj.com/tech/ai/artificial-superintelligence-overestimation-3f954065](https://www.wsj.com/tech/ai/artificial-superintelligence-overestimation-3f954065)  
+   Link: <a href="https://www.wsj.com/tech/ai/artificial-superintelligence-overestimation-3f954065" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/tech/ai/artificial-superintelligence-overestimation-3f954065</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A new study from Apple, &quot;The Illusion of Thinking,&quot; along with corroborating research from Salesforce and academia, shows that current la...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pauseai.info  
-   Link: [https://pauseai.info/ai-x-risk-skepticism](https://pauseai.info/ai-x-risk-skepticism)  
+   Link: <a href="https://pauseai.info/ai-x-risk-skepticism" target="_blank" rel="noopener noreferrer nofollow">https://pauseai.info/ai-x-risk-skepticism</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>They see no path for AI to gain unlimited intelligence and power to take over. It only...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: forum.effectivealtruism.org  
    Title: draft report on existential risk from power seeking ai  
-   Link: [https://forum.effectivealtruism.org/posts/78NoGoRitPzeT8nga/draft-report-on-existential-risk-from-power-seeking-ai](https://forum.effectivealtruism.org/posts/78NoGoRitPzeT8nga/draft-report-on-existential-risk-from-power-seeking-ai)  
+   Link: <a href="https://forum.effectivealtruism.org/posts/78NoGoRitPzeT8nga/draft-report-on-existential-risk-from-power-seeking-ai" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/78NoGoRitPzeT8nga/draft-report-on-existential-risk-from-power-seeking-ai</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>report on existential risk from power-seeking AI28 Apr 2021 — I&#x27;ve written a draft report evaluating a version of the overall case for ex...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ControlProblem/comments/1fajsvw/my_critique_of_roman_yampolskiys_ai_unexplainable/](https://www.reddit.com/r/ControlProblem/comments/1fajsvw/my_critique_of_roman_yampolskiys_ai_unexplainable/)  
+   Link: <a href="https://www.reddit.com/r/ControlProblem/comments/1fajsvw/my_critique_of_roman_yampolskiys_ai_unexplainable/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ControlProblem/comments/1fajsvw/my_critique_of_roman_yampolskiys_ai_unexplainable/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nately we show that the AI control problem is not solvable...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: musingsandroughdrafts.com  
-   Link: [https://musingsandroughdrafts.com/2026/01/11/why-ais-arent-power-seeking-yet/](https://musingsandroughdrafts.com/2026/01/11/why-ais-arent-power-seeking-yet/)  
+   Link: <a href="https://musingsandroughdrafts.com/2026/01/11/why-ais-arent-power-seeking-yet/" target="_blank" rel="noopener noreferrer nofollow">https://musingsandroughdrafts.com/2026/01/11/why-ais-arent-power-seeking-yet/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why AIs aren&#x27;t power-seeking yet - musings and rough drafts11 Jan 2026 — Current AIs are getting increasingly general, but they&#x27;re not se...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: compass.onlinelibrary.wiley.com  
-   Link: [https://compass.onlinelibrary.wiley.com/doi/10.1111/phc3.12964](https://compass.onlinelibrary.wiley.com/doi/10.1111/phc3.12964)  
+   Link: <a href="https://compass.onlinelibrary.wiley.com/doi/10.1111/phc3.12964" target="_blank" rel="noopener noreferrer nofollow">https://compass.onlinelibrary.wiley.com/doi/10.1111/phc3.12964</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence: Arguments for Catastrophic Risk - Bales10 Feb 2024 — We review two influential arguments purporting to show how AI could po...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: blog.redwoodresearch.org  
    Title: current ais seem pretty misaligned  
-   Link: [https://blog.redwoodresearch.org/p/current-ais-seem-pretty-misaligned](https://blog.redwoodresearch.org/p/current-ais-seem-pretty-misaligned)  
+   Link: <a href="https://blog.redwoodresearch.org/p/current-ais-seem-pretty-misaligned" target="_blank" rel="noopener noreferrer nofollow">https://blog.redwoodresearch.org/p/current-ais-seem-pretty-misaligned</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AIs seem pretty misaligned to me15 Apr 2026 — Current misalignment is also evidence about how AI companies will operate—how sloppy they&#x27;l...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: mechanize.work  
    Title: unfalsifiable stories of doom  
-   Link: [https://www.mechanize.work/blog/unfalsifiable-stories-of-doom/](https://www.mechanize.work/blog/unfalsifiable-stories-of-doom/)  
+   Link: <a href="https://www.mechanize.work/blog/unfalsifiable-stories-of-doom/" target="_blank" rel="noopener noreferrer nofollow">https://www.mechanize.work/blog/unfalsifiable-stories-of-doom/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanize, Inc.Unfalsifiable stories of doom25 Nov 2025 — A response to Yudkowsky and Soares&#x27;s &#x27;If Anyone Builds It, Everyone Dies&#x27;. Thei...</p></details>

@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93_ai_surveys_ti_3e6c9e
 - AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93_long_timeline_8bd32c
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - p-doom
 - timeline-effects
 - short-timelines
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - p-doom
 - timeline-effects
 - short-timelines
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Short timelines can raise p(doom) when powerful systems seem likely to arrive before alignment, evaluation, and governance catch up.
 hero_summary: Short timelines can raise p(doom) when powerful systems seem likely to arrive before alignment, evaluation, and governance catch up.
 layout: default
 permalink: /short-timelines/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /p-doom/
 - /timeline-effects/
 nav_short_title: Short timelines
@@ -211,10 +211,10 @@ parent_heading_title: How AI Development Timelines Shape Doom Estimates
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_p_doom_estima_72d1f2
-  title: P Doom | AI Doom and
+  title: P Doom | AI Doom and E 87399 b
   permalink: /p-doom/
   short_title: P Doom
   heading_title: What Does p(doom) Really Mean?
@@ -226,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_p_doom_estima_72d1f2
-  title: P Doom | AI Doom and
+  title: P Doom | AI Doom and E 87399 b
   permalink: /p-doom/
   short_title: P Doom
   heading_title: What Does p(doom) Really Mean?
@@ -279,7 +279,7 @@ In debates about existential risk from advanced artificial intelligence, *when* 
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93_short_timelin_2c07bc-Illustration-1-dark.svg" | relative_url }}" alt="Short timelines illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93_short_timelin_2c07bc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93_short_timelin_2c07bc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-A key driver of higher p(doom) estimates among risk‑focused thinkers is **short [AI timelines]({{ 'timeline-effects/' | relative_url }})** — the belief that transformative or superintelligent systems could emerge within just a few years rather than decades. Short timelines compress the window for safety research, [governance]({{ 'governance/' | relative_url }}), evaluation, and societal adaptation, increasing the chance that highly capable systems will be deployed *before* we understand how to control them. This page explains why shorter timelines tend to raise p(doom) estimates, the mechanisms behind that effect, and where this reasoning can sometimes overreach.
+A key driver of higher p(doom) estimates among risk‑focused thinkers is **short AI timelines** — the belief that transformative or superintelligent systems could emerge within just a few years rather than decades. Short timelines compress the window for safety research, [governance]({{ 'governance/' | relative_url }}), evaluation, and societal adaptation, increasing the chance that highly capable systems will be deployed *before* we understand how to control them. This page explains why shorter timelines tend to raise p(doom) estimates, the mechanisms behind that effect, and where this reasoning can sometimes overreach.
 
 ## The preparation‑time argument
 
@@ -287,12 +287,12 @@ One of the simplest mechanisms linking short timelines to higher p(doom) is stra
 
 Safety researchers emphasise that solving the *alignment problem* — ensuring AI’s goals and behaviour remain compatible with human values and control — is extremely hard and unsolved. If AI progresses rapidly, alignment methods may not mature before more capable models are deployed. This gives a smaller margin for error and a greater chance that first‑generation systems have behaviours we poorly understand or cannot control.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aimodels.org/ai-governance-organizations/papers/do-ai-timelines-affect-existential-risk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aimodels.org">[Open Source AI Models]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aimodels.org</span><span class="citation-popover-title">Open Source AI Models How Do AI Timelines Affect Existential Risk?</span><span class="citation-popover-snippet">Open Source AI ModelsHow Do AI Timelines Affect Existential Risk? - AI Models...</span></span></span>
 
-Short timelines also reduce the opportunity for *institutional adaptation*. Governments, regulators, industry standards bodies and international institutions historically move slowly relative to tech breakthroughs. Longer lead times could allow clearer regulatory frameworks, evaluation standards, and international agreements — all of which help manage risk. If powerful AI systems arrive with little notice, these adaptive processes may lag behind, widening the gap between capability and [oversight]({{ 'oversight-evasion/' | relative_url }}).
+Short timelines also reduce the opportunity for *institutional adaptation*. Governments, regulators, industry standards bodies and international institutions historically move slowly relative to tech breakthroughs. Longer lead times could allow clearer regulatory frameworks, evaluation standards, and international agreements — all of which help manage risk. If powerful AI systems arrive with little notice, these adaptive processes may lag behind, widening the gap between capability and oversight.
 
 Finally, shorter horizons limit empirical learning. With more time, smaller mistakes and near‑misses can teach valuable lessons without catastrophic consequences. A compressed timeline means fewer ‘warning shots’ and less experience to inform safer deployment practices.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Yd0yQ9yxSYY" title="Will Superintelligent AI End the World? | Eliezer Yudkowsky | TED" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Yd0yQ9yxSYY" target="_blank" rel="noopener noreferrer">Will Superintelligent AI End the World? | Eliezer Yudkowsky | TED</a></p><p class="youtube-embed-meta">Channel: TED &middot; Views: 339.4K &middot; Uploaded: July 2023 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Yd0yQ9yxSYY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Yd0yQ9yxSYY">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bjnUJq5OONM" title="The Worst Case Scenario for AI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bjnUJq5OONM" target="_blank" rel="noopener noreferrer">The Worst Case Scenario for AI</a></p><p class="youtube-embed-meta">Channel: JRE Clips &middot; Views: 2.4M &middot; Uploaded: July 2025 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bjnUJq5OONM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bjnUJq5OONM">Open on YouTube</a></p></div></div></div>
 
 ## Capability progress versus safety progress
 
@@ -302,7 +302,7 @@ In recent years, AI models have grown in capability at a blistering pace — dri
 
 This dynamic feeds into p(doom) assessments in two ways:
 
-* **Perception of risk escalation:** When capabilities accelerate, risk scenarios that once seemed theoretical start to feel more plausible. Some expert surveys find that disagreements about existential risk often hinge on assumptions about how fast capabilities will progress. Short‑timeline believers see danger as more imminent.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aiwiki.ai/wiki/ai_existential_risk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiwiki.ai">[AI Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiwiki.ai</span><span class="citation-popover-title">AI Wiki Existential risk from AI | AI Wiki</span><span class="citation-popover-snippet">AI Wiki Existential risk from AI | AI Wiki</span></span></span>
+* **Perception of risk escalation:** When capabilities accelerate, risk scenarios that once seemed theoretical start to feel more plausible. Some [expert surveys]({{ 'expert-surveys/' | relative_url }}) find that disagreements about existential risk often hinge on assumptions about how fast capabilities will progress. Short‑timeline believers see danger as more imminent.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aiwiki.ai/wiki/ai_existential_risk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiwiki.ai">[AI Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiwiki.ai</span><span class="citation-popover-title">AI Wiki Existential risk from AI &#124; AI Wiki</span><span class="citation-popover-snippet">AI Wiki Existential risk from AI &#124; AI Wiki</span></span></span>
 * **Competitive pressures:** Rapid timelines may intensify competitive pressures between companies and states, incentivising early deployment over thorough safety evaluation. A “race to deploy” dynamic can further compress safety timelines and raise the chance of misaligned systems slipping into widespread use.
 
 
@@ -313,16 +313,16 @@ Beliefs about timelines do not just influence risk through material preparation 
 
 Short timelines make uncertainties more consequential. If AGI or superintelligent AI were decades away, there’s more room to see how foundational questions play out — whether certain approaches to alignment work, how strong governance mechanisms become, and what failure modes actually emerge. With short horizons, those uncertainties loom larger because decisions about the most dangerous capabilities would arrive before evidence resolves. This raises subjective p(doom) even when the underlying chance of existential catastrophe per capability level is unchanged.
 
-Importantly, p(doom) itself is a **subjective estimate**, informed by a mix of technical reasoning, expert judgment, and value judgements about uncertainty and risk. Differences in timeline beliefs explain much of the spread in expert p(doom) numbers, because the same uncertainty can feel far more alarming when it is about to matter *now* rather than *later*.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aiwiki.ai/wiki/ai_existential_risk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiwiki.ai">[AI Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiwiki.ai</span><span class="citation-popover-title">AI Wiki Existential risk from AI | AI Wiki</span><span class="citation-popover-snippet">AI Wiki Existential risk from AI | AI Wiki</span></span></span>
+Importantly, p(doom) itself is a **subjective estimate**, informed by a mix of technical reasoning, expert judgment, and value judgements about uncertainty and risk. Differences in timeline beliefs explain much of the spread in expert p(doom) numbers, because the same uncertainty can feel far more alarming when it is about to matter *now* rather than *later*.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aiwiki.ai/wiki/ai_existential_risk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiwiki.ai">[AI Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiwiki.ai</span><span class="citation-popover-title">AI Wiki Existential risk from AI &#124; AI Wiki</span><span class="citation-popover-snippet">AI Wiki Existential risk from AI &#124; AI Wiki</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bjnUJq5OONM" title="The Worst Case Scenario for AI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bjnUJq5OONM" target="_blank" rel="noopener noreferrer">The Worst Case Scenario for AI</a></p><p class="youtube-embed-meta">Channel: JRE Clips &middot; Views: 2.4M &middot; Uploaded: July 2025 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bjnUJq5OONM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bjnUJq5OONM">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/j2i9D24KQ5k" title="Joe Rogan Experience #2345 - Roman Yampolskiy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=j2i9D24KQ5k" target="_blank" rel="noopener noreferrer">Joe Rogan Experience #2345 - Roman Yampolskiy</a></p><p class="youtube-embed-meta">Channel: PowerfulJRE &middot; Views: 1.7M &middot; Uploaded: July 2025 &middot; Length: 2 hours 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=j2i9D24KQ5k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=j2i9D24KQ5k">Open on YouTube</a></p></div></div></div>
 
 ## Where short‑timeline reasoning can overreach
 
 The connection between short timelines and higher p(doom) makes intuitive sense, but it is not automatic or universal.
 
-* **Long timelines can also pose risks.** Delaying transformative AI might allow other existential threats to accumulate, or could lead to strategic lock‑in of dangerous technologies without adequate governance — although these effects are distinct from the timing relative to alignment progress itself.[Forethought]
+* **[Long timelines]({{ 'long-timelines/' | relative_url }}) can also pose risks.** Delaying transformative AI might allow other existential threats to accumulate, or could lead to strategic lock‑in of dangerous technologies without adequate governance — although these effects are distinct from the timing relative to alignment progress itself.[Forethought]
 * **Not all safety progress scales linearly with time.** Short timelines raise urgency, but longer timelines do not guarantee effective solutions. Safety research might stagnate or fail to converge on robust methods over decades just as it could over years.
 * **P(doom) is not a precise statistical metric.** It reflects subjective probability informed by many judgments. Short timelines amplify uncertainty, but they do not by themselves establish inevitable doom; they *increase the weight* of uncertainty on the negative side by reducing the time available for discovery, testing, and governance.
 
@@ -335,7 +335,7 @@ Understanding why short timelines raise p(doom) helps clarify why conversations 
 Recognising both the mechanisms and the limitations of short‑timeline reasoning can help readers interpret differing p(doom) estimates with nuance: high probability estimates reflect concerns about capability‑safety mismatches and compressed preparation windows, not a belief that doom is inevitable.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/j2i9D24KQ5k" title="Joe Rogan Experience #2345 - Roman Yampolskiy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=j2i9D24KQ5k" target="_blank" rel="noopener noreferrer">Joe Rogan Experience #2345 - Roman Yampolskiy</a></p><p class="youtube-embed-meta">Channel: PowerfulJRE &middot; Views: 1.7M &middot; Uploaded: July 2025 &middot; Length: 2 hours 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=j2i9D24KQ5k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=j2i9D24KQ5k">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HfuFcTzNQoY" title="AI FUTURE THAT CAN DESTROY US | Superintelligence Is Getting Closer — Nick Bostrom × Jonas von Essen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HfuFcTzNQoY" target="_blank" rel="noopener noreferrer">AI FUTURE THAT CAN DESTROY US | Superintelligence Is Getting Closer — Nick Bostrom × Jonas von Essen</a></p><p class="youtube-embed-meta">Channel: memoryOS &middot; Views: 124.9K &middot; Uploaded: October 2025 &middot; Length: 1 hour 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HfuFcTzNQoY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HfuFcTzNQoY">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -727,118 +727,118 @@ Recognising both the mechanisms and the limitations of short‑timeline reasonin
 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/P%28doom%29](https://en.wikipedia.org/wiki/P%28doom%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/P%28doom%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/P%28doom%29</a>  
 
 2. <a id="endnote-2"></a>
    Source: forethought.org  
    Title: Broad AI Timelines: Planning Under Uncertainty  
-   Link: [https://www.forethought.org/research/broad-timelines](https://www.forethought.org/research/broad-timelines)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ForethoughtBroad AI Timelines: Planning Under UncertaintyMarch 16, 2026...</p></details>
+   Link: <a href="https://www.forethought.org/research/broad-timelines" target="_blank" rel="noopener noreferrer nofollow">https://www.forethought.org/research/broad-timelines</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Broad AI Timelines: Planning Under UncertaintyMarch 16, 2026...</p></details>
    Published: March 16, 2026  
 
 3. <a id="endnote-3"></a>
    Source: forethought.org  
    Title: Short AI Timelines Aren’t Always Higher-Leverage  
-   Link: [https://www.forethought.org/research/short-timelines-arent-obviously-higher-leverage](https://www.forethought.org/research/short-timelines-arent-obviously-higher-leverage)  
+   Link: <a href="https://www.forethought.org/research/short-timelines-arent-obviously-higher-leverage" target="_blank" rel="noopener noreferrer nofollow">https://www.forethought.org/research/short-timelines-arent-obviously-higher-leverage</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 22, 2026 — SHORT TIMELINES AREN&#x27;T OBVIOUSLY HIGHER-LEVERAGE William MacAskillMia Taylor Cite CITATIONS PDF Contact 22nd January 2...</p></details>
    Published: January 22, 2026  
 
 4. <a id="endnote-4"></a>
    Source: newsletter.forethought.org  
    Title: THE DEFAULT VALUE OF THE FUTURE IS HIGHER ON MEDIUM TIME  
-   Link: [https://newsletter.forethought.org/p/are-short-ai-timelines-really-higher](https://newsletter.forethought.org/p/are-short-ai-timelines-really-higher)  
+   Link: <a href="https://newsletter.forethought.org/p/are-short-ai-timelines-really-higher" target="_blank" rel="noopener noreferrer nofollow">https://newsletter.forethought.org/p/are-short-ai-timelines-really-higher</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Short AI Timelines Really Higher-Leverage?January 20, 2026 — TAKEOVER IMPACT In this section, we’ll survey some key considerations for wh...</p></details>
    Published: January 20, 2026  
 
 5. <a id="endnote-5"></a>
    Source: intelligence.org  
    Title: I also think converging on tim  
-   Link: [https://intelligence.org/2023/04/21/the-basic-reasons-i-expect-agi-ruin/](https://intelligence.org/2023/04/21/the-basic-reasons-i-expect-agi-ruin/)  
+   Link: <a href="https://intelligence.org/2023/04/21/the-basic-reasons-i-expect-agi-ruin/" target="_blank" rel="noopener noreferrer nofollow">https://intelligence.org/2023/04/21/the-basic-reasons-i-expect-agi-ruin/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The basic reasons I expect AGI ruin - Machine Intelligence Research InstituteApril 21, 2023 — I think timing tech is very difficult (and...</p></details>
    Published: April 21, 2023  
 
 6. <a id="endnote-6"></a>
    Source: aiwiki.ai  
    Title: AI Wiki Existential risk from AI | AI Wiki  
-   Link: [https://aiwiki.ai/wiki/ai_existential_risk](https://aiwiki.ai/wiki/ai_existential_risk)  
+   Link: <a href="https://aiwiki.ai/wiki/ai_existential_risk" target="_blank" rel="noopener noreferrer nofollow">https://aiwiki.ai/wiki/ai_existential_risk</a>  
 
 7. <a id="endnote-7"></a>
    Source: aimodels.org  
    Title: Open Source AI Models How Do AI Timelines Affect Existential Risk?  
-   Link: [https://aimodels.org/ai-governance-organizations/papers/do-ai-timelines-affect-existential-risk/](https://aimodels.org/ai-governance-organizations/papers/do-ai-timelines-affect-existential-risk/)  
+   Link: <a href="https://aimodels.org/ai-governance-organizations/papers/do-ai-timelines-affect-existential-risk/" target="_blank" rel="noopener noreferrer nofollow">https://aimodels.org/ai-governance-organizations/papers/do-ai-timelines-affect-existential-risk/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Open Source AI ModelsHow Do AI Timelines Affect Existential Risk? - AI Models...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: aiwiki.ai  
    Title: Existential risk from AI | AI Wiki  
-   Link: [https://aiwiki.ai/wiki/existential_risk](https://aiwiki.ai/wiki/existential_risk)  
+   Link: <a href="https://aiwiki.ai/wiki/existential_risk" target="_blank" rel="noopener noreferrer nofollow">https://aiwiki.ai/wiki/existential_risk</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 26, 2026 — THE CAIS STATEMENT On May 30, 2023, the Center for AI Safety (CAIS) published a one-sentence statement: &quot;Mitigating the...</p></details>
    Published: April 26, 2026  
 
 9. <a id="endnote-9"></a>
    Source: envisioning.com  
    Title: P(Doom) | Envisioning Vocab1  
-   Link: [https://www.envisioning.com/vocab/pdoom](https://www.envisioning.com/vocab/pdoom)  
+   Link: <a href="https://www.envisioning.com/vocab/pdoom" target="_blank" rel="noopener noreferrer nofollow">https://www.envisioning.com/vocab/pdoom</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Home 2. Vocab 3. P(Doom) Image Image P(DOOM) An estimated probability that advanced AI will cause civilizational or existential catastrop...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/product/3E75AC1B06FF6438A8D92C181C09D1E8](https://www.cambridge.org/core/product/3E75AC1B06FF6438A8D92C181C09D1E8)  
+   Link: <a href="https://www.cambridge.org/core/product/3E75AC1B06FF6438A8D92C181C09D1E8" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/product/3E75AC1B06FF6438A8D92C181C09D1E8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ALIGNMENT FOR AGI AND SUPERINTELLIGENCE When considering the long-term future—the possibility of AGI (AI with human-level cognitive abili...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: s-rsa.com  
-   Link: [https://s-rsa.com/index.php/agi/article/view/13603](https://s-rsa.com/index.php/agi/article/view/13603)  
+   Link: <a href="https://s-rsa.com/index.php/agi/article/view/13603" target="_blank" rel="noopener noreferrer nofollow">https://s-rsa.com/index.php/agi/article/view/13603</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pathways to Short Transformative AI Timelines: Chapter 3: Short TAI timeline scenarios | SuperIntelligence - Robotics - Safety &amp; Alignmen...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: windowscentral.com  
-   Link: [https://www.windowscentral.com/software-apps/will-ai-end-humanity-the-pdoom-scales-of-an-openai-insider-and-ai-researcher-are-alarmingly-high-peaking-at-a-999-probability](https://www.windowscentral.com/software-apps/will-ai-end-humanity-the-pdoom-scales-of-an-openai-insider-and-ai-researcher-are-alarmingly-high-peaking-at-a-999-probability)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE P(DOOM) SCALES OF AN OPENAI INSIDER AND [AI RESEARCHER](&amp;#123;&amp;#123; &#x27;expert-surveys/&#x27; | relative_url &amp;#125;&amp;#125;) ARE ALARMINGLY HIGH, PEAKING AT A 99.9% PROBABILITY News By Kevin Okemwa publis...</p></details>
+   Link: <a href="https://www.windowscentral.com/software-apps/will-ai-end-humanity-the-pdoom-scales-of-an-openai-insider-and-ai-researcher-are-alarmingly-high-peaking-at-a-999-probability" target="_blank" rel="noopener noreferrer nofollow">https://www.windowscentral.com/software-apps/will-ai-end-humanity-the-pdoom-scales-of-an-openai-insider-and-ai-researcher-are-alarmingly-high-peaking-at-a-999-probability</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE P(DOOM) SCALES OF AN OPENAI INSIDER AND AI RESEARCHER ARE ALARMINGLY HIGH, PEAKING AT A 99.9% PROBABILITY News By Kevin Okemwa publis...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: alignmentforum.org  
-   Link: [https://www.alignmentforum.org/posts/neTbrpBziAsTH5Bn7/ai-companies-are-unlikely-to-make-high-assurance-safety](https://www.alignmentforum.org/posts/neTbrpBziAsTH5Bn7/ai-companies-are-unlikely-to-make-high-assurance-safety)  
+   Link: <a href="https://www.alignmentforum.org/posts/neTbrpBziAsTH5Bn7/ai-companies-are-unlikely-to-make-high-assurance-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.alignmentforum.org/posts/neTbrpBziAsTH5Bn7/ai-companies-are-unlikely-to-make-high-assurance-safety</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI companies are unlikely to make high-assurance safety cases if timelines are short — AI Alignment ForumJanuary 23, 2025 — AI COMPANIES...</p></details>
    Published: January 23, 2025  
 
 14. <a id="endnote-14"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s43681-024-00475-w](https://link.springer.com/article/10.1007/s43681-024-00475-w)  
+   Link: <a href="https://link.springer.com/article/10.1007/s43681-024-00475-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s43681-024-00475-w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>approaches for reducing catastrophic risks from AI | AI and Ethics | Springer Nature LinkApril 8, 2024 — 3.2 AI TIMELINES RESEARCH The go...</p></details>
    Published: April 8, 2024  
 
 15. <a id="endnote-15"></a>
    Source: ourworldindata.org  
-   Title: A I timelines: What do experts in [artificial](&#123;&#123; 'artificial-goals/' | relative_url &#125;&#125;) intelligence expect for the future?  
-   Link: [https://ourworldindata.org/ai-timelines](https://ourworldindata.org/ai-timelines)  
+   Title: A I timelines: What do experts in artificial intelligence expect for the future?  
+   Link: <a href="https://ourworldindata.org/ai-timelines" target="_blank" rel="noopener noreferrer nofollow">https://ourworldindata.org/ai-timelines</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Our World in DataFebruary 7, 2023 — AI TIMELINES: WHAT DO EXPERTS IN ARTIFICIAL INTELLIGENCE EXPECT FOR THE FUTURE? MANY AI EXPERTS BELIE...</p></details>
    Published: February 7, 2023  
 
 16. <a id="endnote-16"></a>
    Source: pauseai.se  
-   Link: [https://pauseai.se/pdoom](https://pauseai.se/pdoom)  
+   Link: <a href="https://pauseai.se/pdoom" target="_blank" rel="noopener noreferrer nofollow">https://pauseai.se/pdoom</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>human extinction) as a result of AI. This most often refers to the likelihood of AI taking over from humanity, but differ...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: link.springer.com  
    Title: The basic concern is this: If AI is not aligned with the goals of its d  
-   Link: [https://link.springer.com/article/10.1007/s11229-023-04367-0](https://link.springer.com/article/10.1007/s11229-023-04367-0)  
+   Link: <a href="https://link.springer.com/article/10.1007/s11229-023-04367-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11229-023-04367-0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>cases of AI misalignment and their implications for future risks | Synthese | Springer Nature LinkOctober 26, 2023 — 2.2 RISKS FROM MISAL...</p></details>
    Published: October 26, 2023  
 
 18. <a id="endnote-18"></a>
    Source: sciencedirect.com  
    Title: Assessing the future plausibility of catastrophically dangerous AI  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0016328718301319](https://www.sciencedirect.com/science/article/pii/S0016328718301319)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectMarch 1, 2019 — FUTURES Volume 107, March 2019, Pages 45-58 ASSESSING THE FUTURE PLAUSIBILITY OF CATASTROPHICALLY DANGEROUS...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0016328718301319" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0016328718301319</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 1, 2019 — FUTURES Volume 107, March 2019, Pages 45-58 ASSESSING THE FUTURE PLAUSIBILITY OF CATASTROPHICALLY DANGEROUS...</p></details>
    Published: March 1, 2019  
 
 19. <a id="endnote-19"></a>
    Source: lesswrong.com  
    Title: Are Short AI Timelines Really Higher-Leverage?  
-   Link: [https://www.lesswrong.com/posts/AhXonGLfYEwSwpEhW/are-short-ai-timelines-really-higher-leverage](https://www.lesswrong.com/posts/AhXonGLfYEwSwpEhW/are-short-ai-timelines-really-higher-leverage)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>— LessWrongJanuary 23, 2026 — Are Short AI Timelines Really Higher-Leverage? 17 min read • Summary • Timelines scenarios and why they’re...</p></details>
+   Link: <a href="https://www.lesswrong.com/posts/AhXonGLfYEwSwpEhW/are-short-ai-timelines-really-higher-leverage" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/posts/AhXonGLfYEwSwpEhW/are-short-ai-timelines-really-higher-leverage</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>LessWrongJanuary 23, 2026 — Are Short AI Timelines Really Higher-Leverage? 17 min read • Summary • Timelines scenarios and why they’re...</p></details>
    Published: January 23, 2026  

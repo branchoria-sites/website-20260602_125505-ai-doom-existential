@@ -7,36 +7,36 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_alphazero_sel_8e9d74
 - AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_automl_constr_fc237f
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - ai-takeoff
 - weak-evidence
 - recursion-evidence
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - ai-takeoff
 - weak-evidence
 - recursion-evidence
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Self-play and AutoML offer modest evidence that AI can improve components of itself but fall short of demonstrating open-ended recursion or cross-domain
 hero_summary: Self-play and AutoML offer modest evidence that AI can improve components of itself but fall short of demonstrating open-ended recursion or cross-domain
 layout: default
 permalink: /recursion-evidence/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /ai-takeoff/
 - /weak-evidence/
 nav_short_title: Recursion Evidence
-title: What AlphaZero and AutoML Reveal About Limits of AI Self Improvement
-title_full: What AlphaZero and AutoML Reveal About Limits of AI Self Improvement | Weak evidence
+title: What Alpha Zero and Auto ML Reveal About Limits of AI Self Improvement
+title_full: What Alpha Zero and Auto ML Reveal About Limits of AI Self Improvement | Weak evidence
 display_title_short: Recursion Evidence
 display_title: Recursion Evidence
-heading_title: What AlphaZero and AutoML Reveal About Limits of AI Self Improvement
-page_heading_title: What AlphaZero and AutoML Reveal About Limits of AI Self Improvement
+heading_title: What Alpha Zero and Auto ML Reveal About Limits of AI Self Improvement
+page_heading_title: What Alpha Zero and Auto ML Reveal About Limits of AI Self Improvement
 source_count: 24
 infographic_count: 3
 planned_sections:
-- Case studies of AlphaZero and AutoML progress
+- Case studies of Alpha Zero and Auto ML progress
 - Observed performance improvements versus human dependence
 - Implications for intelligence explosion and p(doom) debates
 focal_unit_type: dataset_evidence
@@ -211,10 +211,10 @@ parent_heading_title: Do today's self improving systems prove anything?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_recursive_imp_3a3504
-  title: AI Takeoff | AI Doom and
+  title: AI Takeoff | AI Doom and E 87399 b
   permalink: /ai-takeoff/
   short_title: AI Takeoff
   heading_title: Could AI Improvement Run Away From US?
@@ -226,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_recursive_imp_3a3504
-  title: AI Takeoff | AI Doom and
+  title: AI Takeoff | AI Doom and E 87399 b
   permalink: /ai-takeoff/
   short_title: AI Takeoff
   heading_title: Could AI Improvement Run Away From US?
@@ -240,15 +240,15 @@ breadcrumb_links:
   heading_title: Do today's self improving systems prove anything?
 sibling_links:
 - basename: AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_alphazero_sel_8e9d74
-  title: AlphaZero Limits | Weak evidence
-  permalink: /alphazero-limits/
-  short_title: AlphaZero Limits
-  heading_title: How AlphaZero's Self Play Is Restricted by Game Rules
+  title: Alpha Zero Limits | Weak evidence
+  permalink: /alpha-zero-limits/
+  short_title: Alpha Zero Limits
+  heading_title: How Alpha Zero's Self Play Is Restricted by Game Rules
 - basename: AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_automl_constr_fc237f
-  title: AutoML Boundaries | Weak evidence
-  permalink: /automl-boundaries/
-  short_title: AutoML Boundaries
-  heading_title: Why AutoML Cannot Independently Drive Machine Learning Research
+  title: Auto ML Boundaries | Weak evidence
+  permalink: /auto-ml-boundaries/
+  short_title: Auto ML Boundaries
+  heading_title: Why Auto ML Cannot Independently Drive Machine Learning Research
 up_link:
   basename: AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556
   title: Weak evidence | AI Takeoff
@@ -257,10 +257,10 @@ up_link:
   heading_title: Do today's self improving systems prove anything?
 prev_link:
   basename: AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_automl_constr_fc237f
-  title: AutoML Boundaries | Weak evidence
-  permalink: /automl-boundaries/
-  short_title: AutoML Boundaries
-  heading_title: Why AutoML Cannot Independently Drive Machine Learning Research
+  title: Auto ML Boundaries | Weak evidence
+  permalink: /auto-ml-boundaries/
+  short_title: Auto ML Boundaries
+  heading_title: Why Auto ML Cannot Independently Drive Machine Learning Research
 header:
   og_image: /assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_self_improvem_e1ba6a-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_self_improvem_e1ba6a-Illustration-1.webp
@@ -269,11 +269,11 @@ image: /assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_61
 
 ## Introduction
 
-In debates about **AI doom** and whether future systems could spiral into runaway improvement outside human control, analysts often look for concrete evidence that machines can *improve themselves*. Two well‑known examples from [current AI]({{ 'current-benchmarks/' | relative_url }}) — **DeepMind’s [AlphaZero]({{ 'alphazero-limits/' | relative_url }})** in game playing and **automated machine learning (AutoML)** systems — are frequently cited. They do show machines learning without direct human examples and automating parts of the model‑building process, but when examined closely, these examples highlight **clear limits** to autonomous, open‑ended recursive self‑improvement — the sort of feedback loop at the heart of intelligence‑explosion arguments.<span class="citation-chip-wrap"><a class="citation-chip" href="#endnote-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: AI Wiki">[AI Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">AI Wiki</span><span class="citation-popover-snippet">AI Wiki - Artificial Intelligence WikiCURRENT STATE AND FUTURE TRAJECTORIES As of 2024-2025, recursive self-improvement has transitioned</span></span></span>
+In debates about **AI doom** and whether future systems could spiral into runaway improvement outside human control, analysts often look for concrete evidence that machines can *improve themselves*. Two well‑known examples from current AI — **DeepMind’s AlphaZero** in game playing and **automated machine learning (AutoML)** systems — are frequently cited. They do show machines learning without direct human examples and automating parts of the model‑building process, but when examined closely, these examples highlight **clear limits** to autonomous, open‑ended recursive self‑improvement — the sort of feedback loop at the heart of intelligence‑explosion arguments.<span class="citation-chip-wrap"><a class="citation-chip" href="#endnote-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: AI Wiki">[AI Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">AI Wiki</span><span class="citation-popover-snippet">AI Wiki - Artificial Intelligence WikiCURRENT STATE AND FUTURE TRAJECTORIES As of 2024-2025, recursive self-improvement has transitioned</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_self_improvem_e1ba6a-Illustration-1-dark.svg" | relative_url }}" alt="Recursion Evidence illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_self_improvem_e1ba6a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_self_improvem_e1ba6a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This article looks at what AlphaZero and AutoML really demonstrate, where they fall short of [recursive]({{ 'ai-takeoff/' | relative_url }}) AI improvement in the strong sense relevant for existential risk, and what that suggests for how we should interpret “machines improving machines” in the AI‑doom context.
+This article looks at what AlphaZero and AutoML really demonstrate, where they fall short of recursive AI improvement in the strong sense relevant for existential risk, and what that suggests for how we should interpret “machines improving machines” in the AI‑doom context.
 
 ## AlphaZero: Self-Play Within Fixed Constraints
 
@@ -283,7 +283,7 @@ However, this improvement loop is **highly constrained**:
 
 * **Predefined task and environment:** AlphaZero only learns within a fixed game with precise rules specified by humans; it doesn’t create or choose new tasks on its own.[Informatica]
 * **No autonomous change of objectives or code:** It cannot alter its own architecture, learning algorithm, or optimisation strategy; all aspects of its learning pipeline are human‑designed and fixed.<span class="citation-chip-wrap"><a class="citation-chip" href="#endnote-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: AI Wiki">[AI Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">AI Wiki</span><span class="citation-popover-snippet">AI Wiki - Artificial Intelligence WikiCURRENT STATE AND FUTURE TRAJECTORIES As of 2024-2025, recursive self-improvement has transitioned</span></span></span>
-* **Data generation is specialised:** The system generates [synthetic]({{ 'synthetic-data/' | relative_url }}) games only because the game environment permits massive simulated play. Most real‑world domains lack such efficient, fully simulable environments.[Informatica]
+* **Data generation is specialised:** The system generates synthetic games only because the game environment permits massive simulated play. Most real‑world domains lack such efficient, fully simulable environments.[Informatica]
 
 So while AlphaZero demonstrates a powerful positive feedback loop in a narrow domain, it **does not exhibit the open‑ended, goal‑setting, self‑modifying loop** that would be required for recursive self‑improvement of the sort implicated in intelligence‑explosion scenarios.
 
@@ -292,7 +292,7 @@ So while AlphaZero demonstrates a powerful positive feedback loop in a narrow do
 
 ## AutoML: Automating Machine Learning, Not Agency
 
-**Automated machine learning (AutoML)** and *neural architecture search (NAS)* systems push [automation]({{ 'automation-bias/' | relative_url }}) deeper into AI development. They help choose model architectures, tune hyperparameters, and, in some cases, even rediscover basic algorithmic components with minimal human intervention — as in Google’s AutoML‑Zero experiments.<span class="citation-chip-wrap"><a class="citation-chip" href="#endnote-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: AI Wiki">[AI Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">AI Wiki</span><span class="citation-popover-snippet">AI Wiki - Artificial Intelligence WikiCURRENT STATE AND FUTURE TRAJECTORIES As of 2024-2025, recursive self-improvement has transitioned</span></span></span>
+**Automated machine learning (AutoML)** and *neural architecture search (NAS)* systems push automation deeper into AI development. They help choose model architectures, tune hyperparameters, and, in some cases, even rediscover basic algorithmic components with minimal human intervention — as in Google’s AutoML‑Zero experiments.<span class="citation-chip-wrap"><a class="citation-chip" href="#endnote-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: AI Wiki">[AI Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">AI Wiki</span><span class="citation-popover-snippet">AI Wiki - Artificial Intelligence WikiCURRENT STATE AND FUTURE TRAJECTORIES As of 2024-2025, recursive self-improvement has transitioned</span></span></span>
 
 These developments illustrate that parts of the model design and optimisation process can be **outsourced to algorithms**:
 
@@ -316,7 +316,7 @@ For AI disaster scenarios predicated on a self‑sustaining intelligence explosi
 * They depend on **external evaluation and embedding** (e.g. human‑designed reward functions, simulators, benchmarks) that anchor their improvement to human values and constraints.<span class="citation-chip-wrap"><a class="citation-chip" href="#endnote-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: AI Wiki">[AI Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">AI Wiki</span><span class="citation-popover-snippet">AI Wiki - Artificial Intelligence WikiCURRENT STATE AND FUTURE TRAJECTORIES As of 2024-2025, recursive self-improvement has transitioned</span></span></span>
 * They do not demonstrate the ability to **rewrite their own core designs** or extend themselves into new arenas without human input.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ithy.com/article/ai-self-improvement-limitations-explained-la6n25p1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ithy.com">[Ithy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ithy.com</span><span class="citation-popover-title">ai self improvement limitations explained la6n25p1</span><span class="citation-popover-snippet">Why AI Can&#x27;t Self-Improve Yet: A Technical Deep DiveJanuary 1, 2025...</span><span class="citation-popover-meta">Published: January 1, 2025</span></span></span>
 
-Recent theoretical work also emphasises **limits** when systems try to rely purely on self‑generated data without grounding in external signals: without anchored feedback, model distributions can degenerate in quality over repeated self‑training, revealing a fundamental boundary to closed‑loop self‑improvement in current paradigms.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2601.05280" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivOn the Limits of Self-Improving in LLMs and Why AGI, ASI and the Singularity Are Not Near Without Symbolic Model SynthesisJanuary 5...</span></span></span>
+Recent theoretical work also emphasises **limits** when systems try to rely purely on self‑generated data without grounding in external signals: without anchored feedback, model distributions can degenerate in quality over repeated self‑training, revealing a fundamental boundary to closed‑loop self‑improvement in current paradigms.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2601.05280" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">On the Limits of Self-Improving in LLMs and Why AGI, ASI and the Singularity Are Not Near Without Symbolic Model SynthesisJanuary 5...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MrJVgw8dBhw" title="It&#x27;s Crunch Time: Ajeya Cotra on RSI &amp; AI-Powered AI Safety Work, from the 80,000 Hours Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MrJVgw8dBhw" target="_blank" rel="noopener noreferrer">It&#x27;s Crunch Time: Ajeya Cotra on RSI &amp; AI-Powered AI Safety Work, from the 80,000 Hours Podcast</a></p><p class="youtube-embed-meta">Channel: Cognitive Revolution &quot;How AI Changes Everything&quot; &middot; Views: 1.2K &middot; Uploaded: April 2026 &middot; Length: 3 hours 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MrJVgw8dBhw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MrJVgw8dBhw">Open on YouTube</a></p></div></div></div>
@@ -325,7 +325,7 @@ Recent theoretical work also emphasises **limits** when systems try to rely pure
 
 In the context of AI existential risk, AlphaZero and AutoML are often invoked to suggest that AI could soon bootstrap its way to superintelligence. They do show plausible feedback loops — machines generating data for their own training and automating design tasks — but these loops are **domain‑limited, human‑anchored, and not self‑directed**. As such, they are **[weak evidence]({{ 'weak-evidence/' | relative_url }})** for scenarios where an AI enters an unbounded, autonomous improvement spiral.
 
-This doesn’t mean such a spiral is impossible in principle, but it does mean that **current real‑world systems fall far short** of the kind of recursive self‑improvement that would justify strong confidence in rapid intelligence explosions. In risk assessments framed around **p(doom)** or existential outcomes, the evidence from AlphaZero and AutoML suggests we should be cautious about extrapolating narrow optimisation loops into unfettered, autonomous capability growth.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aisafety.info/questions/8AEL/Is-recursive-self-improvement-possible" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisafety.info">[AISafety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisafety.info</span><span class="citation-popover-title">Is recursive self-improvement possible?</span><span class="citation-popover-snippet">AISafetyIs recursive self-improvement possible?...</span></span></span>
+This doesn’t mean such a spiral is impossible in principle, but it does mean that **current real‑world systems fall far short** of the kind of recursive self‑improvement that would justify strong confidence in rapid intelligence explosions. In risk assessments framed around **p(doom)** or existential outcomes, the evidence from AlphaZero and AutoML suggests we should be cautious about extrapolating narrow optimisation loops into unfettered, autonomous capability growth.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aisafety.info/questions/8AEL/Is-recursive-self-improvement-possible" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisafety.info">[AISafety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisafety.info</span><span class="citation-popover-title">Is recursive self-improvement possible?</span><span class="citation-popover-snippet">Is recursive self-improvement possible?...</span></span></span>
 
 What these examples *do* show is that AI can increasingly assist in its own development and optimise components of its architecture, which raises practical [governance]({{ 'governance/' | relative_url }}) and safety questions — but the leap to genuine recursive self‑improvement remains **unsubstantiated by current empirical examples**.
 
@@ -334,11 +334,11 @@ What these examples *do* show is that AI can increasingly assist in its own deve
 ## Summary
 
 * **AlphaZero’s self‑play** demonstrates machine improvement within tightly constrained game domains but doesn’t entail open‑ended, self‑directed learning beyond those constraints.<span class="citation-chip-wrap"><a class="citation-chip" href="#endnote-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: AI Wiki">[AI Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">AI Wiki</span><span class="citation-popover-snippet">AI Wiki - Artificial Intelligence WikiCURRENT STATE AND FUTURE TRAJECTORIES As of 2024-2025, recursive self-improvement has transitioned</span></span></span>
-* **AutoML systems** automate search and design processes but still require human‑set goals and frameworks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2073-431X/10/1/11" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">An Empirical Review of Automated Machine Learning</span><span class="citation-popover-snippet">MDPIAn Empirical Review of Automated Machine LearningJanuary 13, 2021...</span><span class="citation-popover-meta">Published: January 13, 2021</span></span></span>
+* **AutoML systems** automate search and design processes but still require human‑set goals and frameworks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2073-431X/10/1/11" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">An Empirical Review of Automated Machine Learning</span><span class="citation-popover-snippet">An Empirical Review of Automated Machine LearningJanuary 13, 2021...</span><span class="citation-popover-meta">Published: January 13, 2021</span></span></span>
 * The **loophole from narrow optimisation to fully recursive self‑improvement** — the engine of many AI‑doom scenarios — is not bridged by these examples.<span class="citation-chip-wrap"><a class="citation-chip" href="https://spectrum.ieee.org/recursive-self-improvement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spectrum.ieee.org">[IEEE Spectrum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spectrum.ieee.org</span><span class="citation-popover-title">Spectrum Recursive Self-Improvement Edges Closer In AI Labs</span><span class="citation-popover-snippet">IEEE SpectrumRecursive Self-Improvement Edges Closer In AI Labs - IEEE SpectrumMay 7, 2026...</span><span class="citation-popover-meta">Published: May 7, 2026</span></span></span>
-* Evidence to date suggests machines can *help build better machines* in bounded ways, but they do not yet display the autonomous, unbounded feedback loops associated with intelligence explosion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aisafety.info/questions/8AEL/Is-recursive-self-improvement-possible" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisafety.info">[AISafety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisafety.info</span><span class="citation-popover-title">Is recursive self-improvement possible?</span><span class="citation-popover-snippet">AISafetyIs recursive self-improvement possible?...</span></span></span>
+* Evidence to date suggests machines can *help build better machines* in bounded ways, but they do not yet display the autonomous, unbounded feedback loops associated with intelligence explosion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aisafety.info/questions/8AEL/Is-recursive-self-improvement-possible" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisafety.info">[AISafety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisafety.info</span><span class="citation-popover-title">Is recursive self-improvement possible?</span><span class="citation-popover-snippet">Is recursive self-improvement possible?...</span></span></span>
 
-In short, AlphaZero and AutoML offer **important insights into self‑improvement dynamics**, but they remain **weak evidence for the kind of recursive AI limits that would drive runaway capability growth without human oversight** — a core concern in existential risk discussions.
+In short, AlphaZero and AutoML offer **important insights into self‑improvement dynamics**, but they remain **weak evidence for the kind of recursive AI limits that would drive runaway capability growth without [human oversight]({{ 'human-oversight/' | relative_url }})** — a core concern in existential risk discussions.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XJF44ddRFLA" title="Recursive AI Self-Improvement is Here, Today" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XJF44ddRFLA" target="_blank" rel="noopener noreferrer">Recursive AI Self-Improvement is Here, Today</a></p><p class="youtube-embed-meta">Channel: Jeffrey Emanuel &middot; Views: 2.4K &middot; Uploaded: January 2026 &middot; Length: 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XJF44ddRFLA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XJF44ddRFLA">Open on YouTube</a></p></div></div></div>
@@ -675,105 +675,105 @@ In short, AlphaZero and AutoML offer **important insights into self‑improvemen
 1. <a id="endnote-1"></a>
    Source: informatica.si  
    Title: Alpha Zero – What’s Missing? | Informatica  
-   Link: [https://www.informatica.si/index.php/informatica/article/view/2226](https://www.informatica.si/index.php/informatica/article/view/2226)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>InformaticaAlphaZero – What’s Missing? | InformaticaMarch 26, 2018...</p></details>
+   Link: <a href="https://www.informatica.si/index.php/informatica/article/view/2226" target="_blank" rel="noopener noreferrer nofollow">https://www.informatica.si/index.php/informatica/article/view/2226</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AlphaZero – What’s Missing? | InformaticaMarch 26, 2018...</p></details>
    Published: March 26, 2018  
 
 2. <a id="endnote-2"></a>
    Source: spectrum.ieee.org  
    Title: Spectrum Recursive Self-Improvement Edges Closer In AI Labs  
-   Link: [https://spectrum.ieee.org/recursive-self-improvement](https://spectrum.ieee.org/recursive-self-improvement)  
+   Link: <a href="https://spectrum.ieee.org/recursive-self-improvement" target="_blank" rel="noopener noreferrer nofollow">https://spectrum.ieee.org/recursive-self-improvement</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>IEEE SpectrumRecursive Self-Improvement Edges Closer In AI Labs - IEEE SpectrumMay 7, 2026...</p></details>
    Published: May 7, 2026  
 
 3. <a id="endnote-3"></a>
    Source: ithy.com  
    Title: ai self improvement limitations explained la6n25p1  
-   Link: [https://ithy.com/article/ai-self-improvement-limitations-explained-la6n25p1](https://ithy.com/article/ai-self-improvement-limitations-explained-la6n25p1)  
+   Link: <a href="https://ithy.com/article/ai-self-improvement-limitations-explained-la6n25p1" target="_blank" rel="noopener noreferrer nofollow">https://ithy.com/article/ai-self-improvement-limitations-explained-la6n25p1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why AI Can&#x27;t Self-Improve Yet: A Technical Deep DiveJanuary 1, 2025...</p></details>
    Published: January 1, 2025  
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2601.05280](https://arxiv.org/abs/2601.05280)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivOn the Limits of Self-Improving in LLMs and Why AGI, ASI and the Singularity Are Not Near Without Symbolic Model SynthesisJanuary 5...</p></details>
+   Link: <a href="https://arxiv.org/abs/2601.05280" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2601.05280</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>On the Limits of Self-Improving in LLMs and Why AGI, ASI and the Singularity Are Not Near Without Symbolic Model SynthesisJanuary 5...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: aisafety.info  
    Title: Is recursive self-improvement possible?  
-   Link: [https://aisafety.info/questions/8AEL/Is-recursive-self-improvement-possible](https://aisafety.info/questions/8AEL/Is-recursive-self-improvement-possible)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AISafetyIs recursive self-improvement possible?...</p></details>
+   Link: <a href="https://aisafety.info/questions/8AEL/Is-recursive-self-improvement-possible" target="_blank" rel="noopener noreferrer nofollow">https://aisafety.info/questions/8AEL/Is-recursive-self-improvement-possible</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is recursive self-improvement possible?...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: mdpi.com  
    Title: An Empirical Review of Automated Machine Learning  
-   Link: [https://www.mdpi.com/2073-431X/10/1/11](https://www.mdpi.com/2073-431X/10/1/11)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MDPIAn Empirical Review of Automated Machine LearningJanuary 13, 2021...</p></details>
+   Link: <a href="https://www.mdpi.com/2073-431X/10/1/11" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2073-431X/10/1/11</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>An Empirical Review of Automated Machine LearningJanuary 13, 2021...</p></details>
    Published: January 13, 2021  
 
 7. <a id="endnote-7"></a>
    Source: informatica.si  
    Title: Alpha Zero – What’s Missing?  
-   Link: [https://www.informatica.si/index.php/informatica/article/view/2226%3E/0](https://www.informatica.si/index.php/informatica/article/view/2226%3E/0)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| Bratko | InformaticaAbout The Author Ivan Bratko University of Ljubljana, Faculty of Computer and Information Science Slovenia Support...</p></details>
+   Link: <a href="https://www.informatica.si/index.php/informatica/article/view/2226%3E/0" target="_blank" rel="noopener noreferrer nofollow">https://www.informatica.si/index.php/informatica/article/view/2226%3E/0</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bratko | InformaticaAbout The Author Ivan Bratko University of Ljubljana, Faculty of Computer and Information Science Slovenia Support...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: aiwiki.ai  
    Title: AI Wiki Recursive self-improvement  
-   Link: [https://www.aiwiki.ai/wiki/Recursive_self-improvement](https://www.aiwiki.ai/wiki/Recursive_self-improvement)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI WikiRecursive self-improvement - AI Wiki - [Artificial](&amp;#123;&amp;#123; &#x27;artificial-goals/&#x27; | relative_url &amp;#125;&amp;#125;) Intelligence Wiki...</p></details>
+   Link: <a href="https://www.aiwiki.ai/wiki/Recursive_self-improvement" target="_blank" rel="noopener noreferrer nofollow">https://www.aiwiki.ai/wiki/Recursive_self-improvement</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI WikiRecursive self-improvement - AI Wiki - Artificial Intelligence Wiki...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: papers.cool  
-   Link: [https://papers.cool/arxiv/2601.05280](https://papers.cool/arxiv/2601.05280)  
+   Link: <a href="https://papers.cool/arxiv/2601.05280" target="_blank" rel="noopener noreferrer nofollow">https://papers.cool/arxiv/2601.05280</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Immersive Paper DiscoveryJanuary 5, 2026 — #1 ON THE LIMITS OF SELF-IMPROVING IN LLMS AND WHY AGI, ASI AND THE SINGULARITY ARE NOT NEAR W...</p></details>
    Published: January 5, 2026  
 
 11. <a id="endnote-11"></a>
    Source: s-rsa.com  
-   Link: [https://s-rsa.com/index.php/agi/article/view/17159](https://s-rsa.com/index.php/agi/article/view/17159)  
+   Link: <a href="https://s-rsa.com/index.php/agi/article/view/17159" target="_blank" rel="noopener noreferrer nofollow">https://s-rsa.com/index.php/agi/article/view/17159</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On the Limits of Self-Improving in LLMs and Why AGI, ASI and the Singularity Are Not Near Without Symbolic Model Synthesis | SuperIntelli...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: researchtrend.ai  
-   Link: [https://researchtrend.ai/papers/2601.05280](https://researchtrend.ai/papers/2601.05280)  
+   Link: <a href="https://researchtrend.ai/papers/2601.05280" target="_blank" rel="noopener noreferrer nofollow">https://researchtrend.ai/papers/2601.05280</a>  
 
 13. <a id="endnote-13"></a>
    Source: alphaxiv.org  
-   Link: [https://www.alphaxiv.org/audio/2601.05280v2](https://www.alphaxiv.org/audio/2601.05280v2)  
+   Link: <a href="https://www.alphaxiv.org/audio/2601.05280v2" target="_blank" rel="noopener noreferrer nofollow">https://www.alphaxiv.org/audio/2601.05280v2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On the Limits of Self-Improving in Large Language Models: The Singularity Is Not Near Without Symbolic Model Synthesis | alphaXivON THE L...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/368829510_Targeted_Search_Control_in_AlphaZero_for_Effective_Policy_Improvement](https://www.researchgate.net/publication/368829510_Targeted_Search_Control_in_AlphaZero_for_Effective_Policy_Improvement)  
+   Link: <a href="https://www.researchgate.net/publication/368829510_Targeted_Search_Control_in_AlphaZero_for_Effective_Policy_Improvement" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/368829510_Targeted_Search_Control_in_AlphaZero_for_Effective_Policy_Improvement</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Targeted Search Control in AlphaZero for Effective Policy ImprovementPreprint PDF Available TARGETED SEARCH CONTROL IN ALPHAZERO FO...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: milvus.io  
-   Link: [https://milvus.io/ai-quick-reference/can-ai-reasoning-models-selfimprove](https://milvus.io/ai-quick-reference/can-ai-reasoning-models-selfimprove)  
+   Link: <a href="https://milvus.io/ai-quick-reference/can-ai-reasoning-models-selfimprove" target="_blank" rel="noopener noreferrer nofollow">https://milvus.io/ai-quick-reference/can-ai-reasoning-models-selfimprove</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Copy page CAN AI REASONING MODELS SELF-IMPROVE? AI reasoning models can achieve limited forms of self-improvement under specific condi...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: papers.cool  
    Title: Self-Improving AI Agents through Self-Play | Cool Papers  
-   Link: [https://papers.cool/arxiv/2512.02731](https://papers.cool/arxiv/2512.02731)  
+   Link: <a href="https://papers.cool/arxiv/2512.02731" target="_blank" rel="noopener noreferrer nofollow">https://papers.cool/arxiv/2512.02731</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Immersive Paper DiscoveryDecember 2, 2025 — 2512.02731 Total: 1 #1 SELF-IMPROVING AI AGENTS THROUGH SELF-PLAY [PDF^{3}] [COPY] [KIMI^{8}]...</p></details>
    Published: December 2, 2025  
 
 17. <a id="endnote-17"></a>
    Source: gpuinsights.net  
    Title: Recursive Self-Improvement GPU Limits — Next-Gen Design  
-   Link: [https://gpuinsights.net/recursive-self-improvement-gpu-limits-2026/](https://gpuinsights.net/recursive-self-improvement-gpu-limits-2026/)  
+   Link: <a href="https://gpuinsights.net/recursive-self-improvement-gpu-limits-2026/" target="_blank" rel="noopener noreferrer nofollow">https://gpuinsights.net/recursive-self-improvement-gpu-limits-2026/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 27, 2026 — THEORETICAL LIMITS OF RECURSIVE SELF-IMPROVEMENT: IMPLICATIONS FOR NEXT-GEN GPU DESIGN May 27, 2026 by Iovanny Olguín Ávil...</p></details>
    Published: May 27, 2026  
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=MrJVgw8dBhw](https://www.youtube.com/watch?v=MrJVgw8dBhw)  
+   Link: <a href="https://www.youtube.com/watch?v=MrJVgw8dBhw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MrJVgw8dBhw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Recursive Self-Improvement, Risks &amp; Rewards - The AI Show w/ Paul Roetzer &amp; Mike Kaput...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Understanding Recursive Self-Improvement, Risks & Rewards  
-   Link: [https://www.youtube.com/watch?v=nJnc_1dHHMI](https://www.youtube.com/watch?v=nJnc_1dHHMI)  
+   Link: <a href="https://www.youtube.com/watch?v=nJnc_1dHHMI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nJnc_1dHHMI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Taught Optimizer (STOP): Recursively Self-Improving Code Generation...</p></details>

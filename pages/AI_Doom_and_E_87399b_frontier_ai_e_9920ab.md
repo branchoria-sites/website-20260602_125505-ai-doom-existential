@@ -19,19 +19,19 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_p_doom_estima_72d1f2
 - AI_Doom_and_E_87399b_recursive_imp_3a3504
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - evals
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - evals
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Safety evaluations try to catch dangerous capabilities before deployment, but the hardest risks may be difficult to test reliably.
 hero_summary: Safety evaluations try to catch dangerous capabilities before deployment, but the hardest risks may be difficult to test reliably.
 layout: default
 permalink: /evals/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 nav_short_title: Evals
 title: Can Tests Catch Dangerous AI in Time?
 title_full: Can Tests Catch Dangerous AI in Time? | AI Doom
@@ -211,61 +211,61 @@ ui_strings:
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 21:13:26'
 parent_title: AI Doom
-parent_permalink: /ai-doom-and/
+parent_permalink: /ai-doom-and-e-87399-b/
 parent_nav_short_title: AI Doom
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 sibling_links:
 - basename: AI_Doom_and_E_87399b_recursive_imp_3a3504
-  title: AI Takeoff | AI Doom and
+  title: AI Takeoff | AI Doom and E 87399 b
   permalink: /ai-takeoff/
   short_title: AI Takeoff
   heading_title: Could AI Improvement Run Away From US?
 - basename: AI_Doom_and_E_87399b_dangerous_aut_8f4266
-  title: Autonomy | AI Doom and
+  title: Autonomy | AI Doom and E 87399 b
   permalink: /autonomy/
   short_title: Autonomy
   heading_title: When Does AI Autonomy Become Dangerous?
 - basename: AI_Doom_and_E_87399b_interpretabil_15527d
-  title: Control Tools | AI Doom and
+  title: Control Tools | AI Doom and E 87399 b
   permalink: /control-tools/
   short_title: Control Tools
   heading_title: Can We Make Advanced AI Understandable?
 - basename: AI_Doom_and_E_87399b_compute_gover_1ee8fc
-  title: Governance | AI Doom and
+  title: Governance | AI Doom and E 87399 b
   permalink: /governance/
   short_title: Governance
   heading_title: What Rules Could Reduce AI Doom Risk?
 - basename: AI_Doom_and_E_87399b_loss_of_contr_19a113
-  title: Loss of Control | AI Doom and
+  title: Loss of Control | AI Doom and E 87399 b
   permalink: /loss-of-control/
   short_title: Loss of Control
   heading_title: How Could Humans Lose Control of AI?
 - basename: AI_Doom_and_E_87399b_catastrophic_c92548
-  title: Misuse | AI Doom and
+  title: Misuse | AI Doom and E 87399 b
   permalink: /misuse/
   short_title: Misuse
   heading_title: How Could People Misuse Advanced AI?
 - basename: AI_Doom_and_E_87399b_p_doom_estima_72d1f2
-  title: P Doom | AI Doom and
+  title: P Doom | AI Doom and E 87399 b
   permalink: /p-doom/
   short_title: P Doom
   heading_title: What Does p(doom) Really Mean?
 - basename: AI_Doom_and_E_87399b_ai_race_dynam_a5d049
-  title: Race Pressure | AI Doom and
+  title: Race Pressure | AI Doom and E 87399 b
   permalink: /race-pressure/
   short_title: Race Pressure
   heading_title: Why AI Races Can Make Safety Harder
 - basename: AI_Doom_and_E_87399b_deceptive_ali_f9f449
-  title: Scheming Tests | AI Doom and
+  title: Scheming Tests | AI Doom and E 87399 b
   permalink: /scheming-tests/
   short_title: Scheming Tests
   heading_title: Can AI Pretend to Be Aligned?
@@ -293,17 +293,17 @@ child_links:
 up_link:
   basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 prev_link:
   basename: AI_Doom_and_E_87399b_interpretabil_15527d
-  title: Control Tools | AI Doom and
+  title: Control Tools | AI Doom and E 87399 b
   permalink: /control-tools/
   short_title: Control Tools
   heading_title: Can We Make Advanced AI Understandable?
 next_link:
   basename: AI_Doom_and_E_87399b_compute_gover_1ee8fc
-  title: Governance | AI Doom and
+  title: Governance | AI Doom and E 87399 b
   permalink: /governance/
   short_title: Governance
   heading_title: What Rules Could Reduce AI Doom Risk?
@@ -319,11 +319,11 @@ Frontier [AI evaluations]({{ 'ai-evaluations/' | relative_url }}) are the tests 
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab-overview.webp" | relative_url }}" alt="Overview image for Evals" loading="eager" decoding="sync" fetchpriority="high">
-The practical aim is not to prove doom is coming. It is to avoid being surprised by a system that crosses a dangerous threshold before developers, governments, or the public have time to respond. That makes frontier [evaluations]({{ 'evaluations/' | relative_url }}) a policy intervention as much as a technical exercise: the test results only matter if they change [deployment]({{ 'release-gates/' | relative_url }}), security, access, monitoring, or further training decisions.
+The practical aim is not to prove doom is coming. It is to avoid being surprised by a system that crosses a dangerous threshold before developers, governments, or the public have time to respond. That makes frontier [evaluations]({{ 'evaluations/' | relative_url }}) a policy intervention as much as a technical exercise: the test results only matter if they change deployment, security, access, [monitoring]({{ 'monitoring/' | relative_url }}), or further training decisions.
 
 ## What frontier evaluations actually measure
 
-A frontier evaluation is not a single exam. It is a cluster of tests, red-team exercises, expert reviews and deployment simulations aimed at capabilities that could become dangerous if scaled, combined with tools, or placed in high-stakes settings. The most relevant evals for AI doom are those that test whether a model is becoming useful for actions that could reduce human control or sharply increase [catastrophic]({{ 'misuse/' | relative_url }}) misuse.
+A frontier evaluation is not a single exam. It is a cluster of tests, red-team exercises, expert reviews and deployment simulations aimed at capabilities that could become dangerous if scaled, combined with tools, or placed in high-stakes settings. The most relevant evals for AI doom are those that test whether a model is becoming useful for actions that could reduce human control or sharply increase [catastrophic]({{ 'misuse/' | relative_url }}) [misuse]({{ 'misuse/' | relative_url }}).
 
 A 2024 Google DeepMind-led paper on dangerous capability evaluations tested Gemini 1.0 models across four areas: persuasion and deception, cyber-security, self-proliferation, and self-reasoning. The authors did not find strong dangerous capabilities in the models they tested, but they did report early warning signs and framed the work as preparation for more capable future systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.13793" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> This distinction is important. A weak result today does not mean the threat model is false; it may mean the capability is not yet present, the test did not elicit it, or the model lacks the right tools and autonomy.
 
@@ -491,7 +491,7 @@ A strong evaluation regime should affect at least four kinds of decision.
 
 **Internal use.** Frontier developers should treat their own AI agents as potential risk factors, especially when those agents work on code, training infrastructure, evaluation systems, security tools, or future model development. METR argues that periodic third-party assessment of internal AI use should become an industry practice. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://metr.org/assets/common-elements-mar-2025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[METR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-title">common elements mar 2025</span><span class="citation-popover-snippet">common elements mar 2025</span></span></span>
 
-**Policy escalation.** Governments should use eval results to decide when voluntary commitments are insufficient. If companies repeatedly approach thresholds without clear mitigations, or if public reporting is too vague to assess, evals become an argument for [mandatory]({{ 'safety-checks/' | relative_url }}) disclosure, licensing, audits, incident reporting, or compute-linked controls.
+**Policy escalation.** Governments should use eval results to decide when voluntary commitments are insufficient. If companies repeatedly approach thresholds without clear mitigations, or if public reporting is too vague to assess, evals become an argument for mandatory disclosure, licensing, audits, incident reporting, or compute-linked controls.
 
 The best use of warning-sign tests is therefore boring but powerful: they create pre-agreed moments where “move fast” must give way to “show evidence”. In the AI doom debate, that matters because many catastrophic scenarios depend on a race dynamic in which each actor waits for someone else to slow down. Evaluations cannot solve that coordination problem by themselves, but they can make the argument concrete. A threshold crossed in a credible eval is harder to dismiss than a general warning about future superintelligence.
 
@@ -924,414 +924,414 @@ A good frontier evaluation regime should therefore be adversarial, repeated, ind
 
 1. <a id="endnote-1"></a>
    Source: aisi.gov.uk  
-   Link: [https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems](https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems)  
+   Link: <a href="https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems</a>  
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2403.13793](https://arxiv.org/abs/2403.13793)  
+   Link: <a href="https://arxiv.org/abs/2403.13793" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.13793</a>  
 
 3. <a id="endnote-3"></a>
    Source: metr.org  
    Title: Resources for Measuring Autonomous AI Capabilities  
-   Link: [https://metr.org/measuring-autonomous-ai-capabilities/](https://metr.org/measuring-autonomous-ai-capabilities/)  
+   Link: <a href="https://metr.org/measuring-autonomous-ai-capabilities/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/measuring-autonomous-ai-capabilities/</a>  
 
 4. <a id="endnote-4"></a>
    Source: aisi.gov.uk  
-   Link: [https://www.aisi.gov.uk/frontier-ai-trends-report](https://www.aisi.gov.uk/frontier-ai-trends-report)  
+   Link: <a href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/frontier-ai-trends-report</a>  
 
 5. <a id="endnote-5"></a>
    Source: GOV.UK  
    Title: frontier ai safety commitments ai seoul summit 2024  
-   Link: [https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024/frontier-ai-safety-commitments-ai-seoul-summit-2024](https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024/frontier-ai-safety-commitments-ai-seoul-summit-2024)  
+   Link: <a href="https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024/frontier-ai-safety-commitments-ai-seoul-summit-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024/frontier-ai-safety-commitments-ai-seoul-summit-2024</a>  
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2406.14713](https://arxiv.org/abs/2406.14713)  
+   Link: <a href="https://arxiv.org/abs/2406.14713" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2406.14713</a>  
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2406.07358](https://arxiv.org/abs/2406.07358)  
+   Link: <a href="https://arxiv.org/abs/2406.07358" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2406.07358</a>  
 
 8. <a id="endnote-8"></a>
    Source: anthropic.com  
    Title: Alignment faking in large language models \ Anthropic  
-   Link: [https://www.anthropic.com/research/alignment-faking](https://www.anthropic.com/research/alignment-faking)  
+   Link: <a href="https://www.anthropic.com/research/alignment-faking" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/research/alignment-faking</a>  
 
 9. <a id="endnote-9"></a>
    Source: metr.org  
    Title: 2026 05 19 frontier risk report  
-   Link: [https://metr.org/blog/2026-05-19-frontier-risk-report/](https://metr.org/blog/2026-05-19-frontier-risk-report/)  
+   Link: <a href="https://metr.org/blog/2026-05-19-frontier-risk-report/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/blog/2026-05-19-frontier-risk-report/</a>  
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
    Title: arXiv AI Companies Should Report Pre- and Post-Mitigation Safety Evaluations  
-   Link: [https://arxiv.org/abs/2503.17388](https://arxiv.org/abs/2503.17388)  
+   Link: <a href="https://arxiv.org/abs/2503.17388" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2503.17388</a>  
 
 11. <a id="endnote-11"></a>
    Source: anthropic.com  
    Title: Responsible Scaling Policy Version 3.0 \ Anthropic  
-   Link: [https://www.anthropic.com/news/responsible-scaling-policy-v3](https://www.anthropic.com/news/responsible-scaling-policy-v3)  
+   Link: <a href="https://www.anthropic.com/news/responsible-scaling-policy-v3" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/news/responsible-scaling-policy-v3</a>  
 
 12. <a id="endnote-12"></a>
    Source: cdn.openai.com  
    Title: Open AI CDN  
-   Link: [https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf](https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf)  
+   Link: <a href="https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: deepmind.google  
-   Link: [https://deepmind.google/blog/strengthening-our-frontier-safety-framework/](https://deepmind.google/blog/strengthening-our-frontier-safety-framework/)  
+   Link: <a href="https://deepmind.google/blog/strengthening-our-frontier-safety-framework/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/blog/strengthening-our-frontier-safety-framework/</a>  
 
 14. <a id="endnote-14"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2512.01166](https://arxiv.org/abs/2512.01166)  
+   Link: <a href="https://arxiv.org/abs/2512.01166" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2512.01166</a>  
 
 15. <a id="endnote-15"></a>
    Source: anthropic.com  
    Title: a new initiative for developing third party model evaluations  
-   Link: [https://www.anthropic.com/news/a-new-initiative-for-developing-third-party-model-evaluations](https://www.anthropic.com/news/a-new-initiative-for-developing-third-party-model-evaluations)  
+   Link: <a href="https://www.anthropic.com/news/a-new-initiative-for-developing-third-party-model-evaluations" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/news/a-new-initiative-for-developing-third-party-model-evaluations</a>  
 
 16. <a id="endnote-16"></a>
    Source: www-cdn.anthropic.com  
-   Link: [https://www-cdn.anthropic.com/files/4zrzovbb/website/bf04581e4f329735fd90634f6a1962c13c0bd351.pdf](https://www-cdn.anthropic.com/files/4zrzovbb/website/bf04581e4f329735fd90634f6a1962c13c0bd351.pdf)  
+   Link: <a href="https://www-cdn.anthropic.com/files/4zrzovbb/website/bf04581e4f329735fd90634f6a1962c13c0bd351.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-cdn.anthropic.com/files/4zrzovbb/website/bf04581e4f329735fd90634f6a1962c13c0bd351.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: www-cdn.anthropic.com  
-   Link: [https://www-cdn.anthropic.com/17310f6d70ae5627f55313ed067afc1a762a4068.pdf](https://www-cdn.anthropic.com/17310f6d70ae5627f55313ed067afc1a762a4068.pdf)  
+   Link: <a href="https://www-cdn.anthropic.com/17310f6d70ae5627f55313ed067afc1a762a4068.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-cdn.anthropic.com/17310f6d70ae5627f55313ed067afc1a762a4068.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: anthropic.com  
    Title: 's Responsible Scaling Policy  
-   Link: [https://www.anthropic.com/responsible-scaling-policy](https://www.anthropic.com/responsible-scaling-policy)  
+   Link: <a href="https://www.anthropic.com/responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/responsible-scaling-policy</a>  
 
 19. <a id="endnote-19"></a>
    Source: alignment.anthropic.com  
-   Link: [https://alignment.anthropic.com/](https://alignment.anthropic.com/)  
+   Link: <a href="https://alignment.anthropic.com/" target="_blank" rel="noopener noreferrer nofollow">https://alignment.anthropic.com/</a>  
 
 20. <a id="endnote-20"></a>
    Source: assets.anthropic.com  
    Title: Alignment Faking Policy Memo  
-   Link: [https://assets.anthropic.com/m/52eab1f8cf3f04a6/original/Alignment-Faking-Policy-Memo.pdf](https://assets.anthropic.com/m/52eab1f8cf3f04a6/original/Alignment-Faking-Policy-Memo.pdf)  
+   Link: <a href="https://assets.anthropic.com/m/52eab1f8cf3f04a6/original/Alignment-Faking-Policy-Memo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.anthropic.com/m/52eab1f8cf3f04a6/original/Alignment-Faking-Policy-Memo.pdf</a>  
 
 21. <a id="endnote-21"></a>
    Source: assets.anthropic.com  
    Title: Sabotage Evaluations for Frontier Models  
-   Link: [https://assets.anthropic.com/m/377027d5b36ac1eb/original/Sabotage-Evaluations-for-Frontier-Models.pdf](https://assets.anthropic.com/m/377027d5b36ac1eb/original/Sabotage-Evaluations-for-Frontier-Models.pdf)  
+   Link: <a href="https://assets.anthropic.com/m/377027d5b36ac1eb/original/Sabotage-Evaluations-for-Frontier-Models.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.anthropic.com/m/377027d5b36ac1eb/original/Sabotage-Evaluations-for-Frontier-Models.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: aisi.gov.uk  
-   Link: [https://www.aisi.gov.uk/](https://www.aisi.gov.uk/)  
+   Link: <a href="https://www.aisi.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/</a>  
 
 23. <a id="endnote-23"></a>
    Source: aisi.gov.uk  
    Title: making safeguard evaluations actionable  
-   Link: [https://www.aisi.gov.uk/blog/making-safeguard-evaluations-actionable](https://www.aisi.gov.uk/blog/making-safeguard-evaluations-actionable)  
+   Link: <a href="https://www.aisi.gov.uk/blog/making-safeguard-evaluations-actionable" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/blog/making-safeguard-evaluations-actionable</a>  
 
 24. <a id="endnote-24"></a>
    Source: aisi.gov.uk  
-   Link: [https://www.aisi.gov.uk/blog](https://www.aisi.gov.uk/blog)  
+   Link: <a href="https://www.aisi.gov.uk/blog" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/blog</a>  
 
 25. <a id="endnote-25"></a>
    Source: alignmentproject.aisi.gov.uk  
    Title: aisi.gov.uk Evaluation and Guarantees in Reinforcement Learning Problem  
-   Link: [https://alignmentproject.aisi.gov.uk/research-area/evaluation-and-guarantees-in-reinforcement-learning](https://alignmentproject.aisi.gov.uk/research-area/evaluation-and-guarantees-in-reinforcement-learning)  
+   Link: <a href="https://alignmentproject.aisi.gov.uk/research-area/evaluation-and-guarantees-in-reinforcement-learning" target="_blank" rel="noopener noreferrer nofollow">https://alignmentproject.aisi.gov.uk/research-area/evaluation-and-guarantees-in-reinforcement-learning</a>  
 
 26. <a id="endnote-26"></a>
    Source: aisi.gov.uk  
    Title: auditing games for sandbagging detection  
-   Link: [https://www.aisi.gov.uk/blog/auditing-games-for-sandbagging-detection](https://www.aisi.gov.uk/blog/auditing-games-for-sandbagging-detection)  
+   Link: <a href="https://www.aisi.gov.uk/blog/auditing-games-for-sandbagging-detection" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/blog/auditing-games-for-sandbagging-detection</a>  
 
 27. <a id="endnote-27"></a>
    Source: aisi.gov.uk  
    Title: conference on frontier ai safety frameworks  
-   Link: [https://www.aisi.gov.uk/blog/conference-on-frontier-ai-safety-frameworks](https://www.aisi.gov.uk/blog/conference-on-frontier-ai-safety-frameworks)  
+   Link: <a href="https://www.aisi.gov.uk/blog/conference-on-frontier-ai-safety-frameworks" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/blog/conference-on-frontier-ai-safety-frameworks</a>  
 
 28. <a id="endnote-28"></a>
    Source: GOV.UK  
    Title: safety and security risks of generative artificial intelligence to 2025 annex b  
-   Link: [https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/safety-and-security-risks-of-generative-artificial-intelligence-to-2025-annex-b](https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/safety-and-security-risks-of-generative-artificial-intelligence-to-2025-annex-b)  
+   Link: <a href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/safety-and-security-risks-of-generative-artificial-intelligence-to-2025-annex-b" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/safety-and-security-risks-of-generative-artificial-intelligence-to-2025-annex-b</a>  
 
 29. <a id="endnote-29"></a>
    Source: GOV.UK  
    Title: frontier ai capabilities and risks discussion paper  
-   Link: [https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper](https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper)  
+   Link: <a href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper</a>  
 
 30. <a id="endnote-30"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/publications/ai-safety-institute-overview/introducing-the-ai-safety-institute](https://www.gov.uk/government/publications/ai-safety-institute-overview/introducing-the-ai-safety-institute)  
+   Link: <a href="https://www.gov.uk/government/publications/ai-safety-institute-overview/introducing-the-ai-safety-institute" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-safety-institute-overview/introducing-the-ai-safety-institute</a>  
 
 31. <a id="endnote-31"></a>
    Source: GOV.UK  
    Title: ai security institute frontier ai trends report factsheet  
-   Link: [https://www.gov.uk/government/publications/ai-security-institute-frontier-ai-trends-report-factsheet](https://www.gov.uk/government/publications/ai-security-institute-frontier-ai-trends-report-factsheet)  
+   Link: <a href="https://www.gov.uk/government/publications/ai-security-institute-frontier-ai-trends-report-factsheet" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-security-institute-frontier-ai-trends-report-factsheet</a>  
 
 32. <a id="endnote-32"></a>
    Source: GOV.UK  
    Title: ai safety institute approach to evaluations  
-   Link: [https://www.gov.uk/government/publications/ai-safety-institute-approach-to-evaluations](https://www.gov.uk/government/publications/ai-safety-institute-approach-to-evaluations)  
+   Link: <a href="https://www.gov.uk/government/publications/ai-safety-institute-approach-to-evaluations" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-safety-institute-approach-to-evaluations</a>  
 
 33. <a id="endnote-33"></a>
    Source: GOV.UK  
    Title: ai safety institute approach to evaluations  
-   Link: [https://www.gov.uk/government/publications/ai-safety-institute-approach-to-evaluations/ai-safety-institute-approach-to-evaluations](https://www.gov.uk/government/publications/ai-safety-institute-approach-to-evaluations/ai-safety-institute-approach-to-evaluations)  
+   Link: <a href="https://www.gov.uk/government/publications/ai-safety-institute-approach-to-evaluations/ai-safety-institute-approach-to-evaluations" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-safety-institute-approach-to-evaluations/ai-safety-institute-approach-to-evaluations</a>  
 
 34. <a id="endnote-34"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/news/inaugural-report-pioneered-by-ai-security-institute-gives-clearest-picture-yet-of-capabilities-of-most-advanced-ai](https://www.gov.uk/government/news/inaugural-report-pioneered-by-ai-security-institute-gives-clearest-picture-yet-of-capabilities-of-most-advanced-ai)  
+   Link: <a href="https://www.gov.uk/government/news/inaugural-report-pioneered-by-ai-security-institute-gives-clearest-picture-yet-of-capabilities-of-most-advanced-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/inaugural-report-pioneered-by-ai-security-institute-gives-clearest-picture-yet-of-capabilities-of-most-advanced-ai</a>  
 
 35. <a id="endnote-35"></a>
    Source: GOV.UK  
    Title: frontier ai capabilities and risks discussion paper  
-   Link: [https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper](https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper)  
+   Link: <a href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper</a>  
 
 36. <a id="endnote-36"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/publications/ai-safety-summit-2023-the-[bletchley](https://www.gov.uk/government/publications/ai-safety-summit-2023-the-[bletchley)  
+   Link: <a href="https://www.gov.uk/government/publications/ai-safety-summit-2023-the-[bletchley" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-safety-summit-2023-the-[bletchley</a>  
    Published: november 2023  
 
 37. <a id="endnote-37"></a>
    Source: GOV.UK  
    Title: safety testing chairs statement of session outcomes 2 november 2023  
-   Link: [https://www.gov.uk/government/publications/ai-safety-summit-2023-chairs-statement-safety-testing-2-november/safety-testing-chairs-statement-of-session-outcomes-2-november-2023](https://www.gov.uk/government/publications/ai-safety-summit-2023-chairs-statement-safety-testing-2-november/safety-testing-chairs-statement-of-session-outcomes-2-november-2023)  
+   Link: <a href="https://www.gov.uk/government/publications/ai-safety-summit-2023-chairs-statement-safety-testing-2-november/safety-testing-chairs-statement-of-session-outcomes-2-november-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-safety-summit-2023-chairs-statement-safety-testing-2-november/safety-testing-chairs-statement-of-session-outcomes-2-november-2023</a>  
    Published: november 2023  
 
 38. <a id="endnote-38"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/news/efforts-to-share-best-practices-on-ai-measurement-and-evaluations-driven-forward-through-the-international-network-for-advanced-ai-measurement-evalua](https://www.gov.uk/government/news/efforts-to-share-best-practices-on-ai-measurement-and-evaluations-driven-forward-through-the-international-network-for-advanced-ai-measurement-evalua)  
+   Link: <a href="https://www.gov.uk/government/news/efforts-to-share-best-practices-on-ai-measurement-and-evaluations-driven-forward-through-the-international-network-for-advanced-ai-measurement-evalua" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/efforts-to-share-best-practices-on-ai-measurement-and-evaluations-driven-forward-through-the-international-network-for-advanced-ai-measurement-evalua</a>  
 
 39. <a id="endnote-39"></a>
    Source: OpenAI  
    Title: updating our preparedness framework  
-   Link: [https://openai.com/index/updating-our-preparedness-framework/](https://openai.com/index/updating-our-preparedness-framework/)  
+   Link: <a href="https://openai.com/index/updating-our-preparedness-framework/" target="_blank" rel="noopener noreferrer nofollow">https://openai.com/index/updating-our-preparedness-framework/</a>  
 
 40. <a id="endnote-40"></a>
    Source: OpenAI  
    Title: detecting and reducing scheming in ai models  
-   Link: [https://openai.com/index/detecting-and-reducing-scheming-in-ai-models/](https://openai.com/index/detecting-and-reducing-scheming-in-ai-models/)  
+   Link: <a href="https://openai.com/index/detecting-and-reducing-scheming-in-ai-models/" target="_blank" rel="noopener noreferrer nofollow">https://openai.com/index/detecting-and-reducing-scheming-in-ai-models/</a>  
 
 41. <a id="endnote-41"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2601.11916v1](https://arxiv.org/html/2601.11916v1)  
+   Link: <a href="https://arxiv.org/html/2601.11916v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2601.11916v1</a>  
 
 42. <a id="endnote-42"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2512.01166v3](https://arxiv.org/html/2512.01166v3)  
+   Link: <a href="https://arxiv.org/html/2512.01166v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2512.01166v3</a>  
 
 43. <a id="endnote-43"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2506.23949](https://arxiv.org/pdf/2506.23949)  
+   Link: <a href="https://arxiv.org/pdf/2506.23949" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2506.23949</a>  
 
 44. <a id="endnote-44"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2509.24394](https://arxiv.org/abs/2509.24394)  
+   Link: <a href="https://arxiv.org/abs/2509.24394" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2509.24394</a>  
 
 45. <a id="endnote-45"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2512.01166v4](https://arxiv.org/html/2512.01166v4)  
+   Link: <a href="https://arxiv.org/html/2512.01166v4" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2512.01166v4</a>  
 
 46. <a id="endnote-46"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2406.07358v1](https://arxiv.org/html/2406.07358v1)  
+   Link: <a href="https://arxiv.org/html/2406.07358v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2406.07358v1</a>  
 
 47. <a id="endnote-47"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2412.04984](https://arxiv.org/abs/2412.04984)  
+   Link: <a href="https://arxiv.org/abs/2412.04984" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2412.04984</a>  
 
 48. <a id="endnote-48"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2412.14093](https://arxiv.org/abs/2412.14093)  
+   Link: <a href="https://arxiv.org/abs/2412.14093" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2412.14093</a>  
 
 49. <a id="endnote-49"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2406.07358](https://arxiv.org/pdf/2406.07358)  
+   Link: <a href="https://arxiv.org/pdf/2406.07358" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2406.07358</a>  
 
 50. <a id="endnote-50"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2503.04746](https://arxiv.org/pdf/2503.04746)  
+   Link: <a href="https://arxiv.org/pdf/2503.04746" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2503.04746</a>  
 
 51. <a id="endnote-51"></a>
    Source: deepmind.google  
    Title: updating the frontier safety framework  
-   Link: [https://deepmind.google/blog/updating-the-frontier-safety-framework/](https://deepmind.google/blog/updating-the-frontier-safety-framework/)  
+   Link: <a href="https://deepmind.google/blog/updating-the-frontier-safety-framework/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/blog/updating-the-frontier-safety-framework/</a>  
 
 52. <a id="endnote-52"></a>
    Source: metr.org  
    Title: common elements  
-   Link: [https://metr.org/common-elements](https://metr.org/common-elements)  
+   Link: <a href="https://metr.org/common-elements" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/common-elements</a>  
 
 53. <a id="endnote-53"></a>
    Source: metr.org  
    Title: 2024 03 13 autonomy evaluation resources  
-   Link: [https://metr.org/blog/2024-03-13-autonomy-evaluation-resources/](https://metr.org/blog/2024-03-13-autonomy-evaluation-resources/)  
+   Link: <a href="https://metr.org/blog/2024-03-13-autonomy-evaluation-resources/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/blog/2024-03-13-autonomy-evaluation-resources/</a>  
 
 54. <a id="endnote-54"></a>
    Source: metr.org  
    Title: 2025 12 09 common elements of frontier ai safety policies  
-   Link: [https://metr.org/blog/2025-12-09-common-elements-of-frontier-ai-safety-policies/](https://metr.org/blog/2025-12-09-common-elements-of-frontier-ai-safety-policies/)  
+   Link: <a href="https://metr.org/blog/2025-12-09-common-elements-of-frontier-ai-safety-policies/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/blog/2025-12-09-common-elements-of-frontier-ai-safety-policies/</a>  
 
 55. <a id="endnote-55"></a>
    Source: metr.org  
-   Link: [https://metr.org/](https://metr.org/)  
+   Link: <a href="https://metr.org/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/</a>  
 
 56. <a id="endnote-56"></a>
    Source: metr.org  
-   Link: [https://metr.org/research/](https://metr.org/research/)  
+   Link: <a href="https://metr.org/research/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/research/</a>  
 
 57. <a id="endnote-57"></a>
    Source: metr.org  
    Title: common elements mar 2025  
-   Link: [https://metr.org/assets/common-elements-mar-2025.pdf](https://metr.org/assets/common-elements-mar-2025.pdf)  
+   Link: <a href="https://metr.org/assets/common-elements-mar-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/assets/common-elements-mar-2025.pdf</a>  
 
 58. <a id="endnote-58"></a>
    Source: metr.org  
    Title: common elements  
-   Link: [https://metr.org/common-elements.pdf](https://metr.org/common-elements.pdf)  
+   Link: <a href="https://metr.org/common-elements.pdf" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/common-elements.pdf</a>  
 
 59. <a id="endnote-59"></a>
    Source: code-of-practice.ai  
-   Link: [https://code-of-practice.ai/](https://code-of-practice.ai/)  
+   Link: <a href="https://code-of-practice.ai/" target="_blank" rel="noopener noreferrer nofollow">https://code-of-practice.ai/</a>  
 
 60. <a id="endnote-60"></a>
    Source: governance.ai  
    Title: anthropics rsp v3 0 how it works whats changed and some reflections  
-   Link: [https://www.governance.ai/analysis/anthropics-rsp-v3-0-how-it-works-whats-changed-and-some-reflections](https://www.governance.ai/analysis/anthropics-rsp-v3-0-how-it-works-whats-changed-and-some-reflections)  
+   Link: <a href="https://www.governance.ai/analysis/anthropics-rsp-v3-0-how-it-works-whats-changed-and-some-reflections" target="_blank" rel="noopener noreferrer nofollow">https://www.governance.ai/analysis/anthropics-rsp-v3-0-how-it-works-whats-changed-and-some-reflections</a>  
 
 61. <a id="endnote-61"></a>
    Source: far.ai  
    Title: auditing games for sandbagging  
-   Link: [https://far.ai/research/auditing-games-for-sandbagging](https://far.ai/research/auditing-games-for-sandbagging)  
+   Link: <a href="https://far.ai/research/auditing-games-for-sandbagging" target="_blank" rel="noopener noreferrer nofollow">https://far.ai/research/auditing-games-for-sandbagging</a>  
 
 62. <a id="endnote-62"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40tahirbalarabe2/%EF%B8%8Fgoogle-frontier-safety-framework-managing-ai-risks-and-capabilities-63bf43b0470a](https://medium.com/%40tahirbalarabe2/%EF%B8%8Fgoogle-frontier-safety-framework-managing-ai-risks-and-capabilities-63bf43b0470a)  
+   Link: <a href="https://medium.com/%40tahirbalarabe2/%EF%B8%8Fgoogle-frontier-safety-framework-managing-ai-risks-and-capabilities-63bf43b0470a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40tahirbalarabe2/%EF%B8%8Fgoogle-frontier-safety-framework-managing-ai-risks-and-capabilities-63bf43b0470a</a>  
 
 63. <a id="endnote-63"></a>
    Source: medium.com  
-   Link: [https://medium.com/enkrypt-ai/frontier-safety-frameworks-a-comprehensive-picture-e070efb4d0a7](https://medium.com/enkrypt-ai/frontier-safety-frameworks-a-comprehensive-picture-e070efb4d0a7)  
+   Link: <a href="https://medium.com/enkrypt-ai/frontier-safety-frameworks-a-comprehensive-picture-e070efb4d0a7" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/enkrypt-ai/frontier-safety-frameworks-a-comprehensive-picture-e070efb4d0a7</a>  
 
 64. <a id="endnote-64"></a>
    Source: medium.com  
-   Link: [https://medium.com/data-and-beyond/alignment-faking-in-large-language-models-74269bc432cf](https://medium.com/data-and-beyond/alignment-faking-in-large-language-models-74269bc432cf)  
+   Link: <a href="https://medium.com/data-and-beyond/alignment-faking-in-large-language-models-74269bc432cf" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/data-and-beyond/alignment-faking-in-large-language-models-74269bc432cf</a>  
 
 65. <a id="endnote-65"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: [https://assets.publishing.service.gov.uk/media/65395abae6c968000daa9b25/frontier-ai-capabilities-risks-report.pdf](https://assets.publishing.service.gov.uk/media/65395abae6c968000daa9b25/frontier-ai-capabilities-risks-report.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/65395abae6c968000daa9b25/frontier-ai-capabilities-risks-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/65395abae6c968000daa9b25/frontier-ai-capabilities-risks-report.pdf</a>  
 
 66. <a id="endnote-66"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: [https://assets.publishing.service.gov.uk/media/653aabbd80884d000df71bdc/emerging-processes-frontier-ai-safety.pdf](https://assets.publishing.service.gov.uk/media/653aabbd80884d000df71bdc/emerging-processes-frontier-ai-safety.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/653aabbd80884d000df71bdc/emerging-processes-frontier-ai-safety.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/653aabbd80884d000df71bdc/emerging-processes-frontier-ai-safety.pdf</a>  
 
 67. <a id="endnote-67"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: [https://assets.publishing.service.gov.uk/media/65438d159e05fd0014be7bd9/introducing-ai-safety-institute-web-accessible.pdf](https://assets.publishing.service.gov.uk/media/65438d159e05fd0014be7bd9/introducing-ai-safety-institute-web-accessible.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/65438d159e05fd0014be7bd9/introducing-ai-safety-institute-web-accessible.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/65438d159e05fd0014be7bd9/introducing-ai-safety-institute-web-accessible.pdf</a>  
 
 68. <a id="endnote-68"></a>
    Source: newsletter.safe.ai  
    Title: ai safety newsletter 66 aisn 66 evaluating  
-   Link: [https://newsletter.safe.ai/p/ai-safety-newsletter-66-aisn-66-evaluating](https://newsletter.safe.ai/p/ai-safety-newsletter-66-aisn-66-evaluating)  
+   Link: <a href="https://newsletter.safe.ai/p/ai-safety-newsletter-66-aisn-66-evaluating" target="_blank" rel="noopener noreferrer nofollow">https://newsletter.safe.ai/p/ai-safety-newsletter-66-aisn-66-evaluating</a>  
 
 69. <a id="endnote-69"></a>
    Source: apolloresearch.ai  
-   Link: [https://www.apolloresearch.ai/science/frontier-models-are-capable-of-incontext-scheming/](https://www.apolloresearch.ai/science/frontier-models-are-capable-of-incontext-scheming/)  
+   Link: <a href="https://www.apolloresearch.ai/science/frontier-models-are-capable-of-incontext-scheming/" target="_blank" rel="noopener noreferrer nofollow">https://www.apolloresearch.ai/science/frontier-models-are-capable-of-incontext-scheming/</a>  
 
 70. <a id="endnote-70"></a>
    Source: digital-strategy.ec.europa.eu  
-   Link: [https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai](https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai)  
+   Link: <a href="https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai</a>  
 
 71. <a id="endnote-71"></a>
    Source: apolloresearch.ai  
-   Link: [https://www.apolloresearch.ai/science/](https://www.apolloresearch.ai/science/)  
+   Link: <a href="https://www.apolloresearch.ai/science/" target="_blank" rel="noopener noreferrer nofollow">https://www.apolloresearch.ai/science/</a>  
 
 72. <a id="endnote-72"></a>
    Source: apolloresearch.ai  
    Title: more capable models are better at in context scheming  
-   Link: [https://www.apolloresearch.ai/science/more-capable-models-are-better-at-in-context-scheming/](https://www.apolloresearch.ai/science/more-capable-models-are-better-at-in-context-scheming/)  
+   Link: <a href="https://www.apolloresearch.ai/science/more-capable-models-are-better-at-in-context-scheming/" target="_blank" rel="noopener noreferrer nofollow">https://www.apolloresearch.ai/science/more-capable-models-are-better-at-in-context-scheming/</a>  
 
 73. <a id="endnote-73"></a>
    Source: apolloresearch.ai  
-   Link: [https://www.apolloresearch.ai/about/](https://www.apolloresearch.ai/about/)  
+   Link: <a href="https://www.apolloresearch.ai/about/" target="_blank" rel="noopener noreferrer nofollow">https://www.apolloresearch.ai/about/</a>  
 
 74. <a id="endnote-74"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=xIqtVkMXc8o](https://www.youtube.com/watch?v=xIqtVkMXc8o)  
+   Link: <a href="https://www.youtube.com/watch?v=xIqtVkMXc8o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xIqtVkMXc8o</a>  
 
 75. <a id="endnote-75"></a>
    Source: thezvi.substack.com  
    Title: anthropic responsible scaling policy  
-   Link: [https://thezvi.substack.com/p/anthropic-responsible-scaling-policy](https://thezvi.substack.com/p/anthropic-responsible-scaling-policy)  
+   Link: <a href="https://thezvi.substack.com/p/anthropic-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow">https://thezvi.substack.com/p/anthropic-responsible-scaling-policy</a>  
 
 76. <a id="endnote-76"></a>
    Source: enterpriseai.economictimes.indiatimes.com  
-   Link: [https://enterpriseai.economictimes.indiatimes.com/news/industry/anthropic-unveils-third-gen-responsible-scaling-policy-to-tackle-catastrophic-ai-risks-with-new-transparency-rules/128769856](https://enterpriseai.economictimes.indiatimes.com/news/industry/anthropic-unveils-third-gen-responsible-scaling-policy-to-tackle-catastrophic-ai-risks-with-new-transparency-rules/128769856)  
+   Link: <a href="https://enterpriseai.economictimes.indiatimes.com/news/industry/anthropic-unveils-third-gen-responsible-scaling-policy-to-tackle-catastrophic-ai-risks-with-new-transparency-rules/128769856" target="_blank" rel="noopener noreferrer nofollow">https://enterpriseai.economictimes.indiatimes.com/news/industry/anthropic-unveils-third-gen-responsible-scaling-policy-to-tackle-catastrophic-ai-risks-with-new-transparency-rules/128769856</a>  
 
 77. <a id="endnote-77"></a>
    Source: ailabwatch.org  
-   Link: [https://ailabwatch.org/resources/commitments](https://ailabwatch.org/resources/commitments)  
+   Link: <a href="https://ailabwatch.org/resources/commitments" target="_blank" rel="noopener noreferrer nofollow">https://ailabwatch.org/resources/commitments</a>  
 
 78. <a id="endnote-78"></a>
    Source: ratings.safer-ai.org  
-   Link: [https://ratings.safer-ai.org/company/openai/](https://ratings.safer-ai.org/company/openai/)  
+   Link: <a href="https://ratings.safer-ai.org/company/openai/" target="_blank" rel="noopener noreferrer nofollow">https://ratings.safer-ai.org/company/openai/</a>  
 
 79. <a id="endnote-79"></a>
    Source: ai-safety-atlas.com  
    Title: Dangerous Capability Evaluations  
-   Link: [https://ai-safety-atlas.com/chapters/v1/evaluations/dangerous-capability-evaluations/](https://ai-safety-atlas.com/chapters/v1/evaluations/dangerous-capability-evaluations/)  
+   Link: <a href="https://ai-safety-atlas.com/chapters/v1/evaluations/dangerous-capability-evaluations/" target="_blank" rel="noopener noreferrer nofollow">https://ai-safety-atlas.com/chapters/v1/evaluations/dangerous-capability-evaluations/</a>  
 
 80. <a id="endnote-80"></a>
    Source: aisafetyclaims.org  
    Title: Open A I  
-   Link: [https://aisafetyclaims.org/companies/openai](https://aisafetyclaims.org/companies/openai)  
+   Link: <a href="https://aisafetyclaims.org/companies/openai" target="_blank" rel="noopener noreferrer nofollow">https://aisafetyclaims.org/companies/openai</a>  
 
 81. <a id="endnote-81"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/METR](https://en.wikipedia.org/wiki/METR)  
+   Link: <a href="https://en.wikipedia.org/wiki/METR" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/METR</a>  
 
 ### Additional References
 
 82. <a id="endnote-82"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=M5Ho6AA7rSw](https://www.youtube.com/watch?v=M5Ho6AA7rSw)  
+   Link: <a href="https://www.youtube.com/watch?v=M5Ho6AA7rSw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=M5Ho6AA7rSw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>David Duvenaud | The big picture of LLM dangerous capability evals...</p></details>
 
 83. <a id="endnote-83"></a>
    Source: youtube.com  
    Title: Asa Cooper Stickland  
-   Link: [https://www.youtube.com/watch?v=rStQDpQLPyg](https://www.youtube.com/watch?v=rStQDpQLPyg)  
+   Link: <a href="https://www.youtube.com/watch?v=rStQDpQLPyg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rStQDpQLPyg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kola Ayonrinde - Security Grade Interpretability Catching Failure Modes Early...</p></details>
 
 84. <a id="endnote-84"></a>
    Source: youtube.com  
    Title: David Duvenaud | The big picture of LLM dangerous capability evals  
-   Link: [https://www.youtube.com/watch?v=zvIN7PnVuy4](https://www.youtube.com/watch?v=zvIN7PnVuy4)  
+   Link: <a href="https://www.youtube.com/watch?v=zvIN7PnVuy4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zvIN7PnVuy4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why we may have just months before AI hacking goes mainstream...</p></details>
 
 85. <a id="endnote-85"></a>
    Source: youtube.com  
    Title: Why we may have just months before AI hacking goes mainstream  
-   Link: [https://www.youtube.com/watch?v=rlRlhEQDvVA](https://www.youtube.com/watch?v=rlRlhEQDvVA)  
+   Link: <a href="https://www.youtube.com/watch?v=rlRlhEQDvVA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rlRlhEQDvVA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UK Tested Mythos AI&#x27;s Cyber Skills. Here&#x27;s What It Found...</p></details>
 
 86. <a id="endnote-86"></a>
    Source: nist.gov  
-   Link: [https://www.nist.gov/itl/ai-risk-management-framework](https://www.nist.gov/itl/ai-risk-management-framework)  
+   Link: <a href="https://www.nist.gov/itl/ai-risk-management-framework" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/itl/ai-risk-management-framework</a>  
 
 87. <a id="endnote-87"></a>
    Source: youtube.com  
    Title: Xander Davies  
-   Link: [https://www.youtube.com/watch?v=EoLb5OgyrXQ](https://www.youtube.com/watch?v=EoLb5OgyrXQ)  
+   Link: <a href="https://www.youtube.com/watch?v=EoLb5OgyrXQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EoLb5OgyrXQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Asa Cooper Stickland - Persistent state: A new control setting...</p></details>
 
 88. <a id="endnote-88"></a>
    Source: nist.gov  
-   Link: [https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-generative-artificial-intelligence](https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-generative-artificial-intelligence)  
+   Link: <a href="https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-generative-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-generative-artificial-intelligence</a>  
 
 89. <a id="endnote-89"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/395968831_The_2025_OpenAI_Preparedness_Framework_does_not_guarantee_any_AI_risk_mitigation_practices_a_proof-of-concept_for_affordance_analyses_of_AI_safety_policies](https://www.researchgate.net/publication/395968831_The_2025_OpenAI_Preparedness_Framework_does_not_guarantee_any_AI_risk_mitigation_practices_a_proof-of-concept_for_affordance_analyses_of_AI_safety_policies)  
+   Link: <a href="https://www.researchgate.net/publication/395968831_The_2025_OpenAI_Preparedness_Framework_does_not_guarantee_any_AI_risk_mitigation_practices_a_proof-of-concept_for_affordance_analyses_of_AI_safety_policies" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395968831_The_2025_OpenAI_Preparedness_Framework_does_not_guarantee_any_AI_risk_mitigation_practices_a_proof-of-concept_for_affordance_analyses_of_AI_safety_policies</a>  
 
 90. <a id="endnote-90"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/399931297_Expanding_External_Access_To_Frontier_AI_Models_For_Dangerous_Capability_Evaluations](https://www.researchgate.net/publication/399931297_Expanding_External_Access_To_Frontier_AI_Models_For_Dangerous_Capability_Evaluations)  
+   Link: <a href="https://www.researchgate.net/publication/399931297_Expanding_External_Access_To_Frontier_AI_Models_For_Dangerous_Capability_Evaluations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399931297_Expanding_External_Access_To_Frontier_AI_Models_For_Dangerous_Capability_Evaluations</a>  
 
 91. <a id="endnote-91"></a>
    Source: openreview.net  
-   Link: [https://openreview.net/forum?id=7Qa2SpjxIS](https://openreview.net/forum?id=7Qa2SpjxIS)  
+   Link: <a href="https://openreview.net/forum?id=7Qa2SpjxIS" target="_blank" rel="noopener noreferrer nofollow">https://openreview.net/forum?id=7Qa2SpjxIS</a>  

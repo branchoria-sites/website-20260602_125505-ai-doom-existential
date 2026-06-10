@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72a06a_electricity_b_6772c2
 - AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72a06a_software_effi_2bba9e
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - ai-takeoff
 - compute-brakes
 - chip-limits
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - ai-takeoff
 - compute-brakes
 - chip-limits
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Semiconductor fabs, memory supply and advanced packaging could limit how quickly compute expands.
 hero_summary: Semiconductor fabs, memory supply and advanced packaging could limit how quickly compute expands.
 layout: default
 permalink: /chip-limits/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /ai-takeoff/
 - /compute-brakes/
 nav_short_title: Chip Limits
@@ -211,10 +211,10 @@ parent_heading_title: Can compute bottlenecks stop an intelligence explosion?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_recursive_imp_3a3504
-  title: AI Takeoff | AI Doom and
+  title: AI Takeoff | AI Doom and E 87399 b
   permalink: /ai-takeoff/
   short_title: AI Takeoff
   heading_title: Could AI Improvement Run Away From US?
@@ -226,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_recursive_imp_3a3504
-  title: AI Takeoff | AI Doom and
+  title: AI Takeoff | AI Doom and E 87399 b
   permalink: /ai-takeoff/
   short_title: AI Takeoff
   heading_title: Could AI Improvement Run Away From US?
@@ -273,21 +273,21 @@ One of the most important [objections]({{ 'objections/' | relative_url }}) to ra
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72a06a_chip_manufact_915c39-Illustration-1-dark.svg" | relative_url }}" alt="Chip Limits illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72a06a_chip_manufact_915c39-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72a06a_chip_manufact_915c39-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters for debates about [recursive]({{ 'ai-takeoff/' | relative_url }}) self-improvement and intelligence explosions. In the strongest versions of those scenarios, AI systems improve themselves, use those improvements to become even more capable, and repeat the cycle at increasing speed. Critics argue that this picture overlooks semiconductor realities. New fabs take years to build, critical manufacturing equipment comes from a small number of suppliers, advanced packaging capacity is limited, and shortages of memory and networking components can restrict [deployment]({{ 'release-gates/' | relative_url }}) even when chip designs are available. The result is a potential brake on runaway growth: an AI may be able to design better hardware faster than humanity can manufacture it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2507.23181" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Will Compute Bottlenecks Prevent an Intelligence Explosion?</span><span class="citation-popover-snippet">arXivWill Compute Bottlenecks Prevent an Intelligence Explosion?July 31, 2025...</span><span class="citation-popover-meta">Published: July 31, 2025</span></span></span>
+This matters for debates about recursive self-improvement and intelligence explosions. In the strongest versions of those scenarios, AI systems improve themselves, use those improvements to become even more capable, and repeat the cycle at increasing speed. Critics argue that this picture overlooks semiconductor realities. New fabs take years to build, critical manufacturing equipment comes from a small number of suppliers, advanced packaging capacity is limited, and shortages of memory and networking components can restrict deployment even when chip designs are available. The result is a potential brake on runaway growth: an AI may be able to design better hardware faster than humanity can manufacture it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2507.23181" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Will Compute Bottlenecks Prevent an Intelligence Explosion?</span><span class="citation-popover-snippet">Will Compute Bottlenecks Prevent an Intelligence Explosion?July 31, 2025...</span><span class="citation-popover-meta">Published: July 31, 2025</span></span></span>
 
 ## Why advanced semiconductor fabs are hard to scale
 
 The modern AI industry depends on a remarkably concentrated supply chain. Leading-edge AI accelerators are manufactured using processes available from only a handful of firms, with the most advanced production concentrated in a small number of facilities.
 
-Building a cutting-edge semiconductor fabrication plant is not comparable to opening a new software company or adding more cloud servers. Advanced fabs require specialised buildings, ultra-clean environments, thousands of highly trained engineers, and vast amounts of capital. Construction and equipment installation often take years before commercial production begins. Even after a fab opens, yields and reliability must be improved through lengthy optimisation. This means that additional chip capacity cannot appear overnight in response to demand. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vaasblock.com/news/semiconductor-supply-chain-tsmc-chips-act-ai-demand-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vaasblock.com">[VaaSBlock]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vaasblock.com</span><span class="citation-popover-snippet">VaaSBlockThe AI Compute Race Has Exposed the Semiconductor...Yesterday — 1 day ago — At 3 nanometre and 2 nanometre nodes — where the mo...</span></span></span>
+Building a cutting-edge semiconductor fabrication plant is not comparable to opening a new software company or adding more cloud servers. Advanced fabs require specialised buildings, ultra-clean environments, thousands of highly trained engineers, and vast amounts of capital. Construction and equipment installation often take years before commercial production begins. Even after a fab opens, yields and reliability must be improved through lengthy optimisation. This means that additional chip capacity cannot appear overnight in response to demand. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vaasblock.com/news/semiconductor-supply-chain-tsmc-chips-act-ai-demand-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vaasblock.com">[VaaSBlock]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vaasblock.com</span><span class="citation-popover-snippet">The AI Compute Race Has Exposed the Semiconductor...Yesterday — 1 day ago — At 3 nanometre and 2 nanometre nodes — where the mo...</span></span></span>
 
-A particularly important bottleneck is lithography equipment. Advanced AI chips depend on extreme ultraviolet (EUV) lithography systems. The Dutch company ASML is effectively the sole supplier of these machines, and production of the machines themselves is constrained. As a result, the rate at which leading-edge chip capacity can expand is partly determined by how many lithography systems can be manufactured and delivered each year. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.enverus.com/blog/scarce-machines-infinite-demand-asml-and-the-limits-of-the-ai-buildout-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enverus.com">[Enverus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enverus.com</span><span class="citation-popover-snippet">EnverusAI&#x27;s Future: ASML EUV Lithography ChallengesLearn how ASML EUV lithography shapes the AI boom, constraining chip production while...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asml.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asml.com">[ASML]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asml.com</span><span class="citation-popover-snippet">ASML | The world&#x27;s supplier to the semiconductor industryASML gives the world&#x27;s leading chipmakers the power to mass produce patterns on...</span></span></span>
+A particularly important bottleneck is lithography equipment. Advanced AI chips depend on extreme ultraviolet (EUV) lithography systems. The Dutch company ASML is effectively the sole supplier of these machines, and production of the machines themselves is constrained. As a result, the rate at which leading-edge chip capacity can expand is partly determined by how many lithography systems can be manufactured and delivered each year. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.enverus.com/blog/scarce-machines-infinite-demand-asml-and-the-limits-of-the-ai-buildout-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enverus.com">[Enverus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enverus.com</span><span class="citation-popover-snippet">AI&#x27;s Future: ASML EUV Lithography ChallengesLearn how ASML EUV lithography shapes the AI boom, constraining chip production while...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asml.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asml.com">[ASML]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asml.com</span><span class="citation-popover-snippet">The world&#x27;s supplier to the semiconductor industryASML gives the world&#x27;s leading chipmakers the power to mass produce patterns on...</span></span></span>
 
 For AI doom debates, the implication is straightforward. An AI system may discover a superior chip architecture, but translating that design into millions of physical chips still requires access to scarce fabrication capacity and specialised equipment. Intelligence alone does not instantly create manufacturing throughput.
 
 ### Physical production follows industrial timelines
 
-Supporters of fast-takeoff scenarios sometimes argue that sufficiently advanced AI could automate large portions of engineering and industrial planning. That could certainly help. However, [automation]({{ 'automation-bias/' | relative_url }}) does not eliminate physical lead times.
+Supporters of fast-takeoff scenarios sometimes argue that sufficiently advanced AI could automate large portions of engineering and industrial planning. That could certainly help. However, automation does not eliminate physical lead times.
 
 Factories need land, permits, construction materials, power connections, water infrastructure, specialised machinery, trained operators, and global supply chains. Many of these constraints remain stubbornly physical even if the design work becomes highly automated.
 
@@ -355,10 +355,10 @@ Another possibility is that AI capabilities grow through a combination of softwa
 
 In this view, recursive improvement resembles an industrial feedback loop. Better AI systems help produce better chips, which enable better AI systems, which help improve manufacturing further. Growth could still be extremely fast by historical standards, but it would remain tied to the speed at which physical infrastructure expands.
 
-This scenario is compatible with significant AI risk. A system does not need infinite or instantly expanding compute to become [dangerous]({{ 'autonomy/' | relative_url }}). The question is whether hardware constraints merely slow capability growth or fundamentally prevent runaway self-improvement. That remains an open dispute within AI-risk discussions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2507.23181" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Will Compute Bottlenecks Prevent an Intelligence Explosion?</span><span class="citation-popover-snippet">arXivWill Compute Bottlenecks Prevent an Intelligence Explosion?July 31, 2025...</span><span class="citation-popover-meta">Published: July 31, 2025</span></span></span>
+This scenario is compatible with significant AI risk. A system does not need infinite or instantly expanding compute to become dangerous. The question is whether hardware constraints merely slow capability growth or fundamentally prevent runaway self-improvement. That remains an open dispute within AI-risk discussions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2507.23181" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Will Compute Bottlenecks Prevent an Intelligence Explosion?</span><span class="citation-popover-snippet">Will Compute Bottlenecks Prevent an Intelligence Explosion?July 31, 2025...</span><span class="citation-popover-meta">Published: July 31, 2025</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/K05Dh-QjM8c" title="AI That Designs Its Own Chips: Ricursive&#x27;s Anna Goldie and Azalia Mirhoseini" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=K05Dh-QjM8c" target="_blank" rel="noopener noreferrer">AI That Designs Its Own Chips: Ricursive&#x27;s Anna Goldie and Azalia Mirhoseini</a></p><p class="youtube-embed-meta">Channel: Sequoia Capital &middot; Views: 93.3K &middot; Uploaded: May 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=K05Dh-QjM8c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=K05Dh-QjM8c">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6k45_x6SMeA" title="ASML CEO Warns AI Boom Is Straining Chip Supply | TaiwanPlus News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6k45_x6SMeA" target="_blank" rel="noopener noreferrer">ASML CEO Warns AI Boom Is Straining Chip Supply | TaiwanPlus News</a></p><p class="youtube-embed-meta">Channel: TaiwanPlus News &middot; Views: 343 &middot; Uploaded: May 2026 &middot; Length: 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6k45_x6SMeA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6k45_x6SMeA">Open on YouTube</a></p></div></div></div>
 
 ## What this means for intelligence-explosion scenarios
 
@@ -375,7 +375,7 @@ The strongest case that chip manufacturing limits recursive AI growth rests on t
 
 </div>
 
-These factors create friction that pure software models of recursive self-improvement can underestimate. An AI may discover new ideas at digital speed, but implementing those ideas in the physical world requires factories, equipment, materials, energy, and time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.enverus.com/blog/scarce-machines-infinite-demand-asml-and-the-limits-of-the-ai-buildout-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enverus.com">[Enverus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enverus.com</span><span class="citation-popover-snippet">EnverusAI&#x27;s Future: ASML EUV Lithography ChallengesLearn how ASML EUV lithography shapes the AI boom, constraining chip production while...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vaasblock.com/news/semiconductor-supply-chain-tsmc-chips-act-ai-demand-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vaasblock.com">[VaaSBlock At the same time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vaasblock.com</span><span class="citation-popover-snippet">VaaSBlockThe AI Compute Race Has Exposed the Semiconductor...Yesterday — 1 day ago — At 3 nanometre and 2 nanometre nodes — where the mo...</span></span></span>, hardware constraints should not be confused with safety guarantees. AI systems could become highly capable long before manufacturing limits are reached, and AI-assisted engineering may gradually loosen some of today's bottlenecks. The central question is therefore not whether chip manufacturing matters—it clearly does—but whether the pace of semiconductor expansion is slow enough to give humans meaningful time to detect [warning signs]({{ 'warning-signs/' | relative_url }}), improve alignment techniques, and maintain control as AI capabilities continue to advance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2507.23181" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Will Compute Bottlenecks Prevent an Intelligence Explosion?</span><span class="citation-popover-snippet">arXivWill Compute Bottlenecks Prevent an Intelligence Explosion?July 31, 2025...</span><span class="citation-popover-meta">Published: July 31, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://epoch.ai/latest/introducing-the-ai-chip-components-explorer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epoch.ai">[Epoch AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epoch.ai</span><span class="citation-popover-title">introducing the ai chip components explorer</span><span class="citation-popover-snippet">AI Chip Supply Chain Bottlenecks and Capacity8 May 2026 — Advanced packaging constrained AI chip production in late 2024, followed by HBM...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+These factors create friction that pure software models of recursive self-improvement can underestimate. An AI may discover new ideas at digital speed, but implementing those ideas in the physical world requires factories, equipment, materials, energy, and time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.enverus.com/blog/scarce-machines-infinite-demand-asml-and-the-limits-of-the-ai-buildout-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enverus.com">[Enverus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enverus.com</span><span class="citation-popover-snippet">AI&#x27;s Future: ASML EUV Lithography ChallengesLearn how ASML EUV lithography shapes the AI boom, constraining chip production while...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vaasblock.com/news/semiconductor-supply-chain-tsmc-chips-act-ai-demand-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vaasblock.com">[VaaSBlock At the same time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vaasblock.com</span><span class="citation-popover-snippet">The AI Compute Race Has Exposed the Semiconductor...Yesterday — 1 day ago — At 3 nanometre and 2 nanometre nodes — where the mo...</span></span></span>, hardware constraints should not be confused with safety guarantees. AI systems could become highly capable long before manufacturing limits are reached, and AI-assisted engineering may gradually loosen some of today's bottlenecks. The central question is therefore not whether chip manufacturing matters—it clearly does—but whether the pace of semiconductor expansion is slow enough to give humans meaningful time to detect [warning signs]({{ 'warning-signs/' | relative_url }}), improve alignment techniques, and maintain control as AI capabilities continue to advance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2507.23181" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Will Compute Bottlenecks Prevent an Intelligence Explosion?</span><span class="citation-popover-snippet">Will Compute Bottlenecks Prevent an Intelligence Explosion?July 31, 2025...</span><span class="citation-popover-meta">Published: July 31, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://epoch.ai/latest/introducing-the-ai-chip-components-explorer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epoch.ai">[Epoch AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epoch.ai</span><span class="citation-popover-title">introducing the ai chip components explorer</span><span class="citation-popover-snippet">AI Chip Supply Chain Bottlenecks and Capacity8 May 2026 — Advanced packaging constrained AI chip production in late 2024, followed by HBM...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72a06a_chip_manufact_915c39-Illustration-3-dark.svg" | relative_url }}" alt="Chip Limits illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72a06a_chip_manufact_915c39-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72a06a_chip_manufact_915c39-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -466,7 +466,7 @@ These factors create friction that pure software models of recursive self-improv
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -476,111 +476,36 @@ These factors create friction that pure software models of recursive self-improv
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-limits-why-ai-cannot-instantly-build-more-chips-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2001 AI Artificial Intelligence Double Sided 27&quot; x 41&quot; Theatrical Movie Poster"><img src="{{ '/assets/images/marketplace-covers/93c153cc5f9346af0cb8.jpg' | relative_url }}" alt="Listing image for 2001 AI Artificial Intelligence Double Sided 27&quot; x 41&quot; Theatrical Movie Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ai-cannot-instantly-build-more-chips-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="why-ai-cannot-instantly-build-more-chips-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI ARTIFICIAL INTELLIGENCE . 2001 ORIGINAL MOVIE POSTER vintage 24 YEARS OLD"><img src="https://i.ebayimg.com/images/g/f1kAAOSwQllkTTrV/s-l225.jpg" alt="Listing image for AI ARTIFICIAL INTELLIGENCE . 2001 ORIGINAL MOVIE POSTER vintage 24 YEARS OLD" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-limits-why-ai-cannot-instantly-build-more-chips-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">2001 AI Artificial Intelligence Double Sided 27&quot; x 41&quot; Theatrical Movie Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ai-cannot-instantly-build-more-chips-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="why-ai-cannot-instantly-build-more-chips-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">AI ARTIFICIAL INTELLIGENCE . 2001 ORIGINAL MOVIE POSTER vintage 24 YEARS OLD</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-limits-why-ai-cannot-instantly-build-more-chips-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.com</span>: artificial intelligence poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ai-cannot-instantly-build-more-chips-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="why-ai-cannot-instantly-build-more-chips-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-limits-why-ai-cannot-instantly-build-more-chips-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-limits-why-ai-cannot-instantly-build-more-chips-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HALEY JOEL OSMENT SIGNED ARTIFICIAL INTELLIGENCE AI 12X18 MOVIE POSTER PHOTO BAS"><img src="{{ '/assets/images/marketplace-covers/3d12bbcc085ead81e29b.jpg' | relative_url }}" alt="Listing image for HALEY JOEL OSMENT SIGNED ARTIFICIAL INTELLIGENCE AI 12X18 MOVIE POSTER PHOTO BAS" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-limits-why-ai-cannot-instantly-build-more-chips-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">HALEY JOEL OSMENT SIGNED ARTIFICIAL INTELLIGENCE AI 12X18 MOVIE POSTER PHOTO BAS</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-limits-why-ai-cannot-instantly-build-more-chips-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.com</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-limits-why-ai-cannot-instantly-build-more-chips-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-limits-why-ai-cannot-instantly-build-more-chips-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. ARTIFICIAL INTELLIGENCE Original One Sheet Movie Poster - 2001 - SPIELBERG"><img src="{{ '/assets/images/marketplace-covers/196ffedb43a9555ec05d.jpg' | relative_url }}" alt="Listing image for A.I. ARTIFICIAL INTELLIGENCE Original One Sheet Movie Poster - 2001 - SPIELBERG" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-limits-why-ai-cannot-instantly-build-more-chips-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A.I. ARTIFICIAL INTELLIGENCE Original One Sheet Movie Poster - 2001 - SPIELBERG</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-limits-why-ai-cannot-instantly-build-more-chips-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.com</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-limits-why-ai-cannot-instantly-build-more-chips-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-limits-why-ai-cannot-instantly-build-more-chips-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Companion - Artificial Intelligence Dark Comedy Cinema Film - POSTER 20&quot;x30&quot;"><img src="{{ '/assets/images/marketplace-covers/23a7b1724046ba6c1026.jpg' | relative_url }}" alt="Listing image for Companion - Artificial Intelligence Dark Comedy Cinema Film - POSTER 20&quot;x30&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-limits-why-ai-cannot-instantly-build-more-chips-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Companion - Artificial Intelligence Dark Comedy Cinema Film - POSTER 20&quot;x30&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-limits-why-ai-cannot-instantly-build-more-chips-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.com</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-limits-why-ai-cannot-instantly-build-more-chips-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-limits-why-ai-cannot-instantly-build-more-chips-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-limits-why-ai-cannot-instantly-build-more-chips-ai-doom-and-data-center-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Server Room Data Centre Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/11c8920107b0c05920bf.jpg' | relative_url }}" alt="Listing image for Server Room Data Centre Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-limits-why-ai-cannot-instantly-build-more-chips-ai-doom-and-data-center-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Server Room Data Centre Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-limits-why-ai-cannot-instantly-build-more-chips-ai-doom-and-data-center-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for data center wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: data center wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-limits-why-ai-cannot-instantly-build-more-chips-ai-doom-and-data-center-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ai-cannot-instantly-build-more-chips-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="why-ai-cannot-instantly-build-more-chips-artificial-intelligence-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -588,15 +513,15 @@ These factors create friction that pure software models of recursive self-improv
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-limits-why-ai-cannot-instantly-build-more-chips-ai-doom-and-data-center-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Man Using Tablet In Data Center 2 A Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4ad2d1c09e0ab0875a3b.jpg' | relative_url }}" alt="Listing image for Man Using Tablet In Data Center 2 A Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ai-cannot-instantly-build-more-chips-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="why-ai-cannot-instantly-build-more-chips-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A. I. Artificial Intelligence. Jude Law. Original UK Video Poster."><img src="https://i.ebayimg.com/images/g/N0MAAOSwDl9nk64N/s-l225.jpg" alt="Listing image for A. I. Artificial Intelligence. Jude Law. Original UK Video Poster." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-limits-why-ai-cannot-instantly-build-more-chips-ai-doom-and-data-center-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Man Using Tablet In Data Center 2 A Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ai-cannot-instantly-build-more-chips-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="why-ai-cannot-instantly-build-more-chips-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">A. I. Artificial Intelligence. Jude Law. Original UK Video Poster.</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-limits-why-ai-cannot-instantly-build-more-chips-ai-doom-and-data-center-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for data center wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: data center wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ai-cannot-instantly-build-more-chips-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="why-ai-cannot-instantly-build-more-chips-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-limits-why-ai-cannot-instantly-build-more-chips-ai-doom-and-data-center-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ai-cannot-instantly-build-more-chips-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="why-ai-cannot-instantly-build-more-chips-artificial-intelligence-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -604,15 +529,15 @@ These factors create friction that pure software models of recursive self-improv
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-limits-why-ai-cannot-instantly-build-more-chips-ai-doom-and-data-center-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for An Advanced Futuristic Data Center Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7381fd3d6e5066fdf966.jpg' | relative_url }}" alt="Listing image for An Advanced Futuristic Data Center Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ai-cannot-instantly-build-more-chips-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="why-ai-cannot-instantly-build-more-chips-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster"><img src="https://i.ebayimg.com/images/g/2yEAAeSwlVtouaG1/s-l225.jpg" alt="Listing image for A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-limits-why-ai-cannot-instantly-build-more-chips-ai-doom-and-data-center-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">An Advanced Futuristic Data Center Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ai-cannot-instantly-build-more-chips-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="why-ai-cannot-instantly-build-more-chips-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-limits-why-ai-cannot-instantly-build-more-chips-ai-doom-and-data-center-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for data center wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: data center wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ai-cannot-instantly-build-more-chips-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="why-ai-cannot-instantly-build-more-chips-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-limits-why-ai-cannot-instantly-build-more-chips-ai-doom-and-data-center-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ai-cannot-instantly-build-more-chips-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="why-ai-cannot-instantly-build-more-chips-artificial-intelligence-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -620,15 +545,15 @@ These factors create friction that pure software models of recursive self-improv
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-limits-why-ai-cannot-instantly-build-more-chips-ai-doom-and-data-center-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for An Advanced Futuristic Data Center Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/8d9c7ec50bda9f88905f.jpg' | relative_url }}" alt="Listing image for An Advanced Futuristic Data Center Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ai-cannot-instantly-build-more-chips-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="why-ai-cannot-instantly-build-more-chips-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. Artificial Intelligence Film Poster/Print A3/A4/A5 230gsm Framed"><img src="https://i.ebayimg.com/images/g/FxgAAeSwbvFo3ltn/s-l225.jpg" alt="Listing image for A.I. Artificial Intelligence Film Poster/Print A3/A4/A5 230gsm Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-limits-why-ai-cannot-instantly-build-more-chips-ai-doom-and-data-center-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">An Advanced Futuristic Data Center Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ai-cannot-instantly-build-more-chips-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="why-ai-cannot-instantly-build-more-chips-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">A.I. Artificial Intelligence Film Poster/Print A3/A4/A5 230gsm Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-limits-why-ai-cannot-instantly-build-more-chips-ai-doom-and-data-center-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for data center wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: data center wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ai-cannot-instantly-build-more-chips-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="why-ai-cannot-instantly-build-more-chips-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-limits-why-ai-cannot-instantly-build-more-chips-ai-doom-and-data-center-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ai-cannot-instantly-build-more-chips-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="why-ai-cannot-instantly-build-more-chips-artificial-intelligence-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -636,7 +561,7 @@ These factors create friction that pure software models of recursive self-improv
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-limits-why-ai-cannot-instantly-build-more-chips-ai-doom-and-data-center-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ai-cannot-instantly-build-more-chips-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="why-ai-cannot-instantly-build-more-chips-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -713,17 +638,31 @@ These factors create friction that pure software models of recursive self-improv
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -736,42 +675,73 @@ These factors create friction that pure software models of recursive self-improv
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -786,147 +756,151 @@ These factors create friction that pure software models of recursive self-improv
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: arxiv.org  
    Title: arXiv Will Compute Bottlenecks Prevent an Intelligence Explosion?  
-   Link: [https://arxiv.org/abs/2507.23181](https://arxiv.org/abs/2507.23181)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivWill Compute Bottlenecks Prevent an Intelligence Explosion?July 31, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2507.23181" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2507.23181</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Will Compute Bottlenecks Prevent an Intelligence Explosion?July 31, 2025...</p></details>
    Published: July 31, 2025  
 
 2. <a id="endnote-2"></a>
    Source: enverus.com  
-   Link: [https://www.enverus.com/blog/scarce-machines-infinite-demand-asml-and-the-limits-of-the-ai-buildout-report/](https://www.enverus.com/blog/scarce-machines-infinite-demand-asml-and-the-limits-of-the-ai-buildout-report/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EnverusAI&#x27;s Future: ASML EUV Lithography ChallengesLearn how ASML EUV lithography shapes the AI boom, constraining chip production while...</p></details>
+   Link: <a href="https://www.enverus.com/blog/scarce-machines-infinite-demand-asml-and-the-limits-of-the-ai-buildout-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.enverus.com/blog/scarce-machines-infinite-demand-asml-and-the-limits-of-the-ai-buildout-report/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI&#x27;s Future: ASML EUV Lithography ChallengesLearn how ASML EUV lithography shapes the AI boom, constraining chip production while...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: vaasblock.com  
-   Link: [https://www.vaasblock.com/news/semiconductor-supply-chain-tsmc-chips-act-ai-demand-2026/](https://www.vaasblock.com/news/semiconductor-supply-chain-tsmc-chips-act-ai-demand-2026/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>VaaSBlockThe AI Compute Race Has Exposed the Semiconductor...Yesterday — 1 day ago — At 3 nanometre and 2 nanometre nodes — where the mo...</p></details>
+   Link: <a href="https://www.vaasblock.com/news/semiconductor-supply-chain-tsmc-chips-act-ai-demand-2026/" target="_blank" rel="noopener noreferrer nofollow">https://www.vaasblock.com/news/semiconductor-supply-chain-tsmc-chips-act-ai-demand-2026/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The AI Compute Race Has Exposed the Semiconductor...Yesterday — 1 day ago — At 3 nanometre and 2 nanometre nodes — where the mo...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: asml.com  
-   Link: [https://www.asml.com/](https://www.asml.com/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ASML | The world&#x27;s supplier to the semiconductor industryASML gives the world&#x27;s leading chipmakers the power to mass produce patterns on...</p></details>
+   Link: <a href="https://www.asml.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.asml.com/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The world&#x27;s supplier to the semiconductor industryASML gives the world&#x27;s leading chipmakers the power to mass produce patterns on...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/world/asia-pacific/asml-plots-future-chipmaking-tools-ai-beyond-euv-2026-03-02/](https://www.reuters.com/world/asia-pacific/asml-plots-future-chipmaking-tools-ai-beyond-euv-2026-03-02/)  
+   Link: <a href="https://www.reuters.com/world/asia-pacific/asml-plots-future-chipmaking-tools-ai-beyond-euv-2026-03-02/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/asia-pacific/asml-plots-future-chipmaking-tools-ai-beyond-euv-2026-03-02/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The company, which supplies critical tools for manufacturing advanced chips used by TSMC and Intel, has invested billions in EUV systems...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: epoch.ai  
    Title: introducing the ai chip components explorer  
-   Link: [https://epoch.ai/latest/introducing-the-ai-chip-components-explorer](https://epoch.ai/latest/introducing-the-ai-chip-components-explorer)  
+   Link: <a href="https://epoch.ai/latest/introducing-the-ai-chip-components-explorer" target="_blank" rel="noopener noreferrer nofollow">https://epoch.ai/latest/introducing-the-ai-chip-components-explorer</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Chip Supply Chain Bottlenecks and Capacity8 May 2026 — Advanced packaging constrained AI chip production in late 2024, followed by HBM...</p></details>
    Published: May 2026  
 
 7. <a id="endnote-7"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40adnanmasood/semiconductors-in-2026-the-ai-driven-upswing-meets-structural-bottlenecks-3568b004905b](https://medium.com/%40adnanmasood/semiconductors-in-2026-the-ai-driven-upswing-meets-structural-bottlenecks-3568b004905b)  
+   Link: <a href="https://medium.com/%40adnanmasood/semiconductors-in-2026-the-ai-driven-upswing-meets-structural-bottlenecks-3568b004905b" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40adnanmasood/semiconductors-in-2026-the-ai-driven-upswing-meets-structural-bottlenecks-3568b004905b</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Semiconductors in 2026: The AI‑Driven Upswing Meets...However, this AI boom has strained supply chains: production of advanced AI GPUs i...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/world/asia-pacific/samsung-electronics-ships-hbm4e-chip-samples-global-customers-2026-05-28/](https://www.reuters.com/world/asia-pacific/samsung-electronics-ships-hbm4e-chip-samples-global-customers-2026-05-28/)  
+   Link: <a href="https://www.reuters.com/world/asia-pacific/samsung-electronics-ships-hbm4e-chip-samples-global-customers-2026-05-28/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/asia-pacific/samsung-electronics-ships-hbm4e-chip-samples-global-customers-2026-05-28/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>These chips, over 20% faster than their predecessors, utilize Samsung’s latest 1c DRAM process and 4-nanometer foundry logic base die. Th...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/business/retail-consumer/energy-use-forcing-rethink-ai-chip-design-tsmc-says-2026-05-28/](https://www.reuters.com/business/retail-consumer/energy-use-forcing-rethink-ai-chip-design-tsmc-says-2026-05-28/)  
+   Link: <a href="https://www.reuters.com/business/retail-consumer/energy-use-forcing-rethink-ai-chip-design-tsmc-says-2026-05-28/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/retail-consumer/energy-use-forcing-rethink-ai-chip-design-tsmc-says-2026-05-28/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kevin Zhang, TSMC’s Senior VP of Business Development, noted that customers — including those in mobile, IoT, and high-performance AI dat...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40Elongated_musk/cowos-not-hbm-is-the-real-ai-supply-bottleneck-d0ae8f3f7ce4](https://medium.com/%40Elongated_musk/cowos-not-hbm-is-the-real-ai-supply-bottleneck-d0ae8f3f7ce4)  
+   Link: <a href="https://medium.com/%40Elongated_musk/cowos-not-hbm-is-the-real-ai-supply-bottleneck-d0ae8f3f7ce4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40Elongated_musk/cowos-not-hbm-is-the-real-ai-supply-bottleneck-d0ae8f3f7ce4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CoWoS, Not HBM, Is the Real AI Supply BottleneckCoWoS solves the physical problem that modern AI accelerators create: the compute die mus...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40theserverguru42/hbm-what-it-is-and-why-it-matters-in-the-modern-world-of-ai-2bc31effc81a](https://medium.com/%40theserverguru42/hbm-what-it-is-and-why-it-matters-in-the-modern-world-of-ai-2bc31effc81a)  
+   Link: <a href="https://medium.com/%40theserverguru42/hbm-what-it-is-and-why-it-matters-in-the-modern-world-of-ai-2bc31effc81a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40theserverguru42/hbm-what-it-is-and-why-it-matters-in-the-modern-world-of-ai-2bc31effc81a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HBM: What It Is and Why It Matters in the Modern World of AIHBM&#x27;s high bandwidth allows for quicker data feeding into the processing unit...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: midasanalytics.ai  
-   Link: [https://midasanalytics.ai/market-pulse/ai-expansion-bottleneck-semiconductor-supply-chain-not-just-chips-299](https://midasanalytics.ai/market-pulse/ai-expansion-bottleneck-semiconductor-supply-chain-not-just-chips-299)  
+   Link: <a href="https://midasanalytics.ai/market-pulse/ai-expansion-bottleneck-semiconductor-supply-chain-not-just-chips-299" target="_blank" rel="noopener noreferrer nofollow">https://midasanalytics.ai/market-pulse/ai-expansion-bottleneck-semiconductor-supply-chain-not-just-chips-299</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Expansion Bottleneck: Semiconductor Supply Chain...17 Mar 2026 — ASML, the Dutch manufacturer of EUV (extreme ultraviolet) lithograph...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: hbm.com  
-   Link: [https://www.hbm.com/en/2166/solutions/](https://www.hbm.com/en/2166/solutions/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HBMSince 1950, HBM (renamed HBK in 2020) has been a leader in precise and reliable test and measurement products. With branches in 30 cou...</p></details>
+   Link: <a href="https://www.hbm.com/en/2166/solutions/" target="_blank" rel="noopener noreferrer nofollow">https://www.hbm.com/en/2166/solutions/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Since 1950, HBM (renamed HBK in 2020) has been a leader in precise and reliable test and measurement products. With branches in 30 cou...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: tomshardware.com  
-   Link: [https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-places-record-8-billion-order-for-asml-euv-lithography-machines](https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-places-record-8-billion-order-for-asml-euv-lithography-machines)  
+   Link: <a href="https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-places-record-8-billion-order-for-asml-euv-lithography-machines" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-places-record-8-billion-order-for-asml-euv-lithography-machines</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The agreement spans through December 2027 and is expected to secure up to 30 EUV machines, which will be used to expand SK hynix&#x27;s capabi...</p></details>
    Published: December 2027  
 
 15. <a id="endnote-15"></a>
    Source: uk.finance.yahoo.com  
-   Link: [https://uk.finance.yahoo.com/quote/HBM/](https://uk.finance.yahoo.com/quote/HBM/)  
+   Link: <a href="https://uk.finance.yahoo.com/quote/HBM/" target="_blank" rel="noopener noreferrer nofollow">https://uk.finance.yahoo.com/quote/HBM/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(HBM) stock price, news, quote and...Hudbay Minerals Inc., a diversified mining company, focuses on the exploration, development, operat...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DYwDRgqukA-/](https://www.instagram.com/p/DYwDRgqukA-/)  
+   Link: <a href="https://www.instagram.com/p/DYwDRgqukA-/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYwDRgqukA-/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A $400 million machine is about to change chip...EUV machines use extremely short wavelengths of light to print incredibly small transis...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/robertquinn2020_semiconductor-aiinfrastructure-supplychain-activity-7434387073744125952-eEyy](https://www.linkedin.com/posts/robertquinn2020_semiconductor-aiinfrastructure-supplychain-activity-7434387073744125952-eEyy)  
+   Link: <a href="https://www.linkedin.com/posts/robertquinn2020_semiconductor-aiinfrastructure-supplychain-activity-7434387073744125952-eEyy" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/robertquinn2020_semiconductor-aiinfrastructure-supplychain-activity-7434387073744125952-eEyy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ASML&#x27;s Lithography &amp; Packaging Dominance in AIBy combining EUV dominance with next-generation packaging, ASML is shaping how AI chips are...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DW4foCYCENP/?hl=en](https://www.instagram.com/reel/DW4foCYCENP/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DW4foCYCENP/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DW4foCYCENP/?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CNBC on Instagram: &quot;An underappreciated step in the...AI models require advanced semiconductors produced exclusively through layers like...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: micron.com  
-   Link: [https://www.micron.com/products/memory/hbm](https://www.micron.com/products/memory/hbm)  
+   Link: <a href="https://www.micron.com/products/memory/hbm" target="_blank" rel="noopener noreferrer nofollow">https://www.micron.com/products/memory/hbm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Micron TechnologyHigh-bandwidth memory (HBM)Explore Micron&#x27;s portfolio of high-bandwidth memory (HBM) products designed to accelerate nex...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: markets.financialcontent.com  
-   Link: [https://markets.financialcontent.com/stocks/article/tokenring-2025-11-7-the-indispensable-core-why-tsmc-alone-powers-the-next-wave-of-ai-innovation](https://markets.financialcontent.com/stocks/article/tokenring-2025-11-7-the-indispensable-core-why-tsmc-alone-powers-the-next-wave-of-ai-innovation)  
+   Link: <a href="https://markets.financialcontent.com/stocks/article/tokenring-2025-11-7-the-indispensable-core-why-tsmc-alone-powers-the-next-wave-of-ai-innovation" target="_blank" rel="noopener noreferrer nofollow">https://markets.financialcontent.com/stocks/article/tokenring-2025-11-7-the-indispensable-core-why-tsmc-alone-powers-the-next-wave-of-ai-innovation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TSMC Alone Powers the Next Wave of AI Innovation7 Nov 2025 — The company is also proactively utilizing AI to design more energy-efficient...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/ali-kamaly_semiconductors-asml-euv-activity-7431721042160672769-u8iM](https://www.linkedin.com/posts/ali-kamaly_semiconductors-asml-euv-activity-7431721042160672769-u8iM)  
+   Link: <a href="https://www.linkedin.com/posts/ali-kamaly_semiconductors-asml-euv-activity-7431721042160672769-u8iM" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/ali-kamaly_semiconductors-asml-euv-activity-7431721042160672769-u8iM</a>  
 
 22. <a id="endnote-22"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/slatestarcodex/comments/1rtavgc/an_ai_skeptics_case_for_recursive_selfimprovement/](https://www.reddit.com/r/slatestarcodex/comments/1rtavgc/an_ai_skeptics_case_for_recursive_selfimprovement/)  
+   Link: <a href="https://www.reddit.com/r/slatestarcodex/comments/1rtavgc/an_ai_skeptics_case_for_recursive_selfimprovement/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/slatestarcodex/comments/1rtavgc/an_ai_skeptics_case_for_recursive_selfimprovement/</a>  
 
 23. <a id="endnote-23"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/erhaneren_most-people-still-think-ai-bottlenecks-are-activity-7427388474426642432-9SDc](https://www.linkedin.com/posts/erhaneren_most-people-still-think-ai-bottlenecks-are-activity-7427388474426642432-9SDc)  
+   Link: <a href="https://www.linkedin.com/posts/erhaneren_most-people-still-think-ai-bottlenecks-are-activity-7427388474426642432-9SDc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/erhaneren_most-people-still-think-ai-bottlenecks-are-activity-7427388474426642432-9SDc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Bottlenecks Shift from GPUs to Memory and PackagingWhat doesn&#x27;t exist at scale is: - High-Bandwidth Memory - Advanced packaging capaci...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: info.fusionww.com  
    Title: inside the ai bottleneck cowos hbm and 2 3nm capacity constraints through 2027  
-   Link: [https://info.fusionww.com/blog/inside-the-ai-bottleneck-cowos-hbm-and-2-3nm-capacity-constraints-through-2027](https://info.fusionww.com/blog/inside-the-ai-bottleneck-cowos-hbm-and-2-3nm-capacity-constraints-through-2027)  
+   Link: <a href="https://info.fusionww.com/blog/inside-the-ai-bottleneck-cowos-hbm-and-2-3nm-capacity-constraints-through-2027" target="_blank" rel="noopener noreferrer nofollow">https://info.fusionww.com/blog/inside-the-ai-bottleneck-cowos-hbm-and-2-3nm-capacity-constraints-through-2027</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the AI Bottleneck: CoWoS, HBM, and 2–3nm...Dec 4, 2025 — Discover why CoWoS packaging, HBM supply, and 3nm wafer capacity are fal...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: The AI Intelligence Explosion: Why Recursive Self-Improvement Changes Everything  
-   Link: [https://www.youtube.com/watch?v=xRQQFCWhobc](https://www.youtube.com/watch?v=xRQQFCWhobc)  
+   Link: <a href="https://www.youtube.com/watch?v=xRQQFCWhobc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xRQQFCWhobc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How AI Is Pushing the Semiconductor Supply Chain to the Limit | Bloomberg Primer explains the physical limitations and structural constra...</p></details>

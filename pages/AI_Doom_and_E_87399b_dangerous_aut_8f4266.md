@@ -19,19 +19,19 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_p_doom_estima_72d1f2
 - AI_Doom_and_E_87399b_recursive_imp_3a3504
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - autonomy
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - autonomy
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: AI agents become more worrying when they can complete longer real-world tasks without constant human correction.
 hero_summary: AI agents become more worrying when they can complete longer real-world tasks without constant human correction.
 layout: default
 permalink: /autonomy/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 nav_short_title: Autonomy
 title: When Does AI Autonomy Become Dangerous?
 title_full: When Does AI Autonomy Become Dangerous? | AI Doom
@@ -211,61 +211,61 @@ ui_strings:
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 11:10:16'
 parent_title: AI Doom
-parent_permalink: /ai-doom-and/
+parent_permalink: /ai-doom-and-e-87399-b/
 parent_nav_short_title: AI Doom
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 sibling_links:
 - basename: AI_Doom_and_E_87399b_recursive_imp_3a3504
-  title: AI Takeoff | AI Doom and
+  title: AI Takeoff | AI Doom and E 87399 b
   permalink: /ai-takeoff/
   short_title: AI Takeoff
   heading_title: Could AI Improvement Run Away From US?
 - basename: AI_Doom_and_E_87399b_interpretabil_15527d
-  title: Control Tools | AI Doom and
+  title: Control Tools | AI Doom and E 87399 b
   permalink: /control-tools/
   short_title: Control Tools
   heading_title: Can We Make Advanced AI Understandable?
 - basename: AI_Doom_and_E_87399b_frontier_ai_e_9920ab
-  title: Evals | AI Doom and
+  title: Evals | AI Doom and E 87399 b
   permalink: /evals/
   short_title: Evals
   heading_title: Can Tests Catch Dangerous AI in Time?
 - basename: AI_Doom_and_E_87399b_compute_gover_1ee8fc
-  title: Governance | AI Doom and
+  title: Governance | AI Doom and E 87399 b
   permalink: /governance/
   short_title: Governance
   heading_title: What Rules Could Reduce AI Doom Risk?
 - basename: AI_Doom_and_E_87399b_loss_of_contr_19a113
-  title: Loss of Control | AI Doom and
+  title: Loss of Control | AI Doom and E 87399 b
   permalink: /loss-of-control/
   short_title: Loss of Control
   heading_title: How Could Humans Lose Control of AI?
 - basename: AI_Doom_and_E_87399b_catastrophic_c92548
-  title: Misuse | AI Doom and
+  title: Misuse | AI Doom and E 87399 b
   permalink: /misuse/
   short_title: Misuse
   heading_title: How Could People Misuse Advanced AI?
 - basename: AI_Doom_and_E_87399b_p_doom_estima_72d1f2
-  title: P Doom | AI Doom and
+  title: P Doom | AI Doom and E 87399 b
   permalink: /p-doom/
   short_title: P Doom
   heading_title: What Does p(doom) Really Mean?
 - basename: AI_Doom_and_E_87399b_ai_race_dynam_a5d049
-  title: Race Pressure | AI Doom and
+  title: Race Pressure | AI Doom and E 87399 b
   permalink: /race-pressure/
   short_title: Race Pressure
   heading_title: Why AI Races Can Make Safety Harder
 - basename: AI_Doom_and_E_87399b_deceptive_ali_f9f449
-  title: Scheming Tests | AI Doom and
+  title: Scheming Tests | AI Doom and E 87399 b
   permalink: /scheming-tests/
   short_title: Scheming Tests
   heading_title: Can AI Pretend to Be Aligned?
@@ -293,17 +293,17 @@ child_links:
 up_link:
   basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 prev_link:
   basename: AI_Doom_and_E_87399b_recursive_imp_3a3504
-  title: AI Takeoff | AI Doom and
+  title: AI Takeoff | AI Doom and E 87399 b
   permalink: /ai-takeoff/
   short_title: AI Takeoff
   heading_title: Could AI Improvement Run Away From US?
 next_link:
   basename: AI_Doom_and_E_87399b_interpretabil_15527d
-  title: Control Tools | AI Doom and
+  title: Control Tools | AI Doom and E 87399 b
   permalink: /control-tools/
   short_title: Control Tools
   heading_title: Can We Make Advanced AI Understandable?
@@ -315,34 +315,34 @@ image: /assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266-overview-social.
 
 ## Introduction
 
-In debates about **[AI doom and]({{ 'ai-doom-and/' | relative_url }}) existential risk from advanced AI systems**, one of the most discussed technical milestones is when artificial intelligence shifts from being a tool that responds to individual prompts to becoming **autonomous agents able to plan, act, and persist over long sequences of tasks without constant [human oversight]({{ 'human-oversight/' | relative_url }})**. This change isn’t just semantic: longer task horizons mark a transition point where AI systems begin operating more like independent planners than reactive assistants, and it’s this kind of autonomy that underpins many **loss‑of‑control** scenarios in existential risk arguments. Evidence to date suggests current systems still struggle with sustained autonomy, but both lab benchmarks and theoretical work show task horizons lengthening rapidly and new risks emerging as autonomy increases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internationalaisafetyreport.org">[International AI Safety Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internationalaisafetyreport.org</span><span class="citation-popover-title">international ai safety report 2026</span><span class="citation-popover-snippet">International AI Safety ReportInternational AI Safety Report 2026 | International AI Safety ReportFebruary 3, 2026...</span><span class="citation-popover-meta">Published: February 3, 2026</span></span></span>
+In debates about **AI doom and existential risk from advanced AI systems**, one of the most discussed technical milestones is when artificial intelligence shifts from being a tool that responds to individual prompts to becoming **autonomous agents able to plan, act, and persist over long sequences of tasks without constant [human oversight]({{ 'human-oversight/' | relative_url }})**. This change isn’t just semantic: longer task horizons mark a transition point where AI systems begin operating more like [independent]({{ 'red-teaming/' | relative_url }}) planners than reactive assistants, and it’s this kind of autonomy that underpins many **loss‑of‑control** scenarios in existential risk arguments. Evidence to date suggests current systems still struggle with sustained autonomy, but both lab benchmarks and theoretical work show task horizons lengthening rapidly and new risks emerging as autonomy increases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internationalaisafetyreport.org">[International AI Safety Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internationalaisafetyreport.org</span><span class="citation-popover-title">international ai safety report 2026</span><span class="citation-popover-snippet">International AI Safety ReportInternational AI Safety Report 2026 &#124; International AI Safety ReportFebruary 3, 2026...</span><span class="citation-popover-meta">Published: February 3, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266-overview.webp" | relative_url }}" alt="Overview image for Autonomy" loading="eager" decoding="sync" fetchpriority="high">
 ## What “Task Autonomy” and “Longer Horizons” Mean in Practice
 
-At a basic level, **autonomy** in AI refers to how much an AI system can act towards a goal without needing step‑by‑step instructions or [oversight]({{ 'oversight-evasion/' | relative_url }}) from a human. Short‑horizon task autonomy might involve an AI summarising a document or drafting an email after a prompt. **Longer task horizons** involve planning, managing intermediate goals, handling unexpected obstacles, and persisting until a complex outcome is achieved — more akin to running a small project end‑to‑end. <span class="citation-chip-wrap"><a class="citation-chip" href="https://multi-step-agents.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: multi-step-agents.com">[ATLAS by Eigenvector Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">multi-step-agents.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+At a basic level, **autonomy** in AI refers to how much an AI system can act towards a goal without needing step‑by‑step instructions or oversight from a human. Short‑horizon task autonomy might involve an AI summarising a document or drafting an email after a prompt. **Longer task horizons** involve planning, managing intermediate goals, handling unexpected obstacles, and persisting until a complex outcome is achieved — more akin to running a small project end‑to‑end. <span class="citation-chip-wrap"><a class="citation-chip" href="https://multi-step-agents.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: multi-step-agents.com">[ATLAS by Eigenvector Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">multi-step-agents.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 In research on autonomous agents, this is often framed as **multi‑step workflows**: sequences of actions where earlier steps feed into later ones, and the system must adapt when things don’t go exactly to plan. Projects exploring **long‑horizon agents** are beginning to define benchmarks and frameworks for evaluating whether systems can handle 100+ step workflows with minimal human intervention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://multi-step-agents.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: multi-step-agents.com">[ATLAS by Eigenvector Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">multi-step-agents.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-From a safety perspective, the meaningful threshold isn’t merely the number of steps, but whether the agent can **self‑correct, retain relevant information, and pursue a plan without external resets or persistent supervision**, qualities that are prerequisites for many loss‑of‑control risk scenarios posited by doom arguments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internationalaisafetyreport.org">[International AI Safety Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internationalaisafetyreport.org</span><span class="citation-popover-title">international ai safety report 2026</span><span class="citation-popover-snippet">International AI Safety ReportInternational AI Safety Report 2026 | International AI Safety ReportFebruary 3, 2026...</span><span class="citation-popover-meta">Published: February 3, 2026</span></span></span>
+From a safety perspective, the meaningful threshold isn’t merely the number of steps, but whether the agent can **self‑correct, retain relevant information, and pursue a plan without external resets or persistent supervision**, qualities that are prerequisites for many loss‑of‑control risk scenarios posited by doom arguments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internationalaisafetyreport.org">[International AI Safety Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internationalaisafetyreport.org</span><span class="citation-popover-title">international ai safety report 2026</span><span class="citation-popover-snippet">International AI Safety ReportInternational AI Safety Report 2026 &#124; International AI Safety ReportFebruary 3, 2026...</span><span class="citation-popover-meta">Published: February 3, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266-Illustration-1-dark.svg" | relative_url }}" alt="Autonomy illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Longer Horizons Matter for Risk Debates
 
-The connection between longer task horizons and existential risk arguments hinges on **persistence and goal‑directedness**. In typical AI safety scenarios, [catastrophic]({{ 'misuse/' | relative_url }}) or existential risks arise when an AI system doesn’t just respond to a short prompt but **autonomously pursues a goal that interacts with the real world over extended periods**, with potential consequences that cannot be easily interrupted or corrected. For example, an agent that autonomously optimises complex economic or infrastructure goals could, in theory, accumulate power or incentives misaligned with human values. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s43681-025-00928-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">SpringerAI going rogue? An integrative narrative review of the tacit assumptions underlying existential AI-risks | AI and Ethics | Spring...</span></span></span>
+The connection between longer task horizons and existential risk arguments hinges on **persistence and goal‑directedness**. In typical AI safety scenarios, [catastrophic]({{ 'misuse/' | relative_url }}) or existential risks arise when an AI system doesn’t just respond to a short prompt but **autonomously pursues a goal that interacts with the real world over extended periods**, with potential consequences that cannot be easily interrupted or corrected. For example, an agent that autonomously optimises complex economic or infrastructure goals could, in theory, accumulate power or incentives misaligned with human values. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s43681-025-00928-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">AI going rogue? An integrative narrative review of the tacit assumptions underlying existential AI-risks &#124; AI and Ethics &#124; Spring...</span></span></span>
 
-Formal safety and risk reports note that **loss‑of‑control scenarios often require sustained autonomous operation**, not fleeting bursts of agency. According to the *International AI Safety Report 2026*, current agents “lack the capacity for the sustained autonomous operation required by [loss of control]({{ 'loss-of-control/' | relative_url }}) scenarios,” even as **time horizons over which they can operate are rapidly increasing**. This suggests a key uncertainty in existential risk forecasts: whether increasingly capable agents will reach levels of robust autonomy before adequate control methods are developed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internationalaisafetyreport.org">[International AI Safety Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internationalaisafetyreport.org</span><span class="citation-popover-title">international ai safety report 2026</span><span class="citation-popover-snippet">International AI Safety ReportInternational AI Safety Report 2026 | International AI Safety ReportFebruary 3, 2026...</span><span class="citation-popover-meta">Published: February 3, 2026</span></span></span>
+Formal safety and risk reports note that **loss‑of‑control scenarios often require sustained autonomous operation**, not fleeting bursts of agency. According to the *International AI Safety Report 2026*, current agents “lack the capacity for the sustained autonomous operation required by [loss of control]({{ 'loss-of-control/' | relative_url }}) scenarios,” even as **time horizons over which they can operate are rapidly increasing**. This suggests a key [uncertainty]({{ 'uncertainty/' | relative_url }}) in existential risk forecasts: whether increasingly capable agents will reach levels of robust autonomy before adequate control methods are developed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internationalaisafetyreport.org">[International AI Safety Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internationalaisafetyreport.org</span><span class="citation-popover-title">international ai safety report 2026</span><span class="citation-popover-snippet">International AI Safety ReportInternational AI Safety Report 2026 &#124; International AI Safety ReportFebruary 3, 2026...</span><span class="citation-popover-meta">Published: February 3, 2026</span></span></span>
 
-From a technical standpoint, increasing horizon length amplifies known alignment challenges such as **specification gaming**, **reward hacking**, and **[deceptive]({{ 'scheming-tests/' | relative_url }}) behaviour**, because errors early in a long chain can compound and because the agent’s internal world model may make decisions that diverge from human intentions when seeking to achieve long‑term goals. Safety literature highlights how **misalignment risk manifests operationally as hazardous behaviour under long‑horizon autonomy and limited supervision**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2227-7390/14/9/1478" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">Understanding AI Agents—A Data-Driven Literature Review</span><span class="citation-popover-snippet">MDPIUnderstanding AI Agents—A Data-Driven Literature Review...</span></span></span>
+From a technical standpoint, increasing horizon length amplifies known alignment challenges such as **specification gaming**, **reward hacking**, and **deceptive behaviour**, because errors early in a long chain can compound and because the agent’s internal world model may make decisions that diverge from human intentions when seeking to achieve long‑term goals. Safety literature highlights how **misalignment risk manifests operationally as hazardous behaviour under long‑horizon autonomy and limited supervision**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2227-7390/14/9/1478" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">Understanding AI Agents—A Data-Driven Literature Review</span><span class="citation-popover-snippet">Understanding AI Agents—A Data-Driven Literature Review...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/reISMhbZ2XE" title="Building Better AI Agents: Observability and Evaluation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=reISMhbZ2XE" target="_blank" rel="noopener noreferrer">Building Better AI Agents: Observability and Evaluation</a></p><p class="youtube-embed-meta">Channel: LangChain &middot; Views: 7.2K &middot; Uploaded: February 2026 &middot; Length: 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=reISMhbZ2XE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=reISMhbZ2XE">Open on YouTube</a></p></div></div></div>
 
 ## Evidence From Current Research and Benchmarks
 
-Despite high‑profile demonstrations of autonomous AI agents in controlled contexts, empirical work shows that **real autonomy over extended tasks remains very limited**. The *International AI Safety Report 2026* points out that present systems still “reliably fail on longer tasks, lose track of their progress, and often cannot adapt to unexpected obstacles.” These failures indicate that current AI agents are not yet close to the kind of **persistent autonomy** central to existential risk scenarios. <span class="citation-chip-wrap"><a class="citation-chip" href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internationalaisafetyreport.org">[International AI Safety Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internationalaisafetyreport.org</span><span class="citation-popover-title">international ai safety report 2026</span><span class="citation-popover-snippet">International AI Safety ReportInternational AI Safety Report 2026 | International AI Safety ReportFebruary 3, 2026...</span><span class="citation-popover-meta">Published: February 3, 2026</span></span></span>
+Despite high‑profile demonstrations of autonomous AI agents in controlled contexts, empirical work shows that **real autonomy over extended tasks remains very limited**. The *International AI Safety Report 2026* points out that present systems still “reliably fail on longer tasks, lose track of their progress, and often cannot adapt to unexpected obstacles.” These failures indicate that current AI agents are not yet close to the kind of **persistent autonomy** central to existential risk scenarios. <span class="citation-chip-wrap"><a class="citation-chip" href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internationalaisafetyreport.org">[International AI Safety Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internationalaisafetyreport.org</span><span class="citation-popover-title">international ai safety report 2026</span><span class="citation-popover-snippet">International AI Safety ReportInternational AI Safety Report 2026 &#124; International AI Safety ReportFebruary 3, 2026...</span><span class="citation-popover-meta">Published: February 3, 2026</span></span></span>
 
 In academic work on autonomy‑induced risks, researchers observe that architectures enabling increased autonomy (e.g. memory retention, modular tool use, recursive planning) also introduce **novel security vulnerabilities**, including **deferred decision hazards** and **irreversible tool chains** that are not present in simple prompt–response models. These emergent properties matter because they make long‑horizon autonomy qualitatively different: the system isn’t just bigger, but structurally more capable of acting in ways where human oversight may be ineffective. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lifescience.net/publications/1994564/a-survey-on-autonomy-induced-security-risks-in-lar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lifescience.net">[Life Science Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lifescience.net</span><span class="citation-popover-snippet">Life Science NetworkA Survey on Autonomy-Induced Security Risks in Large Model-Based Agents.April 29, 2026...</span><span class="citation-popover-meta">Published: April 29, 2026</span></span></span>
 
@@ -352,20 +352,20 @@ Benchmarks and experimental frameworks are still nascent, and there is ongoing w
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266-Illustration-2-dark.svg" | relative_url }}" alt="Autonomy illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Limits and Ongoing Uncertainties
 
-A consistent theme in evidence is that current AI autonomy is fragile and context‑dependent. As practitioners building AI agents often report, robust autonomy is hard even for modest task horizons — systems may work well in demos but fail in real‑world settings without extensive human‑in‑the‑loop validation and fallback logic. This scepticism about practical autonomy suggests that **technical limitations may slow the path to agents capable of true long‑horizon independence**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/AI_Agents/comments/1sdamwe/are_we_overestimating_how_autonomous_agents/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Are we overestimating how “autonomous” agents actually are?</span><span class="citation-popover-snippet">RedditAre we overestimating how “autonomous” agents actually are?April 5, 2026...</span><span class="citation-popover-meta">Published: April 5, 2026</span></span></span>
+A consistent theme in evidence is that current AI autonomy is fragile and context‑dependent. As practitioners building AI agents often report, robust autonomy is hard even for modest task horizons — systems may work well in demos but fail in real‑world settings without extensive human‑in‑the‑loop validation and fallback logic. This scepticism about practical autonomy suggests that **technical limitations may slow the path to agents capable of true long‑horizon independence**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/AI_Agents/comments/1sdamwe/are_we_overestimating_how_autonomous_agents/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Are we overestimating how “autonomous” agents actually are?</span><span class="citation-popover-snippet">Are we overestimating how “autonomous” agents actually are?April 5, 2026...</span><span class="citation-popover-meta">Published: April 5, 2026</span></span></span>
 
-Moreover, governance and safety frameworks are struggling to keep pace with autonomy advancements. Enterprise reports warn that treating AI autonomy as binary (fully trusted vs fully restricted) leads to governance failures, and that careful tiered controls must accompany autonomy increases. While this is primarily an organisational issue today, it highlights broader societal challenges in **ensuring that long‑horizon autonomy doesn’t outpace oversight mechanisms**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.itpro.com/technology/[artificial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itpro.com">[IT Pro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itpro.com</span><span class="citation-popover-title">IT Pro&#x27;One-size-fits-all&#x27; agent governance sets enterprises up to fail</span><span class="citation-popover-snippet">The primary issue is the widespread application of a &quot;one-size-fits-all&quot; governance model that fails to distinguish between an agent&#x27;s au...</span></span></span>
+Moreover, [governance]({{ 'governance/' | relative_url }}) and safety frameworks are struggling to keep pace with autonomy advancements. Enterprise reports warn that treating AI autonomy as binary (fully trusted vs fully restricted) leads to governance failures, and that careful tiered controls must accompany autonomy increases. While this is primarily an organisational issue today, it highlights broader societal challenges in **ensuring that long‑horizon autonomy doesn’t outpace oversight mechanisms**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.itpro.com/technology/artificial-intelligence/one-size-fits-all-agent-governance-sets-enterprises-up-to-fail" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itpro.com">[IT Pro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itpro.com</span><span class="citation-popover-title">IT Pro&#x27;One-size-fits-all&#x27; agent governance sets enterprises up to fail</span><span class="citation-popover-snippet">The primary issue is the widespread application of a &quot;one-size-fits-all&quot; governance model that fails to distinguish between an agent&#x27;s au...</span></span></span>
 
-In risk debates, this uncertainty feeds two different interpretations: doom proponents see the rapid doubling of horizon capabilities as evidence that the technical leap to dangerous autonomy could happen quickly, while sceptics argue that persistent reliability, safe behaviour under long‑horizon planning, and economic pressures will constrain real autonomy before catastrophic thresholds are reached. <span class="citation-chip-wrap"><a class="citation-chip" href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internationalaisafetyreport.org">[International AI Safety Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internationalaisafetyreport.org</span><span class="citation-popover-title">international ai safety report 2026</span><span class="citation-popover-snippet">International AI Safety ReportInternational AI Safety Report 2026 | International AI Safety ReportFebruary 3, 2026...</span><span class="citation-popover-meta">Published: February 3, 2026</span></span></span>
+In risk debates, this uncertainty feeds two different interpretations: doom proponents see the rapid doubling of horizon capabilities as evidence that the technical leap to dangerous autonomy could happen quickly, while sceptics argue that persistent reliability, safe behaviour under long‑horizon planning, and economic pressures will constrain real autonomy before catastrophic thresholds are reached. <span class="citation-chip-wrap"><a class="citation-chip" href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internationalaisafetyreport.org">[International AI Safety Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internationalaisafetyreport.org</span><span class="citation-popover-title">international ai safety report 2026</span><span class="citation-popover-snippet">International AI Safety ReportInternational AI Safety Report 2026 &#124; International AI Safety ReportFebruary 3, 2026...</span><span class="citation-popover-meta">Published: February 3, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/j24HUyDUzo4" title="Beyond Chatbots: How Reinforcement Learning Powers Autonomous AI Agents" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=j24HUyDUzo4" target="_blank" rel="noopener noreferrer">Beyond Chatbots: How Reinforcement Learning Powers Autonomous AI Agents</a></p><p class="youtube-embed-meta">Channel: Snowflake Developers &middot; Views: 371 &middot; Uploaded: May 2026 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=j24HUyDUzo4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=j24HUyDUzo4">Open on YouTube</a></p></div></div></div>
 
 ## What This Means for Doom Arguments
 
-In the AI doom context, **autonomous agents with longer task horizons are a necessary condition for many loss‑of‑control scenarios**, but not a sufficient one on their own. Current evidence shows that while autonomy is advancing, systems are far from reliably pursuing multi‑year strategic goals or resisting shutdown. Nonetheless, the trend of lengthening task horizons — and the corresponding rise in emergent safety risks — is used by many existential risk advocates to argue that the **window for safe alignment work is shrinking**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internationalaisafetyreport.org">[International AI Safety Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internationalaisafetyreport.org</span><span class="citation-popover-title">international ai safety report 2026</span><span class="citation-popover-snippet">International AI Safety ReportInternational AI Safety Report 2026 | International AI Safety ReportFebruary 3, 2026...</span><span class="citation-popover-meta">Published: February 3, 2026</span></span></span>
+In the AI doom context, **autonomous agents with longer task horizons are a necessary condition for many loss‑of‑control scenarios**, but not a sufficient one on their own. Current evidence shows that while autonomy is advancing, systems are far from reliably pursuing multi‑year strategic goals or resisting shutdown. Nonetheless, the trend of lengthening task horizons — and the corresponding rise in emergent safety risks — is used by many existential risk advocates to argue that the **window for safe alignment work is shrinking**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internationalaisafetyreport.org">[International AI Safety Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internationalaisafetyreport.org</span><span class="citation-popover-title">international ai safety report 2026</span><span class="citation-popover-snippet">International AI Safety ReportInternational AI Safety Report 2026 &#124; International AI Safety ReportFebruary 3, 2026...</span><span class="citation-popover-meta">Published: February 3, 2026</span></span></span>
 
-At the same time, the fact that longer‑horizon autonomy remains difficult and brittle in practice offers a **counterweight to extreme predictions**: the gap between controlled demonstrations and unsupervised real‑world autonomy might persist until both safety methods and governance frameworks mature. For mainstream readers, the focus is not on sci‑fi visions of sentient agents, but on concrete milestones — such as when agents can autonomously complete significant workflows without human resets — and whether such milestones arrive before robust alignment and oversight systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2227-7390/14/9/1478" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">Understanding AI Agents—A Data-Driven Literature Review</span><span class="citation-popover-snippet">MDPIUnderstanding AI Agents—A Data-Driven Literature Review...</span></span></span>
+At the same time, the fact that longer‑horizon autonomy remains difficult and brittle in practice offers a **counterweight to extreme predictions**: the gap between controlled demonstrations and unsupervised real‑world autonomy might persist until both safety methods and governance frameworks mature. For mainstream readers, the focus is not on sci‑fi visions of sentient agents, but on concrete milestones — such as when agents can autonomously complete significant workflows without human resets — and whether such milestones arrive before robust alignment and oversight systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2227-7390/14/9/1478" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">Understanding AI Agents—A Data-Driven Literature Review</span><span class="citation-popover-snippet">Understanding AI Agents—A Data-Driven Literature Review...</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266-Illustration-3-dark.svg" | relative_url }}" alt="Autonomy illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -375,7 +375,7 @@ At the same time, the fact that longer‑horizon autonomy remains difficult and 
 * Current agents still struggle with sustained autonomy over extended sequences, even as research demonstrates rapid capability improvements.
 * Longer horizons matter for existential risk because many loss‑of‑control scenarios require systems that can plan, persist, and self‑correct, not just respond to individual prompts.
 * Empirical and academic evidence shows both progress and significant limitations: autonomy introduces new vulnerabilities and structural risks, but also remains brittle and context‑dependent.
-* This evidence supports both sides of the doom debate: rapid autonomy gains heighten concern about future risks, but current limitations and the need for robust safety infrastructure moderate forecasts about near‑term existential threats. <span class="citation-chip-wrap"><a class="citation-chip" href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internationalaisafetyreport.org">[International AI Safety Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internationalaisafetyreport.org</span><span class="citation-popover-title">international ai safety report 2026</span><span class="citation-popover-snippet">International AI Safety ReportInternational AI Safety Report 2026 | International AI Safety ReportFebruary 3, 2026...</span><span class="citation-popover-meta">Published: February 3, 2026</span></span></span>
+* This evidence supports both sides of the doom debate: rapid autonomy gains heighten concern about future risks, but current limitations and the need for robust safety infrastructure moderate forecasts about near‑term existential threats. <span class="citation-chip-wrap"><a class="citation-chip" href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internationalaisafetyreport.org">[International AI Safety Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internationalaisafetyreport.org</span><span class="citation-popover-title">international ai safety report 2026</span><span class="citation-popover-snippet">International AI Safety ReportInternational AI Safety Report 2026 &#124; International AI Safety ReportFebruary 3, 2026...</span><span class="citation-popover-meta">Published: February 3, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Gj0ODCQo7d0" title="CNCF On-Demand: Autonomous Agents on K8s – Durable Execution for AI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Gj0ODCQo7d0" target="_blank" rel="noopener noreferrer">CNCF On-Demand: Autonomous Agents on K8s – Durable Execution for AI</a></p><p class="youtube-embed-meta">Channel: CNCF [Cloud Native Computing Foundation] &middot; Views: 532 &middot; Uploaded: May 2026 &middot; Length: 45 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Gj0ODCQo7d0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Gj0ODCQo7d0">Open on YouTube</a></p></div></div></div>
@@ -803,132 +803,132 @@ At the same time, the fact that longer‑horizon autonomy remains difficult and 
 1. <a id="endnote-1"></a>
    Source: mdpi.com  
    Title: Understanding AI Agents—A Data-Driven Literature Review  
-   Link: [https://www.mdpi.com/2227-7390/14/9/1478](https://www.mdpi.com/2227-7390/14/9/1478)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MDPIUnderstanding AI Agents—A Data-Driven Literature Review...</p></details>
+   Link: <a href="https://www.mdpi.com/2227-7390/14/9/1478" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2227-7390/14/9/1478</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding AI Agents—A Data-Driven Literature Review...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s43681-025-00928-w](https://link.springer.com/article/10.1007/s43681-025-00928-w)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpringerAI going rogue? An integrative narrative review of the tacit assumptions underlying existential AI-risks | AI and Ethics | Spring...</p></details>
+   Link: <a href="https://link.springer.com/article/10.1007/s43681-025-00928-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s43681-025-00928-w</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI going rogue? An integrative narrative review of the tacit assumptions underlying existential AI-risks | AI and Ethics | Spring...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
    Title: Are we overestimating how “autonomous” agents actually are?  
-   Link: [https://www.reddit.com/r/AI_Agents/comments/1sdamwe/are_we_overestimating_how_autonomous_agents/](https://www.reddit.com/r/AI_Agents/comments/1sdamwe/are_we_overestimating_how_autonomous_agents/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditAre we overestimating how “autonomous” agents actually are?April 5, 2026...</p></details>
+   Link: <a href="https://www.reddit.com/r/AI_Agents/comments/1sdamwe/are_we_overestimating_how_autonomous_agents/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AI_Agents/comments/1sdamwe/are_we_overestimating_how_autonomous_agents/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Are we overestimating how “autonomous” agents actually are?April 5, 2026...</p></details>
    Published: April 5, 2026  
 
 4. <a id="endnote-4"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s00146-025-02572-8](https://link.springer.com/article/10.1007/s00146-025-02572-8)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| AI &amp; SOCIETY | Springer Nature LinkAugust 21, 2025 — WILL POWER-SEEKING AGIS HARM HUMAN SOCIETY? * Open Forum * Open access *...</p></details>
+   Link: <a href="https://link.springer.com/article/10.1007/s00146-025-02572-8" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s00146-025-02572-8</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI &amp; SOCIETY | Springer Nature LinkAugust 21, 2025 — WILL POWER-SEEKING AGIS HARM HUMAN SOCIETY? * Open Forum * Open access *...</p></details>
    Published: August 21, 2025  
 
 5. <a id="endnote-5"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s11098-025-02301-3](https://link.springer.com/article/10.1007/s11098-025-02301-3)  
+   Link: <a href="https://link.springer.com/article/10.1007/s11098-025-02301-3" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11098-025-02301-3</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>types of AI existential risk: decisive and accumulative | Philosophical Studies | Springer Nature LinkMarch 30, 2025 — TWO TYPES OF AI EX...</p></details>
    Published: March 30, 2025  
 
 6. <a id="endnote-6"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s00146-024-02134-4](https://link.springer.com/article/10.1007/s00146-024-02134-4)  
+   Link: <a href="https://link.springer.com/article/10.1007/s00146-024-02134-4" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s00146-024-02134-4</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>unnatural attributes of AI undermine common anthropomorphically biased takeover speculations | AI &amp; SOCIETY | Springer Nature LinkNovembe...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s11023-024-09665-1](https://link.springer.com/article/10.1007/s11023-024-09665-1)  
+   Link: <a href="https://link.springer.com/article/10.1007/s11023-024-09665-1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11023-024-09665-1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>An Analysis of the Challenges from AI | Minds and Machines | Springer Nature LinkJune 24, 2024 — HUMAN AUTONOMY AT RISK? AN ANALYSIS OF T...</p></details>
    Published: June 24, 2024  
 
 8. <a id="endnote-8"></a>
    Source: [evals](&#123;&#123; 'evals/' | relative_url &#125;&#125;). alignment.org  
-   Link: [https://evals.alignment.org/](https://evals.alignment.org/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluation &amp; Threat Research METR conducts research and evaluations to improve public understanding of the capabilities and risks of fron...</p></details>
+   Link: <a href="https://evals.alignment.org/" target="_blank" rel="noopener noreferrer nofollow">https://evals.alignment.org/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluation &amp; Threat Research METR conducts research and [evaluations](&amp;#123;&amp;#123; &#x27;evaluations/&#x27; | relative_url &amp;#125;&amp;#125;) to improve public understanding of the capabilities and risks of fron...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: internationalaisafetyreport.org  
    Title: international ai safety report 2026  
-   Link: [https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026](https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026)  
+   Link: <a href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow">https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>International AI Safety ReportInternational AI Safety Report 2026 | International AI Safety ReportFebruary 3, 2026...</p></details>
    Published: February 3, 2026  
 
 10. <a id="endnote-10"></a>
    Source: multi-step-agents.com  
-   Link: [https://multi-step-agents.com/](https://multi-step-agents.com/)  
+   Link: <a href="https://multi-step-agents.com/" target="_blank" rel="noopener noreferrer nofollow">https://multi-step-agents.com/</a>  
 
 11. <a id="endnote-11"></a>
    Source: lifescience.net  
-   Link: [https://www.lifescience.net/publications/1994564/a-survey-on-autonomy-induced-security-risks-in-lar/](https://www.lifescience.net/publications/1994564/a-survey-on-autonomy-induced-security-risks-in-lar/)  
+   Link: <a href="https://www.lifescience.net/publications/1994564/a-survey-on-autonomy-induced-security-risks-in-lar/" target="_blank" rel="noopener noreferrer nofollow">https://www.lifescience.net/publications/1994564/a-survey-on-autonomy-induced-security-risks-in-lar/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Life Science NetworkA Survey on Autonomy-Induced Security Risks in Large Model-Based Agents.April 29, 2026...</p></details>
    Published: April 29, 2026  
 
 12. <a id="endnote-12"></a>
    Source: itpro.com  
    Title: IT Pro'One-size-fits-all' agent governance sets enterprises up to fail  
-   Link: [https://www.itpro.com/technology/[artificial](https://www.itpro.com/technology/[artificial)  
+   Link: <a href="https://www.itpro.com/technology/artificial-intelligence/one-size-fits-all-agent-governance-sets-enterprises-up-to-fail" target="_blank" rel="noopener noreferrer nofollow">https://www.itpro.com/technology/artificial-intelligence/one-size-fits-all-agent-governance-sets-enterprises-up-to-fail</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The primary issue is the widespread application of a &quot;one-size-fits-all&quot; governance model that fails to distinguish between an agent&#x27;s au...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: GOV.UK  
    Title: international ai safety report 2025  
-   Link: [https://www.gov.uk/government/publications/international-ai-safety-report-2025/international-ai-safety-report-2025](https://www.gov.uk/government/publications/international-ai-safety-report-2025/international-ai-safety-report-2025)  
+   Link: <a href="https://www.gov.uk/government/publications/international-ai-safety-report-2025/international-ai-safety-report-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/international-ai-safety-report-2025/international-ai-safety-report-2025</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LOSS OF CONTROL KEY INFORMATION * ‘Loss of control’ scenarios are hypothetical future scenarios in which one or more general-purpose AI s...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/392425897_The_First_International_AI_Safety_Report_The_International_Scientific_Report_on_the_Safety_of_Advanced_AI](https://www.researchgate.net/publication/392425897_The_First_International_AI_Safety_Report_The_International_Scientific_Report_on_the_Safety_of_Advanced_AI)  
+   Link: <a href="https://www.researchgate.net/publication/392425897_The_First_International_AI_Safety_Report_The_International_Scientific_Report_on_the_Safety_of_Advanced_AI" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392425897_The_First_International_AI_Safety_Report_The_International_Scientific_Report_on_the_Safety_of_Advanced_AI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The First International AI Safety Report: The International Scientific Report on the Safety of Advanced AIJune 1, 2025 — General te...</p></details>
    Published: June 1, 2025  
 
 15. <a id="endnote-15"></a>
    Source: iliad-project.eu  
-   Link: [https://iliad-project.eu/publications/2018-2/artificial-intelligence-for-long-term-robot-autonomy-a-survey/](https://iliad-project.eu/publications/2018-2/artificial-intelligence-for-long-term-robot-autonomy-a-survey/)  
+   Link: <a href="https://iliad-project.eu/publications/2018-2/artificial-intelligence-for-long-term-robot-autonomy-a-survey/" target="_blank" rel="noopener noreferrer nofollow">https://iliad-project.eu/publications/2018-2/artificial-intelligence-for-long-term-robot-autonomy-a-survey/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial Intelligence for Long-Term Robot Autonomy: A Survey – ILIAD ProjectARTIFICIAL INTELLIGENCE FOR LONG-TERM ROBOT AUTONOMY: A SUR...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: philpapers.org  
-   Link: [https://philpapers.org/rec/PINARW](https://philpapers.org/rec/PINARW)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PhilPapersAUTONOMOUS RISK: WHEN INTELLIGENT SYSTEMS BECOME DANGEROUS WITHOUT FAILING Erivelton Pinheiro de Menezes AI and Society:1-20 (f...</p></details>
+   Link: <a href="https://philpapers.org/rec/PINARW" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/PINARW</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AUTONOMOUS RISK: WHEN INTELLIGENT SYSTEMS BECOME DANGEROUS WITHOUT FAILING Erivelton Pinheiro de Menezes AI and Society:1-20 (f...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: metr.org  
-   Link: [https://metr.org/index.html](https://metr.org/index.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>METRModel Evaluation &amp; Threat Research METR conducts research and evaluations to improve public understanding of the capabilities and ris...</p></details>
+   Link: <a href="https://metr.org/index.html" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/index.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Model Evaluation &amp; Threat Research METR conducts research and evaluations to improve public understanding of the capabilities and ris...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai/international-scientific-report-on-the-safety-of-advanced-ai-interim-report](https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai/international-scientific-report-on-the-safety-of-advanced-ai-interim-report)  
+   Link: <a href="https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai/international-scientific-report-on-the-safety-of-advanced-ai-interim-report" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai/international-scientific-report-on-the-safety-of-advanced-ai-interim-report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>We look forward to continuing this effort. HIGHLIGHTS OF THE EXECUTIVE SUMMARY If properly governed, general-purpose AI (artificial intel...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: papers.cool  
-   Link: [https://papers.cool/arxiv/2506.23844](https://papers.cool/arxiv/2506.23844)  
+   Link: <a href="https://papers.cool/arxiv/2506.23844" target="_blank" rel="noopener noreferrer nofollow">https://papers.cool/arxiv/2506.23844</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Immersive Paper DiscoveryJune 30, 2025 — 2506.23844 Total: 1 #1 A SURVEY ON AUTONOMY-INDUCED SECURITY RISKS IN LARGE MODEL-BASED AGENTS [...</p></details>
    Published: June 30, 2025  
 
 20. <a id="endnote-20"></a>
    Source: lordslibrary.parliament.uk  
    Title: uk Potential future risks from autonomous AI systems  
-   Link: [https://lordslibrary.parliament.uk/potential-future-risks-from-autonomous-ai-systems/](https://lordslibrary.parliament.uk/potential-future-risks-from-autonomous-ai-systems/)  
+   Link: <a href="https://lordslibrary.parliament.uk/potential-future-risks-from-autonomous-ai-systems/" target="_blank" rel="noopener noreferrer nofollow">https://lordslibrary.parliament.uk/potential-future-risks-from-autonomous-ai-systems/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>future risks from autonomous AI systems - House of Lords LibraryJanuary 5, 2026 — POTENTIAL FUTURE RISKS FROM AUTONOMOUS AI SYSTEMS In Fo...</p></details>
    Published: January 5, 2026  
 
 21. <a id="endnote-21"></a>
    Source: GOV.UK  
    Title: www.gov.uk Frontier AI: capabilities and risks – discussion paper  
-   Link: [https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper](https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper)  
+   Link: <a href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction 2. What is the current state of frontier AI capabilities? 3. How might frontier AI capabilitie...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a](https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a)  
+   Link: <a href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Executive summary 2. Context 3. Current Frontier AI capabilities 4. Future Frontier AI capabilities 5. Other critical uncert...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: Beyond Chatbots: How Reinforcement Learning Powers Autonomous AI Agents  
-   Link: [https://www.youtube.com/watch?v=j24HUyDUzo4](https://www.youtube.com/watch?v=j24HUyDUzo4)  
+   Link: <a href="https://www.youtube.com/watch?v=j24HUyDUzo4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j24HUyDUzo4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Building Better AI Agents: Observability and Evaluation...</p></details>

@@ -12,21 +12,21 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d59e80
 - AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - p-doom
 - agency-disputes
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - p-doom
 - agency-disputes
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: This page analyses how differing views on AI autonomy and strategic behaviour drive variation in doom probability estimates.
 hero_summary: This page analyses how differing views on AI autonomy and strategic behaviour drive variation in doom probability estimates.
 layout: default
 permalink: /agency-disputes/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /p-doom/
 nav_short_title: Agency Disputes
 title: Why AI Autonomy Leads Experts to Disagree on Doom
@@ -213,20 +213,20 @@ parent_heading_title: What Does p(doom) Really Mean?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_p_doom_estima_72d1f2
-  title: P Doom | AI Doom and
+  title: P Doom | AI Doom and E 87399 b
   permalink: /p-doom/
   short_title: P Doom
   heading_title: What Does p(doom) Really Mean?
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_p_doom_estima_72d1f2
-  title: P Doom | AI Doom and
+  title: P Doom | AI Doom and E 87399 b
   permalink: /p-doom/
   short_title: P Doom
   heading_title: What Does p(doom) Really Mean?
@@ -264,7 +264,7 @@ child_links:
   heading_title: Would Advanced AI Naturally Seek Power and Survival?
 up_link:
   basename: AI_Doom_and_E_87399b_p_doom_estima_72d1f2
-  title: P Doom | AI Doom and
+  title: P Doom | AI Doom and E 87399 b
   permalink: /p-doom/
   short_title: P Doom
   heading_title: What Does p(doom) Really Mean?
@@ -282,15 +282,15 @@ image: /assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_agency_dis_87
 
 ## Introduction
 
-Experts disagree sharply about the *risk of existential catastrophe from advanced AI*, and a central fault line in those disagreements concerns **assumptions about AI agency and [autonomy]({{ 'autonomy/' | relative_url }})**. Some researchers model future AI as powerful **controllable tools** that operate under [human oversight]({{ 'human-oversight/' | relative_url }}); others frame them as **autonomous agents** with their own goals and the capacity to act independently in the world. Which picture one adopts fundamentally shapes how one assesses the likelihood of “AI doom” — from negligible to non‑trivial — because agency carries implications for alignment, control, goal pursuit and behaviour that go well beyond simple capability estimates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2502.14870" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivWhy do Experts Disagree on Existential Risk and P(doom)? A Survey of AI ExpertsJanuary 25, 2025...</span><span class="citation-popover-meta">Published: January 25, 2025</span></span></span>
+Experts disagree sharply about the *risk of existential catastrophe from advanced AI*, and a central fault line in those disagreements concerns **assumptions about AI agency and [autonomy]({{ 'autonomy/' | relative_url }})**. Some researchers model future AI as powerful **controllable tools** that operate under [human oversight]({{ 'human-oversight/' | relative_url }}); others frame them as **autonomous agents** with their own goals and the capacity to act independently in the world. Which picture one adopts fundamentally shapes how one assesses the likelihood of “AI doom” — from negligible to non‑trivial — because agency carries implications for alignment, control, goal pursuit and behaviour that go well beyond simple capability estimates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2502.14870" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Why do Experts Disagree on Existential Risk and P(doom)? A Survey of AI ExpertsJanuary 25, 2025...</span><span class="citation-popover-meta">Published: January 25, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_agency_dis_87e1f9-Illustration-1-dark.svg" | relative_url }}" alt="Agency Disputes illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_agency_dis_87e1f9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_agency_dis_87e1f9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Controllable Tool versus Autonomous Agent: Two Competing Perspectives
 
-A 2025 survey of 111 [AI researchers]({{ 'expert-surveys/' | relative_url }}) found that disagreement about existential risk is closely tied to how experts conceptualise the nature of future AI systems. Respondents clustered into two broad viewpoints: **AI as a controllable tool** or **AI as a potentially uncontrollable agent**. Those in the former camp tend to see advanced AI systems as extensions of human decision‑making that can remain within human control through engineering and safeguards. Those in the latter view anticipate systems with goal‑directed behaviour that could pursue their own sub‑goals in ways that evade or overwhelm human control. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2502.14870" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivWhy do Experts Disagree on Existential Risk and P(doom)? A Survey of AI ExpertsJanuary 25, 2025...</span><span class="citation-popover-meta">Published: January 25, 2025</span></span></span>
+A 2025 survey of 111 AI researchers found that disagreement about existential risk is closely tied to how experts conceptualise the nature of future AI systems. Respondents clustered into two broad viewpoints: **AI as a controllable tool** or **AI as a potentially uncontrollable agent**. Those in the former camp tend to see advanced AI systems as extensions of human decision‑making that can remain within human control through engineering and safeguards. Those in the latter view anticipate systems with goal‑directed behaviour that could pursue their own sub‑goals in ways that evade or overwhelm human control. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2502.14870" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Why do Experts Disagree on Existential Risk and P(doom)? A Survey of AI ExpertsJanuary 25, 2025...</span><span class="citation-popover-meta">Published: January 25, 2025</span></span></span>
 
-This division matters because belief in agent‑like autonomy usually correlates with **higher perceived risks**. If an AI can plan over multiple steps, accumulate resources and operate independently, then traditional safety mechanisms such as human [oversight]({{ 'oversight-evasion/' | relative_url }}) or kill switches may not be sufficient to capture its behaviour. Conversely, if systems remain fundamentally **controllable and corrigible tools** whose outputs and actions can always be constrained by designers and operators, then existential outcomes become far less plausible in most analysts’ models. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2502.14870" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivWhy do Experts Disagree on Existential Risk and P(doom)? A Survey of AI ExpertsJanuary 25, 2025...</span><span class="citation-popover-meta">Published: January 25, 2025</span></span></span>
+This division matters because belief in agent‑like autonomy usually correlates with **higher perceived risks**. If an AI can plan over multiple steps, accumulate resources and operate independently, then traditional safety mechanisms such as human oversight or kill switches may not be sufficient to capture its behaviour. Conversely, if systems remain fundamentally **controllable and corrigible tools** whose outputs and actions can always be constrained by designers and operators, then existential outcomes become far less plausible in most analysts’ models. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2502.14870" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Why do Experts Disagree on Existential Risk and P(doom)? A Survey of AI ExpertsJanuary 25, 2025...</span><span class="citation-popover-meta">Published: January 25, 2025</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oJB7JNWo58w" title="WEF 2026: Yuval Noah Harari Says AI Is Not a Tool — It’s an Agent That Can Rule Humans | AI1G" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oJB7JNWo58w" target="_blank" rel="noopener noreferrer">WEF 2026: Yuval Noah Harari Says AI Is Not a Tool — It’s an Agent That Can Rule Humans | AI1G</a></p><p class="youtube-embed-meta">Channel: DRM News &middot; Views: 153.5K &middot; Uploaded: January 2026 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oJB7JNWo58w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oJB7JNWo58w">Open on YouTube</a></p></div></div></div>
@@ -298,7 +298,7 @@ This division matters because belief in agent‑like autonomy usually correlates
 ### Why the distinction changes p(doom) estimates
 
 * **Tool framing:** Advanced AI is seen as powerful but fundamentally *predictable and overrideable*. Risk estimates under this assumption often remain low because humans can intervene, constrain actions, and prevent cascading failures before they escalate to existential scales.
-* **Agent framing:** Advanced AI is modelled as *goal‑oriented and autonomous*. Here, risks stem from the possibility that AI might pursue objectives misaligned with human interests, develop instrumental incentives (e.g., self‑preservation, resource acquisition) and resist shutdown — all of which feature in classic existential risk arguments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Existential risk from artificial intelligence</span><span class="citation-popover-snippet">Existential risk from artificial intelligence</span></span></span>
+* **Agent framing:** Advanced AI is modelled as *goal‑oriented and autonomous*. Here, risks stem from the possibility that AI might pursue objectives misaligned with human interests, develop [instrumental]({{ 'power-seeking-67c702/' | relative_url }}) incentives (e.g., self‑preservation, resource acquisition) and resist shutdown — all of which feature in classic existential risk arguments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Existential risk from artificial intelligence</span><span class="citation-popover-snippet">Existential risk from artificial intelligence</span></span></span>
 
 In practice, these framings shape disagreements over key concepts such as *corrigibility* — how much a system allows itself to be corrected or shut down by humans — and whether autonomous planning and power‑seeking behaviour are credible features of future systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Instrumental_convergence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Instrumental convergence</span><span class="citation-popover-snippet">Instrumental convergence</span></span></span>
 
@@ -317,7 +317,7 @@ Critics of this line of reasoning, by contrast, argue that current and near‑te
 
 ## Survey Evidence Linking Agency Assumptions to Risk Judgements
 
-The 2025 expert survey shows a correlation between familiarity with safety concepts and concern about risk. Experts familiar with ideas like instrumental convergence and agent‑like planning tended to rate existential risk as more significant, while those unfamiliar with these concepts were less inclined to view AI as a potential existential threat. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2502.14870" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivWhy do Experts Disagree on Existential Risk and P(doom)? A Survey of AI ExpertsJanuary 25, 2025...</span><span class="citation-popover-meta">Published: January 25, 2025</span></span></span>
+The 2025 expert survey shows a correlation between familiarity with safety concepts and concern about risk. Experts familiar with ideas like instrumental convergence and agent‑like planning tended to rate existential risk as more significant, while those unfamiliar with these concepts were less inclined to view AI as a potential existential threat. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2502.14870" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Why do Experts Disagree on Existential Risk and P(doom)? A Survey of AI ExpertsJanuary 25, 2025...</span><span class="citation-popover-meta">Published: January 25, 2025</span></span></span>
 
 This pattern suggests that part of the disagreement is not just about technical predictions, but about **conceptual framing**: whether one views future AI through the lens of sophisticated agentic behaviour that could outpace human control, or through the lens of controlled systems that remain subject to human revision. It highlights that expert disagreement is partly rooted in *which aspects of AI capability and autonomy are given epistemic weight when judging p(doom)*.
 
@@ -327,7 +327,7 @@ This pattern suggests that part of the disagreement is not just about technical 
 
 Differences in agency assumptions influence debates over both *alignment* and *[governance]({{ 'governance/' | relative_url }})*. If one believes autonomous agency is a credible outcome, then solutions emphasise robust alignment frameworks, corrigibility, and containment strategies. If one views AI as controllable tools, then priority may shift toward incremental safety practices, operational oversight and iterative improvement without treating autonomy as an existential concern.
 
-This core disagreement matters because it shapes **policy, research priorities and resource allocation** in AI safety. Without resolving or at least clarifying underlying assumptions about agency and autonomy, discussions about p(doom) will continue to reflect fundamentally different mental models of what future AI systems are *like*, not just whether they are *safe*. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2502.14870" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivWhy do Experts Disagree on Existential Risk and P(doom)? A Survey of AI ExpertsJanuary 25, 2025...</span><span class="citation-popover-meta">Published: January 25, 2025</span></span></span>
+This core disagreement matters because it shapes **policy, research priorities and resource allocation** in AI safety. Without resolving or at least clarifying underlying assumptions about agency and autonomy, discussions about p(doom) will continue to reflect fundamentally different mental models of what future AI systems are *like*, not just whether they are *safe*. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2502.14870" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Why do Experts Disagree on Existential Risk and P(doom)? A Survey of AI ExpertsJanuary 25, 2025...</span><span class="citation-popover-meta">Published: January 25, 2025</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6HrEvh8914I" title="SHODAN, AI Alignment, and the Myth of Control | What System Shock Got Right" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6HrEvh8914I" target="_blank" rel="noopener noreferrer">SHODAN, AI Alignment, and the Myth of Control | What System Shock Got Right</a></p><p class="youtube-embed-meta">Channel: Terra Glitch &middot; Views: 56 &middot; Uploaded: March 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6HrEvh8914I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6HrEvh8914I">Open on YouTube</a></p></div></div></div>
@@ -754,85 +754,85 @@ This core disagreement matters because it shapes **policy, research priorities a
 
 1. <a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2502.14870](https://arxiv.org/abs/2502.14870)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivWhy do Experts Disagree on Existential Risk and P(doom)? A Survey of AI ExpertsJanuary 25, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2502.14870" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.14870</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why do Experts Disagree on Existential Risk and P(doom)? A Survey of AI ExpertsJanuary 25, 2025...</p></details>
    Published: January 25, 2025  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
-   Title: Existential risk from [artificial](&#123;&#123; 'artificial-goals/' | relative_url &#125;&#125;) intelligence  
-   Link: [https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence)  
+   Title: Existential risk from artificial intelligence  
+   Link: <a href="https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Instrumental convergence  
-   Link: [https://en.wikipedia.org/wiki/Instrumental_convergence](https://en.wikipedia.org/wiki/Instrumental_convergence)  
+   Link: <a href="https://en.wikipedia.org/wiki/Instrumental_convergence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Instrumental_convergence</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: AI corrigibility  
-   Link: [https://en.wikipedia.org/wiki/AI_corrigibility](https://en.wikipedia.org/wiki/AI_corrigibility)  
+   Link: <a href="https://en.wikipedia.org/wiki/AI_corrigibility" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/AI_corrigibility</a>  
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2401.07836v2](https://arxiv.org/html/2401.07836v2)  
+   Link: <a href="https://arxiv.org/html/2401.07836v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2401.07836v2</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Two Types of AI Existential Risk: Decisive and Accumulative6 Feb 2024 — This paper contrasts the conventional decisive AI x-risk hypothes...</p></details>
 
 ### Additional References
 
 6. <a id="endnote-6"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/simontorrance_why-do-experts-disagree-on-existential-risk-activity-7301886948334333952-VwQS](https://www.linkedin.com/posts/simontorrance_why-do-experts-disagree-on-existential-risk-activity-7301886948334333952-VwQS)  
+   Link: <a href="https://www.linkedin.com/posts/simontorrance_why-do-experts-disagree-on-existential-risk-activity-7301886948334333952-VwQS" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/simontorrance_why-do-experts-disagree-on-existential-risk-activity-7301886948334333952-VwQS</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI experts divided on AI safety and controlA new survey reveals that &#x27;AI experts&#x27; cluster into two viewpoints - &quot;AI as controllable tool&quot;...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0004370219301109](https://www.sciencedirect.com/science/article/pii/S0004370219301109)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0004370219301109" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0004370219301109</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;ScienceDirectMIND THE GAPS: ASSURING THE SAFETY OF AUTONOMOUS SYSTEMS FROM AN ENGINEERING, ETHICAL, AND LEGAL PERSPECTIVE [https://doi.org...&quot;](https://doi.org...&quot;)...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: informatica.si  
-   Link: [https://www.informatica.si/index.php/informatica/article/view/1812/0](https://www.informatica.si/index.php/informatica/article/view/1812/0)  
+   Link: <a href="https://www.informatica.si/index.php/informatica/article/view/1812/0" target="_blank" rel="noopener noreferrer nofollow">https://www.informatica.si/index.php/informatica/article/view/1812/0</a>  
 
 9. <a id="endnote-9"></a>
    Source: alphaxiv.org  
-   Link: [https://www.alphaxiv.org/abs/2502.14870](https://www.alphaxiv.org/abs/2502.14870)  
+   Link: <a href="https://www.alphaxiv.org/abs/2502.14870" target="_blank" rel="noopener noreferrer nofollow">https://www.alphaxiv.org/abs/2502.14870</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why do Experts Disagree on Existential Risk and P(doom)? A Survey of AI Experts | alphaXiv WHY DO EXPERTS DISAGREE ON EXISTENTIAL RISK AN...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: puffbird.ijs.si  
-   Link: [https://puffbird.ijs.si/index.php/informatica/article/view/1812](https://puffbird.ijs.si/index.php/informatica/article/view/1812)  
+   Link: <a href="https://puffbird.ijs.si/index.php/informatica/article/view/1812" target="_blank" rel="noopener noreferrer nofollow">https://puffbird.ijs.si/index.php/informatica/article/view/1812</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Interpreting Expert Disagreement About Artificial Superintelligence | InformaticaDecember 27, 2017 — MODELING AND INTERPRETING EXPERT...</p></details>
    Published: December 27, 2017  
 
 11. <a id="endnote-11"></a>
    Source: themoonlight.io  
    Title: [Literature Review] Why do Experts Disagree on Existential Risk and P(doom)?  
-   Link: [https://www.themoonlight.io/en/review/why-do-experts-disagree-on-existential-risk-and-pdoom-a-survey-of-ai-experts](https://www.themoonlight.io/en/review/why-do-experts-disagree-on-existential-risk-and-pdoom-a-survey-of-ai-experts)  
+   Link: <a href="https://www.themoonlight.io/en/review/why-do-experts-disagree-on-existential-risk-and-pdoom-a-survey-of-ai-experts" target="_blank" rel="noopener noreferrer nofollow">https://www.themoonlight.io/en/review/why-do-experts-disagree-on-existential-risk-and-pdoom-a-survey-of-ai-experts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Survey of AI ExpertsThis page provides the most accurate and concise summary worldwide for the paper titled Why do Experts Disagree on...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: fugumt.com  
    Title: Related papers: Why do Experts Disagree on Existential Risk and P(doom)?  
-   Link: [https://fugumt.com/fugumt/paper_check/2502.14870v1_enmode](https://fugumt.com/fugumt/paper_check/2502.14870v1_enmode)  
+   Link: <a href="https://fugumt.com/fugumt/paper_check/2502.14870v1_enmode" target="_blank" rel="noopener noreferrer nofollow">https://fugumt.com/fugumt/paper_check/2502.14870v1_enmode</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;A Survey of AI ExpertsJanuary 25, 2025 — WHY DO EXPERTS DISAGREE ON EXISTENTIAL RISK AND P(DOOM)? A SURVEY OF AI EXPERTS * URL: [http://ar...&quot;](http://ar...&quot;)...</p></details>
    Published: January 25, 2025  
 
 13. <a id="endnote-13"></a>
    Source: rai.ac.uk  
    Title: Are AI researchers concerned about the existential threat of AI?  
-   Link: [https://rai.ac.uk/hed-are-ai-researchers-concerned-about-the-existential-threat-of-ai/](https://rai.ac.uk/hed-are-ai-researchers-concerned-about-the-existential-threat-of-ai/)  
+   Link: <a href="https://rai.ac.uk/hed-are-ai-researchers-concerned-about-the-existential-threat-of-ai/" target="_blank" rel="noopener noreferrer nofollow">https://rai.ac.uk/hed-are-ai-researchers-concerned-about-the-existential-threat-of-ai/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>out-of-control AI poses a threat to human existence. This relatively small percentage is set against a diverse landscape of much more imm...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: researchgate.net  
    Title: Baum S.D. Baum * This person is not on Research Gate, or hasn  
-   Link: [https://www.researchgate.net/publication/322482417_Modeling_and_interpreting_expert_disagreement_about_artificial_superintelligence](https://www.researchgate.net/publication/322482417_Modeling_and_interpreting_expert_disagreement_about_artificial_superintelligence)  
+   Link: <a href="https://www.researchgate.net/publication/322482417_Modeling_and_interpreting_expert_disagreement_about_artificial_superintelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/322482417_Modeling_and_interpreting_expert_disagreement_about_artificial_superintelligence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Modeling and interpreting expert disagreement about artificial superintelligenceDecember 1, 2017 — Article PDF Available MODELING A...</p></details>
    Published: December 1, 2017  
 
 15. <a id="endnote-15"></a>
    Source: alphaxiv.org  
    Title: Why do Experts Disagree on Existential Risk and P(doom)?  
-   Link: [https://www.alphaxiv.org/overview/2502.14870](https://www.alphaxiv.org/overview/2502.14870)  
+   Link: <a href="https://www.alphaxiv.org/overview/2502.14870" target="_blank" rel="noopener noreferrer nofollow">https://www.alphaxiv.org/overview/2502.14870</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Survey of AI Experts | alphaXivWHY DO EXPERTS DISAGREE ON EXISTENTIAL RISK AND P(DOOM)? A SURVEY OF AI EXPERTS [Button: Assistant][Butt...</p></details>

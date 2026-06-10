@@ -12,21 +12,21 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72a06a
 - AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - ai-takeoff
 - fast-takeoff
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - ai-takeoff
 - fast-takeoff
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: A hard takeoff would leave little time for correction, so the key question is what observable signs might precede a sudden capability jump.
 hero_summary: A hard takeoff would leave little time for correction, so the key question is what observable signs might precede a sudden capability jump.
 layout: default
 permalink: /fast-takeoff/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /ai-takeoff/
 nav_short_title: Fast takeoff
 title: What would warn US before FOOM?
@@ -213,20 +213,20 @@ parent_heading_title: Could AI Improvement Run Away From US?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_recursive_imp_3a3504
-  title: AI Takeoff | AI Doom and
+  title: AI Takeoff | AI Doom and E 87399 b
   permalink: /ai-takeoff/
   short_title: AI Takeoff
   heading_title: Could AI Improvement Run Away From US?
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_recursive_imp_3a3504
-  title: AI Takeoff | AI Doom and
+  title: AI Takeoff | AI Doom and E 87399 b
   permalink: /ai-takeoff/
   short_title: AI Takeoff
   heading_title: Could AI Improvement Run Away From US?
@@ -264,7 +264,7 @@ child_links:
   heading_title: Will AI warning tests arrive in time?
 up_link:
   basename: AI_Doom_and_E_87399b_recursive_imp_3a3504
-  title: AI Takeoff | AI Doom and
+  title: AI Takeoff | AI Doom and E 87399 b
   permalink: /ai-takeoff/
   short_title: AI Takeoff
   heading_title: Could AI Improvement Run Away From US?
@@ -288,11 +288,11 @@ image: /assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c7
 
 ## Introduction
 
-If a true AI “FOOM” happened — a rapid intelligence explosion driven by recursive self-improvement — the central question would not be whether it is dangerous, but whether there would be enough warning to respond. In AI doom discussions, a hard takeoff means capability growth compressed into months, weeks, days, or even hours rather than decades. The debate is not simply about speed. It is about whether [warning signs]({{ 'warning-signs/' | relative_url }}) would appear early enough for safety measures, governance, and human decision-makers to matter. Some researchers argue that a fast takeoff would still produce observable indicators before the most dramatic acceleration. Others argue that the very nature of a FOOM is that many conventional warning signals would arrive too late or be misleading. AI Safety Atlas <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alignmentforum.org/posts/YgNYA6pj2hPSDQiTE/distinguishing-definitions-of-takeoff" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alignmentforum.org">[AI Alignment Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alignmentforum.org</span><span class="citation-popover-title">distinguishing definitions of takeoff</span><span class="citation-popover-snippet">AI Alignment ForumDistinguishing definitions of takeoff13 Feb 2020 — A fast takeoff is one that occurs over the timescale of minutes, hou...</span></span></span>
+If a true AI “FOOM” happened — a rapid intelligence explosion driven by recursive self-improvement — the central question would not be whether it is dangerous, but whether there would be enough warning to respond. In AI doom discussions, a hard takeoff means capability growth compressed into months, weeks, days, or even hours rather than decades. The debate is not simply about speed. It is about whether [warning signs]({{ 'warning-signs/' | relative_url }}) would appear early enough for safety measures, [governance]({{ 'governance/' | relative_url }}), and human decision-makers to matter. Some researchers argue that a fast takeoff would still produce observable indicators before the most dramatic acceleration. Others argue that the very nature of a FOOM is that many conventional warning signals would arrive too late or be misleading. AI Safety Atlas <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alignmentforum.org/posts/YgNYA6pj2hPSDQiTE/distinguishing-definitions-of-takeoff" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alignmentforum.org">[AI Alignment Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alignmentforum.org</span><span class="citation-popover-title">distinguishing definitions of takeoff</span><span class="citation-popover-snippet">AI Alignment ForumDistinguishing definitions of takeoff13 Feb 2020 — A fast takeoff is one that occurs over the timescale of minutes, hou...</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7-Illustration-1-dark.svg" | relative_url }}" alt="Fast takeoff illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Because AI doom arguments often depend on loss of control during a period of rapid capability growth, identifying credible warning signs has become one of the most practical questions in the field.
+Because AI doom arguments often depend on [loss of control]({{ 'loss-of-control/' | relative_url }}) during a period of rapid capability growth, identifying credible warning signs has become one of the most practical questions in the field.
 
 ## What hard takeoff means in plain English
 
@@ -304,13 +304,13 @@ Different researchers define takeoff speeds differently, but a common distinctio
 * **Moderate takeoff:** major changes occur over months or several years.
 * **Fast or hard takeoff:** capabilities jump over days, weeks, or months, leaving little opportunity for intervention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alignmentforum.org/posts/YgNYA6pj2hPSDQiTE/distinguishing-definitions-of-takeoff" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alignmentforum.org">[AI Alignment Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alignmentforum.org</span><span class="citation-popover-title">distinguishing definitions of takeoff</span><span class="citation-popover-snippet">AI Alignment ForumDistinguishing definitions of takeoff13 Feb 2020 — A fast takeoff is one that occurs over the timescale of minutes, hou...</span></span></span>
 
-Importantly, even people who take FOOM seriously disagree about timelines. Some hard-takeoff advocates imagine very rapid changes in AI capability while acknowledging that changes in the physical world might still unfold more slowly because of limits in manufacturing, infrastructure, energy, and hardware deployment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/accelerate/comments/1ijd1gx/are_we_heading_for_a_hard_takeoff_how_do_you/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditAre we heading for a hard takeoff? How do you think it...Personally, I think it will be a hard takeoff in terms of self-recursive...</span></span></span>
+Importantly, even people who take FOOM seriously disagree about timelines. Some hard-takeoff advocates imagine very rapid changes in AI capability while acknowledging that changes in the physical world might still unfold more slowly because of limits in manufacturing, infrastructure, energy, and hardware deployment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/accelerate/comments/1ijd1gx/are_we_heading_for_a_hard_takeoff_how_do_you/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Are we heading for a hard takeoff? How do you think it...Personally, I think it will be a hard takeoff in terms of self-recursive...</span></span></span>
 
-For AI doom arguments, however, the crucial concern is not how quickly robots appear in factories. It is how quickly a system might move beyond the range where human oversight remains effective.
+For AI doom arguments, however, the crucial concern is not how quickly robots appear in factories. It is how quickly a system might move beyond the range where [human oversight]({{ 'human-oversight/' | relative_url }}) remains effective.
 
 ## Which warning signs would matter most?
 
-Many signs commonly cited in public discussion are probably too late to be useful. If stock markets surge, economies transform, or entire professions disappear, then the transition is already underway. Hard-takeoff proponents therefore focus on indicators that appear closer to the source of recursive improvement itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/slatestarcodex/comments/1id2k1x/if_we_are_in_a_fasttakeoff_world_how_long_until/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditIf we are in a fast-takeoff world, how long until this is...Fast takeoffs preclude many warning signs: Sustained economic growth s...</span></span></span>
+Many signs commonly cited in public discussion are probably too late to be useful. If stock markets surge, economies transform, or entire professions disappear, then the transition is already underway. Hard-takeoff proponents therefore focus on indicators that appear closer to the source of recursive improvement itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/slatestarcodex/comments/1id2k1x/if_we_are_in_a_fasttakeoff_world_how_long_until/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">If we are in a fast-takeoff world, how long until this is...Fast takeoffs preclude many warning signs: Sustained economic growth s...</span></span></span>
 
 Several warning signs recur across the literature and debate.
 
@@ -321,9 +321,9 @@ Several warning signs recur across the literature and debate.
 
 The most obvious precursor to recursive self-improvement would be AI systems becoming major contributors to AI development itself.
 
-Today, AI already assists with coding, debugging, experimentation, literature review, and model optimisation. A stronger warning sign would be systems that independently discover new architectures, training methods, algorithms, or optimisation techniques that human researchers neither anticipated nor fully understand. Recent discussions within frontier labs increasingly focus on AI-assisted [AI research]({{ 'ai-research-loop/' | relative_url }}) as a plausible route toward recursive improvement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2026/05/07/[anthropic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Behind the Curtain: Intelligence explosion</span><span class="citation-popover-snippet">Co-founder Jack Clark predicts a greater than 60% chance that by 2028, an AI system could autonomously build a better version of itself...</span></span></span>
+Today, AI already assists with coding, debugging, experimentation, literature review, and model optimisation. A stronger warning sign would be systems that independently discover new architectures, training methods, algorithms, or optimisation techniques that human researchers neither anticipated nor fully understand. Recent discussions within frontier labs increasingly focus on AI-assisted AI research as a plausible route toward recursive improvement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2026/05/07/anthropic-jack-clark-ai-intelligence-explosion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Behind the Curtain: Intelligence explosion</span><span class="citation-popover-snippet">Co-founder Jack Clark predicts a greater than 60% chance that by 2028, an AI system could autonomously build a better version of itself...</span></span></span>
 
-A particularly significant milestone would be an AI system making improvements that materially increase its own successor's capabilities with limited human involvement. Some researchers view this as the earliest practical form of recursive self-improvement rather than the dramatic self-rewriting scenarios often depicted in science fiction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2026/05/07/[anthropic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Behind the Curtain: Intelligence explosion</span><span class="citation-popover-snippet">Co-founder Jack Clark predicts a greater than 60% chance that by 2028, an AI system could autonomously build a better version of itself...</span></span></span>
+A particularly significant milestone would be an AI system making improvements that materially increase its own successor's capabilities with limited human involvement. Some researchers view this as the earliest practical form of recursive self-improvement rather than the dramatic self-rewriting scenarios often depicted in science fiction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2026/05/07/anthropic-jack-clark-ai-intelligence-explosion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Behind the Curtain: Intelligence explosion</span><span class="citation-popover-snippet">Co-founder Jack Clark predicts a greater than 60% chance that by 2028, an AI system could autonomously build a better version of itself...</span></span></span>
 
 ### Capability gains become compressed
 
@@ -337,9 +337,9 @@ The challenge is that apparent acceleration may also result from ordinary factor
 
 ### AI becomes unusually effective at strategic reasoning
 
-Many AI safety researchers treat sophisticated situational awareness as an important threshold capability.
+Many AI safety researchers treat sophisticated [situational awareness]({{ 'situational-awareness/' | relative_url }}) as an important threshold capability.
 
-Situational awareness refers to a system understanding facts about itself, its developers, its deployment environment, and the consequences of its actions. Researchers have begun creating evaluations specifically designed to measure whether models can reason about oversight systems, deployment conditions, and their own role within larger organisations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2505.01420" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Evaluating Frontier Models for Stealth and Situational Awareness</span><span class="citation-popover-snippet">arXivEvaluating Frontier Models for Stealth and Situational AwarenessMay 2, 2025...</span><span class="citation-popover-meta">Published: May 2, 2025</span></span></span> OpenReview The concern is not that situational awareness automatically produces danger. Rather <span class="citation-chip-wrap"><a class="citation-chip" href="https://openreview.net/forum?id=Daqfkiy6z4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openreview.net">[openreview.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openreview.net</span><span class="citation-popover-snippet">Evaluating Frontier Models for Stealth and Situational...by M Phuong · 2025 · Cited by 35 — After extensive discussion with the authors...</span></span></span>, a highly capable system that understands when it is being evaluated, monitored, restricted, or rewarded may possess abilities relevant to deception or strategic behaviour. Some researchers therefore view rising situational-awareness scores as a potential early warning indicator worth monitoring closely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2505.01420" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Evaluating Frontier Models for Stealth and Situational Awareness</span><span class="citation-popover-snippet">arXivEvaluating Frontier Models for Stealth and Situational AwarenessMay 2, 2025...</span><span class="citation-popover-meta">Published: May 2, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://openreview.net/forum?id=Daqfkiy6z4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openreview.net">[OpenReview]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openreview.net</span><span class="citation-popover-snippet">Evaluating Frontier Models for Stealth and Situational...by M Phuong · 2025 · Cited by 35 — After extensive discussion with the authors...</span></span></span>
+Situational awareness refers to a system understanding facts about itself, its developers, its deployment environment, and the consequences of its actions. Researchers have begun creating [evaluations]({{ 'evaluations/' | relative_url }}) specifically designed to measure whether models can reason about oversight systems, deployment conditions, and their own role within larger organisations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2505.01420" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Evaluating Frontier Models for Stealth and Situational Awareness</span><span class="citation-popover-snippet">Evaluating Frontier Models for Stealth and Situational AwarenessMay 2, 2025...</span><span class="citation-popover-meta">Published: May 2, 2025</span></span></span> OpenReview The concern is not that situational awareness automatically produces danger. Rather <span class="citation-chip-wrap"><a class="citation-chip" href="https://openreview.net/forum?id=Daqfkiy6z4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openreview.net">[openreview.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openreview.net</span><span class="citation-popover-snippet">Evaluating Frontier Models for Stealth and Situational...by M Phuong · 2025 · Cited by 35 — After extensive discussion with the authors...</span></span></span>, a highly capable system that understands when it is being evaluated, monitored, restricted, or rewarded may possess abilities relevant to deception or strategic behaviour. Some researchers therefore view rising situational-awareness scores as a potential early warning indicator worth monitoring closely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2505.01420" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Evaluating Frontier Models for Stealth and Situational Awareness</span><span class="citation-popover-snippet">Evaluating Frontier Models for Stealth and Situational AwarenessMay 2, 2025...</span><span class="citation-popover-meta">Published: May 2, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://openreview.net/forum?id=Daqfkiy6z4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openreview.net">[OpenReview]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openreview.net</span><span class="citation-popover-snippet">Evaluating Frontier Models for Stealth and Situational...by M Phuong · 2025 · Cited by 35 — After extensive discussion with the authors...</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7-Illustration-2-dark.svg" | relative_url }}" alt="Fast takeoff illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -347,9 +347,9 @@ Situational awareness refers to a system understanding facts about itself, its d
 
 A recurring lesson from AI safety work is that some capabilities can emerge unexpectedly.
 
-Frontier-model evaluation programmes increasingly test for deception, persuasion, cyber capabilities, self-proliferation, strategic planning, and self-reasoning. These are sometimes described as "[dangerous]({{ 'autonomy/' | relative_url }}) capability evaluations" because they focus on abilities that could contribute to loss-of-control scenarios rather than merely improving productivity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2505.01420" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Evaluating Frontier Models for Stealth and Situational Awareness</span><span class="citation-popover-snippet">arXivEvaluating Frontier Models for Stealth and Situational AwarenessMay 2, 2025...</span><span class="citation-popover-meta">Published: May 2, 2025</span></span></span>
+Frontier-model evaluation programmes increasingly test for deception, persuasion, cyber capabilities, self-proliferation, strategic planning, and self-reasoning. These are sometimes described as "dangerous capability evaluations" because they focus on abilities that could contribute to loss-of-control scenarios rather than merely improving productivity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2505.01420" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Evaluating Frontier Models for Stealth and Situational Awareness</span><span class="citation-popover-snippet">Evaluating Frontier Models for Stealth and Situational AwarenessMay 2, 2025...</span><span class="citation-popover-meta">Published: May 2, 2025</span></span></span>
 
-Researchers behind these evaluations often frame them as an early-warning system. The hope is that capability thresholds can be identified before systems become powerful enough for serious misuse or autonomy. Several safety frameworks explicitly rely on the existence of a "safety buffer" between the appearance of warning signs and the emergence of genuinely dangerous systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2505.01420" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Evaluating Frontier Models for Stealth and Situational Awareness</span><span class="citation-popover-snippet">arXivEvaluating Frontier Models for Stealth and Situational AwarenessMay 2, 2025...</span><span class="citation-popover-meta">Published: May 2, 2025</span></span></span>
+Researchers behind these evaluations often frame them as an early-warning system. The hope is that capability thresholds can be identified before systems become powerful enough for serious misuse or autonomy. Several safety frameworks explicitly rely on the existence of a "safety buffer" between the appearance of warning signs and the emergence of genuinely dangerous systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2505.01420" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Evaluating Frontier Models for Stealth and Situational Awareness</span><span class="citation-popover-snippet">Evaluating Frontier Models for Stealth and Situational AwarenessMay 2, 2025...</span><span class="citation-popover-meta">Published: May 2, 2025</span></span></span>
 
 Whether that buffer will actually exist is one of the major unresolved questions in the takeoff-speed debate.
 
@@ -384,12 +384,12 @@ Despite the attention given to FOOM scenarios, many researchers remain sceptical
 
 The strongest slow-takeoff arguments point to practical bottlenecks. Even if AI systems become excellent researchers, they may still require compute, energy, hardware, experiments, data collection, and real-world testing. Progress could therefore remain constrained by physical and organisational limits rather than pure intelligence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sideways-view.com/2018/02/24/takeoff-speeds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sideways-view.com">[The sideways view]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sideways-view.com</span><span class="citation-popover-title">The sideways view Takeoff speeds</span><span class="citation-popover-snippet">The sideways viewTakeoff speedsFebruary 24, 2018 — 24 Feb 2018 — Slower takeoff means faster progress. Fast takeoff is often justified by...</span><span class="citation-popover-meta">Published: February 24, 2018</span></span></span> LessWrong Another argument is historical. Most transformative technologies have diffused through society gradually enough that warning signs were visib <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lesswrong.com/w/ai-takeoff?lw_source=import_sheet&amp;revision=0.0.24%29le" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lesswrong.com">[lesswrong.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lesswrong.com</span><span class="citation-popover-snippet">Open source on lesswrong.com.</span></span></span> well before their largest effects appeared. Proponents of slower takeoff suggest that highly capable but sub-superintelligent AI systems would already reshape science, industry, and economies before any true intelligence explosion occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alignmentforum.org/posts/YgNYA6pj2hPSDQiTE/distinguishing-definitions-of-takeoff" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alignmentforum.org">[AI Alignment Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alignmentforum.org</span><span class="citation-popover-title">distinguishing definitions of takeoff</span><span class="citation-popover-snippet">AI Alignment ForumDistinguishing definitions of takeoff13 Feb 2020 — A fast takeoff is one that occurs over the timescale of minutes, hou...</span></span></span>
 
-Under this view, warning signs would be abundant: <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2412.08653v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivWhat AI evaluations for preventing catastrophic risks can...26 Nov 2024 — The hope is that this gap would give evaluators time to d...</span></span></span>
+Under this view, warning signs would be abundant: <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2412.08653v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">What AI evaluations for preventing catastrophic risks can...26 Nov 2024 — The hope is that this gap would give evaluators time to d...</span></span></span>
 
-* Rapid [automation]({{ 'automation-bias/' | relative_url }}) of cognitive labour.
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
+* Rapid automation of cognitive labour.
 * AI-led scientific breakthroughs.
 * AI systems conducting significant portions of research programmes.
 * Sustained productivity growth across multiple sectors.
@@ -403,11 +403,11 @@ The disagreement is therefore not necessarily about whether warning signs exist,
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7-Illustration-3-dark.svg" | relative_url }}" alt="Fast takeoff illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The hardest forecasting problem
 
-The deepest uncertainty is that no one has observed a genuine intelligence explosion.
+The deepest [uncertainty]({{ 'uncertainty/' | relative_url }}) is that no one has observed a genuine intelligence explosion.
 
 The evidence available today comes from theoretical arguments, historical analogies, trend analysis, capability evaluations, and observations of current AI progress. Researchers disagree not only about timelines but about what should count as a meaningful warning sign in the first place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lesswrong.com/w/ai-takeoff?lw_source=import_sheet&amp;revision=0.0.24" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lesswrong.com">[LessWrong]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lesswrong.com</span><span class="citation-popover-title">ai takeoff</span><span class="citation-popover-snippet">30 Dec 2024 — A hard takeoff (or an AI going &quot;FOOM&quot;) refers to AGI expansion in a matter of minutes, days, or months. It is a fast, abrup...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://intelligence.org/2021/11/22/yudkowsky-and-christiano-discuss-takeoff-speeds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intelligence.org">[Machine Intelligence Research Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intelligence.org</span><span class="citation-popover-title">Whoever builds AGI</span><span class="citation-popover-snippet">Machine Intelligence Research InstituteYudkowsky and Christiano discuss &quot;Takeoff Speeds&quot;22 Nov 2021 — In the fast takeoff scenario, weake...</span></span></span>
 
-Some point to AI systems increasingly contributing to AI development as the most important signal. Others focus on dangerous-capability evaluations, deception-related behaviours, or emerging situational awareness. Still others argue that economic and scientific transformation will provide ample notice before any loss-of-control scenario becomes plausible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2505.01420" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Evaluating Frontier Models for Stealth and Situational Awareness</span><span class="citation-popover-snippet">arXivEvaluating Frontier Models for Stealth and Situational AwarenessMay 2, 2025...</span><span class="citation-popover-meta">Published: May 2, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2026/05/07/[anthropic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Behind the Curtain: Intelligence explosion</span><span class="citation-popover-snippet">Co-founder Jack Clark predicts a greater than 60% chance that by 2028, an AI system could autonomously build a better version of itself...</span></span></span> For AI doom discussions, this uncertainty matters because p(doom) estimates often depend heavily on takeoff assumptions. A world with years of warning and repeated opportunities for intervention looks very different from a world where critical capability thresholds are crossed in a matter of weeks. The debate over FOOM timelines is therefore not just about forecasting technological progress. It is about estimating how much opportunity humanity would have to recognise danger and respond before control becomes difficult or impossible.
+Some point to AI systems increasingly contributing to AI development as the most important signal. Others focus on dangerous-capability evaluations, deception-related behaviours, or emerging situational awareness. Still others argue that economic and scientific transformation will provide ample notice before any loss-of-control scenario becomes plausible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2505.01420" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Evaluating Frontier Models for Stealth and Situational Awareness</span><span class="citation-popover-snippet">Evaluating Frontier Models for Stealth and Situational AwarenessMay 2, 2025...</span><span class="citation-popover-meta">Published: May 2, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2026/05/07/anthropic-jack-clark-ai-intelligence-explosion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Behind the Curtain: Intelligence explosion</span><span class="citation-popover-snippet">Co-founder Jack Clark predicts a greater than 60% chance that by 2028, an AI system could autonomously build a better version of itself...</span></span></span> For AI doom discussions, this uncertainty matters because p(doom) estimates often depend heavily on takeoff assumptions. A world with years of warning and repeated opportunities for intervention looks very different from a world where critical capability thresholds are crossed in a matter of weeks. The debate over FOOM timelines is therefore not just about forecasting technological progress. It is about estimating how much opportunity humanity would have to recognise danger and respond before control becomes difficult or impossible.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9s3XctQOgew" title="Curtis Huebner—AGI by 2028, 90% Doom" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9s3XctQOgew" target="_blank" rel="noopener noreferrer">Curtis Huebner—AGI by 2028, 90% Doom</a></p><p class="youtube-embed-meta">Channel: The Inside View &middot; Views: 10.0K &middot; Uploaded: July 2023 &middot; Length: 1 hour 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9s3XctQOgew" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9s3XctQOgew">Open on YouTube</a></p></div></div></div>
@@ -499,7 +499,7 @@ Some point to AI systems increasingly contributing to AI development as the most
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -509,111 +509,36 @@ Some point to AI systems increasingly contributing to AI development as the most
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-takeoff-what-would-warn-us-before-foom-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HALEY JOEL OSMENT SIGNED ARTIFICIAL INTELLIGENCE AI 12X18 MOVIE POSTER PHOTO BAS"><img src="{{ '/assets/images/marketplace-covers/3d12bbcc085ead81e29b.jpg' | relative_url }}" alt="Listing image for HALEY JOEL OSMENT SIGNED ARTIFICIAL INTELLIGENCE AI 12X18 MOVIE POSTER PHOTO BAS" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-warn-us-before-foom-artificial-intelligence-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence t shirt" data-ebay-reference="what-would-warn-us-before-foom-artificial-intelligence-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eat Sleep Artificial Intelligence T shirt Tee"><img src="https://i.ebayimg.com/images/g/P9YAAOSwpWBaqsdx/s-l225.jpg" alt="Listing image for Eat Sleep Artificial Intelligence T shirt Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-takeoff-what-would-warn-us-before-foom-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">HALEY JOEL OSMENT SIGNED ARTIFICIAL INTELLIGENCE AI 12X18 MOVIE POSTER PHOTO BAS</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-warn-us-before-foom-artificial-intelligence-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence t shirt" data-ebay-reference="what-would-warn-us-before-foom-artificial-intelligence-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Eat Sleep Artificial Intelligence T shirt Tee</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-takeoff-what-would-warn-us-before-foom-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.com</span>: artificial intelligence poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-warn-us-before-foom-artificial-intelligence-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence t shirt" data-ebay-reference="what-would-warn-us-before-foom-artificial-intelligence-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-takeoff-what-would-warn-us-before-foom-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-takeoff-what-would-warn-us-before-foom-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Companion - Artificial Intelligence Dark Comedy Cinema Film - POSTER 20&quot;x30&quot;"><img src="{{ '/assets/images/marketplace-covers/23a7b1724046ba6c1026.jpg' | relative_url }}" alt="Listing image for Companion - Artificial Intelligence Dark Comedy Cinema Film - POSTER 20&quot;x30&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-takeoff-what-would-warn-us-before-foom-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Companion - Artificial Intelligence Dark Comedy Cinema Film - POSTER 20&quot;x30&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-takeoff-what-would-warn-us-before-foom-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.com</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-takeoff-what-would-warn-us-before-foom-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-takeoff-what-would-warn-us-before-foom-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Artificial Intelligence D/S Original Movie Poster - 27 x 40&quot;"><img src="{{ '/assets/images/marketplace-covers/ee257b4353feff751eb7.jpg' | relative_url }}" alt="Listing image for Artificial Intelligence D/S Original Movie Poster - 27 x 40&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-takeoff-what-would-warn-us-before-foom-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Artificial Intelligence D/S Original Movie Poster - 27 x 40&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-takeoff-what-would-warn-us-before-foom-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.com</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-takeoff-what-would-warn-us-before-foom-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-takeoff-what-would-warn-us-before-foom-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI Artificial Intelligence Original 2001 Movie Poster 27x40 DS"><img src="{{ '/assets/images/marketplace-covers/ee2480d2e31d09060c16.jpg' | relative_url }}" alt="Listing image for AI Artificial Intelligence Original 2001 Movie Poster 27x40 DS" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-takeoff-what-would-warn-us-before-foom-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">AI Artificial Intelligence Original 2001 Movie Poster 27x40 DS</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-takeoff-what-would-warn-us-before-foom-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.com</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-takeoff-what-would-warn-us-before-foom-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-takeoff-what-would-warn-us-before-foom-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-takeoff-what-would-warn-us-before-foom-ai-doom-and-technology-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for yellow technology tree Framed Art P Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6e1f60225a82588553d0.jpg' | relative_url }}" alt="Listing image for yellow technology tree Framed Art P Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-takeoff-what-would-warn-us-before-foom-ai-doom-and-technology-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">yellow technology tree Framed Art P Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-takeoff-what-would-warn-us-before-foom-ai-doom-and-technology-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: technology wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-takeoff-what-would-warn-us-before-foom-ai-doom-and-technology-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-warn-us-before-foom-artificial-intelligence-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence t shirt" data-ebay-reference="what-would-warn-us-before-foom-artificial-intelligence-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -621,15 +546,15 @@ Some point to AI systems increasingly contributing to AI development as the most
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-takeoff-what-would-warn-us-before-foom-ai-doom-and-technology-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RETRO TECHNOLOGY Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/52587c8494bbf9efb04f.jpg' | relative_url }}" alt="Listing image for RETRO TECHNOLOGY Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-warn-us-before-foom-artificial-intelligence-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence t shirt" data-ebay-reference="what-would-warn-us-before-foom-artificial-intelligence-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Think Beyond The Algorithm Mens T-Shirt Artificial Intelligence Technology Gift"><img src="https://i.ebayimg.com/images/g/O-AAAeSwWK1prCZi/s-l225.jpg" alt="Listing image for Think Beyond The Algorithm Mens T-Shirt Artificial Intelligence Technology Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-takeoff-what-would-warn-us-before-foom-ai-doom-and-technology-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">RETRO TECHNOLOGY Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-warn-us-before-foom-artificial-intelligence-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence t shirt" data-ebay-reference="what-would-warn-us-before-foom-artificial-intelligence-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Think Beyond The Algorithm Mens T-Shirt Artificial Intelligence Technology Gift</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-takeoff-what-would-warn-us-before-foom-ai-doom-and-technology-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: technology wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-warn-us-before-foom-artificial-intelligence-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence t shirt" data-ebay-reference="what-would-warn-us-before-foom-artificial-intelligence-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-takeoff-what-would-warn-us-before-foom-ai-doom-and-technology-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-warn-us-before-foom-artificial-intelligence-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence t shirt" data-ebay-reference="what-would-warn-us-before-foom-artificial-intelligence-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -637,15 +562,15 @@ Some point to AI systems increasingly contributing to AI development as the most
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-takeoff-what-would-warn-us-before-foom-ai-doom-and-technology-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Framed iPhone 7 Wall Art – Deconstructed Tech Frame | Unique Gift | UK Made"><img src="{{ '/assets/images/marketplace-covers/5bc2986344f968932a31.jpg' | relative_url }}" alt="Listing image for Framed iPhone 7 Wall Art – Deconstructed Tech Frame | Unique Gift | UK Made" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-warn-us-before-foom-artificial-intelligence-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence t shirt" data-ebay-reference="what-would-warn-us-before-foom-artificial-intelligence-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Artificial Intelligence Robot Machine Movie Mens T-Shirt 100% Cotton"><img src="https://i.ebayimg.com/images/g/QYwAAOSwQyVnJ85i/s-l225.jpg" alt="Listing image for Artificial Intelligence Robot Machine Movie Mens T-Shirt 100% Cotton" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-takeoff-what-would-warn-us-before-foom-ai-doom-and-technology-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Framed iPhone 7 Wall Art – Deconstructed Tech Frame | Unique Gift | UK Made</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-warn-us-before-foom-artificial-intelligence-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence t shirt" data-ebay-reference="what-would-warn-us-before-foom-artificial-intelligence-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Artificial Intelligence Robot Machine Movie Mens T-Shirt 100% Cotton</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-takeoff-what-would-warn-us-before-foom-ai-doom-and-technology-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: technology wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-warn-us-before-foom-artificial-intelligence-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence t shirt" data-ebay-reference="what-would-warn-us-before-foom-artificial-intelligence-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-takeoff-what-would-warn-us-before-foom-ai-doom-and-technology-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-warn-us-before-foom-artificial-intelligence-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence t shirt" data-ebay-reference="what-would-warn-us-before-foom-artificial-intelligence-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -653,15 +578,15 @@ Some point to AI systems increasingly contributing to AI development as the most
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-takeoff-what-would-warn-us-before-foom-ai-doom-and-technology-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Technology girl Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/d15790f38a23a1e38b22.jpg' | relative_url }}" alt="Listing image for Technology girl Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-warn-us-before-foom-artificial-intelligence-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence t shirt" data-ebay-reference="what-would-warn-us-before-foom-artificial-intelligence-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Love Artificial Intelligence T shirt I Heart Artificial Intelligence Tee"><img src="https://i.ebayimg.com/images/g/GfMAAOSw7GNaqsdR/s-l225.jpg" alt="Listing image for I Love Artificial Intelligence T shirt I Heart Artificial Intelligence Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-takeoff-what-would-warn-us-before-foom-ai-doom-and-technology-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Technology girl Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-warn-us-before-foom-artificial-intelligence-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence t shirt" data-ebay-reference="what-would-warn-us-before-foom-artificial-intelligence-t-shirt" target="_blank" rel="sponsored noopener noreferrer">I Love Artificial Intelligence T shirt I Heart Artificial Intelligence Tee</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-takeoff-what-would-warn-us-before-foom-ai-doom-and-technology-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: technology wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-warn-us-before-foom-artificial-intelligence-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence t shirt" data-ebay-reference="what-would-warn-us-before-foom-artificial-intelligence-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-takeoff-what-would-warn-us-before-foom-ai-doom-and-technology-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-warn-us-before-foom-artificial-intelligence-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence t shirt" data-ebay-reference="what-would-warn-us-before-foom-artificial-intelligence-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -669,7 +594,7 @@ Some point to AI systems increasingly contributing to AI development as the most
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-takeoff-what-would-warn-us-before-foom-ai-doom-and-technology-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-warn-us-before-foom-artificial-intelligence-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence t shirt" data-ebay-reference="what-would-warn-us-before-foom-artificial-intelligence-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -746,17 +671,31 @@ Some point to AI systems increasingly contributing to AI development as the most
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -769,42 +708,73 @@ Some point to AI systems increasingly contributing to AI development as the most
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -819,183 +789,187 @@ Some point to AI systems increasingly contributing to AI development as the most
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: ai-safety-atlas.com  
    Title: AI Safety Atlas Takeoff  
-   Link: [https://ai-safety-atlas.com/chapters/v1/capabilities/takeoff/](https://ai-safety-atlas.com/chapters/v1/capabilities/takeoff/)  
+   Link: <a href="https://ai-safety-atlas.com/chapters/v1/capabilities/takeoff/" target="_blank" rel="noopener noreferrer nofollow">https://ai-safety-atlas.com/chapters/v1/capabilities/takeoff/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Safety AtlasTakeoff - Chapter 1Fast takeoff describes scenarios where AI capabilities increase dramatically over very short periods...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: lesswrong.com  
-   Title: [ai takeoff](&#123;&#123; 'ai-takeoff/' | relative_url &#125;&#125;)  
-   Link: [https://www.lesswrong.com/w/ai-takeoff?lw_source=import_sheet&revision=0.0.24](https://www.lesswrong.com/w/ai-takeoff?lw_source=import_sheet&revision=0.0.24)  
+   Title: ai takeoff  
+   Link: <a href="https://www.lesswrong.com/w/ai-takeoff?lw_source=import_sheet&amp;revision=0.0.24" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/w/ai-takeoff?lw_source=import_sheet&amp;revision=0.0.24</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>30 Dec 2024 — A hard takeoff (or an AI going &quot;FOOM&quot;) refers to AGI expansion in a matter of minutes, days, or months. It is a fast, abrup...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: intelligence.org  
    Title: Whoever builds AGI  
-   Link: [https://intelligence.org/2021/11/22/yudkowsky-and-christiano-discuss-takeoff-speeds/](https://intelligence.org/2021/11/22/yudkowsky-and-christiano-discuss-takeoff-speeds/)  
+   Link: <a href="https://intelligence.org/2021/11/22/yudkowsky-and-christiano-discuss-takeoff-speeds/" target="_blank" rel="noopener noreferrer nofollow">https://intelligence.org/2021/11/22/yudkowsky-and-christiano-discuss-takeoff-speeds/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Machine Intelligence Research InstituteYudkowsky and Christiano discuss &quot;Takeoff Speeds&quot;22 Nov 2021 — In the fast takeoff scenario, weake...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/accelerate/comments/1ijd1gx/are_we_heading_for_a_hard_takeoff_how_do_you/](https://www.reddit.com/r/accelerate/comments/1ijd1gx/are_we_heading_for_a_hard_takeoff_how_do_you/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditAre we heading for a hard takeoff? How do you think it...Personally, I think it will be a hard takeoff in terms of self-recursive...</p></details>
+   Link: <a href="https://www.reddit.com/r/accelerate/comments/1ijd1gx/are_we_heading_for_a_hard_takeoff_how_do_you/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/accelerate/comments/1ijd1gx/are_we_heading_for_a_hard_takeoff_how_do_you/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Are we heading for a hard takeoff? How do you think it...Personally, I think it will be a hard takeoff in terms of self-recursive...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/slatestarcodex/comments/1id2k1x/if_we_are_in_a_fasttakeoff_world_how_long_until/](https://www.reddit.com/r/slatestarcodex/comments/1id2k1x/if_we_are_in_a_fasttakeoff_world_how_long_until/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditIf we are in a fast-takeoff world, how long until this is...Fast takeoffs preclude many warning signs: Sustained economic growth s...</p></details>
+   Link: <a href="https://www.reddit.com/r/slatestarcodex/comments/1id2k1x/if_we_are_in_a_fasttakeoff_world_how_long_until/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/slatestarcodex/comments/1id2k1x/if_we_are_in_a_fasttakeoff_world_how_long_until/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>If we are in a fast-takeoff world, how long until this is...Fast takeoffs preclude many warning signs: Sustained economic growth s...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: axios.com  
    Title: Behind the Curtain: Intelligence explosion  
-   Link: [https://www.axios.com/2026/05/07/[anthropic](https://www.axios.com/2026/05/07/[anthropic)  
+   Link: <a href="https://www.axios.com/2026/05/07/anthropic-jack-clark-ai-intelligence-explosion" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2026/05/07/anthropic-jack-clark-ai-intelligence-explosion</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Co-founder Jack Clark predicts a greater than 60% chance that by 2028, an AI system could autonomously build a better version of itself...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
    Title: arXiv Evaluating Frontier Models for Stealth and Situational Awareness  
-   Link: [https://arxiv.org/abs/2505.01420](https://arxiv.org/abs/2505.01420)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivEvaluating Frontier Models for Stealth and Situational AwarenessMay 2, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2505.01420" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.01420</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating Frontier Models for Stealth and Situational AwarenessMay 2, 2025...</p></details>
    Published: May 2, 2025  
 
 8. <a id="endnote-8"></a>
    Source: openreview.net  
-   Link: [https://openreview.net/forum?id=Daqfkiy6z4](https://openreview.net/forum?id=Daqfkiy6z4)  
+   Link: <a href="https://openreview.net/forum?id=Daqfkiy6z4" target="_blank" rel="noopener noreferrer nofollow">https://openreview.net/forum?id=Daqfkiy6z4</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating Frontier Models for Stealth and Situational...by M Phuong · 2025 · Cited by 35 — After extensive discussion with the authors...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
    Title: arXiv Evaluating Frontier Models for Dangerous Capabilities  
-   Link: [https://arxiv.org/abs/2403.13793](https://arxiv.org/abs/2403.13793)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivEvaluating Frontier Models for Dangerous CapabilitiesMarch 20, 2024...</p></details>
+   Link: <a href="https://arxiv.org/abs/2403.13793" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.13793</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating Frontier Models for Dangerous CapabilitiesMarch 20, 2024...</p></details>
    Published: March 20, 2024  
 
 10. <a id="endnote-10"></a>
    Source: ai-safety-atlas.com  
    Title: AI Safety Atlas Dangerous Capability Evaluations  
-   Link: [https://ai-safety-atlas.com/chapters/v1/evaluations/dangerous-capability-evaluations/](https://ai-safety-atlas.com/chapters/v1/evaluations/dangerous-capability-evaluations/)  
+   Link: <a href="https://ai-safety-atlas.com/chapters/v1/evaluations/dangerous-capability-evaluations/" target="_blank" rel="noopener noreferrer nofollow">https://ai-safety-atlas.com/chapters/v1/evaluations/dangerous-capability-evaluations/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dangerous Capability Evaluations - Chapter 5Dangerous capability evaluations specifically probe for these potentially harmful abilities...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2412.08653v1](https://arxiv.org/html/2412.08653v1)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivWhat [AI evaluations](&amp;#123;&amp;#123; &#x27;ai-evaluations/&#x27; | relative_url &amp;#125;&amp;#125;) for preventing catastrophic risks can...26 Nov 2024 — The hope is that this gap would give evaluators time to d...</p></details>
+   Link: <a href="https://arxiv.org/html/2412.08653v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2412.08653v1</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>What [AI evaluations](&amp;#123;&amp;#123; &#x27;ai-evaluations/&#x27; | relative_url &amp;#125;&amp;#125;) for preventing catastrophic risks can...26 Nov 2024 — The hope is that this gap would give evaluators time to d...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2412.15433](https://arxiv.org/abs/2412.15433)  
+   Link: <a href="https://arxiv.org/abs/2412.15433" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2412.15433</a>  
 
 13. <a id="endnote-13"></a>
    Source: sideways-view.com  
    Title: The sideways view Takeoff speeds  
-   Link: [https://sideways-view.com/2018/02/24/takeoff-speeds/](https://sideways-view.com/2018/02/24/takeoff-speeds/)  
+   Link: <a href="https://sideways-view.com/2018/02/24/takeoff-speeds/" target="_blank" rel="noopener noreferrer nofollow">https://sideways-view.com/2018/02/24/takeoff-speeds/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The sideways viewTakeoff speedsFebruary 24, 2018 — 24 Feb 2018 — Slower takeoff means faster progress. Fast takeoff is often justified by...</p></details>
    Published: February 24, 2018  
 
 14. <a id="endnote-14"></a>
    Source: lesswrong.com  
-   Link: [https://www.lesswrong.com/s/QyQcBpSur9SFyRuvB/p/AfGmsjGPXN97kNp57](https://www.lesswrong.com/s/QyQcBpSur9SFyRuvB/p/AfGmsjGPXN97kNp57)  
+   Link: <a href="https://www.lesswrong.com/s/QyQcBpSur9SFyRuvB/p/AfGmsjGPXN97kNp57" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/s/QyQcBpSur9SFyRuvB/p/AfGmsjGPXN97kNp57</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Arguments about fast takeoff24 Feb 2018 — The basic case for slow takeoff is: &quot;it&#x27;s easier to build a crappier version of something&quot; + &quot;a...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: lesswrong.com  
    Title: yudkowsky and christiano discuss takeoff speeds  
-   Link: [https://www.lesswrong.com/posts/vwLxd6hhFvPbvKmBH/yudkowsky-and-christiano-discuss-takeoff-speeds](https://www.lesswrong.com/posts/vwLxd6hhFvPbvKmBH/yudkowsky-and-christiano-discuss-takeoff-speeds)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LessWrongYudkowsky and Christiano discuss &quot;Takeoff Speeds&quot;22 Nov 2021 — This is a transcription of Eliezer Yudkowsky responding to Paul C...</p></details>
+   Link: <a href="https://www.lesswrong.com/posts/vwLxd6hhFvPbvKmBH/yudkowsky-and-christiano-discuss-takeoff-speeds" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/posts/vwLxd6hhFvPbvKmBH/yudkowsky-and-christiano-discuss-takeoff-speeds</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Yudkowsky and Christiano discuss &quot;Takeoff Speeds&quot;22 Nov 2021 — This is a transcription of Eliezer Yudkowsky responding to Paul C...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/OpenAI/comments/1phbgeg/stuart_russell_says_ai_companies_now_worry_about/](https://www.reddit.com/r/OpenAI/comments/1phbgeg/stuart_russell_says_ai_companies_now_worry_about/)  
+   Link: <a href="https://www.reddit.com/r/OpenAI/comments/1phbgeg/stuart_russell_says_ai_companies_now_worry_about/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/OpenAI/comments/1phbgeg/stuart_russell_says_ai_companies_now_worry_about/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI with an IQ of 150 could improve its own algorithms to reach 170...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: situational-awareness.ai  
-   Link: [https://situational-awareness.ai/wp-content/uploads/2024/06/situationalawareness.pdf](https://situational-awareness.ai/wp-content/uploads/2024/06/situationalawareness.pdf)  
+   Link: <a href="https://situational-awareness.ai/wp-content/uploads/2024/06/situationalawareness.pdf" target="_blank" rel="noopener noreferrer nofollow">https://situational-awareness.ai/wp-content/uploads/2024/06/situationalawareness.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>pdf6 Jun 2024 — Rather than iteratively encountering increasingly more dangerous safety failures in the wild, the first notable safety fa...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: alignmentforum.org  
    Title: distinguishing definitions of takeoff  
-   Link: [https://www.alignmentforum.org/posts/YgNYA6pj2hPSDQiTE/distinguishing-definitions-of-takeoff](https://www.alignmentforum.org/posts/YgNYA6pj2hPSDQiTE/distinguishing-definitions-of-takeoff)  
+   Link: <a href="https://www.alignmentforum.org/posts/YgNYA6pj2hPSDQiTE/distinguishing-definitions-of-takeoff" target="_blank" rel="noopener noreferrer nofollow">https://www.alignmentforum.org/posts/YgNYA6pj2hPSDQiTE/distinguishing-definitions-of-takeoff</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Alignment ForumDistinguishing definitions of takeoff13 Feb 2020 — A fast takeoff is one that occurs over the timescale of minutes, hou...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: forum.effectivealtruism.org  
    Title: Conventional wisdom will still say that transformative AI is thirty  
-   Link: [https://forum.effectivealtruism.org/posts/x3MSTGhxChEZsRvwB/yudkowsky-and-christiano-on-ai-takeoff-speeds-linkpost](https://forum.effectivealtruism.org/posts/x3MSTGhxChEZsRvwB/yudkowsky-and-christiano-on-ai-takeoff-speeds-linkpost)  
+   Link: <a href="https://forum.effectivealtruism.org/posts/x3MSTGhxChEZsRvwB/yudkowsky-and-christiano-on-ai-takeoff-speeds-linkpost" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/x3MSTGhxChEZsRvwB/yudkowsky-and-christiano-on-ai-takeoff-speeds-linkpost</a>  
 
 20. <a id="endnote-20"></a>
    Source: alignmentforum.org  
    Title: takeoff speeds have a huge effect on what it means to work 1  
-   Link: [https://www.alignmentforum.org/posts/hRohhttbtpY3SHmmD/takeoff-speeds-have-a-huge-effect-on-what-it-means-to-work-1](https://www.alignmentforum.org/posts/hRohhttbtpY3SHmmD/takeoff-speeds-have-a-huge-effect-on-what-it-means-to-work-1)  
+   Link: <a href="https://www.alignmentforum.org/posts/hRohhttbtpY3SHmmD/takeoff-speeds-have-a-huge-effect-on-what-it-means-to-work-1" target="_blank" rel="noopener noreferrer nofollow">https://www.alignmentforum.org/posts/hRohhttbtpY3SHmmD/takeoff-speeds-have-a-huge-effect-on-what-it-means-to-work-1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Whether AI is a...</p></details>
 
 ### Additional References
 
 21. <a id="endnote-21"></a>
    Source: simonlermen.substack.com  
-   Link: [https://simonlermen.substack.com/p/the-term-recursive-self-improvement](https://simonlermen.substack.com/p/the-term-recursive-self-improvement)  
+   Link: <a href="https://simonlermen.substack.com/p/the-term-recursive-self-improvement" target="_blank" rel="noopener noreferrer nofollow">https://simonlermen.substack.com/p/the-term-recursive-self-improvement</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Term Recursive Self-Improvement Is Often Used IncorrectlyThe term Recursive Self-Improvement (RSI) now seems to get used sometimes fo...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: longtermrisk.org  
-   Link: [https://longtermrisk.org/against-gdp-as-a-metric-for-ai-timelines-and-takeoff-speeds/](https://longtermrisk.org/against-gdp-as-a-metric-for-ai-timelines-and-takeoff-speeds/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Center on Long-Term RiskAgainst GDP as a metric for [AI timelines](&amp;#123;&amp;#123; &#x27;timeline-effects/&#x27; | relative_url &amp;#125;&amp;#125;) and takeoff speeds30 Dec 2020 — Takeoff Speeds: Paul Christiano argues f...</p></details>
+   Link: <a href="https://longtermrisk.org/against-gdp-as-a-metric-for-ai-timelines-and-takeoff-speeds/" target="_blank" rel="noopener noreferrer nofollow">https://longtermrisk.org/against-gdp-as-a-metric-for-ai-timelines-and-takeoff-speeds/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Center on Long-Term RiskAgainst GDP as a metric for AI timelines and takeoff speeds30 Dec 2020 — Takeoff Speeds: Paul Christiano argues f...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: cognitiverevolution.ai  
    Title: situational awareness in government with uk aisi chief scientist geoffrey irving  
-   Link: [https://www.cognitiverevolution.ai/situational-awareness-in-government-with-uk-aisi-chief-scientist-geoffrey-irving/](https://www.cognitiverevolution.ai/situational-awareness-in-government-with-uk-aisi-chief-scientist-geoffrey-irving/)  
+   Link: <a href="https://www.cognitiverevolution.ai/situational-awareness-in-government-with-uk-aisi-chief-scientist-geoffrey-irving/" target="_blank" rel="noopener noreferrer nofollow">https://www.cognitiverevolution.ai/situational-awareness-in-government-with-uk-aisi-chief-scientist-geoffrey-irving/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Situational Awareness in Government, with UK AISI Chief...1 Mar 2026 — pre-release frontier model evaluation for dangerous capabilities...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: x.com  
-   Link: [https://x.com/jarokrolewski/status/2008223852040437930](https://x.com/jarokrolewski/status/2008223852040437930)  
+   Link: <a href="https://x.com/jarokrolewski/status/2008223852040437930" target="_blank" rel="noopener noreferrer nofollow">https://x.com/jarokrolewski/status/2008223852040437930</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>s that make them potentially dangerous. And here&#x27;s where...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: medium.com  
-   Link: [https://medium.com/agi-is-living-intelligence/situational-awareness-in-ai-thats-just-how-minds-work-637fac171f8f](https://medium.com/agi-is-living-intelligence/situational-awareness-in-ai-thats-just-how-minds-work-637fac171f8f)  
+   Link: <a href="https://medium.com/agi-is-living-intelligence/situational-awareness-in-ai-thats-just-how-minds-work-637fac171f8f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/agi-is-living-intelligence/situational-awareness-in-ai-thats-just-how-minds-work-637fac171f8f</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>context of interaction. Is this dangerous? Only if we&#x27;ve...Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/future-ai-why-recursive-self-improvement-may-lead-hard-gary-ramah-grn5c](https://www.linkedin.com/pulse/future-ai-why-recursive-self-improvement-may-lead-hard-gary-ramah-grn5c)  
+   Link: <a href="https://www.linkedin.com/pulse/future-ai-why-recursive-self-improvement-may-lead-hard-gary-ramah-grn5c" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/future-ai-why-recursive-self-improvement-may-lead-hard-gary-ramah-grn5c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ystems will reach a level of sophistication where they can...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: planned-obsolescence.org  
    Title: takeoff speeds rule everything around  
-   Link: [https://www.planned-obsolescence.org/p/takeoff-speeds-rule-everything-around](https://www.planned-obsolescence.org/p/takeoff-speeds-rule-everything-around)  
+   Link: <a href="https://www.planned-obsolescence.org/p/takeoff-speeds-rule-everything-around" target="_blank" rel="noopener noreferrer nofollow">https://www.planned-obsolescence.org/p/takeoff-speeds-rule-everything-around</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>me12 Feb 2026 — The classic definition of takeoff speed is the amount of time it takes to go from AGI to superintelligence,2 but both of...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: futureoflife.org  
-   Link: [https://futureoflife.org/wp-content/uploads/2025/11/Indicator-Dangerous_Capability_Evaluations.pdf](https://futureoflife.org/wp-content/uploads/2025/11/Indicator-Dangerous_Capability_Evaluations.pdf)  
+   Link: <a href="https://futureoflife.org/wp-content/uploads/2025/11/Indicator-Dangerous_Capability_Evaluations.pdf" target="_blank" rel="noopener noreferrer nofollow">https://futureoflife.org/wp-content/uploads/2025/11/Indicator-Dangerous_Capability_Evaluations.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>gerous dual-use capabilities. It remains...Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
    Title: The AI Intelligence Explosion: Why Recursive Self-Improvement Changes Everything  
-   Link: [https://www.youtube.com/watch?v=xRQQFCWhobc](https://www.youtube.com/watch?v=xRQQFCWhobc)  
+   Link: <a href="https://www.youtube.com/watch?v=xRQQFCWhobc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xRQQFCWhobc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Recursive Self-Improvement: The AI Feedback Loop Behind the “Intelligence Explosion”...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: aisecurityandsafety.org  
-   Link: [https://aisecurityandsafety.org/en/guides/ai-situational-awareness/](https://aisecurityandsafety.org/en/guides/ai-situational-awareness/)  
+   Link: <a href="https://aisecurityandsafety.org/en/guides/ai-situational-awareness/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/en/guides/ai-situational-awareness/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security &amp; Safety DirectoryAI Situational Awareness: The Complete Guide (2026)25 Mar 2026 — Some researchers argue that strong situati...</p></details>

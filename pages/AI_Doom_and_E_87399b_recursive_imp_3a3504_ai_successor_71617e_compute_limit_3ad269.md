@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e_coding_agents_5cf58d
 - AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e_synthetic_dat_d1a2c9
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - ai-takeoff
 - successor-training
 - compute-limits
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - ai-takeoff
 - successor-training
 - compute-limits
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Even a brilliant automated researcher would still need chips, data centres, electricity, and capital to train a stronger successor.
 hero_summary: Even a brilliant automated researcher would still need chips, data centres, electricity, and capital to train a stronger successor.
 layout: default
 permalink: /compute-limits/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /ai-takeoff/
 - /successor-training/
 nav_short_title: Compute limits
@@ -211,10 +211,10 @@ parent_heading_title: Could AI train the next AI itself?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_recursive_imp_3a3504
-  title: AI Takeoff | AI Doom and
+  title: AI Takeoff | AI Doom and E 87399 b
   permalink: /ai-takeoff/
   short_title: AI Takeoff
   heading_title: Could AI Improvement Run Away From US?
@@ -226,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_recursive_imp_3a3504
-  title: AI Takeoff | AI Doom and
+  title: AI Takeoff | AI Doom and E 87399 b
   permalink: /ai-takeoff/
   short_title: AI Takeoff
   heading_title: Could AI Improvement Run Away From US?
@@ -275,15 +275,15 @@ image: /assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_716
 
 ## Introduction
 
-One objection to runaway AI self-improvement is simple: intelligence is not the same thing as compute. Even if an AI became an excellent researcher and could help design a stronger successor, it would still need vast amounts of computing hardware, [electricity]({{ 'power-limits/' | relative_url }}), data-centre capacity, and funding to train that successor. In the AI doom debate, this matters because many fast-takeoff scenarios assume that each generation of AI can rapidly create a more capable next generation. Compute constraints are one of the strongest reasons to think that such feedback loops could be slower, more expensive, and easier to observe than some classic intelligence-explosion stories suggest.
+One objection to runaway AI self-improvement is simple: intelligence is not the same thing as compute. Even if an AI became an excellent researcher and could help design a stronger successor, it would still need vast amounts of computing hardware, electricity, data-centre capacity, and funding to train that successor. In the AI doom debate, this matters because many fast-takeoff scenarios assume that each generation of AI can rapidly create a more capable next generation. Compute constraints are one of the strongest reasons to think that such feedback loops could be slower, more expensive, and easier to observe than some classic intelligence-explosion stories suggest.
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e_compute_limit_3ad269-Illustration-1-dark.svg" | relative_url }}" alt="Compute limits illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e_compute_limit_3ad269-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e_compute_limit_3ad269-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-At the same time, compute limits are not necessarily permanent barriers. Recent decades have seen extraordinary growth in AI training compute, supported by expanding chip production, larger data centres, improving algorithms, and huge capital investment. The key question is therefore not whether compute matters—it clearly does—but whether physical infrastructure grows fast enough to keep pace with increasingly capable automated [AI research]({{ 'ai-research-loop/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://epoch.ai/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epoch.ai">[Epoch AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epoch.ai</span><span class="citation-popover-snippet">The amount of compute used to train frontier language models has grown exponentially. Since 2020, the trend among top-5 models ha...</span></span></span>
+At the same time, compute limits are not necessarily permanent barriers. Recent decades have seen extraordinary growth in AI training compute, supported by expanding chip production, larger data centres, improving algorithms, and huge capital investment. The key question is therefore not whether compute matters—it clearly does—but whether physical infrastructure grows fast enough to keep pace with increasingly capable automated AI research. <span class="citation-chip-wrap"><a class="citation-chip" href="https://epoch.ai/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epoch.ai">[Epoch AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epoch.ai</span><span class="citation-popover-snippet">The amount of compute used to train frontier language models has grown exponentially. Since 2020, the trend among top-5 models ha...</span></span></span>
 
 ## Why training successors requires physical infrastructure
 
-A common misunderstanding in discussions of [recursive]({{ 'ai-takeoff/' | relative_url }}) self-improvement is that a smarter AI could improve itself purely through software. In reality, training a frontier model is a large industrial process.
+A common misunderstanding in discussions of recursive self-improvement is that a smarter AI could improve itself purely through software. In reality, training a frontier model is a large industrial process.
 
 Creating a more capable successor typically requires:
 
@@ -298,7 +298,7 @@ Creating a more capable successor typically requires:
 
 </div>
 
-Even if an AI system generated brilliant new algorithms, those ideas would still need to be tested and validated through experiments that consume real computational resources. Frontier model training already operates at scales where hardware acquisition, cluster construction, and energy supply become major strategic concerns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2405.21015" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The rising costs of training frontier AI models</span><span class="citation-popover-snippet">arXivThe rising costs of training frontier AI modelsMay 31, 2024...</span><span class="citation-popover-meta">Published: May 31, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-next-big-shifts-in-ai-workloads-and-hyperscaler-strategies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mckinsey.com">[McKinsey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mckinsey.com</span><span class="citation-popover-title">the next big shifts in ai workloads and hyperscaler strategies</span><span class="citation-popover-snippet">McKinsey &amp; CompanyThe next big shifts in AI workloads and hyperscaler strategies17 Dec 2025 — Training workloads will demand up to one me...</span></span></span> & Company
+Even if an AI system generated brilliant new algorithms, those ideas would still need to be tested and validated through experiments that consume real computational resources. Frontier model training already operates at scales where hardware acquisition, cluster construction, and energy supply become major strategic concerns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2405.21015" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The rising costs of training frontier AI models</span><span class="citation-popover-snippet">The rising costs of training frontier AI modelsMay 31, 2024...</span><span class="citation-popover-meta">Published: May 31, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-next-big-shifts-in-ai-workloads-and-hyperscaler-strategies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mckinsey.com">[McKinsey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mckinsey.com</span><span class="citation-popover-title">the next big shifts in ai workloads and hyperscaler strategies</span><span class="citation-popover-snippet">McKinsey &amp; CompanyThe next big shifts in AI workloads and hyperscaler strategies17 Dec 2025 — Training workloads will demand up to one me...</span></span></span> & Company
 
 This creates a distinction that is often blurred in public discussions. An AI may be able to automate cognitive labour—writing code, designing experiments, analysing results—without automatically solving physical bottlenecks such as chip manufacturing or power generation.
 
@@ -311,9 +311,9 @@ This creates a distinction that is often blurred in public discussions. An AI ma
 
 Advanced AI training depends heavily on specialised accelerators such as GPUs and related hardware. Manufacturing these chips requires complex global supply chains, advanced fabrication facilities, packaging technologies, and specialised equipment.
 
-A hypothetical [AI researcher]({{ 'expert-surveys/' | relative_url }}) might discover a better model architecture in days, but obtaining another hundred thousand cutting-edge chips could take months or years. Semiconductor production capacity expands slowly compared with software development cycles. This means that a self-improving AI system may encounter a hard resource constraint even if its research capability grows rapidly.
+A hypothetical AI researcher might discover a better model architecture in days, but obtaining another hundred thousand cutting-edge chips could take months or years. Semiconductor production capacity expands slowly compared with software development cycles. This means that a self-improving AI system may encounter a hard resource constraint even if its research capability grows rapidly.
 
-This is one reason why some researchers see compute [governance]({{ 'governance/' | relative_url }})—monitoring and controlling access to large-scale computing resources—as a potentially powerful safety lever. Unlike software, large training runs leave physical traces in supply chains, energy systems, and data-centre operations.
+This is one reason why some researchers see compute [governance]({{ 'governance/' | relative_url }})—[monitoring]({{ 'monitoring/' | relative_url }}) and controlling access to large-scale computing resources—as a potentially powerful safety lever. Unlike software, large training runs leave physical traces in supply chains, energy systems, and data-centre operations.
 
 ### Electricity increasingly matters
 
@@ -323,7 +323,7 @@ For AI doom debates, this matters because recursive self-improvement models some
 
 ### Capital is another constraint
 
-Training frontier systems has become extraordinarily expensive. Analyses of training costs suggest that the largest models require investments ranging from tens of millions to hundreds of millions of dollars, with costs historically rising rapidly. Some forecasts suggest that frontier training runs could reach billion-dollar scales if current trends continue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2405.21015" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The rising costs of training frontier AI models</span><span class="citation-popover-snippet">arXivThe rising costs of training frontier AI modelsMay 31, 2024...</span><span class="citation-popover-meta">Published: May 31, 2024</span></span></span>
+Training frontier systems has become extraordinarily expensive. Analyses of training costs suggest that the largest models require investments ranging from tens of millions to hundreds of millions of dollars, with costs historically rising rapidly. Some forecasts suggest that frontier training runs could reach billion-dollar scales if current trends continue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2405.21015" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The rising costs of training frontier AI models</span><span class="citation-popover-snippet">The rising costs of training frontier AI modelsMay 31, 2024...</span><span class="citation-popover-meta">Published: May 31, 2024</span></span></span>
 
 As a result, only a small number of organisations currently possess the resources needed to train the largest models. An autonomous AI would not merely need technical knowledge; it would also need continued access to enormous financial and industrial resources.
 
@@ -377,7 +377,7 @@ For people estimating p(doom)—the probability that advanced AI leads to existe
 
 They weaken the strongest versions of the claim that a single AI could instantly and invisibly race far beyond human capabilities. Physical infrastructure introduces delays, costs, dependencies, and opportunities for monitoring.
 
-But compute limits do not eliminate concerns about loss of control. A system may become strategically dangerous long before it reaches the maximum scale allowed by global chip production. Moreover, history shows that when powerful technologies generate economic and geopolitical advantages, societies often invest heavily in expanding the underlying infrastructure.
+But compute limits do not eliminate concerns about [loss of control]({{ 'loss-of-control/' | relative_url }}). A system may become strategically dangerous long before it reaches the maximum scale allowed by global chip production. Moreover, history shows that when powerful technologies generate economic and geopolitical advantages, societies often invest heavily in expanding the underlying infrastructure.
 
 The practical takeaway is that compute constraints are best understood as a speed limiter, not necessarily a safety guarantee. They reduce some pathways to runaway self-improvement, but they do not by themselves rule out the possibility that increasingly autonomous AI systems could drive capability growth faster than human institutions can reliably manage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://epoch.ai/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epoch.ai">[Epoch AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epoch.ai</span><span class="citation-popover-snippet">The amount of compute used to train frontier language models has grown exponentially. Since 2020, the trend among top-5 models ha...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://epoch.ai/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epoch.ai">[Epoch AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epoch.ai</span><span class="citation-popover-snippet">The amount of compute used to train frontier language models has grown exponentially. Since 2020, the trend among top-5 models ha...</span></span></span>
 
@@ -789,211 +789,211 @@ The practical takeaway is that compute constraints are best understood as a spee
 
 1. <a id="endnote-1"></a>
    Source: epoch.ai  
-   Link: [https://epoch.ai/](https://epoch.ai/)  
+   Link: <a href="https://epoch.ai/" target="_blank" rel="noopener noreferrer nofollow">https://epoch.ai/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The amount of compute used to train frontier language models has grown exponentially. Since 2020, the trend among top-5 models ha...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: epoch.ai  
    Title: AITraining compute of frontier AI models grows by 4-5x per year  
-   Link: [https://epoch.ai/blog/training-compute-of-frontier-ai-models-grows-by-4-5x-per-year](https://epoch.ai/blog/training-compute-of-frontier-ai-models-grows-by-4-5x-per-year)  
+   Link: <a href="https://epoch.ai/blog/training-compute-of-frontier-ai-models-grows-by-4-5x-per-year" target="_blank" rel="noopener noreferrer nofollow">https://epoch.ai/blog/training-compute-of-frontier-ai-models-grows-by-4-5x-per-year</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Training compute of frontier AI models grows by 4-5x per yearMay 28, 2024 — Our expanded AI model database shows that the compute used to...</p></details>
    Published: May 28, 2024  
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv The rising costs of training frontier AI models  
-   Link: [https://arxiv.org/abs/2405.21015](https://arxiv.org/abs/2405.21015)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivThe rising costs of training frontier AI modelsMay 31, 2024...</p></details>
+   Link: <a href="https://arxiv.org/abs/2405.21015" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.21015</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The rising costs of training frontier AI modelsMay 31, 2024...</p></details>
    Published: May 31, 2024  
 
 4. <a id="endnote-4"></a>
    Source: mckinsey.com  
    Title: the next big shifts in ai workloads and hyperscaler strategies  
-   Link: [https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-next-big-shifts-in-ai-workloads-and-hyperscaler-strategies](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-next-big-shifts-in-ai-workloads-and-hyperscaler-strategies)  
+   Link: <a href="https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-next-big-shifts-in-ai-workloads-and-hyperscaler-strategies" target="_blank" rel="noopener noreferrer nofollow">https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-next-big-shifts-in-ai-workloads-and-hyperscaler-strategies</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>McKinsey &amp; CompanyThe next big shifts in AI workloads and hyperscaler strategies17 Dec 2025 — Training workloads will demand up to one me...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: epoch.ai  
    Title: power demands of frontier ai training  
-   Link: [https://epoch.ai/publications/power-demands-of-frontier-ai-training](https://epoch.ai/publications/power-demands-of-frontier-ai-training)  
+   Link: <a href="https://epoch.ai/publications/power-demands-of-frontier-ai-training" target="_blank" rel="noopener noreferrer nofollow">https://epoch.ai/publications/power-demands-of-frontier-ai-training</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How much power will frontier AI training demand in 2030?11 Aug 2025 — The power required to train the largest frontier models is growing...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: axios.com  
-   Link: [https://www.axios.com/2025/08/12/ai-training-power-needs](https://www.axios.com/2025/08/12/ai-training-power-needs)  
+   Link: <a href="https://www.axios.com/2025/08/12/ai-training-power-needs" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2025/08/12/ai-training-power-needs</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>It projects that by 2028, major AI model training operations could consume 1–2 gigawatts (GW) of power, and potentially escalate to 4–16...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/business/retail-consumer/energy-use-forcing-rethink-ai-chip-design-tsmc-says-2026-05-28/](https://www.reuters.com/business/retail-consumer/energy-use-forcing-rethink-ai-chip-design-tsmc-says-2026-05-28/)  
+   Link: <a href="https://www.reuters.com/business/retail-consumer/energy-use-forcing-rethink-ai-chip-design-tsmc-says-2026-05-28/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/retail-consumer/energy-use-forcing-rethink-ai-chip-design-tsmc-says-2026-05-28/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kevin Zhang, TSMC’s Senior VP of Business Development, noted that customers — including those in mobile, IoT, and high-performance AI dat...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2405.21015v2](https://arxiv.org/html/2405.21015v2)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivThe rising costs of training frontier AI modelsFeb 7, 2025 — This paper develops a detailed cost model to address this gap, estimati...</p></details>
+   Link: <a href="https://arxiv.org/html/2405.21015v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2405.21015v2</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The rising costs of training frontier AI modelsFeb 7, 2025 — This paper develops a detailed cost model to address this gap, estimati...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: epoch.ai  
    Title: what will ai look like in 2030  
-   Link: [https://epoch.ai/blog/what-will-ai-look-like-in-2030](https://epoch.ai/blog/what-will-ai-look-like-in-2030)  
+   Link: <a href="https://epoch.ai/blog/what-will-ai-look-like-in-2030" target="_blank" rel="noopener noreferrer nofollow">https://epoch.ai/blog/what-will-ai-look-like-in-2030</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>?Sep 16, 2025 — But algorithmic efficiency has already been improving within the existing compute growth. There is no particular reason t...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
    Title: arXiv Compute Requirements for Algorithmic Innovation in Frontier AI Models  
-   Link: [https://arxiv.org/abs/2507.10618](https://arxiv.org/abs/2507.10618)  
+   Link: <a href="https://arxiv.org/abs/2507.10618" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2507.10618</a>  
 
 11. <a id="endnote-11"></a>
    Source: arxiv.org  
    Title: arXiv Will Compute Bottlenecks Prevent an Intelligence Explosion?  
-   Link: [https://arxiv.org/abs/2507.23181](https://arxiv.org/abs/2507.23181)  
+   Link: <a href="https://arxiv.org/abs/2507.23181" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2507.23181</a>  
 
 12. <a id="endnote-12"></a>
    Source: hai.stanford.edu  
    Title: 2026 ai index report  
-   Link: [https://hai.stanford.edu/ai-index/2026-ai-index-report](https://hai.stanford.edu/ai-index/2026-ai-index-report)  
+   Link: <a href="https://hai.stanford.edu/ai-index/2026-ai-index-report" target="_blank" rel="noopener noreferrer nofollow">https://hai.stanford.edu/ai-index/2026-ai-index-report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford HAIThe 2026 AI Index Report | Stanford HAIIndustry produced over 90% of notable frontier models in 2025, and several of those mo...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: epoch.ai  
-   Link: [https://epoch.ai/trends](https://epoch.ai/trends)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in [Artificial](&amp;#123;&amp;#123; &#x27;artificial-goals/&#x27; | relative_url &amp;#125;&amp;#125;) IntelligenceFeb 5, 2026 — Frontier AI systems are advancing rapidly from increases in compute, hardware performance, softwa...</p></details>
+   Link: <a href="https://epoch.ai/trends" target="_blank" rel="noopener noreferrer nofollow">https://epoch.ai/trends</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>in Artificial IntelligenceFeb 5, 2026 — Frontier AI systems are advancing rapidly from increases in compute, hardware performance, softwa...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: epoch.ai  
    Title: open models threshold  
-   Link: [https://epoch.ai/data-insights/open-models-threshold](https://epoch.ai/data-insights/open-models-threshold)  
+   Link: <a href="https://epoch.ai/data-insights/open-models-threshold" target="_blank" rel="noopener noreferrer nofollow">https://epoch.ai/data-insights/open-models-threshold</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier open models may surpass 1e26 FLOP of training...15 Jan 2025 — Historical trends suggest that the largest open model will surpas...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: epoch.ai  
-   Link: [https://epoch.ai/data/ai-models](https://epoch.ai/data/ai-models)  
+   Link: <a href="https://epoch.ai/data/ai-models" target="_blank" rel="noopener noreferrer nofollow">https://epoch.ai/data/ai-models</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>shold that grows over time as...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: epoch.ai  
    Title: power demands of frontier ai training  
-   Link: [https://epoch.ai/blog/power-demands-of-frontier-ai-training](https://epoch.ai/blog/power-demands-of-frontier-ai-training)  
+   Link: <a href="https://epoch.ai/blog/power-demands-of-frontier-ai-training" target="_blank" rel="noopener noreferrer nofollow">https://epoch.ai/blog/power-demands-of-frontier-ai-training</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How much power will frontier AI training demand in 2030?Aug 11, 2025 — The power required to train the largest frontier models is growing...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: epoch.ai  
    Title: reports the models'  
-   Link: [https://epoch.ai/gradient-updates/r-and-d-vs-training-compute](https://epoch.ai/gradient-updates/r-and-d-vs-training-compute)  
+   Link: <a href="https://epoch.ai/gradient-updates/r-and-d-vs-training-compute" target="_blank" rel="noopener noreferrer nofollow">https://epoch.ai/gradient-updates/r-and-d-vs-training-compute</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Final training runs account for a minority of R&amp;D compute...23 Mar 2026 — Most of the final training run compute spending comes from our...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: epoch.ai  
    Title: open models  
-   Link: [https://epoch.ai/topics/open-models](https://epoch.ai/topics/open-models)  
+   Link: <a href="https://epoch.ai/topics/open-models" target="_blank" rel="noopener noreferrer nofollow">https://epoch.ai/topics/open-models</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Open-Weight Models: Data &amp; ResearchFrontier open models may surpass 1e26 FLOP of training compute before 2026. By Luke Emberson. Models w...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: epoch.ai  
-   Link: [https://epoch.ai/topics/data-centers](https://epoch.ai/topics/data-centers)  
+   Link: <a href="https://epoch.ai/topics/data-centers" target="_blank" rel="noopener noreferrer nofollow">https://epoch.ai/topics/data-centers</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Data Centers: Data &amp; ResearchUsing satellite imagery and permit data, Epoch tracks the scale and growth of AI data centers and superco...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: epoch.ai  
-   Link: [https://epoch.ai/about](https://epoch.ai/about)  
+   Link: <a href="https://epoch.ai/about" target="_blank" rel="noopener noreferrer nofollow">https://epoch.ai/about</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>About UsWe investigate the drivers and bottlenecks of AI progress and scaling. We were among the first to systematically monitor trends i...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: epoch.ai  
    Title: compute for robotic manipulation  
-   Link: [https://epoch.ai/data-insights/compute-for-robotic-manipulation](https://epoch.ai/data-insights/compute-for-robotic-manipulation)  
+   Link: <a href="https://epoch.ai/data-insights/compute-for-robotic-manipulation" target="_blank" rel="noopener noreferrer nofollow">https://epoch.ai/data-insights/compute-for-robotic-manipulation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Compute is not a bottleneck for robotic manipulationAug 8, 2025 — Compute is not a bottleneck for robotics, while training data is. Front...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: epoch.ai  
    Title: how much does it cost to train frontier ai models  
-   Link: [https://epoch.ai/blog/how-much-does-it-cost-to-train-frontier-ai-models](https://epoch.ai/blog/how-much-does-it-cost-to-train-frontier-ai-models)  
+   Link: <a href="https://epoch.ai/blog/how-much-does-it-cost-to-train-frontier-ai-models" target="_blank" rel="noopener noreferrer nofollow">https://epoch.ai/blog/how-much-does-it-cost-to-train-frontier-ai-models</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>?3 Jun 2024 — The cost of training top AI models has grown 2-3x annually for the past eight years. By 2027, the largest models could cost...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2512.04142v1](https://arxiv.org/html/2512.04142v1)  
+   Link: <a href="https://arxiv.org/html/2512.04142v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2512.04142v1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>From FLOPs to Footprints: The Resource Cost of Artificial...3 Dec 2025 — These findings demonstrate that the environmental impact of lar...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2504.16138](https://arxiv.org/pdf/2504.16138)  
+   Link: <a href="https://arxiv.org/pdf/2504.16138" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2504.16138</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Trends in Frontier AI Model Count: A Forecast to 2028by I Kumar · 2025 · Cited by 5 — The model predicts that there were 23 AI models exc...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: weforum.org  
-   Link: [https://www.weforum.org/stories/2026/05/electricity-data-grid-connectivity-strategic-bottleneck-ai-transformation/](https://www.weforum.org/stories/2026/05/electricity-data-grid-connectivity-strategic-bottleneck-ai-transformation/)  
+   Link: <a href="https://www.weforum.org/stories/2026/05/electricity-data-grid-connectivity-strategic-bottleneck-ai-transformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.weforum.org/stories/2026/05/electricity-data-grid-connectivity-strategic-bottleneck-ai-transformation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>World Economic ForumIs power grid connectivity the strategic bottleneck for AI?May 18, 2026 — The underlying issue is that investment in...</p></details>
    Published: May 18, 2026  
 
 26. <a id="endnote-26"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/epochai_todays-largest-ai-models-are-trained-on-activity-7336059172972556288-C_em](https://www.linkedin.com/posts/epochai_todays-largest-ai-models-are-trained-on-activity-7336059172972556288-C_em)  
+   Link: <a href="https://www.linkedin.com/posts/epochai_todays-largest-ai-models-are-trained-on-activity-7336059172972556288-C_em" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/epochai_todays-largest-ai-models-are-trained-on-activity-7336059172972556288-C_em</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Epoch AI&#x27;s PostToday&#x27;s largest AI models are trained on over 10^26 FLOP. How many will surpass this threshold in the coming years? In a n...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/epoch](https://www.merriam-webster.com/dictionary/epoch)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/epoch" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/epoch</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Meaning5 May 2026 — epoch applies to a period begun or set off by some significant or striking quality, change, or series of...</p></details>
    Published: May 2026  
 
 28. <a id="endnote-28"></a>
    Source: epochai.substack.com  
    Title: power demands of frontier ai training  
-   Link: [https://epochai.substack.com/p/power-demands-of-frontier-ai-training](https://epochai.substack.com/p/power-demands-of-frontier-ai-training)  
+   Link: <a href="https://epochai.substack.com/p/power-demands-of-frontier-ai-training" target="_blank" rel="noopener noreferrer nofollow">https://epochai.substack.com/p/power-demands-of-frontier-ai-training</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Training Power DemandPower demands for frontier AI training have been growing at 2.2x per year, with frontier runs now exceeding 100 M...</p></details>
 
 ### Additional References
 
 29. <a id="endnote-29"></a>
    Source: medium.com  
-   Link: [https://medium.com/technology-media-telecom/frontier-ai-peaked-heres-what-comes-next-8b9fc65eaa6c](https://medium.com/technology-media-telecom/frontier-ai-peaked-heres-what-comes-next-8b9fc65eaa6c)  
+   Link: <a href="https://medium.com/technology-media-telecom/frontier-ai-peaked-heres-what-comes-next-8b9fc65eaa6c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/technology-media-telecom/frontier-ai-peaked-heres-what-comes-next-8b9fc65eaa6c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier AI Peaked. Here&#x27;s What Comes NextAccording to the latest market study by Omdia, parameter growth in frontier AI models has slowe...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/epochai_training-frontier-ai-models-requires-a-lot-activity-7326637083240947714-98PG](https://www.linkedin.com/posts/epochai_training-frontier-ai-models-requires-a-lot-activity-7326637083240947714-98PG)  
+   Link: <a href="https://www.linkedin.com/posts/epochai_training-frontier-ai-models-requires-a-lot-activity-7326637083240947714-98PG" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/epochai_training-frontier-ai-models-requires-a-lot-activity-7326637083240947714-98PG</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier AI models use 1.5x more energy than thoughtTraining frontier AI models requires a lot of power — but how much? We find that fron...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: greenmediography.nl  
-   Link: [https://greenmediography.nl/reference/the-rising-costs-of-training-frontier-ai-models/](https://greenmediography.nl/reference/the-rising-costs-of-training-frontier-ai-models/)  
+   Link: <a href="https://greenmediography.nl/reference/the-rising-costs-of-training-frontier-ai-models/" target="_blank" rel="noopener noreferrer nofollow">https://greenmediography.nl/reference/the-rising-costs-of-training-frontier-ai-models/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The rising costs of training frontier AI modelsThe costs of training frontier AI models have grown dramatically in recent years, but ther...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: ourworldindata.org  
-   Link: [https://ourworldindata.org/grapher/hardware-and-energy-cost-to-train-notable-ai-systems](https://ourworldindata.org/grapher/hardware-and-energy-cost-to-train-notable-ai-systems)  
+   Link: <a href="https://ourworldindata.org/grapher/hardware-and-energy-cost-to-train-notable-ai-systems" target="_blank" rel="noopener noreferrer nofollow">https://ourworldindata.org/grapher/hardware-and-energy-cost-to-train-notable-ai-systems</a>  
 
 33. <a id="endnote-33"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/prithpal-khajuria-9044251_frontierai-aiinfrastructure-energy-activity-7437888342869880832-xunp](https://www.linkedin.com/posts/prithpal-khajuria-9044251_frontierai-aiinfrastructure-energy-activity-7437888342869880832-xunp)  
+   Link: <a href="https://www.linkedin.com/posts/prithpal-khajuria-9044251_frontierai-aiinfrastructure-energy-activity-7437888342869880832-xunp" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/prithpal-khajuria-9044251_frontierai-aiinfrastructure-energy-activity-7437888342869880832-xunp</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Integrate energy strategy early. 2. Map infrastructure risks openly. 3. Prioritize flexible site...Read more...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: linkedin.com  
    Title: hidden cost ai energy data centers hardware race shreyas shah f8ksc  
-   Link: [https://www.linkedin.com/pulse/hidden-cost-ai-energy-data-centers-hardware-race-shreyas-shah-f8ksc](https://www.linkedin.com/pulse/hidden-cost-ai-energy-data-centers-hardware-race-shreyas-shah-f8ksc)  
+   Link: <a href="https://www.linkedin.com/pulse/hidden-cost-ai-energy-data-centers-hardware-race-shreyas-shah-f8ksc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/hidden-cost-ai-energy-data-centers-hardware-race-shreyas-shah-f8ksc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hidden Cost of AI: Energy, Data Centers, and...Global [AI compute](&amp;#123;&amp;#123; &#x27;compute-kyc/&#x27; | relative_url &amp;#125;&amp;#125;) capacity has grown at an estimated 3.3x per year since 2022, reachi...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: flyfrontier.com  
-   Link: [https://www.flyfrontier.com/](https://www.flyfrontier.com/)  
+   Link: <a href="https://www.flyfrontier.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.flyfrontier.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Airlines: Low Fares Done RightAs Home of Low Fares Done Right, find great deals and cheap flights to destinations all over North...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/391150569_AI%27s_Power_Requirements_Under_Exponential_Growth_Extrapolating_AI_Data_Center_Power_Demand_and_Assessing_Its_Potential_Impact_on_US_Competitiveness](https://www.researchgate.net/publication/391150569_AI%27s_Power_Requirements_Under_Exponential_Growth_Extrapolating_AI_Data_Center_Power_Demand_and_Assessing_Its_Potential_Impact_on_US_Competitiveness)  
+   Link: <a href="https://www.researchgate.net/publication/391150569_AI%27s_Power_Requirements_Under_Exponential_Growth_Extrapolating_AI_Data_Center_Power_Demand_and_Assessing_Its_Potential_Impact_on_US_Competitiveness" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391150569_AI%27s_Power_Requirements_Under_Exponential_Growth_Extrapolating_AI_Data_Center_Power_Demand_and_Assessing_Its_Potential_Impact_on_US_Competitiveness</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ure power needs, summarize current bottlenecks for rapid data center construction...Read more...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: sparkco.ai  
    Title: ai data center build out capacity prediction markets  
-   Link: [https://sparkco.ai/blog/ai-data-center-build-out-capacity-prediction-markets](https://sparkco.ai/blog/ai-data-center-build-out-capacity-prediction-markets)  
+   Link: <a href="https://sparkco.ai/blog/ai-data-center-build-out-capacity-prediction-markets" target="_blank" rel="noopener noreferrer nofollow">https://sparkco.ai/blog/ai-data-center-build-out-capacity-prediction-markets</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Data Center Build-out Capacity Prediction MarketsA comprehensive 2025 industry analysis of how prediction markets price AI infrastruct...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: ourworldindata.org  
    Title: artificial intelligence training computation  
-   Link: [https://ourworldindata.org/grapher/artificial-intelligence-training-computation](https://ourworldindata.org/grapher/artificial-intelligence-training-computation)  
+   Link: <a href="https://ourworldindata.org/grapher/artificial-intelligence-training-computation" target="_blank" rel="noopener noreferrer nofollow">https://ourworldindata.org/grapher/artificial-intelligence-training-computation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Computation used to train notable artificial intelligence...Mar 12, 2025 — This data is based on the following sources. Epoch AI – Param...</p></details>

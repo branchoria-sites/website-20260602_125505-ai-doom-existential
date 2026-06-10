@@ -12,19 +12,19 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93
 - AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - p-doom
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - p-doom
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: This page looks at how beliefs about AI alignment success and regulatory measures affect expert doom estimates.
 hero_summary: This page looks at how beliefs about AI alignment success and regulatory measures affect expert doom estimates.
 layout: default
 permalink: /alignment-governance/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /p-doom/
 nav_short_title: Alignment & Governance
 title: How Safety and Governance Shape AI Doom Forecasts
@@ -211,20 +211,20 @@ parent_heading_title: What Does p(doom) Really Mean?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_p_doom_estima_72d1f2
-  title: P Doom | AI Doom and
+  title: P Doom | AI Doom and E 87399 b
   permalink: /p-doom/
   short_title: P Doom
   heading_title: What Does p(doom) Really Mean?
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_p_doom_estima_72d1f2
-  title: P Doom | AI Doom and
+  title: P Doom | AI Doom and E 87399 b
   permalink: /p-doom/
   short_title: P Doom
   heading_title: What Does p(doom) Really Mean?
@@ -262,7 +262,7 @@ child_links:
   heading_title: Why Experts With Similar p(doom) Numbers Still Disagree
 up_link:
   basename: AI_Doom_and_E_87399b_p_doom_estima_72d1f2
-  title: P Doom | AI Doom and
+  title: P Doom | AI Doom and E 87399 b
   permalink: /p-doom/
   short_title: P Doom
   heading_title: What Does p(doom) Really Mean?
@@ -286,15 +286,15 @@ image: /assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d5
 
 ## Introduction
 
-When experts give a p(doom) estimate—the probability that advanced AI leads to human extinction, permanent disempowerment, or a comparable civilisational catastrophe—the number is rarely driven by a single belief. Two of the biggest drivers are assumptions about **alignment** and **[governance]({{ 'governance/' | relative_url }})**. Alignment concerns whether highly capable AI systems can be made to reliably pursue human intentions. Governance concerns whether companies, governments, and international institutions can monitor, regulate, test, and control those systems before [dangerous]({{ 'autonomy/' | relative_url }}) failures occur.
+When experts give a p(doom) estimate—the probability that advanced AI leads to human extinction, permanent disempowerment, or a comparable civilisational catastrophe—the number is rarely driven by a single belief. Two of the biggest drivers are assumptions about **alignment** and **[governance]({{ 'governance/' | relative_url }})**. Alignment concerns whether highly capable AI systems can be made to reliably pursue human intentions. Governance concerns whether companies, governments, and international institutions can monitor, regulate, test, and control those systems before dangerous failures occur.
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d59e80-Illustration-1-dark.svg" | relative_url }}" alt="Alignment &amp; Governance illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d59e80-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d59e80-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-As a result, disagreement about p(doom) is often less about [current AI]({{ 'current-benchmarks/' | relative_url }}) systems and more about future expectations. Someone who believes alignment is fundamentally difficult and governance will fail under competitive pressure may arrive at a much higher p(doom) than someone who expects strong technical safety breakthroughs and effective oversight. Understanding these assumptions helps explain why informed observers can look at the same technology and reach dramatically different conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ai-safety-atlas.com/chapters/v1/risks/appendix-quantifying-existential-risks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ai-safety-atlas.com">[ai-safety-atlas.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ai-safety-atlas.com</span><span class="citation-popover-snippet">Appendix: Quantifying Existential Risks - Chapter 2P(doom) represents the subjective probability that artificial intelligence will cause...</span></span></span>
+As a result, disagreement about p(doom) is often less about current AI systems and more about future expectations. Someone who believes alignment is fundamentally difficult and governance will fail under competitive pressure may arrive at a much higher p(doom) than someone who expects strong technical safety breakthroughs and effective oversight. Understanding these assumptions helps explain why informed observers can look at the same technology and reach dramatically different conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ai-safety-atlas.com/chapters/v1/risks/appendix-quantifying-existential-risks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ai-safety-atlas.com">[ai-safety-atlas.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ai-safety-atlas.com</span><span class="citation-popover-snippet">Appendix: Quantifying Existential Risks - Chapter 2P(doom) represents the subjective probability that artificial intelligence will cause...</span></span></span>
 
 ## Why alignment assumptions move p(doom) so much
 
-For many AI-risk researchers, alignment is the central uncertainty. The concern is not that current chatbots are plotting against humanity, but that future systems could become highly capable while remaining only partially understood and only imperfectly controllable.
+For many AI-risk researchers, alignment is the central [uncertainty]({{ 'uncertainty/' | relative_url }}). The concern is not that current chatbots are plotting against humanity, but that future systems could become highly capable while remaining only partially understood and only imperfectly controllable.
 
 The higher a forecaster judges the difficulty of alignment, the higher their p(doom) tends to be. The underlying logic is straightforward:
 
@@ -310,34 +310,29 @@ The higher a forecaster judges the difficulty of alignment, the higher their p(d
 
 Researchers worried about alignment often point to several unresolved challenges:
 
-
-<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
-
 * **Goal specification:** human values are difficult to define precisely.
 * **Reward hacking:** systems can satisfy training objectives in unintended ways.
 * **Deceptive behaviour:** a model may appear aligned during testing while pursuing different objectives in deployment.
-* **Interpretability limits:** developers may not fully understand why advanced systems make particular decisions.
+* **[Interpretability limits]({{ 'interpretability-limits/' | relative_url }}):** developers may not fully understand why advanced systems make particular decisions.
 * **Generalisation failures:** behaviour that appears safe in training may break down in unfamiliar situations.
 
-</div>
+These concerns are closely connected to the broader loss-of-control argument within AI doom discussions. If future systems become more capable than humans in many strategic domains, even a small alignment failure could have unusually large consequences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://safe.ai/ai-risk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safe.ai">[Center for AI Safety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safe.ai</span><span class="citation-popover-snippet">Center for AI SafetyAI Risks that Could Lead to Catastrophe &#124; CAISWe suggest that AIs should not be deployed in high-risk settings, such...</span></span></span>
 
-These concerns are closely connected to the broader loss-of-control argument within AI doom discussions. If future systems become more capable than humans in many strategic domains, even a small alignment failure could have unusually large consequences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://safe.ai/ai-risk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safe.ai">[Center for AI Safety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safe.ai</span><span class="citation-popover-snippet">Center for AI SafetyAI Risks that Could Lead to Catastrophe | CAISWe suggest that AIs should not be deployed in high-risk settings, such...</span></span></span>
-
-By contrast, lower p(doom) estimates often assume that alignment challenges, while difficult, are fundamentally solvable through improved training methods, [interpretability]({{ 'interpretability/' | relative_url }}) tools, evaluations, monitoring systems, and deployment safeguards. Under that view, alignment resembles a hard engineering problem rather than an unsolved scientific mystery.
+By contrast, lower p(doom) estimates often assume that alignment challenges, while difficult, are fundamentally solvable through improved training methods, [interpretability]({{ 'interpretability/' | relative_url }}) tools, [evaluations]({{ 'evaluations/' | relative_url }}), monitoring systems, and deployment safeguards. Under that view, alignment resembles a hard engineering problem rather than an unsolved scientific mystery.
 
 ## The governance question: can society slow down and coordinate?
 
 Even people who worry about alignment often disagree sharply about governance.
 
-Governance assumptions concern whether institutions can recognise warning signs and respond before dangerous systems are widely deployed. A forecaster may believe alignment is difficult but still assign a moderate p(doom) if they expect strong governance to compensate for technical uncertainty.
+Governance assumptions concern whether institutions can recognise [warning signs]({{ 'warning-signs/' | relative_url }}) and respond before dangerous systems are widely deployed. A forecaster may believe alignment is difficult but still assign a moderate p(doom) if they expect strong governance to compensate for technical uncertainty.
 
 Several governance mechanisms commonly appear in lower-risk scenarios:
 
+* Rigorous pre-deployment evaluations.
+* [Independent]({{ 'red-teaming/' | relative_url }}) auditing and red-teaming.
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Rigorous pre-deployment evaluations.
-* Independent auditing and red-teaming.
 * Monitoring of frontier model development.
 * Compute governance, including oversight of the largest training runs.
 * Licensing regimes for highly capable systems.
@@ -384,7 +379,7 @@ Many researchers who are neither strong doomers nor strong sceptics argue that p
 
 ### Frontier evaluations
 
-Evaluations attempt to measure dangerous capabilities before deployment. Researchers test whether models can assist with cyber operations, biological risks, [deception]({{ 'deception-and-loss/' | relative_url }}), autonomous planning, or other potentially hazardous activities.
+Evaluations attempt to measure dangerous capabilities before deployment. Researchers test whether models can assist with cyber operations, biological risks, deception, autonomous planning, or other potentially hazardous activities.
 
 If evaluations become reliable predictors of dangerous behaviour, some analysts believe p(doom) should decrease because developers would gain earlier warning signals.
 
@@ -413,11 +408,11 @@ Examples include:
 
 </div>
 
-Advocates argue that these controls create opportunities to learn from incidents before failures become catastrophic. Critics counter that sufficiently capable systems may eventually circumvent such safeguards or make them politically difficult to maintain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.itpro.com/technology/artificial-intelligence/one-size-fits-all-agent-governance-sets-enterprises-up-to-fail" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itpro.com">[IT Pro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itpro.com</span><span class="citation-popover-title">IT Pro&#x27;One-size-fits-all&#x27; agent governance sets enterprises up to fail</span><span class="citation-popover-snippet">The primary issue is the widespread application of a &quot;one-size-fits-all&quot; governance model that fails to distinguish between an agent&#x27;s au...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techradar.com/pro/lack-of-ai-governance-could-force-40-percent-of-enterprises-to-roll-back-autonomous-ai-agents-by-2027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-snippet">Many organizations currently either over-trust or overly restrict their AI agents, creating serious risks. Excessive trust can lead to un...</span></span></span>
+Advocates argue that these controls create opportunities to learn from incidents before failures become [catastrophic]({{ 'misuse/' | relative_url }}). Critics counter that sufficiently capable systems may eventually circumvent such safeguards or make them politically difficult to maintain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.itpro.com/technology/artificial-intelligence/one-size-fits-all-agent-governance-sets-enterprises-up-to-fail" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itpro.com">[IT Pro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itpro.com</span><span class="citation-popover-title">IT Pro&#x27;One-size-fits-all&#x27; agent governance sets enterprises up to fail</span><span class="citation-popover-snippet">The primary issue is the widespread application of a &quot;one-size-fits-all&quot; governance model that fails to distinguish between an agent&#x27;s au...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techradar.com/pro/lack-of-ai-governance-could-force-40-percent-of-enterprises-to-roll-back-autonomous-ai-agents-by-2027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-snippet">Many organizations currently either over-trust or overly restrict their AI agents, creating serious risks. Excessive trust can lead to un...</span></span></span>
 
 ## What survey evidence suggests about expert thinking
 
-Survey results show substantial concern about catastrophic AI outcomes, but they also reveal significant uncertainty. In the large 2023 AI Impacts survey of 2,778 [AI researchers]({{ 'expert-surveys/' | relative_url }}), substantial numbers assigned non-trivial probabilities to outcomes as bad as human extinction or severe permanent disempowerment. Between 38% and 51% of respondents gave at least a 10% chance to such outcomes, depending on the survey framing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aiimpacts.org/wp-content/uploads/2023/04/Thousands_of_AI_authors_on_the_future_of_AI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiimpacts.org">[AI Impacts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiimpacts.org</span><span class="citation-popover-title">Thousands of AI authors on the future of AI</span><span class="citation-popover-snippet">AI ImpactsTHOUSANDS OF AI AUTHORS ON THE FUTURE OF AIby K Grace · 2024 · Cited by 205 — Question 1: What probability do you put on future...</span></span></span>
+Survey results show substantial concern about catastrophic AI outcomes, but they also reveal significant uncertainty. In the large 2023 AI Impacts survey of 2,778 AI researchers, substantial numbers assigned non-trivial probabilities to outcomes as bad as human extinction or severe permanent disempowerment. Between 38% and 51% of respondents gave at least a 10% chance to such outcomes, depending on the survey framing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aiimpacts.org/wp-content/uploads/2023/04/Thousands_of_AI_authors_on_the_future_of_AI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiimpacts.org">[AI Impacts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiimpacts.org</span><span class="citation-popover-title">Thousands of AI authors on the future of AI</span><span class="citation-popover-snippet">AI ImpactsTHOUSANDS OF AI AUTHORS ON THE FUTURE OF AIby K Grace · 2024 · Cited by 205 — Question 1: What probability do you put on future...</span></span></span>
 
 Importantly, these survey results do not imply agreement about why the risk exists.
 
@@ -889,159 +884,159 @@ Because answers to those questions remain uncertain, p(doom) estimates vary wide
 
 1. <a id="endnote-1"></a>
    Source: ai-safety-atlas.com  
-   Link: [https://ai-safety-atlas.com/chapters/v1/risks/appendix-quantifying-existential-risks/](https://ai-safety-atlas.com/chapters/v1/risks/appendix-quantifying-existential-risks/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Appendix: Quantifying Existential Risks - Chapter 2P(doom) represents the subjective probability that [artificial](&amp;#123;&amp;#123; &#x27;artificial-goals/&#x27; | relative_url &amp;#125;&amp;#125;) intelligence will cause...</p></details>
+   Link: <a href="https://ai-safety-atlas.com/chapters/v1/risks/appendix-quantifying-existential-risks/" target="_blank" rel="noopener noreferrer nofollow">https://ai-safety-atlas.com/chapters/v1/risks/appendix-quantifying-existential-risks/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Appendix: Quantifying Existential Risks - Chapter 2P(doom) represents the subjective probability that artificial intelligence will cause...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/P%28doom%29](https://en.wikipedia.org/wiki/P%28doom%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/P%28doom%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/P%28doom%29</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>P(doom)In AI safety, P(doom) is the probability of existentially catastrophic outcomes (so-called &quot;doomsday scenarios&quot;) as a result of...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Existential risk from artificial intelligence  
-   Link: [https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence)  
+   Link: <a href="https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence</a>  
 
 4. <a id="endnote-4"></a>
    Source: safe.ai  
-   Link: [https://safe.ai/ai-risk](https://safe.ai/ai-risk)  
+   Link: <a href="https://safe.ai/ai-risk" target="_blank" rel="noopener noreferrer nofollow">https://safe.ai/ai-risk</a>  
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2602.21012](https://arxiv.org/abs/2602.21012)  
+   Link: <a href="https://arxiv.org/abs/2602.21012" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2602.21012</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXiv[2602.21012] International AI Safety Report 2026by Y Bengio · 2026 · Cited by 65 — The International AI Safety Report 2026 synthesis...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/publications/ai-safety-institute-overview/introducing-the-ai-safety-institute](https://www.gov.uk/government/publications/ai-safety-institute-overview/introducing-the-ai-safety-institute)  
+   Link: <a href="https://www.gov.uk/government/publications/ai-safety-institute-overview/introducing-the-ai-safety-institute" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-safety-institute-overview/introducing-the-ai-safety-institute</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Introducing the AI Safety InstituteThe research of the AI Safety Institute will inform UK and international policymaking and provide tech...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: techradar.com  
-   Link: [https://www.techradar.com/pro/lack-of-ai-governance-could-force-40-percent-of-enterprises-to-roll-back-autonomous-ai-agents-by-2027](https://www.techradar.com/pro/lack-of-ai-governance-could-force-40-percent-of-enterprises-to-roll-back-autonomous-ai-agents-by-2027)  
+   Link: <a href="https://www.techradar.com/pro/lack-of-ai-governance-could-force-40-percent-of-enterprises-to-roll-back-autonomous-ai-agents-by-2027" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/pro/lack-of-ai-governance-could-force-40-percent-of-enterprises-to-roll-back-autonomous-ai-agents-by-2027</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Many organizations currently either over-trust or overly restrict their AI agents, creating serious risks. Excessive trust can lead to un...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2401.02843?utm=](https://arxiv.org/abs/2401.02843?utm=)  
+   Link: <a href="https://arxiv.org/abs/2401.02843?utm=" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2401.02843?utm=</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>More than half...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
    Title: arXiv Thousands of AI Authors on the Future of AI  
-   Link: [https://arxiv.org/abs/2401.02843](https://arxiv.org/abs/2401.02843)  
+   Link: <a href="https://arxiv.org/abs/2401.02843" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2401.02843</a>  
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2512.04489v2](https://arxiv.org/html/2512.04489v2)  
+   Link: <a href="https://arxiv.org/html/2512.04489v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2512.04489v2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fundamental Control Mechanisms for AI Governance24 Dec 2025 — The proposed framework allows society to manage AI threats effectively and...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2401.02843v1](https://arxiv.org/html/2401.02843v1)  
+   Link: <a href="https://arxiv.org/html/2401.02843v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2401.02843v1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Thousands of AI Authors on the Future of AI5 Jan 2024 — What probability do you put on future AI advances causing human extinction or sim...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2502.14870v1](https://arxiv.org/html/2502.14870v1)  
+   Link: <a href="https://arxiv.org/html/2502.14870v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.14870v1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why do Experts Disagree on Existential Risk and P(doom)...23 Feb 2025 — I surveyed 111 AI experts on their familiarity with AI safety co...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Human extinction  
-   Link: [https://en.wikipedia.org/wiki/Human_extinction](https://en.wikipedia.org/wiki/Human_extinction)  
+   Link: <a href="https://en.wikipedia.org/wiki/Human_extinction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Human_extinction</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Human extinction - WikipediaSurvey: Median AI expert says 5% chance of human extinction...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: ai.objectives.institute  
-   Title: gradual disempowerment systemic existential risks from [continuous](&#123;&#123; 'continuous-control/' | relative_url &#125;&#125;) ai development  
-   Link: [https://ai.objectives.institute/blog/gradual-disempowerment-systemic-existential-risks-from-continuous-ai-development](https://ai.objectives.institute/blog/gradual-disempowerment-systemic-existential-risks-from-continuous-ai-development)  
+   Title: gradual disempowerment systemic existential risks from continuous ai development  
+   Link: <a href="https://ai.objectives.institute/blog/gradual-disempowerment-systemic-existential-risks-from-continuous-ai-development" target="_blank" rel="noopener noreferrer nofollow">https://ai.objectives.institute/blog/gradual-disempowerment-systemic-existential-risks-from-continuous-ai-development</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Disempowerment: Systemic Existential Risks from...20 Feb 2025 — This paper examines the systemic risks posed by incremental advancements...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: itpro.com  
    Title: IT Pro'One-size-fits-all' agent governance sets enterprises up to fail  
-   Link: [https://www.itpro.com/technology/artificial-intelligence/one-size-fits-all-agent-governance-sets-enterprises-up-to-fail](https://www.itpro.com/technology/artificial-intelligence/one-size-fits-all-agent-governance-sets-enterprises-up-to-fail)  
+   Link: <a href="https://www.itpro.com/technology/artificial-intelligence/one-size-fits-all-agent-governance-sets-enterprises-up-to-fail" target="_blank" rel="noopener noreferrer nofollow">https://www.itpro.com/technology/artificial-intelligence/one-size-fits-all-agent-governance-sets-enterprises-up-to-fail</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The primary issue is the widespread application of a &quot;one-size-fits-all&quot; governance model that fails to distinguish between an agent&#x27;s au...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: aiimpacts.org  
    Title: Thousands of AI authors on the future of AI  
-   Link: [https://aiimpacts.org/wp-content/uploads/2023/04/Thousands_of_AI_authors_on_the_future_of_AI.pdf](https://aiimpacts.org/wp-content/uploads/2023/04/Thousands_of_AI_authors_on_the_future_of_AI.pdf)  
+   Link: <a href="https://aiimpacts.org/wp-content/uploads/2023/04/Thousands_of_AI_authors_on_the_future_of_AI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiimpacts.org/wp-content/uploads/2023/04/Thousands_of_AI_authors_on_the_future_of_AI.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI ImpactsTHOUSANDS OF AI AUTHORS ON THE FUTURE OF AIby K Grace · 2024 · Cited by 205 — Question 1: What probability do you put on future...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: jair.org  
-   Link: [https://www.jair.org/index.php/jair/article/view/19087](https://www.jair.org/index.php/jair/article/view/19087)  
+   Link: <a href="https://www.jair.org/index.php/jair/article/view/19087" target="_blank" rel="noopener noreferrer nofollow">https://www.jair.org/index.php/jair/article/view/19087</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Thousands of AI Authors on the Future of AIby K Grace · 2025 · Cited by 205 — More than half suggested that “substantial” or “extreme” co...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: blog.biocomm.ai  
-   Link: [https://blog.biocomm.ai/2024/02/25/ai-impacts-report-thousands-of-ai-authors-on-the-future-of-ai-38participants-put-at-least-a-10-chance-on-extremely-bad-outcomes-e-g-human-extinction-january-2024/](https://blog.biocomm.ai/2024/02/25/ai-impacts-report-thousands-of-ai-authors-on-the-future-of-ai-38participants-put-at-least-a-10-chance-on-extremely-bad-outcomes-e-g-human-extinction-january-2024/)  
+   Link: <a href="https://blog.biocomm.ai/2024/02/25/ai-impacts-report-thousands-of-ai-authors-on-the-future-of-ai-38participants-put-at-least-a-10-chance-on-extremely-bad-outcomes-e-g-human-extinction-january-2024/" target="_blank" rel="noopener noreferrer nofollow">https://blog.biocomm.ai/2024/02/25/ai-impacts-report-thousands-of-ai-authors-on-the-future-of-ai-38participants-put-at-least-a-10-chance-on-extremely-bad-outcomes-e-g-human-extinction-january-2024/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>biocomm.ai38% of participants put at least a 10% chance on extremely...25 Feb 2024 — AI Impacts Report January 2024 · THOUSANDS OF AI AU...</p></details>
    Published: January 2024  
 
 19. <a id="endnote-19"></a>
    Source: lesswrong.com  
    Title: ai impacts survey december 2023 edition  
-   Link: [https://www.lesswrong.com/posts/NfPxAp5uwgZugwovY/ai-impacts-survey-december-2023-edition](https://www.lesswrong.com/posts/NfPxAp5uwgZugwovY/ai-impacts-survey-december-2023-edition)  
+   Link: <a href="https://www.lesswrong.com/posts/NfPxAp5uwgZugwovY/ai-impacts-survey-december-2023-edition" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/posts/NfPxAp5uwgZugwovY/ai-impacts-survey-december-2023-edition</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Impacts Survey: December 2023 Edition5 Jan 2024 — In Figure 13&#x27;s question 3, we have 14.4% mean chance of either human extinction or s...</p></details>
    Published: december 2023  
 
 20. <a id="endnote-20"></a>
    Source: intelligence.org  
-   Link: [https://intelligence.org/2026/04/13/summary-ai-governance-to-avoid-extinction/](https://intelligence.org/2026/04/13/summary-ai-governance-to-avoid-extinction/)  
+   Link: <a href="https://intelligence.org/2026/04/13/summary-ai-governance-to-avoid-extinction/" target="_blank" rel="noopener noreferrer nofollow">https://intelligence.org/2026/04/13/summary-ai-governance-to-avoid-extinction/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Summary: AI Governance to Avoid Extinction13 Apr 2026 — With AI capabilities rapidly increasing, humans appear close to developing AI sys...</p></details>
 
 ### Additional References
 
 21. <a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/389749013_The_Economics_of_pdoom_Scenarios_of_Existential_Risk_and_Economic_Growth_in_the_Age_of_Transformative_AI](https://www.researchgate.net/publication/389749013_The_Economics_of_pdoom_Scenarios_of_Existential_Risk_and_Economic_Growth_in_the_Age_of_Transformative_AI)  
+   Link: <a href="https://www.researchgate.net/publication/389749013_The_Economics_of_pdoom_Scenarios_of_Existential_Risk_and_Economic_Growth_in_the_Age_of_Transformative_AI" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389749013_The_Economics_of_pdoom_Scenarios_of_Existential_Risk_and_Economic_Growth_in_the_Age_of_Transformative_AI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Economics of p(doom): Scenarios of Existential...11 Mar 2025 — Discussed scenarios range from human extinction after a misalig...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: rose-hulman.edu  
-   Link: [https://www.rose-hulman.edu/class/cs/csse490-ai-impact/schedule/day3/Thousand_Authors.pdf](https://www.rose-hulman.edu/class/cs/csse490-ai-impact/schedule/day3/Thousand_Authors.pdf)  
+   Link: <a href="https://www.rose-hulman.edu/class/cs/csse490-ai-impact/schedule/day3/Thousand_Authors.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rose-hulman.edu/class/cs/csse490-ai-impact/schedule/day3/Thousand_Authors.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THOUSANDS OF AI AUTHORS ON THE FUTURE OF AI• Questions focused on the future of AI, the likelihood of certain dangerous outcomes of AI, a...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: medium.com  
-   Link: [https://medium.com/predict/thousands-of-researchers-predict-ais-future-098054750324](https://medium.com/predict/thousands-of-researchers-predict-ais-future-098054750324)  
+   Link: <a href="https://medium.com/predict/thousands-of-researchers-predict-ais-future-098054750324" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/predict/thousands-of-researchers-predict-ais-future-098054750324</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Thousands of Researchers Predict AI&#x27;s FutureThousands of Researchers Predict AI&#x27;s Future But navigating the uncertain future of Artificia...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/marcglasser_governance-cost-existential-risk-and-institutional-activity-7427393943308419072-2fuB](https://www.linkedin.com/posts/marcglasser_governance-cost-existential-risk-and-institutional-activity-7427393943308419072-2fuB)  
+   Link: <a href="https://www.linkedin.com/posts/marcglasser_governance-cost-existential-risk-and-institutional-activity-7427393943308419072-2fuB" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/marcglasser_governance-cost-existential-risk-and-institutional-activity-7427393943308419072-2fuB</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Governance and Existential Risk: Institutional...11 Feb 2026 — This framing invites a core institutional governance question: why sho...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: calcuja.com  
-   Link: [https://calcuja.com/pdoom-calculator/](https://calcuja.com/pdoom-calculator/)  
+   Link: <a href="https://calcuja.com/pdoom-calculator/" target="_blank" rel="noopener noreferrer nofollow">https://calcuja.com/pdoom-calculator/</a>  
 
 26. <a id="endnote-26"></a>
    Source: dev.to  
-   Link: [https://dev.to/mcrolly/ai-alignment-catastrophic-risk-and-why-governments-are-finally-paying-attention-22ki](https://dev.to/mcrolly/ai-alignment-catastrophic-risk-and-why-governments-are-finally-paying-attention-22ki)  
+   Link: <a href="https://dev.to/mcrolly/ai-alignment-catastrophic-risk-and-why-governments-are-finally-paying-attention-22ki" target="_blank" rel="noopener noreferrer nofollow">https://dev.to/mcrolly/ai-alignment-catastrophic-risk-and-why-governments-are-finally-paying-attention-22ki</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Alignment, Catastrophic Risk, and Why Governments...15 Mar 2026 — Key Takeaway: Between 2023 and 2026, AI safety went from a single U...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: globalpolicywatch.com  
-   Link: [https://www.globalpolicywatch.com/2026/02/international-ai-safety-report-2026-examines-ai-capabilities-risks-and-safeguards/](https://www.globalpolicywatch.com/2026/02/international-ai-safety-report-2026-examines-ai-capabilities-risks-and-safeguards/)  
+   Link: <a href="https://www.globalpolicywatch.com/2026/02/international-ai-safety-report-2026-examines-ai-capabilities-risks-and-safeguards/" target="_blank" rel="noopener noreferrer nofollow">https://www.globalpolicywatch.com/2026/02/international-ai-safety-report-2026-examines-ai-capabilities-risks-and-safeguards/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>International AI Safety Report 2026 Examines AI...13 Feb 2026 — According to the Report, current AI systems may exhibit unpredictable fa...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: itu.int  
    Title: the annual ai governance report 2025 steering the future of ai  
-   Link: [https://www.itu.int/epublications/en/publication/the-annual-ai-governance-report-2025-steering-the-future-of-ai](https://www.itu.int/epublications/en/publication/the-annual-ai-governance-report-2025-steering-the-future-of-ai)  
+   Link: <a href="https://www.itu.int/epublications/en/publication/the-annual-ai-governance-report-2025-steering-the-future-of-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.itu.int/epublications/en/publication/the-annual-ai-governance-report-2025-steering-the-future-of-ai</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Annual AI Governance Report 2025Risk assessment has become a focus of AI governance, with growing efforts to institutionalize evaluat...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=oOb9K1KIAyk](https://www.youtube.com/watch?v=oOb9K1KIAyk)  
+   Link: <a href="https://www.youtube.com/watch?v=oOb9K1KIAyk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oOb9K1KIAyk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Survival Stories: Taxonomy of Existential Risk - YouTube AI Survival Stories: Taxonomy of Existential Risk - YouTube...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: alignmentforum.org  
    Title: draft report on existential risk from power seeking ai  
-   Link: [https://www.alignmentforum.org/posts/HduCjmXTBD4xYTegv/draft-report-on-existential-risk-from-power-seeking-ai](https://www.alignmentforum.org/posts/HduCjmXTBD4xYTegv/draft-report-on-existential-risk-from-power-seeking-ai)  
+   Link: <a href="https://www.alignmentforum.org/posts/HduCjmXTBD4xYTegv/draft-report-on-existential-risk-from-power-seeking-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.alignmentforum.org/posts/HduCjmXTBD4xYTegv/draft-report-on-existential-risk-from-power-seeking-ai</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Draft report on existential risk from power-seeking AI28 Apr 2021 — I&#x27;ve written a draft report evaluating a version of the overall case...</p></details>

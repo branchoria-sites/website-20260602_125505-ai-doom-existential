@@ -1,7 +1,7 @@
 sidebar_generated:
 - title: AI Doom
-  title_full: AI Doom and
-  url: /ai-doom-and/
+  title_full: AI Doom and E 87399 b
+  url: /ai-doom-and-e-87399-b/
   children:
   - title: AI Takeoff
     title_full: Could AI Improvement Run Away From US? | AI Doom
@@ -50,14 +50,14 @@ sidebar_generated:
       title_full: Do today's self improving systems prove anything? | AI Takeoff
       url: /weak-evidence/
       children:
-      - title: AlphaZero Limits
-        title_full: How AlphaZero's Self Play Is Restricted by Game Rules | Weak evidence
-        url: /alphazero-limits/
-      - title: AutoML Boundaries
-        title_full: Why AutoML Cannot Independently Drive Machine Learning Research | Weak evidence
-        url: /automl-boundaries/
+      - title: Alpha Zero Limits
+        title_full: How Alpha Zero's Self Play Is Restricted by Game Rules | Weak evidence
+        url: /alpha-zero-limits/
+      - title: Auto ML Boundaries
+        title_full: Why Auto ML Cannot Independently Drive Machine Learning Research | Weak evidence
+        url: /auto-ml-boundaries/
       - title: Recursion Evidence
-        title_full: What AlphaZero and AutoML Reveal About Limits of AI Self Improvement | Weak evidence
+        title_full: What Alpha Zero and Auto ML Reveal About Limits of AI Self Improvement | Weak evidence
         url: /recursion-evidence/
   - title: Autonomy
     title_full: When Does AI Autonomy Become Dangerous? | AI Doom
@@ -488,9 +488,9 @@ sidebar_generated:
       - title: Missed risks
         title_full: What rushed AI evaluations can miss | Release Races
         url: /missed-risks/
-      - title: OpenAI case
-        title_full: Did faster launches weaken OpenAI safety checks? | Release Races
-        url: /openai-case/
+      - title: Open AI case
+        title_full: Did faster launches weaken Open AI safety checks? | Release Races
+        url: /open-ai-case/
       - title: Scaling rules
         title_full: Can lab safety promises survive launch races? | Release Races
         url: /scaling-rules/

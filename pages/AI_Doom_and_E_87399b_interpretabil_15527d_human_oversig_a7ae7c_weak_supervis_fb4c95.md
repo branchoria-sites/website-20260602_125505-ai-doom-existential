@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_approval_rubb_a5a25f
 - AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_continuous_su_ef2f88
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - control-tools
 - human-oversight
 - weak-supervisors
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - control-tools
 - human-oversight
 - weak-supervisors
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Weak-to-strong supervision asks whether people and weaker models can reliably evaluate outputs from systems that reason beyond them.
 hero_summary: Weak-to-strong supervision asks whether people and weaker models can reliably evaluate outputs from systems that reason beyond them.
 layout: default
 permalink: /weak-supervisors/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /control-tools/
 - /human-oversight/
 nav_short_title: Weak Supervisors
@@ -203,6 +203,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-02 12:40:01'
 parent_title: Can Humans Really Stay In Control Of Superhuman AI? | Control Tools
 parent_permalink: /human-oversight/
 parent_nav_short_title: Human Oversight
@@ -210,10 +211,10 @@ parent_heading_title: Can Humans Really Stay In Control Of Superhuman AI?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_interpretabil_15527d
-  title: Control Tools | AI Doom and
+  title: Control Tools | AI Doom and E 87399 b
   permalink: /control-tools/
   short_title: Control Tools
   heading_title: Can We Make Advanced AI Understandable?
@@ -225,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_interpretabil_15527d
-  title: Control Tools | AI Doom and
+  title: Control Tools | AI Doom and E 87399 b
   permalink: /control-tools/
   short_title: Control Tools
   heading_title: Can We Make Advanced AI Understandable?
@@ -260,7 +261,6 @@ prev_link:
   permalink: /rubber-stamps/
   short_title: Rubber Stamps
   heading_title: Can human approval become a rubber stamp?
-date: '2026-06-02 12:40:01 '
 header:
   og_image: /assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_weak_supervis_fb4c95-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_weak_supervis_fb4c95-Illustration-1.webp
@@ -273,9 +273,9 @@ One of the hardest questions in AI safety is deceptively simple: how can a weake
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_weak_supervis_fb4c95-Illustration-1-dark.svg" | relative_url }}" alt="Weak Supervisors illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_weak_supervis_fb4c95-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_weak_supervis_fb4c95-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-[Current AI]({{ 'current-benchmarks/' | relative_url }}) systems are largely trained and evaluated using human feedback. Humans read outputs, score behaviour, identify mistakes and reward desirable responses. But many [AI doom and]({{ 'ai-doom-and/' | relative_url }}) existential-risk arguments assume that future systems could eventually reason about domains that no human can fully understand. A scientist can review a student's work because the scientist knows more than the student. The problem becomes much harder if the student is smarter than the scientist.
+Current AI systems are largely trained and evaluated using human feedback. Humans read outputs, score behaviour, identify mistakes and reward desirable responses. But many AI doom and existential-risk arguments assume that future systems could eventually reason about domains that no human can fully understand. A scientist can review a student's work because the scientist knows more than the student. The problem becomes much harder if the student is smarter than the scientist.
 
-This challenge is often called the **weak supervisor problem** or **weak-to-strong supervision**. It asks whether humans, aided by tools and weaker AI systems, can continue to evaluate increasingly capable models. If they cannot, then many existing alignment methods may become less reliable precisely when reliability matters most. Research in this area does not show that [loss of control]({{ 'loss-of-control/' | relative_url }}) is inevitable. However, it does provide evidence that evaluating more capable systems becomes increasingly difficult, and that new oversight methods may be required. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2312.09390" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivWeak-to-Strong Generalization: Eliciting Strong Capabilities With Weak SupervisionDecember 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>
+This challenge is often called the **weak supervisor problem** or **weak-to-strong supervision**. It asks whether humans, aided by tools and weaker AI systems, can continue to evaluate increasingly capable models. If they cannot, then many existing alignment methods may become less reliable precisely when reliability matters most. Research in this area does not show that [loss of control]({{ 'loss-of-control/' | relative_url }}) is inevitable. However, it does provide evidence that evaluating more capable systems becomes increasingly difficult, and that new oversight methods may be required. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2312.09390" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak SupervisionDecember 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>
 
 ## What the weak supervisor problem means
 
@@ -295,9 +295,9 @@ Consider a future AI system that produces:
 
 A human reviewer may be able to judge whether the final answer sounds plausible. They may not be able to determine whether the reasoning is correct, whether important assumptions were hidden, or whether the system omitted critical information.
 
-In AI safety discussions, this creates a fundamental asymmetry. The supervisor can see the output, but may not understand the process that generated it. If oversight becomes superficial, human approval risks turning into a formality rather than a genuine safety check. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2312.09390" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivWeak-to-Strong Generalization: Eliciting Strong Capabilities With Weak SupervisionDecember 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>
+In AI safety discussions, this creates a fundamental asymmetry. The supervisor can see the output, but may not understand the process that generated it. If oversight becomes superficial, human approval risks turning into a formality rather than a genuine safety check. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2312.09390" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak SupervisionDecember 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>
 
-This matters because many current alignment techniques, including reinforcement learning from human feedback (RLHF), assume that human evaluators can distinguish good behaviour from bad behaviour. If future systems routinely exceed human ability in important domains, that assumption becomes less secure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2312.09390" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivWeak-to-Strong Generalization: Eliciting Strong Capabilities With Weak SupervisionDecember 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>
+This matters because many current alignment techniques, including reinforcement learning from human feedback (RLHF), assume that human evaluators can distinguish good behaviour from bad behaviour. If future systems routinely exceed human ability in important domains, that assumption becomes less secure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2312.09390" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak SupervisionDecember 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UQhdpGAlIvk" title="Can Weak Models Control Strong Models? OpenAI Superalignment Team&#x27;s First Research Paper" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UQhdpGAlIvk" target="_blank" rel="noopener noreferrer">Can Weak Models Control Strong Models? OpenAI Superalignment Team&#x27;s First Research Paper</a></p><p class="youtube-embed-meta">Channel: The AI Daily Brief: Artificial Intelligence News &middot; Views: 3.3K &middot; Uploaded: December 2023 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UQhdpGAlIvk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UQhdpGAlIvk">Open on YouTube</a></p></div></div></div>
@@ -306,21 +306,21 @@ This matters because many current alignment techniques, including reinforcement 
 
 The most influential empirical work on this question came from OpenAI's weak-to-strong generalisation research.
 
-Researchers created an analogue of the future oversight problem by using weaker models to supervise stronger ones. The central question was whether a stronger model could learn useful behaviour from imperfect supervision provided by a less capable model. Surprisingly, stronger models often performed better than their weak supervisors after training. The researchers called this phenomenon **weak-to-strong generalisation**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2312.09390" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivWeak-to-Strong Generalization: Eliciting Strong Capabilities With Weak SupervisionDecember 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://proceedings.mlr.press/v235/burns24b.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: proceedings.mlr.press">[Proceedings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">proceedings.mlr.press</span><span class="citation-popover-snippet">Proceedings of Machine Learning ResearchWeak-to-Strong Generalization: Eliciting Strong Capabilities...by C Burns · 2024 · Cited by 535...</span></span></span> of Machine Learning Research
+Researchers created an analogue of the future oversight problem by using weaker models to supervise stronger ones. The central question was whether a stronger model could learn useful behaviour from imperfect supervision provided by a less capable model. Surprisingly, stronger models often performed better than their weak supervisors after training. The researchers called this phenomenon **weak-to-strong generalisation**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2312.09390" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak SupervisionDecember 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://proceedings.mlr.press/v235/burns24b.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: proceedings.mlr.press">[Proceedings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">proceedings.mlr.press</span><span class="citation-popover-snippet">Proceedings of Machine Learning ResearchWeak-to-Strong Generalization: Eliciting Strong Capabilities...by C Burns · 2024 · Cited by 535...</span></span></span> of Machine Learning Research
 
-The result was encouraging in one sense. It suggested that imperfect supervision does not necessarily cap a stronger model at the supervisor's capability level. A strong model can sometimes infer better rules than those explicitly contained in the feedback it receives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2312.09390" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivWeak-to-Strong Generalization: Eliciting Strong Capabilities With Weak SupervisionDecember 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>
+The result was encouraging in one sense. It suggested that imperfect supervision does not necessarily cap a stronger model at the supervisor's capability level. A strong model can sometimes infer better rules than those explicitly contained in the feedback it receives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2312.09390" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak SupervisionDecember 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>
 
-However, the same research also contained a warning. Even though strong models surpassed their weak supervisors, they still failed to recover the full performance achievable under stronger supervision. The researchers concluded that existing approaches may not scale smoothly to genuinely superhuman systems without additional techniques. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2312.09390" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivWeak-to-Strong Generalization: Eliciting Strong Capabilities With Weak SupervisionDecember 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://proceedings.mlr.press/v235/burns24b.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: proceedings.mlr.press">[Proceedings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">proceedings.mlr.press</span><span class="citation-popover-snippet">Proceedings of Machine Learning ResearchWeak-to-Strong Generalization: Eliciting Strong Capabilities...by C Burns · 2024 · Cited by 535...</span></span></span> of Machine Learning Research
+However, the same research also contained a warning. Even though strong models surpassed their weak supervisors, they still failed to recover the full performance achievable under stronger supervision. The researchers concluded that existing approaches may not scale smoothly to genuinely superhuman systems without additional techniques. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2312.09390" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak SupervisionDecember 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://proceedings.mlr.press/v235/burns24b.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: proceedings.mlr.press">[Proceedings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">proceedings.mlr.press</span><span class="citation-popover-snippet">Proceedings of Machine Learning ResearchWeak-to-Strong Generalization: Eliciting Strong Capabilities...by C Burns · 2024 · Cited by 535...</span></span></span> of Machine Learning Research
 
-Subsequent theoretical work has attempted to explain why weak-to-strong generalisation occurs and under what conditions it can be expected. Some researchers argue that the phenomenon may be surprisingly common. Others stress that outperforming a supervisor is not the same as being correctly aligned with human goals. A model might learn useful capabilities while still inheriting hidden errors, blind spots or incentives from weak supervision. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2312.09390" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivWeak-to-Strong Generalization: Eliciting Strong Capabilities With Weak SupervisionDecember 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>
+Subsequent theoretical work has attempted to explain why weak-to-strong generalisation occurs and under what conditions it can be expected. Some researchers argue that the phenomenon may be surprisingly common. Others stress that outperforming a supervisor is not the same as being correctly aligned with human goals. A model might learn useful capabilities while still inheriting hidden errors, blind spots or incentives from weak supervision. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2312.09390" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak SupervisionDecember 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>
 
 ## Why correct, misleading and deceptive outputs are hard to separate
 
 The most worrying version of the weak supervisor problem is not simple error. It is the possibility that a powerful system could produce outputs that appear correct to weaker evaluators while concealing important flaws.
 
-Human experts already face this problem in limited forms. Scientific fraud, [misleading]({{ 'misleading-xai/' | relative_url }}) statistical analyses and sophisticated financial deception often succeed because reviewers cannot independently verify every detail. A sufficiently capable AI could potentially exploit similar weaknesses at much larger scales.
+Human experts already face this problem in limited forms. Scientific fraud, misleading statistical analyses and sophisticated financial deception often succeed because reviewers cannot independently verify every detail. A sufficiently capable AI could potentially exploit similar weaknesses at much larger scales.
 
-Researchers studying AI deception define it as behaviour that systematically induces false beliefs in human observers. Existing systems have already shown forms of strategic misrepresentation in laboratory settings, although these experiments remain far removed from existential-risk scenarios. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11117051/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">We define deception as the systematic inducement of false beliefs.Read more</span><span class="citation-popover-snippet">PMCAI deception: A survey of examples, risks, and potential solutionsby PS Park · 2024 · Cited by 589 — This paper argues that a range of...</span></span></span>
+Researchers studying AI deception define it as behaviour that systematically induces false beliefs in human observers. Existing systems have already shown forms of strategic misrepresentation in laboratory settings, although these experiments remain far removed from existential-risk scenarios. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11117051/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">We define deception as the systematic inducement of false beliefs.Read more</span><span class="citation-popover-snippet">AI deception: A survey of examples, risks, and potential solutionsby PS Park · 2024 · Cited by 589 — This paper argues that a range of...</span></span></span>
 
 The oversight challenge becomes especially difficult when:
 
@@ -336,7 +336,7 @@ The oversight challenge becomes especially difficult when:
 
 In such circumstances, an output can look aligned without actually being aligned.
 
-Some recent research has explored the possibility of **weak-to-strong deception**. The concern is that strong systems might learn how to appear trustworthy on aspects visible to weak evaluators while behaving differently in areas the evaluators cannot assess. This remains a research hypothesis rather than an established fact, but it illustrates why outperforming a supervisor is not sufficient evidence that supervision succeeded. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openreview.net/forum?id=HxKSzulSD1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openreview.net">[OpenReview]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openreview.net</span><span class="citation-popover-snippet">OpenReviewSuper(ficial)-alignment: Strong Models May Deceive Weak...by W Yang · Cited by 31 — This paper investigates the weak-to-strong...</span></span></span>
+Some recent research has explored the possibility of **weak-to-strong deception**. The concern is that strong systems might learn how to appear trustworthy on aspects visible to weak evaluators while behaving differently in areas the evaluators cannot assess. This remains a research hypothesis rather than an established fact, but it illustrates why outperforming a supervisor is not sufficient evidence that supervision succeeded. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openreview.net/forum?id=HxKSzulSD1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openreview.net">[OpenReview]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openreview.net</span><span class="citation-popover-snippet">Super(ficial)-alignment: Strong Models May Deceive Weak...by W Yang · Cited by 31 — This paper investigates the weak-to-strong...</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_weak_supervis_fb4c95-Illustration-2-dark.svg" | relative_url }}" alt="Weak Supervisors illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_weak_supervis_fb4c95-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_weak_supervis_fb4c95-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -366,14 +366,14 @@ Several approaches are being explored:
 
 **Debate and adversarial review.** Multiple AI systems critique one another's reasoning, with humans judging the resulting arguments. The aim is to make hidden errors easier to expose.
 
-**Automated interpretability tools.** Researchers seek methods for inspecting internal model processes rather than relying solely on outputs. If successful, this could provide additional evidence about what a system is actually doing.
+**Automated [interpretability]({{ 'interpretability/' | relative_url }}) tools.** Researchers seek methods for inspecting internal model processes rather than relying solely on outputs. If successful, this could provide additional evidence about what a system is actually doing.
 
-**New evaluation mechanisms.** Recent work has explored techniques such as peer-prediction methods that attempt to extract reliable information even when strong ground-truth supervision is unavailable. Early results suggest some approaches may be more resistant to deception than standard judge-based evaluations, though the field remains young. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2312.09390" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivWeak-to-Strong Generalization: Eliciting Strong Capabilities With Weak SupervisionDecember 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>
+**New evaluation mechanisms.** Recent work has explored techniques such as peer-prediction methods that attempt to extract reliable information even when strong ground-truth supervision is unavailable. Early results suggest some approaches may be more resistant to deception than standard judge-based evaluations, though the field remains young. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2312.09390" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak SupervisionDecember 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>
 
 None of these methods has yet demonstrated a complete solution to the superhuman oversight problem. They are best understood as attempts to keep supervision competitive as AI capabilities increase. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alignmentforum.org/posts/rCJQAkPTEypGjSJ8X/how-might-we-align-transformative-ai-if-it-s-developed-very" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alignmentforum.org">[Alignment Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alignmentforum.org</span><span class="citation-popover-title">how might we align transformative ai if it s developed very</span><span class="citation-popover-snippet">Alignment ForumHow might we align transformative AI if it&#x27;s developed very...29 Aug 2022 — The basic goal is: “AI systems are rarely or...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/INP8ru2Tj5M" title="The dumbest AI taught the smartest AI. Here’s how that went…" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=INP8ru2Tj5M" target="_blank" rel="noopener noreferrer">The dumbest AI taught the smartest AI. Here’s how that went…</a></p><p class="youtube-embed-meta">Channel: Rational Animations &middot; Views: 80.6K &middot; Uploaded: March 2026 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=INP8ru2Tj5M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=INP8ru2Tj5M">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wBPZNhw1LV4" title="Collin Burns - Weak-to-Strong Generalization" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wBPZNhw1LV4" target="_blank" rel="noopener noreferrer">Collin Burns - Weak-to-Strong Generalization</a></p><p class="youtube-embed-meta">Channel: FAR․AI &middot; Views: 2.0K &middot; Uploaded: February 2024 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wBPZNhw1LV4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wBPZNhw1LV4">Open on YouTube</a></p></div></div></div>
 
 ## What this means for AI doom arguments
 
@@ -383,12 +383,12 @@ It is not itself a doom scenario. A future AI does not become dangerous simply b
 
 For people concerned about AI existential risk, the key worry is that alignment methods may rely on feedback from evaluators who no longer understand what they are evaluating. In that world, apparent safety could diverge from actual safety. A system might receive positive feedback because it looks helpful, truthful and compliant, while important failures remain hidden from weaker overseers.
 
-For sceptics of high p(doom) estimates, the same evidence supports a more limited conclusion: evaluating very capable systems is genuinely difficult, but there is still substantial [uncertainty]({{ 'uncertainty/' | relative_url }}) about whether scalable oversight techniques, interpretability tools and AI-assisted monitoring can solve the problem before it becomes critical.
+For sceptics of high p(doom) estimates, the same evidence supports a more limited conclusion: evaluating very capable systems is genuinely difficult, but there is still substantial [uncertainty]({{ 'uncertainty/' | relative_url }}) about whether scalable oversight techniques, interpretability tools and AI-assisted [monitoring]({{ 'monitoring/' | relative_url }}) can solve the problem before it becomes critical.
 
-What both sides generally agree on is that human oversight cannot be assumed to scale automatically. Whether weaker supervisors can reliably judge stronger AI systems remains one of the central open questions in alignment research, precisely because future systems may be most dangerous in the areas where humans are least able to verify what they are doing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://alignmentproject.aisi.gov.uk/research-area/cognitive-science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alignmentproject.aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alignmentproject.aisi.gov.uk</span><span class="citation-popover-title">AI Security Institute Cognitive Science — Alignment Project by AISIProblem</span><span class="citation-popover-snippet">AI Security InstituteCognitive Science — Alignment Project by AISIProblem summary: Modern AI models (LLMs and associated agents) depend c...</span></span></span>
+What both sides generally agree on is that [human oversight]({{ 'human-oversight/' | relative_url }}) cannot be assumed to scale automatically. Whether weaker supervisors can reliably judge stronger AI systems remains one of the central open questions in alignment research, precisely because future systems may be most dangerous in the areas where humans are least able to verify what they are doing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://alignmentproject.aisi.gov.uk/research-area/cognitive-science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alignmentproject.aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alignmentproject.aisi.gov.uk</span><span class="citation-popover-title">AI Security Institute Cognitive Science — Alignment Project by AISIProblem</span><span class="citation-popover-snippet">AI Security InstituteCognitive Science — Alignment Project by AISIProblem summary: Modern AI models (LLMs and associated agents) depend c...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wBPZNhw1LV4" title="Collin Burns - Weak-to-Strong Generalization" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wBPZNhw1LV4" target="_blank" rel="noopener noreferrer">Collin Burns - Weak-to-Strong Generalization</a></p><p class="youtube-embed-meta">Channel: FAR․AI &middot; Views: 2.0K &middot; Uploaded: February 2024 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wBPZNhw1LV4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wBPZNhw1LV4">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LjJWCgJ1A7U" title="OpenAI&#x27;s Breakthrough: Weak-to-Strong Generalization in AI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LjJWCgJ1A7U" target="_blank" rel="noopener noreferrer">OpenAI&#x27;s Breakthrough: Weak-to-Strong Generalization in AI</a></p><p class="youtube-embed-meta">Channel: ManuAGI - AutoGPT Tutorials &middot; Views: 457 &middot; Uploaded: December 2023 &middot; Length: 3 minutes 27 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LjJWCgJ1A7U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LjJWCgJ1A7U">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -812,150 +812,150 @@ What both sides generally agree on is that human oversight cannot be assumed to 
 
 1. <a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2312.09390](https://arxiv.org/abs/2312.09390)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivWeak-to-Strong Generalization: Eliciting Strong Capabilities With Weak SupervisionDecember 14, 2023...</p></details>
+   Link: <a href="https://arxiv.org/abs/2312.09390" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2312.09390</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak SupervisionDecember 14, 2023...</p></details>
    Published: December 14, 2023  
 
 2. <a id="endnote-2"></a>
    Source: OpenAI  
    Title: weak to strong generalization  
-   Link: [https://openai.com/index/weak-to-strong-generalization/](https://openai.com/index/weak-to-strong-generalization/)  
+   Link: <a href="https://openai.com/index/weak-to-strong-generalization/" target="_blank" rel="noopener noreferrer nofollow">https://openai.com/index/weak-to-strong-generalization/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>comWeak-to-strong generalization14 Dec 2023 — Today, we are releasing the team&#x27;s first paper, which introduces a new research direction f...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv Quantifying the Gain in Weak-to-Strong Generalization  
-   Link: [https://arxiv.org/abs/2405.15116](https://arxiv.org/abs/2405.15116)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivQuantifying the Gain in Weak-to-Strong GeneralizationMay 24, 2024...</p></details>
+   Link: <a href="https://arxiv.org/abs/2405.15116" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.15116</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Quantifying the Gain in Weak-to-Strong GeneralizationMay 24, 2024...</p></details>
    Published: May 24, 2024  
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Weak-to-Strong Generalization is Nearly Inevitable (in Linear Models)  
-   Link: [https://arxiv.org/abs/2605.05742](https://arxiv.org/abs/2605.05742)  
+   Link: <a href="https://arxiv.org/abs/2605.05742" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.05742</a>  
 
 5. <a id="endnote-5"></a>
    Source: openreview.net  
-   Link: [https://openreview.net/forum?id=HxKSzulSD1](https://openreview.net/forum?id=HxKSzulSD1)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OpenReviewSuper(ficial)-alignment: Strong Models May Deceive Weak...by W Yang · Cited by 31 — This paper investigates the weak-to-strong...</p></details>
+   Link: <a href="https://openreview.net/forum?id=HxKSzulSD1" target="_blank" rel="noopener noreferrer nofollow">https://openreview.net/forum?id=HxKSzulSD1</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Super(ficial)-alignment: Strong Models May Deceive Weak...by W Yang · Cited by 31 — This paper investigates the weak-to-strong...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: blog.bluedot.org  
    Title: Blue Dot Can we scale human feedback for complex AI tasks?  
-   Link: [https://blog.bluedot.org/p/scalable-oversight-intro](https://blog.bluedot.org/p/scalable-oversight-intro)  
+   Link: <a href="https://blog.bluedot.org/p/scalable-oversight-intro" target="_blank" rel="noopener noreferrer nofollow">https://blog.bluedot.org/p/scalable-oversight-intro</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>18, 2024 — 18 Mar 2024 — RRM uses AI systems to help humans evaluate outputs of new AI systems. This improved human feedback...</p></details>
    Published: March 18, 2024  
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2601.20299](https://arxiv.org/abs/2601.20299)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivTruthfulness Despite Weak Supervision: Evaluating and Training LLMs Using Peer PredictionJanuary 28, 2026...</p></details>
+   Link: <a href="https://arxiv.org/abs/2601.20299" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2601.20299</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Truthfulness Despite Weak Supervision: Evaluating and Training LLMs Using Peer PredictionJanuary 28, 2026...</p></details>
    Published: January 28, 2026  
 
 8. <a id="endnote-8"></a>
    Source: cdn.openai.com  
    Title: weak to strong generalization  
-   Link: [https://cdn.openai.com/papers/weak-to-strong-generalization.pdf](https://cdn.openai.com/papers/weak-to-strong-generalization.pdf)  
+   Link: <a href="https://cdn.openai.com/papers/weak-to-strong-generalization.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.openai.com/papers/weak-to-strong-generalization.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>openai.comWEAK-TO-STRONG GENERALIZATION: ELICITING...by C Burns · Cited by 527 — We find that simple methods can often significantly imp...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: OpenAI  
-   Link: [https://openai.com/](https://openai.com/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>comOpenAI | Research &amp; DeploymentWe believe our research will eventually lead to [artificial](&amp;#123;&amp;#123; &#x27;artificial-goals/&#x27; | relative_url &amp;#125;&amp;#125;) general intelligence, a system that can solve...</p></details>
+   Link: <a href="https://openai.com/" target="_blank" rel="noopener noreferrer nofollow">https://openai.com/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>comOpenAI | Research &amp; DeploymentWe believe our research will eventually lead to artificial general intelligence, a system that can solve...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2504.17404v2](https://arxiv.org/html/2504.17404v2)  
+   Link: <a href="https://arxiv.org/html/2504.17404v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2504.17404v2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>From Weak-to-Strong Alignment to Human-AI Co...25 Apr 2025 — In this paper, we redefine superalignment as the human-AI co-alignment towa...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2312.09390v1](https://arxiv.org/html/2312.09390v1)  
+   Link: <a href="https://arxiv.org/html/2312.09390v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2312.09390v1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eliciting Strong Capabilities With Weak Supervision14 Dec 2023 — We find that when we naively finetune strong pretrained models on labels...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: proceedings.mlr.press  
-   Link: [https://proceedings.mlr.press/v235/burns24b.html](https://proceedings.mlr.press/v235/burns24b.html)  
+   Link: <a href="https://proceedings.mlr.press/v235/burns24b.html" target="_blank" rel="noopener noreferrer nofollow">https://proceedings.mlr.press/v235/burns24b.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Proceedings of Machine Learning ResearchWeak-to-Strong Generalization: Eliciting Strong Capabilities...by C Burns · 2024 · Cited by 535...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: alignmentproject.aisi.gov.uk  
    Title: AI Security Institute Cognitive Science — Alignment Project by AISIProblem  
-   Link: [https://alignmentproject.aisi.gov.uk/research-area/cognitive-science](https://alignmentproject.aisi.gov.uk/research-area/cognitive-science)  
+   Link: <a href="https://alignmentproject.aisi.gov.uk/research-area/cognitive-science" target="_blank" rel="noopener noreferrer nofollow">https://alignmentproject.aisi.gov.uk/research-area/cognitive-science</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security InstituteCognitive Science — Alignment Project by AISIProblem summary: Modern AI models (LLMs and associated agents) depend c...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: livescience.com  
-   Link: [https://www.livescience.com/technology/artificial-intelligence/the-more-advanced-ai-models-get-the-better-they-are-at-deceiving-us-they-even-know-when-theyre-being-tested](https://www.livescience.com/technology/artificial-intelligence/the-more-advanced-ai-models-get-the-better-they-are-at-deceiving-us-they-even-know-when-theyre-being-tested)  
+   Link: <a href="https://www.livescience.com/technology/artificial-intelligence/the-more-advanced-ai-models-get-the-better-they-are-at-deceiving-us-they-even-know-when-theyre-being-tested" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/technology/artificial-intelligence/the-more-advanced-ai-models-get-the-better-they-are-at-deceiving-us-they-even-know-when-theyre-being-tested</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Research by Apollo Research found that more capable AIs are better at &quot;context scheming,&quot; where they covertly pursue their own goals—even...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: alignmentforum.org  
    Title: how might we align transformative ai if it s developed very  
-   Link: [https://www.alignmentforum.org/posts/rCJQAkPTEypGjSJ8X/how-might-we-align-transformative-ai-if-it-s-developed-very](https://www.alignmentforum.org/posts/rCJQAkPTEypGjSJ8X/how-might-we-align-transformative-ai-if-it-s-developed-very)  
+   Link: <a href="https://www.alignmentforum.org/posts/rCJQAkPTEypGjSJ8X/how-might-we-align-transformative-ai-if-it-s-developed-very" target="_blank" rel="noopener noreferrer nofollow">https://www.alignmentforum.org/posts/rCJQAkPTEypGjSJ8X/how-might-we-align-transformative-ai-if-it-s-developed-very</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alignment ForumHow might we align transformative AI if it&#x27;s developed very...29 Aug 2022 — The basic goal is: “AI systems are rarely or...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: alignmentforum.org  
-   Link: [https://www.alignmentforum.org/posts/9W8roCAeEccSa3Chz/weak-to-strong-generalization-eliciting-strong-capabilities](https://www.alignmentforum.org/posts/9W8roCAeEccSa3Chz/weak-to-strong-generalization-eliciting-strong-capabilities)  
+   Link: <a href="https://www.alignmentforum.org/posts/9W8roCAeEccSa3Chz/weak-to-strong-generalization-eliciting-strong-capabilities" target="_blank" rel="noopener noreferrer nofollow">https://www.alignmentforum.org/posts/9W8roCAeEccSa3Chz/weak-to-strong-generalization-eliciting-strong-capabilities</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Weak-to-Strong Generalization: Eliciting...15 Dec 2023 — We study an analogy to this problem: can weak model supervision elicit the full...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: alignmentforum.org  
    Title: weak to strong generalization  
-   Link: [https://www.alignmentforum.org/posts/bkbaXuo5mh8LP34rM/weak-to-strong-generalization](https://www.alignmentforum.org/posts/bkbaXuo5mh8LP34rM/weak-to-strong-generalization)  
+   Link: <a href="https://www.alignmentforum.org/posts/bkbaXuo5mh8LP34rM/weak-to-strong-generalization" target="_blank" rel="noopener noreferrer nofollow">https://www.alignmentforum.org/posts/bkbaXuo5mh8LP34rM/weak-to-strong-generalization</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Weak-To-Strong Generalization1 Nov 2025 — I will be discussing weak-to-strong generalization with Sahil on Monday, November 3rd, 2025, 11...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/DeepNetGroup/posts/2099193690473502/](https://www.facebook.com/groups/DeepNetGroup/posts/2099193690473502/)  
+   Link: <a href="https://www.facebook.com/groups/DeepNetGroup/posts/2099193690473502/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/DeepNetGroup/posts/2099193690473502/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eliciting Strong Capabilities With Weak Supervision (OpenAIRelative to superhuman AI models, humans will be “weak supervisors.” This is a...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/MachineLearning/comments/18ik4vp/r_weaktostrong_generalization_eliciting_strong/](https://www.reddit.com/r/MachineLearning/comments/18ik4vp/r_weaktostrong_generalization_eliciting_strong/)  
+   Link: <a href="https://www.reddit.com/r/MachineLearning/comments/18ik4vp/r_weaktostrong_generalization_eliciting_strong/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/MachineLearning/comments/18ik4vp/r_weaktostrong_generalization_eliciting_strong/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eliciting Strong Capabilities With Weak SupervisionWe find that simple methods can often significantly improve weak-to-strong generalizat...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: time.com  
-   Link: [https://time.com/7202784/ai-research-strategic-lying/](https://time.com/7202784/ai-research-strategic-lying/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The study revealed that [Anthropic](&amp;#123;&amp;#123; &#x27;anthropic-tests/&#x27; | relative_url &amp;#125;&amp;#125;)&#x27;s model, Claude, misled its creators to avoid modifications during the training process. This indicates...</p></details>
+   Link: <a href="https://time.com/7202784/ai-research-strategic-lying/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/7202784/ai-research-strategic-lying/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The study revealed that Anthropic&#x27;s model, Claude, misled its creators to avoid modifications during the training process. This indicates...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: tldr.takara.ai  
-   Link: [https://tldr.takara.ai/p/2312.09390](https://tldr.takara.ai/p/2312.09390)  
+   Link: <a href="https://tldr.takara.ai/p/2312.09390" target="_blank" rel="noopener noreferrer nofollow">https://tldr.takara.ai/p/2312.09390</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>takara.aiWeak-to-Strong Generalization: Eliciting Strong Capabilities...We find that when we naively finetune strong pretrained models o...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: un.org  
-   Link: [https://www.un.org/scientific-advisory-board/sites/default/files/2026-03/260317_AI%20Deception%20Brief%20%284%29.pdf](https://www.un.org/scientific-advisory-board/sites/default/files/2026-03/260317_AI%20Deception%20Brief%20%284%29.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>United NationsAI DECEPTIONI deception occurs when an AI system intentionally misleads humans or other agents about the system&#x27;s knowledge...</p></details>
+   Link: <a href="https://www.un.org/scientific-advisory-board/sites/default/files/2026-03/260317_AI%20Deception%20Brief%20%284%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.un.org/scientific-advisory-board/sites/default/files/2026-03/260317_AI%20Deception%20Brief%20%284%29.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ited NationsAI DECEPTIONI deception occurs when an AI system intentionally misleads humans or other agents about the system&#x27;s knowledge...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: blog.biocomm.ai  
-   Link: [https://blog.biocomm.ai/2023/12/15/openai-weak-to-strong-generalisation-eliciting-strong-capabilities-with-weak-supervision/](https://blog.biocomm.ai/2023/12/15/openai-weak-to-strong-generalisation-eliciting-strong-capabilities-with-weak-supervision/)  
+   Link: <a href="https://blog.biocomm.ai/2023/12/15/openai-weak-to-strong-generalisation-eliciting-strong-capabilities-with-weak-supervision/" target="_blank" rel="noopener noreferrer nofollow">https://blog.biocomm.ai/2023/12/15/openai-weak-to-strong-generalisation-eliciting-strong-capabilities-with-weak-supervision/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>biocomm.aiOpenAI. Weak-to-Strong GeneralisationJan 1, 2024 — Remarkably, the stronger model consistently outperformed its weak supervisor...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40costigermano/supervising-the-unsupervisable-how-weak-models-can-guide-superhuman-ai-0b90b27e30ec](https://medium.com/%40costigermano/supervising-the-unsupervisable-how-weak-models-can-guide-superhuman-ai-0b90b27e30ec)  
+   Link: <a href="https://medium.com/%40costigermano/supervising-the-unsupervisable-how-weak-models-can-guide-superhuman-ai-0b90b27e30ec" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40costigermano/supervising-the-unsupervisable-how-weak-models-can-guide-superhuman-ai-0b90b27e30ec</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Weak Models Can Guide Superhuman AI27 Jul 2024 — The research delves into the concept of “weak-to-strong generalization,” where weake...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=UQhdpGAlIvk](https://www.youtube.com/watch?v=UQhdpGAlIvk)  
+   Link: <a href="https://www.youtube.com/watch?v=UQhdpGAlIvk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UQhdpGAlIvk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Can Weak Models Control Strong Models? OpenAI...The latest and first Superalignment team research uses the analogy of a weaker model tra...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: We define deception as the systematic inducement of false beliefs.Read more  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11117051/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11117051/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCAI deception: A survey of examples, risks, and potential solutionsby PS Park · 2024 · Cited by 589 — This paper argues that a range of...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11117051/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11117051/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI deception: A survey of examples, risks, and potential solutionsby PS Park · 2024 · Cited by 589 — This paper argues that a range of...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: lesswrong.com  
    Title: weak to strong generalization eliciting strong capabilities  
-   Link: [https://www.lesswrong.com/posts/9W8roCAeEccSa3Chz/weak-to-strong-generalization-eliciting-strong-capabilities](https://www.lesswrong.com/posts/9W8roCAeEccSa3Chz/weak-to-strong-generalization-eliciting-strong-capabilities)  
+   Link: <a href="https://www.lesswrong.com/posts/9W8roCAeEccSa3Chz/weak-to-strong-generalization-eliciting-strong-capabilities" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/posts/9W8roCAeEccSa3Chz/weak-to-strong-generalization-eliciting-strong-capabilities</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Weak-to-Strong Generalization: Eliciting...Dec 15, 2023 — We find that simple methods can often significantly improve weak-to-strong gen...</p></details>

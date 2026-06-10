@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1_bletchley_ai_417199
 - AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1_race_pressure_c5dcfd
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - race-pressure
 - geopolitics
 - compute-checks
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - race-pressure
 - geopolitics
 - compute-checks
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Tracking major compute clusters and frontier training runs is one proposed way to make AI slowdown agreements more credible.
 hero_summary: Tracking major compute clusters and frontier training runs is one proposed way to make AI slowdown agreements more credible.
 layout: default
 permalink: /compute-checks/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /race-pressure/
 - /geopolitics/
 nav_short_title: Compute Checks
@@ -211,10 +211,10 @@ parent_heading_title: Can Countries Slow Down Without Falling Behind?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_ai_race_dynam_a5d049
-  title: Race Pressure | AI Doom and
+  title: Race Pressure | AI Doom and E 87399 b
   permalink: /race-pressure/
   short_title: Race Pressure
   heading_title: Why AI Races Can Make Safety Harder
@@ -226,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_ai_race_dynam_a5d049
-  title: Race Pressure | AI Doom and
+  title: Race Pressure | AI Doom and E 87399 b
   permalink: /race-pressure/
   short_title: Race Pressure
   heading_title: Why AI Races Can Make Safety Harder
@@ -279,15 +279,15 @@ Can compute checks make AI restraint credible? Possibly—but only if they work 
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1_compute_monit_043a89-Illustration-1-dark.svg" | relative_url }}" alt="Compute Checks illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1_compute_monit_043a89-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1_compute_monit_043a89-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within [AI doom and]({{ 'ai-doom-and/' | relative_url }}) existential-risk debates, one of the biggest concerns is that even leaders who take [catastrophic]({{ 'misuse/' | relative_url }}) AI risks seriously may feel unable to slow down if they suspect competitors will continue developing more powerful systems. Compute monitoring is an attempt to solve that problem. The basic idea is that frontier AI development depends on enormous amounts of specialised computing power, particularly advanced AI chips and large training clusters. If those resources can be tracked, then agreements to limit or delay the most dangerous AI development become more verifiable and therefore more politically plausible. The proposal is often discussed as a practical test of whether international AI restraint is technically enforceable rather than merely aspirational. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.engine.is/news/category/ai-essentials-what-is-compute-and-how-is-it-measured" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: engine.is">[ENGINE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">engine.is</span><span class="citation-popover-title">ai essentials what is compute and how is it measured</span><span class="citation-popover-snippet">ENGINEAI Essentials: What is compute and how is it measured?24 Oct 2024 — Compute refers to the hardware resources that make AI models wo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://futureoflife.org/wp-content/uploads/2025/07/Belfield-Domestic-frontier-AI-regulation-an-IAEA-for-AI-an-NPT-for-AI-and-a-US-led-Allied-Public-Private-Partnership-for-AI-Four-institutions-for-governing-and-developing-frontier-AI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: futureoflife.org">[Future]</a><span class="citation-popover" role="note"><span class="citation-popover-source">futureoflife.org</span><span class="citation-popover-snippet">Future of Life InstituteDomestic frontier AI regulation, an IAEA for AI, an NPT for...by H Belfield · 2024 · Cited by 2 — This paper tak...</span></span></span> of Life Institute
+Within AI doom and existential-risk debates, one of the biggest concerns is that even leaders who take [catastrophic]({{ 'misuse/' | relative_url }}) AI risks seriously may feel unable to slow down if they suspect competitors will continue developing more powerful systems. Compute [monitoring]({{ 'monitoring/' | relative_url }}) is an attempt to solve that problem. The basic idea is that frontier AI development depends on enormous amounts of specialised computing power, particularly advanced AI chips and large training clusters. If those resources can be tracked, then agreements to limit or delay the most dangerous AI development become more verifiable and therefore more politically plausible. The proposal is often discussed as a practical test of whether international AI restraint is technically enforceable rather than merely aspirational. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.engine.is/news/category/ai-essentials-what-is-compute-and-how-is-it-measured" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: engine.is">[ENGINE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">engine.is</span><span class="citation-popover-title">ai essentials what is compute and how is it measured</span><span class="citation-popover-snippet">AI Essentials: What is compute and how is it measured?24 Oct 2024 — Compute refers to the hardware resources that make AI models wo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://futureoflife.org/wp-content/uploads/2025/07/Belfield-Domestic-frontier-AI-regulation-an-IAEA-for-AI-an-NPT-for-AI-and-a-US-led-Allied-Public-Private-Partnership-for-AI-Four-institutions-for-governing-and-developing-frontier-AI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: futureoflife.org">[Future]</a><span class="citation-popover" role="note"><span class="citation-popover-source">futureoflife.org</span><span class="citation-popover-snippet">Future of Life InstituteDomestic frontier AI regulation, an IAEA for AI, an NPT for...by H Belfield · 2024 · Cited by 2 — This paper tak...</span></span></span> of Life Institute
 
-The key question is not whether compute [monitoring]({{ 'monitoring/' | relative_url }}) would be perfect. The question is whether it would make cheating difficult enough, detectable enough, and risky enough that major actors would accept slower development rather than assume everyone else is secretly accelerating.
+The key question is not whether compute monitoring would be perfect. The question is whether it would make cheating difficult enough, detectable enough, and risky enough that major actors would accept slower development rather than assume everyone else is secretly accelerating.
 
 ## Why compute is central to frontier AI governance
 
-Many proposed AI safety measures focus on models, datasets, [evaluations]({{ 'evaluations/' | relative_url }}), or deployment decisions. Compute governance focuses on something more fundamental: the hardware needed to create frontier systems in the first place.
+Many proposed AI safety measures focus on models, datasets, [evaluations]({{ 'evaluations/' | relative_url }}), or deployment decisions. Compute [governance]({{ 'governance/' | relative_url }}) focuses on something more fundamental: the hardware needed to create frontier systems in the first place.
 
-Training the largest AI models requires vast quantities of specialised computing resources. While data and algorithms matter, frontier systems have historically required access to large numbers of advanced accelerators, expensive datacentre infrastructure, electricity, networking equipment, and technical expertise. This concentration creates a potential governance advantage. Unlike software, which can be copied almost instantly, frontier-scale compute is costly, physical, and relatively visible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.engine.is/news/category/ai-essentials-what-is-compute-and-how-is-it-measured" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: engine.is">[ENGINE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">engine.is</span><span class="citation-popover-title">ai essentials what is compute and how is it measured</span><span class="citation-popover-snippet">ENGINEAI Essentials: What is compute and how is it measured?24 Oct 2024 — Compute refers to the hardware resources that make AI models wo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cetas.turing.ac.uk/publications/semiconductor-supply-chains-ai-and-economic-statecraft" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cetas.turing.ac.uk">[2cetas.turing.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cetas.turing.ac.uk</span><span class="citation-popover-title">semiconductor supply chains ai and economic statecraft</span><span class="citation-popover-snippet">Semiconductor Supply Chains, AI and Economic Statecraft9 Apr 2024 — By using export controls to restrict China&#x27;s access to leading-edge c...</span></span></span>
+Training the largest AI models requires vast quantities of specialised computing resources. While data and algorithms matter, frontier systems have historically required access to large numbers of advanced accelerators, expensive datacentre infrastructure, electricity, networking equipment, and technical expertise. This concentration creates a potential governance advantage. Unlike software, which can be copied almost instantly, frontier-scale compute is costly, physical, and relatively visible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.engine.is/news/category/ai-essentials-what-is-compute-and-how-is-it-measured" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: engine.is">[ENGINE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">engine.is</span><span class="citation-popover-title">ai essentials what is compute and how is it measured</span><span class="citation-popover-snippet">AI Essentials: What is compute and how is it measured?24 Oct 2024 — Compute refers to the hardware resources that make AI models wo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cetas.turing.ac.uk/publications/semiconductor-supply-chains-ai-and-economic-statecraft" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cetas.turing.ac.uk">[2cetas.turing.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cetas.turing.ac.uk</span><span class="citation-popover-title">semiconductor supply chains ai and economic statecraft</span><span class="citation-popover-snippet">Semiconductor Supply Chains, AI and Economic Statecraft9 Apr 2024 — By using export controls to restrict China&#x27;s access to leading-edge c...</span></span></span>
 
 For AI doom advocates, this matters because many loss-of-control scenarios involve systems developed near the technological frontier. If governments could reliably observe when organisations are assembling the computing resources needed for frontier training runs, they might be able to enforce licensing regimes, mandatory evaluations, temporary pauses, or international agreements limiting the development of especially powerful systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://futureoflife.org/wp-content/uploads/2025/07/Belfield-Domestic-frontier-AI-regulation-an-IAEA-for-AI-an-NPT-for-AI-and-a-US-led-Allied-Public-Private-Partnership-for-AI-Four-institutions-for-governing-and-developing-frontier-AI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: futureoflife.org">[Future of Life Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">futureoflife.org</span><span class="citation-popover-snippet">Future of Life InstituteDomestic frontier AI regulation, an IAEA for AI, an NPT for...by H Belfield · 2024 · Cited by 2 — This paper tak...</span></span></span>
 
@@ -356,7 +356,7 @@ The practical question is whether violations remain small and detectable or beco
 
 Perhaps the most important long-term challenge is that AI progress does not depend solely on hardware quantities. Better algorithms can reduce the amount of compute needed to reach a given capability level.
 
-The success of systems such as DeepSeek strengthened arguments that algorithmic improvements can substantially alter compute requirements. While frontier AI still depends heavily on advanced hardware, improvements in efficiency may complicate efforts to infer capability levels from compute use alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.csis.org/analysis/deepseek-huawei-export-controls-and-future-us-china-ai-race" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csis.org">[CSIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csis.org</span><span class="citation-popover-title">deepseek huawei export controls and future us china ai race</span><span class="citation-popover-snippet">CSISDeepSeek, Huawei, Export Controls, and the Future of...7 Mar 2025 — In Gregory C. Allen&#x27;s latest report, he examines DeepSeek&#x27;s orig...</span></span></span>
+The success of systems such as DeepSeek strengthened arguments that algorithmic improvements can substantially alter compute requirements. While frontier AI still depends heavily on advanced hardware, improvements in efficiency may complicate efforts to infer capability levels from compute use alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.csis.org/analysis/deepseek-huawei-export-controls-and-future-us-china-ai-race" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csis.org">[CSIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csis.org</span><span class="citation-popover-title">deepseek huawei export controls and future us china ai race</span><span class="citation-popover-snippet">DeepSeek, Huawei, Export Controls, and the Future of...7 Mar 2025 — In Gregory C. Allen&#x27;s latest report, he examines DeepSeek&#x27;s orig...</span></span></span>
 
 For doom-oriented analyses, this means that compute monitoring may need to evolve alongside technical progress rather than relying on fixed thresholds.
 
@@ -366,9 +366,9 @@ For doom-oriented analyses, this means that compute monitoring may need to evolv
 
 A common misunderstanding is that compute monitoring must achieve perfect visibility to be worthwhile.
 
-In practice, the relevant [benchmark]({{ 'benchmark-limits/' | relative_url }}) is lower. A monitoring regime could be valuable if it reliably detects most frontier-scale projects, raises the costs of evasion, and provides enough confidence for governments to coordinate on restraint measures.
+In practice, the relevant benchmark is lower. A monitoring regime could be valuable if it reliably detects most frontier-scale projects, raises the costs of evasion, and provides enough confidence for governments to coordinate on restraint measures.
 
-A successful system might not prevent every secret training run. Instead, it could make large-scale cheating difficult enough that states no longer assume competitors are secretly sprinting toward artificial general intelligence. If that confidence emerges, then policies often discussed in AI doom circles—enhanced evaluations, capability thresholds, temporary pauses, licensing systems, or international agreements—become more politically realistic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rand.org/pubs/research_reports/RRA3686-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">RAND CorporationStrategies and Detection Gaps in a Game-Theoretic Model...16 Jun 2025 — To develop effective AI governance, policymakers...</span></span></span>
+A successful system might not prevent every secret training run. Instead, it could make large-scale cheating difficult enough that states no longer assume competitors are secretly sprinting toward artificial general intelligence. If that confidence emerges, then policies often discussed in AI doom circles—enhanced evaluations, [capability thresholds]({{ 'capability-thresholds/' | relative_url }}), temporary pauses, licensing systems, or international agreements—become more politically realistic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rand.org/pubs/research_reports/RRA3686-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">RAND CorporationStrategies and Detection Gaps in a Game-Theoretic Model...16 Jun 2025 — To develop effective AI governance, policymakers...</span></span></span>
 
 The deeper significance of compute monitoring is therefore not technical surveillance for its own sake. It is whether advanced AI development remains observable enough that cooperation can compete with racing dynamics. If verification proves feasible, it strengthens the case that humanity could deliberately slow down dangerous AI development. If verification proves impossible, fears of geopolitical competition may become much harder to overcome.
 
@@ -794,152 +794,152 @@ The deeper significance of compute monitoring is therefore not technical surveil
 1. <a id="endnote-1"></a>
    Source: engine.is  
    Title: ai essentials what is compute and how is it measured  
-   Link: [https://www.engine.is/news/category/ai-essentials-what-is-compute-and-how-is-it-measured](https://www.engine.is/news/category/ai-essentials-what-is-compute-and-how-is-it-measured)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ENGINEAI Essentials: What is compute and how is it measured?24 Oct 2024 — Compute refers to the hardware resources that make AI models wo...</p></details>
+   Link: <a href="https://www.engine.is/news/category/ai-essentials-what-is-compute-and-how-is-it-measured" target="_blank" rel="noopener noreferrer nofollow">https://www.engine.is/news/category/ai-essentials-what-is-compute-and-how-is-it-measured</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Essentials: What is compute and how is it measured?24 Oct 2024 — Compute refers to the hardware resources that make AI models wo...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: rand.org  
-   Link: [https://www.rand.org/pubs/research_reports/RRA3686-1.html](https://www.rand.org/pubs/research_reports/RRA3686-1.html)  
+   Link: <a href="https://www.rand.org/pubs/research_reports/RRA3686-1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/research_reports/RRA3686-1.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>RAND CorporationStrategies and Detection Gaps in a Game-Theoretic Model...16 Jun 2025 — To develop effective AI governance, policymakers...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: cetas.turing.ac.uk  
    Title: semiconductor supply chains ai and economic statecraft  
-   Link: [https://cetas.turing.ac.uk/publications/semiconductor-supply-chains-ai-and-economic-statecraft](https://cetas.turing.ac.uk/publications/semiconductor-supply-chains-ai-and-economic-statecraft)  
+   Link: <a href="https://cetas.turing.ac.uk/publications/semiconductor-supply-chains-ai-and-economic-statecraft" target="_blank" rel="noopener noreferrer nofollow">https://cetas.turing.ac.uk/publications/semiconductor-supply-chains-ai-and-economic-statecraft</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Semiconductor Supply Chains, AI and Economic Statecraft9 Apr 2024 — By using export controls to restrict China&#x27;s access to leading-edge c...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2511.10783v3](https://arxiv.org/html/2511.10783v3)  
+   Link: <a href="https://arxiv.org/html/2511.10783v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2511.10783v3</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>export controls that have focused on AI chips... Monitoring and verification of AI chips is feasible in...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reuters.com  
    Title: Trump administration recommends location verification for AI chips  
-   Link: [https://www.reuters.com/world/china/trump-administration-recommends-location-verification-ai-chips-2025-07-24/](https://www.reuters.com/world/china/trump-administration-recommends-location-verification-ai-chips-2025-07-24/)  
+   Link: <a href="https://www.reuters.com/world/china/trump-administration-recommends-location-verification-ai-chips-2025-07-24/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/china/trump-administration-recommends-location-verification-ai-chips-2025-07-24/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This recommendation is part of a wider AI blueprint aimed at increasing AI technology exports to U.S. allies and easing environmental reg...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv Does Distributed Training Undermine Compute Governance?  
-   Link: [https://arxiv.org/abs/2605.29359](https://arxiv.org/abs/2605.29359)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivDoes Distributed Training Undermine Compute Governance?May 28, 2026...</p></details>
+   Link: <a href="https://arxiv.org/abs/2605.29359" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.29359</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Does Distributed Training Undermine Compute Governance?May 28, 2026...</p></details>
    Published: May 28, 2026  
 
 7. <a id="endnote-7"></a>
    Source: bisi.org.uk  
    Title: A I Chip Smuggling: The Limits of US Export Controls  
-   Link: [https://bisi.org.uk/reports/ai-chip-smuggling-the-limits-of-us-export-controls](https://bisi.org.uk/reports/ai-chip-smuggling-the-limits-of-us-export-controls)  
+   Link: <a href="https://bisi.org.uk/reports/ai-chip-smuggling-the-limits-of-us-export-controls" target="_blank" rel="noopener noreferrer nofollow">https://bisi.org.uk/reports/ai-chip-smuggling-the-limits-of-us-export-controls</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Chip Smuggling: The Limits of US Export ControlsApril 6, 2026 — 6 Apr 2026 — The cases demonstrate that restricting chip exports does...</p></details>
    Published: April 6, 2026  
 
 8. <a id="endnote-8"></a>
    Source: csis.org  
    Title: deepseek huawei export controls and future us china ai race  
-   Link: [https://www.csis.org/analysis/deepseek-huawei-export-controls-and-future-us-china-ai-race](https://www.csis.org/analysis/deepseek-huawei-export-controls-and-future-us-china-ai-race)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CSISDeepSeek, Huawei, Export Controls, and the Future of...7 Mar 2025 — In Gregory C. Allen&#x27;s latest report, he examines DeepSeek&#x27;s orig...</p></details>
+   Link: <a href="https://www.csis.org/analysis/deepseek-huawei-export-controls-and-future-us-china-ai-race" target="_blank" rel="noopener noreferrer nofollow">https://www.csis.org/analysis/deepseek-huawei-export-controls-and-future-us-china-ai-race</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>DeepSeek, Huawei, Export Controls, and the Future of...7 Mar 2025 — In Gregory C. Allen&#x27;s latest report, he examines DeepSeek&#x27;s orig...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: rand.org  
    Title: RRA4159 1  
-   Link: [https://www.rand.org/pubs/research_reports/RRA4159-1.html](https://www.rand.org/pubs/research_reports/RRA4159-1.html)  
+   Link: <a href="https://www.rand.org/pubs/research_reports/RRA4159-1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/research_reports/RRA4159-1.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Governance Approaches to Securing Frontier AI7 Oct 2025 — The authors examine how the U.S. government and frontier artificial intelligenc...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: rand.org  
    Title: RAND RRA4159 1  
-   Link: [https://www.rand.org/content/dam/rand/pubs/research_reports/RRA4100/RRA4159-1/RAND_RRA4159-1.pdf](https://www.rand.org/content/dam/rand/pubs/research_reports/RRA4100/RRA4159-1/RAND_RRA4159-1.pdf)  
+   Link: <a href="https://www.rand.org/content/dam/rand/pubs/research_reports/RRA4100/RRA4159-1/RAND_RRA4159-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/content/dam/rand/pubs/research_reports/RRA4100/RRA4159-1/RAND_RRA4159-1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>government and frontier artificial intelligence (AI) model develop- ers can strengthen the industry&#x27;s security practices...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: rand.org  
    Title: RBA4159 1  
-   Link: [https://www.rand.org/pubs/research_briefs/RBA4159-1.html](https://www.rand.org/pubs/research_briefs/RBA4159-1.html)  
+   Link: <a href="https://www.rand.org/pubs/research_briefs/RBA4159-1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/research_briefs/RBA4159-1.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Four Governance Approaches to Securing Advanced AI23 Jan 2026 — This brief summarizes RAND research on how the U.S. government and fronti...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2412.03824](https://arxiv.org/pdf/2412.03824)  
+   Link: <a href="https://arxiv.org/pdf/2412.03824" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2412.03824</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>“frontier data governance” opens up new avenues for monitoring and mitigating risks from advanced AI models, particularly as they scale a...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: futureoflife.org  
-   Link: [https://futureoflife.org/wp-content/uploads/2025/07/Belfield-Domestic-frontier-AI-regulation-an-IAEA-for-AI-an-NPT-for-AI-and-a-US-led-Allied-Public-Private-Partnership-for-AI-Four-institutions-for-governing-and-developing-frontier-AI.pdf](https://futureoflife.org/wp-content/uploads/2025/07/Belfield-Domestic-frontier-AI-regulation-an-IAEA-for-AI-an-NPT-for-AI-and-a-US-led-Allied-Public-Private-Partnership-for-AI-Four-institutions-for-governing-and-developing-frontier-AI.pdf)  
+   Link: <a href="https://futureoflife.org/wp-content/uploads/2025/07/Belfield-Domestic-frontier-AI-regulation-an-IAEA-for-AI-an-NPT-for-AI-and-a-US-led-Allied-Public-Private-Partnership-for-AI-Four-institutions-for-governing-and-developing-frontier-AI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://futureoflife.org/wp-content/uploads/2025/07/Belfield-Domestic-frontier-AI-regulation-an-IAEA-for-AI-an-NPT-for-AI-and-a-US-led-Allied-Public-Private-Partnership-for-AI-Four-institutions-for-governing-and-developing-frontier-AI.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Future of Life InstituteDomestic frontier AI regulation, an IAEA for AI, an NPT for...by H Belfield · 2024 · Cited by 2 — This paper tak...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: tomshardware.com  
    Title: Tom's Hardware U.S  
-   Link: [https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-house-passes-bill-to-stop-chinese-companies-from-accessing-export-controlled-american-ai-chips-using-offshore-rental-loophole-remote-access-security-access-act-effectively-extends-export-controls-to-the-cloud](https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-house-passes-bill-to-stop-chinese-companies-from-accessing-export-controlled-american-ai-chips-using-offshore-rental-loophole-remote-access-security-access-act-effectively-extends-export-controls-to-the-cloud)  
+   Link: <a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-house-passes-bill-to-stop-chinese-companies-from-accessing-export-controlled-american-ai-chips-using-offshore-rental-loophole-remote-access-security-access-act-effectively-extends-export-controls-to-the-cloud" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-house-passes-bill-to-stop-chinese-companies-from-accessing-export-controlled-american-ai-chips-using-offshore-rental-loophole-remote-access-security-access-act-effectively-extends-export-controls-to-the-cloud</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>House passes bill to stop Chinese companies from accessing export-controlled American AI chips using offshore rental loophole - Remote Ac...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: aws.amazon.com  
-   Link: [https://aws.amazon.com/what-is/compute/](https://aws.amazon.com/what-is/compute/)  
+   Link: <a href="https://aws.amazon.com/what-is/compute/" target="_blank" rel="noopener noreferrer nofollow">https://aws.amazon.com/what-is/compute/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Enterprise Cloud Computing ExplainedIt is a generic term used to reference processing power, memory, networking, storage, and other resou...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: hpe.com  
-   Link: [https://www.hpe.com/uk/en/what-is/compute.html](https://www.hpe.com/uk/en/what-is/compute.html)  
+   Link: <a href="https://www.hpe.com/uk/en/what-is/compute.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hpe.com/uk/en/what-is/compute.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Compute? | Glossary31 Oct 2025 — Compute refers to the ability of a computer system to process and execute tasks, calculations, a...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: vocabulary.com  
-   Link: [https://www.vocabulary.com/dictionary/compute](https://www.vocabulary.com/dictionary/compute)  
+   Link: <a href="https://www.vocabulary.com/dictionary/compute" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary.com/dictionary/compute</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, Meaning &amp; SynonymsWhen you solve a mathematical problem, you compute the answer. To compute is to calculate, either literally...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/compute](https://www.merriam-webster.com/dictionary/compute)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/compute" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/compute</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>COMPUTE Definition &amp; Meaning1. to make calculation: reckon They compute by weight in selling grain. 2. to use a computer 3. informal: t...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/explainlikeimfive/comments/hiqdpx/eli5_what_exactly_is_compute/](https://www.reddit.com/r/explainlikeimfive/comments/hiqdpx/eli5_what_exactly_is_compute/)  
+   Link: <a href="https://www.reddit.com/r/explainlikeimfive/comments/hiqdpx/eli5_what_exactly_is_compute/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/hiqdpx/eli5_what_exactly_is_compute/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>eli5: What exactly is compute?: r/explainlikeimfiveI am curious to understand more what compute means in reference to AWS services. What...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/mauricio-baker_say-the-us-wants-a-deal-with-china-on-powerful-activity-7354198089697488896-sTLb](https://www.linkedin.com/posts/mauricio-baker_say-the-us-wants-a-deal-with-china-on-powerful-activity-7354198089697488896-sTLb)  
+   Link: <a href="https://www.linkedin.com/posts/mauricio-baker_say-the-us-wants-a-deal-with-china-on-powerful-activity-7354198089697488896-sTLb" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/mauricio-baker_say-the-us-wants-a-deal-with-china-on-powerful-activity-7354198089697488896-sTLb</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RAND paper on verifying US-China AI dealSay the US wants a deal with China on powerful AI. Could we verify that China doesn&#x27;t cheat? For...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: santafe.edu  
    Title: what does it mean to compute new paper by sfi researchers points to an answer  
-   Link: [https://www.santafe.edu/news-center/news/what-does-it-mean-to-compute-new-paper-by-sfi-researchers-points-to-an-answer](https://www.santafe.edu/news-center/news/what-does-it-mean-to-compute-new-paper-by-sfi-researchers-points-to-an-answer)  
+   Link: <a href="https://www.santafe.edu/news-center/news/what-does-it-mean-to-compute-new-paper-by-sfi-researchers-points-to-an-answer" target="_blank" rel="noopener noreferrer nofollow">https://www.santafe.edu/news-center/news/what-does-it-mean-to-compute-new-paper-by-sfi-researchers-points-to-an-answer</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What does it mean to compute?25 Feb 2026 — It also provides a way to define computation specifically. “We can say that some system can co...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: openreview.net  
-   Link: [https://openreview.net/pdf?id=KmOpqDgyX9](https://openreview.net/pdf?id=KmOpqDgyX9)  
+   Link: <a href="https://openreview.net/pdf?id=KmOpqDgyX9" target="_blank" rel="noopener noreferrer nofollow">https://openreview.net/pdf?id=KmOpqDgyX9</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>tegies, filling the gaps left by compute governance and model evaluations, and help proactive...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/global-ai-compute-arms-race-nations-corporations-andre-btzxe](https://www.linkedin.com/pulse/global-ai-compute-arms-race-nations-corporations-andre-btzxe)  
+   Link: <a href="https://www.linkedin.com/pulse/global-ai-compute-arms-race-nations-corporations-andre-btzxe" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/global-ai-compute-arms-race-nations-corporations-andre-btzxe</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>imes designed to limit potential adversaries&#x27; access to advanced...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: chathamhouse.org  
    Title: ai export controls are not best bargaining chip  
-   Link: [https://www.chathamhouse.org/2026/04/ai-export-controls-are-not-best-bargaining-chip](https://www.chathamhouse.org/2026/04/ai-export-controls-are-not-best-bargaining-chip)  
+   Link: <a href="https://www.chathamhouse.org/2026/04/ai-export-controls-are-not-best-bargaining-chip" target="_blank" rel="noopener noreferrer nofollow">https://www.chathamhouse.org/2026/04/ai-export-controls-are-not-best-bargaining-chip</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI export controls are not the best bargaining chip29 Apr 2026 — US export controls on chips and hardware alone will not prevent China fr...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/hackernoon/posts/this-article-argues-that-us-export-controls-on-advanced-ai-chips-are-not-simply-/993792309816234/](https://www.facebook.com/hackernoon/posts/this-article-argues-that-us-export-controls-on-advanced-ai-chips-are-not-simply-/993792309816234/)  
+   Link: <a href="https://www.facebook.com/hackernoon/posts/this-article-argues-that-us-export-controls-on-advanced-ai-chips-are-not-simply-/993792309816234/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/hackernoon/posts/this-article-argues-that-us-export-controls-on-advanced-ai-chips-are-not-simply-/993792309816234/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>t simply restricting China&#x27;s progress but also accelerating the...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: sparai.org  
    Title: The [Geopolitics](&#123;&#123; 'geopolitics/' | relative_url &#125;&#125;) of AI Middle Powers  
-   Link: [https://sparai.org/projects/sp26/recADgRgaPuScRDt4/](https://sparai.org/projects/sp26/recADgRgaPuScRDt4/)  
+   Link: <a href="https://sparai.org/projects/sp26/recADgRgaPuScRDt4/" target="_blank" rel="noopener noreferrer nofollow">https://sparai.org/projects/sp26/recADgRgaPuScRDt4/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SPAR ProjectThis project designs and analyzes market based compute permit schemes for frontier AI training, with the goal of making power...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: dictionary.cambridge.org  
    Title: Synonyms. calculate · reckon (CALCULATE) mainly UK.Read more  
-   Link: [https://dictionary.cambridge.org/dictionary/english/compute](https://dictionary.cambridge.org/dictionary/english/compute)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| English meaning - Cambridge Dictionaryto calculate an answer or amount by using a machine: Compute the ratio of the object&#x27;s height to...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/compute" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/compute</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionaryto calculate an answer or amount by using a machine: Compute the ratio of the object&#x27;s height to...</p></details>

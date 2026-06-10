@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1_agent_account_e9b236
 - AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1_runtime_monit_6e4433
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - autonomy
 - ai-oversight
 - autonomy-tiers
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - autonomy
 - ai-oversight
 - autonomy-tiers
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Not every AI agent needs the same controls, but agents that can spend, edit, negotiate, or coordinate need sharply stronger oversight.
 hero_summary: Not every AI agent needs the same controls, but agents that can spend, edit, negotiate, or coordinate need sharply stronger oversight.
 layout: default
 permalink: /autonomy-tiers/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /autonomy/
 - /ai-oversight/
 nav_short_title: Autonomy Tiers
@@ -211,10 +211,10 @@ parent_heading_title: Managing and Governing Autonomous AI Agents
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_dangerous_aut_8f4266
-  title: Autonomy | AI Doom and
+  title: Autonomy | AI Doom and E 87399 b
   permalink: /autonomy/
   short_title: Autonomy
   heading_title: When Does AI Autonomy Become Dangerous?
@@ -226,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_dangerous_aut_8f4266
-  title: Autonomy | AI Doom and
+  title: Autonomy | AI Doom and E 87399 b
   permalink: /autonomy/
   short_title: Autonomy
   heading_title: When Does AI Autonomy Become Dangerous?
@@ -275,13 +275,13 @@ image: /assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac0
 
 ## Introduction
 
-As AI systems evolve from tools that generate isolated outputs into **agentic systems that act across digital and physical environments**, governing how much freedom these agents get—especially when they can execute real‑world actions—has become a core challenge for AI safety and [governance]({{ 'governance/' | relative_url }}) debates tied to **[AI doom and]({{ 'ai-doom-and/' | relative_url }}) existential risk**. A central idea emerging in governance research and industry practice is that **not all AI agents should be treated the same**: agents with mere read‑only capabilities pose very different risks from those that can write data, communicate externally, make purchases, negotiate contracts, or affect infrastructure. *Tiered autonomy rules* seek to match an agent’s **scope of action** and **real‑world permissions** with appropriate oversight mechanisms, calibrating human control so that higher risk accompanies tighter governance. This approach aims to reduce the likelihood that an agent, once deployed, could take cascading, irreversible actions that outpace human supervision or regulatory response.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.itpro.com/technology/artificial-intelligence/one-size-fits-all-agent-governance-sets-enterprises-up-to-fail" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itpro.com">[IT Pro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itpro.com</span><span class="citation-popover-title">IT Pro&#x27;One-size-fits-all&#x27; agent governance sets enterprises up to fail</span><span class="citation-popover-snippet">The primary issue is the widespread application of a &quot;one-size-fits-all&quot; governance model that fails to distinguish between an agent&#x27;s au...</span></span></span>
+As AI systems evolve from tools that generate isolated outputs into **agentic systems that act across digital and physical environments**, governing how much freedom these agents get—especially when they can execute real‑world actions—has become a core challenge for AI safety and [governance]({{ 'governance/' | relative_url }}) debates tied to **AI doom and existential risk**. A central idea emerging in governance research and industry practice is that **not all AI agents should be treated the same**: agents with mere read‑only capabilities pose very different risks from those that can write data, communicate externally, make purchases, negotiate contracts, or affect infrastructure. *Tiered [autonomy]({{ 'autonomy/' | relative_url }}) rules* seek to match an agent’s **scope of action** and **real‑world permissions** with appropriate oversight mechanisms, calibrating human control so that higher risk accompanies tighter governance. This approach aims to reduce the likelihood that an agent, once deployed, could take cascading, irreversible actions that outpace human supervision or regulatory response.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.itpro.com/technology/artificial-intelligence/one-size-fits-all-agent-governance-sets-enterprises-up-to-fail" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itpro.com">[IT Pro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itpro.com</span><span class="citation-popover-title">IT Pro&#x27;One-size-fits-all&#x27; agent governance sets enterprises up to fail</span><span class="citation-popover-snippet">The primary issue is the widespread application of a &quot;one-size-fits-all&quot; governance model that fails to distinguish between an agent&#x27;s au...</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1_tiered_autono_c837ce-Illustration-1-dark.svg" | relative_url }}" alt="Autonomy Tiers illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1_tiered_autono_c837ce-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1_tiered_autono_c837ce-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why autonomy levels matter
 
-AI agents span a broad range—from tools that assist and recommend to systems that plan, decide, and act without direct human prodding. Treating these diverse systems as a single category obscures the real governance challenge. Simple read‑only agents that summarise data or provide suggestions can usually be reviewed output by output, with limited systemic risk. By contrast, agents that *initiate external actions*—such as sending communications, altering records, initiating financial transactions, or interacting with critical systems—enter the realm of **real‐world permissions** where errors or misaligned objectives can have irreversible consequences. Governance frameworks therefore define **autonomy levels** that tie agent capability and permission scope to the intensity of [oversight]({{ 'oversight-evasion/' | relative_url }}) required.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techradar.com/pro/lack-of-ai-governance-could-force-40-percent-of-enterprises-to-roll-back-autonomous-ai-agents-by-2027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-snippet">Many organizations currently either over-trust or overly restrict their AI agents, creating serious risks. Excessive trust can lead to un...</span></span></span>
+AI agents span a broad range—from tools that assist and recommend to systems that plan, decide, and act without direct human prodding. Treating these diverse systems as a single category obscures the real governance challenge. Simple read‑only agents that summarise data or provide suggestions can usually be reviewed output by output, with limited systemic risk. By contrast, agents that *initiate external actions*—such as sending communications, altering records, initiating financial transactions, or interacting with critical systems—enter the realm of **real‐world permissions** where errors or misaligned objectives can have irreversible consequences. Governance frameworks therefore define **autonomy levels** that tie agent capability and permission scope to the intensity of oversight required.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techradar.com/pro/lack-of-ai-governance-could-force-40-percent-of-enterprises-to-roll-back-autonomous-ai-agents-by-2027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-snippet">Many organizations currently either over-trust or overly restrict their AI agents, creating serious risks. Excessive trust can lead to un...</span></span></span>
 
 In practice, autonomy is **distinct from capability**: an agent might draw on powerful reasoning without being authorised to execute high‑impact actions unless it has been explicitly approved and its behaviour continually monitored. This separation helps organisations and regulators avoid two common pitfalls: *over‑restricting* low‑risk agents (which stifles innovation) and *under‑restricting* high‑risk agents (which invites governance failures).<span class="citation-chip-wrap"><a class="citation-chip" href="https://agentc2.ai/blog/five-levels-ai-agent-autonomy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: agentc2.ai">[AgentC2]</a><span class="citation-popover" role="note"><span class="citation-popover-source">agentc2.ai</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -293,12 +293,12 @@ In practice, autonomy is **distinct from capability**: an agent might draw on po
 Rather than a binary “autonomous vs controlled” view, tiered autonomy models see governance as progressively scaling with risk and permissions. Several frameworks—both academic and organisational—outline such spectrums:
 
 * **Observe / Assist**: Agents have **read‑only access**. They can summarise or analyse information but cannot change data, send messages, or operate outside their immediate scope. These agents require minimal governance but should still have logging and identity attribution.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techradar.com/pro/lack-of-ai-governance-could-force-40-percent-of-enterprises-to-roll-back-autonomous-ai-agents-by-2027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-snippet">Many organizations currently either over-trust or overly restrict their AI agents, creating serious risks. Excessive trust can lead to un...</span></span></span>
-* **Advise / Collaborate**: Agents can propose actions or recommendations, but **every consequential action requires human approval**. The human remains fully in the loop for execution.<span class="citation-chip-wrap"><a class="citation-chip" href="https://agentmarketcap.ai/blog/2026/04/10/[anthropic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: agentmarketcap.ai">[AgentMarketCap]</a><span class="citation-popover" role="note"><span class="citation-popover-source">agentmarketcap.ai</span><span class="citation-popover-snippet">AgentMarketCapAnthropic&#x27;s 5-Level Agent Autonomy Scale: The Data Behind Safe AI Deployment | AgentMarketCapApril 10, 2026...</span><span class="citation-popover-meta">Published: April 10, 2026</span></span></span>
-* **Conditional Execution**: Agents can act on predefined tasks within **bounded scopes and pre‑approved limits**. For example, they may write to specific internal systems but only against clearly articulated policies and guardrails.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aigovernance.eccouncil.org/adgframework/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aigovernance.eccouncil.org">[aigovernance.eccouncil.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aigovernance.eccouncil.org</span><span class="citation-popover-title">AD G | Adopt | Defend | Govern</span><span class="citation-popover-snippet">ADG | Adopt | Defend | Govern - AI Security Governance Framework - EC-Council Global Services...</span></span></span>
+* **Advise / Collaborate**: Agents can propose actions or recommendations, but **every consequential action requires human approval**. The human remains fully in the loop for execution.<span class="citation-chip-wrap"><a class="citation-chip" href="https://agentmarketcap.ai/blog/2026/04/10/anthropic-agent-autonomy-scale-5-levels" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: agentmarketcap.ai">[AgentMarketCap]</a><span class="citation-popover" role="note"><span class="citation-popover-source">agentmarketcap.ai</span><span class="citation-popover-snippet">Anthropic&#x27;s 5-Level Agent Autonomy Scale: The Data Behind Safe AI Deployment &#124; AgentMarketCapApril 10, 2026...</span><span class="citation-popover-meta">Published: April 10, 2026</span></span></span>
+* **Conditional Execution**: Agents can act on predefined tasks within **bounded scopes and pre‑approved limits**. For example, they may write to specific internal systems but only against clearly articulated policies and guardrails.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aigovernance.eccouncil.org/adgframework/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aigovernance.eccouncil.org">[aigovernance.eccouncil.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aigovernance.eccouncil.org</span><span class="citation-popover-title">AD G &#124; Adopt &#124; Defend &#124; Govern</span><span class="citation-popover-snippet">ADG &#124; Adopt &#124; Defend &#124; Govern - AI Security Governance Framework - EC-Council Global Services...</span></span></span>
 * **Act with Approval**: Agents can perform actions that have real effects (e.g. writing to systems, communicating externally) but **explicit human approval is mandated for each action** that carries elevated risk.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.itpro.com/technology/artificial-intelligence/one-size-fits-all-agent-governance-sets-enterprises-up-to-fail" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itpro.com">[IT Pro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itpro.com</span><span class="citation-popover-title">IT Pro&#x27;One-size-fits-all&#x27; agent governance sets enterprises up to fail</span><span class="citation-popover-snippet">The primary issue is the widespread application of a &quot;one-size-fits-all&quot; governance model that fails to distinguish between an agent&#x27;s au...</span></span></span>
 * **Fully Autonomous**: Agents operate **independently within strict guardrails**, with humans [monitoring]({{ 'monitoring/' | relative_url }}) aggregated outcomes and having the ability to intercede via kill switches and rollback controls when anomalies occur. This level demands the highest governance intensity due to the potential scale and speed of actions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techradar.com/pro/lack-of-ai-governance-could-force-40-percent-of-enterprises-to-roll-back-autonomous-ai-agents-by-2027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-snippet">Many organizations currently either over-trust or overly restrict their AI agents, creating serious risks. Excessive trust can lead to un...</span></span></span>
 
-These tiers are echoed across academic taxonomies and emerging policy practice, emphasising that **real‑world risk gradients**—not technological hype—should determine autonomy assignments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://knightcolumbia.org/content/levels-of-autonomy-for-ai-agents-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: knightcolumbia.org">[Knight First Amendment Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">knightcolumbia.org</span><span class="citation-popover-snippet">Knight First Amendment InstituteLevels of Autonomy for AI Agents | Knight First Amendment InstituteJuly 28, 2025...</span><span class="citation-popover-meta">Published: July 28, 2025</span></span></span>
+These tiers are echoed across academic taxonomies and emerging policy practice, emphasising that **real‑world risk gradients**—not technological hype—should determine autonomy assignments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://knightcolumbia.org/content/levels-of-autonomy-for-ai-agents-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: knightcolumbia.org">[Knight First Amendment Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">knightcolumbia.org</span><span class="citation-popover-snippet">Knight First Amendment InstituteLevels of Autonomy for AI Agents &#124; Knight First Amendment InstituteJuly 28, 2025...</span><span class="citation-popover-meta">Published: July 28, 2025</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/soFWS8NBcSU" title="Top 10 Security Risks in AI Agents Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=soFWS8NBcSU" target="_blank" rel="noopener noreferrer">Top 10 Security Risks in AI Agents Explained</a></p><p class="youtube-embed-meta">Channel: IBM Technology &middot; Views: 29.7K &middot; Uploaded: March 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=soFWS8NBcSU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=soFWS8NBcSU">Open on YouTube</a></p></div></div></div>
@@ -332,7 +332,7 @@ These disputes highlight that tiered autonomy rules are not merely technical che
 
 From the standpoint of long‑horizon AI risk, tiered autonomy rules serve two crucial functions. First, they **make explicit the governance boundaries** that keep powerful, goal‑directed systems from acting beyond human intent. Second, they align oversight intensity with the *expected consequences* of an agent’s actions, creating barriers between benign assistance and unmoderated autonomy.
 
-Without such calibrated governance, there is a danger that an agent capable of executing multi‑step, interlinked real‑world actions could accumulate effects that humans cannot easily trace or reverse—raising plausibility for “loss of control” scenarios often invoked in AI doom discussions. While tiered autonomy alone cannot assure safety against all misalignment pathways, it provides a **structured pathway to incrementally grant freedom while retaining meaningful [human oversight]({{ 'human-oversight/' | relative_url }})**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.itpro.com/technology/artificial-intelligence/one-size-fits-all-agent-governance-sets-enterprises-up-to-fail" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itpro.com">[IT Pro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itpro.com</span><span class="citation-popover-title">IT Pro&#x27;One-size-fits-all&#x27; agent governance sets enterprises up to fail</span><span class="citation-popover-snippet">The primary issue is the widespread application of a &quot;one-size-fits-all&quot; governance model that fails to distinguish between an agent&#x27;s au...</span></span></span>
+Without such calibrated governance, there is a danger that an agent capable of executing multi‑step, interlinked real‑world actions could accumulate effects that humans cannot easily trace or reverse—raising plausibility for “[loss of control]({{ 'loss-of-control/' | relative_url }})” scenarios often invoked in AI doom discussions. While tiered autonomy alone cannot assure safety against all misalignment pathways, it provides a **structured pathway to incrementally grant freedom while retaining meaningful [human oversight]({{ 'human-oversight/' | relative_url }})**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.itpro.com/technology/artificial-intelligence/one-size-fits-all-agent-governance-sets-enterprises-up-to-fail" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itpro.com">[IT Pro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itpro.com</span><span class="citation-popover-title">IT Pro&#x27;One-size-fits-all&#x27; agent governance sets enterprises up to fail</span><span class="citation-popover-snippet">The primary issue is the widespread application of a &quot;one-size-fits-all&quot; governance model that fails to distinguish between an agent&#x27;s au...</span></span></span>
 
 In sum, autonomy tiers and real‑world permission rules are not arbitrary bureaucracy; they are a **practical governance mechanism** to manage the transition toward more capable AI agents without ceding control too early or too broadly. Their refinement and implementation will shape how organisations—and potentially regulators—negotiate the twin goals of harnessing AI’s power while forestalling outcomes that elude human direction.
 
@@ -760,121 +760,121 @@ In sum, autonomy tiers and real‑world permission rules are not arbitrary burea
 
 1. <a id="endnote-1"></a>
    Source: aigovernance.com  
-   Link: [https://aigovernance.com/playbook/governing-agentic-ai](https://aigovernance.com/playbook/governing-agentic-ai)  
+   Link: <a href="https://aigovernance.com/playbook/governing-agentic-ai" target="_blank" rel="noopener noreferrer nofollow">https://aigovernance.com/playbook/governing-agentic-ai</a>  
 
 2. <a id="endnote-2"></a>
    Source: techradar.com  
-   Link: [https://www.techradar.com/pro/lack-of-ai-governance-could-force-40-percent-of-enterprises-to-roll-back-autonomous-ai-agents-by-2027](https://www.techradar.com/pro/lack-of-ai-governance-could-force-40-percent-of-enterprises-to-roll-back-autonomous-ai-agents-by-2027)  
+   Link: <a href="https://www.techradar.com/pro/lack-of-ai-governance-could-force-40-percent-of-enterprises-to-roll-back-autonomous-ai-agents-by-2027" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/pro/lack-of-ai-governance-could-force-40-percent-of-enterprises-to-roll-back-autonomous-ai-agents-by-2027</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Many organizations currently either over-trust or overly restrict their AI agents, creating serious risks. Excessive trust can lead to un...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: agentc2.ai  
-   Link: [https://agentc2.ai/blog/five-levels-ai-agent-autonomy](https://agentc2.ai/blog/five-levels-ai-agent-autonomy)  
+   Link: <a href="https://agentc2.ai/blog/five-levels-ai-agent-autonomy" target="_blank" rel="noopener noreferrer nofollow">https://agentc2.ai/blog/five-levels-ai-agent-autonomy</a>  
 
 4. <a id="endnote-4"></a>
    Source: agentmarketcap.ai  
-   Link: [https://agentmarketcap.ai/blog/2026/04/10/[anthropic](https://agentmarketcap.ai/blog/2026/04/10/[anthropic)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AgentMarketCapAnthropic&#x27;s 5-Level Agent Autonomy Scale: The Data Behind Safe AI Deployment | AgentMarketCapApril 10, 2026...</p></details>
+   Link: <a href="https://agentmarketcap.ai/blog/2026/04/10/anthropic-agent-autonomy-scale-5-levels" target="_blank" rel="noopener noreferrer nofollow">https://agentmarketcap.ai/blog/2026/04/10/anthropic-agent-autonomy-scale-5-levels</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic&#x27;s 5-Level Agent Autonomy Scale: The Data Behind Safe AI Deployment | AgentMarketCapApril 10, 2026...</p></details>
    Published: April 10, 2026  
 
 5. <a id="endnote-5"></a>
    Source: aigovernance.eccouncil.org  
    Title: AD G | Adopt | Defend | Govern  
-   Link: [https://aigovernance.eccouncil.org/adgframework/](https://aigovernance.eccouncil.org/adgframework/)  
+   Link: <a href="https://aigovernance.eccouncil.org/adgframework/" target="_blank" rel="noopener noreferrer nofollow">https://aigovernance.eccouncil.org/adgframework/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ADG | Adopt | Defend | Govern - AI Security Governance Framework - EC-Council Global Services...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
    Title: Is anyone actually enforcing AI governance, or just writing policies?  
-   Link: [https://www.reddit.com/r/AI_Agents/comments/1t70lnk/is_anyone_actually_enforcing_ai_governance_or/](https://www.reddit.com/r/AI_Agents/comments/1t70lnk/is_anyone_actually_enforcing_ai_governance_or/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditIs anyone actually enforcing AI governance, or just writing policies?May 8, 2026...</p></details>
+   Link: <a href="https://www.reddit.com/r/AI_Agents/comments/1t70lnk/is_anyone_actually_enforcing_ai_governance_or/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AI_Agents/comments/1t70lnk/is_anyone_actually_enforcing_ai_governance_or/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is anyone actually enforcing AI governance, or just writing policies?May 8, 2026...</p></details>
    Published: May 8, 2026  
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
    Title: Hot take: AI agents need observability before autonomy  
-   Link: [https://www.reddit.com/r/AI_Governance/comments/1tdp80k/hot_take_ai_agents_need_observability_before/](https://www.reddit.com/r/AI_Governance/comments/1tdp80k/hot_take_ai_agents_need_observability_before/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditHot take: AI agents need observability before autonomyMay 15, 2026...</p></details>
+   Link: <a href="https://www.reddit.com/r/AI_Governance/comments/1tdp80k/hot_take_ai_agents_need_observability_before/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AI_Governance/comments/1tdp80k/hot_take_ai_agents_need_observability_before/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hot take: AI agents need observability before autonomyMay 15, 2026...</p></details>
    Published: May 15, 2026  
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/[artificial](https://www.reddit.com/r/[artificial)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditAgentic sprawl is becoming a real organizational problem. What does responsible AI agent governance even look like?April 27, 2026...</p></details>
+   Link: <a href="https://www.reddit.com/r/artificial/comments/1swwa91/agentic_sprawl_is_becoming_a_real_organizational/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/artificial/comments/1swwa91/agentic_sprawl_is_becoming_a_real_organizational/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Agentic sprawl is becoming a real organizational problem. What does responsible AI agent governance even look like?April 27, 2026...</p></details>
    Published: April 27, 2026  
 
 9. <a id="endnote-9"></a>
    Source: itpro.com  
    Title: IT Pro'One-size-fits-all' agent governance sets enterprises up to fail  
-   Link: [https://www.itpro.com/technology/artificial-intelligence/one-size-fits-all-agent-governance-sets-enterprises-up-to-fail](https://www.itpro.com/technology/artificial-intelligence/one-size-fits-all-agent-governance-sets-enterprises-up-to-fail)  
+   Link: <a href="https://www.itpro.com/technology/artificial-intelligence/one-size-fits-all-agent-governance-sets-enterprises-up-to-fail" target="_blank" rel="noopener noreferrer nofollow">https://www.itpro.com/technology/artificial-intelligence/one-size-fits-all-agent-governance-sets-enterprises-up-to-fail</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The primary issue is the widespread application of a &quot;one-size-fits-all&quot; governance model that fails to distinguish between an agent&#x27;s au...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: knightcolumbia.org  
-   Link: [https://knightcolumbia.org/content/levels-of-autonomy-for-ai-agents-1](https://knightcolumbia.org/content/levels-of-autonomy-for-ai-agents-1)  
+   Link: <a href="https://knightcolumbia.org/content/levels-of-autonomy-for-ai-agents-1" target="_blank" rel="noopener noreferrer nofollow">https://knightcolumbia.org/content/levels-of-autonomy-for-ai-agents-1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Knight First Amendment InstituteLevels of Autonomy for AI Agents | Knight First Amendment InstituteJuly 28, 2025...</p></details>
    Published: July 28, 2025  
 
 11. <a id="endnote-11"></a>
    Source: itpro.com  
    Title: IT Pro Over two-thirds of workers can't identify actions taken by AI agents  
-   Link: [https://www.itpro.com/technology/artificial-intelligence/workers-cant-identify-work-produced-by-ai-agents-business-risks](https://www.itpro.com/technology/artificial-intelligence/workers-cant-identify-work-produced-by-ai-agents-business-risks)  
+   Link: <a href="https://www.itpro.com/technology/artificial-intelligence/workers-cant-identify-work-produced-by-ai-agents-business-risks" target="_blank" rel="noopener noreferrer nofollow">https://www.itpro.com/technology/artificial-intelligence/workers-cant-identify-work-produced-by-ai-agents-business-risks</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>With 73% of organizations anticipating a vital role for AI agents in the next year, 68% admit they cannot reliably distinguish AI versus...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: pedowitzgroup.com  
-   Link: [https://www.pedowitzgroup.com/ai-agents-and-[automation](https://www.pedowitzgroup.com/ai-agents-and-[automation)  
+   Link: <a href="https://www.pedowitzgroup.com/ai-agents-and-automation" target="_blank" rel="noopener noreferrer nofollow">https://www.pedowitzgroup.com/ai-agents-and-automation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Agents and Automation | The Pedowitz GroupAI AGENT AUTONOMY LEVELS AND GOVERNANCE How TPG sequences agent deployments from human-direc...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: askframework.org  
-   Link: [https://askframework.org/](https://askframework.org/)  
+   Link: <a href="https://askframework.org/" target="_blank" rel="noopener noreferrer nofollow">https://askframework.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ASK defines the architectural properties — enforcement, mediation, governance, and trust — so you can build agent systems that are secure...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: risktemplate.com  
-   Link: [https://risktemplate.com/blog/2026-03-29-agentic-ai-risk-management-governance/](https://risktemplate.com/blog/2026-03-29-agentic-ai-risk-management-governance/)  
+   Link: <a href="https://risktemplate.com/blog/2026-03-29-agentic-ai-risk-management-governance/" target="_blank" rel="noopener noreferrer nofollow">https://risktemplate.com/blog/2026-03-29-agentic-ai-risk-management-governance/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Agentic AI Risk Management: How to Govern Autonomous AI Systems Before They Govern You | RiskTemplatesMarch 28, 2026 — AGENTIC AI RISK MA...</p></details>
    Published: March 28, 2026  
 
 15. <a id="endnote-15"></a>
    Source: agixtech.com  
-   Link: [https://agixtech.com/intelligence/autonomous-agentic-ai/](https://agixtech.com/intelligence/autonomous-agentic-ai/)  
+   Link: <a href="https://agixtech.com/intelligence/autonomous-agentic-ai/" target="_blank" rel="noopener noreferrer nofollow">https://agixtech.com/intelligence/autonomous-agentic-ai/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The distance between your current level and where you need to be defines your agentic AI investment — and your governance requirement. Pr...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: openagentgovernance.org  
-   Link: [https://openagentgovernance.org/](https://openagentgovernance.org/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OpenAgentGovernance — Open Governance for Autonomous AI Agents | ADPOpenAgentGovernance Why ADP Specification Quick Start Roadmap Communi...</p></details>
+   Link: <a href="https://openagentgovernance.org/" target="_blank" rel="noopener noreferrer nofollow">https://openagentgovernance.org/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Open Governance for Autonomous AI Agents | ADPOpenAgentGovernance Why ADP Specification Quick Start Roadmap Communi...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: zaruko.com  
-   Link: [https://zaruko.com/insights/ai-agent-guardrails-oversight](https://zaruko.com/insights/ai-agent-guardrails-oversight)  
+   Link: <a href="https://zaruko.com/insights/ai-agent-guardrails-oversight" target="_blank" rel="noopener noreferrer nofollow">https://zaruko.com/insights/ai-agent-guardrails-oversight</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>February 28, 2026 — GUARDRAILS AND HUMAN OVERSIGHT: THE GOVERNANCE LAYER THAT MAKES AI AGENTS SAFE Feb 28, 2026 8 min read Image: Stefano...</p></details>
    Published: February 28, 2026  
 
 18. <a id="endnote-18"></a>
    Source: maatspec.org  
-   Link: [https://maatspec.org/](https://maatspec.org/)  
+   Link: <a href="https://maatspec.org/" target="_blank" rel="noopener noreferrer nofollow">https://maatspec.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MaatSpec is a layered governance framework for agentic AI — 5 tiers to classify risk, 4 layers to enforce compliance, designed to weight...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: ec.europa.eu  
    Title: eu Requirements of Trustworthy AI | FUTURIUM | European Commission  
-   Link: [https://ec.europa.eu/futurium/en/ai-alliance-consultation/guidelines/1.html](https://ec.europa.eu/futurium/en/ai-alliance-consultation/guidelines/1.html)  
+   Link: <a href="https://ec.europa.eu/futurium/en/ai-alliance-consultation/guidelines/1.html" target="_blank" rel="noopener noreferrer nofollow">https://ec.europa.eu/futurium/en/ai-alliance-consultation/guidelines/1.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HUMAN AGENCY AND OVERSIGHT AI systems should support human autonomy and decision-making, as prescribed by the principle of respect for hu...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: weforum.org  
    Title: ai agents in action a playbook for trusted adoption authorization and scaling  
-   Link: [https://www.weforum.org/publications/ai-agents-in-action-a-playbook-for-trusted-adoption-authorization-and-scaling/](https://www.weforum.org/publications/ai-agents-in-action-a-playbook-for-trusted-adoption-authorization-and-scaling/)  
+   Link: <a href="https://www.weforum.org/publications/ai-agents-in-action-a-playbook-for-trusted-adoption-authorization-and-scaling/" target="_blank" rel="noopener noreferrer nofollow">https://www.weforum.org/publications/ai-agents-in-action-a-playbook-for-trusted-adoption-authorization-and-scaling/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Agents in Action: A Playbook for Trusted Adoption, Authorization and Scaling 2026 | World Economic ForumMay 26, 2026 —...</p></details>
    Published: May 26, 2026  
 
 21. <a id="endnote-21"></a>
    Source: equilateral.ai  
    Title: Authority must live outside the model. The Model Is the Engine  
-   Link: [https://equilateral.ai/](https://equilateral.ai/)  
+   Link: <a href="https://equilateral.ai/" target="_blank" rel="noopener noreferrer nofollow">https://equilateral.ai/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Governance by Architecture, Not PolicyThe Thesis Architecture Standards Scorecard Blog Read the Research AI Authority Infrastructure GOVE...</p></details>

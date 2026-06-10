@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_ai_race_model_76d082
 - AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_frontier_ai_d_8b76b0
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - race-pressure
 - first-movers
 - race-pressure
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - race-pressure
 - first-movers
 - race-pressure
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Competitive pressure can make extra safety testing feel like a strategic sacrifice even when every major developer says safety matters.
 hero_summary: Competitive pressure can make extra safety testing feel like a strategic sacrifice even when every major developer says safety matters.
 layout: default
 permalink: /race-pressure-4c8574/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /race-pressure/
 - /first-movers/
 nav_short_title: Race pressure
@@ -211,10 +211,10 @@ parent_heading_title: Why Being First Can Make AI Less Safe
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_ai_race_dynam_a5d049
-  title: Race Pressure | AI Doom and
+  title: Race Pressure | AI Doom and E 87399 b
   permalink: /race-pressure/
   short_title: Race Pressure
   heading_title: Why AI Races Can Make Safety Harder
@@ -226,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_ai_race_dynam_a5d049
-  title: Race Pressure | AI Doom and
+  title: Race Pressure | AI Doom and E 87399 b
   permalink: /race-pressure/
   short_title: Race Pressure
   heading_title: Why AI Races Can Make Safety Harder
@@ -273,7 +273,7 @@ A recurring claim in AI doom discussions is that safety is not always ignored be
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_race_incentiv_03f099-Illustration-1-dark.svg" | relative_url }}" alt="Race pressure illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_race_incentiv_03f099-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_race_incentiv_03f099-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This creates a specific mechanism within the broader debate about first-mover advantage and premature [deployment]({{ 'release-gates/' | relative_url }}). Even if all major developers publicly support safety, each may worry that a rival will capture users, investment, influence, or strategic advantage during any delay. In that environment, waiting can look less like responsible caution and more like surrendering a lead. Critics of the AI doom argument dispute how strong these pressures really are, but many researchers studying AI competition view race incentives as a plausible reason why organisations could deploy systems before their risks are fully understood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/1907.04534" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The Role of Cooperation in Responsible AI Development</span><span class="citation-popover-snippet">arXivThe Role of Cooperation in Responsible AI DevelopmentJuly 10, 2019 — by A Askell · 2019 · Cited by 110 — In this paper, we argue tha...</span><span class="citation-popover-meta">Published: July 10, 2019</span></span></span>
+This creates a specific mechanism within the broader debate about first-mover advantage and premature deployment. Even if all major developers publicly support safety, each may worry that a rival will capture users, investment, influence, or strategic advantage during any delay. In that environment, waiting can look less like responsible caution and more like surrendering a lead. Critics of the AI doom argument dispute how strong these pressures really are, but many researchers studying AI competition view race incentives as a plausible reason why organisations could deploy systems before their risks are fully understood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/1907.04534" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The Role of Cooperation in Responsible AI Development</span><span class="citation-popover-snippet">The Role of Cooperation in Responsible AI DevelopmentJuly 10, 2019 — by A Askell · 2019 · Cited by 110 — In this paper, we argue tha...</span><span class="citation-popover-meta">Published: July 10, 2019</span></span></span>
 
 ## The payoff from deploying first
 
@@ -283,7 +283,7 @@ For a frontier AI developer, deploying earlier may help secure market share, att
 
 In AI doom arguments, the concern is not merely that companies like success. The concern is that the expected value of being first may grow faster than confidence in safety. A developer might believe that another six months of evaluation would uncover important failure modes, yet still feel pressure to deploy because competitors are moving quickly.
 
-Economic models of AI deployment timing suggest that competition can create a "race to the bottom" effect in which firms deploy earlier than they would if they were jointly maximising long-term welfare. The individually rational choice can become faster deployment, even when all participants recognise that additional safety work would be beneficial. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cepr.org/publications/dp21454" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cepr.org">[CEPR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cepr.org</span><span class="citation-popover-snippet">CEPRDP21454 AI Safety and Competitionby JP Choi · 2026 — This paper examines how competition affects the timing of AI deployment under sa...</span></span></span>
+Economic models of AI deployment timing suggest that competition can create a "race to the bottom" effect in which firms deploy earlier than they would if they were jointly maximising long-term welfare. The individually rational choice can become faster deployment, even when all participants recognise that additional safety work would be beneficial. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cepr.org/publications/dp21454" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cepr.org">[CEPR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cepr.org</span><span class="citation-popover-snippet">DP21454 AI Safety and Competitionby JP Choi · 2026 — This paper examines how competition affects the timing of AI deployment under sa...</span></span></span>
 
 A useful way to think about the mechanism is that every delay has two prices:
 
@@ -311,9 +311,9 @@ This creates an asymmetry:
 
 </div>
 
-As a result, the amount of safety work that is optimal for an individual organisation may be lower than the amount that would be optimal from society's perspective. Researchers examining responsible AI development have argued that competitive pressures can encourage firms to underinvest in safety, security, and broader risk reduction measures even when leaders recognise their importance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/1907.04534" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The Role of Cooperation in Responsible AI Development</span><span class="citation-popover-snippet">arXivThe Role of Cooperation in Responsible AI DevelopmentJuly 10, 2019 — by A Askell · 2019 · Cited by 110 — In this paper, we argue tha...</span><span class="citation-popover-meta">Published: July 10, 2019</span></span></span>
+As a result, the amount of safety work that is optimal for an individual organisation may be lower than the amount that would be optimal from society's perspective. Researchers examining responsible AI development have argued that competitive pressures can encourage firms to underinvest in safety, security, and broader risk reduction measures even when leaders recognise their importance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/1907.04534" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The Role of Cooperation in Responsible AI Development</span><span class="citation-popover-snippet">The Role of Cooperation in Responsible AI DevelopmentJuly 10, 2019 — by A Askell · 2019 · Cited by 110 — In this paper, we argue tha...</span><span class="citation-popover-meta">Published: July 10, 2019</span></span></span>
 
-In AI doom scenarios, this matters because the potential harms being discussed are not localised product failures. They include possibilities such as severe [loss of control]({{ 'loss-of-control/' | relative_url }}), [dangerous]({{ 'autonomy/' | relative_url }}) autonomy, or other failures with consequences extending far beyond the organisation that made the deployment decision. If risks are globally shared but deployment benefits are concentrated, market incentives may systematically favour earlier deployment than many observers would consider prudent.
+In AI doom scenarios, this matters because the potential harms being discussed are not localised product failures. They include possibilities such as severe [loss of control]({{ 'loss-of-control/' | relative_url }}), dangerous [autonomy]({{ 'autonomy/' | relative_url }}), or other failures with consequences extending far beyond the organisation that made the deployment decision. If risks are globally shared but deployment benefits are concentrated, market incentives may systematically favour earlier deployment than many observers would consider prudent.
 
 ## When rational choices produce collective danger
 
@@ -337,7 +337,7 @@ The resulting logic can look like this:
 
 Importantly, this mechanism does not require bad actors. It can emerge precisely because organisations are responding rationally to incentives. The collective outcome may be worse even when individual decisions make sense from the viewpoint of each participant.
 
-Game-theoretic models of technology races have repeatedly found conditions under which actors choose lower levels of precaution than would maximise overall welfare, particularly when rewards for winning are large and timelines are short. Research specifically examining AI races reaches similar conclusions, although the magnitude of the effect remains uncertain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/1907.04534" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The Role of Cooperation in Responsible AI Development</span><span class="citation-popover-snippet">arXivThe Role of Cooperation in Responsible AI DevelopmentJuly 10, 2019 — by A Askell · 2019 · Cited by 110 — In this paper, we argue tha...</span><span class="citation-popover-meta">Published: July 10, 2019</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8810789/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">intelligence development races in heterogeneous...by T Cimpeanu · 2022 · Cited by 54 — Here we investigate how different interaction str...</span></span></span>
+Game-theoretic models of technology races have repeatedly found conditions under which actors choose lower levels of precaution than would maximise overall welfare, particularly when rewards for winning are large and timelines are short. Research specifically examining AI races reaches similar conclusions, although the magnitude of the effect remains uncertain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/1907.04534" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The Role of Cooperation in Responsible AI Development</span><span class="citation-popover-snippet">The Role of Cooperation in Responsible AI DevelopmentJuly 10, 2019 — by A Askell · 2019 · Cited by 110 — In this paper, we argue tha...</span><span class="citation-popover-meta">Published: July 10, 2019</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8810789/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">intelligence development races in heterogeneous...by T Cimpeanu · 2022 · Cited by 54 — Here we investigate how different interaction str...</span></span></span>
 
 ## What evidence do doomers point to?
 
@@ -345,9 +345,9 @@ One challenge is that no AI system has yet produced the kind of [catastrophic]({
 
 Several strands of evidence are commonly cited.
 
-First, simulation and gaming exercises exploring AI race dynamics repeatedly find competitive pressures pushing participants towards acceleration. Researchers analysing dozens of "Intelligence Rising" simulations reported recurring patterns in which race dynamics emerged, safety concerns were deprioritised, and cooperation proved difficult to sustain under pressure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0016328725000254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectStrategic insights from simulation gaming of AI race dynamicsby R Gruetzemacher · 2025 · Cited by 14 — Our analysis reveals...</span></span></span>
+First, simulation and gaming exercises exploring AI race dynamics repeatedly find competitive pressures pushing participants towards acceleration. Researchers analysing dozens of "Intelligence Rising" simulations reported recurring patterns in which race dynamics emerged, safety concerns were deprioritised, and cooperation proved difficult to sustain under pressure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0016328725000254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Strategic insights from simulation gaming of AI race dynamicsby R Gruetzemacher · 2025 · Cited by 14 — Our analysis reveals...</span></span></span>
 
-Second, AI [governance]({{ 'governance/' | relative_url }}) researchers have long warned that collective-action problems could cause underinvestment in safety. The argument is not that companies dislike safety, but that competition can make safety expenditures harder to justify when rivals are moving quickly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/1907.04534" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The Role of Cooperation in Responsible AI Development</span><span class="citation-popover-snippet">arXivThe Role of Cooperation in Responsible AI DevelopmentJuly 10, 2019 — by A Askell · 2019 · Cited by 110 — In this paper, we argue tha...</span><span class="citation-popover-meta">Published: July 10, 2019</span></span></span>
+Second, AI [governance]({{ 'governance/' | relative_url }}) researchers have long warned that collective-action problems could cause underinvestment in safety. The argument is not that companies dislike safety, but that competition can make safety expenditures harder to justify when rivals are moving quickly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/1907.04534" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The Role of Cooperation in Responsible AI Development</span><span class="citation-popover-snippet">The Role of Cooperation in Responsible AI DevelopmentJuly 10, 2019 — by A Askell · 2019 · Cited by 110 — In this paper, we argue tha...</span><span class="citation-popover-meta">Published: July 10, 2019</span></span></span>
 
 Third, observers point to real-world debates within frontier AI companies. In recent years, several major labs have publicly discussed the tension between maintaining safety commitments and remaining competitive. Critics interpret such debates as evidence that race pressures are not merely theoretical. Supporters of the companies involved argue that adapting safety frameworks can reflect changing circumstances rather than abandonment of safety goals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/anthropic-changing-safety-policy-2026-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-snippet">The company will no longer unilaterally pause or delay new AI model deployments when safety mechanisms lag, citing increased competition...</span></span></span>
 
@@ -360,11 +360,11 @@ None of these examples demonstrates that an existential catastrophe will occur. 
 
 Race incentives matter in AI doom arguments because many proposed safeguards require time.
 
-Interpretability research, alignment testing, capability evaluations, adversarial red-teaming, monitoring systems, and emergency-response procedures all involve delays, costs, or deployment restrictions. If organisations believe that competitive advantage depends heavily on speed, these measures may become increasingly difficult to maintain.
+Interpretability research, alignment testing, capability [evaluations]({{ 'evaluations/' | relative_url }}), adversarial red-teaming, [monitoring]({{ 'monitoring/' | relative_url }}) systems, and emergency-response procedures all involve delays, costs, or deployment restrictions. If organisations believe that competitive advantage depends heavily on speed, these measures may become increasingly difficult to maintain.
 
 The concern is especially acute for scenarios involving rapid capability advances. If AI systems become dramatically more capable over short periods, the gap between "technically possible" and "safely understood" could widen. In that world, competition might encourage deployment before researchers have established reliable ways to predict or control system behaviour.
 
-The International AI Safety Report highlights the broader challenge that capabilities can advance faster than understanding and risk-management techniques. For doom-focused researchers, race dynamics are one reason that this gap could persist rather than naturally correcting itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/1907.04534" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The Role of Cooperation in Responsible AI Development</span><span class="citation-popover-snippet">arXivThe Role of Cooperation in Responsible AI DevelopmentJuly 10, 2019 — by A Askell · 2019 · Cited by 110 — In this paper, we argue tha...</span><span class="citation-popover-meta">Published: July 10, 2019</span></span></span>
+The International AI Safety Report highlights the broader challenge that capabilities can advance faster than understanding and risk-management techniques. For doom-focused researchers, race dynamics are one reason that this gap could persist rather than naturally correcting itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/1907.04534" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The Role of Cooperation in Responsible AI Development</span><span class="citation-popover-snippet">The Role of Cooperation in Responsible AI DevelopmentJuly 10, 2019 — by A Askell · 2019 · Cited by 110 — In this paper, we argue tha...</span><span class="citation-popover-meta">Published: July 10, 2019</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6MaUZ4Hi7os" title="AI Billionaire on Existential Risk: Jaan Tallinn – #112" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6MaUZ4Hi7os" target="_blank" rel="noopener noreferrer">AI Billionaire on Existential Risk: Jaan Tallinn – #112</a></p><p class="youtube-embed-meta">Channel: Manifold &middot; Views: 1.6K &middot; Uploaded: May 2026 &middot; Length: 1 hour 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6MaUZ4Hi7os" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6MaUZ4Hi7os">Open on YouTube</a></p></div></div></div>
@@ -391,7 +391,7 @@ If safety delays are costly because competitors continue advancing, then the obv
 
 The underlying goal is not necessarily to stop competition. It is to prevent a situation in which every actor believes that slowing down would be responsible but also believes that slowing down alone would be self-destructive.
 
-For AI doom advocates, race incentives are therefore significant not because they guarantee catastrophe, but because they provide a mechanism through which intelligent, well-intentioned organisations could collectively create more risk than any of them would deliberately choose. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/1907.04534" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The Role of Cooperation in Responsible AI Development</span><span class="citation-popover-snippet">arXivThe Role of Cooperation in Responsible AI DevelopmentJuly 10, 2019 — by A Askell · 2019 · Cited by 110 — In this paper, we argue tha...</span><span class="citation-popover-meta">Published: July 10, 2019</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0016328725000254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectStrategic insights from simulation gaming of AI race dynamicsby R Gruetzemacher · 2025 · Cited by 14 — Our analysis reveals...</span></span></span>
+For AI doom advocates, race incentives are therefore significant not because they guarantee catastrophe, but because they provide a mechanism through which intelligent, well-intentioned organisations could collectively create more risk than any of them would deliberately choose. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/1907.04534" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The Role of Cooperation in Responsible AI Development</span><span class="citation-popover-snippet">The Role of Cooperation in Responsible AI DevelopmentJuly 10, 2019 — by A Askell · 2019 · Cited by 110 — In this paper, we argue tha...</span><span class="citation-popover-meta">Published: July 10, 2019</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0016328725000254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Strategic insights from simulation gaming of AI race dynamicsby R Gruetzemacher · 2025 · Cited by 14 — Our analysis reveals...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -815,118 +815,118 @@ For AI doom advocates, race incentives are therefore significant not because the
 1. <a id="endnote-1"></a>
    Source: arxiv.org  
    Title: arXiv The Role of Cooperation in Responsible AI Development  
-   Link: [https://arxiv.org/pdf/1907.04534](https://arxiv.org/pdf/1907.04534)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivThe Role of Cooperation in Responsible AI DevelopmentJuly 10, 2019 — by A Askell · 2019 · Cited by 110 — In this paper, we argue tha...</p></details>
+   Link: <a href="https://arxiv.org/pdf/1907.04534" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/1907.04534</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of Cooperation in Responsible AI DevelopmentJuly 10, 2019 — by A Askell · 2019 · Cited by 110 — In this paper, we argue tha...</p></details>
    Published: July 10, 2019  
 
 2. <a id="endnote-2"></a>
    Source: cepr.org  
-   Link: [https://cepr.org/publications/dp21454](https://cepr.org/publications/dp21454)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CEPRDP21454 AI Safety and Competitionby JP Choi · 2026 — This paper examines how competition affects the timing of AI deployment under sa...</p></details>
+   Link: <a href="https://cepr.org/publications/dp21454" target="_blank" rel="noopener noreferrer nofollow">https://cepr.org/publications/dp21454</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>DP21454 AI Safety and Competitionby JP Choi · 2026 — This paper examines how competition affects the timing of AI deployment under sa...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1907.12393](https://arxiv.org/abs/1907.12393)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivTo regulate or not: a social dynamics analysis of the race for AI supremacyJuly 26, 2019...</p></details>
+   Link: <a href="https://arxiv.org/abs/1907.12393" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1907.12393</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>To regulate or not: a social dynamics analysis of the race for AI supremacyJuly 26, 2019...</p></details>
    Published: July 26, 2019  
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8810789/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8810789/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8810789/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8810789/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>intelligence development races in heterogeneous...by T Cimpeanu · 2022 · Cited by 54 — Here we investigate how different interaction str...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0016328725000254](https://www.sciencedirect.com/science/article/pii/S0016328725000254)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectStrategic insights from simulation gaming of AI race dynamicsby R Gruetzemacher · 2025 · Cited by 14 — Our analysis reveals...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0016328725000254" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0016328725000254</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Strategic insights from simulation gaming of AI race dynamicsby R Gruetzemacher · 2025 · Cited by 14 — Our analysis reveals...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv Strategic Insights from Simulation Gaming of AI Race Dynamics  
-   Link: [https://arxiv.org/abs/2410.03092](https://arxiv.org/abs/2410.03092)  
+   Link: <a href="https://arxiv.org/abs/2410.03092" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2410.03092</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strategic Insights from Simulation Gaming of AI Race...by R Gruetzemacher · 2024 · Cited by 14 — Our analysis reveals key strategic cons...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2602.21012](https://arxiv.org/abs/2602.21012)  
+   Link: <a href="https://arxiv.org/abs/2602.21012" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2602.21012</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXiv[2602.21012] International AI Safety Report 2026by Y Bengio · 2026 · Cited by 74 — The International AI Safety Report 2026 synthesis...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: themoonlight.io  
-   Link: [https://www.themoonlight.io/en/review/strategic-insights-from-simulation-gaming-of-ai-race-dynamics](https://www.themoonlight.io/en/review/strategic-insights-from-simulation-gaming-of-ai-race-dynamics)  
+   Link: <a href="https://www.themoonlight.io/en/review/strategic-insights-from-simulation-gaming-of-ai-race-dynamics" target="_blank" rel="noopener noreferrer nofollow">https://www.themoonlight.io/en/review/strategic-insights-from-simulation-gaming-of-ai-race-dynamics</a>  
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/journal/futures/vol/167/suppl/C](https://www.sciencedirect.com/journal/futures/vol/167/suppl/C)  
+   Link: <a href="https://www.sciencedirect.com/journal/futures/vol/167/suppl/C" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/journal/futures/vol/167/suppl/C</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Futures | Vol 167, March 2025Strategic insights from simulation gaming of AI race dynamics. Ross Gruetzemacher, Shahar Avin, James Fox, A...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: tandfonline.com  
    Title: Taylor & Francis Online Arms Race or Innovation Race?  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/14650045.2025.2456019](https://www.tandfonline.com/doi/full/10.1080/14650045.2025.2456019)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Geopolitical](&amp;#123;&amp;#123; &#x27;geopolitics/&#x27; | relative_url &amp;#125;&amp;#125;) AI Developmentby S Schmid · 2025 · Cited by 45 — We argue that the arms race metaphor does not capture the dynamics of globa...</p></details>
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/14650045.2025.2456019" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/14650045.2025.2456019</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Geopolitical AI Developmentby S Schmid · 2025 · Cited by 45 — We argue that the arms race metaphor does not capture the dynamics of globa...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: businessinsider.com  
-   Link: [https://www.businessinsider.com/anthropic-changing-safety-policy-2026-2](https://www.businessinsider.com/anthropic-changing-safety-policy-2026-2)  
+   Link: <a href="https://www.businessinsider.com/anthropic-changing-safety-policy-2026-2" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/anthropic-changing-safety-policy-2026-2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The company will no longer unilaterally pause or delay new AI model deployments when safety mechanisms lag, citing increased competition...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: s-rsa.com  
-   Link: [https://s-rsa.com/index.php/agi/article/view/16439/11861](https://s-rsa.com/index.php/agi/article/view/16439/11861)  
+   Link: <a href="https://s-rsa.com/index.php/agi/article/view/16439/11861" target="_blank" rel="noopener noreferrer nofollow">https://s-rsa.com/index.php/agi/article/view/16439/11861</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Race dynamics risk safe and responsible AI. B Why collaborate? C Forms of collaboration. III Antitrust...Read more...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/3rd-edition-ai-race-competition-dynamics-alyssa-christensen-nqxwe](https://www.linkedin.com/pulse/3rd-edition-ai-race-competition-dynamics-alyssa-christensen-nqxwe)  
+   Link: <a href="https://www.linkedin.com/pulse/3rd-edition-ai-race-competition-dynamics-alyssa-christensen-nqxwe" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/3rd-edition-ai-race-competition-dynamics-alyssa-christensen-nqxwe</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3rd Edition: The AI Race and Competition DynamicsThe Center for AI Safety defines the AI Race as a dynamic in which competitive incentive...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: intelligencerising.org  
-   Link: [https://www.intelligencerising.org/insights-and-resources-2-2](https://www.intelligencerising.org/insights-and-resources-2-2)  
+   Link: <a href="https://www.intelligencerising.org/insights-and-resources-2-2" target="_blank" rel="noopener noreferrer nofollow">https://www.intelligencerising.org/insights-and-resources-2-2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Our publicationsStrategic Insights from Simulation Gaming of AI Race Dynamics. AI Future: Insights from 43 Intelligence Rising Games. Ros...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/334388570_The_Role_of_Cooperation_in_Responsible_AI_Development](https://www.researchgate.net/publication/334388570_The_Role_of_Cooperation_in_Responsible_AI_Development)  
+   Link: <a href="https://www.researchgate.net/publication/334388570_The_Role_of_Cooperation_in_Responsible_AI_Development" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/334388570_The_Role_of_Cooperation_in_Responsible_AI_Development</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of Cooperation in Responsible AI DevelopmentIn this paper, we argue that competitive pressures could incentivize AI companies to...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: axios.com  
-   Link: [https://www.axios.com/2026/03/03/ai-race-safety-guardrail](https://www.axios.com/2026/03/03/ai-race-safety-guardrail)  
+   Link: <a href="https://www.axios.com/2026/03/03/ai-race-safety-guardrail" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2026/03/03/ai-race-safety-guardrail</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Even traditionally cautious firms, like Anthropic, have recently revised their internal guidelines, narrowing criteria for delaying risky...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: techuk.org  
-   Link: [https://www.techuk.org/resource/the-release-of-the-international-ai-safety-report-2026-navigating-rapid-ai-advancement-and-emerging-risks.html](https://www.techuk.org/resource/the-release-of-the-international-ai-safety-report-2026-navigating-rapid-ai-advancement-and-emerging-risks.html)  
+   Link: <a href="https://www.techuk.org/resource/the-release-of-the-international-ai-safety-report-2026-navigating-rapid-ai-advancement-and-emerging-risks.html" target="_blank" rel="noopener noreferrer nofollow">https://www.techuk.org/resource/the-release-of-the-international-ai-safety-report-2026-navigating-rapid-ai-advancement-and-emerging-risks.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The release of the international AI safety report 20263 Feb 2026 — The International AI Safety Report 2026 has been released today on 3 F...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: institute.global  
-   Link: [https://institute.global/insights/tech-and-digitalisation/europe-in-the-age-of-ai-how-technology-leadership-can-boost-competitiveness-and-security](https://institute.global/insights/tech-and-digitalisation/europe-in-the-age-of-ai-how-technology-leadership-can-boost-competitiveness-and-security)  
+   Link: <a href="https://institute.global/insights/tech-and-digitalisation/europe-in-the-age-of-ai-how-technology-leadership-can-boost-competitiveness-and-security" target="_blank" rel="noopener noreferrer nofollow">https://institute.global/insights/tech-and-digitalisation/europe-in-the-age-of-ai-how-technology-leadership-can-boost-competitiveness-and-security</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Europe in the Age of AI: How Technology Leadership Can...17 Nov 2025 — Competitiveness in the AI era depends on affordable, sustainable...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: linkedin.com  
    Title: welker international ai safety report 2026 activity 7424732745643380736 o3XA  
-   Link: [https://www.linkedin.com/posts/welker_international-ai-safety-report-2026-activity-7424732745643380736-o3XA](https://www.linkedin.com/posts/welker_international-ai-safety-report-2026-activity-7424732745643380736-o3XA)  
+   Link: <a href="https://www.linkedin.com/posts/welker_international-ai-safety-report-2026-activity-7424732745643380736-o3XA" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/welker_international-ai-safety-report-2026-activity-7424732745643380736-o3XA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2026 AI Safety Report: Emerging Risks from General...The 2026 AI Safety Report underscores how quickly the landscape is evolving from ra...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: aikido.dev  
    Title: international ai safety report aikido security analysis  
-   Link: [https://www.aikido.dev/blog/international-ai-safety-report-aikido-security-analysis](https://www.aikido.dev/blog/international-ai-safety-report-aikido-security-analysis)  
+   Link: <a href="https://www.aikido.dev/blog/international-ai-safety-report-aikido-security-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.aikido.dev/blog/international-ai-safety-report-aikido-security-analysis</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>International AI Safety Report 2026: Aikido Security Analysis9 Feb 2026 — The International AI Safety Report 2026 is one of the most comp...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: researchgate.net  
    Title: Strategic Insights from Simulation Gaming of AI Race  
-   Link: [https://www.researchgate.net/publication/389032252_Strategic_Insights_from_Simulation_Gaming_of_AI_Race_Dynamics](https://www.researchgate.net/publication/389032252_Strategic_Insights_from_Simulation_Gaming_of_AI_Race_Dynamics)  
+   Link: <a href="https://www.researchgate.net/publication/389032252_Strategic_Insights_from_Simulation_Gaming_of_AI_Race_Dynamics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389032252_Strategic_Insights_from_Simulation_Gaming_of_AI_Race_Dynamics</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI. This paper assesses the potential risks of the AI race narrative and of an actual competitive race to develop AI, such as incentivisi...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: semanticscholar.org  
-   Link: [https://www.semanticscholar.org/paper/Strategic-Insights-from-Simulation-Gaming-of-AI-Gruetzemacher-Avin/a19fb918a8e9b56d26cfa07f9b7ba5ad458ec97b](https://www.semanticscholar.org/paper/Strategic-Insights-from-Simulation-Gaming-of-AI-Gruetzemacher-Avin/a19fb918a8e9b56d26cfa07f9b7ba5ad458ec97b)  
+   Link: <a href="https://www.semanticscholar.org/paper/Strategic-Insights-from-Simulation-Gaming-of-AI-Gruetzemacher-Avin/a19fb918a8e9b56d26cfa07f9b7ba5ad458ec97b" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Strategic-Insights-from-Simulation-Gaming-of-AI-Gruetzemacher-Avin/a19fb918a8e9b56d26cfa07f9b7ba5ad458ec97b</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ents, challenges to the robustness of such agreements, the critical role of...</p></details>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-catastrophic/
 description: Focused pages that expand on Cyberattack AI.
-date: '2026-06-02'
+date: '2026-06-10'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_catastrophic_c92548_ai_cyber_atta_082acc
 parent_title: Cyberattack AI | Misuse

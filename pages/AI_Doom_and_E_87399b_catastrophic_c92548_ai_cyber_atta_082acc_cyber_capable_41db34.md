@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_catastrophic_c92548_ai_cyber_atta_082acc_ai_zero_day_e_517257
 - AI_Doom_and_E_87399b_catastrophic_c92548_ai_cyber_atta_082acc_real_ai_explo_767c92
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - misuse
 - cyberattack-ai
 - model-controls
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - misuse
 - cyberattack-ai
 - model-controls
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Limiting misuse means deciding who can access cyber-capable models, how use is monitored, and when defensive research should be allowed.
 hero_summary: Limiting misuse means deciding who can access cyber-capable models, how use is monitored, and when defensive research should be allowed.
 layout: default
 permalink: /model-controls/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /misuse/
 - /cyberattack-ai/
 nav_short_title: Model controls
@@ -211,10 +211,10 @@ parent_heading_title: 'AI Driven Cyberattacks: Automation and Emerging Risks'
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_catastrophic_c92548
-  title: Misuse | AI Doom and
+  title: Misuse | AI Doom and E 87399 b
   permalink: /misuse/
   short_title: Misuse
   heading_title: How Could People Misuse Advanced AI?
@@ -226,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_catastrophic_c92548
-  title: Misuse | AI Doom and
+  title: Misuse | AI Doom and E 87399 b
   permalink: /misuse/
   short_title: Misuse
   heading_title: How Could People Misuse Advanced AI?
@@ -269,7 +269,7 @@ image: /assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_cyber_atta_082
 
 ## Introduction
 
-If advanced AI systems become capable of discovering software vulnerabilities, writing exploits and coordinating complex cyber operations, one of the most immediate [governance]({{ 'governance/' | relative_url }}) questions is not whether those capabilities exist, but who should be allowed to use them. Within the [AI doom and]({{ 'ai-doom-and/' | relative_url }}) existential-risk debate, controls on cyber-capable models are often presented as a first real-world test of whether society can contain dangerous AI capabilities before they become widely available.
+If advanced AI systems become capable of discovering software vulnerabilities, writing exploits and coordinating complex cyber operations, one of the most immediate [governance]({{ 'governance/' | relative_url }}) questions is not whether those capabilities exist, but who should be allowed to use them. Within the AI doom and existential-risk debate, controls on cyber-capable models are often presented as a first real-world test of whether society can contain dangerous AI capabilities before they become widely available.
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_cyber_atta_082acc_cyber_capable_41db34-Illustration-1-dark.svg" | relative_url }}" alt="Model controls illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_cyber_atta_082acc_cyber_capable_41db34-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_cyber_atta_082acc_cyber_capable_41db34-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -279,7 +279,7 @@ Supporters of stronger controls argue that highly capable cyber models could dra
 
 Most AI systems can already assist with programming and security tasks. The governance challenge becomes more acute when models begin demonstrating capabilities that approach or exceed expert-level offensive cyber work.
 
-The UK's AI Security Institute (AISI) reports that frontier-model cyber capabilities have advanced rapidly, with some systems now completing tasks that previously required many years of specialist [expertise]({{ 'expertise-erosion/' | relative_url }}). The institute evaluates models on activities such as vulnerability discovery and bypassing security protections because these capabilities could strengthen defence but could also be misused. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">Our evaluations test models for these dual-use skills by, for...Read more...</span></span></span>
+The UK's AI Security Institute (AISI) reports that frontier-model cyber capabilities have advanced rapidly, with some systems now completing tasks that previously required many years of specialist expertise. The institute evaluates models on activities such as vulnerability discovery and bypassing security protections because these capabilities could strengthen defence but could also be misused. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">Our evaluations test models for these dual-use skills by, for...Read more...</span></span></span>
 
 From an AI-doom perspective, cyber capability matters because cyber operations are one of the most plausible routes by which a highly capable AI system could gain influence over digital infrastructure. Even researchers who are sceptical of near-term AI takeover scenarios often agree that advanced cyber capabilities deserve special scrutiny because software systems underpin finance, communications, energy networks and government operations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2307.03718" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Frontier AI Regulation: Managing Emerging Risks to Public Safety</span><span class="citation-popover-snippet">arXiv Frontier AI Regulation: Managing Emerging Risks to Public Safety</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsc.gov.uk">[National Cyber Security Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsc.gov.uk</span><span class="citation-popover-title">impact ai cyber threat now 2027</span><span class="citation-popover-snippet">It highlights the assessment of the...Read more...</span></span></span>
 
@@ -292,7 +292,7 @@ This does not mean [current models]({{ 'current-models/' | relative_url }}) can 
 
 The most direct control is restricting access to particularly capable models.
 
-Rather than making every model available through public interfaces, some organisations increasingly distinguish between ordinary [deployment]({{ 'release-gates/' | relative_url }}) and restricted deployment. Under this approach, highly capable cyber systems may be released only to vetted organisations, approved researchers or trusted security teams. Anthropic's Responsible Scaling Policy, for example, describes progressively stronger deployment and security measures as model capabilities increase, including access controls and protection of sensitive model assets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-snippet">AnthropicAnthropic&#x27;s Responsible Scaling PolicyRead Anthropic&#x27;s Responsible Scaling Policy. As frontier AI models advance, we believe the...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www-cdn.anthropic.com/files/4zrzovbb/website/bf04581e4f329735fd90634f6a1962c13c0bd351.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www-cdn.anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www-cdn.anthropic.com</span><span class="citation-popover-snippet">AnthropicAnthropic&#x27;s Responsible Scaling Policy (version 3.1)2 Apr 2026 — Our Responsible Scaling Policy (RSP) is our voluntary framework...</span></span></span>
+Rather than making every model available through public interfaces, some organisations increasingly distinguish between ordinary deployment and restricted deployment. Under this approach, highly capable cyber systems may be released only to vetted organisations, approved researchers or trusted security teams. Anthropic's Responsible Scaling Policy, for example, describes progressively stronger deployment and security measures as model capabilities increase, including access controls and protection of sensitive model assets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-snippet">Anthropic&#x27;s Responsible Scaling PolicyRead Anthropic&#x27;s Responsible Scaling Policy. As frontier AI models advance, we believe the...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www-cdn.anthropic.com/files/4zrzovbb/website/bf04581e4f329735fd90634f6a1962c13c0bd351.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www-cdn.anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www-cdn.anthropic.com</span><span class="citation-popover-snippet">Anthropic&#x27;s Responsible Scaling Policy (version 3.1)2 Apr 2026 — Our Responsible Scaling Policy (RSP) is our voluntary framework...</span></span></span>
 
 Several forms of access control are commonly proposed:
 
@@ -307,7 +307,7 @@ Several forms of access control are commonly proposed:
 
 </div>
 
-Monitoring is the second major control layer. Frontier AI companies already collect logs and monitor unusual activity in some contexts. Advocates argue that monitoring can identify attempts to automate large-scale vulnerability discovery or offensive cyber campaigns. Critics note that monitoring creates privacy concerns and may be ineffective against determined attackers who obtain model weights directly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www-cdn.anthropic.com/872c653b2d0501d6ab44cf87f43e1dc4853e4d37.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www-cdn.anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www-cdn.anthropic.com</span><span class="citation-popover-snippet">anthropic.comAnthropic&#x27;s Responsible Scaling Policy (version 2.2)14 May 2025 — AI Safety Level Standards (ASL Standards) are a set of tec...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www-cdn.anthropic.com/616dee633636e5bd309cb73aed8622e80fe47839.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www-cdn.anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www-cdn.anthropic.com</span><span class="citation-popover-snippet">anthropic.comAnthropic&#x27;s Responsible Scaling Policy, October 15, 202415 Oct 2024 — AI Safety Level Standards (ASL Standards) are a set of...</span></span></span>
+[Monitoring]({{ 'monitoring/' | relative_url }}) is the second major control layer. Frontier AI companies already collect logs and monitor unusual activity in some contexts. Advocates argue that monitoring can identify attempts to automate large-scale vulnerability discovery or offensive cyber campaigns. Critics note that monitoring creates privacy concerns and may be ineffective against determined attackers who obtain model weights directly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www-cdn.anthropic.com/872c653b2d0501d6ab44cf87f43e1dc4853e4d37.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www-cdn.anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www-cdn.anthropic.com</span><span class="citation-popover-snippet">anthropic.comAnthropic&#x27;s Responsible Scaling Policy (version 2.2)14 May 2025 — AI Safety Level Standards (ASL Standards) are a set of tec...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www-cdn.anthropic.com/616dee633636e5bd309cb73aed8622e80fe47839.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www-cdn.anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www-cdn.anthropic.com</span><span class="citation-popover-snippet">anthropic.comAnthropic&#x27;s Responsible Scaling Policy, October 15, 202415 Oct 2024 — AI Safety Level Standards (ASL Standards) are a set of...</span></span></span>
 
 A recurring concern in the AI-doom discussion is that access controls become much harder once powerful models are openly downloadable. If dangerous capabilities can be copied globally at negligible cost, governance shifts from controlling access to coping with proliferation after the fact. That possibility is one reason some researchers argue for stronger safeguards before capabilities cross certain thresholds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2307.03718" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Frontier AI Regulation: Managing Emerging Risks to Public Safety</span><span class="citation-popover-snippet">arXiv Frontier AI Regulation: Managing Emerging Risks to Public Safety</span></span></span>
 
@@ -318,11 +318,11 @@ A recurring concern in the AI-doom discussion is that access controls become muc
 
 The strongest argument against strict access controls is that defenders need access too.
 
-Security research has long relied on discovering vulnerabilities before criminals do. If governments and trusted researchers cannot test highly capable cyber models, they may miss important [warning signs]({{ 'warning-signs/' | relative_url }}). In practice, many of the most important evaluations of dangerous capabilities require access to frontier systems that are not publicly available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2307.03718" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Frontier AI Regulation: Managing Emerging Risks to Public Safety</span><span class="citation-popover-snippet">arXiv Frontier AI Regulation: Managing Emerging Risks to Public Safety</span></span></span>
+Security research has long relied on discovering vulnerabilities before criminals do. If governments and trusted researchers cannot test highly capable cyber models, they may miss important [warning signs]({{ 'warning-signs/' | relative_url }}). In practice, many of the most important [evaluations]({{ 'evaluations/' | relative_url }}) of dangerous capabilities require access to frontier systems that are not publicly available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2307.03718" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Frontier AI Regulation: Managing Emerging Risks to Public Safety</span><span class="citation-popover-snippet">arXiv Frontier AI Regulation: Managing Emerging Risks to Public Safety</span></span></span>
 
 This creates a difficult balancing act.
 
-On one side, unrestricted access increases the risk that offensive capabilities spread rapidly. On the other, overly restrictive access can produce false confidence because independent researchers cannot verify company claims about model behaviour. A recent proposal on dangerous-capability evaluations argues that evaluators often receive limited model access, limited information and limited testing time, making it harder to assess risk accurately. The authors advocate structured access arrangements that expand evaluation opportunities while maintaining security controls. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2307.03718" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Frontier AI Regulation: Managing Emerging Risks to Public Safety</span><span class="citation-popover-snippet">arXiv Frontier AI Regulation: Managing Emerging Risks to Public Safety</span></span></span>
+On one side, unrestricted access increases the risk that offensive capabilities spread rapidly. On the other, overly restrictive access can produce [false confidence]({{ 'false-confidence/' | relative_url }}) because [independent]({{ 'red-teaming/' | relative_url }}) researchers cannot verify company claims about model behaviour. A recent proposal on dangerous-capability evaluations argues that evaluators often receive limited model access, limited information and limited testing time, making it harder to assess risk accurately. The authors advocate structured access arrangements that expand evaluation opportunities while maintaining security controls. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2307.03718" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Frontier AI Regulation: Managing Emerging Risks to Public Safety</span><span class="citation-popover-snippet">arXiv Frontier AI Regulation: Managing Emerging Risks to Public Safety</span></span></span>
 
 This debate has become particularly important in cyber-security because capability evaluations often require realistic testing environments. Researchers may need enough access to determine whether a model can discover vulnerabilities, chain together attack steps, or overcome obstacles in complex systems. If access is too restricted, serious risks may go undetected. If access is too broad, the evaluation process itself could increase proliferation risk. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2307.03718" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Frontier AI Regulation: Managing Emerging Risks to Public Safety</span><span class="citation-popover-snippet">arXiv Frontier AI Regulation: Managing Emerging Risks to Public Safety</span></span></span>
 
@@ -336,7 +336,7 @@ Many governance proposals rely on capability evaluations as triggers for stronge
 
 The basic idea is straightforward: test models regularly, measure dangerous cyber capabilities, and increase safeguards when predefined thresholds are crossed. Frontier-model evaluations increasingly include cyber-security benchmarks alongside tests for deception, autonomous behaviour and other potentially dangerous capabilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2307.03718" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Frontier AI Regulation: Managing Emerging Risks to Public Safety</span><span class="citation-popover-snippet">arXiv Frontier AI Regulation: Managing Emerging Risks to Public Safety</span></span></span>
 
-Supporters see this as one of the most promising control mechanisms because it links governance to observed capabilities rather than speculation. If a model demonstrates the ability to perform increasingly sophisticated cyber tasks, deployment restrictions can be strengthened before broader release. Anthropic's Responsible Scaling framework is one example of a capability-linked approach. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-snippet">AnthropicAnthropic&#x27;s Responsible Scaling PolicyRead Anthropic&#x27;s Responsible Scaling Policy. As frontier AI models advance, we believe the...</span></span></span>
+Supporters see this as one of the most promising control mechanisms because it links governance to observed capabilities rather than speculation. If a model demonstrates the ability to perform increasingly sophisticated cyber tasks, deployment restrictions can be strengthened before broader release. Anthropic's Responsible Scaling framework is one example of a capability-linked approach. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-snippet">Anthropic&#x27;s Responsible Scaling PolicyRead Anthropic&#x27;s Responsible Scaling Policy. As frontier AI models advance, we believe the...</span></span></span>
 
 However, there are significant objections.
 
@@ -802,233 +802,233 @@ The strongest consensus across the debate is narrower. As AI systems become more
 1. <a id="endnote-1"></a>
    Source: ncsc.gov.uk  
    Title: impact ai cyber threat now 2027  
-   Link: [https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027](https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027)  
+   Link: <a href="https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>It highlights the assessment of the...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: ncsc.gov.uk  
    Title: impact of ai on cyber threat  
-   Link: [https://www.ncsc.gov.uk/report/impact-of-ai-on-cyber-threat](https://www.ncsc.gov.uk/report/impact-of-ai-on-cyber-threat)  
+   Link: <a href="https://www.ncsc.gov.uk/report/impact-of-ai-on-cyber-threat" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/report/impact-of-ai-on-cyber-threat</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Cyber Security CentreThe near-term impact of AI on the cyber threat24 Jan 2024 — An NCSC assessment focusing on how AI will impa...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv Frontier AI Regulation: Managing Emerging Risks to Public Safety  
-   Link: [https://arxiv.org/abs/2307.03718](https://arxiv.org/abs/2307.03718)  
+   Link: <a href="https://arxiv.org/abs/2307.03718" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2307.03718</a>  
 
 4. <a id="endnote-4"></a>
    Source: aisi.gov.uk  
-   Link: [https://www.aisi.gov.uk/frontier-ai-trends-report](https://www.aisi.gov.uk/frontier-ai-trends-report)  
+   Link: <a href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/frontier-ai-trends-report</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Our evaluations test models for these dual-use skills by, for...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ncsc.gov.uk  
    Title: why cyber defenders need to be ready for frontier ai  
-   Link: [https://www.ncsc.gov.uk/blogs/why-cyber-defenders-need-to-be-ready-for-frontier-ai](https://www.ncsc.gov.uk/blogs/why-cyber-defenders-need-to-be-ready-for-frontier-ai)  
+   Link: <a href="https://www.ncsc.gov.uk/blogs/why-cyber-defenders-need-to-be-ready-for-frontier-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/blogs/why-cyber-defenders-need-to-be-ready-for-frontier-ai</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Cyber Security CentreWhy cyber defenders need to be ready for frontier AI30 Mar 2026 — Recent findings from the AI Security Inst...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv Evaluating Frontier Models for Dangerous Capabilities  
-   Link: [https://arxiv.org/abs/2403.13793](https://arxiv.org/abs/2403.13793)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivEvaluating Frontier Models for Dangerous CapabilitiesMarch 20, 2024...</p></details>
+   Link: <a href="https://arxiv.org/abs/2403.13793" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.13793</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating Frontier Models for Dangerous CapabilitiesMarch 20, 2024...</p></details>
    Published: March 20, 2024  
 
 7. <a id="endnote-7"></a>
    Source: ncsc.gov.uk  
-   Link: [https://www.ncsc.gov.uk/blogs/preparing-for-severe-cyber-threat-why-leaders-must-act-now](https://www.ncsc.gov.uk/blogs/preparing-for-severe-cyber-threat-why-leaders-must-act-now)  
+   Link: <a href="https://www.ncsc.gov.uk/blogs/preparing-for-severe-cyber-threat-why-leaders-must-act-now" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/blogs/preparing-for-severe-cyber-threat-why-leaders-must-act-now</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Cyber Security CentrePreparing for severe cyber threat: why leaders must act now20 Apr 2026 — At the same time, new technologies...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: ncsc.gov.uk  
    Title: chapter 01 cyber threat to the uk  
-   Link: [https://www.ncsc.gov.uk/collection/ncsc-annual-review-2025/chapter-01-cyber-threat-to-the-uk](https://www.ncsc.gov.uk/collection/ncsc-annual-review-2025/chapter-01-cyber-threat-to-the-uk)  
+   Link: <a href="https://www.ncsc.gov.uk/collection/ncsc-annual-review-2025/chapter-01-cyber-threat-to-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/collection/ncsc-annual-review-2025/chapter-01-cyber-threat-to-the-uk</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 01: Countering the cyber threat14 Oct 2025 — AI will almost certainly pose cyber resilience challenges to 2027 and beyond, across...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
    Title: arXiv A Framework for Evaluating Emerging Cyberattack Capabilities of AI  
-   Link: [https://arxiv.org/abs/2503.11917](https://arxiv.org/abs/2503.11917)  
+   Link: <a href="https://arxiv.org/abs/2503.11917" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2503.11917</a>  
 
 10. <a id="endnote-10"></a>
    Source: anthropic.com  
-   Link: [https://www.anthropic.com/responsible-scaling-policy](https://www.anthropic.com/responsible-scaling-policy)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AnthropicAnthropic&#x27;s Responsible Scaling PolicyRead Anthropic&#x27;s Responsible Scaling Policy. As frontier AI models advance, we believe the...</p></details>
+   Link: <a href="https://www.anthropic.com/responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/responsible-scaling-policy</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic&#x27;s Responsible Scaling PolicyRead Anthropic&#x27;s Responsible Scaling Policy. As frontier AI models advance, we believe the...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: www-cdn.anthropic.com  
-   Link: [https://www-cdn.anthropic.com/files/4zrzovbb/website/bf04581e4f329735fd90634f6a1962c13c0bd351.pdf](https://www-cdn.anthropic.com/files/4zrzovbb/website/bf04581e4f329735fd90634f6a1962c13c0bd351.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AnthropicAnthropic&#x27;s Responsible Scaling Policy (version 3.1)2 Apr 2026 — Our Responsible Scaling Policy (RSP) is our voluntary framework...</p></details>
+   Link: <a href="https://www-cdn.anthropic.com/files/4zrzovbb/website/bf04581e4f329735fd90634f6a1962c13c0bd351.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-cdn.anthropic.com/files/4zrzovbb/website/bf04581e4f329735fd90634f6a1962c13c0bd351.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic&#x27;s Responsible Scaling Policy (version 3.1)2 Apr 2026 — Our Responsible Scaling Policy (RSP) is our voluntary framework...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: www-cdn.anthropic.com  
-   Link: [https://www-cdn.anthropic.com/872c653b2d0501d6ab44cf87f43e1dc4853e4d37.pdf](https://www-cdn.anthropic.com/872c653b2d0501d6ab44cf87f43e1dc4853e4d37.pdf)  
+   Link: <a href="https://www-cdn.anthropic.com/872c653b2d0501d6ab44cf87f43e1dc4853e4d37.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-cdn.anthropic.com/872c653b2d0501d6ab44cf87f43e1dc4853e4d37.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>anthropic.comAnthropic&#x27;s Responsible Scaling Policy (version 2.2)14 May 2025 — AI Safety Level Standards (ASL Standards) are a set of tec...</p></details>
    Published: May 2025  
 
 13. <a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2601.11916](https://arxiv.org/abs/2601.11916)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivExpanding External Access To Frontier AI Models For Dangerous Capability EvaluationsJanuary 17, 2026...</p></details>
+   Link: <a href="https://arxiv.org/abs/2601.11916" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2601.11916</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Expanding External Access To Frontier AI Models For Dangerous Capability EvaluationsJanuary 17, 2026...</p></details>
    Published: January 17, 2026  
 
 14. <a id="endnote-14"></a>
    Source: GOV.UK  
    Title: a call for views on the cyber security of ai  
-   Link: [https://www.gov.uk/government/calls-for-evidence/cyber-security-of-ai-a-call-for-views/a-call-for-views-on-the-cyber-security-of-ai](https://www.gov.uk/government/calls-for-evidence/cyber-security-of-ai-a-call-for-views/a-call-for-views-on-the-cyber-security-of-ai)  
+   Link: <a href="https://www.gov.uk/government/calls-for-evidence/cyber-security-of-ai-a-call-for-views/a-call-for-views-on-the-cyber-security-of-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/calls-for-evidence/cyber-security-of-ai-a-call-for-views/a-call-for-views-on-the-cyber-security-of-ai</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>31 Jan 2025 — This Call for Views sets out specific interventions to help secure AI, so that the many benefits of AI can be realised.Read...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/legal/litigation/uk-banks-still-lack-access-mythos-ai-model-boes-bailey-says-2026-05-29/](https://www.reuters.com/legal/litigation/uk-banks-still-lack-access-mythos-ai-model-boes-bailey-says-2026-05-29/)  
+   Link: <a href="https://www.reuters.com/legal/litigation/uk-banks-still-lack-access-mythos-ai-model-boes-bailey-says-2026-05-29/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/litigation/uk-banks-still-lack-access-mythos-ai-model-boes-bailey-says-2026-05-29/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Speaking at a central banking conference in Reykjavik, Bailey said while Anthropic had shown willingness to share the AI model on a trial...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: aisi.gov.uk  
-   Link: [https://www.aisi.gov.uk/](https://www.aisi.gov.uk/)  
+   Link: <a href="https://www.aisi.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security InstituteThe AI Security Institute (AISI)We are conducting research and building infrastructure to understand the capabilitie...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: aisi.gov.uk  
    Title: our evaluation of openais gpt 5 5 cyber capabilities  
-   Link: [https://www.aisi.gov.uk/blog/our-evaluation-of-openais-gpt-5-5-cyber-capabilities](https://www.aisi.gov.uk/blog/our-evaluation-of-openais-gpt-5-5-cyber-capabilities)  
+   Link: <a href="https://www.aisi.gov.uk/blog/our-evaluation-of-openais-gpt-5-5-cyber-capabilities" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/blog/our-evaluation-of-openais-gpt-5-5-cyber-capabilities</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security InstituteOur evaluation of OpenAI&#x27;s GPT-5.5 cyber capabilities30 Apr 2026 — GPT-5.5 is one of the strongest models we have te...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: ncsc.gov.uk  
    Title: defending the uks critical national infrastructure  
-   Link: [https://www.ncsc.gov.uk/collection/ncsc-annual-review-2025/chapter-02-resilience-at-scale/defending-the-uks-critical-national-infrastructure](https://www.ncsc.gov.uk/collection/ncsc-annual-review-2025/chapter-02-resilience-at-scale/defending-the-uks-critical-national-infrastructure)  
+   Link: <a href="https://www.ncsc.gov.uk/collection/ncsc-annual-review-2025/chapter-02-resilience-at-scale/defending-the-uks-critical-national-infrastructure" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/collection/ncsc-annual-review-2025/chapter-02-resilience-at-scale/defending-the-uks-critical-national-infrastructure</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Defending the UK&#x27;s critical national infrastructure14 Oct 2025 — We seek to ensure the UK has the capability to defend, hunt and evict th...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: ncsc.gov.uk  
    Title: impact of ai on cyber threat  
-   Link: [https://www.ncsc.gov.uk/sites/default/files/pdfs/publication/impact-of-ai-on-cyber-threat.pdf](https://www.ncsc.gov.uk/sites/default/files/pdfs/publication/impact-of-ai-on-cyber-threat.pdf)  
+   Link: <a href="https://www.ncsc.gov.uk/sites/default/files/pdfs/publication/impact-of-ai-on-cyber-threat.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/sites/default/files/pdfs/publication/impact-of-ai-on-cyber-threat.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The near-term impact of AI on the cyber threat24 Jan 2024 — AI lowers the barrier for novice cyber criminals, hackers-for-hire and hackti...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: ncsc.gov.uk  
-   Link: [https://www.ncsc.gov.uk/section/advice-guidance/all-topics/[artificial](https://www.ncsc.gov.uk/section/advice-guidance/all-topics/[artificial)  
+   Link: <a href="https://www.ncsc.gov.uk/section/advice-guidance/all-topics/artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/section/advice-guidance/all-topics/artificial-intelligence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligenceAn NCSC assessment highlighting the impacts on cyber threat... UK critical systems at increased risk from &#x27;digita...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: ncsc.gov.uk  
    Title: ai to 2027 threat assessment  
-   Link: [https://www.ncsc.gov.uk/news/ai-to-2027-threat-assessment](https://www.ncsc.gov.uk/news/ai-to-2027-threat-assessment)  
+   Link: <a href="https://www.ncsc.gov.uk/news/ai-to-2027-threat-assessment" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/news/ai-to-2027-threat-assessment</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UK critical systems at increased risk from &#x27;digital divide...7 May 2025 — New report warns that organisations unable to defend AI-enable...</p></details>
    Published: May 2025  
 
 22. <a id="endnote-22"></a>
    Source: www-cdn.anthropic.com  
-   Link: [https://www-cdn.anthropic.com/616dee633636e5bd309cb73aed8622e80fe47839.pdf](https://www-cdn.anthropic.com/616dee633636e5bd309cb73aed8622e80fe47839.pdf)  
+   Link: <a href="https://www-cdn.anthropic.com/616dee633636e5bd309cb73aed8622e80fe47839.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-cdn.anthropic.com/616dee633636e5bd309cb73aed8622e80fe47839.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>anthropic.comAnthropic&#x27;s Responsible Scaling Policy, October 15, 202415 Oct 2024 — AI Safety Level Standards (ASL Standards) are a set of...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: GOV.UK  
    Title: cyber security breaches survey 20252026  
-   Link: [https://www.gov.uk/government/statistics/cyber-security-breaches-survey-20252026/cyber-security-breaches-survey-20252026](https://www.gov.uk/government/statistics/cyber-security-breaches-survey-20252026/cyber-security-breaches-survey-20252026)  
+   Link: <a href="https://www.gov.uk/government/statistics/cyber-security-breaches-survey-20252026/cyber-security-breaches-survey-20252026" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/statistics/cyber-security-breaches-survey-20252026/cyber-security-breaches-survey-20252026</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>security breaches survey 2025/202630 Apr 2026 — This report summarises key findings from the survey, highlighting trends in cyber securit...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: GOV.UK  
    Title: ai security institute frontier ai trends report factsheet  
-   Link: [https://www.gov.uk/government/publications/ai-security-institute-frontier-ai-trends-report-factsheet/ai-security-institute-frontier-ai-trends-report-factsheet](https://www.gov.uk/government/publications/ai-security-institute-frontier-ai-trends-report-factsheet/ai-security-institute-frontier-ai-trends-report-factsheet)  
+   Link: <a href="https://www.gov.uk/government/publications/ai-security-institute-frontier-ai-trends-report-factsheet/ai-security-institute-frontier-ai-trends-report-factsheet" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-security-institute-frontier-ai-trends-report-factsheet/ai-security-institute-frontier-ai-trends-report-factsheet</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Security Institute – Frontier AI Trends report factsheet18 Dec 2025 — This work strengthens safeguards in real systems, helps companies m...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: GOV.UK  
    Title: frontier ai capabilities and risks discussion paper  
-   Link: [https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper](https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper)  
+   Link: <a href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI: capabilities and risks – discussion paper28 Apr 2025 — Tracking the use of frontier AI models is important for monitoring misuse, not...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2512.01166v3](https://arxiv.org/html/2512.01166v3)  
+   Link: <a href="https://arxiv.org/html/2512.01166v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2512.01166v3</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating AI Providers&#x27; Frontier AI Safety Frameworks26 Mar 2026 — Frameworks typically specify risk identification and assessment proce...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: cdn.governance.ai  
    Title: Frontier AI Regulation Managing Emerging Risks  
-   Link: [https://cdn.governance.ai/Frontier_AI_Regulation_Managing_Emerging_Risks.pdf](https://cdn.governance.ai/Frontier_AI_Regulation_Managing_Emerging_Risks.pdf)  
+   Link: <a href="https://cdn.governance.ai/Frontier_AI_Regulation_Managing_Emerging_Risks.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.governance.ai/Frontier_AI_Regulation_Managing_Emerging_Risks.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Regulation: Managing Emerging Risks to Public...by M Anderljung · 2023 · Cited by 268 — In this paper, we focus specifically on the r...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/technology/2026/mar/27/number-of-ai-chatbots-ignoring-human-instructions-increasing-study-says](https://www.theguardian.com/technology/2026/mar/27/number-of-ai-chatbots-ignoring-human-instructions-increasing-study-says)  
+   Link: <a href="https://www.theguardian.com/technology/2026/mar/27/number-of-ai-chatbots-ignoring-human-instructions-increasing-study-says" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2026/mar/27/number-of-ai-chatbots-ignoring-human-instructions-increasing-study-says</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Conducted by the Centre for Long-Term Resilience (CLTR), the research documented nearly 700 real-world cases of AI misbehavior, marking a...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: digital.nemko.com  
    Title: anthropic ai safety strategy what enterprises must know  
-   Link: [https://digital.nemko.com/news/anthropic-ai-safety-strategy-what-enterprises-must-know](https://digital.nemko.com/news/anthropic-ai-safety-strategy-what-enterprises-must-know)  
+   Link: <a href="https://digital.nemko.com/news/anthropic-ai-safety-strategy-what-enterprises-must-know" target="_blank" rel="noopener noreferrer nofollow">https://digital.nemko.com/news/anthropic-ai-safety-strategy-what-enterprises-must-know</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>details Responsible Scaling Policy for frontier AI25 Aug 2025 — Anthropic&#x27;s Responsible Scaling Policy is designed to keep risk “below ac...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: x.com  
-   Link: [https://x.com/AISecurityInst](https://x.com/AISecurityInst)  
+   Link: <a href="https://x.com/AISecurityInst" target="_blank" rel="noopener noreferrer nofollow">https://x.com/AISecurityInst</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The length of cyber tasks frontier models can complete has been doubling...Read more...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: verifywise.ai  
-   Link: [https://verifywise.ai/de/ai-governance-library/policies-and-internal-governance/anthropic-responsible-scaling-policy](https://verifywise.ai/de/ai-governance-library/policies-and-internal-governance/anthropic-responsible-scaling-policy)  
+   Link: <a href="https://verifywise.ai/de/ai-governance-library/policies-and-internal-governance/anthropic-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow">https://verifywise.ai/de/ai-governance-library/policies-and-internal-governance/anthropic-responsible-scaling-policy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It establishes commitments for...</p></details>
 
 ### Additional References
 
 32. <a id="endnote-32"></a>
    Source: edgeaihub.co.uk  
-   Link: [https://edgeaihub.co.uk/wp-content/uploads/2026/01/frontieraitrendsreport-aisecurityinstitute.pdf](https://edgeaihub.co.uk/wp-content/uploads/2026/01/frontieraitrendsreport-aisecurityinstitute.pdf)  
+   Link: <a href="https://edgeaihub.co.uk/wp-content/uploads/2026/01/frontieraitrendsreport-aisecurityinstitute.pdf" target="_blank" rel="noopener noreferrer nofollow">https://edgeaihub.co.uk/wp-content/uploads/2026/01/frontieraitrendsreport-aisecurityinstitute.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Al Security InstituteCyber range: Virtual environments for testing the cyber capabilities of Al models. Deception probes: Small machine l...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/data-centre-network-news-dcnn_ai-set-to-supercharge-cyber-threats-by-2027-activity-7326247837464162305-sJWH](https://www.linkedin.com/posts/data-centre-network-news-dcnn_ai-set-to-supercharge-cyber-threats-by-2027-activity-7326247837464162305-sJWH)  
+   Link: <a href="https://www.linkedin.com/posts/data-centre-network-news-dcnn_ai-set-to-supercharge-cyber-threats-by-2027-activity-7326247837464162305-sJWH" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/data-centre-network-news-dcnn_ai-set-to-supercharge-cyber-threats-by-2027-activity-7326247837464162305-sJWH</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NCSC warns of AI&#x27;s impact on cyber threats by 20278 May 2025 — While threat actors use AI to scale and automate attacks... AI and...Rea...</p></details>
    Published: May 2025  
 
 34. <a id="endnote-34"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/davey-mcglade-4b9a62131_impact-of-ai-on-cyber-threat-from-now-to-activity-7325844821523275776-mjE4](https://www.linkedin.com/posts/davey-mcglade-4b9a62131_impact-of-ai-on-cyber-threat-from-now-to-activity-7325844821523275776-mjE4)  
+   Link: <a href="https://www.linkedin.com/posts/davey-mcglade-4b9a62131_impact-of-ai-on-cyber-threat-from-now-to-activity-7325844821523275776-mjE4" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/davey-mcglade-4b9a62131_impact-of-ai-on-cyber-threat-from-now-to-activity-7325844821523275776-mjE4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NCSC report: AI and cyber security to 2027We have published a new assessment on how AI will transform the cyber threat to 2027. Developme...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/ncsc-flags-widening-gap-between-cyber-threats-national-anna-ribeiro-dkv1c](https://www.linkedin.com/pulse/ncsc-flags-widening-gap-between-cyber-threats-national-anna-ribeiro-dkv1c)  
+   Link: <a href="https://www.linkedin.com/pulse/ncsc-flags-widening-gap-between-cyber-threats-national-anna-ribeiro-dkv1c" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/ncsc-flags-widening-gap-between-cyber-threats-national-anna-ribeiro-dkv1c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NCSC flags widening gap between cyber threats and...NCSC flags widening gap between cyber threats and national resilience, urges action...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: professionalsecurity.co.uk  
-   Link: [https://professionalsecurity.co.uk/news/case-studies/ncsc-assessment-of-uk-cyber-threat/](https://professionalsecurity.co.uk/news/case-studies/ncsc-assessment-of-uk-cyber-threat/)  
+   Link: <a href="https://professionalsecurity.co.uk/news/case-studies/ncsc-assessment-of-uk-cyber-threat/" target="_blank" rel="noopener noreferrer nofollow">https://professionalsecurity.co.uk/news/case-studies/ncsc-assessment-of-uk-cyber-threat/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NCSC assessment of UK cyber threatNCSC assessment of UK cyber threat. by Mark Rowe May 7, 2026. 14... presents an increased attack surfa...</p></details>
    Published: May 7, 2026  
 
 37. <a id="endnote-37"></a>
    Source: industrialcyber.co  
-   Link: [https://industrialcyber.co/threats-attacks/ncsc-warns-uk-critical-systems-face-rising-threats-from-ai-driven-vulnerabilities/](https://industrialcyber.co/threats-attacks/ncsc-warns-uk-critical-systems-face-rising-threats-from-ai-driven-vulnerabilities/)  
+   Link: <a href="https://industrialcyber.co/threats-attacks/ncsc-warns-uk-critical-systems-face-rising-threats-from-ai-driven-vulnerabilities/" target="_blank" rel="noopener noreferrer nofollow">https://industrialcyber.co/threats-attacks/ncsc-warns-uk-critical-systems-face-rising-threats-from-ai-driven-vulnerabilities/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NCSC warns UK critical systems face rising threats from AI-...9 May 2025 — The NCSC assessment report noted that by 2027, AI-enabled too...</p></details>
    Published: May 2025  
 
 38. <a id="endnote-38"></a>
    Source: insight.scmagazineuk.com  
    Title: ncsc warns ai accelerates vulnerability discovery prompting urgent patch wave  
-   Link: [https://insight.scmagazineuk.com/news-briefs/ncsc-warns-ai-accelerates-vulnerability-discovery-prompting-urgent-patch-wave](https://insight.scmagazineuk.com/news-briefs/ncsc-warns-ai-accelerates-vulnerability-discovery-prompting-urgent-patch-wave)  
+   Link: <a href="https://insight.scmagazineuk.com/news-briefs/ncsc-warns-ai-accelerates-vulnerability-discovery-prompting-urgent-patch-wave" target="_blank" rel="noopener noreferrer nofollow">https://insight.scmagazineuk.com/news-briefs/ncsc-warns-ai-accelerates-vulnerability-discovery-prompting-urgent-patch-wave</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>warns AI accelerates vulnerability discovery...6 May 2026 — The UK&#x27;s National Cyber Security Centre (NCSC) has issued a warning that art...</p></details>
    Published: May 2026  
 
 39. <a id="endnote-39"></a>
    Source: cybercrowd.co.uk  
    Title: insights from the national cyber security centre ncsc annual review 2024  
-   Link: [https://www.cybercrowd.co.uk/news/insights-from-the-national-cyber-security-centre-ncsc-annual-review-2024/](https://www.cybercrowd.co.uk/news/insights-from-the-national-cyber-security-centre-ncsc-annual-review-2024/)  
+   Link: <a href="https://www.cybercrowd.co.uk/news/insights-from-the-national-cyber-security-centre-ncsc-annual-review-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.cybercrowd.co.uk/news/insights-from-the-national-cyber-security-centre-ncsc-annual-review-2024/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Insights from the National Cyber Security Centre (NCSC)...4 Dec 2024 — AI&#x27;s Dual Role in Cybersecurity: Artificial intelligence offers a...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: avella-security.com  
    Title: ai driven cyber threats understanding the now and preparing for 2027  
-   Link: [https://www.avella-security.com/post/ai-driven-cyber-threats-understanding-the-now-and-preparing-for-2027](https://www.avella-security.com/post/ai-driven-cyber-threats-understanding-the-now-and-preparing-for-2027)  
+   Link: <a href="https://www.avella-security.com/post/ai-driven-cyber-threats-understanding-the-now-and-preparing-for-2027" target="_blank" rel="noopener noreferrer nofollow">https://www.avella-security.com/post/ai-driven-cyber-threats-understanding-the-now-and-preparing-for-2027</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-Driven Cyber Threats: Understanding the NowSep 16, 2025 — In its latest report, Impact of AI on the Cyber Threat: Now to 2027, the NCS...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: cloudswitched.com  
    Title: ai powered cyber attacks surging uk businesses 2026  
-   Link: [https://www.cloudswitched.com/news/ai-powered-cyber-attacks-surging-uk-businesses-2026](https://www.cloudswitched.com/news/ai-powered-cyber-attacks-surging-uk-businesses-2026)  
+   Link: <a href="https://www.cloudswitched.com/news/ai-powered-cyber-attacks-surging-uk-businesses-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudswitched.com/news/ai-powered-cyber-attacks-surging-uk-businesses-2026</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Read more · 11. Cyber Security. How to Conduct a Cybersecurity Risk Assessment. 11 Mar, 2026. Read more · Facebook · LinkedIn...Read more...</p></details>

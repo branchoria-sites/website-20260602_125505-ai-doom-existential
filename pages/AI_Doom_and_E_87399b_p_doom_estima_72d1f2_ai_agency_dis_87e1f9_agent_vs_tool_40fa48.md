@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_agency_dis_87e1f9_corrigibility_6d053d
 - AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_agency_dis_87e1f9_instrumental_866724
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - p-doom
 - agency-disputes
 - agent-vs-tool
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - p-doom
 - agency-disputes
 - agent-vs-tool
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Researchers disagree about whether current systems resemble controllable tools or early forms of autonomous agents.
 hero_summary: Researchers disagree about whether current systems resemble controllable tools or early forms of autonomous agents.
 layout: default
 permalink: /agent-vs-tool/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /p-doom/
 - /agency-disputes/
 nav_short_title: Agent vs Tool
@@ -211,10 +211,10 @@ parent_heading_title: Why AI Autonomy Leads Experts to Disagree on Doom
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_p_doom_estima_72d1f2
-  title: P Doom | AI Doom and
+  title: P Doom | AI Doom and E 87399 b
   permalink: /p-doom/
   short_title: P Doom
   heading_title: What Does p(doom) Really Mean?
@@ -226,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_p_doom_estima_72d1f2
-  title: P Doom | AI Doom and
+  title: P Doom | AI Doom and E 87399 b
   permalink: /p-doom/
   short_title: P Doom
   heading_title: What Does p(doom) Really Mean?
@@ -288,7 +288,7 @@ Surveys of agent‑focused research highlight common components attributed to ag
 
 </div>
 
-This conceptual framing is grounded in decades of [AI research]({{ 'ai-research-loop/' | relative_url }}) that predates modern large language models, drawn from cognitive science and autonomous systems theory. Formal definitions of autonomy and agency consistently place *independence from human intervention* and *decision‑making sophistication* at the core of the agent notion.[Springer]
+This conceptual framing is grounded in decades of AI research that predates modern large language models, drawn from cognitive science and autonomous systems theory. Formal definitions of autonomy and agency consistently place *independence from human intervention* and *decision‑making sophistication* at the core of the agent notion.[Springer]
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ua8nPJ1_yk8" title="Emmett Shear on Building AI That Actually Cares: Beyond Control and Steering" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ua8nPJ1_yk8" target="_blank" rel="noopener noreferrer">Emmett Shear on Building AI That Actually Cares: Beyond Control and Steering</a></p><p class="youtube-embed-meta">Channel: a16z &middot; Views: 4.4K &middot; Uploaded: November 2025 &middot; Length: 1 hour 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ua8nPJ1_yk8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ua8nPJ1_yk8">Open on YouTube</a></p></div></div></div>
@@ -303,7 +303,7 @@ Such systems are by design structured to operate across multiple steps: they *de
 
 ### 2. Evidence from Large‑Scale Agent Deployments
 
-Empirical work tracking tool use in real deployments provides evidence of widening practical scope. A recent analysis of **177,000 agent tools** built on the Model Context Protocol found a substantial increase in *action‑oriented tools*—those that don’t just read or reason but *modify environments*, such as editing files, sending emails or initiating transactions. Over a 16‑month period, the share of action tools rose from 27 % to 65 %, showing a significant trend toward systems that effect changes in the world rather than merely generate outputs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2603.23802" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv How are AI agents used? Evidence from 177,000 MCP tools</span><span class="citation-popover-snippet">arXivHow are AI agents used? Evidence from 177,000 MCP toolsMarch 25, 2026...</span><span class="citation-popover-meta">Published: March 25, 2026</span></span></span>
+Empirical work tracking tool use in real deployments provides evidence of widening practical scope. A recent analysis of **177,000 agent tools** built on the Model Context Protocol found a substantial increase in *action‑oriented tools*—those that don’t just read or reason but *modify environments*, such as editing files, sending emails or initiating transactions. Over a 16‑month period, the share of action tools rose from 27 % to 65 %, showing a significant trend toward systems that effect changes in the world rather than merely generate outputs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2603.23802" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv How are AI agents used? Evidence from 177,000 MCP tools</span><span class="citation-popover-snippet">How are AI agents used? Evidence from 177,000 MCP toolsMarch 25, 2026...</span><span class="citation-popover-meta">Published: March 25, 2026</span></span></span>
 
 This evidence is important because it links architectural capabilities to real‑world usage: systems are being built that autonomously select and execute tasks in digital environments without step‑by‑step human scripting.
 
@@ -319,9 +319,9 @@ In such setups, models don’t just follow instructions; they negotiate roles, t
 
 ### 1. Fragility and Dependence on Human Oversight
 
-A contrasting line of evidence comes from practitioners building agents in the wild. Developers repeatedly report that so‑called “agents” often behave like **fragile workflows with tool integrations**, not robust autonomous decision‑makers. They may follow hard‑coded sequences with little genuine self‑direction, and require extensive *guardrails, validation and human‑in‑the‑loop checks* to avoid cascading errors. This pattern suggests much of what is currently marketed as “agentic” is still closer to **tool orchestration** than true autonomous agency.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/AI_Agents/comments/1pt75o3/are_we_actually_building_agents_or_just_fancy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Are we actually building &quot;agents,&quot; or just fancy if-then loops?</span><span class="citation-popover-snippet">RedditAre we actually building &quot;agents,&quot; or just fancy if-then loops?December 22, 2025...</span><span class="citation-popover-meta">Published: December 22, 2025</span></span></span>
+A contrasting line of evidence comes from practitioners building agents in the wild. Developers repeatedly report that so‑called “agents” often behave like **fragile workflows with tool integrations**, not robust autonomous decision‑makers. They may follow hard‑coded sequences with little genuine self‑direction, and require extensive *guardrails, validation and human‑in‑the‑loop checks* to avoid cascading errors. This pattern suggests much of what is currently marketed as “agentic” is still closer to **tool orchestration** than true autonomous agency.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/AI_Agents/comments/1pt75o3/are_we_actually_building_agents_or_just_fancy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Are we actually building &quot;agents,&quot; or just fancy if-then loops?</span><span class="citation-popover-snippet">Are we actually building &quot;agents,&quot; or just fancy if-then loops?December 22, 2025...</span><span class="citation-popover-meta">Published: December 22, 2025</span></span></span>
 
-Practitioners highlight that when an agent encounters unexpected conditions, it frequently *stalls or follows fallback rules* rather than elegantly replanning—behaviour more characteristic of engineered [automation]({{ 'automation-bias/' | relative_url }}) than intelligent agents.
+Practitioners highlight that when an agent encounters unexpected conditions, it frequently *stalls or follows fallback rules* rather than elegantly replanning—behaviour more characteristic of engineered automation than intelligent agents.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wvvDyT4sRDs" title="OpenClaw AI Gone Wrong – Why You Should Be Careful" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wvvDyT4sRDs" target="_blank" rel="noopener noreferrer">OpenClaw AI Gone Wrong – Why You Should Be Careful</a></p><p class="youtube-embed-meta">Channel: tektoc &middot; Views: 1.9K &middot; Uploaded: March 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wvvDyT4sRDs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wvvDyT4sRDs">Open on YouTube</a></p></div></div></div>
@@ -340,9 +340,9 @@ This doesn’t negate agentic capability, but it reminds us that **functioning a
 The available evidence points to a **spectrum rather than a binary**:
 
 * On one end, powerful **tool‑like behaviours** persist where models take input and return structured outputs under human [monitoring]({{ 'monitoring/' | relative_url }}).
-* On the other, **agentic systems with planning, tool integration, and environment interaction** are emerging in research and practice, though often with significant human oversight and infrastructure support.
+* On the other, **agentic systems with planning, tool integration, and environment interaction** are emerging in research and practice, though often with significant [human oversight]({{ 'human-oversight/' | relative_url }}) and infrastructure support.
 
-Hard evidence for *true autonomy in the full existential sense*—systems with independent goals, persistent self‑directed behaviour and unmediated world interaction—is still absent. But current research shows **architectures and systems exhibiting intermediate forms of autonomy**, and real‑world deployments where systems exercise decision loops and action selection in ways that go beyond classical tools.
+Hard evidence for *true autonomy in the full existential sense*—systems with [independent]({{ 'red-teaming/' | relative_url }}) goals, persistent self‑directed behaviour and unmediated world interaction—is still absent. But current research shows **architectures and systems exhibiting intermediate forms of autonomy**, and real‑world deployments where systems exercise decision loops and action selection in ways that go beyond classical tools.
 
 Understanding where current AI sits on this continuum, and how that trajectory might evolve, is crucial for evaluating whether agent‑like behaviours could one day contribute meaningfully to loss‑of‑control or misalignment risks.
 
@@ -755,62 +755,62 @@ Understanding where current AI sits on this continuum, and how that trajectory m
 1. <a id="endnote-1"></a>
    Source: mdpi.com  
    Title: Understanding AI Agents—A Data-Driven Literature Review  
-   Link: [https://www.mdpi.com/2227-7390/14/9/1478](https://www.mdpi.com/2227-7390/14/9/1478)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MDPIUnderstanding AI Agents—A Data-Driven Literature ReviewApril 28, 2026...</p></details>
+   Link: <a href="https://www.mdpi.com/2227-7390/14/9/1478" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2227-7390/14/9/1478</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding AI Agents—A Data-Driven Literature ReviewApril 28, 2026...</p></details>
    Published: April 28, 2026  
 
 2. <a id="endnote-2"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s10462-025-11471-9](https://link.springer.com/article/10.1007/s10462-025-11471-9)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpringerFrom language to action: a review of large language models as autonomous agents and tool users | [Artificial](&amp;#123;&amp;#123; &#x27;artificial-goals/&#x27; | relative_url &amp;#125;&amp;#125;) Intelligence Review |...</p></details>
+   Link: <a href="https://link.springer.com/article/10.1007/s10462-025-11471-9" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10462-025-11471-9</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>From language to action: a review of large language models as autonomous agents and tool users | Artificial Intelligence Review |...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s10462-025-11422-4](https://link.springer.com/article/10.1007/s10462-025-11422-4)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpringerAgentic AI: a comprehensive survey of architectures, applications, and future directions | Artificial Intelligence Review | Sprin...</p></details>
+   Link: <a href="https://link.springer.com/article/10.1007/s10462-025-11422-4" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10462-025-11422-4</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Agentic AI: a comprehensive survey of architectures, applications, and future directions | Artificial Intelligence Review | Sprin...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv How are AI agents used? Evidence from 177,000 MCP tools  
-   Link: [https://arxiv.org/abs/2603.23802](https://arxiv.org/abs/2603.23802)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivHow are AI agents used? Evidence from 177,000 MCP toolsMarch 25, 2026...</p></details>
+   Link: <a href="https://arxiv.org/abs/2603.23802" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.23802</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How are AI agents used? Evidence from 177,000 MCP toolsMarch 25, 2026...</p></details>
    Published: March 25, 2026  
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
    Title: Are we actually building "agents," or just fancy if-then loops?  
-   Link: [https://www.reddit.com/r/AI_Agents/comments/1pt75o3/are_we_actually_building_agents_or_just_fancy/](https://www.reddit.com/r/AI_Agents/comments/1pt75o3/are_we_actually_building_agents_or_just_fancy/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditAre we actually building &quot;agents,&quot; or just fancy if-then loops?December 22, 2025...</p></details>
+   Link: <a href="https://www.reddit.com/r/AI_Agents/comments/1pt75o3/are_we_actually_building_agents_or_just_fancy/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AI_Agents/comments/1pt75o3/are_we_actually_building_agents_or_just_fancy/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Are we actually building &quot;agents,&quot; or just fancy if-then loops?December 22, 2025...</p></details>
    Published: December 22, 2025  
 
 6. <a id="endnote-6"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s43681-024-00489-4](https://link.springer.com/article/10.1007/s43681-024-00489-4)  
+   Link: <a href="https://link.springer.com/article/10.1007/s43681-024-00489-4" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s43681-024-00489-4</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>control of AI systems: from supervision to teaming | AI and Ethics | Springer Nature LinkMay 28, 2024 — HUMAN CONTROL OF AI SYSTEMS: FROM...</p></details>
    Published: May 28, 2024  
 
 7. <a id="endnote-7"></a>
    Source: mdpi.com  
    Title: A Systematic Approach to Autonomous Agents  
-   Link: [https://www.mdpi.com/2409-9287/9/2/44](https://www.mdpi.com/2409-9287/9/2/44)  
+   Link: <a href="https://www.mdpi.com/2409-9287/9/2/44" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2409-9287/9/2/44</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>INTRODUCTION Artificial agents are advanced tools used to achieve various goals and solve problems. The main difference between ordinary...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s10458-022-09575-5](https://link.springer.com/article/10.1007/s10458-022-09575-5)  
+   Link: <a href="https://link.springer.com/article/10.1007/s10458-022-09575-5" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10458-022-09575-5</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>reward is not enough: a response to Silver, Singh, Precup and Sutton (2021) | Autonomous Agents and Multi-Agent Systems | Springer Nature...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: newyorker.com  
    Title: The New Yorker Why A.I  
-   Link: [https://www.newyorker.com/culture/2025-in-review/why-ai-didnt-transform-our-lives-in-2025](https://www.newyorker.com/culture/2025-in-review/why-ai-didnt-transform-our-lives-in-2025)  
+   Link: <a href="https://www.newyorker.com/culture/2025-in-review/why-ai-didnt-transform-our-lives-in-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/2025-in-review/why-ai-didnt-transform-our-lives-in-2025</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Didn&#x27;t Transform Our Lives in 2025December 27, 2025 — In 2025, expectations for artificial intelligence (AI) agents fell short of the bol...</p></details>
    Published: December 27, 2025  
 
 10. <a id="endnote-10"></a>
    Source: papers.cool  
    Title: How are AI agents used?  
-   Link: [https://papers.cool/arxiv/2603.23802](https://papers.cool/arxiv/2603.23802)  
+   Link: <a href="https://papers.cool/arxiv/2603.23802" target="_blank" rel="noopener noreferrer nofollow">https://papers.cool/arxiv/2603.23802</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence from 177,000 MCP tools | Cool Papers - Immersive Paper DiscoveryMarch 25, 2026 — 2603.23802 Total: 1 #1 HOW ARE AI AGENTS USED?...</p></details>
    Published: March 25, 2026  
 
@@ -818,60 +818,60 @@ Understanding where current AI sits on this continuum, and how that trajectory m
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/353464556_A_Pragmatic_Approach_to_the_Intentional_Stance_Semantic_Empirical_and_Ethical_Considerations_for_the_Design_of_Artificial_Agents](https://www.researchgate.net/publication/353464556_A_Pragmatic_Approach_to_the_Intentional_Stance_Semantic_Empirical_and_Ethical_Considerations_for_the_Design_of_Artificial_Agents)  
+   Link: <a href="https://www.researchgate.net/publication/353464556_A_Pragmatic_Approach_to_the_Intentional_Stance_Semantic_Empirical_and_Ethical_Considerations_for_the_Design_of_Artificial_Agents" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/353464556_A_Pragmatic_Approach_to_the_Intentional_Stance_Semantic_Empirical_and_Ethical_Considerations_for_the_Design_of_Artificial_Agents</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>July 26, 2021 — Article PDF Available A PRAGMATIC APPROACH TO THE INTENTIONAL STANCE SEMANTIC, EMPIRICAL AND ETHICAL CONSIDERATIONS FOR T...</p></details>
    Published: July 26, 2021  
 
 12. <a id="endnote-12"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/abs/10.1080/14702436.2024.2415712](https://www.tandfonline.com/doi/abs/10.1080/14702436.2024.2415712)  
+   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/14702436.2024.2415712" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/14702436.2024.2415712</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ms containing artificial intelligenceOctober 17, 2024 — OPERATING ITSELF SAFELY: MERGING THE CONCEPTS OF ‘SAFE TO OPERATE’ AND ‘OPERATE S...</p></details>
    Published: October 17, 2024  
 
 13. <a id="endnote-13"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0004370219300396](https://www.sciencedirect.com/science/article/pii/S0004370219300396)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectARTIFICIAL INTELLIGENCE Volume 280, March 2020, 103219 WHEN AUTONOMOUS AGENTS MODEL OTHER AGENTS: AN APPEAL FOR ALTERED JUDG...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0004370219300396" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0004370219300396</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ARTIFICIAL INTELLIGENCE Volume 280, March 2020, 103219 WHEN AUTONOMOUS AGENTS MODEL OTHER AGENTS: AN APPEAL FOR ALTERED JUDG...</p></details>
    Published: March 2020  
 
 14. <a id="endnote-14"></a>
    Source: nature.com  
    Title: Are transformers truly foundational for robotics?  
-   Link: [https://www.nature.com/articles/s44182-025-00025-4](https://www.nature.com/articles/s44182-025-00025-4)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| npj RoboticsMay 6, 2025 — Are transformers truly foundational for robotics? Download PDF Download PDF * Perspective * Open access *...</p></details>
+   Link: <a href="https://www.nature.com/articles/s44182-025-00025-4" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44182-025-00025-4</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>npj RoboticsMay 6, 2025 — Are transformers truly foundational for robotics? Download PDF Download PDF * Perspective * Open access *...</p></details>
    Published: May 6, 2025  
 
 15. <a id="endnote-15"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0925231226014475](https://www.sciencedirect.com/science/article/abs/pii/S0925231226014475)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231226014475" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0925231226014475</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Survey paper Agentic AI systems: A systematic survey of multi-agent architectures, cognitive foundati...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0925231226014475](https://www.sciencedirect.com/science/article/pii/S0925231226014475)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0925231226014475" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0925231226014475</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Survey paper Agentic AI systems: A systematic survey of multi-agent architectures, cognitive foundati...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: microsoft.com  
    Title: The Tool Illusion: Rethinking Tool Use in Web Agents  
-   Link: [https://www.microsoft.com/en-us/research/publication/the-tool-illusion-rethinking-tool-use-in-web-agents/](https://www.microsoft.com/en-us/research/publication/the-tool-illusion-rethinking-tool-use-in-web-agents/)  
+   Link: <a href="https://www.microsoft.com/en-us/research/publication/the-tool-illusion-rethinking-tool-use-in-web-agents/" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/publication/the-tool-illusion-rethinking-tool-use-in-web-agents/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Microsoft ResearchTHE TOOL ILLUSION: RETHINKING TOOL USE IN WEB AGENTS * Renze Lou, * Baolin Peng, * Wenlin Yao, * Qianhui Wu, * Hao...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: interface-eu.org  
    Title: An Autonomy-Based Classification  
-   Link: [https://www.interface-eu.org/index.php/publications/ai-agent-classification](https://www.interface-eu.org/index.php/publications/ai-agent-classification)  
+   Link: <a href="https://www.interface-eu.org/index.php/publications/ai-agent-classification" target="_blank" rel="noopener noreferrer nofollow">https://www.interface-eu.org/index.php/publications/ai-agent-classification</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>April 2, 2025 — Policy Brief AN AUTONOMY-BASED CLASSIFICATION AI Agents, Liability and Lessons from the Automated Vehicles Act Image: An...</p></details>
    Published: April 2, 2025  
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Emmett Shear on Building AI That Actually Cares: Beyond Control and Steering  
-   Link: [https://www.youtube.com/watch?v=Ua8nPJ1_yk8](https://www.youtube.com/watch?v=Ua8nPJ1_yk8)  
+   Link: <a href="https://www.youtube.com/watch?v=Ua8nPJ1_yk8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ua8nPJ1_yk8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OpenClaw AI Gone Wrong – Why You Should Be Careful...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: They Put Chat GPT and Claude in a Simulation. It Went Horribly Wrong  
-   Link: [https://www.youtube.com/watch?v=pEj1pDT9ZLM](https://www.youtube.com/watch?v=pEj1pDT9ZLM)  
+   Link: <a href="https://www.youtube.com/watch?v=pEj1pDT9ZLM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pEj1pDT9ZLM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Your AI Agent Is Only As Secure As Your Weakest Process...</p></details>

@@ -12,21 +12,21 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1
 - AI_Doom_and_E_87399b_dangerous_aut_8f4266_multi_step_ai_ed5101
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - autonomy
 - current-benchmarks
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - autonomy
 - current-benchmarks
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Examines real-world benchmarks showing how present AI agents struggle to maintain autonomy over extended tasks and adapt to unexpected challenges.
 hero_summary: Examines real-world benchmarks showing how present AI agents struggle to maintain autonomy over extended tasks and adapt to unexpected challenges.
 layout: default
 permalink: /current-benchmarks/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /autonomy/
 nav_short_title: Current Benchmarks
 title: What Current AI Agents Can (and Can't) Do
@@ -213,20 +213,20 @@ parent_heading_title: When Does AI Autonomy Become Dangerous?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_dangerous_aut_8f4266
-  title: Autonomy | AI Doom and
+  title: Autonomy | AI Doom and E 87399 b
   permalink: /autonomy/
   short_title: Autonomy
   heading_title: When Does AI Autonomy Become Dangerous?
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_dangerous_aut_8f4266
-  title: Autonomy | AI Doom and
+  title: Autonomy | AI Doom and E 87399 b
   permalink: /autonomy/
   short_title: Autonomy
   heading_title: When Does AI Autonomy Become Dangerous?
@@ -264,7 +264,7 @@ child_links:
   heading_title: When AI Agents Drift from Their Original Objectives
 up_link:
   basename: AI_Doom_and_E_87399b_dangerous_aut_8f4266
-  title: Autonomy | AI Doom and
+  title: Autonomy | AI Doom and E 87399 b
   permalink: /autonomy/
   short_title: Autonomy
   heading_title: When Does AI Autonomy Become Dangerous?
@@ -288,14 +288,14 @@ image: /assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4a
 
 ## Introduction
 
-For debates about AI doom, [dangerous]({{ 'autonomy/' | relative_url }}) autonomy, and [loss of control]({{ 'loss-of-control/' | relative_url }}), one practical question matters more than almost any theoretical argument: how well can current AI agents actually carry out long, complex tasks without human help?
+For debates about AI doom, dangerous [autonomy]({{ 'autonomy/' | relative_url }}), and [loss of control]({{ 'loss-of-control/' | relative_url }}), one practical question matters more than almost any theoretical argument: how well can current AI agents actually carry out long, complex tasks without human help?
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372-Illustration-1-dark.svg" | relative_url }}" alt="Current Benchmarks illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The evidence so far is mixed. Modern agents can complete substantially longer tasks than systems from only a few years ago, and some can autonomously perform software engineering work that would take human experts several hours. At the same time, [benchmark]({{ 'benchmark-limits/' | relative_url }}) results consistently show that current agents remain unreliable on genuinely long-horizon activities. They lose track of goals, fail to recover from unexpected obstacles, accumulate small errors, and often abandon tasks before completion. The current empirical picture is therefore neither "agents are already fully autonomous" nor "agents cannot act independently at all". Instead, researchers are observing rapidly improving but still fragile systems whose capabilities appear to be extending into longer time horizons. arXiv 4International AI Safety Report <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techuk.org/resource/the-release-of-the-international-ai-safety-report-2026-navigating-rapid-ai-advancement-and-emerging-risks.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techuk.org">[TechUK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techuk.org</span><span class="citation-popover-snippet">The release of the international AI safety report 20263 Feb 2026 — The report notes that AI agents can now autonomously complete software...</span></span></span>, multiple tools, and opportunities for mistakes to compound over time..
+The evidence so far is mixed. Modern agents can complete substantially longer tasks than systems from only a few years ago, and some can autonomously perform software engineering work that would take human experts several hours. At the same time, benchmark results consistently show that current agents remain unreliable on genuinely long-horizon activities. They lose track of goals, fail to recover from unexpected obstacles, accumulate small errors, and often abandon tasks before completion. The current empirical picture is therefore neither "agents are already fully autonomous" nor "agents cannot act independently at all". Instead, researchers are observing rapidly improving but still fragile systems whose capabilities appear to be extending into longer time horizons. arXiv 4International AI Safety Report <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techuk.org/resource/the-release-of-the-international-ai-safety-report-2026-navigating-rapid-ai-advancement-and-emerging-risks.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techuk.org">[TechUK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techuk.org</span><span class="citation-popover-snippet">The release of the international AI safety report 20263 Feb 2026 — The report notes that AI agents can now autonomously complete software...</span></span></span>, multiple tools, and opportunities for mistakes to compound over time..
 
-* **RE-Bench** evaluates research and engineering tasks that resemble real-world technical work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://metr.org/blog/2024-11-22-evaluating-r-d-capabilities-of-llms/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[METR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-title">2024 11 22 evaluating r d capabilities of llms</span><span class="citation-popover-snippet">METREvaluating frontier AI R&amp;D capabilities of language model...22 Nov 2024 — We&#x27;re releasing RE-Bench, a new benchmark for measuring th...</span></span></span>
-* **LORE (Long-horizon Reasoning Evaluation)** and the underlying TaskWeaver framework generate tasks with controllable horizon lengths to investigate how performance changes as dependency chains become longer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openreview.net/forum?id=dAn82lpLx4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openreview.net">[OpenReview]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openreview.net</span><span class="citation-popover-title">Open Review Probing the Limits of Endurance in Long-Horizon Tasksby W Zheng —</span><span class="citation-popover-snippet">OpenReviewProbing the Limits of Endurance in Long-Horizon Tasksby W Zheng — Summary: The paper introduces TaskWeaver, a framework for pro...</span></span></span>
+* **RE-Bench** evaluates research and engineering tasks that resemble real-world technical work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://metr.org/blog/2024-11-22-evaluating-r-d-capabilities-of-llms/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[METR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-title">2024 11 22 evaluating r d capabilities of llms</span><span class="citation-popover-snippet">Evaluating frontier AI R&amp;D capabilities of language model...22 Nov 2024 — We&#x27;re releasing RE-Bench, a new benchmark for measuring th...</span></span></span>
+* **LORE (Long-horizon Reasoning Evaluation)** and the underlying TaskWeaver framework generate tasks with controllable horizon lengths to investigate how performance changes as dependency chains become longer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openreview.net/forum?id=dAn82lpLx4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openreview.net">[OpenReview]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openreview.net</span><span class="citation-popover-title">Open Review Probing the Limits of Endurance in Long-Horizon Tasksby W Zheng —</span><span class="citation-popover-snippet">Probing the Limits of Endurance in Long-Horizon Tasksby W Zheng — Summary: The paper introduces TaskWeaver, a framework for pro...</span></span></span>
 * **LongCLI-Bench** focuses on long software-engineering workflows conducted through command-line tools. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2311.12983" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXiv[2311.12983] GAIA: a benchmark for General AI Assistantsby G Mialon · 2023 · Cited by 649 — GAIA proposes real-world questions that...</span></span></span>
 * **LongDS-Bench** evaluates multi-stage data-analysis tasks in which agents must remember, revise, and combine evolving analytical states over many interactions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2311.12983" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXiv[2311.12983] GAIA: a benchmark for General AI Assistantsby G Mialon · 2023 · Cited by 649 — GAIA proposes real-world questions that...</span></span></span>
 
@@ -303,11 +303,11 @@ These benchmarks are important for AI-risk discussions because many loss-of-cont
 
 ## What the Results Actually Show
 
-The clearest finding across long-horizon evaluations is that performance falls sharply as tasks become longer and more interconnected.
+The clearest finding across long-horizon [evaluations]({{ 'evaluations/' | relative_url }}) is that performance falls sharply as tasks become longer and more interconnected.
 
 The International AI Safety Report 2026 summarises the current state of evidence bluntly: today's agents "reliably fail on longer tasks", frequently lose track of progress, and often cannot adapt effectively when unexpected obstacles arise. The report nevertheless notes that autonomous operating horizons have been increasing rapidly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internationalaisafetyreport.org">[International AI Safety Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internationalaisafetyreport.org</span><span class="citation-popover-title">international ai safety report 2026</span><span class="citation-popover-snippet">Loss of control... Current agents reliably fail on longer tasks, lose track of...Read more...</span></span></span>
 
-METR (Model Evaluation and Threat Research) has attempted to quantify this trend using a "task-completion time horizon" metric. Rather than asking whether a model can answer a question, the metric asks what length of human task an agent can complete with roughly 50% reliability. Their findings suggest that frontier systems have steadily improved on longer tasks over recent years, although performance remains far from robust. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openreview.net/forum?id=dAn82lpLx4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openreview.net">[OpenReview]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openreview.net</span><span class="citation-popover-title">Open Review Probing the Limits of Endurance in Long-Horizon Tasksby W Zheng —</span><span class="citation-popover-snippet">OpenReviewProbing the Limits of Endurance in Long-Horizon Tasksby W Zheng — Summary: The paper introduces TaskWeaver, a framework for pro...</span></span></span>
+METR (Model Evaluation and Threat Research) has attempted to quantify this trend using a "task-completion time horizon" metric. Rather than asking whether a model can answer a question, the metric asks what length of human task an agent can complete with roughly 50% reliability. Their findings suggest that frontier systems have steadily improved on longer tasks over recent years, although performance remains far from robust. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openreview.net/forum?id=dAn82lpLx4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openreview.net">[OpenReview]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openreview.net</span><span class="citation-popover-title">Open Review Probing the Limits of Endurance in Long-Horizon Tasksby W Zheng —</span><span class="citation-popover-snippet">Probing the Limits of Endurance in Long-Horizon Tasksby W Zheng — Summary: The paper introduces TaskWeaver, a framework for pro...</span></span></span>
 
 This behaviour resembles what software engineers sometimes call "error accumulation": small mistakes that would be harmless individually become fatal when multiplied across dozens or hundreds of steps.
 
@@ -363,23 +363,23 @@ An AI that can complete a ten-minute task but fails after an hour is very differ
 
 Current benchmark results therefore cut both ways in existential-risk debates.
 
-On one hand, they provide evidence against the strongest versions of claims that present-day agents are already capable of dangerous independent operation at large scales. The consistent finding across evaluations is that reliability remains poor on genuinely long-horizon tasks. Today's systems are not displaying the kind of robust autonomous competence that many takeover scenarios would require. <span class="citation-chip-wrap"><a class="citation-chip" href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internationalaisafetyreport.org">[International AI Safety Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internationalaisafetyreport.org</span><span class="citation-popover-title">international ai safety report 2026</span><span class="citation-popover-snippet">Loss of control... Current agents reliably fail on longer tasks, lose track of...Read more...</span></span></span>
+On one hand, they provide evidence against the strongest versions of claims that present-day agents are already capable of dangerous [independent]({{ 'red-teaming/' | relative_url }}) operation at large scales. The consistent finding across evaluations is that reliability remains poor on genuinely long-horizon tasks. Today's systems are not displaying the kind of robust autonomous competence that many takeover scenarios would require. <span class="citation-chip-wrap"><a class="citation-chip" href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internationalaisafetyreport.org">[International AI Safety Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internationalaisafetyreport.org</span><span class="citation-popover-title">international ai safety report 2026</span><span class="citation-popover-snippet">Loss of control... Current agents reliably fail on longer tasks, lose track of...Read more...</span></span></span>
 
-On the other hand, the same benchmarks provide evidence for a different concern: capabilities appear to be improving in precisely the direction that doom-focused researchers watch most closely. Agents are increasingly able to complete longer workflows, use more tools, and operate with less supervision than their predecessors. The International AI Safety Report notes that measured horizons have been lengthening rapidly, while METR's analyses point to substantial progress in task-completion capability over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internationalaisafetyreport.org">[International AI Safety Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internationalaisafetyreport.org</span><span class="citation-popover-title">international ai safety report 2026</span><span class="citation-popover-snippet">Loss of control... Current agents reliably fail on longer tasks, lose track of...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://metr.org/AI_R_D_Evaluation_Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[METR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-snippet">METRRE-Bench: Evaluating frontier AI R&amp;D capabilities of...Nov 1, 2024 — Here, “time-horizon” refers to the length of time humans spend...</span></span></span>
+On the other hand, the same benchmarks provide evidence for a different concern: capabilities appear to be improving in precisely the direction that doom-focused researchers watch most closely. Agents are increasingly able to complete longer workflows, use more tools, and operate with less supervision than their predecessors. The International AI Safety Report notes that measured horizons have been lengthening rapidly, while METR's analyses point to substantial progress in task-completion capability over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internationalaisafetyreport.org">[International AI Safety Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internationalaisafetyreport.org</span><span class="citation-popover-title">international ai safety report 2026</span><span class="citation-popover-snippet">Loss of control... Current agents reliably fail on longer tasks, lose track of...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://metr.org/AI_R_D_Evaluation_Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[METR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-snippet">RE-Bench: Evaluating frontier AI R&amp;D capabilities of...Nov 1, 2024 — Here, “time-horizon” refers to the length of time humans spend...</span></span></span>
 
-For people concerned about p(doom)—the probability that advanced AI could eventually cause existential catastrophe—the key question is not whether current systems can autonomously run civilisation. They plainly cannot. The question is whether the trend toward longer and more reliable autonomous operation continues faster than methods for monitoring, controlling, and aligning those systems.
+For people concerned about p(doom)—the probability that advanced AI could eventually cause existential catastrophe—the key question is not whether current systems can autonomously run civilisation. They plainly cannot. The question is whether the trend toward longer and more reliable autonomous operation continues faster than methods for [monitoring]({{ 'monitoring/' | relative_url }}), controlling, and aligning those systems.
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372-Illustration-3-dark.svg" | relative_url }}" alt="Current Benchmarks illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What We Can Infer—and What We Cannot
 
-The strongest conclusion supported by current evidence is relatively modest: today's AI agents remain unreliable on long-horizon tasks, but their capabilities are improving fast enough that researchers increasingly measure [autonomy]({{ 'autonomy/' | relative_url }}) in hours rather than minutes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internationalaisafetyreport.org">[International AI Safety Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internationalaisafetyreport.org</span><span class="citation-popover-title">international ai safety report 2026</span><span class="citation-popover-snippet">Loss of control... Current agents reliably fail on longer tasks, lose track of...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[METR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-snippet">METRMeasuring AI Ability to Complete Long TasksMar 19, 2025 — We propose measuring AI performance in terms of the length of tasks AI agen...</span></span></span>
+The strongest conclusion supported by current evidence is relatively modest: today's AI agents remain unreliable on long-horizon tasks, but their capabilities are improving fast enough that researchers increasingly measure autonomy in hours rather than minutes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internationalaisafetyreport.org">[International AI Safety Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internationalaisafetyreport.org</span><span class="citation-popover-title">international ai safety report 2026</span><span class="citation-popover-snippet">Loss of control... Current agents reliably fail on longer tasks, lose track of...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[METR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-snippet">Measuring AI Ability to Complete Long TasksMar 19, 2025 — We propose measuring AI performance in terms of the length of tasks AI agen...</span></span></span>
 
 Several important uncertainties remain.
 
-First, benchmark performance may not perfectly predict real-world behaviour. Some benchmarks are small, specialised, or focused on software tasks. Researchers themselves caution against treating any single metric as a definitive measure of autonomy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://metr.org/notes/2026-01-22-time-horizon-limitations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[METR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-title">2026 01 22 time horizon limitations</span><span class="citation-popover-snippet">METRClarifying limitations of time horizonJan 22, 2026 — We propose measuring AI performance in terms of the length of tasks AI agents ca...</span></span></span>
+First, benchmark performance may not perfectly predict real-world behaviour. Some benchmarks are small, specialised, or focused on software tasks. Researchers themselves caution against treating any single metric as a definitive measure of autonomy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://metr.org/notes/2026-01-22-time-horizon-limitations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[METR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-title">2026 01 22 time horizon limitations</span><span class="citation-popover-snippet">Clarifying limitations of time horizonJan 22, 2026 — We propose measuring AI performance in terms of the length of tasks AI agents ca...</span></span></span>
 
-Second, long-horizon competence is not a single capability. Planning, memory, tool use, adaptation, self-correction, and strategic reasoning can improve at different rates. An agent may excel in one area while failing badly in another. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openreview.net/forum?id=dAn82lpLx4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openreview.net">[OpenReview]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openreview.net</span><span class="citation-popover-title">Open Review Probing the Limits of Endurance in Long-Horizon Tasksby W Zheng —</span><span class="citation-popover-snippet">OpenReviewProbing the Limits of Endurance in Long-Horizon Tasksby W Zheng — Summary: The paper introduces TaskWeaver, a framework for pro...</span></span></span>
+Second, long-horizon competence is not a single capability. Planning, memory, tool use, adaptation, self-correction, and strategic reasoning can improve at different rates. An agent may excel in one area while failing badly in another. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openreview.net/forum?id=dAn82lpLx4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openreview.net">[OpenReview]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openreview.net</span><span class="citation-popover-title">Open Review Probing the Limits of Endurance in Long-Horizon Tasksby W Zheng —</span><span class="citation-popover-snippet">Probing the Limits of Endurance in Long-Horizon Tasksby W Zheng — Summary: The paper introduces TaskWeaver, a framework for pro...</span></span></span>
 
 Third, the evidence currently points to a gap between impressive demonstrations and dependable operation. Agents can sometimes complete surprisingly complex projects, yet still fail frequently enough that unsupervised deployment remains risky in many contexts. International AI Safety Report <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dfki.de/en/web/news/2026-international-ai-safety-report-published" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dfki.de">[DFKI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dfki.de</span><span class="citation-popover-title">2026 international ai safety report published</span><span class="citation-popover-snippet">3 Feb 2026 — Despite the progress made and the greater availability of agents on the market, however, the systems still fail when it come...</span></span></span>
 
@@ -810,215 +810,215 @@ From the perspective of AI-doom debates, current long-horizon benchmarks therefo
 
 1. <a id="endnote-1"></a>
    Source: techuk.org  
-   Link: [https://www.techuk.org/resource/the-release-of-the-international-ai-safety-report-2026-navigating-rapid-ai-advancement-and-emerging-risks.html](https://www.techuk.org/resource/the-release-of-the-international-ai-safety-report-2026-navigating-rapid-ai-advancement-and-emerging-risks.html)  
+   Link: <a href="https://www.techuk.org/resource/the-release-of-the-international-ai-safety-report-2026-navigating-rapid-ai-advancement-and-emerging-risks.html" target="_blank" rel="noopener noreferrer nofollow">https://www.techuk.org/resource/the-release-of-the-international-ai-safety-report-2026-navigating-rapid-ai-advancement-and-emerging-risks.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The release of the international AI safety report 20263 Feb 2026 — The report notes that AI agents can now autonomously complete software...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2311.12983](https://arxiv.org/abs/2311.12983)  
+   Link: <a href="https://arxiv.org/abs/2311.12983" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2311.12983</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXiv[2311.12983] GAIA: a benchmark for General AI Assistantsby G Mialon · 2023 · Cited by 649 — GAIA proposes real-world questions that...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2602.11964](https://arxiv.org/pdf/2602.11964)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivgaia2: benchmarking llm agents on dynamicby R Froger · 2026 — We introduce Gaia2, a benchmark designed to address these limitations...</p></details>
+   Link: <a href="https://arxiv.org/pdf/2602.11964" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2602.11964</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>gaia2: benchmarking llm agents on dynamicby R Froger · 2026 — We introduce Gaia2, a benchmark designed to address these limitations...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: metr.org  
    Title: 2024 11 22 evaluating r d capabilities of llms  
-   Link: [https://metr.org/blog/2024-11-22-evaluating-r-d-capabilities-of-llms/](https://metr.org/blog/2024-11-22-evaluating-r-d-capabilities-of-llms/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>METREvaluating frontier AI R&amp;D capabilities of language model...22 Nov 2024 — We&#x27;re releasing RE-Bench, a new benchmark for measuring th...</p></details>
+   Link: <a href="https://metr.org/blog/2024-11-22-evaluating-r-d-capabilities-of-llms/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/blog/2024-11-22-evaluating-r-d-capabilities-of-llms/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating frontier AI R&amp;D capabilities of language model...22 Nov 2024 — We&#x27;re releasing RE-Bench, a new benchmark for measuring th...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: metr.org  
-   Link: [https://metr.org/AI_R_D_Evaluation_Report.pdf](https://metr.org/AI_R_D_Evaluation_Report.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>METRRE-Bench: Evaluating frontier AI R&amp;D capabilities of...Nov 1, 2024 — Here, “time-horizon” refers to the length of time humans spend...</p></details>
+   Link: <a href="https://metr.org/AI_R_D_Evaluation_Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/AI_R_D_Evaluation_Report.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>RE-Bench: Evaluating frontier AI R&amp;D capabilities of...Nov 1, 2024 — Here, “time-horizon” refers to the length of time humans spend...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: openreview.net  
    Title: Open Review Probing the Limits of Endurance in Long-Horizon Tasksby W Zheng —  
-   Link: [https://openreview.net/forum?id=dAn82lpLx4](https://openreview.net/forum?id=dAn82lpLx4)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OpenReviewProbing the Limits of Endurance in Long-Horizon Tasksby W Zheng — Summary: The paper introduces TaskWeaver, a framework for pro...</p></details>
+   Link: <a href="https://openreview.net/forum?id=dAn82lpLx4" target="_blank" rel="noopener noreferrer nofollow">https://openreview.net/forum?id=dAn82lpLx4</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Probing the Limits of Endurance in Long-Horizon Tasksby W Zheng — Summary: The paper introduces TaskWeaver, a framework for pro...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: openreview.net  
-   Link: [https://openreview.net/pdf?id=dAn82lpLx4](https://openreview.net/pdf?id=dAn82lpLx4)  
+   Link: <a href="https://openreview.net/pdf?id=dAn82lpLx4" target="_blank" rel="noopener noreferrer nofollow">https://openreview.net/pdf?id=dAn82lpLx4</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PROBING THE LIMITS OF ENDURANCE IN LONG-...by W Zheng — Right: An overview of our proposed benchmark framework, which is designed to be...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2602.14337](https://arxiv.org/abs/2602.14337)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivLongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line InterfacesFebruary 15, 2026...</p></details>
+   Link: <a href="https://arxiv.org/abs/2602.14337" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2602.14337</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>LongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line InterfacesFebruary 15, 2026...</p></details>
    Published: February 15, 2026  
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2605.30434](https://arxiv.org/abs/2605.30434)  
+   Link: <a href="https://arxiv.org/abs/2605.30434" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.30434</a>  
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
    Title: arXiv Measuring AI Ability to Complete Long Software Tasks  
-   Link: [https://arxiv.org/abs/2503.14499](https://arxiv.org/abs/2503.14499)  
+   Link: <a href="https://arxiv.org/abs/2503.14499" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2503.14499</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This is the time humans typically take to complete tasks that AI models can complete with 50%...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: metr.org  
-   Link: [https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>METRMeasuring AI Ability to Complete Long TasksMar 19, 2025 — We propose measuring AI performance in terms of the length of tasks AI agen...</p></details>
+   Link: <a href="https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring AI Ability to Complete Long TasksMar 19, 2025 — We propose measuring AI performance in terms of the length of tasks AI agen...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2603.16453](https://arxiv.org/abs/2603.16453)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivRetailBench: Evaluating Long-Horizon Autonomous Decision-Making and Strategy Stability of LLM Agents in Realistic Retail Environment...</p></details>
+   Link: <a href="https://arxiv.org/abs/2603.16453" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.16453</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>RetailBench: Evaluating Long-Horizon Autonomous Decision-Making and Strategy Stability of LLM Agents in Realistic Retail Environment...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: dfki.de  
    Title: 2026 international ai safety report published  
-   Link: [https://www.dfki.de/en/web/news/2026-international-ai-safety-report-published](https://www.dfki.de/en/web/news/2026-international-ai-safety-report-published)  
+   Link: <a href="https://www.dfki.de/en/web/news/2026-international-ai-safety-report-published" target="_blank" rel="noopener noreferrer nofollow">https://www.dfki.de/en/web/news/2026-international-ai-safety-report-published</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Feb 2026 — Despite the progress made and the greater availability of agents on the market, however, the systems still fail when it come...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: metr.org  
    Title: 2026 01 22 time horizon limitations  
-   Link: [https://metr.org/notes/2026-01-22-time-horizon-limitations/](https://metr.org/notes/2026-01-22-time-horizon-limitations/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>METRClarifying limitations of time horizonJan 22, 2026 — We propose measuring AI performance in terms of the length of tasks AI agents ca...</p></details>
+   Link: <a href="https://metr.org/notes/2026-01-22-time-horizon-limitations/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/notes/2026-01-22-time-horizon-limitations/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Clarifying limitations of time horizonJan 22, 2026 — We propose measuring AI performance in terms of the length of tasks AI agents ca...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2604.11978](https://arxiv.org/abs/2604.11978)  
+   Link: <a href="https://arxiv.org/abs/2604.11978" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.11978</a>  
 
 16. <a id="endnote-16"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2602.21012](https://arxiv.org/abs/2602.21012)  
+   Link: <a href="https://arxiv.org/abs/2602.21012" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2602.21012</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[2602.21012] International AI Safety Report 2026by Y Bengio · 2026 · Cited by 56 — The International AI Safety Report 2026 synthesises th...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2503.14499v1](https://arxiv.org/html/2503.14499v1)  
+   Link: <a href="https://arxiv.org/html/2503.14499v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2503.14499v1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This is the time humans typically take to complete tasks that AI models can complete with 50%...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2602.21012](https://arxiv.org/pdf/2602.21012)  
+   Link: <a href="https://arxiv.org/pdf/2602.21012" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2602.21012</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Report does not necessarily represent the.Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: metr.org  
    Title: time horizons  
-   Link: [https://metr.org/time-horizons/](https://metr.org/time-horizons/)  
+   Link: <a href="https://metr.org/time-horizons/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/time-horizons/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Task-Completion Time Horizons of Frontier AI ModelsMar 3, 2026 — The 50%-time horizon is the length of task (measured by how long it take...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: metr.org  
-   Link: [https://metr.org/](https://metr.org/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>METRWe propose measuring AI performance in terms of the length of software tasks AI agents can complete. We show an exponential increase...</p></details>
+   Link: <a href="https://metr.org/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>We propose measuring AI performance in terms of the length of software tasks AI agents can complete. We show an exponential increase...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: openreview.net  
-   Link: [https://openreview.net/forum?id=3rB0bVU6z6&noteId=lOCHc0u2a6](https://openreview.net/forum?id=3rB0bVU6z6&noteId=lOCHc0u2a6)  
+   Link: <a href="https://openreview.net/forum?id=3rB0bVU6z6&amp;noteId=lOCHc0u2a6" target="_blank" rel="noopener noreferrer nofollow">https://openreview.net/forum?id=3rB0bVU6z6&amp;noteId=lOCHc0u2a6</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RE-Bench: Evaluating Frontier AI R&amp;D Capabilities of...May 1, 2025 — Summary: This paper contributes a new LLM (Agent) benchmark RE-Benc...</p></details>
    Published: May 1, 2025  
 
 22. <a id="endnote-22"></a>
    Source: internationalaisafetyreport.org  
    Title: international ai safety report 2026  
-   Link: [https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026](https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026)  
+   Link: <a href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow">https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Loss of control... Current agents reliably fail on longer tasks, lose track of...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: hoganlovells.com  
    Title: international ai safety report 2026 uk litigation lessons from imperfect ai  
-   Link: [https://www.hoganlovells.com/en/publications/international-ai-safety-report-2026-uk-litigation-lessons-from-imperfect-ai](https://www.hoganlovells.com/en/publications/international-ai-safety-report-2026-uk-litigation-lessons-from-imperfect-ai)  
+   Link: <a href="https://www.hoganlovells.com/en/publications/international-ai-safety-report-2026-uk-litigation-lessons-from-imperfect-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.hoganlovells.com/en/publications/international-ai-safety-report-2026-uk-litigation-lessons-from-imperfect-ai</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Safety Report 2026 – UK litigation lessons...16 Apr 2026 — The International AI Safety Report 2026 is an assessment of general-purpos...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: internationalaisafetyreport.org  
    Title: international ai safety report 2026  
-   Link: [https://internationalaisafetyreport.org/sites/default/files/2026-02/international-ai-safety-report-2026.pdf](https://internationalaisafetyreport.org/sites/default/files/2026-02/international-ai-safety-report-2026.pdf)  
+   Link: <a href="https://internationalaisafetyreport.org/sites/default/files/2026-02/international-ai-safety-report-2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://internationalaisafetyreport.org/sites/default/files/2026-02/international-ai-safety-report-2026.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Report does not necessarily represent...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: internationalaisafetyreport.org  
    Title: The duration of some software engineering tasks  
-   Link: [https://internationalaisafetyreport.org/publication/2026-report-extended-summary-policymakers](https://internationalaisafetyreport.org/publication/2026-report-extended-summary-policymakers)  
+   Link: <a href="https://internationalaisafetyreport.org/publication/2026-report-extended-summary-policymakers" target="_blank" rel="noopener noreferrer nofollow">https://internationalaisafetyreport.org/publication/2026-report-extended-summary-policymakers</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2026 Report: Extended Summary for Policymakers3 Feb 2026 — If current trends continue, AI systems could operate autonomously on multi-day...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: internationalaisafetyreport.org  
-   Link: [https://internationalaisafetyreport.org/publication/2026-report-executive-summary](https://internationalaisafetyreport.org/publication/2026-report-executive-summary)  
+   Link: <a href="https://internationalaisafetyreport.org/publication/2026-report-executive-summary" target="_blank" rel="noopener noreferrer nofollow">https://internationalaisafetyreport.org/publication/2026-report-executive-summary</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2026 Report: Executive Summary3 Feb 2026 — The Executive Summary offers a concise three-page overview of the 2026 Report&#x27;s core findings...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: yoshuabengio.org  
    Title: international ai safety report 2026  
-   Link: [https://yoshuabengio.org/en/publication/international-ai-safety-report-2026](https://yoshuabengio.org/en/publication/international-ai-safety-report-2026)  
+   Link: <a href="https://yoshuabengio.org/en/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow">https://yoshuabengio.org/en/publication/international-ai-safety-report-2026</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>6 Feb 2026 — The International AI Safety Report 2026 synthesises the current scientific evidence on the capabilities, emerging risks, and...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: insideprivacy.com  
-   Link: [https://www.insideprivacy.com/[artificial](https://www.insideprivacy.com/[artificial)  
+   Link: <a href="https://www.insideprivacy.com/artificial-intelligence/international-ai-safety-report-2026-examines-ai-capabilities-risks-and-safeguards/" target="_blank" rel="noopener noreferrer nofollow">https://www.insideprivacy.com/artificial-intelligence/international-ai-safety-report-2026-examines-ai-capabilities-risks-and-safeguards/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>International AI Safety Report 2026 Examines AI...12 Feb 2026 — Specifically, the Report finds that models are less reliable when projec...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: hal.science  
-   Link: [https://hal.science/hal-05223593v1/file/2501.17805v1.pdf](https://hal.science/hal-05223593v1/file/2501.17805v1.pdf)  
+   Link: <a href="https://hal.science/hal-05223593v1/file/2501.17805v1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hal.science/hal-05223593v1/file/2501.17805v1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>International AI Safety Reportby Y Bengio · 2025 · Cited by 171 — general-purpose AI agents deployed to accomplish long-horizon tasks can...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: globalpolicywatch.com  
-   Link: [https://www.globalpolicywatch.com/2026/02/international-ai-safety-report-2026-examines-ai-capabilities-risks-and-safeguards/](https://www.globalpolicywatch.com/2026/02/international-ai-safety-report-2026-examines-ai-capabilities-risks-and-safeguards/)  
+   Link: <a href="https://www.globalpolicywatch.com/2026/02/international-ai-safety-report-2026-examines-ai-capabilities-risks-and-safeguards/" target="_blank" rel="noopener noreferrer nofollow">https://www.globalpolicywatch.com/2026/02/international-ai-safety-report-2026-examines-ai-capabilities-risks-and-safeguards/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>International AI Safety Report 2026 Examines AI...13 Feb 2026 — According to the Report, current AI systems may exhibit unpredictable fa...</p></details>
 
 ### Additional References
 
 31. <a id="endnote-31"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/johnbailey63_researchers-at-metr-metr-just-published-activity-7308494316899897345-DKux](https://www.linkedin.com/posts/johnbailey63_researchers-at-metr-metr-just-published-activity-7308494316899897345-DKux)  
+   Link: <a href="https://www.linkedin.com/posts/johnbailey63_researchers-at-metr-metr-just-published-activity-7308494316899897345-DKux" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/johnbailey63_researchers-at-metr-metr-just-published-activity-7308494316899897345-DKux</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI&#x27;s &quot;Moore&#x27;s Law&quot;: Doubling task length every 7 monthsResearchers at METR @METR just published a new paper that shows that the length of...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/omarsar_ai-agents-are-terrible-at-long-horizon-tasks-activity-7362091467969839104-A8DK](https://www.linkedin.com/posts/omarsar_ai-agents-are-terrible-at-long-horizon-tasks-activity-7362091467969839104-A8DK)  
+   Link: <a href="https://www.linkedin.com/posts/omarsar_ai-agents-are-terrible-at-long-horizon-tasks-activity-7362091467969839104-A8DK" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/omarsar_ai-agents-are-terrible-at-long-horizon-tasks-activity-7362091467969839104-A8DK</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Elvis S.&#x27;s PostAI Agents are terrible at long-horizon tasks. Even the new GPT-5 model struggles with long-horizon tasks. This is one of t...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: medium.com  
-   Link: [https://medium.com/coding-nexus/gpt-5-2-autonomy-leading-the-metrs-time-horizon-test-83d132b92c10](https://medium.com/coding-nexus/gpt-5-2-autonomy-leading-the-metrs-time-horizon-test-83d132b92c10)  
+   Link: <a href="https://medium.com/coding-nexus/gpt-5-2-autonomy-leading-the-metrs-time-horizon-test-83d132b92c10" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/coding-nexus/gpt-5-2-autonomy-leading-the-metrs-time-horizon-test-83d132b92c10</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GPT-5.2 Autonomy: Leading The METR&#x27;s Time Horizon TestTheir time horizon benchmark, measures how long an AI can autonomously tackle softw...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/tanya-chib-gdpr-compliance-privacy_read-the-international-ai-safety-report-2026-activity-7442118800914894849-yUQC](https://www.linkedin.com/posts/tanya-chib-gdpr-compliance-privacy_read-the-international-ai-safety-report-2026-activity-7442118800914894849-yUQC)  
+   Link: <a href="https://www.linkedin.com/posts/tanya-chib-gdpr-compliance-privacy_read-the-international-ai-safety-report-2026-activity-7442118800914894849-yUQC" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/tanya-chib-gdpr-compliance-privacy_read-the-international-ai-safety-report-2026-activity-7442118800914894849-yUQC</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tanya Chib&#x27;s PostRead the International AI Safety Report 2026, already? I just did and this is what stuck with me. 1/ We are governing ye...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: dev.to  
-   Link: [https://dev.to/janusz_entity/two-things-metrs-time-horizon-data-actually-measures-and-why-it-matters-for-agent-[governance](https://dev.to/janusz_entity/two-things-metrs-time-horizon-data-actually-measures-and-why-it-matters-for-agent-[governance)  
+   Link: <a href="https://dev.to/janusz_entity/two-things-metrs-time-horizon-data-actually-measures-and-why-it-matters-for-agent-[governance" target="_blank" rel="noopener noreferrer nofollow">https://dev.to/janusz_entity/two-things-metrs-time-horizon-data-actually-measures-and-why-it-matters-for-agent-[governance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Two things METR&#x27;s time horizon data actually measures...12 Mar 2026 — METR&#x27;s recent benchmark work showed something striking: the length...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: epoch.ai  
-   Link: [https://epoch.ai/benchmarks/metr-time-horizons](https://epoch.ai/benchmarks/metr-time-horizons)  
+   Link: <a href="https://epoch.ai/benchmarks/metr-time-horizons" target="_blank" rel="noopener noreferrer nofollow">https://epoch.ai/benchmarks/metr-time-horizons</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>METR Time HorizonsCollect performance data: For each of HCAST, RE-Bench, and SWAA, for each task, evaluate the model&#x27;s performance. Each...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: complexdiscovery.com  
-   Link: [https://complexdiscovery.com/2026-ai-safety-report-flags-escalating-threats-for-cyber-ig-and-ediscovery-professionals/](https://complexdiscovery.com/2026-ai-safety-report-flags-escalating-threats-for-cyber-ig-and-ediscovery-professionals/)  
+   Link: <a href="https://complexdiscovery.com/2026-ai-safety-report-flags-escalating-threats-for-cyber-ig-and-ediscovery-professionals/" target="_blank" rel="noopener noreferrer nofollow">https://complexdiscovery.com/2026-ai-safety-report-flags-escalating-threats-for-cyber-ig-and-ediscovery-professionals/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2026 AI Safety Report Flags Escalating Threats for Cyber...The 2026 International AI Safety Report reveals escalating cybersecurity thr...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/yoshuabengio_today-were-releasing-the-international-ai-activity-7424442271615582209-dOCq](https://www.linkedin.com/posts/yoshuabengio_today-were-releasing-the-international-ai-activity-7424442271615582209-dOCq)  
+   Link: <a href="https://www.linkedin.com/posts/yoshuabengio_today-were-releasing-the-international-ai-activity-7424442271615582209-dOCq" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/yoshuabengio_today-were-releasing-the-international-ai-activity-7424442271615582209-dOCq</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2026 International AI Safety Report: Expert Insights on...The International AI Safety Report is a global and independent scientific synt...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: linkedin.com  
    Title: welker international ai safety report 2026 activity 7424732745643380736 o3XA  
-   Link: [https://www.linkedin.com/posts/welker_international-ai-safety-report-2026-activity-7424732745643380736-o3XA](https://www.linkedin.com/posts/welker_international-ai-safety-report-2026-activity-7424732745643380736-o3XA)  
+   Link: <a href="https://www.linkedin.com/posts/welker_international-ai-safety-report-2026-activity-7424732745643380736-o3XA" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/welker_international-ai-safety-report-2026-activity-7424732745643380736-o3XA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2026 AI Safety Report: Emerging Risks from General...Echoing our exchanges and last year&#x27;s AI Safety Report, here is the 2026 edition, c...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: linkedin.com  
    Title: part 3 5 international ai safety report 2026 [loss control](&#123;&#123; 'objections/' | relative_url &#125;&#125;) john shay bozdc  
-   Link: [https://www.linkedin.com/pulse/part-3-5-international-ai-safety-report-2026-loss-control-john-shay-bozdc](https://www.linkedin.com/pulse/part-3-5-international-ai-safety-report-2026-loss-control-john-shay-bozdc)  
+   Link: <a href="https://www.linkedin.com/pulse/part-3-5-international-ai-safety-report-2026-loss-control-john-shay-bozdc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/part-3-5-international-ai-safety-report-2026-loss-control-john-shay-bozdc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PART 3 OF 5 — International AI Safety Report 2026AI agents are harder to monitor in real time; Humans often intervene only after damage o...</p></details>

@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e_coding_agents_5cf58d
 - AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e_compute_limit_3ad269
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - ai-takeoff
 - successor-training
 - synthetic-data
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - ai-takeoff
 - successor-training
 - synthetic-data
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Synthetic data is already one way models help shape later models, but it raises hard questions about quality, filtering, and collapse.
 hero_summary: Synthetic data is already one way models help shape later models, but it raises hard questions about quality, filtering, and collapse.
 layout: default
 permalink: /synthetic-data/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /ai-takeoff/
 - /successor-training/
 nav_short_title: Synthetic data
@@ -211,10 +211,10 @@ parent_heading_title: Could AI train the next AI itself?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_recursive_imp_3a3504
-  title: AI Takeoff | AI Doom and
+  title: AI Takeoff | AI Doom and E 87399 b
   permalink: /ai-takeoff/
   short_title: AI Takeoff
   heading_title: Could AI Improvement Run Away From US?
@@ -226,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_recursive_imp_3a3504
-  title: AI Takeoff | AI Doom and
+  title: AI Takeoff | AI Doom and E 87399 b
   permalink: /ai-takeoff/
   short_title: AI Takeoff
   heading_title: Could AI Improvement Run Away From US?
@@ -269,7 +269,7 @@ image: /assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_716
 
 ## Introduction
 
-One of the simplest forms of [automation]({{ 'automation-bias/' | relative_url }}) in *“Could an AI really train its own successor?”* is using AI‑generated data to train later systems. At first glance, having a [current model]({{ 'current-models/' | relative_url }}) produce more and more training data might look like a basic recursive loop: model (A) generates data → model (B) trains on it and becomes a little better → model (B) generates more data → model (C) trains on that, and so on. This section of the broader debate on AI doom examines the **real mechanics, benefits, limits, and failure modes of AI‑generated synthetic data as a primitive form of successor loop**. The core questions are not only whether model‑generated data *can* be used to train future models, but whether it *helps*, whether it can be safely scaled, and what structural risks arise if such loops dominate training pipelines.
+One of the simplest forms of automation in *“Could an AI really train its own successor?”* is using AI‑generated data to train later systems. At first glance, having a current model produce more and more training data might look like a basic recursive loop: model (A) generates data → model (B) trains on it and becomes a little better → model (B) generates more data → model (C) trains on that, and so on. This section of the broader debate on AI doom examines the **real mechanics, benefits, limits, and failure modes of AI‑generated synthetic data as a primitive form of successor loop**. The core questions are not only whether model‑generated data *can* be used to train future models, but whether it *helps*, whether it can be safely scaled, and what structural risks arise if such loops dominate training pipelines.
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e_synthetic_dat_d1a2c9-Illustration-1-dark.svg" | relative_url }}" alt="Synthetic data illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e_synthetic_dat_d1a2c9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e_synthetic_dat_d1a2c9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -277,7 +277,7 @@ One of the simplest forms of [automation]({{ 'automation-bias/' | relative_url }
 
 Training a modern large AI model requires immense amounts of data. Traditionally this has come from human‑created sources — books, websites, code repositories, scientific articles — but two pressures are pushing teams to use AI‑generated synthetic data more often: real data scarcity and the desire to cheaply augment specific training niches. Synthetic data is artificially created content designed to mimic real data distributions, and researchers are experimenting with it to fill gaps where real data is rare or sensitive (for example, medical text or synthetic images for rare events).[MDPI]
 
-In practice, synthetic data may be used in two broad ways: <span class="citation-chip-wrap"><a class="citation-chip" href="https://aiwiki.ai/wiki/synthetic_data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiwiki.ai">[aiwiki.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiwiki.ai</span><span class="citation-popover-title">MODEL COLLAPSE The most widely discussed risk is model collapse, the phenomeno</span><span class="citation-popover-snippet">Synthetic data | AI WikiMay 1, 2026 — RISKS AND CHALLENGES Synthetic data carries significant risks that the research community has incre...</span><span class="citation-popover-meta">Published: May 1, 2026</span></span></span>
+In practice, synthetic data may be used in two broad ways: <span class="citation-chip-wrap"><a class="citation-chip" href="https://aiwiki.ai/wiki/synthetic_data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiwiki.ai">[aiwiki.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiwiki.ai</span><span class="citation-popover-title">MODEL COLLAPSE The most widely discussed risk is model collapse, the phenomeno</span><span class="citation-popover-snippet">Synthetic data &#124; AI WikiMay 1, 2026 — RISKS AND CHALLENGES Synthetic data carries significant risks that the research community has incre...</span><span class="citation-popover-meta">Published: May 1, 2026</span></span></span>
 
 * **Augmentation or oversampling:** Models generate examples to balance under‑represented categories in a dataset (for instance, rare classes in classification tasks), helping downstream models learn more robustly.[MDPI]
 * **Substituting or bootstrapping data:** Large language models (LLMs) or generative models are prompted to create large batches of pseudo‑data (text, image labels, code) intended to stand in for real data in regions where it is incomplete or unavailable. This can reduce the need for human‑curated corpora.
@@ -289,14 +289,14 @@ In both cases, the model’s own outputs contribute to the next training stage. 
 
 ## Why filtering and evaluation decide whether it helps
 
-The central challenge with using AI‑generated data in [successor training]({{ 'successor-training/' | relative_url }}) is **data quality**. Models inevitably introduce statistical errors, smoothing, bias, and omission when they generate data. If a future model learns from such output without proper vetting, those imperfections can be reinforced. In technical and safety discussions, this degradation is often called **model collapse** or **AI cannibalism** — a degenerate feedback loop where the diversity and fidelity of learned behaviour decays as generations train on outputs derived from earlier ones.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techtarget.com/whatis/feature/Model-collapse-explained-How-synthetic-training-data-breaks-AI" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techtarget.com">[TechTarget]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techtarget.com</span><span class="citation-popover-title">Model collapse explained How synthetic training data breaks AI</span><span class="citation-popover-snippet">TechTargetModel collapse explained: How synthetic training data breaks AIJuly 7, 2023...</span><span class="citation-popover-meta">Published: July 7, 2023</span></span></span>
+The central challenge with using AI‑generated data in [successor training]({{ 'successor-training/' | relative_url }}) is **data quality**. Models inevitably introduce statistical errors, smoothing, bias, and omission when they generate data. If a future model learns from such output without proper vetting, those imperfections can be reinforced. In technical and safety discussions, this degradation is often called **model collapse** or **AI cannibalism** — a degenerate feedback loop where the diversity and fidelity of learned behaviour decays as generations train on outputs derived from earlier ones.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techtarget.com/whatis/feature/Model-collapse-explained-How-synthetic-training-data-breaks-AI" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techtarget.com">[TechTarget]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techtarget.com</span><span class="citation-popover-title">Model collapse explained How synthetic training data breaks AI</span><span class="citation-popover-snippet">Model collapse explained: How synthetic training data breaks AIJuly 7, 2023...</span><span class="citation-popover-meta">Published: July 7, 2023</span></span></span>
 
-A high‑profile scientific result demonstrated this formally: when generative models are trained only on data produced by their predecessors, not only does prediction quality fall, but information about rare but important patterns (the “tails” of the distribution) can disappear. Over many generations this can produce a model that merely replicates smooth, generic patterns and misses crucial nuance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41586-024-07566-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">AI models collapse when trained on recursively generated data | Nature</span><span class="citation-popover-snippet">NatureAI models collapse when trained on recursively generated data | NatureJuly 24, 2024...</span><span class="citation-popover-meta">Published: July 24, 2024</span></span></span>
+A high‑profile scientific result demonstrated this formally: when generative models are trained only on data produced by their predecessors, not only does prediction quality fall, but information about rare but important patterns (the “tails” of the distribution) can disappear. Over many generations this can produce a model that merely replicates smooth, generic patterns and misses crucial nuance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41586-024-07566-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">AI models collapse when trained on recursively generated data &#124; Nature</span><span class="citation-popover-snippet">AI models collapse when trained on recursively generated data &#124; NatureJuly 24, 2024...</span><span class="citation-popover-meta">Published: July 24, 2024</span></span></span>
 
 Two linked lessons emerge from this evidence:
 
-* **Quality filtering and mixing with real data is essential.** Models trained on synthetic data interleaved with human‑generated data can avoid collapse in many measured settings, because the real data anchors the distribution and preserves variability and ground truth.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.05090" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivHow Bad is Training on Synthetic Data? A Statistical Analysis of Language Model CollapseApril 7, 2024...</span><span class="citation-popover-meta">Published: April 7, 2024</span></span></span>
-* **Unfiltered loops are structurally unstable.** Purely [recursive]({{ 'ai-takeoff/' | relative_url }}) training — where each generation is trained only on outputs from the previous one — will inevitably magnify errors and shrink diversity, a statistical reality shown in both theory and experiment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41586-024-07566-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">AI models collapse when trained on recursively generated data | Nature</span><span class="citation-popover-snippet">NatureAI models collapse when trained on recursively generated data | NatureJuly 24, 2024...</span><span class="citation-popover-meta">Published: July 24, 2024</span></span></span>
+* **Quality filtering and mixing with real data is essential.** Models trained on synthetic data interleaved with human‑generated data can avoid collapse in many measured settings, because the real data anchors the distribution and preserves variability and ground truth.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.05090" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">How Bad is Training on Synthetic Data? A Statistical Analysis of Language Model CollapseApril 7, 2024...</span><span class="citation-popover-meta">Published: April 7, 2024</span></span></span>
+* **Unfiltered loops are structurally unstable.** Purely recursive training — where each generation is trained only on outputs from the previous one — will inevitably magnify errors and shrink diversity, a statistical reality shown in both theory and experiment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41586-024-07566-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">AI models collapse when trained on recursively generated data &#124; Nature</span><span class="citation-popover-snippet">AI models collapse when trained on recursively generated data &#124; NatureJuly 24, 2024...</span><span class="citation-popover-meta">Published: July 24, 2024</span></span></span>
 
 In practical R&D today, synthetic data is rarely used in isolation. Instead, it supplements human data and curated sources precisely because unmoderated recursive loops are known to be precarious.
 
@@ -308,7 +308,7 @@ It is important to distinguish **model‑generated training data used in a human
 
 * **Current synthetic data usage still relies on humans.** Engineers decide what data to generate, how to filter and label it, and when to mix it with real data. AI systems assist but do not autonomously build or evaluate datasets end‑to‑end.
 * **The recursive data loop is not yet self‑sufficient.** Even when models generate training data for other models, human experts still set task definitions, establish evaluation criteria, and intervene when results degrade. This limits the simple feedback loop that doom scenarios often imagine.
-* **Structural risks, not runaway self‑improvement.** The evidence suggests that heavy reliance on synthetic data without careful curation tends toward quality degradation (model collapse), not explosive capability growth. The danger is not that synthetic loops will suddenly produce ever‑superior successors, but that models will become less grounded and less representative of reality if their training corpora consist primarily of recycled AI outputs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ibm.com/think/topics/model-collapse" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibm.com">[IBM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibm.com</span><span class="citation-popover-title">What Is Model Collapse? | IBM</span><span class="citation-popover-snippet">IBMWhat Is Model Collapse? | IBM...</span></span></span>
+* **Structural risks, not runaway self‑improvement.** The evidence suggests that heavy reliance on synthetic data without careful curation tends toward quality degradation (model collapse), not explosive capability growth. The danger is not that synthetic loops will suddenly produce ever‑superior successors, but that models will become less grounded and less representative of reality if their training corpora consist primarily of recycled AI outputs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ibm.com/think/topics/model-collapse" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibm.com">[IBM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibm.com</span><span class="citation-popover-title">What Is Model Collapse? &#124; IBM</span><span class="citation-popover-snippet">What Is Model Collapse? &#124; IBM...</span></span></span>
 
 In other words, **synthetic data today is neither a reliable shortcut to autonomous AI evolution nor a threatless self‑improvement engine**. It can help improve performance on narrow tasks when used with caution, but it also raises hard engineering and statistical questions about fidelity, diversity, and preservation of ground truth.
 
@@ -320,7 +320,7 @@ In other words, **synthetic data today is neither a reliable shortcut to autonom
 
 ## Looking ahead: implications for alignment and existential risk debates
 
-For discussions about [AI doom and]({{ 'ai-doom-and/' | relative_url }}) recursive self‑improvement, synthetic data occupies a nuanced place. On the one hand, it shows that parts of the training pipeline — data generation — can already be partly offloaded to models themselves. On the other hand, the ecological risks documented by researchers (e.g., model collapse) suggest that **unfettered recursive loops are not automatically productive** and could degrade models rather than accelerate capability in unchecked ways. This complicates simplistic narratives where an AI need only generate ever more training data to bootstrap runaway successors.
+For discussions about AI doom and recursive self‑improvement, synthetic data occupies a nuanced place. On the one hand, it shows that parts of the training pipeline — data generation — can already be partly offloaded to models themselves. On the other hand, the ecological risks documented by researchers (e.g., model collapse) suggest that **unfettered recursive loops are not automatically productive** and could degrade models rather than accelerate capability in unchecked ways. This complicates simplistic narratives where an AI need only generate ever more training data to bootstrap runaway successors.
 
 Rather than being a primitive cause of an intelligence explosion, **AI‑generated training data seems more likely to act as an amplifier of other risks** — such as bias propagation, loss of grounding in human reality, and opaque training processes — unless developers deliberately maintain human participation and quality controls. These structural insights matter because they clarify where bottlenecks and guardrails lie in any future scenario where models play a larger role in shaping their successors.
 
@@ -748,74 +748,74 @@ Rather than being a primitive cause of an intelligence explosion, **AI‑generat
 
 1. <a id="endnote-1"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2942226](https://www.mdpi.com/2942226)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MDPIA Systematic Review of Synthetic Data Generation Techniques Using Generative AI | MDPISeptember 4, 2024...</p></details>
+   Link: <a href="https://www.mdpi.com/2942226" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2942226</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Systematic Review of Synthetic Data Generation Techniques Using Generative AI | MDPISeptember 4, 2024...</p></details>
    Published: September 4, 2024  
 
 2. <a id="endnote-2"></a>
    Source: techtarget.com  
    Title: Model collapse explained How synthetic training data breaks AI  
-   Link: [https://www.techtarget.com/whatis/feature/Model-collapse-explained-How-synthetic-training-data-breaks-AI](https://www.techtarget.com/whatis/feature/Model-collapse-explained-How-synthetic-training-data-breaks-AI)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TechTargetModel collapse explained: How synthetic training data breaks AIJuly 7, 2023...</p></details>
+   Link: <a href="https://www.techtarget.com/whatis/feature/Model-collapse-explained-How-synthetic-training-data-breaks-AI" target="_blank" rel="noopener noreferrer nofollow">https://www.techtarget.com/whatis/feature/Model-collapse-explained-How-synthetic-training-data-breaks-AI</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Model collapse explained: How synthetic training data breaks AIJuly 7, 2023...</p></details>
    Published: July 7, 2023  
 
 3. <a id="endnote-3"></a>
    Source: techtarget.com  
    Title: Tech Target AI cannibalism explained: A model failure  
-   Link: [https://www.techtarget.com/whatis/feature/AI-cannibalism-explained](https://www.techtarget.com/whatis/feature/AI-cannibalism-explained)  
+   Link: <a href="https://www.techtarget.com/whatis/feature/AI-cannibalism-explained" target="_blank" rel="noopener noreferrer nofollow">https://www.techtarget.com/whatis/feature/AI-cannibalism-explained</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI cannibalism explained: A model failureJuly 1, 2025 — AI CANNIBALISM EXPLAINED: A MODEL FAILURE AI CANNIBALISM – TRAINING ON AI-GENERAT...</p></details>
    Published: July 1, 2025  
 
 4. <a id="endnote-4"></a>
    Source: nature.com  
    Title: AI models collapse when trained on recursively generated data | Nature  
-   Link: [https://www.nature.com/articles/s41586-024-07566-y](https://www.nature.com/articles/s41586-024-07566-y)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureAI models collapse when trained on recursively generated data | NatureJuly 24, 2024...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41586-024-07566-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-024-07566-y</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI models collapse when trained on recursively generated data | NatureJuly 24, 2024...</p></details>
    Published: July 24, 2024  
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2404.05090](https://arxiv.org/abs/2404.05090)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivHow Bad is Training on Synthetic Data? A Statistical Analysis of Language Model CollapseApril 7, 2024...</p></details>
+   Link: <a href="https://arxiv.org/abs/2404.05090" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2404.05090</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Bad is Training on Synthetic Data? A Statistical Analysis of Language Model CollapseApril 7, 2024...</p></details>
    Published: April 7, 2024  
 
 6. <a id="endnote-6"></a>
    Source: ibm.com  
    Title: What Is Model Collapse? | IBM  
-   Link: [https://www.ibm.com/think/topics/model-collapse](https://www.ibm.com/think/topics/model-collapse)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IBMWhat Is Model Collapse? | IBM...</p></details>
+   Link: <a href="https://www.ibm.com/think/topics/model-collapse" target="_blank" rel="noopener noreferrer nofollow">https://www.ibm.com/think/topics/model-collapse</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is Model Collapse? | IBM...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: techtarget.com  
    Title: Gen A I and synthetic data: What can go wrong in business?  
-   Link: [https://www.techtarget.com/searchenterpriseai/feature/GenAI-and-synthetic-data-What-can-go-wrong-in-business](https://www.techtarget.com/searchenterpriseai/feature/GenAI-and-synthetic-data-What-can-go-wrong-in-business)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| TechTargetMay 7, 2026 — RISKS OF SYNTHETIC DATA [MISUSE](&amp;#123;&amp;#123; &#x27;misuse/&#x27; | relative_url &amp;#125;&amp;#125;) Synthetic data can be misused internally or externally and carry significant ris...</p></details>
+   Link: <a href="https://www.techtarget.com/searchenterpriseai/feature/GenAI-and-synthetic-data-What-can-go-wrong-in-business" target="_blank" rel="noopener noreferrer nofollow">https://www.techtarget.com/searchenterpriseai/feature/GenAI-and-synthetic-data-What-can-go-wrong-in-business</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>TechTargetMay 7, 2026 — RISKS OF SYNTHETIC DATA [MISUSE](&amp;#123;&amp;#123; &#x27;misuse/&#x27; | relative_url &amp;#125;&amp;#125;) Synthetic data can be misused internally or externally and carry significant ris...</p></details>
    Published: May 7, 2026  
 
 8. <a id="endnote-8"></a>
    Source: mdpi.com  
    Title: Mahmoud Department of Electrical, Computer and Software Engineering  
-   Link: [https://www.mdpi.com/2079-9292/13/17/3509/html](https://www.mdpi.com/2079-9292/13/17/3509/html)  
+   Link: <a href="https://www.mdpi.com/2079-9292/13/17/3509/html" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2079-9292/13/17/3509/html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Systematic Review of Synthetic Data Generation Techniques Using Generative AI | MDPISeptember 4, 2024 — 4 September 2024 A SYSTEMATIC R...</p></details>
    Published: September 4, 2024  
 
 9. <a id="endnote-9"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2079-9292/13/17/3509](https://www.mdpi.com/2079-9292/13/17/3509)  
+   Link: <a href="https://www.mdpi.com/2079-9292/13/17/3509" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2079-9292/13/17/3509</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Systematic Review of Synthetic Data Generation Techniques Using Generative AISeptember 4, 2024 — Background: Open Access Systematic Rev...</p></details>
    Published: September 4, 2024  
 
 10. <a id="endnote-10"></a>
    Source: aiwiki.ai  
    Title: MODEL COLLAPSE The most widely discussed risk is model collapse, the phenomeno  
-   Link: [https://aiwiki.ai/wiki/synthetic_data](https://aiwiki.ai/wiki/synthetic_data)  
+   Link: <a href="https://aiwiki.ai/wiki/synthetic_data" target="_blank" rel="noopener noreferrer nofollow">https://aiwiki.ai/wiki/synthetic_data</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Synthetic data | AI WikiMay 1, 2026 — RISKS AND CHALLENGES Synthetic data carries significant risks that the research community has incre...</p></details>
    Published: May 1, 2026  
 
 11. <a id="endnote-11"></a>
    Source: aisecurityandsafety.org  
    Title: model collapse  
-   Link: [https://aisecurityandsafety.org/en/guides/model-collapse/](https://aisecurityandsafety.org/en/guides/model-collapse/)  
+   Link: <a href="https://aisecurityandsafety.org/en/guides/model-collapse/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/en/guides/model-collapse/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What Happens When AI Trains on AI-Generated Data (2026) | AI Safety DirectoryApril 3, 2026 — MODEL COLLAPSE: WHAT HAPPENS WHEN AI TRAINS...</p></details>
    Published: April 3, 2026  
 
@@ -823,62 +823,62 @@ Rather than being a primitive cause of an intelligence explosion, **AI‑generat
 
 12. <a id="endnote-12"></a>
    Source: ijpds.org  
-   Link: [https://ijpds.org/article/view/2158](https://ijpds.org/article/view/2158)  
+   Link: <a href="https://ijpds.org/article/view/2158" target="_blank" rel="noopener noreferrer nofollow">https://ijpds.org/article/view/2158</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>October 31, 2023 — FEDERATED LEARNING FOR GENERATING SYNTHETIC DATA: A SCOPING REVIEW MAIN ARTICLE CONTENT Claire Little Cathie Marsh Ins...</p></details>
    Published: October 31, 2023  
 
 13. <a id="endnote-13"></a>
    Source: research.manchester.ac.uk  
-   Link: [https://research.manchester.ac.uk/en/publications/federated-learning-for-generating-synthetic-data-a-scoping-review](https://research.manchester.ac.uk/en/publications/federated-learning-for-generating-synthetic-data-a-scoping-review)  
+   Link: <a href="https://research.manchester.ac.uk/en/publications/federated-learning-for-generating-synthetic-data-a-scoping-review" target="_blank" rel="noopener noreferrer nofollow">https://research.manchester.ac.uk/en/publications/federated-learning-for-generating-synthetic-data-a-scoping-review</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>learning for generating synthetic data: a scoping review - Research Explorer The University of ManchesterOctober 31, 2023 — FEDERATED LEA...</p></details>
    Published: October 31, 2023  
 
 14. <a id="endnote-14"></a>
    Source: montrealethics.ai  
-   Link: [https://montrealethics.ai/self-improving-diffusion-models-with-synthetic-data/](https://montrealethics.ai/self-improving-diffusion-models-with-synthetic-data/)  
+   Link: <a href="https://montrealethics.ai/self-improving-diffusion-models-with-synthetic-data/" target="_blank" rel="noopener noreferrer nofollow">https://montrealethics.ai/self-improving-diffusion-models-with-synthetic-data/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>February 3, 2025 — SELF-IMPROVING DIFFUSION MODELS WITH SYNTHETIC DATA February 3, 2025 Image Image 🔬 Research Summary by Sina Alemohamma...</p></details>
    Published: February 3, 2025  
 
 15. <a id="endnote-15"></a>
    Source: aimodels.fyi  
-   Title: Self-Improving Diffusion Models with Synthetic Data | [AI Research](&#123;&#123; 'ai-research-loop/' | relative_url &#125;&#125;) Paper Details  
-   Link: [https://www.aimodels.fyi/papers/arxiv/self-improving-diffusion-models-synthetic-data](https://www.aimodels.fyi/papers/arxiv/self-improving-diffusion-models-synthetic-data)  
+   Title: Self-Improving Diffusion Models with Synthetic Data | AI Research Paper Details  
+   Link: <a href="https://www.aimodels.fyi/papers/arxiv/self-improving-diffusion-models-synthetic-data" target="_blank" rel="noopener noreferrer nofollow">https://www.aimodels.fyi/papers/arxiv/self-improving-diffusion-models-synthetic-data</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SELF-IMPROVING DIFFUSION MODELS WITH SYNTHETIC DATA Published 8/30/2024 by Sina Alemohammad, Ahmed Imtiaz Humayun, Shruti Ag...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: itpro.com  
    Title: What is model collapse and why is it a risk for enterprise AI?  
-   Link: [https://www.itpro.com/technology/[artificial](https://www.itpro.com/technology/[artificial)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| IT ProApril 10, 2026 — WHAT IS MODEL COLLAPSE AND WHY IS IT A RISK FOR ENTERPRISE AI? Model collapse is a nightmare for AI companies an...</p></details>
+   Link: <a href="https://www.itpro.com/technology/artificial-intelligence/what-is-model-collapse-and-why-is-it-a-risk-for-enterprise-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.itpro.com/technology/artificial-intelligence/what-is-model-collapse-and-why-is-it-a-risk-for-enterprise-ai</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>IT ProApril 10, 2026 — WHAT IS MODEL COLLAPSE AND WHY IS IT A RISK FOR ENTERPRISE AI? Model collapse is a nightmare for AI companies an...</p></details>
    Published: April 10, 2026  
 
 17. <a id="endnote-17"></a>
    Source: techcrunch.com  
    Title: The promise and perils of synthetic data | Tech Crunch  
-   Link: [https://techcrunch.com/2024/12/24/the-promise-and-perils-of-synthetic-data/](https://techcrunch.com/2024/12/24/the-promise-and-perils-of-synthetic-data/)  
+   Link: <a href="https://techcrunch.com/2024/12/24/the-promise-and-perils-of-synthetic-data/" target="_blank" rel="noopener noreferrer nofollow">https://techcrunch.com/2024/12/24/the-promise-and-perils-of-synthetic-data/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It suffers from the same “garbage in, garbage out” problem as all AI. Models create synthetic data, and if the data used to train these m...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: research.adobe.com  
    Title: self improving diffusion models with synthetic data  
-   Link: [https://research.adobe.com/publication/self-improving-diffusion-models-with-synthetic-data/](https://research.adobe.com/publication/self-improving-diffusion-models-with-synthetic-data/)  
+   Link: <a href="https://research.adobe.com/publication/self-improving-diffusion-models-with-synthetic-data/" target="_blank" rel="noopener noreferrer nofollow">https://research.adobe.com/publication/self-improving-diffusion-models-with-synthetic-data/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Research » Self-Improving Diffusion Models With Synthetic DataFebruary 1, 2025 — SELF-IMPROVING DIFFUSION MODELS WITH SYNTHETIC DATA ICLR...</p></details>
    Published: February 1, 2025  
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: AI Model Collapse: Structural Degradation via Synthetic Data  
-   Link: [https://www.youtube.com/watch?v=83wMMwM6c2Q](https://www.youtube.com/watch?v=83wMMwM6c2Q)  
+   Link: <a href="https://www.youtube.com/watch?v=83wMMwM6c2Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=83wMMwM6c2Q</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Is Eating Itself: The &quot;Model Collapse&quot; Theory explains why recursive training on synthetic data degrades the diversity of informationa...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: automationinside.com  
    Title: ai model collapse synthetic training  
-   Link: [https://automationinside.com/content/ai-model-collapse-synthetic-training](https://automationinside.com/content/ai-model-collapse-synthetic-training)  
+   Link: <a href="https://automationinside.com/content/ai-model-collapse-synthetic-training" target="_blank" rel="noopener noreferrer nofollow">https://automationinside.com/content/ai-model-collapse-synthetic-training</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Model Collapse: The Risks of Training AI on Synthetic Data | AutomationInside.comAI MODEL COLLAPSE: THE RISKS OF TRAINING AI ON SYNTHE...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: journalofbigdata.springeropen.com  
-   Link: [https://journalofbigdata.springeropen.com/articles/10.1186/s40537-023-00792-7](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-023-00792-7)  
+   Link: <a href="https://journalofbigdata.springeropen.com/articles/10.1186/s40537-023-00792-7" target="_blank" rel="noopener noreferrer nofollow">https://journalofbigdata.springeropen.com/articles/10.1186/s40537-023-00792-7</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and latent space synthetic data generation: a literature review | Journal of Big Data | Full TextJuly 10, 2023 — TABULAR AND LATENT SPACE...</p></details>
    Published: July 10, 2023  

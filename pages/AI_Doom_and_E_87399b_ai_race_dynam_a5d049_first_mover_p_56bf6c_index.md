@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-ai-race-dynam/
 description: Focused pages that expand on First Movers.
-date: '2026-06-02'
+date: '2026-06-10'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c
 parent_title: First Movers | Race Pressure

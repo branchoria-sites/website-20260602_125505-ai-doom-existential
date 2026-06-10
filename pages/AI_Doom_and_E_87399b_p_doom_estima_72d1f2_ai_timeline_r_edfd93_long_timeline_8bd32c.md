@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93_ai_surveys_ti_3e6c9e
 - AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93_short_timelin_2c07bc
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - p-doom
 - timeline-effects
 - long-timelines
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - p-doom
 - timeline-effects
 - long-timelines
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Longer timelines may help if society uses the extra time well, but they can also leave more room for proliferation, racing, and gradual loss of control.
 hero_summary: Longer timelines may help if society uses the extra time well, but they can also leave more room for proliferation, racing, and gradual loss of control.
 layout: default
 permalink: /long-timelines/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /p-doom/
 - /timeline-effects/
 nav_short_title: Long timelines
@@ -211,10 +211,10 @@ parent_heading_title: How AI Development Timelines Shape Doom Estimates
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_p_doom_estima_72d1f2
-  title: P Doom | AI Doom and
+  title: P Doom | AI Doom and E 87399 b
   permalink: /p-doom/
   short_title: P Doom
   heading_title: What Does p(doom) Really Mean?
@@ -226,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_p_doom_estima_72d1f2
-  title: P Doom | AI Doom and
+  title: P Doom | AI Doom and E 87399 b
   permalink: /p-doom/
   short_title: P Doom
   heading_title: What Does p(doom) Really Mean?
@@ -269,7 +269,7 @@ image: /assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_ed
 
 ## Introduction
 
-One of the most intuitive arguments in debates about *AI doom* — the risk that advanced [artificial]({{ 'artificial-goals/' | relative_url }}) intelligence could trigger existential catastrophe — is that **more time before the creation of truly transformative AI should make us safer**. If society expects decades rather than just a few years of progress, the thinking goes, researchers, regulators and institutions will have a long runway to study safety, build safeguards, and coordinate globally. But **does a longer timeline *actually* reduce the probability of [catastrophic]({{ 'misuse/' | relative_url }}) outcomes?** The short answer is: *not automatically*. While extended timelines offer opportunities for preparation, they also come with their own risks and uncertainties. Whether more time *lowers* or *raises* p(doom) depends on how preparation, incentives, and competitive pressures evolve alongside capability advances.
+One of the most intuitive arguments in debates about *AI doom* — the risk that advanced artificial intelligence could trigger existential catastrophe — is that **more time before the creation of truly transformative AI should make us safer**. If society expects decades rather than just a few years of progress, the thinking goes, researchers, regulators and institutions will have a long runway to study safety, build safeguards, and coordinate globally. But **does a longer timeline *actually* reduce the probability of [catastrophic]({{ 'misuse/' | relative_url }}) outcomes?** The short answer is: *not automatically*. While extended timelines offer opportunities for preparation, they also come with their own risks and uncertainties. Whether more time *lowers* or *raises* p(doom) depends on how preparation, incentives, and competitive pressures evolve alongside capability advances.
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93_long_timeline_8bd32c-Illustration-1-dark.svg" | relative_url }}" alt="Long timelines illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93_long_timeline_8bd32c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93_long_timeline_8bd32c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -277,13 +277,13 @@ One of the most intuitive arguments in debates about *AI doom* — the risk that
 
 Many researchers argue that **a longer interval before the arrival of transformative AI offers crucial resources to reduce risk**. Extra time can be valuable in several ways:
 
-* **Safety and alignment research can mature**. Complex problems such as ensuring AI systems reliably pursue human-compatible goals, remain understandable and controllable, and behave safely even in unforeseen situations are hard. A longer period can allow deeper technical progress on [interpretability]({{ 'interpretability/' | relative_url }}), [oversight]({{ 'oversight-evasion/' | relative_url }}) methods, and theoretical foundations of alignment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aimodels.org/ai-governance-organizations/papers/do-ai-timelines-affect-existential-risk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aimodels.org">[Open Source AI Models]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aimodels.org</span><span class="citation-popover-title">Open Source AI Models How Do AI Timelines Affect Existential Risk?</span><span class="citation-popover-snippet">Open Source AI ModelsHow Do AI Timelines Affect Existential Risk? - AI Models...</span></span></span>
-* **Learning from experience matters**. With more time, developers and regulators can experiment with increasingly capable systems in lower-stakes contexts, observe failure modes, and adjust safety frameworks before the most powerful systems appear. Society learns by doing, and short timelines compress that learning curve dangerously.
+* **Safety and alignment research can mature**. Complex problems such as ensuring AI systems reliably pursue human-compatible goals, remain understandable and controllable, and behave safely even in unforeseen situations are hard. A longer period can allow deeper technical progress on [interpretability]({{ 'interpretability/' | relative_url }}), oversight methods, and theoretical foundations of alignment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aimodels.org/ai-governance-organizations/papers/do-ai-timelines-affect-existential-risk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aimodels.org">[Open Source AI Models]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aimodels.org</span><span class="citation-popover-title">Open Source AI Models How Do AI Timelines Affect Existential Risk?</span><span class="citation-popover-snippet">Open Source AI ModelsHow Do AI Timelines Affect Existential Risk? - AI Models...</span></span></span>
+* **Learning from experience matters**. With more time, developers and regulators can experiment with increasingly capable systems in lower-stakes contexts, observe failure modes, and adjust safety frameworks before the most powerful systems appear. Society learns by doing, and [short timelines]({{ 'short-timelines/' | relative_url }}) compress that learning curve dangerously.
 * **Governance and institutions evolve slowly**. International cooperation, regulation, monitoring regimes and norms around deployment often take many years to establish. A long runway can give policymakers and civil society the breathing room to shape robust governance before the stakes escalate.
 
-For these reasons, many in the safety community see *delay as a safety asset*, not an obstacle. In work on existential risk modelling, delaying the creation of superintelligent systems is posited to lower overall existential risk **if** AI risk remains high relative to other global hazards, because it gives alignment and [governance]({{ 'governance/' | relative_url }}) science time to catch up.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2209.05459" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv How Do AI Timelines Affect Existential Risk?</span><span class="citation-popover-snippet">arXivHow Do AI Timelines Affect Existential Risk?August 30, 2022...</span><span class="citation-popover-meta">Published: August 30, 2022</span></span></span>
+For these reasons, many in the safety community see *delay as a safety asset*, not an obstacle. In work on existential risk modelling, delaying the creation of superintelligent systems is posited to lower overall existential risk **if** AI risk remains high relative to other global hazards, because it gives alignment and [governance]({{ 'governance/' | relative_url }}) science time to catch up.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2209.05459" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv How Do AI Timelines Affect Existential Risk?</span><span class="citation-popover-snippet">How Do AI Timelines Affect Existential Risk?August 30, 2022...</span><span class="citation-popover-meta">Published: August 30, 2022</span></span></span>
 
-Moreover, recent research suggests that **the default probability of averting catastrophic outcomes is higher on medium and longer timelines**, partly because societies have more time to mobilise resources, build strategic understanding, and strengthen safeguards before transformative capability leaps occur.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forethought.org/research/short-timelines-arent-obviously-higher-leverage" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forethought.org">[Forethought]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forethought.org</span><span class="citation-popover-title">Short AI Timelines Aren’t Always Higher-Leverage</span><span class="citation-popover-snippet">ForethoughtShort AI Timelines Aren’t Always Higher-LeverageJanuary 22, 2026...</span><span class="citation-popover-meta">Published: January 22, 2026</span></span></span>
+Moreover, recent research suggests that **the default probability of averting catastrophic outcomes is higher on medium and longer timelines**, partly because societies have more time to mobilise resources, build strategic understanding, and strengthen safeguards before transformative capability leaps occur.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forethought.org/research/short-timelines-arent-obviously-higher-leverage" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forethought.org">[Forethought]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forethought.org</span><span class="citation-popover-title">Short AI Timelines Aren’t Always Higher-Leverage</span><span class="citation-popover-snippet">Short AI Timelines Aren’t Always Higher-LeverageJanuary 22, 2026...</span><span class="citation-popover-meta">Published: January 22, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5KVDDfAkRgc" title="We&#x27;re Not Ready for Superintelligence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5KVDDfAkRgc" target="_blank" rel="noopener noreferrer">We&#x27;re Not Ready for Superintelligence</a></p><p class="youtube-embed-meta">Channel: AI In Context &middot; Views: 10.8M &middot; Uploaded: July 2025 &middot; Length: 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5KVDDfAkRgc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5KVDDfAkRgc">Open on YouTube</a></p></div></div></div>
@@ -292,12 +292,12 @@ Moreover, recent research suggests that **the default probability of averting ca
 
 However, **a longer timeline isn’t a sure path to safety unless its advantages are actively realised**. Several mechanisms can *increase* risk or make risk reduction harder over extended periods:
 
-* **Competitive pressure can still accelerate harmful behaviour**. Firms or states racing to be first to achieve transformative AI may prioritise speed over safety, especially if victory confers huge strategic or economic advantages. Even on long timelines, competition could compress safety gains into a late sprint that outpaces governance. Indeed, economic modelling suggests that *the allocation of resources between speed and safety matters*, and longer timelines alone do not guarantee that safety will be adequately prioritised.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nber.org/papers/w35276" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nber.org">[NBER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nber.org</span><span class="citation-popover-title">The AGI Race and Existential Risk | NBER</span><span class="citation-popover-snippet">NBERThe AGI Race and Existential Risk | NBER...</span></span></span>
+* **Competitive pressure can still accelerate harmful behaviour**. Firms or states racing to be first to achieve transformative AI may prioritise speed over safety, especially if victory confers huge strategic or economic advantages. Even on long timelines, competition could compress safety gains into a late sprint that outpaces governance. Indeed, economic modelling suggests that *the allocation of resources between speed and safety matters*, and longer timelines alone do not guarantee that safety will be adequately prioritised.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nber.org/papers/w35276" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nber.org">[NBER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nber.org</span><span class="citation-popover-title">The AGI Race and Existential Risk &#124; NBER</span><span class="citation-popover-snippet">The AGI Race and Existential Risk &#124; NBER...</span></span></span>
 * **Technological advances may create new vulnerabilities**. As AI systems become more capable, they may integrate deeply into critical infrastructure, economic systems and military applications. Longer exposure to such systems — even if not yet superintelligent — can steadily increase systemic fragility, accumulate dependencies, and reduce human control. This *accumulative risk* perspective argues that risk can grow gradually as sophisticated AI embeds itself in society, raising the stakes even before peak capabilities are reached.[Springer]
-* **Delays may not slow capability growth evenly**. Some forms of progress — such as automated research or [recursive]({{ 'ai-takeoff/' | relative_url }}) self-improvement — could lead to sudden leaps in capability even after a long slow build‑up. A long timeline punctuated by a sharp acceleration leaves little time for last‑minute safety adaptation.
+* **Delays may not slow capability growth evenly**. Some forms of progress — such as automated research or recursive self-improvement — could lead to sudden leaps in capability even after a long slow build‑up. A long timeline punctuated by a sharp acceleration leaves little time for last‑minute safety adaptation.
 * **Institutional inertia and misaligned incentives**. Longer timelines can breed complacency: if actors assume safety problems will be solved eventually, they may invest less effort now. Worse, slow or poorly aligned institutional development could leave governance frameworks outdated or irrelevant by the time powerful systems appear.
 
-In short, without concrete and sustained effort to use extra time effectively — through research, regulation, cooperation and practical safety engineering — **a long runway could still end in a [dangerous]({{ 'autonomy/' | relative_url }}) sprint where capability overtakes control.**
+In short, without concrete and sustained effort to use extra time effectively — through research, regulation, cooperation and practical safety engineering — **a long runway could still end in a dangerous sprint where capability overtakes control.**
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93_long_timeline_8bd32c-Illustration-2-dark.svg" | relative_url }}" alt="Long timelines illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93_long_timeline_8bd32c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93_long_timeline_8bd32c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -312,10 +312,10 @@ The central question is **whether safety progress scales alongside capability pr
 Some analysts argue that **differential technological development** — deliberately slowing dangerous technologies while accelerating safety work — is a more robust way to reduce total existential risk than passive delay alone. This approach focuses not just on *when* capabilities arise, but *how* different classes of technologies evolve relative to one another.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aimodels.org/ai-governance-organizations/papers/do-ai-timelines-affect-existential-risk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aimodels.org">[Open Source AI Models]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aimodels.org</span><span class="citation-popover-title">Open Source AI Models How Do AI Timelines Affect Existential Risk?</span><span class="citation-popover-snippet">Open Source AI ModelsHow Do AI Timelines Affect Existential Risk? - AI Models...</span></span></span>
 
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Nl7-bRFSZBs" title="This best-selling book is freaking out national security advisors" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Nl7-bRFSZBs" target="_blank" rel="noopener noreferrer">This best-selling book is freaking out national security advisors</a></p><p class="youtube-embed-meta">Channel: AI In Context &middot; Views: 2.0M &middot; Uploaded: March 2026 &middot; Length: 43 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Nl7-bRFSZBs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Nl7-bRFSZBs">Open on YouTube</a></p></div></div></div>
+
+
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rSw3UVDZge0" title="Katja Grace—Slowing Down AI, Forecasting AI Risk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rSw3UVDZge0" target="_blank" rel="noopener noreferrer">Katja Grace—Slowing Down AI, Forecasting AI Risk</a></p><p class="youtube-embed-meta">Channel: The Inside View &middot; Views: 2.5K &middot; Uploaded: September 2022 &middot; Length: 1 hour 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rSw3UVDZge0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rSw3UVDZge0">Open on YouTube</a></p></div></div></div>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qe9QSCF-d88" title="The Catastrophic Risks of AI — and a Safer Path | Yoshua Bengio | TED" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qe9QSCF-d88" target="_blank" rel="noopener noreferrer">The Catastrophic Risks of AI — and a Safer Path | Yoshua Bengio | TED</a></p><p class="youtube-embed-meta">Channel: TED &middot; Views: 672.8K &middot; Uploaded: May 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qe9QSCF-d88" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qe9QSCF-d88">Open on YouTube</a></p></div></div></div>
 
 ## What This Means for p(doom) Assessments
 
@@ -748,61 +748,61 @@ But if extra time is met with complacency, misaligned incentives, or ineffective
 1. <a id="endnote-1"></a>
    Source: arxiv.org  
    Title: arXiv How Do AI Timelines Affect Existential Risk?  
-   Link: [https://arxiv.org/abs/2209.05459](https://arxiv.org/abs/2209.05459)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivHow Do AI Timelines Affect Existential Risk?August 30, 2022...</p></details>
+   Link: <a href="https://arxiv.org/abs/2209.05459" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2209.05459</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Do AI Timelines Affect Existential Risk?August 30, 2022...</p></details>
    Published: August 30, 2022  
 
 2. <a id="endnote-2"></a>
    Source: forethought.org  
    Title: Short AI Timelines Aren’t Always Higher-Leverage  
-   Link: [https://www.forethought.org/research/short-timelines-arent-obviously-higher-leverage](https://www.forethought.org/research/short-timelines-arent-obviously-higher-leverage)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ForethoughtShort AI Timelines Aren’t Always Higher-LeverageJanuary 22, 2026...</p></details>
+   Link: <a href="https://www.forethought.org/research/short-timelines-arent-obviously-higher-leverage" target="_blank" rel="noopener noreferrer nofollow">https://www.forethought.org/research/short-timelines-arent-obviously-higher-leverage</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Short AI Timelines Aren’t Always Higher-LeverageJanuary 22, 2026...</p></details>
    Published: January 22, 2026  
 
 3. <a id="endnote-3"></a>
    Source: nber.org  
    Title: The AGI Race and Existential Risk | NBER  
-   Link: [https://www.nber.org/papers/w35276](https://www.nber.org/papers/w35276)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NBERThe AGI Race and Existential Risk | NBER...</p></details>
+   Link: <a href="https://www.nber.org/papers/w35276" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/papers/w35276</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The AGI Race and Existential Risk | NBER...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s11098-025-02301-3](https://link.springer.com/article/10.1007/s11098-025-02301-3)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpringerTwo types of AI existential risk: decisive and accumulative | Philosophical Studies | Springer Nature LinkMarch 30, 2025...</p></details>
+   Link: <a href="https://link.springer.com/article/10.1007/s11098-025-02301-3" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11098-025-02301-3</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Two types of AI existential risk: decisive and accumulative | Philosophical Studies | Springer Nature LinkMarch 30, 2025...</p></details>
    Published: March 30, 2025  
 
 5. <a id="endnote-5"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s00146-024-01930-2](https://link.springer.com/article/10.1007/s00146-024-01930-2)  
+   Link: <a href="https://link.springer.com/article/10.1007/s00146-024-01930-2" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s00146-024-01930-2</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>argument for near-term human disempowerment through AI | AI &amp; SOCIETY | Springer Nature LinkApril 14, 2024 — THE ARGUMENT FOR NEAR-TERM H...</p></details>
    Published: April 14, 2024  
 
 6. <a id="endnote-6"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s43681-024-00475-w](https://link.springer.com/article/10.1007/s43681-024-00475-w)  
+   Link: <a href="https://link.springer.com/article/10.1007/s43681-024-00475-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s43681-024-00475-w</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>approaches for reducing catastrophic risks from AI | AI and Ethics | Springer Nature LinkApril 8, 2024 — EVALUATING APPROACHES FOR REDUCI...</p></details>
    Published: April 8, 2024  
 
 7. <a id="endnote-7"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s43681-023-00336-y](https://link.springer.com/article/10.1007/s43681-023-00336-y)  
+   Link: <a href="https://link.springer.com/article/10.1007/s43681-023-00336-y" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s43681-023-00336-y</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>long-term AI risks | AI and Ethics | Springer Nature LinkSeptember 4, 2023 — RESOLVING THE BATTLE OF SHORT- VS. LONG-TERM AI RISKS * Comm...</p></details>
    Published: September 4, 2023  
 
 8. <a id="endnote-8"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s12530-022-09431-7](https://link.springer.com/article/10.1007/s12530-022-09431-7)  
+   Link: <a href="https://link.springer.com/article/10.1007/s12530-022-09431-7" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s12530-022-09431-7</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>springer.comSuper-forecasting the ‘technological singularity’ risks from artificial intelligence | Evolving Systems | Springer Nature Lin...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: aimodels.org  
    Title: Open Source AI Models How Do AI Timelines Affect Existential Risk?  
-   Link: [https://aimodels.org/ai-governance-organizations/papers/do-ai-timelines-affect-existential-risk/](https://aimodels.org/ai-governance-organizations/papers/do-ai-timelines-affect-existential-risk/)  
+   Link: <a href="https://aimodels.org/ai-governance-organizations/papers/do-ai-timelines-affect-existential-risk/" target="_blank" rel="noopener noreferrer nofollow">https://aimodels.org/ai-governance-organizations/papers/do-ai-timelines-affect-existential-risk/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Open Source AI ModelsHow Do AI Timelines Affect Existential Risk? - AI Models...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: eujournalfuturesresearch.springeropen.com  
-   Link: [https://eujournalfuturesresearch.springeropen.com/articles/10.1186/s40309-024-00241-5](https://eujournalfuturesresearch.springeropen.com/articles/10.1186/s40309-024-00241-5)  
+   Link: <a href="https://eujournalfuturesresearch.springeropen.com/articles/10.1186/s40309-024-00241-5" target="_blank" rel="noopener noreferrer nofollow">https://eujournalfuturesresearch.springeropen.com/articles/10.1186/s40309-024-00241-5</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Economic trade-off model | European Journal of Futures Research | Full TextSeptember 3, 2024 — IS ARTIFICIAL INTELLIGENCE A HAZARDOUS TEC...</p></details>
    Published: September 3, 2024  
 
@@ -810,62 +810,62 @@ But if extra time is met with complacency, misaligned incentives, or ineffective
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0016328723000861](https://www.sciencedirect.com/science/article/pii/S0016328723000861)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectFUTURES Volume 151, August 2023, 103182 EXAMINING THE DIFFERENTIAL RISK FROM HIGH-LEVEL ARTIFICIAL INTELLIGENCE AND THE QUES...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0016328723000861" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0016328723000861</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>FUTURES Volume 151, August 2023, 103182 EXAMINING THE DIFFERENTIAL RISK FROM HIGH-LEVEL ARTIFICIAL INTELLIGENCE AND THE QUES...</p></details>
    Published: August 2023  
 
 12. <a id="endnote-12"></a>
    Source: s-rsa.com  
-   Link: [https://s-rsa.com/index.php/agi/article/view/13603](https://s-rsa.com/index.php/agi/article/view/13603)  
+   Link: <a href="https://s-rsa.com/index.php/agi/article/view/13603" target="_blank" rel="noopener noreferrer nofollow">https://s-rsa.com/index.php/agi/article/view/13603</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pathways to Short Transformative AI Timelines: Chapter 3: Short TAI timeline scenarios | SuperIntelligence - Robotics - Safety &amp; Alignmen...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai/international-scientific-report-on-the-safety-of-advanced-ai-interim-report](https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai/international-scientific-report-on-the-safety-of-advanced-ai-interim-report)  
+   Link: <a href="https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai/international-scientific-report-on-the-safety-of-advanced-ai-interim-report" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai/international-scientific-report-on-the-safety-of-advanced-ai-interim-report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>scientific report on the safety of advanced AI: interim report - GOV.UKOctober 22, 2025 — KEY INFORMATION * The pace of future progress i...</p></details>
    Published: October 22, 2025  
 
 14. <a id="endnote-14"></a>
    Source: sciencedirect.com  
    Title: Assessing the future plausibility of catastrophically dangerous AI  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0016328718301319](https://www.sciencedirect.com/science/article/pii/S0016328718301319)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectMarch 1, 2019 — FUTURES Volume 107, March 2019, Pages 45-58 ASSESSING THE FUTURE PLAUSIBILITY OF CATASTROPHICALLY DANGEROUS...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0016328718301319" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0016328718301319</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 1, 2019 — FUTURES Volume 107, March 2019, Pages 45-58 ASSESSING THE FUTURE PLAUSIBILITY OF CATASTROPHICALLY DANGEROUS...</p></details>
    Published: March 1, 2019  
 
 15. <a id="endnote-15"></a>
    Source: GOV.UK  
    Title: www.gov.uk Frontier AI: capabilities and risks – discussion paper  
-   Link: [https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper](https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper)  
+   Link: <a href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI: capabilities and risks – discussion paper - GOV.UKApril 28, 2025 — RAPID AI (ARTIFICIAL INTELLIGENCE) PROGRESS IS LIKELY TO CONTINUE...</p></details>
    Published: April 28, 2025  
 
 16. <a id="endnote-16"></a>
    Source: mdpi.com  
    Title: Medium-Term Artificial Intelligence and Society  
-   Link: [https://www.mdpi.com/2078-2489/11/6/290](https://www.mdpi.com/2078-2489/11/6/290)  
+   Link: <a href="https://www.mdpi.com/2078-2489/11/6/290" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2078-2489/11/6/290</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Baum ^{}^{} Global Catastrophic Risk Institute, P.O. Box 40364, Washington, DC 20016, USA Information 2020, 11(6), 290; [https://doi.org...&quot;](https://doi.org...&quot;)...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: aeaweb.org  
    Title: The AI Dilemma: Growth versus Existential Risk  
-   Link: [https://www.aeaweb.org/articles?id=10.1257%2Faeri.20230570](https://www.aeaweb.org/articles?id=10.1257%2Faeri.20230570)  
+   Link: <a href="https://www.aeaweb.org/articles?id=10.1257%2Faeri.20230570" target="_blank" rel="noopener noreferrer nofollow">https://www.aeaweb.org/articles?id=10.1257%2Faeri.20230570</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jones American Economic Review: Insights vol. 6, no. 4, December 2024 (pp. 575–90) Download Full Text PDF * Article Information ABST...</p></details>
    Published: December 2024  
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: Katja Grace—Slowing Down AI, Forecasting AI Risk  
-   Link: [http://www.youtube.com/watch?v=rSw3UVDZge0](http://www.youtube.com/watch?v=rSw3UVDZge0)  
+   Link: <a href="http://www.youtube.com/watch?v=rSw3UVDZge0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=rSw3UVDZge0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI safety timelines longer timeline risk reduction existential risk The Catastrophic Risks of AI — and a Safer Path | Yoshua Bengio | TED...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: The Catastrophic Risks of AI — and a Safer Path | Yoshua Bengio | TED  
-   Link: [http://www.youtube.com/watch?v=qe9QSCF-d88](http://www.youtube.com/watch?v=qe9QSCF-d88)  
+   Link: <a href="http://www.youtube.com/watch?v=qe9QSCF-d88" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=qe9QSCF-d88</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ben Goertzel Wants to Build AGI Even FASTER — AI Doom Debate with an OG...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Ben Goertzel Wants to Build AGI Even FASTER — AI Doom Debate with an OG!  
-   Link: [http://www.youtube.com/watch?v=8vnb-nG-HmY](http://www.youtube.com/watch?v=8vnb-nG-HmY)  
+   Link: <a href="http://www.youtube.com/watch?v=8vnb-nG-HmY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=8vnb-nG-HmY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT Explains the 12 Possible Endings for AI...</p></details>

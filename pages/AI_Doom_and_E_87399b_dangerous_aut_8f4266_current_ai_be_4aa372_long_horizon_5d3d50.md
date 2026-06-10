@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_context_memor_c1b314
 - AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_strategy_adap_a9b1b7
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - autonomy
 - current-benchmarks
 - benchmark-evidence
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - autonomy
 - current-benchmarks
 - benchmark-evidence
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Benchmarks like METR, LongCLI-Bench, and RetailBench show AI reliability drops sharply as task chains lengthen.
 hero_summary: Benchmarks like METR, LongCLI-Bench, and RetailBench show AI reliability drops sharply as task chains lengthen.
 layout: default
 permalink: /benchmark-evidence/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /autonomy/
 - /current-benchmarks/
 nav_short_title: Benchmark Evidence
@@ -211,10 +211,10 @@ parent_heading_title: What Current AI Agents Can (and Can't) Do
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_dangerous_aut_8f4266
-  title: Autonomy | AI Doom and
+  title: Autonomy | AI Doom and E 87399 b
   permalink: /autonomy/
   short_title: Autonomy
   heading_title: When Does AI Autonomy Become Dangerous?
@@ -226,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_dangerous_aut_8f4266
-  title: Autonomy | AI Doom and
+  title: Autonomy | AI Doom and E 87399 b
   permalink: /autonomy/
   short_title: Autonomy
   heading_title: When Does AI Autonomy Become Dangerous?
@@ -269,7 +269,7 @@ image: /assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4a
 
 ## Introduction
 
-Current large‑language‑model (LLM) agents often perform impressively on short problems — answer a question, fix a tiny bug, or write a paragraph. But when researchers ask whether these systems can sustain multi‑step work over hours or dozens of interdependent actions, a very different picture emerges. [Independent]({{ 'red-teaming/' | relative_url }}) long‑horizon benchmarks — datasets and evaluation suites designed to measure *how reliably* an AI agent can complete extended tasks — consistently show that performance falls off sharply as task chains lengthen, error modes compound, and context maintenance becomes critical. These results matter for debates about AI risk because many loss‑of‑control and dangerous autonomy scenarios assume an AI would need to carry out sustained work without frequent [human oversight]({{ 'human-oversight/' | relative_url }}). Long‑horizon benchmarks like **task‑completion time horizons**, **LongCLI‑Bench**, and **LongDS‑Bench** provide real, quantifiable evidence of where contemporary systems break, and how dramatically performance degrades beyond short, isolated tasks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://metr.org/time-horizons/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[METR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-snippet">METRTask-Completion Time Horizons of Frontier AI ModelsThe task-completion time horizon is the task duration (measured by human expert co...</span></span></span>
+Current large‑language‑model (LLM) agents often perform impressively on short problems — answer a question, fix a tiny bug, or write a paragraph. But when researchers ask whether these systems can sustain multi‑step work over hours or dozens of interdependent actions, a very different picture emerges. [Independent]({{ 'red-teaming/' | relative_url }}) long‑horizon benchmarks — datasets and evaluation suites designed to measure *how reliably* an AI agent can complete extended tasks — consistently show that performance falls off sharply as task chains lengthen, error modes compound, and context maintenance becomes critical. These results matter for debates about AI risk because many loss‑of‑control and dangerous autonomy scenarios assume an AI would need to carry out sustained work without frequent [human oversight]({{ 'human-oversight/' | relative_url }}). Long‑horizon benchmarks like **task‑completion time horizons**, **LongCLI‑Bench**, and **LongDS‑Bench** provide real, quantifiable evidence of where contemporary systems break, and how dramatically performance degrades beyond short, isolated tasks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://metr.org/time-horizons/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[METR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-snippet">Task-Completion Time Horizons of Frontier AI ModelsThe task-completion time horizon is the task duration (measured by human expert co...</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_long_horizon_5d3d50-Illustration-1-dark.svg" | relative_url }}" alt="Benchmark Evidence illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_long_horizon_5d3d50-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_long_horizon_5d3d50-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -280,9 +280,9 @@ One influential effort to quantify long‑task ability is the **task‑completio
 The headline interpretation many safety and capability watchers place on this is that agents are extending their effective autonomous horizon — roughly doubling how long a problem they can reliably complete over time. But two important caveats emerge from both METR’s own documentation and independent analyses:
 
 * **Internal [uncertainty]({{ 'uncertainty/' | relative_url }}) is high.** METR’s confidence intervals around time‑horizon estimates are often very wide — for example, a reported ~12‑hour horizon for a leading system might be statistically compatible with much lower or higher values depending on task sampling — and the group itself cautions that measurements above 16 hours are unreliable with the current task suite. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://metr.org/notes/2026-01-22-time-horizon-limitations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[METR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-title">2026 01 22 time horizon limitations</span><span class="citation-popover-snippet">Clarifying limitations of time horizon22 Jan 2026 — METR Logo. METR researches, develops, and evaluates frontier AI systems to measure ho...</span></span></span>
-* **[Benchmark]({{ 'benchmark-limits/' | relative_url }}) construction shapes interpretation.** Critics and technical reviewers point out that the available METR tasks are self‑contained software problems with clear success criteria, not necessarily representative of broader long‑horizon reasoning in changing environments. Fitting logistic curves across a relatively small set of tasks (e.g., ~14 tasks in some ranges) can magnify measurement noise and make headline figures fragile. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/%40AIchats/are-ai-time-horizons-still-doubling-every-7-months-6262ed2bcc6a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">Are AI time-horizons (still) doubling every 7 months?</span><span class="citation-popover-snippet">MediumAre AI time-horizons (still) doubling every 7 months?March 11, 2026 — A critical review of METR&#x27;s &#x27;Task-Completion Time Horizons of...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span>
+* **Benchmark construction shapes interpretation.** Critics and technical reviewers point out that the available METR tasks are self‑contained software problems with clear success criteria, not necessarily representative of broader long‑horizon reasoning in changing environments. Fitting logistic curves across a relatively small set of tasks (e.g., ~14 tasks in some ranges) can magnify measurement noise and make headline figures fragile. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/%40AIchats/are-ai-time-horizons-still-doubling-every-7-months-6262ed2bcc6a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">Are AI time-horizons (still) doubling every 7 months?</span><span class="citation-popover-snippet">Are AI time-horizons (still) doubling every 7 months?March 11, 2026 — A critical review of METR&#x27;s &#x27;Task-Completion Time Horizons of...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span>
 
-In other words, while time‑horizon metrics sketch a direction — that models are extending how long a problem they *can sometimes* sustain — they do **not** show robust, general, or reliably high performance on genuinely long, interdependent tasks. They instead highlight how rapidly success probability declines as task complexity and duration increase beyond the single‑turn regime. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://metr.org/time-horizons/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[METR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-snippet">METRTask-Completion Time Horizons of Frontier AI ModelsThe task-completion time horizon is the task duration (measured by human expert co...</span></span></span>
+In other words, while time‑horizon metrics sketch a direction — that models are extending how long a problem they *can sometimes* sustain — they do **not** show robust, general, or reliably high performance on genuinely long, interdependent tasks. They instead highlight how rapidly success probability declines as task complexity and duration increase beyond the single‑turn regime. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://metr.org/time-horizons/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[METR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-snippet">Task-Completion Time Horizons of Frontier AI ModelsThe task-completion time horizon is the task duration (measured by human expert co...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8mvLIGrPI74" title="The 35-Minute Cliff: Why AI Agents Fail at Long Tasks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8mvLIGrPI74" target="_blank" rel="noopener noreferrer">The 35-Minute Cliff: Why AI Agents Fail at Long Tasks</a></p><p class="youtube-embed-meta">Channel: Working Theory &middot; Views: 3 &middot; Uploaded: May 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8mvLIGrPI74" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8mvLIGrPI74">Open on YouTube</a></p></div></div></div>
@@ -295,12 +295,12 @@ Where time‑horizon curves provide a broad view of trends, specialised long‑h
 
 The **LongCLI‑Bench** benchmark was created to test AI agents on real‑world, extended software engineering workflows through command‑line interfaces. Rather than single edits or tiny patches, LongCLI tasks involve sequences of operations — from building a project from scratch, to adding features, to fixing bugs and performing refactorings — each requiring planning, multiple tool invocations, and context tracking. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.30434" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Long DS-Bench: On the Failure of Long-Horizon Agentic Data Analysis</span><span class="citation-popover-snippet">arXiv Long DS-Bench: On the Failure of Long-Horizon Agentic Data Analysis</span></span></span>
 
-When researchers ran a suite of state‑of‑the‑art agents against LongCLI‑Bench, the **overall pass rates were very low**: even the best‑performing commercial combinations rarely exceeded ~16.7 % on the full task suite, and most attempts *stalled before completing even a third of the required steps*. <span class="citation-chip-wrap"><a class="citation-chip" href="https://app.argminai.com/arxiv-dashboard/papers/2602.14337v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: app.argminai.com">[app.argminai.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">app.argminai.com</span><span class="citation-popover-snippet">LongCLI-Bench: a 20-task CLI benchmark showing state-of-the-art agents pass &lt;20% on long-horizon engineering tasks | Argmin AIFebruary 15...</span></span></span> The benchmark also records step‑level scores that reveal where failures happen: many agents fail not because of a single off‑by‑one error, but because of basic planning or coordination breakdowns early in the workflow that cascade into complete task abandonment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hyper.ai/en/papers/2602.14337" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hyper.ai">[HyperAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hyper.ai</span><span class="citation-popover-snippet">HyperAILongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces | Papers | HyperAI...</span></span></span>
+When researchers ran a suite of state‑of‑the‑art agents against LongCLI‑Bench, the **overall pass rates were very low**: even the best‑performing commercial combinations rarely exceeded ~16.7 % on the full task suite, and most attempts *stalled before completing even a third of the required steps*. <span class="citation-chip-wrap"><a class="citation-chip" href="https://app.argminai.com/arxiv-dashboard/papers/2602.14337v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: app.argminai.com">[app.argminai.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">app.argminai.com</span><span class="citation-popover-snippet">LongCLI-Bench: a 20-task CLI benchmark showing state-of-the-art agents pass &lt;20% on long-horizon engineering tasks &#124; Argmin AIFebruary 15...</span></span></span> The benchmark also records step‑level scores that reveal where failures happen: many agents fail not because of a single off‑by‑one error, but because of basic planning or coordination breakdowns early in the workflow that cascade into complete task abandonment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hyper.ai/en/papers/2602.14337" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hyper.ai">[HyperAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hyper.ai</span><span class="citation-popover-snippet">AILongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces &#124; Papers &#124; HyperAI...</span></span></span>
 
 These results underline two points that simple pass/fail metrics obscure:
 
 * Agents often cannot *initiate and sustain* the correct sequence of actions even when each individual action seems straightforward; and
-* When agents do proceed, many regressions or unintended side‑effects occur because they fail to balance new requirements with preserving existing functionality. [Liner](#endnote-6 "Snippet: LinerLongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces <span class="citation-chip-wrap"><a class="citation-chip" href="https://liner.com/review/longclibench-preliminary-benchmark-and-study-for-longhorizon-agentic-programming-in" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: liner.com">[Quick Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">liner.com</span><span class="citation-popover-snippet">LinerLongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces [Quick Review]Febru...</span></span></span> Febru...")
+* When agents do proceed, many regressions or unintended side‑effects occur because they fail to balance new requirements with preserving existing functionality. [Liner](#endnote-6 "Snippet: LinerLongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces <span class="citation-chip-wrap"><a class="citation-chip" href="https://liner.com/review/longclibench-preliminary-benchmark-and-study-for-longhorizon-agentic-programming-in" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: liner.com">[Quick Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">liner.com</span><span class="citation-popover-snippet">LongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces [Quick Review]Febru...</span></span></span> Febru...")
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_long_horizon_5d3d50-Illustration-2-dark.svg" | relative_url }}" alt="Benchmark Evidence illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_long_horizon_5d3d50-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_long_horizon_5d3d50-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -318,8 +318,8 @@ On this benchmark, even the strongest models achieve only **~48 % average accu
 Across these benchmarks, a clear and consistent pattern emerges: as the *effective horizon* — whether measured in turns, actions, or contextual dependencies — grows, agent performance degrades markedly and nonlinearly. Short‑horizon metrics that look at isolated problems or single pass/fail outcomes mask these structural patterns of degradation. Metrics designed to capture *reliability over extended sequences* consistently show that:
 
 * **Success probability declines across steps.** Where early actions might be handled competently, later actions accumulate residual mistakes or lose context, leading to systematic drop‑offs in reliability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.30434" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Long DS-Bench: On the Failure of Long-Horizon Agentic Data Analysis</span><span class="citation-popover-snippet">arXiv Long DS-Bench: On the Failure of Long-Horizon Agentic Data Analysis</span></span></span>
-* **Agents struggle with planning vs execution.** Failures often trace back to poor initial planning, incorrect assumptions about intermediate states, or lack of recovery mechanisms when paths diverge from what was expected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://app.argminai.com/arxiv-dashboard/papers/2602.14337v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: app.argminai.com">[app.argminai.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">app.argminai.com</span><span class="citation-popover-snippet">LongCLI-Bench: a 20-task CLI benchmark showing state-of-the-art agents pass &lt;20% on long-horizon engineering tasks | Argmin AIFebruary 15...</span></span></span>
-* **Human collaboration currently improves outcomes.** In LongCLI‑Bench, incorporating human guidance or structured plans raises success rates compared with purely autonomous runs, suggesting that hybrid workflows remain more effective than standalone agents for complex, extended tasks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hyper.ai/en/papers/2602.14337" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hyper.ai">[HyperAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hyper.ai</span><span class="citation-popover-snippet">HyperAILongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces | Papers | HyperAI...</span></span></span>
+* **Agents struggle with planning vs execution.** Failures often trace back to poor initial planning, incorrect assumptions about intermediate states, or lack of recovery mechanisms when paths diverge from what was expected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://app.argminai.com/arxiv-dashboard/papers/2602.14337v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: app.argminai.com">[app.argminai.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">app.argminai.com</span><span class="citation-popover-snippet">LongCLI-Bench: a 20-task CLI benchmark showing state-of-the-art agents pass &lt;20% on long-horizon engineering tasks &#124; Argmin AIFebruary 15...</span></span></span>
+* **Human collaboration currently improves outcomes.** In LongCLI‑Bench, incorporating human guidance or structured plans raises success rates compared with purely autonomous runs, suggesting that hybrid workflows remain more effective than standalone agents for complex, extended tasks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hyper.ai/en/papers/2602.14337" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hyper.ai">[HyperAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hyper.ai</span><span class="citation-popover-snippet">AILongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces &#124; Papers &#124; HyperAI...</span></span></span>
 
 These trends hold across engineering, analysis, and heuristic diagnostic tasks: no current benchmark shows robust, high‑reliability performance on tasks that genuinely require extended, interdependent action sequences with stateful reasoning.
 
@@ -747,11 +747,11 @@ For lay readers and people thinking about advanced AI risk, this evidence from l
 </script>
 </section>
 
-1. **Capability on short tasks is a poor predictor of long‑horizon reliability.** Systems that look strong on single‑turn [evaluations]({{ 'evaluations/' | relative_url }}) can still fail consistently when subtle dependencies stretch over dozens or hundreds of steps. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tianpan.co/blog/2026-04-10-long-horizon-evaluation-gap-agent-benchmarks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tianpan.co">[TianPan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tianpan.co</span><span class="citation-popover-title">2026 04 10 long horizon evaluation gap agent benchmarks</span><span class="citation-popover-snippet">TianPanThe Long-Horizon Evaluation Gap: Why Your Agent...10 Apr 2026 — Single-turn benchmarks give a false sense of security for product...</span></span></span>
+1. **Capability on short tasks is a poor predictor of long‑horizon reliability.** Systems that look strong on single‑turn [evaluations]({{ 'evaluations/' | relative_url }}) can still fail consistently when subtle dependencies stretch over dozens or hundreds of steps. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tianpan.co/blog/2026-04-10-long-horizon-evaluation-gap-agent-benchmarks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tianpan.co">[TianPan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tianpan.co</span><span class="citation-popover-title">2026 04 10 long horizon evaluation gap agent benchmarks</span><span class="citation-popover-snippet">The Long-Horizon Evaluation Gap: Why Your Agent...10 Apr 2026 — Single-turn benchmarks give a false sense of security for product...</span></span></span>
 2. **State drift, error accumulation, and planning deficits are real mechanisms of failure.** These aren’t artefacts of one benchmark; they show up across domains (software, data analysis) and across multiple measurement frameworks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.30434" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Long DS-Bench: On the Failure of Long-Horizon Agentic Data Analysis</span><span class="citation-popover-snippet">arXiv Long DS-Bench: On the Failure of Long-Horizon Agentic Data Analysis</span></span></span>
-3. **Current agents are far from being reliably autonomous in extended real‑world settings.** Even with state‑of‑the‑art models and careful benchmark design, performance on long‑horizon tasks often hovers at rates well below what humans would consider “dependable,” especially without human guidance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://app.argminai.com/arxiv-dashboard/papers/2602.14337v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: app.argminai.com">[app.argminai.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">app.argminai.com</span><span class="citation-popover-snippet">LongCLI-Bench: a 20-task CLI benchmark showing state-of-the-art agents pass &lt;20% on long-horizon engineering tasks | Argmin AIFebruary 15...</span></span></span>
+3. **Current agents are far from being reliably autonomous in extended real‑world settings.** Even with state‑of‑the‑art models and careful benchmark design, performance on long‑horizon tasks often hovers at rates well below what humans would consider “dependable,” especially without human guidance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://app.argminai.com/arxiv-dashboard/papers/2602.14337v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: app.argminai.com">[app.argminai.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">app.argminai.com</span><span class="citation-popover-snippet">LongCLI-Bench: a 20-task CLI benchmark showing state-of-the-art agents pass &lt;20% on long-horizon engineering tasks &#124; Argmin AIFebruary 15...</span></span></span>
 
-In short, the best available empirical evidence suggests that as we *lengthen the horizon* — the number of steps, dependencies, and interlinked decisions an agent must make — **AI task failure becomes the norm rather than the exception**. For researchers and policymakers thinking seriously about high‑impact risks, those failure patterns matter more than headline short‑task performance scores. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tianpan.co/blog/2026-04-10-long-horizon-evaluation-gap-agent-benchmarks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tianpan.co">[TianPan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tianpan.co</span><span class="citation-popover-title">2026 04 10 long horizon evaluation gap agent benchmarks</span><span class="citation-popover-snippet">TianPanThe Long-Horizon Evaluation Gap: Why Your Agent...10 Apr 2026 — Single-turn benchmarks give a false sense of security for product...</span></span></span>
+In short, the best available empirical evidence suggests that as we *lengthen the horizon* — the number of steps, dependencies, and interlinked decisions an agent must make — **AI task failure becomes the norm rather than the exception**. For researchers and policymakers thinking seriously about high‑impact risks, those failure patterns matter more than headline short‑task performance scores. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tianpan.co/blog/2026-04-10-long-horizon-evaluation-gap-agent-benchmarks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tianpan.co">[TianPan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tianpan.co</span><span class="citation-popover-title">2026 04 10 long horizon evaluation gap agent benchmarks</span><span class="citation-popover-snippet">The Long-Horizon Evaluation Gap: Why Your Agent...10 Apr 2026 — Single-turn benchmarks give a false sense of security for product...</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_long_horizon_5d3d50-Illustration-3-dark.svg" | relative_url }}" alt="Benchmark Evidence illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_long_horizon_5d3d50-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_long_horizon_5d3d50-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -759,139 +759,139 @@ In short, the best available empirical evidence suggests that as we *lengthen th
 
 1. <a id="endnote-1"></a>
    Source: metr.org  
-   Link: [https://metr.org/time-horizons/](https://metr.org/time-horizons/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>METRTask-Completion Time Horizons of Frontier AI ModelsThe task-completion time horizon is the task duration (measured by human expert co...</p></details>
+   Link: <a href="https://metr.org/time-horizons/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/time-horizons/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Task-Completion Time Horizons of Frontier AI ModelsThe task-completion time horizon is the task duration (measured by human expert co...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
    Title: arXiv Long DS-Bench: On the Failure of Long-Horizon Agentic Data Analysis  
-   Link: [https://arxiv.org/abs/2605.30434](https://arxiv.org/abs/2605.30434)  
+   Link: <a href="https://arxiv.org/abs/2605.30434" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.30434</a>  
 
 3. <a id="endnote-3"></a>
    Source: medium.com  
    Title: Are AI time-horizons (still) doubling every 7 months?  
-   Link: [https://medium.com/%40AIchats/are-ai-time-horizons-still-doubling-every-7-months-6262ed2bcc6a](https://medium.com/%40AIchats/are-ai-time-horizons-still-doubling-every-7-months-6262ed2bcc6a)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MediumAre AI time-horizons (still) doubling every 7 months?March 11, 2026 — A critical review of METR&#x27;s &#x27;Task-Completion Time Horizons of...</p></details>
+   Link: <a href="https://medium.com/%40AIchats/are-ai-time-horizons-still-doubling-every-7-months-6262ed2bcc6a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40AIchats/are-ai-time-horizons-still-doubling-every-7-months-6262ed2bcc6a</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Are AI time-horizons (still) doubling every 7 months?March 11, 2026 — A critical review of METR&#x27;s &#x27;Task-Completion Time Horizons of...</p></details>
    Published: March 11, 2026  
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2602.14337](https://arxiv.org/abs/2602.14337)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivLongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line InterfacesFebruary 15, 2026...</p></details>
+   Link: <a href="https://arxiv.org/abs/2602.14337" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2602.14337</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>LongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line InterfacesFebruary 15, 2026...</p></details>
    Published: February 15, 2026  
 
 5. <a id="endnote-5"></a>
    Source: app.argminai.com  
-   Link: [https://app.argminai.com/arxiv-dashboard/papers/2602.14337v2](https://app.argminai.com/arxiv-dashboard/papers/2602.14337v2)  
+   Link: <a href="https://app.argminai.com/arxiv-dashboard/papers/2602.14337v2" target="_blank" rel="noopener noreferrer nofollow">https://app.argminai.com/arxiv-dashboard/papers/2602.14337v2</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LongCLI-Bench: a 20-task CLI benchmark showing state-of-the-art agents pass &lt;20% on long-horizon engineering tasks | Argmin AIFebruary 15...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: liner.com  
-   Link: [https://liner.com/review/longclibench-preliminary-benchmark-and-study-for-longhorizon-agentic-programming-in](https://liner.com/review/longclibench-preliminary-benchmark-and-study-for-longhorizon-agentic-programming-in)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LinerLongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces [Quick Review]Febru...</p></details>
+   Link: <a href="https://liner.com/review/longclibench-preliminary-benchmark-and-study-for-longhorizon-agentic-programming-in" target="_blank" rel="noopener noreferrer nofollow">https://liner.com/review/longclibench-preliminary-benchmark-and-study-for-longhorizon-agentic-programming-in</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>LongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces [Quick Review]Febru...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: tianpan.co  
    Title: 2026 04 10 long horizon evaluation gap agent benchmarks  
-   Link: [https://tianpan.co/blog/2026-04-10-long-horizon-evaluation-gap-agent-benchmarks](https://tianpan.co/blog/2026-04-10-long-horizon-evaluation-gap-agent-benchmarks)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TianPanThe Long-Horizon Evaluation Gap: Why Your Agent...10 Apr 2026 — Single-turn benchmarks give a false sense of security for product...</p></details>
+   Link: <a href="https://tianpan.co/blog/2026-04-10-long-horizon-evaluation-gap-agent-benchmarks" target="_blank" rel="noopener noreferrer nofollow">https://tianpan.co/blog/2026-04-10-long-horizon-evaluation-gap-agent-benchmarks</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Long-Horizon Evaluation Gap: Why Your Agent...10 Apr 2026 — Single-turn benchmarks give a false sense of security for product...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: metr.org  
    Title: We show that this metric has been consistently exponentially i  
-   Link: [https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/?_bhlid=eb9ba26f893982d302f59d4adee697067ed90a41](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/?_bhlid=eb9ba26f893982d302f59d4adee697067ed90a41)  
+   Link: <a href="https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/?_bhlid=eb9ba26f893982d302f59d4adee697067ed90a41" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/?_bhlid=eb9ba26f893982d302f59d4adee697067ed90a41</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring AI Ability to Complete Long Tasks - METRMarch 19, 2025 — Measuring AI Ability to Complete Long Tasks We propose measuring AI pe...</p></details>
    Published: March 19, 2025  
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
    Title: The Long-Horizon Task Mirage?  
-   Link: [https://arxiv.org/html/2604.11978v1](https://arxiv.org/html/2604.11978v1)  
+   Link: <a href="https://arxiv.org/html/2604.11978v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2604.11978v1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Diagnosing Where and...13 Apr 2026 — Our findings offer an initial methodological step toward systematic, cross-domain analysis of long...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: metr.org  
    Title: 2026 01 22 time horizon limitations  
-   Link: [https://metr.org/notes/2026-01-22-time-horizon-limitations/](https://metr.org/notes/2026-01-22-time-horizon-limitations/)  
+   Link: <a href="https://metr.org/notes/2026-01-22-time-horizon-limitations/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/notes/2026-01-22-time-horizon-limitations/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Clarifying limitations of time horizon22 Jan 2026 — METR Logo. METR researches, develops, and evaluates frontier AI systems to measure ho...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: medium.com  
-   Link: [https://medium.com/agentic-builders/5-agent-design-patterns-for-long-running-ai-agents-423ff3f73850](https://medium.com/agentic-builders/5-agent-design-patterns-for-long-running-ai-agents-423ff3f73850)  
+   Link: <a href="https://medium.com/agentic-builders/5-agent-design-patterns-for-long-running-ai-agents-423ff3f73850" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/agentic-builders/5-agent-design-patterns-for-long-running-ai-agents-423ff3f73850</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ion patterns from Google&#x27;s Agent Runtime that demos never...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: hyper.ai  
-   Link: [https://hyper.ai/en/papers/2602.14337](https://hyper.ai/en/papers/2602.14337)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HyperAILongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces | Papers | HyperAI...</p></details>
+   Link: <a href="https://hyper.ai/en/papers/2602.14337" target="_blank" rel="noopener noreferrer nofollow">https://hyper.ai/en/papers/2602.14337</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AILongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces | Papers | HyperAI...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: papers.cool  
-   Link: [https://papers.cool/arxiv/2604.16788](https://papers.cool/arxiv/2604.16788)  
+   Link: <a href="https://papers.cool/arxiv/2604.16788" target="_blank" rel="noopener noreferrer nofollow">https://papers.cool/arxiv/2604.16788</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LongBench: Evaluating Robotic Manipulation Policies on Real-World Long-Horizon Tasks | Cool Papers - Immersive Paper DiscoveryApril 18, 2...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: papers.cool  
-   Link: [https://papers.cool/arxiv/2602.14337](https://papers.cool/arxiv/2602.14337)  
+   Link: <a href="https://papers.cool/arxiv/2602.14337" target="_blank" rel="noopener noreferrer nofollow">https://papers.cool/arxiv/2602.14337</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces | Cool Papers - Immersiv...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: hyper.ai  
-   Link: [https://hyper.ai/fr/papers/2602.14337](https://hyper.ai/fr/papers/2602.14337)  
+   Link: <a href="https://hyper.ai/fr/papers/2602.14337" target="_blank" rel="noopener noreferrer nofollow">https://hyper.ai/fr/papers/2602.14337</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LongCLI-Bench: Un benchmark préliminaire et une étude sur la programmation agente à horizon long dans les interfaces en ligne de command...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: researchtrend.ai  
-   Link: [https://researchtrend.ai/papers/2603.29231](https://researchtrend.ai/papers/2603.29231)  
+   Link: <a href="https://researchtrend.ai/papers/2603.29231" target="_blank" rel="noopener noreferrer nofollow">https://researchtrend.ai/papers/2603.29231</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond pass@1: A Reliability Science Framework for Long-Horizon LLM Agents | ResearchTrend.AIMarch 31, 2026 — BEYOND PASS@1: A RELIABILIT...</p></details>
    Published: March 31, 2026  
 
 17. <a id="endnote-17"></a>
    Source: xwang2775.github.io  
-   Link: [https://xwang2775.github.io/horizon-leaderboard/](https://xwang2775.github.io/horizon-leaderboard/)  
+   Link: <a href="https://xwang2775.github.io/horizon-leaderboard/" target="_blank" rel="noopener noreferrer nofollow">https://xwang2775.github.io/horizon-leaderboard/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HORIZON Leaderboard — Long-Horizon Agent EvaluationAn initial diagnostic benchmark for systematically constructing tasks and characterizi...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: ai-search.io  
-   Link: [https://ai-search.io/papers/longcli-bench-a-preliminary-benchmark-and-study-for-long-horizon-agentic-programming-in-command-line-interfaces](https://ai-search.io/papers/longcli-bench-a-preliminary-benchmark-and-study-for-long-horizon-agentic-programming-in-command-line-interfaces)  
+   Link: <a href="https://ai-search.io/papers/longcli-bench-a-preliminary-benchmark-and-study-for-long-horizon-agentic-programming-in-command-line-interfaces" target="_blank" rel="noopener noreferrer nofollow">https://ai-search.io/papers/longcli-bench-a-preliminary-benchmark-and-study-for-long-horizon-agentic-programming-in-command-line-interfaces</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces - AI for Dummies - Under...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: gist.science  
-   Link: [https://gist.science/paper/2602.14337](https://gist.science/paper/2602.14337)  
+   Link: <a href="https://gist.science/paper/2602.14337" target="_blank" rel="noopener noreferrer nofollow">https://gist.science/paper/2602.14337</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces | Gist.ScienceFebruary 2...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: epoch.ai  
-   Link: [https://epoch.ai/benchmarks/metr-time-horizons](https://epoch.ai/benchmarks/metr-time-horizons)  
+   Link: <a href="https://epoch.ai/benchmarks/metr-time-horizons" target="_blank" rel="noopener noreferrer nofollow">https://epoch.ai/benchmarks/metr-time-horizons</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>METR Time HorizonsThis metric represents the estimated time (in minutes or hours) that a human expert would typically take to complete ta...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/singularity/comments/1qyx3k3/oai_researcher_noam_brown_responds_to_question/](https://www.reddit.com/r/singularity/comments/1qyx3k3/oai_researcher_noam_brown_responds_to_question/)  
+   Link: <a href="https://www.reddit.com/r/singularity/comments/1qyx3k3/oai_researcher_noam_brown_responds_to_question/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/singularity/comments/1qyx3k3/oai_researcher_noam_brown_responds_to_question/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OAI researcher Noam Brown responds to question about...OAI researcher Noam Brown responds to question about absurd METR pace saying it w...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: tldr.takara.ai  
-   Link: [https://tldr.takara.ai/p/2603.29231](https://tldr.takara.ai/p/2603.29231)  
+   Link: <a href="https://tldr.takara.ai/p/2603.29231" target="_blank" rel="noopener noreferrer nofollow">https://tldr.takara.ai/p/2603.29231</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>pass@1: A Reliability Science Framework for Long-Horizon LLM Agents | Takara TLDRImage: DS1 spectrogram: Beyond pass@1: A Reliability Sci...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: tldr.takara.ai  
-   Link: [https://tldr.takara.ai/p/2602.14337](https://tldr.takara.ai/p/2602.14337)  
+   Link: <a href="https://tldr.takara.ai/p/2602.14337" target="_blank" rel="noopener noreferrer nofollow">https://tldr.takara.ai/p/2602.14337</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>takara.aiLongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces | Takara TLDRIm...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/404021178_LongBench_Evaluating_Robotic_Manipulation_Policies_on_Real-World_Long-Horizon_Tasks](https://www.researchgate.net/publication/404021178_LongBench_Evaluating_Robotic_Manipulation_Policies_on_Real-World_Long-Horizon_Tasks)  
+   Link: <a href="https://www.researchgate.net/publication/404021178_LongBench_Evaluating_Robotic_Manipulation_Policies_on_Real-World_Long-Horizon_Tasks" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/404021178_LongBench_Evaluating_Robotic_Manipulation_Policies_on_Real-World_Long-Horizon_Tasks</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) LongBench: Evaluating Robotic Manipulation Policies on Real-World Long-Horizon TasksApril 18, 2026 — LONGBENCH: EVALUATING ROBOTIC...</p></details>
    Published: April 18, 2026  
 
 25. <a id="endnote-25"></a>
    Source: theregister.com  
    Title: microsoft researchers find ai models and agents cant handle long running tasks  
-   Link: [https://www.theregister.com/ai-ml/2026/05/11/microsoft-researchers-find-ai-models-and-agents-cant-handle-long-running-tasks/5238263](https://www.theregister.com/ai-ml/2026/05/11/microsoft-researchers-find-ai-models-and-agents-cant-handle-long-running-tasks/5238263)  
+   Link: <a href="https://www.theregister.com/ai-ml/2026/05/11/microsoft-researchers-find-ai-models-and-agents-cant-handle-long-running-tasks/5238263" target="_blank" rel="noopener noreferrer nofollow">https://www.theregister.com/ai-ml/2026/05/11/microsoft-researchers-find-ai-models-and-agents-cant-handle-long-running-tasks/5238263</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Microsoft researchers find AI models and agents can&#x27;t...11 May 2026 — &quot;Our findings show that current LLMs introduce substantial errors...</p></details>
    Published: May 2026  

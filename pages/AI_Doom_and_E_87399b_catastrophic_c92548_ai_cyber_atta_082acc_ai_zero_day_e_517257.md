@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_catastrophic_c92548_ai_cyber_atta_082acc_cyber_capable_41db34
 - AI_Doom_and_E_87399b_catastrophic_c92548_ai_cyber_atta_082acc_real_ai_explo_767c92
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - misuse
 - cyberattack-ai
 - exploit-race
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - misuse
 - cyberattack-ai
 - exploit-race
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: AI-assisted exploit work can narrow the window between disclosure, weaponisation, and patching, changing how cyber risk escalates.
 hero_summary: AI-assisted exploit work can narrow the window between disclosure, weaponisation, and patching, changing how cyber risk escalates.
 layout: default
 permalink: /exploit-race/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /misuse/
 - /cyberattack-ai/
 nav_short_title: Exploit race
@@ -211,10 +211,10 @@ parent_heading_title: 'AI Driven Cyberattacks: Automation and Emerging Risks'
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_catastrophic_c92548
-  title: Misuse | AI Doom and
+  title: Misuse | AI Doom and E 87399 b
   permalink: /misuse/
   short_title: Misuse
   heading_title: How Could People Misuse Advanced AI?
@@ -226,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_catastrophic_c92548
-  title: Misuse | AI Doom and
+  title: Misuse | AI Doom and E 87399 b
   permalink: /misuse/
   short_title: Misuse
   heading_title: How Could People Misuse Advanced AI?
@@ -277,13 +277,13 @@ Within the broader AI doom debate, this matters because cyber defence is one of 
 
 ## Why exploit timelines are shrinking
 
-A zero-day vulnerability is a software flaw that defenders do not yet know about or have not yet patched. Historically, finding such flaws and turning them into reliable exploits required highly specialised [expertise]({{ 'expertise-erosion/' | relative_url }}). The bottleneck was human labour.
+A zero-day vulnerability is a software flaw that defenders do not yet know about or have not yet patched. Historically, finding such flaws and turning them into reliable exploits required highly specialised expertise. The bottleneck was human labour.
 
 AI changes that bottleneck in several ways at once.
 
 First, modern models can analyse large codebases far faster than individual researchers. Rather than manually reviewing thousands of files, an AI system can examine extensive software projects, identify suspicious logic and suggest likely attack paths. The NCSC has warned that AI-enabled tools are likely to enhance vulnerability research and exploitation, increasing the speed with which attackers can act after vulnerabilities become known. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsc.gov.uk">[National Cyber Security Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsc.gov.uk</span><span class="citation-popover-title">impact ai cyber threat now 2027</span><span class="citation-popover-snippet">National Cyber Security CentreImpact of AI on cyber threat from now to 20277 May 2025 — By 2027, AI-enabled tools will almost certainly e...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
-Second, AI can help bridge the difficult gap between discovering a flaw and producing a working exploit. That step often requires understanding how software behaves in practice, adapting to security defences and iteratively refining attack techniques. Recent research benchmarks such as ExploitGym suggest that frontier AI systems can already produce working exploits for a meaningful subset of real-world vulnerabilities, although their performance remains far from perfect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.11086" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivExploitGym: Can AI Agents Turn Security Vulnerabilities into Real Attacks?May 11, 2026...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
+Second, AI can help bridge the difficult gap between discovering a flaw and producing a working exploit. That step often requires understanding how software behaves in practice, adapting to security defences and iteratively refining attack techniques. Recent research benchmarks such as ExploitGym suggest that frontier AI systems can already produce working exploits for a meaningful subset of real-world vulnerabilities, although their performance remains far from perfect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.11086" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">ExploitGym: Can AI Agents Turn Security Vulnerabilities into Real Attacks?May 11, 2026...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
 
 Third, AI can operate continuously. Human researchers need sleep, coordination and time to move between tasks. AI systems can search, test and refine candidate exploits around the clock, potentially examining thousands of targets in parallel. This does not guarantee success, but it changes the economics of offensive cyber operations by making large-scale experimentation cheaper and faster. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsc.gov.uk">[National Cyber Security Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsc.gov.uk</span><span class="citation-popover-title">impact ai cyber threat now 2027</span><span class="citation-popover-snippet">National Cyber Security CentreImpact of AI on cyber threat from now to 20277 May 2025 — By 2027, AI-enabled tools will almost certainly e...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
@@ -300,10 +300,15 @@ Cybersecurity has long depended on a race between disclosure and exploitation. W
 
 This creates several pressures:
 
+
+<div class="content-enhancement content-enhancement--decision" markdown="1">
+
 * **Patch management becomes harder.** Large organisations often require testing before deploying updates to critical systems. Faster exploitation leaves less room for cautious rollouts.
-* **Long-tail vulnerabilities become more [dangerous]({{ 'autonomy/' | relative_url }}).** AI-assisted attackers may be able to generate exploits for flaws that previously received little attention because exploiting them required too much effort.
+* **Long-tail vulnerabilities become more dangerous.** AI-assisted attackers may be able to generate exploits for flaws that previously received little attention because exploiting them required too much effort.
 * **Critical infrastructure faces greater exposure.** Operators of industrial systems, healthcare networks and public services frequently cannot patch instantly. Compressed timelines increase the chance that vulnerabilities are exploited before fixes are deployed.
 * **Defensive teams become overwhelmed.** Security teams already struggle to prioritise large numbers of vulnerabilities. Faster exploitation reduces their margin for error.
+
+</div>
 
 One striking illustration comes from recent industry efforts to quantify the changing landscape. The "Zero-Day Clock" project argues that average exploitation timelines have collapsed over recent years and may continue shrinking as AI-assisted vulnerability research improves. While such projections should be treated cautiously, they capture a widely shared concern: the traditional assumption that defenders have substantial time after disclosure is becoming less reliable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tomshardware.com/tech-industry/cyber-security/zero-day-clock-visualizes-and-quantifies-the-effects-of-ai-on-software-security-time-until-exploit-went-from-one-year-to-one-day-and-projected-to-be-one-minute-soon-enough" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tomshardware.com">[Tom&#x27;s Hardware]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tomshardware.com</span><span class="citation-popover-snippet">Created by Sergej Epp from Sysdig and supported by major tech firms, ZDC demonstrates how artificial intelligence has reduced the average...</span></span></span>
 
@@ -323,10 +328,10 @@ Several pathways are often discussed:
 
 * A highly autonomous system seeking resources or strategic advantage might use cyber operations to gain access to infrastructure.
 * States or organisations racing to deploy increasingly capable AI might neglect security in order to move faster.
-* Automated [exploit discovery]({{ 'exploit-discovery/' | relative_url }}) could undermine confidence in critical digital systems during periods of [geopolitical]({{ 'geopolitics/' | relative_url }}) instability.
+* Automated [exploit discovery]({{ 'exploit-discovery/' | relative_url }}) could undermine confidence in critical digital systems during periods of geopolitical instability.
 * AI systems could become force multipliers for small groups, allowing them to conduct cyber operations previously requiring large teams of experts.
 
-These concerns involve substantial speculation. There is currently no evidence that existing AI systems can autonomously conduct the kinds of large-scale cyber campaigns envisioned in stronger AI doom scenarios. However, many researchers view exploit [automation]({{ 'automation-bias/' | relative_url }}) as an important enabling capability that could become more significant if AI systems continue to improve in reasoning, planning and autonomy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsc.gov.uk">[National Cyber Security Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsc.gov.uk</span><span class="citation-popover-title">impact ai cyber threat now 2027</span><span class="citation-popover-snippet">National Cyber Security CentreImpact of AI on cyber threat from now to 20277 May 2025 — By 2027, AI-enabled tools will almost certainly e...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+These concerns involve substantial speculation. There is currently no evidence that existing AI systems can autonomously conduct the kinds of large-scale cyber campaigns envisioned in stronger AI doom scenarios. However, many researchers view exploit automation as an important enabling capability that could become more significant if AI systems continue to improve in reasoning, planning and [autonomy]({{ 'autonomy/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsc.gov.uk">[National Cyber Security Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsc.gov.uk</span><span class="citation-popover-title">impact ai cyber threat now 2027</span><span class="citation-popover-snippet">National Cyber Security CentreImpact of AI on cyber threat from now to 20277 May 2025 — By 2027, AI-enabled tools will almost certainly e...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/15-IadRzSVw" title="The Zero-Day Clock: How AI Shrank Exploit Times from Months to Hours" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=15-IadRzSVw" target="_blank" rel="noopener noreferrer">The Zero-Day Clock: How AI Shrank Exploit Times from Months to Hours</a></p><p class="youtube-embed-meta">Channel: Cloud Security Podcast &middot; Views: 11.5K &middot; Uploaded: April 2026 &middot; Length: 50 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=15-IadRzSVw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=15-IadRzSVw">Open on YouTube</a></p></div></div></div>
@@ -337,7 +342,7 @@ Despite growing concern, several important uncertainties remain.
 
 ### Current AI systems still struggle with many exploits
 
-Research benchmarks show meaningful progress, but they also reveal limitations. Even strong frontier models fail on many real-world exploitation tasks. Exploit development often requires adapting to unexpected system behaviour, understanding complex environments and overcoming multiple layers of defence. Human experts still outperform AI in many difficult cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.11086" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivExploitGym: Can AI Agents Turn Security Vulnerabilities into Real Attacks?May 11, 2026...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
+Research benchmarks show meaningful progress, but they also reveal limitations. Even strong frontier models fail on many real-world exploitation tasks. Exploit development often requires adapting to unexpected system behaviour, understanding complex environments and overcoming multiple layers of defence. Human experts still outperform AI in many difficult cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.11086" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">ExploitGym: Can AI Agents Turn Security Vulnerabilities into Real Attacks?May 11, 2026...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
 
 ### Defensive AI is improving too
 
@@ -347,7 +352,7 @@ The same technologies that help attackers can help defenders. The NCSC has argue
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_cyber_atta_082acc_ai_zero_day_e_517257-Illustration-3-dark.svg" | relative_url }}" alt="Exploit race illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_cyber_atta_082acc_ai_zero_day_e_517257-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_cyber_atta_082acc_ai_zero_day_e_517257-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Real-world measurements are difficult
 
-Claims about exploit timelines shrinking from months to days or even minutes are attention-grabbing, but measuring exploitation speed across the entire internet is inherently challenging. Different vulnerability classes, software ecosystems and attacker groups behave differently. Some vulnerabilities are exploited immediately; others are never exploited at all. Projections about future timelines therefore contain considerable uncertainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tomshardware.com/tech-industry/cyber-security/zero-day-clock-visualizes-and-quantifies-the-effects-of-ai-on-software-security-time-until-exploit-went-from-one-year-to-one-day-and-projected-to-be-one-minute-soon-enough" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tomshardware.com">[Tom&#x27;s Hardware]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tomshardware.com</span><span class="citation-popover-snippet">Created by Sergej Epp from Sysdig and supported by major tech firms, ZDC demonstrates how artificial intelligence has reduced the average...</span></span></span>
+Claims about exploit timelines shrinking from months to days or even minutes are attention-grabbing, but measuring exploitation speed across the entire internet is inherently challenging. Different vulnerability classes, software ecosystems and attacker groups behave differently. Some vulnerabilities are exploited immediately; others are never exploited at all. Projections about future timelines therefore contain considerable [uncertainty]({{ 'uncertainty/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tomshardware.com/tech-industry/cyber-security/zero-day-clock-visualizes-and-quantifies-the-effects-of-ai-on-software-security-time-until-exploit-went-from-one-year-to-one-day-and-projected-to-be-one-minute-soon-enough" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tomshardware.com">[Tom&#x27;s Hardware]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tomshardware.com</span><span class="citation-popover-snippet">Created by Sergej Epp from Sysdig and supported by major tech firms, ZDC demonstrates how artificial intelligence has reduced the average...</span></span></span>
 
 ### The jump from cyber risk to existential risk remains debated
 
@@ -359,18 +364,13 @@ For readers interested in existential-risk arguments, the most important indicat
 
 [Warning signs]({{ 'warning-signs/' | relative_url }}) would include:
 
-
-<div class="content-enhancement content-enhancement--caution" markdown="1">
-
 * AI systems routinely finding previously unknown vulnerabilities before expert human teams.
 * Reliable AI-generated exploits for a large fraction of critical vulnerabilities.
 * Widespread evidence that exploitation occurs almost immediately after disclosure.
-* Large-scale autonomous vulnerability research conducted with minimal human oversight.
+* Large-scale autonomous vulnerability research conducted with minimal [human oversight]({{ 'human-oversight/' | relative_url }}).
 * Security organisations consistently failing to patch systems before AI-assisted attacks appear.
 
-</div>
-
-None of these thresholds has clearly been crossed yet. However, recent assessments from government agencies, security researchers and major technology companies suggest that the trend is moving in that direction, making the race between disclosure, patching and exploitation an increasingly important part of the broader discussion about advanced AI risk. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.11086" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivExploitGym: Can AI Agents Turn Security Vulnerabilities into Real Attacks?May 11, 2026...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsc.gov.uk">[3National Cyber Security Centre 3blog.google]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsc.gov.uk</span><span class="citation-popover-title">impact ai cyber threat now 2027</span><span class="citation-popover-snippet">National Cyber Security CentreImpact of AI on cyber threat from now to 20277 May 2025 — By 2027, AI-enabled tools will almost certainly e...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+None of these thresholds has clearly been crossed yet. However, recent assessments from government agencies, security researchers and major technology companies suggest that the trend is moving in that direction, making the race between disclosure, patching and exploitation an increasingly important part of the broader discussion about advanced AI risk. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.11086" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">ExploitGym: Can AI Agents Turn Security Vulnerabilities into Real Attacks?May 11, 2026...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsc.gov.uk">[3National Cyber Security Centre 3blog.google]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsc.gov.uk</span><span class="citation-popover-title">impact ai cyber threat now 2027</span><span class="citation-popover-snippet">National Cyber Security CentreImpact of AI on cyber threat from now to 20277 May 2025 — By 2027, AI-enabled tools will almost certainly e...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EYz2BMtJjQ0" title="Inside the UK’s Cyber Strategy: Richard Horne on Resilience, Risk, and AI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EYz2BMtJjQ0" target="_blank" rel="noopener noreferrer">Inside the UK’s Cyber Strategy: Richard Horne on Resilience, Risk, and AI</a></p><p class="youtube-embed-meta">Channel: McCrary Institute &middot; Views: 1.1K &middot; Uploaded: July 2025 &middot; Length: 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EYz2BMtJjQ0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EYz2BMtJjQ0">Open on YouTube</a></p></div></div></div>
@@ -797,168 +797,168 @@ None of these thresholds has clearly been crossed yet. However, recent assessmen
 
 1. <a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2605.11086](https://arxiv.org/abs/2605.11086)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivExploitGym: Can AI Agents Turn Security Vulnerabilities into Real Attacks?May 11, 2026...</p></details>
+   Link: <a href="https://arxiv.org/abs/2605.11086" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.11086</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ExploitGym: Can AI Agents Turn Security Vulnerabilities into Real Attacks?May 11, 2026...</p></details>
    Published: May 11, 2026  
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2503.17332](https://arxiv.org/abs/2503.17332)  
+   Link: <a href="https://arxiv.org/abs/2503.17332" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2503.17332</a>  
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2506.02548](https://arxiv.org/abs/2506.02548)  
+   Link: <a href="https://arxiv.org/abs/2506.02548" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2506.02548</a>  
 
 4. <a id="endnote-4"></a>
    Source: blog.google  
-   Link: [https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/google-threat-intelligence-group-report/](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/google-threat-intelligence-group-report/)  
+   Link: <a href="https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/google-threat-intelligence-group-report/" target="_blank" rel="noopener noreferrer nofollow">https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/google-threat-intelligence-group-report/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Today we&#x27;re releasing a report that details the latest observations from Google Threat Intelligence...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: securityweek.com  
-   Link: [https://www.securityweek.com/google-detects-first-ai-generated-zero-day-exploit/](https://www.securityweek.com/google-detects-first-ai-generated-zero-day-exploit/)  
+   Link: <a href="https://www.securityweek.com/google-detects-first-ai-generated-zero-day-exploit/" target="_blank" rel="noopener noreferrer nofollow">https://www.securityweek.com/google-detects-first-ai-generated-zero-day-exploit/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google Detects First AI-Generated Zero-Day Exploit6 hours ago — For the first time, Google has identified a zero-day exploit believed to...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: cloud.google.com  
    Title: ai vulnerability exploitation initial access  
-   Link: [https://cloud.google.com/blog/topics/threat-intelligence/ai-vulnerability-exploitation-initial-access](https://cloud.google.com/blog/topics/threat-intelligence/ai-vulnerability-exploitation-initial-access)  
+   Link: <a href="https://cloud.google.com/blog/topics/threat-intelligence/ai-vulnerability-exploitation-initial-access" target="_blank" rel="noopener noreferrer nofollow">https://cloud.google.com/blog/topics/threat-intelligence/ai-vulnerability-exploitation-initial-access</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Leverage AI for Vulnerability Exploitation...3 days ago — Google Threat Intelligence. Visibility and context on the threats that matter...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: about.google  
-   Link: [https://about.google/](https://about.google/)  
+   Link: <a href="https://about.google/" target="_blank" rel="noopener noreferrer nofollow">https://about.google/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Our products, technology and company...Learn more about Google. Explore our innovative AI products and services, and how we&#x27;re using tec...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2605.11086v1](https://arxiv.org/html/2605.11086v1)  
+   Link: <a href="https://arxiv.org/html/2605.11086v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2605.11086v1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ExploitGym: Can AI Agents Turn Security Vulnerabilities...2 days ago — The agent is tasked with transforming the PoV into a working exploit...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2605.06713v1](https://arxiv.org/html/2605.06713v1)  
+   Link: <a href="https://arxiv.org/html/2605.06713v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2605.06713v1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>actors&#x27; ability to exploit known vulnerabilities and reduce the time...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2605.11086](https://arxiv.org/pdf/2605.11086)  
+   Link: <a href="https://arxiv.org/pdf/2605.11086" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2605.11086</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ExploitGym: Can AI Agents Turn Security Vulnerabilities...by Z Wang · 2026 · Cited by 1 — In contrast, ExploitGym provides a unified and...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: blog.google  
-   Link: [https://blog.google/](https://blog.google/)  
+   Link: <a href="https://blog.google/" target="_blank" rel="noopener noreferrer nofollow">https://blog.google/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>on the Keyword, Google&#x27;s official blog...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: search.google  
-   Link: [https://search.google/](https://search.google/)  
+   Link: <a href="https://search.google/" target="_blank" rel="noopener noreferrer nofollow">https://search.google/</a>  
 
 13. <a id="endnote-13"></a>
    Source: ncsc.gov.uk  
    Title: impact ai cyber threat now 2027  
-   Link: [https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027](https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027)  
+   Link: <a href="https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Cyber Security CentreImpact of AI on cyber threat from now to 20277 May 2025 — By 2027, AI-enabled tools will almost certainly e...</p></details>
    Published: May 2025  
 
 14. <a id="endnote-14"></a>
    Source: ncsc.gov.uk  
    Title: ai to 2027 threat assessment  
-   Link: [https://www.ncsc.gov.uk/news/ai-to-2027-threat-assessment](https://www.ncsc.gov.uk/news/ai-to-2027-threat-assessment)  
+   Link: <a href="https://www.ncsc.gov.uk/news/ai-to-2027-threat-assessment" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/news/ai-to-2027-threat-assessment</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Cyber Security CentreUK critical systems at increased risk from &#x27;digital divide...7 May 2025 — It warns that, by 2027, AI-enabl...</p></details>
    Published: May 2025  
 
 15. <a id="endnote-15"></a>
    Source: ncsc.gov.uk  
    Title: chapter 01 cyber threat to the uk  
-   Link: [https://www.ncsc.gov.uk/collection/ncsc-annual-review-2025/chapter-01-cyber-threat-to-the-uk](https://www.ncsc.gov.uk/collection/ncsc-annual-review-2025/chapter-01-cyber-threat-to-the-uk)  
+   Link: <a href="https://www.ncsc.gov.uk/collection/ncsc-annual-review-2025/chapter-01-cyber-threat-to-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/collection/ncsc-annual-review-2025/chapter-01-cyber-threat-to-the-uk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 01: Countering the cyber threat14 Oct 2025 — In the last 18 months, security researchers have identified new techniques that expl...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: ncsc.gov.uk  
    Title: impact of ai on cyber threat  
-   Link: [https://www.ncsc.gov.uk/report/impact-of-ai-on-cyber-threat](https://www.ncsc.gov.uk/report/impact-of-ai-on-cyber-threat)  
+   Link: <a href="https://www.ncsc.gov.uk/report/impact-of-ai-on-cyber-threat" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/report/impact-of-ai-on-cyber-threat</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Cyber Security CentreThe near-term impact of AI on the cyber threat24 Jan 2024 — This assessment focuses on how AI will impact t...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: ncsc.gov.uk  
    Title: why cyber defenders need to be ready for frontier ai  
-   Link: [https://www.ncsc.gov.uk/blogs/why-cyber-defenders-need-to-be-ready-for-frontier-ai](https://www.ncsc.gov.uk/blogs/why-cyber-defenders-need-to-be-ready-for-frontier-ai)  
+   Link: <a href="https://www.ncsc.gov.uk/blogs/why-cyber-defenders-need-to-be-ready-for-frontier-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/blogs/why-cyber-defenders-need-to-be-ready-for-frontier-ai</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reducing the attack surface – or system hardening · 2. Improving threat...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: tomshardware.com  
-   Link: [https://www.tomshardware.com/tech-industry/cyber-security/zero-day-clock-visualizes-and-quantifies-the-effects-of-ai-on-software-security-time-until-exploit-went-from-one-year-to-one-day-and-projected-to-be-one-minute-soon-enough](https://www.tomshardware.com/tech-industry/cyber-security/zero-day-clock-visualizes-and-quantifies-the-effects-of-ai-on-software-security-time-until-exploit-went-from-one-year-to-one-day-and-projected-to-be-one-minute-soon-enough)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Created by Sergej Epp from Sysdig and supported by major tech firms, ZDC demonstrates how [artificial](&amp;#123;&amp;#123; &#x27;artificial-goals/&#x27; | relative_url &amp;#125;&amp;#125;) intelligence has reduced the average...</p></details>
+   Link: <a href="https://www.tomshardware.com/tech-industry/cyber-security/zero-day-clock-visualizes-and-quantifies-the-effects-of-ai-on-software-security-time-until-exploit-went-from-one-year-to-one-day-and-projected-to-be-one-minute-soon-enough" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/cyber-security/zero-day-clock-visualizes-and-quantifies-the-effects-of-ai-on-software-security-time-until-exploit-went-from-one-year-to-one-day-and-projected-to-be-one-minute-soon-enough</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Created by Sergej Epp from Sysdig and supported by major tech firms, ZDC demonstrates how artificial intelligence has reduced the average...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: csoonline.com  
    Title: google discovers weaponized zero day exploits created with ai  
-   Link: [https://www.csoonline.com/article/4169046/google-discovers-weaponized-zero-day-exploits-created-with-ai.html](https://www.csoonline.com/article/4169046/google-discovers-weaponized-zero-day-exploits-created-with-ai.html)  
+   Link: <a href="https://www.csoonline.com/article/4169046/google-discovers-weaponized-zero-day-exploits-created-with-ai.html" target="_blank" rel="noopener noreferrer nofollow">https://www.csoonline.com/article/4169046/google-discovers-weaponized-zero-day-exploits-created-with-ai.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>threats, and managing identity protection. Credit: Summit Art Creations / Shutterstock. The Google Threat Intelligence Group (GTIG) today...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: ncsc.gov.uk  
    Title: retaining defensive advantage in the age of frontier ai cyber capabilities  
-   Link: [https://www.ncsc.gov.uk/blogs/retaining-defensive-advantage-in-the-age-of-frontier-ai-cyber-capabilities](https://www.ncsc.gov.uk/blogs/retaining-defensive-advantage-in-the-age-of-frontier-ai-cyber-capabilities)  
+   Link: <a href="https://www.ncsc.gov.uk/blogs/retaining-defensive-advantage-in-the-age-of-frontier-ai-cyber-capabilities" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/blogs/retaining-defensive-advantage-in-the-age-of-frontier-ai-cyber-capabilities</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Respond to a cyber attack. Back. Respond to a cyber...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: ncsc.gov.uk  
-   Link: [https://www.ncsc.gov.uk/](https://www.ncsc.gov.uk/)  
+   Link: <a href="https://www.ncsc.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/</a>  
 
 22. <a id="endnote-22"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Google](https://en.wikipedia.org/wiki/Google)  
+   Link: <a href="https://en.wikipedia.org/wiki/Google" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Google</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GoogleGoogle is the largest provider of search engines, mapping and navigation applications, email services, office suites, online vid...</p></details>
 
 ### Additional References
 
 23. <a id="endnote-23"></a>
    Source: axios.com  
-   Link: [https://www.axios.com/2026/05/12/ai-hacking-found-google-report](https://www.axios.com/2026/05/12/ai-hacking-found-google-report)  
+   Link: <a href="https://www.axios.com/2026/05/12/ai-hacking-found-google-report" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2026/05/12/ai-hacking-found-google-report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-assisted hacking is already here, Google warns3 days ago — Researchers have found the first known case of cybercriminals using AI to e...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: openreview.net  
-   Link: [https://openreview.net/forum?id=3pk0p4NGmQ](https://openreview.net/forum?id=3pk0p4NGmQ)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CVE-Bench: A [Benchmark](&amp;#123;&amp;#123; &#x27;benchmark-limits/&#x27; | relative_url &amp;#125;&amp;#125;) for AI Agents&#x27; Ability to Exploit...by Y Zhu · Cited by 49 — TL;DR: We introduce a cybersecurity benchmark for ev...</p></details>
+   Link: <a href="https://openreview.net/forum?id=3pk0p4NGmQ" target="_blank" rel="noopener noreferrer nofollow">https://openreview.net/forum?id=3pk0p4NGmQ</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>CVE-Bench: A Benchmark for AI Agents&#x27; Ability to Exploit...by Y Zhu · Cited by 49 — TL;DR: We introduce a cybersecurity benchmark for ev...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: machinebrief.com  
-   Link: [https://www.machinebrief.com/news/exploitation-ai-a-double-edged-sword-in-cybersecurity-twou](https://www.machinebrief.com/news/exploitation-ai-a-double-edged-sword-in-cybersecurity-twou)  
+   Link: <a href="https://www.machinebrief.com/news/exploitation-ai-a-double-edged-sword-in-cybersecurity-twou" target="_blank" rel="noopener noreferrer nofollow">https://www.machinebrief.com/news/exploitation-ai-a-double-edged-sword-in-cybersecurity-twou</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploitation AI: A Double-Edged Sword in Cybersecurity9 hours ago — ExploitGym reveals AI&#x27;s dual-use exploitation capabilities, showcasin...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/max-planck-institute-for-security-and-privacy_exploitgym-can-ai-agents-turn-security-vulnerabilities-activity-7462125428321984514-x-Bn](https://www.linkedin.com/posts/max-planck-institute-for-security-and-privacy_exploitgym-can-ai-agents-turn-security-vulnerabilities-activity-7462125428321984514-x-Bn)  
+   Link: <a href="https://www.linkedin.com/posts/max-planck-institute-for-security-and-privacy_exploitgym-can-ai-agents-turn-security-vulnerabilities-activity-7462125428321984514-x-Bn" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/max-planck-institute-for-security-and-privacy_exploitgym-can-ai-agents-turn-security-vulnerabilities-activity-7462125428321984514-x-Bn</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Max Planck Institute for Security and Privacy (MPI-SP)&#x27;s PostHow good are today&#x27;s AI agents at turning known software vulnerabilities int...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: techradar.com  
-   Link: [https://www.techradar.com/pro/security/this-is-the-tip-of-the-iceberg-google-experts-say-they-have-seen-hackers-using-ai-to-discover-and-weaponize-a-zero-day-for-the-first-time](https://www.techradar.com/pro/security/this-is-the-tip-of-the-iceberg-google-experts-say-they-have-seen-hackers-using-ai-to-discover-and-weaponize-a-zero-day-for-the-first-time)  
+   Link: <a href="https://www.techradar.com/pro/security/this-is-the-tip-of-the-iceberg-google-experts-say-they-have-seen-hackers-using-ai-to-discover-and-weaponize-a-zero-day-for-the-first-time" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/pro/security/this-is-the-tip-of-the-iceberg-google-experts-say-they-have-seen-hackers-using-ai-to-discover-and-weaponize-a-zero-day-for-the-first-time</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This marks a shift from isolated AI-assisted efforts to industrial-scale AI-driven attacks. The vulnerability targeted a widely-used open...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: theverge.com  
-   Link: [https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped](https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped)  
+   Link: <a href="https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The exploit targeted an open-source, web-based system administration tool, aiming to bypass two-factor authentication through a logic fla...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: infosecurity-magazine.com  
-   Link: [https://www.infosecurity-magazine.com/news/uk-faces-a-cyber-perfect-storm-ncsc/](https://www.infosecurity-magazine.com/news/uk-faces-a-cyber-perfect-storm-ncsc/)  
+   Link: <a href="https://www.infosecurity-magazine.com/news/uk-faces-a-cyber-perfect-storm-ncsc/" target="_blank" rel="noopener noreferrer nofollow">https://www.infosecurity-magazine.com/news/uk-faces-a-cyber-perfect-storm-ncsc/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Faces a Cyber &#x27;Perfect Storm&#x27;1 day ago —... cyber risk, the NCSC warns.... threat actors, even with the threats from AI looming,” he...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/davey-mcglade-4b9a62131_impact-of-ai-on-cyber-threat-from-now-to-activity-7325844821523275776-mjE4](https://www.linkedin.com/posts/davey-mcglade-4b9a62131_impact-of-ai-on-cyber-threat-from-now-to-activity-7325844821523275776-mjE4)  
+   Link: <a href="https://www.linkedin.com/posts/davey-mcglade-4b9a62131_impact-of-ai-on-cyber-threat-from-now-to-activity-7325844821523275776-mjE4" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/davey-mcglade-4b9a62131_impact-of-ai-on-cyber-threat-from-now-to-activity-7325844821523275776-mjE4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NCSC report: AI and cyber security to 2027We have published a new assessment on how AI will transform the cyber threat to 2027. Developme...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/google-stops-first-ai-generated-zero-day-why-b3v6e](https://www.linkedin.com/pulse/google-stops-first-ai-generated-zero-day-why-b3v6e)  
+   Link: <a href="https://www.linkedin.com/pulse/google-stops-first-ai-generated-zero-day-why-b3v6e" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/google-stops-first-ai-generated-zero-day-why-b3v6e</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>🚨 Google Stops the First AI-Generated Zero-DayAI security stopped being theoretical this week. Google Threat Intelligence disrupted the f...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/keith-king-03a172128_ai-is-collapsing-the-cybersecurity-response-activity-7465083322403106816-hEGG](https://www.linkedin.com/posts/keith-king-03a172128_ai-is-collapsing-the-cybersecurity-response-activity-7465083322403106816-hEGG)  
+   Link: <a href="https://www.linkedin.com/posts/keith-king-03a172128_ai-is-collapsing-the-cybersecurity-response-activity-7465083322403106816-hEGG" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/keith-king-03a172128_ai-is-collapsing-the-cybersecurity-response-activity-7465083322403106816-hEGG</a>  

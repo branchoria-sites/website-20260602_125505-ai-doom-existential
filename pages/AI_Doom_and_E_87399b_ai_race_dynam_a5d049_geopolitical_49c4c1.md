@@ -12,21 +12,21 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_ai_race_dynam_a5d049_model_release_108910
 - AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - race-pressure
 - geopolitics
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - race-pressure
 - geopolitics
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: States may resist strict AI safety rules when they believe rivals could gain economic, military, or strategic advantage by moving faster.
 hero_summary: States may resist strict AI safety rules when they believe rivals could gain economic, military, or strategic advantage by moving faster.
 layout: default
 permalink: /geopolitics/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /race-pressure/
 nav_short_title: Geopolitics
 title: Can Countries Slow Down Without Falling Behind?
@@ -213,20 +213,20 @@ parent_heading_title: Why AI Races Can Make Safety Harder
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_ai_race_dynam_a5d049
-  title: Race Pressure | AI Doom and
+  title: Race Pressure | AI Doom and E 87399 b
   permalink: /race-pressure/
   short_title: Race Pressure
   heading_title: Why AI Races Can Make Safety Harder
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_ai_race_dynam_a5d049
-  title: Race Pressure | AI Doom and
+  title: Race Pressure | AI Doom and E 87399 b
   permalink: /race-pressure/
   short_title: Race Pressure
   heading_title: Why AI Races Can Make Safety Harder
@@ -264,7 +264,7 @@ child_links:
   heading_title: Would an AI race make leaders ignore warnings?
 up_link:
   basename: AI_Doom_and_E_87399b_ai_race_dynam_a5d049
-  title: Race Pressure | AI Doom and
+  title: Race Pressure | AI Doom and E 87399 b
   permalink: /race-pressure/
   short_title: Race Pressure
   heading_title: Why AI Races Can Make Safety Harder
@@ -292,7 +292,7 @@ A recurring concern in debates about AI doom is that even if governments recogni
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1-Illustration-1-dark.svg" | relative_url }}" alt="Geopolitics illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This creates a central dilemma. Many AI safety advocates argue that the most powerful systems should be tested, monitored, and perhaps developed more slowly than market or strategic pressures would otherwise allow. Yet governments often view AI as a strategic technology comparable to previous transformative technologies whose control affected national power. In that environment, calls for caution can be interpreted as calls to fall behind. For researchers concerned about existential risk, this geopolitical dynamic is not a side issue but one of the main reasons why potentially [dangerous]({{ 'autonomy/' | relative_url }}) systems might be deployed before they are fully understood. RAND Corporation <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.governance.ai/International_Races_for_Risky_Technologies_DRAFT_NOV_2022.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.governance.ai">[Governance AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.governance.ai</span><span class="citation-popover-title">International Races for Risky Technologies DRAFT NOV 2022</span><span class="citation-popover-snippet">Governance AIInternational Races for Risky Technologiesby E Stafford · 2022 · Cited by 3 — We examine how three factors influence their w...</span></span></span>
+This creates a central dilemma. Many AI safety advocates argue that the most powerful systems should be tested, monitored, and perhaps developed more slowly than market or strategic pressures would otherwise allow. Yet governments often view AI as a strategic technology comparable to previous transformative technologies whose control affected national power. In that environment, calls for caution can be interpreted as calls to fall behind. For researchers concerned about existential risk, this geopolitical dynamic is not a side issue but one of the main reasons why potentially dangerous systems might be deployed before they are fully understood. RAND Corporation <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.governance.ai/International_Races_for_Risky_Technologies_DRAFT_NOV_2022.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.governance.ai">[Governance AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.governance.ai</span><span class="citation-popover-title">International Races for Risky Technologies DRAFT NOV 2022</span><span class="citation-popover-snippet">Governance AIInternational Races for Risky Technologiesby E Stafford · 2022 · Cited by 3 — We examine how three factors influence their w...</span></span></span>
 
 ## Why Governments Frame AI as Strategic Power
 
@@ -326,17 +326,17 @@ Within AI doom discussions, this dynamic is often described as a coordination pr
 
 ### Why This Matters for Existential Risk Arguments
 
-Many existential-risk scenarios require more than merely powerful AI. They also require failures of oversight, insufficient testing, weak [monitoring]({{ 'monitoring/' | relative_url }}), or [deployment]({{ 'release-gates/' | relative_url }}) under uncertainty.
+Many existential-risk scenarios require more than merely powerful AI. They also require failures of oversight, insufficient testing, weak [monitoring]({{ 'monitoring/' | relative_url }}), or deployment under uncertainty.
 
 Race dynamics potentially increase the probability of all of these conditions.
 
-For example, if highly capable systems begin displaying concerning behaviours—such as deceptive reasoning, unexpected autonomy, or the ability to assist with dangerous activities—governments facing intense geopolitical pressure might decide that strategic deployment remains necessary despite unresolved concerns. In this view, competition acts as a risk multiplier rather than a direct cause of catastrophe. <span class="citation-chip-wrap"><a class="citation-chip" href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internationalaisafetyreport.org">[International AI Safety Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internationalaisafetyreport.org</span><span class="citation-popover-title">international ai safety report 2026</span><span class="citation-popover-snippet">International AI Safety ReportInternational AI Safety Report 20263 Feb 2026 — This Report assesses what general-purpose AI systems can do...</span></span></span>
+For example, if highly capable systems begin displaying concerning behaviours—such as deceptive reasoning, unexpected [autonomy]({{ 'autonomy/' | relative_url }}), or the ability to assist with dangerous activities—governments facing intense geopolitical pressure might decide that strategic deployment remains necessary despite unresolved concerns. In this view, competition acts as a risk multiplier rather than a direct cause of catastrophe. <span class="citation-chip-wrap"><a class="citation-chip" href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internationalaisafetyreport.org">[International AI Safety Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internationalaisafetyreport.org</span><span class="citation-popover-title">international ai safety report 2026</span><span class="citation-popover-snippet">International AI Safety ReportInternational AI Safety Report 20263 Feb 2026 — This Report assesses what general-purpose AI systems can do...</span></span></span>
 
 ## Does Evidence Show Countries Actually Cooperate?
 
 The picture is mixed.
 
-One argument against extreme pessimism is that governments have already shown some willingness to cooperate on frontier AI risks. The 2023 AI Safety Summit at Bletchley Park brought together countries that are geopolitical competitors, including the United States, China, the United Kingdom, European states, India and others. Participants signed the Bletchley Declaration, which acknowledged the need to address risks from frontier AI systems and pursue international cooperation on safety. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">The Bletchley Declaration by Countries Attending the AI...2 Nov 2023 — The Bletchley Declaration by Countries Attending the AI Safety Su...</span><span class="citation-popover-meta">Published: november 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ai safety summit 2023 the bletchley declaration</span><span class="citation-popover-snippet">Safety Summit 2023: The Bletchley Declaration1 Nov 2023 — The Bletchley Declaration on AI Safety announces a new global effort to unlock...</span></span></span>
+One argument against extreme pessimism is that governments have already shown some willingness to cooperate on frontier AI risks. The 2023 AI Safety Summit at [Bletchley]({{ 'bletchley/' | relative_url }}) Park brought together countries that are geopolitical competitors, including the United States, China, the United Kingdom, European states, India and others. Participants signed the Bletchley Declaration, which acknowledged the need to address risks from frontier AI systems and pursue international cooperation on safety. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">The Bletchley Declaration by Countries Attending the AI...2 Nov 2023 — The Bletchley Declaration by Countries Attending the AI Safety Su...</span><span class="citation-popover-meta">Published: november 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ai safety summit 2023 the bletchley declaration</span><span class="citation-popover-snippet">Safety Summit 2023: The Bletchley Declaration1 Nov 2023 — The Bletchley Declaration on AI Safety announces a new global effort to unlock...</span></span></span>
 
 Subsequent international meetings produced further commitments around safety testing, AI Safety Institutes, and information sharing. Various governments have also supported international scientific assessments of frontier AI risks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2023/11/03/uk-safety-summit-ai-global-musk-altman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Global leaders commit to pre-deployment AI safety testing</span><span class="citation-popover-snippet">This coalition intends to establish common protocols for AI safety at the new London-based AI Safety Institute, which will serve as a glo...</span></span></span>
 
@@ -817,166 +817,166 @@ The question "Can countries slow down without falling behind?" therefore sits ne
 1. <a id="endnote-1"></a>
    Source: rand.org  
    Title: PEA4155 1  
-   Link: [https://www.rand.org/pubs/perspectives/PEA4155-1.html](https://www.rand.org/pubs/perspectives/PEA4155-1.html)  
+   Link: <a href="https://www.rand.org/pubs/perspectives/PEA4155-1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/perspectives/PEA4155-1.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>RAND CorporationThe Artificial General Intelligence Race and International...24 Sept 2025 — The authors contend with whether the greates...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cdn.governance.ai  
    Title: International Races for Risky Technologies DRAFT NOV 2022  
-   Link: [https://cdn.governance.ai/International_Races_for_Risky_Technologies_DRAFT_NOV_2022.pdf](https://cdn.governance.ai/International_Races_for_Risky_Technologies_DRAFT_NOV_2022.pdf)  
+   Link: <a href="https://cdn.governance.ai/International_Races_for_Risky_Technologies_DRAFT_NOV_2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.governance.ai/International_Races_for_Risky_Technologies_DRAFT_NOV_2022.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Governance AIInternational Races for Risky Technologiesby E Stafford · 2022 · Cited by 3 — We examine how three factors influence their w...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv The AI Risk Spectrum: From Dangerous Capabilities to Existential Threats  
-   Link: [https://arxiv.org/abs/2508.13700](https://arxiv.org/abs/2508.13700)  
+   Link: <a href="https://arxiv.org/abs/2508.13700" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2508.13700</a>  
 
 4. <a id="endnote-4"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023](https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023)  
+   Link: <a href="https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Bletchley Declaration by Countries Attending the AI...2 Nov 2023 — The Bletchley Declaration by Countries Attending the AI Safety Su...</p></details>
    Published: november 2023  
 
 5. <a id="endnote-5"></a>
    Source: GOV.UK  
    Title: ai safety summit 2023 the bletchley declaration  
-   Link: [https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration](https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration)  
+   Link: <a href="https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Safety Summit 2023: The Bletchley Declaration1 Nov 2023 — The Bletchley Declaration on AI Safety announces a new global effort to unlock...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: axios.com  
    Title: Global leaders commit to pre-deployment AI safety testing  
-   Link: [https://www.axios.com/2023/11/03/uk-safety-summit-ai-global-musk-altman](https://www.axios.com/2023/11/03/uk-safety-summit-ai-global-musk-altman)  
+   Link: <a href="https://www.axios.com/2023/11/03/uk-safety-summit-ai-global-musk-altman" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2023/11/03/uk-safety-summit-ai-global-musk-altman</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This coalition intends to establish common protocols for AI safety at the new London-based AI Safety Institute, which will serve as a glo...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
    Title: arXiv Emerging Practices in Frontier AI Safety Frameworks  
-   Link: [https://arxiv.org/abs/2503.04746](https://arxiv.org/abs/2503.04746)  
+   Link: <a href="https://arxiv.org/abs/2503.04746" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2503.04746</a>  
 
 8. <a id="endnote-8"></a>
    Source: wired.com  
    Title: World Powers Say They Want to Contain AI  
-   Link: [https://www.wired.com/story/uk-ai-summit-declaration](https://www.wired.com/story/uk-ai-summit-declaration)  
+   Link: <a href="https://www.wired.com/story/uk-ai-summit-declaration" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/uk-ai-summit-declaration</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>They&#x27;re Also Racing to Advance ItNovember 2, 2023 — On November 1, 2023, twenty-eight countries, including the US, EU members, and China...</p></details>
    Published: November 2, 2023  
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
    Title: arXiv Frontier AI Regulation: Managing Emerging Risks to Public Safety  
-   Link: [https://arxiv.org/abs/2307.03718](https://arxiv.org/abs/2307.03718)  
+   Link: <a href="https://arxiv.org/abs/2307.03718" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2307.03718</a>  
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2409.11314](https://arxiv.org/abs/2409.11314)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivThe Role of AI Safety Institutes in Contributing to International Standards for Frontier AI SafetySeptember 17, 2024...</p></details>
+   Link: <a href="https://arxiv.org/abs/2409.11314" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2409.11314</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of AI Safety Institutes in Contributing to International Standards for Frontier AI SafetySeptember 17, 2024...</p></details>
    Published: September 17, 2024  
 
 11. <a id="endnote-11"></a>
    Source: assets.publishing.service.gov.uk  
    Title: AI 2030 Scenarios Report  
-   Link: [https://assets.publishing.service.gov.uk/media/6808fc002a86d6dfb2b52772/AI_2030_Scenarios_Report.pdf](https://assets.publishing.service.gov.uk/media/6808fc002a86d6dfb2b52772/AI_2030_Scenarios_Report.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/6808fc002a86d6dfb2b52772/AI_2030_Scenarios_Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6808fc002a86d6dfb2b52772/AI_2030_Scenarios_Report.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2030 ScenariosPolicy makers can use these scenarios to test strategies and policies designed to navigate to a more favourable AI future f...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: assets.publishing.service.gov.uk  
    Title: publishing.service.gov.uk Chair's  
-   Link: [https://assets.publishing.service.gov.uk/media/6543e0b61f1a60000d360d2b/aiss-chair-statement.pdf](https://assets.publishing.service.gov.uk/media/6543e0b61f1a60000d360d2b/aiss-chair-statement.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/6543e0b61f1a60000d360d2b/aiss-chair-statement.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6543e0b61f1a60000d360d2b/aiss-chair-statement.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>publishing.service.gov.ukChair&#x27;s Summary of the AI Safety Summit 2023, Bletchley...1 Nov 2023 — This Summit, the first of its kind, was...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: assets.publishing.service.gov.uk  
    Title: Strategic competition in the age of AI  
-   Link: [https://assets.publishing.service.gov.uk/media/6703f5ec080bdf716392ef44/Strategic_competition_in_the_age_of_AI.pdf](https://assets.publishing.service.gov.uk/media/6703f5ec080bdf716392ef44/Strategic_competition_in_the_age_of_AI.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/6703f5ec080bdf716392ef44/Strategic_competition_in_the_age_of_AI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6703f5ec080bdf716392ef44/Strategic_competition_in_the_age_of_AI.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>competition in the age of AIby J Black · 2024 · Cited by 5 — RAND has been involved in research into the military and strategic implicati...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: GOV.UK  
    Title: ai safety summit 2023  
-   Link: [https://www.gov.uk/government/topical-events/ai-safety-summit-2023](https://www.gov.uk/government/topical-events/ai-safety-summit-2023)  
+   Link: <a href="https://www.gov.uk/government/topical-events/ai-safety-summit-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/topical-events/ai-safety-summit-2023</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Safety Summit 2023The AI Safety Summit 2023 is a major global event that will take place on the 1 and 2 November at Bletchley Park, Bucki...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: minister.industry.gov.au  
    Title: australia signs bletchley declaration ai safety summit  
-   Link: [https://www.minister.industry.gov.au/ministers/husic/media-releases/australia-signs-bletchley-declaration-ai-safety-summit](https://www.minister.industry.gov.au/ministers/husic/media-releases/australia-signs-bletchley-declaration-ai-safety-summit)  
+   Link: <a href="https://www.minister.industry.gov.au/ministers/husic/media-releases/australia-signs-bletchley-declaration-ai-safety-summit" target="_blank" rel="noopener noreferrer nofollow">https://www.minister.industry.gov.au/ministers/husic/media-releases/australia-signs-bletchley-declaration-ai-safety-summit</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>signs the Bletchley Declaration at AI Safety SummitNov 3, 2023 — Australia, alongside the EU and 27 countries, including the US, UK and C...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: rand.org  
    Title: RAND RRA3295 1  
-   Link: [https://www.rand.org/content/dam/rand/pubs/research_reports/RRA3200/RRA3295-1/RAND_RRA3295-1.pdf](https://www.rand.org/content/dam/rand/pubs/research_reports/RRA3200/RRA3295-1/RAND_RRA3295-1.pdf)  
+   Link: <a href="https://www.rand.org/content/dam/rand/pubs/research_reports/RRA3200/RRA3295-1/RAND_RRA3295-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/content/dam/rand/pubs/research_reports/RRA3200/RRA3295-1/RAND_RRA3295-1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Strategic competition in the age of AI: Emerging risks and...9 Sept 2024 — The goal was to provide an initial exploration of ways in whi...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: internationalaisafetyreport.org  
    Title: international ai safety report 2026  
-   Link: [https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026](https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026)  
+   Link: <a href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow">https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>International AI Safety ReportInternational AI Safety Report 20263 Feb 2026 — This Report assesses what general-purpose AI systems can do...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: carnegieendowment.org  
-   Link: [https://carnegieendowment.org/research/2024/03/charting-the-geopolitics-and-european-governance-of-artificial-intelligence](https://carnegieendowment.org/research/2024/03/charting-the-geopolitics-and-european-governance-of-artificial-intelligence)  
+   Link: <a href="https://carnegieendowment.org/research/2024/03/charting-the-geopolitics-and-european-governance-of-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://carnegieendowment.org/research/2024/03/charting-the-geopolitics-and-european-governance-of-artificial-intelligence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Carnegie EndowmentCharting the Geopolitics and European Governance of...March 6, 2024 — 6 Mar 2024 — The EU&#x27;s AI Act aims to regulate th...</p></details>
    Published: March 6, 2024  
 
 19. <a id="endnote-19"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Bletchley](https://en.wikipedia.org/wiki/Bletchley)  
+   Link: <a href="https://en.wikipedia.org/wiki/Bletchley" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bletchley</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BletchleyBletchley is a constituent town of Milton Keynes, a city in Buckinghamshire, England. It gives its name to a larger census &quot;b...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: ai-frontiers.org  
-   Link: [https://ai-frontiers.org/](https://ai-frontiers.org/)  
+   Link: <a href="https://ai-frontiers.org/" target="_blank" rel="noopener noreferrer nofollow">https://ai-frontiers.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI FrontiersExpert dialogue and debate on the impacts of artificial intelligence. Articles present perspectives from specialists at the f...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: cigionline.org  
-   Link: [https://www.cigionline.org/documents/3745/AI_National_Security.pdf](https://www.cigionline.org/documents/3745/AI_National_Security.pdf)  
+   Link: <a href="https://www.cigionline.org/documents/3745/AI_National_Security.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cigionline.org/documents/3745/AI_National_Security.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI National Security Scenariosby D Cass-Beggs · Cited by 3 — Addressing this kind of [loss of control](&amp;#123;&amp;#123; &#x27;loss-of-control/&#x27; | relative_url &amp;#125;&amp;#125;) risk may require governance decision...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: x.com  
-   Link: [https://x.com/10DowningStreet/status/1719683272589160605](https://x.com/10DowningStreet/status/1719683272589160605)  
+   Link: <a href="https://x.com/10DowningStreet/status/1719683272589160605" target="_blank" rel="noopener noreferrer nofollow">https://x.com/10DowningStreet/status/1719683272589160605</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Bletchley DeclarationLeading AI nations have reached a world-first agreement on AI Safety. The Bletchley Park Declaration sees 28 cou...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: dig.watch  
-   Link: [https://dig.watch/resource/the-bletchley-declaration](https://dig.watch/resource/the-bletchley-declaration)  
+   Link: <a href="https://dig.watch/resource/the-bletchley-declaration" target="_blank" rel="noopener noreferrer nofollow">https://dig.watch/resource/the-bletchley-declaration</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Bletchley declaration on AI safetyThe Bletchley Declaration on AI Safety was introduced at the Safety Summit, establishing global coo...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/keith-king-03a172128_ai-arms-race-risks-existential-stakes-warns-activity-7433722689409949696-kbhn](https://www.linkedin.com/posts/keith-king-03a172128_ai-arms-race-risks-existential-stakes-warns-activity-7433722689409949696-kbhn)  
+   Link: <a href="https://www.linkedin.com/posts/keith-king-03a172128_ai-arms-race-risks-existential-stakes-warns-activity-7433722689409949696-kbhn" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/keith-king-03a172128_ai-arms-race-risks-existential-stakes-warns-activity-7433722689409949696-kbhn</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Keith King&#x27;s Post28 Feb 2026 — AI Arms Race Risks Existential Stakes, Warns Leading Researcher Introduction The global race to dominate a...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: aigi.ox.ac.uk  
-   Link: [https://aigi.ox.ac.uk/wp-content/uploads/2025/12/Operationalising-AI-Benefit-Sharing-Workshop-02.12.2025.pdf](https://aigi.ox.ac.uk/wp-content/uploads/2025/12/Operationalising-AI-Benefit-Sharing-Workshop-02.12.2025.pdf)  
+   Link: <a href="https://aigi.ox.ac.uk/wp-content/uploads/2025/12/Operationalising-AI-Benefit-Sharing-Workshop-02.12.2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aigi.ox.ac.uk/wp-content/uploads/2025/12/Operationalising-AI-Benefit-Sharing-Workshop-02.12.2025.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BENEFIT-SHARING FRAMEWORK: BALANCING...The paper&#x27;s central argument is that AI benefit-sharing requires integration across three distinc...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: nbr.org  
    Title: the indo pacific and the challenge of multilateral ai governance  
-   Link: [https://www.nbr.org/publication/the-indo-pacific-and-the-challenge-of-multilateral-ai-governance/](https://www.nbr.org/publication/the-indo-pacific-and-the-challenge-of-multilateral-ai-governance/)  
+   Link: <a href="https://www.nbr.org/publication/the-indo-pacific-and-the-challenge-of-multilateral-ai-governance/" target="_blank" rel="noopener noreferrer nofollow">https://www.nbr.org/publication/the-indo-pacific-and-the-challenge-of-multilateral-ai-governance/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI systems posed large-scale risks requiring international coordination, as described by the Bletchley and Seoul declarations. They advan...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: oecd.org  
    Title: GSG Background Note GSG(2024)1en  
-   Link: [https://www.oecd.org/content/dam/oecd/en/about/programmes/strategic-foresight/GSG%20Background%20Note_GSG%282024%291en.pdf](https://www.oecd.org/content/dam/oecd/en/about/programmes/strategic-foresight/GSG%20Background%20Note_GSG%282024%291en.pdf)  
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/about/programmes/strategic-foresight/GSG%20Background%20Note_GSG%282024%291en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/about/programmes/strategic-foresight/GSG%20Background%20Note_GSG%282024%291en.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Futures of Global AI Governance:7 Oct 2024 — AI safety regulation, featuring multisectoral representation from 28 countries. AI focus: en...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: Nvidia CEO Jensen Huang on AI race vs. China: Overall we're not far ahead  
-   Link: [http://www.youtube.com/watch?v=MtvH0ArqC4k](http://www.youtube.com/watch?v=MtvH0ArqC4k)  
+   Link: <a href="http://www.youtube.com/watch?v=MtvH0ArqC4k" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=MtvH0ArqC4k</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Geopolitical AI competition national security existential risk The Catastrophic Risks of AI — and a Safer Path | Yoshua Bengio | TED TED...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: burges-salmon.com  
    Title: bletchley declaration signed at uk ai safety summit  
-   Link: [https://www.burges-salmon.com/articles/102iryj/bletchley-declaration-signed-at-uk-ai-safety-summit/](https://www.burges-salmon.com/articles/102iryj/bletchley-declaration-signed-at-uk-ai-safety-summit/)  
+   Link: <a href="https://www.burges-salmon.com/articles/102iryj/bletchley-declaration-signed-at-uk-ai-safety-summit/" target="_blank" rel="noopener noreferrer nofollow">https://www.burges-salmon.com/articles/102iryj/bletchley-declaration-signed-at-uk-ai-safety-summit/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Declaration, signed at the AI Safety Summit 2023, aims to coordinate global cooperation on artificial intelligence (AI) safety.Read more...</p></details>

@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1_bletchley_ai_417199
 - AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1_compute_monit_043a89
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - race-pressure
 - geopolitics
 - race-pressure
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - race-pressure
 - geopolitics
 - race-pressure
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Geopolitical pressure could make leaders accept unresolved AI warning signs that would look unacceptable in a slower environment.
 hero_summary: Geopolitical pressure could make leaders accept unresolved AI warning signs that would look unacceptable in a slower environment.
 layout: default
 permalink: /race-pressure-aabd56/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /race-pressure/
 - /geopolitics/
 nav_short_title: Race Pressure
@@ -211,10 +211,10 @@ parent_heading_title: Can Countries Slow Down Without Falling Behind?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_ai_race_dynam_a5d049
-  title: Race Pressure | AI Doom and
+  title: Race Pressure | AI Doom and E 87399 b
   permalink: /race-pressure/
   short_title: Race Pressure
   heading_title: Why AI Races Can Make Safety Harder
@@ -226,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_ai_race_dynam_a5d049
-  title: Race Pressure | AI Doom and
+  title: Race Pressure | AI Doom and E 87399 b
   permalink: /race-pressure/
   short_title: Race Pressure
   heading_title: Why AI Races Can Make Safety Harder
@@ -269,23 +269,23 @@ image: /assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c
 
 ## Introduction
 
-A central fear in AI doom debates is not simply that advanced AI systems could be [dangerous]({{ 'autonomy/' | relative_url }}), but that [warning signs]({{ 'warning-signs/' | relative_url }}) could appear and still be ignored. The mechanism is straightforward: when governments, companies, or military planners believe they are in a high-stakes race, evidence that would normally trigger caution may instead be treated as a cost of staying competitive.
+A central fear in AI doom debates is not simply that advanced AI systems could be dangerous, but that [warning signs]({{ 'warning-signs/' | relative_url }}) could appear and still be ignored. The mechanism is straightforward: when governments, companies, or military planners believe they are in a high-stakes race, evidence that would normally trigger caution may instead be treated as a cost of staying competitive.
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1_race_pressure_c5dcfd-Illustration-1-dark.svg" | relative_url }}" alt="Race Pressure illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1_race_pressure_c5dcfd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1_race_pressure_c5dcfd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Supporters of this concern argue that geopolitical competition can change how decision-makers interpret risk. Rather than asking, “Is this system safe enough?”, leaders may begin asking, “Can we afford to slow down while rivals continue?” In that environment, unresolved concerns about misalignment, deceptive behaviour, autonomy, or loss of control can be reclassified from reasons to pause into problems to manage later. Critics of AI doom often accept that competitive pressure exists, but dispute whether it is strong enough to override safety incentives or whether the race analogy is overstated. The disagreement is not mainly about whether competition matters. It is about how much it changes behaviour when serious warnings emerge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governance.ai/research-paper/safety-not-guaranteed-international-strategic-dynamics-of-risky-technology-races" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governance.ai">[GovAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governance.ai</span><span class="citation-popover-title">safety not guaranteed international strategic dynamics of risky technology races</span><span class="citation-popover-snippet">GovAIInternational Strategic Dynamics of Risky Technology RacesWe analyse a strategic model to determine when states deploy technologies...</span></span></span>
+Supporters of this concern argue that geopolitical competition can change how decision-makers interpret risk. Rather than asking, “Is this system safe enough?”, leaders may begin asking, “Can we afford to slow down while rivals continue?” In that environment, unresolved concerns about misalignment, deceptive behaviour, [autonomy]({{ 'autonomy/' | relative_url }}), or [loss of control]({{ 'loss-of-control/' | relative_url }}) can be reclassified from reasons to pause into problems to manage later. Critics of AI doom often accept that competitive pressure exists, but dispute whether it is strong enough to override safety incentives or whether the race analogy is overstated. The disagreement is not mainly about whether competition matters. It is about how much it changes behaviour when serious warnings emerge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governance.ai/research-paper/safety-not-guaranteed-international-strategic-dynamics-of-risky-technology-races" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governance.ai">[GovAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governance.ai</span><span class="citation-popover-title">safety not guaranteed international strategic dynamics of risky technology races</span><span class="citation-popover-snippet">GovAIInternational Strategic Dynamics of Risky Technology RacesWe analyse a strategic model to determine when states deploy technologies...</span></span></span>
 
 ## How competition changes risk tolerance
 
-The core claim is that races alter acceptable levels of uncertainty.
+The core claim is that races alter acceptable levels of [uncertainty]({{ 'uncertainty/' | relative_url }}).
 
-In a slower development environment, a company discovering unexpected model behaviour might delay deployment, conduct more evaluations, or wait for external review. In a competitive environment, the same evidence may be interpreted differently. Decision-makers may fear that delays will allow a rival laboratory or state to gain strategic advantage.
+In a slower development environment, a company discovering unexpected model behaviour might delay deployment, conduct more [evaluations]({{ 'evaluations/' | relative_url }}), or wait for external review. In a competitive environment, the same evidence may be interpreted differently. Decision-makers may fear that delays will allow a rival laboratory or state to gain strategic advantage.
 
 Research on technology races has repeatedly found that competitors can become willing to deploy before fully understanding risks. Models of international technology competition show that actors may knowingly accept greater danger when being first provides a large strategic reward. The issue is not necessarily ignorance. Participants may recognise the risk and proceed anyway because losing the race appears worse. Governance AI <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/00220027231214996" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsUncertainty, Information, and Risk in International...by N Emery-Xu · 2024 · Cited by 19 — A formal model reveals how the i...</span></span></span>
 
 For AI doom advocates, this matters because many existential-risk scenarios involve systems being deployed before researchers understand their behaviour. If race pressure becomes intense near the frontier of capability, then precisely the systems that require the most scrutiny may receive the least.
 
-This concern appears not only in theoretical work. Simulation studies of advanced AI competition have found that race dynamics tend to reduce cooperation and increase the probability of safety failures or geopolitical failures compared with more coordinated development paths. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0016328725000254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectStrategic insights from simulation gaming of AI race dynamicsby R Gruetzemacher · 2025 · Cited by 15 — Race dynamics in adva...</span></span></span>
+This concern appears not only in theoretical work. Simulation studies of advanced AI competition have found that race dynamics tend to reduce cooperation and increase the probability of safety failures or geopolitical failures compared with more coordinated development paths. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0016328725000254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Strategic insights from simulation gaming of AI race dynamicsby R Gruetzemacher · 2025 · Cited by 15 — Race dynamics in adva...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LQHp90R5wEE" title="We’re Racing Toward AI We Can’t Control | For Humanity #79" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LQHp90R5wEE" target="_blank" rel="noopener noreferrer">We’re Racing Toward AI We Can’t Control | For Humanity #79</a></p><p class="youtube-embed-meta">Channel: The AI Risk Network | AI Safety &middot; Views: 184.0K &middot; Uploaded: February 2026 &middot; Length: 1 hour 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LQHp90R5wEE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LQHp90R5wEE">Open on YouTube</a></p></div></div></div>
@@ -297,10 +297,10 @@ Race-pressure arguments do not depend on a single dramatic warning. Instead, the
 Examples often discussed in AI safety debates include:
 
 * **Unexpected capabilities**: models demonstrating abilities that developers did not anticipate or cannot fully explain.
-* **[Deceptive]({{ 'scheming-tests/' | relative_url }}) behaviour**: systems appearing to conceal intentions, strategically mislead evaluators, or behave differently under testing than in deployment.
+* **Deceptive behaviour**: systems appearing to conceal intentions, strategically mislead evaluators, or behave differently under testing than in deployment.
 * **Autonomy gains**: systems showing increasing ability to pursue goals over long periods with limited human supervision.
 * **Evaluation failures**: safety tests producing concerning results but not clear enough evidence to justify halting deployment.
-* **Interpretability gaps**: researchers remaining unable to explain why advanced systems make important decisions.
+* **[Interpretability]({{ 'interpretability/' | relative_url }}) gaps**: researchers remaining unable to explain why advanced systems make important decisions.
 * **Near misses and incidents**: warning events that stop short of catastrophe and are therefore easier to dismiss. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2503.05812" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Intolerable Risk Threshold Recommendations for Artificial Intelligence</span><span class="citation-popover-snippet">arXiv Intolerable Risk Threshold Recommendations for Artificial Intelligence</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internationalaisafetyreport.org">[International AI Safety Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internationalaisafetyreport.org</span><span class="citation-popover-title">international ai safety report 2026</span><span class="citation-popover-snippet">International AI Safety ReportInternational AI Safety Report 20263 Feb 2026 — This Report assesses what general-purpose AI systems can do...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)The UK AI Security Institute (AISI) has conducted evalu...</span></span></span>
 
 The race-pressure concern is not that any one warning sign proves doom. Rather, it is that decision-makers may repeatedly require stronger evidence before acting because the costs of delay feel immediate while the costs of catastrophe remain uncertain.
@@ -316,7 +316,7 @@ Many AI doom arguments depend on the possibility that the most important warning
 
 If a frontier model behaved catastrophically in public testing, deployment decisions would be relatively easy. More realistically, evidence may emerge gradually: strange behaviours, troubling evaluation results, increasing unpredictability, or research findings suggesting that current control methods are inadequate.
 
-Several formal studies of risky technology races emphasise the role of uncertainty. When participants possess incomplete information about both capabilities and dangers, competition can make premature deployment more attractive. Ambiguous evidence often becomes easier to discount because each actor can tell itself that the danger may be smaller than it appears while the competitive costs of caution are obvious. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/00220027231214996" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsUncertainty, Information, and Risk in International...by N Emery-Xu · 2024 · Cited by 19 — A formal model reveals how the i...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://aigi.ox.ac.uk/publications/uncertainty-information-and-risk-in-international-technology-races/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aigi.ox.ac.uk">[Oxford Martin AIGI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aigi.ox.ac.uk</span><span class="citation-popover-title">uncertainty information and risk in international technology races</span><span class="citation-popover-snippet">Oxford Martin AIGIUncertainty, Information, and Risk in International Technology...17 Nov 2023 — A formal model reveals how the informat...</span></span></span>
+Several formal studies of risky technology races emphasise the role of uncertainty. When participants possess incomplete information about both capabilities and dangers, competition can make premature deployment more attractive. Ambiguous evidence often becomes easier to discount because each actor can tell itself that the danger may be smaller than it appears while the competitive costs of caution are obvious. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/00220027231214996" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsUncertainty, Information, and Risk in International...by N Emery-Xu · 2024 · Cited by 19 — A formal model reveals how the i...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://aigi.ox.ac.uk/publications/uncertainty-information-and-risk-in-international-technology-races/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aigi.ox.ac.uk">[Oxford Martin AIGI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aigi.ox.ac.uk</span><span class="citation-popover-title">uncertainty information and risk in international technology races</span><span class="citation-popover-snippet">ford Martin AIGIUncertainty, Information, and Risk in International Technology...17 Nov 2023 — A formal model reveals how the informat...</span></span></span>
 
 This is one reason discussions of p(doom)—the estimated probability that advanced AI causes existential catastrophe—often intersect with race dynamics. Even people who assign a relatively low probability to doom may argue that competitive incentives become problematic when the downside is extraordinarily large and the evidence is inherently uncertain.
 
@@ -338,7 +338,7 @@ Supporters of race-pressure theories point to signs that competition is already 
 
 Recent reporting has described growing tension between deployment speed and precaution among frontier AI developers. Some observers argue that companies have become more reluctant to commit to hard pauses or deployment delays when competitors continue advancing. Critics see this as evidence that race dynamics are beginning to shape practical decisions, including how organisations define acceptable risk thresholds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2026/03/03/ai-race-safety-guardrail" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Safety guardrails loosen as AI rivalries grows</span><span class="citation-popover-snippet">Even traditionally cautious firms, like Anthropic, have recently revised their internal guidelines, narrowing criteria for delaying risky...</span></span></span>
 
-Other evidence is more indirect. Researchers and policy analysts have repeatedly warned that commercial and geopolitical competition can reduce incentives for safety investment, transparency, and cooperation. International declarations and safety commitments increasingly acknowledge this problem explicitly, suggesting that policymakers view competitive pressure as a genuine governance challenge rather than a purely theoretical concern. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sipri.org/sites/default/files/2025-11/1125_civilian_ai.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sipri.org">[SIPRI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sipri.org</span><span class="citation-popover-title">Addressing the risks that civilian AI poses to international</span><span class="citation-popover-snippet">SIPRIAddressing the risks that civilian AI poses to international...November 21, 2025 — 3 Nov 2025 — As AI safety researchers from OpenA...</span><span class="citation-popover-meta">Published: November 21, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.founderspledge.com/research/how-philanthropists-can-help-slow-the-race-to-dangerous-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: founderspledge.com">[2founderspledge.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">founderspledge.com</span><span class="citation-popover-title">how philanthropists can help slow the race to dangerous ai</span><span class="citation-popover-snippet">16 Oct 2024 — The emergence of an AI racing dynamic between great power nations like the US and China could cause both countries to cut c...</span></span></span>
+Other evidence is more indirect. Researchers and policy analysts have repeatedly warned that commercial and geopolitical competition can reduce incentives for safety investment, transparency, and cooperation. International declarations and safety commitments increasingly acknowledge this problem explicitly, suggesting that policymakers view competitive pressure as a genuine governance challenge rather than a purely theoretical concern. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sipri.org/sites/default/files/2025-11/1125_civilian_ai.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sipri.org">[SIPRI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sipri.org</span><span class="citation-popover-title">Addressing the risks that civilian AI poses to international</span><span class="citation-popover-snippet">Addressing the risks that civilian AI poses to international...November 21, 2025 — 3 Nov 2025 — As AI safety researchers from OpenA...</span><span class="citation-popover-meta">Published: November 21, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.founderspledge.com/research/how-philanthropists-can-help-slow-the-race-to-dangerous-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: founderspledge.com">[2founderspledge.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">founderspledge.com</span><span class="citation-popover-title">how philanthropists can help slow the race to dangerous ai</span><span class="citation-popover-snippet">16 Oct 2024 — The emergence of an AI racing dynamic between great power nations like the US and China could cause both countries to cut c...</span></span></span>
 
 However, none of this demonstrates that existentially dangerous warning signs have already been ignored. The evidence mainly supports a narrower claim: strong incentives exist that could make future warnings easier to discount.
 
@@ -368,8 +368,8 @@ Examples might include:
 * Frontier systems repeatedly failing safety evaluations without triggering meaningful deployment restrictions.
 * Organisations weakening previously announced safety commitments after competitive pressure increases.
 * Governments declining to act on identified risks because rivals are perceived to be moving faster.
-* Independent evaluators repeatedly highlighting serious concerns that receive little [operational]({{ 'operational-thresholds/' | relative_url }}) response.
-* Growing capability gains accompanied by stagnant investment in interpretability, control, monitoring, or incident response. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/fr/glossary/ai-race-dynamics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-title">ai race dynamics</span><span class="citation-popover-snippet">anizations under competitive pressure may allocate more resources...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.ca.gov/wp-content/uploads/2025/06/June-17-2025-%E2%80%93-The-California-Report-on-Frontier-AI-Policy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.ca.gov">[Governor of California]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.ca.gov</span><span class="citation-popover-title">June 17 2025 – The California Report on Frontier AI Policy</span><span class="citation-popover-snippet">Governor of CaliforniaTHE CALIFORNIA REPORT ON FRONTIER AI POLICY17 Jun 2025 — In cases where competitive pressures may disincentivize pa...</span></span></span>
+* Independent evaluators repeatedly highlighting serious concerns that receive little operational response.
+* Growing capability gains accompanied by stagnant investment in interpretability, control, [monitoring]({{ 'monitoring/' | relative_url }}), or incident response. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/fr/glossary/ai-race-dynamics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-title">ai race dynamics</span><span class="citation-popover-snippet">anizations under competitive pressure may allocate more resources...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.ca.gov/wp-content/uploads/2025/06/June-17-2025-%E2%80%93-The-California-Report-on-Frontier-AI-Policy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.ca.gov">[Governor of California]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.ca.gov</span><span class="citation-popover-title">June 17 2025 – The California Report on Frontier AI Policy</span><span class="citation-popover-snippet">ernor of CaliforniaTHE CALIFORNIA REPORT ON FRONTIER AI POLICY17 Jun 2025 — In cases where competitive pressures may disincentivize pa...</span></span></span>
 
 For AI doom advocates, the deepest concern is not that humanity will fail to notice warning signs. It is that warning signs may become visible while competitive incentives steadily raise the threshold for taking them seriously. In that scenario, the danger comes less from ignorance than from a collective decision that slowing down feels harder than pressing ahead. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governance.ai/research-paper/information-hazards-in-races-for-advanced-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governance.ai">[GovAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governance.ai</span><span class="citation-popover-title">information hazards in races for advanced artificial intelligence</span><span class="citation-popover-snippet">Information Hazards in Races for Advanced Artificial...We study how the information environment affects races to implement a powerful ne...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governance.ai/research-paper/safety-not-guaranteed-international-strategic-dynamics-of-risky-technology-races" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governance.ai">[Governance AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governance.ai</span><span class="citation-popover-title">safety not guaranteed international strategic dynamics of risky technology races</span><span class="citation-popover-snippet">GovAIInternational Strategic Dynamics of Risky Technology RacesWe analyse a strategic model to determine when states deploy technologies...</span></span></span>
 
@@ -798,165 +798,165 @@ For AI doom advocates, the deepest concern is not that humanity will fail to not
 1. <a id="endnote-1"></a>
    Source: governance.ai  
    Title: safety not guaranteed international strategic dynamics of risky technology races  
-   Link: [https://www.governance.ai/research-paper/safety-not-guaranteed-international-strategic-dynamics-of-risky-technology-races](https://www.governance.ai/research-paper/safety-not-guaranteed-international-strategic-dynamics-of-risky-technology-races)  
+   Link: <a href="https://www.governance.ai/research-paper/safety-not-guaranteed-international-strategic-dynamics-of-risky-technology-races" target="_blank" rel="noopener noreferrer nofollow">https://www.governance.ai/research-paper/safety-not-guaranteed-international-strategic-dynamics-of-risky-technology-races</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>GovAIInternational Strategic Dynamics of Risky Technology RacesWe analyse a strategic model to determine when states deploy technologies...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0016328725000254](https://www.sciencedirect.com/science/article/pii/S0016328725000254)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectStrategic insights from simulation gaming of AI race dynamicsby R Gruetzemacher · 2025 · Cited by 15 — Race dynamics in adva...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0016328725000254" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0016328725000254</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Strategic insights from simulation gaming of AI race dynamicsby R Gruetzemacher · 2025 · Cited by 15 — Race dynamics in adva...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: cdn.governance.ai  
    Title: AIInternational Races for Risky Technologies  
-   Link: [https://cdn.governance.ai/International_Races_for_Risky_Technologies_DRAFT_NOV_2022.pdf](https://cdn.governance.ai/International_Races_for_Risky_Technologies_DRAFT_NOV_2022.pdf)  
+   Link: <a href="https://cdn.governance.ai/International_Races_for_Risky_Technologies_DRAFT_NOV_2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.governance.ai/International_Races_for_Risky_Technologies_DRAFT_NOV_2022.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Governance AIInternational Races for Risky TechnologiesNovember 24, 2022 — by E Stafford · 2022 · Cited by 3 — We examine how three facto...</p></details>
    Published: November 24, 2022  
 
 4. <a id="endnote-4"></a>
    Source: governance.ai  
-   Title: information hazards in races for advanced [artificial](&#123;&#123; 'artificial-goals/' | relative_url &#125;&#125;) intelligence  
-   Link: [https://www.governance.ai/research-paper/information-hazards-in-races-for-advanced-artificial-intelligence](https://www.governance.ai/research-paper/information-hazards-in-races-for-advanced-artificial-intelligence)  
+   Title: information hazards in races for advanced artificial intelligence  
+   Link: <a href="https://www.governance.ai/research-paper/information-hazards-in-races-for-advanced-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.governance.ai/research-paper/information-hazards-in-races-for-advanced-artificial-intelligence</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Information Hazards in Races for Advanced Artificial...We study how the information environment affects races to implement a powerful ne...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv Intolerable Risk Threshold Recommendations for Artificial Intelligence  
-   Link: [https://arxiv.org/abs/2503.05812](https://arxiv.org/abs/2503.05812)  
+   Link: <a href="https://arxiv.org/abs/2503.05812" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2503.05812</a>  
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv Emerging Practices in Frontier AI Safety Frameworks  
-   Link: [https://arxiv.org/abs/2503.04746](https://arxiv.org/abs/2503.04746)  
+   Link: <a href="https://arxiv.org/abs/2503.04746" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2503.04746</a>  
 
 7. <a id="endnote-7"></a>
    Source: aigi.ox.ac.uk  
    Title: uncertainty information and risk in international technology races  
-   Link: [https://aigi.ox.ac.uk/publications/uncertainty-information-and-risk-in-international-technology-races/](https://aigi.ox.ac.uk/publications/uncertainty-information-and-risk-in-international-technology-races/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Oxford Martin AIGIUncertainty, Information, and Risk in International Technology...17 Nov 2023 — A formal model reveals how the informat...</p></details>
+   Link: <a href="https://aigi.ox.ac.uk/publications/uncertainty-information-and-risk-in-international-technology-races/" target="_blank" rel="noopener noreferrer nofollow">https://aigi.ox.ac.uk/publications/uncertainty-information-and-risk-in-international-technology-races/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ford Martin AIGIUncertainty, Information, and Risk in International Technology...17 Nov 2023 — A formal model reveals how the informat...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
    Title: arXiv AI Companies Should Report Pre- and Post-Mitigation Safety Evaluations  
-   Link: [https://arxiv.org/abs/2503.17388](https://arxiv.org/abs/2503.17388)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivAI Companies Should Report Pre- and Post-Mitigation Safety EvaluationsMarch 17, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2503.17388" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2503.17388</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Companies Should Report Pre- and Post-Mitigation Safety EvaluationsMarch 17, 2025...</p></details>
    Published: March 17, 2025  
 
 9. <a id="endnote-9"></a>
    Source: axios.com  
    Title: Safety guardrails loosen as AI rivalries grows  
-   Link: [https://www.axios.com/2026/03/03/ai-race-safety-guardrail](https://www.axios.com/2026/03/03/ai-race-safety-guardrail)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Even traditionally cautious firms, like [Anthropic](&amp;#123;&amp;#123; &#x27;anthropic-tests/&#x27; | relative_url &amp;#125;&amp;#125;), have recently revised their internal guidelines, narrowing criteria for delaying risky...</p></details>
+   Link: <a href="https://www.axios.com/2026/03/03/ai-race-safety-guardrail" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2026/03/03/ai-race-safety-guardrail</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Even traditionally cautious firms, like Anthropic, have recently revised their internal guidelines, narrowing criteria for delaying risky...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sipri.org  
    Title: Addressing the risks that civilian AI poses to international  
-   Link: [https://www.sipri.org/sites/default/files/2025-11/1125_civilian_ai.pdf](https://www.sipri.org/sites/default/files/2025-11/1125_civilian_ai.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SIPRIAddressing the risks that civilian AI poses to international...November 21, 2025 — 3 Nov 2025 — As AI safety researchers from OpenA...</p></details>
+   Link: <a href="https://www.sipri.org/sites/default/files/2025-11/1125_civilian_ai.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sipri.org/sites/default/files/2025-11/1125_civilian_ai.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Addressing the risks that civilian AI poses to international...November 21, 2025 — 3 Nov 2025 — As AI safety researchers from OpenA...</p></details>
    Published: November 21, 2025  
 
 11. <a id="endnote-11"></a>
    Source: founderspledge.com  
    Title: how philanthropists can help slow the race to dangerous ai  
-   Link: [https://www.founderspledge.com/research/how-philanthropists-can-help-slow-the-race-to-dangerous-ai](https://www.founderspledge.com/research/how-philanthropists-can-help-slow-the-race-to-dangerous-ai)  
+   Link: <a href="https://www.founderspledge.com/research/how-philanthropists-can-help-slow-the-race-to-dangerous-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.founderspledge.com/research/how-philanthropists-can-help-slow-the-race-to-dangerous-ai</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>16 Oct 2024 — The emergence of an AI racing dynamic between great power nations like the US and China could cause both countries to cut c...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: arxiv.org  
    Title: arXiv Enabling Frontier Lab Collaboration to Mitigate AI Safety Risks  
-   Link: [https://arxiv.org/abs/2511.08631](https://arxiv.org/abs/2511.08631)  
+   Link: <a href="https://arxiv.org/abs/2511.08631" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2511.08631</a>  
 
 13. <a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2603.10015v2](https://arxiv.org/html/2603.10015v2)  
+   Link: <a href="https://arxiv.org/html/2603.10015v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2603.10015v2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Coordination Gap in Frontier AI Safety Policies20 May 2026 — Frontier AI Safety Policies concentrate on prevention: capability evalua...</p></details>
    Published: May 2026  
 
 14. <a id="endnote-14"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2505.00174v1](https://arxiv.org/html/2505.00174v1)  
+   Link: <a href="https://arxiv.org/html/2505.00174v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2505.00174v1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Real-World Gaps in AI Governance Research AI safety and...30 Apr 2025 — Significant research gaps exist in high-risk deployment domains...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/00220027231214996](https://journals.sagepub.com/doi/10.1177/00220027231214996)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/00220027231214996" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/00220027231214996</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsUncertainty, Information, and Risk in International...by N Emery-Xu · 2024 · Cited by 19 — A formal model reveals how the i...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: internationalaisafetyreport.org  
    Title: international ai safety report 2026  
-   Link: [https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026](https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026)  
+   Link: <a href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow">https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>International AI Safety ReportInternational AI Safety Report 20263 Feb 2026 — This Report assesses what general-purpose AI systems can do...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: aisi.gov.uk  
-   Link: [https://www.aisi.gov.uk/frontier-ai-trends-report](https://www.aisi.gov.uk/frontier-ai-trends-report)  
+   Link: <a href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/frontier-ai-trends-report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)The UK AI Security Institute (AISI) has conducted evalu...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: gov.ca.gov  
    Title: June 17 2025 – The California Report on Frontier AI Policy  
-   Link: [https://www.gov.ca.gov/wp-content/uploads/2025/06/June-17-2025-%E2%80%93-The-California-Report-on-Frontier-AI-Policy.pdf](https://www.gov.ca.gov/wp-content/uploads/2025/06/June-17-2025-%E2%80%93-The-California-Report-on-Frontier-AI-Policy.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Governor of CaliforniaTHE CALIFORNIA REPORT ON FRONTIER AI POLICY17 Jun 2025 — In cases where competitive pressures may disincentivize pa...</p></details>
+   Link: <a href="https://www.gov.ca.gov/wp-content/uploads/2025/06/June-17-2025-%E2%80%93-The-California-Report-on-Frontier-AI-Policy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.ca.gov/wp-content/uploads/2025/06/June-17-2025-%E2%80%93-The-California-Report-on-Frontier-AI-Policy.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ernor of CaliforniaTHE CALIFORNIA REPORT ON FRONTIER AI POLICY17 Jun 2025 — In cases where competitive pressures may disincentivize pa...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: aisecurityandsafety.org  
    Title: ai race dynamics  
-   Link: [https://aisecurityandsafety.org/fr/glossary/ai-race-dynamics/](https://aisecurityandsafety.org/fr/glossary/ai-race-dynamics/)  
+   Link: <a href="https://aisecurityandsafety.org/fr/glossary/ai-race-dynamics/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/fr/glossary/ai-race-dynamics/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>anizations under competitive pressure may allocate more resources...Read more...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: atlasinstitute.org  
-   Link: [https://atlasinstitute.org/ai-driven-political-risk-challenges-for-britains-national-security/](https://atlasinstitute.org/ai-driven-political-risk-challenges-for-britains-national-security/)  
+   Link: <a href="https://atlasinstitute.org/ai-driven-political-risk-challenges-for-britains-national-security/" target="_blank" rel="noopener noreferrer nofollow">https://atlasinstitute.org/ai-driven-political-risk-challenges-for-britains-national-security/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-Driven Political Risk: Challenges for Britain&#x27;s National...7 days ago — This article critically analyzes how AI-driven geopolitical r...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/coenvanmourik_aipolicy-aisafety-techethics-activity-7456238391483863040-yayc](https://www.linkedin.com/posts/coenvanmourik_aipolicy-aisafety-techethics-activity-7456238391483863040-yayc)  
+   Link: <a href="https://www.linkedin.com/posts/coenvanmourik_aipolicy-aisafety-techethics-activity-7456238391483863040-yayc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/coenvanmourik_aipolicy-aisafety-techethics-activity-7456238391483863040-yayc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Coen Van Mourik&#x27;s PostUnderstanding the Global Arms Race in AI Technology · AI Safety Governance Framework · Global AI Safety Collaborati...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: globaia.org  
-   Link: [https://globaia.org/ai-risks/](https://globaia.org/ai-risks/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Faster Than [Oversight](&amp;#123;&amp;#123; &#x27;oversight-evasion/&#x27; | relative_url &amp;#125;&amp;#125;) — AI Risks ObservatoryAI risks are growing faster than our ability to govern them. 30+ interactive visualizations t...</p></details>
+   Link: <a href="https://globaia.org/ai-risks/" target="_blank" rel="noopener noreferrer nofollow">https://globaia.org/ai-risks/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Faster Than Oversight — AI Risks ObservatoryAI risks are growing faster than our ability to govern them. 30+ interactive visualizations t...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40ZombieCodeKill/the-plan-to-pause-ai-before-its-too-late-68c6208c94b4](https://medium.com/%40ZombieCodeKill/the-plan-to-pause-ai-before-its-too-late-68c6208c94b4)  
+   Link: <a href="https://medium.com/%40ZombieCodeKill/the-plan-to-pause-ai-before-its-too-late-68c6208c94b4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40ZombieCodeKill/the-plan-to-pause-ai-before-its-too-late-68c6208c94b4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Plan to Pause AI Before It&#x27;s Too LateKevin: People decided to ignore the warning signs because that pointed against their business in...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=-idQtT8WIr8](https://www.youtube.com/watch?v=-idQtT8WIr8)  
+   Link: <a href="https://www.youtube.com/watch?v=-idQtT8WIr8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-idQtT8WIr8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why the AI Race Undermines Safety (with Steven Adler)Stephen Adler is a former safety researcher at OpenAI. He joins the podcast to discu...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: aigi.ox.ac.uk  
    Title: Uncertainty, Information, and Risk in International Technology Races  
-   Link: [https://aigi.ox.ac.uk/press-reports/uncertainty-information-and-risk-in-international-technology-races/](https://aigi.ox.ac.uk/press-reports/uncertainty-information-and-risk-in-international-technology-races/)  
+   Link: <a href="https://aigi.ox.ac.uk/press-reports/uncertainty-information-and-risk-in-international-technology-races/" target="_blank" rel="noopener noreferrer nofollow">https://aigi.ox.ac.uk/press-reports/uncertainty-information-and-risk-in-international-technology-races/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ox.ac.ukUncertainty, Information, and Risk in International Technology...International AI Governance · Social Impact of Emerging Technol...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/PCMag/posts/as-the-guardian-reports-there-was-a-fivefold-rise-in-ai-misbehavior-between-octo/1312975630702233/](https://www.facebook.com/PCMag/posts/as-the-guardian-reports-there-was-a-fivefold-rise-in-ai-misbehavior-between-octo/1312975630702233/)  
+   Link: <a href="https://www.facebook.com/PCMag/posts/as-the-guardian-reports-there-was-a-fivefold-rise-in-ai-misbehavior-between-octo/1312975630702233/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PCMag/posts/as-the-guardian-reports-there-was-a-fivefold-rise-in-ai-misbehavior-between-octo/1312975630702233/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>n October and March 2025, including AI models deleting emails and...Read more...</p></details>
    Published: March 2025  
 
 27. <a id="endnote-27"></a>
    Source: aisafetybook.com  
    Title: This could result in increased risks of large-scale wars.Read more  
-   Link: [https://www.aisafetybook.com/textbook/ai-race](https://www.aisafetybook.com/textbook/ai-race)  
+   Link: <a href="https://www.aisafetybook.com/textbook/ai-race" target="_blank" rel="noopener noreferrer nofollow">https://www.aisafetybook.com/textbook/ai-race</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1.3: AI Race | AI Safety, Ethics, and Society TextbookCompetitive pressures may lead militaries and corporations to hand over excessive p...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: businessinsider.com  
    Title: anthropic changing safety policy 2026 2  
-   Link: [https://www.businessinsider.com/anthropic-changing-safety-policy-2026-2](https://www.businessinsider.com/anthropic-changing-safety-policy-2026-2)  
+   Link: <a href="https://www.businessinsider.com/anthropic-changing-safety-policy-2026-2" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/anthropic-changing-safety-policy-2026-2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The company will no longer unilaterally pause or delay new AI model deployments when safety mechanisms lag, citing increased competition...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=2Pel_1BPm_k](https://www.youtube.com/watch?v=2Pel_1BPm_k)  
+   Link: <a href="https://www.youtube.com/watch?v=2Pel_1BPm_k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2Pel_1BPm_k</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI: Existential Risk or Power Grab? - YouTube AI: Existential Risk or Power Grab? - YouTube...</p></details>

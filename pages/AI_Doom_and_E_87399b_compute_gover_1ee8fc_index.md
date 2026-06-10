@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-compute-gover/
 description: Focused pages that expand on Governance.
-date: '2026-06-02'
+date: '2026-06-10'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_compute_gover_1ee8fc
-parent_title: Governance | AI Doom and
+parent_title: Governance | AI Doom and E 87399 b
 parent_nav_short_title: Governance
 parent_permalink: /governance/
 ---

@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_frontier_ai_e_9920ab_eval_false_co_fa7edc_benchmark_des_aa2a37
 - AI_Doom_and_E_87399b_frontier_ai_e_9920ab_eval_false_co_fa7edc_evaluation_st_7008e0
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - evals
 - false-comfort
 - upper-bound-limits
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - evals
 - false-comfort
 - upper-bound-limits
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Testing can confirm minimum abilities but cannot prove that AI models cannot perform dangerous tasks at maximum effort.
 hero_summary: Testing can confirm minimum abilities but cannot prove that AI models cannot perform dangerous tasks at maximum effort.
 layout: default
 permalink: /upper-bound-limits/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /evals/
 - /false-comfort/
 nav_short_title: Upper Bound Limits
@@ -211,10 +211,10 @@ parent_heading_title: Can frontier evals give false comfort?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_frontier_ai_e_9920ab
-  title: Evals | AI Doom and
+  title: Evals | AI Doom and E 87399 b
   permalink: /evals/
   short_title: Evals
   heading_title: Can Tests Catch Dangerous AI in Time?
@@ -226,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_frontier_ai_e_9920ab
-  title: Evals | AI Doom and
+  title: Evals | AI Doom and E 87399 b
   permalink: /evals/
   short_title: Evals
   heading_title: Can Tests Catch Dangerous AI in Time?
@@ -269,11 +269,11 @@ image: /assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_eval_false_co_fa
 
 ## Introduction
 
-One of the most important limitations of [AI evaluations]({{ 'ai-evaluations/' | relative_url }}) is that they can usually establish a **lower bound** on capability but rarely a trustworthy **upper bound**. In plain language, a successful test shows that a model can do at least that much. A failed test does not reliably show what the model cannot do. This distinction matters because many [AI doom and]({{ 'ai-doom-and/' | relative_url }}) existential-risk arguments depend on the possibility that dangerous capabilities could emerge before evaluators fully recognise them.
+One of the most important limitations of [AI evaluations]({{ 'ai-evaluations/' | relative_url }}) is that they can usually establish a **lower bound** on capability but rarely a trustworthy **upper bound**. In plain language, a successful test shows that a model can do at least that much. A failed test does not reliably show what the model cannot do. This distinction matters because many AI doom and existential-risk arguments depend on the possibility that dangerous capabilities could emerge before evaluators fully recognise them.
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_eval_false_co_fa7edc_upper_bound_c_4cf391-Illustration-1-dark.svg" | relative_url }}" alt="Upper Bound Limits illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_eval_false_co_fa7edc_upper_bound_c_4cf391-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_eval_false_co_fa7edc_upper_bound_c_4cf391-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Researchers working on frontier-model evaluations increasingly emphasise this point. Current evaluation methods can often demonstrate that a model possesses a concerning capability, but they struggle to prove that a model lacks one. Several recent analyses argue that establishing reliable upper bounds on dangerous capabilities may be fundamentally difficult within the current evaluation paradigm. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2412.08653v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivWhat AI evaluations for preventing catastrophic risks can...26 Nov 2024 — These include an inability to establish upper bounds on c...</span></span></span>
+Researchers working on frontier-model [evaluations]({{ 'evaluations/' | relative_url }}) increasingly emphasise this point. Current evaluation methods can often demonstrate that a model possesses a concerning capability, but they struggle to prove that a model lacks one. Several recent analyses argue that establishing reliable upper bounds on dangerous capabilities may be fundamentally difficult within the current evaluation paradigm. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2412.08653v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">What AI evaluations for preventing catastrophic risks can...26 Nov 2024 — These include an inability to establish upper bounds on c...</span></span></span>
 
 Within the broader question of why clean evaluation results can miss dangerous capabilities, the specific issue here is straightforward: tests can tell us something about what a model has already demonstrated, but they provide much weaker evidence about the model's true ceiling.
 
@@ -284,7 +284,7 @@ When evaluating frontier AI systems, it is useful to distinguish between two dif
 * **Lower-bound claim:** "The model can perform this task."
 * **Upper-bound claim:** "The model cannot perform anything substantially more dangerous than this."
 
-The first claim is often testable. If a model repeatedly succeeds at sophisticated cyber-security tasks, strategic persuasion exercises, or autonomous planning challenges, evaluators have evidence that those abilities exist. Dangerous-capability evaluations are largely designed around this logic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2412.08653v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivWhat AI evaluations for preventing catastrophic risks can...26 Nov 2024 — These include an inability to establish upper bounds on c...</span></span></span>
+The first claim is often testable. If a model repeatedly succeeds at sophisticated cyber-security tasks, strategic persuasion exercises, or autonomous planning challenges, evaluators have evidence that those abilities exist. Dangerous-capability evaluations are largely designed around this logic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2412.08653v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">What AI evaluations for preventing catastrophic risks can...26 Nov 2024 — These include an inability to establish upper bounds on c...</span></span></span>
 
 The second claim is much harder. A model may fail a benchmark because:
 
@@ -299,7 +299,7 @@ The second claim is much harder. A model may fail a benchmark because:
 
 </div>
 
-As a result, a negative result often contains far less information than a positive one. This asymmetry is a recurring theme in frontier-AI risk research. Recent work examining catastrophic-risk evaluations explicitly concludes that current evaluations can establish lower bounds on capabilities but cannot reliably establish upper bounds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2412.08653v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivWhat AI evaluations for preventing catastrophic risks can...26 Nov 2024 — These include an inability to establish upper bounds on c...</span></span></span>
+As a result, a negative result often contains far less information than a positive one. This asymmetry is a recurring theme in frontier-AI risk research. Recent work examining [catastrophic]({{ 'misuse/' | relative_url }})-risk evaluations explicitly concludes that current evaluations can establish lower bounds on capabilities but cannot reliably establish upper bounds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2412.08653v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">What AI evaluations for preventing catastrophic risks can...26 Nov 2024 — These include an inability to establish upper bounds on c...</span></span></span>
 
 ## Why Capability Ceilings Are Difficult to Measure
 
@@ -307,7 +307,7 @@ As a result, a negative result often contains far less information than a positi
 
 A central problem is that AI performance is highly sensitive to how a task is presented.
 
-The same model may perform poorly when given a simple prompt but perform dramatically better when supplied with better instructions, examples, external tools, longer reasoning chains, or specialised software. Researchers often refer to this as a capability-elicitation problem. The challenge is not merely measuring what the model does by default, but discovering what it can do when pushed toward its limits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/391658467_Safety_by_Measurement_A_Systematic_Literature_Review_of_AI_Safety_Evaluation_Methods" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">do when pushed to their limits through techniques like</span><span class="citation-popover-snippet">ResearchGateA Systematic Literature Review of AI Safety Evaluation...May 8, 2025 — 8 May 2025 — Dangerous capabilities evaluations estab...</span><span class="citation-popover-meta">Published: May 8, 2025</span></span></span>
+The same model may perform poorly when given a simple prompt but perform dramatically better when supplied with better instructions, examples, external tools, longer reasoning chains, or specialised software. Researchers often refer to this as a capability-elicitation problem. The challenge is not merely measuring what the model does by default, but discovering what it can do when pushed toward its limits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/391658467_Safety_by_Measurement_A_Systematic_Literature_Review_of_AI_Safety_Evaluation_Methods" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">do when pushed to their limits through techniques like</span><span class="citation-popover-snippet">A Systematic Literature Review of AI Safety Evaluation...May 8, 2025 — 8 May 2025 — Dangerous capabilities evaluations estab...</span><span class="citation-popover-meta">Published: May 8, 2025</span></span></span>
 
 For AI-doom discussions, this matters because existential-risk scenarios generally concern maximum capability rather than average capability. A system that occasionally reaches a dangerous performance threshold may still create significant risk even if its typical performance appears weaker.
 
@@ -347,7 +347,7 @@ Several possibilities are frequently discussed:
 
 </div>
 
-Google DeepMind's dangerous-capability evaluation programme explicitly notes that current models do not show strong dangerous capabilities in the tested domains while also highlighting early warning signs and the need for more sophisticated evaluation science. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2412.08653v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivWhat AI evaluations for preventing catastrophic risks can...26 Nov 2024 — These include an inability to establish upper bounds on c...</span></span></span>
+Google DeepMind's dangerous-capability evaluation programme explicitly notes that current models do not show strong dangerous capabilities in the tested domains while also highlighting early warning signs and the need for more sophisticated evaluation science. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2412.08653v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">What AI evaluations for preventing catastrophic risks can...26 Nov 2024 — These include an inability to establish upper bounds on c...</span></span></span>
 
 This distinction is important. Researchers are not generally claiming that hidden catastrophic capabilities have already been proven. Rather, they argue that existing tests may not be strong enough to rule them out with high confidence.
 
@@ -373,7 +373,7 @@ The problem of hidden capability is not unique to AI.
 
 Historically, many complex systems have demonstrated abilities that were not obvious from controlled testing. Security vulnerabilities, financial-system fragilities, and engineering failures have often emerged only when systems encountered unusual conditions.
 
-AI researchers point to similar patterns in modern models. Capabilities that appeared absent under one testing regime have sometimes become visible after improved prompting, tool access, fine-tuning, or more intensive evaluation. Researchers studying elicitation attacks have shown that capabilities can sometimes be recovered or amplified in ways that were not obvious from initial evaluations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2412.08653v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivWhat AI evaluations for preventing catastrophic risks can...26 Nov 2024 — These include an inability to establish upper bounds on c...</span></span></span>
+AI researchers point to similar patterns in modern models. Capabilities that appeared absent under one testing regime have sometimes become visible after improved prompting, tool access, fine-tuning, or more intensive evaluation. Researchers studying elicitation attacks have shown that capabilities can sometimes be recovered or amplified in ways that were not obvious from initial evaluations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2412.08653v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">What AI evaluations for preventing catastrophic risks can...26 Nov 2024 — These include an inability to establish upper bounds on c...</span></span></span>
 
 This does not prove that frontier models possess undiscovered catastrophic abilities. It does demonstrate that capability measurement is often sensitive to evaluation design, making strong upper-bound claims difficult to justify.
 
@@ -809,14 +809,14 @@ Those who assign relatively high p(doom) values often argue that:
 </script>
 </section>
 
-3. Evaluations cannot reliably establish safe upper bounds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2412.08653v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivWhat AI evaluations for preventing catastrophic risks can...26 Nov 2024 — These include an inability to establish upper bounds on c...</span></span></span>
+3. Evaluations cannot reliably establish safe upper bounds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2412.08653v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">What AI evaluations for preventing catastrophic risks can...26 Nov 2024 — These include an inability to establish upper bounds on c...</span></span></span>
 4. Therefore substantial uncertainty should remain even after favourable test results.
 
 </div>
 
 Critics respond that this reasoning risks becoming unfalsifiable. If every successful evaluation can be dismissed as incomplete, then evidence may never meaningfully reduce concern.
 
-This is a genuine dispute. The strongest version of the upper-bound argument is not that all evaluations are worthless. It is that evaluations provide asymmetric information: they are generally better at revealing danger than proving its absence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2412.08653v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivWhat AI evaluations for preventing catastrophic risks can...26 Nov 2024 — These include an inability to establish upper bounds on c...</span></span></span>
+This is a genuine dispute. The strongest version of the upper-bound argument is not that all evaluations are worthless. It is that evaluations provide asymmetric information: they are generally better at revealing danger than proving its absence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2412.08653v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">What AI evaluations for preventing catastrophic risks can...26 Nov 2024 — These include an inability to establish upper bounds on c...</span></span></span>
 
 The practical question is how much confidence policymakers should place in negative results when the consequences of being wrong could be extremely large.
 
@@ -846,204 +846,204 @@ The inability to establish reliable upper bounds has several practical consequen
 
 First, it strengthens the case for continuous monitoring rather than one-off certification. A model that appears safe today may reveal new capabilities after fine-tuning, tool integration, or deployment changes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/technical-reports/frontier-capability-assessments/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">frontier capability assessments</span><span class="citation-popover-snippet">Frontier Model ForumFrontier Capability AssessmentsApr 22, 2025 — Frontier Capability Assessments are procedures conducted on frontier mo...</span></span></span>
 
-Second, it supports independent evaluation. External researchers often discover behaviours missed by internal testing, and recent work argues that broader evaluator access can reduce false negatives and improve confidence in assessments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2412.08653v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivWhat AI evaluations for preventing catastrophic risks can...26 Nov 2024 — These include an inability to establish upper bounds on c...</span></span></span>
+Second, it supports independent evaluation. External researchers often discover behaviours missed by internal testing, and recent work argues that broader evaluator access can reduce false negatives and improve confidence in assessments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2412.08653v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">What AI evaluations for preventing catastrophic risks can...26 Nov 2024 — These include an inability to establish upper bounds on c...</span></span></span>
 
-Third, it encourages defence-in-depth approaches. If evaluations cannot conclusively rule out dangerous capabilities, then safeguards may also need to include monitoring, interpretability research, access controls, incident response mechanisms, and governance measures rather than relying solely on benchmark results. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2412.08653v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivWhat AI evaluations for preventing catastrophic risks can...26 Nov 2024 — These include an inability to establish upper bounds on c...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://aigi.ox.ac.uk/wp-content/uploads/2026/02/Open-Problems-in-Frontier-AI-Risk-Management-Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aigi.ox.ac.uk">[Oxford Martin AIGI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aigi.ox.ac.uk</span><span class="citation-popover-title">Open Problems in Frontier AI Risk Management Final</span><span class="citation-popover-snippet">Oxford Martin AIGIOpen Problems in Frontier AI Risk Management22 Feb 2026 — Adopting a problem-oriented approach, we examine each stage o...</span></span></span>
+Third, it encourages defence-in-depth approaches. If evaluations cannot conclusively rule out dangerous capabilities, then safeguards may also need to include monitoring, interpretability research, access controls, incident response mechanisms, and governance measures rather than relying solely on benchmark results. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2412.08653v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">What AI evaluations for preventing catastrophic risks can...26 Nov 2024 — These include an inability to establish upper bounds on c...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://aigi.ox.ac.uk/wp-content/uploads/2026/02/Open-Problems-in-Frontier-AI-Risk-Management-Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aigi.ox.ac.uk">[Oxford Martin AIGI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aigi.ox.ac.uk</span><span class="citation-popover-title">Open Problems in Frontier AI Risk Management Final</span><span class="citation-popover-snippet">ford Martin AIGIOpen Problems in Frontier AI Risk Management22 Feb 2026 — Adopting a problem-oriented approach, we examine each stage o...</span></span></span>
 
-For readers interested in AI doom and existential risk, the central takeaway is not that evaluations are useless. Frontier-capability evaluations remain among the best tools available for identifying emerging dangers. The problem is narrower but significant: passing today's tests does not establish a trustworthy ceiling on what an advanced AI system could do tomorrow, under different conditions, or at maximum effort. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2412.08653v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivWhat AI evaluations for preventing catastrophic risks can...26 Nov 2024 — These include an inability to establish upper bounds on c...</span></span></span> 2arXiv
+For readers interested in AI doom and existential risk, the central takeaway is not that evaluations are useless. Frontier-capability evaluations remain among the best tools available for identifying emerging dangers. The problem is narrower but significant: passing today's tests does not establish a trustworthy ceiling on what an advanced AI system could do tomorrow, under different conditions, or at maximum effort. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2412.08653v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">What AI evaluations for preventing catastrophic risks can...26 Nov 2024 — These include an inability to establish upper bounds on c...</span></span></span> 2arXiv
 
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2412.08653v1](https://arxiv.org/html/2412.08653v1)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivWhat AI evaluations for preventing catastrophic risks can...26 Nov 2024 — These include an inability to establish upper bounds on c...</p></details>
+   Link: <a href="https://arxiv.org/html/2412.08653v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2412.08653v1</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What AI evaluations for preventing catastrophic risks can...26 Nov 2024 — These include an inability to establish upper bounds on c...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
    Title: arXiv What AI evaluations for preventing catastrophic risks can and cannot do  
-   Link: [https://arxiv.org/abs/2412.08653](https://arxiv.org/abs/2412.08653)  
+   Link: <a href="https://arxiv.org/abs/2412.08653" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2412.08653</a>  
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv Evaluating Frontier Models for Dangerous Capabilities  
-   Link: [https://arxiv.org/abs/2403.13793](https://arxiv.org/abs/2403.13793)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivEvaluating Frontier Models for Dangerous CapabilitiesMarch 20, 2024...</p></details>
+   Link: <a href="https://arxiv.org/abs/2403.13793" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.13793</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating Frontier Models for Dangerous CapabilitiesMarch 20, 2024...</p></details>
    Published: March 20, 2024  
 
 4. <a id="endnote-4"></a>
    Source: deepmind.google  
    Title: These evaluations cover five topics.Read more  
-   Link: [https://deepmind.google/research/publications/78150/](https://deepmind.google/research/publications/78150/)  
+   Link: <a href="https://deepmind.google/research/publications/78150/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/research/publications/78150/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google DeepMindEvaluating Frontier Models for Dangerous CapabilitiesMar 21, 2024 — We introduce a programme of new &quot;dangerous capability&quot;...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: researchgate.net  
    Title: do when pushed to their limits through techniques like  
-   Link: [https://www.researchgate.net/publication/391658467_Safety_by_Measurement_A_Systematic_Literature_Review_of_AI_Safety_Evaluation_Methods](https://www.researchgate.net/publication/391658467_Safety_by_Measurement_A_Systematic_Literature_Review_of_AI_Safety_Evaluation_Methods)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateA Systematic Literature Review of AI Safety Evaluation...May 8, 2025 — 8 May 2025 — Dangerous capabilities evaluations estab...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/391658467_Safety_by_Measurement_A_Systematic_Literature_Review_of_AI_Safety_Evaluation_Methods" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391658467_Safety_by_Measurement_A_Systematic_Literature_Review_of_AI_Safety_Evaluation_Methods</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Systematic Literature Review of AI Safety Evaluation...May 8, 2025 — 8 May 2025 — Dangerous capabilities evaluations estab...</p></details>
    Published: May 8, 2025  
 
 6. <a id="endnote-6"></a>
    Source: metr.org  
-   Link: [https://metr.org/](https://metr.org/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>METRWe conduct evaluations of the autonomous capabilities of frontier AI models, with some in partnership with AI developers such as Anth...</p></details>
+   Link: <a href="https://metr.org/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>We conduct evaluations of the autonomous capabilities of frontier AI models, with some in partnership with AI developers such as Anth...</p></details>
 
 7. <a id="endnote-7"></a>
-   Source: [anthropic](&#123;&#123; 'anthropic-tests/' | relative_url &#125;&#125;). com  
+   Source: anthropic.com  
    Title: sabotage evaluations  
-   Link: [https://www.anthropic.com/research/sabotage-evaluations](https://www.anthropic.com/research/sabotage-evaluations)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AnthropicSabotage evaluations for frontier modelsOct 18, 2024 — A new paper by the Anthropic Alignment Science team describes a novel set...</p></details>
+   Link: <a href="https://www.anthropic.com/research/sabotage-evaluations" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/research/sabotage-evaluations</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sabotage evaluations for frontier modelsOct 18, 2024 — A new paper by the Anthropic Alignment Science team describes a novel set...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: assets.anthropic.com  
-   Link: [https://assets.anthropic.com/m/377027d5b36ac1eb/original/Sabotage-Evaluations-for-Frontier-Models.pdf](https://assets.anthropic.com/m/377027d5b36ac1eb/original/Sabotage-Evaluations-for-Frontier-Models.pdf)  
+   Link: <a href="https://assets.anthropic.com/m/377027d5b36ac1eb/original/Sabotage-Evaluations-for-Frontier-Models.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.anthropic.com/m/377027d5b36ac1eb/original/Sabotage-Evaluations-for-Frontier-Models.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ying to hide must pass through a capabilities elicitation and anti-refusal process – which...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
    Title: arXiv Eliciting Harmful Capabilities by Fine-Tuning On Safeguarded Outputs  
-   Link: [https://arxiv.org/abs/2601.13528](https://arxiv.org/abs/2601.13528)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivEliciting Harmful Capabilities by Fine-Tuning On Safeguarded OutputsJanuary 20, 2026...</p></details>
+   Link: <a href="https://arxiv.org/abs/2601.13528" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2601.13528</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eliciting Harmful Capabilities by Fine-Tuning On Safeguarded OutputsJanuary 20, 2026...</p></details>
    Published: January 20, 2026  
 
 10. <a id="endnote-10"></a>
    Source: metr.org  
    Title: common elements  
-   Link: [https://metr.org/common-elements](https://metr.org/common-elements)  
+   Link: <a href="https://metr.org/common-elements" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/common-elements</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of Frontier AI Safety Policies16 Dec 2025 — The Framework is built around capability thresholds called “Critical Capability Levels (CCLs)...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: governance.ai  
    Title: risk thresholds for frontier ai  
-   Link: [https://www.governance.ai/research-paper/risk-thresholds-for-frontier-ai](https://www.governance.ai/research-paper/risk-thresholds-for-frontier-ai)  
+   Link: <a href="https://www.governance.ai/research-paper/risk-thresholds-for-frontier-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.governance.ai/research-paper/risk-thresholds-for-frontier-ai</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>20 Jun 2024 — One increasingly popular approach is to define capability thresholds, which describe AI capabilities beyond which an AI sys...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2601.11916](https://arxiv.org/abs/2601.11916)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivExpanding External Access To Frontier AI Models For Dangerous Capability EvaluationsJanuary 17, 2026...</p></details>
+   Link: <a href="https://arxiv.org/abs/2601.11916" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2601.11916</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Expanding External Access To Frontier AI Models For Dangerous Capability EvaluationsJanuary 17, 2026...</p></details>
    Published: January 17, 2026  
 
 13. <a id="endnote-13"></a>
    Source: aigi.ox.ac.uk  
    Title: Open Problems in Frontier AI Risk Management Final  
-   Link: [https://aigi.ox.ac.uk/wp-content/uploads/2026/02/Open-Problems-in-Frontier-AI-Risk-Management-Final.pdf](https://aigi.ox.ac.uk/wp-content/uploads/2026/02/Open-Problems-in-Frontier-AI-Risk-Management-Final.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oxford Martin AIGIOpen Problems in Frontier AI Risk Management22 Feb 2026 — Adopting a problem-oriented approach, we examine each stage o...</p></details>
+   Link: <a href="https://aigi.ox.ac.uk/wp-content/uploads/2026/02/Open-Problems-in-Frontier-AI-Risk-Management-Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aigi.ox.ac.uk/wp-content/uploads/2026/02/Open-Problems-in-Frontier-AI-Risk-Management-Final.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ford Martin AIGIOpen Problems in Frontier AI Risk Management22 Feb 2026 — Adopting a problem-oriented approach, we examine each stage o...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: metr.org  
    Title: 2026 05 19 frontier risk report  
-   Link: [https://metr.org/blog/2026-05-19-frontier-risk-report/](https://metr.org/blog/2026-05-19-frontier-risk-report/)  
+   Link: <a href="https://metr.org/blog/2026-05-19-frontier-risk-report/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/blog/2026-05-19-frontier-risk-report/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Risk Report (February to March 2026)19 May 2026 — Starting in February 2026, METR conducted a pilot exercise to assess misalignm...</p></details>
    Published: March 2026  
 
 15. <a id="endnote-15"></a>
    Source: metr.org  
-   Link: [https://metr.org/assets/common-elements-mar-2025.pdf](https://metr.org/assets/common-elements-mar-2025.pdf)  
+   Link: <a href="https://metr.org/assets/common-elements-mar-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/assets/common-elements-mar-2025.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Common Elements of Frontier AI Safety Policies, March 2025Critical Capability Thresholds describe model capabilities within specified ris...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2403.13793](https://arxiv.org/pdf/2403.13793)  
+   Link: <a href="https://arxiv.org/pdf/2403.13793" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2403.13793</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating Frontier Models for Dangerous Capabilitiesby M Phuong · 2024 · Cited by 135 — Building on prior work, we introduce a programme...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: anthropic.com  
    Title: feb 2026 risk report  
-   Link: [https://anthropic.com/feb-2026-risk-report](https://anthropic.com/feb-2026-risk-report)  
+   Link: <a href="https://anthropic.com/feb-2026-risk-report" target="_blank" rel="noopener noreferrer nofollow">https://anthropic.com/feb-2026-risk-report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Redacted Risk Report Feb 2026We use these models for dangerous-capabilities evaluations in domains like biology where... ○ As stated abo...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: frontiermodelforum.org  
    Title: frontier capability assessments  
-   Link: [https://www.frontiermodelforum.org/technical-reports/frontier-capability-assessments/](https://www.frontiermodelforum.org/technical-reports/frontier-capability-assessments/)  
+   Link: <a href="https://www.frontiermodelforum.org/technical-reports/frontier-capability-assessments/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/technical-reports/frontier-capability-assessments/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Model ForumFrontier Capability AssessmentsApr 22, 2025 — Frontier Capability Assessments are procedures conducted on frontier mo...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: internationalaisafetyreport.org  
    Title: first key update capabilities and risk implications  
-   Link: [https://internationalaisafetyreport.org/publication/first-key-update-capabilities-and-risk-implications](https://internationalaisafetyreport.org/publication/first-key-update-capabilities-and-risk-implications)  
+   Link: <a href="https://internationalaisafetyreport.org/publication/first-key-update-capabilities-and-risk-implications" target="_blank" rel="noopener noreferrer nofollow">https://internationalaisafetyreport.org/publication/first-key-update-capabilities-and-risk-implications</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>International AI Safety ReportFirst Key Update: Capabilities and Risk Implications15 Oct 2025 — AI systems can use more inference computi...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: iaps.ai  
-   Link: [https://www.iaps.ai/research/evaluation-[awareness](https://www.iaps.ai/research/evaluation-[awareness)  
+   Link: <a href="https://www.iaps.ai/research/evaluation-[awareness" target="_blank" rel="noopener noreferrer nofollow">https://www.iaps.ai/research/evaluation-[awareness</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Institute for AI Policy and StrategyEvaluation Awareness: Why Frontier AI Models Are Getting...Mar 31, 2026 — 1) Dangerous capability ev...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: frontiermodelforum.org  
    Title: risk taxonomy and thresholds  
-   Link: [https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/](https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/)  
+   Link: <a href="https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>for Frontier AI Frameworks18 Jun 2025 — Thresholds can be used to signal when a frontier model requires additional scrutiny or safeguards...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: frontiermodelforum.org  
    Title: issue brief components of frontier ai safety frameworks  
-   Link: [https://www.frontiermodelforum.org/updates/issue-brief-components-of-frontier-ai-safety-frameworks/](https://www.frontiermodelforum.org/updates/issue-brief-components-of-frontier-ai-safety-frameworks/)  
+   Link: <a href="https://www.frontiermodelforum.org/updates/issue-brief-components-of-frontier-ai-safety-frameworks/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/updates/issue-brief-components-of-frontier-ai-safety-frameworks/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Issue Brief: Components of Frontier AI Safety Frameworks8 Nov 2024 — Frontier AI safety frameworks are designed to enable developers to t...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: frontiermodelforum.org  
    Title: managing advanced cyber risks in frontier ai frameworks  
-   Link: [https://www.frontiermodelforum.org/technical-reports/managing-advanced-cyber-risks-in-frontier-ai-frameworks/](https://www.frontiermodelforum.org/technical-reports/managing-advanced-cyber-risks-in-frontier-ai-frameworks/)  
+   Link: <a href="https://www.frontiermodelforum.org/technical-reports/managing-advanced-cyber-risks-in-frontier-ai-frameworks/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/technical-reports/managing-advanced-cyber-risks-in-frontier-ai-frameworks/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>13 Feb 2026 — Capability thresholds provide a better risk proxy than compute thresholds and are more measurable than risk thresholds, but...</p></details>
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/metr-evals_common-elements-of-frontier-safety-policies-activity-7311933033417216000-ChkD](https://www.linkedin.com/posts/metr-evals_common-elements-of-frontier-safety-policies-activity-7311933033417216000-ChkD)  
+   Link: <a href="https://www.linkedin.com/posts/metr-evals_common-elements-of-frontier-safety-policies-activity-7311933033417216000-ChkD" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/metr-evals_common-elements-of-frontier-safety-policies-activity-7311933033417216000-ChkD</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Common Elements of Frontier Safety Policies, March 2025Frontier Safety Policies (FSPs) are emerging as a common framework for managing ri...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: oecd.ai  
    Title: risk thresholds for frontier ai insights from the ai action summit  
-   Link: [https://oecd.ai/en/wonk/risk-thresholds-for-frontier-ai-insights-from-the-ai-action-summit](https://oecd.ai/en/wonk/risk-thresholds-for-frontier-ai-insights-from-the-ai-action-summit)  
+   Link: <a href="https://oecd.ai/en/wonk/risk-thresholds-for-frontier-ai-insights-from-the-ai-action-summit" target="_blank" rel="noopener noreferrer nofollow">https://oecd.ai/en/wonk/risk-thresholds-for-frontier-ai-insights-from-the-ai-action-summit</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Risk thresholds for frontier AI: Insights from the AI Action...5 Mar 2025 — Many developers establish capability thresholds that they ca...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: lesswrong.com  
    Title: we re actually running out of benchmarks to upper bound ai  
-   Link: [https://www.lesswrong.com/posts/gfkJp8Mr9sBm83Rcz/we-re-actually-running-out-of-benchmarks-to-upper-bound-ai](https://www.lesswrong.com/posts/gfkJp8Mr9sBm83Rcz/we-re-actually-running-out-of-benchmarks-to-upper-bound-ai)  
+   Link: <a href="https://www.lesswrong.com/posts/gfkJp8Mr9sBm83Rcz/we-re-actually-running-out-of-benchmarks-to-upper-bound-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/posts/gfkJp8Mr9sBm83Rcz/we-re-actually-running-out-of-benchmarks-to-upper-bound-ai</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI progress continues, no benchmark score from a 2026 or earlier benchmark can rule out dangerous capabilities from frontier AI systems...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: aisecurityandsafety.org  
    Title: anthropic rsp vs openai preparedness framework  
-   Link: [https://aisecurityandsafety.org/en/compare/anthropic-rsp-vs-openai-preparedness-framework/](https://aisecurityandsafety.org/en/compare/anthropic-rsp-vs-openai-preparedness-framework/)  
+   Link: <a href="https://aisecurityandsafety.org/en/compare/anthropic-rsp-vs-openai-preparedness-framework/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/en/compare/anthropic-rsp-vs-openai-preparedness-framework/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic Responsible Scaling Policy vs OpenAI...13 Apr 2026 — Anthropic Responsible Scaling Policy emphasizes requirements such as &quot;Ass...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: aigi.ox.ac.uk  
    Title: Survey on thresholds for advanced AI systems 1  
-   Link: [https://aigi.ox.ac.uk/wp-content/uploads/2025/08/Survey_on_thresholds_for_advanced_AI_systems_1.pdf](https://aigi.ox.ac.uk/wp-content/uploads/2025/08/Survey_on_thresholds_for_advanced_AI_systems_1.pdf)  
+   Link: <a href="https://aigi.ox.ac.uk/wp-content/uploads/2025/08/Survey_on_thresholds_for_advanced_AI_systems_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aigi.ox.ac.uk/wp-content/uploads/2025/08/Survey_on_thresholds_for_advanced_AI_systems_1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ON THRESHOLDS FOR ADVANCED AI SYSTEMSby J Schuett · 2025 · Cited by 3 — “If capabilities thresholds are exceeded and AI companies cannot...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: alignmentforum.org  
    Title: we need a science of [evals](&#123;&#123; 'evals/' | relative_url &#125;&#125;)  
-   Link: [https://www.alignmentforum.org/posts/fnc6Sgt3CGCdFmmgX/we-need-a-science-of-evals](https://www.alignmentforum.org/posts/fnc6Sgt3CGCdFmmgX/we-need-a-science-of-evals)  
+   Link: <a href="https://www.alignmentforum.org/posts/fnc6Sgt3CGCdFmmgX/we-need-a-science-of-evals" target="_blank" rel="noopener noreferrer nofollow">https://www.alignmentforum.org/posts/fnc6Sgt3CGCdFmmgX/we-need-a-science-of-evals</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>22 Jan 2024 — In this post, we argue that if AI model evaluations (evals) want to have meaningful real-world impact, we need a “Science o...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: enkryptai.com  
    Title: frontier safety frameworks comprehensive overview  
-   Link: [https://www.enkryptai.com/blog/frontier-safety-frameworks-comprehensive-overview](https://www.enkryptai.com/blog/frontier-safety-frameworks-comprehensive-overview)  
+   Link: <a href="https://www.enkryptai.com/blog/frontier-safety-frameworks-comprehensive-overview" target="_blank" rel="noopener noreferrer nofollow">https://www.enkryptai.com/blog/frontier-safety-frameworks-comprehensive-overview</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Safety Frameworks — A Comprehensive PictureJul 17, 2025 — Each framework attempts to define and operationalize a threshold where...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: ai-safety-atlas.com  
    Title: Evaluated Properties  
-   Link: [https://ai-safety-atlas.com/chapters/v1/evaluations/evaluated-properties/](https://ai-safety-atlas.com/chapters/v1/evaluations/evaluated-properties/)  
+   Link: <a href="https://ai-safety-atlas.com/chapters/v1/evaluations/evaluated-properties/" target="_blank" rel="noopener noreferrer nofollow">https://ai-safety-atlas.com/chapters/v1/evaluations/evaluated-properties/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 5The main thing to recognize is what each type of evaluation tells us: Dangerous capability evaluations give us upper bounds on p...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: sebastianfarquhar.com  
-   Link: [https://sebastianfarquhar.com/assets/papers/phuongEvaluating2024.pdf](https://sebastianfarquhar.com/assets/papers/phuongEvaluating2024.pdf)  
+   Link: <a href="https://sebastianfarquhar.com/assets/papers/phuongEvaluating2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sebastianfarquhar.com/assets/papers/phuongEvaluating2024.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating Frontier Models for Dangerous Capabilitiesby M Phuong · 2024 · Cited by 136 — Building on prior work, this paper introduces an...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41586-026-10303-2](https://www.nature.com/articles/s41586-026-10303-2)  
+   Link: <a href="https://www.nature.com/articles/s41586-026-10303-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-026-10303-2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>General scales unlock AI evaluation with explanatory and...by L Zhou · 2026 · Cited by 30 — Here we introduce general scales for AI eval...</p></details>

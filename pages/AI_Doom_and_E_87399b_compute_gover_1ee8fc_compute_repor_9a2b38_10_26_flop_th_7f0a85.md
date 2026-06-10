@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38_compute_thres_65dc26
 - AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38_thresholds_an_c9e82d
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - governance
 - thresholds
 - 10-26-flops
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - governance
 - thresholds
 - 10-26-flops
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: The best-known compute threshold became a policy benchmark, but its rationale and limits remain contested.
 hero_summary: The best-known compute threshold became a policy benchmark, but its rationale and limits remain contested.
 layout: default
 permalink: /10-26-flops/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /governance/
 - /thresholds/
 nav_short_title: 10 26 FLOPs
@@ -203,6 +203,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-02 12:26:17'
 parent_title: When Should AI Training Runs Trigger Oversight? | Governance
 parent_permalink: /thresholds/
 parent_nav_short_title: Thresholds
@@ -210,10 +211,10 @@ parent_heading_title: When Should AI Training Runs Trigger Oversight?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_compute_gover_1ee8fc
-  title: Governance | AI Doom and
+  title: Governance | AI Doom and E 87399 b
   permalink: /governance/
   short_title: Governance
   heading_title: What Rules Could Reduce AI Doom Risk?
@@ -225,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_compute_gover_1ee8fc
-  title: Governance | AI Doom and
+  title: Governance | AI Doom and E 87399 b
   permalink: /governance/
   short_title: Governance
   heading_title: What Rules Could Reduce AI Doom Risk?
@@ -260,7 +261,6 @@ next_link:
   permalink: /evasion-risks-eeb298/
   short_title: Evasion Risks
   heading_title: Could Powerful AI Slip Below Compute Thresholds?
-date: '2026-06-02 12:26:17 '
 header:
   og_image: /assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38_10_26_flop_th_7f0a85-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38_10_26_flop_th_7f0a85-Illustration-1.webp
@@ -269,13 +269,13 @@ image: /assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a
 
 ## Introduction
 
-The 10^26 FLOP threshold became one of the most influential numbers in AI [governance]({{ 'governance/' | relative_url }}) almost overnight. It appeared in the 2023 United States AI Executive Order as the point at which developers of certain advanced AI models would face reporting requirements, and it later shaped several frontier-AI policy proposals, including California's SB 1047. The number was never intended to be a claim that systems become dangerous exactly at 10^26 floating-point operations (FLOPs). Instead, it was chosen as a practical policy benchmark: high enough to capture only the most advanced training runs, but low enough to provide oversight before potentially dangerous capabilities emerged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mofo.com/resources/insights/231107-the-ai-executive-order-presidential-authority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mofo.com">[Morrison Foerster]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mofo.com</span><span class="citation-popover-snippet">Morrison FoersterThe AI Executive Order: Presidential Authority for...November 7, 2023 — 7 Nov 2023 — Any AI model that was trained: usi...</span><span class="citation-popover-meta">Published: November 7, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://hai.stanford.edu/news/decoding-white-house-ai-executive-orders-achievements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hai.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hai.stanford.edu</span><span class="citation-popover-title">decoding white house ai executive orders achievements</span><span class="citation-popover-snippet">Stanford HAIDecoding the White House AI Executive Order&#x27;s Achievements2 Nov 2023 — Concretely, the default thresholds for compliance are...</span></span></span> Within debates about [AI doom and]({{ 'ai-doom-and/' | relative_url }}) existential risk, the threshold matters because it represents an attempt to create an early-warning system. Rather than waiting until a model demonstrates dangerous autonomy, deceptive behaviour, or other capabilities associated with loss-of-control scenarios, regulators use training compute as a proxy for identifying projects that deserve closer scrutiny. Whether 10^26 FLOPs is the right proxy remains heavily contested. <span class="citation-chip-wrap"><a class="citation-chip" href="https://law-ai.org/the-role-of-compute-thresholds-for-ai-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law-ai.org">[Institute for Law &amp; AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law-ai.org</span><span class="citation-popover-snippet">Institute for Law &amp; AIThe Role of Compute Thresholds for AI GovernanceThis article discusses the role of training compute thresholds, whi...</span></span></span>
+The 10^26 FLOP threshold became one of the most influential numbers in AI [governance]({{ 'governance/' | relative_url }}) almost overnight. It appeared in the 2023 United States AI Executive Order as the point at which developers of certain advanced AI models would face reporting requirements, and it later shaped several frontier-AI policy proposals, including California's SB 1047. The number was never intended to be a claim that systems become dangerous exactly at 10^26 floating-point operations (FLOPs). Instead, it was chosen as a practical policy benchmark: high enough to capture only the most advanced training runs, but low enough to provide oversight before potentially dangerous capabilities emerged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mofo.com/resources/insights/231107-the-ai-executive-order-presidential-authority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mofo.com">[Morrison Foerster]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mofo.com</span><span class="citation-popover-snippet">Morrison FoersterThe AI Executive Order: Presidential Authority for...November 7, 2023 — 7 Nov 2023 — Any AI model that was trained: usi...</span><span class="citation-popover-meta">Published: November 7, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://hai.stanford.edu/news/decoding-white-house-ai-executive-orders-achievements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hai.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hai.stanford.edu</span><span class="citation-popover-title">decoding white house ai executive orders achievements</span><span class="citation-popover-snippet">Stanford HAIDecoding the White House AI Executive Order&#x27;s Achievements2 Nov 2023 — Concretely, the default thresholds for compliance are...</span></span></span> Within debates about AI doom and existential risk, the threshold matters because it represents an attempt to create an early-warning system. Rather than waiting until a model demonstrates dangerous [autonomy]({{ 'autonomy/' | relative_url }}), deceptive behaviour, or other capabilities associated with loss-of-control scenarios, regulators use training compute as a proxy for identifying projects that deserve closer scrutiny. Whether 10^26 FLOPs is the right proxy remains heavily contested. <span class="citation-chip-wrap"><a class="citation-chip" href="https://law-ai.org/the-role-of-compute-thresholds-for-ai-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law-ai.org">[Institute for Law &amp; AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law-ai.org</span><span class="citation-popover-snippet">Institute for Law &amp; AIThe Role of Compute Thresholds for AI GovernanceThis article discusses the role of training compute thresholds, whi...</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38_10_26_flop_th_7f0a85-Illustration-1-dark.svg" | relative_url }}" alt="10 26 FLOPs illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38_10_26_flop_th_7f0a85-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38_10_26_flop_th_7f0a85-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Origins of the Benchmark
 
-The most important historical fact about the 10^26 figure is that it was not derived from a precise scientific boundary between safe and unsafe AI. Policymakers were trying to solve a more practical problem: how to identify a small set of frontier training runs without regulating the entire AI industry. The Biden administration's Executive Order defined certain "dual-use foundation models" partly by whether they were trained using more than 10^26 integer or floating-point operations. Developers crossing that threshold became subject to reporting obligations concerning safety testing, cybersecurity measures, and related information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mofo.com/resources/insights/231107-the-ai-executive-order-presidential-authority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mofo.com">[Morrison Foerster]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mofo.com</span><span class="citation-popover-snippet">Morrison FoersterThe AI Executive Order: Presidential Authority for...November 7, 2023 — 7 Nov 2023 — Any AI model that was trained: usi...</span><span class="citation-popover-meta">Published: November 7, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.federalregister.gov/documents/2024/09/11/2024-20529/establishment-of-reporting-requirements-for-the-development-of-advanced-[artificial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: federalregister.gov">[Federal Register]</a><span class="citation-popover" role="note"><span class="citation-popover-source">federalregister.gov</span><span class="citation-popover-snippet">Establishment of Reporting Requirements for the...11 Sept 2024 — A dual-use foundation model training run triggers reporting requirement...</span></span></span>
+The most important historical fact about the 10^26 figure is that it was not derived from a precise scientific boundary between safe and unsafe AI. Policymakers were trying to solve a more practical problem: how to identify a small set of frontier training runs without regulating the entire AI industry. The Biden administration's Executive Order defined certain "dual-use foundation models" partly by whether they were trained using more than 10^26 integer or floating-point operations. Developers crossing that threshold became subject to reporting obligations concerning safety testing, cybersecurity measures, and related information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mofo.com/resources/insights/231107-the-ai-executive-order-presidential-authority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mofo.com">[Morrison Foerster]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mofo.com</span><span class="citation-popover-snippet">Morrison FoersterThe AI Executive Order: Presidential Authority for...November 7, 2023 — 7 Nov 2023 — Any AI model that was trained: usi...</span><span class="citation-popover-meta">Published: November 7, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.federalregister.gov/documents/2024/09/11/2024-20529/establishment-of-reporting-requirements-for-the-development-of-advanced-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: federalregister.gov">[Federal Register]</a><span class="citation-popover" role="note"><span class="citation-popover-source">federalregister.gov</span><span class="citation-popover-snippet">Establishment of Reporting Requirements for the...11 Sept 2024 — A dual-use foundation model training run triggers reporting requirement...</span></span></span>
 
 The choice reflected the state of the industry in 2023. At the time, only a handful of organisations appeared capable of training models near that scale. Policymakers wanted a threshold that would capture frontier systems such as the successors to GPT-4 while excluding the vast majority of academic and commercial AI development. <span class="citation-chip-wrap"><a class="citation-chip" href="https://law-ai.org/the-role-of-compute-thresholds-for-ai-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law-ai.org">[Institute for Law &amp; AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law-ai.org</span><span class="citation-popover-snippet">Institute for Law &amp; AIThe Role of Compute Thresholds for AI GovernanceThis article discusses the role of training compute thresholds, whi...</span></span></span>
 
@@ -287,20 +287,20 @@ The key idea behind the 10^26 benchmark was not that compute itself is dangerous
 
 Historically, larger training runs have often produced more capable models. The relationship is imperfect, but advances in language modelling during the 2018–2024 period were strongly associated with increasing amounts of compute. Because compute can be measured before deployment, it offers an earlier signal than waiting for dangerous capabilities to appear in public. <span class="citation-chip-wrap"><a class="citation-chip" href="https://law-ai.org/the-role-of-compute-thresholds-for-ai-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law-ai.org">[Institute for Law &amp; AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law-ai.org</span><span class="citation-popover-snippet">Institute for Law &amp; AIThe Role of Compute Thresholds for AI GovernanceThis article discusses the role of training compute thresholds, whi...</span></span></span>
 
-For AI doom advocates, this matters because many existential-risk arguments focus on systems becoming dangerous before society fully understands them. If future systems acquire advanced autonomy, strategic planning abilities, or the capacity to deceive human operators, regulators may want [oversight]({{ 'oversight-evasion/' | relative_url }}) mechanisms to activate during training rather than after deployment. Compute thresholds are one attempt to create that upstream trigger. <span class="citation-chip-wrap"><a class="citation-chip" href="https://law-ai.org/the-role-of-compute-thresholds-for-ai-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law-ai.org">[Institute for Law &amp; AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law-ai.org</span><span class="citation-popover-snippet">Institute for Law &amp; AIThe Role of Compute Thresholds for AI GovernanceThis article discusses the role of training compute thresholds, whi...</span></span></span>
+For AI doom advocates, this matters because many existential-risk arguments focus on systems becoming dangerous before society fully understands them. If future systems acquire advanced autonomy, strategic planning abilities, or the capacity to deceive human operators, regulators may want oversight mechanisms to activate during training rather than after deployment. Compute thresholds are one attempt to create that upstream trigger. <span class="citation-chip-wrap"><a class="citation-chip" href="https://law-ai.org/the-role-of-compute-thresholds-for-ai-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law-ai.org">[Institute for Law &amp; AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law-ai.org</span><span class="citation-popover-snippet">Institute for Law &amp; AIThe Role of Compute Thresholds for AI GovernanceThis article discusses the role of training compute thresholds, whi...</span></span></span>
 
 Importantly, crossing 10^26 FLOPs was never supposed to mean a model posed an existential threat. The threshold was intended to identify projects worthy of additional attention, evaluation, and reporting. In policy terms, it functioned as a screening mechanism rather than a declaration of danger. <span class="citation-chip-wrap"><a class="citation-chip" href="https://law-ai.org/the-role-of-compute-thresholds-for-ai-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law-ai.org">[Institute for Law &amp; AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law-ai.org</span><span class="citation-popover-snippet">Institute for Law &amp; AIThe Role of Compute Thresholds for AI GovernanceThis article discusses the role of training compute thresholds, whi...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JILSzhssMsk" title="Anthropic Vs. OpenAI: How Safety Became The Advantage In AI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JILSzhssMsk" target="_blank" rel="noopener noreferrer">Anthropic Vs. OpenAI: How Safety Became The Advantage In AI</a></p><p class="youtube-embed-meta">Channel: CNBC &middot; Views: 258.3K &middot; Uploaded: January 2026 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JILSzhssMsk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JILSzhssMsk">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/m7g17cUrYbI" title="CPDP.ai 2024 - FLOPs and beyond Decoding the AI Act’s Systemic Risk Criteria" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=m7g17cUrYbI" target="_blank" rel="noopener noreferrer">CPDP.ai 2024 - FLOPs and beyond Decoding the AI Act’s Systemic Risk Criteria</a></p><p class="youtube-embed-meta">Channel: CPDPConferences &middot; Views: 177 &middot; Uploaded: June 2024 &middot; Length: 1 hour 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=m7g17cUrYbI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=m7g17cUrYbI">Open on YouTube</a></p></div></div></div>
 
 ## Why Not 10^25 or 10^27?
 
 One reason the 10^26 figure attracted so much attention is that alternative thresholds were entirely plausible.
 
-The European Union eventually adopted a lower benchmark of 10^25 FLOPs for certain general-purpose AI models deemed capable of posing systemic risks. This immediately highlighted the fact that no universally accepted scientific threshold existed. Different jurisdictions looked at broadly similar evidence and chose different trigger points. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fenwick.com/insights/publications/interesting-developments-for-regulatory-thresholds-of-ai-compute" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fenwick.com">[Fenwick]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fenwick.com</span><span class="citation-popover-title">interesting developments for regulatory thresholds of ai compute</span><span class="citation-popover-snippet">FenwickTechnological Challenges for Regulatory Thresholds of AI…20 Jun 2024 — Article 51 of the EU AI Act specifies 10^25 floating point...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aiactblog.nl/en/glossary/flop-threshold" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiactblog.nl">[Responsible AI Platform]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiactblog.nl</span><span class="citation-popover-snippet">Responsible AI PlatformFLOP Threshold (10^25): Definition &amp; Explanation | EU AI ActFLOP (Floating Point Operations) measures the computin...</span></span></span>
+The European Union eventually adopted a lower benchmark of 10^25 FLOPs for certain general-purpose AI models deemed capable of posing systemic risks. This immediately highlighted the fact that no universally accepted scientific threshold existed. Different jurisdictions looked at broadly similar evidence and chose different trigger points. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fenwick.com/insights/publications/interesting-developments-for-regulatory-thresholds-of-ai-compute" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fenwick.com">[Fenwick]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fenwick.com</span><span class="citation-popover-title">interesting developments for regulatory thresholds of ai compute</span><span class="citation-popover-snippet">Technological Challenges for Regulatory Thresholds of AI…20 Jun 2024 — Article 51 of the EU AI Act specifies 10^25 floating point...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aiactblog.nl/en/glossary/flop-threshold" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiactblog.nl">[Responsible AI Platform]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiactblog.nl</span><span class="citation-popover-snippet">Responsible AI PlatformFLOP Threshold (10^25): Definition &amp; Explanation &#124; EU AI ActFLOP (Floating Point Operations) measures the computin...</span></span></span>
 
-A lower threshold has obvious advantages. It captures more models, provides earlier oversight, and reduces the risk that a dangerous capability appears just below the reporting line. Critics of the US approach argued that waiting until 10^26 FLOPs could mean oversight begins too late. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fenwick.com/insights/publications/interesting-developments-for-regulatory-thresholds-of-ai-compute" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fenwick.com">[Fenwick]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fenwick.com</span><span class="citation-popover-title">interesting developments for regulatory thresholds of ai compute</span><span class="citation-popover-snippet">FenwickTechnological Challenges for Regulatory Thresholds of AI…20 Jun 2024 — Article 51 of the EU AI Act specifies 10^25 floating point...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://jack-clark.net/2024/03/28/what-does-1025-versus-1026-mean/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jack-clark.net">[Import AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jack-clark.net</span><span class="citation-popover-title">what does 1025 versus 1026 mean</span><span class="citation-popover-snippet">What does 10^25 versus 10^26 mean?28 Mar 2024 — In Europe, the recent EU AI Act says that general-purpose systems trained with 10^25 FLOP...</span></span></span>
+A lower threshold has obvious advantages. It captures more models, provides earlier oversight, and reduces the risk that a dangerous capability appears just below the reporting line. Critics of the US approach argued that waiting until 10^26 FLOPs could mean oversight begins too late. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fenwick.com/insights/publications/interesting-developments-for-regulatory-thresholds-of-ai-compute" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fenwick.com">[Fenwick]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fenwick.com</span><span class="citation-popover-title">interesting developments for regulatory thresholds of ai compute</span><span class="citation-popover-snippet">Technological Challenges for Regulatory Thresholds of AI…20 Jun 2024 — Article 51 of the EU AI Act specifies 10^25 floating point...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://jack-clark.net/2024/03/28/what-does-1025-versus-1026-mean/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jack-clark.net">[Import AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jack-clark.net</span><span class="citation-popover-title">what does 1025 versus 1026 mean</span><span class="citation-popover-snippet">What does 10^25 versus 10^26 mean?28 Mar 2024 — In Europe, the recent EU AI Act says that general-purpose systems trained with 10^25 FLOP...</span></span></span>
 
 On the other hand, a much lower threshold would have increased the number of covered models dramatically. Policymakers seeking a narrowly targeted reporting regime often preferred a higher number because it concentrated obligations on a small group of frontier developers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://law-ai.org/the-role-of-compute-thresholds-for-ai-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law-ai.org">[Institute for Law &amp; AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law-ai.org</span><span class="citation-popover-snippet">Institute for Law &amp; AIThe Role of Compute Thresholds for AI GovernanceThis article discusses the role of training compute thresholds, whi...</span></span></span>
 
@@ -319,15 +319,15 @@ Another criticism is that dangerous capabilities might emerge below the threshol
 Forecasting work has also suggested that the number of models exceeding fixed compute thresholds may grow rapidly over time. A benchmark that once captured only a handful of systems may eventually capture dozens or hundreds, potentially requiring frequent revision. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2405.10799" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Training Compute Thresholds: Features and Functions in AI Regulation</span><span class="citation-popover-snippet">arXiv Training Compute Thresholds: Features and Functions in AI Regulation</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/m7g17cUrYbI" title="CPDP.ai 2024 - FLOPs and beyond Decoding the AI Act’s Systemic Risk Criteria" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=m7g17cUrYbI" target="_blank" rel="noopener noreferrer">CPDP.ai 2024 - FLOPs and beyond Decoding the AI Act’s Systemic Risk Criteria</a></p><p class="youtube-embed-meta">Channel: CPDPConferences &middot; Views: 177 &middot; Uploaded: June 2024 &middot; Length: 1 hour 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=m7g17cUrYbI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=m7g17cUrYbI">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/szoyMP3xOlg" title="Compute in AI Governance: Shaping the Future | Michelle Fang | MIT 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=szoyMP3xOlg" target="_blank" rel="noopener noreferrer">Compute in AI Governance: Shaping the Future | Michelle Fang | MIT 2024</a></p><p class="youtube-embed-meta">Channel: Imagination in Action &middot; Views: 148 &middot; Uploaded: July 2024 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=szoyMP3xOlg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=szoyMP3xOlg">Open on YouTube</a></p></div></div></div>
 
 ## Arguments That the Line Is Too Low
 
 Others have made the opposite argument.
 
-Some industry critics viewed 10^26 FLOPs as an arbitrary line that risked imposing obligations on systems that had not demonstrated genuinely dangerous capabilities. From this perspective, training compute is only a rough proxy, and regulation should focus more directly on what models can actually do. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cohere.com/research/papers/The-Limits-of-Thresholds.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cohere.com">[Cohere]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cohere.com</span><span class="citation-popover-snippet">CohereThe Limits of ThresholdsProminent AI governance frameworks around the world have specified thresholds based on the amount of comput...</span></span></span>
+Some industry critics viewed 10^26 FLOPs as an arbitrary line that risked imposing obligations on systems that had not demonstrated genuinely dangerous capabilities. From this perspective, training compute is only a rough proxy, and regulation should focus more directly on what models can actually do. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cohere.com/research/papers/The-Limits-of-Thresholds.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cohere.com">[Cohere]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cohere.com</span><span class="citation-popover-snippet">The Limits of ThresholdsProminent AI governance frameworks around the world have specified thresholds based on the amount of comput...</span></span></span>
 
-There is also concern that compute-based rules can become outdated. A threshold chosen when frontier training runs were rare may eventually apply to a much larger segment of the industry as hardware improves and costs fall. Developers who see little connection between compute and existential risk often argue that capability evaluations should matter more than raw training expenditure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cohere.com/research/papers/The-Limits-of-Thresholds.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cohere.com">[Cohere]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cohere.com</span><span class="citation-popover-snippet">CohereThe Limits of ThresholdsProminent AI governance frameworks around the world have specified thresholds based on the amount of comput...</span></span></span>
+There is also concern that compute-based rules can become outdated. A threshold chosen when frontier training runs were rare may eventually apply to a much larger segment of the industry as hardware improves and costs fall. Developers who see little connection between compute and existential risk often argue that capability [evaluations]({{ 'evaluations/' | relative_url }}) should matter more than raw training expenditure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cohere.com/research/papers/The-Limits-of-Thresholds.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cohere.com">[Cohere]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cohere.com</span><span class="citation-popover-snippet">The Limits of ThresholdsProminent AI governance frameworks around the world have specified thresholds based on the amount of comput...</span></span></span>
 
 From this perspective, a fixed numerical threshold may regulate model size rather than genuine danger.
 
@@ -344,7 +344,7 @@ Yet the very need for a proxy reveals the [uncertainty]({{ 'uncertainty/' | rela
 That distinction explains both the benchmark's influence and its critics. Supporters see it as a practical early-warning mechanism for potentially transformative AI. Critics see it as an inevitably imperfect line drawn through a rapidly changing technological landscape. Both sides largely agree on one point: if compute thresholds remain part of AI governance, they will probably need periodic revision as models, hardware, and training techniques evolve. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2405.10799" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Training Compute Thresholds: Features and Functions in AI Regulation</span><span class="citation-popover-snippet">arXiv Training Compute Thresholds: Features and Functions in AI Regulation</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://law-ai.org/the-role-of-compute-thresholds-for-ai-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law-ai.org">[Institute for Law &amp; AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law-ai.org</span><span class="citation-popover-snippet">Institute for Law &amp; AIThe Role of Compute Thresholds for AI GovernanceThis article discusses the role of training compute thresholds, whi...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/szoyMP3xOlg" title="Compute in AI Governance: Shaping the Future | Michelle Fang | MIT 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=szoyMP3xOlg" target="_blank" rel="noopener noreferrer">Compute in AI Governance: Shaping the Future | Michelle Fang | MIT 2024</a></p><p class="youtube-embed-meta">Channel: Imagination in Action &middot; Views: 148 &middot; Uploaded: July 2024 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=szoyMP3xOlg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=szoyMP3xOlg">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JILSzhssMsk" title="Anthropic Vs. OpenAI: How Safety Became The Advantage In AI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JILSzhssMsk" target="_blank" rel="noopener noreferrer">Anthropic Vs. OpenAI: How Safety Became The Advantage In AI</a></p><p class="youtube-embed-meta">Channel: CNBC &middot; Views: 258.3K &middot; Uploaded: January 2026 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JILSzhssMsk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JILSzhssMsk">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -769,132 +769,132 @@ That distinction explains both the benchmark's influence and its critics. Suppor
 1. <a id="endnote-1"></a>
    Source: hai.stanford.edu  
    Title: decoding white house ai executive orders achievements  
-   Link: [https://hai.stanford.edu/news/decoding-white-house-ai-executive-orders-achievements](https://hai.stanford.edu/news/decoding-white-house-ai-executive-orders-achievements)  
+   Link: <a href="https://hai.stanford.edu/news/decoding-white-house-ai-executive-orders-achievements" target="_blank" rel="noopener noreferrer nofollow">https://hai.stanford.edu/news/decoding-white-house-ai-executive-orders-achievements</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford HAIDecoding the White House AI Executive Order&#x27;s Achievements2 Nov 2023 — Concretely, the default thresholds for compliance are...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: law-ai.org  
-   Link: [https://law-ai.org/the-role-of-compute-thresholds-for-ai-governance/](https://law-ai.org/the-role-of-compute-thresholds-for-ai-governance/)  
+   Link: <a href="https://law-ai.org/the-role-of-compute-thresholds-for-ai-governance/" target="_blank" rel="noopener noreferrer nofollow">https://law-ai.org/the-role-of-compute-thresholds-for-ai-governance/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Institute for Law &amp; AIThe Role of Compute Thresholds for AI GovernanceThis article discusses the role of training compute thresholds, whi...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv Training Compute Thresholds: Features and Functions in AI Regulation  
-   Link: [https://arxiv.org/abs/2405.10799](https://arxiv.org/abs/2405.10799)  
+   Link: <a href="https://arxiv.org/abs/2405.10799" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.10799</a>  
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Defending Compute Thresholds Against Legal [Loopholes](&#123;&#123; 'loopholes/' | relative_url &#125;&#125;)  
-   Link: [https://arxiv.org/abs/2502.00003](https://arxiv.org/abs/2502.00003)  
+   Link: <a href="https://arxiv.org/abs/2502.00003" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.00003</a>  
 
 5. <a id="endnote-5"></a>
    Source: fenwick.com  
-   Title: interesting developments for regulatory thresholds of ai compute  
-   Link: [https://www.fenwick.com/insights/publications/interesting-developments-for-regulatory-thresholds-of-ai-compute](https://www.fenwick.com/insights/publications/interesting-developments-for-regulatory-thresholds-of-ai-compute)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FenwickTechnological Challenges for Regulatory Thresholds of AI…20 Jun 2024 — Article 51 of the EU AI Act specifies 10^25 floating point...</p></details>
+   Title: interesting developments for regulatory thresholds of [ai compute](&#123;&#123; 'compute-kyc/' | relative_url &#125;&#125;)  
+   Link: <a href="https://www.fenwick.com/insights/publications/interesting-developments-for-regulatory-thresholds-of-ai-compute" target="_blank" rel="noopener noreferrer nofollow">https://www.fenwick.com/insights/publications/interesting-developments-for-regulatory-thresholds-of-ai-compute</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Technological Challenges for Regulatory Thresholds of AI…20 Jun 2024 — Article 51 of the EU AI Act specifies 10^25 floating point...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: jack-clark.net  
    Title: what does 1025 versus 1026 mean  
-   Link: [https://jack-clark.net/2024/03/28/what-does-1025-versus-1026-mean/](https://jack-clark.net/2024/03/28/what-does-1025-versus-1026-mean/)  
+   Link: <a href="https://jack-clark.net/2024/03/28/what-does-1025-versus-1026-mean/" target="_blank" rel="noopener noreferrer nofollow">https://jack-clark.net/2024/03/28/what-does-1025-versus-1026-mean/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>What does 10^25 versus 10^26 mean?28 Mar 2024 — In Europe, the recent EU AI Act says that general-purpose systems trained with 10^25 FLOP...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: cohere.com  
-   Link: [https://cohere.com/research/papers/The-Limits-of-Thresholds.pdf](https://cohere.com/research/papers/The-Limits-of-Thresholds.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CohereThe Limits of ThresholdsProminent AI governance frameworks around the world have specified thresholds based on the amount of comput...</p></details>
+   Link: <a href="https://cohere.com/research/papers/The-Limits-of-Thresholds.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cohere.com/research/papers/The-Limits-of-Thresholds.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Limits of ThresholdsProminent AI governance frameworks around the world have specified thresholds based on the amount of comput...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2504.16138](https://arxiv.org/abs/2504.16138)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivTrends in Frontier AI Model Count: A Forecast to 2028April 21, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2504.16138" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2504.16138</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Trends in Frontier AI Model Count: A Forecast to 2028April 21, 2025...</p></details>
    Published: April 21, 2025  
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2502.00003](https://arxiv.org/pdf/2502.00003)  
+   Link: <a href="https://arxiv.org/pdf/2502.00003" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2502.00003</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defending Compute Thresholds Against Legal Loopholesby M Pistillo · 2025 · Cited by 1 — At the time of writing, less than 10 developers a...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: mofo.com  
-   Link: [https://www.mofo.com/resources/insights/231107-the-ai-executive-order-presidential-authority](https://www.mofo.com/resources/insights/231107-the-ai-executive-order-presidential-authority)  
+   Link: <a href="https://www.mofo.com/resources/insights/231107-the-ai-executive-order-presidential-authority" target="_blank" rel="noopener noreferrer nofollow">https://www.mofo.com/resources/insights/231107-the-ai-executive-order-presidential-authority</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Morrison FoersterThe AI Executive Order: Presidential Authority for...November 7, 2023 — 7 Nov 2023 — Any AI model that was trained: usi...</p></details>
    Published: November 7, 2023  
 
 11. <a id="endnote-11"></a>
    Source: federalregister.gov  
-   Link: [https://www.federalregister.gov/documents/2024/09/11/2024-20529/establishment-of-reporting-requirements-for-the-development-of-advanced-[artificial](https://www.federalregister.gov/documents/2024/09/11/2024-20529/establishment-of-reporting-requirements-for-the-development-of-advanced-[artificial)  
+   Link: <a href="https://www.federalregister.gov/documents/2024/09/11/2024-20529/establishment-of-reporting-requirements-for-the-development-of-advanced-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2024/09/11/2024-20529/establishment-of-reporting-requirements-for-the-development-of-advanced-artificial-intelligence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Establishment of Reporting Requirements for the...11 Sept 2024 — A dual-use foundation model training run triggers reporting requirement...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: aiactblog.nl  
-   Link: [https://www.aiactblog.nl/en/glossary/flop-threshold](https://www.aiactblog.nl/en/glossary/flop-threshold)  
+   Link: <a href="https://www.aiactblog.nl/en/glossary/flop-threshold" target="_blank" rel="noopener noreferrer nofollow">https://www.aiactblog.nl/en/glossary/flop-threshold</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Responsible AI PlatformFLOP Threshold (10^25): Definition &amp; Explanation | EU AI ActFLOP (Floating Point Operations) measures the computin...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: law-ai.org  
-   Link: [https://law-ai.org/wp-content/uploads/2024/11/The-Role-of-Compute-Thresholds-for-AI-Governance.pdf](https://law-ai.org/wp-content/uploads/2024/11/The-Role-of-Compute-Thresholds-for-AI-Governance.pdf)  
+   Link: <a href="https://law-ai.org/wp-content/uploads/2024/11/The-Role-of-Compute-Thresholds-for-AI-Governance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://law-ai.org/wp-content/uploads/2024/11/The-Role-of-Compute-Thresholds-for-AI-Governance.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1e25 FLOP compute threshold “should be adjusted over time to reflect technological and industrial.Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: dlapiper.com  
    Title: californias sb 1047  
-   Link: [https://www.dlapiper.com/insights/publications/2024/02/californias-sb-1047](https://www.dlapiper.com/insights/publications/2024/02/californias-sb-1047)  
+   Link: <a href="https://www.dlapiper.com/insights/publications/2024/02/californias-sb-1047" target="_blank" rel="noopener noreferrer nofollow">https://www.dlapiper.com/insights/publications/2024/02/californias-sb-1047</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>California&#x27;s SB-1047: Understanding the Safe and Secure...Feb 20, 2024 — We describe the current legal landscape related to AI and how S...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40julian.burns50/breaching-the-eu-ai-act-model-power-threshold-with-macbooks-9725b223176d](https://medium.com/%40julian.burns50/breaching-the-eu-ai-act-model-power-threshold-with-macbooks-9725b223176d)  
+   Link: <a href="https://medium.com/%40julian.burns50/breaching-the-eu-ai-act-model-power-threshold-with-macbooks-9725b223176d" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40julian.burns50/breaching-the-eu-ai-act-model-power-threshold-with-macbooks-9725b223176d</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Safety: Inside the EU &#x27;10²⁵&#x27; Flop Model Size LimitsEU law classifies any Model accumulating &gt; 10²⁵ FLOPs of Compute resources, as a sy...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/danielflorian_what-does-1025-versus-1026-mean-activity-7182809393292292096-Emo2](https://www.linkedin.com/posts/danielflorian_what-does-1025-versus-1026-mean-activity-7182809393292292096-Emo2)  
+   Link: <a href="https://www.linkedin.com/posts/danielflorian_what-does-1025-versus-1026-mean-activity-7182809393292292096-Emo2" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/danielflorian_what-does-1025-versus-1026-mean-activity-7182809393292292096-Emo2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What does 10^25 versus 10^26 mean? | Daniel FlorianWhat a difference a FLOP makes: In the final months of negotiation of the EU AI Act, t...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: mayerbrown.com  
-   Link: [https://www.mayerbrown.com/en/insights/publications/2024/09/us-department-of-commerce-issues-proposal-to-require-reporting-development-of-advanced-ai-models-and-computer-clusters](https://www.mayerbrown.com/en/insights/publications/2024/09/us-department-of-commerce-issues-proposal-to-require-reporting-development-of-advanced-ai-models-and-computer-clusters)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US Department of Commerce Issues Proposal to Require...17 Sept 2024 — A proposed rule to create a [mandatory](&amp;#123;&amp;#123; &#x27;safety-checks/&#x27; | relative_url &amp;#125;&amp;#125;) reporting requirement for ar...</p></details>
+   Link: <a href="https://www.mayerbrown.com/en/insights/publications/2024/09/us-department-of-commerce-issues-proposal-to-require-reporting-development-of-advanced-ai-models-and-computer-clusters" target="_blank" rel="noopener noreferrer nofollow">https://www.mayerbrown.com/en/insights/publications/2024/09/us-department-of-commerce-issues-proposal-to-require-reporting-development-of-advanced-ai-models-and-computer-clusters</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>US Department of Commerce Issues Proposal to Require...17 Sept 2024 — A proposed rule to create a mandatory reporting requirement for ar...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: jolt.law.harvard.edu  
-   Link: [https://jolt.law.harvard.edu/digest/beyond-flops-shortcomings-of-flops-as-a-model-classification-metric-in-ai-regulation-1](https://jolt.law.harvard.edu/digest/beyond-flops-shortcomings-of-flops-as-a-model-classification-metric-in-ai-regulation-1)  
+   Link: <a href="https://jolt.law.harvard.edu/digest/beyond-flops-shortcomings-of-flops-as-a-model-classification-metric-in-ai-regulation-1" target="_blank" rel="noopener noreferrer nofollow">https://jolt.law.harvard.edu/digest/beyond-flops-shortcomings-of-flops-as-a-model-classification-metric-in-ai-regulation-1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Act&#x27;s significant obligations and penalties if the cumulative amount of computation used for its training is greater than 10^25 FLOPs...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: hsfkramer.com  
    Title: california passes broad safety and transparency law for frontier ai developers  
-   Link: [https://www.hsfkramer.com/insights/2025-10/california-passes-broad-safety-and-transparency-law-for-frontier-ai-developers](https://www.hsfkramer.com/insights/2025-10/california-passes-broad-safety-and-transparency-law-for-frontier-ai-developers)  
+   Link: <a href="https://www.hsfkramer.com/insights/2025-10/california-passes-broad-safety-and-transparency-law-for-frontier-ai-developers" target="_blank" rel="noopener noreferrer nofollow">https://www.hsfkramer.com/insights/2025-10/california-passes-broad-safety-and-transparency-law-for-frontier-ai-developers</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>California passes broad safety and transparency law for &#x27;...Oct 7, 2025 — The TFAIA was narrowed from SB 1047 to target developers (rath...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: fisherphillips.com  
    Title: california lawmakers pass landmark ai transparency law for frontier models  
-   Link: [https://www.fisherphillips.com/en/insights/insights/california-lawmakers-pass-landmark-ai-transparency-law-for-frontier-models](https://www.fisherphillips.com/en/insights/insights/california-lawmakers-pass-landmark-ai-transparency-law-for-frontier-models)  
+   Link: <a href="https://www.fisherphillips.com/en/insights/insights/california-lawmakers-pass-landmark-ai-transparency-law-for-frontier-models" target="_blank" rel="noopener noreferrer nofollow">https://www.fisherphillips.com/en/insights/insights/california-lawmakers-pass-landmark-ai-transparency-law-for-frontier-models</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>California Lawmakers Pass Landmark AI Transparency...Sep 15, 2025 — Focuses narrowly on “large frontier developers” (&gt;$500M in annual re...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Safe and Secure Innovation for Frontier Artificial Intelligence Models Act  
-   Link: [https://en.wikipedia.org/wiki/Safe_and_Secure_Innovation_for_Frontier_Artificial_Intelligence_Models_Act](https://en.wikipedia.org/wiki/Safe_and_Secure_Innovation_for_Frontier_Artificial_Intelligence_Models_Act)  
+   Link: <a href="https://en.wikipedia.org/wiki/Safe_and_Secure_Innovation_for_Frontier_Artificial_Intelligence_Models_Act" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Safe_and_Secure_Innovation_for_Frontier_Artificial_Intelligence_Models_Act</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Safe and Secure Innovation for Frontier Artificial...The Safe and Secure Innovation for Frontier Artificial Intelligence Models Act...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: reddit.com  
    Title: Biden Executive Order regulates VERY large models Basically  
-   Link: [https://www.reddit.com/r/LocalLLaMA/comments/17k7obo/biden_executive_order_regulates_very_large_models/](https://www.reddit.com/r/LocalLLaMA/comments/17k7obo/biden_executive_order_regulates_very_large_models/)  
+   Link: <a href="https://www.reddit.com/r/LocalLLaMA/comments/17k7obo/biden_executive_order_regulates_very_large_models/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/LocalLLaMA/comments/17k7obo/biden_executive_order_regulates_very_large_models/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Biden Executive Order regulates VERY large modelsBasically - &quot;any model trained with ~28M H100 hours, which is around $50M USD or - any c...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: bakerbotts.com  
    Title: ca new regulations for developers of frontier ai models  
-   Link: [https://www.bakerbotts.com/thought-leadership/publications/2025/october/ca-new-regulations-for-developers-of-frontier-ai-models](https://www.bakerbotts.com/thought-leadership/publications/2025/october/ca-new-regulations-for-developers-of-frontier-ai-models)  
+   Link: <a href="https://www.bakerbotts.com/thought-leadership/publications/2025/october/ca-new-regulations-for-developers-of-frontier-ai-models" target="_blank" rel="noopener noreferrer nofollow">https://www.bakerbotts.com/thought-leadership/publications/2025/october/ca-new-regulations-for-developers-of-frontier-ai-models</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>California&#x27;s New Regulations for Developers of Frontier AI...Oct 22, 2025 — A recent analysis projected that there may be around 30 such...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: lesswrong.com  
-   Link: [https://www.lesswrong.com/posts/SoEbZKhoaXHfaGD48/can-efficiency-adjustable-reporting-thresholds-close-a](https://www.lesswrong.com/posts/SoEbZKhoaXHfaGD48/can-efficiency-adjustable-reporting-thresholds-close-a)  
+   Link: <a href="https://www.lesswrong.com/posts/SoEbZKhoaXHfaGD48/can-efficiency-adjustable-reporting-thresholds-close-a" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/posts/SoEbZKhoaXHfaGD48/can-efficiency-adjustable-reporting-thresholds-close-a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Can efficiency-adjustable reporting thresholds close a...11 Jun 2024 — If a training run exceeds 1026 floating point operations or, for...</p></details>

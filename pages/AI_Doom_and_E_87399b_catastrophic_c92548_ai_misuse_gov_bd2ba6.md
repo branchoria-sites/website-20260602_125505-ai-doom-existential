@@ -12,21 +12,21 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_catastrophic_c92548_ai_cyber_atta_082acc
 - AI_Doom_and_E_87399b_catastrophic_c92548_ai_military_d_f2971e
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - misuse
 - ai-misuse-governance
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - misuse
 - ai-misuse-governance
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Highlights weaknesses in policy, oversight, and safeguards that could fail to stop catastrophic human-directed AI misuse.
 hero_summary: Highlights weaknesses in policy, oversight, and safeguards that could fail to stop catastrophic human-directed AI misuse.
 layout: default
 permalink: /ai-misuse-governance/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /misuse/
 nav_short_title: AI Misuse Governance
 title: Why Policy Gaps Heighten Risks of AI Misuse
@@ -213,20 +213,20 @@ parent_heading_title: How Could People Misuse Advanced AI?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_catastrophic_c92548
-  title: Misuse | AI Doom and
+  title: Misuse | AI Doom and E 87399 b
   permalink: /misuse/
   short_title: Misuse
   heading_title: How Could People Misuse Advanced AI?
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_catastrophic_c92548
-  title: Misuse | AI Doom and
+  title: Misuse | AI Doom and E 87399 b
   permalink: /misuse/
   short_title: Misuse
   heading_title: How Could People Misuse Advanced AI?
@@ -264,7 +264,7 @@ child_links:
   heading_title: Where Cybersecurity AI Escapes Regulation
 up_link:
   basename: AI_Doom_and_E_87399b_catastrophic_c92548
-  title: Misuse | AI Doom and
+  title: Misuse | AI Doom and E 87399 b
   permalink: /misuse/
   short_title: Misuse
   heading_title: How Could People Misuse Advanced AI?
@@ -282,13 +282,13 @@ image: /assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2
 
 ## Introduction
 
-Even as AI systems grow more capable, policy and regulatory structures intended to *prevent their [catastrophic]({{ 'misuse/' | relative_url }}) misuse* lag behind. Across biological, cybersecurity and military domains, analysts and regulators are sounding alarm bells: existing frameworks, institutional capacities and enforcement mechanisms are fragmented, under‑resourced, or ill‑matched to the technical realities of modern AI. These “governance gaps” matter for the broader debate about **[AI doom and]({{ 'ai-doom-and/' | relative_url }}) existential risk** because weak oversight makes it easier for powerful AI tools to be misapplied at scale — whether by accident, negligence or deliberate misuse. This article examines where governance frameworks are currently weakest, and why those weaknesses could increase the risk that AI systems contribute to truly catastrophic outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://politicalmarketer.com/ai-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: politicalmarketer.com">[Political Marketer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">politicalmarketer.com</span><span class="citation-popover-title">Political Marketer AI Governance: What Governments Are Actually Doing</span><span class="citation-popover-snippet">Political MarketerAI Governance: What Governments Are Actually DoingFebruary 2, 2026...</span><span class="citation-popover-meta">Published: February 2, 2026</span></span></span>
+Even as AI systems grow more capable, policy and regulatory structures intended to *prevent their [catastrophic]({{ 'misuse/' | relative_url }}) misuse* lag behind. Across biological, cybersecurity and military domains, analysts and regulators are sounding alarm bells: existing frameworks, institutional capacities and enforcement mechanisms are fragmented, under‑resourced, or ill‑matched to the technical realities of modern AI. These “[governance]({{ 'governance/' | relative_url }}) gaps” matter for the broader debate about **AI doom and existential risk** because weak oversight makes it easier for powerful AI tools to be misapplied at scale — whether by accident, negligence or deliberate misuse. This article examines where governance frameworks are currently weakest, and why those weaknesses could increase the risk that AI systems contribute to truly catastrophic outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://politicalmarketer.com/ai-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: politicalmarketer.com">[Political Marketer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">politicalmarketer.com</span><span class="citation-popover-title">Political Marketer AI Governance: What Governments Are Actually Doing</span><span class="citation-popover-snippet">Political MarketerAI Governance: What Governments Are Actually DoingFebruary 2, 2026...</span><span class="citation-popover-meta">Published: February 2, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6-Illustration-1-dark.svg" | relative_url }}" alt="AI Misuse Governance illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Current Regulatory and Oversight Limitations
 
-A recurring theme in policy reviews is that *frameworks exist in theory but struggle in practice*. Governments and international bodies have proliferated high‑level AI principles and draft legislation, such as the EU’s risk‑based AI regulatory framework, but these often lack the **enforceability, auditability and [operational]({{ 'operational-thresholds/' | relative_url }}) clarity** needed to prevent misuse across complex domains. For example, scholars reviewing major governance instruments — including the EU AI Act, ISO standards, the NIST AI Risk Management Framework, and OECD principles — identify persistent gaps in how obligations can be audited and enforced, especially among smaller actors with limited capacity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2624-800X/5/4/101" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">MDPIGaps in AI-Compliant Complementary Governance Frameworks’ Suitability (for Low-Capacity Actors), and Structural Asymmetries (in the C...</span></span></span>
+A recurring theme in policy reviews is that *frameworks exist in theory but struggle in practice*. Governments and international bodies have proliferated high‑level AI principles and draft legislation, such as the EU’s risk‑based AI regulatory framework, but these often lack the **enforceability, auditability and operational clarity** needed to prevent [misuse]({{ 'misuse/' | relative_url }}) across complex domains. For example, scholars reviewing major governance instruments — including the EU AI Act, ISO standards, the NIST AI Risk Management Framework, and OECD principles — identify persistent gaps in how obligations can be audited and enforced, especially among smaller actors with limited capacity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2624-800X/5/4/101" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Gaps in AI-Compliant Complementary Governance Frameworks’ Suitability (for Low-Capacity Actors), and Structural Asymmetries (in the C...</span></span></span>
 
 One structural weakness is *fragmented oversight*. Governments often regulate AI piecemeal through existing sectoral rules rather than a coherent, mission‑oriented approach. This leaves coverage uneven: some use cases, like consumer AI chatbots, attract guidance on transparency and fairness, while high‑stakes deployments in national security or bioinformatics may escape meaningful regulatory scrutiny. Enforcement capacity also lags: regulators frequently lack the technical expertise and institutional coordination to verify compliance or hold actors accountable when misuses occur. <span class="citation-chip-wrap"><a class="citation-chip" href="https://politicalmarketer.com/ai-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: politicalmarketer.com">[Political Marketer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">politicalmarketer.com</span><span class="citation-popover-title">Political Marketer AI Governance: What Governments Are Actually Doing</span><span class="citation-popover-snippet">Political MarketerAI Governance: What Governments Are Actually DoingFebruary 2, 2026...</span><span class="citation-popover-meta">Published: February 2, 2026</span></span></span>
 
@@ -303,7 +303,7 @@ In the national context, this fragmentation is mirrored by organisational readin
 
 AI’s *dual‑use* nature — where the same capabilities can be used for benefit or harm — complicates regulation. Tools that accelerate drug discovery or genome analysis can also lower barriers to biological threat design, yet export controls and sectoral safety norms for dual‑use technologies rarely cover algorithmic risks or AI‑mediated misuse scenarios. Dual‑use technologies resist easy categorisation into “safe” or “hazardous”, weakening the reach of existing governance structures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.orfonline.org/research/from-satellites-to-synthetic-biology-the-dual-use-dilemma" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orfonline.org">[ORF Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orfonline.org</span><span class="citation-popover-title">ORF Online From Satellites to Synthetic Biology: The Dual-Use Dilemma</span><span class="citation-popover-snippet">ORF OnlineFrom Satellites to Synthetic Biology: The Dual-Use DilemmaMarch 19, 2026...</span><span class="citation-popover-meta">Published: March 19, 2026</span></span></span>
 
-In biotechnology, the convergence of AI and laboratory [automation]({{ 'automation-bias/' | relative_url }}) accelerates research cycles, leaving policymakers scrambling to respond. Traditional governance faces a dilemma: *acting too early* risks stifling innovation; *waiting too long* cedes the initiative to actors who may deploy tools without sufficient safeguards. Without more adaptive oversight, the pace of technical change can outstrip the ability to anticipate and mitigate misuse pathways. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12852783/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">lient regulatory frameworks to address potential risks - PMCJanuary 3, 2026...</span><span class="citation-popover-meta">Published: January 3, 2026</span></span></span>
+In biotechnology, the convergence of AI and laboratory automation accelerates research cycles, leaving policymakers scrambling to respond. Traditional governance faces a dilemma: *acting too early* risks stifling innovation; *waiting too long* cedes the initiative to actors who may deploy tools without sufficient safeguards. Without more adaptive oversight, the pace of technical change can outstrip the ability to anticipate and mitigate misuse pathways. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12852783/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">lient regulatory frameworks to address potential risks - PMCJanuary 3, 2026...</span><span class="citation-popover-meta">Published: January 3, 2026</span></span></span>
 
 ### Cybersecurity and Military Use Cases Fall Through the Cracks
 
@@ -317,11 +317,11 @@ In cybersecurity, AI tools intended for defence — such as intrusion detection 
 
 A pervasive governance issue is the *accountability gap*. Even where laws exist on the books, holding actors to account after AI misuse is structurally difficult. Powerful AI firms operate globally and across jurisdictions, making it hard for any single regulator to enforce compliance or impose sanctions. Critics argue that many frameworks assume unrealistic institutional capacities — expecting regulators to audit and control systems they cannot realistically monitor or explain in detail. Bridging this gap requires not just better laws, but deeper institutional capacity and international cooperation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kuleuven.be/digisoc/blog-posts/when-regulation-is-not-enough-ai-accountability-and-the-limits-of-law-governance-and-institutional-capacity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kuleuven.be">[KU Leuven]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kuleuven.be</span><span class="citation-popover-snippet">KU LeuvenWhen Regulation Is Not Enough: AI Accountability and the Limits of Law, Governance, and Institutional Capacity — KU Leuven Digit...</span></span></span>
 
-Enforcement mechanisms are often weak or under‑developed. For example, regulatory audits and reporting obligations may exist, but without technical capacity to scrutinise complex models or real‑time monitoring tools, regulators may be unable to discern misuse until after damage has been done. This reactive posture contrasts sharply with the fast, automated pace at which modern AI systems can be misused. <span class="citation-chip-wrap"><a class="citation-chip" href="https://politicalmarketer.com/ai-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: politicalmarketer.com">[Political Marketer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">politicalmarketer.com</span><span class="citation-popover-title">Political Marketer AI Governance: What Governments Are Actually Doing</span><span class="citation-popover-snippet">Political MarketerAI Governance: What Governments Are Actually DoingFebruary 2, 2026...</span><span class="citation-popover-meta">Published: February 2, 2026</span></span></span>
+Enforcement mechanisms are often weak or under‑developed. For example, regulatory audits and reporting obligations may exist, but without technical capacity to scrutinise complex models or real‑time [monitoring]({{ 'monitoring/' | relative_url }}) tools, regulators may be unable to discern misuse until after damage has been done. This reactive posture contrasts sharply with the fast, automated pace at which modern AI systems can be misused. <span class="citation-chip-wrap"><a class="citation-chip" href="https://politicalmarketer.com/ai-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: politicalmarketer.com">[Political Marketer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">politicalmarketer.com</span><span class="citation-popover-title">Political Marketer AI Governance: What Governments Are Actually Doing</span><span class="citation-popover-snippet">Political MarketerAI Governance: What Governments Are Actually DoingFebruary 2, 2026...</span><span class="citation-popover-meta">Published: February 2, 2026</span></span></span>
 
 ## Fragmented Global Governance and Geopolitical Barriers
 
-AI governance is not only a domestic challenge: it is a **global coordination problem**. Scholars of international technology governance highlight how [geopolitical]({{ 'geopolitics/' | relative_url }}) tensions, divergent national policies, and fragile cooperative institutions undermine efforts to build coherent global standards. When states prioritise national security and competitive advantage, they may resist external oversight or unified norms, leading to a fragmented regulatory landscape that adversarial actors can exploit. Without stronger multinational frameworks, regulatory “race to the bottom” dynamics may prevail, weakening global barriers to misuse. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s40647-025-00445-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">SpringerGoverning High-Risk Technologies in a Fragmented World: Geopolitical Tensions, Regulatory Gaps, and Institutional Barriers to Glo...</span></span></span>
+AI governance is not only a domestic challenge: it is a **global coordination problem**. Scholars of international technology governance highlight how geopolitical tensions, divergent national policies, and fragile cooperative institutions undermine efforts to build coherent global standards. When states prioritise national security and competitive advantage, they may resist external oversight or unified norms, leading to a fragmented regulatory landscape that adversarial actors can exploit. Without stronger multinational frameworks, regulatory “race to the bottom” dynamics may prevail, weakening global barriers to misuse. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s40647-025-00445-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Governing High-Risk Technologies in a Fragmented World: Geopolitical Tensions, Regulatory Gaps, and Institutional Barriers to Glo...</span></span></span>
 
 Historical lessons from areas like biological weapons control suggest that treaty gaps — where governance frameworks fail to encompass new tech realities — can persist for years, eroding norms and enabling misuse. Modern AI‑enabled biological and cyber threats may reveal similar treaty and norm deficiencies unless governance instruments evolve. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.ndu.edu/strategic-insights/43/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.ndu.edu">[Digital Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.ndu.edu</span><span class="citation-popover-snippet">Digital CommonsBiotechnologies and the Treaty Gap: Why Biological Weapons Governance Is Falling Behind; and Some Thoughts on How to Fix I...</span></span></span>
 
@@ -334,7 +334,7 @@ While the governance gaps outlined above are substantial, researchers and policy
 
 Closer alignment is also needed between civil and defence regulation, ensuring that high‑risk dual‑use systems do not fall outside regulatory purview simply because they cross domain boundaries. This would require new institutional mechanisms for cross‑sector dialogue and oversight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atlanticcouncil.org/in-depth-research-reports/report/second-order-impacts-of-civil-artificial-intelligence-regulation-on-defense-why-the-national-security-community-must-engage/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlanticcouncil.org">[Atlantic Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlanticcouncil.org</span><span class="citation-popover-snippet">Atlantic CouncilSecond-order impacts of civil artificial intelligence regulation on defense: Why the national security community must eng...</span></span></span>
 
-Finally, international coordination remains vital. Experts argue for *multilateral governance regimes* that combine non‑proliferation norms with verification and transparency measures tailored to AI’s specific characteristics. Although challenging, such regimes could create shared norms and accountability mechanisms that reduce incentives for misuse. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s00146-024-02050-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">SpringerInternational governance of advancing artificial intelligence | AI &amp; SOCIETY | Springer Nature LinkSeptember 19, 2024...</span><span class="citation-popover-meta">Published: September 19, 2024</span></span></span>
+Finally, international coordination remains vital. Experts argue for *multilateral governance regimes* that combine non‑proliferation norms with verification and transparency measures tailored to AI’s specific characteristics. Although challenging, such regimes could create shared norms and accountability mechanisms that reduce incentives for misuse. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s00146-024-02050-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">International governance of advancing artificial intelligence &#124; AI &amp; SOCIETY &#124; Springer Nature LinkSeptember 19, 2024...</span><span class="citation-popover-meta">Published: September 19, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6-Illustration-3-dark.svg" | relative_url }}" alt="AI Misuse Governance illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -767,123 +767,123 @@ Governance gaps heighten the risk that powerful AI systems will be misapplied in
 
 1. <a id="endnote-1"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2624-800X/5/4/101](https://www.mdpi.com/2624-800X/5/4/101)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MDPIGaps in AI-Compliant Complementary Governance Frameworks’ Suitability (for Low-Capacity Actors), and Structural Asymmetries (in the C...</p></details>
+   Link: <a href="https://www.mdpi.com/2624-800X/5/4/101" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2624-800X/5/4/101</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gaps in AI-Compliant Complementary Governance Frameworks’ Suitability (for Low-Capacity Actors), and Structural Asymmetries (in the C...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12852783/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12852783/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12852783/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12852783/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>lient regulatory frameworks to address potential risks - PMCJanuary 3, 2026...</p></details>
    Published: January 3, 2026  
 
 3. <a id="endnote-3"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s40647-025-00445-4](https://link.springer.com/article/10.1007/s40647-025-00445-4)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpringerGoverning High-Risk Technologies in a Fragmented World: Geopolitical Tensions, Regulatory Gaps, and Institutional Barriers to Glo...</p></details>
+   Link: <a href="https://link.springer.com/article/10.1007/s40647-025-00445-4" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s40647-025-00445-4</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Governing High-Risk Technologies in a Fragmented World: Geopolitical Tensions, Regulatory Gaps, and Institutional Barriers to Glo...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s00146-024-02050-7](https://link.springer.com/article/10.1007/s00146-024-02050-7)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpringerInternational governance of advancing [artificial](&amp;#123;&amp;#123; &#x27;artificial-goals/&#x27; | relative_url &amp;#125;&amp;#125;) intelligence | AI &amp; SOCIETY | Springer Nature LinkSeptember 19, 2024...</p></details>
+   Link: <a href="https://link.springer.com/article/10.1007/s00146-024-02050-7" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s00146-024-02050-7</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>International governance of advancing artificial intelligence | AI &amp; SOCIETY | Springer Nature LinkSeptember 19, 2024...</p></details>
    Published: September 19, 2024  
 
 5. <a id="endnote-5"></a>
    Source: politicalmarketer.com  
    Title: Political Marketer AI Governance: What Governments Are Actually Doing  
-   Link: [https://politicalmarketer.com/ai-governance/](https://politicalmarketer.com/ai-governance/)  
+   Link: <a href="https://politicalmarketer.com/ai-governance/" target="_blank" rel="noopener noreferrer nofollow">https://politicalmarketer.com/ai-governance/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Political MarketerAI Governance: What Governments Are Actually DoingFebruary 2, 2026...</p></details>
    Published: February 2, 2026  
 
 6. <a id="endnote-6"></a>
    Source: turing.ac.uk  
-   Link: [https://www.turing.ac.uk/news/publications/common-regulatory-capacity-ai](https://www.turing.ac.uk/news/publications/common-regulatory-capacity-ai)  
+   Link: <a href="https://www.turing.ac.uk/news/publications/common-regulatory-capacity-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.turing.ac.uk/news/publications/common-regulatory-capacity-ai</a>  
 
 7. <a id="endnote-7"></a>
    Source: orfonline.org  
-   Title: ORF Online From Satellites to [Synthetic](&#123;&#123; 'synthetic-data/' | relative_url &#125;&#125;) Biology: The Dual-Use Dilemma  
-   Link: [https://www.orfonline.org/research/from-satellites-to-synthetic-biology-the-dual-use-dilemma](https://www.orfonline.org/research/from-satellites-to-synthetic-biology-the-dual-use-dilemma)  
+   Title: ORF Online From Satellites to Synthetic Biology: The Dual-Use Dilemma  
+   Link: <a href="https://www.orfonline.org/research/from-satellites-to-synthetic-biology-the-dual-use-dilemma" target="_blank" rel="noopener noreferrer nofollow">https://www.orfonline.org/research/from-satellites-to-synthetic-biology-the-dual-use-dilemma</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ORF OnlineFrom Satellites to Synthetic Biology: The Dual-Use DilemmaMarch 19, 2026...</p></details>
    Published: March 19, 2026  
 
 8. <a id="endnote-8"></a>
    Source: atlanticcouncil.org  
-   Link: [https://www.atlanticcouncil.org/in-depth-research-reports/report/second-order-impacts-of-civil-artificial-intelligence-regulation-on-defense-why-the-national-security-community-must-engage/](https://www.atlanticcouncil.org/in-depth-research-reports/report/second-order-impacts-of-civil-artificial-intelligence-regulation-on-defense-why-the-national-security-community-must-engage/)  
+   Link: <a href="https://www.atlanticcouncil.org/in-depth-research-reports/report/second-order-impacts-of-civil-artificial-intelligence-regulation-on-defense-why-the-national-security-community-must-engage/" target="_blank" rel="noopener noreferrer nofollow">https://www.atlanticcouncil.org/in-depth-research-reports/report/second-order-impacts-of-civil-artificial-intelligence-regulation-on-defense-why-the-national-security-community-must-engage/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Atlantic CouncilSecond-order impacts of civil artificial intelligence regulation on defense: Why the national security community must eng...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12569510/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12569510/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCSeptember 1, 2025...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12569510/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12569510/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>September 1, 2025...</p></details>
    Published: September 1, 2025  
 
 10. <a id="endnote-10"></a>
    Source: kuleuven.be  
-   Link: [https://www.kuleuven.be/digisoc/blog-posts/when-regulation-is-not-enough-ai-accountability-and-the-limits-of-law-governance-and-institutional-capacity](https://www.kuleuven.be/digisoc/blog-posts/when-regulation-is-not-enough-ai-accountability-and-the-limits-of-law-governance-and-institutional-capacity)  
+   Link: <a href="https://www.kuleuven.be/digisoc/blog-posts/when-regulation-is-not-enough-ai-accountability-and-the-limits-of-law-governance-and-institutional-capacity" target="_blank" rel="noopener noreferrer nofollow">https://www.kuleuven.be/digisoc/blog-posts/when-regulation-is-not-enough-ai-accountability-and-the-limits-of-law-governance-and-institutional-capacity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>KU LeuvenWhen Regulation Is Not Enough: [AI Accountability](&amp;#123;&amp;#123; &#x27;ai-accountability/&#x27; | relative_url &amp;#125;&amp;#125;) and the Limits of Law, Governance, and Institutional Capacity — KU Leuven Digit...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: digitalcommons.ndu.edu  
-   Link: [https://digitalcommons.ndu.edu/strategic-insights/43/](https://digitalcommons.ndu.edu/strategic-insights/43/)  
+   Link: <a href="https://digitalcommons.ndu.edu/strategic-insights/43/" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.ndu.edu/strategic-insights/43/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital CommonsBiotechnologies and the Treaty Gap: Why Biological Weapons Governance Is Falling Behind; and Some Thoughts on How to Fix I...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/392085008_Mitigating_Cyber_Risk_in_the_Age_of_Open-Weight_LLMs_Policy_Gaps_and_Technical_Realities](https://www.researchgate.net/publication/392085008_Mitigating_Cyber_Risk_in_the_Age_of_Open-Weight_LLMs_Policy_Gaps_and_Technical_Realities)  
+   Link: <a href="https://www.researchgate.net/publication/392085008_Mitigating_Cyber_Risk_in_the_Age_of_Open-Weight_LLMs_Policy_Gaps_and_Technical_Realities" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392085008_Mitigating_Cyber_Risk_in_the_Age_of_Open-Weight_LLMs_Policy_Gaps_and_Technical_Realities</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 21, 2025 — MITIGATING CYBER RISK IN THE AGE OF OPEN-WEIGHT LLMS: POLICY GAPS AND TECHNICAL REALITIES * May 2025 DOI:10.48550/arXiv.25...</p></details>
    Published: May 21, 2025  
 
 13. <a id="endnote-13"></a>
    Source: committees.parliament.uk  
-   Link: [https://committees.parliament.uk/work/6986/governance-of-artificial-intelligence-ai/news/199791/ai-regulatory-gap-analysis-a-welcome-first-step-towards-addressing-ai-governance-challenges-says-committee-chair/](https://committees.parliament.uk/work/6986/governance-of-artificial-intelligence-ai/news/199791/ai-regulatory-gap-analysis-a-welcome-first-step-towards-addressing-ai-governance-challenges-says-committee-chair/)  
+   Link: <a href="https://committees.parliament.uk/work/6986/governance-of-artificial-intelligence-ai/news/199791/ai-regulatory-gap-analysis-a-welcome-first-step-towards-addressing-ai-governance-challenges-says-committee-chair/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/work/6986/governance-of-artificial-intelligence-ai/news/199791/ai-regulatory-gap-analysis-a-welcome-first-step-towards-addressing-ai-governance-challenges-says-committee-chair/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>regulatory gap analysis a welcome first step towards addressing AI governance challenges, says Committee Chair - Committees - UK Parliame...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: doaj.org  
-   Link: [https://doaj.org/article/f90d2cac0f264b959dba4bfbff1a3152](https://doaj.org/article/f90d2cac0f264b959dba4bfbff1a3152)  
+   Link: <a href="https://doaj.org/article/f90d2cac0f264b959dba4bfbff1a3152" target="_blank" rel="noopener noreferrer nofollow">https://doaj.org/article/f90d2cac0f264b959dba4bfbff1a3152</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>iance Ecosystem)—A Systematic Review – DOAJJournal of Cybersecurity and Privacy (Nov 2025) GAPS IN AI-COMPLIANT COMPLEMENTARY GOVERNANCE...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: dgap.org  
    Title: anticipatory governance emerging and disruptive technologies dual use  
-   Link: [https://dgap.org/en/research/publications/anticipatory-governance-emerging-and-disruptive-technologies-dual-use](https://dgap.org/en/research/publications/anticipatory-governance-emerging-and-disruptive-technologies-dual-use)  
+   Link: <a href="https://dgap.org/en/research/publications/anticipatory-governance-emerging-and-disruptive-technologies-dual-use" target="_blank" rel="noopener noreferrer nofollow">https://dgap.org/en/research/publications/anticipatory-governance-emerging-and-disruptive-technologies-dual-use</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anticipatory governance of emerging and disruptive technologies with dual-use potential | DGAPJuly 25, 2022 — Jul 25, 2022 ANTICIPATORY G...</p></details>
    Published: July 25, 2022  
 
 16. <a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: While a range of potentia  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11835847/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11835847/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11835847/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11835847/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI in biotechnology: balancing discovery, innovation and biosecurity risks - PMCFebruary 5, 2025 — SAFEGUARDS FOR MITIGATING RISKS: CURRE...</p></details>
    Published: February 5, 2025  
 
 17. <a id="endnote-17"></a>
    Source: GOV.UK  
    Title: www.gov.uk Cyber security risks to artificial intelligence  
-   Link: [https://www.gov.uk/government/publications/research-on-the-cyber-security-of-ai/cyber-security-risks-to-artificial-intelligence](https://www.gov.uk/government/publications/research-on-the-cyber-security-of-ai/cyber-security-risks-to-artificial-intelligence)  
+   Link: <a href="https://www.gov.uk/government/publications/research-on-the-cyber-security-of-ai/cyber-security-risks-to-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/research-on-the-cyber-security-of-ai/cyber-security-risks-to-artificial-intelligence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Executive summary 2. 1. Introduction 3. 2. Methodology 4. 3. Background 5. 4. Findings of the risk assessment 6. 5...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: chathamhouse.org  
    Title: Breaking the deadlock on AI governance  
-   Link: [https://www.chathamhouse.org/node/38293/nojs](https://www.chathamhouse.org/node/38293/nojs)  
+   Link: <a href="https://www.chathamhouse.org/node/38293/nojs" target="_blank" rel="noopener noreferrer nofollow">https://www.chathamhouse.org/node/38293/nojs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SummaryMarch 30, 2026 — BREAKING THE DEADLOCK ON AI GOVERNANCE How a crisis could lead to global coordination Research paper Published 30...</p></details>
    Published: March 30, 2026  
 
 19. <a id="endnote-19"></a>
    Source: sciety.org  
    Title: William Walter Finch  
-   Link: [https://sciety.org/articles/activity/10.3390/jcp5040101](https://sciety.org/articles/activity/10.3390/jcp5040101)  
+   Link: <a href="https://sciety.org/articles/activity/10.3390/jcp5040101" target="_blank" rel="noopener noreferrer nofollow">https://sciety.org/articles/activity/10.3390/jcp5040101</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Gaps in AI-Compliant Complementary Governance Frameworks’ Suitability (for Low-Capacity Actors), and Structural Asymmetries (in the Compl...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: 'Godfather of AI' warns of existential risks | GZERO World with Ian Bremmer  
-   Link: [https://www.youtube.com/watch?v=tuCBVuzTKAU](https://www.youtube.com/watch?v=tuCBVuzTKAU)  
+   Link: <a href="https://www.youtube.com/watch?v=tuCBVuzTKAU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tuCBVuzTKAU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The “Godfather of AI,” Dr. Geoffrey Hinton, on AI&#x27;s Existential Risk...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7310294/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7310294/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7310294/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7310294/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tucker in his 2012 book, Innovation, Dual Use, and Security: Managing the Risks of Emerging Biological and Chemical Technologies...</p></details>

@@ -12,21 +12,21 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c
 - AI_Doom_and_E_87399b_interpretabil_15527d_mechanistic_h_cf3b0e
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - control-tools
 - scaling-limits
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - control-tools
 - scaling-limits
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Methods that explain small neural networks often become unreliable or incomplete in the largest modern systems.
 hero_summary: Methods that explain small neural networks often become unreliable or incomplete in the largest modern systems.
 layout: default
 permalink: /scaling-limits/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /control-tools/
 nav_short_title: Scaling Limits
 title: Why Bigger AI Models May Resist Human Understanding
@@ -205,6 +205,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-02 12:06:59'
 parent_title: Can We Make Advanced AI Understandable? | AI Doom
 parent_permalink: /control-tools/
 parent_nav_short_title: Control Tools
@@ -212,20 +213,20 @@ parent_heading_title: Can We Make Advanced AI Understandable?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_interpretabil_15527d
-  title: Control Tools | AI Doom and
+  title: Control Tools | AI Doom and E 87399 b
   permalink: /control-tools/
   short_title: Control Tools
   heading_title: Can We Make Advanced AI Understandable?
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_interpretabil_15527d
-  title: Control Tools | AI Doom and
+  title: Control Tools | AI Doom and E 87399 b
   permalink: /control-tools/
   short_title: Control Tools
   heading_title: Can We Make Advanced AI Understandable?
@@ -263,7 +264,7 @@ child_links:
   heading_title: Why mapping AI internals gets harder with scale
 up_link:
   basename: AI_Doom_and_E_87399b_interpretabil_15527d
-  title: Control Tools | AI Doom and
+  title: Control Tools | AI Doom and E 87399 b
   permalink: /control-tools/
   short_title: Control Tools
   heading_title: Can We Make Advanced AI Understandable?
@@ -273,7 +274,6 @@ prev_link:
   permalink: /human-oversight/
   short_title: Human Oversight
   heading_title: Can Humans Really Stay In Control Of Superhuman AI?
-date: '2026-06-02 12:06:59 '
 header:
   og_image: /assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e-Illustration-1.webp
@@ -282,7 +282,7 @@ image: /assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40
 
 ## Introduction
 
-Efforts to make powerful [artificial]({{ 'artificial-goals/' | relative_url }}) intelligence **interpretable** — that is, to understand *how* and *why* an AI system reaches certain decisions — seem crucial if humans are to retain **meaningful oversight** over future advanced systems. [Interpretability]({{ 'interpretability/' | relative_url }}) methods range from simple explanations of outputs to deep mechanistic reverse‑engineering of internal computations. But as AI has surged from small research models to huge “frontier” systems with billions of parameters, a fundamental question has emerged: **will interpretability scale?** Put another way, can the techniques we have today — even the more advanced research ones — realistically provide real transparency into the inner workings of next‑generation AI? Many researchers argue that interpretability may stall or even *collapse* as models become more complex, for reasons that matter deeply in debates about alignment and existential risk. This page explains the core limitations researchers and practitioners are confronting, the reasons why they may not scale to frontier AI, and what that means for our ability to control advanced systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Frontier AI: capabilities and risks – discussion paper</span><span class="citation-popover-snippet">28, 2025...</span></span></span>
+Efforts to make powerful artificial intelligence **interpretable** — that is, to understand *how* and *why* an AI system reaches certain decisions — seem crucial if humans are to retain **meaningful oversight** over future advanced systems. [Interpretability]({{ 'interpretability/' | relative_url }}) methods range from simple explanations of outputs to deep mechanistic reverse‑engineering of internal computations. But as AI has surged from small research models to huge “frontier” systems with billions of parameters, a fundamental question has emerged: **will interpretability scale?** Put another way, can the techniques we have today — even the more advanced research ones — realistically provide real transparency into the inner workings of next‑generation AI? Many researchers argue that interpretability may stall or even *collapse* as models become more complex, for reasons that matter deeply in debates about alignment and existential risk. This page explains the core limitations researchers and practitioners are confronting, the reasons why they may not scale to frontier AI, and what that means for our ability to control advanced systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Frontier AI: capabilities and risks – discussion paper</span><span class="citation-popover-snippet">28, 2025...</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e-Illustration-1-dark.svg" | relative_url }}" alt="Scaling Limits illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -290,8 +290,8 @@ Efforts to make powerful [artificial]({{ 'artificial-goals/' | relative_url }}) 
 
 Interpretability is not one monolithic technique but a family of approaches:
 
-* **Post‑hoc explanations** provide explanations after the fact — for example, heatmaps showing which parts of input data were “important” for a decision. These methods do not access the internal logic but infer influence from behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s44230-023-00038-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">SpringerSurvey on Explainable AI: From Approaches, Limitations and Applications Aspects | Human-Centric Intelligent Systems | Springer Na...</span></span></span>
-* **Mechanistic interpretability** tries to map internal computations — neural activations, circuits, feature representations — into human‑understandable causal structure. This is the more ambitious approach touted by many in the AI safety community. <span class="citation-chip-wrap"><a class="citation-chip" href="https://intuitionlabs.ai/articles/mechanistic-interpretability-ai-llms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intuitionlabs.ai">[IntuitionLabs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intuitionlabs.ai</span><span class="citation-popover-snippet">IntuitionLabsUnderstanding Mechanistic Interpretability in AI Models | IntuitionLabsFebruary 15, 2026...</span><span class="citation-popover-meta">Published: February 15, 2026</span></span></span>
+* **Post‑hoc explanations** provide explanations after the fact — for example, heatmaps showing which parts of input data were “important” for a decision. These methods do not access the internal logic but infer influence from behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s44230-023-00038-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Survey on Explainable AI: From Approaches, Limitations and Applications Aspects &#124; Human-Centric Intelligent Systems &#124; Springer Na...</span></span></span>
+* **Mechanistic interpretability** tries to map internal computations — neural activations, circuits, feature representations — into human‑understandable causal structure. This is the more ambitious approach touted by many in the AI safety community. <span class="citation-chip-wrap"><a class="citation-chip" href="https://intuitionlabs.ai/articles/mechanistic-interpretability-ai-llms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intuitionlabs.ai">[IntuitionLabs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intuitionlabs.ai</span><span class="citation-popover-snippet">Understanding Mechanistic Interpretability in AI Models &#124; IntuitionLabsFebruary 15, 2026...</span><span class="citation-popover-meta">Published: February 15, 2026</span></span></span>
 
 Both face serious challenges when a model’s size, architecture and learned complexity grow.
 
@@ -299,9 +299,14 @@ Both face serious challenges when a model’s size, architecture and learned com
 
 Post‑hoc tools like saliency maps, LIME, SHAP and feature attributions were designed for smaller or structured models. As model size increases:
 
-* **Computational cost explodes**. Certain methods require extensive simulation or sampling that becomes infeasible on high‑dimensional data or layers with hundreds of millions of parameters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/1999-4893/18/9/556" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">MDPIA Review of Explainable Artificial Intelligence from the Perspectives of Challenges and Opportunities...</span></span></span>
-* **Explanations may detach from real internal processes**. These techniques reveal correlations rather than causal chains within the model’s computations, so in large models they can produce plausible but [misleading]({{ 'misleading-xai/' | relative_url }}) narratives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lexsi.ai/resources/research-papers/interpretability-as-alignment-making-internal-understanding-a-design-principle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lexsi.ai">[lexsi.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lexsi.ai</span><span class="citation-popover-snippet">September 10, 2025...</span><span class="citation-popover-meta">Published: September 10, 2025</span></span></span>
+
+<div class="content-enhancement content-enhancement--metric" markdown="1">
+
+* **Computational cost explodes**. Certain methods require extensive simulation or sampling that becomes infeasible on high‑dimensional data or layers with hundreds of millions of parameters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/1999-4893/18/9/556" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">A Review of Explainable Artificial Intelligence from the Perspectives of Challenges and Opportunities...</span></span></span>
+* **Explanations may detach from real internal processes**. These techniques reveal correlations rather than causal chains within the model’s computations, so in large models they can produce plausible but misleading narratives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lexsi.ai/resources/research-papers/interpretability-as-alignment-making-internal-understanding-a-design-principle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lexsi.ai">[lexsi.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lexsi.ai</span><span class="citation-popover-snippet">September 10, 2025...</span><span class="citation-popover-meta">Published: September 10, 2025</span></span></span>
 * **Stability issues emerge**. Tiny changes in input or random seeds can yield very different explanations. That instability is more pronounced in complex models with “polysemantic” representations — where hidden units mix multiple concepts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lexsi.ai/resources/research-papers/interpretability-as-alignment-making-internal-understanding-a-design-principle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lexsi.ai">[lexsi.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lexsi.ai</span><span class="citation-popover-snippet">September 10, 2025...</span><span class="citation-popover-meta">Published: September 10, 2025</span></span></span>
+
+</div>
 
 In other words, as models scale, the kind of surface‑level explanations these tools provide do not reliably reflect the *true* logic or decision process of the model.
 
@@ -312,9 +317,9 @@ In other words, as models scale, the kind of surface‑level explanations these 
 
 Mechanistic interpretability aims to map the internal computations into something humans can grasp. In small systems this can work for narrow behaviours, but large systems pose systematic barriers:
 
-* **Immense parameter counts** make exhaustive mapping almost impossible. A frontier model with tens or hundreds of billions of parameters contains orders of magnitude more patterns than earlier neural nets; manually or even semi‑automatically analysing all relevant circuits is daunting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://intuitionlabs.ai/articles/mechanistic-interpretability-ai-llms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intuitionlabs.ai">[IntuitionLabs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intuitionlabs.ai</span><span class="citation-popover-snippet">IntuitionLabsUnderstanding Mechanistic Interpretability in AI Models | IntuitionLabsFebruary 15, 2026...</span><span class="citation-popover-meta">Published: February 15, 2026</span></span></span>
-* **Behavioural redundancy and backup strategies** are common. Some research found that even when a candidate circuit was identified for a given task, the model had additional strategies that kick in when data distributions shift, limiting the usefulness of any single explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://intuitionlabs.ai/articles/mechanistic-interpretability-ai-llms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intuitionlabs.ai">[IntuitionLabs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intuitionlabs.ai</span><span class="citation-popover-snippet">IntuitionLabsUnderstanding Mechanistic Interpretability in AI Models | IntuitionLabsFebruary 15, 2026...</span><span class="citation-popover-meta">Published: February 15, 2026</span></span></span>
-* **Interpretability does not automatically improve with scale.** Controlled experiments in vision models found that newer, larger networks were *not* easier to interpret than older, smaller ones, suggesting that sheer size doesn’t make internal structure more understandable — and may even make it less so. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2307.05471" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Scale Alone Does not Improve Mechanistic Interpretability in Vision Models</span><span class="citation-popover-snippet">arXivScale Alone Does not Improve Mechanistic Interpretability in Vision ModelsJuly 11, 2023...</span><span class="citation-popover-meta">Published: July 11, 2023</span></span></span>
+* **Immense parameter counts** make exhaustive mapping almost impossible. A frontier model with tens or hundreds of billions of parameters contains orders of magnitude more patterns than earlier neural nets; manually or even semi‑automatically analysing all relevant circuits is daunting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://intuitionlabs.ai/articles/mechanistic-interpretability-ai-llms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intuitionlabs.ai">[IntuitionLabs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intuitionlabs.ai</span><span class="citation-popover-snippet">Understanding Mechanistic Interpretability in AI Models &#124; IntuitionLabsFebruary 15, 2026...</span><span class="citation-popover-meta">Published: February 15, 2026</span></span></span>
+* **Behavioural redundancy and backup strategies** are common. Some research found that even when a candidate circuit was identified for a given task, the model had additional strategies that kick in when data distributions shift, limiting the usefulness of any single explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://intuitionlabs.ai/articles/mechanistic-interpretability-ai-llms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intuitionlabs.ai">[IntuitionLabs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intuitionlabs.ai</span><span class="citation-popover-snippet">Understanding Mechanistic Interpretability in AI Models &#124; IntuitionLabsFebruary 15, 2026...</span><span class="citation-popover-meta">Published: February 15, 2026</span></span></span>
+* **Interpretability does not automatically improve with scale.** Controlled experiments in vision models found that newer, larger networks were *not* easier to interpret than older, smaller ones, suggesting that sheer size doesn’t make internal structure more understandable — and may even make it less so. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2307.05471" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Scale Alone Does not Improve Mechanistic Interpretability in Vision Models</span><span class="citation-popover-snippet">Scale Alone Does not Improve Mechanistic Interpretability in Vision ModelsJuly 11, 2023...</span><span class="citation-popover-meta">Published: July 11, 2023</span></span></span>
 
 These challenges are not just theoretical: they span from the practical limits of existing tools to deeper questions about what it means to “understand” a computation that has been distilled into statistical patterns rather than human‑legible rules.
 
@@ -330,11 +335,11 @@ Modern foundation models are trained via optimisation over data rather than prog
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e-Illustration-2-dark.svg" | relative_url }}" alt="Scaling Limits illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### 2. **Trade‑offs Between Performance and Transparency**
 
-Highly capable models tend to prioritise predictive performance, often at the expense of transparency. Research reviews suggest an inherent tension: the most accurate architectures — deep multi‑layer networks with attention mechanisms and emergent dynamics — are also the most opaque, while simpler models with clearer logic tend to perform worse on complex tasks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/s42467-026-00018-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">The paradox of explainability vs</span><span class="citation-popover-snippet">performance in high-stakes autonomous AI systems: a systematic review of trade-offs, regulatory gaps, and emerging solutions | AI Perspec...</span></span></span>
+Highly capable models tend to prioritise predictive performance, often at the expense of transparency. Research reviews suggest an inherent tension: the most accurate architectures — deep multi‑layer networks with attention mechanisms and emergent dynamics — are also the most opaque, while simpler models with clearer logic tend to perform worse on complex tasks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/s42467-026-00018-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">The paradox of explainability vs</span><span class="citation-popover-snippet">performance in high-stakes autonomous AI systems: a systematic review of trade-offs, regulatory gaps, and emerging solutions &#124; AI Perspec...</span></span></span>
 
 ### 3. **Limits of Human Cognitive Bandwidth**
 
-Even if parts of a model can be mapped out, the sheer volume of interactions makes full comprehension unlikely. A mechanistic map with thousands of interacting parts is not much more useful than a [black box]({{ 'black-box-evidence/' | relative_url }}) if humans cannot effectively reason about it. This cognitive limit matters especially in high‑stakes settings where humans must trust and act on the insights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/1999-4893/18/9/556" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">MDPIA Review of Explainable Artificial Intelligence from the Perspectives of Challenges and Opportunities...</span></span></span>
+Even if parts of a model can be mapped out, the sheer volume of interactions makes full comprehension unlikely. A mechanistic map with thousands of interacting parts is not much more useful than a black box if humans cannot effectively reason about it. This cognitive limit matters especially in high‑stakes settings where humans must trust and act on the insights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/1999-4893/18/9/556" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">A Review of Explainable Artificial Intelligence from the Perspectives of Challenges and Opportunities...</span></span></span>
 
 ### 4. **Post‑hoc Explanations Lack Causal Guarantees**
 
@@ -348,8 +353,8 @@ Many popular interpretability approaches are inherently post‑hoc: they fit sur
 Empirical research and safety reports reinforce these concerns:
 
 * Government and [independent]({{ 'red-teaming/' | relative_url }}) assessments of frontier AI note that developers cannot reliably interpret systems with hundreds of billions of parameters; today’s “black boxes” are effectively inscrutable to their own designers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.publishing.service.gov.uk/media/65395abae6c968000daa9b25/frontier-ai-capabilities-risks-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[UK Government Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">frontier ai capabilities risks report</span><span class="citation-popover-snippet">UK Government PublicationsCapabilities and risks from frontier AIOctober 25, 2023...</span><span class="citation-popover-meta">Published: October 25, 2023</span></span></span>
-* Psychophysical experiments in vision models indicate that even state‑of‑the‑art models aren’t easier to interpret than older ones, suggesting that increased scale has not bought deeper transparency. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2307.05471" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Scale Alone Does not Improve Mechanistic Interpretability in Vision Models</span><span class="citation-popover-snippet">arXivScale Alone Does not Improve Mechanistic Interpretability in Vision ModelsJuly 11, 2023...</span><span class="citation-popover-meta">Published: July 11, 2023</span></span></span>
-* Scalability remains a practical bottleneck: explanation methods that work in lab settings or for small datasets face computational challenges in real‑time, large‑scale environments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/1999-4893/18/9/556" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">MDPIA Review of Explainable Artificial Intelligence from the Perspectives of Challenges and Opportunities...</span></span></span>
+* Psychophysical experiments in vision models indicate that even state‑of‑the‑art models aren’t easier to interpret than older ones, suggesting that increased scale has not bought deeper transparency. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2307.05471" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Scale Alone Does not Improve Mechanistic Interpretability in Vision Models</span><span class="citation-popover-snippet">Scale Alone Does not Improve Mechanistic Interpretability in Vision ModelsJuly 11, 2023...</span><span class="citation-popover-meta">Published: July 11, 2023</span></span></span>
+* Scalability remains a practical bottleneck: explanation methods that work in lab settings or for small datasets face computational challenges in real‑time, large‑scale environments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/1999-4893/18/9/556" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">A Review of Explainable Artificial Intelligence from the Perspectives of Challenges and Opportunities...</span></span></span>
 
 These lines of evidence indicate that interpretability does not naturally scale with more data and larger nets alone — and may require new methods or architectural redesigns to make progress.
 
@@ -358,7 +363,7 @@ These lines of evidence indicate that interpretability does not naturally scale 
 
 ## Why These Limits Matter for Alignment and Control
 
-In debates about **AI doom** and existential risk, interpretability is often framed as a key tool for maintaining *meaningful human control*. If developers can understand what an AI “believes” or how it processes goals, they can arguably steer or correct misalignment before [dangerous]({{ 'autonomy/' | relative_url }}) behaviour emerges. But if interpretability methods break down at the scales where dangerous capabilities might occur, that **weakens our ability to guarantee safety by inspection alone**.
+In debates about **AI doom** and existential risk, interpretability is often framed as a key tool for maintaining *meaningful human control*. If developers can understand what an AI “believes” or how it processes goals, they can arguably steer or correct misalignment before dangerous behaviour emerges. But if interpretability methods break down at the scales where dangerous capabilities might occur, that **weakens our ability to guarantee safety by inspection alone**.
 
 This doesn’t mean interpretability research is futile. Many experts see it as a critical part of the safety toolbox. But it does mean:
 
@@ -375,7 +380,7 @@ Not all researchers agree on the end of the road for interpretability:
 * Some argue that better tools, automation and new formalisms could push interpretability further than current techniques allow.
 * Others emphasise that interpretability needs a clearer theoretical foundation — including better definitions of what counts as “understanding” — before progress can be meaningfully measured.
 
-However, the preview of frontier systems suggests that **neither current post‑hoc methods nor even the most ambitious mechanistic approaches have yet shown they will scale to the complexity and opacity of future AI models**. That remains a deep research and safety challenge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://intuitionlabs.ai/articles/mechanistic-interpretability-ai-llms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intuitionlabs.ai">[IntuitionLabs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intuitionlabs.ai</span><span class="citation-popover-snippet">IntuitionLabsUnderstanding Mechanistic Interpretability in AI Models | IntuitionLabsFebruary 15, 2026...</span><span class="citation-popover-meta">Published: February 15, 2026</span></span></span>
+However, the preview of frontier systems suggests that **neither current post‑hoc methods nor even the most ambitious mechanistic approaches have yet shown they will scale to the complexity and opacity of future AI models**. That remains a deep research and safety challenge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://intuitionlabs.ai/articles/mechanistic-interpretability-ai-llms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intuitionlabs.ai">[IntuitionLabs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intuitionlabs.ai</span><span class="citation-popover-snippet">Understanding Mechanistic Interpretability in AI Models &#124; IntuitionLabsFebruary 15, 2026...</span><span class="citation-popover-meta">Published: February 15, 2026</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -799,128 +804,128 @@ However, the preview of frontier systems suggests that **neither current post‑
 1. <a id="endnote-1"></a>
    Source: GOV.UK  
    Title: Frontier AI: capabilities and risks – discussion paper  
-   Link: [https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper](https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper)  
+   Link: <a href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>28, 2025...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/1999-4893/18/9/556](https://www.mdpi.com/1999-4893/18/9/556)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MDPIA Review of Explainable Artificial Intelligence from the Perspectives of Challenges and Opportunities...</p></details>
+   Link: <a href="https://www.mdpi.com/1999-4893/18/9/556" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1999-4893/18/9/556</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Review of Explainable Artificial Intelligence from the Perspectives of Challenges and Opportunities...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s44230-023-00038-y](https://link.springer.com/article/10.1007/s44230-023-00038-y)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpringerSurvey on Explainable AI: From Approaches, Limitations and Applications Aspects | Human-Centric Intelligent Systems | Springer Na...</p></details>
+   Link: <a href="https://link.springer.com/article/10.1007/s44230-023-00038-y" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s44230-023-00038-y</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Survey on Explainable AI: From Approaches, Limitations and Applications Aspects | Human-Centric Intelligent Systems | Springer Na...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: intuitionlabs.ai  
-   Link: [https://intuitionlabs.ai/articles/mechanistic-interpretability-ai-llms](https://intuitionlabs.ai/articles/mechanistic-interpretability-ai-llms)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IntuitionLabsUnderstanding Mechanistic Interpretability in AI Models | IntuitionLabsFebruary 15, 2026...</p></details>
+   Link: <a href="https://intuitionlabs.ai/articles/mechanistic-interpretability-ai-llms" target="_blank" rel="noopener noreferrer nofollow">https://intuitionlabs.ai/articles/mechanistic-interpretability-ai-llms</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Mechanistic Interpretability in AI Models | IntuitionLabsFebruary 15, 2026...</p></details>
    Published: February 15, 2026  
 
 5. <a id="endnote-5"></a>
    Source: lexsi.ai  
-   Link: [https://lexsi.ai/resources/research-papers/interpretability-as-alignment-making-internal-understanding-a-design-principle](https://lexsi.ai/resources/research-papers/interpretability-as-alignment-making-internal-understanding-a-design-principle)  
+   Link: <a href="https://lexsi.ai/resources/research-papers/interpretability-as-alignment-making-internal-understanding-a-design-principle" target="_blank" rel="noopener noreferrer nofollow">https://lexsi.ai/resources/research-papers/interpretability-as-alignment-making-internal-understanding-a-design-principle</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 10, 2025...</p></details>
    Published: September 10, 2025  
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv Scale Alone Does not Improve Mechanistic Interpretability in Vision Models  
-   Link: [https://arxiv.org/abs/2307.05471](https://arxiv.org/abs/2307.05471)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivScale Alone Does not Improve Mechanistic Interpretability in Vision ModelsJuly 11, 2023...</p></details>
+   Link: <a href="https://arxiv.org/abs/2307.05471" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2307.05471</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scale Alone Does not Improve Mechanistic Interpretability in Vision ModelsJuly 11, 2023...</p></details>
    Published: July 11, 2023  
 
 7. <a id="endnote-7"></a>
    Source: link.springer.com  
    Title: The paradox of explainability vs  
-   Link: [https://link.springer.com/article/10.1186/s42467-026-00018-5](https://link.springer.com/article/10.1186/s42467-026-00018-5)  
+   Link: <a href="https://link.springer.com/article/10.1186/s42467-026-00018-5" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s42467-026-00018-5</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>performance in high-stakes autonomous AI systems: a systematic review of trade-offs, regulatory gaps, and emerging solutions | AI Perspec...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: assets.publishing.service.gov.uk  
    Title: frontier ai capabilities risks report  
-   Link: [https://assets.publishing.service.gov.uk/media/65395abae6c968000daa9b25/frontier-ai-capabilities-risks-report.pdf](https://assets.publishing.service.gov.uk/media/65395abae6c968000daa9b25/frontier-ai-capabilities-risks-report.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/65395abae6c968000daa9b25/frontier-ai-capabilities-risks-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/65395abae6c968000daa9b25/frontier-ai-capabilities-risks-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Government PublicationsCapabilities and risks from frontier AIOctober 25, 2023...</p></details>
    Published: October 25, 2023  
 
 9. <a id="endnote-9"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a](https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a)  
+   Link: <a href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Executive summary 2. Context 3. Current Frontier AI capabilities 4. Future Frontier AI capabilities 5. Other critical uncert...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: GOV.UK  
    Title: www.gov.uk Emerging processes for frontier AI safety  
-   Link: [https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety](https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety)  
+   Link: <a href="https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Specific technical terms are described within their relevant section. AI (Artificial Intelligence) or AI (Artificia...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s13347-019-00372-9](https://link.springer.com/article/10.1007/s13347-019-00372-9)  
+   Link: <a href="https://link.springer.com/article/10.1007/s13347-019-00372-9" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s13347-019-00372-9</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Interpretability: a Critical Examination of the Interpretability Problem in Machine Learning | Philosophy &amp; Technology | Springer Nature...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0925231226008957](https://www.sciencedirect.com/science/article/abs/pii/S0925231226008957)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectJune 14, 2026 — NEUROCOMPUTING Volume 682, 14 June 2026, 133498 FUNDAMENTAL LIMITS OF NEURAL NETWORK SPARSIFICATION: EVIDENC...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231226008957" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0925231226008957</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 14, 2026 — NEUROCOMPUTING Volume 682, 14 June 2026, 133498 FUNDAMENTAL LIMITS OF NEURAL NETWORK SPARSIFICATION: EVIDENC...</p></details>
    Published: June 14, 2026  
 
 13. <a id="endnote-13"></a>
    Source: preprints.org  
-   Link: [https://www.preprints.org/manuscript/202602.0128](https://www.preprints.org/manuscript/202602.0128)  
+   Link: <a href="https://www.preprints.org/manuscript/202602.0128" target="_blank" rel="noopener noreferrer nofollow">https://www.preprints.org/manuscript/202602.0128</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FUNDAMENTAL CHALLENGES 5.1. SUPERPOSITION AND POLYSEMANTICITY The superposition hypothesis posits that networks represent more features t...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: blog.ml.cmu.edu  
-   Link: [https://blog.ml.cmu.edu/2020/08/31/6-interpretability/](https://blog.ml.cmu.edu/2020/08/31/6-interpretability/)  
+   Link: <a href="https://blog.ml.cmu.edu/2020/08/31/6-interpretability/" target="_blank" rel="noopener noreferrer nofollow">https://blog.ml.cmu.edu/2020/08/31/6-interpretability/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>cmu.edu6 – Interpretability – Machine Learning Blog | ML@CMU | Carnegie Mellon UniversityAugust 31, 2020 — 6 – INTERPRETABILITY AUTHORS A...</p></details>
    Published: August 31, 2020  
 
 15. <a id="endnote-15"></a>
    Source: francescatabor.com  
    Title: explainable ai model interpretability and the risks of modern language models  
-   Link: [https://www.francescatabor.com/articles/2026/2/4/explainable-ai-model-interpretability-and-the-risks-of-modern-language-models](https://www.francescatabor.com/articles/2026/2/4/explainable-ai-model-interpretability-and-the-risks-of-modern-language-models)  
+   Link: <a href="https://www.francescatabor.com/articles/2026/2/4/explainable-ai-model-interpretability-and-the-risks-of-modern-language-models" target="_blank" rel="noopener noreferrer nofollow">https://www.francescatabor.com/articles/2026/2/4/explainable-ai-model-interpretability-and-the-risks-of-modern-language-models</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Explainable AI, Model Interpretability, and the Risks of Modern Language Models — FRANKI TFebruary 4, 2026 — EXPLAINABLE AI, MODEL INTERP...</p></details>
    Published: February 4, 2026  
 
 16. <a id="endnote-16"></a>
    Source: frontiersin.org  
    Title: Frontiers | No silver bullet: interpretable ML models must be explained  
-   Link: [https://www.frontiersin.org/articles/10.3389/frai.2023.1128212](https://www.frontiersin.org/articles/10.3389/frai.2023.1128212)  
+   Link: <a href="https://www.frontiersin.org/articles/10.3389/frai.2023.1128212" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/articles/10.3389/frai.2023.1128212</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Artif. Intell., 24 April 2023 Sec. Machine Learning and Artificial Intelligence Volume 6 - 2023 | [https://doi.org/10.3389/frai.2023.11282...&quot;](https://doi.org/10.3389/frai.2023.11282...&quot;)...</p></details>
    Published: April 2023  
 
 17. <a id="endnote-17"></a>
    Source: research.monash.edu  
    Title: no silver bullet interpretable ml models must be explained  
-   Link: [https://research.monash.edu/en/publications/no-silver-bullet-interpretable-ml-models-must-be-explained/](https://research.monash.edu/en/publications/no-silver-bullet-interpretable-ml-models-must-be-explained/)  
+   Link: <a href="https://research.monash.edu/en/publications/no-silver-bullet-interpretable-ml-models-must-be-explained/" target="_blank" rel="noopener noreferrer nofollow">https://research.monash.edu/en/publications/no-silver-bullet-interpretable-ml-models-must-be-explained/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>silver bullet: interpretable ML models must be explained - Monash UniversityApril 24, 2023 — NO SILVER BULLET: INTERPRETABLE ML MODELS MU...</p></details>
    Published: April 24, 2023  
 
 18. <a id="endnote-18"></a>
    Source: sciencedirect.com  
    Title: M L interpretability: Simple isn't easy  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0039368123001723](https://www.sciencedirect.com/science/article/pii/S0039368123001723)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0039368123001723" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0039368123001723</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ML interpretability: Simple isn&#x27;t easy - ScienceDirectSTUDIES IN HISTORY AND PHILOSOPHY OF SCIENCE Volume 103, February 2024, Pages 159-1...</p></details>
    Published: February 2024  
 
 19. <a id="endnote-19"></a>
    Source: donets.org  
    Title: Lack of Explainability in Advanced AI Models | Donets | Nikolay Donets  
-   Link: [https://donets.org/risks/lack-of-explainability-in-advanced-ai-models](https://donets.org/risks/lack-of-explainability-in-advanced-ai-models)  
+   Link: <a href="https://donets.org/risks/lack-of-explainability-in-advanced-ai-models" target="_blank" rel="noopener noreferrer nofollow">https://donets.org/risks/lack-of-explainability-in-advanced-ai-models</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>June 25, 2025 — LACK OF EXPLAINABILITY IN ADVANCED AI MODELS...</p></details>
    Published: June 25, 2025  
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Deep Tech Briefing #122 — [Mechanistic Interpretability & Readable Mind of AI]  
-   Link: [https://www.youtube.com/watch?v=qYWR2K2rJT4](https://www.youtube.com/watch?v=qYWR2K2rJT4)  
+   Link: <a href="https://www.youtube.com/watch?v=qYWR2K2rJT4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qYWR2K2rJT4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Neel Nanda on the race to read AI minds (part 1) | 80,000 Hours...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9105427/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9105427/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9105427/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9105427/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WHAT DOES INTERPRETABILITY MEAN? Although the word “interpretability” is frequently used, people do not reach a consensus on the exact me...</p></details>

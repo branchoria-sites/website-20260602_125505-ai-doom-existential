@@ -12,21 +12,21 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_frontier_ai_e_9920ab_scheming_eval_38bdee
 - AI_Doom_and_E_87399b_frontier_ai_e_9920ab_severe_risk_t_86df83
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - evals
 - cyber-tripwires
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - evals
 - cyber-tripwires
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Cyber evals matter most when they show whether a model can move from toy challenges toward exploitable real-world attack help.
 hero_summary: Cyber evals matter most when they show whether a model can move from toy challenges toward exploitable real-world attack help.
 layout: default
 permalink: /cyber-tripwires/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /evals/
 nav_short_title: Cyber tripwires
 title: When should cyber evals stop a release?
@@ -213,20 +213,20 @@ parent_heading_title: Can Tests Catch Dangerous AI in Time?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_frontier_ai_e_9920ab
-  title: Evals | AI Doom and
+  title: Evals | AI Doom and E 87399 b
   permalink: /evals/
   short_title: Evals
   heading_title: Can Tests Catch Dangerous AI in Time?
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_frontier_ai_e_9920ab
-  title: Evals | AI Doom and
+  title: Evals | AI Doom and E 87399 b
   permalink: /evals/
   short_title: Evals
   heading_title: Can Tests Catch Dangerous AI in Time?
@@ -264,7 +264,7 @@ child_links:
   heading_title: Balancing Early Warnings Against Catastrophic AI Risks
 up_link:
   basename: AI_Doom_and_E_87399b_frontier_ai_e_9920ab
-  title: Evals | AI Doom and
+  title: Evals | AI Doom and E 87399 b
   permalink: /evals/
   short_title: Evals
   heading_title: Can Tests Catch Dangerous AI in Time?
@@ -282,11 +282,11 @@ image: /assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b
 
 ## Introduction
 
-Cyber [evaluations]({{ 'evaluations/' | relative_url }}) become real deployment tripwires when they stop being academic benchmarks and start providing evidence that a frontier AI system could materially increase the chances of a serious cyber incident in the real world. In the context of [AI doom and]({{ 'ai-doom-and/' | relative_url }}) existential-risk debates, the key question is not whether a model can solve capture-the-flag puzzles or answer security questions. It is whether the model can help users find, develop, or execute cyber operations at a level that changes what dangerous actors can realistically do.
+Cyber [evaluations]({{ 'evaluations/' | relative_url }}) become real deployment tripwires when they stop being academic benchmarks and start providing evidence that a frontier AI system could materially increase the chances of a serious cyber incident in the real world. In the context of AI doom and existential-risk debates, the key question is not whether a model can solve capture-the-flag puzzles or answer security questions. It is whether the model can help users find, develop, or execute cyber operations at a level that changes what dangerous actors can realistically do.
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40-Illustration-1-dark.svg" | relative_url }}" alt="Cyber tripwires illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction matters because many frontier AI safety frameworks are built around the idea of [capability thresholds]({{ 'capability-thresholds/' | relative_url }}). Below a threshold, a model may be released with ordinary safeguards. Above it, [deployment]({{ 'release-gates/' | relative_url }}) conditions are supposed to change: access may be restricted, security measures strengthened, external evaluations expanded, or release delayed altogether. The challenge is deciding where that threshold sits and how much evidence is enough to trigger it. Anthropic <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.openai.com">[2cdn.openai.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.openai.com</span><span class="citation-popover-title">preparedness framework v2</span><span class="citation-popover-snippet">Preparedness Framework15 Apr 2025 — Measure capabilities associated with risks of severe harms – we run in–scope models through frontier...</span></span></span>
+This distinction matters because many frontier AI safety frameworks are built around the idea of [capability thresholds]({{ 'capability-thresholds/' | relative_url }}). Below a threshold, a model may be released with ordinary safeguards. Above it, deployment conditions are supposed to change: access may be restricted, security measures strengthened, external evaluations expanded, or release delayed altogether. The challenge is deciding where that threshold sits and how much evidence is enough to trigger it. Anthropic <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.openai.com">[2cdn.openai.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.openai.com</span><span class="citation-popover-title">preparedness framework v2</span><span class="citation-popover-snippet">Preparedness Framework15 Apr 2025 — Measure capabilities associated with risks of severe harms – we run in–scope models through frontier...</span></span></span>
 
 ## What cyber evals actually test
 
@@ -316,7 +316,7 @@ A common criticism of cyber evaluations is that benchmark performance can look i
 
 Many traditional cyber tests involve self-contained challenges where success depends on solving a narrow technical puzzle. Real intrusions are usually different. They involve long sequences of actions, changing environments, incomplete information, mistakes, and adaptation.
 
-As a result, safety researchers increasingly care about evaluations that resemble operational reality. Recent work on multi-step cyber attack simulations measures whether AI agents can sustain performance across dozens of linked actions rather than isolated exploits. Results show progress, but also reveal that even strong systems still struggle to complete entire attack chains reliably. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2603.11214" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack Scenarios</span><span class="citation-popover-snippet">arXivMeasuring AI Agents&#x27; Progress on Multi-Step Cyber Attack ScenariosMarch 11, 2026...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span>
+As a result, safety researchers increasingly care about evaluations that resemble operational reality. Recent work on multi-step cyber attack simulations measures whether AI agents can sustain performance across dozens of linked actions rather than isolated exploits. Results show progress, but also reveal that even strong systems still struggle to complete entire attack chains reliably. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2603.11214" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack Scenarios</span><span class="citation-popover-snippet">Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack ScenariosMarch 11, 2026...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span>
 
 This distinction matters because a deployment tripwire should ideally be tied to realistic operational capability rather than benchmark scores alone. A model that excels on laboratory tasks but consistently fails in realistic environments may not yet justify major deployment restrictions.
 
@@ -365,7 +365,7 @@ In practice, three candidate tripwire positions are often discussed.
 
 An early-warning tripwire activates before clearly dangerous capabilities emerge.
 
-Under this approach, evidence that models are approaching expert-level cyber performance would already trigger stronger security, additional evaluations, and tighter monitoring.
+Under this approach, evidence that models are approaching expert-level cyber performance would already trigger stronger security, additional evaluations, and tighter [monitoring]({{ 'monitoring/' | relative_url }}).
 
 Supporters argue that waiting for undeniable danger leaves too little time to react. Critics argue that early thresholds risk producing false alarms and unnecessary deployment restrictions.
 
@@ -378,7 +378,7 @@ A more demanding standard is to trigger intervention when a model demonstrates s
 
 This could mean reliably completing realistic multi-stage intrusion scenarios, discovering serious vulnerabilities with limited human guidance, or providing meaningful assistance in sophisticated attack workflows.
 
-Many safety researchers view this as the most practical threshold because it focuses on demonstrated capability rather than speculation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2603.11214" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack Scenarios</span><span class="citation-popover-snippet">arXivMeasuring AI Agents&#x27; Progress on Multi-Step Cyber Attack ScenariosMarch 11, 2026...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span>
+Many safety researchers view this as the most practical threshold because it focuses on demonstrated capability rather than speculation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2603.11214" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack Scenarios</span><span class="citation-popover-snippet">Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack ScenariosMarch 11, 2026...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span>
 
 ### Catastrophic-risk tripwires
 
@@ -400,7 +400,7 @@ Another camp focuses on impact. A capability only matters if it would meaningful
 
 This distinction helps explain why the same evaluation result can produce very different interpretations.
 
-A doomer-leaning analyst may view expert-level cyber performance as a warning that AI systems are moving into territory where they could accelerate broader loss-of-control risks. A sceptic may agree that the capability is impressive while arguing that real attackers already possess similar [expertise]({{ 'expertise-erosion/' | relative_url }}) and that the practical impact remains uncertain.
+A doomer-leaning analyst may view expert-level cyber performance as a warning that AI systems are moving into territory where they could accelerate broader loss-of-control risks. A sceptic may agree that the capability is impressive while arguing that real attackers already possess similar expertise and that the practical impact remains uncertain.
 
 Both positions acknowledge the same evaluation result. They differ on how much real-world danger should be inferred from it.
 
@@ -411,9 +411,9 @@ Both positions acknowledge the same evaluation result. They differ on how much r
 
 Cyber evaluations occupy a special place in existential-risk discussions because cyber capability is often viewed as an enabling capability rather than an isolated risk.
 
-Many AI-doom scenarios involve systems gaining greater autonomy, acquiring resources, evading oversight, or accelerating their own development. Advanced cyber capabilities could potentially support some of those pathways by allowing systems—or human actors using them—to gain access to infrastructure, information, compute resources, or critical networks.
+Many AI-doom scenarios involve systems gaining greater [autonomy]({{ 'autonomy/' | relative_url }}), acquiring resources, evading oversight, or accelerating their own development. Advanced cyber capabilities could potentially support some of those pathways by allowing systems—or human actors using them—to gain access to infrastructure, information, compute resources, or critical networks.
 
-That does not mean current models pose such risks. Existing evaluations generally show rapid improvement but not reliable autonomous execution of highly sophisticated real-world cyber campaigns. Even recent multi-step evaluations reveal substantial limitations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2603.11214" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack Scenarios</span><span class="citation-popover-snippet">arXivMeasuring AI Agents&#x27; Progress on Multi-Step Cyber Attack ScenariosMarch 11, 2026...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span>
+That does not mean [current models]({{ 'current-models/' | relative_url }}) pose such risks. Existing evaluations generally show rapid improvement but not reliable autonomous execution of highly sophisticated real-world cyber campaigns. Even recent multi-step evaluations reveal substantial limitations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2603.11214" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack Scenarios</span><span class="citation-popover-snippet">Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack ScenariosMarch 11, 2026...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span>
 
 The significance of cyber tripwires is therefore forward-looking. Their purpose is not to prove that catastrophe is imminent. Their purpose is to identify the point at which capability growth becomes concerning enough that deployment decisions should change.
 
@@ -809,226 +809,226 @@ In that sense, a cyber evaluation becomes a real deployment tripwire when crossi
 1. <a id="endnote-1"></a>
    Source: anthropic.com  
    Title: s responsible scaling policy  
-   Link: [https://www.anthropic.com/news/anthropics-responsible-scaling-policy](https://www.anthropic.com/news/anthropics-responsible-scaling-policy)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AnthropicAnthropic&#x27;s Responsible Scaling Policy19 Sept 2023 — Our RSP focuses on catastrophic risks – those where an AI model directly ca...</p></details>
+   Link: <a href="https://www.anthropic.com/news/anthropics-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/news/anthropics-responsible-scaling-policy</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic&#x27;s Responsible Scaling Policy19 Sept 2023 — Our RSP focuses on catastrophic risks – those where an AI model directly ca...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cdn.openai.com  
    Title: preparedness framework v2  
-   Link: [https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf](https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf)  
+   Link: <a href="https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Preparedness Framework15 Apr 2025 — Measure capabilities associated with risks of severe harms – we run in–scope models through frontier...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: aisi.gov.uk  
-   Link: [https://www.aisi.gov.uk/frontier-ai-trends-report](https://www.aisi.gov.uk/frontier-ai-trends-report)  
+   Link: <a href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/frontier-ai-trends-report</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)Cyber: Models started completing expert-level tasks (ty...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: GOV.UK  
    Title: Software engineering: models  
-   Link: [https://www.gov.uk/government/news/inaugural-report-pioneered-by-ai-security-institute-gives-clearest-picture-yet-of-capabilities-of-most-advanced-ai](https://www.gov.uk/government/news/inaugural-report-pioneered-by-ai-security-institute-gives-clearest-picture-yet-of-capabilities-of-most-advanced-ai)  
+   Link: <a href="https://www.gov.uk/government/news/inaugural-report-pioneered-by-ai-security-institute-gives-clearest-picture-yet-of-capabilities-of-most-advanced-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/inaugural-report-pioneered-by-ai-security-institute-gives-clearest-picture-yet-of-capabilities-of-most-advanced-ai</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inaugural report pioneered by AI Security Institute gives...18 Dec 2025 — For the first time in 2025, a model completed an expert level...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: aisi.gov.uk  
    Title: 5 key findings from our first frontier ai trends report  
-   Link: [https://www.aisi.gov.uk/blog/5-key-findings-from-our-first-frontier-ai-trends-report](https://www.aisi.gov.uk/blog/5-key-findings-from-our-first-frontier-ai-trends-report)  
+   Link: <a href="https://www.aisi.gov.uk/blog/5-key-findings-from-our-first-frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/blog/5-key-findings-from-our-first-frontier-ai-trends-report</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Dec 2025 — In 2025, we tested the first model that could complete cyber tasks intended for experts with over ten years of experience...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv Measuring AI Agents' Progress on Multi-Step Cyber Attack Scenarios  
-   Link: [https://arxiv.org/abs/2603.11214](https://arxiv.org/abs/2603.11214)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivMeasuring AI Agents&#x27; Progress on Multi-Step Cyber Attack ScenariosMarch 11, 2026...</p></details>
+   Link: <a href="https://arxiv.org/abs/2603.11214" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.11214</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack ScenariosMarch 11, 2026...</p></details>
    Published: March 11, 2026  
 
 7. <a id="endnote-7"></a>
    Source: techuk.org  
    Title: uk ai security institute releases inaugural frontier ai trends report  
-   Link: [https://www.techuk.org/resource/uk-ai-security-institute-releases-inaugural-frontier-ai-trends-report.html](https://www.techuk.org/resource/uk-ai-security-institute-releases-inaugural-frontier-ai-trends-report.html)  
+   Link: <a href="https://www.techuk.org/resource/uk-ai-security-institute-releases-inaugural-frontier-ai-trends-report.html" target="_blank" rel="noopener noreferrer nofollow">https://www.techuk.org/resource/uk-ai-security-institute-releases-inaugural-frontier-ai-trends-report.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI models are improving at cyber tasks across all difficulty levels (page 20); Enhanced access to tools, via better model scaffolding...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: aisi.gov.uk  
-   Link: [https://www.aisi.gov.uk/blog/evidence-for-inference-scaling-in-ai-cyber-tasks-increased-evaluation-budgets-reveal-higher-success-rates](https://www.aisi.gov.uk/blog/evidence-for-inference-scaling-in-ai-cyber-tasks-increased-evaluation-budgets-reveal-higher-success-rates)  
+   Link: <a href="https://www.aisi.gov.uk/blog/evidence-for-inference-scaling-in-ai-cyber-tasks-increased-evaluation-budgets-reveal-higher-success-rates" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/blog/evidence-for-inference-scaling-in-ai-cyber-tasks-increased-evaluation-budgets-reveal-higher-success-rates</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence for inference scaling in AI cyber tasksImprovement in AI cyber capabilities has been rapid. AISI evaluations show that state-of...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: OpenAI  
    Title: updating our preparedness framework  
-   Link: [https://openai.com/index/updating-our-preparedness-framework/](https://openai.com/index/updating-our-preparedness-framework/)  
+   Link: <a href="https://openai.com/index/updating-our-preparedness-framework/" target="_blank" rel="noopener noreferrer nofollow">https://openai.com/index/updating-our-preparedness-framework/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>comOur updated Preparedness Framework15 Apr 2025 — Clear criteria for prioritizing high-risk capabilities. · Clarified capability levels...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: OpenAI  
    Title: our approach to frontier risk  
-   Link: [https://openai.com/global-affairs/our-approach-to-frontier-risk/](https://openai.com/global-affairs/our-approach-to-frontier-risk/)  
+   Link: <a href="https://openai.com/global-affairs/our-approach-to-frontier-risk/" target="_blank" rel="noopener noreferrer nofollow">https://openai.com/global-affairs/our-approach-to-frontier-risk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>comOpenAI&#x27;s Approach to Frontier Risk26 Oct 2023 — The Preparedness Framework governs our development of increasingly capable frontier mo...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: aisi.gov.uk  
-   Link: [https://www.aisi.gov.uk/blog](https://www.aisi.gov.uk/blog)  
+   Link: <a href="https://www.aisi.gov.uk/blog" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/blog</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AISI Blog | The AI Security InstituteAISI conducted cyber evaluations on OpenAI&#x27;s GPT-5.5. GPT-5.5 is one of the strongest models we have...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: aisi.gov.uk  
    Title: AISI. Home · About us · Grants.Read more  
-   Link: [https://www.aisi.gov.uk/category/science-of-evaluations](https://www.aisi.gov.uk/category/science-of-evaluations)  
+   Link: <a href="https://www.aisi.gov.uk/category/science-of-evaluations" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/category/science-of-evaluations</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Science of Evaluations | AISI Work Category5 Mar 2026 — The AI Security Institute is a research organisation within the Department of Sci...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: aisi.gov.uk  
    Title: aisi frontier ai trends report 2025  
-   Link: [https://www.aisi.gov.uk/research/aisi-frontier-ai-trends-report-2025](https://www.aisi.gov.uk/research/aisi-frontier-ai-trends-report-2025)  
+   Link: <a href="https://www.aisi.gov.uk/research/aisi-frontier-ai-trends-report-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/research/aisi-frontier-ai-trends-report-2025</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AISI Frontier AI Trends Report (2025)18 Dec 2025 — The UK AI Security Institute (AISI) has conducted evaluations of frontier AI systems s...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: aisi.gov.uk  
    Title: our 2025 year in review  
-   Link: [https://www.aisi.gov.uk/blog/our-2025-year-in-review](https://www.aisi.gov.uk/blog/our-2025-year-in-review)  
+   Link: <a href="https://www.aisi.gov.uk/blog/our-2025-year-in-review" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/blog/our-2025-year-in-review</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AISI Work22 Dec 2025 — Our 2025 year in review. Adam Beaumont, Director of the UK AI Security Institute, reflects on the year&#x27;s biggest a...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: aisi.gov.uk  
-   Link: [https://www.aisi.gov.uk/](https://www.aisi.gov.uk/)  
+   Link: <a href="https://www.aisi.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nced AI and to develop and test risk mitigations.Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: aisi.gov.uk  
    Title: inspect [evals](&#123;&#123; 'evals/' | relative_url &#125;&#125;)  
-   Link: [https://www.aisi.gov.uk/blog/inspect-evals](https://www.aisi.gov.uk/blog/inspect-evals)  
+   Link: <a href="https://www.aisi.gov.uk/blog/inspect-evals" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/blog/inspect-evals</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Announcing Inspect Evals | AISI Work13 Nov 2024 — Inspect Evals are built on top of Inspect AI, an open-source evaluation framework creat...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: OpenAI  
-   Link: [https://openai.com/](https://openai.com/)  
+   Link: <a href="https://openai.com/" target="_blank" rel="noopener noreferrer nofollow">https://openai.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>comOpenAI | Research &amp; DeploymentWe believe our research will eventually lead to artificial general intelligence, a system that can solve...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: OpenAI  
-   Link: [https://openai.com/careers/researcher-frontier-cybersecurity-risks-san-francisco/](https://openai.com/careers/researcher-frontier-cybersecurity-risks-san-francisco/)  
+   Link: <a href="https://openai.com/careers/researcher-frontier-cybersecurity-risks-san-francisco/" target="_blank" rel="noopener noreferrer nofollow">https://openai.com/careers/researcher-frontier-cybersecurity-risks-san-francisco/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>comResearcher, Frontier Cybersecurity Risks​​Preparedness is a critical Safety Research team at OpenAI, which is focused on mitigating AI...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: OpenAI  
-   Link: [https://openai.com/careers/model-policy-frontier-cyber-risk-san-francisco/](https://openai.com/careers/model-policy-frontier-cyber-risk-san-francisco/)  
+   Link: <a href="https://openai.com/careers/model-policy-frontier-cyber-risk-san-francisco/" target="_blank" rel="noopener noreferrer nofollow">https://openai.com/careers/model-policy-frontier-cyber-risk-san-francisco/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>comModel Policy, Frontier Cyber RiskIn this role, you will help define how OpenAI&#x27;s models should behave in high-risk cybersecurity conte...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: anthropic.com  
    Title: responsible scaling policy v3  
-   Link: [https://www.anthropic.com/news/responsible-scaling-policy-v3](https://www.anthropic.com/news/responsible-scaling-policy-v3)  
+   Link: <a href="https://www.anthropic.com/news/responsible-scaling-policy-v3" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/news/responsible-scaling-policy-v3</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Responsible Scaling Policy Version 3.0Feb 24, 2026 — We&#x27;re releasing the third version of our Responsible Scaling Policy (RSP), the volun...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: anthropic.com  
-   Link: [https://www.anthropic.com/responsible-scaling-policy](https://www.anthropic.com/responsible-scaling-policy)  
+   Link: <a href="https://www.anthropic.com/responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/responsible-scaling-policy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic&#x27;s Responsible Scaling PolicyThis setup will be designed to be adapted and updated easily to respond to new threats by adding ne...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: GOV.UK  
    Title: ai security institute frontier ai trends report factsheet  
-   Link: [https://www.gov.uk/government/publications/ai-security-institute-frontier-ai-trends-report-factsheet](https://www.gov.uk/government/publications/ai-security-institute-frontier-ai-trends-report-factsheet)  
+   Link: <a href="https://www.gov.uk/government/publications/ai-security-institute-frontier-ai-trends-report-factsheet" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-security-institute-frontier-ai-trends-report-factsheet</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Security Institute – Frontier AI Trends report factsheet18 Dec 2025 — The UK AI Security Institute (AISI) has conducted evaluations of...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: governance.ai  
-   Link: [https://www.governance.ai/analysis/anthropics-rsp-v3-0-how-it-works-whats-changed-and-some-reflections](https://www.governance.ai/analysis/anthropics-rsp-v3-0-how-it-works-whats-changed-and-some-reflections)  
+   Link: <a href="https://www.governance.ai/analysis/anthropics-rsp-v3-0-how-it-works-whats-changed-and-some-reflections" target="_blank" rel="noopener noreferrer nofollow">https://www.governance.ai/analysis/anthropics-rsp-v3-0-how-it-works-whats-changed-and-some-reflections</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic&#x27;s RSP v3.0: How it Works, What&#x27;s Changed, and...17 Mar 2026 — The RSP describes how Anthropic intends to assess and mitigate p...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2509.24394](https://arxiv.org/pdf/2509.24394)  
+   Link: <a href="https://arxiv.org/pdf/2509.24394" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2509.24394</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>a. It requests systematic evaluations of AI capabilities for...R...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: ncsc.gov.uk  
    Title: why cyber defenders need to be ready for frontier ai  
-   Link: [https://www.ncsc.gov.uk/blogs/why-cyber-defenders-need-to-be-ready-for-frontier-ai](https://www.ncsc.gov.uk/blogs/why-cyber-defenders-need-to-be-ready-for-frontier-ai)  
+   Link: <a href="https://www.ncsc.gov.uk/blogs/why-cyber-defenders-need-to-be-ready-for-frontier-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/blogs/why-cyber-defenders-need-to-be-ready-for-frontier-ai</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>30 Mar 2026 — Since frontier AI capabilities potentially strengthen cyber attackers, cyber defenders must use the same capabilities to dr...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: fas.org  
    Title: scaling ai safety  
-   Link: [https://fas.org/publication/scaling-ai-safety/](https://fas.org/publication/scaling-ai-safety/)  
+   Link: <a href="https://fas.org/publication/scaling-ai-safety/" target="_blank" rel="noopener noreferrer nofollow">https://fas.org/publication/scaling-ai-safety/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>“What risks are covered?”.Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: ratings.safer-ai.org  
-   Link: [https://ratings.safer-ai.org/company/openai/](https://ratings.safer-ai.org/company/openai/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>– Risk Management Ratings - SaferAI“Within our wider safety stack, our Preparedness Framework is specifically focused on frontier AI risk...</p></details>
+   Link: <a href="https://ratings.safer-ai.org/company/openai/" target="_blank" rel="noopener noreferrer nofollow">https://ratings.safer-ai.org/company/openai/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Risk Management Ratings - SaferAI“Within our wider safety stack, our Preparedness Framework is specifically focused on frontier AI risk...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: iaps.ai  
    Title: responsible scaling  
-   Link: [https://www.iaps.ai/research/responsible-scaling](https://www.iaps.ai/research/responsible-scaling)  
+   Link: <a href="https://www.iaps.ai/research/responsible-scaling" target="_blank" rel="noopener noreferrer nofollow">https://www.iaps.ai/research/responsible-scaling</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Comparing Government Guidance...11 Mar 2024 — “Responsible capability scaling” is the specification of progressively higher levels of ri...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: ukauthority.com  
-   Link: [https://www.ukauthority.com/articles/ai-security-institute-highlights-progress-in-cyber-security](https://www.ukauthority.com/articles/ai-security-institute-highlights-progress-in-cyber-security)  
+   Link: <a href="https://www.ukauthority.com/articles/ai-security-institute-highlights-progress-in-cyber-security" target="_blank" rel="noopener noreferrer nofollow">https://www.ukauthority.com/articles/ai-security-institute-highlights-progress-in-cyber-security</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security Institute highlights progress in cyber security18 Dec 2025 — For the first time, a model has completed an expert level cyber...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: regulations.ai  
    Title: RAI GB NA ASIRRXX 2025  
-   Link: [https://regulations.ai/regulations/RAI-GB-NA-ASIRRXX-2025](https://regulations.ai/regulations/RAI-GB-NA-ASIRRXX-2025)  
+   Link: <a href="https://regulations.ai/regulations/RAI-GB-NA-ASIRRXX-2025" target="_blank" rel="noopener noreferrer nofollow">https://regulations.ai/regulations/RAI-GB-NA-ASIRRXX-2025</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security Institute (renaming / rebrand of AI Safety Institute)6 Jan 2026 — In February 2025 the UK government announced that the AI Sa...</p></details>
    Published: February 2025  
 
 31. <a id="endnote-31"></a>
    Source: aigl.blog  
-   Link: [https://www.aigl.blog/ai-security-institute-frontier-ai-trends-report-december-2025/](https://www.aigl.blog/ai-security-institute-frontier-ai-trends-report-december-2025/)  
+   Link: <a href="https://www.aigl.blog/ai-security-institute-frontier-ai-trends-report-december-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.aigl.blog/ai-security-institute-frontier-ai-trends-report-december-2025/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security Institute – Frontier AI Trends Report (December...Models now reliably complete apprentice-level tasks and have begun to succ...</p></details>
 
 ### Additional References
 
 32. <a id="endnote-32"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/866229201/Anthropic-s-Responsible-Scaling-Policy-version-2-2](https://www.scribd.com/document/866229201/Anthropic-s-Responsible-Scaling-Policy-version-2-2)  
+   Link: <a href="https://www.scribd.com/document/866229201/Anthropic-s-Responsible-Scaling-Policy-version-2-2" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/866229201/Anthropic-s-Responsible-Scaling-Policy-version-2-2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic Responsible Scaling Policy 2.2 | PDF | SecurityThe Responsible Scaling Policy (RSP) outlines Anthropic&#x27;s commitment to safely t...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: verifywise.ai  
-   Link: [https://verifywise.ai/ai-governance-library/policies-and-internal-governance/anthropic-responsible-scaling-policy](https://verifywise.ai/ai-governance-library/policies-and-internal-governance/anthropic-responsible-scaling-policy)  
+   Link: <a href="https://verifywise.ai/ai-governance-library/policies-and-internal-governance/anthropic-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow">https://verifywise.ai/ai-governance-library/policies-and-internal-governance/anthropic-responsible-scaling-policy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic Responsible Scaling PolicyAnthropic&#x27;s Responsible Scaling Policy defines AI Safety Levels (ASL) based on model capabilities and...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: metr.org  
-   Link: [https://metr.org/assets/common-elements-nov-2024.pdf](https://metr.org/assets/common-elements-nov-2024.pdf)  
+   Link: <a href="https://metr.org/assets/common-elements-nov-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/assets/common-elements-nov-2024.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Common Elements of Frontier AI Safety PoliciesAnthropic&#x27;s Responsible Scaling Policy, page 4: Cyber Operations: The ability to significan...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: futureoflife.org  
-   Link: [https://futureoflife.org/wp-content/uploads/2025/11/Indicator-Risk_Identification.pdf](https://futureoflife.org/wp-content/uploads/2025/11/Indicator-Risk_Identification.pdf)  
+   Link: <a href="https://futureoflife.org/wp-content/uploads/2025/11/Indicator-Risk_Identification.pdf" target="_blank" rel="noopener noreferrer nofollow">https://futureoflife.org/wp-content/uploads/2025/11/Indicator-Risk_Identification.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EU AI Code of Practice Safety and...The Framework identifies threat modeling as &quot;a causal pathway for a severe harm in the capability ar...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/medium-risk-ai-facilitating-biological-threats-gianluca-mondillo-md-5gxdf](https://www.linkedin.com/pulse/medium-risk-ai-facilitating-biological-threats-gianluca-mondillo-md-5gxdf)  
+   Link: <a href="https://www.linkedin.com/pulse/medium-risk-ai-facilitating-biological-threats-gianluca-mondillo-md-5gxdf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/medium-risk-ai-facilitating-biological-threats-gianluca-mondillo-md-5gxdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Medium Risk of AI in Facilitating Biological ThreatsThe Preparedness Framework developed by OpenAI was designed to ensure that advanced a...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/openais-preparedness-framework-scaling-ai-responsibly-cyril-bhr4e](https://www.linkedin.com/pulse/openais-preparedness-framework-scaling-ai-responsibly-cyril-bhr4e)  
+   Link: <a href="https://www.linkedin.com/pulse/openais-preparedness-framework-scaling-ai-responsibly-cyril-bhr4e" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/openais-preparedness-framework-scaling-ai-responsibly-cyril-bhr4e</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OPENAI&#x27;S PREPAREDNESS FRAMEWORK: SCALING...The framework is designed to track and prepare for risks associated with “frontier capabiliti...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/business/openai-warns-new-models-pose-high-cybersecurity-risk-2025-12-10/](https://www.reuters.com/business/openai-warns-new-models-pose-high-cybersecurity-risk-2025-12-10/)  
+   Link: <a href="https://www.reuters.com/business/openai-warns-new-models-pose-high-cybersecurity-risk-2025-12-10/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/openai-warns-new-models-pose-high-cybersecurity-risk-2025-12-10/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>According to a blog post, future AI capabilities might be leveraged to create zero-day remote exploits or assist in complex cyber intrusi...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/openai_strengthening-cyber-resilience-as-ai-capabilities-activity-7404612226835415040-ZmN2](https://www.linkedin.com/posts/openai_strengthening-cyber-resilience-as-ai-capabilities-activity-7404612226835415040-ZmN2)  
+   Link: <a href="https://www.linkedin.com/posts/openai_strengthening-cyber-resilience-as-ai-capabilities-activity-7404612226835415040-ZmN2" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/openai_strengthening-cyber-resilience-as-ai-capabilities-activity-7404612226835415040-ZmN2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Strengthening Cybersecurity Safeguards with Global ExpertsModel capabilities are advancing fast and we expect OpenAI&#x27;s upcoming models to...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: inspect.aisi.org.uk  
-   Link: [https://inspect.aisi.org.uk/](https://inspect.aisi.org.uk/)  
+   Link: <a href="https://inspect.aisi.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://inspect.aisi.org.uk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AIInspect can be used for a broad range of evaluations that measure coding, agentic tasks, reasoning, knowledge, behavior, and multi-moda...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: ddg.fr  
-   Link: [https://www.ddg.fr/actualite/frontier-artificial-intelligence-what-the-uk-ai-security-institute-2025-report-reveals-about-risk-safety-and-legal-responsibility](https://www.ddg.fr/actualite/frontier-artificial-intelligence-what-the-uk-ai-security-institute-2025-report-reveals-about-risk-safety-and-legal-responsibility)  
+   Link: <a href="https://www.ddg.fr/actualite/frontier-artificial-intelligence-what-the-uk-ai-security-institute-2025-report-reveals-about-risk-safety-and-legal-responsibility" target="_blank" rel="noopener noreferrer nofollow">https://www.ddg.fr/actualite/frontier-artificial-intelligence-what-the-uk-ai-security-institute-2025-report-reveals-about-risk-safety-and-legal-responsibility</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier AI: Risks, Safety and Legal Accountability15 Jan 2026 — In 2025, the Institute tested the first model able to perform expert-lev...</p></details>

@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_ai_scaffoldin_dac3b3
 - AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_cyber_tripwir_00207f
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - evals
 - cyber-tripwires
 - operational-thresholds
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - evals
 - cyber-tripwires
 - operational-thresholds
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: This page examines how models demonstrating real-world multi-stage attack ability influence deployment tripwires.
 hero_summary: This page examines how models demonstrating real-world multi-stage attack ability influence deployment tripwires.
 layout: default
 permalink: /operational-thresholds/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /evals/
 - /cyber-tripwires/
 nav_short_title: Operational Thresholds
@@ -211,10 +211,10 @@ parent_heading_title: When should cyber evals stop a release?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_frontier_ai_e_9920ab
-  title: Evals | AI Doom and
+  title: Evals | AI Doom and E 87399 b
   permalink: /evals/
   short_title: Evals
   heading_title: Can Tests Catch Dangerous AI in Time?
@@ -226,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_frontier_ai_e_9920ab
-  title: Evals | AI Doom and
+  title: Evals | AI Doom and E 87399 b
   permalink: /evals/
   short_title: Evals
   heading_title: Can Tests Catch Dangerous AI in Time?
@@ -269,17 +269,17 @@ image: /assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b
 
 ## Introduction
 
-In debates about [AI doom and]({{ 'ai-doom-and/' | relative_url }}) existential risk, cyber [evaluations]({{ 'evaluations/' | relative_url }}) matter because they may provide one of the earliest observable signs that an AI system is crossing from laboratory competence into real-world operational capability. The key question is not whether a model can answer cybersecurity questions or solve benchmark puzzles. It is whether it can reliably help carry out substantial parts of an attack campaign in realistic environments, reducing the expertise, time, or effort required for dangerous actors. When that happens, many safety frameworks argue that deployment should no longer be treated as an ordinary product decision. Instead, it becomes a governance decision involving access controls, security requirements, monitoring, and potentially delayed release. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.openai.com">[OpenAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.openai.com</span><span class="citation-popover-title">Open AIPreparedness Framework</span><span class="citation-popover-snippet">OpenAIPreparedness FrameworkApril 28, 2025 — 15 Apr 2025 — Critical capability thresholds mean capabilities that present a meaningful ris...</span><span class="citation-popover-meta">Published: April 28, 2025</span></span></span>
+In debates about AI doom and existential risk, cyber [evaluations]({{ 'evaluations/' | relative_url }}) matter because they may provide one of the earliest observable signs that an AI system is crossing from laboratory competence into real-world operational capability. The key question is not whether a model can answer cybersecurity questions or solve benchmark puzzles. It is whether it can reliably help carry out substantial parts of an attack campaign in realistic environments, reducing the expertise, time, or effort required for dangerous actors. When that happens, many safety frameworks argue that deployment should no longer be treated as an ordinary product decision. Instead, it becomes a [governance]({{ 'governance/' | relative_url }}) decision involving access controls, security requirements, monitoring, and potentially delayed release. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.openai.com">[OpenAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.openai.com</span><span class="citation-popover-title">Open AIPreparedness Framework</span><span class="citation-popover-snippet">Preparedness FrameworkApril 28, 2025 — 15 Apr 2025 — Critical capability thresholds mean capabilities that present a meaningful ris...</span><span class="citation-popover-meta">Published: April 28, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_operational_c_79f69a-Illustration-1-dark.svg" | relative_url }}" alt="Operational Thresholds illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_operational_c_79f69a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_operational_c_79f69a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader question of when cyber evaluations become genuine [deployment]({{ 'release-gates/' | relative_url }}) tripwires, operational-[capability thresholds]({{ 'capability-thresholds/' | relative_url }}) are the point at which demonstrated performance is considered strong enough to trigger additional safeguards. The central challenge is determining where that threshold should sit and what evidence should count as crossing it.
+Within the broader question of when cyber evaluations become genuine deployment tripwires, operational-[capability thresholds]({{ 'capability-thresholds/' | relative_url }}) are the point at which demonstrated performance is considered strong enough to trigger additional safeguards. The central challenge is determining where that threshold should sit and what evidence should count as crossing it.
 
 ## Defining Operational-Capability Tripwires
 
 A cyber capability threshold is not simply a benchmark score. Most frontier AI governance frameworks define thresholds in terms of meaningful changes to real-world risk.
 
-OpenAI's Preparedness Framework describes critical capability thresholds as capabilities that create a qualitatively new route to severe harm and therefore require safeguards. Anthropic's Responsible Scaling Policy similarly links capability thresholds to mandatory protections rather than treating them as research curiosities. The broader frontier-AI governance literature increasingly converges on the idea that thresholds should trigger specific mitigations rather than merely generate concern. <span class="citation-chip-wrap"><a class="citation-chip" href="https://metr.org/common-elements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[METR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-title">common elements</span><span class="citation-popover-snippet">METRCommon Elements of Frontier AI Safety Policies16 Dec 2025 — Capability Thresholds: Thresholds at which specific AI capabilities would...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.openai.com">[OpenAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.openai.com</span><span class="citation-popover-title">Open AIPreparedness Framework</span><span class="citation-popover-snippet">OpenAIPreparedness FrameworkApril 28, 2025 — 15 Apr 2025 — Critical capability thresholds mean capabilities that present a meaningful ris...</span><span class="citation-popover-meta">Published: April 28, 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www-cdn.anthropic.com/872c653b2d0501d6ab44cf87f43e1dc4853e4d37.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www-cdn.anthropic.com">[Anthropic For cyber risk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www-cdn.anthropic.com</span><span class="citation-popover-snippet">This update to our RSP provides...Read more...</span></span></span>, the most important distinction is between:
+OpenAI's Preparedness Framework describes critical capability thresholds as capabilities that create a qualitatively new route to severe harm and therefore require safeguards. Anthropic's Responsible Scaling Policy similarly links capability thresholds to mandatory protections rather than treating them as research curiosities. The broader frontier-AI governance literature increasingly converges on the idea that thresholds should trigger specific mitigations rather than merely generate concern. <span class="citation-chip-wrap"><a class="citation-chip" href="https://metr.org/common-elements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[METR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-title">common elements</span><span class="citation-popover-snippet">Common Elements of Frontier AI Safety Policies16 Dec 2025 — Capability Thresholds: Thresholds at which specific AI capabilities would...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.openai.com">[OpenAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.openai.com</span><span class="citation-popover-title">Open AIPreparedness Framework</span><span class="citation-popover-snippet">Preparedness FrameworkApril 28, 2025 — 15 Apr 2025 — Critical capability thresholds mean capabilities that present a meaningful ris...</span><span class="citation-popover-meta">Published: April 28, 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www-cdn.anthropic.com/872c653b2d0501d6ab44cf87f43e1dc4853e4d37.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www-cdn.anthropic.com">[Anthropic For cyber risk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www-cdn.anthropic.com</span><span class="citation-popover-snippet">This update to our RSP provides...Read more...</span></span></span>, the most important distinction is between:
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
@@ -299,13 +299,13 @@ Traditional cybersecurity benchmarks often measure narrow skills: identifying a 
 
 Real attacks are different. They typically involve reconnaissance, privilege escalation, persistence, lateral movement, credential management, adaptation to unexpected obstacles, and continuous decision-making. A model that performs well on individual tasks may still fail repeatedly when required to coordinate dozens of interconnected actions.
 
-This is why recent evaluation work has shifted towards multi-step attack scenarios. A 2026 study evaluating frontier models on purpose-built cyber ranges measured performance on a 32-step corporate network attack and a 7-step industrial-control-system scenario. Rather than asking whether models could solve isolated technical problems, the evaluation tested whether they could sustain progress across extended attack chains. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2603.11214" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack Scenarios</span><span class="citation-popover-snippet">arXivMeasuring AI Agents&#x27; Progress on Multi-Step Cyber Attack ScenariosMarch 11, 2026...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span>
+This is why recent evaluation work has shifted towards multi-step attack scenarios. A 2026 study evaluating frontier models on purpose-built cyber ranges measured performance on a 32-step corporate network attack and a 7-step industrial-control-system scenario. Rather than asking whether models could solve isolated technical problems, the evaluation tested whether they could sustain progress across extended attack chains. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2603.11214" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack Scenarios</span><span class="citation-popover-snippet">Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack ScenariosMarch 11, 2026...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span>
 
 The results were notable for two reasons.
 
-First, capability improved rapidly across model generations. Average performance on the corporate-network scenario increased substantially between models released in 2024 and those released in early 2026. The strongest run completed 22 of 32 attack steps, far exceeding earlier systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2603.11214" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack Scenarios</span><span class="citation-popover-snippet">arXivMeasuring AI Agents&#x27; Progress on Multi-Step Cyber Attack ScenariosMarch 11, 2026...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span>
+First, capability improved rapidly across model generations. Average performance on the corporate-network scenario increased substantially between models released in 2024 and those released in early 2026. The strongest run completed 22 of 32 attack steps, far exceeding earlier systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2603.11214" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack Scenarios</span><span class="citation-popover-snippet">Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack ScenariosMarch 11, 2026...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span>
 
-Second, performance improved when models were given larger inference budgets. More compute at deployment time produced substantial gains without requiring new training methods. From a governance perspective, this matters because apparent capability can depend not only on the underlying model but also on how much reasoning time operators allow it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2603.11214" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack Scenarios</span><span class="citation-popover-snippet">arXivMeasuring AI Agents&#x27; Progress on Multi-Step Cyber Attack ScenariosMarch 11, 2026...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span>
+Second, performance improved when models were given larger inference budgets. More compute at deployment time produced substantial gains without requiring new training methods. From a governance perspective, this matters because apparent capability can depend not only on the underlying model but also on how much reasoning time operators allow it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2603.11214" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack Scenarios</span><span class="citation-popover-snippet">Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack ScenariosMarch 11, 2026...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span>
 
 These findings suggest that operational thresholds cannot be defined purely in terms of model architecture or benchmark rankings. They must account for the entire deployed system, including agent scaffolding, tool access, memory systems, and inference-time resources.
 
@@ -322,7 +322,7 @@ A useful operational tripwire is usually framed around demonstrated capability r
 
 A single successful run may demonstrate possibility, but deployment decisions usually require evidence of reliability.
 
-If a model can repeatedly complete substantial fractions of realistic attack sequences across varied environments, the argument for stronger restrictions becomes much stronger. Reliability matters because it determines whether [dangerous]({{ 'autonomy/' | relative_url }}) actors can depend on the system rather than merely experiment with it.
+If a model can repeatedly complete substantial fractions of realistic attack sequences across varied environments, the argument for stronger restrictions becomes much stronger. Reliability matters because it determines whether dangerous actors can depend on the system rather than merely experiment with it.
 
 ### Capability comparable to experienced human practitioners
 
@@ -334,7 +334,7 @@ For many governance proposals, the appearance of expert-level capability is an i
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_operational_c_79f69a-Illustration-2-dark.svg" | relative_url }}" alt="Operational Thresholds illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_operational_c_79f69a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_operational_c_79f69a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Autonomous operation over extended periods
 
-Many doom-oriented analyses focus on autonomy rather than raw technical skill.
+Many doom-oriented analyses focus on [autonomy]({{ 'autonomy/' | relative_url }}) rather than raw technical skill.
 
 A model that occasionally generates useful exploit code may be less concerning than a model that can independently pursue objectives for hours, coordinate tools, recover from failures, and continue making progress with minimal supervision. AISI reports substantial increases in models' ability to complete long-horizon tasks, suggesting that autonomy and cyber capability may improve together rather than independently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)Cyber: Models started completing expert-level tasks (ty...</span></span></span>
 
@@ -365,10 +365,10 @@ Those advocating stronger precautions point to several trends:
 
 * Expert-level performance has begun appearing in some cyber evaluations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)Cyber: Models started completing expert-level tasks (ty...</span></span></span>
 * Autonomous task performance continues to improve rapidly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)Cyber: Models started completing expert-level tasks (ty...</span></span></span>
-* Multi-step cyber evaluations show consistent progress across generations of frontier models. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2603.11214" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack Scenarios</span><span class="citation-popover-snippet">arXivMeasuring AI Agents&#x27; Progress on Multi-Step Cyber Attack ScenariosMarch 11, 2026...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span>
-* Frontier laboratories and governments increasingly discuss capability thresholds and associated safeguards as practical governance tools rather than theoretical possibilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.openai.com">[OpenAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.openai.com</span><span class="citation-popover-title">Open AIPreparedness Framework</span><span class="citation-popover-snippet">OpenAIPreparedness FrameworkApril 28, 2025 — 15 Apr 2025 — Critical capability thresholds mean capabilities that present a meaningful ris...</span><span class="citation-popover-meta">Published: April 28, 2025</span></span></span> Anthropic Sceptics emphasise different facts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www-cdn.anthropic.com/872c653b2d0501d6ab44cf87f43e1dc4853e4d37.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www-cdn.anthropic.com">[www-cdn.anthropic.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www-cdn.anthropic.com</span><span class="citation-popover-snippet">This update to our RSP provides...Read more...</span></span></span>
+* Multi-step cyber evaluations show consistent progress across generations of frontier models. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2603.11214" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack Scenarios</span><span class="citation-popover-snippet">Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack ScenariosMarch 11, 2026...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span>
+* Frontier laboratories and governments increasingly discuss capability thresholds and associated safeguards as practical governance tools rather than theoretical possibilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.openai.com">[OpenAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.openai.com</span><span class="citation-popover-title">Open AIPreparedness Framework</span><span class="citation-popover-snippet">Preparedness FrameworkApril 28, 2025 — 15 Apr 2025 — Critical capability thresholds mean capabilities that present a meaningful ris...</span><span class="citation-popover-meta">Published: April 28, 2025</span></span></span> Anthropic Sceptics emphasise different facts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www-cdn.anthropic.com/872c653b2d0501d6ab44cf87f43e1dc4853e4d37.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www-cdn.anthropic.com">[www-cdn.anthropic.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www-cdn.anthropic.com</span><span class="citation-popover-snippet">This update to our RSP provides...Read more...</span></span></span>
 
-Current systems still fail many realistic attack scenarios. Even the strongest models remain far from reliably completing entire attack chains. Industrial-control-system environments remain particularly challenging, and substantial human oversight is still required in many settings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2603.11214" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack Scenarios</span><span class="citation-popover-snippet">arXivMeasuring AI Agents&#x27; Progress on Multi-Step Cyber Attack ScenariosMarch 11, 2026...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span>
+Current systems still fail many realistic attack scenarios. Even the strongest models remain far from reliably completing entire attack chains. Industrial-control-system environments remain particularly challenging, and substantial [human oversight]({{ 'human-oversight/' | relative_url }}) is still required in many settings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2603.11214" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack Scenarios</span><span class="citation-popover-snippet">Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack ScenariosMarch 11, 2026...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span>
 
 From this perspective, today's systems may represent rapid progress without yet constituting the kind of robust operational capability that would justify the most restrictive deployment responses.
 
@@ -397,7 +397,7 @@ Most frontier-AI governance frameworks envision escalating responses once predef
 
 The underlying idea is straightforward: if a model acquires cyber capabilities that could materially alter real-world threat landscapes, the burden of proof shifts. Instead of asking why restrictions are necessary, governance frameworks ask whether sufficient safeguards exist to justify deployment.
 
-For readers interested in AI doom arguments, operational cyber thresholds are therefore important not because they prove catastrophic outcomes are likely, but because they provide one of the clearest observable indicators that advanced AI systems are moving from laboratory demonstrations towards capabilities with genuine strategic consequences. The entire purpose of cyber evaluations as deployment tripwires is to identify that transition before the consequences become difficult to reverse.
+For readers interested in AI doom arguments, operational cyber thresholds are therefore important not because they prove [catastrophic]({{ 'misuse/' | relative_url }}) outcomes are likely, but because they provide one of the clearest observable indicators that advanced AI systems are moving from laboratory demonstrations towards capabilities with genuine strategic consequences. The entire purpose of cyber evaluations as deployment tripwires is to identify that transition before the consequences become difficult to reverse.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UB4esgnycTw" title="Immersive boosts cyber resilience through AI-powered attack simulations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UB4esgnycTw" target="_blank" rel="noopener noreferrer">Immersive boosts cyber resilience through AI-powered attack simulations</a></p><p class="youtube-embed-meta">Channel: DEMO &middot; Views: 356 &middot; Uploaded: March 2026 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UB4esgnycTw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UB4esgnycTw">Open on YouTube</a></p></div></div></div>
@@ -793,158 +793,158 @@ For readers interested in AI doom arguments, operational cyber thresholds are th
 1. <a id="endnote-1"></a>
    Source: cdn.openai.com  
    Title: Open AIPreparedness Framework  
-   Link: [https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf](https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OpenAIPreparedness FrameworkApril 28, 2025 — 15 Apr 2025 — Critical capability thresholds mean capabilities that present a meaningful ris...</p></details>
+   Link: <a href="https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Preparedness FrameworkApril 28, 2025 — 15 Apr 2025 — Critical capability thresholds mean capabilities that present a meaningful ris...</p></details>
    Published: April 28, 2025  
 
 2. <a id="endnote-2"></a>
    Source: www-cdn.anthropic.com  
-   Link: [https://www-cdn.anthropic.com/872c653b2d0501d6ab44cf87f43e1dc4853e4d37.pdf](https://www-cdn.anthropic.com/872c653b2d0501d6ab44cf87f43e1dc4853e4d37.pdf)  
+   Link: <a href="https://www-cdn.anthropic.com/872c653b2d0501d6ab44cf87f43e1dc4853e4d37.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-cdn.anthropic.com/872c653b2d0501d6ab44cf87f43e1dc4853e4d37.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This update to our RSP provides...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: anthropic.com  
    Title: responsible scaling policy v3  
-   Link: [https://www.anthropic.com/news/responsible-scaling-policy-v3](https://www.anthropic.com/news/responsible-scaling-policy-v3)  
+   Link: <a href="https://www.anthropic.com/news/responsible-scaling-policy-v3" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/news/responsible-scaling-policy-v3</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Responsible Scaling Policy Version 3.024 Feb 2026 — In other words, we believed that the capability thresholds might be good points at wh...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: metr.org  
    Title: common elements  
-   Link: [https://metr.org/common-elements](https://metr.org/common-elements)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>METRCommon Elements of Frontier AI Safety Policies16 Dec 2025 — Capability Thresholds: Thresholds at which specific AI capabilities would...</p></details>
+   Link: <a href="https://metr.org/common-elements" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/common-elements</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Common Elements of Frontier AI Safety Policies16 Dec 2025 — Capability Thresholds: Thresholds at which specific AI capabilities would...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv Measuring AI Agents' Progress on Multi-Step Cyber Attack Scenarios  
-   Link: [https://arxiv.org/abs/2603.11214](https://arxiv.org/abs/2603.11214)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivMeasuring AI Agents&#x27; Progress on Multi-Step Cyber Attack ScenariosMarch 11, 2026...</p></details>
+   Link: <a href="https://arxiv.org/abs/2603.11214" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.11214</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack ScenariosMarch 11, 2026...</p></details>
    Published: March 11, 2026  
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2603.11214](https://arxiv.org/pdf/2603.11214)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivMeasuring AI Agents&#x27; Progress on Multi-Step Cyber Attack...by L Folkerts · 2026 — The most recent model, Opus 4.6 (February 2026)...</p></details>
+   Link: <a href="https://arxiv.org/pdf/2603.11214" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2603.11214</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack...by L Folkerts · 2026 — The most recent model, Opus 4.6 (February 2026)...</p></details>
    Published: February 2026  
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2603.11214v1](https://arxiv.org/html/2603.11214v1)  
+   Link: <a href="https://arxiv.org/html/2603.11214v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2603.11214v1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>two purpose-built cyber ranges—a 32-step corporate network...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2406.14713](https://arxiv.org/pdf/2406.14713)  
+   Link: <a href="https://arxiv.org/pdf/2406.14713" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2406.14713</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Risk thresholds for frontier AIby L Koessler · 2024 · Cited by 26 — approach is to define capability thresholds, which describe AI capabi...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: alphaxiv.org  
    Title: The main  
-   Link: [https://www.alphaxiv.org/overview/2603.11214v3](https://www.alphaxiv.org/overview/2603.11214v3)  
+   Link: <a href="https://www.alphaxiv.org/overview/2603.11214v3" target="_blank" rel="noopener noreferrer nofollow">https://www.alphaxiv.org/overview/2603.11214v3</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack...This paper establishes a foundational methodology for evaluating AI agents on...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: frontiermodelforum.org  
    Title: risk taxonomy and thresholds  
-   Link: [https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/](https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/)  
+   Link: <a href="https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>for Frontier AI Frameworks18 Jun 2025 — Frontier AI frameworks outline methodologies for identifying, managing and mitigating the potenti...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: aisi.gov.uk  
-   Link: [https://www.aisi.gov.uk/frontier-ai-trends-report](https://www.aisi.gov.uk/frontier-ai-trends-report)  
+   Link: <a href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/frontier-ai-trends-report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)Cyber: Models started completing expert-level tasks (ty...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: aisi.gov.uk  
    Title: aisi frontier ai trends report 2025  
-   Link: [https://www.aisi.gov.uk/research/aisi-frontier-ai-trends-report-2025](https://www.aisi.gov.uk/research/aisi-frontier-ai-trends-report-2025)  
+   Link: <a href="https://www.aisi.gov.uk/research/aisi-frontier-ai-trends-report-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/research/aisi-frontier-ai-trends-report-2025</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AISI Frontier AI Trends Report (2025)18 Dec 2025 — This report presents our first public analysis of the trends we&#x27;ve observed. It seeks...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: GOV.UK  
    Title: ai security institute frontier ai trends report factsheet  
-   Link: [https://www.gov.uk/government/publications/ai-security-institute-frontier-ai-trends-report-factsheet/ai-security-institute-frontier-ai-trends-report-factsheet](https://www.gov.uk/government/publications/ai-security-institute-frontier-ai-trends-report-factsheet/ai-security-institute-frontier-ai-trends-report-factsheet)  
+   Link: <a href="https://www.gov.uk/government/publications/ai-security-institute-frontier-ai-trends-report-factsheet/ai-security-institute-frontier-ai-trends-report-factsheet" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-security-institute-frontier-ai-trends-report-factsheet/ai-security-institute-frontier-ai-trends-report-factsheet</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Security Institute – Frontier AI Trends report factsheet18 Dec 2025 — It brings together 2 years of government-led testing of leading AI...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: aisi.gov.uk  
-   Link: [https://www.aisi.gov.uk/blog/how-fast-is-autonomous-ai-cyber-capability-advancing](https://www.aisi.gov.uk/blog/how-fast-is-autonomous-ai-cyber-capability-advancing)  
+   Link: <a href="https://www.aisi.gov.uk/blog/how-fast-is-autonomous-ai-cyber-capability-advancing" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/blog/how-fast-is-autonomous-ai-cyber-capability-advancing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security InstituteHow fast is autonomous AI cyber capability advancing?4 days ago — The length of tasks frontier models can autonomous...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: aisi.gov.uk  
-   Link: [https://www.aisi.gov.uk/blog/how-do-frontier-ai-agents-perform-in-multi-step-cyber-attack-scenarios](https://www.aisi.gov.uk/blog/how-do-frontier-ai-agents-perform-in-multi-step-cyber-attack-scenarios)  
+   Link: <a href="https://www.aisi.gov.uk/blog/how-do-frontier-ai-agents-perform-in-multi-step-cyber-attack-scenarios" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/blog/how-do-frontier-ai-agents-perform-in-multi-step-cyber-attack-scenarios</a>  
 
 16. <a id="endnote-16"></a>
    Source: aisi.gov.uk  
-   Link: [https://www.aisi.gov.uk/frontier-ai-trends-report/pdf](https://www.aisi.gov.uk/frontier-ai-trends-report/pdf)  
+   Link: <a href="https://www.aisi.gov.uk/frontier-ai-trends-report/pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/frontier-ai-trends-report/pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security Institute is a research organisation...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: GOV.UK  
    Title: ai security institute frontier ai trends report factsheet  
-   Link: [https://www.gov.uk/government/publications/ai-security-institute-frontier-ai-trends-report-factsheet](https://www.gov.uk/government/publications/ai-security-institute-frontier-ai-trends-report-factsheet)  
+   Link: <a href="https://www.gov.uk/government/publications/ai-security-institute-frontier-ai-trends-report-factsheet" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-security-institute-frontier-ai-trends-report-factsheet</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It seeks to provide...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: aigl.blog  
-   Link: [https://www.aigl.blog/ai-security-institute-frontier-ai-trends-report-december-2025/](https://www.aigl.blog/ai-security-institute-frontier-ai-trends-report-december-2025/)  
+   Link: <a href="https://www.aigl.blog/ai-security-institute-frontier-ai-trends-report-december-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.aigl.blog/ai-security-institute-frontier-ai-trends-report-december-2025/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security Institute – Frontier AI Trends Report (December...This report is the AI Security Institute&#x27;s first public synthesis of two y...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: studocu.vn  
    Title: ai security institute 2025 frontier ai trends report on safety and security  
-   Link: [https://www.studocu.vn/vn/document/truong-dai-hoc-ngoai-ngu-tin-hoc-thanh-pho-ho-chi-minh/basic-marketing/ai-security-institute-2025-frontier-ai-trends-report-on-safety-and-security/154828480](https://www.studocu.vn/vn/document/truong-dai-hoc-ngoai-ngu-tin-hoc-thanh-pho-ho-chi-minh/basic-marketing/ai-security-institute-2025-frontier-ai-trends-report-on-safety-and-security/154828480)  
+   Link: <a href="https://www.studocu.vn/vn/document/truong-dai-hoc-ngoai-ngu-tin-hoc-thanh-pho-ho-chi-minh/basic-marketing/ai-security-institute-2025-frontier-ai-trends-report-on-safety-and-security/154828480" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.vn/vn/document/truong-dai-hoc-ngoai-ngu-tin-hoc-thanh-pho-ho-chi-minh/basic-marketing/ai-security-institute-2025-frontier-ai-trends-report-on-safety-and-security/154828480</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security Institute 2025: Frontier AI Trends Report on...Explore the UK AI Security Institute&#x27;s report on AI advancements, highlightin...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/mahesh-narayan-responsible-ai_measuring-ai-agents-progress-on-multi-step-activity-7439606931427766272-6we-](https://www.linkedin.com/posts/mahesh-narayan-responsible-ai_measuring-ai-agents-progress-on-multi-step-activity-7439606931427766272-6we-)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Cyber Threats Escalate with AutonomyAI systems are advancing in their ability to execute complex, [multi step](&amp;#123;&amp;#123; &#x27;long-horizon-risks/&#x27; | relative_url &amp;#125;&amp;#125;) cyber attacks with increa...</p></details>
+   Link: <a href="https://www.linkedin.com/posts/mahesh-narayan-responsible-ai_measuring-ai-agents-progress-on-multi-step-activity-7439606931427766272-6we-" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/mahesh-narayan-responsible-ai_measuring-ai-agents-progress-on-multi-step-activity-7439606931427766272-6we-</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Cyber Threats Escalate with AutonomyAI systems are advancing in their ability to execute complex, multi step cyber attacks with increa...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40adnanmasood/the-3-00-am-wake-up-call-ai-frontier-progress-in-autonomous-multi-step-cyber-attacks-a7d289b72e0a](https://medium.com/%40adnanmasood/the-3-00-am-wake-up-call-ai-frontier-progress-in-autonomous-multi-step-cyber-attacks-a7d289b72e0a)  
+   Link: <a href="https://medium.com/%40adnanmasood/the-3-00-am-wake-up-call-ai-frontier-progress-in-autonomous-multi-step-cyber-attacks-a7d289b72e0a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40adnanmasood/the-3-00-am-wake-up-call-ai-frontier-progress-in-autonomous-multi-step-cyber-attacks-a7d289b72e0a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Frontier Progress in Autonomous Multi-Step Cyber AttacksHow frontier AI agents are learning to autonomously breach networks, rewrite e...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: verifywise.ai  
-   Link: [https://verifywise.ai/ai-governance-library/agentic-enterprise/agent-uk-aisi-frontier-2025](https://verifywise.ai/ai-governance-library/agentic-enterprise/agent-uk-aisi-frontier-2025)  
+   Link: <a href="https://verifywise.ai/ai-governance-library/agentic-enterprise/agent-uk-aisi-frontier-2025" target="_blank" rel="noopener noreferrer nofollow">https://verifywise.ai/ai-governance-library/agentic-enterprise/agent-uk-aisi-frontier-2025</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier AI Trends Report | VerifyWise AI Governance LibraryUK AI Security Institute report on frontier model capability and deployment t...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: futureoflife.org  
-   Link: [https://futureoflife.org/wp-content/uploads/2025/11/Indicator-Risk_Identification.pdf](https://futureoflife.org/wp-content/uploads/2025/11/Indicator-Risk_Identification.pdf)  
+   Link: <a href="https://futureoflife.org/wp-content/uploads/2025/11/Indicator-Risk_Identification.pdf" target="_blank" rel="noopener noreferrer nofollow">https://futureoflife.org/wp-content/uploads/2025/11/Indicator-Risk_Identification.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Future of Life InstituteEU AI Code of Practice Safety and...(1) Capability assessment, where it maps plausible catastrophic-risk scenari...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/gilles-loridon-6a53341_must-read-report-measuring-ai-agents-progress-activity-7454417348914012160-GrWX](https://www.linkedin.com/posts/gilles-loridon-6a53341_must-read-report-measuring-ai-agents-progress-activity-7454417348914012160-GrWX)  
+   Link: <a href="https://www.linkedin.com/posts/gilles-loridon-6a53341_must-read-report-measuring-ai-agents-progress-activity-7454417348914012160-GrWX" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/gilles-loridon-6a53341_must-read-report-measuring-ai-agents-progress-activity-7454417348914012160-GrWX</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Gilles Loridon&#x27;s PostMust Read report: Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack Scenarios In the avalanche of alarming po...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/tesssbuckley_today-uks-ai-security-institute-of-department-activity-7407352566029828097-ZTJf](https://www.linkedin.com/posts/tesssbuckley_today-uks-ai-security-institute-of-department-activity-7407352566029828097-ZTJf)  
+   Link: <a href="https://www.linkedin.com/posts/tesssbuckley_today-uks-ai-security-institute-of-department-activity-7407352566029828097-ZTJf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/tesssbuckley_today-uks-ai-security-institute-of-department-activity-7407352566029828097-ZTJf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UK AI Security Institute Publishes Frontier AI Trends ReportAs the first public analysis of trends by AISI it draws on two years&#x27; worth o...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/news/inaugural-report-pioneered-by-ai-security-institute-gives-clearest-picture-yet-of-capabilities-of-most-advanced-ai](https://www.gov.uk/government/news/inaugural-report-pioneered-by-ai-security-institute-gives-clearest-picture-yet-of-capabilities-of-most-advanced-ai)  
+   Link: <a href="https://www.gov.uk/government/news/inaugural-report-pioneered-by-ai-security-institute-gives-clearest-picture-yet-of-capabilities-of-most-advanced-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/inaugural-report-pioneered-by-ai-security-institute-gives-clearest-picture-yet-of-capabilities-of-most-advanced-ai</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>report pioneered by AI Security Institute gives...18 Dec 2025 — The AI Security Institute&#x27;s Frontier AI Trends Report, a public assessme...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: darktrace.com  
-   Link: [https://www.darktrace.com/blog/state-of-ai-cybersecurity-2026-92-of-security-professionals-concerned-about-the-impact-of-ai-agents](https://www.darktrace.com/blog/state-of-ai-cybersecurity-2026-92-of-security-professionals-concerned-about-the-impact-of-ai-agents)  
+   Link: <a href="https://www.darktrace.com/blog/state-of-ai-cybersecurity-2026-92-of-security-professionals-concerned-about-the-impact-of-ai-agents" target="_blank" rel="noopener noreferrer nofollow">https://www.darktrace.com/blog/state-of-ai-cybersecurity-2026-92-of-security-professionals-concerned-about-the-impact-of-ai-agents</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>State of AI Cybersecurity 2026: 92% of Security Pros...2 days ago — Autonomous agents are performing multi-step operational workflows fr...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/yotam-perkal_ai-security-institute-frontier-ai-trends-activity-7408963075829260288-BtDV](https://www.linkedin.com/posts/yotam-perkal_ai-security-institute-frontier-ai-trends-activity-7408963075829260288-BtDV)  
+   Link: <a href="https://www.linkedin.com/posts/yotam-perkal_ai-security-institute-frontier-ai-trends-activity-7408963075829260288-BtDV" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/yotam-perkal_ai-security-institute-frontier-ai-trends-activity-7408963075829260288-BtDV</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UK AI Security Institute Report: AI Capabilities and RisksUnassisted task lengths went from less than 10 minutes in early 2023 to over an...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: aisi.gov.uk  
-   Link: [https://www.aisi.gov.uk/research](https://www.aisi.gov.uk/research)  
+   Link: <a href="https://www.aisi.gov.uk/research" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/research</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>See our publications and related blogs below. Frontier AI Trends Report · Research Agenda. AISI brand artwork.Read more...</p></details>

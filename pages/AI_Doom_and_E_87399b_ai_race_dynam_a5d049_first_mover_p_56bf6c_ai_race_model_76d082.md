@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_frontier_ai_d_8b76b0
 - AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_race_incentiv_03f099
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - race-pressure
 - first-movers
 - race-evidence
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - race-pressure
 - first-movers
 - race-evidence
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Simulation games and economic models can illuminate race dynamics, but they are evidence about incentives rather than direct forecasts of catastrophe.
 hero_summary: Simulation games and economic models can illuminate race dynamics, but they are evidence about incentives rather than direct forecasts of catastrophe.
 layout: default
 permalink: /race-evidence/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /race-pressure/
 - /first-movers/
 nav_short_title: Race evidence
@@ -211,10 +211,10 @@ parent_heading_title: Why Being First Can Make AI Less Safe
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_ai_race_dynam_a5d049
-  title: Race Pressure | AI Doom and
+  title: Race Pressure | AI Doom and E 87399 b
   permalink: /race-pressure/
   short_title: Race Pressure
   heading_title: Why AI Races Can Make Safety Harder
@@ -226,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_ai_race_dynam_a5d049
-  title: Race Pressure | AI Doom and
+  title: Race Pressure | AI Doom and E 87399 b
   permalink: /race-pressure/
   short_title: Race Pressure
   heading_title: Why AI Races Can Make Safety Harder
@@ -275,11 +275,11 @@ image: /assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56
 
 ## Introduction
 
-Do AI race simulations show real doom risk? The short answer is: they provide evidence that competitive pressures can push organisations towards faster and potentially less safe AI [deployment]({{ 'release-gates/' | relative_url }}), but they do not directly prove that an AI-caused existential catastrophe will occur.
+Do AI race simulations show real doom risk? The short answer is: they provide evidence that competitive pressures can push organisations towards faster and potentially less safe AI deployment, but they do not directly prove that an AI-caused existential catastrophe will occur.
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_ai_race_model_76d082-Illustration-1-dark.svg" | relative_url }}" alt="Race evidence illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_ai_race_model_76d082-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_ai_race_model_76d082-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction matters. In debates about AI doom, race dynamics are often presented as a key mechanism through which otherwise cautious organisations could end up taking [dangerous]({{ 'autonomy/' | relative_url }}) risks. Simulation games, economic models, and strategic exercises are attempts to study that mechanism before real-world events unfold. They can reveal recurring incentives, coordination failures, and decision-making patterns. What they cannot do is demonstrate that advanced AI will become uncontrollable, nor can they reliably estimate a precise probability of extinction. The evidence is therefore indirect but potentially important: it bears on whether the conditions associated with higher-risk futures are likely to emerge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0016328725000254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Author links... full-scale wargames. The first of these is the shortest and simplest...Read more...</span></span></span>
+This distinction matters. In debates about AI doom, race dynamics are often presented as a key mechanism through which otherwise cautious organisations could end up taking dangerous risks. Simulation games, economic models, and strategic exercises are attempts to study that mechanism before real-world events unfold. They can reveal recurring incentives, coordination failures, and decision-making patterns. What they cannot do is demonstrate that advanced AI will become uncontrollable, nor can they reliably estimate a precise probability of extinction. The evidence is therefore indirect but potentially important: it bears on whether the conditions associated with higher-risk futures are likely to emerge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0016328725000254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Author links... full-scale wargames. The first of these is the shortest and simplest...Read more...</span></span></span>
 
 ## What simulation games reveal about safety failures
 
@@ -348,11 +348,11 @@ First, simulations are not forecasts. A model can demonstrate that a race dynami
 
 Second, incentives are only one part of the story. Real-world institutions contain regulators, investors, researchers, insurers, governments, and public opinion. These actors can alter incentives in ways that simplified models may not capture.
 
-Third, many doom arguments require additional steps beyond racing behaviour. Even if competition leads to premature deployment, existential catastrophe would still depend on further assumptions such as severe misalignment, dangerous autonomy, [loss of control]({{ 'loss-of-control/' | relative_url }}), or catastrophic misuse. Race models typically do not demonstrate those later links. They focus on deployment incentives, not on proving that advanced AI systems will become existentially dangerous.
+Third, many doom arguments require additional steps beyond racing behaviour. Even if competition leads to premature deployment, existential catastrophe would still depend on further assumptions such as severe misalignment, dangerous autonomy, [loss of control]({{ 'loss-of-control/' | relative_url }}), or [catastrophic]({{ 'misuse/' | relative_url }}) misuse. Race models typically do not demonstrate those later links. They focus on deployment incentives, not on proving that advanced AI systems will become existentially dangerous.
 
 Fourth, some economists and technology analysts argue that competition can sometimes improve safety rather than reduce it. Firms may invest in safety because accidents damage reputation, invite regulation, or reduce user trust. In this view, competition does not automatically imply a race to the bottom.
 
-These objections do not invalidate the simulations, but they narrow what conclusions can reasonably be drawn from them.
+These [objections]({{ 'objections/' | relative_url }}) do not invalidate the simulations, but they narrow what conclusions can reasonably be drawn from them.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FaQjEABZ80g" title="The Most Likely AI Doom Scenario — with Jim Babcock, LessWrong Team" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FaQjEABZ80g" target="_blank" rel="noopener noreferrer">The Most Likely AI Doom Scenario — with Jim Babcock, LessWrong Team</a></p><p class="youtube-embed-meta">Channel: Doom Debates &middot; Views: 23.5K &middot; Uploaded: April 2025 &middot; Length: 1 hour 53 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FaQjEABZ80g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FaQjEABZ80g">Open on YouTube</a></p></div></div></div>
@@ -822,106 +822,106 @@ For that reason, race simulations are often treated as supporting evidence in AI
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0016328725000254](https://www.sciencedirect.com/science/article/pii/S0016328725000254)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0016328725000254" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0016328725000254</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Author links... full-scale wargames. The first of these is the shortest and simplest...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
    Title: arXiv Strategic Insights from Simulation Gaming of AI Race Dynamics  
-   Link: [https://arxiv.org/abs/2410.03092](https://arxiv.org/abs/2410.03092)  
+   Link: <a href="https://arxiv.org/abs/2410.03092" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2410.03092</a>  
 
 3. <a id="endnote-3"></a>
    Source: axios.com  
    Title: Safety guardrails loosen as AI rivalries grows  
-   Link: [https://www.axios.com/2026/03/03/ai-race-safety-guardrail](https://www.axios.com/2026/03/03/ai-race-safety-guardrail)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Even traditionally cautious firms, like [Anthropic](&amp;#123;&amp;#123; &#x27;anthropic-tests/&#x27; | relative_url &amp;#125;&amp;#125;), have recently revised their internal guidelines, narrowing criteria for delaying risky...</p></details>
+   Link: <a href="https://www.axios.com/2026/03/03/ai-race-safety-guardrail" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2026/03/03/ai-race-safety-guardrail</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Even traditionally cautious firms, like Anthropic, have recently revised their internal guidelines, narrowing criteria for delaying risky...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: time.com  
    Title: exclusive anthropic drops flagship safety pledge  
-   Link: [https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/](https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/)  
+   Link: <a href="https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This pledge had promised to halt training of AI models unless safety measures could be ensured in advance. The company now believes such...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv How should AI Safety Benchmarks Benchmark Safety?  
-   Link: [https://arxiv.org/abs/2601.23112](https://arxiv.org/abs/2601.23112)  
+   Link: <a href="https://arxiv.org/abs/2601.23112" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2601.23112</a>  
 
 6. <a id="endnote-6"></a>
    Source: themoonlight.io  
-   Link: [https://www.themoonlight.io/en/review/strategic-insights-from-simulation-gaming-of-ai-race-dynamics](https://www.themoonlight.io/en/review/strategic-insights-from-simulation-gaming-of-ai-race-dynamics)  
+   Link: <a href="https://www.themoonlight.io/en/review/strategic-insights-from-simulation-gaming-of-ai-race-dynamics" target="_blank" rel="noopener noreferrer nofollow">https://www.themoonlight.io/en/review/strategic-insights-from-simulation-gaming-of-ai-race-dynamics</a>  
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/journal/futures/vol/167/suppl/C](https://www.sciencedirect.com/journal/futures/vol/167/suppl/C)  
+   Link: <a href="https://www.sciencedirect.com/journal/futures/vol/167/suppl/C" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/journal/futures/vol/167/suppl/C</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Futures | Vol 167, March 2025Strategic insights from simulation gaming of AI race dynamics. Ross Gruetzemacher, Shahar Avin, James Fox, A...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2451958824000472](https://www.sciencedirect.com/science/article/pii/S2451958824000472)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2451958824000472" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2451958824000472</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-enabled prediction of sim racing performance using...by F Hojaji · 2024 · Cited by 16 — In this paper, we demonstrate how the applica...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/list/cs/2024-10?show=1000&skip=1465](https://arxiv.org/list/cs/2024-10?show=1000&skip=1465)  
+   Link: <a href="https://arxiv.org/list/cs/2024-10?show=1000&amp;skip=1465" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/list/cs/2024-10?show=1000&amp;skip=1465</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Computer Science Oct 2024Title: Strategic Insights from Simulation Gaming of AI Race Dynamics. Ross Gruetzemacher, Shahar Avin, James Fox...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: businessinsider.com  
    Title: anthropic changing safety policy 2026 2  
-   Link: [https://www.businessinsider.com/anthropic-changing-safety-policy-2026-2](https://www.businessinsider.com/anthropic-changing-safety-policy-2026-2)  
+   Link: <a href="https://www.businessinsider.com/anthropic-changing-safety-policy-2026-2" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/anthropic-changing-safety-policy-2026-2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The company will no longer unilaterally pause or delay new AI model deployments when safety mechanisms lag, citing increased competition...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: quillbot.com  
-   Link: [https://quillbot.com/ai-chat](https://quillbot.com/ai-chat)  
+   Link: <a href="https://quillbot.com/ai-chat" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/ai-chat</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI ChatUnlock your potential with Quillbot&#x27;s free AI chat! Brainstorm, draft content, get instant research &amp; overcome writer&#x27;s block. Try...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: sas.com  
-   Link: [https://www.sas.com/en_gb/insights/analytics/what-is-[artificial](https://www.sas.com/en_gb/insights/analytics/what-is-[artificial)  
+   Link: <a href="https://www.sas.com/en_gb/insights/analytics/what-is-artificial-intelligence.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sas.com/en_gb/insights/analytics/what-is-artificial-intelligence.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial Intelligence (AI): What it is and why it mattersArtificial intelligence (AI) makes it possible for machines to learn from expe...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: intelligencerising.org  
-   Link: [https://www.intelligencerising.org/insights-and-resources-2-2](https://www.intelligencerising.org/insights-and-resources-2-2)  
+   Link: <a href="https://www.intelligencerising.org/insights-and-resources-2-2" target="_blank" rel="noopener noreferrer nofollow">https://www.intelligencerising.org/insights-and-resources-2-2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Our publicationsOur team&#x27;s research continues to pursue knowledge and inspire safe directions in the field. Strategic Insights from Simul...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: helpdesk.loucoll.ac.uk  
-   Link: [https://helpdesk.loucoll.ac.uk/knowledgebase/what-is-ai/](https://helpdesk.loucoll.ac.uk/knowledgebase/what-is-ai/)  
+   Link: <a href="https://helpdesk.loucoll.ac.uk/knowledgebase/what-is-ai/" target="_blank" rel="noopener noreferrer nofollow">https://helpdesk.loucoll.ac.uk/knowledgebase/what-is-ai/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>is AI? – HelpdeskAccording to the Oxford Dictionary AI is: “The capacity of computers or other machines to exhibit or simulate intelligen...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/384680786_Strategic_Insights_from_Simulation_Gaming_of_AI_Race_Dynamics](https://www.researchgate.net/publication/384680786_Strategic_Insights_from_Simulation_Gaming_of_AI_Race_Dynamics)  
+   Link: <a href="https://www.researchgate.net/publication/384680786_Strategic_Insights_from_Simulation_Gaming_of_AI_Race_Dynamics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/384680786_Strategic_Insights_from_Simulation_Gaming_of_AI_Race_Dynamics</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>October 2024. DOI:10.48550/arXiv.2410.03092. Authors: Richard Ross Gruetzemacher at Wichita...Read more...</p></details>
    Published: October 2024  
 
 16. <a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/389032252_Strategic_Insights_from_Simulation_Gaming_of_AI_Race_Dynamics](https://www.researchgate.net/publication/389032252_Strategic_Insights_from_Simulation_Gaming_of_AI_Race_Dynamics)  
+   Link: <a href="https://www.researchgate.net/publication/389032252_Strategic_Insights_from_Simulation_Gaming_of_AI_Race_Dynamics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389032252_Strategic_Insights_from_Simulation_Gaming_of_AI_Race_Dynamics</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>lable · Citations (9) · References (92) · Recommended publications · Looking for the...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: ibm.com  
-   Link: [https://www.ibm.com/think/topics/artificial-intelligence](https://www.ibm.com/think/topics/artificial-intelligence)  
+   Link: <a href="https://www.ibm.com/think/topics/artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.ibm.com/think/topics/artificial-intelligence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>lem solving, decision making, creativity and [autonomy](&amp;#123;&amp;#123; &#x27;autonomy/&#x27; | relative_url &amp;#125;&amp;#125;). Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: importai.substack.com  
-   Link: [https://importai.substack.com/p/import-ai-388-simulating-ai-policy](https://importai.substack.com/p/import-ai-388-simulating-ai-policy)  
+   Link: <a href="https://importai.substack.com/p/import-ai-388-simulating-ai-policy" target="_blank" rel="noopener noreferrer nofollow">https://importai.substack.com/p/import-ai-388-simulating-ai-policy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI policy; omni math; consciousness levels - Import AIRead more: Strategic Insights from Simulation Gaming of AI Race Dynamics (arXiv)...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Artificial intelligence  
-   Link: [https://en.wikipedia.org/wiki/Artificial_intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)  
+   Link: <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Artificial_intelligence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligenceArtificial intelligence (AI) is the capability of computational systems to perform tasks typically associated w...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: paxsims.wordpress.com  
-   Link: [https://paxsims.wordpress.com/2024/12/](https://paxsims.wordpress.com/2024/12/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| 2024 | PAXsims - WordPress.comDec 31, 2024 — Ross Gruetzemacher, Shahar Avin, James Fox, Alexander K Saeri, “Strategic Insights from Si...</p></details>
+   Link: <a href="https://paxsims.wordpress.com/2024/12/" target="_blank" rel="noopener noreferrer nofollow">https://paxsims.wordpress.com/2024/12/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>2024 | PAXsims - WordPress.comDec 31, 2024 — Ross Gruetzemacher, Shahar Avin, James Fox, Alexander K Saeri, “Strategic Insights from Si...</p></details>

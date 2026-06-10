@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_eval_safety_b_854dea
 - AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_late_societal_f5e128
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - ai-takeoff
 - fast-takeoff
 - ai-research-loop
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - ai-takeoff
 - fast-takeoff
 - ai-research-loop
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: The clearest early alarm may be AI systems making the next generation of AI substantially better before society notices disruption.
 hero_summary: The clearest early alarm may be AI systems making the next generation of AI substantially better before society notices disruption.
 layout: default
 permalink: /ai-research-loop/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /ai-takeoff/
 - /fast-takeoff/
 nav_short_title: AI research loop
@@ -211,10 +211,10 @@ parent_heading_title: What would warn US before FOOM?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_recursive_imp_3a3504
-  title: AI Takeoff | AI Doom and
+  title: AI Takeoff | AI Doom and E 87399 b
   permalink: /ai-takeoff/
   short_title: AI Takeoff
   heading_title: Could AI Improvement Run Away From US?
@@ -226,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_recursive_imp_3a3504
-  title: AI Takeoff | AI Doom and
+  title: AI Takeoff | AI Doom and E 87399 b
   permalink: /ai-takeoff/
   short_title: AI Takeoff
   heading_title: Could AI Improvement Run Away From US?
@@ -269,11 +269,11 @@ image: /assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c7
 
 ## Introduction
 
-For people worried about [AI doom and]({{ 'ai-doom-and/' | relative_url }}) rapid “FOOM” scenarios, one warning sign stands above most others: AI systems beginning to make the next generation of AI substantially better. The reason is simple. A [fast takeoff]({{ 'fast-takeoff/' | relative_url }}) does not require machines to redesign themselves overnight. It only requires a feedback loop in which increasingly capable AI systems become increasingly important contributors to AI research and development. If each generation helps create a stronger successor, progress could begin to compound. <span class="citation-chip-wrap"><a class="citation-chip" href="https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-title">alphaevolve a gemini powered coding agent for designing advanced algorithms</span><span class="citation-popover-snippet">Google DeepMindAlphaEvolve: A Gemini-powered coding agent for...14 May 2025 — AlphaEvolve enhanced the efficiency of Google&#x27;s data cente...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+For people worried about AI doom and rapid “FOOM” scenarios, one warning sign stands above most others: AI systems beginning to make the next generation of AI substantially better. The reason is simple. A [fast takeoff]({{ 'fast-takeoff/' | relative_url }}) does not require machines to redesign themselves overnight. It only requires a feedback loop in which increasingly capable AI systems become increasingly important contributors to AI research and development. If each generation helps create a stronger successor, progress could begin to compound. <span class="citation-chip-wrap"><a class="citation-chip" href="https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-title">alphaevolve a gemini powered coding agent for designing advanced algorithms</span><span class="citation-popover-snippet">Google DeepMindAlphaEvolve: A Gemini-powered coding agent for...14 May 2025 — AlphaEvolve enhanced the efficiency of Google&#x27;s data cente...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_ai_research_l_2238ea-Illustration-1-dark.svg" | relative_url }}" alt="AI research loop illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_ai_research_l_2238ea-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_ai_research_l_2238ea-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This idea remains controversial. No existing system has demonstrated the kind of runaway [recursive]({{ 'ai-takeoff/' | relative_url }}) self-improvement imagined in classic intelligence-explosion arguments. Yet AI is already being used to write code, optimise training systems, search for new algorithms, generate research ideas, and automate parts of scientific work that previously required human researchers. The question is not whether AI can assist AI research. It already does. The question is whether that assistance becomes strong enough that capability gains start feeding directly back into the process that creates future models. <span class="citation-chip-wrap"><a class="citation-chip" href="https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-title">alphaevolve a gemini powered coding agent for designing advanced algorithms</span><span class="citation-popover-snippet">Google DeepMindAlphaEvolve: A Gemini-powered coding agent for...14 May 2025 — AlphaEvolve enhanced the efficiency of Google&#x27;s data cente...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sakana.ai/ai-scientist/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sakana.ai">[Sakana AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sakana.ai</span><span class="citation-popover-title">ai scientist</span><span class="citation-popover-snippet">The AI Scientist: Towards Fully Automated Open-Ended...13 Aug 2024 — The AI Scientist is a fully automated pipeline for end-to-end paper...</span></span></span>
+This idea remains controversial. No existing system has demonstrated the kind of runaway recursive self-improvement imagined in classic intelligence-explosion arguments. Yet AI is already being used to write code, optimise training systems, search for new algorithms, generate research ideas, and automate parts of scientific work that previously required human researchers. The question is not whether AI can assist AI research. It already does. The question is whether that assistance becomes strong enough that capability gains start feeding directly back into the process that creates future models. <span class="citation-chip-wrap"><a class="citation-chip" href="https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-title">alphaevolve a gemini powered coding agent for designing advanced algorithms</span><span class="citation-popover-snippet">Google DeepMindAlphaEvolve: A Gemini-powered coding agent for...14 May 2025 — AlphaEvolve enhanced the efficiency of Google&#x27;s data cente...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sakana.ai/ai-scientist/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sakana.ai">[Sakana AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sakana.ai</span><span class="citation-popover-title">ai scientist</span><span class="citation-popover-snippet">The AI Scientist: Towards Fully Automated Open-Ended...13 Aug 2024 — The AI Scientist is a fully automated pipeline for end-to-end paper...</span></span></span>
 
 ## What counts as AI-assisted AI research?
 
@@ -318,7 +318,7 @@ If each round produces larger gains than the previous one, capability growth cou
 
 Critically, doom-focused researchers do not necessarily expect a single model to rewrite itself continuously. A more plausible mechanism is a chain of successor models. One generation helps build the next, which then helps build another. The feedback loop operates across generations rather than entirely within a single system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2026/05/07/anthropic-jack-clark-ai-intelligence-explosion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-snippet">Co-founder Jack Clark predicts a greater than 60% chance that by 2028, an AI system could autonomously build a better version of itself...</span></span></span>
 
-This is why AI-driven AI research is often viewed as the earliest meaningful FOOM warning sign. Economic disruption, mass [automation]({{ 'automation-bias/' | relative_url }}), or visible societal upheaval may occur later. The research loop begins much closer to the source of capability growth itself.
+This is why AI-driven AI research is often viewed as the earliest meaningful FOOM warning sign. Economic disruption, mass automation, or visible societal upheaval may occur later. The research loop begins much closer to the source of capability growth itself.
 
 If a future model contributes enough to architecture design, optimisation, evaluation, and experimentation that researchers cannot easily separate human advances from machine-generated advances, many advocates of the intelligence-explosion hypothesis would regard that as a far more significant signal than most public-facing AI milestones.
 
@@ -342,13 +342,13 @@ For FOOM advocates, this is significant because algorithmic improvements have hi
 
 ### Frontier labs are openly discussing recursive improvement
 
-The idea is no longer confined to internet forums or speculative philosophy. Anthropic researchers have publicly discussed recursive self-improvement as a topic deserving serious study. Anthropic co-founder Jack Clark has argued that there is a substantial possibility that AI systems could autonomously build better successors within the next few years, and the company has identified AI accelerating AI development as an area requiring [monitoring]({{ 'monitoring/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2026/05/07/anthropic-jack-clark-ai-intelligence-explosion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-snippet">Co-founder Jack Clark predicts a greater than 60% chance that by 2028, an AI system could autonomously build a better version of itself...</span></span></span> KuCoin The existence of these discussions does not prove a FOOM is coming. It does show that the possibility is being taken seriously by people work <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kucoin.com/news/flash/anthropic-co-founder-predicts-ai-r-d-will-become-fully-automated-by-2028" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kucoin.com">[kucoin.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kucoin.com</span><span class="citation-popover-snippet">KuCoinAnthropic co-founder predicts AI R&amp;D will become fully...5 May 2026 — Anthropic co-founder Jack Clark predicts that AI R&amp;D could b...</span><span class="citation-popover-meta">Published: May 2026</span></span></span> ing close to the frontier.
+The idea is no longer confined to internet forums or speculative philosophy. Anthropic researchers have publicly discussed recursive self-improvement as a topic deserving serious study. Anthropic co-founder Jack Clark has argued that there is a substantial possibility that AI systems could autonomously build better successors within the next few years, and the company has identified AI accelerating AI development as an area requiring [monitoring]({{ 'monitoring/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2026/05/07/anthropic-jack-clark-ai-intelligence-explosion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-snippet">Co-founder Jack Clark predicts a greater than 60% chance that by 2028, an AI system could autonomously build a better version of itself...</span></span></span> KuCoin The existence of these discussions does not prove a FOOM is coming. It does show that the possibility is being taken seriously by people work <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kucoin.com/news/flash/anthropic-co-founder-predicts-ai-r-d-will-become-fully-automated-by-2028" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kucoin.com">[kucoin.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kucoin.com</span><span class="citation-popover-snippet">Anthropic co-founder predicts AI R&amp;D will become fully...5 May 2026 — Anthropic co-founder Jack Clark predicts that AI R&amp;D could b...</span><span class="citation-popover-meta">Published: May 2026</span></span></span> ing close to the frontier.
 
 ## Why sceptics think this may not lead to FOOM
 
-The strongest objections focus on the difference between research assistance and runaway acceleration.
+The strongest [objections]({{ 'objections/' | relative_url }}) focus on the difference between research assistance and runaway acceleration.
 
-Current AI systems still depend heavily on human judgement. They make mistakes, struggle with novelty, and often require extensive supervision. Independent evaluations of automated-research systems have found serious weaknesses, including flawed experiments, coding failures, poor literature review, hallucinated results, and limited adaptability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2506.13131" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">AlphaEvolve: A coding agent for scientific and algorithmic...by A Novikov · 2025 · Cited by 526 — In this white paper, we present AlphaE...</span></span></span>
+Current AI systems still depend heavily on human judgement. They make mistakes, struggle with novelty, and often require extensive supervision. [Independent]({{ 'red-teaming/' | relative_url }}) [evaluations]({{ 'evaluations/' | relative_url }}) of automated-research systems have found serious weaknesses, including flawed experiments, coding failures, poor literature review, hallucinated results, and limited adaptability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2506.13131" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">AlphaEvolve: A coding agent for scientific and algorithmic...by A Novikov · 2025 · Cited by 526 — In this white paper, we present AlphaE...</span></span></span>
 
 Sceptics also argue that AI progress depends on many bottlenecks beyond algorithm design:
 
@@ -368,14 +368,14 @@ Even if AI dramatically accelerated research output, these constraints could slo
 
 Another objection is that research itself may not scale smoothly. Some discoveries are easy to automate; others may require deep human insight, physical experimentation, or conceptual breakthroughs that do not emerge from simply running more automated searches. The existence of AI-assisted research does not automatically imply exponential improvement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2506.13131" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">AlphaEvolve: A coding agent for scientific and algorithmic...by A Novikov · 2025 · Cited by 526 — In this white paper, we present AlphaE...</span></span></span>
 
-As a result, many [AI researchers]({{ 'expert-surveys/' | relative_url }}) expect substantial AI-driven research automation without expecting a classic intelligence explosion.
+As a result, many AI researchers expect substantial AI-driven research automation without expecting a classic intelligence explosion.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AkadGXzDqBw" title="NOT-Recursive NOT-Self Improvement: autoresearch isn&#x27;t SuperAI&#x27;s next step" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AkadGXzDqBw" target="_blank" rel="noopener noreferrer">NOT-Recursive NOT-Self Improvement: autoresearch isn&#x27;t SuperAI&#x27;s next step</a></p><p class="youtube-embed-meta">Channel: Internet of Bugs &middot; Views: 40.4K &middot; Uploaded: May 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AkadGXzDqBw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AkadGXzDqBw">Open on YouTube</a></p></div></div></div>
 
 ## Signals that would be early rather than too late
 
-The challenge with FOOM warning signs is timing. Many observable consequences may arrive only after the underlying process is already advanced.
+The challenge with FOOM [warning signs]({{ 'warning-signs/' | relative_url }}) is timing. Many observable consequences may arrive only after the underlying process is already advanced.
 
 People concerned about fast takeoff often focus on a narrower set of indicators:
 
@@ -825,151 +825,151 @@ That does not mean such a loop will inevitably produce a FOOM. The evidence toda
 1. <a id="endnote-1"></a>
    Source: deepmind.google  
    Title: alphaevolve a gemini powered coding agent for designing advanced algorithms  
-   Link: [https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/](https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/)  
+   Link: <a href="https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google DeepMindAlphaEvolve: A Gemini-powered coding agent for...14 May 2025 — AlphaEvolve enhanced the efficiency of Google&#x27;s data cente...</p></details>
    Published: May 2025  
 
 2. <a id="endnote-2"></a>
    Source: axios.com  
-   Link: [https://www.axios.com/2026/05/07/anthropic-jack-clark-ai-intelligence-explosion](https://www.axios.com/2026/05/07/anthropic-jack-clark-ai-intelligence-explosion)  
+   Link: <a href="https://www.axios.com/2026/05/07/anthropic-jack-clark-ai-intelligence-explosion" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2026/05/07/anthropic-jack-clark-ai-intelligence-explosion</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Co-founder Jack Clark predicts a greater than 60% chance that by 2028, an AI system could autonomously build a better version of itself...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sakana.ai  
    Title: ai scientist  
-   Link: [https://sakana.ai/ai-scientist/](https://sakana.ai/ai-scientist/)  
+   Link: <a href="https://sakana.ai/ai-scientist/" target="_blank" rel="noopener noreferrer nofollow">https://sakana.ai/ai-scientist/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The AI Scientist: Towards Fully Automated Open-Ended...13 Aug 2024 — The AI Scientist is a fully automated pipeline for end-to-end paper...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: sakana.ai  
    Title: ai scientist first publication  
-   Link: [https://sakana.ai/ai-scientist-first-publication/](https://sakana.ai/ai-scientist-first-publication/)  
+   Link: <a href="https://sakana.ai/ai-scientist-first-publication/" target="_blank" rel="noopener noreferrer nofollow">https://sakana.ai/ai-scientist-first-publication/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The AI Scientist Generates its First Peer-Reviewed...12 Mar 2025 — A paper produced by The AI Scientist-v2 passed the peer-review proces...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: blog.google  
    Title: alphaevolve updates  
-   Link: [https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-updates/](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-updates/)  
+   Link: <a href="https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-updates/" target="_blank" rel="noopener noreferrer nofollow">https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-updates/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AlphaEvolve, 1 year later: Impact on science, technology7 May 2026 — It&#x27;s also accelerating scientific discovery, helping researchers run...</p></details>
    Published: May 2026  
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2506.13131](https://arxiv.org/abs/2506.13131)  
+   Link: <a href="https://arxiv.org/abs/2506.13131" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2506.13131</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AlphaEvolve: A coding agent for scientific and algorithmic...by A Novikov · 2025 · Cited by 526 — In this white paper, we present AlphaE...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: kucoin.com  
-   Link: [https://www.kucoin.com/news/flash/anthropic-co-founder-predicts-ai-r-d-will-become-fully-automated-by-2028](https://www.kucoin.com/news/flash/anthropic-co-founder-predicts-ai-r-d-will-become-fully-automated-by-2028)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>KuCoinAnthropic co-founder predicts AI R&amp;D will become fully...5 May 2026 — Anthropic co-founder Jack Clark predicts that AI R&amp;D could b...</p></details>
+   Link: <a href="https://www.kucoin.com/news/flash/anthropic-co-founder-predicts-ai-r-d-will-become-fully-automated-by-2028" target="_blank" rel="noopener noreferrer nofollow">https://www.kucoin.com/news/flash/anthropic-co-founder-predicts-ai-r-d-will-become-fully-automated-by-2028</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic co-founder predicts AI R&amp;D will become fully...5 May 2026 — Anthropic co-founder Jack Clark predicts that AI R&amp;D could b...</p></details>
    Published: May 2026  
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2502.14297](https://arxiv.org/abs/2502.14297)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivEvaluating Sakana&#x27;s AI Scientist for Autonomous Research: Wishful Thinking or an Emerging Reality Towards &#x27;[Artificial](&amp;#123;&amp;#123; &#x27;artificial-goals/&#x27; | relative_url &amp;#125;&amp;#125;) Research Intel...</p></details>
+   Link: <a href="https://arxiv.org/abs/2502.14297" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.14297</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating Sakana&#x27;s AI Scientist for Autonomous Research: Wishful Thinking or an Emerging Reality Towards &#x27;Artificial Research Intel...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: sakana.ai  
    Title: ai scientist nature  
-   Link: [https://sakana.ai/ai-scientist-nature/](https://sakana.ai/ai-scientist-nature/)  
+   Link: <a href="https://sakana.ai/ai-scientist-nature/" target="_blank" rel="noopener noreferrer nofollow">https://sakana.ai/ai-scientist-nature/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The AI Scientist: Towards Fully Automated AI Research...26 Mar 2026 — The ability to automate paper generation raises profound ethical a...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pub.sakana.ai  
-   Link: [https://pub.sakana.ai/ai-scientist-v2/paper/paper.pdf](https://pub.sakana.ai/ai-scientist-v2/paper/paper.pdf)  
+   Link: <a href="https://pub.sakana.ai/ai-scientist-v2/paper/paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pub.sakana.ai/ai-scientist-v2/paper/paper.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Scientist-v2: Workshop-Level Automated Scientific...8 Apr 2025 — The generation process for the workshop-accepted paper began with th...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: deepmind.google  
-   Link: [https://deepmind.google/blog/alphaevolve-impact/](https://deepmind.google/blog/alphaevolve-impact/)  
+   Link: <a href="https://deepmind.google/blog/alphaevolve-impact/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/blog/alphaevolve-impact/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AlphaEvolve: Gemini-powered coding agent scaling impact...5 days ago — Discover how AlphaEvolve optimizes algorithms for genomics, quant...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2408.06292](https://arxiv.org/abs/2408.06292)  
+   Link: <a href="https://arxiv.org/abs/2408.06292" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2408.06292</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The AI Scientist: Towards Fully Automated Open-Ended...by C Lu · 2024 · Cited by 726 — This paper presents the first comprehensive frame...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2504.08066](https://arxiv.org/abs/2504.08066)  
+   Link: <a href="https://arxiv.org/abs/2504.08066" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2504.08066</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The AI Scientist-v2: Workshop-Level Automated Scientific...by Y Yamada · 2025 · Cited by 124 — We introduce The AI Scientist-v2, an end...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: aimagazine.com  
    Title: google deepmind the uk the first automated ai science lab  
-   Link: [https://aimagazine.com/news/google-deepmind-the-uk-the-first-automated-ai-science-lab](https://aimagazine.com/news/google-deepmind-the-uk-the-first-automated-ai-science-lab)  
+   Link: <a href="https://aimagazine.com/news/google-deepmind-the-uk-the-first-automated-ai-science-lab" target="_blank" rel="noopener noreferrer nofollow">https://aimagazine.com/news/google-deepmind-the-uk-the-first-automated-ai-science-lab</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Google DeepMind &amp; The UK: The First Automated...11 Dec 2025 — Google Deepmind&#x27;s AI for Science models to UK scientists, include: AlphaEv...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40kram254/sakanaais-ai-scientist-is-revolutionizing-automated-research-scientific-discovery-b66dc0a1759b](https://medium.com/%40kram254/sakanaais-ai-scientist-is-revolutionizing-automated-research-scientific-discovery-b66dc0a1759b)  
+   Link: <a href="https://medium.com/%40kram254/sakanaais-ai-scientist-is-revolutionizing-automated-research-scientific-discovery-b66dc0a1759b" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40kram254/sakanaais-ai-scientist-is-revolutionizing-automated-research-scientific-discovery-b66dc0a1759b</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SakanaAI&#x27;s AI Scientist is Revolutionizing Automated...A groundbreaking model that could redefine how we approach research across fields...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: techbrew.com  
    Title: Google Deep Mind's new AI system can evolve  
-   Link: [https://www.techbrew.com/stories/2025/05/27/google-deepmind-ai-system-new-algorithms](https://www.techbrew.com/stories/2025/05/27/google-deepmind-ai-system-new-algorithms)  
+   Link: <a href="https://www.techbrew.com/stories/2025/05/27/google-deepmind-ai-system-new-algorithms" target="_blank" rel="noopener noreferrer nofollow">https://www.techbrew.com/stories/2025/05/27/google-deepmind-ai-system-new-algorithms</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Google DeepMind&#x27;s new AI system can evolve...May 27, 2025 — Google has also designed a user interface for AlphaEvolve that will be avail...</p></details>
    Published: May 27, 2025  
 
 17. <a id="endnote-17"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/alphaevolve-google-deepminds-ai-redefines-algorithm-dinesh-abeysinghe-onphc](https://www.linkedin.com/pulse/alphaevolve-google-deepminds-ai-redefines-algorithm-dinesh-abeysinghe-onphc)  
+   Link: <a href="https://www.linkedin.com/pulse/alphaevolve-google-deepminds-ai-redefines-algorithm-dinesh-abeysinghe-onphc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/alphaevolve-google-deepminds-ai-redefines-algorithm-dinesh-abeysinghe-onphc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Google DeepMind&#x27;s AI That Redefines Algorithm DiscoveryGoogle DeepMind has unveiled AlphaEvolve, an AI system that autonomously discovers...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40Micheal-Lanham/alphaevolve-how-deepminds-ai-is-rewriting-the-rules-of-algorithm-discovery-09b9e69e6ae7](https://medium.com/%40Micheal-Lanham/alphaevolve-how-deepminds-ai-is-rewriting-the-rules-of-algorithm-discovery-09b9e69e6ae7)  
+   Link: <a href="https://medium.com/%40Micheal-Lanham/alphaevolve-how-deepminds-ai-is-rewriting-the-rules-of-algorithm-discovery-09b9e69e6ae7" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40Micheal-Lanham/alphaevolve-how-deepminds-ai-is-rewriting-the-rules-of-algorithm-discovery-09b9e69e6ae7</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AlphaEvolve: How DeepMind&#x27;s AI is Rewriting the Rules of...Google DeepMind&#x27;s AlphaEvolve is revolutionizing how we discover algorithms b...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: isg.beel.org  
-   Link: [https://isg.beel.org/pubs/2025-sakana-ai-scientist-reproduced.pdf](https://isg.beel.org/pubs/2025-sakana-ai-scientist-reproduced.pdf)  
+   Link: <a href="https://isg.beel.org/pubs/2025-sakana-ai-scientist-reproduced.pdf" target="_blank" rel="noopener noreferrer nofollow">https://isg.beel.org/pubs/2025-sakana-ai-scientist-reproduced.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Scientist is supposed to “automate the entire research lifecycle”; i.e. it generates research ideas, designs and conducts experiments...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: techradar.com  
-   Link: [https://www.techradar.com/ai-platforms-assistants/you-would-be-able-to-say-to-it-make-a-better-version-of-yourself-and-it-just-goes-off-and-does-that-completely-autonomously-anthropic-co-founder-on-our-wild-recursive-ai-future](https://www.techradar.com/ai-platforms-assistants/you-would-be-able-to-say-to-it-make-a-better-version-of-yourself-and-it-just-goes-off-and-does-that-completely-autonomously-anthropic-co-founder-on-our-wild-recursive-ai-future)  
+   Link: <a href="https://www.techradar.com/ai-platforms-assistants/you-would-be-able-to-say-to-it-make-a-better-version-of-yourself-and-it-just-goes-off-and-does-that-completely-autonomously-anthropic-co-founder-on-our-wild-recursive-ai-future" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/ai-platforms-assistants/you-would-be-able-to-say-to-it-make-a-better-version-of-yourself-and-it-just-goes-off-and-does-that-completely-autonomously-anthropic-co-founder-on-our-wild-recursive-ai-future</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Co-founder Jack Clark predicts that by 2028, such self-improving AI could become a reality. This development raises urgent ethical and sa...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: github.com  
-   Link: [https://github.com/SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist)  
+   Link: <a href="https://github.com/SakanaAI/AI-Scientist" target="_blank" rel="noopener noreferrer nofollow">https://github.com/SakanaAI/AI-Scientist</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The AI Scientist: Towards Fully Automated Open-Ended...We&#x27;re excited to introduce The AI Scientist, the first comprehensive system for f...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/ankaj-mohindroo-b9948035_ai-enterpriseai-gaiinsights-activity-7457455314263744513-iehS](https://www.linkedin.com/posts/ankaj-mohindroo-b9948035_ai-enterpriseai-gaiinsights-activity-7457455314263744513-iehS)  
+   Link: <a href="https://www.linkedin.com/posts/ankaj-mohindroo-b9948035_ai-enterpriseai-gaiinsights-activity-7457455314263744513-iehS" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/ankaj-mohindroo-b9948035_ai-enterpriseai-gaiinsights-activity-7457455314263744513-iehS</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Systems to Build Themselves by 2028: Jack ClarkJack Clark, co-founder of Anthropic, just made a striking claim: AI systems are about t...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/383060918_The_AI_Scientist_Towards_Fully_Automated_Open-Ended_Scientific_Discovery](https://www.researchgate.net/publication/383060918_The_AI_Scientist_Towards_Fully_Automated_Open-Ended_Scientific_Discovery)  
+   Link: <a href="https://www.researchgate.net/publication/383060918_The_AI_Scientist_Towards_Fully_Automated_Open-Ended_Scientific_Discovery" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/383060918_The_AI_Scientist_Towards_Fully_Automated_Open-Ended_Scientific_Discovery</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The AI Scientist: Towards Fully Automated Open-...13 Aug 2024 — This paper presents the first comprehensive framework for fully au...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: research.google  
    Title: ai as a research partner advancing theoretical computer science with alphaevolve  
-   Link: [https://research.google/blog/ai-as-a-research-partner-advancing-theoretical-computer-science-with-alphaevolve/](https://research.google/blog/ai-as-a-research-partner-advancing-theoretical-computer-science-with-alphaevolve/)  
+   Link: <a href="https://research.google/blog/ai-as-a-research-partner-advancing-theoretical-computer-science-with-alphaevolve/" target="_blank" rel="noopener noreferrer nofollow">https://research.google/blog/ai-as-a-research-partner-advancing-theoretical-computer-science-with-alphaevolve/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Advancing theoretical computer science with AlphaEvolveAI as a research partner: Advancing theoretical computer science with AlphaEvolve...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: medium.com  
-   Link: [https://medium.com/%402019be04004/alphaevolve-the-ai-coding-agent-redefining-algorithm-design-0fb4b346e1fa](https://medium.com/%402019be04004/alphaevolve-the-ai-coding-agent-redefining-algorithm-design-0fb4b346e1fa)  
+   Link: <a href="https://medium.com/%402019be04004/alphaevolve-the-ai-coding-agent-redefining-algorithm-design-0fb4b346e1fa" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%402019be04004/alphaevolve-the-ai-coding-agent-redefining-algorithm-design-0fb4b346e1fa</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AlphaEvolve: The AI Coding Agent Redefining Algorithm...Announced on May 14, 2025, AlphaEvolve is a game-changer, blending the creative...</p></details>
    Published: May 14, 2025  
 
 26. <a id="endnote-26"></a>
    Source: mindstudio.ai  
    Title: jack clark anthropic 60 percent recursive self improvement 2028  
-   Link: [https://www.mindstudio.ai/blog/jack-clark-anthropic-60-percent-recursive-self-improvement-2028/](https://www.mindstudio.ai/blog/jack-clark-anthropic-60-percent-recursive-self-improvement-2028/)  
+   Link: <a href="https://www.mindstudio.ai/blog/jack-clark-anthropic-60-percent-recursive-self-improvement-2028/" target="_blank" rel="noopener noreferrer nofollow">https://www.mindstudio.ai/blog/jack-clark-anthropic-60-percent-recursive-self-improvement-2028/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>60% Chance of Recursive AI Self-Improvement by 202810 May 2026 — Anthropic co-founder Jack Clark publicly put 60% odds on recursive AI se...</p></details>
    Published: May 2026  
 
 27. <a id="endnote-27"></a>
    Source: github.com  
-   Link: [https://github.com/sakanaai/ai-scientist-v2](https://github.com/sakanaai/ai-scientist-v2)  
+   Link: <a href="https://github.com/sakanaai/ai-scientist-v2" target="_blank" rel="noopener noreferrer nofollow">https://github.com/sakanaai/ai-scientist-v2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e, with AI playing a pivotal role in transforming how scientific discoveries are...Read more...</p></details>

@@ -7,36 +7,36 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_automl_constr_fc237f
 - AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_self_improvem_e1ba6a
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - ai-takeoff
 - weak-evidence
-- alphazero-limits
+- alpha-zero-limits
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - ai-takeoff
 - weak-evidence
-- alphazero-limits
-affiliate_category: ai-doom-and
+- alpha-zero-limits
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: AlphaZero demonstrates rapid learning in games but remains confined to predefined rules and objectives without human-independent exploration.
 hero_summary: AlphaZero demonstrates rapid learning in games but remains confined to predefined rules and objectives without human-independent exploration.
 layout: default
-permalink: /alphazero-limits/
+permalink: /alpha-zero-limits/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /ai-takeoff/
 - /weak-evidence/
-nav_short_title: AlphaZero Limits
-title: How AlphaZero's Self Play Is Restricted by Game Rules
-title_full: How AlphaZero's Self Play Is Restricted by Game Rules | Weak evidence
-display_title_short: AlphaZero Limits
-display_title: AlphaZero Limits
-heading_title: How AlphaZero's Self Play Is Restricted by Game Rules
-page_heading_title: How AlphaZero's Self Play Is Restricted by Game Rules
+nav_short_title: Alpha Zero Limits
+title: How Alpha Zero's Self Play Is Restricted by Game Rules
+title_full: How Alpha Zero's Self Play Is Restricted by Game Rules | Weak evidence
+display_title_short: Alpha Zero Limits
+display_title: Alpha Zero Limits
+heading_title: How Alpha Zero's Self Play Is Restricted by Game Rules
+page_heading_title: How Alpha Zero's Self Play Is Restricted by Game Rules
 source_count: 22
 infographic_count: 3
 planned_sections:
-- Overview of AlphaZero self play methodology
+- Overview of Alpha Zero self play methodology
 - Boundaries imposed by human defined rules and objectives
 - Implications for recursive AI improvement debates
 focal_unit_type: mechanism
@@ -211,10 +211,10 @@ parent_heading_title: Do today's self improving systems prove anything?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_recursive_imp_3a3504
-  title: AI Takeoff | AI Doom and
+  title: AI Takeoff | AI Doom and E 87399 b
   permalink: /ai-takeoff/
   short_title: AI Takeoff
   heading_title: Could AI Improvement Run Away From US?
@@ -226,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_recursive_imp_3a3504
-  title: AI Takeoff | AI Doom and
+  title: AI Takeoff | AI Doom and E 87399 b
   permalink: /ai-takeoff/
   short_title: AI Takeoff
   heading_title: Could AI Improvement Run Away From US?
@@ -240,15 +240,15 @@ breadcrumb_links:
   heading_title: Do today's self improving systems prove anything?
 sibling_links:
 - basename: AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_automl_constr_fc237f
-  title: AutoML Boundaries | Weak evidence
-  permalink: /automl-boundaries/
-  short_title: AutoML Boundaries
-  heading_title: Why AutoML Cannot Independently Drive Machine Learning Research
+  title: Auto ML Boundaries | Weak evidence
+  permalink: /auto-ml-boundaries/
+  short_title: Auto ML Boundaries
+  heading_title: Why Auto ML Cannot Independently Drive Machine Learning Research
 - basename: AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_self_improvem_e1ba6a
   title: Recursion Evidence | Weak evidence
   permalink: /recursion-evidence/
   short_title: Recursion Evidence
-  heading_title: What AlphaZero and AutoML Reveal About Limits of AI Self Improvement
+  heading_title: What Alpha Zero and Auto ML Reveal About Limits of AI Self Improvement
 up_link:
   basename: AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556
   title: Weak evidence | AI Takeoff
@@ -257,10 +257,10 @@ up_link:
   heading_title: Do today's self improving systems prove anything?
 next_link:
   basename: AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_automl_constr_fc237f
-  title: AutoML Boundaries | Weak evidence
-  permalink: /automl-boundaries/
-  short_title: AutoML Boundaries
-  heading_title: Why AutoML Cannot Independently Drive Machine Learning Research
+  title: Auto ML Boundaries | Weak evidence
+  permalink: /auto-ml-boundaries/
+  short_title: Auto ML Boundaries
+  heading_title: Why Auto ML Cannot Independently Drive Machine Learning Research
 header:
   og_image: /assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_alphazero_sel_8e9d74-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_alphazero_sel_8e9d74-Illustration-1.webp
@@ -269,18 +269,18 @@ image: /assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_61
 
 ## Introduction
 
-AlphaZero’s self‑play breakthrough often gets cited in debates about autonomous machine intelligence, [recursive]({{ 'ai-takeoff/' | relative_url }}) self‑improvement, and existential risk from AI. In games such as chess, Go and shogi, the DeepMind system learned *from scratch* by repeatedly playing against itself until it reached world‑class strength with no human data beyond the rules of the game. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aiwiki.ai/wiki/alphazero" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiwiki.ai">[AI Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiwiki.ai</span><span class="citation-popover-title">AI Wiki Alpha Zero | AI Wiki</span><span class="citation-popover-snippet">AI WikiAlphaZero | AI WikiApril 26, 2026...</span><span class="citation-popover-meta">Published: April 26, 2026</span></span></span> But that impressive self‑play loop has important **limits**: it operates inside narrow, human‑defined environments, without [independent]({{ 'red-teaming/' | relative_url }}) exploration, goal‑setting, or expansion beyond those environments. This matters because some arguments about AI “take‑off” assume that self‑improvement abilities like AlphaZero’s could generalise across open‑ended, real‑world tasks; the evidence here shows why those analogies are weak.
+AlphaZero’s self‑play breakthrough often gets cited in debates about autonomous machine intelligence, recursive self‑improvement, and existential risk from AI. In games such as chess, Go and shogi, the DeepMind system learned *from scratch* by repeatedly playing against itself until it reached world‑class strength with no human data beyond the rules of the game. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aiwiki.ai/wiki/alphazero" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiwiki.ai">[AI Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiwiki.ai</span><span class="citation-popover-title">AI Wiki Alpha Zero &#124; AI Wiki</span><span class="citation-popover-snippet">AI WikiAlphaZero &#124; AI WikiApril 26, 2026...</span><span class="citation-popover-meta">Published: April 26, 2026</span></span></span> But that impressive self‑play loop has important **limits**: it operates inside narrow, human‑defined environments, without [independent]({{ 'red-teaming/' | relative_url }}) exploration, goal‑setting, or expansion beyond those environments. This matters because some arguments about AI “take‑off” assume that self‑improvement abilities like AlphaZero’s could generalise across open‑ended, real‑world tasks; the evidence here shows why those analogies are weak.
 
 
-<img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_alphazero_sel_8e9d74-Illustration-1-dark.svg" | relative_url }}" alt="AlphaZero Limits illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_alphazero_sel_8e9d74-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_alphazero_sel_8e9d74-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_alphazero_sel_8e9d74-Illustration-1-dark.svg" | relative_url }}" alt="Alpha Zero Limits illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_alphazero_sel_8e9d74-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_alphazero_sel_8e9d74-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How AlphaZero’s Self‑Play Works and Why It’s Constrained
 
-AlphaZero is a reinforcement‑learning agent that combines a neural network with Monte Carlo Tree Search (MCTS). Starting with no domain [expertise]({{ 'expertise-erosion/' | relative_url }}) aside from the formal rules, it plays millions of simulated games against copies of itself. Outcomes of these self‑plays generate training data that update the network, improving future play. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aiwiki.ai/wiki/alphazero" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiwiki.ai">[AI Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiwiki.ai</span><span class="citation-popover-title">AI Wiki Alpha Zero | AI Wiki</span><span class="citation-popover-snippet">AI WikiAlphaZero | AI WikiApril 26, 2026...</span><span class="citation-popover-meta">Published: April 26, 2026</span></span></span> This *feedback loop* lets AlphaZero ascend to superhuman play in specific rule‑bound domains.
+AlphaZero is a reinforcement‑learning agent that combines a neural network with Monte Carlo Tree Search (MCTS). Starting with no domain expertise aside from the formal rules, it plays millions of simulated games against copies of itself. Outcomes of these self‑plays generate training data that update the network, improving future play. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aiwiki.ai/wiki/alphazero" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiwiki.ai">[AI Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiwiki.ai</span><span class="citation-popover-title">AI Wiki Alpha Zero &#124; AI Wiki</span><span class="citation-popover-snippet">AI WikiAlphaZero &#124; AI WikiApril 26, 2026...</span><span class="citation-popover-meta">Published: April 26, 2026</span></span></span> This *feedback loop* lets AlphaZero ascend to superhuman play in specific rule‑bound domains.
 
 But *the scope of that loop is tightly bounded by design*:
 
-* **Fixed rules and reward structure:** AlphaZero only learns within well‑defined, deterministic games where win/loss outcomes are clear and reward functions are explicit. There is no mechanism for changing objectives or inventing new tasks beyond what humans specify. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.informatica.si/index.php/informatica/article/view/2226" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informatica.si">[informatica.si]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informatica.si</span><span class="citation-popover-title">Alpha Zero – What’s Missing? | Informatica</span><span class="citation-popover-snippet">AlphaZero – What’s Missing? | InformaticaMarch 26, 2018...</span><span class="citation-popover-meta">Published: March 26, 2018</span></span></span>
-* **Complete simulator requirement:** The algorithm needs a perfect simulator of the game state to use MCTS effectively. This limits it to *perfect‑information*, deterministic environments; situations with hidden information, stochasticity or [continuous]({{ 'continuous-control/' | relative_url }}) action spaces are outside its native design. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aiwiki.ai/wiki/alphazero" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiwiki.ai">[AI Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiwiki.ai</span><span class="citation-popover-title">AI Wiki Alpha Zero | AI Wiki</span><span class="citation-popover-snippet">AI WikiAlphaZero | AI WikiApril 26, 2026...</span><span class="citation-popover-meta">Published: April 26, 2026</span></span></span>
+* **Fixed rules and reward structure:** AlphaZero only learns within well‑defined, deterministic games where win/loss outcomes are clear and reward functions are explicit. There is no mechanism for changing objectives or inventing new tasks beyond what humans specify. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.informatica.si/index.php/informatica/article/view/2226" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informatica.si">[informatica.si]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informatica.si</span><span class="citation-popover-title">Alpha Zero – What’s Missing? &#124; Informatica</span><span class="citation-popover-snippet">AlphaZero – What’s Missing? &#124; InformaticaMarch 26, 2018...</span><span class="citation-popover-meta">Published: March 26, 2018</span></span></span>
+* **Complete simulator requirement:** The algorithm needs a perfect simulator of the game state to use MCTS effectively. This limits it to *perfect‑information*, deterministic environments; situations with hidden information, stochasticity or continuous action spaces are outside its native design. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aiwiki.ai/wiki/alphazero" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiwiki.ai">[AI Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiwiki.ai</span><span class="citation-popover-title">AI Wiki Alpha Zero &#124; AI Wiki</span><span class="citation-popover-snippet">AI WikiAlphaZero &#124; AI WikiApril 26, 2026...</span><span class="citation-popover-meta">Published: April 26, 2026</span></span></span>
 * **Lack of autonomous exploration outside game tree:** Research on its training dynamics shows AlphaZero’s self‑play starts matches from initial game states and samples only limited trajectories through the game tree. It does not systematically explore all reachable states, especially deeper or unusual ones, reflecting that its “curiosity” is constrained by the rules and its own policy search biases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/368829510_Targeted_Search_Control_in_AlphaZero_for_Effective_Policy_Improvement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 These constraints mean AlphaZero *optimises within a closed world* rather than discovering or creating new goals, environments, or domains on its own.
@@ -290,19 +290,19 @@ These constraints mean AlphaZero *optimises within a closed world* rather than d
 
 ## Why These Limits Matter for Recursive AI Improvement Debates
 
-In discussions of [AI doom and]({{ 'ai-doom-and/' | relative_url }}) recursive self‑improvement, a central claim is that an AI could bootstrap itself to ever greater intelligence without ongoing human intervention. AlphaZero’s self‑play loop superficially resembles a positive feedback mechanism — the system improves by generating its own data — but its *domain constraints* make it a poor model for open‑ended self‑enhancement:
+In discussions of AI doom and recursive self‑improvement, a central claim is that an AI could bootstrap itself to ever greater intelligence without ongoing human intervention. AlphaZero’s self‑play loop superficially resembles a positive feedback mechanism — the system improves by generating its own data — but its *domain constraints* make it a poor model for open‑ended self‑enhancement:
 
-* **Human‑defined environment and objectives:** Unlike a hypothetical recursive agent that might expand its [operational]({{ 'operational-thresholds/' | relative_url }}) domain or invent its own objectives, AlphaZero’s induction is bound to the *single, fixed optimisation problem* of playing a given game. It has no built‑in drive to extend beyond what was framed by its designers.
+* **Human‑defined environment and objectives:** Unlike a hypothetical recursive agent that might expand its operational domain or invent its own objectives, AlphaZero’s induction is bound to the *single, fixed optimisation problem* of playing a given game. It has no built‑in drive to extend beyond what was framed by its designers.
 * **No independent goal formulation:** The system does not learn *why* it is optimising; it simply maximises expected game outcomes as defined by the rules. There is no internal mechanism for redefining what “better” means outside the game context.
-* **Limited state exploration:** Empirical studies suggest AlphaZero’s training explores limited regions of the game state space and fails on tasks requiring human‑like planning or puzzle solving outside the straight win‑rate optimisation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openreview.net/forum?id=ZAbYb4jDJt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openreview.net">[OpenReview]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openreview.net</span><span class="citation-popover-title">Open Review Limitations in Planning Ability in Alpha Zero | Open Review</span><span class="citation-popover-snippet">OpenReviewLimitations in Planning Ability in AlphaZero | OpenReviewOctober 10, 2024...</span><span class="citation-popover-meta">Published: October 10, 2024</span></span></span>
+* **Limited state exploration:** Empirical studies suggest AlphaZero’s training explores limited regions of the game state space and fails on tasks requiring human‑like planning or puzzle solving outside the straight win‑rate optimisation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openreview.net/forum?id=ZAbYb4jDJt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openreview.net">[OpenReview]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openreview.net</span><span class="citation-popover-title">Open Review Limitations in Planning Ability in Alpha Zero &#124; Open Review</span><span class="citation-popover-snippet">Limitations in Planning Ability in AlphaZero &#124; OpenReviewOctober 10, 2024...</span><span class="citation-popover-meta">Published: October 10, 2024</span></span></span>
 
 Taken together, these points show why many researchers caution against equating AlphaZero’s self‑play success with evidence of autonomous, recursive intelligence growth. Its achievements are bound to narrow, high‑compute scenarios where the optimisation problem is entirely specified.
 
 
-<img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_alphazero_sel_8e9d74-Illustration-2-dark.svg" | relative_url }}" alt="AlphaZero Limits illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_alphazero_sel_8e9d74-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_alphazero_sel_8e9d74-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_alphazero_sel_8e9d74-Illustration-2-dark.svg" | relative_url }}" alt="Alpha Zero Limits illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_alphazero_sel_8e9d74-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_alphazero_sel_8e9d74-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Broader Context: Beyond Games
 
-It’s worth noting that subsequent research has aimed to generalise the *ideas* behind AlphaZero — for example, MuZero learns a model of the environment itself, reducing reliance on pre‑specified rules. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aiwiki.ai/wiki/alphazero" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiwiki.ai">[AI Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiwiki.ai</span><span class="citation-popover-title">AI Wiki Alpha Zero | AI Wiki</span><span class="citation-popover-snippet">AI WikiAlphaZero | AI WikiApril 26, 2026...</span><span class="citation-popover-meta">Published: April 26, 2026</span></span></span> But even these advances remain in experimental domains and stop short of unconstrained self‑directed improvement across arbitrary tasks. Meanwhile, theoretical and empirical work (e.g., on “impartial games” or planning puzzles) highlights concrete limits to AlphaZero‑style algorithms in broader problem classes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://deepai.org/publication/impartial-games-a-challenge-for-reinforcement-learning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepai.org">[DeepAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepai.org</span><span class="citation-popover-title">impartial games a challenge for reinforcement learning</span><span class="citation-popover-snippet">DeepAIImpartial Games: A Challenge for Reinforcement Learning | DeepAIMay 25, 2022...</span><span class="citation-popover-meta">Published: May 25, 2022</span></span></span>
+It’s worth noting that subsequent research has aimed to generalise the *ideas* behind AlphaZero — for example, MuZero learns a model of the environment itself, reducing reliance on pre‑specified rules. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aiwiki.ai/wiki/alphazero" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiwiki.ai">[AI Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiwiki.ai</span><span class="citation-popover-title">AI Wiki Alpha Zero &#124; AI Wiki</span><span class="citation-popover-snippet">AI WikiAlphaZero &#124; AI WikiApril 26, 2026...</span><span class="citation-popover-meta">Published: April 26, 2026</span></span></span> But even these advances remain in experimental domains and stop short of unconstrained self‑directed improvement across arbitrary tasks. Meanwhile, theoretical and empirical work (e.g., on “impartial games” or planning puzzles) highlights concrete limits to AlphaZero‑style algorithms in broader problem classes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://deepai.org/publication/impartial-games-a-challenge-for-reinforcement-learning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepai.org">[DeepAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepai.org</span><span class="citation-popover-title">impartial games a challenge for reinforcement learning</span><span class="citation-popover-snippet">Impartial Games: A Challenge for Reinforcement Learning &#124; DeepAIMay 25, 2022...</span><span class="citation-popover-meta">Published: May 25, 2022</span></span></span>
 
 For people concerned about AI risk, the upshot is clear: while AlphaZero is a striking demonstration of machine learning capability within a sandbox, the *mechanisms that make it work do not by themselves generalise* to the kind of open‑ended recursive self‑improvement imagined in many AI doom scenarios. This doesn’t rule out future systems that might combine self‑play with goal discovery or meta‑learning, but it does weaken claims that AlphaZero‑like loops are direct precursors to rapid capability take‑off.
 
@@ -314,14 +314,14 @@ For people concerned about AI risk, the upshot is clear: while AlphaZero is a st
 
 ## Key Takeaways
 
-* AlphaZero’s self‑play is powerful in structured, rule‑bound environments but **cannot extend itself beyond the game domains defined by humans**. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.informatica.si/index.php/informatica/article/view/2226%3E/0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informatica.si">[informatica.si]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informatica.si</span><span class="citation-popover-title">Alpha Zero – What’s Missing?</span><span class="citation-popover-snippet">| Bratko | InformaticaAbout The Author Ivan Bratko University of Ljubljana, Faculty of Computer and Information Science Slovenia Support...</span></span></span>
-* It requires a complete simulator and predefined rewards, meaning it **lacks [autonomy]({{ 'autonomy/' | relative_url }})** to explore or redefine tasks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aiwiki.ai/wiki/alphazero" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiwiki.ai">[AI Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiwiki.ai</span><span class="citation-popover-title">AI Wiki Alpha Zero | AI Wiki</span><span class="citation-popover-snippet">AI WikiAlphaZero | AI WikiApril 26, 2026...</span><span class="citation-popover-meta">Published: April 26, 2026</span></span></span>
-* Empirical research shows it *doesn’t inherently grasp broad strategic reasoning beyond winning games*, underscoring the **practical limits of self‑play loops** as models for unrestricted recursive improvement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openreview.net/forum?id=ZAbYb4jDJt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openreview.net">[OpenReview]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openreview.net</span><span class="citation-popover-title">Open Review Limitations in Planning Ability in Alpha Zero | Open Review</span><span class="citation-popover-snippet">OpenReviewLimitations in Planning Ability in AlphaZero | OpenReviewOctober 10, 2024...</span><span class="citation-popover-meta">Published: October 10, 2024</span></span></span>
+* AlphaZero’s self‑play is powerful in structured, rule‑bound environments but **cannot extend itself beyond the game domains defined by humans**. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.informatica.si/index.php/informatica/article/view/2226%3E/0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informatica.si">[informatica.si]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informatica.si</span><span class="citation-popover-title">Alpha Zero – What’s Missing?</span><span class="citation-popover-snippet">Bratko &#124; InformaticaAbout The Author Ivan Bratko University of Ljubljana, Faculty of Computer and Information Science Slovenia Support...</span></span></span>
+* It requires a complete simulator and predefined rewards, meaning it **lacks [autonomy]({{ 'autonomy/' | relative_url }})** to explore or redefine tasks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aiwiki.ai/wiki/alphazero" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiwiki.ai">[AI Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiwiki.ai</span><span class="citation-popover-title">AI Wiki Alpha Zero &#124; AI Wiki</span><span class="citation-popover-snippet">AI WikiAlphaZero &#124; AI WikiApril 26, 2026...</span><span class="citation-popover-meta">Published: April 26, 2026</span></span></span>
+* Empirical research shows it *doesn’t inherently grasp broad strategic reasoning beyond winning games*, underscoring the **practical limits of self‑play loops** as models for unrestricted recursive improvement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openreview.net/forum?id=ZAbYb4jDJt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openreview.net">[OpenReview]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openreview.net</span><span class="citation-popover-title">Open Review Limitations in Planning Ability in Alpha Zero &#124; Open Review</span><span class="citation-popover-snippet">Limitations in Planning Ability in AlphaZero &#124; OpenReviewOctober 10, 2024...</span><span class="citation-popover-meta">Published: October 10, 2024</span></span></span>
 
-These constraints help clarify why achievements like AlphaZero, though impressive, are seen as **weak evidence** for the kind of autonomous, recursive intelligence often feared in AI doom narratives.
+These constraints help clarify why achievements like AlphaZero, though impressive, are seen as **[weak evidence]({{ 'weak-evidence/' | relative_url }})** for the kind of autonomous, recursive intelligence often feared in AI doom narratives.
 
 
-<img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_alphazero_sel_8e9d74-Illustration-3-dark.svg" | relative_url }}" alt="AlphaZero Limits illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_alphazero_sel_8e9d74-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_alphazero_sel_8e9d74-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_alphazero_sel_8e9d74-Illustration-3-dark.svg" | relative_url }}" alt="Alpha Zero Limits illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_alphazero_sel_8e9d74-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_alphazero_sel_8e9d74-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -745,38 +745,38 @@ These constraints help clarify why achievements like AlphaZero, though impressiv
 1. <a id="endnote-1"></a>
    Source: informatica.si  
    Title: Alpha Zero – What’s Missing? | Informatica  
-   Link: [https://www.informatica.si/index.php/informatica/article/view/2226](https://www.informatica.si/index.php/informatica/article/view/2226)  
+   Link: <a href="https://www.informatica.si/index.php/informatica/article/view/2226" target="_blank" rel="noopener noreferrer nofollow">https://www.informatica.si/index.php/informatica/article/view/2226</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AlphaZero – What’s Missing? | InformaticaMarch 26, 2018...</p></details>
    Published: March 26, 2018  
 
 2. <a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/368829510_Targeted_Search_Control_in_AlphaZero_for_Effective_Policy_Improvement](https://www.researchgate.net/publication/368829510_Targeted_Search_Control_in_AlphaZero_for_Effective_Policy_Improvement)  
+   Link: <a href="https://www.researchgate.net/publication/368829510_Targeted_Search_Control_in_AlphaZero_for_Effective_Policy_Improvement" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/368829510_Targeted_Search_Control_in_AlphaZero_for_Effective_Policy_Improvement</a>  
 
 3. <a id="endnote-3"></a>
    Source: openreview.net  
    Title: Open Review Limitations in Planning Ability in Alpha Zero | Open Review  
-   Link: [https://openreview.net/forum?id=ZAbYb4jDJt](https://openreview.net/forum?id=ZAbYb4jDJt)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OpenReviewLimitations in Planning Ability in AlphaZero | OpenReviewOctober 10, 2024...</p></details>
+   Link: <a href="https://openreview.net/forum?id=ZAbYb4jDJt" target="_blank" rel="noopener noreferrer nofollow">https://openreview.net/forum?id=ZAbYb4jDJt</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Limitations in Planning Ability in AlphaZero | OpenReviewOctober 10, 2024...</p></details>
    Published: October 10, 2024  
 
 4. <a id="endnote-4"></a>
    Source: deepai.org  
    Title: impartial games a challenge for reinforcement learning  
-   Link: [https://deepai.org/publication/impartial-games-a-challenge-for-reinforcement-learning](https://deepai.org/publication/impartial-games-a-challenge-for-reinforcement-learning)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DeepAIImpartial Games: A Challenge for Reinforcement Learning | DeepAIMay 25, 2022...</p></details>
+   Link: <a href="https://deepai.org/publication/impartial-games-a-challenge-for-reinforcement-learning" target="_blank" rel="noopener noreferrer nofollow">https://deepai.org/publication/impartial-games-a-challenge-for-reinforcement-learning</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Impartial Games: A Challenge for Reinforcement Learning | DeepAIMay 25, 2022...</p></details>
    Published: May 25, 2022  
 
 5. <a id="endnote-5"></a>
    Source: informatica.si  
    Title: Alpha Zero – What’s Missing?  
-   Link: [https://www.informatica.si/index.php/informatica/article/view/2226%3E/0](https://www.informatica.si/index.php/informatica/article/view/2226%3E/0)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| Bratko | InformaticaAbout The Author Ivan Bratko University of Ljubljana, Faculty of Computer and Information Science Slovenia Support...</p></details>
+   Link: <a href="https://www.informatica.si/index.php/informatica/article/view/2226%3E/0" target="_blank" rel="noopener noreferrer nofollow">https://www.informatica.si/index.php/informatica/article/view/2226%3E/0</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bratko | InformaticaAbout The Author Ivan Bratko University of Ljubljana, Faculty of Computer and Information Science Slovenia Support...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: aiwiki.ai  
    Title: AI Wiki Alpha Zero | AI Wiki  
-   Link: [https://aiwiki.ai/wiki/alphazero](https://aiwiki.ai/wiki/alphazero)  
+   Link: <a href="https://aiwiki.ai/wiki/alphazero" target="_blank" rel="noopener noreferrer nofollow">https://aiwiki.ai/wiki/alphazero</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI WikiAlphaZero | AI WikiApril 26, 2026...</p></details>
    Published: April 26, 2026  
 
@@ -785,62 +785,62 @@ These constraints help clarify why achievements like AlphaZero, though impressiv
 7. <a id="endnote-7"></a>
    Source: alphazero.readthedocs.io  
    Title: Alpha Zero Documentation — Alpha Zero 0.1 documentation ALPHAZERO DOCUMENTATION¶  
-   Link: [https://alphazero.readthedocs.io/en/latest/](https://alphazero.readthedocs.io/en/latest/)  
+   Link: <a href="https://alphazero.readthedocs.io/en/latest/" target="_blank" rel="noopener noreferrer nofollow">https://alphazero.readthedocs.io/en/latest/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AlphaZero Documentation — AlphaZero 0.1 documentationALPHAZERO DOCUMENTATION¶ INTRODUCTION¶ AlphaZero is a replication of Mastering the g...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: jonathan-laurent.github.io  
    Title: Parameter | Type | Default --- | --- | --- `self_play` | `Self Play Params`  
-   Link: [https://jonathan-laurent.github.io/AlphaZero.jl/dev/reference/params/](https://jonathan-laurent.github.io/AlphaZero.jl/dev/reference/params/)  
+   Link: <a href="https://jonathan-laurent.github.io/AlphaZero.jl/dev/reference/params/" target="_blank" rel="noopener noreferrer nofollow">https://jonathan-laurent.github.io/AlphaZero.jl/dev/reference/params/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Training Parameters · AlphaZeroJanuary 14, 2022 — TRAINING PARAMETERS GENERAL `AlphaZero.Params` — Type `Params` The AlphaZero training h...</p></details>
    Published: January 14, 2022  
 
 9. <a id="endnote-9"></a>
    Source: eurekamag.com  
    Title: Alpha Zero – What's missing?ALPHAZERO – WHAT'S MISSING?  
-   Link: [https://eurekamag.com/research/105/572/105572569.php](https://eurekamag.com/research/105/572/105572569.php)  
+   Link: <a href="https://eurekamag.com/research/105/572/105572569.php" target="_blank" rel="noopener noreferrer nofollow">https://eurekamag.com/research/105/572/105572569.php</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>BRATKO, I. * * * INFORMATICA (SLOVENIA) 42(1): 7-11 2018 * * * ISSN/ISBN: 0350-5596 Accession: 105572569 SUMMARY In December 2017, the ga...</p></details>
    Published: December 2017  
 
 10. <a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/30523106/](https://pubmed.ncbi.nlm.nih.gov/30523106/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/30523106/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/30523106/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2018 Dec 7;362(6419):1140-1144. doi: 10.1126/science.aar6404. A GENERAL REINFORCEMENT LEARNING ALGORITHM THAT MASTERS CHESS, SHOGI, AND G...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: ai.stackexchange.com  
    Title: does alphazero use q learning  
-   Link: [https://ai.stackexchange.com/questions/13156/does-alphazero-use-q-learning](https://ai.stackexchange.com/questions/13156/does-alphazero-use-q-learning)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Artificial](&amp;#123;&amp;#123; &#x27;artificial-goals/&#x27; | relative_url &amp;#125;&amp;#125;) Intelligence Stack ExchangeJuly 1, 2019 — DOES ALPHAZERO USE Q-LEARNING? Ask Question Asked 6 years, 11 months ago Modified 6...</p></details>
+   Link: <a href="https://ai.stackexchange.com/questions/13156/does-alphazero-use-q-learning" target="_blank" rel="noopener noreferrer nofollow">https://ai.stackexchange.com/questions/13156/does-alphazero-use-q-learning</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial Intelligence Stack ExchangeJuly 1, 2019 — DOES ALPHAZERO USE Q-LEARNING? Ask Question Asked 6 years, 11 months ago Modified 6...</p></details>
    Published: July 1, 2019  
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=WQS7933ub9s](https://www.youtube.com/watch?v=WQS7933ub9s)  
+   Link: <a href="https://www.youtube.com/watch?v=WQS7933ub9s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WQS7933ub9s</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>David Silver - Deep Reinforcement Learning from AlphaGo to AlphaStar...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: ai.stackexchange.com  
    Title: comreinforcement learning  
-   Link: [https://ai.stackexchange.com/questions/14162/when-does-alphazero-play-suboptimal-moves](https://ai.stackexchange.com/questions/14162/when-does-alphazero-play-suboptimal-moves)  
+   Link: <a href="https://ai.stackexchange.com/questions/14162/when-does-alphazero-play-suboptimal-moves" target="_blank" rel="noopener noreferrer nofollow">https://ai.stackexchange.com/questions/14162/when-does-alphazero-play-suboptimal-moves</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial Intelligence Stack ExchangeAugust 27, 2019 — WHEN DOES ALPHAZERO PLAY SUBOPTIMAL MOVES? Ask Question Asked 6 years, 8 months a...</p></details>
    Published: August 27, 2019  
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: Alpha Zero and Self Play (David Silver, Deep Mind) | AI Podcast Clips  
-   Link: [https://www.youtube.com/watch?v=e77NkSjnyH4](https://www.youtube.com/watch?v=e77NkSjnyH4)  
+   Link: <a href="https://www.youtube.com/watch?v=e77NkSjnyH4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=e77NkSjnyH4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lessons from AlphaZero for Optimal, Model Predictive, and Adaptive Control, Lecture at KTH...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9704706/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9704706/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9704706/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9704706/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of chess knowledge in AlphaZero - PMCNovember 14, 2022 — ABSTRACT We analyze the knowledge acquired by AlphaZero, a neural network engine...</p></details>
    Published: November 14, 2022  
 
 16. <a id="endnote-16"></a>
    Source: awesome.papernotes.org  
    Title: 2017 alphazero  
-   Link: [https://awesome.papernotes.org/en/era3_attention/2017_alphazero/](https://awesome.papernotes.org/en/era3_attention/2017_alphazero/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>— Erasing Human Go Knowledge from RL via Pure Self-Play - Awesome AI PapersDecember 5, 2017 — Awesome AI Papers AlphaZero — Erasing Human...</p></details>
+   Link: <a href="https://awesome.papernotes.org/en/era3_attention/2017_alphazero/" target="_blank" rel="noopener noreferrer nofollow">https://awesome.papernotes.org/en/era3_attention/2017_alphazero/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Erasing Human Go Knowledge from RL via Pure Self-Play - Awesome AI PapersDecember 5, 2017 — Awesome AI Papers AlphaZero — Erasing Human...</p></details>
    Published: December 5, 2017  

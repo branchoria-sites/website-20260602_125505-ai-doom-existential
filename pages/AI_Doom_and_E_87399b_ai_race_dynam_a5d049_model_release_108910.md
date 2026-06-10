@@ -12,21 +12,21 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1
 - AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - race-pressure
 - release-races
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - race-pressure
 - release-races
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Public capability races can pressure labs to compress evaluations, reframe risks, and ship frontier systems before uncertainty is resolved.
 hero_summary: Public capability races can pressure labs to compress evaluations, reframe risks, and ship frontier systems before uncertainty is resolved.
 layout: default
 permalink: /release-races/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /race-pressure/
 nav_short_title: Release Races
 title: Do AI Launch Races Weaken Safety Checks?
@@ -213,20 +213,20 @@ parent_heading_title: Why AI Races Can Make Safety Harder
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_ai_race_dynam_a5d049
-  title: Race Pressure | AI Doom and
+  title: Race Pressure | AI Doom and E 87399 b
   permalink: /race-pressure/
   short_title: Race Pressure
   heading_title: Why AI Races Can Make Safety Harder
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_ai_race_dynam_a5d049
-  title: Race Pressure | AI Doom and
+  title: Race Pressure | AI Doom and E 87399 b
   permalink: /race-pressure/
   short_title: Race Pressure
   heading_title: Why AI Races Can Make Safety Harder
@@ -253,10 +253,10 @@ child_links:
   short_title: Missed risks
   heading_title: What rushed AI evaluations can miss
 - basename: AI_Doom_and_E_87399b_ai_race_dynam_a5d049_model_release_108910_openai_testin_b05733
-  title: OpenAI case | Release Races
-  permalink: /openai-case/
-  short_title: OpenAI case
-  heading_title: Did faster launches weaken OpenAI safety checks?
+  title: Open AI case | Release Races
+  permalink: /open-ai-case/
+  short_title: Open AI case
+  heading_title: Did faster launches weaken Open AI safety checks?
 - basename: AI_Doom_and_E_87399b_ai_race_dynam_a5d049_model_release_108910_scaling_polic_89632a
   title: Scaling rules | Release Races
   permalink: /scaling-rules/
@@ -264,7 +264,7 @@ child_links:
   heading_title: Can lab safety promises survive launch races?
 up_link:
   basename: AI_Doom_and_E_87399b_ai_race_dynam_a5d049
-  title: Race Pressure | AI Doom and
+  title: Race Pressure | AI Doom and E 87399 b
   permalink: /race-pressure/
   short_title: Race Pressure
   heading_title: Why AI Races Can Make Safety Harder
@@ -288,7 +288,7 @@ image: /assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_model_release_10
 
 ## Introduction
 
-Do AI launch races weaken [safety checks]({{ 'safety-checks/' | relative_url }})? The short answer is that they can, but the evidence is mixed and the scale of the problem remains disputed. Within debates about [AI doom and]({{ 'ai-doom-and/' | relative_url }}) existential risk, one concern is that competition between leading AI labs creates pressure to release increasingly capable models before their risks are fully understood. When a rival announces a major capability jump, the commercial and strategic incentives to respond quickly can make lengthy safety evaluations look costly. Critics argue that this dynamic can compress testing timelines, reduce the scope of evaluations, and increase reliance on internal judgement calls. Supporters of rapid deployment counter that evaluation methods are improving, many tests can now be automated, and delaying releases indefinitely is neither practical nor necessarily safer. The key question is not whether competition exists, but whether important risks can still be identified and managed under competitive time pressure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ft.com/content/8253b66e-ade7-4d1f-993b-2d0779c7e7d8?syn-25a6b1a6=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ft.com">[Financial Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ft.com</span><span class="citation-popover-title">Financial Times Open AI slashes AI model safety testing time</span><span class="citation-popover-snippet">Financial TimesOpenAI slashes AI model safety testing timeApril 11, 2025 — 10 Apr 2025 — OpenAI has slashed the time and resources it spe...</span><span class="citation-popover-meta">Published: April 11, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/updates/issue-brief-preliminary-taxonomy-of-pre-deployment-frontier-ai-safety-evaluations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-snippet">Frontier Model ForumIssue Brief: Preliminary Taxonomy of Pre-Deployment...20 Dec 2024 — This issue brief offers an initial high-level ta...</span></span></span>
+Do AI launch races weaken [safety checks]({{ 'safety-checks/' | relative_url }})? The short answer is that they can, but the evidence is mixed and the scale of the problem remains disputed. Within debates about AI doom and existential risk, one concern is that competition between leading AI labs creates pressure to release increasingly capable models before their risks are fully understood. When a rival announces a major capability jump, the commercial and strategic incentives to respond quickly can make lengthy safety [evaluations]({{ 'evaluations/' | relative_url }}) look costly. Critics argue that this dynamic can compress testing timelines, reduce the scope of evaluations, and increase reliance on internal judgement calls. Supporters of rapid deployment counter that evaluation methods are improving, many tests can now be automated, and delaying releases indefinitely is neither practical nor necessarily safer. The key question is not whether competition exists, but whether important risks can still be identified and managed under competitive time pressure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ft.com/content/8253b66e-ade7-4d1f-993b-2d0779c7e7d8?syn-25a6b1a6=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ft.com">[Financial Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ft.com</span><span class="citation-popover-title">Financial Times Open AI slashes AI model safety testing time</span><span class="citation-popover-snippet">Financial TimesOpenAI slashes AI model safety testing timeApril 11, 2025 — 10 Apr 2025 — OpenAI has slashed the time and resources it spe...</span><span class="citation-popover-meta">Published: April 11, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/updates/issue-brief-preliminary-taxonomy-of-pre-deployment-frontier-ai-safety-evaluations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-snippet">Frontier Model ForumIssue Brief: Preliminary Taxonomy of Pre-Deployment...20 Dec 2024 — This issue brief offers an initial high-level ta...</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_model_release_108910-Illustration-1-dark.svg" | relative_url }}" alt="Release Races illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_model_release_108910-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_model_release_108910-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -300,17 +300,17 @@ From an existential-risk perspective, the concern is not merely commercial rival
 
 This concern has been discussed for years in AI [governance]({{ 'governance/' | relative_url }}) literature, but it gained greater prominence as frontier models began advancing in rapid succession. The debate intensified after reports that some leading developers were accelerating release schedules in response to competitive pressure from other frontier labs and new entrants. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">emerging processes for frontier ai safety</span><span class="citation-popover-snippet">27 Oct 2023 — This document contains the world&#x27;s first overview of emerging safety processes focused on frontier AI and is intended to be...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ft.com/content/8253b66e-ade7-4d1f-993b-2d0779c7e7d8?syn-25a6b1a6=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ft.com">[Financial Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ft.com</span><span class="citation-popover-title">Financial Times Open AI slashes AI model safety testing time</span><span class="citation-popover-snippet">Financial TimesOpenAI slashes AI model safety testing timeApril 11, 2025 — 10 Apr 2025 — OpenAI has slashed the time and resources it spe...</span><span class="citation-popover-meta">Published: April 11, 2025</span></span></span>
 
-For readers interested in AI doom arguments specifically, the importance of release races is that they could undermine one of the few mechanisms available for detecting dangerous capabilities before deployment. If a highly capable system exhibited signs of deception, autonomous planning, dangerous cyber capabilities, or other concerning behaviours, [evaluations]({{ 'evaluations/' | relative_url }}) would ideally identify those risks before public release. Shorter evaluation windows make that task harder.
+For readers interested in AI doom arguments specifically, the importance of release races is that they could undermine one of the few mechanisms available for detecting dangerous capabilities before deployment. If a highly capable system exhibited signs of deception, autonomous planning, dangerous cyber capabilities, or other concerning behaviours, evaluations would ideally identify those risks before public release. Shorter evaluation windows make that task harder.
 
 ## How Evaluation Timelines Can Shrink Under Competition
 
-Safety evaluations are not a single test. They usually involve multiple processes, including capability assessments, adversarial red-teaming, misuse testing, security reviews, and investigations of whether a model can bypass safeguards or exhibit unexpected behaviours. Some of these activities are labour-intensive and require specialist expertise.
+Safety evaluations are not a single test. They usually involve multiple processes, including capability assessments, adversarial red-teaming, [misuse]({{ 'misuse/' | relative_url }}) testing, security reviews, and investigations of whether a model can bypass safeguards or exhibit unexpected behaviours. Some of these activities are labour-intensive and require specialist expertise.
 
-The clearest public evidence that competition can affect evaluation timelines came from reporting in 2025 that OpenAI had significantly reduced the time available for some safety testing compared with earlier model releases. According to reporting based on interviews with people familiar with the process, testing windows that had once stretched over months were in some cases reduced to periods measured in days or weeks, with concerns reportedly raised internally about competitive pressures and accelerated release schedules. OpenAI stated that it remained confident in its testing procedures and argued that improved methods and automation allowed evaluations to be conducted more efficiently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ft.com/content/8253b66e-ade7-4d1f-993b-2d0779c7e7d8?syn-25a6b1a6=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ft.com">[Financial Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ft.com</span><span class="citation-popover-title">Financial Times Open AI slashes AI model safety testing time</span><span class="citation-popover-snippet">Financial TimesOpenAI slashes AI model safety testing timeApril 11, 2025 — 10 Apr 2025 — OpenAI has slashed the time and resources it spe...</span><span class="citation-popover-meta">Published: April 11, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://uk.investing.com/news/stock-market-news/openai-cuts-back-on-ai-model-safety-testing-ft-4026679" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk.investing.com">[Investing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk.investing.com</span><span class="citation-popover-title">openai cuts back on ai model safety testing ft 4026679</span><span class="citation-popover-snippet">UKOpenAI cuts back on AI model safety testing- FT11 Apr 2025 — The start-up&#x27;s testing processes have become less thorough with fewer reso...</span></span></span>. com UK
+The clearest public evidence that competition can affect evaluation timelines came from reporting in 2025 that OpenAI had significantly reduced the time available for some safety testing compared with earlier model releases. According to reporting based on interviews with people familiar with the process, testing windows that had once stretched over months were in some cases reduced to periods measured in days or weeks, with concerns reportedly raised internally about competitive pressures and accelerated release schedules. OpenAI stated that it remained confident in its testing procedures and argued that improved methods and automation allowed evaluations to be conducted more efficiently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ft.com/content/8253b66e-ade7-4d1f-993b-2d0779c7e7d8?syn-25a6b1a6=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ft.com">[Financial Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ft.com</span><span class="citation-popover-title">Financial Times Open AI slashes AI model safety testing time</span><span class="citation-popover-snippet">Financial TimesOpenAI slashes AI model safety testing timeApril 11, 2025 — 10 Apr 2025 — OpenAI has slashed the time and resources it spe...</span><span class="citation-popover-meta">Published: April 11, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://uk.investing.com/news/stock-market-news/openai-cuts-back-on-ai-model-safety-testing-ft-4026679" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk.investing.com">[Investing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk.investing.com</span><span class="citation-popover-title">openai cuts back on ai model safety testing ft 4026679</span><span class="citation-popover-snippet">OpenAI cuts back on AI model safety testing- FT11 Apr 2025 — The start-up&#x27;s testing processes have become less thorough with fewer reso...</span></span></span>. com UK
 
 Critics point to a simple practical problem: some failure modes only emerge after extended investigation. Safety researchers involved in earlier frontier-model testing have argued that important capabilities can take substantial time to discover because evaluators must develop new techniques rather than merely run standard benchmarks. A compressed schedule may therefore miss novel risks that are not already anticipated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.freevacy.com/news/financial-times/concerns-raised-as-openai-cuts-ai-safety-testing-time/6301" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: freevacy.com">[freevacy.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">freevacy.com</span><span class="citation-popover-snippet">Concerns raised as OpenAI cuts AI safety testing time11 Apr 2025 — OpenAI aims to release its o3 model as early as next week, leaving som...</span></span></span>
 
-There is also a timing problem around model development itself. Evaluations are sometimes conducted on pre-release versions rather than the final model that reaches users. If a model changes substantially during late-stage optimisation, safety conclusions based on earlier checkpoints may not perfectly reflect the deployed system. This issue has been raised by critics of accelerated release schedules, although the practical significance varies from case to case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/cristina-criddle-b028ab79_openai-slashes-ai-model-safety-testing-time-activity-7316312249072054272-1m41" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">LinkedInOpenAI cuts AI safety testing time amid pressureOpenAI has reduced the time and resources it devotes to safety testing amid “comp...</span></span></span>
+There is also a timing problem around model development itself. Evaluations are sometimes conducted on pre-release versions rather than the final model that reaches users. If a model changes substantially during late-stage optimisation, safety conclusions based on earlier checkpoints may not perfectly reflect the deployed system. This issue has been raised by critics of accelerated release schedules, although the practical significance varies from case to case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/cristina-criddle-b028ab79_openai-slashes-ai-model-safety-testing-time-activity-7316312249072054272-1m41" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">OpenAI cuts AI safety testing time amid pressureOpenAI has reduced the time and resources it devotes to safety testing amid “comp...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P7Y-fynYsgE" title="An AI Expert Warning: 6 People Are (Quietly) Deciding Humanity’s Future!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P7Y-fynYsgE" target="_blank" rel="noopener noreferrer">An AI Expert Warning: 6 People Are (Quietly) Deciding Humanity’s Future!</a></p><p class="youtube-embed-meta">Channel: The Diary Of A CEO &middot; Views: 3.4M &middot; Uploaded: December 2025 &middot; Length: 2 hours 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P7Y-fynYsgE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P7Y-fynYsgE">Open on YouTube</a></p></div></div></div>
@@ -321,17 +321,17 @@ Several characteristics of frontier-model testing resist simple acceleration:
 
 * Novel risks often require creating new tests rather than reusing old ones.
 * Adversarial red-teaming depends on skilled human investigators.
-* Some [dangerous]({{ 'autonomy/' | relative_url }}) capabilities only appear when evaluators discover the right prompts, tools, or environments.
-* External reviewers and independent researchers need time to replicate findings.
+* Some dangerous capabilities only appear when evaluators discover the right prompts, tools, or environments.
+* External reviewers and [independent]({{ 'red-teaming/' | relative_url }}) researchers need time to replicate findings.
 * Models continue changing during development, requiring repeated assessment.
 
-As a result, shortening evaluation periods may not merely reduce confidence by a small amount. In some cases it can change which risks are discoverable at all. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-title">early lessons from evaluating frontier ai systems</span><span class="citation-popover-snippet">AI Security InstituteEarly lessons from evaluating frontier AI systems | AISI Work24 Oct 2024 — We look into the evolving role of third-p...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/updates/issue-brief-preliminary-taxonomy-of-pre-deployment-frontier-ai-safety-evaluations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-snippet">Frontier Model ForumIssue Brief: Preliminary Taxonomy of Pre-Deployment...20 Dec 2024 — This issue brief offers an initial high-level ta...</span></span></span>
+As a result, shortening evaluation periods may not merely reduce confidence by a small amount. In some cases it can change which risks are discoverable at all. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-title">early lessons from evaluating frontier ai systems</span><span class="citation-popover-snippet">AI Security InstituteEarly lessons from evaluating frontier AI systems &#124; AISI Work24 Oct 2024 — We look into the evolving role of third-p...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/updates/issue-brief-preliminary-taxonomy-of-pre-deployment-frontier-ai-safety-evaluations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-snippet">Frontier Model ForumIssue Brief: Preliminary Taxonomy of Pre-Deployment...20 Dec 2024 — This issue brief offers an initial high-level ta...</span></span></span>
 
 ## What Evidence Do Doom-Oriented Researchers Point To?
 
-People worried about AI extinction risk generally view release races as important because they interact with uncertainty. Their argument is not that current evaluations have already missed an existential threat. Rather, they claim that increasingly powerful systems may eventually develop capabilities that are difficult to predict in advance.
+People worried about AI extinction risk generally view release races as important because they interact with [uncertainty]({{ 'uncertainty/' | relative_url }}). Their argument is not that current evaluations have already missed an existential threat. Rather, they claim that increasingly powerful systems may eventually develop capabilities that are difficult to predict in advance.
 
-In this framework, the danger comes from releasing systems before researchers understand them well enough. If future models become more autonomous, strategically aware, or capable of assisting dangerous activities, shortened evaluation windows could reduce the chance of detecting warning signs before deployment.
+In this framework, the danger comes from releasing systems before researchers understand them well enough. If future models become more autonomous, strategically aware, or capable of assisting dangerous activities, shortened evaluation windows could reduce the chance of detecting [warning signs]({{ 'warning-signs/' | relative_url }}) before deployment.
 
 Some researchers also emphasise that benchmarks frequently lag behind capabilities. New evaluations often appear only after models have already surpassed previous tests. This creates a moving-target problem: developers are trying to evaluate systems whose most important capabilities may not yet have dedicated measurement tools. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/7203729/ai-evaluations-safety/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">AI Models Are Getting Smarter</span><span class="citation-popover-snippet">New Tests Are Racing to Catch UpAI developers are constantly evaluating their systems with new and more challenging tests to determine th...</span></span></span>
 
@@ -352,7 +352,7 @@ A further criticism is that existential-risk concerns often depend on speculativ
 These [objections]({{ 'objections/' | relative_url }}) do not eliminate concerns about release races, but they highlight why the issue remains contested even among people who support stronger AI safety measures.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qe9QSCF-d88" title="The Catastrophic Risks of AI — and a Safer Path | Yoshua Bengio | TED" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qe9QSCF-d88" target="_blank" rel="noopener noreferrer">The Catastrophic Risks of AI — and a Safer Path | Yoshua Bengio | TED</a></p><p class="youtube-embed-meta">Channel: TED &middot; Views: 672.8K &middot; Uploaded: May 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qe9QSCF-d88" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qe9QSCF-d88">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/c82xuCSx_9k" title="Scientists Graded AI Companies On Safety … It Went Badly" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=c82xuCSx_9k" target="_blank" rel="noopener noreferrer">Scientists Graded AI Companies On Safety … It Went Badly</a></p><p class="youtube-embed-meta">Channel: Siliconversations &middot; Views: 285.8K &middot; Uploaded: August 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=c82xuCSx_9k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=c82xuCSx_9k">Open on YouTube</a></p></div></div></div>
 
 ## What Stronger Release Gates Would Need to Measure
 
@@ -367,9 +367,9 @@ Recent work by AI safety organisations, government institutes, and industry grou
 * Autonomous task completion and agentic behaviour.
 * AI research and development acceleration.
 * Deception, scheming, or goal-directed behaviours that could undermine oversight.
-* Effectiveness of safeguards intended to prevent misuse. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-title">early lessons from evaluating frontier ai systems</span><span class="citation-popover-snippet">AI Security InstituteEarly lessons from evaluating frontier AI systems | AISI Work24 Oct 2024 — We look into the evolving role of third-p...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/updates/issue-brief-preliminary-taxonomy-of-pre-deployment-frontier-ai-safety-evaluations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-snippet">Frontier Model ForumIssue Brief: Preliminary Taxonomy of Pre-Deployment...20 Dec 2024 — This issue brief offers an initial high-level ta...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-title">early lessons from evaluating frontier ai systems</span><span class="citation-popover-snippet">AI Security InstituteEarly lessons from evaluating frontier AI systems | AISI Work24 Oct 2024 — We look into the evolving role of third-p...</span></span></span>
+* Effectiveness of safeguards intended to prevent misuse. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-title">early lessons from evaluating frontier ai systems</span><span class="citation-popover-snippet">AI Security InstituteEarly lessons from evaluating frontier AI systems &#124; AISI Work24 Oct 2024 — We look into the evolving role of third-p...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/updates/issue-brief-preliminary-taxonomy-of-pre-deployment-frontier-ai-safety-evaluations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-snippet">Frontier Model ForumIssue Brief: Preliminary Taxonomy of Pre-Deployment...20 Dec 2024 — This issue brief offers an initial high-level ta...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-title">early lessons from evaluating frontier ai systems</span><span class="citation-popover-snippet">AI Security InstituteEarly lessons from evaluating frontier AI systems &#124; AISI Work24 Oct 2024 — We look into the evolving role of third-p...</span></span></span>
 
-Many proposals also call for greater involvement from independent evaluators. The UK and US AI Safety Institutes have already conducted pre-deployment assessments of frontier models, while newer auditing proposals argue that external reviewers should receive deeper access to evaluate whether companies' safety claims match reality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2026/05/05/us-frontier-ai-testing-white-house-pivots-safety" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">us frontier ai testing white house pivots safety</span><span class="citation-popover-snippet">ramps up frontier AI testing as White House pivots toward safetyThe U.S. government is intensifying its oversight of frontier artificial...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-title">early lessons from evaluating frontier ai systems</span><span class="citation-popover-snippet">AI Security InstituteEarly lessons from evaluating frontier AI systems | AISI Work24 Oct 2024 — We look into the evolving role of third-p...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-title">early lessons from evaluating frontier ai systems</span><span class="citation-popover-snippet">AI Security InstituteEarly lessons from evaluating frontier AI systems | AISI Work24 Oct 2024 — We look into the evolving role of third-p...</span></span></span>
+Many proposals also call for greater involvement from independent evaluators. The UK and US AI Safety Institutes have already conducted pre-deployment assessments of frontier models, while newer auditing proposals argue that external reviewers should receive deeper access to evaluate whether companies' safety claims match reality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2026/05/05/us-frontier-ai-testing-white-house-pivots-safety" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">us frontier ai testing white house pivots safety</span><span class="citation-popover-snippet">ramps up frontier AI testing as White House pivots toward safetyThe U.S. government is intensifying its oversight of frontier artificial...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-title">early lessons from evaluating frontier ai systems</span><span class="citation-popover-snippet">AI Security InstituteEarly lessons from evaluating frontier AI systems &#124; AISI Work24 Oct 2024 — We look into the evolving role of third-p...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-title">early lessons from evaluating frontier ai systems</span><span class="citation-popover-snippet">AI Security InstituteEarly lessons from evaluating frontier AI systems &#124; AISI Work24 Oct 2024 — We look into the evolving role of third-p...</span></span></span>
 
 For AI doom discussions, the most important feature of a release gate is not merely that testing occurs. It is that deployment decisions become linked to measurable risk thresholds rather than competitive timing. A gate that can be waived whenever a rival releases a stronger model may provide little protection against race dynamics.
 
@@ -379,12 +379,12 @@ For AI doom discussions, the most important feature of a release gate is not mer
 
 The key uncertainty is not whether release races exist; they clearly do. The harder question is how much those races actually degrade safety evaluations and whether the effect becomes more serious as AI systems grow more capable.
 
-Evidence from recent frontier-model releases suggests that competitive pressure can shorten testing timelines and encourage faster deployment decisions. At the same time, evaluation methods, external testing arrangements, and formal safety frameworks have become more sophisticated than they were only a few years ago. [Anthropic]({{ 'anthropic-tests/' | relative_url }}) <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ft.com/content/8253b66e-ade7-4d1f-993b-2d0779c7e7d8?syn-25a6b1a6=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ft.com">[Financial Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ft.com</span><span class="citation-popover-title">Financial Times Open AI slashes AI model safety testing time</span><span class="citation-popover-snippet">Financial TimesOpenAI slashes AI model safety testing timeApril 11, 2025 — 10 Apr 2025 — OpenAI has slashed the time and resources it spe...</span><span class="citation-popover-meta">Published: April 11, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-title">early lessons from evaluating frontier ai systems</span><span class="citation-popover-snippet">AI Security InstituteEarly lessons from evaluating frontier AI systems | AISI Work24 Oct 2024 — We look into the evolving role of third-p...</span></span></span>
+Evidence from recent frontier-model releases suggests that competitive pressure can shorten testing timelines and encourage faster deployment decisions. At the same time, evaluation methods, external testing arrangements, and formal safety frameworks have become more sophisticated than they were only a few years ago. Anthropic <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ft.com/content/8253b66e-ade7-4d1f-993b-2d0779c7e7d8?syn-25a6b1a6=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ft.com">[Financial Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ft.com</span><span class="citation-popover-title">Financial Times Open AI slashes AI model safety testing time</span><span class="citation-popover-snippet">Financial TimesOpenAI slashes AI model safety testing timeApril 11, 2025 — 10 Apr 2025 — OpenAI has slashed the time and resources it spe...</span><span class="citation-popover-meta">Published: April 11, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-title">early lessons from evaluating frontier ai systems</span><span class="citation-popover-snippet">AI Security InstituteEarly lessons from evaluating frontier AI systems &#124; AISI Work24 Oct 2024 — We look into the evolving role of third-p...</span></span></span>
 
-For people concerned about AI doom, release races matter because they may reduce society's ability to recognise dangerous capabilities before deployment. For sceptics, the stronger claim—that shortened evaluations materially increase existential risk—remains unproven. The debate therefore centres less on whether competition influences behaviour and more on whether existing evaluation systems can continue to provide reliable warning signals as frontier AI advances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-title">early lessons from evaluating frontier ai systems</span><span class="citation-popover-snippet">AI Security InstituteEarly lessons from evaluating frontier AI systems | AISI Work24 Oct 2024 — We look into the evolving role of third-p...</span></span></span>
+For people concerned about AI doom, release races matter because they may reduce society's ability to recognise dangerous capabilities before deployment. For sceptics, the stronger claim—that shortened evaluations materially increase existential risk—remains unproven. The debate therefore centres less on whether competition influences behaviour and more on whether existing evaluation systems can continue to provide reliable warning signals as frontier AI advances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-title">early lessons from evaluating frontier ai systems</span><span class="citation-popover-snippet">AI Security InstituteEarly lessons from evaluating frontier AI systems &#124; AISI Work24 Oct 2024 — We look into the evolving role of third-p...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/c82xuCSx_9k" title="Scientists Graded AI Companies On Safety … It Went Badly" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=c82xuCSx_9k" target="_blank" rel="noopener noreferrer">Scientists Graded AI Companies On Safety … It Went Badly</a></p><p class="youtube-embed-meta">Channel: Siliconversations &middot; Views: 285.8K &middot; Uploaded: August 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=c82xuCSx_9k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=c82xuCSx_9k">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/w_agSeXwxhU" title="AI pioneer explains why it poses an existential risk for humanity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=w_agSeXwxhU" target="_blank" rel="noopener noreferrer">AI pioneer explains why it poses an existential risk for humanity</a></p><p class="youtube-embed-meta">Channel: On with Kara Swisher &middot; Views: 91.3K &middot; Uploaded: November 2025 &middot; Length: 53 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=w_agSeXwxhU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=w_agSeXwxhU">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -809,138 +809,138 @@ For people concerned about AI doom, release races matter because they may reduce
 1. <a id="endnote-1"></a>
    Source: aisi.gov.uk  
    Title: early lessons from evaluating frontier ai systems  
-   Link: [https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems](https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems)  
+   Link: <a href="https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security InstituteEarly lessons from evaluating frontier AI systems | AISI Work24 Oct 2024 — We look into the evolving role of third-p...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: GOV.UK  
    Title: emerging processes for frontier ai safety  
-   Link: [https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety](https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety)  
+   Link: <a href="https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>27 Oct 2023 — This document contains the world&#x27;s first overview of emerging safety processes focused on frontier AI and is intended to be...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: uk.investing.com  
    Title: openai cuts back on ai model safety testing ft 4026679  
-   Link: [https://uk.investing.com/news/stock-market-news/openai-cuts-back-on-ai-model-safety-testing-ft-4026679](https://uk.investing.com/news/stock-market-news/openai-cuts-back-on-ai-model-safety-testing-ft-4026679)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UKOpenAI cuts back on AI model safety testing- FT11 Apr 2025 — The start-up&#x27;s testing processes have become less thorough with fewer reso...</p></details>
+   Link: <a href="https://uk.investing.com/news/stock-market-news/openai-cuts-back-on-ai-model-safety-testing-ft-4026679" target="_blank" rel="noopener noreferrer nofollow">https://uk.investing.com/news/stock-market-news/openai-cuts-back-on-ai-model-safety-testing-ft-4026679</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>OpenAI cuts back on AI model safety testing- FT11 Apr 2025 — The start-up&#x27;s testing processes have become less thorough with fewer reso...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/cristina-criddle-b028ab79_openai-slashes-ai-model-safety-testing-time-activity-7316312249072054272-1m41](https://www.linkedin.com/posts/cristina-criddle-b028ab79_openai-slashes-ai-model-safety-testing-time-activity-7316312249072054272-1m41)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LinkedInOpenAI cuts AI safety testing time amid pressureOpenAI has reduced the time and resources it devotes to safety testing amid “comp...</p></details>
+   Link: <a href="https://www.linkedin.com/posts/cristina-criddle-b028ab79_openai-slashes-ai-model-safety-testing-time-activity-7316312249072054272-1m41" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/cristina-criddle-b028ab79_openai-slashes-ai-model-safety-testing-time-activity-7316312249072054272-1m41</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>OpenAI cuts AI safety testing time amid pressureOpenAI has reduced the time and resources it devotes to safety testing amid “comp...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: freevacy.com  
-   Link: [https://www.freevacy.com/news/financial-times/concerns-raised-as-openai-cuts-ai-safety-testing-time/6301](https://www.freevacy.com/news/financial-times/concerns-raised-as-openai-cuts-ai-safety-testing-time/6301)  
+   Link: <a href="https://www.freevacy.com/news/financial-times/concerns-raised-as-openai-cuts-ai-safety-testing-time/6301" target="_blank" rel="noopener noreferrer nofollow">https://www.freevacy.com/news/financial-times/concerns-raised-as-openai-cuts-ai-safety-testing-time/6301</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Concerns raised as OpenAI cuts AI safety testing time11 Apr 2025 — OpenAI aims to release its o3 model as early as next week, leaving som...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: time.com  
    Title: AI Models Are Getting Smarter  
-   Link: [https://time.com/7203729/ai-evaluations-safety/](https://time.com/7203729/ai-evaluations-safety/)  
+   Link: <a href="https://time.com/7203729/ai-evaluations-safety/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/7203729/ai-evaluations-safety/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Tests Are Racing to Catch UpAI developers are constantly evaluating their systems with new and more challenging tests to determine th...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: aisi.gov.uk  
-   Link: [https://www.aisi.gov.uk/frontier-ai-trends-report](https://www.aisi.gov.uk/frontier-ai-trends-report)  
+   Link: <a href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/frontier-ai-trends-report</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)The UK AI Security Institute (AISI) has conducted evalu...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: anthropic.com  
    Title: s responsible scaling policy  
-   Link: [https://www.anthropic.com/news/anthropics-responsible-scaling-policy](https://www.anthropic.com/news/anthropics-responsible-scaling-policy)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AnthropicAnthropic&#x27;s Responsible Scaling Policy19 Sept 2023 — Our RSP defines a framework called AI Safety Levels (ASL) for addressing ca...</p></details>
+   Link: <a href="https://www.anthropic.com/news/anthropics-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/news/anthropics-responsible-scaling-policy</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic&#x27;s Responsible Scaling Policy19 Sept 2023 — Our RSP defines a framework called AI Safety Levels (ASL) for addressing ca...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: anthropic.com  
-   Link: [https://www.anthropic.com/responsible-scaling-policy](https://www.anthropic.com/responsible-scaling-policy)  
+   Link: <a href="https://www.anthropic.com/responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/responsible-scaling-policy</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic&#x27;s Responsible Scaling PolicyOur teams are currently developing and building ASL-3 Deployment Safeguards to mitigate catastrophi...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: anthropic.com  
    Title: responsible scaling policy v3  
-   Link: [https://www.anthropic.com/news/responsible-scaling-policy-v3](https://www.anthropic.com/news/responsible-scaling-policy-v3)  
+   Link: <a href="https://www.anthropic.com/news/responsible-scaling-policy-v3" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/news/responsible-scaling-policy-v3</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Responsible Scaling Policy Version 3.024 Feb 2026 — We&#x27;re releasing the third version of our Responsible Scaling Policy (RSP), the volunt...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: techradar.com  
    Title: anthropic drops its signature safety promise and rewrites ai guardrails  
-   Link: [https://www.techradar.com/ai-platforms-assistants/anthropic-drops-its-signature-safety-promise-and-rewrites-ai-guardrails](https://www.techradar.com/ai-platforms-assistants/anthropic-drops-its-signature-safety-promise-and-rewrites-ai-guardrails)  
+   Link: <a href="https://www.techradar.com/ai-platforms-assistants/anthropic-drops-its-signature-safety-promise-and-rewrites-ai-guardrails" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/ai-platforms-assistants/anthropic-drops-its-signature-safety-promise-and-rewrites-ai-guardrails</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This marked a significant policy shift from its original 2023 pledge that emphasized strong preconditions for AI development in order to...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: aisi.gov.uk  
-   Title: [Artificial](&#123;&#123; 'artificial-goals/' | relative_url &#125;&#125;) Intelligence Safety Institute conducted a joint pre-deployment  
-   Link: [https://www.aisi.gov.uk/blog/pre-deployment-evaluation-of-openais-o1-model](https://www.aisi.gov.uk/blog/pre-deployment-evaluation-of-openais-o1-model)  
+   Title: Artificial Intelligence Safety Institute conducted a joint pre-deployment  
+   Link: <a href="https://www.aisi.gov.uk/blog/pre-deployment-evaluation-of-openais-o1-model" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/blog/pre-deployment-evaluation-of-openais-o1-model</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security InstitutePre-Deployment evaluation of OpenAI&#x27;s o1 model | AISI WorkDec 18, 2024 — The UK Artificial Intelligence Safety Insti...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: axios.com  
    Title: us frontier ai testing white house pivots safety  
-   Link: [https://www.axios.com/2026/05/05/us-frontier-ai-testing-white-house-pivots-safety](https://www.axios.com/2026/05/05/us-frontier-ai-testing-white-house-pivots-safety)  
+   Link: <a href="https://www.axios.com/2026/05/05/us-frontier-ai-testing-white-house-pivots-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2026/05/05/us-frontier-ai-testing-white-house-pivots-safety</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ramps up frontier AI testing as White House pivots toward safetyThe U.S. government is intensifying its oversight of frontier artificial...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: www-cdn.anthropic.com  
-   Link: [https://www-cdn.anthropic.com/files/4zrzovbb/website/bf04581e4f329735fd90634f6a1962c13c0bd351.pdf](https://www-cdn.anthropic.com/files/4zrzovbb/website/bf04581e4f329735fd90634f6a1962c13c0bd351.pdf)  
+   Link: <a href="https://www-cdn.anthropic.com/files/4zrzovbb/website/bf04581e4f329735fd90634f6a1962c13c0bd351.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-cdn.anthropic.com/files/4zrzovbb/website/bf04581e4f329735fd90634f6a1962c13c0bd351.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>anthropic.comAnthropic&#x27;s Responsible Scaling Policy (version 3.1)2 Apr 2026 — Our Responsible Scaling Policy (RSP) is our voluntary frame...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: anthropic.com  
-   Link: [https://anthropic.com/responsible-scaling-policy/roadmap](https://anthropic.com/responsible-scaling-policy/roadmap)  
+   Link: <a href="https://anthropic.com/responsible-scaling-policy/roadmap" target="_blank" rel="noopener noreferrer nofollow">https://anthropic.com/responsible-scaling-policy/roadmap</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic&#x27;s Frontier Safety RoadmapOur Frontier Safety Roadmap aims to chart a course in public for some of our highest-priority goals. O...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: www-cdn.anthropic.com  
-   Link: [https://www-cdn.anthropic.com/17310f6d70ae5627f55313ed067afc1a762a4068.pdf](https://www-cdn.anthropic.com/17310f6d70ae5627f55313ed067afc1a762a4068.pdf)  
+   Link: <a href="https://www-cdn.anthropic.com/17310f6d70ae5627f55313ed067afc1a762a4068.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-cdn.anthropic.com/17310f6d70ae5627f55313ed067afc1a762a4068.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>anthropic.comAnthropic&#x27;s Responsible Scaling Policy (version 2.1)31 Mar 2025 — AI Safety Level Standards (ASL Standards) are a set of tec...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: aisi.gov.uk  
-   Link: [https://www.aisi.gov.uk/blog/evaluating-whether-ai-models-would-sabotage-ai-safety-research](https://www.aisi.gov.uk/blog/evaluating-whether-ai-models-would-sabotage-ai-safety-research)  
+   Link: <a href="https://www.aisi.gov.uk/blog/evaluating-whether-ai-models-would-sabotage-ai-safety-research" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/blog/evaluating-whether-ai-models-would-sabotage-ai-safety-research</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>alignment testing methodology for recent frontier models. —.Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: aisi.gov.uk  
-   Link: [https://www.aisi.gov.uk/blog](https://www.aisi.gov.uk/blog)  
+   Link: <a href="https://www.aisi.gov.uk/blog" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/blog</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AISI Blog | The AI Security InstituteAn update on our alignment testing methodology for recent frontier models.... Safety Institute cond...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: governance.ai  
    Title: ‍.Read more  
-   Link: [https://www.governance.ai/analysis/anthropics-rsp-v3-0-how-it-works-whats-changed-and-some-reflections](https://www.governance.ai/analysis/anthropics-rsp-v3-0-how-it-works-whats-changed-and-some-reflections)  
+   Link: <a href="https://www.governance.ai/analysis/anthropics-rsp-v3-0-how-it-works-whats-changed-and-some-reflections" target="_blank" rel="noopener noreferrer nofollow">https://www.governance.ai/analysis/anthropics-rsp-v3-0-how-it-works-whats-changed-and-some-reflections</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic&#x27;s RSP v3.0: How it Works, What&#x27;s Changed, and...17 Mar 2026 — Anthropic&#x27;s Responsible Scaling Policy (RSP) – its framework for...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/ai-policy-bulletin_how-much-can-policymakers-rely-on-pre-deployment-activity-7454573188962922496-heg3](https://www.linkedin.com/posts/ai-policy-bulletin_how-much-can-policymakers-rely-on-pre-deployment-activity-7454573188962922496-heg3)  
+   Link: <a href="https://www.linkedin.com/posts/ai-policy-bulletin_how-much-can-policymakers-rely-on-pre-deployment-activity-7454573188962922496-heg3" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/ai-policy-bulletin_how-much-can-policymakers-rely-on-pre-deployment-activity-7454573188962922496-heg3</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UK AI Safety Research Finds Models Can Detect...How much can policymakers rely on pre-deployment safety testing of advanced AI models? T...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/miclchen_anthropics-responsible-scaling-policy-version-activity-7432196983748206592-ItDB](https://www.linkedin.com/posts/miclchen_anthropics-responsible-scaling-policy-version-activity-7432196983748206592-ItDB)  
+   Link: <a href="https://www.linkedin.com/posts/miclchen_anthropics-responsible-scaling-policy-version-activity-7432196983748206592-ItDB" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/miclchen_anthropics-responsible-scaling-policy-version-activity-7432196983748206592-ItDB</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>No more implication of unilateral commitment to pause AI...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/ai-weekly-roundup-frontier-models-breakthroughs-policy-dhanushkumar-r-5q3ic](https://www.linkedin.com/pulse/ai-weekly-roundup-frontier-models-breakthroughs-policy-dhanushkumar-r-5q3ic)  
+   Link: <a href="https://www.linkedin.com/pulse/ai-weekly-roundup-frontier-models-breakthroughs-policy-dhanushkumar-r-5q3ic" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/ai-weekly-roundup-frontier-models-breakthroughs-policy-dhanushkumar-r-5q3ic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Models, Breakthroughs, and Policy Shifts (Dec 1-9...Democratizes high-performance AI by integrating with consumer tools, expand...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: ft.com  
    Title: Financial Times Open AI slashes AI model safety testing time  
-   Link: [https://www.ft.com/content/8253b66e-ade7-4d1f-993b-2d0779c7e7d8?syn-25a6b1a6=1](https://www.ft.com/content/8253b66e-ade7-4d1f-993b-2d0779c7e7d8?syn-25a6b1a6=1)  
+   Link: <a href="https://www.ft.com/content/8253b66e-ade7-4d1f-993b-2d0779c7e7d8?syn-25a6b1a6=1" target="_blank" rel="noopener noreferrer nofollow">https://www.ft.com/content/8253b66e-ade7-4d1f-993b-2d0779c7e7d8?syn-25a6b1a6=1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Financial TimesOpenAI slashes AI model safety testing timeApril 11, 2025 — 10 Apr 2025 — OpenAI has slashed the time and resources it spe...</p></details>
    Published: April 11, 2025  
 
 24. <a id="endnote-24"></a>
    Source: frontiermodelforum.org  
-   Link: [https://www.frontiermodelforum.org/updates/issue-brief-preliminary-taxonomy-of-pre-deployment-frontier-ai-safety-evaluations/](https://www.frontiermodelforum.org/updates/issue-brief-preliminary-taxonomy-of-pre-deployment-frontier-ai-safety-evaluations/)  
+   Link: <a href="https://www.frontiermodelforum.org/updates/issue-brief-preliminary-taxonomy-of-pre-deployment-frontier-ai-safety-evaluations/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/updates/issue-brief-preliminary-taxonomy-of-pre-deployment-frontier-ai-safety-evaluations/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Model ForumIssue Brief: Preliminary Taxonomy of Pre-Deployment...20 Dec 2024 — This issue brief offers an initial high-level ta...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: s-rsa.com  
-   Link: [https://s-rsa.com/index.php/agi/article/view/13657](https://s-rsa.com/index.php/agi/article/view/13657)  
+   Link: <a href="https://s-rsa.com/index.php/agi/article/view/13657" target="_blank" rel="noopener noreferrer nofollow">https://s-rsa.com/index.php/agi/article/view/13657</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic: Responsible Scaling Policyby E Hubinger · 2025 · Cited by 8 — In September 2023, we released our Responsible Scaling Policy (R...</p></details>
    Published: September 2023  
 
@@ -948,58 +948,58 @@ For people concerned about AI doom, release races matter because they may reduce
 
 26. <a id="endnote-26"></a>
    Source: verifywise.ai  
-   Link: [https://verifywise.ai/ai-governance-library/policies-and-internal-governance/anthropic-responsible-scaling-policy](https://verifywise.ai/ai-governance-library/policies-and-internal-governance/anthropic-responsible-scaling-policy)  
+   Link: <a href="https://verifywise.ai/ai-governance-library/policies-and-internal-governance/anthropic-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow">https://verifywise.ai/ai-governance-library/policies-and-internal-governance/anthropic-responsible-scaling-policy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic Responsible Scaling PolicyAnthropic&#x27;s Responsible Scaling Policy defines AI Safety Levels (ASL) based on model capabilities and...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: x.com  
-   Link: [https://x.com/FT/status/1910545751119135199](https://x.com/FT/status/1910545751119135199)  
+   Link: <a href="https://x.com/FT/status/1910545751119135199" target="_blank" rel="noopener noreferrer nofollow">https://x.com/FT/status/1910545751119135199</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OpenAI slashes AI model safety testing timeFinancial Times. ✓. FT. Apr 10. OpenAI slashes AI model safety testing time. OpenAI slashes AI...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: atlas.latticeflow.ai  
-   Link: [https://atlas.latticeflow.ai/framework/anthropic-rsp/](https://atlas.latticeflow.ai/framework/anthropic-rsp/)  
+   Link: <a href="https://atlas.latticeflow.ai/framework/anthropic-rsp/" target="_blank" rel="noopener noreferrer nofollow">https://atlas.latticeflow.ai/framework/anthropic-rsp/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>/ Responsible Scaling PolicyAnthropic / Responsible Scaling Policy. Defines AI Safety Levels (ASL-1 to ASL-4+) with capability thresholds...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: cybersecuritydive.com  
-   Link: [https://www.cybersecuritydive.com/news/nist-ai-model-testing-caisi-google-microsoft/819452/](https://www.cybersecuritydive.com/news/nist-ai-model-testing-caisi-google-microsoft/819452/)  
+   Link: <a href="https://www.cybersecuritydive.com/news/nist-ai-model-testing-caisi-google-microsoft/819452/" target="_blank" rel="noopener noreferrer nofollow">https://www.cybersecuritydive.com/news/nist-ai-model-testing-caisi-google-microsoft/819452/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>government&#x27;s AI security center will evaluate frontier models from Google, Microsoft and xAI before their release to determine...Read more...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: gov.ca.gov  
    Title: June 17 2025 – The California Report on Frontier AI Policy  
-   Link: [https://www.gov.ca.gov/wp-content/uploads/2025/06/June-17-2025-%E2%80%93-The-California-Report-on-Frontier-AI-Policy.pdf](https://www.gov.ca.gov/wp-content/uploads/2025/06/June-17-2025-%E2%80%93-The-California-Report-on-Frontier-AI-Policy.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CALIFORNIA REPORT ON FRONTIER AI POLICY17 Jun 2025 — Whistleblower protections, third-party evaluations, and public-facing information sh...</p></details>
+   Link: <a href="https://www.gov.ca.gov/wp-content/uploads/2025/06/June-17-2025-%E2%80%93-The-California-Report-on-Frontier-AI-Policy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.ca.gov/wp-content/uploads/2025/06/June-17-2025-%E2%80%93-The-California-Report-on-Frontier-AI-Policy.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>LIFORNIA REPORT ON FRONTIER AI POLICY17 Jun 2025 — Whistleblower protections, third-party evaluations, and public-facing information sh...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: medium.com  
    Title: the ai safety crisis hiding behind trillion dollar valuations 358e7fd0718e  
-   Link: [https://medium.com/%40nomannayeem/the-ai-safety-crisis-hiding-behind-trillion-dollar-valuations-358e7fd0718e](https://medium.com/%40nomannayeem/the-ai-safety-crisis-hiding-behind-trillion-dollar-valuations-358e7fd0718e)  
+   Link: <a href="https://medium.com/%40nomannayeem/the-ai-safety-crisis-hiding-behind-trillion-dollar-valuations-358e7fd0718e" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40nomannayeem/the-ai-safety-crisis-hiding-behind-trillion-dollar-valuations-358e7fd0718e</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The AI safety crisis hiding behind trillion-dollar valuationsThe evidence is stark: OpenAI&#x27;s safety leader Jan Leike left in 2024, public...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: semafor.com  
    Title: openai slashes time given to safety testing as it races to innovate  
-   Link: [https://www.semafor.com/article/04/11/2025/openai-slashes-time-given-to-safety-testing-as-it-races-to-innovate](https://www.semafor.com/article/04/11/2025/openai-slashes-time-given-to-safety-testing-as-it-races-to-innovate)  
+   Link: <a href="https://www.semafor.com/article/04/11/2025/openai-slashes-time-given-to-safety-testing-as-it-races-to-innovate" target="_blank" rel="noopener noreferrer nofollow">https://www.semafor.com/article/04/11/2025/openai-slashes-time-given-to-safety-testing-as-it-races-to-innovate</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OpenAI slashes time given to safety testing as it races...11 Apr 2025 — The amount of time allocated to testing its artificial intellige...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: digital.nemko.com  
    Title: anthropic ai safety strategy what enterprises must know  
-   Link: [https://digital.nemko.com/news/anthropic-ai-safety-strategy-what-enterprises-must-know](https://digital.nemko.com/news/anthropic-ai-safety-strategy-what-enterprises-must-know)  
+   Link: <a href="https://digital.nemko.com/news/anthropic-ai-safety-strategy-what-enterprises-must-know" target="_blank" rel="noopener noreferrer nofollow">https://digital.nemko.com/news/anthropic-ai-safety-strategy-what-enterprises-must-know</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>details Responsible Scaling Policy for frontier AI25 Aug 2025 — Explore Anthropic AI safety strategy and how 2025&#x27;s Responsible Scaling P...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: lesswrong.com  
    Title: anthropic reflections on our responsible scaling policy  
-   Link: [https://www.lesswrong.com/posts/vAopGQhFPdjcA8CEh/anthropic-reflections-on-our-responsible-scaling-policy](https://www.lesswrong.com/posts/vAopGQhFPdjcA8CEh/anthropic-reflections-on-our-responsible-scaling-policy)  
+   Link: <a href="https://www.lesswrong.com/posts/vAopGQhFPdjcA8CEh/anthropic-reflections-on-our-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/posts/vAopGQhFPdjcA8CEh/anthropic-reflections-on-our-responsible-scaling-policy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic: Reflections on our Responsible Scaling Policy19 May 2024 — Currently, we conduct pre-deployment testing in the domains of cybe...</p></details>
    Published: May 2024  
 
 35. <a id="endnote-35"></a>
    Source: researchgate.net  
    Title: 390042099 Anthropic Responsible Scaling Policy  
-   Link: [https://www.researchgate.net/publication/390042099_Anthropic_Responsible_Scaling_Policy](https://www.researchgate.net/publication/390042099_Anthropic_Responsible_Scaling_Policy)  
+   Link: <a href="https://www.researchgate.net/publication/390042099_Anthropic_Responsible_Scaling_Policy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390042099_Anthropic_Responsible_Scaling_Policy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Anthropic: Responsible Scaling PolicyIn September 2023, we released our Responsible Scaling Policy (RSP), a public commitment not t...</p></details>
    Published: September 2023  

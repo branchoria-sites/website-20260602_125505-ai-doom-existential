@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-recursive-imp/
 description: Focused pages that expand on Weak evidence.
-date: '2026-06-02'
+date: '2026-06-10'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556
 parent_title: Weak evidence | AI Takeoff
@@ -18,6 +18,6 @@ parent_permalink: /weak-evidence/
 
 The following pages expand on the main **[Weak evidence]({{ '/weak-evidence/' | relative_url }})** page and cover its key branches in more detail.
 
-- [AlphaZero Limits]({{ '/alphazero-limits/' | relative_url }})
-- [AutoML Boundaries]({{ '/automl-boundaries/' | relative_url }})
+- [Alpha Zero Limits]({{ '/alpha-zero-limits/' | relative_url }})
+- [Auto ML Boundaries]({{ '/auto-ml-boundaries/' | relative_url }})
 - [Recursion Evidence]({{ '/recursion-evidence/' | relative_url }})

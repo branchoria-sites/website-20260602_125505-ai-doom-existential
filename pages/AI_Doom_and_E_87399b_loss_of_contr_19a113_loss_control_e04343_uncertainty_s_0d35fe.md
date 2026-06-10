@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343_current_model_21cdbd
 - AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343_power_seeking_305b9c
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - loss-of-control
 - objections
 - uncertainty
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - loss-of-control
 - objections
 - uncertainty
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Small doubts at each step of a takeover story can compound into much lower estimates of extinction risk.
 hero_summary: Small doubts at each step of a takeover story can compound into much lower estimates of extinction risk.
 layout: default
 permalink: /uncertainty/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /loss-of-control/
 - /objections/
 nav_short_title: Uncertainty
@@ -211,10 +211,10 @@ parent_heading_title: How strong is the case against AI doom?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_loss_of_contr_19a113
-  title: Loss of Control | AI Doom and
+  title: Loss of Control | AI Doom and E 87399 b
   permalink: /loss-of-control/
   short_title: Loss of Control
   heading_title: How Could Humans Lose Control of AI?
@@ -226,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_loss_of_contr_19a113
-  title: Loss of Control | AI Doom and
+  title: Loss of Control | AI Doom and E 87399 b
   permalink: /loss-of-control/
   short_title: Loss of Control
   heading_title: How Could Humans Lose Control of AI?
@@ -273,7 +273,7 @@ One reason p(doom) estimates differ so dramatically is that people often disagre
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343_uncertainty_s_0d35fe-Illustration-1-dark.svg" | relative_url }}" alt="Uncertainty illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343_uncertainty_s_0d35fe-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343_uncertainty_s_0d35fe-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-In debates about AI [loss of control]({{ 'loss-of-control/' | relative_url }}), doom-focused researchers frequently describe a sequence of events: highly capable AI is developed, alignment fails, the system becomes strategically [dangerous]({{ 'autonomy/' | relative_url }}), humans lose control, and that loss of control leads to irreversible catastrophe. Critics often accept that each step is possible while arguing that uncertainty accumulates at every stage. When many uncertain claims are linked together, the resulting probability can become much smaller than any individual step initially appears. This process is often called uncertainty stacking. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.13353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Is Power-Seeking AI an Existential Risk?</span><span class="citation-popover-snippet">arXivIs Power-Seeking AI an Existential Risk?June 16, 2022...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
+In debates about AI [loss of control]({{ 'loss-of-control/' | relative_url }}), doom-focused researchers frequently describe a sequence of events: highly capable AI is developed, alignment fails, the system becomes strategically dangerous, humans lose control, and that loss of control leads to irreversible catastrophe. Critics often accept that each step is possible while arguing that uncertainty accumulates at every stage. When many uncertain claims are linked together, the resulting probability can become much smaller than any individual step initially appears. This process is often called uncertainty stacking. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.13353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Is Power-Seeking AI an Existential Risk?</span><span class="citation-popover-snippet">Is Power-Seeking AI an Existential Risk?June 16, 2022...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
 
 ## The chain of assumptions in takeover scenarios
 
@@ -294,7 +294,7 @@ A simplified takeover pathway might look like this:
 
 </div>
 
-Researchers who are concerned about existential risk often view several of these steps as plausible enough that the combined risk remains substantial. Critics focus on the fact that each step introduces another layer of uncertainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.13353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Is Power-Seeking AI an Existential Risk?</span><span class="citation-popover-snippet">arXivIs Power-Seeking AI an Existential Risk?June 16, 2022...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
+Researchers who are concerned about existential risk often view several of these steps as plausible enough that the combined risk remains substantial. Critics focus on the fact that each step introduces another layer of uncertainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.13353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Is Power-Seeking AI an Existential Risk?</span><span class="citation-popover-snippet">Is Power-Seeking AI an Existential Risk?June 16, 2022...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
 
 This matters because the probability of a whole chain occurring depends on the probability of every major link. Even if no single step seems especially unlikely, the combined probability can fall quickly once multiple uncertain assumptions are multiplied together.
 
@@ -315,17 +315,17 @@ Suppose someone assigns:
 
 Multiplying those probabilities yields roughly 2.1%, not 70%.
 
-The numbers themselves are arbitrary, but the example illustrates why sceptics often ask doom advocates to specify the individual assumptions hidden inside a headline p(doom) estimate. A disagreement that appears to be about one number may actually be a disagreement about several different links in the chain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.13353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Is Power-Seeking AI an Existential Risk?</span><span class="citation-popover-snippet">arXivIs Power-Seeking AI an Existential Risk?June 16, 2022...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
+The numbers themselves are arbitrary, but the example illustrates why sceptics often ask doom advocates to specify the individual assumptions hidden inside a headline p(doom) estimate. A disagreement that appears to be about one number may actually be a disagreement about several different links in the chain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.13353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Is Power-Seeking AI an Existential Risk?</span><span class="citation-popover-snippet">Is Power-Seeking AI an Existential Risk?June 16, 2022...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
 
 ## Why multiplying uncertainty matters
 
 The strongest versions of AI doom arguments often rely on events that have never yet been observed directly.
 
-There is evidence for some precursor phenomena. Researchers have documented specification gaming, reward hacking, goal misgeneralisation and other cases where AI systems pursue unintended strategies. However, there is currently no public example of an AI system carrying out the kind of large-scale autonomous power-seeking envisioned in classic takeover scenarios. Reviews of the evidence therefore tend to conclude that the risk is concerning but not decisively established. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.13353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Is Power-Seeking AI an Existential Risk?</span><span class="citation-popover-snippet">arXivIs Power-Seeking AI an Existential Risk?June 16, 2022...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
+There is evidence for some precursor phenomena. Researchers have documented specification gaming, reward hacking, goal misgeneralisation and other cases where AI systems pursue unintended strategies. However, there is currently no public example of an AI system carrying out the kind of large-scale autonomous power-seeking envisioned in classic takeover scenarios. Reviews of the evidence therefore tend to conclude that the risk is concerning but not decisively established. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.13353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Is Power-Seeking AI an Existential Risk?</span><span class="citation-popover-snippet">Is Power-Seeking AI an Existential Risk?June 16, 2022...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
 
-For sceptics, this creates an important distinction. Evidence that a system exploits a training loophole is not the same as evidence that a future system will conceal long-term goals, strategically deceive operators, seize critical infrastructure and permanently disempower humanity. Each transition requires additional inference. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.13353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Is Power-Seeking AI an Existential Risk?</span><span class="citation-popover-snippet">arXivIs Power-Seeking AI an Existential Risk?June 16, 2022...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
+For sceptics, this creates an important distinction. Evidence that a system exploits a training loophole is not the same as evidence that a future system will conceal long-term goals, strategically deceive operators, seize critical infrastructure and permanently disempower humanity. Each transition requires additional inference. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.13353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Is Power-Seeking AI an Existential Risk?</span><span class="citation-popover-snippet">Is Power-Seeking AI an Existential Risk?June 16, 2022...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
 
-This is where uncertainty stacking becomes central. If confidence falls slightly at every inferential step, overall p(doom) estimates can shrink dramatically. Critics argue that some discussions implicitly treat a long sequence of speculative assumptions as though it were a single prediction. When the assumptions are unpacked, the final probability often looks much smaller. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.13353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Is Power-Seeking AI an Existential Risk?</span><span class="citation-popover-snippet">arXivIs Power-Seeking AI an Existential Risk?June 16, 2022...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
+This is where uncertainty stacking becomes central. If confidence falls slightly at every inferential step, overall p(doom) estimates can shrink dramatically. Critics argue that some discussions implicitly treat a long sequence of speculative assumptions as though it were a single prediction. When the assumptions are unpacked, the final probability often looks much smaller. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.13353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Is Power-Seeking AI an Existential Risk?</span><span class="citation-popover-snippet">Is Power-Seeking AI an Existential Risk?June 16, 2022...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
 
 ## How sceptics and doomers read the same gaps
 
@@ -345,7 +345,7 @@ From this perspective, uncertainty does not necessarily imply safety. Instead, u
 
 Critics usually agree that future AI could become extremely capable. Their objection is that uncertainty cuts both ways.
 
-If there is little direct evidence for strategic [deception]({{ 'deception-and-loss/' | relative_url }}), [recursive]({{ 'ai-takeoff/' | relative_url }}) self-improvement, durable power-seeking or irreversible takeover, then confidence in those outcomes should remain limited. Many sceptics argue that doom narratives often combine several speculative claims and then discuss the resulting scenario as though it were a single forecast. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.13353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Is Power-Seeking AI an Existential Risk?</span><span class="citation-popover-snippet">arXivIs Power-Seeking AI an Existential Risk?June 16, 2022...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
+If there is little direct evidence for strategic deception, recursive self-improvement, durable power-seeking or irreversible takeover, then confidence in those outcomes should remain limited. Many sceptics argue that doom narratives often combine several speculative claims and then discuss the resulting scenario as though it were a single forecast. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.13353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Is Power-Seeking AI an Existential Risk?</span><span class="citation-popover-snippet">Is Power-Seeking AI an Existential Risk?June 16, 2022...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
 
 Under this view, uncertainty stacking is not a minor technical adjustment. It is one of the strongest reasons to resist very high p(doom) estimates.
 
@@ -358,20 +358,15 @@ The uncertainty-stacking problem helps explain why expert estimates vary by orde
 
 Two researchers might agree on most facts yet differ sharply on a few key conditional questions:
 
-
-<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
-
 * How likely is transformative AI this century?
 * How difficult is alignment?
 * How common is power-seeking behaviour?
-* How effective will monitoring and control methods become?
+* How effective will [monitoring]({{ 'monitoring/' | relative_url }}) and control methods become?
 * How capable will governments and organisations be at intervention?
 
-</div>
+Small differences at each stage can produce enormous differences in final estimates. Someone assigning relatively optimistic probabilities to five uncertain links may arrive at a p(doom) below 1%. Someone assigning moderately pessimistic probabilities to the same links may reach 20%, 30% or higher. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.13353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Is Power-Seeking AI an Existential Risk?</span><span class="citation-popover-snippet">Is Power-Seeking AI an Existential Risk?June 16, 2022...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
 
-Small differences at each stage can produce enormous differences in final estimates. Someone assigning relatively optimistic probabilities to five uncertain links may arrive at a p(doom) below 1%. Someone assigning moderately pessimistic probabilities to the same links may reach 20%, 30% or higher. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.13353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Is Power-Seeking AI an Existential Risk?</span><span class="citation-popover-snippet">arXivIs Power-Seeking AI an Existential Risk?June 16, 2022...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
-
-This helps explain why p(doom) figures often appear unstable or highly subjective. Researchers are not usually disagreeing about a single observable fact. They are disagreeing about a nested structure of forecasts, assumptions and unknowns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cset.georgetown.edu/publication/beyond-pdoom-for-ai-risk-quantifying-uncertainty-without-probability/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cset.georgetown.edu">[CSET]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cset.georgetown.edu</span><span class="citation-popover-snippet">CSETBeyond P(doom) for AI Risk: Quantifying Uncertainty...This issue brief explains why analysts and decision-makers need alternatives t...</span></span></span>
+This helps explain why p(doom) figures often appear unstable or highly subjective. Researchers are not usually disagreeing about a single observable fact. They are disagreeing about a nested structure of forecasts, assumptions and unknowns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cset.georgetown.edu/publication/beyond-pdoom-for-ai-risk-quantifying-uncertainty-without-probability/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cset.georgetown.edu">[CSET]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cset.georgetown.edu</span><span class="citation-popover-snippet">Beyond P(doom) for AI Risk: Quantifying Uncertainty...This issue brief explains why analysts and decision-makers need alternatives t...</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343_uncertainty_s_0d35fe-Illustration-3-dark.svg" | relative_url }}" alt="Uncertainty illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343_uncertainty_s_0d35fe-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343_uncertainty_s_0d35fe-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -379,7 +374,7 @@ This helps explain why p(doom) figures often appear unstable or highly subjectiv
 
 A further complication is that some analysts question whether a single probability is even the right tool.
 
-The future of advanced AI may involve what economists and decision theorists call deep or Knightian uncertainty: situations where there is no reliable historical data from which to derive probabilities. Several researchers have argued that expressing beliefs solely through a single p(doom) number can create a [misleading]({{ 'misleading-xai/' | relative_url }}) impression of precision. Alternative approaches focus on ranges of possibilities, conditional scenarios, or measures of confidence rather than point estimates alone. CSET <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lesswrong.com/posts/tG9BLyBEiLeRJZvX6/communicating-effectively-under-knightian-norms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lesswrong.com">[2lesswrong.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lesswrong.com</span><span class="citation-popover-title">communicating effectively under knightian norms</span><span class="citation-popover-snippet">3 Apr 2023 — When Scott Alexander says &quot;33% risk of AI doom&quot; or Eliezer puts it at 90%, they are making estimates, and that is clearly a...</span></span></span>
+The future of advanced AI may involve what economists and decision theorists call deep or Knightian uncertainty: situations where there is no reliable historical data from which to derive probabilities. Several researchers have argued that expressing beliefs solely through a single p(doom) number can create a misleading impression of precision. Alternative approaches focus on ranges of possibilities, conditional scenarios, or measures of confidence rather than point estimates alone. CSET <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lesswrong.com/posts/tG9BLyBEiLeRJZvX6/communicating-effectively-under-knightian-norms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lesswrong.com">[2lesswrong.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lesswrong.com</span><span class="citation-popover-title">communicating effectively under knightian norms</span><span class="citation-popover-snippet">3 Apr 2023 — When Scott Alexander says &quot;33% risk of AI doom&quot; or Eliezer puts it at 90%, they are making estimates, and that is clearly a...</span></span></span>
 
 This criticism does not necessarily imply that existential risk is low. Instead, it argues that uncertainty itself is part of the story. A claim that there is a 30% chance of doom may sound precise, but the uncertainty surrounding that estimate may be almost as important as the estimate itself.
 
@@ -389,7 +384,7 @@ Uncertainty stacking does not prove that AI doom is unlikely. Nor does it prove 
 
 What it does show is why debates about AI existential risk often become debates about intermediate assumptions rather than final outcomes. A takeover scenario may sound plausible when described as a narrative. But when broken into individual claims, each link must earn its own credibility.
 
-For sceptics, this is one of the strongest objections to loss-of-control fears: many takeover stories require a long sequence of uncertain events, and multiplying those uncertainties can drive overall risk estimates down sharply. For doom advocates, the reply is that several links may be more likely than critics assume, and that even a relatively small probability of irreversible catastrophe deserves serious attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.13353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Is Power-Seeking AI an Existential Risk?</span><span class="citation-popover-snippet">arXivIs Power-Seeking AI an Existential Risk?June 16, 2022...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
+For sceptics, this is one of the strongest [objections]({{ 'objections/' | relative_url }}) to loss-of-control fears: many takeover stories require a long sequence of uncertain events, and multiplying those uncertainties can drive overall risk estimates down sharply. For doom advocates, the reply is that several links may be more likely than critics assume, and that even a relatively small probability of irreversible catastrophe deserves serious attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.13353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Is Power-Seeking AI an Existential Risk?</span><span class="citation-popover-snippet">Is Power-Seeking AI an Existential Risk?June 16, 2022...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
 
 The result is not merely a disagreement about one number. It is a disagreement about how to reason when evidence is incomplete, unprecedented technologies are advancing rapidly, and every major step in the argument contains uncertainty of its own.
 
@@ -815,123 +810,123 @@ The result is not merely a disagreement about one number. It is a disagreement a
 1. <a id="endnote-1"></a>
    Source: ai-safety-atlas.com  
    Title: The term has evolved  
-   Link: [https://ai-safety-atlas.com/chapters/v1/risks/appendix-quantifying-existential-risks/](https://ai-safety-atlas.com/chapters/v1/risks/appendix-quantifying-existential-risks/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Appendix: Quantifying Existential Risks - Chapter 2P(doom) represents the subjective probability that [artificial](&amp;#123;&amp;#123; &#x27;artificial-goals/&#x27; | relative_url &amp;#125;&amp;#125;) intelligence will cause...</p></details>
+   Link: <a href="https://ai-safety-atlas.com/chapters/v1/risks/appendix-quantifying-existential-risks/" target="_blank" rel="noopener noreferrer nofollow">https://ai-safety-atlas.com/chapters/v1/risks/appendix-quantifying-existential-risks/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Appendix: Quantifying Existential Risks - Chapter 2P(doom) represents the subjective probability that artificial intelligence will cause...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
    Title: arXiv Is Power-Seeking AI an Existential Risk?  
-   Link: [https://arxiv.org/abs/2206.13353](https://arxiv.org/abs/2206.13353)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivIs Power-Seeking AI an Existential Risk?June 16, 2022...</p></details>
+   Link: <a href="https://arxiv.org/abs/2206.13353" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2206.13353</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is Power-Seeking AI an Existential Risk?June 16, 2022...</p></details>
    Published: June 16, 2022  
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2310.18244](https://arxiv.org/abs/2310.18244)  
+   Link: <a href="https://arxiv.org/abs/2310.18244" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2310.18244</a>  
 
 4. <a id="endnote-4"></a>
    Source: planned-obsolescence.org  
    Title: Science and speculation  
-   Link: [https://www.planned-obsolescence.org/p/science-and-speculation](https://www.planned-obsolescence.org/p/science-and-speculation)  
+   Link: <a href="https://www.planned-obsolescence.org/p/science-and-speculation" target="_blank" rel="noopener noreferrer nofollow">https://www.planned-obsolescence.org/p/science-and-speculation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>by Ajeya CotraMay 1, 2026 — 1 May 2026 — We almost certainly won&#x27;t be able to develop an evidence base about AI risks anywhere near as ro...</p></details>
    Published: May 1, 2026  
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2512.04119](https://arxiv.org/abs/2512.04119)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivHumanity in the Age of AI: Reassessing 2025&#x27;s Existential-Risk NarrativesDecember 1, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2512.04119" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2512.04119</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Humanity in the Age of AI: Reassessing 2025&#x27;s Existential-Risk NarrativesDecember 1, 2025...</p></details>
    Published: December 1, 2025  
 
 6. <a id="endnote-6"></a>
    Source: cset.georgetown.edu  
-   Link: [https://cset.georgetown.edu/publication/beyond-pdoom-for-ai-risk-quantifying-uncertainty-without-probability/](https://cset.georgetown.edu/publication/beyond-pdoom-for-ai-risk-quantifying-uncertainty-without-probability/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CSETBeyond P(doom) for AI Risk: Quantifying Uncertainty...This issue brief explains why analysts and decision-makers need alternatives t...</p></details>
+   Link: <a href="https://cset.georgetown.edu/publication/beyond-pdoom-for-ai-risk-quantifying-uncertainty-without-probability/" target="_blank" rel="noopener noreferrer nofollow">https://cset.georgetown.edu/publication/beyond-pdoom-for-ai-risk-quantifying-uncertainty-without-probability/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond P(doom) for AI Risk: Quantifying Uncertainty...This issue brief explains why analysts and decision-makers need alternatives t...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: lesswrong.com  
    Title: communicating effectively under knightian norms  
-   Link: [https://www.lesswrong.com/posts/tG9BLyBEiLeRJZvX6/communicating-effectively-under-knightian-norms](https://www.lesswrong.com/posts/tG9BLyBEiLeRJZvX6/communicating-effectively-under-knightian-norms)  
+   Link: <a href="https://www.lesswrong.com/posts/tG9BLyBEiLeRJZvX6/communicating-effectively-under-knightian-norms" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/posts/tG9BLyBEiLeRJZvX6/communicating-effectively-under-knightian-norms</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Apr 2023 — When Scott Alexander says &quot;33% risk of AI doom&quot; or Eliezer puts it at 90%, they are making estimates, and that is clearly a...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2503.07341](https://arxiv.org/pdf/2503.07341)  
+   Link: <a href="https://arxiv.org/pdf/2503.07341" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2503.07341</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Economics of p(doom): Scenarios of Existential Risk...by J Growiec · 2025 · Cited by 10 — By contrast, the probability of AI doom—hu...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
    Title: What are the odds?  
-   Link: [https://arxiv.org/html/2510.23453v1](https://arxiv.org/html/2510.23453v1)  
+   Link: <a href="https://arxiv.org/html/2510.23453v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2510.23453v1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Risk and uncertainty about AI...27 Oct 2025 — This work is a commentary of the article AI Survival Stories: a Taxonomic Analysis of AI E...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2505.04592v1](https://arxiv.org/html/2505.04592v1)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI [Governance](&amp;#123;&amp;#123; &#x27;governance/&#x27; | relative_url &amp;#125;&amp;#125;) to Avoid Extinction: The Strategic...Risks come from failure to control powerful AI systems, misuse of AI by malicious rog...</p></details>
+   Link: <a href="https://arxiv.org/html/2505.04592v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2505.04592v1</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI [Governance](&amp;#123;&amp;#123; &#x27;governance/&#x27; | relative_url &amp;#125;&amp;#125;) to Avoid Extinction: The Strategic...Risks come from failure to control powerful AI systems, [misuse](&amp;#123;&amp;#123; &#x27;misuse/&#x27; | relative_url &amp;#125;&amp;#125;) of AI by ma...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/P%28doom%29](https://en.wikipedia.org/wiki/P%28doom%29)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>P(doom)In AI safety, P(doom) is the probability of existentially catastrophic outcomes (so-called &quot;doomsday scenarios&quot;) as a result of...</p></details>
+   Link: <a href="https://en.wikipedia.org/wiki/P%28doom%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/P%28doom%29</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>P(doom)In AI safety, P(doom) is the probability of existentially [catastrophic](&amp;#123;&amp;#123; &#x27;misuse/&#x27; | relative_url &amp;#125;&amp;#125;) outcomes (so-called &quot;doomsday scenarios&quot;) as a result of...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: garymarcus.substack.com  
-   Link: [https://garymarcus.substack.com/p/d28/comments](https://garymarcus.substack.com/p/d28/comments)  
+   Link: <a href="https://garymarcus.substack.com/p/d28/comments" target="_blank" rel="noopener noreferrer nofollow">https://garymarcus.substack.com/p/d28/comments</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>p(doom) - by Gary Marcus - Marcus on AI27 Aug 2023 — The author does provide quantitative estimates for p(doom): &quot;My best guess is that h...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/garykucher_ai-aisafety-aialignment-activity-7438995662379130880-cFCS](https://www.linkedin.com/posts/garykucher_ai-aisafety-aialignment-activity-7438995662379130880-cFCS)  
+   Link: <a href="https://www.linkedin.com/posts/garykucher_ai-aisafety-aialignment-activity-7438995662379130880-cFCS" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/garykucher_ai-aisafety-aialignment-activity-7438995662379130880-cFCS</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Existential Risk: Understanding p(Doom) EstimatesP(Doom) is shorthand for “probability of doom,” meaning the estimated chance that adv...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: x.com  
-   Link: [https://x.com/ajeya_cotra/status/1655243379637391360](https://x.com/ajeya_cotra/status/1655243379637391360)  
+   Link: <a href="https://x.com/ajeya_cotra/status/1655243379637391360" target="_blank" rel="noopener noreferrer nofollow">https://x.com/ajeya_cotra/status/1655243379637391360</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ajeya CotraAjeya Cotra (@ajeya_cotra). 162 likes 9 replies. A common criticism of people who are trying to stop existential risk from pow...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/anlohn_beyond-pdoom-for-ai-risk-quantifying-uncertainty-activity-7457825915650203649-oKH8](https://www.linkedin.com/posts/anlohn_beyond-pdoom-for-ai-risk-quantifying-uncertainty-activity-7457825915650203649-oKH8)  
+   Link: <a href="https://www.linkedin.com/posts/anlohn_beyond-pdoom-for-ai-risk-quantifying-uncertainty-activity-7457825915650203649-oKH8" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/anlohn_beyond-pdoom-for-ai-risk-quantifying-uncertainty-activity-7457825915650203649-oKH8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alternative to Probability in AI Risk AssessmentThis was an excellent paper by Drew and CSET. I have similarly been frustrated with how p...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: abundance.institute  
-   Link: [https://abundance.institute/our-work/the-ai-technopanic-and-its-effects](https://abundance.institute/our-work/the-ai-technopanic-and-its-effects)  
+   Link: <a href="https://abundance.institute/our-work/the-ai-technopanic-and-its-effects" target="_blank" rel="noopener noreferrer nofollow">https://abundance.institute/our-work/the-ai-technopanic-and-its-effects</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The AI Technopanic and Its EffectsThe essay by Ajeya Cotra, who oversee Open Philanthropy&#x27;s “Potential risks from advanced artificial int...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: psc-consultant.com  
    Title: ai 2027 a wake up call on advanced ai and existential risk  
-   Link: [https://www.psc-consultant.com/post/ai-2027-a-wake-up-call-on-advanced-ai-and-existential-risk](https://www.psc-consultant.com/post/ai-2027-a-wake-up-call-on-advanced-ai-and-existential-risk)  
+   Link: <a href="https://www.psc-consultant.com/post/ai-2027-a-wake-up-call-on-advanced-ai-and-existential-risk" target="_blank" rel="noopener noreferrer nofollow">https://www.psc-consultant.com/post/ai-2027-a-wake-up-call-on-advanced-ai-and-existential-risk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-2027: A Wake-Up Call on Advanced AI and Existential...20 Oct 2025 — Explore AI-2027, a deeply researched scenario forecasting the ris...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: forum.effectivealtruism.org  
    Title: draft report on existential risk from power seeking ai  
-   Link: [https://forum.effectivealtruism.org/posts/78NoGoRitPzeT8nga/draft-report-on-existential-risk-from-power-seeking-ai](https://forum.effectivealtruism.org/posts/78NoGoRitPzeT8nga/draft-report-on-existential-risk-from-power-seeking-ai)  
+   Link: <a href="https://forum.effectivealtruism.org/posts/78NoGoRitPzeT8nga/draft-report-on-existential-risk-from-power-seeking-ai" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/78NoGoRitPzeT8nga/draft-report-on-existential-risk-from-power-seeking-ai</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>report on existential risk from power-seeking AI28 Apr 2021 — I&#x27;ve written a draft report evaluating a version of the overall case for ex...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: abc.net.au  
-   Title: whats your pdoom [ai researchers](&#123;&#123; 'expert-surveys/' | relative_url &#125;&#125;) worry catastrophe  
-   Link: [https://www.abc.net.au/news/2023-07-15/whats-your-pdoom-ai-researchers-worry-catastrophe/102591340](https://www.abc.net.au/news/2023-07-15/whats-your-pdoom-ai-researchers-worry-catastrophe/102591340)  
+   Title: whats your pdoom ai researchers worry catastrophe  
+   Link: <a href="https://www.abc.net.au/news/2023-07-15/whats-your-pdoom-ai-researchers-worry-catastrophe/102591340" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2023-07-15/whats-your-pdoom-ai-researchers-worry-catastrophe/102591340</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;What&#x27;s your p(doom)?&#x27;: How AI could be learning a...14 Jul 2023 — If a sophisticated AI was then motivated to defend itself, Ms Cotra a...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: alignmentforum.org  
-   Link: [https://www.alignmentforum.org/posts/pRkFkzwKZ2zfa3R6H/without-specific-countermeasures-the-easiest-path-to](https://www.alignmentforum.org/posts/pRkFkzwKZ2zfa3R6H/without-specific-countermeasures-the-easiest-path-to)  
+   Link: <a href="https://www.alignmentforum.org/posts/pRkFkzwKZ2zfa3R6H/without-specific-countermeasures-the-easiest-path-to" target="_blank" rel="noopener noreferrer nofollow">https://www.alignmentforum.org/posts/pRkFkzwKZ2zfa3R6H/without-specific-countermeasures-the-easiest-path-to</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>most concrete, detailed, clear, and comprehensive) story of existential risk from AI I know of (IMO). I expect I&#x27;ll...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
    Title: ai 2027 is the most realistic and terrifying  
-   Link: [https://www.reddit.com/r/collapse/comments/1kzqh53/ai_2027_is_the_most_realistic_and_terrifying/](https://www.reddit.com/r/collapse/comments/1kzqh53/ai_2027_is_the_most_realistic_and_terrifying/)  
+   Link: <a href="https://www.reddit.com/r/collapse/comments/1kzqh53/ai_2027_is_the_most_realistic_and_terrifying/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/collapse/comments/1kzqh53/ai_2027_is_the_most_realistic_and_terrifying/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2027, humanity is basically sidelined. AI systems are so advanced and complex that even their creators don&#x27;t fully underst...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: thebulletin.org  
    Title: stopping the clock on catastrophic ai risk  
-   Link: [https://thebulletin.org/premium/2025-12/stopping-the-clock-on-catastrophic-ai-risk/](https://thebulletin.org/premium/2025-12/stopping-the-clock-on-catastrophic-ai-risk/)  
+   Link: <a href="https://thebulletin.org/premium/2025-12/stopping-the-clock-on-catastrophic-ai-risk/" target="_blank" rel="noopener noreferrer nofollow">https://thebulletin.org/premium/2025-12/stopping-the-clock-on-catastrophic-ai-risk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Dec 2025 — AI is already sufficiently robust that it introduces new global risks and exacerbates existing threats. Its development is...</p></details>

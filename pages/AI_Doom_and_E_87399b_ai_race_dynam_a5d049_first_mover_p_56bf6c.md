@@ -12,21 +12,21 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_ai_race_dynam_a5d049_model_release_108910
 - AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - race-pressure
 - first-movers
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - race-pressure
 - first-movers
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: First-mover rewards can make faster AI releases privately rational even when slower safety work would reduce shared x-risk.
 hero_summary: First-mover rewards can make faster AI releases privately rational even when slower safety work would reduce shared x-risk.
 layout: default
 permalink: /first-movers/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /race-pressure/
 nav_short_title: First Movers
 title: Why Being First Can Make AI Less Safe
@@ -213,20 +213,20 @@ parent_heading_title: Why AI Races Can Make Safety Harder
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_ai_race_dynam_a5d049
-  title: Race Pressure | AI Doom and
+  title: Race Pressure | AI Doom and E 87399 b
   permalink: /race-pressure/
   short_title: Race Pressure
   heading_title: Why AI Races Can Make Safety Harder
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_ai_race_dynam_a5d049
-  title: Race Pressure | AI Doom and
+  title: Race Pressure | AI Doom and E 87399 b
   permalink: /race-pressure/
   short_title: Race Pressure
   heading_title: Why AI Races Can Make Safety Harder
@@ -264,7 +264,7 @@ child_links:
   heading_title: Why waiting can feel too expensive
 up_link:
   basename: AI_Doom_and_E_87399b_ai_race_dynam_a5d049
-  title: Race Pressure | AI Doom and
+  title: Race Pressure | AI Doom and E 87399 b
   permalink: /race-pressure/
   short_title: Race Pressure
   heading_title: Why AI Races Can Make Safety Harder
@@ -282,15 +282,15 @@ image: /assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56
 
 ## Introduction
 
-A central claim in the AI doom debate is that [dangerous]({{ 'autonomy/' | relative_url }}) outcomes may not arise solely because advanced AI systems become powerful, but because powerful systems are deployed before anyone properly understands them. The mechanism often discussed is **first-mover advantage**: the rewards available to whoever releases a highly capable AI system first. Those rewards can include market dominance, investment, talent recruitment, strategic influence, and the ability to set industry standards. When being first is valuable enough, organisations may face incentives to deploy systems earlier than is socially optimal, even if additional testing or safety work would reduce risk. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tse-fr.eu/sites/default/files/TSE/documents/doc/wp/2026/wp_tse_1745.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tse-fr.eu">[TSE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tse-fr.eu</span><span class="citation-popover-title">TSE“AI Safety and Competition ”</span><span class="citation-popover-snippet">May 7, 2026 — 6 May 2026 — This paper examines how competition affects the timing of AI deployment under safety risk. We show that compet...</span><span class="citation-popover-meta">Published: May 7, 2026</span></span></span>
+A central claim in the AI doom debate is that dangerous outcomes may not arise solely because advanced AI systems become powerful, but because powerful systems are deployed before anyone properly understands them. The mechanism often discussed is **first-mover advantage**: the rewards available to whoever releases a highly capable AI system first. Those rewards can include market dominance, investment, talent recruitment, strategic influence, and the ability to set industry standards. When being first is valuable enough, organisations may face incentives to deploy systems earlier than is socially optimal, even if additional testing or safety work would reduce risk. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tse-fr.eu/sites/default/files/TSE/documents/doc/wp/2026/wp_tse_1745.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tse-fr.eu">[TSE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tse-fr.eu</span><span class="citation-popover-title">TSE“AI Safety and Competition ”</span><span class="citation-popover-snippet">May 7, 2026 — 6 May 2026 — This paper examines how competition affects the timing of AI deployment under safety risk. We show that compet...</span><span class="citation-popover-meta">Published: May 7, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c-Illustration-1-dark.svg" | relative_url }}" alt="First Movers illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For people concerned about AI doom or existential risk, this matters because safety research often takes time, while competitive advantages frequently depend on speed. The result can be a situation in which individual actors behave rationally from their own perspective but collectively create greater danger. Whether this dynamic is strong enough to materially increase existential risk remains disputed, but it is one of the most frequently cited mechanisms linking AI competition to loss-of-control scenarios. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0016328725000254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectStrategic insights from simulation gaming of AI race dynamicsby R Gruetzemacher · 2025 · Cited by 15 — Race dynamics in adva...</span></span></span>
+For people concerned about AI doom or existential risk, this matters because safety research often takes time, while competitive advantages frequently depend on speed. The result can be a situation in which individual actors behave rationally from their own perspective but collectively create greater danger. Whether this dynamic is strong enough to materially increase existential risk remains disputed, but it is one of the most frequently cited mechanisms linking AI competition to loss-of-control scenarios. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0016328725000254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Strategic insights from simulation gaming of AI race dynamicsby R Gruetzemacher · 2025 · Cited by 15 — Race dynamics in adva...</span></span></span>
 
 ## What First-Mover Advantage Means in Frontier AI
 
-A first-mover advantage exists when early [deployment]({{ 'release-gates/' | relative_url }}) creates benefits that later competitors struggle to recover. In frontier AI, advocates of this view point to several sources of advantage:
+A first-mover advantage exists when early deployment creates benefits that later competitors struggle to recover. In frontier AI, advocates of this view point to several sources of advantage:
 
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
@@ -304,7 +304,7 @@ A first-mover advantage exists when early [deployment]({{ 'release-gates/' | rel
 
 </div>
 
-Unlike many traditional products, advanced AI systems may improve rapidly through deployment itself. User interactions generate data, reveal weaknesses, and help organisations refine future models. This can make early release especially attractive because deployment is not merely the end of development; it can become part of the development process. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/kent-walker-5963bb198_yesterdays-episode-of-the-new-york-times-activity-7460184655787634688-Fsla" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">LinkedInChina&#x27;s AI advantage over US in deployment and scaleOn economics: First-mover advantages are real, and early deployers capture di...</span></span></span>
+Unlike many traditional products, advanced AI systems may improve rapidly through deployment itself. User interactions generate data, reveal weaknesses, and help organisations refine future models. This can make early release especially attractive because deployment is not merely the end of development; it can become part of the development process. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/kent-walker-5963bb198_yesterdays-episode-of-the-new-york-times-activity-7460184655787634688-Fsla" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">China&#x27;s AI advantage over US in deployment and scaleOn economics: First-mover advantages are real, and early deployers capture di...</span></span></span>
 
 In AI-risk discussions, the concern is not that first-mover advantages always exist, but that decision-makers may *believe* they exist strongly enough to justify taking additional risks. If executives or governments think a delay of a few months could determine who leads a transformative technology, safety measures may appear costly even when everyone agrees they are desirable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/glossary/ai-race-dynamics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-title">ai race dynamics</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryAI Race Dynamics — AI Governance Definition &amp; Guide27 Mar 2026 — AI race dynamics describe the game-theoret...</span></span></span>
 
@@ -329,7 +329,7 @@ The logic resembles a prisoner’s dilemma:
 
 This dynamic does not require negligence or bad intentions. The mechanism works even when organisations genuinely care about safety. The problem arises because safety costs are often borne by the individual organisation, while many benefits of reduced existential risk are shared across society. Economists describe this as an externality: the organisation captures the gains from moving first but does not fully bear the costs if increased risk affects everyone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tse-fr.eu/sites/default/files/TSE/documents/doc/wp/2026/wp_tse_1745.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tse-fr.eu">[TSE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tse-fr.eu</span><span class="citation-popover-title">TSE“AI Safety and Competition ”</span><span class="citation-popover-snippet">May 7, 2026 — 6 May 2026 — This paper examines how competition affects the timing of AI deployment under safety risk. We show that compet...</span><span class="citation-popover-meta">Published: May 7, 2026</span></span></span>
 
-For AI doom proponents, this matters because some proposed [catastrophic]({{ 'misuse/' | relative_url }}) risks depend heavily on careful evaluation before deployment. If systems are released before researchers understand their capabilities, failure modes such as [deceptive]({{ 'scheming-tests/' | relative_url }}) behaviour, dangerous autonomy, unexpected strategic reasoning, or misuse-enabling capabilities could remain undiscovered until after deployment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://safe.ai/ai-risk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safe.ai">[Center for AI Safety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safe.ai</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+For AI doom proponents, this matters because some proposed [catastrophic]({{ 'misuse/' | relative_url }}) risks depend heavily on careful evaluation before deployment. If systems are released before researchers understand their capabilities, failure modes such as deceptive behaviour, dangerous [autonomy]({{ 'autonomy/' | relative_url }}), unexpected strategic reasoning, or misuse-enabling capabilities could remain undiscovered until after deployment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://safe.ai/ai-risk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safe.ai">[Center for AI Safety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safe.ai</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c-Illustration-2-dark.svg" | relative_url }}" alt="First Movers illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -339,7 +339,7 @@ The first-mover problem becomes more serious if meaningful safety work cannot be
 
 Many frontier-AI safety researchers argue that evaluating advanced models remains an immature science. The UK government's frontier-AI risk assessments have noted that safety testing lacks established standards and that developers frequently have limited understanding of how complex models produce their behaviour. Frontier systems remain, in important respects, "black boxes" whose internal reasoning is only partially understood. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">frontier ai capabilities and risks discussion paper</span><span class="citation-popover-snippet">Frontier AI: capabilities and risks – discussion paper28 Apr 2025 — Evaluating the safety of frontier AI systems is an open challenge. Sa...</span></span></span>
 
-This creates a difficult trade-off. The closer systems move toward capabilities associated with advanced autonomy or highly general problem-solving, the more valuable extensive evaluations become. Yet those evaluations can delay release precisely when competitive pressure is strongest.
+This creates a difficult trade-off. The closer systems move toward capabilities associated with advanced autonomy or highly general problem-solving, the more valuable extensive [evaluations]({{ 'evaluations/' | relative_url }}) become. Yet those evaluations can delay release precisely when competitive pressure is strongest.
 
 As a result, AI-risk researchers sometimes worry about a timing mismatch:
 
@@ -363,9 +363,9 @@ The existential-risk argument does not claim that every rushed release threatens
 
 In many AI doom models, the danger emerges when a system becomes capable enough to pursue complex goals, conceal information, manipulate humans, conduct sophisticated cyber operations, or accelerate further AI development. If such capabilities appear unexpectedly, organisations under intense competitive pressure may deploy systems before fully understanding their implications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://safe.ai/ai-risk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safe.ai">[Center for AI Safety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safe.ai</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">risks of frontier AI (Annex A)28 Apr 2025 — The risks posed by future Frontier AI will include the risks we see today, but with potential...</span></span></span>
 
-This creates what some researchers describe as a collective-action problem. Each actor may see acceleration as necessary because competitors are accelerating. Yet the cumulative effect is to reduce the amount of time available for [interpretability]({{ 'interpretability/' | relative_url }}) research, red-team testing, monitoring infrastructure, incident response planning, and other safeguards intended to prevent loss of control. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0016328725000254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectStrategic insights from simulation gaming of AI race dynamicsby R Gruetzemacher · 2025 · Cited by 15 — Race dynamics in adva...</span></span></span>
+This creates what some researchers describe as a collective-action problem. Each actor may see acceleration as necessary because competitors are accelerating. Yet the cumulative effect is to reduce the amount of time available for [interpretability]({{ 'interpretability/' | relative_url }}) research, red-team testing, monitoring infrastructure, incident response planning, and other safeguards intended to prevent [loss of control]({{ 'loss-of-control/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0016328725000254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Strategic insights from simulation gaming of AI race dynamicsby R Gruetzemacher · 2025 · Cited by 15 — Race dynamics in adva...</span></span></span>
 
-Simulation studies of AI race dynamics have found that competitive conditions tend to increase the likelihood of safety failures and reduce the probability of cooperative outcomes. While simulations are not predictions, they illustrate how incentives can systematically favour speed over caution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0016328725000254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectStrategic insights from simulation gaming of AI race dynamicsby R Gruetzemacher · 2025 · Cited by 15 — Race dynamics in adva...</span></span></span>
+Simulation studies of AI race dynamics have found that competitive conditions tend to increase the likelihood of safety failures and reduce the probability of cooperative outcomes. While simulations are not predictions, they illustrate how incentives can systematically favour speed over caution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0016328725000254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Strategic insights from simulation gaming of AI race dynamicsby R Gruetzemacher · 2025 · Cited by 15 — Race dynamics in adva...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xN1bwLcdiJE" title="Running With Scissors: AI and the Race for the Future | Official Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xN1bwLcdiJE" target="_blank" rel="noopener noreferrer">Running With Scissors: AI and the Race for the Future | Official Trailer</a></p><p class="youtube-embed-meta">Channel: McCombs School of Business &middot; Views: 239 &middot; Uploaded: May 2026 &middot; Length: 2 minutes 55 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xN1bwLcdiJE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xN1bwLcdiJE">Open on YouTube</a></p></div></div></div>
@@ -374,7 +374,7 @@ Simulation studies of AI race dynamics have found that competitive conditions te
 
 The first-mover argument is influential, but it is far from universally accepted.
 
-One objection is that competition can improve safety rather than weaken it. Firms that deploy unsafe systems risk reputational damage, legal liability, regulatory intervention, and customer loss. Competitive pressure may therefore encourage the development of better evaluation tools, monitoring systems, and alignment techniques. Some commentators argue that AI companies increasingly compete on trustworthiness as well as raw capability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ctse.aei.org/ai-has-been-a-race-to-the-bottom-towards-alignment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctse.aei.org">[ctse.aei.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctse.aei.org</span><span class="citation-popover-snippet">AI Has Been A Race to the Bottom, Towards Alignment9 Apr 2026 — The competitive pressure to release new models has also created powerful...</span></span></span>
+One objection is that competition can improve safety rather than weaken it. Firms that deploy unsafe systems risk reputational damage, legal liability, regulatory intervention, and customer loss. Competitive pressure may therefore encourage the development of better evaluation tools, [monitoring]({{ 'monitoring/' | relative_url }}) systems, and alignment techniques. Some commentators argue that AI companies increasingly compete on trustworthiness as well as raw capability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ctse.aei.org/ai-has-been-a-race-to-the-bottom-towards-alignment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctse.aei.org">[ctse.aei.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctse.aei.org</span><span class="citation-popover-snippet">AI Has Been A Race to the Bottom, Towards Alignment9 Apr 2026 — The competitive pressure to release new models has also created powerful...</span></span></span>
 
 A second objection is that first-mover advantages may be overstated. In many technology markets, later entrants eventually overtake pioneers through superior execution, lower costs, or better products. If AI follows this pattern, firms may have less incentive to rush than doom-focused analyses assume. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lawfaremedia.org/article/the-ai-race-isn-t-real" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Lawfare">[Default]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Lawfare</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -388,7 +388,7 @@ These objections do not eliminate the concern, but they highlight why estimates 
 
 When people discuss p(doom)—their estimate of the probability that advanced AI causes existential catastrophe—first-mover advantage is rarely the whole argument. Instead, it acts as an amplifier.
 
-A researcher might believe that misalignment, deceptive behaviour, or loss of control are technically difficult problems but still manageable given enough time. In that case, competitive pressure becomes important because it reduces the time available to solve them. The worry is not simply that powerful AI could be dangerous, but that the incentives surrounding deployment make caution difficult to sustain. AI Security & Safety Directory <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0016328725000254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect From this perspective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectStrategic insights from simulation gaming of AI race dynamicsby R Gruetzemacher · 2025 · Cited by 15 — Race dynamics in adva...</span></span></span>, first-mover advantage is best understood as a mechanism linking technical [uncertainty]({{ 'uncertainty/' | relative_url }}) to real-world decisions. If safety remains unresolved while rewards for early deployment remain large, organisations may repeatedly face incentives to move before risks are fully understood. Whether that dynamic ultimately contributes to AI doom remains uncertain, but it is one of the clearest ways that competition can translate into increased existential risk. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tse-fr.eu/sites/default/files/TSE/documents/doc/wp/2026/wp_tse_1745.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tse-fr.eu">[TSE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tse-fr.eu</span><span class="citation-popover-title">TSE“AI Safety and Competition ”</span><span class="citation-popover-snippet">May 7, 2026 — 6 May 2026 — This paper examines how competition affects the timing of AI deployment under safety risk. We show that compet...</span><span class="citation-popover-meta">Published: May 7, 2026</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">frontier ai capabilities and risks discussion paper</span><span class="citation-popover-snippet">Frontier AI: capabilities and risks – discussion paper28 Apr 2025 — Evaluating the safety of frontier AI systems is an open challenge. Sa...</span></span></span>
+A researcher might believe that misalignment, deceptive behaviour, or loss of control are technically difficult problems but still manageable given enough time. In that case, competitive pressure becomes important because it reduces the time available to solve them. The worry is not simply that powerful AI could be dangerous, but that the incentives surrounding deployment make caution difficult to sustain. AI Security & Safety Directory <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0016328725000254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect From this perspective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Strategic insights from simulation gaming of AI race dynamicsby R Gruetzemacher · 2025 · Cited by 15 — Race dynamics in adva...</span></span></span>, first-mover advantage is best understood as a mechanism linking technical [uncertainty]({{ 'uncertainty/' | relative_url }}) to real-world decisions. If safety remains unresolved while rewards for early deployment remain large, organisations may repeatedly face incentives to move before risks are fully understood. Whether that dynamic ultimately contributes to AI doom remains uncertain, but it is one of the clearest ways that competition can translate into increased existential risk. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tse-fr.eu/sites/default/files/TSE/documents/doc/wp/2026/wp_tse_1745.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tse-fr.eu">[TSE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tse-fr.eu</span><span class="citation-popover-title">TSE“AI Safety and Competition ”</span><span class="citation-popover-snippet">May 7, 2026 — 6 May 2026 — This paper examines how competition affects the timing of AI deployment under safety risk. We show that compet...</span><span class="citation-popover-meta">Published: May 7, 2026</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">frontier ai capabilities and risks discussion paper</span><span class="citation-popover-snippet">Frontier AI: capabilities and risks – discussion paper28 Apr 2025 — Evaluating the safety of frontier AI systems is an open challenge. Sa...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -811,119 +811,119 @@ A researcher might believe that misalignment, deceptive behaviour, or loss of co
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0016328725000254](https://www.sciencedirect.com/science/article/pii/S0016328725000254)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectStrategic insights from simulation gaming of AI race dynamicsby R Gruetzemacher · 2025 · Cited by 15 — Race dynamics in adva...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0016328725000254" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0016328725000254</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Strategic insights from simulation gaming of AI race dynamicsby R Gruetzemacher · 2025 · Cited by 15 — Race dynamics in adva...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/kent-walker-5963bb198_yesterdays-episode-of-the-new-york-times-activity-7460184655787634688-Fsla](https://www.linkedin.com/posts/kent-walker-5963bb198_yesterdays-episode-of-the-new-york-times-activity-7460184655787634688-Fsla)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LinkedInChina&#x27;s AI advantage over US in deployment and scaleOn economics: First-mover advantages are real, and early deployers capture di...</p></details>
+   Link: <a href="https://www.linkedin.com/posts/kent-walker-5963bb198_yesterdays-episode-of-the-new-york-times-activity-7460184655787634688-Fsla" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/kent-walker-5963bb198_yesterdays-episode-of-the-new-york-times-activity-7460184655787634688-Fsla</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>China&#x27;s AI advantage over US in deployment and scaleOn economics: First-mover advantages are real, and early deployers capture di...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: aisi.gov.uk  
-   Link: [https://www.aisi.gov.uk/frontier-ai-trends-report](https://www.aisi.gov.uk/frontier-ai-trends-report)  
+   Link: <a href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/frontier-ai-trends-report</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>It is plausible that in the...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: cepr.org  
-   Link: [https://cepr.org/publications/dp21454](https://cepr.org/publications/dp21454)  
+   Link: <a href="https://cepr.org/publications/dp21454" target="_blank" rel="noopener noreferrer nofollow">https://cepr.org/publications/dp21454</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Safety and Competitionby JP Choi · 2026 — This paper examines how competition affects the timing of AI deployment under safety risk. W...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: GOV.UK  
    Title: frontier ai capabilities and risks discussion paper  
-   Link: [https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper](https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper)  
+   Link: <a href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier AI: capabilities and risks – discussion paper28 Apr 2025 — Evaluating the safety of frontier AI systems is an open challenge. Sa...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: [https://assets.publishing.service.gov.uk/media/65395abae6c968000daa9b25/frontier-ai-capabilities-risks-report.pdf](https://assets.publishing.service.gov.uk/media/65395abae6c968000daa9b25/frontier-ai-capabilities-risks-report.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/65395abae6c968000daa9b25/frontier-ai-capabilities-risks-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/65395abae6c968000daa9b25/frontier-ai-capabilities-risks-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>and risks from frontier AIThis report covers many risks, but we wish to emphasise that the overarching risk is a loss of trust in and tru...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a](https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a)  
+   Link: <a href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>risks of frontier AI (Annex A)28 Apr 2025 — The risks posed by future Frontier AI will include the risks we see today, but with potential...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: ctse.aei.org  
-   Link: [https://ctse.aei.org/ai-has-been-a-race-to-the-bottom-towards-alignment/](https://ctse.aei.org/ai-has-been-a-race-to-the-bottom-towards-alignment/)  
+   Link: <a href="https://ctse.aei.org/ai-has-been-a-race-to-the-bottom-towards-alignment/" target="_blank" rel="noopener noreferrer nofollow">https://ctse.aei.org/ai-has-been-a-race-to-the-bottom-towards-alignment/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Has Been A Race to the Bottom, Towards Alignment9 Apr 2026 — The competitive pressure to release new models has also created powerful...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/3rd-edition-ai-race-competition-dynamics-alyssa-christensen-nqxwe](https://www.linkedin.com/pulse/3rd-edition-ai-race-competition-dynamics-alyssa-christensen-nqxwe)  
+   Link: <a href="https://www.linkedin.com/pulse/3rd-edition-ai-race-competition-dynamics-alyssa-christensen-nqxwe" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/3rd-edition-ai-race-competition-dynamics-alyssa-christensen-nqxwe</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>3rd Edition: The AI Race and Competition DynamicsThe Center for AI Safety defines the AI Race as a dynamic in which competitive incentive...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: aisecurityandsafety.org  
    Title: ai race dynamics  
-   Link: [https://aisecurityandsafety.org/en/glossary/ai-race-dynamics/](https://aisecurityandsafety.org/en/glossary/ai-race-dynamics/)  
+   Link: <a href="https://aisecurityandsafety.org/en/glossary/ai-race-dynamics/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/en/glossary/ai-race-dynamics/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security &amp; Safety DirectoryAI Race Dynamics — AI [Governance](&amp;#123;&amp;#123; &#x27;governance/&#x27; | relative_url &amp;#125;&amp;#125;) Definition &amp; Guide27 Mar 2026 — AI race dynamics describe the game-theoret...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: Lawfare  
-   Link: [https://www.lawfaremedia.org/article/the-ai-race-isn-t-real](https://www.lawfaremedia.org/article/the-ai-race-isn-t-real)  
+   Link: <a href="https://www.lawfaremedia.org/article/the-ai-race-isn-t-real" target="_blank" rel="noopener noreferrer nofollow">https://www.lawfaremedia.org/article/the-ai-race-isn-t-real</a>  
 
 12. <a id="endnote-12"></a>
    Source: safe.ai  
-   Link: [https://safe.ai/ai-risk](https://safe.ai/ai-risk)  
+   Link: <a href="https://safe.ai/ai-risk" target="_blank" rel="noopener noreferrer nofollow">https://safe.ai/ai-risk</a>  
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: ai-frontiers.org  
-   Link: [https://ai-frontiers.org/](https://ai-frontiers.org/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI FrontiersExpert dialogue and debate on the impacts of [artificial](&amp;#123;&amp;#123; &#x27;artificial-goals/&#x27; | relative_url &amp;#125;&amp;#125;) intelligence. Articles present perspectives from specialists at the f...</p></details>
+   Link: <a href="https://ai-frontiers.org/" target="_blank" rel="noopener noreferrer nofollow">https://ai-frontiers.org/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI FrontiersExpert dialogue and debate on the impacts of artificial intelligence. Articles present perspectives from specialists at the f...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: ssrc.org  
-   Link: [https://www.ssrc.org/publications/real-world-gaps-in-ai-governance-research/](https://www.ssrc.org/publications/real-world-gaps-in-ai-governance-research/)  
+   Link: <a href="https://www.ssrc.org/publications/real-world-gaps-in-ai-governance-research/" target="_blank" rel="noopener noreferrer nofollow">https://www.ssrc.org/publications/real-world-gaps-in-ai-governance-research/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Safety and Reliability in Everyday DeploymentsWe identify significant research gaps in high-risk deployment domains, including healthc...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: ai-frontiers.org  
-   Link: [https://ai-frontiers.org/topic/policy-and-regulation](https://ai-frontiers.org/topic/policy-and-regulation)  
+   Link: <a href="https://ai-frontiers.org/topic/policy-and-regulation" target="_blank" rel="noopener noreferrer nofollow">https://ai-frontiers.org/topic/policy-and-regulation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Policy &amp; RegulationArticles in this section explore if, when, and how to implement regulation that harnesses AI&#x27;s benefits while limiting...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: preprints.org  
-   Link: [https://www.preprints.org/frontend/manuscript/0094436b7c468fe31de9ba98b67eff74/download_pub](https://www.preprints.org/frontend/manuscript/0094436b7c468fe31de9ba98b67eff74/download_pub)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PreprintsOptimal Release Timing of AI Systems: A Strategic Analysis...by Y Qi · 2026 — Premature release imposes safety externalities on...</p></details>
+   Link: <a href="https://www.preprints.org/frontend/manuscript/0094436b7c468fe31de9ba98b67eff74/download_pub" target="_blank" rel="noopener noreferrer nofollow">https://www.preprints.org/frontend/manuscript/0094436b7c468fe31de9ba98b67eff74/download_pub</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Optimal Release Timing of AI Systems: A Strategic Analysis...by Y Qi · 2026 — Premature release imposes safety externalities on...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: lrfoundation.org.uk  
    Title: lrf foresight report ai safety literature review  
-   Link: [https://www.lrfoundation.org.uk/sites/default/files/2026-02/lrf-foresight-report-ai-safety-literature-review.pdf](https://www.lrfoundation.org.uk/sites/default/files/2026-02/lrf-foresight-report-ai-safety-literature-review.pdf)  
+   Link: <a href="https://www.lrfoundation.org.uk/sites/default/files/2026-02/lrf-foresight-report-ai-safety-literature-review.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lrfoundation.org.uk/sites/default/files/2026-02/lrf-foresight-report-ai-safety-literature-review.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The AI Safety Paradox8 Feb 2026 — This grey literature review examines the safety implications of AI deployment across critical infrastru...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: justthink.ai  
    Title: ai race can speed safety truly coexist  
-   Link: [https://www.justthink.ai/blog/ai-race-can-speed-safety-truly-coexist](https://www.justthink.ai/blog/ai-race-can-speed-safety-truly-coexist)  
+   Link: <a href="https://www.justthink.ai/blog/ai-race-can-speed-safety-truly-coexist" target="_blank" rel="noopener noreferrer nofollow">https://www.justthink.ai/blog/ai-race-can-speed-safety-truly-coexist</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Race: Can Speed &amp; Safety Truly Coexist?6 May 2026 — As the AI race heats up, striking a balance between rapid development and stringen...</p></details>
    Published: May 2026  
 
 19. <a id="endnote-19"></a>
    Source: OpenAI  
-   Link: [https://openai.com/index/openai-frontier-governance-framework/](https://openai.com/index/openai-frontier-governance-framework/)  
+   Link: <a href="https://openai.com/index/openai-frontier-governance-framework/" target="_blank" rel="noopener noreferrer nofollow">https://openai.com/index/openai-frontier-governance-framework/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>comOpenAI&#x27;s Frontier Governance Framework4 days ago — OpenAI&#x27;s Frontier Governance Framework. A framework to explain how our safety and s...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: tse-fr.eu  
    Title: TSE“AI Safety and Competition ”  
-   Link: [https://www.tse-fr.eu/sites/default/files/TSE/documents/doc/wp/2026/wp_tse_1745.pdf](https://www.tse-fr.eu/sites/default/files/TSE/documents/doc/wp/2026/wp_tse_1745.pdf)  
+   Link: <a href="https://www.tse-fr.eu/sites/default/files/TSE/documents/doc/wp/2026/wp_tse_1745.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.tse-fr.eu/sites/default/files/TSE/documents/doc/wp/2026/wp_tse_1745.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 7, 2026 — 6 May 2026 — This paper examines how competition affects the timing of AI deployment under safety risk. We show that compet...</p></details>
    Published: May 7, 2026  
 
 21. <a id="endnote-21"></a>
    Source: sparai.org  
    Title: Modeling AI 'race dynamics'  
-   Link: [https://sparai.org/projects/sp26/recytuHVhqJZo87Io/](https://sparai.org/projects/sp26/recytuHVhqJZo87Io/)  
+   Link: <a href="https://sparai.org/projects/sp26/recytuHVhqJZo87Io/" target="_blank" rel="noopener noreferrer nofollow">https://sparai.org/projects/sp26/recytuHVhqJZo87Io/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SPAR ProjectThis project aims to develop proposals for proactively governing autonomous AI agents in the economy, building on the mentors...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Artificial intelligence  
-   Link: [https://en.wikipedia.org/wiki/Artificial_intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)  
+   Link: <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Artificial_intelligence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligenceArtificial intelligence (AI) is the capability of computational systems to perform tasks typically associated w...</p></details>

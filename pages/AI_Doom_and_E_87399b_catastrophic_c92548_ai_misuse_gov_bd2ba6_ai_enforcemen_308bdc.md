@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6_biotech_dual_d8e3eb
 - AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6_cyber_militar_b09dc5
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - misuse
 - ai-misuse-governance
 - ai-accountability
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - misuse
 - ai-misuse-governance
 - ai-accountability
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: This page explores why current AI laws struggle to hold actors accountable due to fragmented oversight and limited institutional capacity.
 hero_summary: This page explores why current AI laws struggle to hold actors accountable due to fragmented oversight and limited institutional capacity.
 layout: default
 permalink: /ai-accountability/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /misuse/
 - /ai-misuse-governance/
 nav_short_title: AI Accountability
@@ -211,10 +211,10 @@ parent_heading_title: Why Policy Gaps Heighten Risks of AI Misuse
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_catastrophic_c92548
-  title: Misuse | AI Doom and
+  title: Misuse | AI Doom and E 87399 b
   permalink: /misuse/
   short_title: Misuse
   heading_title: How Could People Misuse Advanced AI?
@@ -226,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_catastrophic_c92548
-  title: Misuse | AI Doom and
+  title: Misuse | AI Doom and E 87399 b
   permalink: /misuse/
   short_title: Misuse
   heading_title: How Could People Misuse Advanced AI?
@@ -269,17 +269,17 @@ image: /assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2
 
 ## Introduction
 
-Many governments now have AI principles, safety frameworks or draft regulations. The harder question is whether any of them can reliably enforce safety when AI systems become more powerful, more autonomous and more globally distributed. For people concerned about AI doom or existential risk, this is not a technical detail. The concern is that even if safety standards exist on paper, weak enforcement could allow [dangerous]({{ 'autonomy/' | relative_url }}) systems to be developed, deployed or misused before regulators can detect problems or intervene.
+Many governments now have AI principles, safety frameworks or draft regulations. The harder question is whether any of them can reliably enforce safety when AI systems become more powerful, more autonomous and more globally distributed. For people concerned about AI doom or existential risk, this is not a technical detail. The concern is that even if safety standards exist on paper, weak enforcement could allow dangerous systems to be developed, deployed or misused before regulators can detect problems or intervene.
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6_ai_enforcemen_308bdc-Illustration-1-dark.svg" | relative_url }}" alt="AI Accountability illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6_ai_enforcemen_308bdc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6_ai_enforcemen_308bdc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The central challenge is an accountability gap. AI development is concentrated in a small number of powerful companies operating across borders, while oversight remains fragmented across national regulators with uneven technical [expertise]({{ 'expertise-erosion/' | relative_url }}) and limited resources. International organisations have produced influential [governance]({{ 'governance/' | relative_url }}) principles, but most lack strong enforcement powers. As a result, there is often a large distance between formal commitments to AI safety and the practical ability to verify compliance, investigate failures or impose meaningful consequences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oecd.ai/en/catalogue/tools/a-governance-framework-for-algorithmic-accountability-and-transparency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.ai">[OECD AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.ai</span><span class="citation-popover-snippet">A governance framework for algorithmic accountability and...May 22, 2023 — The study develops policy options for the governance of algor...</span><span class="citation-popover-meta">Published: May 22, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/topics/sub-issues/ai-principles.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">OECDAI principlesThe OECD AI Principles are the first intergovernmental standard on AI. They promote innovative, trustworthy AI that resp...</span></span></span>
+The central challenge is an accountability gap. AI development is concentrated in a small number of powerful companies operating across borders, while oversight remains fragmented across national regulators with uneven technical expertise and limited resources. International organisations have produced influential [governance]({{ 'governance/' | relative_url }}) principles, but most lack strong enforcement powers. As a result, there is often a large distance between formal commitments to AI safety and the practical ability to verify compliance, investigate failures or impose meaningful consequences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oecd.ai/en/catalogue/tools/a-governance-framework-for-algorithmic-accountability-and-transparency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.ai">[OECD AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.ai</span><span class="citation-popover-snippet">A governance framework for algorithmic accountability and...May 22, 2023 — The study develops policy options for the governance of algor...</span><span class="citation-popover-meta">Published: May 22, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/topics/sub-issues/ai-principles.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">AI principlesThe OECD AI Principles are the first intergovernmental standard on AI. They promote innovative, trustworthy AI that resp...</span></span></span>
 
 ## Why enforcement matters for existential-risk debates
 
 Most discussions about AI doom focus on technical questions such as alignment, control and dangerous [autonomy]({{ 'autonomy/' | relative_url }}). Yet many proposed safety measures depend on governance systems that can actually monitor and constrain behaviour.
 
-A recurring argument from AI safety researchers is that risks increase when powerful actors face incentives to move quickly while [oversight]({{ 'oversight-evasion/' | relative_url }}) remains weak. If companies or states believe they can gain strategic advantages from deploying increasingly capable systems, voluntary commitments may come under pressure. Enforcement becomes especially important in scenarios involving:
+A recurring argument from AI safety researchers is that risks increase when powerful actors face incentives to move quickly while oversight remains weak. If companies or states believe they can gain strategic advantages from deploying increasingly capable systems, voluntary commitments may come under pressure. Enforcement becomes especially important in scenarios involving:
 
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
@@ -299,11 +299,11 @@ In these situations, the question is not simply whether safety rules exist. It i
 
 Many AI governance frameworks assume regulators can evaluate technical claims made by developers. In practice, this is difficult even for well-resourced governments.
 
-Modern frontier models are complex, rapidly evolving and often proprietary. Regulators may have limited access to model weights, training data, internal testing results or deployment logs. Independent verification therefore becomes difficult. Researchers and policy analysts increasingly describe AI governance as an institutional capacity problem as much as a legal one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2604.06215" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivGoverning frontier general-purpose AI in the public sector: adaptive risk management and policy capacity under uncertainty through 2...</span></span></span>
+Modern frontier models are complex, rapidly evolving and often proprietary. Regulators may have limited access to model weights, training data, internal testing results or deployment logs. [Independent]({{ 'red-teaming/' | relative_url }}) verification therefore becomes difficult. Researchers and policy analysts increasingly describe AI governance as an institutional capacity problem as much as a legal one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2604.06215" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Governing frontier general-purpose AI in the public sector: adaptive risk management and policy capacity under uncertainty through 2...</span></span></span>
 
 The problem becomes sharper when considering advanced systems that may display emergent behaviours or capabilities that developers themselves did not fully anticipate. Traditional regulatory models often rely on periodic reviews and documentation requirements. Those approaches work better for stable technologies than for systems that can be updated continuously or fine-tuned after release.
 
-Several studies of public-sector AI governance have found persistent shortages of specialist expertise, weak coordination between agencies and difficulties translating high-level principles into operational oversight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/org/science/article/pii/S2334452026000044" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectAI Governance Capacity in Public Administration:by MG Özsavaş · 2026 — This study compares artificial intelligence (AI) gove...</span></span></span>
+Several studies of public-sector AI governance have found persistent shortages of specialist expertise, weak coordination between agencies and difficulties translating high-level principles into operational oversight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/org/science/article/pii/S2334452026000044" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">AI Governance Capacity in Public Administration:by MG Özsavaş · 2026 — This study compares artificial intelligence (AI) gove...</span></span></span>
 
 ### Enforcement agencies face asymmetry against major AI developers
 
@@ -329,7 +329,7 @@ Research on third-party AI auditing has highlighted several limitations:
 * Companies may choose which systems receive external review.
 * Audits often capture a snapshot in time rather than continuous behaviour.
 * Standards for measuring safety remain contested.
-* Audit findings may not trigger meaningful sanctions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2604.06215" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivGoverning frontier general-purpose AI in the public sector: adaptive risk management and policy capacity under uncertainty through 2...</span></span></span>
+* Audit findings may not trigger meaningful sanctions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2604.06215" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Governing frontier general-purpose AI in the public sector: adaptive risk management and policy capacity under uncertainty through 2...</span></span></span>
 
 </div>
 
@@ -361,7 +361,7 @@ For existential-risk scenarios, these jurisdictional problems become even more s
 
 Countries have adopted markedly different approaches to AI governance.
 
-The European Union has pursued binding legislation through the AI Act. The United States has generally relied more heavily on sector-specific regulation and executive actions. Other jurisdictions have emphasised voluntary frameworks, standards or industry-led approaches. Analysts increasingly describe the result as a fragmented global governance landscape rather than a coherent international regime. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digital-strategy.ec.europa.eu">[Digital Strategy Europe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digital-strategy.ec.europa.eu</span><span class="citation-popover-title">Digital Strategy Europe AI Act | Shaping Europe&#x27;s digital future</span><span class="citation-popover-snippet">Digital Strategy EuropeAI Act | Shaping Europe&#x27;s digital future - European UnionThe AI Act (Regulation (EU) 2024/1689 laying down harmoni...</span></span></span>
+The European Union has pursued binding legislation through the AI Act. The United States has generally relied more heavily on sector-specific regulation and executive actions. Other jurisdictions have emphasised voluntary frameworks, standards or industry-led approaches. Analysts increasingly describe the result as a fragmented global governance landscape rather than a coherent international regime. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digital-strategy.ec.europa.eu">[Digital Strategy Europe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digital-strategy.ec.europa.eu</span><span class="citation-popover-title">Digital Strategy Europe AI Act &#124; Shaping Europe&#x27;s digital future</span><span class="citation-popover-snippet">Digital Strategy EuropeAI Act &#124; Shaping Europe&#x27;s digital future - European UnionThe AI Act (Regulation (EU) 2024/1689 laying down harmoni...</span></span></span>
 
 This fragmentation creates opportunities for regulatory arbitrage, sometimes called forum shopping. Companies can shift activities, infrastructure or deployment strategies toward jurisdictions with weaker oversight or lower compliance burdens.
 
@@ -375,7 +375,7 @@ International organisations have developed extensive AI governance principles. T
 
 However, these frameworks largely depend on voluntary implementation by member states. They provide norms, guidance and coordination mechanisms rather than direct enforcement powers.
 
-This creates a familiar pattern in global governance. Broad agreement often exists around high-level values, but much weaker agreement exists around inspections, sanctions, monitoring requirements or restrictions on strategic technologies.
+This creates a familiar pattern in global governance. Broad agreement often exists around high-level values, but much weaker agreement exists around inspections, sanctions, [monitoring]({{ 'monitoring/' | relative_url }}) requirements or restrictions on strategic technologies.
 
 For readers interested in AI doom debates, this distinction matters because existential-risk arguments typically concern low-probability but extremely high-consequence failures. Such risks may require stronger verification and enforcement systems than those traditionally used for ethical guidelines.
 
@@ -384,20 +384,15 @@ For readers interested in AI doom debates, this distinction matters because exis
 
 ### Consensus on principles does not mean consensus on action
 
-Reviews of global AI governance frameworks have identified substantial convergence around concepts such as fairness, accountability and transparency. Yet agreement becomes weaker when translating principles into operational requirements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2604.06215" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivGoverning frontier general-purpose AI in the public sector: adaptive risk management and policy capacity under uncertainty through 2...</span></span></span>
+Reviews of global AI governance frameworks have identified substantial convergence around concepts such as fairness, accountability and transparency. Yet agreement becomes weaker when translating principles into operational requirements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2604.06215" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Governing frontier general-purpose AI in the public sector: adaptive risk management and policy capacity under uncertainty through 2...</span></span></span>
 
 Questions that remain contested include:
-
-
-<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * What capabilities should trigger mandatory safety evaluations?
 * Who should have access to model internals?
 * When should deployment be delayed?
-* How should dangerous capability thresholds be defined?
+* How should dangerous [capability thresholds]({{ 'capability-thresholds/' | relative_url }}) be defined?
 * Which institutions should oversee frontier systems?
-
-</div>
 
 Without answers to these questions, accountability mechanisms can remain largely aspirational.
 
@@ -411,7 +406,7 @@ Many regulatory models are designed around visible harms. Authorities investigat
 
 That approach is often adequate for consumer protection or ordinary product regulation. It is less reassuring for risks that could scale rapidly or produce irreversible consequences.
 
-Several governance researchers argue that frontier AI requires continuous monitoring rather than episodic review. Agentic systems, in particular, may challenge oversight structures that depend on periodic compliance checks instead of ongoing supervision. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2604.06215" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivGoverning frontier general-purpose AI in the public sector: adaptive risk management and policy capacity under uncertainty through 2...</span></span></span>
+Several governance researchers argue that frontier AI requires continuous monitoring rather than episodic review. Agentic systems, in particular, may challenge oversight structures that depend on periodic compliance checks instead of ongoing supervision. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2604.06215" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Governing frontier general-purpose AI in the public sector: adaptive risk management and policy capacity under uncertainty through 2...</span></span></span>
 
 From an existential-risk perspective, the concern is straightforward: if catastrophic failures emerge faster than institutions can respond, post-hoc accountability may provide little protection.
 
@@ -421,12 +416,12 @@ Another obstacle is the limited visibility regulators have into near misses and 
 
 Aviation, nuclear power and some areas of medicine rely heavily on incident reporting systems that allow institutions to learn from failures before disasters occur. AI governance lacks similarly mature infrastructure in many jurisdictions.
 
-The OECD has repeatedly emphasised the need for better tracking of AI incidents and stronger evidence bases for governance decisions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/topics/artificial-intelligence.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">OECDArtificial intelligenceTrustworthy AI calls for governments worldwide to develop interoperable risk-based approaches to AI governance...</span></span></span>
+The OECD has repeatedly emphasised the need for better tracking of AI incidents and stronger evidence bases for governance decisions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/topics/artificial-intelligence.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Artificial intelligenceTrustworthy AI calls for governments worldwide to develop interoperable risk-based approaches to AI governance...</span></span></span>
 
 Without systematic reporting, regulators may underestimate risks, fail to identify dangerous patterns or learn about problems only after public exposure.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/U-AsiqPMryU" title="The Great AI Fragmentation (Deep Research by NotebookLM)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=U-AsiqPMryU" target="_blank" rel="noopener noreferrer">The Great AI Fragmentation (Deep Research by NotebookLM)</a></p><p class="youtube-embed-meta">Channel: The Language Fellow &middot; Views: 7 &middot; Uploaded: March 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=U-AsiqPMryU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=U-AsiqPMryU">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pyRGJzqetY4" title="The Global Privacy Horizon: AI Governance and Data Security in 2026" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pyRGJzqetY4" target="_blank" rel="noopener noreferrer">The Global Privacy Horizon: AI Governance and Data Security in 2026</a></p><p class="youtube-embed-meta">Channel: CISO Marketplace &middot; Views: 15 &middot; Uploaded: May 2026 &middot; Length: 52 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pyRGJzqetY4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pyRGJzqetY4">Open on YouTube</a></p></div></div></div>
 
 ## The unresolved question: who is accountable when advanced AI causes harm?
 
@@ -861,258 +856,258 @@ This is why many AI safety advocates increasingly focus not only on better rules
 
 1. <a id="endnote-1"></a>
    Source: oecd.ai  
-   Link: [https://oecd.ai/en/catalogue/tools/a-governance-framework-for-algorithmic-accountability-and-transparency](https://oecd.ai/en/catalogue/tools/a-governance-framework-for-algorithmic-accountability-and-transparency)  
+   Link: <a href="https://oecd.ai/en/catalogue/tools/a-governance-framework-for-algorithmic-accountability-and-transparency" target="_blank" rel="noopener noreferrer nofollow">https://oecd.ai/en/catalogue/tools/a-governance-framework-for-algorithmic-accountability-and-transparency</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A governance framework for algorithmic accountability and...May 22, 2023 — The study develops policy options for the governance of algor...</p></details>
    Published: May 22, 2023  
 
 2. <a id="endnote-2"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en/topics/sub-issues/ai-principles.html](https://www.oecd.org/en/topics/sub-issues/ai-principles.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OECDAI principlesThe OECD AI Principles are the first intergovernmental standard on AI. They promote innovative, trustworthy AI that resp...</p></details>
+   Link: <a href="https://www.oecd.org/en/topics/sub-issues/ai-principles.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/topics/sub-issues/ai-principles.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI principlesThe OECD AI Principles are the first intergovernmental standard on AI. They promote innovative, trustworthy AI that resp...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: unesco.org  
    Title: Ethics of Artificial Intelligence  
-   Link: [https://www.unesco.org/en/artificial-intelligence/recommendation-ethics](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics)  
+   Link: <a href="https://www.unesco.org/en/artificial-intelligence/recommendation-ethics" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/artificial-intelligence/recommendation-ethics</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AIHuman Oversight and Determination. Member States should ensure that AI systems do not displace ultimate human responsibility and accoun...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2604.06215](https://arxiv.org/abs/2604.06215)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivGoverning frontier general-purpose AI in the public sector: adaptive risk management and policy capacity under uncertainty through 2...</p></details>
+   Link: <a href="https://arxiv.org/abs/2604.06215" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.06215</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Governing frontier general-purpose AI in the public sector: adaptive risk management and policy capacity under uncertainty through 2...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: oecd.org  
    Title: governing with artificial intelligence 795de142 en  
-   Link: [https://www.oecd.org/en/publications/governing-with-artificial-intelligence_795de142-en.html](https://www.oecd.org/en/publications/governing-with-artificial-intelligence_795de142-en.html)  
+   Link: <a href="https://www.oecd.org/en/publications/governing-with-artificial-intelligence_795de142-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/governing-with-artificial-intelligence_795de142-en.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Governing with Artificial IntelligenceSep 18, 2025 — While national AI strategies are becoming more common, a lack of concrete guidance h...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/org/science/article/pii/S2334452026000044](https://www.sciencedirect.com/org/science/article/pii/S2334452026000044)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectAI Governance Capacity in Public Administration:by MG Özsavaş · 2026 — This study compares artificial intelligence (AI) gove...</p></details>
+   Link: <a href="https://www.sciencedirect.com/org/science/article/pii/S2334452026000044" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S2334452026000044</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Governance Capacity in Public Administration:by MG Özsavaş · 2026 — This study compares artificial intelligence (AI) gove...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2206.04737](https://arxiv.org/abs/2206.04737)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivOutsider Oversight: Designing a Third Party Audit Ecosystem for AI GovernanceJune 9, 2022...</p></details>
+   Link: <a href="https://arxiv.org/abs/2206.04737" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2206.04737</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Outsider Oversight: Designing a Third Party Audit Ecosystem for AI GovernanceJune 9, 2022...</p></details>
    Published: June 9, 2022  
 
 8. <a id="endnote-8"></a>
    Source: committees.parliament.uk  
-   Link: [https://committees.parliament.uk/writtenevidence/147589/pdf/](https://committees.parliament.uk/writtenevidence/147589/pdf/)  
+   Link: <a href="https://committees.parliament.uk/writtenevidence/147589/pdf/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/147589/pdf/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Parliament Committeeswritten evidence submitted by institute for strategic ai...2 Aug 2025 — Jurisdictional Complexity Challenge: Cro...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2206.11922](https://arxiv.org/abs/2206.11922)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivWorldwide AI Ethics: a review of 200 guidelines and recommendations for AI governanceJune 23, 2022...</p></details>
+   Link: <a href="https://arxiv.org/abs/2206.11922" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2206.11922</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Worldwide AI Ethics: a review of 200 guidelines and recommendations for AI governanceJune 23, 2022...</p></details>
    Published: June 23, 2022  
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
    Title: arXiv Oversight Structures for Agentic AI in Public-Sector Organizations  
-   Link: [https://arxiv.org/abs/2506.04836](https://arxiv.org/abs/2506.04836)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivOversight Structures for Agentic AI in Public-Sector OrganizationsJune 5, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2506.04836" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2506.04836</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oversight Structures for Agentic AI in Public-Sector OrganizationsJune 5, 2025...</p></details>
    Published: June 5, 2025  
 
 11. <a id="endnote-11"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en/topics/artificial-intelligence.html](https://www.oecd.org/en/topics/artificial-intelligence.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OECDArtificial intelligenceTrustworthy AI calls for governments worldwide to develop interoperable risk-based approaches to AI governance...</p></details>
+   Link: <a href="https://www.oecd.org/en/topics/artificial-intelligence.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/topics/artificial-intelligence.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligenceTrustworthy AI calls for governments worldwide to develop interoperable risk-based approaches to AI governance...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: oecd.ai  
-   Link: [https://oecd.ai/en/site/risk-accountability](https://oecd.ai/en/site/risk-accountability)  
+   Link: <a href="https://oecd.ai/en/site/risk-accountability" target="_blank" rel="noopener noreferrer nofollow">https://oecd.ai/en/site/risk-accountability</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Risk &amp; Accountability OverviewThe Expert Group on Risk and Accountability explores interoperability and policy coherence among leading ri...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: oecd.ai  
-   Link: [https://oecd.ai/](https://oecd.ai/)  
+   Link: <a href="https://oecd.ai/" target="_blank" rel="noopener noreferrer nofollow">https://oecd.ai/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The OECD Artificial Intelligence Policy Observatory - OECD.AIAI regulatory sandboxes in AI governance: benefits, design, global examples...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: oecd.ai  
    Title: Algorithmic Accountability for the Public Sector  
-   Link: [https://oecd.ai/en/catalogue/tools/algorithmic-accountability-for-the-public-sector](https://oecd.ai/en/catalogue/tools/algorithmic-accountability-for-the-public-sector)  
+   Link: <a href="https://oecd.ai/en/catalogue/tools/algorithmic-accountability-for-the-public-sector" target="_blank" rel="noopener noreferrer nofollow">https://oecd.ai/en/catalogue/tools/algorithmic-accountability-for-the-public-sector</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 22, 2023 — This report presents evidence on the use of algorithmic accountability policies in different contexts from the perspective...</p></details>
    Published: May 22, 2023  
 
 15. <a id="endnote-15"></a>
    Source: oecd.ai  
-   Link: [https://oecd.ai/en/gov/issues/justice](https://oecd.ai/en/gov/issues/justice)  
+   Link: <a href="https://oecd.ai/en/gov/issues/justice" target="_blank" rel="noopener noreferrer nofollow">https://oecd.ai/en/gov/issues/justice</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI in Government: Issues &gt; JusticeAI is reshaping how justice systems operate — offering new ways to improve efficiency, accessibility an...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/en](https://www.unesco.org/en)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO: Building Peace through Education, Science and...UNESCO supports communities affected by conflict and natural disasters, ensurin...</p></details>
+   Link: <a href="https://www.unesco.org/en" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Building Peace through Education, Science and...UNESCO supports communities affected by conflict and natural disasters, ensurin...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/ethics-ai/en/malaysia](https://www.unesco.org/ethics-ai/en/malaysia)  
+   Link: <a href="https://www.unesco.org/ethics-ai/en/malaysia" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/ethics-ai/en/malaysia</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anchored in UNESCO&#x27;s AI Ethics Recommendation, Malaysia has established a comprehensive, multi-stakeholder...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en/topics/ai-principles.html](https://www.oecd.org/en/topics/ai-principles.html)  
+   Link: <a href="https://www.oecd.org/en/topics/ai-principles.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/topics/ai-principles.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI principlesThe OECD AI Principles are the first intergovernmental standard on AI. They promote innovative, trustworthy AI that respects...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/02/oecd-ai-observatory-index_8f5fa0f2/32c01014-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/02/oecd-ai-observatory-index_8f5fa0f2/32c01014-en.pdf)  
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/02/oecd-ai-observatory-index_8f5fa0f2/32c01014-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/02/oecd-ai-observatory-index_8f5fa0f2/32c01014-en.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>tional comparison, and guide future...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: oecd.org  
    Title: governing with artificial intelligence 398fa287  
-   Link: [https://www.oecd.org/en/publications/2025/06/governing-with-artificial-intelligence_398fa287.html](https://www.oecd.org/en/publications/2025/06/governing-with-artificial-intelligence_398fa287.html)  
+   Link: <a href="https://www.oecd.org/en/publications/2025/06/governing-with-artificial-intelligence_398fa287.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/2025/06/governing-with-artificial-intelligence_398fa287.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Governing with Artificial IntelligenceSep 18, 2025 — The report finds that 57% of cases support automating, streamlining or tailoring ser...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: digital-strategy.ec.europa.eu  
    Title: Digital Strategy Europe AI Act | Shaping Europe's digital future  
-   Link: [https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai)  
+   Link: <a href="https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Strategy EuropeAI Act | Shaping Europe&#x27;s digital future - European UnionThe AI Act (Regulation (EU) 2024/1689 laying down harmoni...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: verifywise.ai  
    Title: Verify Wise OECD AI Principles explained  
-   Link: [https://verifywise.ai/ai-governance-library/governance-frameworks/oecd-ai-principles](https://verifywise.ai/ai-governance-library/governance-frameworks/oecd-ai-principles)  
+   Link: <a href="https://verifywise.ai/ai-governance-library/governance-frameworks/oecd-ai-principles" target="_blank" rel="noopener noreferrer nofollow">https://verifywise.ai/ai-governance-library/governance-frameworks/oecd-ai-principles</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OECD AI Principles explained - Governance frameworksEthics and compliance teams building internal AI review processes - the principles of...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: artificialintelligenceact.eu  
-   Link: [https://artificialintelligenceact.eu/high-level-summary/](https://artificialintelligenceact.eu/high-level-summary/)  
+   Link: <a href="https://artificialintelligenceact.eu/high-level-summary/" target="_blank" rel="noopener noreferrer nofollow">https://artificialintelligenceact.eu/high-level-summary/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>summary of the AI ActThis page aims to provide an overview of the EU AI Act&#x27;s enforcement provisions relating to Chapter V, namely the pr...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: academy.evalcommunity.com  
    Title: key oecd ai governance initiatives  
-   Link: [https://academy.evalcommunity.com/key-oecd-ai-governance-initiatives/](https://academy.evalcommunity.com/key-oecd-ai-governance-initiatives/)  
+   Link: <a href="https://academy.evalcommunity.com/key-oecd-ai-governance-initiatives/" target="_blank" rel="noopener noreferrer nofollow">https://academy.evalcommunity.com/key-oecd-ai-governance-initiatives/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OECD AI governance initiativesFeb 16, 2026 — It produces practical guidance on risk management, public-sector AI, and accountability—incr...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: academy.evalcommunity.com  
    Title: unesco recommendation on ai ethics  
-   Link: [https://academy.evalcommunity.com/unesco-recommendation-on-ai-ethics/](https://academy.evalcommunity.com/unesco-recommendation-on-ai-ethics/)  
+   Link: <a href="https://academy.evalcommunity.com/unesco-recommendation-on-ai-ethics/" target="_blank" rel="noopener noreferrer nofollow">https://academy.evalcommunity.com/unesco-recommendation-on-ai-ethics/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Recommendation on AI Ethics16 Dec 2025 — The UNESCO Recommendation on the Ethics of AI is the first global standard-setting instrument fo...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: academy.evalcommunity.com  
    Title: oecd ai principles  
-   Link: [https://academy.evalcommunity.com/oecd-ai-principles/](https://academy.evalcommunity.com/oecd-ai-principles/)  
+   Link: <a href="https://academy.evalcommunity.com/oecd-ai-principles/" target="_blank" rel="noopener noreferrer nofollow">https://academy.evalcommunity.com/oecd-ai-principles/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI PrinciplesDec 17, 2025 — AI governance frameworks should be flexible, risk-based, and interoperable across borders. This approach redu...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: aicc.co  
-   Link: [https://www.aicc.co/responsible-ai-hub/keep-up-to-date-with-responsible-ai/blog-posts/unescos-recommendation-on-ethics-of-ai-why-it-matters-for-northern-ireland](https://www.aicc.co/responsible-ai-hub/keep-up-to-date-with-responsible-ai/blog-posts/unescos-recommendation-on-ethics-of-ai-why-it-matters-for-northern-ireland)  
+   Link: <a href="https://www.aicc.co/responsible-ai-hub/keep-up-to-date-with-responsible-ai/blog-posts/unescos-recommendation-on-ethics-of-ai-why-it-matters-for-northern-ireland" target="_blank" rel="noopener noreferrer nofollow">https://www.aicc.co/responsible-ai-hub/keep-up-to-date-with-responsible-ai/blog-posts/unescos-recommendation-on-ethics-of-ai-why-it-matters-for-northern-ireland</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO&#x27;s Recommendation on Ethics of AIHuman Rights and Dignity: AI must respect foundation rights and freedoms, including privacy, equal...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: digital-skills-jobs.europa.eu  
-   Link: [https://digital-skills-jobs.europa.eu/en/latest/news/unesco-launches-global-ai-ethics-and-governance-observatory-2024-global-forum-ethics](https://digital-skills-jobs.europa.eu/en/latest/news/unesco-launches-global-ai-ethics-and-governance-observatory-2024-global-forum-ethics)  
+   Link: <a href="https://digital-skills-jobs.europa.eu/en/latest/news/unesco-launches-global-ai-ethics-and-governance-observatory-2024-global-forum-ethics" target="_blank" rel="noopener noreferrer nofollow">https://digital-skills-jobs.europa.eu/en/latest/news/unesco-launches-global-ai-ethics-and-governance-observatory-2024-global-forum-ethics</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>launches Global AI Ethics and Governance...27 Jul 2024 — At its core, the Global AI Ethics and Governance Observatory aims to provide a...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: verifywise.ai  
-   Link: [https://verifywise.ai/ai-governance-library/international-and-multilateral/unesco-recommendation-on-the-ethics-of-artificial-intelligen](https://verifywise.ai/ai-governance-library/international-and-multilateral/unesco-recommendation-on-the-ethics-of-artificial-intelligen)  
+   Link: <a href="https://verifywise.ai/ai-governance-library/international-and-multilateral/unesco-recommendation-on-the-ethics-of-artificial-intelligen" target="_blank" rel="noopener noreferrer nofollow">https://verifywise.ai/ai-governance-library/international-and-multilateral/unesco-recommendation-on-the-ethics-of-artificial-intelligen</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO Recommendation on the Ethics of Artificial...The UNESCO Recommendation on the Ethics of Artificial Intelligence stands as the fir...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: unesco.org.uk  
-   Link: [https://unesco.org.uk/](https://unesco.org.uk/)  
+   Link: <a href="https://unesco.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://unesco.org.uk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO in the UK | Building lasting peace through education...UNESCO Sites in the United Kingdom and its Overseas Territories and Crown...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/oecd-ai_oecd-aistandards-trustworthyai-activity-7437476528583733249-OVt4](https://www.linkedin.com/posts/oecd-ai_oecd-aistandards-trustworthyai-activity-7437476528583733249-OVt4)  
+   Link: <a href="https://www.linkedin.com/posts/oecd-ai_oecd-aistandards-trustworthyai-activity-7437476528583733249-OVt4" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/oecd-ai_oecd-aistandards-trustworthyai-activity-7437476528583733249-OVt4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OECD.AI&#x27;s Post... AI governance is no longer only a policy challenge. It is now an institutional readiness challenge. Across many regulat...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: linkedin.com  
    Title: UNESCOUNESC O  
-   Link: [https://www.linkedin.com/company/unesco](https://www.linkedin.com/company/unesco)  
+   Link: <a href="https://www.linkedin.com/company/unesco" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/company/unesco</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCOUNESCO - the United Nations Educational, Scientific and Cultural Organization (UNESCO) was founded on 16 November 1945.Read more...</p></details>
    Published: November 1945  
 
 33. <a id="endnote-33"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/unesco/](https://www.facebook.com/unesco/)  
+   Link: <a href="https://www.facebook.com/unesco/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unesco/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>unescoUNESCO supports effective literacy practices and promotes dynamic literate societies worldwide. Through its International Literacy...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: x.com  
-   Link: [https://x.com/UNESCO](https://x.com/UNESCO)  
+   Link: <a href="https://x.com/UNESCO" target="_blank" rel="noopener noreferrer nofollow">https://x.com/UNESCO</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO 🏛️ #Education #Sciences #CultureUNESCO-designated sites provide a haven for more than 20,000 threatened species. From #WorldHerita...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: blog.exceeds.ai  
    Title: oecd ai principles guide governance  
-   Link: [https://blog.exceeds.ai/oecd-ai-principles-guide-governance/](https://blog.exceeds.ai/oecd-ai-principles-guide-governance/)  
+   Link: <a href="https://blog.exceeds.ai/oecd-ai-principles-guide-governance/" target="_blank" rel="noopener noreferrer nofollow">https://blog.exceeds.ai/oecd-ai-principles-guide-governance/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OECD AI Principles Guide AI Governance in 202616 Feb 2026 — The framework covers five value-based principles, which include inclusive gro...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: unesco.org.nz  
    Title: ethics of artificial intelligence recommendation  
-   Link: [https://unesco.org.nz/knowledge-hub/ethics-of-artificial-intelligence-recommendation](https://unesco.org.nz/knowledge-hub/ethics-of-artificial-intelligence-recommendation)  
+   Link: <a href="https://unesco.org.nz/knowledge-hub/ethics-of-artificial-intelligence-recommendation" target="_blank" rel="noopener noreferrer nofollow">https://unesco.org.nz/knowledge-hub/ethics-of-artificial-intelligence-recommendation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>26 Sept 2023 — In 2021 UNESCO produced the first-ever global standard on AI ethics – the &#x27;Recommendation on the Ethics of Artificial Inte...</p></details>
 
 ### Additional References
 
 37. <a id="endnote-37"></a>
    Source: digitallibrary.un.org  
-   Link: [https://digitallibrary.un.org/record/4062376?ln=en](https://digitallibrary.un.org/record/4062376?ln=en)  
+   Link: <a href="https://digitallibrary.un.org/record/4062376?ln=en" target="_blank" rel="noopener noreferrer nofollow">https://digitallibrary.un.org/record/4062376?ln=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital LibraryRecommendation on the ethics of artificial intelligenceThe protection of human rights and dignity is the cornerstone of th...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: twobirds.com  
-   Link: [https://www.twobirds.com/en/capabilities/artificial-intelligence/ai-legal-services/navigating-ai-governance-across-the-globe](https://www.twobirds.com/en/capabilities/artificial-intelligence/ai-legal-services/navigating-ai-governance-across-the-globe)  
+   Link: <a href="https://www.twobirds.com/en/capabilities/artificial-intelligence/ai-legal-services/navigating-ai-governance-across-the-globe" target="_blank" rel="noopener noreferrer nofollow">https://www.twobirds.com/en/capabilities/artificial-intelligence/ai-legal-services/navigating-ai-governance-across-the-globe</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Navigating AI governance across the globeAs a result, AI compliance in the EU requires navigating a multi-layered framework that integrat...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: bsg.ox.ac.uk  
-   Link: [https://www.bsg.ox.ac.uk/blog/ai-acts-enforcement-gap-what-polands-new-regulator-reveals-about-europes-challenge](https://www.bsg.ox.ac.uk/blog/ai-acts-enforcement-gap-what-polands-new-regulator-reveals-about-europes-challenge)  
+   Link: <a href="https://www.bsg.ox.ac.uk/blog/ai-acts-enforcement-gap-what-polands-new-regulator-reveals-about-europes-challenge" target="_blank" rel="noopener noreferrer nofollow">https://www.bsg.ox.ac.uk/blog/ai-acts-enforcement-gap-what-polands-new-regulator-reveals-about-europes-challenge</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Act&#x27;s enforcement gap: what Poland&#x27;s new regulator...24 Mar 2026 — The AI Act leaves Member States free to design their own national...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: waccglobal.org  
-   Link: [https://waccglobal.org/ten-core-principles-in-a-human-rights-centred-approach-to-the-ethics-of-ai/](https://waccglobal.org/ten-core-principles-in-a-human-rights-centred-approach-to-the-ethics-of-ai/)  
+   Link: <a href="https://waccglobal.org/ten-core-principles-in-a-human-rights-centred-approach-to-the-ethics-of-ai/" target="_blank" rel="noopener noreferrer nofollow">https://waccglobal.org/ten-core-principles-in-a-human-rights-centred-approach-to-the-ethics-of-ai/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>There should be oversight, impact assessment, audit and due diligence mechanisms in place to avoid conflicts with...Read more...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: academy.evalcommunity.com  
    Title: how do oecd ai principles support monitoring and evaluation me  
-   Link: [https://academy.evalcommunity.com/how-do-oecd-ai-principles-support-monitoring-and-evaluation-me/](https://academy.evalcommunity.com/how-do-oecd-ai-principles-support-monitoring-and-evaluation-me/)  
+   Link: <a href="https://academy.evalcommunity.com/how-do-oecd-ai-principles-support-monitoring-and-evaluation-me/" target="_blank" rel="noopener noreferrer nofollow">https://academy.evalcommunity.com/how-do-oecd-ai-principles-support-monitoring-and-evaluation-me/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Principles in Monitoring and EvaluationFeb 16, 2026 — The OECD AI Principles support monitoring and evaluation (M&amp;E) by establishing g...</p></details>
 
 42. <a id="endnote-42"></a>
    Source: diplomacy.edu  
    Title: The gap between AI rules and AI reality  
-   Link: [https://www.diplomacy.edu/blog/the-gap-between-ai-rules-and-ai-reality/](https://www.diplomacy.edu/blog/the-gap-between-ai-rules-and-ai-reality/)  
+   Link: <a href="https://www.diplomacy.edu/blog/the-gap-between-ai-rules-and-ai-reality/" target="_blank" rel="noopener noreferrer nofollow">https://www.diplomacy.edu/blog/the-gap-between-ai-rules-and-ai-reality/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Diplo14 Apr 2026 — An analysis of why the EU AI Act&#x27;s high-risk obligations are delayed by 16 months and how US federal intervention is d...</p></details>
 
 43. <a id="endnote-43"></a>
    Source: bisi.org.uk  
    Title: global fragmentation of ai governance  
-   Link: [https://bisi.org.uk/reports/global-fragmentation-of-ai-governance](https://bisi.org.uk/reports/global-fragmentation-of-ai-governance)  
+   Link: <a href="https://bisi.org.uk/reports/global-fragmentation-of-ai-governance" target="_blank" rel="noopener noreferrer nofollow">https://bisi.org.uk/reports/global-fragmentation-of-ai-governance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Regulation30 Jan 2026 — Global AI governance has fragmented into competing regulatory philosophies, with the European Union (EU) enfo...</p></details>
 
 44. <a id="endnote-44"></a>
    Source: jdsupra.com  
    Title: A I Watch: Global regulatory tracker  
-   Link: [https://www.jdsupra.com/legalnews/ai-watch-global-regulatory-tracker-oecd-2883883/](https://www.jdsupra.com/legalnews/ai-watch-global-regulatory-tracker-oecd-2883883/)  
+   Link: <a href="https://www.jdsupra.com/legalnews/ai-watch-global-regulatory-tracker-oecd-2883883/" target="_blank" rel="noopener noreferrer nofollow">https://www.jdsupra.com/legalnews/ai-watch-global-regulatory-tracker-oecd-2883883/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Watch: Global regulatory tracker - OECD: The...May 11, 2026 — The OECD&#x27;s AI Regulations intend to help shape a stable policy environ...</p></details>
    Published: May 11, 2026  
 
 45. <a id="endnote-45"></a>
    Source: whitecase.com  
    Title: A I Watch: Global regulatory tracker  
-   Link: [https://www.whitecase.com/insight-our-thinking/ai-watch-global-regulatory-tracker-oecd](https://www.whitecase.com/insight-our-thinking/ai-watch-global-regulatory-tracker-oecd)  
+   Link: <a href="https://www.whitecase.com/insight-our-thinking/ai-watch-global-regulatory-tracker-oecd" target="_blank" rel="noopener noreferrer nofollow">https://www.whitecase.com/insight-our-thinking/ai-watch-global-regulatory-tracker-oecd</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Watch: Global regulatory tracker - OECDThe OECD&#x27;s Expert Group on AI Futures explores potential AI impacts, guiding policymakers on cr...</p></details>
 
 46. <a id="endnote-46"></a>
    Source: digital-strategy.ec.europa.eu  
    Title: ethics guidelines trustworthy ai  
-   Link: [https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai](https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai)  
+   Link: <a href="https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>guidelines for trustworthy AI8 Apr 2019 — Human agency and oversight: AI systems should empower human beings, allowing them to make infor...</p></details>

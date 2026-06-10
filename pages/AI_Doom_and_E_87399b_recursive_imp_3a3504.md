@@ -19,19 +19,19 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_loss_of_contr_19a113
 - AI_Doom_and_E_87399b_p_doom_estima_72d1f2
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - ai-takeoff
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - ai-takeoff
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: The intelligence explosion debate asks whether AI could accelerate AI research fast enough to outrun human oversight.
 hero_summary: The intelligence explosion debate asks whether AI could accelerate AI research fast enough to outrun human oversight.
 layout: default
 permalink: /ai-takeoff/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 nav_short_title: AI Takeoff
 title: Could AI Improvement Run Away From US?
 title_full: Could AI Improvement Run Away From US? | AI Doom
@@ -211,61 +211,61 @@ ui_strings:
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 12:19:14'
 parent_title: AI Doom
-parent_permalink: /ai-doom-and/
+parent_permalink: /ai-doom-and-e-87399-b/
 parent_nav_short_title: AI Doom
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 sibling_links:
 - basename: AI_Doom_and_E_87399b_dangerous_aut_8f4266
-  title: Autonomy | AI Doom and
+  title: Autonomy | AI Doom and E 87399 b
   permalink: /autonomy/
   short_title: Autonomy
   heading_title: When Does AI Autonomy Become Dangerous?
 - basename: AI_Doom_and_E_87399b_interpretabil_15527d
-  title: Control Tools | AI Doom and
+  title: Control Tools | AI Doom and E 87399 b
   permalink: /control-tools/
   short_title: Control Tools
   heading_title: Can We Make Advanced AI Understandable?
 - basename: AI_Doom_and_E_87399b_frontier_ai_e_9920ab
-  title: Evals | AI Doom and
+  title: Evals | AI Doom and E 87399 b
   permalink: /evals/
   short_title: Evals
   heading_title: Can Tests Catch Dangerous AI in Time?
 - basename: AI_Doom_and_E_87399b_compute_gover_1ee8fc
-  title: Governance | AI Doom and
+  title: Governance | AI Doom and E 87399 b
   permalink: /governance/
   short_title: Governance
   heading_title: What Rules Could Reduce AI Doom Risk?
 - basename: AI_Doom_and_E_87399b_loss_of_contr_19a113
-  title: Loss of Control | AI Doom and
+  title: Loss of Control | AI Doom and E 87399 b
   permalink: /loss-of-control/
   short_title: Loss of Control
   heading_title: How Could Humans Lose Control of AI?
 - basename: AI_Doom_and_E_87399b_catastrophic_c92548
-  title: Misuse | AI Doom and
+  title: Misuse | AI Doom and E 87399 b
   permalink: /misuse/
   short_title: Misuse
   heading_title: How Could People Misuse Advanced AI?
 - basename: AI_Doom_and_E_87399b_p_doom_estima_72d1f2
-  title: P Doom | AI Doom and
+  title: P Doom | AI Doom and E 87399 b
   permalink: /p-doom/
   short_title: P Doom
   heading_title: What Does p(doom) Really Mean?
 - basename: AI_Doom_and_E_87399b_ai_race_dynam_a5d049
-  title: Race Pressure | AI Doom and
+  title: Race Pressure | AI Doom and E 87399 b
   permalink: /race-pressure/
   short_title: Race Pressure
   heading_title: Why AI Races Can Make Safety Harder
 - basename: AI_Doom_and_E_87399b_deceptive_ali_f9f449
-  title: Scheming Tests | AI Doom and
+  title: Scheming Tests | AI Doom and E 87399 b
   permalink: /scheming-tests/
   short_title: Scheming Tests
   heading_title: Can AI Pretend to Be Aligned?
@@ -293,11 +293,11 @@ child_links:
 up_link:
   basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 next_link:
   basename: AI_Doom_and_E_87399b_dangerous_aut_8f4266
-  title: Autonomy | AI Doom and
+  title: Autonomy | AI Doom and E 87399 b
   permalink: /autonomy/
   short_title: Autonomy
   heading_title: When Does AI Autonomy Become Dangerous?
@@ -309,7 +309,7 @@ image: /assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504-overview-social.
 
 ## Introduction
 
-One of the clearest‑defined mechanisms that feeds into **[AI doom and]({{ 'ai-doom-and/' | relative_url }}) existential risk** narratives is *recursive AI improvement* — the idea that an AI system could progressively enhance its own capabilities without human guidance, triggering a rapid *intelligence explosion* that leaves [human oversight]({{ 'human-oversight/' | relative_url }}) far behind. This page explains what people mean by recursive improvement, how it might unfold, why the speed of such a *takeoff* matters for risk, and what current research suggests about how close we might be to this phenomenon. Echoing the long‑standing origin of the idea with British mathematician I. J. Good, the core concern is that once a machine can reliably improve itself, its learning could accelerate in a positive feedback loop — with profound implications for control and alignment.[AI Wiki]
+One of the clearest‑defined mechanisms that feeds into **AI doom and existential risk** narratives is *recursive AI improvement* — the idea that an AI system could progressively enhance its own capabilities without human guidance, triggering a rapid *intelligence explosion* that leaves [human oversight]({{ 'human-oversight/' | relative_url }}) far behind. This page explains what people mean by recursive improvement, how it might unfold, why the speed of such a *takeoff* matters for risk, and what current research suggests about how close we might be to this phenomenon. Echoing the long‑standing origin of the idea with British mathematician I. J. Good, the core concern is that once a machine can reliably improve itself, its learning could accelerate in a positive feedback loop — with profound implications for control and alignment.[AI Wiki]
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504-overview.webp" | relative_url }}" alt="Overview image for AI Takeoff" loading="eager" decoding="sync" fetchpriority="high">
@@ -351,11 +351,11 @@ The term “FOOM” is often used in this community for an abrupt jump in capabi
 
 Recursive improvement today is not yet the dramatic, autonomous cycle that Good imagined, but multiple strands of current work touch on components of it:
 
-* **Automating [AI research]({{ 'ai-research-loop/' | relative_url }}):** Efforts to use AI tools to assist in writing code, designing models, and tuning hyperparameters are increasing. Some labs view this as a stepping stone toward systems that could more fully automate AI development itself. A recent research agenda from a major lab warns that there is now a >60 % chance an AI model could fully train its successor autonomously by 2028, and proposes crisis‑infrastructure measures in response.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.grayscaleinsight.com/global/anthropic-warns-ai-recursive-self-improvement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grayscaleinsight.com">[GrayscaleInsight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grayscaleinsight.com</span><span class="citation-popover-title">anthropic warns ai recursive self improvement</span><span class="citation-popover-snippet">GrayscaleInsightAnthropic Warns of AI &#x27;Intelligence Explosion&#x27; by 2028 — GrayscaleInsightMay 7, 2026...</span><span class="citation-popover-meta">Published: May 7, 2026</span></span></span>
+* **Automating AI research:** Efforts to use AI tools to assist in writing code, designing models, and tuning hyperparameters are increasing. Some labs view this as a stepping stone toward systems that could more fully automate AI development itself. A recent research agenda from a major lab warns that there is now a >60 % chance an AI model could fully train its successor autonomously by 2028, and proposes crisis‑infrastructure measures in response.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.grayscaleinsight.com/global/anthropic-warns-ai-recursive-self-improvement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grayscaleinsight.com">[GrayscaleInsight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grayscaleinsight.com</span><span class="citation-popover-title">anthropic warns ai recursive self improvement</span><span class="citation-popover-snippet">Anthropic Warns of AI &#x27;Intelligence Explosion&#x27; by 2028 — GrayscaleInsightMay 7, 2026...</span><span class="citation-popover-meta">Published: May 7, 2026</span></span></span>
 * **Incremental self‑improvement in narrow domains:** Practical techniques like meta‑learning, self‑play (used in game‑solving systems), and automated machine learning show that systems can improve performance in constrained tasks — but these are far from the kind of self‑directed capability growth that would constitute a true intelligence explosion.[AI Wiki]
-* **Debates over technical limits:** Recent modelling work questions whether hardware constraints and the economics of compute might fundamentally slow any explosive loop, suggesting that recursive improvement might interact with physical bottlenecks or human‑managed resources in ways that soften takeoff.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2507.23181" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Will Compute Bottlenecks Prevent an Intelligence Explosion?</span><span class="citation-popover-snippet">arXivWill Compute Bottlenecks Prevent an Intelligence Explosion?July 31, 2025...</span><span class="citation-popover-meta">Published: July 31, 2025</span></span></span>
+* **Debates over technical limits:** Recent modelling work questions whether hardware constraints and the economics of compute might fundamentally slow any explosive loop, suggesting that recursive improvement might interact with physical bottlenecks or human‑managed resources in ways that soften takeoff.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2507.23181" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Will Compute Bottlenecks Prevent an Intelligence Explosion?</span><span class="citation-popover-snippet">Will Compute Bottlenecks Prevent an Intelligence Explosion?July 31, 2025...</span><span class="citation-popover-meta">Published: July 31, 2025</span></span></span>
 
-Moreover, a 2026 survey of frontier [AI researchers]({{ 'expert-surveys/' | relative_url }}) found broad agreement that automating AI research is a high‑priority risk concern, though opinions diverge on whether this will lead to explosive growth versus slower, incremental change.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2507.23181" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Will Compute Bottlenecks Prevent an Intelligence Explosion?</span><span class="citation-popover-snippet">arXivWill Compute Bottlenecks Prevent an Intelligence Explosion?July 31, 2025...</span><span class="citation-popover-meta">Published: July 31, 2025</span></span></span>
+Moreover, a 2026 survey of frontier AI researchers found broad agreement that automating AI research is a high‑priority risk concern, though opinions diverge on whether this will lead to explosive growth versus slower, incremental change.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2507.23181" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Will Compute Bottlenecks Prevent an Intelligence Explosion?</span><span class="citation-popover-snippet">Will Compute Bottlenecks Prevent an Intelligence Explosion?July 31, 2025...</span><span class="citation-popover-meta">Published: July 31, 2025</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jQsEF_HFbAE" title="GAEA Talks - Every AI Safety Warning Was Ignored with Dr Roman Yampolskiy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jQsEF_HFbAE" target="_blank" rel="noopener noreferrer">GAEA Talks - Every AI Safety Warning Was Ignored with Dr Roman Yampolskiy</a></p><p class="youtube-embed-meta">Channel: GAEA AI &middot; Views: 110.3K &middot; Uploaded: March 2026 &middot; Length: 1 hour 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jQsEF_HFbAE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jQsEF_HFbAE">Open on YouTube</a></p></div></div></div>
@@ -795,132 +795,132 @@ Recursive self‑improvement remains theoretical today. There is no public evide
 
 1. <a id="endnote-1"></a>
    Source: ai-safety-atlas.com  
-   Link: [https://ai-safety-atlas.com/chapters/v1/capabilities/takeoff/](https://ai-safety-atlas.com/chapters/v1/capabilities/takeoff/)  
+   Link: <a href="https://ai-safety-atlas.com/chapters/v1/capabilities/takeoff/" target="_blank" rel="noopener noreferrer nofollow">https://ai-safety-atlas.com/chapters/v1/capabilities/takeoff/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 1 - AI Safety Atlas...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: grayscaleinsight.com  
    Title: anthropic warns ai recursive self improvement  
-   Link: [https://www.grayscaleinsight.com/global/anthropic-warns-ai-recursive-self-improvement/](https://www.grayscaleinsight.com/global/anthropic-warns-ai-recursive-self-improvement/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GrayscaleInsightAnthropic Warns of AI &#x27;Intelligence Explosion&#x27; by 2028 — GrayscaleInsightMay 7, 2026...</p></details>
+   Link: <a href="https://www.grayscaleinsight.com/global/anthropic-warns-ai-recursive-self-improvement/" target="_blank" rel="noopener noreferrer nofollow">https://www.grayscaleinsight.com/global/anthropic-warns-ai-recursive-self-improvement/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic Warns of AI &#x27;Intelligence Explosion&#x27; by 2028 — GrayscaleInsightMay 7, 2026...</p></details>
    Published: May 7, 2026  
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv Will Compute Bottlenecks Prevent an Intelligence Explosion?  
-   Link: [https://arxiv.org/abs/2507.23181](https://arxiv.org/abs/2507.23181)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivWill Compute Bottlenecks Prevent an Intelligence Explosion?July 31, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2507.23181" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2507.23181</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Will Compute Bottlenecks Prevent an Intelligence Explosion?July 31, 2025...</p></details>
    Published: July 31, 2025  
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv AI Researchers' Views on Automating AI R&D and Intelligence Explosions  
-   Link: [https://arxiv.org/abs/2603.03338](https://arxiv.org/abs/2603.03338)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivAI Researchers&#x27; Views on Automating AI R&amp;D and Intelligence ExplosionsFebruary 13, 2026...</p></details>
+   Link: <a href="https://arxiv.org/abs/2603.03338" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.03338</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Researchers&#x27; Views on Automating AI R&amp;D and Intelligence ExplosionsFebruary 13, 2026...</p></details>
    Published: February 13, 2026  
 
 5. <a id="endnote-5"></a>
    Source: youtube.com  
    Title: Superintelligence | Nick Bostrom | Talks at Google  
-   Link: [https://www.youtube.com/watch?v=pywF6ZzsghI](https://www.youtube.com/watch?v=pywF6ZzsghI)  
+   Link: <a href="https://www.youtube.com/watch?v=pywF6ZzsghI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pywF6ZzsghI</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nick Bostrom - The Intelligence Explosion, What Happens to Humans and New Economic Systems...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
    Title: Nick Bostrom  
-   Link: [https://www.youtube.com/watch?v=EKomXwswYJ8](https://www.youtube.com/watch?v=EKomXwswYJ8)  
+   Link: <a href="https://www.youtube.com/watch?v=EKomXwswYJ8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EKomXwswYJ8</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>GAEA Talks - Every AI Safety Warning Was Ignored with Dr Roman Yampolskiy...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: aiwiki.ai  
    Title: AI Wiki Recursive self-improvement  
-   Link: [https://www.aiwiki.ai/wiki/Recursive_self-improvement](https://www.aiwiki.ai/wiki/Recursive_self-improvement)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI WikiRecursive self-improvement - AI Wiki - [Artificial](&amp;#123;&amp;#123; &#x27;artificial-goals/&#x27; | relative_url &amp;#125;&amp;#125;) Intelligence Wiki...</p></details>
+   Link: <a href="https://www.aiwiki.ai/wiki/Recursive_self-improvement" target="_blank" rel="noopener noreferrer nofollow">https://www.aiwiki.ai/wiki/Recursive_self-improvement</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI WikiRecursive self-improvement - AI Wiki - Artificial Intelligence Wiki...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: envisioning.com  
    Title: Intelligence Explosion | Envisioning Vocab  
-   Link: [https://www.envisioning.com/vocab/intelligence-explosion](https://www.envisioning.com/vocab/intelligence-explosion)  
+   Link: <a href="https://www.envisioning.com/vocab/intelligence-explosion" target="_blank" rel="noopener noreferrer nofollow">https://www.envisioning.com/vocab/intelligence-explosion</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Year: 1965 Generality: 520 Back to Vocab An intelligence explosion...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: aiwiki.ai  
    Title: Existential risk from AI | AI Wiki  
-   Link: [https://aiwiki.ai/wiki/ai_existential_risk](https://aiwiki.ai/wiki/ai_existential_risk)  
+   Link: <a href="https://aiwiki.ai/wiki/ai_existential_risk" target="_blank" rel="noopener noreferrer nofollow">https://aiwiki.ai/wiki/ai_existential_risk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March 25, 2026 — ARGUMENTS FOR EXISTENTIAL RISK Proponents of the view that advanced AI poses an existential risk point to several interc...</p></details>
    Published: March 25, 2026  
 
 11. <a id="endnote-11"></a>
    Source: lesswrong.com  
    Title: intelligence explosion  
-   Link: [https://www.lesswrong.com/w/intelligence-explosion](https://www.lesswrong.com/w/intelligence-explosion)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LessWrongFebruary 19, 2025 — Intelligence explosion — LessWrong INTELLIGENCE EXPLOSION Edited by Alex_Altair, joaolkf, Swimmer963 (Mirand...</p></details>
+   Link: <a href="https://www.lesswrong.com/w/intelligence-explosion" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/w/intelligence-explosion</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 19, 2025 — Intelligence explosion — LessWrong INTELLIGENCE EXPLOSION Edited by Alex_Altair, joaolkf, Swimmer963 (Mirand...</p></details>
    Published: February 19, 2025  
 
 12. <a id="endnote-12"></a>
    Source: aisafety.info  
    Title: What is "AI takeoff"?WHAT IS "AI TAKEOFF"?  
-   Link: [https://aisafety.info/questions/7071/](https://aisafety.info/questions/7071/)  
+   Link: <a href="https://aisafety.info/questions/7071/" target="_blank" rel="noopener noreferrer nofollow">https://aisafety.info/questions/7071/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4 min read Copy link to clipboard Suggest changes in Google Docs This text was automatically imported from a tag on LessWrong. AI Takeoff...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: nottldr.com  
-   Link: [https://www.nottldr.com/FrontierSeeker/recursive-self-improvement-the-dynamics-of-intelligence-explosion-0ivhv7e](https://www.nottldr.com/FrontierSeeker/recursive-self-improvement-the-dynamics-of-intelligence-explosion-0ivhv7e)  
+   Link: <a href="https://www.nottldr.com/FrontierSeeker/recursive-self-improvement-the-dynamics-of-intelligence-explosion-0ivhv7e" target="_blank" rel="noopener noreferrer nofollow">https://www.nottldr.com/FrontierSeeker/recursive-self-improvement-the-dynamics-of-intelligence-explosion-0ivhv7e</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Recursive Self-Improvement: The Dynamics of Intelligence Explosion by FrontierSeeker |!tldrRECURSIVE SELF-IMPROVEMENT: THE DYNAMICS OF I...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: nottldr.com  
-   Link: [https://www.nottldr.com/FutureCraft/the-intelligence-explosion-understanding-recursive-self-improvement-in-ai-systems-0hm2e96](https://www.nottldr.com/FutureCraft/the-intelligence-explosion-understanding-recursive-self-improvement-in-ai-systems-0hm2e96)  
+   Link: <a href="https://www.nottldr.com/FutureCraft/the-intelligence-explosion-understanding-recursive-self-improvement-in-ai-systems-0hm2e96" target="_blank" rel="noopener noreferrer nofollow">https://www.nottldr.com/FutureCraft/the-intelligence-explosion-understanding-recursive-self-improvement-in-ai-systems-0hm2e96</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Intelligence Explosion: Understanding Recursive Self-Improvement in AI Systems by FutureCraft |!tldrImage: women&amp;#039;s black open c...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: gcri.org  
-   Link: [https://gcri.org/publications/research/model-pathways-superintelligence-catastrophe](https://gcri.org/publications/research/model-pathways-superintelligence-catastrophe)  
+   Link: <a href="https://gcri.org/publications/research/model-pathways-superintelligence-catastrophe" target="_blank" rel="noopener noreferrer nofollow">https://gcri.org/publications/research/model-pathways-superintelligence-catastrophe</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>April 15, 2016 — A MODEL OF PATHWAYS TO ARTIFICIAL SUPERINTELLIGENCE CATASTROPHE FOR RISK AND DECISION ANALYSIS by Anthony Barrett, Seth...</p></details>
    Published: April 15, 2016  
 
 16. <a id="endnote-16"></a>
    Source: axios.com  
-   Link: [https://www.axios.com/2026/05/07/anthropic-jack-clark-ai-intelligence-explosion](https://www.axios.com/2026/05/07/anthropic-jack-clark-ai-intelligence-explosion)  
+   Link: <a href="https://www.axios.com/2026/05/07/anthropic-jack-clark-ai-intelligence-explosion" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2026/05/07/anthropic-jack-clark-ai-intelligence-explosion</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Co-founder Jack Clark predicts a greater than 60% chance that by 2028, an AI system could autonomously build a better version of itself...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: jmmcd.net  
-   Link: [https://www.jmmcd.net/2024/03/18/whats-your-pdoom-ai-risk-ai-safety.html](https://www.jmmcd.net/2024/03/18/whats-your-pdoom-ai-risk-ai-safety.html)  
+   Link: <a href="https://www.jmmcd.net/2024/03/18/whats-your-pdoom-ai-risk-ai-safety.html" target="_blank" rel="noopener noreferrer nofollow">https://www.jmmcd.net/2024/03/18/whats-your-pdoom-ai-risk-ai-safety.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>James McDermott §March 18, 2024 — RECURSIVE SELF-IMPROVEMENT AND TAKE-OFF SPEED A central issue in some AI Safety debates is whether “tak...</p></details>
    Published: March 18, 2024  
 
 18. <a id="endnote-18"></a>
    Source: longtermwiki.com  
    Title: Self-Improvement and Recursive Enhancement | Longterm Wiki  
-   Link: [https://www.longtermwiki.com/wiki/self-improvement](https://www.longtermwiki.com/wiki/self-improvement)  
+   Link: <a href="https://www.longtermwiki.com/wiki/self-improvement" target="_blank" rel="noopener noreferrer nofollow">https://www.longtermwiki.com/wiki/self-improvement</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March 9, 2026 — THE INTELLIGENCE EXPLOSION HYPOTHESIS The intelligence explosion scenario represents the most extreme form of self-improv...</p></details>
    Published: March 9, 2026  
 
 19. <a id="endnote-19"></a>
    Source: unite.ai  
-   Link: [https://www.unite.ai/when-ai-agents-start-building-ai-the-recursive-intelligence-explosion-nobodys-prepared-for/](https://www.unite.ai/when-ai-agents-start-building-ai-the-recursive-intelligence-explosion-nobodys-prepared-for/)  
+   Link: <a href="https://www.unite.ai/when-ai-agents-start-building-ai-the-recursive-intelligence-explosion-nobodys-prepared-for/" target="_blank" rel="noopener noreferrer nofollow">https://www.unite.ai/when-ai-agents-start-building-ai-the-recursive-intelligence-explosion-nobodys-prepared-for/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>When AI Agents Start Building AI: The Recursive Intelligence Explosion Nobody’s Prepared For – Unite.AIJanuary 16, 2026 — WHEN AI AGENTS...</p></details>
    Published: January 16, 2026  
 
 20. <a id="endnote-20"></a>
    Source: arstechnica.com  
    Title: Are we on the verge of a self-improving AI explosion?  
-   Link: [https://arstechnica.com/ai/2024/10/the-quest-to-use-ai-to-build-better-ai/](https://arstechnica.com/ai/2024/10/the-quest-to-use-ai-to-build-better-ai/)  
+   Link: <a href="https://arstechnica.com/ai/2024/10/the-quest-to-use-ai-to-build-better-ai/" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/ai/2024/10/the-quest-to-use-ai-to-build-better-ai/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ars TechnicaOctober 28, 2024 — ARE WE ON THE VERGE OF A SELF-IMPROVING AI EXPLOSION? An AI that makes better AI could be “the last invent...</p></details>
    Published: October 28, 2024  
 
 21. <a id="endnote-21"></a>
    Source: briefing.center  
    Title: Are we on the verge of a self-improving AI explosion?  
-   Link: [https://briefing.center/news/are-we-verge-self-improving-ai-explosion](https://briefing.center/news/are-we-verge-self-improving-ai-explosion)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| briefing·centerOctober 28, 2024 — News ARE WE ON THE VERGE OF A SELF-IMPROVING AI EXPLOSION? Ars Technica - All content · Kyle Orland ·...</p></details>
+   Link: <a href="https://briefing.center/news/are-we-verge-self-improving-ai-explosion" target="_blank" rel="noopener noreferrer nofollow">https://briefing.center/news/are-we-verge-self-improving-ai-explosion</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>briefing·centerOctober 28, 2024 — News ARE WE ON THE VERGE OF A SELF-IMPROVING AI EXPLOSION? Ars Technica - All content · Kyle Orland ·...</p></details>
    Published: October 28, 2024  
 
 22. <a id="endnote-22"></a>
    Source: ui.stampy.ai  
    Title: ai What is "AI takeoff"?WHAT IS "AI TAKEOFF"?  
-   Link: [https://ui.stampy.ai/questions/7071/What-is-%22AI-takeoff%22](https://ui.stampy.ai/questions/7071/What-is-%22AI-takeoff%22)  
+   Link: <a href="https://ui.stampy.ai/questions/7071/What-is-%22AI-takeoff%22" target="_blank" rel="noopener noreferrer nofollow">https://ui.stampy.ai/questions/7071/What-is-%22AI-takeoff%22</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4 min read Share this article Suggest changes in Google Docs This text was automatically imported from a tag on LessWrong. AI Takeoff is...</p></details>

@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93_long_timeline_8bd32c
 - AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93_short_timelin_2c07bc
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - p-doom
 - timeline-effects
 - survey-evidence
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - p-doom
 - timeline-effects
 - survey-evidence
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Expert surveys reveal wide disagreement about when advanced AI may arrive and how much catastrophic risk researchers attach to it.
 hero_summary: Expert surveys reveal wide disagreement about when advanced AI may arrive and how much catastrophic risk researchers attach to it.
 layout: default
 permalink: /survey-evidence/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /p-doom/
 - /timeline-effects/
 nav_short_title: Survey evidence
@@ -211,10 +211,10 @@ parent_heading_title: How AI Development Timelines Shape Doom Estimates
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_p_doom_estima_72d1f2
-  title: P Doom | AI Doom and
+  title: P Doom | AI Doom and E 87399 b
   permalink: /p-doom/
   short_title: P Doom
   heading_title: What Does p(doom) Really Mean?
@@ -226,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_p_doom_estima_72d1f2
-  title: P Doom | AI Doom and
+  title: P Doom | AI Doom and E 87399 b
   permalink: /p-doom/
   short_title: P Doom
   heading_title: What Does p(doom) Really Mean?
@@ -269,17 +269,17 @@ image: /assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_ed
 
 ## Introduction
 
-[AI researcher]({{ 'expert-surveys/' | relative_url }}) surveys are often treated as a reality check in debates about [AI doom and]({{ 'ai-doom-and/' | relative_url }}) p(doom), the estimated probability that advanced AI causes existential catastrophe. They matter because they ask the people closest to the technology two related questions: how soon highly capable AI systems might arrive, and how much risk those systems could pose.
+AI researcher surveys are often treated as a reality check in debates about AI doom and p(doom), the estimated probability that advanced AI causes existential catastrophe. They matter because they ask the people closest to the technology two related questions: how soon highly capable AI systems might arrive, and how much risk those systems could pose.
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93_ai_surveys_ti_3e6c9e-Illustration-1-dark.svg" | relative_url }}" alt="Survey evidence illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93_ai_surveys_ti_3e6c9e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93_ai_surveys_ti_3e6c9e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The headline finding is not that experts agree on either question. It is almost the opposite. Large surveys of [AI researchers]({{ 'expert-surveys/' | relative_url }}) consistently show enormous disagreement about timelines, [catastrophic]({{ 'misuse/' | relative_url }}) risk, and humanity's ability to manage increasingly powerful systems. Yet they also show that existential-risk concerns are no longer confined to a small fringe. A meaningful fraction of researchers assign non-trivial probabilities to extremely bad outcomes, including scenarios as severe as human extinction. <span class="citation-chip-wrap"><a class="citation-chip" href="http://www.youtube.com/watch?v=xwJx_xqZI3Q" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[AI Impacts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">AI Impacts Survey</span><span class="citation-popover-snippet">AI Impacts Survey</span></span></span>
+The headline finding is not that experts agree on either question. It is almost the opposite. Large surveys of AI researchers consistently show enormous disagreement about timelines, [catastrophic]({{ 'misuse/' | relative_url }}) risk, and humanity's ability to manage increasingly powerful systems. Yet they also show that existential-risk concerns are no longer confined to a small fringe. A meaningful fraction of researchers assign non-trivial probabilities to extremely bad outcomes, including scenarios as severe as human extinction. <span class="citation-chip-wrap"><a class="citation-chip" href="http://www.youtube.com/watch?v=xwJx_xqZI3Q" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[AI Impacts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">AI Impacts Survey</span><span class="citation-popover-snippet">AI Impacts Survey</span></span></span>
 
-For readers interested in the impact of [AI timelines]({{ 'timeline-effects/' | relative_url }}) on p(doom) assessments, survey evidence is important because timelines and risk estimates are closely connected. Researchers who expect transformative AI sooner often worry that safety research, [governance]({{ 'governance/' | relative_url }}), and institutional adaptation may not keep pace. Researchers with longer timelines often see more opportunity for learning, regulation, and technical progress before the most capable systems arrive.
+For readers interested in the impact of AI timelines on p(doom) assessments, survey evidence is important because timelines and risk estimates are closely connected. Researchers who expect transformative AI sooner often worry that safety research, [governance]({{ 'governance/' | relative_url }}), and institutional adaptation may not keep pace. Researchers with longer timelines often see more opportunity for learning, regulation, and technical progress before the most capable systems arrive.
 
 ## Milestone forecasts and uncertainty ranges
 
-One of the most influential recent datasets is the 2023 Expert Survey on Progress in AI, which gathered responses from 2,778 researchers who had published at leading AI conferences. The results illustrated both accelerating expectations and persistent uncertainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2401.02843" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Thousands of AI Authors on the Future of AI</span><span class="citation-popover-snippet">arXiv Thousands of AI Authors on the Future of AI</span></span></span>
+One of the most influential recent datasets is the 2023 Expert Survey on Progress in AI, which gathered responses from 2,778 researchers who had published at leading AI conferences. The results illustrated both accelerating expectations and persistent [uncertainty]({{ 'uncertainty/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2401.02843" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Thousands of AI Authors on the Future of AI</span><span class="citation-popover-snippet">arXiv Thousands of AI Authors on the Future of AI</span></span></span>
 
 Respondents assigned at least a 50% probability that several demanding AI milestones could be achieved by 2028, including building complex software systems autonomously and performing tasks that had recently been considered far beyond the reach of machine learning systems. The survey also found a median forecast of a 50% chance that machines would outperform humans at every task by around 2047, substantially earlier than estimates from a similar survey conducted only a year before. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2401.02843" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Thousands of AI Authors on the Future of AI</span><span class="citation-popover-snippet">arXiv Thousands of AI Authors on the Future of AI</span></span></span>
 
@@ -316,14 +316,14 @@ For example, some researchers may regard extinction as an exceptionally unlikely
 
 Timeline questions have similar problems. Forecasts about "human-level AI", "artificial general intelligence", "transformative AI", and "full automation of labour" often produce different answers because respondents are imagining different thresholds. <span class="citation-chip-wrap"><a class="citation-chip" href="http://www.youtube.com/watch?v=xwJx_xqZI3Q" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[AI Impacts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">AI Impacts Survey</span><span class="citation-popover-snippet">AI Impacts Survey</span></span></span>
 
-This helps explain why survey findings are sometimes presented in seemingly contradictory ways. One article may emphasise relatively short timelines, while another highlights continuing uncertainty. Both can be accurate descriptions of the same underlying dataset.
+This helps explain why survey findings are sometimes presented in seemingly contradictory ways. One article may emphasise relatively [short timelines]({{ 'short-timelines/' | relative_url }}), while another highlights continuing uncertainty. Both can be accurate descriptions of the same underlying dataset.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hliLDNdxkX0" title="Surveying 2,700+ AI Researchers on the Industry&#x27;s Future with Katja Grace of AI Impacts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hliLDNdxkX0" target="_blank" rel="noopener noreferrer">Surveying 2,700+ AI Researchers on the Industry&#x27;s Future with Katja Grace of AI Impacts</a></p><p class="youtube-embed-meta">Channel: Cognitive Revolution &quot;How AI Changes Everything&quot; &middot; Views: 2.2K &middot; Uploaded: March 2024 &middot; Length: 1 hour 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hliLDNdxkX0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hliLDNdxkX0">Open on YouTube</a></p></div></div></div>
 
 ## Why survey results do not settle p(doom)
 
-A common misunderstanding is that expert surveys can provide a definitive answer to p(doom). They cannot.
+A common misunderstanding is that [expert surveys]({{ 'expert-surveys/' | relative_url }}) can provide a definitive answer to p(doom). They cannot.
 
 First, surveys measure beliefs rather than established facts. Respondents are forecasting unprecedented technological developments, not reporting observed outcomes. Even highly informed experts may be wrong. AI forecasting has a mixed historical record, with periods of both excessive optimism and excessive pessimism. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ourworldindata.org/ai-timelines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ourworldindata.org">[Our World in Data]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ourworldindata.org</span><span class="citation-popover-title">ai timelines</span><span class="citation-popover-snippet">Our World in DataAI timelines: What do experts in artificial intelligence expect...by M Roser · 2023 · Cited by 50 — Many AI experts bel...</span></span></span>
 
@@ -773,164 +773,164 @@ For debates about AI doom, that combination is perhaps the most important findin
 1. <a id="endnote-1"></a>
    Source: arxiv.org  
    Title: arXiv Thousands of AI Authors on the Future of AI  
-   Link: [https://arxiv.org/abs/2401.02843](https://arxiv.org/abs/2401.02843)  
+   Link: <a href="https://arxiv.org/abs/2401.02843" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2401.02843</a>  
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
    Title: arXiv Forecasting Transformative AI: An Expert Survey  
-   Link: [https://arxiv.org/abs/1901.08579](https://arxiv.org/abs/1901.08579)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivForecasting Transformative AI: An Expert SurveyJanuary 24, 2019...</p></details>
+   Link: <a href="https://arxiv.org/abs/1901.08579" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1901.08579</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Forecasting Transformative AI: An Expert SurveyJanuary 24, 2019...</p></details>
    Published: January 24, 2019  
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2401.02843?utm=](https://arxiv.org/abs/2401.02843?utm=)  
+   Link: <a href="https://arxiv.org/abs/2401.02843?utm=" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2401.02843?utm=</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>More than half...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2502.14870](https://arxiv.org/abs/2502.14870)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivWhy do Experts Disagree on Existential Risk and P(doom)? A Survey of AI ExpertsJanuary 25, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2502.14870" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.14870</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why do Experts Disagree on Existential Risk and P(doom)? A Survey of AI ExpertsJanuary 25, 2025...</p></details>
    Published: January 25, 2025  
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2401.02843v3](https://arxiv.org/html/2401.02843v3)  
+   Link: <a href="https://arxiv.org/html/2401.02843v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2401.02843v3</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ood outcomes. The broad variance in credence in catastrophic...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2603.06223](https://arxiv.org/pdf/2603.06223)  
+   Link: <a href="https://arxiv.org/pdf/2603.06223" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2603.06223</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Rogue AI taking over, human extinction&quot;... Thousands of AI authors on the future of AI. Journal of Artificial...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: businessinsider.com  
    Title: ai researchers chance tech making humans extinct 2024 1  
-   Link: [https://www.businessinsider.com/ai-researchers-chance-tech-making-humans-extinct-2024-1](https://www.businessinsider.com/ai-researchers-chance-tech-making-humans-extinct-2024-1)  
+   Link: <a href="https://www.businessinsider.com/ai-researchers-chance-tech-making-humans-extinct-2024-1" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/ai-researchers-chance-tech-making-humans-extinct-2024-1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>There&#x27;s only a 5% chance of AI making humans extinct...Jan 4, 2024 — Industry leaders and AI heavyweights said the rapid development of...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
    Title: AI Impacts Survey  
-   Link: [http://www.youtube.com/watch?v=xwJx_xqZI3Q](http://www.youtube.com/watch?v=xwJx_xqZI3Q)  
+   Link: <a href="http://www.youtube.com/watch?v=xwJx_xqZI3Q" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=xwJx_xqZI3Q</a>  
 
 9. <a id="endnote-9"></a>
    Source: aiimpacts.org  
    Title: Thousands of AI authors on the future of AI  
-   Link: [https://aiimpacts.org/wp-content/uploads/2023/04/Thousands_of_AI_authors_on_the_future_of_AI.pdf](https://aiimpacts.org/wp-content/uploads/2023/04/Thousands_of_AI_authors_on_the_future_of_AI.pdf)  
+   Link: <a href="https://aiimpacts.org/wp-content/uploads/2023/04/Thousands_of_AI_authors_on_the_future_of_AI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiimpacts.org/wp-content/uploads/2023/04/Thousands_of_AI_authors_on_the_future_of_AI.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI ImpactsTHOUSANDS OF AI AUTHORS ON THE FUTURE OF AIJanuary 6, 2024 — by K Grace · 2024 · Cited by 213 — The broad variance in credence...</p></details>
    Published: January 6, 2024  
 
 10. <a id="endnote-10"></a>
    Source: wiki.aiimpacts.org  
    Title: 2023 expert survey on progress in ai  
-   Link: [https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai](https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>aiimpacts.org2023 Expert Survey on Progress in AIAug 17, 2023 — The 2023 Expert Survey on Progress in AI is a survey of 2,778 [AI research](&amp;#123;&amp;#123; &#x27;ai-research-loop/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link: <a href="https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai" target="_blank" rel="noopener noreferrer nofollow">https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>aiimpacts.org2023 Expert Survey on Progress in AIAug 17, 2023 — The 2023 Expert Survey on Progress in AI is a survey of 2,778 AI research...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: lesswrong.com  
    Title: ai impacts survey december 2023 edition  
-   Link: [https://www.lesswrong.com/posts/NfPxAp5uwgZugwovY/ai-impacts-survey-december-2023-edition](https://www.lesswrong.com/posts/NfPxAp5uwgZugwovY/ai-impacts-survey-december-2023-edition)  
+   Link: <a href="https://www.lesswrong.com/posts/NfPxAp5uwgZugwovY/ai-impacts-survey-december-2023-edition" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/posts/NfPxAp5uwgZugwovY/ai-impacts-survey-december-2023-edition</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Impacts Survey: December 2023 Edition5 Jan 2024 — The aggregate forecasts give at least a 50% chance of AI systems achieving several m...</p></details>
    Published: december 2023  
 
 12. <a id="endnote-12"></a>
    Source: aiimpacts.org  
    Title: how should we analyse survey forecasts of ai timelines  
-   Link: [https://aiimpacts.org/how-should-we-analyse-survey-forecasts-of-ai-timelines/](https://aiimpacts.org/how-should-we-analyse-survey-forecasts-of-ai-timelines/)  
+   Link: <a href="https://aiimpacts.org/how-should-we-analyse-survey-forecasts-of-ai-timelines/" target="_blank" rel="noopener noreferrer nofollow">https://aiimpacts.org/how-should-we-analyse-survey-forecasts-of-ai-timelines/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI ImpactsHow should we analyse survey forecasts of AI timelines?The median expert thinks this is 20% likely by 2048, and 80% likely by 2103...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: ourworldindata.org  
    Title: ai timelines  
-   Link: [https://ourworldindata.org/ai-timelines](https://ourworldindata.org/ai-timelines)  
+   Link: <a href="https://ourworldindata.org/ai-timelines" target="_blank" rel="noopener noreferrer nofollow">https://ourworldindata.org/ai-timelines</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Our World in DataAI timelines: What do experts in artificial intelligence expect...by M Roser · 2023 · Cited by 50 — Many AI experts bel...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: aiimpacts.org  
    Title: EMBARGOED AI Impacts Survey Release Google Docs  
-   Link: [https://aiimpacts.org/wp-content/uploads/2024/01/EMBARGOED_-AI-Impacts-Survey-Release-Google-Docs.pdf](https://aiimpacts.org/wp-content/uploads/2024/01/EMBARGOED_-AI-Impacts-Survey-Release-Google-Docs.pdf)  
+   Link: <a href="https://aiimpacts.org/wp-content/uploads/2024/01/EMBARGOED_-AI-Impacts-Survey-Release-Google-Docs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiimpacts.org/wp-content/uploads/2024/01/EMBARGOED_-AI-Impacts-Survey-Release-Google-Docs.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Median AI expert says 5% chance of human extinction from...Jan 4, 2024 — Mean responses indicated an even higher risk, suggesting a near...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: aiimpacts.org  
    Title: 2022 expert survey on progress in ai  
-   Link: [https://aiimpacts.org/2022-expert-survey-on-progress-in-ai/](https://aiimpacts.org/2022-expert-survey-on-progress-in-ai/)  
+   Link: <a href="https://aiimpacts.org/2022-expert-survey-on-progress-in-ai/" target="_blank" rel="noopener noreferrer nofollow">https://aiimpacts.org/2022-expert-survey-on-progress-in-ai/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aug 3, 2022 — The 2022 Expert Survey on Progress in AI (2022 ESPAI) is a survey of machine learning researchers that AI Impacts ran in Ju...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: wiki.aiimpacts.org  
    Title: 2022 expert survey on progress in ai  
-   Link: [https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2022_expert_survey_on_progress_in_ai](https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2022_expert_survey_on_progress_in_ai)  
+   Link: <a href="https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2022_expert_survey_on_progress_in_ai" target="_blank" rel="noopener noreferrer nofollow">https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2022_expert_survey_on_progress_in_ai</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>aiimpacts.org2022 Expert Survey on Progress in AIAug 4, 2022 — The 2022 Expert Survey on Progress in AI (2022 ESPAI) is a survey of machi...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: blog.aiimpacts.org  
    Title: 2023 ai survey of 2778 six things  
-   Link: [https://blog.aiimpacts.org/p/2023-ai-survey-of-2778-six-things](https://blog.aiimpacts.org/p/2023-ai-survey-of-2778-six-things)  
+   Link: <a href="https://blog.aiimpacts.org/p/2023-ai-survey-of-2778-six-things" target="_blank" rel="noopener noreferrer nofollow">https://blog.aiimpacts.org/p/2023-ai-survey-of-2778-six-things</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of 2778 AI authors: six parts in pictures4 Jan 2024 — The 2023 Expert Survey on Progress in AI is out, this time with 2778 participants f...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: blog.biocomm.ai  
-   Link: [https://blog.biocomm.ai/2024/02/25/ai-impacts-report-thousands-of-ai-authors-on-the-future-of-ai-38participants-put-at-least-a-10-chance-on-extremely-bad-outcomes-e-g-human-extinction-january-2024/](https://blog.biocomm.ai/2024/02/25/ai-impacts-report-thousands-of-ai-authors-on-the-future-of-ai-38participants-put-at-least-a-10-chance-on-extremely-bad-outcomes-e-g-human-extinction-january-2024/)  
+   Link: <a href="https://blog.biocomm.ai/2024/02/25/ai-impacts-report-thousands-of-ai-authors-on-the-future-of-ai-38participants-put-at-least-a-10-chance-on-extremely-bad-outcomes-e-g-human-extinction-january-2024/" target="_blank" rel="noopener noreferrer nofollow">https://blog.biocomm.ai/2024/02/25/ai-impacts-report-thousands-of-ai-authors-on-the-future-of-ai-38participants-put-at-least-a-10-chance-on-extremely-bad-outcomes-e-g-human-extinction-january-2024/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>38%participants put at least a 10% chance on extremely bad outcomes (e.g. human extinction).Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/P%28doom%29](https://en.wikipedia.org/wiki/P%28doom%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/P%28doom%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/P%28doom%29</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>P(doom)In AI safety, P(doom) is the probability of existentially catastrophic outcomes (so-called &quot;doomsday scenarios&quot;) as a result of...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: pauseai.info  
-   Link: [https://pauseai.info/polls-and-surveys](https://pauseai.info/polls-and-surveys)  
+   Link: <a href="https://pauseai.info/polls-and-surveys" target="_blank" rel="noopener noreferrer nofollow">https://pauseai.info/polls-and-surveys</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Polls &amp; SurveysPolls &amp; surveys: Expert opinion on catastrophic risks, Public opinion on catastrophic risks, Public opinion on regulations...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: techxplore.com  
-   Link: [https://techxplore.com/news/2024-01-future-ai-great-catastrophic.html](https://techxplore.com/news/2024-01-future-ai-great-catastrophic.html)  
+   Link: <a href="https://techxplore.com/news/2024-01-future-ai-great-catastrophic.html" target="_blank" rel="noopener noreferrer nofollow">https://techxplore.com/news/2024-01-future-ai-great-catastrophic.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The future of AI could be great—or catastrophicThe future of AI could be great—or catastrophic. by Peter Grad, Tech... Katja Grace et al...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/israeldelrio_thousands-of-ai-authors-on-the-future-of-activity-7153577296908419072-O6wr](https://www.linkedin.com/posts/israeldelrio_thousands-of-ai-authors-on-the-future-of-activity-7153577296908419072-O6wr)  
+   Link: <a href="https://www.linkedin.com/posts/israeldelrio_thousands-of-ai-authors-on-the-future-of-activity-7153577296908419072-O6wr" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/israeldelrio_thousands-of-ai-authors-on-the-future-of-activity-7153577296908419072-O6wr</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Thousands of AI Authors on the Future of AI | Israel del RioA pre-print of “Thousands of AI Authors on the Future of AI” paper is out. Th...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: medium.com  
-   Link: [https://medium.com/predict/thousands-of-researchers-predict-ais-future-098054750324](https://medium.com/predict/thousands-of-researchers-predict-ais-future-098054750324)  
+   Link: <a href="https://medium.com/predict/thousands-of-researchers-predict-ais-future-098054750324" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/predict/thousands-of-researchers-predict-ais-future-098054750324</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Thousands of Researchers Predict AI&#x27;s FutureFurthermore, the consensus suggests a 50% chance of AI “outperforming” humans in all tasks by...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40meisshaily/what-experts-are-not-telling-you-f39123b7ed98](https://medium.com/%40meisshaily/what-experts-are-not-telling-you-f39123b7ed98)  
+   Link: <a href="https://medium.com/%40meisshaily/what-experts-are-not-telling-you-f39123b7ed98" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40meisshaily/what-experts-are-not-telling-you-f39123b7ed98</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What Experts Are Not Telling You | by Shailendra KumarAI Researcher Surveys: Median estimates place a 25% chance of AGI by the early 2030...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: iflscience.com  
-   Link: [https://www.iflscience.com/a-third-of-ai-researchers-think-ai-could-cause-catastrophic-outcomes-on-par-with-nuclear-war-this-century-65430](https://www.iflscience.com/a-third-of-ai-researchers-think-ai-could-cause-catastrophic-outcomes-on-par-with-nuclear-war-this-century-65430)  
+   Link: <a href="https://www.iflscience.com/a-third-of-ai-researchers-think-ai-could-cause-catastrophic-outcomes-on-par-with-nuclear-war-this-century-65430" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/a-third-of-ai-researchers-think-ai-could-cause-catastrophic-outcomes-on-par-with-nuclear-war-this-century-65430</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Third Of AI Researchers Think AI Could Cause...Sep 22, 2022 — Meanwhile, a non-trivial 36 percent of respondents agreed that it is pla...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/igorponikarchik_thousands-of-ai-authors-on-the-future-of-activity-7313837928370089984-5vEd](https://www.linkedin.com/posts/igorponikarchik_thousands-of-ai-authors-on-the-future-of-activity-7313837928370089984-5vEd)  
+   Link: <a href="https://www.linkedin.com/posts/igorponikarchik_thousands-of-ai-authors-on-the-future-of-activity-7313837928370089984-5vEd" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/igorponikarchik_thousands-of-ai-authors-on-the-future-of-activity-7313837928370089984-5vEd</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Thousands of AI Authors on the Future of AI | Igor Ponikarchik4 Apr 2025 — Friday insights In the largest survey of its kind, 2,778 resea...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: linkedin.com  
    Title: projected timeline achieving artificial general trajectory ken kondo b6nsc  
-   Link: [https://www.linkedin.com/pulse/projected-timeline-achieving-artificial-general-trajectory-ken-kondo-b6nsc](https://www.linkedin.com/pulse/projected-timeline-achieving-artificial-general-trajectory-ken-kondo-b6nsc)  
+   Link: <a href="https://www.linkedin.com/pulse/projected-timeline-achieving-artificial-general-trajectory-ken-kondo-b6nsc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/projected-timeline-achieving-artificial-general-trajectory-ken-kondo-b6nsc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Projected Timeline for Achieving Artificial General...For instance, a 2022 expert survey (published by AI Impacts) found a median estima...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: epoch.ai  
    Title: literature review of transformative artificial intelligence timelines  
-   Link: [https://epoch.ai/blog/literature-review-of-transformative-artificial-intelligence-timelines](https://epoch.ai/blog/literature-review-of-transformative-artificial-intelligence-timelines)  
+   Link: <a href="https://epoch.ai/blog/literature-review-of-transformative-artificial-intelligence-timelines" target="_blank" rel="noopener noreferrer nofollow">https://epoch.ai/blog/literature-review-of-transformative-artificial-intelligence-timelines</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Literature review of transformative artificial intelligence...Jan 17, 2023 — We summarize and compare several models and forecasts predi...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: lesswrong.com  
    Title: clarifying how our ai timelines forecasts have changed since  
-   Link: [https://www.lesswrong.com/posts/qPco9BX5kmKCDzzW9/clarifying-how-our-ai-timelines-forecasts-have-changed-since](https://www.lesswrong.com/posts/qPco9BX5kmKCDzzW9/clarifying-how-our-ai-timelines-forecasts-have-changed-since)  
+   Link: <a href="https://www.lesswrong.com/posts/qPco9BX5kmKCDzzW9/clarifying-how-our-ai-timelines-forecasts-have-changed-since" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/posts/qPco9BX5kmKCDzzW9/clarifying-how-our-ai-timelines-forecasts-have-changed-since</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Clarifying how our AI timelines forecasts have changed...Jan 27, 2026 — So the median for AGI remains around 2032-2033, maybe it got 1 y...</p></details>

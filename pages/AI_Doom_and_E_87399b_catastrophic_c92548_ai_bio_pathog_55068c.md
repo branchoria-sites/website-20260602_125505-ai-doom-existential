@@ -12,21 +12,21 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_catastrophic_c92548_ai_military_d_f2971e
 - AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - misuse
 - bio-threat-ai
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - misuse
 - bio-threat-ai
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Explores how AI could help actors design more lethal or resistant biological agents and the associated risks.
 hero_summary: Explores how AI could help actors design more lethal or resistant biological agents and the associated risks.
 layout: default
 permalink: /bio-threat-ai/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /misuse/
 nav_short_title: Bio Threat AI
 title: How AI Could Accelerate Dangerous Pathogen Design
@@ -213,20 +213,20 @@ parent_heading_title: How Could People Misuse Advanced AI?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_catastrophic_c92548
-  title: Misuse | AI Doom and
+  title: Misuse | AI Doom and E 87399 b
   permalink: /misuse/
   short_title: Misuse
   heading_title: How Could People Misuse Advanced AI?
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_catastrophic_c92548
-  title: Misuse | AI Doom and
+  title: Misuse | AI Doom and E 87399 b
   permalink: /misuse/
   short_title: Misuse
   heading_title: How Could People Misuse Advanced AI?
@@ -264,7 +264,7 @@ child_links:
   heading_title: AI in Predicting Dangerous Pathogen Traits
 up_link:
   basename: AI_Doom_and_E_87399b_catastrophic_c92548
-  title: Misuse | AI Doom and
+  title: Misuse | AI Doom and E 87399 b
   permalink: /misuse/
   short_title: Misuse
   heading_title: How Could People Misuse Advanced AI?
@@ -288,7 +288,7 @@ image: /assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_550
 
 ## Introduction
 
-A core concern in discussions about **[AI doom and]({{ 'ai-doom-and/' | relative_url }}) existential risk** is not just whether advanced AI could misbehave independently, but how humans might *use AI to amplify danger*. In the domain of biological threats, one of the most debated mechanisms is how **AI‑assisted design of enhanced biological pathogens** could potentially lower the technical barriers to creating or significantly altering harmful biological agents — whether toxins, viruses, or bacteria — in ways that pose risks far beyond conventional bioengineering. This page focuses tightly on that mechanism: how powerful AI tools might contribute to designing biological agents with enhanced lethality, transmissibility, immune evasion, or other [dangerous]({{ 'autonomy/' | relative_url }}) traits; how plausible and near‑term these risks are; what safeguards currently exist or are proposed; and where uncertainties lie.
+A core concern in discussions about **AI doom and existential risk** is not just whether advanced AI could misbehave independently, but how humans might *use AI to amplify danger*. In the domain of biological threats, one of the most debated mechanisms is how **AI‑assisted design of enhanced biological pathogens** could potentially lower the technical barriers to creating or significantly altering harmful biological agents — whether toxins, viruses, or bacteria — in ways that pose risks far beyond conventional bioengineering. This page focuses tightly on that mechanism: how powerful AI tools might contribute to designing biological agents with enhanced lethality, transmissibility, immune evasion, or other dangerous traits; how plausible and near‑term these risks are; what safeguards currently exist or are proposed; and where uncertainties lie.
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c-Illustration-1-dark.svg" | relative_url }}" alt="Bio Threat AI illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -296,8 +296,8 @@ A core concern in discussions about **[AI doom and]({{ 'ai-doom-and/' | relative
 
 At present, routine biological threat development — whether for harmful or beneficial purposes — follows a **design‑build‑test‑learn (DBTL)** cycle that requires deep domain knowledge, extensive laboratory infrastructure, and iterative experiments. AI tools are beginning to reshape parts of this cycle by aiding **design and prediction tasks** that once demanded expensive, time‑intensive human effort.
 
-* **Enhanced protein and sequence design:** Generative AI models can now propose novel protein sequences predicted to fold into stable, functional three‑dimensional structures. These tools accelerate therapeutic discovery, but the same mechanisms could be repurposed to design proteins with harmful functions or to optimise virulence factors — traits that make pathogens more dangerous. Open‑source and widely available models raise concerns that *sequence design could outpace traditional safeguards* like homology‑based screening systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1817535/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers | Protein design, generative AI and biological securityApril 1, 2026...</span><span class="citation-popover-meta">Published: April 1, 2026</span></span></span>
-* **Evasion of biosecurity filters:** AI can generate alternative sequences (so‑called “[synthetic]({{ 'synthetic-data/' | relative_url }}) homologs”) that maintain biological function while sharing little obvious similarity with known toxins or pathogens. These sequences might slip past DNA synthesis screening tools that rely largely on sequence matching to flag hazards, revealing **current blind spots** in biosecurity controls.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nist.gov/publications/experimental-evaluation-ai-driven-protein-design-risks-using-safe-biological-proxies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-snippet">NISTExperimental Evaluation of AI-Driven Protein Design Risks Using Safe Biological Proxies | NISTJune 20, 2025...</span><span class="citation-popover-meta">Published: June 20, 2025</span></span></span>
+* **Enhanced protein and sequence design:** Generative AI models can now propose novel protein sequences predicted to fold into stable, functional three‑dimensional structures. These tools accelerate therapeutic discovery, but the same mechanisms could be repurposed to design proteins with harmful functions or to optimise virulence factors — traits that make pathogens more dangerous. Open‑source and widely available models raise concerns that *sequence design could outpace traditional safeguards* like homology‑based screening systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1817535/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers &#124; Protein design, generative AI and biological securityApril 1, 2026...</span><span class="citation-popover-meta">Published: April 1, 2026</span></span></span>
+* **Evasion of biosecurity filters:** AI can generate alternative sequences (so‑called “synthetic homologs”) that maintain biological function while sharing little obvious similarity with known toxins or pathogens. These sequences might slip past DNA synthesis screening tools that rely largely on sequence matching to flag hazards, revealing **current blind spots** in biosecurity controls.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nist.gov/publications/experimental-evaluation-ai-driven-protein-design-risks-using-safe-biological-proxies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-snippet">Experimental Evaluation of AI-Driven Protein Design Risks Using Safe Biological Proxies &#124; NISTJune 20, 2025...</span><span class="citation-popover-meta">Published: June 20, 2025</span></span></span>
 * **Predictive modelling of complex traits:** In principle, advanced models could assist in understanding how changes at the genetic level affect phenotypes — for example, transmissibility or immune evasion. While datasets are incomplete and complex interactions are difficult to model accurately today, improved predictive capabilities could reduce the experimental iterations needed to pursue high‑consequence designs.[NCBI]
 
 Taken together, these capabilities represent an **uplift in design power**: they do not yet remove the need for wet‑lab work and expert interpretation, but they *change the cost‑benefit calculus* of experiments that could yield more hazardous biological agents.
@@ -310,7 +310,7 @@ Taken together, these capabilities represent an **uplift in design power**: they
 There is disagreement among researchers about how quickly and how far AI might accelerate dangerous biological design.
 
 * **Current limits:** Scientific consensus is that today’s AI tools cannot yet reliably design complex, self‑replicating biological threats from scratch. Developing a transmissible pathogen with enhanced virulence involves intricate interactions at molecular, cellular and organismal levels that AI cannot fully predict — and subsequent laboratory work remains highly specialised and resource‑intensive.[NCBI]
-* **Expert barriers analysis:** A 2025 Delphi study involving AI and biology specialists identified *persistent biological and technical constraints* that may hold back [misuse]({{ 'misuse/' | relative_url }}) in the near term (2025–27). These include the difficulty of acquiring high‑quality data linking genotype to phenotype and the complexity of host‑pathogen interactions that are shaped by evolution and environment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12711334/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCDecember 16, 2025...</span><span class="citation-popover-meta">Published: December 16, 2025</span></span></span>
+* **Expert barriers analysis:** A 2025 Delphi study involving AI and biology specialists identified *persistent biological and technical constraints* that may hold back [misuse]({{ 'misuse/' | relative_url }}) in the near term (2025–27). These include the difficulty of acquiring high‑quality data linking genotype to phenotype and the complexity of host‑pathogen interactions that are shaped by evolution and environment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12711334/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">December 16, 2025...</span><span class="citation-popover-meta">Published: December 16, 2025</span></span></span>
 * **Proof‑of‑concept concerns:** Nevertheless, experiments in related domains — such as AI planning bacteriophage genomes or altering toxic protein sequences in silico — illustrate that some components of biosecurity could be compromised even before full pathogen design is possible. While bacteriophages target bacteria and not humans, such work demonstrates pathways by which AI *could be misused to generate new biological sequences with intended effects*.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/health/viruses-infections-disease/ai-can-now-be-used-to-design-brand-new-viruses-can-we-stop-it-from-making-the-next-devastating-bioweapon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">Live Science AI can now be used to design brand-new viruses</span><span class="citation-popover-snippet">Can we stop it from making the next devastating bioweapon?October 6, 2025 — Scientists have demonstrated that artificial intelligence (AI...</span><span class="citation-popover-meta">Published: October 6, 2025</span></span></span>
 
 In short, experts generally agree that AI‑assisted design of fully novel pathogens **is not yet a present‑day reality**, but the **trajectory of capability growth could make it feasible in the near to medium term** if not governed effectively.
@@ -322,20 +322,20 @@ In short, experts generally agree that AI‑assisted design of fully novel patho
 AI‑assisted biological design tools sit within a larger **dual‑use dilemma**: the same systems that power legitimate scientific and medical advances can be repurposed for harmful ends.
 
 * **Broader biosecurity blind spots:** Researchers have flagged that the increasing availability of models trained on public biological data could allow actors with fewer safety constraints to fine‑tune systems on risky datasets, amplifying misuse potential. In some proposals, experts call for handling certain high‑risk biological data with stringent safeguards — akin to how sensitive health records are protected — to prevent misuse by AI.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2026/02/17/ai-data-viruses-biosecurity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">AI&#x27;s big biosecurity blind spot</span><span class="citation-popover-snippet">They propose a framework that treats high-risk biological data with the same level of caution as sensitive health records. The core conce...</span></span></span>
-* **Screening and synthesis controls:** Current biosafety systems for DNA synthesis rely on sequence homology to identify hazardous orders. AI‑generated designs that evade these filters expose a **fundamental gap in [oversight]({{ 'oversight-evasion/' | relative_url }})** and underscore the need for more dynamic, predictive detection methods that can flag functional risk rather than just sequence similarity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nist.gov/publications/experimental-evaluation-ai-driven-protein-design-risks-using-safe-biological-proxies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-snippet">NISTExperimental Evaluation of AI-Driven Protein Design Risks Using Safe Biological Proxies | NISTJune 20, 2025...</span><span class="citation-popover-meta">Published: June 20, 2025</span></span></span>
-* **Governance ambiguity:** There is ongoing debate about how to restrict access to high‑risk generative biological AI without unduly hindering scientific progress. Some argue that model evaluations should prioritise high‑consequence capabilities before deployment, and differentiated access controls could help manage risk.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2407.13059" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivPrioritizing High-Consequence Biological Capabilities in Evaluations of Artificial Intelligence ModelsMay 25, 2024...</span><span class="citation-popover-meta">Published: May 25, 2024</span></span></span>
+* **Screening and synthesis controls:** Current biosafety systems for DNA synthesis rely on sequence homology to identify hazardous orders. AI‑generated designs that evade these filters expose a **fundamental gap in oversight** and underscore the need for more dynamic, predictive detection methods that can flag functional risk rather than just sequence similarity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nist.gov/publications/experimental-evaluation-ai-driven-protein-design-risks-using-safe-biological-proxies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-snippet">Experimental Evaluation of AI-Driven Protein Design Risks Using Safe Biological Proxies &#124; NISTJune 20, 2025...</span><span class="citation-popover-meta">Published: June 20, 2025</span></span></span>
+* **[Governance]({{ 'governance/' | relative_url }}) ambiguity:** There is ongoing debate about how to restrict access to high‑risk generative biological AI without unduly hindering scientific progress. Some argue that model [evaluations]({{ 'evaluations/' | relative_url }}) should prioritise high‑consequence capabilities before deployment, and differentiated access controls could help manage risk.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2407.13059" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Prioritizing High-Consequence Biological Capabilities in Evaluations of Artificial Intelligence ModelsMay 25, 2024...</span><span class="citation-popover-meta">Published: May 25, 2024</span></span></span>
 
-These dual‑use challenges highlight the **regulatory catch‑up problem**: [governance]({{ 'governance/' | relative_url }}) frameworks have not fully adapted to technologies that blur traditional boundaries between design, prediction and execution.
+These dual‑use challenges highlight the **regulatory catch‑up problem**: governance frameworks have not fully adapted to technologies that blur traditional boundaries between design, prediction and execution.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FltwTnSLvh0" title="AI Tells Scientists How to Make Biological Weapons | GRAVITAS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FltwTnSLvh0" target="_blank" rel="noopener noreferrer">AI Tells Scientists How to Make Biological Weapons | GRAVITAS</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 1.1K &middot; Uploaded: May 2026 &middot; Length: 3 minutes 34 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FltwTnSLvh0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FltwTnSLvh0">Open on YouTube</a></p></div></div></div>
 
 ## Mitigation and Monitoring Strategies
 
-Preventing catastrophic misuse requires an integrated approach that spans technology, policy, and international cooperation.
+Preventing [catastrophic]({{ 'misuse/' | relative_url }}) misuse requires an integrated approach that spans technology, policy, and international cooperation.
 
-* **Pre‑deployment evaluation:** Before powerful biological design models are released, independent evaluation of high‑consequence capabilities — such as predicting virulence or designing immune evasion traits — could help anticipate misuse pathways and inform safety constraints.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2407.13059" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivPrioritizing High-Consequence Biological Capabilities in Evaluations of Artificial Intelligence ModelsMay 25, 2024...</span><span class="citation-popover-meta">Published: May 25, 2024</span></span></span>
-* **Enhanced biosecurity controls:** Upgrading DNA synthesis screening to incorporate functional predictions and adopting adaptive surveillance that can identify abnormal sequences based on biological activity rather than just sequence similarity could close current blind spots.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1817535/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers | Protein design, generative AI and biological securityApril 1, 2026...</span><span class="citation-popover-meta">Published: April 1, 2026</span></span></span>
+* **Pre‑deployment evaluation:** Before powerful biological design models are released, [independent]({{ 'red-teaming/' | relative_url }}) evaluation of high‑consequence capabilities — such as predicting virulence or designing immune evasion traits — could help anticipate misuse pathways and inform safety constraints.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2407.13059" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Prioritizing High-Consequence Biological Capabilities in Evaluations of Artificial Intelligence ModelsMay 25, 2024...</span><span class="citation-popover-meta">Published: May 25, 2024</span></span></span>
+* **Enhanced biosecurity controls:** Upgrading DNA synthesis screening to incorporate functional predictions and adopting adaptive surveillance that can identify abnormal sequences based on biological activity rather than just sequence similarity could close current blind spots.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1817535/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers &#124; Protein design, generative AI and biological securityApril 1, 2026...</span><span class="citation-popover-meta">Published: April 1, 2026</span></span></span>
 * **Data governance:** Treating certain biological datasets (e.g., those closely tied to pathogen phenotypes) as sensitive and restricting their use in open training sets could limit the raw material available for misuse.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2026/02/17/ai-data-viruses-biosecurity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">AI&#x27;s big biosecurity blind spot</span><span class="citation-popover-snippet">They propose a framework that treats high-risk biological data with the same level of caution as sensitive health records. The core conce...</span></span></span>
 * **Layered oversight and cooperation:** A defense‑in‑depth strategy that combines technological safeguards, legal restrictions, industry standards, and international norms may offer the best chance of balancing innovation with risk reduction. Shared threat intelligence and rapid incident response protocols are essential parts of such a system.
 
@@ -345,7 +345,7 @@ Preventing catastrophic misuse requires an integrated approach that spans techno
 
 There are active debates within the research community about how significant the AI‑assisted pathogen design threat is in the near future:
 
-* **Timing and capability projections:** Some experts emphasise that today’s models are far from autonomously creating harmful pathogens, while others warn that even incremental capability improvements could quickly erode safety margins. The pace of progress, quality of training data, and degree of lab [automation]({{ 'automation-bias/' | relative_url }}) all influence how soon risk thresholds might be crossed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12711334/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCDecember 16, 2025...</span><span class="citation-popover-meta">Published: December 16, 2025</span></span></span>
+* **Timing and capability projections:** Some experts emphasise that today’s models are far from autonomously creating harmful pathogens, while others warn that even incremental capability improvements could quickly erode safety margins. The pace of progress, quality of training data, and degree of lab automation all influence how soon risk thresholds might be crossed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12711334/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">December 16, 2025...</span><span class="citation-popover-meta">Published: December 16, 2025</span></span></span>
 * **Role of intent and access:** Capability alone is not sufficient for misuse; access to lab infrastructure, reagents, wet‑lab expertise, and delivery mechanisms matter. Strategic assessments weigh both technical capacity and actor motivation when estimating plausible misuse scenarios.
 * **Balancing openness and safety:** Restricting access to models or datasets could impede beneficial research. Navigating how to govern AI tools in biology without stifling innovation continues to be a central ethical and policy challenge.
 
@@ -779,38 +779,38 @@ The discussion continues to evolve rapidly, as both biological AI capabilities a
 
 1. <a id="endnote-1"></a>
    Source: nist.gov  
-   Link: [https://www.nist.gov/publications/experimental-evaluation-ai-driven-protein-design-risks-using-safe-biological-proxies](https://www.nist.gov/publications/experimental-evaluation-ai-driven-protein-design-risks-using-safe-biological-proxies)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NISTExperimental Evaluation of AI-Driven Protein Design Risks Using Safe Biological Proxies | NISTJune 20, 2025...</p></details>
+   Link: <a href="https://www.nist.gov/publications/experimental-evaluation-ai-driven-protein-design-risks-using-safe-biological-proxies" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/publications/experimental-evaluation-ai-driven-protein-design-risks-using-safe-biological-proxies</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Experimental Evaluation of AI-Driven Protein Design Risks Using Safe Biological Proxies | NISTJune 20, 2025...</p></details>
    Published: June 20, 2025  
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12711334/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12711334/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCDecember 16, 2025...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12711334/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12711334/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>December 16, 2025...</p></details>
    Published: December 16, 2025  
 
 3. <a id="endnote-3"></a>
    Source: axios.com  
    Title: AI's big biosecurity blind spot  
-   Link: [https://www.axios.com/2026/02/17/ai-data-viruses-biosecurity](https://www.axios.com/2026/02/17/ai-data-viruses-biosecurity)  
+   Link: <a href="https://www.axios.com/2026/02/17/ai-data-viruses-biosecurity" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2026/02/17/ai-data-viruses-biosecurity</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>They propose a framework that treats high-risk biological data with the same level of caution as sensitive health records. The core conce...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2407.13059](https://arxiv.org/abs/2407.13059)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivPrioritizing High-Consequence Biological Capabilities in Evaluations of Artificial Intelligence ModelsMay 25, 2024...</p></details>
+   Link: <a href="https://arxiv.org/abs/2407.13059" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2407.13059</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Prioritizing High-Consequence Biological Capabilities in Evaluations of Artificial Intelligence ModelsMay 25, 2024...</p></details>
    Published: May 25, 2024  
 
 5. <a id="endnote-5"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1817535/full](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1817535/full)  
+   Link: <a href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1817535/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1817535/full</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersFrontiers | Protein design, generative AI and biological securityApril 1, 2026...</p></details>
    Published: April 1, 2026  
 
 6. <a id="endnote-6"></a>
    Source: livescience.com  
    Title: Live Science AI can now be used to design brand-new viruses  
-   Link: [https://www.livescience.com/health/viruses-infections-disease/ai-can-now-be-used-to-design-brand-new-viruses-can-we-stop-it-from-making-the-next-devastating-bioweapon](https://www.livescience.com/health/viruses-infections-disease/ai-can-now-be-used-to-design-brand-new-viruses-can-we-stop-it-from-making-the-next-devastating-bioweapon)  
+   Link: <a href="https://www.livescience.com/health/viruses-infections-disease/ai-can-now-be-used-to-design-brand-new-viruses-can-we-stop-it-from-making-the-next-devastating-bioweapon" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/health/viruses-infections-disease/ai-can-now-be-used-to-design-brand-new-viruses-can-we-stop-it-from-making-the-next-devastating-bioweapon</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Can we stop it from making the next devastating bioweapon?October 6, 2025 — Scientists have demonstrated that artificial intelligence (AI...</p></details>
    Published: October 6, 2025  
 
@@ -819,54 +819,54 @@ The discussion continues to evolve rapidly, as both biological AI capabilities a
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Deep learning models can now generate entirely novel sequences that fold into  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC13079691/](https://pmc.ncbi.nlm.nih.gov/articles/PMC13079691/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13079691/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC13079691/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>design, generative AI and biological security - PMCApril 1, 2026 — ABSTRACT Artificial intelligence-driven protein design has fundamental...</p></details>
    Published: April 1, 2026  
 
 8. <a id="endnote-8"></a>
    Source: cris.technion.ac.il  
-   Link: [https://cris.technion.ac.il/en/publications/understanding-the-theoretical-limits-of-ai-enabled-pathogen-desig](https://cris.technion.ac.il/en/publications/understanding-the-theoretical-limits-of-ai-enabled-pathogen-desig)  
+   Link: <a href="https://cris.technion.ac.il/en/publications/understanding-the-theoretical-limits-of-ai-enabled-pathogen-desig" target="_blank" rel="noopener noreferrer nofollow">https://cris.technion.ac.il/en/publications/understanding-the-theoretical-limits-of-ai-enabled-pathogen-desig</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Theoretical Limits of AI-Enabled Pathogen Design: Insights from a Delphi Study - Technion - Israel Institute of TechnologyUNDERSTANDI...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: nature.com  
    Title: A I can design viruses, toxins and other bioweapons  
-   Link: [https://www.nature.com/articles/d41586-026-01476-x](https://www.nature.com/articles/d41586-026-01476-x)  
+   Link: <a href="https://www.nature.com/articles/d41586-026-01476-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-026-01476-x</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How worried should we be?May 13, 2026 — AI can design viruses, toxins and other bioweapons. How worried should we be? Download PDF * NEWS...</p></details>
    Published: May 13, 2026  
 
 11. <a id="endnote-11"></a>
    Source: sciety.org  
-   Link: [https://sciety.org/articles/activity/10.1101/2025.05.15.654077](https://sciety.org/articles/activity/10.1101/2025.05.15.654077)  
+   Link: <a href="https://sciety.org/articles/activity/10.1101/2025.05.15.654077" target="_blank" rel="noopener noreferrer nofollow">https://sciety.org/articles/activity/10.1101/2025.05.15.654077</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Svetlana P. Ikonomova 2. Bruce J. Wittmann 3. Fernanda Piorino 4. David J. Ross 5. Samuel W. Schaffter 6. O...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: deepai.org  
    Title: Sandbrink, et al. ∙ Image Image 0 ∙ As advancemen  
-   Link: [https://deepai.org/publication/artificial-intelligence-and-biological-misuse-differentiating-risks-of-language-models-and-biological-design-tools](https://deepai.org/publication/artificial-intelligence-and-biological-misuse-differentiating-risks-of-language-models-and-biological-design-tools)  
+   Link: <a href="https://deepai.org/publication/artificial-intelligence-and-biological-misuse-differentiating-risks-of-language-models-and-biological-design-tools" target="_blank" rel="noopener noreferrer nofollow">https://deepai.org/publication/artificial-intelligence-and-biological-misuse-differentiating-risks-of-language-models-and-biological-design-tools</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligence and biological misuse: Differentiating risks of language models and biological design tools | DeepAIJune 24, 2023...</p></details>
    Published: June 24, 2023  
 
 13. <a id="endnote-13"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIAI-Enabled Biological Design and the Risks of Synthetic Biology  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK614591/](https://www.ncbi.nlm.nih.gov/books/NBK614591/)  
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK614591/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK614591/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Age of AI in the Life Sciences - NCBI BookshelfApril 23, 2025...</p></details>
    Published: April 23, 2025  
 
 14. <a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/41994287/](https://pubmed.ncbi.nlm.nih.gov/41994287/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41994287/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41994287/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2026 Apr 1:17:1817535. doi: 10.3389/fmicb.2026.1817535. eCollection 2026. PROTEIN DESIGN, GENERATIVE AI AND BIOLOGICAL SECU...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: cset.georgetown.edu  
    Title: ai and biorisk an explainer  
-   Link: [https://cset.georgetown.edu/publication/ai-and-biorisk-an-explainer/](https://cset.georgetown.edu/publication/ai-and-biorisk-an-explainer/)  
+   Link: <a href="https://cset.georgetown.edu/publication/ai-and-biorisk-an-explainer/" target="_blank" rel="noopener noreferrer nofollow">https://cset.georgetown.edu/publication/ai-and-biorisk-an-explainer/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Biorisk: An Explainer | Center for Security and Emerging TechnologyAI AND BIORISK: AN EXPLAINER Steph Batalis December 2023 Recent go...</p></details>
    Published: December 2023  
 
 16. <a id="endnote-16"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/38532127/](https://pubmed.ncbi.nlm.nih.gov/38532127/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/38532127/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38532127/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2024 May;25(5):2168-2171. doi: 10.1038/s44319-024-00124-7. Epub 2024 Mar 26. SECURITY CHALLENGES BY AI-ASSISTED PROTEI...</p></details>

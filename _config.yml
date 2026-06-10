@@ -11,10 +11,10 @@ text_direction: 'ltr'
 direction: 'ltr'
 visual_profile: 'atlas'
 layout_archetype: 'atlas'
-visual_palette: 'signal-cobalt'
+visual_palette: 'north-atlantic'
 visual_motif: 'constellation'
-font_heading: 'Manrope'
-font_body: 'Merriweather'
+font_heading: 'Outfit'
+font_body: 'Newsreader'
 appearance_menu_enabled: true
 appearance_menu_default_open: false
 appearance_toast_ms: 5000
@@ -36,7 +36,9 @@ homepage_copy_policy: 'polished'
 home_layout_mode: 'vertical'
 auto_home_layout_mode: 'catalog'
 hierarchy_viz_mode: 'cluster-diagram'
-ui_bundle_version: 'build-1780401031'
+ui_bundle_version: 'build-1781062129'
+google_site_verification: ''
+draft_noindex: false
 theme: minima
 plugins:
   - jekyll-feed

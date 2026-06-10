@@ -12,21 +12,21 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549
 - AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - governance
 - safety-checks
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - governance
 - safety-checks
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Some proposals would require risk assessments, red-teaming and safety testing before the largest AI projects proceed.
 hero_summary: Some proposals would require risk assessments, red-teaming and safety testing before the largest AI projects proceed.
 layout: default
 permalink: /safety-checks/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /governance/
 nav_short_title: Safety Checks
 title: Should Frontier Models Pass Safety Checks First?
@@ -205,6 +205,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-02 12:01:56'
 parent_title: What Rules Could Reduce AI Doom Risk? | AI Doom
 parent_permalink: /governance/
 parent_nav_short_title: Governance
@@ -212,20 +213,20 @@ parent_heading_title: What Rules Could Reduce AI Doom Risk?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_compute_gover_1ee8fc
-  title: Governance | AI Doom and
+  title: Governance | AI Doom and E 87399 b
   permalink: /governance/
   short_title: Governance
   heading_title: What Rules Could Reduce AI Doom Risk?
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_compute_gover_1ee8fc
-  title: Governance | AI Doom and
+  title: Governance | AI Doom and E 87399 b
   permalink: /governance/
   short_title: Governance
   heading_title: What Rules Could Reduce AI Doom Risk?
@@ -263,7 +264,7 @@ child_links:
   heading_title: How Policy Thresholds Govern Safe Frontier AI Development
 up_link:
   basename: AI_Doom_and_E_87399b_compute_gover_1ee8fc
-  title: Governance | AI Doom and
+  title: Governance | AI Doom and E 87399 b
   permalink: /governance/
   short_title: Governance
   heading_title: What Rules Could Reduce AI Doom Risk?
@@ -279,7 +280,6 @@ next_link:
   permalink: /thresholds/
   short_title: Thresholds
   heading_title: When Should AI Training Runs Trigger Oversight?
-date: '2026-06-02 12:01:56 '
 header:
   og_image: /assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1-Illustration-1.webp
@@ -296,7 +296,7 @@ Supporters argue that mandatory [evaluations]({{ 'evaluations/' | relative_url }
 
 ## Why Test Before Training Rather Than After?
 
-In most industries, safety checks happen before potentially dangerous systems are deployed. Frontier AI proposals push this logic further upstream. Instead of waiting until a model is completed, regulators or independent reviewers could examine the planned training run itself.
+In most industries, safety checks happen before potentially dangerous systems are deployed. Frontier AI proposals push this logic further upstream. Instead of waiting until a model is completed, regulators or [independent]({{ 'red-teaming/' | relative_url }}) reviewers could examine the planned training run itself.
 
 From an AI doom perspective, the concern is that some capabilities may emerge unexpectedly during training. If a model reaches a level where it can autonomously conduct cyber operations, help design biological weapons, deceive supervisors, or assist in accelerating further AI development, the opportunity to prevent those capabilities may already have passed. Advocates therefore argue that risk reviews should occur before the largest training runs begin and again at predefined milestones during development. Frontier Model Forum <span class="citation-chip-wrap"><a class="citation-chip" href="https://metr.org/common-elements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[2metr.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-title">common elements</span><span class="citation-popover-snippet">of Frontier AI Safety Policies16 Dec 2025 — To manage these risks effectively, the policies include evaluations designed to elicit the fu...</span></span></span>
 
@@ -325,7 +325,7 @@ Many recent frontier safety frameworks use capability thresholds. Developers def
 A recurring challenge is uncertainty. Nobody knows exactly which capabilities future systems will develop or how quickly they will improve. As a result, pre-training assessments are often criticised as attempts to forecast hazards that may not yet be scientifically understood. Even supporters generally acknowledge that these assessments can only reduce uncertainty, not eliminate it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.13793" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Evaluating Frontier Models for Dangerous Capabilities</span><span class="citation-popover-snippet">arXiv Evaluating Frontier Models for Dangerous Capabilities</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6WUz77Okdm8" title="State of Evals: Lessons from U.S CAISI&#x27;s Evaluations of Cyber Capabilities and Security in AI Models" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6WUz77Okdm8" target="_blank" rel="noopener noreferrer">State of Evals: Lessons from U.S CAISI&#x27;s Evaluations of Cyber Capabilities and Security in AI Models</a></p><p class="youtube-embed-meta">Channel: DARPAtv &middot; Views: 249 &middot; Uploaded: September 2025 &middot; Length: 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6WUz77Okdm8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6WUz77Okdm8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4u6x-_BtE74" title="Panel: Emerging Practices for Frontier AI Safety Assurance and Evaluations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4u6x-_BtE74" target="_blank" rel="noopener noreferrer">Panel: Emerging Practices for Frontier AI Safety Assurance and Evaluations</a></p><p class="youtube-embed-meta">Channel: Concordia AI &middot; Views: 54 &middot; Uploaded: July 2024 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4u6x-_BtE74" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4u6x-_BtE74">Open on YouTube</a></p></div></div></div>
 
 ## Independent Red-Teaming Requirements
 
@@ -338,7 +338,7 @@ Supporters argue that self-evaluation is vulnerable to conflicts of interest. A 
 Recent work on frontier evaluations has expanded beyond simple [misuse]({{ 'misuse/' | relative_url }}) testing. Researchers are developing assessments for capabilities linked to AI doom concerns, including:
 
 * Deception and persuasion.
-* Strategic reasoning about oversight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2505.01420" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[* Situational awareness.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Evaluating Frontier Models for Stealth and Situational Awareness</span><span class="citation-popover-snippet">arXivEvaluating Frontier Models for Stealth and Situational AwarenessMay 2, 2025...</span><span class="citation-popover-meta">Published: May 2, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=6WUz77Okdm8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[* Cyber offence capabilities.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Situational Awareness in Government, with UK AISI Chief Scientist Geoffrey Irving...</span></span></span>
+* Strategic reasoning about oversight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2505.01420" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[* Situational awareness.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Evaluating Frontier Models for Stealth and Situational Awareness</span><span class="citation-popover-snippet">Evaluating Frontier Models for Stealth and Situational AwarenessMay 2, 2025...</span><span class="citation-popover-meta">Published: May 2, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=6WUz77Okdm8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[* Cyber offence capabilities.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Situational Awareness in Government, with UK AISI Chief Scientist Geoffrey Irving...</span></span></span>
 * Self-reasoning and autonomous planning.
 * Biological risk assistance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.13793" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Evaluating Frontier Models for Dangerous Capabilities</span><span class="citation-popover-snippet">arXiv Evaluating Frontier Models for Dangerous Capabilities</span></span></span>
 
@@ -366,13 +366,13 @@ This principle appears in many emerging frontier safety commitments. The Seoul F
 The difficult question is where thresholds should be set. If limits are too strict, they may halt development unnecessarily. If they are too permissive, dangerous capabilities may emerge before intervention occurs. There is currently no consensus on the correct thresholds for catastrophic-risk concerns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://forum.effectivealtruism.org/posts/TCHNn4t9xL6pzSuZX/frontier-model-forum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forum.effectivealtruism.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forum.effectivealtruism.org</span><span class="citation-popover-snippet">Model Forum26 Jul 2023 — The core objectives for the Forum are: Advancing AI safety research to promote responsible development of fronti...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qe9QSCF-d88" title="The Catastrophic Risks of AI — and a Safer Path | Yoshua Bengio | TED" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qe9QSCF-d88" target="_blank" rel="noopener noreferrer">The Catastrophic Risks of AI — and a Safer Path | Yoshua Bengio | TED</a></p><p class="youtube-embed-meta">Channel: TED &middot; Views: 672.8K &middot; Uploaded: May 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qe9QSCF-d88" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qe9QSCF-d88">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hibsjb5eb6U" title="AI Safety and Governance: Hard Rules, Real Evaluations, and Risk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hibsjb5eb6U" target="_blank" rel="noopener noreferrer">AI Safety and Governance: Hard Rules, Real Evaluations, and Risk</a></p><p class="youtube-embed-meta">Channel: Protocol Labs &middot; Views: 281 &middot; Uploaded: October 2025 &middot; Length: 1 hour 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hibsjb5eb6U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hibsjb5eb6U">Open on YouTube</a></p></div></div></div>
 
 ## Real Policy Proposals and Experiments
 
 Although no major jurisdiction has yet implemented a mature mandatory pre-training evaluation regime, several proposals illustrate what such systems could look like.
 
-California's SB 1047, ultimately vetoed by Governor Gavin Newsom, became one of the most widely discussed examples. The bill would have required developers of extremely large models to maintain safety and security protocols, conduct testing for catastrophic risks, and demonstrate compliance before deployment. It also proposed auditing and incident-reporting requirements. Supporters viewed it as an early attempt to operationalise frontier AI safety obligations; opponents argued that it relied on uncertain science and could harm innovation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2024/sep/29/california-governor-gavin-newsom-vetoes-ai-safety-bill" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The governor cited concerns that the stringent regulations could drive AI businesses out of the state and stifle innovation. Despite veto...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Safe_and_Secure_Innovation_for_Frontier_Artificial_Intelligence_Models_Act" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Safe and Secure Innovation for Frontier Artificial Intelligence Models Act</span><span class="citation-popover-snippet">Safe and Secure Innovation for Frontier Artificial Intelligence Models Act</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://legiscan.com/CA/text/SB1047/id/2919384" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legiscan.com">[LegiScan At the international level]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legiscan.com</span><span class="citation-popover-snippet">Bill Text: CA SB1047 | 2023-2024 | Regular SessionFeb 7, 2024 — The bill would also require a developer to report each artificial intelli...</span></span></span>, governments participating in AI safety summits have increasingly supported independent pre-deployment testing of frontier systems. AI safety institutes in the United Kingdom and United States have also developed programmes for evaluating advanced models before release. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axios.com/2023/11/03/uk-safety-summit-ai-global-musk-altman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Global leaders commit to pre-deployment AI safety testing</span><span class="citation-popover-snippet">This coalition intends to establish common protocols for AI safety at the new London-based AI Safety Institute, which will serve as a glo...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axios.com/2026/05/05/us-frontier-ai-testing-white-house-pivots-safety" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">us frontier ai testing white house pivots safety</span><span class="citation-popover-snippet">ramps up frontier AI testing as White House pivots toward safetyThe U.S. government is intensifying its oversight of frontier artificial...</span></span></span>
+California's SB 1047, ultimately vetoed by Governor Gavin Newsom, became one of the most widely discussed examples. The bill would have required developers of extremely large models to maintain safety and security protocols, conduct testing for catastrophic risks, and demonstrate compliance before deployment. It also proposed auditing and incident-reporting requirements. Supporters viewed it as an early attempt to operationalise frontier AI safety obligations; opponents argued that it relied on uncertain science and could harm innovation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2024/sep/29/california-governor-gavin-newsom-vetoes-ai-safety-bill" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The governor cited concerns that the stringent regulations could drive AI businesses out of the state and stifle innovation. Despite veto...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Safe_and_Secure_Innovation_for_Frontier_Artificial_Intelligence_Models_Act" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Safe and Secure Innovation for Frontier Artificial Intelligence Models Act</span><span class="citation-popover-snippet">Safe and Secure Innovation for Frontier Artificial Intelligence Models Act</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://legiscan.com/CA/text/SB1047/id/2919384" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legiscan.com">[LegiScan At the international level]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legiscan.com</span><span class="citation-popover-snippet">Bill Text: CA SB1047 &#124; 2023-2024 &#124; Regular SessionFeb 7, 2024 — The bill would also require a developer to report each artificial intelli...</span></span></span>, governments participating in AI safety summits have increasingly supported independent pre-deployment testing of frontier systems. AI safety institutes in the United Kingdom and United States have also developed programmes for evaluating advanced models before release. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axios.com/2023/11/03/uk-safety-summit-ai-global-musk-altman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Global leaders commit to pre-deployment AI safety testing</span><span class="citation-popover-snippet">This coalition intends to establish common protocols for AI safety at the new London-based AI Safety Institute, which will serve as a glo...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axios.com/2026/05/05/us-frontier-ai-testing-white-house-pivots-safety" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">us frontier ai testing white house pivots safety</span><span class="citation-popover-snippet">ramps up frontier AI testing as White House pivots toward safetyThe U.S. government is intensifying its oversight of frontier artificial...</span></span></span>
 
 Meanwhile, frontier laboratories have begun publishing safety frameworks that define evaluation procedures, capability thresholds, red-teaming processes, and conditions under which development or deployment should be reconsidered. However, most of these frameworks remain voluntary rather than legally mandated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internationalaisafetyreport.org">[International AI Safety Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internationalaisafetyreport.org</span><span class="citation-popover-title">international ai safety report 2026</span><span class="citation-popover-snippet">International AI Safety ReportInternational AI Safety Report 20263 Feb 2026 — In 2025, 12 companies published or updated their Frontier A...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://metr.org/common-elements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[2metr.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-title">common elements</span><span class="citation-popover-snippet">of Frontier AI Safety Policies16 Dec 2025 — To manage these risks effectively, the policies include evaluations designed to elicit the fu...</span></span></span>
 
@@ -832,270 +832,270 @@ Whether mandatory evaluations can reliably identify those warning signs remains 
 1. <a id="endnote-1"></a>
    Source: GOV.UK  
    Title: frontier ai safety commitments ai seoul summit 2024  
-   Link: [https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024/frontier-ai-safety-commitments-ai-seoul-summit-2024](https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024/frontier-ai-safety-commitments-ai-seoul-summit-2024)  
+   Link: <a href="https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024/frontier-ai-safety-commitments-ai-seoul-summit-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024/frontier-ai-safety-commitments-ai-seoul-summit-2024</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier AI Safety Commitments, AI Seoul Summit 20247 Feb 2025 — Outcome 1. Organisations effectively identify, assess and manage risks w...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: metr.org  
    Title: common elements  
-   Link: [https://metr.org/common-elements](https://metr.org/common-elements)  
+   Link: <a href="https://metr.org/common-elements" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/common-elements</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Frontier AI Safety Policies16 Dec 2025 — To manage these risks effectively, the policies include evaluations designed to elicit the fu...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv Evaluating Frontier Models for Dangerous Capabilities  
-   Link: [https://arxiv.org/abs/2403.13793](https://arxiv.org/abs/2403.13793)  
+   Link: <a href="https://arxiv.org/abs/2403.13793" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.13793</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
-   Title: Safe and Secure Innovation for Frontier [Artificial](&#123;&#123; 'artificial-goals/' | relative_url &#125;&#125;) Intelligence Models Act  
-   Link: [https://en.wikipedia.org/wiki/Safe_and_Secure_Innovation_for_Frontier_Artificial_Intelligence_Models_Act](https://en.wikipedia.org/wiki/Safe_and_Secure_Innovation_for_Frontier_Artificial_Intelligence_Models_Act)  
+   Title: Safe and Secure Innovation for Frontier Artificial Intelligence Models Act  
+   Link: <a href="https://en.wikipedia.org/wiki/Safe_and_Secure_Innovation_for_Frontier_Artificial_Intelligence_Models_Act" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Safe_and_Secure_Innovation_for_Frontier_Artificial_Intelligence_Models_Act</a>  
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Title: arXiv Evaluating Frontier Models for Stealth and Situational Awareness  
-   Link: [https://arxiv.org/abs/2505.01420](https://arxiv.org/abs/2505.01420)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivEvaluating Frontier Models for Stealth and Situational AwarenessMay 2, 2025...</p></details>
+   Title: arXiv Evaluating Frontier Models for Stealth and Situational [Awareness](&#123;&#123; 'awareness/' | relative_url &#125;&#125;)  
+   Link: <a href="https://arxiv.org/abs/2505.01420" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.01420</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating Frontier Models for Stealth and Situational AwarenessMay 2, 2025...</p></details>
    Published: May 2, 2025  
 
 6. <a id="endnote-6"></a>
    Source: aisi.gov.uk  
-   Link: [https://www.aisi.gov.uk/frontier-ai-trends-report](https://www.aisi.gov.uk/frontier-ai-trends-report)  
+   Link: <a href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/frontier-ai-trends-report</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)Red teaming: The process of attempting to elicit danger...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: legiscan.com  
-   Link: [https://legiscan.com/CA/text/SB1047/id/2919384](https://legiscan.com/CA/text/SB1047/id/2919384)  
+   Link: <a href="https://legiscan.com/CA/text/SB1047/id/2919384" target="_blank" rel="noopener noreferrer nofollow">https://legiscan.com/CA/text/SB1047/id/2919384</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bill Text: CA SB1047 | 2023-2024 | Regular SessionFeb 7, 2024 — The bill would also require a developer to report each artificial intelli...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: axios.com  
    Title: Global leaders commit to pre-deployment AI safety testing  
-   Link: [https://www.axios.com/2023/11/03/uk-safety-summit-ai-global-musk-altman](https://www.axios.com/2023/11/03/uk-safety-summit-ai-global-musk-altman)  
+   Link: <a href="https://www.axios.com/2023/11/03/uk-safety-summit-ai-global-musk-altman" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2023/11/03/uk-safety-summit-ai-global-musk-altman</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This coalition intends to establish common protocols for AI safety at the new London-based AI Safety Institute, which will serve as a glo...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: axios.com  
    Title: us frontier ai testing white house pivots safety  
-   Link: [https://www.axios.com/2026/05/05/us-frontier-ai-testing-white-house-pivots-safety](https://www.axios.com/2026/05/05/us-frontier-ai-testing-white-house-pivots-safety)  
+   Link: <a href="https://www.axios.com/2026/05/05/us-frontier-ai-testing-white-house-pivots-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2026/05/05/us-frontier-ai-testing-white-house-pivots-safety</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ramps up frontier AI testing as White House pivots toward safetyThe U.S. government is intensifying its oversight of frontier artificial...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
    Title: arXiv AI Companies Should Report Pre- and Post-Mitigation Safety Evaluations  
-   Link: [https://arxiv.org/abs/2503.17388](https://arxiv.org/abs/2503.17388)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivAI Companies Should Report Pre- and Post-Mitigation Safety EvaluationsMarch 17, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2503.17388" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2503.17388</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Companies Should Report Pre- and Post-Mitigation Safety EvaluationsMarch 17, 2025...</p></details>
    Published: March 17, 2025  
 
 11. <a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2512.01166v4](https://arxiv.org/html/2512.01166v4)  
+   Link: <a href="https://arxiv.org/html/2512.01166v4" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2512.01166v4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating AI Providers&#x27; Frontier AI Safety Frameworks23 Apr 2026 — This study assesses 12 Frameworks, using 65 weighted criteria, across...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2512.01166v3](https://arxiv.org/html/2512.01166v3)  
+   Link: <a href="https://arxiv.org/html/2512.01166v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2512.01166v3</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating AI Providers&#x27; Frontier AI Safety Frameworks26 Mar 2026 — Frameworks typically specify risk identification and assessment proce...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: legiscan.com  
-   Link: [https://legiscan.com/CA/text/SB1047/id/3019694](https://legiscan.com/CA/text/SB1047/id/3019694)  
+   Link: <a href="https://legiscan.com/CA/text/SB1047/id/3019694" target="_blank" rel="noopener noreferrer nofollow">https://legiscan.com/CA/text/SB1047/id/3019694</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bill Text: CA SB1047 | 2023-2024 | Regular Session(B) Mass casualties or at least five hundred million dollars ($500,000,000) of damage r...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: GOV.UK  
    Title: emerging processes for frontier ai safety  
-   Link: [https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety](https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety)  
+   Link: <a href="https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>processes for frontier AI safety27 Oct 2023 — Model Evaluations and Red Teaming can help assess the risks AI models pose and inform bette...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: aisi.gov.uk  
    Title: early lessons from evaluating frontier ai systems  
-   Link: [https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems](https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems)  
+   Link: <a href="https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AISI Work24 Oct 2024 — We look into the evolving role of third-party evaluators in assessing AI safety, and explore how to design robust...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=6WUz77Okdm8](https://www.youtube.com/watch?v=6WUz77Okdm8)  
+   Link: <a href="https://www.youtube.com/watch?v=6WUz77Okdm8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6WUz77Okdm8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Situational Awareness in Government, with UK AISI Chief Scientist Geoffrey Irving...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=M5Ho6AA7rSw](https://www.youtube.com/watch?v=M5Ho6AA7rSw)  
+   Link: <a href="https://www.youtube.com/watch?v=M5Ho6AA7rSw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=M5Ho6AA7rSw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Panel: Emerging Practices for Frontier AI Safety Assurance and Evaluations...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: Panel: Emerging Practices for Frontier AI Safety Assurance and Evaluations  
-   Link: [https://www.youtube.com/watch?v=4u6x-_BtE74](https://www.youtube.com/watch?v=4u6x-_BtE74)  
+   Link: <a href="https://www.youtube.com/watch?v=4u6x-_BtE74" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4u6x-_BtE74</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier AI governance safety evaluation testing training State of [Evals](&amp;#123;&amp;#123; &#x27;evals/&#x27; | relative_url &amp;#125;&amp;#125;): Lessons from U.S CAISI&#x27;s Evaluations of Cyber Capabilities and...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: internationalaisafetyreport.org  
    Title: international ai safety report 2026  
-   Link: [https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026](https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026)  
+   Link: <a href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow">https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>International AI Safety ReportInternational AI Safety Report 20263 Feb 2026 — In 2025, 12 companies published or updated their Frontier A...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: frontiermodelforum.org  
    Title: frontier capability assessments  
-   Link: [https://www.frontiermodelforum.org/technical-reports/frontier-capability-assessments/](https://www.frontiermodelforum.org/technical-reports/frontier-capability-assessments/)  
+   Link: <a href="https://www.frontiermodelforum.org/technical-reports/frontier-capability-assessments/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/technical-reports/frontier-capability-assessments/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Model ForumFrontier Capability AssessmentsApr 22, 2025 — Frontier Capability Assessments are procedures conducted on frontier mo...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: frontiermodelforum.org  
    Title: issue brief thresholds for frontier ai safety frameworks  
-   Link: [https://www.frontiermodelforum.org/updates/issue-brief-thresholds-for-frontier-ai-safety-frameworks/](https://www.frontiermodelforum.org/updates/issue-brief-thresholds-for-frontier-ai-safety-frameworks/)  
+   Link: <a href="https://www.frontiermodelforum.org/updates/issue-brief-thresholds-for-frontier-ai-safety-frameworks/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/updates/issue-brief-thresholds-for-frontier-ai-safety-frameworks/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Model ForumIssue Brief: Thresholds for Frontier AI Safety FrameworksFeb 7, 2025 — This brief elaborates on the importance of thr...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: frontiermodelforum.org  
-   Link: [https://www.frontiermodelforum.org/](https://www.frontiermodelforum.org/)  
+   Link: <a href="https://www.frontiermodelforum.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Model ForumFrontier Model ForumEstablish best practices for frontier AI safety and security, and develop shared understanding ab...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: frontiermodelforum.org  
    Title: issue brief preliminary taxonomy of ai bio safety evaluations  
-   Link: [https://www.frontiermodelforum.org/updates/issue-brief-preliminary-taxonomy-of-ai-bio-safety-evaluations/](https://www.frontiermodelforum.org/updates/issue-brief-preliminary-taxonomy-of-ai-bio-safety-evaluations/)  
+   Link: <a href="https://www.frontiermodelforum.org/updates/issue-brief-preliminary-taxonomy-of-ai-bio-safety-evaluations/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/updates/issue-brief-preliminary-taxonomy-of-ai-bio-safety-evaluations/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Preliminary Taxonomy of AI-Bio Safety EvaluationsDec 20, 2024 — This issue brief offers an initial taxonomy and definitions for frontier...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: ailabwatch.org  
-   Link: [https://ailabwatch.org/resources/commitments](https://ailabwatch.org/resources/commitments)  
+   Link: <a href="https://ailabwatch.org/resources/commitments" target="_blank" rel="noopener noreferrer nofollow">https://ailabwatch.org/resources/commitments</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>by several companies16 AI companies joined the Frontier AI Safety Commitments in May 2024, basically committing to make responsible scali...</p></details>
    Published: May 2024  
 
 25. <a id="endnote-25"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/us-news/2024/sep/29/california-governor-gavin-newsom-vetoes-ai-safety-bill](https://www.theguardian.com/us-news/2024/sep/29/california-governor-gavin-newsom-vetoes-ai-safety-bill)  
+   Link: <a href="https://www.theguardian.com/us-news/2024/sep/29/california-governor-gavin-newsom-vetoes-ai-safety-bill" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/sep/29/california-governor-gavin-newsom-vetoes-ai-safety-bill</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The governor cited concerns that the stringent regulations could drive AI businesses out of the state and stifle innovation. Despite veto...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: itpro.com  
-   Link: [https://www.itpro.com/technology/artificial-intelligence/microsoft-joins-competitors-in-handing-over-ai-models-for-advanced-testing](https://www.itpro.com/technology/artificial-intelligence/microsoft-joins-competitors-in-handing-over-ai-models-for-advanced-testing)  
+   Link: <a href="https://www.itpro.com/technology/artificial-intelligence/microsoft-joins-competitors-in-handing-over-ai-models-for-advanced-testing" target="_blank" rel="noopener noreferrer nofollow">https://www.itpro.com/technology/artificial-intelligence/microsoft-joins-competitors-in-handing-over-ai-models-for-advanced-testing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This initiative aims to enhance evaluation frameworks to ensure AI tools are reliable and safe, especially concerning national security a...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: frontiermodelforum.org  
-   Link: [https://www.frontiermodelforum.org/updates/issue-brief-preliminary-taxonomy-of-pre-deployment-frontier-ai-safety-evaluations/](https://www.frontiermodelforum.org/updates/issue-brief-preliminary-taxonomy-of-pre-deployment-frontier-ai-safety-evaluations/)  
+   Link: <a href="https://www.frontiermodelforum.org/updates/issue-brief-preliminary-taxonomy-of-pre-deployment-frontier-ai-safety-evaluations/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/updates/issue-brief-preliminary-taxonomy-of-pre-deployment-frontier-ai-safety-evaluations/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Issue Brief: Preliminary Taxonomy of Pre-Deployment...20 Dec 2024 — This issue brief offers an initial high-level taxonomy of pre-deploy...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: frontiermodelforum.org  
-   Link: [https://www.frontiermodelforum.org/publications/](https://www.frontiermodelforum.org/publications/)  
+   Link: <a href="https://www.frontiermodelforum.org/publications/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/publications/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>February 7, 2025. Preliminary Taxonomy of AI-Bio Safety Evaluations. December 20, 2024. Preliminary Taxonomy of Pre-Deployment Frontier A...</p></details>
    Published: February 7, 2025  
 
 29. <a id="endnote-29"></a>
    Source: frontiermodelforum.org  
    Title: managing advanced cyber risks in frontier ai frameworks  
-   Link: [https://www.frontiermodelforum.org/technical-reports/managing-advanced-cyber-risks-in-frontier-ai-frameworks/](https://www.frontiermodelforum.org/technical-reports/managing-advanced-cyber-risks-in-frontier-ai-frameworks/)  
+   Link: <a href="https://www.frontiermodelforum.org/technical-reports/managing-advanced-cyber-risks-in-frontier-ai-frameworks/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/technical-reports/managing-advanced-cyber-risks-in-frontier-ai-frameworks/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Feb 13, 2026 — Developers often conduct AI cyber evaluations at three critical stages: before any safety measures are applied to evaluate...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: frontiermodelforum.org  
    Title: risk taxonomy and thresholds  
-   Link: [https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/](https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/)  
+   Link: <a href="https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>for Frontier AI FrameworksJun 18, 2025 — Frontier AI frameworks outline methodologies for identifying, managing and mitigating the potent...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: frontiermodelforum.org  
-   Link: [https://www.frontiermodelforum.org/uploads/2023/10/FMF-AI-Red-Teaming.pdf](https://www.frontiermodelforum.org/uploads/2023/10/FMF-AI-Red-Teaming.pdf)  
+   Link: <a href="https://www.frontiermodelforum.org/uploads/2023/10/FMF-AI-Red-Teaming.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/uploads/2023/10/FMF-AI-Red-Teaming.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nd to understand likely adversary...Read more...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: dlapiper.com  
    Title: californias sb 1047  
-   Link: [https://www.dlapiper.com/insights/publications/2024/02/californias-sb-1047](https://www.dlapiper.com/insights/publications/2024/02/californias-sb-1047)  
+   Link: <a href="https://www.dlapiper.com/insights/publications/2024/02/californias-sb-1047" target="_blank" rel="noopener noreferrer nofollow">https://www.dlapiper.com/insights/publications/2024/02/californias-sb-1047</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>California&#x27;s SB-1047: Understanding the Safe and Secure...20 Feb 2024 — We describe the current legal landscape related to AI and how SB...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/frontier-model-forum_issue-brief-preliminary-taxonomy-of-pre-deployment-activity-7276002466280738816-Q9oh](https://www.linkedin.com/posts/frontier-model-forum_issue-brief-preliminary-taxonomy-of-pre-deployment-activity-7276002466280738816-Q9oh)  
+   Link: <a href="https://www.linkedin.com/posts/frontier-model-forum_issue-brief-preliminary-taxonomy-of-pre-deployment-activity-7276002466280738816-Q9oh" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/frontier-model-forum_issue-brief-preliminary-taxonomy-of-pre-deployment-activity-7276002466280738816-Q9oh</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: forum.effectivealtruism.org  
    Title: frontier model forum  
-   Link: [https://forum.effectivealtruism.org/posts/TCHNn4t9xL6pzSuZX/frontier-model-forum](https://forum.effectivealtruism.org/posts/TCHNn4t9xL6pzSuZX/frontier-model-forum)  
+   Link: <a href="https://forum.effectivealtruism.org/posts/TCHNn4t9xL6pzSuZX/frontier-model-forum" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/TCHNn4t9xL6pzSuZX/frontier-model-forum</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Model Forum26 Jul 2023 — The core objectives for the Forum are: Advancing AI safety research to promote responsible development of fronti...</p></details>
 
 35. <a id="endnote-35"></a>
-   Source: [anthropic](&#123;&#123; 'anthropic-tests/' | relative_url &#125;&#125;). com  
+   Source: anthropic.com  
    Title: frontier threats red teaming for ai safety  
-   Link: [https://www.anthropic.com/news/frontier-threats-red-teaming-for-ai-safety](https://www.anthropic.com/news/frontier-threats-red-teaming-for-ai-safety)  
+   Link: <a href="https://www.anthropic.com/news/frontier-threats-red-teaming-for-ai-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/news/frontier-threats-red-teaming-for-ai-safety</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>26 Jul 2023 — “Red teaming,” or adversarial testing, is a recognized technique to measure and increase the safety and security of systems...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: internationalaisafetyreport.org  
    Title: second key update technical safeguards and risk management  
-   Link: [https://internationalaisafetyreport.org/publication/second-key-update-technical-safeguards-and-risk-management](https://internationalaisafetyreport.org/publication/second-key-update-technical-safeguards-and-risk-management)  
+   Link: <a href="https://internationalaisafetyreport.org/publication/second-key-update-technical-safeguards-and-risk-management" target="_blank" rel="noopener noreferrer nofollow">https://internationalaisafetyreport.org/publication/second-key-update-technical-safeguards-and-risk-management</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Second Key Update: Technical Safeguards and Risk...25 Nov 2025 — This second Update to the 2025 International AI Safety Report assesses...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: aisecurityandsafety.org  
    Title: frontier model forum glossary  
-   Link: [https://aisecurityandsafety.org/de/glossary/frontier-model-forum-glossary/](https://aisecurityandsafety.org/de/glossary/frontier-model-forum-glossary/)  
+   Link: <a href="https://aisecurityandsafety.org/de/glossary/frontier-model-forum-glossary/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/de/glossary/frontier-model-forum-glossary/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Model Forum — AI Governance Definition &amp; Guide27 Mar 2026 — The Forum has published guidance on topics including responsible dev...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: medium.com  
-   Link: [https://medium.com/enkrypt-ai/frontier-safety-frameworks-a-comprehensive-picture-e070efb4d0a7](https://medium.com/enkrypt-ai/frontier-safety-frameworks-a-comprehensive-picture-e070efb4d0a7)  
+   Link: <a href="https://medium.com/enkrypt-ai/frontier-safety-frameworks-a-comprehensive-picture-e070efb4d0a7" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/enkrypt-ai/frontier-safety-frameworks-a-comprehensive-picture-e070efb4d0a7</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Safety Frameworks — A Comprehensive PictureGoogle DeepMind&#x27;s Frontier Safety Framework introduces Critical Capability Levels (CC...</p></details>
 
 ### Additional References
 
 39. <a id="endnote-39"></a>
    Source: orrick.com  
-   Link: [https://www.orrick.com/en/Insights/2024/07/California-Looks-to-Regulate-Cutting-Edge-Frontier-AI-Models-5-Things-to-Know-About-SB1047](https://www.orrick.com/en/Insights/2024/07/California-Looks-to-Regulate-Cutting-Edge-Frontier-AI-Models-5-Things-to-Know-About-SB1047)  
+   Link: <a href="https://www.orrick.com/en/Insights/2024/07/California-Looks-to-Regulate-Cutting-Edge-Frontier-AI-Models-5-Things-to-Know-About-SB1047" target="_blank" rel="noopener noreferrer nofollow">https://www.orrick.com/en/Insights/2024/07/California-Looks-to-Regulate-Cutting-Edge-Frontier-AI-Models-5-Things-to-Know-About-SB1047</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>California Looks to Regulate Cutting-Edge Frontier AI ModelsJul 19, 2024 — The bill defines a “covered model” as an AI model “trained usi...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: Lawfare  
-   Link: [https://www.lawfaremedia.org/article/california-s-proposed-sb-1047-would-be-a-major-step-forward-for-ai-safety-but-there-s-still-room-for-improvement](https://www.lawfaremedia.org/article/california-s-proposed-sb-1047-would-be-a-major-step-forward-for-ai-safety-but-there-s-still-room-for-improvement)  
+   Link: <a href="https://www.lawfaremedia.org/article/california-s-proposed-sb-1047-would-be-a-major-step-forward-for-ai-safety-but-there-s-still-room-for-improvement" target="_blank" rel="noopener noreferrer nofollow">https://www.lawfaremedia.org/article/california-s-proposed-sb-1047-would-be-a-major-step-forward-for-ai-safety-but-there-s-still-room-for-improvement</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pros and Cons of California&#x27;s Proposed SB-1047 AI...May 8, 2024 — SB-1047 would create a new regulatory framework for frontier AI system...</p></details>
    Published: May 8, 2024  
 
 41. <a id="endnote-41"></a>
    Source: deeplearning.ai  
-   Link: [https://www.deeplearning.ai/the-batch/californias-proposed-ai-safety-law-puts-developers-at-risk-california-sb-1047-is-intended-to-make-ai-safer-but-its-unclear-requirements-put-developers-innovation-and-open-source-in-jeop](https://www.deeplearning.ai/the-batch/californias-proposed-ai-safety-law-puts-developers-at-risk-california-sb-1047-is-intended-to-make-ai-safer-but-its-unclear-requirements-put-developers-innovation-and-open-source-in-jeop)  
+   Link: <a href="https://www.deeplearning.ai/the-batch/californias-proposed-ai-safety-law-puts-developers-at-risk-california-sb-1047-is-intended-to-make-ai-safer-but-its-unclear-requirements-put-developers-innovation-and-open-source-in-jeop" target="_blank" rel="noopener noreferrer nofollow">https://www.deeplearning.ai/the-batch/californias-proposed-ai-safety-law-puts-developers-at-risk-california-sb-1047-is-intended-to-make-ai-safer-but-its-unclear-requirements-put-developers-innovation-and-open-source-in-jeop</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>California&#x27;s Proposed AI Safety Law Puts Developers at Risk10 Jul 2024 — It puts in place complex reporting requirements for developers w...</p></details>
 
 42. <a id="endnote-42"></a>
    Source: gibsondunn.com  
-   Link: [https://www.gibsondunn.com/regulating-the-future-eight-key-takeaways-from-californias-sb-1047-vetoed-by-governor-newsom/](https://www.gibsondunn.com/regulating-the-future-eight-key-takeaways-from-californias-sb-1047-vetoed-by-governor-newsom/)  
+   Link: <a href="https://www.gibsondunn.com/regulating-the-future-eight-key-takeaways-from-californias-sb-1047-vetoed-by-governor-newsom/" target="_blank" rel="noopener noreferrer nofollow">https://www.gibsondunn.com/regulating-the-future-eight-key-takeaways-from-californias-sb-1047-vetoed-by-governor-newsom/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eight Key Takeaways from California&#x27;s SB 1047, Vetoed...Sep 29, 2024 — The frontier models that are publicly available are just below th...</p></details>
 
 43. <a id="endnote-43"></a>
    Source: aigl.blog  
-   Link: [https://www.aigl.blog/mapping-frameworks-at-the-intersection-of-ai-safety-and-traditional-risk-management/](https://www.aigl.blog/mapping-frameworks-at-the-intersection-of-ai-safety-and-traditional-risk-management/)  
+   Link: <a href="https://www.aigl.blog/mapping-frameworks-at-the-intersection-of-ai-safety-and-traditional-risk-management/" target="_blank" rel="noopener noreferrer nofollow">https://www.aigl.blog/mapping-frameworks-at-the-intersection-of-ai-safety-and-traditional-risk-management/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mapping Frameworks at the Intersection of AI Safety and...22 Sept 2025 — Examples include: SaferAI&#x27;s 2025 Framework, which integrates re...</p></details>
 
 44. <a id="endnote-44"></a>
    Source: anthropic.com  
    Title: strategic warning for ai risk progress and insights from our frontier red team  
-   Link: [https://www.anthropic.com/news/strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team](https://www.anthropic.com/news/strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team)  
+   Link: <a href="https://www.anthropic.com/news/strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/news/strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Progress from our Frontier Red Team19 Mar 2025 — In this post, we are sharing what we have learned about the trajectory of potential nati...</p></details>
 
 45. <a id="endnote-45"></a>
    Source: publicpolicy.google  
-   Link: [https://publicpolicy.google/resources/whcommitments.pdf](https://publicpolicy.google/resources/whcommitments.pdf)  
+   Link: <a href="https://publicpolicy.google/resources/whcommitments.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publicpolicy.google/resources/whcommitments.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ed teaming, proactively mitigating risks related to harmful bias...Read more...</p></details>
 
 46. <a id="endnote-46"></a>
    Source: multistate.us  
    Title: california passes first of its kind ai safety law  
-   Link: [https://www.multistate.us/insider/2025/10/9/california-passes-first-of-its-kind-ai-safety-law](https://www.multistate.us/insider/2025/10/9/california-passes-first-of-its-kind-ai-safety-law)  
+   Link: <a href="https://www.multistate.us/insider/2025/10/9/california-passes-first-of-its-kind-ai-safety-law" target="_blank" rel="noopener noreferrer nofollow">https://www.multistate.us/insider/2025/10/9/california-passes-first-of-its-kind-ai-safety-law</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>California Passes First-of-Its-Kind AI Safety Law9 Oct 2025 — California recently passed groundbreaking AI safety legislation that shifts...</p></details>
 
 47. <a id="endnote-47"></a>
    Source: brookings.edu  
    Title: misrepresentations of californias ai safety bill  
-   Link: [https://www.brookings.edu/articles/misrepresentations-of-californias-ai-safety-bill/](https://www.brookings.edu/articles/misrepresentations-of-californias-ai-safety-bill/)  
+   Link: <a href="https://www.brookings.edu/articles/misrepresentations-of-californias-ai-safety-bill/" target="_blank" rel="noopener noreferrer nofollow">https://www.brookings.edu/articles/misrepresentations-of-californias-ai-safety-bill/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Misrepresentations of California&#x27;s AI safety bill27 Sept 2024 — SB-1047 does so by requiring developers of “covered models”–AI models tha...</p></details>
 
 48. <a id="endnote-48"></a>
    Source: a16z.com  
    Title: sb 1047 what you need to know with anjney midha  
-   Link: [https://a16z.com/sb-1047-what-you-need-to-know-with-anjney-midha/](https://a16z.com/sb-1047-what-you-need-to-know-with-anjney-midha/)  
+   Link: <a href="https://a16z.com/sb-1047-what-you-need-to-know-with-anjney-midha/" target="_blank" rel="noopener noreferrer nofollow">https://a16z.com/sb-1047-what-you-need-to-know-with-anjney-midha/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What You Need to Know About SB 1047: A Q&amp;A with...19 Jun 2024 — Senate Bill 1047 is designed to apply to models trained above certain co...</p></details>

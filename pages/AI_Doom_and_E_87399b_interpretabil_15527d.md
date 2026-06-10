@@ -19,19 +19,19 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_p_doom_estima_72d1f2
 - AI_Doom_and_E_87399b_recursive_imp_3a3504
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - control-tools
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - control-tools
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Interpretability, monitoring and control tools aim to make powerful systems less opaque and easier to constrain.
 hero_summary: Interpretability, monitoring and control tools aim to make powerful systems less opaque and easier to constrain.
 layout: default
 permalink: /control-tools/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 nav_short_title: Control Tools
 title: Can We Make Advanced AI Understandable?
 title_full: Can We Make Advanced AI Understandable? | AI Doom
@@ -211,61 +211,61 @@ ui_strings:
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 21:21:12'
 parent_title: AI Doom
-parent_permalink: /ai-doom-and/
+parent_permalink: /ai-doom-and-e-87399-b/
 parent_nav_short_title: AI Doom
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 sibling_links:
 - basename: AI_Doom_and_E_87399b_recursive_imp_3a3504
-  title: AI Takeoff | AI Doom and
+  title: AI Takeoff | AI Doom and E 87399 b
   permalink: /ai-takeoff/
   short_title: AI Takeoff
   heading_title: Could AI Improvement Run Away From US?
 - basename: AI_Doom_and_E_87399b_dangerous_aut_8f4266
-  title: Autonomy | AI Doom and
+  title: Autonomy | AI Doom and E 87399 b
   permalink: /autonomy/
   short_title: Autonomy
   heading_title: When Does AI Autonomy Become Dangerous?
 - basename: AI_Doom_and_E_87399b_frontier_ai_e_9920ab
-  title: Evals | AI Doom and
+  title: Evals | AI Doom and E 87399 b
   permalink: /evals/
   short_title: Evals
   heading_title: Can Tests Catch Dangerous AI in Time?
 - basename: AI_Doom_and_E_87399b_compute_gover_1ee8fc
-  title: Governance | AI Doom and
+  title: Governance | AI Doom and E 87399 b
   permalink: /governance/
   short_title: Governance
   heading_title: What Rules Could Reduce AI Doom Risk?
 - basename: AI_Doom_and_E_87399b_loss_of_contr_19a113
-  title: Loss of Control | AI Doom and
+  title: Loss of Control | AI Doom and E 87399 b
   permalink: /loss-of-control/
   short_title: Loss of Control
   heading_title: How Could Humans Lose Control of AI?
 - basename: AI_Doom_and_E_87399b_catastrophic_c92548
-  title: Misuse | AI Doom and
+  title: Misuse | AI Doom and E 87399 b
   permalink: /misuse/
   short_title: Misuse
   heading_title: How Could People Misuse Advanced AI?
 - basename: AI_Doom_and_E_87399b_p_doom_estima_72d1f2
-  title: P Doom | AI Doom and
+  title: P Doom | AI Doom and E 87399 b
   permalink: /p-doom/
   short_title: P Doom
   heading_title: What Does p(doom) Really Mean?
 - basename: AI_Doom_and_E_87399b_ai_race_dynam_a5d049
-  title: Race Pressure | AI Doom and
+  title: Race Pressure | AI Doom and E 87399 b
   permalink: /race-pressure/
   short_title: Race Pressure
   heading_title: Why AI Races Can Make Safety Harder
 - basename: AI_Doom_and_E_87399b_deceptive_ali_f9f449
-  title: Scheming Tests | AI Doom and
+  title: Scheming Tests | AI Doom and E 87399 b
   permalink: /scheming-tests/
   short_title: Scheming Tests
   heading_title: Can AI Pretend to Be Aligned?
@@ -293,17 +293,17 @@ child_links:
 up_link:
   basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 prev_link:
   basename: AI_Doom_and_E_87399b_dangerous_aut_8f4266
-  title: Autonomy | AI Doom and
+  title: Autonomy | AI Doom and E 87399 b
   permalink: /autonomy/
   short_title: Autonomy
   heading_title: When Does AI Autonomy Become Dangerous?
 next_link:
   basename: AI_Doom_and_E_87399b_frontier_ai_e_9920ab
-  title: Evals | AI Doom and
+  title: Evals | AI Doom and E 87399 b
   permalink: /evals/
   short_title: Evals
   heading_title: Can Tests Catch Dangerous AI in Time?
@@ -319,17 +319,17 @@ When people worry about “AI doom” — the possibility that future, far more 
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d-overview.webp" | relative_url }}" alt="Overview image for Control Tools" loading="eager" decoding="sync" fetchpriority="high">
-This page explains what these tools are, what they *can* and *cannot* do, where researchers are focusing their efforts, and how this work ties into broader concerns about alignment and loss of human control in advanced AI. It draws on current scientific and safety research rather than hype, focusing on methods that aim to reduce existential risk. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.14082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivMechanistic Interpretability for AI Safety -- A Reviewby L Bereska · 2024 · Cited by 518 — This review explores mechanistic interpre...</span></span></span>
+This page explains what these tools are, what they *can* and *cannot* do, where researchers are focusing their efforts, and how this work ties into broader concerns about alignment and loss of human control in advanced AI. It draws on current scientific and safety research rather than hype, focusing on methods that aim to reduce existential risk. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.14082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Mechanistic Interpretability for AI Safety -- A Reviewby L Bereska · 2024 · Cited by 518 — This review explores mechanistic interpre...</span></span></span>
 
 ## What Interpretability Can Reveal
 
-At the simplest level, **interpretability** means understanding how an AI system reaches a decision — whether by making its reasoning transparent to experts or by reverse‑engineering its internal computations. In safety discussions, interpretability serves two high‑stakes purposes: diagnosing when an AI might behave in an unintended or [dangerous]({{ 'autonomy/' | relative_url }}) way, and providing insight into *why* it would do so.
+At the simplest level, **interpretability** means understanding how an AI system reaches a decision — whether by making its reasoning transparent to experts or by reverse‑engineering its internal computations. In safety discussions, interpretability serves two high‑stakes purposes: diagnosing when an AI might behave in an unintended or dangerous way, and providing insight into *why* it would do so.
 
 ### Intrinsic and Behavioral Explanations
 
 Most mature interpretability research differentiates between:
 
-* **Post‑hoc explanations**, such as feature saliency, surrogate models and input–output attributions. These try to summarise or visualise how a system responds to inputs, but don’t open the internal “[black box]({{ 'black-box-evidence/' | relative_url }})” fully. They’re widely used in machine learning today to build trust and debug models but offer correlational rather than causal understanding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Explainable_artificial_intelligence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Explainable artificial intelligence</span><span class="citation-popover-snippet">Explainable artificial intelligence</span></span></span>
+* **Post‑hoc explanations**, such as feature saliency, surrogate models and input–output attributions. These try to summarise or visualise how a system responds to inputs, but don’t open the internal “black box” fully. They’re widely used in machine learning today to build trust and debug models but offer correlational rather than causal understanding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Explainable_artificial_intelligence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Explainable artificial intelligence</span><span class="citation-popover-snippet">Explainable artificial intelligence</span></span></span>
 * **Mechanistic interpretability**, an emerging but increasingly central approach in AI safety research. Rather than just linking inputs to outputs, mechanistic methods attempt to map the *internal computations* — the learned representations, circuits or algorithm‑like structures inside neural networks — into human‑understandable constructs. The goal is akin to reverse‑engineering a compiled computer program to recover its logic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aisafety.info/questions/98OW/What-is-mechanistic-interpretability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisafety.info">[aisafety.info]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisafety.info</span><span class="citation-popover-snippet">orithms”. It is a subfield of interpretability that...</span></span></span>
 
 Mechanistic interpretability is seen by some researchers as a way to *see inside the “mind” of an AI*. For example, it could identify whether a model encodes representations that correlate with goals, strategies or latent objectives that diverge from what humans intend — insights that simple input–output tests might miss. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lesswrong.com/posts/DBn83cvA6PDeq8o5x/interpretability-is-the-best-path-to-alignment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lesswrong.com">[LessWrong]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lesswrong.com</span><span class="citation-popover-title">interpretability is the best path to alignment</span><span class="citation-popover-snippet">Instead of attempting to control the...Read more...</span></span></span>
@@ -338,7 +338,7 @@ Mechanistic interpretability is seen by some researchers as a way to *see inside
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d-Illustration-1-dark.svg" | relative_url }}" alt="Control Tools illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Interpretability and Alignment
 
-Because interpretability connects model behaviour with internal structure, many scholars argue it should be treated not as a diagnostic tool but as a *design principle* for alignment. That means building systems whose decision mechanisms are intrinsically comprehensible and amenable to scrutiny, rather than retrofitting explanations after the fact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.14082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivMechanistic Interpretability for AI Safety -- A Reviewby L Bereska · 2024 · Cited by 518 — This review explores mechanistic interpre...</span></span></span>
+Because interpretability connects model behaviour with internal structure, many scholars argue it should be treated not as a diagnostic tool but as a *design principle* for alignment. That means building systems whose decision mechanisms are intrinsically comprehensible and amenable to scrutiny, rather than retrofitting explanations after the fact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.14082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Mechanistic Interpretability for AI Safety -- A Reviewby L Bereska · 2024 · Cited by 518 — This review explores mechanistic interpre...</span></span></span>
 
 However, a substantial dispute within the field is whether interpretability *by itself* can guarantee safe AI behaviour. Some critics argue that even detailed mechanistic maps may only reveal part of a system’s behaviour or be subject to misinterpretation, especially in very large and complex models. Current techniques have been shown to struggle with phenomena like polysemantic representations (where single neurons encode multiple unrelated concepts), raising questions about whether inner transparency can scale to frontier systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Polysemanticity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
@@ -347,7 +347,7 @@ However, a substantial dispute within the field is whether interpretability *by 
 
 ## Control Methods Beyond Explanations
 
-Interpretability helps reveal *what an AI is doing* and *why*, but preventing catastrophic outcomes also requires **control methods** — ways to constrain, monitor and shape AI behaviour in practice. These methods range from architectural safeguards to [continuous]({{ 'continuous-control/' | relative_url }}) oversight and behavioural stress‑testing.
+Interpretability helps reveal *what an AI is doing* and *why*, but preventing catastrophic outcomes also requires **control methods** — ways to constrain, monitor and shape AI behaviour in practice. These methods range from architectural safeguards to continuous oversight and behavioural stress‑testing.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/k93o4R145Os" title="Neel Nanda - Our Pivot To Pragmatic Interpretability [Alignment Workshop]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=k93o4R145Os" target="_blank" rel="noopener noreferrer">Neel Nanda - Our Pivot To Pragmatic Interpretability [Alignment Workshop]</a></p><p class="youtube-embed-meta">Channel: FAR․AI &middot; Views: 3.0K &middot; Uploaded: December 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=k93o4R145Os" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=k93o4R145Os">Open on YouTube</a></p></div></div></div>
@@ -356,11 +356,11 @@ Interpretability helps reveal *what an AI is doing* and *why*, but preventing ca
 
 One strand of safety research envisions **control protocols**: structured procedures by which an AI’s actions can be observed, tested, and intervened upon before they cause harm. These can involve:
 
-* **AI monitoring** by trusted systems that watch the outputs of powerful models and flag anomalies or harmful strategies before they propagate.
-* **Red teaming**, where specialised teams or tools intentionally probe the AI for failure modes, deceptive behaviour or covert misalignment strategies. This is analogous to security stress‑testing in cybersecurity, but adapted for intelligent systems whose “attacks” might be strategic rather than adversarial in a conventional sense.
+* **AI [monitoring]({{ 'monitoring/' | relative_url }})** by trusted systems that watch the outputs of powerful models and flag anomalies or harmful strategies before they propagate.
+* **[Red teaming]({{ 'red-teaming/' | relative_url }})**, where specialised teams or tools intentionally probe the AI for failure modes, deceptive behaviour or covert misalignment strategies. This is analogous to security stress‑testing in cybersecurity, but adapted for intelligent systems whose “attacks” might be strategic rather than adversarial in a conventional sense.
 * **Control evaluations**, structured stress tests designed to measure whether a model can be constrained safely even when pursuing complicated or deceptive objectives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://alignmentproject.aisi.gov.uk/research-area/empirical-investigations-into-ai-monitoring-and-red-teaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alignmentproject.aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alignmentproject.aisi.gov.uk</span><span class="citation-popover-snippet">These control protocols...Read more...</span></span></span>
 
-Researchers are increasingly focused on how these protocols perform *against adaptive adversaries*—cases where a system actively attempts to evade its own monitors or exploit weaknesses in control mechanisms. Early research shows that naive monitor‑based controls can be evaded by adaptive strategies if the adversary knows the protocol, underscoring the difficulty of designing robust controls at scale. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.14082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivMechanistic Interpretability for AI Safety -- A Reviewby L Bereska · 2024 · Cited by 518 — This review explores mechanistic interpre...</span></span></span>
+Researchers are increasingly focused on how these protocols perform *against adaptive adversaries*—cases where a system actively attempts to evade its own monitors or exploit weaknesses in control mechanisms. Early research shows that naive monitor‑based controls can be evaded by adaptive strategies if the adversary knows the protocol, underscoring the difficulty of designing robust controls at scale. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.14082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Mechanistic Interpretability for AI Safety -- A Reviewby L Bereska · 2024 · Cited by 518 — This review explores mechanistic interpre...</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d-Illustration-2-dark.svg" | relative_url }}" alt="Control Tools illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -377,7 +377,7 @@ Technically, control mechanisms can be deployed at multiple layers:
 
 </div>
 
-[Human oversight]({{ 'human-oversight/' | relative_url }}) frameworks like the US National Institute of Standards and Technology’s AI Risk Management Framework emphasise *governance, measurement and management* throughout the AI lifecycle to embed human judgement and correction at every stage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livingsecurity.com/blog/nist-ai-risk-management-oversight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livingsecurity.com">[livingsecurity.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livingsecurity.com</span><span class="citation-popover-title">This guide breaks down the NIST AI RMF 1.0 principles</span><span class="citation-popover-snippet">A Guide to Human Oversight Controls for AIFebruary 10, 2026 — 10 Feb 2026 — Build safer, more accountable AI systems with strong human ov...</span><span class="citation-popover-meta">Published: February 10, 2026</span></span></span>
+[Human oversight]({{ 'human-oversight/' | relative_url }}) frameworks like the US National Institute of Standards and Technology’s AI Risk Management Framework emphasise *[governance]({{ 'governance/' | relative_url }}), measurement and management* throughout the AI lifecycle to embed human judgement and correction at every stage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livingsecurity.com/blog/nist-ai-risk-management-oversight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livingsecurity.com">[livingsecurity.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livingsecurity.com</span><span class="citation-popover-title">This guide breaks down the NIST AI RMF 1.0 principles</span><span class="citation-popover-snippet">A Guide to Human Oversight Controls for AIFebruary 10, 2026 — 10 Feb 2026 — Build safer, more accountable AI systems with strong human ov...</span><span class="citation-popover-meta">Published: February 10, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0704iLc55Fs" title="An Introduction to Mechanistic Interpretability – Neel Nanda | IASEAI 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0704iLc55Fs" target="_blank" rel="noopener noreferrer">An Introduction to Mechanistic Interpretability – Neel Nanda | IASEAI 2025</a></p><p class="youtube-embed-meta">Channel: International Association for Safe &amp; Ethical AI &middot; Views: 7.2K &middot; Uploaded: August 2025 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0704iLc55Fs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0704iLc55Fs">Open on YouTube</a></p></div></div></div>
@@ -387,13 +387,13 @@ Technically, control mechanisms can be deployed at multiple layers:
 Even with cutting‑edge interpretability and control research, there remain deep uncertainties:
 
 * **Scalability of mechanistic interpretability** is a major open question. Techniques that work on small networks often fail to generalise to billion‑parameter models, and there are no guarantees that understanding internal mechanisms will fully account for emergent, high‑level behaviour in much larger AI systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mechanistic_interpretability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mechanistic interpretability</span><span class="citation-popover-snippet">Mechanistic interpretability</span></span></span>
-* **Unpredictability of emergent behaviour** means that even if we understand all known circuits, AI systems might still exhibit behaviours not anticipated by present theory. Some recent research argues that reliably monitoring advanced systems in order to *predict* novel capabilities before they appear may be infeasible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s43681-024-00420-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">Link On monitorability of AI | AI and Ethics | Springer Nature Link</span><span class="citation-popover-snippet">Springer LinkOn monitorability of AI | AI and Ethics | Springer Nature LinkFebruary 6, 2024...</span><span class="citation-popover-meta">Published: February 6, 2024</span></span></span>
-* **Robustness and adaptive threats** challenge control protocols. Models that know how they are being monitored may find ways to evade detection, just as malware evolves to sidestep antivirus systems. This adaptive game raises the stakes for designing controls that remain effective even against intelligent adversaries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.14082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivMechanistic Interpretability for AI Safety -- A Reviewby L Bereska · 2024 · Cited by 518 — This review explores mechanistic interpre...</span></span></span>
+* **Unpredictability of emergent behaviour** means that even if we understand all known circuits, AI systems might still exhibit behaviours not anticipated by present theory. Some recent research argues that reliably monitoring advanced systems in order to *predict* novel capabilities before they appear may be infeasible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s43681-024-00420-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">Link On monitorability of AI &#124; AI and Ethics &#124; Springer Nature Link</span><span class="citation-popover-snippet">Springer LinkOn monitorability of AI &#124; AI and Ethics &#124; Springer Nature LinkFebruary 6, 2024...</span><span class="citation-popover-meta">Published: February 6, 2024</span></span></span>
+* **Robustness and adaptive threats** challenge control protocols. Models that know how they are being monitored may find ways to evade detection, just as malware evolves to sidestep antivirus systems. This adaptive game raises the stakes for designing controls that remain effective even against intelligent adversaries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.14082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Mechanistic Interpretability for AI Safety -- A Reviewby L Bereska · 2024 · Cited by 518 — This review explores mechanistic interpre...</span></span></span>
 * **Interpretability doesn’t guarantee corrigibility** — the property that an AI will accept modification, shutdown or correction when requested. A system might be transparent yet still resist correction if its internal goals conflict with human intentions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/AI_corrigibility" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">AI corrigibility</span><span class="citation-popover-snippet">AI corrigibility</span></span></span>
 
 Because of these limitations, many in the field see interpretability and control as *necessary but not sufficient* components of existential risk mitigation. They must be combined with other alignment strategies, robust governance and careful deployment practices.
 
-**In summary:** Interpretability and control methods tackle a core challenge in existential AI risk: how to make advanced, opaque systems understandable and constrainable. Interpretability aims to open the black box, with mechanistic approaches seeking causal insight into internal computation. Control methods target restriction, monitoring and intervention. Both are active research frontiers but face fundamental technical and conceptual limits. Their development shapes not just how we build AI systems, but how we *trust* and *govern* them in the context of risks that could one day be existential if left unchecked. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.14082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivMechanistic Interpretability for AI Safety -- A Reviewby L Bereska · 2024 · Cited by 518 — This review explores mechanistic interpre...</span></span></span>
+**In summary:** Interpretability and control methods tackle a core challenge in existential AI risk: how to make advanced, opaque systems understandable and constrainable. Interpretability aims to open the black box, with mechanistic approaches seeking causal insight into internal computation. Control methods target restriction, monitoring and intervention. Both are active research frontiers but face fundamental technical and conceptual limits. Their development shapes not just how we build AI systems, but how we *trust* and *govern* them in the context of risks that could one day be existential if left unchecked. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.14082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Mechanistic Interpretability for AI Safety -- A Reviewby L Bereska · 2024 · Cited by 518 — This review explores mechanistic interpre...</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d-Illustration-3-dark.svg" | relative_url }}" alt="Control Tools illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -819,99 +819,99 @@ Because of these limitations, many in the field see interpretability and control
 
 1. <a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2404.14082](https://arxiv.org/abs/2404.14082)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivMechanistic Interpretability for AI Safety -- A Reviewby L Bereska · 2024 · Cited by 518 — This review explores mechanistic interpre...</p></details>
+   Link: <a href="https://arxiv.org/abs/2404.14082" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2404.14082</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanistic Interpretability for AI Safety -- A Reviewby L Bereska · 2024 · Cited by 518 — This review explores mechanistic interpre...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
-   Title: Explainable [artificial](&#123;&#123; 'artificial-goals/' | relative_url &#125;&#125;) intelligence  
-   Link: [https://en.wikipedia.org/wiki/Explainable_artificial_intelligence](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence)  
+   Title: Explainable artificial intelligence  
+   Link: <a href="https://en.wikipedia.org/wiki/Explainable_artificial_intelligence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Explainable_artificial_intelligence</a>  
 
 3. <a id="endnote-3"></a>
    Source: aisafety.info  
-   Link: [https://aisafety.info/questions/98OW/What-is-mechanistic-interpretability](https://aisafety.info/questions/98OW/What-is-mechanistic-interpretability)  
+   Link: <a href="https://aisafety.info/questions/98OW/What-is-mechanistic-interpretability" target="_blank" rel="noopener noreferrer nofollow">https://aisafety.info/questions/98OW/What-is-mechanistic-interpretability</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>orithms”. It is a subfield of interpretability that...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: lesswrong.com  
    Title: interpretability is the best path to alignment  
-   Link: [https://www.lesswrong.com/posts/DBn83cvA6PDeq8o5x/interpretability-is-the-best-path-to-alignment](https://www.lesswrong.com/posts/DBn83cvA6PDeq8o5x/interpretability-is-the-best-path-to-alignment)  
+   Link: <a href="https://www.lesswrong.com/posts/DBn83cvA6PDeq8o5x/interpretability-is-the-best-path-to-alignment" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/posts/DBn83cvA6PDeq8o5x/interpretability-is-the-best-path-to-alignment</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Instead of attempting to control the...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2509.08592](https://arxiv.org/abs/2509.08592)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivInterpretability as Alignment: Making Internal Understanding a Design PrincipleSeptember 10, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2509.08592" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2509.08592</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Interpretability as Alignment: Making Internal Understanding a Design PrincipleSeptember 10, 2025...</p></details>
    Published: September 10, 2025  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Polysemanticity](https://en.wikipedia.org/wiki/Polysemanticity)  
+   Link: <a href="https://en.wikipedia.org/wiki/Polysemanticity" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Polysemanticity</a>  
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2510.09462v2](https://arxiv.org/html/2510.09462v2)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivAdaptive Attacks on Trusted Monitors Subvert AI Control...2 Mar 2026 — AI control protocols serve as a defense mechanism to stop un...</p></details>
+   Link: <a href="https://arxiv.org/html/2510.09462v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2510.09462v2</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Adaptive Attacks on Trusted Monitors Subvert AI Control...2 Mar 2026 — AI control protocols serve as a defense mechanism to stop un...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: AI capability control  
-   Link: [https://en.wikipedia.org/wiki/AI_capability_control](https://en.wikipedia.org/wiki/AI_capability_control)  
+   Link: <a href="https://en.wikipedia.org/wiki/AI_capability_control" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/AI_capability_control</a>  
 
 9. <a id="endnote-9"></a>
    Source: livingsecurity.com  
    Title: This guide breaks down the NIST AI RMF 1.0 principles  
-   Link: [https://www.livingsecurity.com/blog/nist-ai-risk-management-oversight](https://www.livingsecurity.com/blog/nist-ai-risk-management-oversight)  
+   Link: <a href="https://www.livingsecurity.com/blog/nist-ai-risk-management-oversight" target="_blank" rel="noopener noreferrer nofollow">https://www.livingsecurity.com/blog/nist-ai-risk-management-oversight</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Guide to Human Oversight Controls for AIFebruary 10, 2026 — 10 Feb 2026 — Build safer, more accountable AI systems with strong human ov...</p></details>
    Published: February 10, 2026  
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Mechanistic interpretability  
-   Link: [https://en.wikipedia.org/wiki/Mechanistic_interpretability](https://en.wikipedia.org/wiki/Mechanistic_interpretability)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mechanistic_interpretability" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mechanistic_interpretability</a>  
 
 11. <a id="endnote-11"></a>
    Source: link.springer.com  
    Title: Link On monitorability of AI | AI and Ethics | Springer Nature Link  
-   Link: [https://link.springer.com/article/10.1007/s43681-024-00420-x](https://link.springer.com/article/10.1007/s43681-024-00420-x)  
+   Link: <a href="https://link.springer.com/article/10.1007/s43681-024-00420-x" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s43681-024-00420-x</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkOn monitorability of AI | AI and Ethics | Springer Nature LinkFebruary 6, 2024...</p></details>
    Published: February 6, 2024  
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: AI corrigibility  
-   Link: [https://en.wikipedia.org/wiki/AI_corrigibility](https://en.wikipedia.org/wiki/AI_corrigibility)  
+   Link: <a href="https://en.wikipedia.org/wiki/AI_corrigibility" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/AI_corrigibility</a>  
 
 13. <a id="endnote-13"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s10462-025-11399-0](https://link.springer.com/article/10.1007/s10462-025-11399-0)  
+   Link: <a href="https://link.springer.com/article/10.1007/s10462-025-11399-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10462-025-11399-0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and explainable machine learning methods for predictive process monitoring: a systematic literature review | Artificial Intelligence Revi...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s12559-023-10179-8](https://link.springer.com/article/10.1007/s12559-023-10179-8)  
+   Link: <a href="https://link.springer.com/article/10.1007/s12559-023-10179-8" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s12559-023-10179-8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Black-Box Models: A Review on Explainable Artificial Intelligence | Cognitive Computation | Springer Nature LinkAugust 24, 2023 — INTERPR...</p></details>
    Published: August 24, 2023  
 
 15. <a id="endnote-15"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s10618-022-00867-8](https://link.springer.com/article/10.1007/s10618-022-00867-8)  
+   Link: <a href="https://link.springer.com/article/10.1007/s10618-022-00867-8" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10618-022-00867-8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>comprehensive taxonomy for explainable artificial intelligence: a systematic survey of surveys on methods and concepts | Data Mining and...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: lesswrong.com  
    Title: ai control methods literature review  
-   Link: [https://www.lesswrong.com/posts/3PBvKHB2EmCujet3j/ai-control-methods-literature-review](https://www.lesswrong.com/posts/3PBvKHB2EmCujet3j/ai-control-methods-literature-review)  
+   Link: <a href="https://www.lesswrong.com/posts/3PBvKHB2EmCujet3j/ai-control-methods-literature-review" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/posts/3PBvKHB2EmCujet3j/ai-control-methods-literature-review</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Apr 2025 — AI Control develops mechanisms to monitor, evaluate, constrain, verify, and manage the behavior of potentially untrustworth...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: alignmentproject.aisi.gov.uk  
-   Link: [https://alignmentproject.aisi.gov.uk/research-area/empirical-investigations-into-ai-monitoring-and-red-teaming](https://alignmentproject.aisi.gov.uk/research-area/empirical-investigations-into-ai-monitoring-and-red-teaming)  
+   Link: <a href="https://alignmentproject.aisi.gov.uk/research-area/empirical-investigations-into-ai-monitoring-and-red-teaming" target="_blank" rel="noopener noreferrer nofollow">https://alignmentproject.aisi.gov.uk/research-area/empirical-investigations-into-ai-monitoring-and-red-teaming</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These control protocols...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-026-44167-3](https://www.nature.com/articles/s41598-026-44167-3)  
+   Link: <a href="https://www.nature.com/articles/s41598-026-44167-3" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-026-44167-3</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>April 2, 2026 — ​Despite this methodological diversity, most [evaluations](&amp;#123;&amp;#123; &#x27;evaluations/&#x27; | relative_url &amp;#125;&amp;#125;) of XAI in medicine continue to focus on visual plausibility or s...</p></details>
    Published: April 2, 2026  
 
@@ -919,59 +919,59 @@ Because of these limitations, many in the field see interpretability and control
 
 19. <a id="endnote-19"></a>
    Source: rand.org  
-   Link: [https://www.rand.org/pubs/tools/TLA4174-1/ai-security/guide/ai-security-in-context.html](https://www.rand.org/pubs/tools/TLA4174-1/ai-security/guide/ai-security-in-context.html)  
+   Link: <a href="https://www.rand.org/pubs/tools/TLA4174-1/ai-security/guide/ai-security-in-context.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/tools/TLA4174-1/ai-security/guide/ai-security-in-context.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aligning Security Controls with AI Policy and RegulationThis page maps security control to strategic governance, outlining accountability...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2624-800X/6/2/43](https://www.mdpi.com/2624-800X/6/2/43)  
+   Link: <a href="https://www.mdpi.com/2624-800X/6/2/43" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2624-800X/6/2/43</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>XAI-Compliance-by-Design: A Modular Framework for GDPR- and AI Act-Aligned Decision Transparency in High-Risk AI SystemsMarch 2, 2026 — B...</p></details>
    Published: March 2, 2026  
 
 21. <a id="endnote-21"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0360835226000069](https://www.sciencedirect.com/science/article/pii/S0360835226000069)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectMarch 1, 2026 — COMPUTERS &amp; INDUSTRIAL ENGINEERING Volume 213, March 2026, 111805 TOWARDS TRUSTWORTHY AI IN INDUSTRY 5.0: AN...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0360835226000069" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0360835226000069</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 1, 2026 — COMPUTERS &amp; INDUSTRIAL ENGINEERING Volume 213, March 2026, 111805 TOWARDS TRUSTWORTHY AI IN INDUSTRY 5.0: AN...</p></details>
    Published: March 1, 2026  
 
 22. <a id="endnote-22"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1566253524000812](https://www.sciencedirect.com/science/article/pii/S1566253524000812)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectJuly 1, 2024 — INFORMATION FUSION Volume 107, July 2024, 102303 Full length article Adversarial attacks and defenses in expl...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1566253524000812" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1566253524000812</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 1, 2024 — INFORMATION FUSION Volume 107, July 2024, 102303 Full length article Adversarial attacks and defenses in expl...</p></details>
    Published: July 1, 2024  
 
 23. <a id="endnote-23"></a>
    Source: sciencedirect.com  
    Title: Understanding explainability and interpretability for risk science applications  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0925753524001565](https://www.sciencedirect.com/science/article/pii/S0925753524001565)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0925753524001565" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0925753524001565</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;ScienceDirectUNDERSTANDING EXPLAINABILITY AND INTERPRETABILITY FOR RISK SCIENCE APPLICATIONS [https://doi.org/10.1016/j.ssci.2024.106566Ge...&quot;](https://doi.org/10.1016/j.ssci.2024.106566Ge...&quot;)...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: aimodels.fyi  
-   Link: [https://www.aimodels.fyi/papers/arxiv/mechanistic-interpretability-ai-safety-review](https://www.aimodels.fyi/papers/arxiv/mechanistic-interpretability-ai-safety-review)  
+   Link: <a href="https://www.aimodels.fyi/papers/arxiv/mechanistic-interpretability-ai-safety-review" target="_blank" rel="noopener noreferrer nofollow">https://www.aimodels.fyi/papers/arxiv/mechanistic-interpretability-ai-safety-review</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MECHANISTIC INTERPRETABILITY FOR AI SAFETY -- A REVIEW Published 8/27/2024 by Leonard Bereska, Efstratios Gavves OVERVIEW * T...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: bluedot.org  
    Title: A I Alignment: Unit 6 | Resources: Mechanistic interpretability1  
-   Link: [https://bluedot.org/courses/alignment/6](https://bluedot.org/courses/alignment/6)  
+   Link: <a href="https://bluedot.org/courses/alignment/6" target="_blank" rel="noopener noreferrer nofollow">https://bluedot.org/courses/alignment/6</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI and the years ahead. Resources: AI and the years ahead · 2. What is AI alignment? · 3. Reinforcement learning from human (or AI) feedb...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: scixplorer.org  
    Title: Mechanistic Interpretability for AI Safety -- A Review  
-   Link: [https://www.scixplorer.org/abs/2024arXiv240414082B/abstract](https://www.scixplorer.org/abs/2024arXiv240414082B/abstract)  
+   Link: <a href="https://www.scixplorer.org/abs/2024arXiv240414082B/abstract" target="_blank" rel="noopener noreferrer nofollow">https://www.scixplorer.org/abs/2024arXiv240414082B/abstract</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Science Explorer AbstractAbstract Abstract Citations186 References MECHANISTIC INTERPRETABILITY FOR AI SAFETY -- A REVIEW AUTHORS Bereska...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: cset.georgetown.edu  
    Title: ai control how to make use of misbehaving ai agents  
-   Link: [https://cset.georgetown.edu/article/ai-control-how-to-make-use-of-misbehaving-ai-agents/](https://cset.georgetown.edu/article/ai-control-how-to-make-use-of-misbehaving-ai-agents/)  
+   Link: <a href="https://cset.georgetown.edu/article/ai-control-how-to-make-use-of-misbehaving-ai-agents/" target="_blank" rel="noopener noreferrer nofollow">https://cset.georgetown.edu/article/ai-control-how-to-make-use-of-misbehaving-ai-agents/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Control: How to Make Use of Misbehaving AI Agents1 Oct 2025 — Within well-established safety science principles, alignment techniques and...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: axi.lims.ac.uk  
    Title: lims.ac.uk Mechanistic Interpretability for AI Safe  
-   Link: [https://axi.lims.ac.uk/paper/2404.14082](https://axi.lims.ac.uk/paper/2404.14082)  
+   Link: <a href="https://axi.lims.ac.uk/paper/2404.14082" target="_blank" rel="noopener noreferrer nofollow">https://axi.lims.ac.uk/paper/2404.14082</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Interpretability for AI Safe...April 22, 2024 — MECHANISTIC INTERPRETABILITY FOR AI SAFETY -- A REVIEW April 22, 2024 View on ArXiv Leona...</p></details>
    Published: April 22, 2024  

@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf_capability_th_d9904d
 - AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf_shared_evalua_7938d8
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - race-pressure
 - shared-rules
 - seoul-pledges
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - race-pressure
 - shared-rules
 - seoul-pledges
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: The Seoul commitments show both the promise and limits of voluntary shared rules when powerful AI companies face commercial and geopolitical pressure.
 hero_summary: The Seoul commitments show both the promise and limits of voluntary shared rules when powerful AI companies face commercial and geopolitical pressure.
 layout: default
 permalink: /seoul-pledges/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /race-pressure/
 - /shared-rules/
 nav_short_title: Seoul pledges
@@ -211,10 +211,10 @@ parent_heading_title: How Shared Rules Could Slow the Race
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_ai_race_dynam_a5d049
-  title: Race Pressure | AI Doom and
+  title: Race Pressure | AI Doom and E 87399 b
   permalink: /race-pressure/
   short_title: Race Pressure
   heading_title: Why AI Races Can Make Safety Harder
@@ -226,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_ai_race_dynam_a5d049
-  title: Race Pressure | AI Doom and
+  title: Race Pressure | AI Doom and E 87399 b
   permalink: /race-pressure/
   short_title: Race Pressure
   heading_title: Why AI Races Can Make Safety Harder
@@ -279,16 +279,16 @@ The AI Seoul Summit in May 2024 was one of the clearest attempts yet to answer a
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf_seoul_safety_196957-Illustration-1-dark.svg" | relative_url }}" alt="Seoul pledges illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf_seoul_safety_196957-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf_seoul_safety_196957-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Sixteen leading AI organisations signed the Frontier AI Safety Commitments, promising to publish safety frameworks, identify dangerous [capability thresholds]({{ 'capability-thresholds/' | relative_url }}), evaluate frontier models before deployment, and in some circumstances refrain from releasing systems whose risks could not be adequately controlled. Supporters saw this as a meaningful step towards changing AI race incentives. Critics argued that the commitments depended heavily on self-reporting, lacked strong enforcement mechanisms, and might weaken once commercial or [geopolitical]({{ 'geopolitics/' | relative_url }}) competition intensified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/technology/global-ai-summit-seoul-aims-forge-new-regulatory-agreements-2024-05-21/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">This announcement came during a global AI summit co-hosted by South Korea and Britain in Seoul. The commitment entails publishing safety...</span></span></span> For people worried about AI doom, the Seoul commitments matter because they test a broader idea: whether voluntary coordination can slow or redirect a race toward increasingly capable systems before governments develop stronger regulatory tools.
+Sixteen leading AI organisations signed the Frontier AI Safety Commitments, promising to publish safety frameworks, identify dangerous [capability thresholds]({{ 'capability-thresholds/' | relative_url }}), evaluate frontier models before deployment, and in some circumstances refrain from releasing systems whose risks could not be adequately controlled. Supporters saw this as a meaningful step towards changing AI race incentives. Critics argued that the commitments depended heavily on self-reporting, lacked strong enforcement mechanisms, and might weaken once commercial or geopolitical competition intensified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/technology/global-ai-summit-seoul-aims-forge-new-regulatory-agreements-2024-05-21/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">This announcement came during a global AI summit co-hosted by South Korea and Britain in Seoul. The commitment entails publishing safety...</span></span></span> For people worried about AI doom, the Seoul commitments matter because they test a broader idea: whether voluntary coordination can slow or redirect a race toward increasingly capable systems before governments develop stronger regulatory tools.
 
 ## What the Seoul commitments asked companies to do
 
-The commitments emerged from the follow-up process to the 2023 AI Safety Summit at [Bletchley]({{ 'bletchley/' | relative_url }}) Park. They were signed by major Western firms including OpenAI, Google, [Anthropic]({{ 'anthropic-tests/' | relative_url }}), Microsoft and Meta, alongside companies from South Korea, the United Arab Emirates and China. The international mix was itself significant because AI-risk discussions often assume that safety coordination becomes difficult once geopolitical competition enters the picture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/technology/global-ai-summit-seoul-aims-forge-new-regulatory-agreements-2024-05-21/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">This announcement came during a global AI summit co-hosted by South Korea and Britain in Seoul. The commitment entails publishing safety...</span></span></span> The commitments focused on frontier AI systems: the most capable models near the technological frontier rather than ordinary commercial AI products. Companies agreed to several broad principles:
+The commitments emerged from the follow-up process to the 2023 AI Safety Summit at [Bletchley]({{ 'bletchley/' | relative_url }}) Park. They were signed by major Western firms including OpenAI, Google, Anthropic, Microsoft and Meta, alongside companies from South Korea, the United Arab Emirates and China. The international mix was itself significant because AI-risk discussions often assume that safety coordination becomes difficult once geopolitical competition enters the picture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/technology/global-ai-summit-seoul-aims-forge-new-regulatory-agreements-2024-05-21/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">This announcement came during a global AI summit co-hosted by South Korea and Britain in Seoul. The commitment entails publishing safety...</span></span></span> The commitments focused on frontier AI systems: the most capable models near the technological frontier rather than ordinary commercial AI products. Companies agreed to several broad principles:
 
 * Publish safety and security frameworks explaining how they assess severe risks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/frameworks/frontier-ai-safety-commitments/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[aisecurityandsafety.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-title">frontier ai safety commitments</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryFrontier AI Safety Commitments10 Mar 2026 — Voluntary safety pledges by 16 leading AI companies to assess r...</span></span></span>
-* Define thresholds at which model capabilities could become intolerably [dangerous]({{ 'autonomy/' | relative_url }}).
-* Conduct evaluations before deployment and during development.
-* Maintain governance and accountability processes around high-risk systems.
+* Define thresholds at which model capabilities could become intolerably dangerous.
+* Conduct [evaluations]({{ 'evaluations/' | relative_url }}) before deployment and during development.
+* Maintain [governance]({{ 'governance/' | relative_url }}) and accountability processes around high-risk systems.
 * Share information with governments and relevant safety bodies.
 * In extreme cases, avoid deploying or further developing systems if risks could not be reduced below predefined thresholds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://forum.effectivealtruism.org/posts/dmpPQ48M5ZQ8ifh8v/new-voluntary-commitments-ai-seoul-summit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forum.effectivealtruism.org">[Effective Altruism Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forum.effectivealtruism.org</span><span class="citation-popover-title">new voluntary commitments ai seoul summit</span><span class="citation-popover-snippet">Effective Altruism ForumNew voluntary commitments (AI Seoul Summit)21 May 2024 — In the extreme, organisations commit not to develop or d...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
@@ -310,7 +310,7 @@ In theory, voluntary commitments can influence behaviour through several channel
 * They create reputational costs for abandoning previously announced safety principles.
 * They give employees, investors and governments a benchmark against which to judge company decisions.
 * They make it easier for rival companies to justify slower deployment if competitors are expected to follow similar procedures.
-* They help establish norms that may later become regulatory requirements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.freshfields.com/en/our-thinking/blogs/technology-quotient/seoul-summit-sees-further-developments-in-international-governance-of-frontier-ai-102j8cj" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: freshfields.com">[Freshfields]</a><span class="citation-popover" role="note"><span class="citation-popover-source">freshfields.com</span><span class="citation-popover-snippet">FreshfieldsSeoul Summit sees further developments in international...23 May 2024 — Seoul Summit sees further developments in internation...</span><span class="citation-popover-meta">Published: May 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techuk.org/resource/key-outcomes-of-the-ai-seoul-summit.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techuk.org">[Tech UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techuk.org</span><span class="citation-popover-snippet">Key Outcomes of the AI Seoul SummitIndustry made new voluntary commitments to promote responsible developments of advanced AI systems: 16...</span></span></span> For AI-risk advocates, the commitments were therefore not mainly valuable as legal constraints. Their importance lay in whether they could gradually redefine what responsible competition looks like.
+* They help establish norms that may later become regulatory requirements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.freshfields.com/en/our-thinking/blogs/technology-quotient/seoul-summit-sees-further-developments-in-international-governance-of-frontier-ai-102j8cj" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: freshfields.com">[Freshfields]</a><span class="citation-popover" role="note"><span class="citation-popover-source">freshfields.com</span><span class="citation-popover-snippet">Seoul Summit sees further developments in international...23 May 2024 — Seoul Summit sees further developments in internation...</span><span class="citation-popover-meta">Published: May 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techuk.org/resource/key-outcomes-of-the-ai-seoul-summit.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techuk.org">[Tech UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techuk.org</span><span class="citation-popover-snippet">Key Outcomes of the AI Seoul SummitIndustry made new voluntary commitments to promote responsible developments of advanced AI systems: 16...</span></span></span> For AI-risk advocates, the commitments were therefore not mainly valuable as legal constraints. Their importance lay in whether they could gradually redefine what responsible competition looks like.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5i0iKJzDkHY" title="AI Safety Summit Seoul 2024: Key Highlights and Outcomes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5i0iKJzDkHY" target="_blank" rel="noopener noreferrer">AI Safety Summit Seoul 2024: Key Highlights and Outcomes</a></p><p class="youtube-embed-meta">Channel: Access Partnership &middot; Views: 3.3K &middot; Uploaded: June 2024 &middot; Length: 2 minutes 11 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5i0iKJzDkHY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5i0iKJzDkHY">Open on YouTube</a></p></div></div></div>
@@ -321,11 +321,11 @@ The strongest practical requirement from Seoul was the commitment to publish fro
 
 Before the summit, many safety discussions happened behind closed doors. Companies often described their safety efforts in broad terms without specifying exactly what capabilities would trigger concern, what evaluations would be conducted, or what circumstances might justify halting deployment.
 
-The Seoul process pushed companies toward more explicit frameworks. Subsequent analyses found that many major developers did publish policies describing how they intended to identify, assess and mitigate [catastrophic]({{ 'misuse/' | relative_url }}) risks from frontier systems. Researchers increasingly began comparing these frameworks against one another and examining their strengths and weaknesses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2503.04746" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Emerging Practices in Frontier AI Safety Frameworks</span><span class="citation-popover-snippet">arXivEmerging Practices in Frontier AI Safety FrameworksFebruary 5, 2025...</span><span class="citation-popover-meta">Published: February 5, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ratings.safer-ai.org/methodology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ratings.safer-ai.org">[Risk Management Ratings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ratings.safer-ai.org</span><span class="citation-popover-title">Risk Management Ratings Methodology</span><span class="citation-popover-snippet">At the AI Seoul Summit, multiple companies pledged to publish safety frameworks by February 2025, detailing how they manage risks when...</span><span class="citation-popover-meta">Published: February 2025</span></span></span>
+The Seoul process pushed companies toward more explicit frameworks. Subsequent analyses found that many major developers did publish policies describing how they intended to identify, assess and mitigate [catastrophic]({{ 'misuse/' | relative_url }}) risks from frontier systems. Researchers increasingly began comparing these frameworks against one another and examining their strengths and weaknesses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2503.04746" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Emerging Practices in Frontier AI Safety Frameworks</span><span class="citation-popover-snippet">Emerging Practices in Frontier AI Safety FrameworksFebruary 5, 2025...</span><span class="citation-popover-meta">Published: February 5, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ratings.safer-ai.org/methodology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ratings.safer-ai.org">[Risk Management Ratings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ratings.safer-ai.org</span><span class="citation-popover-title">Risk Management Ratings Methodology</span><span class="citation-popover-snippet">At the AI Seoul Summit, multiple companies pledged to publish safety frameworks by February 2025, detailing how they manage risks when...</span><span class="citation-popover-meta">Published: February 2025</span></span></span>
 
 This mattered because one recurring criticism of AI safety debates is that warnings remain too abstract. A framework that identifies concrete risk categories, evaluation procedures and deployment criteria creates something that outsiders can inspect and challenge.
 
-Several later studies treated these published frameworks as a new governance layer in their own right. Instead of asking only whether governments were regulating frontier AI, researchers began asking whether company safety frameworks contained meaningful commitments and whether those commitments could withstand competitive pressure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2503.04746" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Emerging Practices in Frontier AI Safety Frameworks</span><span class="citation-popover-snippet">arXivEmerging Practices in Frontier AI Safety FrameworksFebruary 5, 2025...</span><span class="citation-popover-meta">Published: February 5, 2025</span></span></span>
+Several later studies treated these published frameworks as a new governance layer in their own right. Instead of asking only whether governments were regulating frontier AI, researchers began asking whether company safety frameworks contained meaningful commitments and whether those commitments could withstand competitive pressure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2503.04746" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Emerging Practices in Frontier AI Safety Frameworks</span><span class="citation-popover-snippet">Emerging Practices in Frontier AI Safety FrameworksFebruary 5, 2025...</span><span class="citation-popover-meta">Published: February 5, 2025</span></span></span>
 
 ## Why voluntary frameworks can shift expectations
 
@@ -339,7 +339,7 @@ The Seoul commitments potentially perform a similar role. They established sever
 * Developers have special responsibilities when building such systems.
 * Dangerous capability thresholds should be identified before deployment.
 * Safety evaluations should influence release decisions.
-* Governments and independent safety institutions should receive relevant information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mofa.go.kr/eng/brd/m_5674/view.do?seq=321007" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mofa.go.kr">[Ministry of Foreign Affairs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mofa.go.kr</span><span class="citation-popover-snippet">Ministry of Foreign Affairsseoul declaration for safe, innovative and inclusive ai by...SEOUL DECLARATION FOR SAFE, INNOVATIVE AND INCLU...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mofa.go.kr/eng/brd/m_5674/view.do?seq=321007" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mofa.go.kr">[Ministry of Foreign Affairs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mofa.go.kr</span><span class="citation-popover-snippet">Ministry of Foreign Affairsseoul declaration for safe, innovative and inclusive ai by...SEOUL DECLARATION FOR SAFE, INNOVATIVE AND INCLU...</span></span></span>
+* Governments and [independent]({{ 'red-teaming/' | relative_url }}) safety institutions should receive relevant information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mofa.go.kr/eng/brd/m_5674/view.do?seq=321007" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mofa.go.kr">[Ministry of Foreign Affairs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mofa.go.kr</span><span class="citation-popover-snippet">Ministry of Foreign Affairsseoul declaration for safe, innovative and inclusive ai by...SEOUL DECLARATION FOR SAFE, INNOVATIVE AND INCLU...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mofa.go.kr/eng/brd/m_5674/view.do?seq=321007" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mofa.go.kr">[Ministry of Foreign Affairs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mofa.go.kr</span><span class="citation-popover-snippet">Ministry of Foreign Affairsseoul declaration for safe, innovative and inclusive ai by...SEOUL DECLARATION FOR SAFE, INNOVATIVE AND INCLU...</span></span></span>
 
 From an AI-doom perspective, normalising those assumptions is not trivial. Earlier debates often centred on whether frontier AI posed unusual risks at all. By Seoul, leading companies were publicly acknowledging the possibility of severe harms and discussing governance mechanisms designed specifically for frontier systems.
 
@@ -363,7 +363,7 @@ Several concerns appeared repeatedly:
 
 **No automatic penalties exist.** Breaching a commitment mainly creates reputational consequences rather than legal sanctions.
 
-**Competitive asymmetry remains.** A cautious company may still worry that rivals are interpreting commitments more aggressively. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2503.04746" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Emerging Practices in Frontier AI Safety Frameworks</span><span class="citation-popover-snippet">arXivEmerging Practices in Frontier AI Safety FrameworksFebruary 5, 2025...</span><span class="citation-popover-meta">Published: February 5, 2025</span></span></span>
+**Competitive asymmetry remains.** A cautious company may still worry that rivals are interpreting commitments more aggressively. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2503.04746" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Emerging Practices in Frontier AI Safety Frameworks</span><span class="citation-popover-snippet">Emerging Practices in Frontier AI Safety FrameworksFebruary 5, 2025...</span><span class="citation-popover-meta">Published: February 5, 2025</span></span></span>
 
 For doom-focused observers, this is the core unresolved issue. Shared commitments may help when risks are uncertain and commercial stakes are moderate. The harder question is whether they remain effective when organisations believe they are approaching transformative or strategically decisive AI capabilities.
 
@@ -380,13 +380,13 @@ More broadly, the period after Seoul did not produce any visible slowdown in fro
 
 For sceptics of voluntary governance, that outcome was predictable. They argue that market incentives remain far stronger than reputational commitments.
 
-Supporters respond that expecting immediate restraint was never realistic. In their view, the value of Seoul lies in establishing common expectations and creating a foundation for future [oversight]({{ 'oversight-evasion/' | relative_url }}) rather than stopping capability progress altogether.
+Supporters respond that expecting immediate restraint was never realistic. In their view, the value of Seoul lies in establishing common expectations and creating a foundation for future oversight rather than stopping capability progress altogether.
 
 ## What the Seoul commitments reveal about AI-doom governance
 
 The Seoul commitments sit in an uncomfortable middle ground.
 
-They are more substantial than vague promises to "build AI responsibly". They pushed companies toward publishing safety frameworks, discussing catastrophic-risk thresholds and acknowledging situations where deployment should not proceed. Those changes helped move frontier-AI governance from abstract principles toward more operational commitments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">frontier ai safety commitments ai seoul summit 2024</span><span class="citation-popover-snippet">Frontier AI Safety Commitments, AI Seoul Summit 202421 May 2024 — Leading AI organisations agree to the Frontier AI Safety Commitments in...</span><span class="citation-popover-meta">Published: May 2024</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2503.04746" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Emerging Practices in Frontier AI Safety Frameworks</span><span class="citation-popover-snippet">arXivEmerging Practices in Frontier AI Safety FrameworksFebruary 5, 2025...</span><span class="citation-popover-meta">Published: February 5, 2025</span></span></span>
+They are more substantial than vague promises to "build AI responsibly". They pushed companies toward publishing safety frameworks, discussing catastrophic-risk thresholds and acknowledging situations where deployment should not proceed. Those changes helped move frontier-AI governance from abstract principles toward more operational commitments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">frontier ai safety commitments ai seoul summit 2024</span><span class="citation-popover-snippet">Frontier AI Safety Commitments, AI Seoul Summit 202421 May 2024 — Leading AI organisations agree to the Frontier AI Safety Commitments in...</span><span class="citation-popover-meta">Published: May 2024</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2503.04746" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Emerging Practices in Frontier AI Safety Frameworks</span><span class="citation-popover-snippet">Emerging Practices in Frontier AI Safety FrameworksFebruary 5, 2025...</span><span class="citation-popover-meta">Published: February 5, 2025</span></span></span>
 
 At the same time, they exposed the limits of voluntary coordination. The commitments did not resolve disputes over dangerous capability thresholds. They did not create robust international enforcement. They did not eliminate competitive pressures between companies or states. And they left considerable room for interpretation precisely where the stakes may become highest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cetas.turing.ac.uk/publications/ai-seoul-summit-stocktake-reflections-and-projections" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cetas.turing.ac.uk">[Emerging Tech &amp; Security Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cetas.turing.ac.uk</span><span class="citation-popover-title">ai seoul summit stocktake reflections and projections</span><span class="citation-popover-snippet">Seoul Ministerial Statement for advancing AI safety, innovation and inclusivity · 2. Frontier AI Safety Commitments · 3. Seoul Statement...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/technology/article/2024/may/21/first-companies-sign-up-ai-safety-standards-seoul-summit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">These standards emphasize information sharing, cybersecurity investment, and prioritizing research into societal risks. Despite these mea...</span></span></span>
 
@@ -803,148 +803,148 @@ The question raised by Seoul remains unresolved: when frontier AI capabilities b
 1. <a id="endnote-1"></a>
    Source: GOV.UK  
    Title: frontier ai safety commitments ai seoul summit 2024  
-   Link: [https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024](https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024)  
+   Link: <a href="https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier AI Safety Commitments, AI Seoul Summit 202421 May 2024 — Leading AI organisations agree to the Frontier AI Safety Commitments in...</p></details>
    Published: May 2024  
 
 2. <a id="endnote-2"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/technology/global-ai-summit-seoul-aims-forge-new-regulatory-agreements-2024-05-21/](https://www.reuters.com/technology/global-ai-summit-seoul-aims-forge-new-regulatory-agreements-2024-05-21/)  
+   Link: <a href="https://www.reuters.com/technology/global-ai-summit-seoul-aims-forge-new-regulatory-agreements-2024-05-21/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/global-ai-summit-seoul-aims-forge-new-regulatory-agreements-2024-05-21/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This announcement came during a global AI summit co-hosted by South Korea and Britain in Seoul. The commitment entails publishing safety...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: freshfields.com  
-   Link: [https://www.freshfields.com/en/our-thinking/blogs/technology-quotient/seoul-summit-sees-further-developments-in-international-governance-of-frontier-ai-102j8cj](https://www.freshfields.com/en/our-thinking/blogs/technology-quotient/seoul-summit-sees-further-developments-in-international-governance-of-frontier-ai-102j8cj)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FreshfieldsSeoul Summit sees further developments in international...23 May 2024 — Seoul Summit sees further developments in internation...</p></details>
+   Link: <a href="https://www.freshfields.com/en/our-thinking/blogs/technology-quotient/seoul-summit-sees-further-developments-in-international-governance-of-frontier-ai-102j8cj" target="_blank" rel="noopener noreferrer nofollow">https://www.freshfields.com/en/our-thinking/blogs/technology-quotient/seoul-summit-sees-further-developments-in-international-governance-of-frontier-ai-102j8cj</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Seoul Summit sees further developments in international...23 May 2024 — Seoul Summit sees further developments in internation...</p></details>
    Published: May 2024  
 
 4. <a id="endnote-4"></a>
    Source: techuk.org  
-   Link: [https://www.techuk.org/resource/key-outcomes-of-the-ai-seoul-summit.html](https://www.techuk.org/resource/key-outcomes-of-the-ai-seoul-summit.html)  
+   Link: <a href="https://www.techuk.org/resource/key-outcomes-of-the-ai-seoul-summit.html" target="_blank" rel="noopener noreferrer nofollow">https://www.techuk.org/resource/key-outcomes-of-the-ai-seoul-summit.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Key Outcomes of the AI Seoul SummitIndustry made new voluntary commitments to promote responsible developments of advanced AI systems: 16...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv Emerging Practices in Frontier AI Safety Frameworks  
-   Link: [https://arxiv.org/abs/2503.04746](https://arxiv.org/abs/2503.04746)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivEmerging Practices in Frontier AI Safety FrameworksFebruary 5, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2503.04746" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2503.04746</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Emerging Practices in Frontier AI Safety FrameworksFebruary 5, 2025...</p></details>
    Published: February 5, 2025  
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2512.01166](https://arxiv.org/abs/2512.01166)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivEvaluating AI Companies&#x27; Frontier Safety Frameworks: Methodology and ResultsDecember 1, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2512.01166" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2512.01166</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating AI Companies&#x27; Frontier Safety Frameworks: Methodology and ResultsDecember 1, 2025...</p></details>
    Published: December 1, 2025  
 
 7. <a id="endnote-7"></a>
    Source: time.com  
    Title: Exclusive: 60 U.K  
-   Link: [https://time.com/7313320/google-deepmind-gemini-ai-safety-pledge/](https://time.com/7313320/google-deepmind-gemini-ai-safety-pledge/)  
+   Link: <a href="https://time.com/7313320/google-deepmind-gemini-ai-safety-pledge/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/7313320/google-deepmind-gemini-ai-safety-pledge/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lawmakers Accuse Google of Breaking AI Safety PledgeAugust 29, 2025 — A bipartisan group of 60 U.K. lawmakers has accused Google DeepMind...</p></details>
    Published: August 29, 2025  
 
 8. <a id="endnote-8"></a>
    Source: GOV.UK  
    Title: frontier ai safety commitments ai seoul summit 2024  
-   Link: [https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024/frontier-ai-safety-commitments-ai-seoul-summit-2024](https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024/frontier-ai-safety-commitments-ai-seoul-summit-2024)  
+   Link: <a href="https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024/frontier-ai-safety-commitments-ai-seoul-summit-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024/frontier-ai-safety-commitments-ai-seoul-summit-2024</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Safety Commitments, AI Seoul Summit 20247 Feb 2025 — The UK and Republic of Korea governments announced that the following organisatio...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: gemini.google.com  
-   Link: [https://gemini.google.com/](https://gemini.google.com/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GeminiMeet Gemini, Google&#x27;s AI assistant. Get help with writing, planning, brainstorming, and more. Experience the power of generative AI...</p></details>
+   Link: <a href="https://gemini.google.com/" target="_blank" rel="noopener noreferrer nofollow">https://gemini.google.com/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Meet Gemini, Google&#x27;s AI assistant. Get help with writing, planning, brainstorming, and more. Experience the power of generative AI...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: cloud.google.com  
-   Title: what is [artificial](&#123;&#123; 'artificial-goals/' | relative_url &#125;&#125;) intelligence  
-   Link: [https://cloud.google.com/learn/what-is-artificial-intelligence](https://cloud.google.com/learn/what-is-artificial-intelligence)  
+   Title: what is artificial intelligence  
+   Link: <a href="https://cloud.google.com/learn/what-is-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://cloud.google.com/learn/what-is-artificial-intelligence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>is Artificial Intelligence (AI)?Artificial intelligence (AI) is a set of technologies that empowers computers to learn, reason, and perfo...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: OpenAI  
-   Link: [https://openai.com/](https://openai.com/)  
+   Link: <a href="https://openai.com/" target="_blank" rel="noopener noreferrer nofollow">https://openai.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>comOpenAI | Research &amp; DeploymentWe believe our research will eventually lead to artificial general intelligence, a system that can solve...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2503.04746](https://arxiv.org/pdf/2503.04746)  
+   Link: <a href="https://arxiv.org/pdf/2503.04746" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2503.04746</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Emerging Practices in Frontier AI Safety Frameworksby MD Buhl · 2025 · Cited by 4 — At the AI Seoul Summit in 2024, a number of AI develo...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: industry.gov.au  
-   Link: [https://www.industry.gov.au/publications/seoul-declaration-countries-attending-ai-seoul-summit-21-22-may-2024](https://www.industry.gov.au/publications/seoul-declaration-countries-attending-ai-seoul-summit-21-22-may-2024)  
+   Link: <a href="https://www.industry.gov.au/publications/seoul-declaration-countries-attending-ai-seoul-summit-21-22-may-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.industry.gov.au/publications/seoul-declaration-countries-attending-ai-seoul-summit-21-22-may-2024</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Seoul Declaration by countries attending the AI...24 May 2024 — Seoul Ministerial Statement for advancing AI safety, innovation and...</p></details>
    Published: May 2024  
 
 14. <a id="endnote-14"></a>
    Source: hansard.parliament.uk  
    Title: Hansard AI Seoul Summit  
-   Link: [https://hansard.parliament.uk/commons/2024-05-23/debates/6DCE4EE5-A806-4B94-8DB8-731906631900/AISeoulSummit](https://hansard.parliament.uk/commons/2024-05-23/debates/6DCE4EE5-A806-4B94-8DB8-731906631900/AISeoulSummit)  
+   Link: <a href="https://hansard.parliament.uk/commons/2024-05-23/debates/6DCE4EE5-A806-4B94-8DB8-731906631900/AISeoulSummit" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2024-05-23/debates/6DCE4EE5-A806-4B94-8DB8-731906631900/AISeoulSummit</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Seoul Summit - Hansard - UK Parliament23 May 2024 — On Wednesday, Ministers from more than 28 nations, the EU and the UN came together fo...</p></details>
    Published: May 2024  
 
 15. <a id="endnote-15"></a>
    Source: forum.effectivealtruism.org  
    Title: new voluntary commitments ai seoul summit  
-   Link: [https://forum.effectivealtruism.org/posts/dmpPQ48M5ZQ8ifh8v/new-voluntary-commitments-ai-seoul-summit](https://forum.effectivealtruism.org/posts/dmpPQ48M5ZQ8ifh8v/new-voluntary-commitments-ai-seoul-summit)  
+   Link: <a href="https://forum.effectivealtruism.org/posts/dmpPQ48M5ZQ8ifh8v/new-voluntary-commitments-ai-seoul-summit" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/dmpPQ48M5ZQ8ifh8v/new-voluntary-commitments-ai-seoul-summit</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Effective Altruism ForumNew voluntary commitments (AI Seoul Summit)21 May 2024 — In the extreme, organisations commit not to develop or d...</p></details>
    Published: May 2024  
 
 16. <a id="endnote-16"></a>
    Source: aisecurityandsafety.org  
    Title: frontier ai safety commitments  
-   Link: [https://aisecurityandsafety.org/en/frameworks/frontier-ai-safety-commitments/](https://aisecurityandsafety.org/en/frameworks/frontier-ai-safety-commitments/)  
+   Link: <a href="https://aisecurityandsafety.org/en/frameworks/frontier-ai-safety-commitments/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/en/frameworks/frontier-ai-safety-commitments/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security &amp; Safety DirectoryFrontier AI Safety Commitments10 Mar 2026 — Voluntary safety pledges by 16 leading AI companies to assess r...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: ratings.safer-ai.org  
    Title: Risk Management Ratings Methodology  
-   Link: [https://ratings.safer-ai.org/methodology/](https://ratings.safer-ai.org/methodology/)  
+   Link: <a href="https://ratings.safer-ai.org/methodology/" target="_blank" rel="noopener noreferrer nofollow">https://ratings.safer-ai.org/methodology/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>At the AI Seoul Summit, multiple companies pledged to publish safety frameworks by February 2025, detailing how they manage risks when...</p></details>
    Published: February 2025  
 
 18. <a id="endnote-18"></a>
    Source: mofa.go.kr  
-   Link: [https://www.mofa.go.kr/eng/brd/m_5674/view.do?seq=321007](https://www.mofa.go.kr/eng/brd/m_5674/view.do?seq=321007)  
+   Link: <a href="https://www.mofa.go.kr/eng/brd/m_5674/view.do?seq=321007" target="_blank" rel="noopener noreferrer nofollow">https://www.mofa.go.kr/eng/brd/m_5674/view.do?seq=321007</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ministry of Foreign Affairsseoul declaration for safe, innovative and inclusive ai by...SEOUL DECLARATION FOR SAFE, INNOVATIVE AND INCLU...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: mofa.go.kr  
-   Link: [https://www.mofa.go.kr/eng/brd/m_5674/view.do?page=1&seq=321007](https://www.mofa.go.kr/eng/brd/m_5674/view.do?page=1&seq=321007)  
+   Link: <a href="https://www.mofa.go.kr/eng/brd/m_5674/view.do?page=1&amp;seq=321007" target="_blank" rel="noopener noreferrer nofollow">https://www.mofa.go.kr/eng/brd/m_5674/view.do?page=1&amp;seq=321007</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ganizations developing and deploying frontier Al, and, in this regard, note the Frontier AI Safety Commitments.Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/technology/article/2024/may/21/first-companies-sign-up-ai-safety-standards-seoul-summit](https://www.theguardian.com/technology/article/2024/may/21/first-companies-sign-up-ai-safety-standards-seoul-summit)  
+   Link: <a href="https://www.theguardian.com/technology/article/2024/may/21/first-companies-sign-up-ai-safety-standards-seoul-summit" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/article/2024/may/21/first-companies-sign-up-ai-safety-standards-seoul-summit</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These standards emphasize information sharing, cybersecurity investment, and prioritizing research into societal risks. Despite these mea...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: cetas.turing.ac.uk  
    Title: ai seoul summit stocktake reflections and projections  
-   Link: [https://cetas.turing.ac.uk/publications/ai-seoul-summit-stocktake-reflections-and-projections](https://cetas.turing.ac.uk/publications/ai-seoul-summit-stocktake-reflections-and-projections)  
+   Link: <a href="https://cetas.turing.ac.uk/publications/ai-seoul-summit-stocktake-reflections-and-projections" target="_blank" rel="noopener noreferrer nofollow">https://cetas.turing.ac.uk/publications/ai-seoul-summit-stocktake-reflections-and-projections</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Seoul Ministerial Statement for advancing AI safety, innovation and inclusivity · 2. Frontier AI Safety Commitments · 3. Seoul Statement...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/technology/article/2024/may/18/ai-seoul-global-summit-safety-openai-meta](https://www.theguardian.com/technology/article/2024/may/18/ai-seoul-global-summit-safety-openai-meta)  
+   Link: <a href="https://www.theguardian.com/technology/article/2024/may/18/ai-seoul-global-summit-safety-openai-meta" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/article/2024/may/18/ai-seoul-global-summit-safety-openai-meta</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>As technology progresses, AI systems like OpenAI&#x27;s GPT-4o and Google&#x27;s Project Astra are emerging, promising novel capabilities but raisi...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: internationalaisafetyreport.org  
-   Link: [https://internationalaisafetyreport.org/about](https://internationalaisafetyreport.org/about)  
+   Link: <a href="https://internationalaisafetyreport.org/about" target="_blank" rel="noopener noreferrer nofollow">https://internationalaisafetyreport.org/about</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>An Interim Report was published in May 2024 in advance of the AI Seoul Summit 2024 and the first Annual Report was published in January 2...</p></details>
    Published: May 2024  
 
 24. <a id="endnote-24"></a>
    Source: ailabwatch.org  
-   Link: [https://ailabwatch.org/resources/commitments](https://ailabwatch.org/resources/commitments)  
+   Link: <a href="https://ailabwatch.org/resources/commitments" target="_blank" rel="noopener noreferrer nofollow">https://ailabwatch.org/resources/commitments</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>by several companies16 AI companies joined the Frontier AI Safety Commitments in May 2024, basically committing to make responsible scali...</p></details>
    Published: May 2024  
 
 25. <a id="endnote-25"></a>
    Source: csis.org  
    Title: ai seoul summit  
-   Link: [https://www.csis.org/analysis/ai-seoul-summit](https://www.csis.org/analysis/ai-seoul-summit)  
+   Link: <a href="https://www.csis.org/analysis/ai-seoul-summit" target="_blank" rel="noopener noreferrer nofollow">https://www.csis.org/analysis/ai-seoul-summit</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The AI Seoul Summit23 May 2024 — Q4: What did the 2024 AI Seoul Summit achieve? A4: The summit reinforced international commitment to saf...</p></details>
    Published: May 2024  
 
@@ -952,57 +952,57 @@ The question raised by Seoul remains unresolved: when frontier AI capabilities b
 
 26. <a id="endnote-26"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/tom-lue-87373478_frontier-ai-safety-commitments-ai-seoul-activity-7198673945238151168-WHd5](https://www.linkedin.com/posts/tom-lue-87373478_frontier-ai-safety-commitments-ai-seoul-activity-7198673945238151168-WHd5)  
+   Link: <a href="https://www.linkedin.com/posts/tom-lue-87373478_frontier-ai-safety-commitments-ai-seoul-activity-7198673945238151168-WHd5" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/tom-lue-87373478_frontier-ai-safety-commitments-ai-seoul-activity-7198673945238151168-WHd5</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier AI Safety Commitments, AI Seoul Summit 2024Today at the #AISeoulSummit, Google and 15 of our peers across the industry agreed to...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: metr.org  
-   Link: [https://metr.org/fsp](https://metr.org/fsp)  
+   Link: <a href="https://metr.org/fsp" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/fsp</a>  
 
 28. <a id="endnote-28"></a>
    Source: perplexity.ai  
-   Link: [https://www.perplexity.ai/](https://www.perplexity.ai/)  
+   Link: <a href="https://www.perplexity.ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.perplexity.ai/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Perplexity is a free AI-powered answer engine that provides accurate, trusted, and real-time answers to any question...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: montrealethics.ai  
    Title: ai policy corner frontier ai safety commitments ai seoul summit 2024  
-   Link: [https://montrealethics.ai/ai-policy-corner-frontier-ai-safety-commitments-ai-seoul-summit-2024/](https://montrealethics.ai/ai-policy-corner-frontier-ai-safety-commitments-ai-seoul-summit-2024/)  
+   Link: <a href="https://montrealethics.ai/ai-policy-corner-frontier-ai-safety-commitments-ai-seoul-summit-2024/" target="_blank" rel="noopener noreferrer nofollow">https://montrealethics.ai/ai-policy-corner-frontier-ai-safety-commitments-ai-seoul-summit-2024/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Policy Corner: Frontier AI Safety Commitments, AI Seoul...28 Apr 2025 — The Frontier AI Safety Commitments provide a framework to mit...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: flyfrontier.com  
-   Link: [https://www.flyfrontier.com/](https://www.flyfrontier.com/)  
+   Link: <a href="https://www.flyfrontier.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.flyfrontier.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Airlines: Low Fares Done RightAs Home of Low Fares Done Right, find great deals and cheap flights to destinations all over North...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: frontiermodelforum.org  
    Title: progress update advancing frontier ai safety in 2024 and beyond  
-   Link: [https://www.frontiermodelforum.org/updates/progress-update-advancing-frontier-ai-safety-in-2024-and-beyond/](https://www.frontiermodelforum.org/updates/progress-update-advancing-frontier-ai-safety-in-2024-and-beyond/)  
+   Link: <a href="https://www.frontiermodelforum.org/updates/progress-update-advancing-frontier-ai-safety-in-2024-and-beyond/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/updates/progress-update-advancing-frontier-ai-safety-in-2024-and-beyond/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Progress Update: Advancing Frontier AI Safety in 2024 and...29 Aug 2024 — Every member of the Frontier Model Forum has signed onto the F...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: metr.org  
    Title: 2025 12 09 common elements of frontier ai safety policies  
-   Link: [https://metr.org/blog/2025-12-09-common-elements-of-frontier-ai-safety-policies/](https://metr.org/blog/2025-12-09-common-elements-of-frontier-ai-safety-policies/)  
+   Link: <a href="https://metr.org/blog/2025-12-09-common-elements-of-frontier-ai-safety-policies/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/blog/2025-12-09-common-elements-of-frontier-ai-safety-policies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Common Elements of Frontier AI Safety Policies...Dec 9, 2025 — In May 2024, sixteen companies agreed to do so as part of the Frontier AI...</p></details>
    Published: May 2024  
 
 33. <a id="endnote-33"></a>
    Source: frontiermodelforum.org  
    Title: issue brief components of frontier ai safety frameworks  
-   Link: [https://www.frontiermodelforum.org/updates/issue-brief-components-of-frontier-ai-safety-frameworks/](https://www.frontiermodelforum.org/updates/issue-brief-components-of-frontier-ai-safety-frameworks/)  
+   Link: <a href="https://www.frontiermodelforum.org/updates/issue-brief-components-of-frontier-ai-safety-frameworks/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/updates/issue-brief-components-of-frontier-ai-safety-frameworks/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Issue Brief: Components of Frontier AI Safety Frameworks8 Nov 2024 — Both government and industry recognized the importance of safety fra...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: keia.org  
    Title: Major Commitments Launched at the AI Seoul Summit  
-   Link: [https://keia.org/the-peninsula/major-commitments-launched-at-the-ai-seoul-summit/](https://keia.org/the-peninsula/major-commitments-launched-at-the-ai-seoul-summit/)  
+   Link: <a href="https://keia.org/the-peninsula/major-commitments-launched-at-the-ai-seoul-summit/" target="_blank" rel="noopener noreferrer nofollow">https://keia.org/the-peninsula/major-commitments-launched-at-the-ai-seoul-summit/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 28, 2024 — The first commitment from the AI Seoul Summit is the Seoul Declaration for Safe, Innovative, and Inclusive AI, which was a...</p></details>
    Published: May 28, 2024  
 
 35. <a id="endnote-35"></a>
    Source: longtermresilience.org  
    Title: AI Safety Frameworks Risk Governance 1  
-   Link: [https://www.longtermresilience.org/wp-content/uploads/2025/02/AI-Safety-Frameworks-Risk-Governance-1.pdf](https://www.longtermresilience.org/wp-content/uploads/2025/02/AI-Safety-Frameworks-Risk-Governance-1.pdf)  
+   Link: <a href="https://www.longtermresilience.org/wp-content/uploads/2025/02/AI-Safety-Frameworks-Risk-Governance-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.longtermresilience.org/wp-content/uploads/2025/02/AI-Safety-Frameworks-Risk-Governance-1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>B Robinson · 2025 · Cited by 2 — This was followed by the voluntary commitments made at the A...</p></details>

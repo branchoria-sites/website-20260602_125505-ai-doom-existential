@@ -12,21 +12,21 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_catastrophic_c92548_ai_military_d_f2971e
 - AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - misuse
 - cyberattack-ai
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - misuse
 - cyberattack-ai
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Examines how AI could scale offensive cyber operations, including zero-day discovery and automated exploits.
 hero_summary: Examines how AI could scale offensive cyber operations, including zero-day discovery and automated exploits.
 layout: default
 permalink: /cyberattack-ai/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /misuse/
 nav_short_title: Cyberattack AI
 title: 'AI Driven Cyberattacks: Automation and Emerging Risks'
@@ -213,20 +213,20 @@ parent_heading_title: How Could People Misuse Advanced AI?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_catastrophic_c92548
-  title: Misuse | AI Doom and
+  title: Misuse | AI Doom and E 87399 b
   permalink: /misuse/
   short_title: Misuse
   heading_title: How Could People Misuse Advanced AI?
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_catastrophic_c92548
-  title: Misuse | AI Doom and
+  title: Misuse | AI Doom and E 87399 b
   permalink: /misuse/
   short_title: Misuse
   heading_title: How Could People Misuse Advanced AI?
@@ -264,7 +264,7 @@ child_links:
   heading_title: How should cyber capable AI models be controlled?
 up_link:
   basename: AI_Doom_and_E_87399b_catastrophic_c92548
-  title: Misuse | AI Doom and
+  title: Misuse | AI Doom and E 87399 b
   permalink: /misuse/
   short_title: Misuse
   heading_title: How Could People Misuse Advanced AI?
@@ -288,7 +288,7 @@ image: /assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_cyber_atta_082
 
 ## Introduction
 
-As powerful [artificial]({{ 'artificial-goals/' | relative_url }}) intelligence systems become more capable of reasoning, code generation and autonomous action, they are reshaping offensive cybersecurity – not just helping defenders find bugs but enabling attackers to *automate* traditionally skilled tasks like vulnerability discovery and exploiting software flaws. This shift matters for the broader AI doom debate because it compresses time scales and lowers barriers to impactful cyber operations, potentially enabling rapid, widespread exploitation of essential digital infrastructure. Recent real‑world evidence shows that AI is no longer purely hypothetical as a cyber threat multiplier; it’s already being used to speed up exploit research and breach defences in ways that challenge existing security norms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027?interest=cybersecurity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsc.gov.uk">[National Cyber Security Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsc.gov.uk</span><span class="citation-popover-title">impact ai cyber threat now 2027</span><span class="citation-popover-snippet">National Cyber Security CentreImpact of AI on cyber threat from now to 2027 | National Cyber Security CentreMay 7, 2025...</span><span class="citation-popover-meta">Published: May 7, 2025</span></span></span>
+As powerful artificial intelligence systems become more capable of reasoning, code generation and autonomous action, they are reshaping offensive cybersecurity – not just helping defenders find bugs but enabling attackers to *automate* traditionally skilled tasks like vulnerability discovery and exploiting software flaws. This shift matters for the broader AI doom debate because it compresses time scales and lowers barriers to impactful cyber operations, potentially enabling rapid, widespread exploitation of essential digital infrastructure. Recent real‑world evidence shows that AI is no longer purely hypothetical as a cyber threat multiplier; it’s already being used to speed up exploit research and breach defences in ways that challenge existing security norms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027?interest=cybersecurity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsc.gov.uk">[National Cyber Security Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsc.gov.uk</span><span class="citation-popover-title">impact ai cyber threat now 2027</span><span class="citation-popover-snippet">National Cyber Security CentreImpact of AI on cyber threat from now to 2027 &#124; National Cyber Security CentreMay 7, 2025...</span><span class="citation-popover-meta">Published: May 7, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_cyber_atta_082acc-Illustration-1-dark.svg" | relative_url }}" alt="Cyberattack AI illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_cyber_atta_082acc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_cyber_atta_082acc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -296,11 +296,11 @@ As powerful [artificial]({{ 'artificial-goals/' | relative_url }}) intelligence 
 
 AI systems now far outperform routine scanning tools when analysing code and configurations to find security weaknesses. Frontline research and institutes note that large‑scale models can automate tasks once reserved for expert human hackers, dramatically increasing the *speed and scale* of vulnerability discovery.
 
-* **Frontier AI discovery capabilities:** Advanced models such as [Anthropic]({{ 'anthropic-tests/' | relative_url }})’s *Claude Mythos* have been reported to identify hundreds of previously unknown software vulnerabilities in widely used applications, suggesting that AI can compress what once took months of human analysis into hours or days. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rusi.org/explore-our-research/publications/commentary/ai-enabled-vulnerability-discovery-reshaping-national-cyber-defence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rusi.org">[Royal United Services Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rusi.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-* **Shrinking exploitation timelines:** UK cyber authorities project that by 2027 AI‑assisted vulnerability research and exploit development will make it routine for attackers to exploit flaws far sooner after disclosure than is currently feasible, tightening the race between defenders and attackers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027?interest=cybersecurity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsc.gov.uk">[National Cyber Security Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsc.gov.uk</span><span class="citation-popover-title">impact ai cyber threat now 2027</span><span class="citation-popover-snippet">National Cyber Security CentreImpact of AI on cyber threat from now to 2027 | National Cyber Security CentreMay 7, 2025...</span><span class="citation-popover-meta">Published: May 7, 2025</span></span></span>
-* **Empirical benchmarks:** Academic benchmarks such as *ExploitGym* demonstrate that state‑of‑the‑art models can generate working exploits for real security flaws in complex software environments, illustrating that automated vulnerability identification is no longer purely theoretical. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.11086" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivExploitGym: Can AI Agents Turn Security Vulnerabilities into Real Attacks?May 11, 2026...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
+* **Frontier AI discovery capabilities:** Advanced models such as Anthropic’s *Claude Mythos* have been reported to identify hundreds of previously unknown software vulnerabilities in widely used applications, suggesting that AI can compress what once took months of human analysis into hours or days. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rusi.org/explore-our-research/publications/commentary/ai-enabled-vulnerability-discovery-reshaping-national-cyber-defence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rusi.org">[Royal United Services Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rusi.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* **Shrinking exploitation timelines:** UK cyber authorities project that by 2027 AI‑assisted vulnerability research and exploit development will make it routine for attackers to exploit flaws far sooner after disclosure than is currently feasible, tightening the race between defenders and attackers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027?interest=cybersecurity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsc.gov.uk">[National Cyber Security Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsc.gov.uk</span><span class="citation-popover-title">impact ai cyber threat now 2027</span><span class="citation-popover-snippet">National Cyber Security CentreImpact of AI on cyber threat from now to 2027 &#124; National Cyber Security CentreMay 7, 2025...</span><span class="citation-popover-meta">Published: May 7, 2025</span></span></span>
+* **Empirical benchmarks:** Academic benchmarks such as *ExploitGym* demonstrate that state‑of‑the‑art models can generate working exploits for real security flaws in complex software environments, illustrating that automated vulnerability identification is no longer purely theoretical. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.11086" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">ExploitGym: Can AI Agents Turn Security Vulnerabilities into Real Attacks?May 11, 2026...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
 
-The practical implication is stark: attackers with access to capable models need far less specialised [expertise]({{ 'expertise-erosion/' | relative_url }}) and can discover exploitable flaws at machine scale across entire codebases.
+The practical implication is stark: attackers with access to capable models need far less specialised expertise and can discover exploitable flaws at machine scale across entire codebases.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kc_hXh3PraI" title="AI to Eye | Santos Merino Talks AI-Driven Vulnerability &amp; Exploit Detection" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kc_hXh3PraI" target="_blank" rel="noopener noreferrer">AI to Eye | Santos Merino Talks AI-Driven Vulnerability &amp; Exploit Detection</a></p><p class="youtube-embed-meta">Channel: ATRC &middot; Views: 297.2K &middot; Uploaded: February 2026 &middot; Length: 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kc_hXh3PraI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kc_hXh3PraI">Open on YouTube</a></p></div></div></div>
@@ -310,7 +310,7 @@ The practical implication is stark: attackers with access to capable models need
 Identifying a bug is one step; weaponising it is another. AI is increasingly closing that gap by generating exploit code and orchestrating attack chains.
 
 * **First real‑world AI‑generated exploits:** In 2026, Google’s Threat Intelligence Group publicly confirmed that hackers used AI to *discover and weaponise* a zero‑day vulnerability that could bypass two‑factor authentication – historically a highly skilled human research task. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techradar.com/pro/security/this-is-the-tip-of-the-iceberg-google-experts-say-they-have-seen-hackers-using-ai-to-discover-and-weaponize-a-zero-day-for-the-first-time" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-snippet">This marks a shift from isolated AI-assisted efforts to industrial-scale AI-driven attacks. The vulnerability targeted a widely-used open...</span></span></span>
-* **Evidence of autonomous attack paths:** Reports circulating in security circles describe AI agents capable of executing full cyberattack lifecycles – from reconnaissance to exploitation and lateral movement – without direct human guidance, showcasing end‑to‑end offensive [automation]({{ 'automation-bias/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://elmet.ai/insights/mythos-anthropic-ai-cyberattack" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elmet.ai">[ELMET]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elmet.ai</span><span class="citation-popover-snippet">ELMETMythos: The AI That Executes Full Cyberattacks in... | ELMET...</span></span></span>
+* **Evidence of autonomous attack paths:** Reports circulating in security circles describe AI agents capable of executing full cyberattack lifecycles – from reconnaissance to exploitation and lateral movement – without direct human guidance, showcasing end‑to‑end offensive automation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://elmet.ai/insights/mythos-anthropic-ai-cyberattack" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elmet.ai">[ELMET]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elmet.ai</span><span class="citation-popover-snippet">Mythos: The AI That Executes Full Cyberattacks in... &#124; ELMET...</span></span></span>
 * **Dark web tool developments:** Frameworks like *Hexstrike‑AI* allegedly orchestrate networks of specialised AI agents to autonomously scan for and exploit zero‑day and high‑severity flaws, with exploitation times dropping to minutes rather than days. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.checkpoint.com/executive-insights/hexstrike-ai-when-llms-meet-zero-day-exploitation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.checkpoint.com">[Check Point Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.checkpoint.com</span><span class="citation-popover-snippet">Check Point BlogHexstrike-AI: LLM Orchestration Driving Real-World Zero-Day ExploitsSeptember 2, 2025...</span><span class="citation-popover-meta">Published: September 2, 2025</span></span></span>
 
 These developments suggest that attackers can integrate AI into every stage of the cyber kill chain, reducing reliance on manual coding and shifting the bottleneck from human skill to computational access.
@@ -322,8 +322,8 @@ These developments suggest that attackers can integrate AI into every stage of t
 The automation of cyberattacks through AI has several implications that feed into upstream concerns about [catastrophic]({{ 'misuse/' | relative_url }}) [misuse]({{ 'misuse/' | relative_url }}):
 
 * **Barrier to entry lowers:** Historically, exploit development demanded deep expertise and manual craftsmanship. AI tools significantly lower this barrier, meaning more actors – criminal, state‑affiliated, or opportunistic – can generate high‑impact exploits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pluto.security/blog/ai-offensive-cyber-operations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pluto.security">[Pluto Security]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pluto.security</span><span class="citation-popover-title">Security AI-Enabled Offensive Cyber Operations: Capabilities and Risks</span><span class="citation-popover-snippet">AI-Enabled Offensive Cyber Operations: Capabilities and Risks - Pluto SecurityMay 4, 2026...</span><span class="citation-popover-meta">Published: May 4, 2026</span></span></span>
-* **Acceleration of attack dynamics:** With AI compressing vulnerability discovery and exploit development, conventional patch management lifecycles are strained: software may be breached long before vendors or defenders can respond. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027?interest=cybersecurity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsc.gov.uk">[National Cyber Security Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsc.gov.uk</span><span class="citation-popover-title">impact ai cyber threat now 2027</span><span class="citation-popover-snippet">National Cyber Security CentreImpact of AI on cyber threat from now to 2027 | National Cyber Security CentreMay 7, 2025...</span><span class="citation-popover-meta">Published: May 7, 2025</span></span></span>
-* **Asymmetry in offence–defence:** Offensive AI research progresses rapidly, and many defenders remain unprepared for AI‑driven attack vectors. Even well‑resourced organisations struggle to patch rapidly emerging flaws at scale. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wiz.io/academy/ai-cyberattacks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wiz.io">[wiz.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wiz.io</span><span class="citation-popover-title">A I Cyberattacks: How attackers target AI, and use AI against you | Wiz</span><span class="citation-popover-snippet">AI Cyberattacks: How attackers target AI, and use AI against you | WizNovember 14, 2025...</span><span class="citation-popover-meta">Published: November 14, 2025</span></span></span>
+* **Acceleration of attack dynamics:** With AI compressing vulnerability discovery and exploit development, conventional patch management lifecycles are strained: software may be breached long before vendors or defenders can respond. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027?interest=cybersecurity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsc.gov.uk">[National Cyber Security Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsc.gov.uk</span><span class="citation-popover-title">impact ai cyber threat now 2027</span><span class="citation-popover-snippet">National Cyber Security CentreImpact of AI on cyber threat from now to 2027 &#124; National Cyber Security CentreMay 7, 2025...</span><span class="citation-popover-meta">Published: May 7, 2025</span></span></span>
+* **Asymmetry in offence–defence:** Offensive AI research progresses rapidly, and many defenders remain unprepared for AI‑driven attack vectors. Even well‑resourced organisations struggle to patch rapidly emerging flaws at scale. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wiz.io/academy/ai-cyberattacks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wiz.io">[wiz.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wiz.io</span><span class="citation-popover-title">A I Cyberattacks: How attackers target AI, and use AI against you &#124; Wiz</span><span class="citation-popover-snippet">AI Cyberattacks: How attackers target AI, and use AI against you &#124; WizNovember 14, 2025...</span><span class="citation-popover-meta">Published: November 14, 2025</span></span></span>
 
 This shift highlights a systemic challenge: AI does not merely produce faster scripts; it alters the *nature* of cyber risk by enabling operations that once required teams of experts to be conducted by machines at scale.
 
@@ -332,7 +332,7 @@ This shift highlights a systemic challenge: AI does not merely produce faster sc
 
 ## Disputes and Limits
 
-Not all experts agree on the current severity of AI‑driven exploit automation. Some cybersecurity practitioners argue that while AI can assist in scripting and reconnaissance, its ability to produce *novel, reliable* exploits without [human oversight]({{ 'human-oversight/' | relative_url }}) remains overstated. These voices note that models sometimes hallucinate or generate non‑functional outputs, and truly cutting‑edge exploit development may still resist full automation. However, proponents counter that even partial acceleration – automating repetition, scanning, reconnaissance, or exploit scaffolding – materially increases offensive reach and reduces time to impact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/cybersecurity/comments/1rv84gt/is_offensive_ai_just_hype_or_something_security/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Is Offensive AI Just Hype or Something Security Pros Actually Need to Learn?</span><span class="citation-popover-snippet">RedditIs Offensive AI Just Hype or Something Security Pros Actually Need to Learn?March 16, 2026...</span><span class="citation-popover-meta">Published: March 16, 2026</span></span></span>
+Not all experts agree on the current severity of AI‑driven exploit automation. Some cybersecurity practitioners argue that while AI can assist in scripting and reconnaissance, its ability to produce *novel, reliable* exploits without [human oversight]({{ 'human-oversight/' | relative_url }}) remains overstated. These voices note that models sometimes hallucinate or generate non‑functional outputs, and truly cutting‑edge exploit development may still resist full automation. However, proponents counter that even partial acceleration – automating repetition, scanning, reconnaissance, or exploit scaffolding – materially increases offensive reach and reduces time to impact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/cybersecurity/comments/1rv84gt/is_offensive_ai_just_hype_or_something_security/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Is Offensive AI Just Hype or Something Security Pros Actually Need to Learn?</span><span class="citation-popover-snippet">Is Offensive AI Just Hype or Something Security Pros Actually Need to Learn?March 16, 2026...</span><span class="citation-popover-meta">Published: March 16, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/V6DxUccFevg" title="VS Code Supply Chain Attack, Microsoft Exchange Zero-Day, and AI-Accelerated Vulnerability Discovery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=V6DxUccFevg" target="_blank" rel="noopener noreferrer">VS Code Supply Chain Attack, Microsoft Exchange Zero-Day, and AI-Accelerated Vulnerability Discovery</a></p><p class="youtube-embed-meta">Channel: Bishop Fox &middot; Views: 47 &middot; Uploaded: May 2026 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=V6DxUccFevg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=V6DxUccFevg">Open on YouTube</a></p></div></div></div>
@@ -341,17 +341,17 @@ Not all experts agree on the current severity of AI‑driven exploit automation.
 
 Within the AI doom context, automation of cyberattacks is a *human‑directed misuse pathway* that could compound systemic risks:
 
-* **Critical infrastructure vulnerability:** As AI compresses exploit cycles, nation‑state adversaries or criminal organisations may gain the ability to disrupt essential services at scale, posing cascading societal risks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027?interest=cybersecurity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsc.gov.uk">[National Cyber Security Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsc.gov.uk</span><span class="citation-popover-title">impact ai cyber threat now 2027</span><span class="citation-popover-snippet">National Cyber Security CentreImpact of AI on cyber threat from now to 2027 | National Cyber Security CentreMay 7, 2025...</span><span class="citation-popover-meta">Published: May 7, 2025</span></span></span>
+* **Critical infrastructure vulnerability:** As AI compresses exploit cycles, nation‑state adversaries or criminal organisations may gain the ability to disrupt essential services at scale, posing cascading societal risks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027?interest=cybersecurity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsc.gov.uk">[National Cyber Security Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsc.gov.uk</span><span class="citation-popover-title">impact ai cyber threat now 2027</span><span class="citation-popover-snippet">National Cyber Security CentreImpact of AI on cyber threat from now to 2027 &#124; National Cyber Security CentreMay 7, 2025...</span><span class="citation-popover-meta">Published: May 7, 2025</span></span></span>
 * **Geopolitical instability:** Automated offensive capabilities could incentivise pre‑emptive cyber operations, increasing tensions or accidental escalations between states.
-* **Regulatory challenges:** Most existing cybercrime and AI governance frameworks predate these capabilities, leaving gaps in how AI‑driven exploit automation is regulated, attributed or deterred.
+* **Regulatory challenges:** Most existing cybercrime and AI [governance]({{ 'governance/' | relative_url }}) frameworks predate these capabilities, leaving gaps in how AI‑driven exploit automation is regulated, attributed or deterred.
 
-Mitigating these risks will demand coordinated policy interventions that balance offensive AI research for defensive preparedness with controls on access to powerful models and monitoring of misuse vectors, as well as investment in AI‑augmented defence mechanisms.
+Mitigating these risks will demand coordinated policy interventions that balance offensive AI research for defensive preparedness with controls on access to powerful models and [monitoring]({{ 'monitoring/' | relative_url }}) of misuse vectors, as well as investment in AI‑augmented defence mechanisms.
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_cyber_atta_082acc-Illustration-3-dark.svg" | relative_url }}" alt="Cyberattack AI illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_cyber_atta_082acc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_cyber_atta_082acc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Summary
 
-AI automation of cyberattacks and exploit discovery is more than a theoretical concern: real‑world reports now document AI‑assisted zero‑days and tools capable of end‑to‑end offensive operations, compressing months of manual work into hours or minutes. This shift lowers technical barriers, accelerates offensive timelines, and strains conventional cybersecurity practices. Within the broader AI doom framework, these trends represent a misuse pathway where human‑directed deployment of powerful AI could enable rapid, large‑scale disruption of digital systems – a risk requiring urgent attention from policymakers, technologists, and defenders alike. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027?interest=cybersecurity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsc.gov.uk">[National Cyber Security Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsc.gov.uk</span><span class="citation-popover-title">impact ai cyber threat now 2027</span><span class="citation-popover-snippet">National Cyber Security CentreImpact of AI on cyber threat from now to 2027 | National Cyber Security CentreMay 7, 2025...</span><span class="citation-popover-meta">Published: May 7, 2025</span></span></span>
+AI automation of cyberattacks and [exploit discovery]({{ 'exploit-discovery/' | relative_url }}) is more than a theoretical concern: real‑world reports now document AI‑assisted zero‑days and tools capable of end‑to‑end offensive operations, compressing months of manual work into hours or minutes. This shift lowers technical barriers, accelerates offensive timelines, and strains conventional cybersecurity practices. Within the broader AI doom framework, these trends represent a misuse pathway where human‑directed deployment of powerful AI could enable rapid, large‑scale disruption of digital systems – a risk requiring urgent attention from policymakers, technologists, and defenders alike. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027?interest=cybersecurity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsc.gov.uk">[National Cyber Security Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsc.gov.uk</span><span class="citation-popover-title">impact ai cyber threat now 2027</span><span class="citation-popover-snippet">National Cyber Security CentreImpact of AI on cyber threat from now to 2027 &#124; National Cyber Security CentreMay 7, 2025...</span><span class="citation-popover-meta">Published: May 7, 2025</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -774,69 +774,69 @@ AI automation of cyberattacks and exploit discovery is more than a theoretical c
 
 1. <a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2605.11086](https://arxiv.org/abs/2605.11086)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivExploitGym: Can AI Agents Turn Security Vulnerabilities into Real Attacks?May 11, 2026...</p></details>
+   Link: <a href="https://arxiv.org/abs/2605.11086" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.11086</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ExploitGym: Can AI Agents Turn Security Vulnerabilities into Real Attacks?May 11, 2026...</p></details>
    Published: May 11, 2026  
 
 2. <a id="endnote-2"></a>
    Source: techradar.com  
-   Link: [https://www.techradar.com/pro/security/this-is-the-tip-of-the-iceberg-google-experts-say-they-have-seen-hackers-using-ai-to-discover-and-weaponize-a-zero-day-for-the-first-time](https://www.techradar.com/pro/security/this-is-the-tip-of-the-iceberg-google-experts-say-they-have-seen-hackers-using-ai-to-discover-and-weaponize-a-zero-day-for-the-first-time)  
+   Link: <a href="https://www.techradar.com/pro/security/this-is-the-tip-of-the-iceberg-google-experts-say-they-have-seen-hackers-using-ai-to-discover-and-weaponize-a-zero-day-for-the-first-time" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/pro/security/this-is-the-tip-of-the-iceberg-google-experts-say-they-have-seen-hackers-using-ai-to-discover-and-weaponize-a-zero-day-for-the-first-time</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This marks a shift from isolated AI-assisted efforts to industrial-scale AI-driven attacks. The vulnerability targeted a widely-used open...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: elmet.ai  
-   Link: [https://elmet.ai/insights/mythos-anthropic-ai-cyberattack](https://elmet.ai/insights/mythos-anthropic-ai-cyberattack)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ELMETMythos: The AI That Executes Full Cyberattacks in... | ELMET...</p></details>
+   Link: <a href="https://elmet.ai/insights/mythos-anthropic-ai-cyberattack" target="_blank" rel="noopener noreferrer nofollow">https://elmet.ai/insights/mythos-anthropic-ai-cyberattack</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mythos: The AI That Executes Full Cyberattacks in... | ELMET...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pluto.security  
    Title: Security AI-Enabled Offensive Cyber Operations: Capabilities and Risks  
-   Link: [https://pluto.security/blog/ai-offensive-cyber-operations/](https://pluto.security/blog/ai-offensive-cyber-operations/)  
+   Link: <a href="https://pluto.security/blog/ai-offensive-cyber-operations/" target="_blank" rel="noopener noreferrer nofollow">https://pluto.security/blog/ai-offensive-cyber-operations/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-Enabled Offensive Cyber Operations: Capabilities and Risks - Pluto SecurityMay 4, 2026...</p></details>
    Published: May 4, 2026  
 
 5. <a id="endnote-5"></a>
    Source: wiz.io  
    Title: A I Cyberattacks: How attackers target AI, and use AI against you | Wiz  
-   Link: [https://www.wiz.io/academy/ai-cyberattacks](https://www.wiz.io/academy/ai-cyberattacks)  
+   Link: <a href="https://www.wiz.io/academy/ai-cyberattacks" target="_blank" rel="noopener noreferrer nofollow">https://www.wiz.io/academy/ai-cyberattacks</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Cyberattacks: How attackers target AI, and use AI against you | WizNovember 14, 2025...</p></details>
    Published: November 14, 2025  
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
    Title: Is Offensive AI Just Hype or Something Security Pros Actually Need to Learn?  
-   Link: [https://www.reddit.com/r/cybersecurity/comments/1rv84gt/is_offensive_ai_just_hype_or_something_security/](https://www.reddit.com/r/cybersecurity/comments/1rv84gt/is_offensive_ai_just_hype_or_something_security/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditIs Offensive AI Just Hype or Something Security Pros Actually Need to Learn?March 16, 2026...</p></details>
+   Link: <a href="https://www.reddit.com/r/cybersecurity/comments/1rv84gt/is_offensive_ai_just_hype_or_something_security/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/cybersecurity/comments/1rv84gt/is_offensive_ai_just_hype_or_something_security/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is Offensive AI Just Hype or Something Security Pros Actually Need to Learn?March 16, 2026...</p></details>
    Published: March 16, 2026  
 
 7. <a id="endnote-7"></a>
    Source: wiz.io  
    Title: 257 Real Attacks. Who Wins?Take AI guided tour Image MAIN TAKEAWAYS ABOUT AI C  
-   Link: [https://www.wiz.io/de-de/academy/ai-security/ai-cyberattacks](https://www.wiz.io/de-de/academy/ai-security/ai-cyberattacks)  
+   Link: <a href="https://www.wiz.io/de-de/academy/ai-security/ai-cyberattacks" target="_blank" rel="noopener noreferrer nofollow">https://www.wiz.io/de-de/academy/ai-security/ai-cyberattacks</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Cyberattacks: How attackers target AI, and use AI against you | WizNovember 14, 2025 — AI CYBERATTACKS: HOW ATTACKERS TARGET AI, AND U...</p></details>
    Published: November 14, 2025  
 
 8. <a id="endnote-8"></a>
    Source: wiz.io  
    Title: AI gives adversaries speed, scale, stealth, and automation that weren’t po  
-   Link: [https://www.wiz.io/es-es/academy/ai-security/ai-cyberattacks](https://www.wiz.io/es-es/academy/ai-security/ai-cyberattacks)  
+   Link: <a href="https://www.wiz.io/es-es/academy/ai-security/ai-cyberattacks" target="_blank" rel="noopener noreferrer nofollow">https://www.wiz.io/es-es/academy/ai-security/ai-cyberattacks</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Cyberattacks: How attackers target AI, and use AI against you | WizNovember 14, 2025 — How AI-powered attacks work Attackers are no lo...</p></details>
    Published: November 14, 2025  
 
 9. <a id="endnote-9"></a>
    Source: ncsc.gov.uk  
    Title: impact ai cyber threat now 2027  
-   Link: [https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027?interest=cybersecurity](https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027?interest=cybersecurity)  
+   Link: <a href="https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027?interest=cybersecurity" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027?interest=cybersecurity</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Cyber Security CentreImpact of AI on cyber threat from now to 2027 | National Cyber Security CentreMay 7, 2025...</p></details>
    Published: May 7, 2025  
 
 10. <a id="endnote-10"></a>
    Source: rusi.org  
-   Link: [https://www.rusi.org/explore-our-research/publications/commentary/ai-enabled-vulnerability-discovery-reshaping-national-cyber-defence](https://www.rusi.org/explore-our-research/publications/commentary/ai-enabled-vulnerability-discovery-reshaping-national-cyber-defence)  
+   Link: <a href="https://www.rusi.org/explore-our-research/publications/commentary/ai-enabled-vulnerability-discovery-reshaping-national-cyber-defence" target="_blank" rel="noopener noreferrer nofollow">https://www.rusi.org/explore-our-research/publications/commentary/ai-enabled-vulnerability-discovery-reshaping-national-cyber-defence</a>  
 
 11. <a id="endnote-11"></a>
    Source: blog.checkpoint.com  
-   Link: [https://blog.checkpoint.com/executive-insights/hexstrike-ai-when-llms-meet-zero-day-exploitation/](https://blog.checkpoint.com/executive-insights/hexstrike-ai-when-llms-meet-zero-day-exploitation/)  
+   Link: <a href="https://blog.checkpoint.com/executive-insights/hexstrike-ai-when-llms-meet-zero-day-exploitation/" target="_blank" rel="noopener noreferrer nofollow">https://blog.checkpoint.com/executive-insights/hexstrike-ai-when-llms-meet-zero-day-exploitation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Check Point BlogHexstrike-AI: LLM Orchestration Driving Real-World Zero-Day ExploitsSeptember 2, 2025...</p></details>
    Published: September 2, 2025  
 
@@ -844,66 +844,66 @@ AI automation of cyberattacks and exploit discovery is more than a theoretical c
 
 12. <a id="endnote-12"></a>
    Source: app.eno.cx.ua  
-   Link: [https://app.eno.cx.ua/intel/ethical-hacking-risks-in-ai-powered-penetration-testing-tools-that-auto-exploit.html](https://app.eno.cx.ua/intel/ethical-hacking-risks-in-ai-powered-penetration-testing-tools-that-auto-exploit.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>hacking risks in AI-powered penetration testing tools that auto-exploit zero-days without [oversight](&amp;#123;&amp;#123; &#x27;oversight-evasion/&#x27; | relative_url &amp;#125;&amp;#125;) | Oracle-42 IntelligenceMay 12, 2026...</p></details>
+   Link: <a href="https://app.eno.cx.ua/intel/ethical-hacking-risks-in-ai-powered-penetration-testing-tools-that-auto-exploit.html" target="_blank" rel="noopener noreferrer nofollow">https://app.eno.cx.ua/intel/ethical-hacking-risks-in-ai-powered-penetration-testing-tools-that-auto-exploit.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>hacking risks in AI-powered penetration testing tools that auto-exploit zero-days without oversight | Oracle-42 IntelligenceMay 12, 2026...</p></details>
    Published: May 12, 2026  
 
 13. <a id="endnote-13"></a>
    Source: ncsc.gov.uk  
-   Link: [https://www.ncsc.gov.uk/blogs/why-cyber-defenders-need-to-be-ready-for-frontier-ai](https://www.ncsc.gov.uk/blogs/why-cyber-defenders-need-to-be-ready-for-frontier-ai)  
+   Link: <a href="https://www.ncsc.gov.uk/blogs/why-cyber-defenders-need-to-be-ready-for-frontier-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/blogs/why-cyber-defenders-need-to-be-ready-for-frontier-ai</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March 30, 2026 — Blog Post Download &amp; print article PDF WHY CYBER DEFENDERS NEED TO BE READY FOR FRONTIER AI Understanding the threats an...</p></details>
    Published: March 30, 2026  
 
 14. <a id="endnote-14"></a>
    Source: atlanticcouncil.org  
    Title: Hackers using AI just found a ‘zero-day.’ The spyware industry is watching  
-   Link: [https://www.atlanticcouncil.org/dispatches/hackers-using-ai-just-found-a-zero-day-the-spyware-industry-is-watching/](https://www.atlanticcouncil.org/dispatches/hackers-using-ai-just-found-a-zero-day-the-spyware-industry-is-watching/)  
+   Link: <a href="https://www.atlanticcouncil.org/dispatches/hackers-using-ai-just-found-a-zero-day-the-spyware-industry-is-watching/" target="_blank" rel="noopener noreferrer nofollow">https://www.atlanticcouncil.org/dispatches/hackers-using-ai-just-found-a-zero-day-the-spyware-industry-is-watching/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Atlantic CouncilMay 19, 2026 — HACKERS USING AI JUST FOUND A ‘ZERO-DAY.’ THE SPYWARE INDUSTRY IS WATCHING. By Jen Roberts May 19, 2026 4...</p></details>
    Published: May 19, 2026  
 
 15. <a id="endnote-15"></a>
    Source: irregular.com  
    Title: Emergent Cyber Behavior: When AI Agents Become Offensive Threat Actors  
-   Link: [https://www.irregular.com/publications/emergent-offensive-cyber-behavior-in-ai-agents](https://www.irregular.com/publications/emergent-offensive-cyber-behavior-in-ai-agents)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IrregularMarch 12, 2026 — EMERGENT CYBER BEHAVIOR: WHEN AI AGENTS BECOME OFFENSIVE THREAT ACTORS March 12, 2026 In this article March 12...</p></details>
+   Link: <a href="https://www.irregular.com/publications/emergent-offensive-cyber-behavior-in-ai-agents" target="_blank" rel="noopener noreferrer nofollow">https://www.irregular.com/publications/emergent-offensive-cyber-behavior-in-ai-agents</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 12, 2026 — EMERGENT CYBER BEHAVIOR: WHEN AI AGENTS BECOME OFFENSIVE THREAT ACTORS March 12, 2026 In this article March 12...</p></details>
    Published: March 12, 2026  
 
 16. <a id="endnote-16"></a>
    Source: csoonline.com  
    Title: 6 ways attackers abuse AI services to hack your business | CSO Online  
-   Link: [https://www.csoonline.com/article/4154222/6-ways-attackers-abuse-ai-services-to-hack-your-business.html](https://www.csoonline.com/article/4154222/6-ways-attackers-abuse-ai-services-to-hack-your-business.html)  
+   Link: <a href="https://www.csoonline.com/article/4154222/6-ways-attackers-abuse-ai-services-to-hack-your-business.html" target="_blank" rel="noopener noreferrer nofollow">https://www.csoonline.com/article/4154222/6-ways-attackers-abuse-ai-services-to-hack-your-business.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>April 6, 2026 — Image: John Leyden by John Leyden Senior Writer 6 WAYS ATTACKERS ABUSE AI SERVICES TO HACK YOUR BUSINESS Feature Apr 6, 2...</p></details>
    Published: April 6, 2026  
 
 17. <a id="endnote-17"></a>
    Source: cybernews.com  
    Title: A I brain Hexstrike runs cyberattacks on its own | Cybernews  
-   Link: [https://cybernews.com/security/ai-brain-hexstrike-runs-cyberattacks-on-its-own/](https://cybernews.com/security/ai-brain-hexstrike-runs-cyberattacks-on-its-own/)  
+   Link: <a href="https://cybernews.com/security/ai-brain-hexstrike-runs-cyberattacks-on-its-own/" target="_blank" rel="noopener noreferrer nofollow">https://cybernews.com/security/ai-brain-hexstrike-runs-cyberattacks-on-its-own/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI brain Hexstrike runs cyberattacks on its own | CybernewsSeptember 3, 2025 — CYBERCRIME REVOLUTIONIZED WITH AN AI “BRAIN” THAT UNLEASHE...</p></details>
    Published: September 3, 2025  
 
 18. <a id="endnote-18"></a>
    Source: labs.cloudsecurityalliance.org  
    Title: csa whitepaper llm exploit automation threat landscape 20260  
-   Link: [https://labs.cloudsecurityalliance.org/research/csa-whitepaper-llm-exploit-automation-threat-landscape-20260/](https://labs.cloudsecurityalliance.org/research/csa-whitepaper-llm-exploit-automation-threat-landscape-20260/)  
+   Link: <a href="https://labs.cloudsecurityalliance.org/research/csa-whitepaper-llm-exploit-automation-threat-landscape-20260/" target="_blank" rel="noopener noreferrer nofollow">https://labs.cloudsecurityalliance.org/research/csa-whitepaper-llm-exploit-automation-threat-landscape-20260/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploit Generation: LLMs Cross the Threshold – Lab SpaceApril 2, 2026 — AUTOMATED EXPLOIT GENERATION: LLMS CROSS THE THRESHOLD Authors: C...</p></details>
    Published: April 2, 2026  
 
 19. <a id="endnote-19"></a>
    Source: csis.org  
    Title: beyond autonomous attacks reality ai enabled cyber threats  
-   Link: [https://www.csis.org/blogs/strategic-technologies-blog/beyond-autonomous-attacks-reality-ai-enabled-cyber-threats](https://www.csis.org/blogs/strategic-technologies-blog/beyond-autonomous-attacks-reality-ai-enabled-cyber-threats)  
+   Link: <a href="https://www.csis.org/blogs/strategic-technologies-blog/beyond-autonomous-attacks-reality-ai-enabled-cyber-threats" target="_blank" rel="noopener noreferrer nofollow">https://www.csis.org/blogs/strategic-technologies-blog/beyond-autonomous-attacks-reality-ai-enabled-cyber-threats</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond Autonomous Attacks: The Reality of AI-Enabled Cyber Threats | Strategic Technologies Blog | CSISApril 29, 2026 — BEYOND AUTONOMOUS...</p></details>
    Published: April 29, 2026  
 
 20. <a id="endnote-20"></a>
    Source: ibm.com  
    Title: What Open Claw reveals about agentic AI security risks  
-   Link: [https://www.ibm.com/think/x-force/what-openclaw-reveals-about-agentic-ai-security-risks](https://www.ibm.com/think/x-force/what-openclaw-reveals-about-agentic-ai-security-risks)  
+   Link: <a href="https://www.ibm.com/think/x-force/what-openclaw-reveals-about-agentic-ai-security-risks" target="_blank" rel="noopener noreferrer nofollow">https://www.ibm.com/think/x-force/what-openclaw-reveals-about-agentic-ai-security-risks</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What OpenClaw reveals about agentic AI security risksApril 23, 2026 — Image: Person Interacting with Digital Warning Interface Security A...</p></details>
    Published: April 23, 2026  
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=V6DxUccFevg](https://www.youtube.com/watch?v=V6DxUccFevg)  
+   Link: <a href="https://www.youtube.com/watch?v=V6DxUccFevg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V6DxUccFevg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Dirty Frag&quot;, Canvas ransomware, “Mini Shai-Hulud” malware &amp; AI-developed zero-day exploit [324]...</p></details>

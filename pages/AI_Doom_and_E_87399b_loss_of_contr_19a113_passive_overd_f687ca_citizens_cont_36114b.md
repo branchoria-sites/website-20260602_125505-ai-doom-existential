@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca_ai_advice_def_130a4f
 - AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca_expertise_ero_23d4c6
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - loss-of-control
 - over-delegation
 - contestability
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - loss-of-control
 - over-delegation
 - contestability
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Public-sector AI becomes dangerous when people affected by welfare, tax or policing decisions cannot understand or challenge the result.
 hero_summary: Public-sector AI becomes dangerous when people affected by welfare, tax or policing decisions cannot understand or challenge the result.
 layout: default
 permalink: /contestability/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /loss-of-control/
 - /over-delegation/
 nav_short_title: Contestability
@@ -211,10 +211,10 @@ parent_heading_title: Can humans lose control without a takeover?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_loss_of_contr_19a113
-  title: Loss of Control | AI Doom and
+  title: Loss of Control | AI Doom and E 87399 b
   permalink: /loss-of-control/
   short_title: Loss of Control
   heading_title: How Could Humans Lose Control of AI?
@@ -226,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_loss_of_contr_19a113
-  title: Loss of Control | AI Doom and
+  title: Loss of Control | AI Doom and E 87399 b
   permalink: /loss-of-control/
   short_title: Loss of Control
   heading_title: How Could Humans Lose Control of AI?
@@ -273,7 +273,7 @@ When people talk about losing control to AI, they often imagine highly autonomou
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca_citizens_cont_36114b-Illustration-1-dark.svg" | relative_url }}" alt="Contestability illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca_citizens_cont_36114b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca_citizens_cont_36114b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within debates about [AI doom and]({{ 'ai-doom-and/' | relative_url }}) long-term [loss of control]({{ 'loss-of-control/' | relative_url }}), this matters because it shows how authority can shift away from meaningful human judgement without any dramatic takeover. The concern is not only whether an AI system is accurate. It is whether democratic societies retain the ability to review decisions, correct mistakes, and hold decision-makers accountable. When contestability disappears, people may find themselves governed by systems whose logic is opaque, whose errors are difficult to identify, and whose decisions become increasingly resistant to human correction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coe.int/en/web/cdcj/ai-administrative-law" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coe.int">[Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coe.int</span><span class="citation-popover-title">ai administrative law</span><span class="citation-popover-snippet">PortalArtificial Intelligence and Administrative LawDec 13, 2022 — Governments are increasingly using AI for public administration innova...</span></span></span>
+Within debates about AI doom and long-term [loss of control]({{ 'loss-of-control/' | relative_url }}), this matters because it shows how authority can shift away from meaningful human judgement without any dramatic takeover. The concern is not only whether an AI system is accurate. It is whether democratic societies retain the ability to review decisions, correct mistakes, and hold decision-makers accountable. When contestability disappears, people may find themselves governed by systems whose logic is opaque, whose errors are difficult to identify, and whose decisions become increasingly resistant to human correction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coe.int/en/web/cdcj/ai-administrative-law" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coe.int">[Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coe.int</span><span class="citation-popover-title">ai administrative law</span><span class="citation-popover-snippet">PortalArtificial Intelligence and Administrative LawDec 13, 2022 — Governments are increasingly using AI for public administration innova...</span></span></span>
 
 ## Why contestability matters for public legitimacy
 
@@ -310,7 +310,7 @@ The result is a paradox. AI systems are often introduced to improve consistency 
 
 One of the most cited examples is the Netherlands' System Risk Indication programme, known as SyRI.
 
-The system combined data from multiple government databases to identify people considered at elevated risk of welfare fraud. Critics argued that the programme operated with insufficient transparency and that citizens could not effectively understand or challenge how risk assessments were being generated. In 2020, a Dutch court halted the system, finding that it violated privacy protections under the European Convention on Human Rights. The ruling became a landmark case in debates over algorithmic governance and public accountability. OUP Academic <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ohchr.org/en/press-releases/2020/02/landmark-ruling-dutch-court-stops-government-attempts-spy-poor-un-expert" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ohchr.org">[OHCHR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ohchr.org</span><span class="citation-popover-title">landmark ruling dutch court stops government attempts spy poor un expert</span><span class="citation-popover-snippet">OHCHRLandmark ruling by Dutch court stops government attempts...Feb 5, 2020 — The court ordered the immediate halt to a digital benefit...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/13882627211031257" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDigital welfare fraud detection and the Dutch SyRI judgment2 Aug 2021 — The court ruled that the SyRI legislation is unlawfu...</span></span></span>
+The system combined data from multiple government databases to identify people considered at elevated risk of welfare fraud. Critics argued that the programme operated with insufficient transparency and that citizens could not effectively understand or challenge how risk assessments were being generated. In 2020, a Dutch court halted the system, finding that it violated privacy protections under the European Convention on Human Rights. The ruling became a landmark case in debates over algorithmic governance and public accountability. OUP Academic <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ohchr.org/en/press-releases/2020/02/landmark-ruling-dutch-court-stops-government-attempts-spy-poor-un-expert" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ohchr.org">[OHCHR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ohchr.org</span><span class="citation-popover-title">landmark ruling dutch court stops government attempts spy poor un expert</span><span class="citation-popover-snippet">Landmark ruling by Dutch court stops government attempts...Feb 5, 2020 — The court ordered the immediate halt to a digital benefit...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/13882627211031257" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDigital welfare fraud detection and the Dutch SyRI judgment2 Aug 2021 — The court ruled that the SyRI legislation is unlawfu...</span></span></span>
 
 The significance of SyRI went beyond privacy. The case highlighted a broader concern: if government agencies use secret or poorly explained systems to classify citizens as suspicious, the practical ability to contest state decisions can weaken even when formal appeal rights remain on paper.
 
@@ -359,7 +359,7 @@ If citizens are to retain the ability to challenge automated power, several cond
 
 **Access to evidence.** Individuals should be able to see the information used in making decisions about them and identify factual errors when they occur. Without access to underlying data, appeals become largely symbolic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://columbialawreview.org/content/the-right-to-contest-ai/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: columbialawreview.org">[Columbia Law Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">columbialawreview.org</span><span class="citation-popover-snippet">Columbia Law ReviewTHE RIGHT TO CONTEST AIby ME Kaminski · Cited by 283 — This Article argues instead—or really, in addition—for an indiv...</span></span></span>
 
-**Independent review.** Appeals should involve genuine reassessment rather than simple confirmation of a model's output. Independent oversight bodies, courts, and regulators often play an important role here. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coe.int/en/web/cdcj/ai-administrative-law" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coe.int">[Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coe.int</span><span class="citation-popover-title">ai administrative law</span><span class="citation-popover-snippet">PortalArtificial Intelligence and Administrative LawDec 13, 2022 — Governments are increasingly using AI for public administration innova...</span></span></span>
+**[Independent]({{ 'red-teaming/' | relative_url }}) review.** Appeals should involve genuine reassessment rather than simple confirmation of a model's output. Independent oversight bodies, courts, and regulators often play an important role here. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coe.int/en/web/cdcj/ai-administrative-law" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coe.int">[Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coe.int</span><span class="citation-popover-title">ai administrative law</span><span class="citation-popover-snippet">PortalArtificial Intelligence and Administrative LawDec 13, 2022 — Governments are increasingly using AI for public administration innova...</span></span></span>
 
 **Auditability.** Systems should leave records showing how decisions were reached, what data was used, and which officials approved actions. Without traceability, accountability becomes difficult to establish. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/ethics-transparency-and-accountability-framework-for-automated-decision-making/ethics-transparency-and-accountability-framework-for-automated-decision-making" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ethics transparency and accountability framework for automated decision making</span><span class="citation-popover-snippet">Ethics, Transparency and Accountability Framework for...29 Nov 2023 — This 7 point framework will help government departments with the s...</span></span></span>
 
@@ -373,12 +373,12 @@ The immediate issue is fairness and accountability in public administration. The
 
 A society that increasingly delegates important decisions to opaque systems may gradually lose the habits and structures needed for meaningful oversight. Officials become accustomed to accepting automated recommendations. Citizens become less able to understand how power operates. Appeals processes become slower than the systems they are supposed to supervise.
 
-None of this requires a malicious AI. The danger comes from governance systems adapting themselves around [automation]({{ 'automation-bias/' | relative_url }}) until meaningful human control becomes difficult to exercise.
+None of this requires a malicious AI. The danger comes from governance systems adapting themselves around automation until meaningful human control becomes difficult to exercise.
 
 This is why contestability occupies a larger place in some AI-risk discussions than might appear at first glance. The ability to challenge decisions is one of the mechanisms through which societies keep power accountable. If that mechanism weakens across welfare systems, taxation, policing, immigration, and other public functions, the result is not merely a technical problem. It is a gradual shift in who—or what—effectively governs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://columbialawreview.org/content/the-right-to-contest-ai/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: columbialawreview.org">[Columbia Law Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">columbialawreview.org</span><span class="citation-popover-snippet">Columbia Law ReviewTHE RIGHT TO CONTEST AIby ME Kaminski · Cited by 283 — This Article argues instead—or really, in addition—for an indiv...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coe.int/en/web/cdcj/ai-administrative-law" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coe.int">[Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coe.int</span><span class="citation-popover-title">ai administrative law</span><span class="citation-popover-snippet">PortalArtificial Intelligence and Administrative LawDec 13, 2022 — Governments are increasingly using AI for public administration innova...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8oLkHGX-FyA" title="When AI Becomes The Default Voice" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8oLkHGX-FyA" target="_blank" rel="noopener noreferrer">When AI Becomes The Default Voice</a></p><p class="youtube-embed-meta">Channel: The Human Workforce &middot; Views: 5.3K &middot; Uploaded: April 2026 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8oLkHGX-FyA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8oLkHGX-FyA">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/e7m4T-4Qq90" title="Assessing the Impact of AI in Government" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=e7m4T-4Qq90" target="_blank" rel="noopener noreferrer">Assessing the Impact of AI in Government</a></p><p class="youtube-embed-meta">Channel: Open Government Partnership &middot; Views: 329 &middot; Uploaded: February 2026 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=e7m4T-4Qq90" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=e7m4T-4Qq90">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -803,191 +803,191 @@ This is why contestability occupies a larger place in some AI-risk discussions t
 1. <a id="endnote-1"></a>
    Source: ohchr.org  
    Title: landmark ruling dutch court stops government attempts spy poor un expert  
-   Link: [https://www.ohchr.org/en/press-releases/2020/02/landmark-ruling-dutch-court-stops-government-attempts-spy-poor-un-expert](https://www.ohchr.org/en/press-releases/2020/02/landmark-ruling-dutch-court-stops-government-attempts-spy-poor-un-expert)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OHCHRLandmark ruling by Dutch court stops government attempts...Feb 5, 2020 — The court ordered the immediate halt to a digital benefit...</p></details>
+   Link: <a href="https://www.ohchr.org/en/press-releases/2020/02/landmark-ruling-dutch-court-stops-government-attempts-spy-poor-un-expert" target="_blank" rel="noopener noreferrer nofollow">https://www.ohchr.org/en/press-releases/2020/02/landmark-ruling-dutch-court-stops-government-attempts-spy-poor-un-expert</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Landmark ruling by Dutch court stops government attempts...Feb 5, 2020 — The court ordered the immediate halt to a digital benefit...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/hrlr/article/22/2/ngac010/6568079](https://academic.oup.com/hrlr/article/22/2/ngac010/6568079)  
+   Link: <a href="https://academic.oup.com/hrlr/article/22/2/ngac010/6568079" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/hrlr/article/22/2/ngac010/6568079</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicThe Human Rights Implications of the Use of AI in the Digital...by A Rachovitsa · 2022 · Cited by 126 — The case challenged...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: robodebt.royalcommission.gov.au  
-   Link: [https://robodebt.royalcommission.gov.au/publications/report](https://robodebt.royalcommission.gov.au/publications/report)  
+   Link: <a href="https://robodebt.royalcommission.gov.au/publications/report" target="_blank" rel="noopener noreferrer nofollow">https://robodebt.royalcommission.gov.au/publications/report</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Commissioner Catherine Holmes AC SC presented the Report of the Royal Commission into the Robodebt...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: legalaid.vic.gov.au  
    Title: learning from the failures of robodebt  
-   Link: [https://www.legalaid.vic.gov.au/learning-from-the-failures-of-robodebt](https://www.legalaid.vic.gov.au/learning-from-the-failures-of-robodebt)  
+   Link: <a href="https://www.legalaid.vic.gov.au/learning-from-the-failures-of-robodebt" target="_blank" rel="noopener noreferrer nofollow">https://www.legalaid.vic.gov.au/learning-from-the-failures-of-robodebt</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>building a fairer...16 Sept 2025 — The Robodebt scheme raised more than half a million inaccurate Centrelink debts through a method of &#x27;...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: GOV.UK  
    Title: ethics transparency and accountability framework for automated decision making  
-   Link: [https://www.gov.uk/government/publications/ethics-transparency-and-accountability-framework-for-automated-decision-making/ethics-transparency-and-accountability-framework-for-automated-decision-making](https://www.gov.uk/government/publications/ethics-transparency-and-accountability-framework-for-automated-decision-making/ethics-transparency-and-accountability-framework-for-automated-decision-making)  
+   Link: <a href="https://www.gov.uk/government/publications/ethics-transparency-and-accountability-framework-for-automated-decision-making/ethics-transparency-and-accountability-framework-for-automated-decision-making" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ethics-transparency-and-accountability-framework-for-automated-decision-making/ethics-transparency-and-accountability-framework-for-automated-decision-making</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ethics, Transparency and Accountability Framework for...29 Nov 2023 — This 7 point framework will help government departments with the s...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: wired.com  
    Title: The lessons we all must learn from the A-levels algorithm debacle  
-   Link: [https://www.wired.com/story/gcse-results-alevels-algorithm-explained](https://www.wired.com/story/gcse-results-alevels-algorithm-explained)  
+   Link: <a href="https://www.wired.com/story/gcse-results-alevels-algorithm-explained" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/gcse-results-alevels-algorithm-explained</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The algorithm, designed by exams regulator Ofqual, aimed to standardize results nationally but ended up downgrading 40% of predicted grad...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: committees.parliament.uk  
-   Link: [https://committees.parliament.uk/writtenevidence/146847/html/](https://committees.parliament.uk/writtenevidence/146847/html/)  
+   Link: <a href="https://committees.parliament.uk/writtenevidence/146847/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/146847/html/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: bills.parliament.uk  
-   Link: [https://bills.parliament.uk/bills/3760](https://bills.parliament.uk/bills/3760)  
+   Link: <a href="https://bills.parliament.uk/bills/3760" target="_blank" rel="noopener noreferrer nofollow">https://bills.parliament.uk/bills/3760</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Authority Algorithmic and Automated Decision-Making...5 May 2026 — A Bill to regulate the use of automated and algorithmic tools in deci...</p></details>
    Published: May 2026  
 
 9. <a id="endnote-9"></a>
    Source: committees.parliament.uk  
-   Link: [https://committees.parliament.uk/writtenevidence/130200/html/](https://committees.parliament.uk/writtenevidence/130200/html/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of [artificial](&amp;#123;&amp;#123; &#x27;artificial-goals/&#x27; | relative_url &amp;#125;&amp;#125;) intelligence in governmentThe Automating Public Services report highlights how automated decision-making systems are often...</p></details>
+   Link: <a href="https://committees.parliament.uk/writtenevidence/130200/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/130200/html/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>of artificial intelligence in governmentThe Automating Public Services report highlights how automated decision-making systems are often...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: committees.parliament.uk  
-   Link: [https://committees.parliament.uk/writtenevidence/148287/html/](https://committees.parliament.uk/writtenevidence/148287/html/)  
+   Link: <a href="https://committees.parliament.uk/writtenevidence/148287/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/148287/html/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>use of cookiesAround the world, counter-fraud AI systems have been shown to have inadvertently discriminated against historically disadva...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/policyandsociety/article/44/2/229/8246832](https://academic.oup.com/policyandsociety/article/44/2/229/8246832)  
+   Link: <a href="https://academic.oup.com/policyandsociety/article/44/2/229/8246832" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/policyandsociety/article/44/2/229/8246832</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Robodebt, a welfare compliance scheme that issued illegitimate debts to more than 500000 welfare recipients, is among the most...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: [https://assets.publishing.service.gov.uk/media/60142096d3bf7f70ba377b20/Review_into_bias_in_algorithmic_decision-making.pdf](https://assets.publishing.service.gov.uk/media/60142096d3bf7f70ba377b20/Review_into_bias_in_algorithmic_decision-making.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/60142096d3bf7f70ba377b20/Review_into_bias_in_algorithmic_decision-making.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/60142096d3bf7f70ba377b20/Review_into_bias_in_algorithmic_decision-making.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This is true in all sectors, but especially key in the public sector. When the...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: coe.int  
    Title: ai administrative law  
-   Link: [https://www.coe.int/en/web/cdcj/ai-administrative-law](https://www.coe.int/en/web/cdcj/ai-administrative-law)  
+   Link: <a href="https://www.coe.int/en/web/cdcj/ai-administrative-law" target="_blank" rel="noopener noreferrer nofollow">https://www.coe.int/en/web/cdcj/ai-administrative-law</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PortalArtificial Intelligence and Administrative LawDec 13, 2022 — Governments are increasingly using AI for public administration innova...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: columbialawreview.org  
-   Link: [https://columbialawreview.org/content/the-right-to-contest-ai/](https://columbialawreview.org/content/the-right-to-contest-ai/)  
+   Link: <a href="https://columbialawreview.org/content/the-right-to-contest-ai/" target="_blank" rel="noopener noreferrer nofollow">https://columbialawreview.org/content/the-right-to-contest-ai/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Columbia Law ReviewTHE RIGHT TO CONTEST AIby ME Kaminski · Cited by 283 — This Article argues instead—or really, in addition—for an indiv...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: ppr.lse.ac.uk  
-   Link: [https://ppr.lse.ac.uk/articles/10.31389/lseppr.110](https://ppr.lse.ac.uk/articles/10.31389/lseppr.110)  
+   Link: <a href="https://ppr.lse.ac.uk/articles/10.31389/lseppr.110" target="_blank" rel="noopener noreferrer nofollow">https://ppr.lse.ac.uk/articles/10.31389/lseppr.110</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This policy must be robust and must provide sufficient...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: coe.int  
-   Link: [https://www.coe.int/en/web/freedom-expression/blind-spots-automated-decision-making-in-the-public-sector-in-eu-countries](https://www.coe.int/en/web/freedom-expression/blind-spots-automated-decision-making-in-the-public-sector-in-eu-countries)  
+   Link: <a href="https://www.coe.int/en/web/freedom-expression/blind-spots-automated-decision-making-in-the-public-sector-in-eu-countries" target="_blank" rel="noopener noreferrer nofollow">https://www.coe.int/en/web/freedom-expression/blind-spots-automated-decision-making-in-the-public-sector-in-eu-countries</a>  
 
 17. <a id="endnote-17"></a>
    Source: supremecourt.uk  
-   Link: [https://supremecourt.uk/uploads/speech_lord_sales_051125_db5ebd7036.pdf](https://supremecourt.uk/uploads/speech_lord_sales_051125_db5ebd7036.pdf)  
+   Link: <a href="https://supremecourt.uk/uploads/speech_lord_sales_051125_db5ebd7036.pdf" target="_blank" rel="noopener noreferrer nofollow">https://supremecourt.uk/uploads/speech_lord_sales_051125_db5ebd7036.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>November 5, 2025 — 5 Nov 2025 — UK have also been applying difficult to scrutinise algorithms to support decisions on transportation, hou...</p></details>
    Published: November 5, 2025  
 
 18. <a id="endnote-18"></a>
    Source: thetimes.com  
-   Link: [https://www.thetimes.com/uk/law/article/using-ai-for-official-decisions-raises-questions-over-compliance-pfjwzrnrt](https://www.thetimes.com/uk/law/article/using-ai-for-official-decisions-raises-questions-over-compliance-pfjwzrnrt)  
+   Link: <a href="https://www.thetimes.com/uk/law/article/using-ai-for-official-decisions-raises-questions-over-compliance-pfjwzrnrt" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/uk/law/article/using-ai-for-official-decisions-raises-questions-over-compliance-pfjwzrnrt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>While AI offers advantages like speed, consistency, and data analysis, its integration raises significant legal concerns—particularly aro...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/13882627211031257](https://journals.sagepub.com/doi/10.1177/13882627211031257)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/13882627211031257" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/13882627211031257</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsDigital welfare fraud detection and the Dutch SyRI judgment2 Aug 2021 — The court ruled that the SyRI legislation is unlawfu...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: pursuit.unimelb.edu.au  
    Title: Pursuit The flawed algorithm at the heart of Robodebt  
-   Link: [https://pursuit.unimelb.edu.au/articles/the-flawed-algorithm-at-the-heart-of-robodebt](https://pursuit.unimelb.edu.au/articles/the-flawed-algorithm-at-the-heart-of-robodebt)  
+   Link: <a href="https://pursuit.unimelb.edu.au/articles/the-flawed-algorithm-at-the-heart-of-robodebt" target="_blank" rel="noopener noreferrer nofollow">https://pursuit.unimelb.edu.au/articles/the-flawed-algorithm-at-the-heart-of-robodebt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>flawed algorithm at the heart of Robodebt - Pursuit10 July 2023 — At the heart of the Robodebt scheme was an algorithm that cross-referen...</p></details>
    Published: July 2023  
 
 21. <a id="endnote-21"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/1323238X.2024.2409620](https://www.tandfonline.com/doi/full/10.1080/1323238X.2024.2409620)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/1323238X.2024.2409620" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/1323238X.2024.2409620</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineTechnology is never neutral: Robodebt and a human rights...by S Chowdhury · 2024 · Cited by 10 — Despite being il...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/technology/article/2024/aug/25/register-aims-to-quash-fears-over-racist-and-biased-ai-tools-used-on-uk-public](https://www.theguardian.com/technology/article/2024/aug/25/register-aims-to-quash-fears-over-racist-and-biased-ai-tools-used-on-uk-public)  
+   Link: <a href="https://www.theguardian.com/technology/article/2024/aug/25/register-aims-to-quash-fears-over-racist-and-biased-ai-tools-used-on-uk-public" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/article/2024/aug/25/register-aims-to-quash-fears-over-racist-and-biased-ai-tools-used-on-uk-public</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The move, confirmed by officials, addresses transparency and accountability, with tools used to detect fraud and identify sham marriages...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: theguardian.com  
    Title: The Guardian Revealed: bias found in AI system used to detect UK benefits fraud  
-   Link: [https://www.theguardian.com/society/2024/dec/06/revealed-bias-found-in-ai-system-used-to-detect-uk-benefits](https://www.theguardian.com/society/2024/dec/06/revealed-bias-found-in-ai-system-used-to-detect-uk-benefits)  
+   Link: <a href="https://www.theguardian.com/society/2024/dec/06/revealed-bias-found-in-ai-system-used-to-detect-uk-benefits" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/society/2024/dec/06/revealed-bias-found-in-ai-system-used-to-detect-uk-benefits</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The system, which helps vet claims for universal credit, flagged people from certain demographics more frequently for fraud investigation...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Netherlands](https://en.wikipedia.org/wiki/Netherlands)  
+   Link: <a href="https://en.wikipedia.org/wiki/Netherlands" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Netherlands</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NetherlandsThe Netherlands, informally Holland, is a country in Northwestern Europe, with overseas territories in the Caribbean. It is...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: Wikipedia  
    Title: Robodebt scheme  
-   Link: [https://en.wikipedia.org/wiki/Robodebt_scheme](https://en.wikipedia.org/wiki/Robodebt_scheme)  
+   Link: <a href="https://en.wikipedia.org/wiki/Robodebt_scheme" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robodebt_scheme</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Robodebt schemeThe Robodebt scheme was an unlawful method of automated debt assessment and recovery implemented in Australia under the...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: theguardian.com  
    Title: welfare surveillance system violates human rights dutch court rules  
-   Link: [https://www.theguardian.com/technology/2020/feb/05/welfare-surveillance-system-violates-human-rights-dutch-court-rules](https://www.theguardian.com/technology/2020/feb/05/welfare-surveillance-system-violates-human-rights-dutch-court-rules)  
+   Link: <a href="https://www.theguardian.com/technology/2020/feb/05/welfare-surveillance-system-violates-human-rights-dutch-court-rules" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2020/feb/05/welfare-surveillance-system-violates-human-rights-dutch-court-rules</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Welfare surveillance system violates human rights, Dutch...Feb 5, 2020 — A Dutch court has ordered the immediate halt of an automated su...</p></details>
 
 ### Additional References
 
 27. <a id="endnote-27"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/automated-decision-right-explanation-delimiting-scope-bruno-schneider-g7jne](https://www.linkedin.com/pulse/automated-decision-right-explanation-delimiting-scope-bruno-schneider-g7jne)  
+   Link: <a href="https://www.linkedin.com/pulse/automated-decision-right-explanation-delimiting-scope-bruno-schneider-g7jne" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/automated-decision-right-explanation-delimiting-scope-bruno-schneider-g7jne</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Automated Decision Making &amp; Right to ExplanationThis report undertakes a detailed analysis of the legal frameworks within the European Un...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/journals/european-journal-of-risk-regulation/article/council-of-europe-framework-convention-on-artificial-intelligence-context-regulatory-approach-and-scope-of-obligations/0ED34EFE5AA7C9628F7053720F88F48C](https://www.cambridge.org/core/journals/european-journal-of-risk-regulation/article/council-of-europe-framework-convention-on-artificial-intelligence-context-regulatory-approach-and-scope-of-obligations/0ED34EFE5AA7C9628F7053720F88F48C)  
+   Link: <a href="https://www.cambridge.org/core/journals/european-journal-of-risk-regulation/article/council-of-europe-framework-convention-on-artificial-intelligence-context-regulatory-approach-and-scope-of-obligations/0ED34EFE5AA7C9628F7053720F88F48C" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/european-journal-of-risk-regulation/article/council-of-europe-framework-convention-on-artificial-intelligence-context-regulatory-approach-and-scope-of-obligations/0ED34EFE5AA7C9628F7053720F88F48C</a>  
 
 29. <a id="endnote-29"></a>
    Source: europeanlawinstitute.eu  
-   Link: [https://www.europeanlawinstitute.eu/fileadmin/user_upload/p_eli/Publications/ELI_Guiding_Principles_for_Automated_Decision-Making_in_the_EU.pdf](https://www.europeanlawinstitute.eu/fileadmin/user_upload/p_eli/Publications/ELI_Guiding_Principles_for_Automated_Decision-Making_in_the_EU.pdf)  
+   Link: <a href="https://www.europeanlawinstitute.eu/fileadmin/user_upload/p_eli/Publications/ELI_Guiding_Principles_for_Automated_Decision-Making_in_the_EU.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.europeanlawinstitute.eu/fileadmin/user_upload/p_eli/Publications/ELI_Guiding_Principles_for_Automated_Decision-Making_in_the_EU.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Guiding Principles for Automated Decision-Making in the EUOn the contrary, the principles of transparency, explainability, risk assessmen...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/syri-system-legal-ethical-challenges-fraud-detection-ai-paul-apeh-77lbe](https://www.linkedin.com/pulse/syri-system-legal-ethical-challenges-fraud-detection-ai-paul-apeh-77lbe)  
+   Link: <a href="https://www.linkedin.com/pulse/syri-system-legal-ethical-challenges-fraud-detection-ai-paul-apeh-77lbe" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/syri-system-legal-ethical-challenges-fraud-detection-ai-paul-apeh-77lbe</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The SyRI System: Legal and Ethical Challenges of Fraud...This article analyses the SyRI ruling on the automated fraud detection system&#x27;s...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: digitalfreedomfund.org  
-   Link: [https://digitalfreedomfund.org/case-studies/the-syri-welfare-fraud-risk-scoring-algorithm/](https://digitalfreedomfund.org/case-studies/the-syri-welfare-fraud-risk-scoring-algorithm/)  
+   Link: <a href="https://digitalfreedomfund.org/case-studies/the-syri-welfare-fraud-risk-scoring-algorithm/" target="_blank" rel="noopener noreferrer nofollow">https://digitalfreedomfund.org/case-studies/the-syri-welfare-fraud-risk-scoring-algorithm/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The “SyRI” welfare fraud risk-scoring algorithmUnder the guise of detecting potential welfare and tax fraud, the Dutch government introdu...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: stories.uq.edu.au  
-   Link: [https://stories.uq.edu.au/momentum-magazine/robodebt-algorithmic-decision-making-mistakes/index.html](https://stories.uq.edu.au/momentum-magazine/robodebt-algorithmic-decision-making-mistakes/index.html)  
+   Link: <a href="https://stories.uq.edu.au/momentum-magazine/robodebt-algorithmic-decision-making-mistakes/index.html" target="_blank" rel="noopener noreferrer nofollow">https://stories.uq.edu.au/momentum-magazine/robodebt-algorithmic-decision-making-mistakes/index.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UQ StoriesHow to avoid algorithmic decision-making mistakesRobodebt was an automated debt assessment and recovery program that relied sol...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: digital-strategy.ec.europa.eu  
-   Link: [https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai)  
+   Link: <a href="https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Act | Shaping Europe&#x27;s digital futureThe AI Act is the first-ever legal framework on AI, which addresses the risks of AI and positions Eu...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: opengovpartnership.org  
-   Link: [https://www.opengovpartnership.org/wp-content/uploads/2021/08/executive-summary-algorithmic-accountability.pdf](https://www.opengovpartnership.org/wp-content/uploads/2021/08/executive-summary-algorithmic-accountability.pdf)  
+   Link: <a href="https://www.opengovpartnership.org/wp-content/uploads/2021/08/executive-summary-algorithmic-accountability.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.opengovpartnership.org/wp-content/uploads/2021/08/executive-summary-algorithmic-accountability.pdf</a>  
 
 35. <a id="endnote-35"></a>
    Source: humanrightspulse.com  
    Title: dutch court finds syri algorithm violates human rights norms in landmark case  
-   Link: [https://www.humanrightspulse.com/mastercontentblog/dutch-court-finds-syri-algorithm-violates-human-rights-norms-in-landmark-case](https://www.humanrightspulse.com/mastercontentblog/dutch-court-finds-syri-algorithm-violates-human-rights-norms-in-landmark-case)  
+   Link: <a href="https://www.humanrightspulse.com/mastercontentblog/dutch-court-finds-syri-algorithm-violates-human-rights-norms-in-landmark-case" target="_blank" rel="noopener noreferrer nofollow">https://www.humanrightspulse.com/mastercontentblog/dutch-court-finds-syri-algorithm-violates-human-rights-norms-in-landmark-case</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dutch court finds SyRI algorithm violates...Mar 22, 2020 — The court found SyRI was in violation of Article 8 (the right to respect for...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: algorithmwatch.org  
-   Link: [https://algorithmwatch.org/en/wp-content/uploads/2021/06/ADMS-in-the-Public-Sector-Impact-Assessment-Tool-AlgorithmWatch-June-2021.pdf](https://algorithmwatch.org/en/wp-content/uploads/2021/06/ADMS-in-the-Public-Sector-Impact-Assessment-Tool-AlgorithmWatch-June-2021.pdf)  
+   Link: <a href="https://algorithmwatch.org/en/wp-content/uploads/2021/06/ADMS-in-the-Public-Sector-Impact-Assessment-Tool-AlgorithmWatch-June-2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://algorithmwatch.org/en/wp-content/uploads/2021/06/ADMS-in-the-Public-Sector-Impact-Assessment-Tool-AlgorithmWatch-June-2021.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(ADMS) in the public sector, individual and societal trust in public authorities should be the ultimate.Read more...</p></details>

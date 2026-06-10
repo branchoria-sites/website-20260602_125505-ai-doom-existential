@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38_10_26_flop_th_7f0a85
 - AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38_compute_thres_65dc26
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - governance
 - thresholds
 - moving-target
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - governance
 - thresholds
 - moving-target
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Fixed thresholds may become outdated as frontier training runs become more common and capabilities advance.
 hero_summary: Fixed thresholds may become outdated as frontier training runs become more common and capabilities advance.
 layout: default
 permalink: /moving-target/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /governance/
 - /thresholds/
 nav_short_title: Moving Target
@@ -203,6 +203,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-02 12:26:45'
 parent_title: When Should AI Training Runs Trigger Oversight? | Governance
 parent_permalink: /thresholds/
 parent_nav_short_title: Thresholds
@@ -210,10 +211,10 @@ parent_heading_title: When Should AI Training Runs Trigger Oversight?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_compute_gover_1ee8fc
-  title: Governance | AI Doom and
+  title: Governance | AI Doom and E 87399 b
   permalink: /governance/
   short_title: Governance
   heading_title: What Rules Could Reduce AI Doom Risk?
@@ -225,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_compute_gover_1ee8fc
-  title: Governance | AI Doom and
+  title: Governance | AI Doom and E 87399 b
   permalink: /governance/
   short_title: Governance
   heading_title: What Rules Could Reduce AI Doom Risk?
@@ -260,7 +261,6 @@ prev_link:
   permalink: /evasion-risks-eeb298/
   short_title: Evasion Risks
   heading_title: Could Powerful AI Slip Below Compute Thresholds?
-date: '2026-06-02 12:26:45 '
 header:
   og_image: /assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38_thresholds_an_c9e82d-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38_thresholds_an_c9e82d-Illustration-1.webp
@@ -269,7 +269,7 @@ image: /assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a
 
 ## Introduction
 
-A recurring question in debates about AI [governance]({{ 'governance/' | relative_url }}) and existential risk is whether **fixed compute thresholds can keep pace with rapid AI progress**. Compute‑based reporting thresholds — rules requiring extra oversight once a model’s training uses more than a certain number of computational operations — are attractive because they are measurable and seem technically grounded. Yet the AI landscape is evolving fast: hardware improves, training techniques become more efficient, and the number and variety of high‑compute projects mushroom. That raises a real concern within the [AI doom and]({{ 'ai-doom-and/' | relative_url }}) safety conversation: **can a static number really remain a reliable signal of future danger, or will thresholds become outdated as capabilities outgrow them?** Current evidence suggests that without adaptive updating or contextualisation, fixed thresholds are likely to drift behind the frontier they’re meant to capture and may weaken as an early warning trigger. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://regulations.ai/glossary/compute-threshold" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: regulations.ai">[Regulations.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">regulations.ai</span><span class="citation-popover-title">Compute Threshold</span><span class="citation-popover-snippet">AI Regulation Glossary | Regulations.ai...</span></span></span>
+A recurring question in debates about AI [governance]({{ 'governance/' | relative_url }}) and existential risk is whether **fixed compute thresholds can keep pace with rapid AI progress**. Compute‑based reporting thresholds — rules requiring extra oversight once a model’s training uses more than a certain number of computational operations — are attractive because they are measurable and seem technically grounded. Yet the AI landscape is evolving fast: hardware improves, training techniques become more efficient, and the number and variety of high‑compute projects mushroom. That raises a real concern within the AI doom and safety conversation: **can a static number really remain a reliable signal of future danger, or will thresholds become outdated as capabilities outgrow them?** Current evidence suggests that without adaptive updating or contextualisation, fixed thresholds are likely to drift behind the frontier they’re meant to capture and may weaken as an early warning trigger. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://regulations.ai/glossary/compute-threshold" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: regulations.ai">[Regulations.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">regulations.ai</span><span class="citation-popover-title">Compute Threshold</span><span class="citation-popover-snippet">AI Regulation Glossary &#124; Regulations.ai...</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38_thresholds_an_c9e82d-Illustration-1-dark.svg" | relative_url }}" alt="Moving Target illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38_thresholds_an_c9e82d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38_thresholds_an_c9e82d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -279,9 +279,9 @@ Training compute thresholds are grounded in the idea that larger amounts of comp
 
 However, several trends challenge the long‑term stability of a fixed threshold:
 
-* **Algorithmic and efficiency improvements:** As [AI research]({{ 'ai-research-loop/' | relative_url }}) proceeds, better architectures, optimisation techniques, and training shortcuts can extract greater capability from the same or even smaller compute budgets. This means two models trained with the same amount of compute may differ widely in ability; a threshold that once reliably captured the most capable models may over time miss increasingly capable models trained more efficiently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/glossary/compute-threshold/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-* **Rapid proliferation of high‑compute projects:** Forecasting work suggests the number of models exceeding current threshold levels could explode within a few years. One analysis projects that models above a 10²⁶ FLOP threshold — once rare — might grow from a handful to **hundreds within a few years**, making static thresholds less selective and more administratively burdensome. <span class="citation-chip-wrap"><a class="citation-chip" href="https://epoch.ai/publications/model-counts-compute-thresholds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epoch.ai">[Epoch AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epoch.ai</span><span class="citation-popover-title">AIHow many AI models will exceed compute thresholds? | Epoch AI</span><span class="citation-popover-snippet">How many AI models will exceed compute thresholds? | Epoch AI...</span></span></span>
-* **Shifts in how AI scales:** Some emerging research indicates that new modes of improving performance — such as inference‑time scaling rather than traditional training compute — could reshape how capabilities grow. If capability starts to decouple from the specific measure of training FLOPs, thresholds tied only to training compute risk becoming less predictive of real‑world power. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2503.05705" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Inference Scaling Reshapes AI Governance</span><span class="citation-popover-snippet">arXivInference Scaling Reshapes AI GovernanceFebruary 12, 2025...</span><span class="citation-popover-meta">Published: February 12, 2025</span></span></span>
+* **Algorithmic and efficiency improvements:** As AI research proceeds, better architectures, optimisation techniques, and training shortcuts can extract greater capability from the same or even smaller compute budgets. This means two models trained with the same amount of compute may differ widely in ability; a threshold that once reliably captured the most capable models may over time miss increasingly capable models trained more efficiently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/glossary/compute-threshold/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* **Rapid proliferation of high‑compute projects:** Forecasting work suggests the number of models exceeding current threshold levels could explode within a few years. One analysis projects that models above a 10²⁶ FLOP threshold — once rare — might grow from a handful to **hundreds within a few years**, making static thresholds less selective and more administratively burdensome. <span class="citation-chip-wrap"><a class="citation-chip" href="https://epoch.ai/publications/model-counts-compute-thresholds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epoch.ai">[Epoch AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epoch.ai</span><span class="citation-popover-title">AIHow many AI models will exceed compute thresholds? &#124; Epoch AI</span><span class="citation-popover-snippet">How many AI models will exceed compute thresholds? &#124; Epoch AI...</span></span></span>
+* **Shifts in how AI scales:** Some emerging research indicates that new modes of improving performance — such as inference‑time scaling rather than traditional training compute — could reshape how capabilities grow. If capability starts to decouple from the specific measure of training FLOPs, thresholds tied only to training compute risk becoming less predictive of real‑world power. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2503.05705" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Inference Scaling Reshapes AI Governance</span><span class="citation-popover-snippet">Inference Scaling Reshapes AI GovernanceFebruary 12, 2025...</span><span class="citation-popover-meta">Published: February 12, 2025</span></span></span>
 
 These dynamics illustrate that **thresholds based on a fixed compute value tend to drift relative to the evolving frontier**. As models become more efficient or as the ecosystem grows more diverse, a threshold that once signalled cutting‑edge capability and risk may become either too weak or too blunt to serve its regulatory purpose.
 
@@ -290,7 +290,7 @@ These dynamics illustrate that **thresholds based on a fixed compute value tend 
 
 ## Forecasts for Larger Training Runs
 
-Empirical projections help make this drift concrete. Research that models future training compute trends estimates that the number of AI models exceeding absolute compute thresholds — those defined in fixed FLOP terms — will scale up sharply over the next few years. Under plausible development scenarios, the count of models over a 10²⁵ FLOP level is expected to grow dramatically by 2030, and even higher thresholds see similar growth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://epoch.ai/publications/model-counts-compute-thresholds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epoch.ai">[Epoch AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epoch.ai</span><span class="citation-popover-title">AIHow many AI models will exceed compute thresholds? | Epoch AI</span><span class="citation-popover-snippet">How many AI models will exceed compute thresholds? | Epoch AI...</span></span></span>
+Empirical projections help make this drift concrete. Research that models future training compute trends estimates that the number of AI models exceeding absolute compute thresholds — those defined in fixed FLOP terms — will scale up sharply over the next few years. Under plausible development scenarios, the count of models over a 10²⁵ FLOP level is expected to grow dramatically by 2030, and even higher thresholds see similar growth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://epoch.ai/publications/model-counts-compute-thresholds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epoch.ai">[Epoch AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epoch.ai</span><span class="citation-popover-title">AIHow many AI models will exceed compute thresholds? &#124; Epoch AI</span><span class="citation-popover-snippet">How many AI models will exceed compute thresholds? &#124; Epoch AI...</span></span></span>
 
 This matters for both governance and safety signalling:
 
@@ -307,7 +307,7 @@ Acknowledging that **compute thresholds drift over time**, researchers and polic
 
 * **Periodic revision authority:** Some legislative frameworks explicitly empower regulators to raise or adjust threshold values regularly as technology evolves. This makes thresholds “living” rather than fixed administrative numbers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://law-ai.org/the-role-of-compute-thresholds-for-ai-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law-ai.org">[Institute for Law &amp; AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law-ai.org</span><span class="citation-popover-title">Institute for Law &amp; AIThe Role of Compute Thresholds for AI Governance</span><span class="citation-popover-snippet">Institute for Law &amp; AIFebruary 1, 2025...</span><span class="citation-popover-meta">Published: February 1, 2025</span></span></span>
 * **Effective or relative compute metrics:** Instead of absolute FLOP counts, proposals have been floated to define thresholds relative to the **current frontier** — for example, relative to the largest training run worldwide at a given time — so that thresholds scale with the frontier itself. While challenging to implement, this could align governance more directly with capability benchmarks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://law-ai.org/the-role-of-compute-thresholds-for-ai-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law-ai.org">[Institute for Law &amp; AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law-ai.org</span><span class="citation-popover-title">Institute for Law &amp; AIThe Role of Compute Thresholds for AI Governance</span><span class="citation-popover-snippet">Institute for Law &amp; AIFebruary 1, 2025...</span><span class="citation-popover-meta">Published: February 1, 2025</span></span></span>
-* **Complementary metrics:** Many analysts argue that thresholds should not stand alone but be combined with other indicators — such as performance [evaluations]({{ 'evaluations/' | relative_url }}), [misuse]({{ 'misuse/' | relative_url }}) potential assessments, or fine‑tuning trajectories — to capture risk more comprehensively. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.governance.ai/research-paper/training-compute-thresholds-features-and-functions-in-ai-regulation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governance.ai">[governance.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governance.ai</span><span class="citation-popover-title">training compute thresholds features and functions in ai regulation</span><span class="citation-popover-snippet">Training Compute Thresholds: Features and Functions in AI Regulation | GovAIAugust 7, 2024...</span><span class="citation-popover-meta">Published: August 7, 2024</span></span></span>
+* **Complementary metrics:** Many analysts argue that thresholds should not stand alone but be combined with other indicators — such as performance [evaluations]({{ 'evaluations/' | relative_url }}), [misuse]({{ 'misuse/' | relative_url }}) potential assessments, or fine‑tuning trajectories — to capture risk more comprehensively. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.governance.ai/research-paper/training-compute-thresholds-features-and-functions-in-ai-regulation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governance.ai">[governance.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governance.ai</span><span class="citation-popover-title">training compute thresholds features and functions in ai regulation</span><span class="citation-popover-snippet">Training Compute Thresholds: Features and Functions in AI Regulation &#124; GovAIAugust 7, 2024...</span><span class="citation-popover-meta">Published: August 7, 2024</span></span></span>
 * **Algorithmic efficiency adjustments:** In theory, thresholds could be calibrated not just on raw compute but on **effective compute** that accounts for algorithmic improvements. However, there is no agreed method for such normalisation, and measuring efficiency itself is complex. <span class="citation-chip-wrap"><a class="citation-chip" href="https://law-ai.org/the-role-of-compute-thresholds-for-ai-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law-ai.org">[Institute for Law &amp; AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law-ai.org</span><span class="citation-popover-title">Institute for Law &amp; AIThe Role of Compute Thresholds for AI Governance</span><span class="citation-popover-snippet">Institute for Law &amp; AIFebruary 1, 2025...</span><span class="citation-popover-meta">Published: February 1, 2025</span></span></span>
 
 Taken together, these options illustrate a common theme: thresholds must be **dynamic and contextualised** if they are to remain a meaningful signal of when heightened scrutiny is appropriate.
@@ -322,9 +322,9 @@ Taken together, these options illustrate a common theme: thresholds must be **dy
 
 Within discussions about AI doom and existential risk, the role of compute thresholds as an early warning trigger hinges on their **continuing relevance against a shifting landscape**. History shows that AI progress rarely honours static assumptions: hardware and software innovations continually reshape what is possible with a given resource budget.
 
-If thresholds lag too far behind model capabilities, they risk becoming symbolic rather than practical triggers, failing to capture systems that might exhibit [dangerous]({{ 'autonomy/' | relative_url }}) autonomy or loss of human control. Adaptive mechanisms — regular updates, relative definitions, and hybrid metrics — sharpen thresholds’ ability to highlight projects warranting deeper scrutiny before [deployment]({{ 'release-gates/' | relative_url }}).
+If thresholds lag too far behind model capabilities, they risk becoming symbolic rather than practical triggers, failing to capture systems that might exhibit dangerous [autonomy]({{ 'autonomy/' | relative_url }}) or loss of human control. Adaptive mechanisms — regular updates, relative definitions, and hybrid metrics — sharpen thresholds’ ability to highlight projects warranting deeper scrutiny before deployment.
 
-But importantly, these mechanisms also reveal that thresholds are **a screening tool, not a final arbiter**. They flag candidates for oversight and evaluation, and must be paired with deeper assessments of capability, alignment, and misuse potential to meaningfully contribute to managing existential risk from advanced AI. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.governance.ai/research-paper/training-compute-thresholds-features-and-functions-in-ai-regulation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governance.ai">[governance.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governance.ai</span><span class="citation-popover-title">training compute thresholds features and functions in ai regulation</span><span class="citation-popover-snippet">Training Compute Thresholds: Features and Functions in AI Regulation | GovAIAugust 7, 2024...</span><span class="citation-popover-meta">Published: August 7, 2024</span></span></span>
+But importantly, these mechanisms also reveal that thresholds are **a screening tool, not a final arbiter**. They flag candidates for oversight and evaluation, and must be paired with deeper assessments of capability, alignment, and misuse potential to meaningfully contribute to managing existential risk from advanced AI. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.governance.ai/research-paper/training-compute-thresholds-features-and-functions-in-ai-regulation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governance.ai">[governance.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governance.ai</span><span class="citation-popover-title">training compute thresholds features and functions in ai regulation</span><span class="citation-popover-snippet">Training Compute Thresholds: Features and Functions in AI Regulation &#124; GovAIAugust 7, 2024...</span><span class="citation-popover-meta">Published: August 7, 2024</span></span></span>
 
 In this sense, compute thresholds that evolve along with technical progress are less about “keeping pace” as a static guardrail and more about **feeding continuous safety evaluation pipelines** that evolve as rapidly as the frontier they monitor.
 
@@ -721,57 +721,57 @@ In this sense, compute thresholds that evolve along with technical progress are 
 1. <a id="endnote-1"></a>
    Source: regulations.ai  
    Title: Compute Threshold  
-   Link: [https://regulations.ai/glossary/compute-threshold](https://regulations.ai/glossary/compute-threshold)  
+   Link: <a href="https://regulations.ai/glossary/compute-threshold" target="_blank" rel="noopener noreferrer nofollow">https://regulations.ai/glossary/compute-threshold</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Regulation Glossary | Regulations.ai...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: epoch.ai  
    Title: AIHow many AI models will exceed compute thresholds? | Epoch AI  
-   Link: [https://epoch.ai/publications/model-counts-compute-thresholds](https://epoch.ai/publications/model-counts-compute-thresholds)  
+   Link: <a href="https://epoch.ai/publications/model-counts-compute-thresholds" target="_blank" rel="noopener noreferrer nofollow">https://epoch.ai/publications/model-counts-compute-thresholds</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How many AI models will exceed compute thresholds? | Epoch AI...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv Inference Scaling Reshapes AI Governance  
-   Link: [https://arxiv.org/abs/2503.05705](https://arxiv.org/abs/2503.05705)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivInference Scaling Reshapes AI GovernanceFebruary 12, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2503.05705" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2503.05705</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Inference Scaling Reshapes AI GovernanceFebruary 12, 2025...</p></details>
    Published: February 12, 2025  
 
 4. <a id="endnote-4"></a>
    Source: law-ai.org  
    Title: Institute for Law & AIThe Role of Compute Thresholds for AI Governance  
-   Link: [https://law-ai.org/the-role-of-compute-thresholds-for-ai-governance/](https://law-ai.org/the-role-of-compute-thresholds-for-ai-governance/)  
+   Link: <a href="https://law-ai.org/the-role-of-compute-thresholds-for-ai-governance/" target="_blank" rel="noopener noreferrer nofollow">https://law-ai.org/the-role-of-compute-thresholds-for-ai-governance/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Institute for Law &amp; AIFebruary 1, 2025...</p></details>
    Published: February 1, 2025  
 
 5. <a id="endnote-5"></a>
    Source: governance.ai  
    Title: training compute thresholds features and functions in ai regulation  
-   Link: [https://www.governance.ai/research-paper/training-compute-thresholds-features-and-functions-in-ai-regulation](https://www.governance.ai/research-paper/training-compute-thresholds-features-and-functions-in-ai-regulation)  
+   Link: <a href="https://www.governance.ai/research-paper/training-compute-thresholds-features-and-functions-in-ai-regulation" target="_blank" rel="noopener noreferrer nofollow">https://www.governance.ai/research-paper/training-compute-thresholds-features-and-functions-in-ai-regulation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Training Compute Thresholds: Features and Functions in AI Regulation | GovAIAugust 7, 2024...</p></details>
    Published: August 7, 2024  
 
 6. <a id="endnote-6"></a>
    Source: blog.heim.xyz  
    Title: training compute thresholds  
-   Link: [https://blog.heim.xyz/training-compute-thresholds/](https://blog.heim.xyz/training-compute-thresholds/)  
+   Link: <a href="https://blog.heim.xyz/training-compute-thresholds/" target="_blank" rel="noopener noreferrer nofollow">https://blog.heim.xyz/training-compute-thresholds/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Compute Thresholds — Features and Functions in AI RegulationApril 6, 2024 — TRAINING COMPUTE THRESHOLDS — FEATURES AND FUNCTIONS IN AI RE...</p></details>
    Published: April 6, 2024  
 
 7. <a id="endnote-7"></a>
    Source: regulations.ai  
    Title: Compute Governance  
-   Link: [https://regulations.ai/glossary/compute-governance](https://regulations.ai/glossary/compute-governance)  
+   Link: <a href="https://regulations.ai/glossary/compute-governance" target="_blank" rel="noopener noreferrer nofollow">https://regulations.ai/glossary/compute-governance</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>DEFINITION Compute Governance refers to regulatory and policy approaches that lev...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: aisecurityandsafety.org  
-   Link: [https://aisecurityandsafety.org/en/glossary/compute-threshold/](https://aisecurityandsafety.org/en/glossary/compute-threshold/)  
+   Link: <a href="https://aisecurityandsafety.org/en/glossary/compute-threshold/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/en/glossary/compute-threshold/</a>  
 
 9. <a id="endnote-9"></a>
    Source: longtermwiki.com  
    Title: Compute Thresholds | Longterm Wiki  
-   Link: [https://www.longtermwiki.com/wiki/thresholds](https://www.longtermwiki.com/wiki/thresholds)  
+   Link: <a href="https://www.longtermwiki.com/wiki/thresholds" target="_blank" rel="noopener noreferrer nofollow">https://www.longtermwiki.com/wiki/thresholds</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 30, 2026 — COMPUTE THRESHOLDS Concept COMPUTE THRESHOLDS Comprehensive analysis of compute thresholds (EU: 10^25 FLOP, US: 10^26...</p></details>
    Published: January 30, 2026  
 
@@ -779,62 +779,62 @@ In this sense, compute thresholds that evolve along with technical progress are 
 
 10. <a id="endnote-10"></a>
    Source: themoonlight.io  
-   Link: [https://www.themoonlight.io/en/review/training-compute-thresholds-features-and-functions-in-ai-regulation](https://www.themoonlight.io/en/review/training-compute-thresholds-features-and-functions-in-ai-regulation)  
+   Link: <a href="https://www.themoonlight.io/en/review/training-compute-thresholds-features-and-functions-in-ai-regulation" target="_blank" rel="noopener noreferrer nofollow">https://www.themoonlight.io/en/review/training-compute-thresholds-features-and-functions-in-ai-regulation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FEATURES AND FUNCTIONS IN AI REGULATION Here&#x27;s a detailed breakdown of the paper, including the core methodology in more technical terms...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: aimodels.fyi  
-   Link: [https://www.aimodels.fyi/papers/arxiv/training-compute-thresholds-features-functions-ai-regulation](https://www.aimodels.fyi/papers/arxiv/training-compute-thresholds-features-functions-ai-regulation)  
+   Link: <a href="https://www.aimodels.fyi/papers/arxiv/training-compute-thresholds-features-functions-ai-regulation" target="_blank" rel="noopener noreferrer nofollow">https://www.aimodels.fyi/papers/arxiv/training-compute-thresholds-features-functions-ai-regulation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TRAINING COMPUTE THRESHOLDS: FEATURES AND FUNCTIONS IN AI GOVERNANCE Published 8/7/2024 by Lennart Heim, Leonie Koessler OVERVIEW * The...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: cset.georgetown.edu  
    Title: If the paradigm of AI development of recent years continues, novel capabilities  
-   Link: [https://cset.georgetown.edu/article/regulating-the-ai-frontier-design-choices-and-constraints/](https://cset.georgetown.edu/article/regulating-the-ai-frontier-design-choices-and-constraints/)  
+   Link: <a href="https://cset.georgetown.edu/article/regulating-the-ai-frontier-design-choices-and-constraints/" target="_blank" rel="noopener noreferrer nofollow">https://cset.georgetown.edu/article/regulating-the-ai-frontier-design-choices-and-constraints/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the AI Frontier: Design Choices and Constraints | Center for Security and Emerging TechnologyOctober 26, 2023 — COMPUTE THRESHOLDS COULD...</p></details>
    Published: October 26, 2023  
 
 13. <a id="endnote-13"></a>
    Source: fenwick.com  
    Title: Technological Challenges for Regulatory Thresholds of AI… | Fenwick  
-   Link: [https://www.fenwick.com/insights/publications/interesting-developments-for-regulatory-thresholds-of-ai-compute](https://www.fenwick.com/insights/publications/interesting-developments-for-regulatory-thresholds-of-ai-compute)  
+   Link: <a href="https://www.fenwick.com/insights/publications/interesting-developments-for-regulatory-thresholds-of-ai-compute" target="_blank" rel="noopener noreferrer nofollow">https://www.fenwick.com/insights/publications/interesting-developments-for-regulatory-thresholds-of-ai-compute</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>June 20, 2024 — JUNE 20, 2024 TECHNOLOGICAL CHALLENGES FOR REGULATORY THRESHOLDS OF [AI COMPUTE](&amp;#123;&amp;#123; &#x27;compute-kyc/&#x27; | relative_url &amp;#125;&amp;#125;) By: Zach Harned WHAT YOU NEED TO KNOW * Ge...</p></details>
    Published: June 20, 2024  
 
 14. <a id="endnote-14"></a>
    Source: axi.lims.ac.uk  
-   Link: [https://axi.lims.ac.uk/paper/2405.10799](https://axi.lims.ac.uk/paper/2405.10799)  
+   Link: <a href="https://axi.lims.ac.uk/paper/2405.10799" target="_blank" rel="noopener noreferrer nofollow">https://axi.lims.ac.uk/paper/2405.10799</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Compute Thresholds: Features an...May 17, 2024 — ID: 2405.10799 ID: 2405.10799 Search TRAINING COMPUTE THRESHOLDS: FEATURES AND FUNCTIONS...</p></details>
    Published: May 17, 2024  
 
 15. <a id="endnote-15"></a>
    Source: emergentmind.com  
    Title: Limitations of Compute Thresholds in AI Governance  
-   Link: [https://www.emergentmind.com/articles/2407.05694](https://www.emergentmind.com/articles/2407.05694)  
+   Link: <a href="https://www.emergentmind.com/articles/2407.05694" target="_blank" rel="noopener noreferrer nofollow">https://www.emergentmind.com/articles/2407.05694</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>July 8, 2024 — ON THE LIMITATIONS OF COMPUTE THRESHOLDS AS A GOVERNANCE STRATEGY Published 8 Jul 2024 in cs.AI, cs.CL, cs.ET, and cs.LG |...</p></details>
    Published: July 8, 2024  
 
 16. <a id="endnote-16"></a>
    Source: emergentmind.com  
    Title: Compute Thresholds in AI and Beyond  
-   Link: [https://www.emergentmind.com/topics/compute-thresholds](https://www.emergentmind.com/topics/compute-thresholds)  
+   Link: <a href="https://www.emergentmind.com/topics/compute-thresholds" target="_blank" rel="noopener noreferrer nofollow">https://www.emergentmind.com/topics/compute-thresholds</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>January 11, 2026 — COMPUTE THRESHOLDS IN AI AND BEYOND Updated 11 January 2026 * Compute thresholds are quantitative limits defined by op...</p></details>
    Published: January 11, 2026  
 
 17. <a id="endnote-17"></a>
    Source: aisecurityandsafety.org  
    Title: compute governance  
-   Link: [https://aisecurityandsafety.org/en/guides/compute-governance/](https://aisecurityandsafety.org/en/guides/compute-governance/)  
+   Link: <a href="https://aisecurityandsafety.org/en/guides/compute-governance/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/en/guides/compute-governance/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Controlling AI Through Hardware &amp; Compute Access (2026) | AI Safety DirectoryApril 3, 2026 — COMPUTE GOVERNANCE: CONTROLLING AI THROUGH H...</p></details>
    Published: April 3, 2026  
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=FOHtGeUjgZY](https://www.youtube.com/watch?v=FOHtGeUjgZY)  
+   Link: <a href="https://www.youtube.com/watch?v=FOHtGeUjgZY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FOHtGeUjgZY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lennart Heim: Governing the bottleneck of AI...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: ai-safety-atlas.com  
    Title: Compute Governance  
-   Link: [https://ai-safety-atlas.com/chapters/v1/governance/compute-governance](https://ai-safety-atlas.com/chapters/v1/governance/compute-governance)  
+   Link: <a href="https://ai-safety-atlas.com/chapters/v1/governance/compute-governance" target="_blank" rel="noopener noreferrer nofollow">https://ai-safety-atlas.com/chapters/v1/governance/compute-governance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The most reliable is energy consumption - training runs that...</p></details>

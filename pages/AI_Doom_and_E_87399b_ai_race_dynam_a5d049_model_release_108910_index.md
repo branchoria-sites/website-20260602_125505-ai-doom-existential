@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-ai-race-dynam/
 description: Focused pages that expand on Release Races.
-date: '2026-06-02'
+date: '2026-06-10'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_ai_race_dynam_a5d049_model_release_108910
 parent_title: Release Races | Race Pressure
@@ -18,6 +18,6 @@ parent_permalink: /release-races/
 
 The following pages expand on the main **[Release Races]({{ '/release-races/' | relative_url }})** page and cover its key branches in more detail.
 
-- [OpenAI case]({{ '/openai-case/' | relative_url }})
+- [Open AI case]({{ '/open-ai-case/' | relative_url }})
 - [Missed risks]({{ '/missed-risks/' | relative_url }})
 - [Scaling rules]({{ '/scaling-rules/' | relative_url }})

@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_interpretabil_15527d_mechanistic_h_cf3b0e_hidden_goal_d_69f397
 - AI_Doom_and_E_87399b_interpretabil_15527d_mechanistic_h_cf3b0e_interpretabil_17e0f4
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - control-tools
 - hidden-goals
 - hidden-objective-methods
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - control-tools
 - hidden-goals
 - hidden-objective-methods
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Explores how techniques like activation patching and feature extraction attempt to expose latent AI goals before they affect behaviour.
 hero_summary: Explores how techniques like activation patching and feature extraction attempt to expose latent AI goals before they affect behaviour.
 layout: default
 permalink: /hidden-objective-methods/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /control-tools/
 - /hidden-goals/
 nav_short_title: Hidden Objective Methods
@@ -211,10 +211,10 @@ parent_heading_title: Can We Detect Hidden Goals Inside Advanced AI?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_interpretabil_15527d
-  title: Control Tools | AI Doom and
+  title: Control Tools | AI Doom and E 87399 b
   permalink: /control-tools/
   short_title: Control Tools
   heading_title: Can We Make Advanced AI Understandable?
@@ -226,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_interpretabil_15527d
-  title: Control Tools | AI Doom and
+  title: Control Tools | AI Doom and E 87399 b
   permalink: /control-tools/
   short_title: Control Tools
   heading_title: Can We Make Advanced AI Understandable?
@@ -275,17 +275,17 @@ image: /assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_mechanistic_h_cf
 
 ## Introduction
 
-If advanced AI systems ever develop objectives that differ from the goals humans intended, one of the most important safety questions is whether those objectives can be detected before they influence behaviour. In [AI doom and]({{ 'ai-doom-and/' | relative_url }}) existential-risk discussions, this concern appears in debates about deceptive alignment, hidden goals, and [loss of control]({{ 'loss-of-control/' | relative_url }}). The challenge is that a model may know, plan, or represent something internally without openly expressing it.
+If advanced AI systems ever develop objectives that differ from the goals humans intended, one of the most important safety questions is whether those objectives can be detected before they influence behaviour. In AI doom and existential-risk discussions, this concern appears in debates about deceptive alignment, [hidden goals]({{ 'hidden-goals/' | relative_url }}), and [loss of control]({{ 'loss-of-control/' | relative_url }}). The challenge is that a model may know, plan, or represent something internally without openly expressing it.
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_mechanistic_h_cf3b0e_mechanistic_h_0757ae-Illustration-1-dark.svg" | relative_url }}" alt="Hidden Objective Methods illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_mechanistic_h_cf3b0e_mechanistic_h_0757ae-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_mechanistic_h_cf3b0e_mechanistic_h_0757ae-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Mechanistic [interpretability]({{ 'interpretability/' | relative_url }}) researchers are attempting to address this problem by examining the internal computations of neural networks directly. Rather than asking only what a model says, they ask what information is represented inside it, which internal components cause particular behaviours, and whether latent objectives can be identified before [deployment]({{ 'release-gates/' | relative_url }}). Techniques such as activation patching, causal probing, sparse autoencoders, and latent-knowledge elicitation frameworks are among the leading attempts to reveal hidden objectives or hidden knowledge inside advanced AI systems. While these methods remain immature, they represent one of the most direct efforts to inspect the internal machinery that might eventually generate dangerous behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://leonardbereska.github.io/blog/2024/mechinterpreview/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leonardbereska.github.io">[Leonard F. Bereska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leonardbereska.github.io</span><span class="citation-popover-title">Leonard F</span><span class="citation-popover-snippet">BereskaMechanistic Interpretability for AI Safety — A Review10 Jul 2024 — This review explores mechanistic interpretability: reverse engi...</span></span></span>
+Mechanistic [interpretability]({{ 'interpretability/' | relative_url }}) researchers are attempting to address this problem by examining the internal computations of neural networks directly. Rather than asking only what a model says, they ask what information is represented inside it, which internal components cause particular behaviours, and whether latent objectives can be identified before deployment. Techniques such as activation patching, causal probing, sparse autoencoders, and latent-knowledge elicitation frameworks are among the leading attempts to reveal hidden objectives or hidden knowledge inside advanced AI systems. While these methods remain immature, they represent one of the most direct efforts to inspect the internal machinery that might eventually generate dangerous behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://leonardbereska.github.io/blog/2024/mechinterpreview/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leonardbereska.github.io">[Leonard F. Bereska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leonardbereska.github.io</span><span class="citation-popover-title">Leonard F</span><span class="citation-popover-snippet">BereskaMechanistic Interpretability for AI Safety — A Review10 Jul 2024 — This review explores mechanistic interpretability: reverse engi...</span></span></span>
 
 ## Why Hidden Objectives Are Difficult to Detect
 
 A central concern in AI safety is that behaviour alone may not reveal everything a model knows or wants. A system might produce safe-looking outputs during testing while internally representing information, strategies, or preferences that are not immediately visible.
 
-This possibility motivates the distinction between observing outputs and understanding mechanisms. Behavioural [evaluations]({{ 'evaluations/' | relative_url }}) can show whether a model currently acts safely, but they may fail to reveal why it acts that way. Mechanistic methods seek evidence of the underlying computations themselves. The hope is that if a model develops representations related to self-preservation, deception, power-seeking, or other potentially [dangerous]({{ 'autonomy/' | relative_url }}) objectives, researchers might detect those representations before they are expressed in behaviour. However, whether current methods can achieve that goal remains an open question. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://leonardbereska.github.io/blog/2024/mechinterpreview/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leonardbereska.github.io">[Leonard F. Bereska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leonardbereska.github.io</span><span class="citation-popover-title">Leonard F</span><span class="citation-popover-snippet">BereskaMechanistic Interpretability for AI Safety — A Review10 Jul 2024 — This review explores mechanistic interpretability: reverse engi...</span></span></span>
+This possibility motivates the distinction between observing outputs and understanding mechanisms. Behavioural [evaluations]({{ 'evaluations/' | relative_url }}) can show whether a model currently acts safely, but they may fail to reveal why it acts that way. Mechanistic methods seek evidence of the underlying computations themselves. The hope is that if a model develops representations related to self-preservation, deception, power-seeking, or other potentially dangerous objectives, researchers might detect those representations before they are expressed in behaviour. However, whether current methods can achieve that goal remains an open question. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://leonardbereska.github.io/blog/2024/mechinterpreview/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leonardbereska.github.io">[Leonard F. Bereska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leonardbereska.github.io</span><span class="citation-popover-title">Leonard F</span><span class="citation-popover-snippet">BereskaMechanistic Interpretability for AI Safety — A Review10 Jul 2024 — This review explores mechanistic interpretability: reverse engi...</span></span></span>
 
 ## Activation Patching and Causal Probing
 
@@ -314,7 +314,7 @@ Sparse autoencoders (SAEs) were developed as a way to untangle these overlapping
 
 ### Finding interpretable concepts
 
-Recent work has shown that sparse autoencoders can identify large numbers of human-recognisable features inside language models. Anthropic researchers reported finding millions of features in Claude models, ranging from concrete objects and locations to more abstract concepts. Their work suggests that at least some internal representations can be extracted and studied systematically. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/research/mapping-mind-language-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-snippet">AnthropicMapping the Mind of a Large Language ModelMay 21, 2024 — This is the first ever detailed look inside a modern, production-grade...</span><span class="citation-popover-meta">Published: May 21, 2024</span></span></span>
+Recent work has shown that sparse autoencoders can identify large numbers of human-recognisable features inside language models. Anthropic researchers reported finding millions of features in Claude models, ranging from concrete objects and locations to more abstract concepts. Their work suggests that at least some internal representations can be extracted and studied systematically. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/research/mapping-mind-language-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-snippet">Mapping the Mind of a Large Language ModelMay 21, 2024 — This is the first ever detailed look inside a modern, production-grade...</span><span class="citation-popover-meta">Published: May 21, 2024</span></span></span>
 
 For AI safety researchers, the attraction is obvious. If hidden objectives are represented internally, then feature extraction might eventually reveal components corresponding to planning, reward-seeking, deception, or other strategically important concepts. In principle, researchers could monitor those features, study how they interact, or even modify them.
 
@@ -330,7 +330,7 @@ Anthropic's "Mapping the Mind of a Large Language Model" project is one of the m
 
 One of the most important distinctions in this field is the difference between hidden goals and hidden knowledge. A model may possess information internally while failing to reveal it in its outputs.
 
-This problem inspired the broader "Eliciting Latent Knowledge" (ELK) research agenda. The core question is whether a model can know something internally while producing answers that obscure or contradict that knowledge. If so, a safety evaluator might receive reassuring outputs even though the model's internal representations contain more concerning information. This issue is especially relevant to discussions of deceptive alignment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openreview.net/pdf/ea3c9a4135caad87031d3e445a80d0452f83da5d.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openreview.net">[OpenReview]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openreview.net</span><span class="citation-popover-snippet">OpenReviewMechanistic Interpretability for AI Safety A ReviewMechanistic interpretability is a bottom-up approach that studies the fundam...</span></span></span>
+This problem inspired the broader "Eliciting Latent Knowledge" (ELK) research agenda. The core question is whether a model can know something internally while producing answers that obscure or contradict that knowledge. If so, a safety evaluator might receive reassuring outputs even though the model's internal representations contain more concerning information. This issue is especially relevant to discussions of deceptive alignment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openreview.net/pdf/ea3c9a4135caad87031d3e445a80d0452f83da5d.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openreview.net">[OpenReview]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openreview.net</span><span class="citation-popover-snippet">Mechanistic Interpretability for AI Safety A ReviewMechanistic interpretability is a bottom-up approach that studies the fundam...</span></span></span>
 
 Recent frameworks attempt to combine mechanistic interpretability with latent-knowledge extraction. One example is MechELK, which uses sparse autoencoders, activation patching, causal verification, and representation engineering to identify and extract information that appears to exist inside a model but is not faithfully expressed in its outputs. The framework was explicitly designed to bridge the gap between understanding internal representations and eliciting hidden knowledge relevant to safety evaluations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2404.15255v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">How to use and interpret activation patching23 Apr 2024 — Activation patching is a popular mechanistic interpretability technique, but ha...</span></span></span>
 
@@ -740,126 +740,126 @@ The most optimistic view is that future interpretability tools could function li
 1. <a id="endnote-1"></a>
    Source: leonardbereska.github.io  
    Title: Leonard F  
-   Link: [https://leonardbereska.github.io/blog/2024/mechinterpreview/](https://leonardbereska.github.io/blog/2024/mechinterpreview/)  
+   Link: <a href="https://leonardbereska.github.io/blog/2024/mechinterpreview/" target="_blank" rel="noopener noreferrer nofollow">https://leonardbereska.github.io/blog/2024/mechinterpreview/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>BereskaMechanistic Interpretability for AI Safety — A Review10 Jul 2024 — This review explores mechanistic interpretability: reverse engi...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: openreview.net  
-   Link: [https://openreview.net/pdf/ea3c9a4135caad87031d3e445a80d0452f83da5d.pdf](https://openreview.net/pdf/ea3c9a4135caad87031d3e445a80d0452f83da5d.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OpenReviewMechanistic Interpretability for AI Safety A ReviewMechanistic interpretability is a bottom-up approach that studies the fundam...</p></details>
+   Link: <a href="https://openreview.net/pdf/ea3c9a4135caad87031d3e445a80d0452f83da5d.pdf" target="_blank" rel="noopener noreferrer nofollow">https://openreview.net/pdf/ea3c9a4135caad87031d3e445a80d0452f83da5d.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanistic Interpretability for AI Safety A ReviewMechanistic interpretability is a bottom-up approach that studies the fundam...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2404.15255v1](https://arxiv.org/html/2404.15255v1)  
+   Link: <a href="https://arxiv.org/html/2404.15255v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2404.15255v1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to use and interpret activation patching23 Apr 2024 — Activation patching is a popular mechanistic interpretability technique, but ha...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2309.08600](https://arxiv.org/abs/2309.08600)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivSparse Autoencoders Find Highly Interpretable Features in...September 15, 2023 — by H Cunningham · 2023 · Cited by 1007 — Here, we...</p></details>
+   Link: <a href="https://arxiv.org/abs/2309.08600" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2309.08600</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sparse Autoencoders Find Highly Interpretable Features in...September 15, 2023 — by H Cunningham · 2023 · Cited by 1007 — Here, we...</p></details>
    Published: September 15, 2023  
 
 5. <a id="endnote-5"></a>
    Source: openreview.net  
-   Link: [https://openreview.net/forum?id=F76bwRSLeK](https://openreview.net/forum?id=F76bwRSLeK)  
+   Link: <a href="https://openreview.net/forum?id=F76bwRSLeK" target="_blank" rel="noopener noreferrer nofollow">https://openreview.net/forum?id=F76bwRSLeK</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sparse Autoencoders Find Highly Interpretable Features in...by R Huben · Cited by 116 — We use a scalable and unsupervised method called...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: anthropic.com  
-   Link: [https://www.anthropic.com/research/mapping-mind-language-model](https://www.anthropic.com/research/mapping-mind-language-model)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AnthropicMapping the Mind of a Large Language ModelMay 21, 2024 — This is the first ever detailed look inside a modern, production-grade...</p></details>
+   Link: <a href="https://www.anthropic.com/research/mapping-mind-language-model" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/research/mapping-mind-language-model</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mapping the Mind of a Large Language ModelMay 21, 2024 — This is the first ever detailed look inside a modern, production-grade...</p></details>
    Published: May 21, 2024  
 
 7. <a id="endnote-7"></a>
    Source: transformer-circuits.pub  
-   Link: [https://transformer-circuits.pub/2024/scaling-monosemanticity/](https://transformer-circuits.pub/2024/scaling-monosemanticity/)  
+   Link: <a href="https://transformer-circuits.pub/2024/scaling-monosemanticity/" target="_blank" rel="noopener noreferrer nofollow">https://transformer-circuits.pub/2024/scaling-monosemanticity/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Extracting Interpretable Features from Claude 3 SonnetMay 21, 2024 — Sparse autoencoders produce interpretable features for large models...</p></details>
    Published: May 21, 2024  
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2605.28825v1](https://arxiv.org/html/2605.28825v1)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivA Mechanistic Interpretability Framework for Eliciting Latent...7 Apr 2026 — We present MechELK, a unified three-stage framework th...</p></details>
+   Link: <a href="https://arxiv.org/html/2605.28825v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2605.28825v1</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Mechanistic Interpretability Framework for Eliciting Latent...7 Apr 2026 — We present MechELK, a unified three-stage framework th...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2605.28825](https://arxiv.org/abs/2605.28825)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivMechELK: A Mechanistic Interpretability Framework for Eliciting Latent Knowledge in Large Language ModelsApril 7, 2026...</p></details>
+   Link: <a href="https://arxiv.org/abs/2605.28825" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.28825</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>MechELK: A Mechanistic Interpretability Framework for Eliciting Latent Knowledge in Large Language ModelsApril 7, 2026...</p></details>
    Published: April 7, 2026  
 
 10. <a id="endnote-10"></a>
    Source: transformer-circuits.pub  
-   Link: [https://transformer-circuits.pub/2025/attribution-graphs/methods.html](https://transformer-circuits.pub/2025/attribution-graphs/methods.html)  
+   Link: <a href="https://transformer-circuits.pub/2025/attribution-graphs/methods.html" target="_blank" rel="noopener noreferrer nofollow">https://transformer-circuits.pub/2025/attribution-graphs/methods.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Circuit Tracing: Revealing Computational Graphs in...27 Mar 2025 — The field of mechanistic interpretability seeks to describe these tra...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: anthropic.com  
    Title: Natural Language Autoencoders  
-   Link: [https://www.anthropic.com/research/natural-language-autoencoders](https://www.anthropic.com/research/natural-language-autoencoders)  
+   Link: <a href="https://www.anthropic.com/research/natural-language-autoencoders" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/research/natural-language-autoencoders</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 7, 2026 — Natural Language Autoencoders: Turning Claude&#x27;s thoughts into text... When you talk to an AI model like Claude, you talk t...</p></details>
    Published: May 7, 2026  
 
 12. <a id="endnote-12"></a>
    Source: anthropic.com  
    Title: tracing thoughts language model  
-   Link: [https://www.anthropic.com/research/tracing-thoughts-language-model](https://www.anthropic.com/research/tracing-thoughts-language-model)  
+   Link: <a href="https://www.anthropic.com/research/tracing-thoughts-language-model" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/research/tracing-thoughts-language-model</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tracing the thoughts of a large language modelMar 27, 2025 — Anthropic&#x27;s latest interpretability research: a new microscope to understand...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: learnmechinterp.com  
    Title: Learn Mechanistic Interpretability Glossary  
-   Link: [https://learnmechinterp.com/glossary/](https://learnmechinterp.com/glossary/)  
+   Link: <a href="https://learnmechinterp.com/glossary/" target="_blank" rel="noopener noreferrer nofollow">https://learnmechinterp.com/glossary/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanistic Interpretability: A subfield of AI safety research focused on reverse-engineering the internal computations of neural network...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: neelnanda.io  
-   Link: [https://www.neelnanda.io/mechanistic-interpretability/attribution-patching](https://www.neelnanda.io/mechanistic-interpretability/attribution-patching)  
+   Link: <a href="https://www.neelnanda.io/mechanistic-interpretability/attribution-patching" target="_blank" rel="noopener noreferrer nofollow">https://www.neelnanda.io/mechanistic-interpretability/attribution-patching</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Neel NandaAttribution Patching: Activation Patching At Industrial Scale4 Feb 2026 — Activation patching (aka causal tracing) is one of my...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: learnmechinterp.com  
-   Link: [https://learnmechinterp.com/topics/activation-patching/](https://learnmechinterp.com/topics/activation-patching/)  
+   Link: <a href="https://learnmechinterp.com/topics/activation-patching/" target="_blank" rel="noopener noreferrer nofollow">https://learnmechinterp.com/topics/activation-patching/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The logit lens shows what a model would predict if processing stopped at a given layer.Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Anthropic](https://en.wikipedia.org/wiki/Anthropic)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AnthropicAnthropic is an American [artificial](&amp;#123;&amp;#123; &#x27;artificial-goals/&#x27; | relative_url &amp;#125;&amp;#125;) intelligence (AI) company headquartered in San Francisco. It has developed a range of lar...</p></details>
+   Link: <a href="https://en.wikipedia.org/wiki/Anthropic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anthropic</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AnthropicAnthropic is an American artificial intelligence (AI) company headquartered in San Francisco. It has developed a range of lar...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: anthropic.skilljar.com  
-   Link: [https://anthropic.skilljar.com/](https://anthropic.skilljar.com/)  
+   Link: <a href="https://anthropic.skilljar.com/" target="_blank" rel="noopener noreferrer nofollow">https://anthropic.skilljar.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CoursesThis course empowers students to develop AI Fluency skills that enhance learning, career planning, and academic success through re...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/slatestarcodex/comments/1cyicgw/anthropic_mapping_the_mind_of_a_large_language/](https://www.reddit.com/r/slatestarcodex/comments/1cyicgw/anthropic_mapping_the_mind_of_a_large_language/)  
+   Link: <a href="https://www.reddit.com/r/slatestarcodex/comments/1cyicgw/anthropic_mapping_the_mind_of_a_large_language/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/slatestarcodex/comments/1cyicgw/anthropic_mapping_the_mind_of_a_large_language/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic: Mapping the Mind of a Large Language ModelThis is the first ever detailed look inside a modern, production-grade large languag...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: podcasts.apple.com  
-   Link: [https://podcasts.apple.com/lk/podcast/neel-nanda-mechanistic-interpretability-sparse-autoencoders/id1510472996?i=1000679600572](https://podcasts.apple.com/lk/podcast/neel-nanda-mechanistic-interpretability-sparse-autoencoders/id1510472996?i=1000679600572)  
+   Link: <a href="https://podcasts.apple.com/lk/podcast/neel-nanda-mechanistic-interpretability-sparse-autoencoders/id1510472996?i=1000679600572" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/lk/podcast/neel-nanda-mechanistic-interpretability-sparse-autoencoders/id1510472996?i=1000679600572</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NEEL NANDA... [01:14:26] 4.4 Mechanistic Interpretability and Activation Patching.Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: galileo.ai  
    Title: anthropic ai interpretability breakthrough  
-   Link: [https://galileo.ai/blog/anthropic-ai-interpretability-breakthrough](https://galileo.ai/blog/anthropic-ai-interpretability-breakthrough)  
+   Link: <a href="https://galileo.ai/blog/anthropic-ai-interpretability-breakthrough" target="_blank" rel="noopener noreferrer nofollow">https://galileo.ai/blog/anthropic-ai-interpretability-breakthrough</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Anthropic Made AI 70% More InterpretableAug 1, 2025 — Discover Anthropic&#x27;s breakthrough: sparse autoencoders make AI 70% interpretabl...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=yG3TxLPO_Uc](https://www.youtube.com/watch?v=yG3TxLPO_Uc)  
+   Link: <a href="https://www.youtube.com/watch?v=yG3TxLPO_Uc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yG3TxLPO_Uc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Neel Nanda: Mechanistic Intepretability (HAAISS 2024)Neel Nanda presents a comprehensive overview of mechanistic interpretability in AI...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: arstechnica.com  
    Title: Anthropic’s $1.5B copyright settlement is getting messy as judge delays approval  
-   Link: [https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/](https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/)  
+   Link: <a href="https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/</a>  
 
 23. <a id="endnote-23"></a>
    Source: dblp.org  
-   Link: [https://dblp.org/pid/285/6389](https://dblp.org/pid/285/6389)  
+   Link: <a href="https://dblp.org/pid/285/6389" target="_blank" rel="noopener noreferrer nofollow">https://dblp.org/pid/285/6389</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Neel Nanda2 May 2026 — Stefan Heimersheim, Neel Nanda: How to use and interpret activation patching.Read more...</p></details>
    Published: May 2026  
 
@@ -867,52 +867,52 @@ The most optimistic view is that future interpretability tools could function li
 
 24. <a id="endnote-24"></a>
    Source: activationideas.com  
-   Link: [https://activationideas.com/](https://activationideas.com/)  
+   Link: <a href="https://activationideas.com/" target="_blank" rel="noopener noreferrer nofollow">https://activationideas.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Activation IdeasThe most inspiring creative commerce, brand experience &amp; activation ideas from around the world to help you stay in the k...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/current-state-mechanistic-interpretability-dcypher-ai-9ldue](https://www.linkedin.com/pulse/current-state-mechanistic-interpretability-dcypher-ai-9ldue)  
+   Link: <a href="https://www.linkedin.com/pulse/current-state-mechanistic-interpretability-dcypher-ai-9ldue" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/current-state-mechanistic-interpretability-dcypher-ai-9ldue</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Current State of Mechanistic InterpretabilitySparse autoencoders encourage the model to use only a small number of features to repres...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/MachineLearning/comments/1chsg42/p_i_reproduced_anthropics_recent_interpretability/](https://www.reddit.com/r/MachineLearning/comments/1chsg42/p_i_reproduced_anthropics_recent_interpretability/)  
+   Link: <a href="https://www.reddit.com/r/MachineLearning/comments/1chsg42/p_i_reproduced_anthropics_recent_interpretability/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/MachineLearning/comments/1chsg42/p_i_reproduced_anthropics_recent_interpretability/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[P] I reproduced Anthropic&#x27;s recent interpretability researchThe basic idea is that they found a way to train a sparse autoencoder to gen...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=fkW0bGnbDkQ](https://www.youtube.com/watch?v=fkW0bGnbDkQ)  
+   Link: <a href="https://www.youtube.com/watch?v=fkW0bGnbDkQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fkW0bGnbDkQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LLM Interpretability: Exploring the Latest Research from...Join us as we discuss the latest research from OpenAI and Anthropic. We&#x27;re ex...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: activision.com  
-   Link: [https://www.activision.com/](https://www.activision.com/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Activision | HomeActivision is the leading worldwide developer, publisher and distributor of interactive entertainment and products on co...</p></details>
+   Link: <a href="https://www.activision.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.activision.com/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>HomeActivision is the leading worldwide developer, publisher and distributor of interactive entertainment and products on co...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: arize.com  
    Title: llm interpretability and sparse autoencoders openai anthropic  
-   Link: [https://arize.com/blog/llm-interpretability-and-sparse-autoencoders-openai-anthropic/](https://arize.com/blog/llm-interpretability-and-sparse-autoencoders-openai-anthropic/)  
+   Link: <a href="https://arize.com/blog/llm-interpretability-and-sparse-autoencoders-openai-anthropic/" target="_blank" rel="noopener noreferrer nofollow">https://arize.com/blog/llm-interpretability-and-sparse-autoencoders-openai-anthropic/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LLM Interpretability and Sparse AutoencodersJun 14, 2024 — One approach that Open AI and anthropic have taken is using these sparse autoe...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: support.microsoft.com  
    Title: activate windows c39005d4 95ee b91e b399 2820fda32227  
-   Link: [https://support.microsoft.com/en-us/windows/activate-windows-c39005d4-95ee-b91e-b399-2820fda32227](https://support.microsoft.com/en-us/windows/activate-windows-c39005d4-95ee-b91e-b399-2820fda32227)  
+   Link: <a href="https://support.microsoft.com/en-us/windows/activate-windows-c39005d4-95ee-b91e-b399-2820fda32227" target="_blank" rel="noopener noreferrer nofollow">https://support.microsoft.com/en-us/windows/activate-windows-c39005d4-95ee-b91e-b399-2820fda32227</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WindowsActivation is a technical process that pairs the product key or digital entitlement with the hardware configuration of the device...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: medium.com  
-   Link: [https://medium.com/data-science/deep-dive-into-anthropics-sparse-autoencoders-by-hand-%EF%B8%8F-eebe0ef59709](https://medium.com/data-science/deep-dive-into-anthropics-sparse-autoencoders-by-hand-%EF%B8%8F-eebe0ef59709)  
+   Link: <a href="https://medium.com/data-science/deep-dive-into-anthropics-sparse-autoencoders-by-hand-%EF%B8%8F-eebe0ef59709" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/data-science/deep-dive-into-anthropics-sparse-autoencoders-by-hand-%EF%B8%8F-eebe0ef59709</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>m complex data thus enhancing the simplicity and interpretability...Read more...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: github.com  
-   Link: [https://github.com/gauravfs-14/awesome-mechanistic-interpretability](https://github.com/gauravfs-14/awesome-mechanistic-interpretability)  
+   Link: <a href="https://github.com/gauravfs-14/awesome-mechanistic-interpretability" target="_blank" rel="noopener noreferrer nofollow">https://github.com/gauravfs-14/awesome-mechanistic-interpretability</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>papers, and other essential resources focused on Mechanistic...Read more...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: papers.cool  
-   Link: [https://papers.cool/arxiv/2605.25225](https://papers.cool/arxiv/2605.25225)  
+   Link: <a href="https://papers.cool/arxiv/2605.25225" target="_blank" rel="noopener noreferrer nofollow">https://papers.cool/arxiv/2605.25225</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>l tracing, path patching, and steering directions to reveal behaviorally...</p></details>

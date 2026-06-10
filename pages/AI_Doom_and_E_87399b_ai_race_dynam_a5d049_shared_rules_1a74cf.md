@@ -12,21 +12,21 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1
 - AI_Doom_and_E_87399b_ai_race_dynam_a5d049_model_release_108910
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - race-pressure
 - shared-rules
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - race-pressure
 - shared-rules
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Common safety thresholds, testing regimes, and transparent reporting can make caution less costly for each lab or country.
 hero_summary: Common safety thresholds, testing regimes, and transparent reporting can make caution less costly for each lab or country.
 layout: default
 permalink: /shared-rules/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /race-pressure/
 nav_short_title: Shared Rules
 title: How Shared Rules Could Slow the Race
@@ -213,20 +213,20 @@ parent_heading_title: Why AI Races Can Make Safety Harder
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_ai_race_dynam_a5d049
-  title: Race Pressure | AI Doom and
+  title: Race Pressure | AI Doom and E 87399 b
   permalink: /race-pressure/
   short_title: Race Pressure
   heading_title: Why AI Races Can Make Safety Harder
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_ai_race_dynam_a5d049
-  title: Race Pressure | AI Doom and
+  title: Race Pressure | AI Doom and E 87399 b
   permalink: /race-pressure/
   short_title: Race Pressure
   heading_title: Why AI Races Can Make Safety Harder
@@ -264,7 +264,7 @@ child_links:
   heading_title: When should AI labs be forced to pause?
 up_link:
   basename: AI_Doom_and_E_87399b_ai_race_dynam_a5d049
-  title: Race Pressure | AI Doom and
+  title: Race Pressure | AI Doom and E 87399 b
   permalink: /race-pressure/
   short_title: Race Pressure
   heading_title: Why AI Races Can Make Safety Harder
@@ -282,17 +282,17 @@ image: /assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a7
 
 ## Introduction
 
-One proposed answer to AI race dynamics is surprisingly simple in principle: make safety requirements apply to everyone at roughly the same time. Many [AI doom and]({{ 'ai-doom-and/' | relative_url }}) existential-risk arguments assume that individual companies or governments may know caution is sensible but still feel pressure to move quickly because rivals are doing the same. Shared rules aim to change that calculation.
+One proposed answer to AI race dynamics is surprisingly simple in principle: make safety requirements apply to everyone at roughly the same time. Many AI doom and existential-risk arguments assume that individual companies or governments may know caution is sensible but still feel pressure to move quickly because rivals are doing the same. Shared rules aim to change that calculation.
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf-Illustration-1-dark.svg" | relative_url }}" alt="Shared Rules illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The basic idea is that safety becomes less of a competitive disadvantage when competitors face common expectations around testing, reporting, security, and [deployment]({{ 'release-gates/' | relative_url }}) thresholds. Instead of asking a single lab to slow down while others accelerate, coordination mechanisms try to make caution part of the competition itself. Advocates argue that this could reduce incentives for premature deployment of increasingly powerful systems. Critics respond that enforcement is difficult, international trust is limited, and voluntary commitments often weaken once major commercial or [geopolitical]({{ 'geopolitics/' | relative_url }}) stakes emerge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">The Bletchley Declaration by Countries Attending the AI...Nov 2, 2023 — This includes, alongside increased transparency by private actor...</span><span class="citation-popover-meta">Published: november 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/historic-first-as-companies-spanning-north-america-asia-europe-and-middle-east-agree-safety-commitments-on-development-of-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Historic first as companies spanning North America, Asia</span><span class="citation-popover-snippet">May 21, 2024 — New commitments to develop AI safely have been agreed with 16 AI tech companies spanning the globe, including companies fr...</span><span class="citation-popover-meta">Published: May 21, 2024</span></span></span>
+The basic idea is that safety becomes less of a competitive disadvantage when competitors face common expectations around testing, reporting, security, and deployment thresholds. Instead of asking a single lab to slow down while others accelerate, coordination mechanisms try to make caution part of the competition itself. Advocates argue that this could reduce incentives for premature deployment of increasingly powerful systems. Critics respond that enforcement is difficult, international trust is limited, and voluntary commitments often weaken once major commercial or geopolitical stakes emerge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">The Bletchley Declaration by Countries Attending the AI...Nov 2, 2023 — This includes, alongside increased transparency by private actor...</span><span class="citation-popover-meta">Published: november 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/historic-first-as-companies-spanning-north-america-asia-europe-and-middle-east-agree-safety-commitments-on-development-of-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Historic first as companies spanning North America, Asia</span><span class="citation-popover-snippet">May 21, 2024 — New commitments to develop AI safely have been agreed with 16 AI tech companies spanning the globe, including companies fr...</span><span class="citation-popover-meta">Published: May 21, 2024</span></span></span>
 
 ## Why voluntary caution is fragile in a race
 
 Many discussions of AI doom focus on technical alignment problems: whether advanced systems will reliably pursue intended goals. Race dynamics introduce a different concern. Even if developers understand certain dangers, they may still deploy systems before safety work is complete.
 
-The problem resembles a coordination failure. A company that spends six additional months on evaluations, interpretability research, security measures, or control mechanisms may lose market share, investment, talent, or strategic influence if competitors release first. The result can be a collective outcome that nobody explicitly prefers: all actors move faster because each fears being left behind.
+The problem resembles a coordination failure. A company that spends six additional months on [evaluations]({{ 'evaluations/' | relative_url }}), [interpretability]({{ 'interpretability/' | relative_url }}) research, security measures, or control mechanisms may lose market share, investment, talent, or strategic influence if competitors release first. The result can be a collective outcome that nobody explicitly prefers: all actors move faster because each fears being left behind.
 
 This pressure becomes stronger if developers believe that future systems could have major military, economic, or scientific value. In that environment, unilateral restraint can appear irrational even to people who take existential risks seriously. Shared rules are therefore often presented not as a substitute for technical safety research but as a way to make safety research politically and economically sustainable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ai-safety-atlas.com/chapters/v1/governance/systemic-challenges/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ai-safety-atlas.com">[AI Safety Atlas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ai-safety-atlas.com</span><span class="citation-popover-title">AI Safety Atlas Systemic Challenges</span><span class="citation-popover-snippet">AI Safety AtlasSystemic Challenges - Chapter 4Systemic Challenges. Effective AI governance is hindered by competitive race dynamics, rapi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://publications.parliament.uk/pa/cm5804/cmselect/cmsctech/38/report.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">UK Parliament Governance of artificial intelligence (AI</span><span class="citation-popover-snippet">UK ParliamentGovernance of artificial intelligence (AI) - Parliament UK28 May 2024 — This Report examines domestic and international deve...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
@@ -310,10 +310,10 @@ Instead of every company deciding privately when a model becomes dangerous enoug
 
 Supporters argue that common thresholds help solve two race problems:
 
-* They reduce incentives to ignore warning signs when a model crosses a dangerous capability boundary.
+* They reduce incentives to ignore [warning signs]({{ 'warning-signs/' | relative_url }}) when a model crosses a dangerous capability boundary.
 * They make safety expectations more predictable across competing organisations.
 
-The difficult question is where those thresholds should sit. Researchers disagree about whether thresholds should be based on training compute, observed capabilities, estimated risk, or combinations of all three. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2406.14713" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Risk thresholds for frontier AI</span><span class="citation-popover-snippet">arXiv Risk thresholds for frontier AI</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/pdf/2406.14713" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivRisk thresholds for frontier AIJune 20, 2024 — by L Koessler · 2024 · Cited by 25 — Capability thresholds essentially define conditi...</span><span class="citation-popover-meta">Published: June 20, 2024</span></span></span>
+The difficult question is where those thresholds should sit. Researchers disagree about whether thresholds should be based on training compute, observed capabilities, estimated risk, or combinations of all three. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2406.14713" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Risk thresholds for frontier AI</span><span class="citation-popover-snippet">arXiv Risk thresholds for frontier AI</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/pdf/2406.14713" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Risk thresholds for frontier AIJune 20, 2024 — by L Koessler · 2024 · Cited by 25 — Capability thresholds essentially define conditi...</span><span class="citation-popover-meta">Published: June 20, 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0tjOzQne1LY" title="How Artificial Superintelligence Might Wipe Out Our Entire Species with Nate Soares | TGS 203" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0tjOzQne1LY" target="_blank" rel="noopener noreferrer">How Artificial Superintelligence Might Wipe Out Our Entire Species with Nate Soares | TGS 203</a></p><p class="youtube-embed-meta">Channel: Nate Hagens &middot; Views: 47.1K &middot; Uploaded: December 2025 &middot; Length: 1 hour 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0tjOzQne1LY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0tjOzQne1LY">Open on YouTube</a></p></div></div></div>
@@ -322,9 +322,9 @@ The difficult question is where those thresholds should sit. Researchers disagre
 
 Another proposal is to require similar testing before deployment.
 
-Under this model, companies would be expected to perform agreed categories of evaluations for dangerous capabilities such as cyber offence assistance, autonomous behaviour, biological knowledge generation, or [deceptive]({{ 'scheming-tests/' | relative_url }}) conduct. Frontier safety frameworks increasingly emphasise structured evaluations before deployment decisions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/updates/issue-brief-thresholds-for-frontier-ai-safety-frameworks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">issue brief thresholds for frontier ai safety frameworks</span><span class="citation-popover-snippet">Frontier Model ForumIssue Brief: Thresholds for Frontier AI Safety Frameworks7 Feb 2025 — This brief elaborates on the importance of thre...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-title">early lessons from evaluating frontier ai systems</span><span class="citation-popover-snippet">If we want to properly understand how AI systems may create risks, our evaluations need to be designed...Read more...</span></span></span>
+Under this model, companies would be expected to perform agreed categories of evaluations for dangerous capabilities such as cyber offence assistance, autonomous behaviour, biological knowledge generation, or deceptive conduct. Frontier safety frameworks increasingly emphasise structured evaluations before deployment decisions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/updates/issue-brief-thresholds-for-frontier-ai-safety-frameworks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">issue brief thresholds for frontier ai safety frameworks</span><span class="citation-popover-snippet">Frontier Model ForumIssue Brief: Thresholds for Frontier AI Safety Frameworks7 Feb 2025 — This brief elaborates on the importance of thre...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-title">early lessons from evaluating frontier ai systems</span><span class="citation-popover-snippet">If we want to properly understand how AI systems may create risks, our evaluations need to be designed...Read more...</span></span></span>
 
-From a race-dynamics perspective, common evaluations matter because they reduce the advantage gained by skipping safety checks. If all major actors are expected to conduct comparable testing, thorough evaluation becomes less of a competitive sacrifice.
+From a race-dynamics perspective, common evaluations matter because they reduce the advantage gained by skipping [safety checks]({{ 'safety-checks/' | relative_url }}). If all major actors are expected to conduct comparable testing, thorough evaluation becomes less of a competitive sacrifice.
 
 Advocates often compare this logic to aviation, pharmaceuticals, or nuclear industries, where safety testing is not optional for only one participant. The goal is not perfect safety but preventing a situation where the fastest actor gains an advantage precisely by doing less verification.
 
@@ -345,7 +345,7 @@ Examples include:
 
 </div>
 
-The Bletchley Declaration and subsequent international discussions highlighted transparency, evaluation metrics, and safety-testing capabilities as areas where international coordination could reduce collective risk. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024/frontier-ai-safety-commitments-ai-seoul-summit-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">frontier ai safety commitments ai seoul summit 2024</span><span class="citation-popover-snippet">AI Safety Commitments, AI Seoul Summit 2024Feb 7, 2025 — The UK and Republic of Korea governments announced that the following organisati...</span></span></span>
+The [Bletchley]({{ 'bletchley/' | relative_url }}) Declaration and subsequent international discussions highlighted transparency, evaluation metrics, and safety-testing capabilities as areas where international coordination could reduce collective risk. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024/frontier-ai-safety-commitments-ai-seoul-summit-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">frontier ai safety commitments ai seoul summit 2024</span><span class="citation-popover-snippet">AI Safety Commitments, AI Seoul Summit 2024Feb 7, 2025 — The UK and Republic of Korea governments announced that the following organisati...</span></span></span>
 
 The theory is straightforward: if regulators, competitors, researchers, and partner governments can observe more of what is happening, it becomes harder to gain advantage through undisclosed shortcuts.
 
@@ -353,7 +353,7 @@ The theory is straightforward: if regulators, competitors, researchers, and part
 
 Some researchers advocate a model borrowed from high-reliability industries called a safety case.
 
-A safety case is a structured argument explaining why deployment risks are believed to be acceptable and what evidence supports that conclusion. Rather than treating deployment as the default, the organisation must assemble a documented justification. Recent frontier-AI governance discussions increasingly explore this approach. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2502.05791" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Assessing confidence in frontier AI safety cases</span><span class="citation-popover-snippet">arXivAssessing confidence in frontier AI safety casesFebruary 9, 2025...</span><span class="citation-popover-meta">Published: February 9, 2025</span></span></span>
+A safety case is a structured argument explaining why deployment risks are believed to be acceptable and what evidence supports that conclusion. Rather than treating deployment as the default, the organisation must assemble a documented justification. Recent frontier-AI governance discussions increasingly explore this approach. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2502.05791" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Assessing confidence in frontier AI safety cases</span><span class="citation-popover-snippet">Assessing confidence in frontier AI safety casesFebruary 9, 2025...</span><span class="citation-popover-meta">Published: February 9, 2025</span></span></span>
 
 In race-dynamics terms, safety cases can change incentives by creating a procedural hurdle that applies to all participants. The question becomes not merely whether a company can release a system, but whether it can demonstrate that release meets agreed standards.
 
@@ -363,7 +363,7 @@ In race-dynamics terms, safety cases can change incentives by creating a procedu
 
 Some AI-risk researchers focus on the inputs to AI development rather than only the outputs.
 
-Advanced AI systems require large quantities of specialised computing hardware. Because the supply chain for frontier-scale compute is relatively concentrated, proposals have emerged for [monitoring]({{ 'monitoring/' | relative_url }}) extremely large training runs, requiring reporting above certain thresholds, or establishing licensing systems for the most powerful development efforts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40miles_24227/scoring-humanitys-progress-on-ai-governance-5a5131cb84c7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">MediumScoring Humanity&#x27;s Progress on AI GovernanceWhat we need to do: Further incentivize sufficient safety by regulating high-stakes dev...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://bounded-regret.ghost.io/building-technology-to-drive-ai-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bounded-regret.ghost.io">[Bounded Regret]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bounded-regret.ghost.io</span><span class="citation-popover-title">Bounded Regret Building Technology to Drive AI Governance</span><span class="citation-popover-snippet">Compute accounting, evaluation standards. Enable oversight of training runs and model deployment. AI (needed). Shift equilibria.Read more...</span></span></span>
+Advanced AI systems require large quantities of specialised computing hardware. Because the supply chain for frontier-scale compute is relatively concentrated, proposals have emerged for [monitoring]({{ 'monitoring/' | relative_url }}) extremely large training runs, requiring reporting above certain thresholds, or establishing licensing systems for the most powerful development efforts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40miles_24227/scoring-humanitys-progress-on-ai-governance-5a5131cb84c7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">Scoring Humanity&#x27;s Progress on AI GovernanceWhat we need to do: Further incentivize sufficient safety by regulating high-stakes dev...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://bounded-regret.ghost.io/building-technology-to-drive-ai-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bounded-regret.ghost.io">[Bounded Regret]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bounded-regret.ghost.io</span><span class="citation-popover-title">Bounded Regret Building Technology to Drive AI Governance</span><span class="citation-popover-snippet">Compute accounting, evaluation standards. Enable oversight of training runs and model deployment. AI (needed). Shift equilibria.Read more...</span></span></span>
 
 Supporters argue that compute governance has a race-related advantage: it acts earlier in the development process. Instead of waiting until a potentially dangerous model is already trained, oversight can begin while major capability advances are still being developed.
 
@@ -410,9 +410,9 @@ This is one reason AI-risk researchers frequently compare frontier-AI governance
 
 Another difficulty is that nobody knows exactly where the most dangerous capability boundaries lie.
 
-Unlike aircraft certification, frontier AI lacks decades of [operational]({{ 'operational-thresholds/' | relative_url }}) experience. Developers may disagree about whether a system has crossed a meaningful threshold, whether evaluations are reliable, or whether observed capabilities translate into real-world risk.
+Unlike aircraft certification, frontier AI lacks decades of operational experience. Developers may disagree about whether a system has crossed a meaningful threshold, whether evaluations are reliable, or whether observed capabilities translate into real-world risk.
 
-As a result, some researchers favour flexible frameworks that evolve over time, while others argue that ambiguity itself creates loopholes that undermine coordination. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2601.11916" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivExpanding External Access To Frontier AI Models For Dangerous Capability EvaluationsJanuary 17, 2026...</span><span class="citation-popover-meta">Published: January 17, 2026</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2406.14713" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Risk thresholds for frontier AI</span><span class="citation-popover-snippet">arXiv Risk thresholds for frontier AI</span></span></span>
+As a result, some researchers favour flexible frameworks that evolve over time, while others argue that ambiguity itself creates [loopholes]({{ 'loopholes/' | relative_url }}) that undermine coordination. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2601.11916" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Expanding External Access To Frontier AI Models For Dangerous Capability EvaluationsJanuary 17, 2026...</span><span class="citation-popover-meta">Published: January 17, 2026</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2406.14713" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Risk thresholds for frontier AI</span><span class="citation-popover-snippet">arXiv Risk thresholds for frontier AI</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CNnFgI7xm_w" title="Japan’s Approach to AI Regulation – with Takashi Nakazaki" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CNnFgI7xm_w" target="_blank" rel="noopener noreferrer">Japan’s Approach to AI Regulation – with Takashi Nakazaki</a></p><p class="youtube-embed-meta">Channel: Monday Bagel: Legal Tech &amp; AI Insights &middot; Views: 47.9K &middot; Uploaded: April 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CNnFgI7xm_w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CNnFgI7xm_w">Open on YouTube</a></p></div></div></div>
@@ -850,219 +850,219 @@ That tension sits at the centre of the debate. Shared safety rules are attractiv
 
 1. <a id="endnote-1"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023](https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023)  
+   Link: <a href="https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Bletchley Declaration by Countries Attending the AI...Nov 2, 2023 — This includes, alongside increased transparency by private actor...</p></details>
    Published: november 2023  
 
 2. <a id="endnote-2"></a>
    Source: GOV.UK  
    Title: Historic first as companies spanning North America, Asia  
-   Link: [https://www.gov.uk/government/news/historic-first-as-companies-spanning-north-america-asia-europe-and-middle-east-agree-safety-commitments-on-development-of-ai](https://www.gov.uk/government/news/historic-first-as-companies-spanning-north-america-asia-europe-and-middle-east-agree-safety-commitments-on-development-of-ai)  
+   Link: <a href="https://www.gov.uk/government/news/historic-first-as-companies-spanning-north-america-asia-europe-and-middle-east-agree-safety-commitments-on-development-of-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/historic-first-as-companies-spanning-north-america-asia-europe-and-middle-east-agree-safety-commitments-on-development-of-ai</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 21, 2024 — New commitments to develop AI safely have been agreed with 16 AI tech companies spanning the globe, including companies fr...</p></details>
    Published: May 21, 2024  
 
 3. <a id="endnote-3"></a>
    Source: ai-safety-atlas.com  
    Title: AI Safety Atlas Systemic Challenges  
-   Link: [https://ai-safety-atlas.com/chapters/v1/governance/systemic-challenges/](https://ai-safety-atlas.com/chapters/v1/governance/systemic-challenges/)  
+   Link: <a href="https://ai-safety-atlas.com/chapters/v1/governance/systemic-challenges/" target="_blank" rel="noopener noreferrer nofollow">https://ai-safety-atlas.com/chapters/v1/governance/systemic-challenges/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Safety AtlasSystemic Challenges - Chapter 4Systemic Challenges. Effective AI governance is hindered by competitive race dynamics, rapi...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: publications.parliament.uk  
-   Title: UK Parliament Governance of [artificial](&#123;&#123; 'artificial-goals/' | relative_url &#125;&#125;) intelligence (AI)  
-   Link: [https://publications.parliament.uk/pa/cm5804/cmselect/cmsctech/38/report.html](https://publications.parliament.uk/pa/cm5804/cmselect/cmsctech/38/report.html)  
+   Title: UK Parliament Governance of artificial intelligence (AI)  
+   Link: <a href="https://publications.parliament.uk/pa/cm5804/cmselect/cmsctech/38/report.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm5804/cmselect/cmsctech/38/report.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentGovernance of artificial intelligence (AI) - Parliament UK28 May 2024 — This Report examines domestic and international deve...</p></details>
    Published: May 2024  
 
 5. <a id="endnote-5"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40miles_24227/scoring-humanitys-progress-on-ai-governance-5a5131cb84c7](https://medium.com/%40miles_24227/scoring-humanitys-progress-on-ai-governance-5a5131cb84c7)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MediumScoring Humanity&#x27;s Progress on AI GovernanceWhat we need to do: Further incentivize sufficient safety by regulating high-stakes dev...</p></details>
+   Link: <a href="https://medium.com/%40miles_24227/scoring-humanitys-progress-on-ai-governance-5a5131cb84c7" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40miles_24227/scoring-humanitys-progress-on-ai-governance-5a5131cb84c7</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scoring Humanity&#x27;s Progress on AI GovernanceWhat we need to do: Further incentivize sufficient safety by regulating high-stakes dev...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: techradar.com  
-   Link: [https://www.techradar.com/ai-platforms-assistants/anthropic-drops-its-signature-safety-promise-and-rewrites-ai-guardrails](https://www.techradar.com/ai-platforms-assistants/anthropic-drops-its-signature-safety-promise-and-rewrites-ai-guardrails)  
+   Link: <a href="https://www.techradar.com/ai-platforms-assistants/anthropic-drops-its-signature-safety-promise-and-rewrites-ai-guardrails" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/ai-platforms-assistants/anthropic-drops-its-signature-safety-promise-and-rewrites-ai-guardrails</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This marked a significant policy shift from its original 2023 pledge that emphasized strong preconditions for AI development in order to...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
    Title: arXiv Risk thresholds for frontier AI  
-   Link: [https://arxiv.org/abs/2406.14713](https://arxiv.org/abs/2406.14713)  
+   Link: <a href="https://arxiv.org/abs/2406.14713" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2406.14713</a>  
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2406.14713](https://arxiv.org/pdf/2406.14713)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivRisk thresholds for frontier AIJune 20, 2024 — by L Koessler · 2024 · Cited by 25 — Capability thresholds essentially define conditi...</p></details>
+   Link: <a href="https://arxiv.org/pdf/2406.14713" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2406.14713</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Risk thresholds for frontier AIJune 20, 2024 — by L Koessler · 2024 · Cited by 25 — Capability thresholds essentially define conditi...</p></details>
    Published: June 20, 2024  
 
 9. <a id="endnote-9"></a>
    Source: aisi.gov.uk  
    Title: early lessons from evaluating frontier ai systems  
-   Link: [https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems](https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems)  
+   Link: <a href="https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>If we want to properly understand how AI systems may create risks, our evaluations need to be designed...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
    Title: arXiv Assessing confidence in frontier AI safety cases  
-   Link: [https://arxiv.org/abs/2502.05791](https://arxiv.org/abs/2502.05791)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivAssessing confidence in frontier AI safety casesFebruary 9, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2502.05791" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.05791</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing confidence in frontier AI safety casesFebruary 9, 2025...</p></details>
    Published: February 9, 2025  
 
 11. <a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2603.08760](https://arxiv.org/abs/2603.08760)  
+   Link: <a href="https://arxiv.org/abs/2603.08760" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.08760</a>  
 
 12. <a id="endnote-12"></a>
    Source: GOV.UK  
    Title: frontier ai safety commitments ai seoul summit 2024  
-   Link: [https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024/frontier-ai-safety-commitments-ai-seoul-summit-2024](https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024/frontier-ai-safety-commitments-ai-seoul-summit-2024)  
+   Link: <a href="https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024/frontier-ai-safety-commitments-ai-seoul-summit-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024/frontier-ai-safety-commitments-ai-seoul-summit-2024</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Safety Commitments, AI Seoul Summit 2024Feb 7, 2025 — The UK and Republic of Korea governments announced that the following organisati...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: enkryptai.com  
    Title: frontier safety frameworks comprehensive overview  
-   Link: [https://www.enkryptai.com/blog/frontier-safety-frameworks-comprehensive-overview](https://www.enkryptai.com/blog/frontier-safety-frameworks-comprehensive-overview)  
+   Link: <a href="https://www.enkryptai.com/blog/frontier-safety-frameworks-comprehensive-overview" target="_blank" rel="noopener noreferrer nofollow">https://www.enkryptai.com/blog/frontier-safety-frameworks-comprehensive-overview</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Safety Frameworks — A Comprehensive Picture17 Jul 2025 — Each framework attempts to define and operationalize a threshold where...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2601.11916](https://arxiv.org/abs/2601.11916)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivExpanding External Access To Frontier AI Models For Dangerous Capability EvaluationsJanuary 17, 2026...</p></details>
+   Link: <a href="https://arxiv.org/abs/2601.11916" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2601.11916</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Expanding External Access To Frontier AI Models For Dangerous Capability EvaluationsJanuary 17, 2026...</p></details>
    Published: January 17, 2026  
 
 15. <a id="endnote-15"></a>
    Source: GOV.UK  
    Title: emerging processes for frontier ai safety  
-   Link: [https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety](https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety)  
+   Link: <a href="https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>processes for frontier AI safety27 Oct 2023 — This document contains the world&#x27;s first overview of emerging safety processes focused on f...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a](https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a)  
+   Link: <a href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>risks of frontier AI (Annex A)28 Apr 2025 — However, these systems can exhibit dangerous capabilities and pose a... training compared to...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: [https://assets.publishing.service.gov.uk/media/653aabbd80884d000df71bdc/emerging-processes-frontier-ai-safety.pdf](https://assets.publishing.service.gov.uk/media/653aabbd80884d000df71bdc/emerging-processes-frontier-ai-safety.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/653aabbd80884d000df71bdc/emerging-processes-frontier-ai-safety.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/653aabbd80884d000df71bdc/emerging-processes-frontier-ai-safety.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Processes for Frontier AI SafetyData Input Controls and Audits can help identify and remove training data likely to increase the dangerou...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: ai.gov.uk  
-   Link: [https://ai.gov.uk/](https://ai.gov.uk/)  
+   Link: <a href="https://ai.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://ai.gov.uk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>chnical talent to pioneer...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: longtermresilience.org  
    Title: frontier ai safety frameworks need to include risk governance  
-   Link: [https://www.longtermresilience.org/reports/frontier-ai-safety-frameworks-need-to-include-risk-governance/](https://www.longtermresilience.org/reports/frontier-ai-safety-frameworks-need-to-include-risk-governance/)  
+   Link: <a href="https://www.longtermresilience.org/reports/frontier-ai-safety-frameworks-need-to-include-risk-governance/" target="_blank" rel="noopener noreferrer nofollow">https://www.longtermresilience.org/reports/frontier-ai-safety-frameworks-need-to-include-risk-governance/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier AI safety frameworks need to include risk...5 Feb 2025 — This report outlines why risk governance should be enhanced in future...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: frontiermodelforum.org  
    Title: issue brief thresholds for frontier ai safety frameworks  
-   Link: [https://www.frontiermodelforum.org/updates/issue-brief-thresholds-for-frontier-ai-safety-frameworks/](https://www.frontiermodelforum.org/updates/issue-brief-thresholds-for-frontier-ai-safety-frameworks/)  
+   Link: <a href="https://www.frontiermodelforum.org/updates/issue-brief-thresholds-for-frontier-ai-safety-frameworks/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/updates/issue-brief-thresholds-for-frontier-ai-safety-frameworks/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Model ForumIssue Brief: Thresholds for Frontier AI Safety Frameworks7 Feb 2025 — This brief elaborates on the importance of thre...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: frontiermodelforum.org  
    Title: risk taxonomy and thresholds  
-   Link: [https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/](https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/)  
+   Link: <a href="https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>for Frontier AI Frameworks18 Jun 2025 — First, “enabling capability thresholds” identify abilities that could potentially enable extreme...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: aigi.ox.ac.uk  
    Title: Survey on thresholds for advanced AI systems 1  
-   Link: [https://aigi.ox.ac.uk/wp-content/uploads/2025/08/Survey_on_thresholds_for_advanced_AI_systems_1.pdf](https://aigi.ox.ac.uk/wp-content/uploads/2025/08/Survey_on_thresholds_for_advanced_AI_systems_1.pdf)  
+   Link: <a href="https://aigi.ox.ac.uk/wp-content/uploads/2025/08/Survey_on_thresholds_for_advanced_AI_systems_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aigi.ox.ac.uk/wp-content/uploads/2025/08/Survey_on_thresholds_for_advanced_AI_systems_1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>arXiv preprint arXiv... “If training compute thresholds are exceeded, AI companies should notify the...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: frontiermodelforum.org  
    Title: issue brief components of frontier ai safety frameworks  
-   Link: [https://www.frontiermodelforum.org/updates/issue-brief-components-of-frontier-ai-safety-frameworks/](https://www.frontiermodelforum.org/updates/issue-brief-components-of-frontier-ai-safety-frameworks/)  
+   Link: <a href="https://www.frontiermodelforum.org/updates/issue-brief-components-of-frontier-ai-safety-frameworks/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/updates/issue-brief-components-of-frontier-ai-safety-frameworks/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Model ForumIssue Brief: Components of Frontier AI Safety Frameworks8 Nov 2024 — These may include, for example, security or cont...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: frontiermodelforum.org  
    Title: managing advanced cyber risks in frontier ai frameworks  
-   Link: [https://www.frontiermodelforum.org/technical-reports/managing-advanced-cyber-risks-in-frontier-ai-frameworks/](https://www.frontiermodelforum.org/technical-reports/managing-advanced-cyber-risks-in-frontier-ai-frameworks/)  
+   Link: <a href="https://www.frontiermodelforum.org/technical-reports/managing-advanced-cyber-risks-in-frontier-ai-frameworks/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/technical-reports/managing-advanced-cyber-risks-in-frontier-ai-frameworks/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>13 Feb 2026 — Frontier AI frameworks address high-severity or extreme risks, with certain frameworks differentiating between deliberate m...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: bounded-regret.ghost.io  
    Title: Bounded Regret Building Technology to Drive AI Governance  
-   Link: [https://bounded-regret.ghost.io/building-technology-to-drive-ai-governance/](https://bounded-regret.ghost.io/building-technology-to-drive-ai-governance/)  
+   Link: <a href="https://bounded-regret.ghost.io/building-technology-to-drive-ai-governance/" target="_blank" rel="noopener noreferrer nofollow">https://bounded-regret.ghost.io/building-technology-to-drive-ai-governance/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Compute accounting, evaluation standards. Enable oversight of training runs and model deployment. AI (needed). Shift equilibria.Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: flyfrontier.com  
-   Link: [https://www.flyfrontier.com/](https://www.flyfrontier.com/)  
+   Link: <a href="https://www.flyfrontier.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.flyfrontier.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Airlines: Low Fares Done RightAs Home of Low Fares Done Right, find great deals and cheap flights to destinations all over North...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: Wikipedia  
    Title: Artificial intelligence  
-   Link: [https://en.wikipedia.org/wiki/Artificial_intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)  
+   Link: <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Artificial_intelligence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligenceArtificial intelligence (AI) is the capability of computational systems to perform tasks typically associated w...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: aisecurityandsafety.org  
    Title: ai race dynamics  
-   Link: [https://aisecurityandsafety.org/fr/glossary/ai-race-dynamics/](https://aisecurityandsafety.org/fr/glossary/ai-race-dynamics/)  
+   Link: <a href="https://aisecurityandsafety.org/fr/glossary/ai-race-dynamics/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/fr/glossary/ai-race-dynamics/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Governance Definition &amp; Guide27 Mar 2026 — AI race dynamics can be analyzed through game theory frameworks that illuminate why rationa...</p></details>
 
 ### Additional References
 
 29. <a id="endnote-29"></a>
    Source: quillbot.com  
-   Link: [https://quillbot.com/ai-chat](https://quillbot.com/ai-chat)  
+   Link: <a href="https://quillbot.com/ai-chat" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/ai-chat</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI ChatUnlock your potential with QuillBot&#x27;s free AI chat! Brainstorm, draft content, get instant research &amp; overcome writer&#x27;s block. Try...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: aigi.ox.ac.uk  
-   Link: [https://aigi.ox.ac.uk/wp-content/uploads/2025/12/Operationalising-AI-Benefit-Sharing-Workshop-02.12.2025.pdf](https://aigi.ox.ac.uk/wp-content/uploads/2025/12/Operationalising-AI-Benefit-Sharing-Workshop-02.12.2025.pdf)  
+   Link: <a href="https://aigi.ox.ac.uk/wp-content/uploads/2025/12/Operationalising-AI-Benefit-Sharing-Workshop-02.12.2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aigi.ox.ac.uk/wp-content/uploads/2025/12/Operationalising-AI-Benefit-Sharing-Workshop-02.12.2025.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BENEFIT-SHARING FRAMEWORK: BALANCING...The paper&#x27;s central argument is that AI benefit-sharing requires integration across three distinc...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/5-experts-real-value-ai-safety-commitments-deepfestai-5vvof](https://www.linkedin.com/pulse/5-experts-real-value-ai-safety-commitments-deepfestai-5vvof)  
+   Link: <a href="https://www.linkedin.com/pulse/5-experts-real-value-ai-safety-commitments-deepfestai-5vvof" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/5-experts-real-value-ai-safety-commitments-deepfestai-5vvof</a>  
 
 32. <a id="endnote-32"></a>
    Source: Wikipedia  
    Title: Safe and Secure Innovation for Frontier Artificial Intelligence Models Act  
-   Link: [https://en.wikipedia.org/wiki/Safe_and_Secure_Innovation_for_Frontier_Artificial_Intelligence_Models_Act](https://en.wikipedia.org/wiki/Safe_and_Secure_Innovation_for_Frontier_Artificial_Intelligence_Models_Act)  
+   Link: <a href="https://en.wikipedia.org/wiki/Safe_and_Secure_Innovation_for_Frontier_Artificial_Intelligence_Models_Act" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Safe_and_Secure_Innovation_for_Frontier_Artificial_Intelligence_Models_Act</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Safe and Secure Innovation for Frontier Artificial...2024 California bill intended to mitigate the risk of [catastrophic](&amp;#123;&amp;#123; &#x27;misuse/&#x27; | relative_url &amp;#125;&amp;#125;) harms from AI...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: montrealethics.ai  
    Title: ai policy corner frontier ai safety commitments ai seoul summit 2024  
-   Link: [https://montrealethics.ai/ai-policy-corner-frontier-ai-safety-commitments-ai-seoul-summit-2024/](https://montrealethics.ai/ai-policy-corner-frontier-ai-safety-commitments-ai-seoul-summit-2024/)  
+   Link: <a href="https://montrealethics.ai/ai-policy-corner-frontier-ai-safety-commitments-ai-seoul-summit-2024/" target="_blank" rel="noopener noreferrer nofollow">https://montrealethics.ai/ai-policy-corner-frontier-ai-safety-commitments-ai-seoul-summit-2024/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Policy Corner: Frontier AI Safety Commitments, AI Seoul...Apr 28, 2025 — The Frontier AI Safety Commitments provide a framework to mi...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: rand.org  
-   Link: [https://www.rand.org/content/dam/rand/pubs/conf_proceedings/CFA3400/CFA3429-1/RAND_CFA3429-1.pdf](https://www.rand.org/content/dam/rand/pubs/conf_proceedings/CFA3400/CFA3429-1/RAND_CFA3429-1.pdf)  
+   Link: <a href="https://www.rand.org/content/dam/rand/pubs/conf_proceedings/CFA3400/CFA3429-1/RAND_CFA3429-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/content/dam/rand/pubs/conf_proceedings/CFA3400/CFA3429-1/RAND_CFA3429-1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ions, outline the complexities of eval- uating AI for dangerous capabilities, and...Read more...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: forum.effectivealtruism.org  
    Title: the world s first frontier ai regulation is surprisingly  
-   Link: [https://forum.effectivealtruism.org/posts/Z4DYcBDd36mwr5Xpq/the-world-s-first-frontier-ai-regulation-is-surprisingly](https://forum.effectivealtruism.org/posts/Z4DYcBDd36mwr5Xpq/the-world-s-first-frontier-ai-regulation-is-surprisingly)  
+   Link: <a href="https://forum.effectivealtruism.org/posts/Z4DYcBDd36mwr5Xpq/the-world-s-first-frontier-ai-regulation-is-surprisingly" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/Z4DYcBDd36mwr5Xpq/the-world-s-first-frontier-ai-regulation-is-surprisingly</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>world&#x27;s first frontier AI regulation is surprisingly thoughtful22 Sept 2025 — Up until mid 2023, leading AGI companies had made many info...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: freshfields.com  
    Title: Seoul Summit sees further developments in international  
-   Link: [https://www.freshfields.com/en/our-thinking/blogs/technology-quotient/seoul-summit-sees-further-developments-in-international-governance-of-frontier-ai-102j8cj](https://www.freshfields.com/en/our-thinking/blogs/technology-quotient/seoul-summit-sees-further-developments-in-international-governance-of-frontier-ai-102j8cj)  
+   Link: <a href="https://www.freshfields.com/en/our-thinking/blogs/technology-quotient/seoul-summit-sees-further-developments-in-international-governance-of-frontier-ai-102j8cj" target="_blank" rel="noopener noreferrer nofollow">https://www.freshfields.com/en/our-thinking/blogs/technology-quotient/seoul-summit-sees-further-developments-in-international-governance-of-frontier-ai-102j8cj</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 23, 2024 — The summit saw 16 AI tech companies with headquarters spanning North America, Asia, Europe and Middle East agree new volun...</p></details>
    Published: May 23, 2024  
 
 37. <a id="endnote-37"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=0tjOzQne1LY](https://www.youtube.com/watch?v=0tjOzQne1LY)  
+   Link: <a href="https://www.youtube.com/watch?v=0tjOzQne1LY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0tjOzQne1LY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stuart Russell: “AI CEO Told Me Chernobyl-Level AI Event Might Be Our Only Hope” | For Humanity #72...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: digitalregulation.org  
    Title: a guide towards collaborative ai frameworks  
-   Link: [https://digitalregulation.org/a-guide-towards-collaborative-ai-frameworks/](https://digitalregulation.org/a-guide-towards-collaborative-ai-frameworks/)  
+   Link: <a href="https://digitalregulation.org/a-guide-towards-collaborative-ai-frameworks/" target="_blank" rel="noopener noreferrer nofollow">https://digitalregulation.org/a-guide-towards-collaborative-ai-frameworks/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Sept 2025 — Artificial intelligence (AI) is a transformational technology rapidly reshaping governance, economies, and societies.Read more...</p></details>

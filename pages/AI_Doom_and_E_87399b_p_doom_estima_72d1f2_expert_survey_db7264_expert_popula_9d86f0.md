@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264_hybrid_foreca_3b472f
 - AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264_survey_framin_0cae06
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - p-doom
 - survey-estimates
 - population-evidence
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - p-doom
 - survey-estimates
 - population-evidence
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Comparing how general AI researchers and specialist safety experts assign different probabilities to existential AI risk.
 hero_summary: Comparing how general AI researchers and specialist safety experts assign different probabilities to existential AI risk.
 layout: default
 permalink: /population-evidence/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /p-doom/
 - /survey-estimates/
 nav_short_title: Population Evidence
@@ -211,10 +211,10 @@ parent_heading_title: How AI Experts Forecast Doom Probabilities
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_p_doom_estima_72d1f2
-  title: P Doom | AI Doom and
+  title: P Doom | AI Doom and E 87399 b
   permalink: /p-doom/
   short_title: P Doom
   heading_title: What Does p(doom) Really Mean?
@@ -226,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_p_doom_estima_72d1f2
-  title: P Doom | AI Doom and
+  title: P Doom | AI Doom and E 87399 b
   permalink: /p-doom/
   short_title: P Doom
   heading_title: What Does p(doom) Really Mean?
@@ -279,13 +279,13 @@ One of the clearest findings from AI doom surveys is not that experts agree on a
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264_expert_popula_9d86f0-Illustration-1-dark.svg" | relative_url }}" alt="Population Evidence illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264_expert_popula_9d86f0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264_expert_popula_9d86f0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because debates about p(doom) are often presented as disagreements about a single number. In reality, they are frequently disagreements between communities with different training, incentives, conceptual frameworks, and assumptions about future AI systems. [Survey evidence]({{ 'survey-evidence/' | relative_url }}) repeatedly shows that who gets asked can substantially affect the resulting forecast. Understanding those population differences helps explain why published estimates range from near zero to well above 50%, even among people with technical [expertise]({{ 'expertise-erosion/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://wiki.aiimpacts.org/uncategorized/ai_risk_surveys" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wiki.aiimpacts.org">[AI Impacts Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wiki.aiimpacts.org</span><span class="citation-popover-title">ai risk surveys</span><span class="citation-popover-snippet">AI Impacts WikiSurveys of experts on levels of AI Risk9 May 2023 — We know of six surveys of AI experts and two surveys of AI safety/gove...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+This matters because debates about p(doom) are often presented as disagreements about a single number. In reality, they are frequently disagreements between communities with different training, incentives, conceptual frameworks, and assumptions about future AI systems. [Survey evidence]({{ 'survey-evidence/' | relative_url }}) repeatedly shows that who gets asked can substantially affect the resulting forecast. Understanding those population differences helps explain why published estimates range from near zero to well above 50%, even among people with technical expertise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wiki.aiimpacts.org/uncategorized/ai_risk_surveys" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wiki.aiimpacts.org">[AI Impacts Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wiki.aiimpacts.org</span><span class="citation-popover-title">ai risk surveys</span><span class="citation-popover-snippet">AI Impacts WikiSurveys of experts on levels of AI Risk9 May 2023 — We know of six surveys of AI experts and two surveys of AI safety/gove...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 ## Broad AI Research Communities Tend to Give Lower Risk Estimates
 
 The largest recent evidence comes from AI Impacts' 2023 survey of 2,778 researchers who had published at major AI conferences and journals. The survey sampled a broad cross-section of active AI researchers rather than focusing only on people working on existential risk or alignment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=hliLDNdxkX0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[AI Impacts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">AI Impacts Survey - The key implications, with Katja Grace...</span></span></span>
 
-Even within this wider population, concern about catastrophic outcomes was not rare. Depending on the wording used, the median respondent assigned around a 5% probability to outcomes comparable to human extinction or permanent severe disempowerment from advanced AI. Large minorities assigned probabilities of 10% or higher. AI Impacts Blog <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jair.org/index.php/jair/article/view/19087" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jair.org">[JAIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jair.org</span><span class="citation-popover-snippet">Thousands of AI Authors on the Future of AIby K Grace · 2025 · Cited by 195 — Depending on how we asked, between 38% and 51% of responden...</span></span></span>
+Even within this wider population, concern about [catastrophic]({{ 'misuse/' | relative_url }}) outcomes was not rare. Depending on the wording used, the median respondent assigned around a 5% probability to outcomes comparable to human extinction or permanent severe disempowerment from advanced AI. Large minorities assigned probabilities of 10% or higher. AI Impacts Blog <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jair.org/index.php/jair/article/view/19087" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jair.org">[JAIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jair.org</span><span class="citation-popover-snippet">Thousands of AI Authors on the Future of AIby K Grace · 2025 · Cited by 195 — Depending on how we asked, between 38% and 51% of responden...</span></span></span>
 
 However, these headline figures can create a misleading impression if readers assume that all AI researchers think similarly. The distribution was extremely wide. Some respondents placed risk near zero, while others assigned very high probabilities. The average result therefore reflected a mixture of very different worldviews rather than a coherent consensus. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=hliLDNdxkX0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[AI Impacts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">AI Impacts Survey - The key implications, with Katja Grace...</span></span></span>
 
@@ -300,7 +300,7 @@ That distinction becomes important when comparing their responses with those of 
 
 Surveys focused on AI-safety researchers and related experts generally find higher levels of concern than surveys of the broader AI field. AI Impacts' survey catalogue notes a recurring pattern: populations specifically selected for safety or governance expertise tend to produce higher existential-risk estimates than general AI-research samples. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wiki.aiimpacts.org/uncategorized/ai_risk_surveys" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wiki.aiimpacts.org">[AI Impacts Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wiki.aiimpacts.org</span><span class="citation-popover-title">ai risk surveys</span><span class="citation-popover-snippet">AI Impacts WikiSurveys of experts on levels of AI Risk9 May 2023 — We know of six surveys of AI experts and two surveys of AI safety/gove...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
-One reason is straightforward selection. People who choose to spend their careers on alignment, control problems, interpretability, or catastrophic-risk governance often do so because they already believe those issues are important. But selection alone does not explain the whole gap.
+One reason is straightforward selection. People who choose to spend their careers on alignment, control problems, [interpretability]({{ 'interpretability/' | relative_url }}), or catastrophic-risk governance often do so because they already believe those issues are important. But selection alone does not explain the whole gap.
 
 A 2025 survey examining disagreement among 111 AI experts found evidence that experts clustered into two broad perspectives. One group tended to view future AI primarily as a controllable tool. The other was more likely to view sufficiently advanced AI as a potentially autonomous and difficult-to-control agent. Those perspectives were strongly associated with different p(doom) estimates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2502.14870" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -314,14 +314,14 @@ From the perspective of many safety specialists, current machine-learning system
 
 A third population often appears in existential-risk discussions: researchers and policy specialists whose work focuses on long-term societal risks, governance failures, international coordination, or technological forecasting.
 
-These groups are not always machine-learning researchers themselves, but they frequently engage with scenarios involving loss of control, racing dynamics between companies or states, and failures of global coordination. Their forecasts can differ from both mainstream AI researchers and technical alignment specialists.
+These groups are not always machine-learning researchers themselves, but they frequently engage with scenarios involving [loss of control]({{ 'loss-of-control/' | relative_url }}), racing dynamics between companies or states, and failures of global coordination. Their forecasts can differ from both mainstream AI researchers and technical alignment specialists.
 
-In some cases, governance-focused experts assign relatively high probabilities to catastrophic outcomes even when they are uncertain about specific technical alignment failures. Their concern comes instead from social mechanisms: competitive deployment pressures, military incentives, inadequate monitoring, or the possibility that powerful systems are released before safety measures mature. <span class="citation-chip-wrap"><a class="citation-chip" href="https://80000hours.org/problem-profiles/[artificial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 80000hours.org">[80,000 Hours]</a><span class="citation-popover" role="note"><span class="citation-popover-source">80000hours.org</span><span class="citation-popover-title">Here&#x27;s why working on AI risks could be the most important use</span><span class="citation-popover-snippet">80,000 HoursWhy AI risks are the world&#x27;s most pressing problemsFeb 24, 2026 — AGI could rapidly transform the world, posing existential r...</span></span></span>
+In some cases, governance-focused experts assign relatively high probabilities to catastrophic outcomes even when they are uncertain about specific technical alignment failures. Their concern comes instead from social mechanisms: competitive deployment pressures, military incentives, inadequate monitoring, or the possibility that powerful systems are released before safety measures mature. <span class="citation-chip-wrap"><a class="citation-chip" href="https://80000hours.org/problem-profiles/artificial-intelligence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 80000hours.org">[80,000 Hours]</a><span class="citation-popover" role="note"><span class="citation-popover-source">80000hours.org</span><span class="citation-popover-title">Here&#x27;s why working on AI risks could be the most important use</span><span class="citation-popover-snippet">80,000 HoursWhy AI risks are the world&#x27;s most pressing problemsFeb 24, 2026 — AGI could rapidly transform the world, posing existential r...</span></span></span>
 
 This helps explain why two experts may agree on the technical capabilities of future AI systems but still assign different p(doom) values. One may view governance failures as the dominant threat, while another views technical control as the primary challenge.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xwJx_xqZI3Q" title="AI Impacts Survey - The key implications, with Katja Grace" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xwJx_xqZI3Q" target="_blank" rel="noopener noreferrer">AI Impacts Survey - The key implications, with Katja Grace</a></p><p class="youtube-embed-meta">Channel: London Futurists &middot; Views: 281 &middot; Uploaded: June 2024 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xwJx_xqZI3Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xwJx_xqZI3Q">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/s4iaNoWe4m4" title="How Worried Should We Be About AI? - Katja Grace, AI Impacts - DS Pod #290" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=s4iaNoWe4m4" target="_blank" rel="noopener noreferrer">How Worried Should We Be About AI? - Katja Grace, AI Impacts - DS Pod #290</a></p><p class="youtube-embed-meta">Channel: The DemystifySci Podcast &middot; Views: 2.0K &middot; Uploaded: October 2024 &middot; Length: 2 hours 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=s4iaNoWe4m4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=s4iaNoWe4m4">Open on YouTube</a></p></div></div></div>
 
 ## The Strongest Predictor May Be Underlying Worldview
 
@@ -333,11 +333,16 @@ Researchers who expect rapid capability jumps or transformative AI arriving on s
 
 The disagreement therefore runs deeper than a simple argument over percentages. Different expert groups often start from different answers to questions such as:
 
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
 * Will future AI remain tool-like or become agentic?
 * Will capabilities scale smoothly or discontinuously?
 * Can alignment methods keep pace with capability advances?
 * Will governments and companies coordinate effectively?
-* Are [current AI]({{ 'current-benchmarks/' | relative_url }}) systems evidence for or against future loss-of-control scenarios?
+* Are current AI systems evidence for or against future loss-of-control scenarios?
+
+</div>
 
 Changes in these assumptions can shift p(doom) forecasts dramatically, even among researchers with similar technical backgrounds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2502.14870" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -349,12 +354,12 @@ Readers often encounter headlines suggesting that "experts believe there is a 5%
 
 A survey of thousands of conference-publishing AI researchers captures one population. A survey of alignment researchers captures another. A survey of governance specialists captures a third. Each group is observing different evidence, using different models, and asking different questions about what future AI systems will be like. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=hliLDNdxkX0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[AI Impacts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">AI Impacts Survey - The key implications, with Katja Grace...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://wiki.aiimpacts.org/uncategorized/ai_risk_surveys" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wiki.aiimpacts.org">[AI Impacts Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wiki.aiimpacts.org</span><span class="citation-popover-title">ai risk surveys</span><span class="citation-popover-snippet">AI Impacts WikiSurveys of experts on levels of AI Risk9 May 2023 — We know of six surveys of AI experts and two surveys of AI safety/gove...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
-This does not mean expert surveys are useless. On the contrary, the population differences are themselves evidence. They reveal where uncertainty is concentrated and which assumptions drive disagreement. When specialist safety communities consistently produce higher estimates than broader technical populations, that gap becomes an important fact about the state of the debate.
+This does not mean [expert surveys]({{ 'expert-surveys/' | relative_url }}) are useless. On the contrary, the population differences are themselves evidence. They reveal where uncertainty is concentrated and which assumptions drive disagreement. When specialist safety communities consistently produce higher estimates than broader technical populations, that gap becomes an important fact about the state of the debate.
 
 The surveys therefore tell us less about a precise probability of extinction and more about the structure of expert disagreement. The central lesson is not that AI doom has been measured, but that experts who spend their time thinking about advanced AI often diverge in systematic ways depending on which community they belong to, what models they use, and what future they believe they are trying to forecast. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wiki.aiimpacts.org/uncategorized/ai_risk_surveys" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wiki.aiimpacts.org">[AI Impacts Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wiki.aiimpacts.org</span><span class="citation-popover-title">ai risk surveys</span><span class="citation-popover-snippet">AI Impacts WikiSurveys of experts on levels of AI Risk9 May 2023 — We know of six surveys of AI experts and two surveys of AI safety/gove...</span><span class="citation-popover-meta">Published: May 2023</span></span></span> 2arXiv
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/s4iaNoWe4m4" title="How Worried Should We Be About AI? - Katja Grace, AI Impacts - DS Pod #290" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=s4iaNoWe4m4" target="_blank" rel="noopener noreferrer">How Worried Should We Be About AI? - Katja Grace, AI Impacts - DS Pod #290</a></p><p class="youtube-embed-meta">Channel: The DemystifySci Podcast &middot; Views: 2.0K &middot; Uploaded: October 2024 &middot; Length: 2 hours 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=s4iaNoWe4m4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=s4iaNoWe4m4">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xwJx_xqZI3Q" title="AI Impacts Survey - The key implications, with Katja Grace" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xwJx_xqZI3Q" target="_blank" rel="noopener noreferrer">AI Impacts Survey - The key implications, with Katja Grace</a></p><p class="youtube-embed-meta">Channel: London Futurists &middot; Views: 281 &middot; Uploaded: June 2024 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xwJx_xqZI3Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xwJx_xqZI3Q">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -778,173 +783,173 @@ The surveys therefore tell us less about a precise probability of extinction and
 
 1. <a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2502.14870](https://arxiv.org/abs/2502.14870)  
+   Link: <a href="https://arxiv.org/abs/2502.14870" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.14870</a>  
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2401.02843](https://arxiv.org/pdf/2401.02843)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivThousands of AI Authors on the Future of AIWe conducted a survey of 2,778 AI researchers who had published peer-reviewed research in...</p></details>
+   Link: <a href="https://arxiv.org/pdf/2401.02843" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2401.02843</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Thousands of AI Authors on the Future of AIWe conducted a survey of 2,778 AI researchers who had published peer-reviewed research in...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: jair.org  
-   Link: [https://www.jair.org/index.php/jair/article/view/19087](https://www.jair.org/index.php/jair/article/view/19087)  
+   Link: <a href="https://www.jair.org/index.php/jair/article/view/19087" target="_blank" rel="noopener noreferrer nofollow">https://www.jair.org/index.php/jair/article/view/19087</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thousands of AI Authors on the Future of AIby K Grace · 2025 · Cited by 195 — Depending on how we asked, between 38% and 51% of responden...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2401.02843v1](https://arxiv.org/html/2401.02843v1)  
+   Link: <a href="https://arxiv.org/html/2401.02843v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2401.02843v1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thousands of AI Authors on the Future of AI5 Jan 2024 — While AI experts&#x27; predictions should not be seen as a reliable guide to objective...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2502.14870v1](https://arxiv.org/html/2502.14870v1)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivWhy do Experts Disagree on Existential Risk and P(doom)...Feb 23, 2025 — The goal of the survey is to understand what drives this m...</p></details>
+   Link: <a href="https://arxiv.org/html/2502.14870v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.14870v1</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why do Experts Disagree on Existential Risk and P(doom)...Feb 23, 2025 — The goal of the survey is to understand what drives this m...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: 80000hours.org  
    Title: Here's why working on AI risks could be the most important use  
-   Link: [https://80000hours.org/problem-profiles/[artificial](https://80000hours.org/problem-profiles/[artificial)  
+   Link: <a href="https://80000hours.org/problem-profiles/artificial-intelligence/" target="_blank" rel="noopener noreferrer nofollow">https://80000hours.org/problem-profiles/artificial-intelligence/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>80,000 HoursWhy AI risks are the world&#x27;s most pressing problemsFeb 24, 2026 — AGI could rapidly transform the world, posing existential r...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2401.02843](https://arxiv.org/abs/2401.02843)  
+   Link: <a href="https://arxiv.org/abs/2401.02843" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2401.02843</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>[2401.02843] Thousands of AI Authors on the Future of AIby K Grace · 2024 · Cited by 208 — If science continues undisrupted, the chance o...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2503.07341](https://arxiv.org/pdf/2503.07341)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivThe Economics of p(doom): Scenarios of Existential Risk...by J Growiec · 2025 · Cited by 6 — Field (2025) shows that experts&#x27; disag...</p></details>
+   Link: <a href="https://arxiv.org/pdf/2503.07341" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2503.07341</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Economics of p(doom): Scenarios of Existential Risk...by J Growiec · 2025 · Cited by 6 — Field (2025) shows that experts&#x27; disag...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2603.27785](https://arxiv.org/pdf/2603.27785)  
+   Link: <a href="https://arxiv.org/pdf/2603.27785" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2603.27785</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Views on AI Existential Risk Before and After a Public...by G Kestin · 2026 — We report the results of identical pre- and post-event sur...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: 80000hours.org  
-   Link: [https://80000hours.org/2024/09/why-experts-and-forecasters-disagree-about-ai-risk/](https://80000hours.org/2024/09/why-experts-and-forecasters-disagree-about-ai-risk/)  
+   Link: <a href="https://80000hours.org/2024/09/why-experts-and-forecasters-disagree-about-ai-risk/" target="_blank" rel="noopener noreferrer nofollow">https://80000hours.org/2024/09/why-experts-and-forecasters-disagree-about-ai-risk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why experts and forecasters disagree about AI riskSep 16, 2024 — Domain experts in AI estimated a 3% chance of AI-caused human extinction...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=hliLDNdxkX0](https://www.youtube.com/watch?v=hliLDNdxkX0)  
+   Link: <a href="https://www.youtube.com/watch?v=hliLDNdxkX0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hliLDNdxkX0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Impacts Survey - The key implications, with Katja Grace...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: AI Impacts Survey  
-   Link: [https://www.youtube.com/watch?v=xwJx_xqZI3Q](https://www.youtube.com/watch?v=xwJx_xqZI3Q)  
+   Link: <a href="https://www.youtube.com/watch?v=xwJx_xqZI3Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xwJx_xqZI3Q</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Worried Should We Be About AI? - Katja Grace, AI Impacts - DS Pod #290...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: wiki.aiimpacts.org  
    Title: ai risk surveys  
-   Link: [https://wiki.aiimpacts.org/uncategorized/ai_risk_surveys](https://wiki.aiimpacts.org/uncategorized/ai_risk_surveys)  
+   Link: <a href="https://wiki.aiimpacts.org/uncategorized/ai_risk_surveys" target="_blank" rel="noopener noreferrer nofollow">https://wiki.aiimpacts.org/uncategorized/ai_risk_surveys</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Impacts WikiSurveys of experts on levels of AI Risk9 May 2023 — We know of six surveys of AI experts and two surveys of AI safety/gove...</p></details>
    Published: May 2023  
 
 14. <a id="endnote-14"></a>
    Source: aiimpacts.org  
-   Link: [https://aiimpacts.org/wp-content/uploads/2023/04/Thousands_of_AI_authors_on_the_future_of_AI.pdf](https://aiimpacts.org/wp-content/uploads/2023/04/Thousands_of_AI_authors_on_the_future_of_AI.pdf)  
+   Link: <a href="https://aiimpacts.org/wp-content/uploads/2023/04/Thousands_of_AI_authors_on_the_future_of_AI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiimpacts.org/wp-content/uploads/2023/04/Thousands_of_AI_authors_on_the_future_of_AI.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI ImpactsTHOUSANDS OF AI AUTHORS ON THE FUTURE OF AIby K Grace · 2024 · Cited by 195 — We conducted a survey of 2,778 AI researchers who...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: blog.aiimpacts.org  
    Title: 2023 ai survey of 2778 six things  
-   Link: [https://blog.aiimpacts.org/p/2023-ai-survey-of-2778-six-things](https://blog.aiimpacts.org/p/2023-ai-survey-of-2778-six-things)  
+   Link: <a href="https://blog.aiimpacts.org/p/2023-ai-survey-of-2778-six-things" target="_blank" rel="noopener noreferrer nofollow">https://blog.aiimpacts.org/p/2023-ai-survey-of-2778-six-things</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Impacts BlogSurvey of 2778 AI authors: six parts in picturesJan 4, 2024 — Median respondents put 5% or more on advanced AI leading to...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: blog.aiimpacts.org  
-   Link: [https://blog.aiimpacts.org/p/faq-expert-survey-on-progress-in](https://blog.aiimpacts.org/p/faq-expert-survey-on-progress-in)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Impacts BlogFAQ: [Expert Survey](&amp;#123;&amp;#123; &#x27;survey-estimates/&#x27; | relative_url &amp;#125;&amp;#125;) on Progress in AI methodologyOct 31, 2025 — These four question variations all got similar answers—in 2...</p></details>
+   Link: <a href="https://blog.aiimpacts.org/p/faq-expert-survey-on-progress-in" target="_blank" rel="noopener noreferrer nofollow">https://blog.aiimpacts.org/p/faq-expert-survey-on-progress-in</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Impacts BlogFAQ: Expert Survey on Progress in AI methodologyOct 31, 2025 — These four question variations all got similar answers—in 2...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: wiki.aiimpacts.org  
    Title: 2023 expert survey on progress in ai  
-   Link: [https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai](https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai)  
+   Link: <a href="https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai" target="_blank" rel="noopener noreferrer nofollow">https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>aiimpacts.org2023 Expert Survey on Progress in AI17 Aug 2023 — The 2023 Expert Survey on Progress in AI is a survey of 2,778 AI researche...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: blog.aiimpacts.org  
    Title: how bad a future do ml researchers  
-   Link: [https://blog.aiimpacts.org/p/how-bad-a-future-do-ml-researchers](https://blog.aiimpacts.org/p/how-bad-a-future-do-ml-researchers)  
+   Link: <a href="https://blog.aiimpacts.org/p/how-bad-a-future-do-ml-researchers" target="_blank" rel="noopener noreferrer nofollow">https://blog.aiimpacts.org/p/how-bad-a-future-do-ml-researchers</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>bad a future do ML researchers expect?May 10, 2023 — For these, the median researcher also gave 5% and 10% answers...</p></details>
    Published: May 10, 2023  
 
 19. <a id="endnote-19"></a>
    Source: lesswrong.com  
    Title: ai impacts 2023 expert survey on progress in ai  
-   Link: [https://www.lesswrong.com/posts/RkegCmCgjGhskiFvm/ai-impacts-2023-expert-survey-on-progress-in-ai](https://www.lesswrong.com/posts/RkegCmCgjGhskiFvm/ai-impacts-2023-expert-survey-on-progress-in-ai)  
+   Link: <a href="https://www.lesswrong.com/posts/RkegCmCgjGhskiFvm/ai-impacts-2023-expert-survey-on-progress-in-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/posts/RkegCmCgjGhskiFvm/ai-impacts-2023-expert-survey-on-progress-in-ai</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Jan 2024 — AI Impacts just released the results from their latest survey! I&#x27;ve found this quite interesting to engage with. Here is the...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: lesswrong.com  
    Title: ai impacts survey december 2023 edition  
-   Link: [https://www.lesswrong.com/posts/NfPxAp5uwgZugwovY/ai-impacts-survey-december-2023-edition](https://www.lesswrong.com/posts/NfPxAp5uwgZugwovY/ai-impacts-survey-december-2023-edition)  
+   Link: <a href="https://www.lesswrong.com/posts/NfPxAp5uwgZugwovY/ai-impacts-survey-december-2023-edition" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/posts/NfPxAp5uwgZugwovY/ai-impacts-survey-december-2023-edition</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Impacts Survey: December 2023 EditionJan 5, 2024 — In Figure 13&#x27;s question 3, we have 14.4% mean chance of either human extinction or...</p></details>
    Published: december 2023  
 
 21. <a id="endnote-21"></a>
    Source: Wikipedia  
    Title: AI safety  
-   Link: [https://en.wikipedia.org/wiki/AI_safety](https://en.wikipedia.org/wiki/AI_safety)  
+   Link: <a href="https://en.wikipedia.org/wiki/AI_safety" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/AI_safety</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI safetyAI safety is an interdisciplinary field focused on preventing accidents, [misuse](&amp;#123;&amp;#123; &#x27;misuse/&#x27; | relative_url &amp;#125;&amp;#125;), or other harmful consequences arising from a...</p></details>
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/369063799_AI_Risk_Skepticism_A_Comprehensive_Survey](https://www.researchgate.net/publication/369063799_AI_Risk_Skepticism_A_Comprehensive_Survey)  
+   Link: <a href="https://www.researchgate.net/publication/369063799_AI_Risk_Skepticism_A_Comprehensive_Survey" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/369063799_AI_Risk_Skepticism_A_Comprehensive_Survey</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) AI Risk Skepticism, A Comprehensive SurveyIn this thorough study, we took a closer look at the skepticism that has arisen with resp...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/adam-chalmers-91001413a_ai-artificialintelligence-aisafety-activity-7302592505810743296-KSpp](https://www.linkedin.com/posts/adam-chalmers-91001413a_ai-artificialintelligence-aisafety-activity-7302592505810743296-KSpp)  
+   Link: <a href="https://www.linkedin.com/posts/adam-chalmers-91001413a_ai-artificialintelligence-aisafety-activity-7302592505810743296-KSpp" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/adam-chalmers-91001413a_ai-artificialintelligence-aisafety-activity-7302592505810743296-KSpp</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI risks: Experts&#x27; estimates vary widely | Adam Chalmers...3 Mar 2025 — What are the odds that AI leads to catastrophic outcomes for hum...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/iq-com_why-do-experts-disagree-on-existential-risk-activity-7356043558677630976-pBvi](https://www.linkedin.com/posts/iq-com_why-do-experts-disagree-on-existential-risk-activity-7356043558677630976-pBvi)  
+   Link: <a href="https://www.linkedin.com/posts/iq-com_why-do-experts-disagree-on-existential-risk-activity-7356043558677630976-pBvi" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/iq-com_why-do-experts-disagree-on-existential-risk-activity-7356043558677630976-pBvi</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI researchers divided on existential risk: controllable tool or...A survey of 111 AI researchers reveals deep disagreement on existenti...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: imdb.com  
-   Link: [https://www.imdb.com/title/tt38462048/](https://www.imdb.com/title/tt38462048/)  
+   Link: <a href="https://www.imdb.com/title/tt38462048/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt38462048/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Survey of AI Experts. Podcast Episode; 2025; 3m. YOUR RATING. Rate. Add a plot in your language.Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: cset.georgetown.edu  
    Title: beyond pdoom for ai risk quantifying uncertainty without probability  
-   Link: [https://cset.georgetown.edu/publication/beyond-pdoom-for-ai-risk-quantifying-uncertainty-without-probability/](https://cset.georgetown.edu/publication/beyond-pdoom-for-ai-risk-quantifying-uncertainty-without-probability/)  
+   Link: <a href="https://cset.georgetown.edu/publication/beyond-pdoom-for-ai-risk-quantifying-uncertainty-without-probability/" target="_blank" rel="noopener noreferrer nofollow">https://cset.georgetown.edu/publication/beyond-pdoom-for-ai-risk-quantifying-uncertainty-without-probability/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>P(doom) for AI Risk: Quantifying Uncertainty...As artificial intelligence introduces new risks, some potentially catastrophic or even ex...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/simontorrance_why-do-experts-disagree-on-existential-risk-activity-7301886948334333952-VwQS](https://www.linkedin.com/posts/simontorrance_why-do-experts-disagree-on-existential-risk-activity-7301886948334333952-VwQS)  
+   Link: <a href="https://www.linkedin.com/posts/simontorrance_why-do-experts-disagree-on-existential-risk-activity-7301886948334333952-VwQS" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/simontorrance_why-do-experts-disagree-on-existential-risk-activity-7301886948334333952-VwQS</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;AI as controllable tool&quot; and an &quot;AI as uncontrollable agent&quot; - diverging in beliefs...Read more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: chatpaper.com  
-   Link: [https://chatpaper.com/zh-CN/chatpaper/paper/110361](https://chatpaper.com/zh-CN/chatpaper/paper/110361)  
+   Link: <a href="https://chatpaper.com/zh-CN/chatpaper/paper/110361" target="_blank" rel="noopener noreferrer nofollow">https://chatpaper.com/zh-CN/chatpaper/paper/110361</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Survey of AI Experts. cs.AI23 Feb 2025. Severin Field. Cambridge ERA:AI Fellowship.Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: facebook.com  
    Title: In the largest survey yet of AI researchers, a majority say  
-   Link: [https://www.facebook.com/newscientist/posts/in-the-largest-survey-yet-of-ai-researchers-a-majority-say-there-is-a-non-trivia/763238515844768/](https://www.facebook.com/newscientist/posts/in-the-largest-survey-yet-of-ai-researchers-a-majority-say-there-is-a-non-trivia/763238515844768/)  
+   Link: <a href="https://www.facebook.com/newscientist/posts/in-the-largest-survey-yet-of-ai-researchers-a-majority-say-there-is-a-non-trivia/763238515844768/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newscientist/posts/in-the-largest-survey-yet-of-ai-researchers-a-majority-say-there-is-a-non-trivia/763238515844768/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI advances causing human extinction or similarly permanent and severe disempowerment of the human species?” For this, the median answer...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: semanticscholar.org  
    Title: Why do Experts Disagree on Existential Risk and P(doom)?  
-   Link: [https://www.semanticscholar.org/paper/Why-do-Experts-Disagree-on-Existential-Risk-and-A-Field/38f774f51534dd13cea1137c4a347b046f741b66](https://www.semanticscholar.org/paper/Why-do-Experts-Disagree-on-Existential-Risk-and-A-Field/38f774f51534dd13cea1137c4a347b046f741b66)  
+   Link: <a href="https://www.semanticscholar.org/paper/Why-do-Experts-Disagree-on-Existential-Risk-and-A-Field/38f774f51534dd13cea1137c4a347b046f741b66" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Why-do-Experts-Disagree-on-Existential-Risk-and-A-Field/38f774f51534dd13cea1137c4a347b046f741b66</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>do Experts Disagree on Existential Risk and P(doom)? A Survey of AI Experts · Severin Field · Published in arXiv.org 25 January...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: researchgate.net  
    Title: 396256646 Thousands of AI Authors on the Future of AI  
-   Link: [https://www.researchgate.net/publication/396256646_Thousands_of_AI_Authors_on_the_Future_of_AI](https://www.researchgate.net/publication/396256646_Thousands_of_AI_Authors_on_the_Future_of_AI)  
+   Link: <a href="https://www.researchgate.net/publication/396256646_Thousands_of_AI_Authors_on_the_Future_of_AI" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396256646_Thousands_of_AI_Authors_on_the_Future_of_AI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Thousands of AI Authors on the Future of AIOct 5, 2025 — PDF | In October 2023, 2778 researchers who had published in top-tier artificial...</p></details>
    Published: October 2023  

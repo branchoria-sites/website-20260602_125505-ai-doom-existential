@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-loss-of-contr/
 description: Focused pages that expand on Shutdown risk.
-date: '2026-06-02'
+date: '2026-06-10'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_loss_of_contr_19a113_shutdown_resi_de0ce6
 parent_title: Shutdown risk | Loss of Control

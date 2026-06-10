@@ -12,21 +12,21 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7
 - AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - ai-takeoff
 - compute-brakes
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - ai-takeoff
 - compute-brakes
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Hardware, energy, chips, and money may limit recursive improvement even if algorithms and model design become more automated.
 hero_summary: Hardware, energy, chips, and money may limit recursive improvement even if algorithms and model design become more automated.
 layout: default
 permalink: /compute-brakes/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /ai-takeoff/
 nav_short_title: Compute brakes
 title: Can compute bottlenecks stop an intelligence explosion?
@@ -213,20 +213,20 @@ parent_heading_title: Could AI Improvement Run Away From US?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_recursive_imp_3a3504
-  title: AI Takeoff | AI Doom and
+  title: AI Takeoff | AI Doom and E 87399 b
   permalink: /ai-takeoff/
   short_title: AI Takeoff
   heading_title: Could AI Improvement Run Away From US?
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_recursive_imp_3a3504
-  title: AI Takeoff | AI Doom and
+  title: AI Takeoff | AI Doom and E 87399 b
   permalink: /ai-takeoff/
   short_title: AI Takeoff
   heading_title: Could AI Improvement Run Away From US?
@@ -264,7 +264,7 @@ child_links:
   heading_title: Could the power grid slow a runaway AI race?
 up_link:
   basename: AI_Doom_and_E_87399b_recursive_imp_3a3504
-  title: AI Takeoff | AI Doom and
+  title: AI Takeoff | AI Doom and E 87399 b
   permalink: /ai-takeoff/
   short_title: AI Takeoff
   heading_title: Could AI Improvement Run Away From US?
@@ -282,17 +282,17 @@ image: /assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72
 
 ## Introduction
 
-One objection to AI doom scenarios based on recursive self-improvement is simple: intelligence may be able to improve faster than people, but it cannot improve faster than physics. Even if an advanced AI could automate much of [AI research]({{ 'ai-research-loop/' | relative_url }}), it would still need chips, data centres, [electricity]({{ 'power-limits/' | relative_url }}), networking equipment, cooling systems, manufacturing capacity, and capital. These are physical resources that take time to build and are controlled by humans. The key question is whether such compute bottlenecks would merely slow an intelligence explosion or prevent one altogether.
+One objection to AI doom scenarios based on recursive self-improvement is simple: intelligence may be able to improve faster than people, but it cannot improve faster than physics. Even if an advanced AI could automate much of AI research, it would still need chips, data centres, electricity, networking equipment, cooling systems, manufacturing capacity, and capital. These are physical resources that take time to build and are controlled by humans. The key question is whether such compute bottlenecks would merely slow an intelligence explosion or prevent one altogether.
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72a06a-Illustration-1-dark.svg" | relative_url }}" alt="Compute brakes illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72a06a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72a06a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This is one of the strongest critiques of fast-takeoff and "FOOM" scenarios. Supporters of intelligence-explosion models argue that software improvements could compound rapidly. Critics respond that the real world contains hard constraints: semiconductor fabrication plants cannot be copied instantly, electrical grids cannot expand overnight, and advanced chips remain scarce and expensive. The debate matters because if compute is a binding constraint, societies may have more time to detect [warning signs]({{ 'warning-signs/' | relative_url }}), improve alignment, and coordinate responses. If compute is not a binding constraint, capability growth could remain much harder to control. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2507.23181" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Will Compute Bottlenecks Prevent an Intelligence Explosion?</span><span class="citation-popover-snippet">arXivWill Compute Bottlenecks Prevent an Intelligence Explosion?July 31, 2025...</span><span class="citation-popover-meta">Published: July 31, 2025</span></span></span>
+This is one of the strongest critiques of fast-takeoff and "FOOM" scenarios. Supporters of intelligence-explosion models argue that software improvements could compound rapidly. Critics respond that the real world contains hard constraints: semiconductor fabrication plants cannot be copied instantly, electrical grids cannot expand overnight, and advanced chips remain scarce and expensive. The debate matters because if compute is a binding constraint, societies may have more time to detect [warning signs]({{ 'warning-signs/' | relative_url }}), improve alignment, and coordinate responses. If compute is not a binding constraint, capability growth could remain much harder to control. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2507.23181" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Will Compute Bottlenecks Prevent an Intelligence Explosion?</span><span class="citation-popover-snippet">Will Compute Bottlenecks Prevent an Intelligence Explosion?July 31, 2025...</span><span class="citation-popover-meta">Published: July 31, 2025</span></span></span>
 
 ## Why recursive improvement still needs physical resources
 
-A common misunderstanding is that [recursive]({{ 'ai-takeoff/' | relative_url }}) self-improvement is purely a software process. In practice, AI capability depends on a combination of algorithms, training data, human [expertise]({{ 'expertise-erosion/' | relative_url }}), and computational infrastructure.
+A common misunderstanding is that recursive self-improvement is purely a software process. In practice, AI capability depends on a combination of algorithms, training data, human expertise, and computational infrastructure.
 
-Even a highly capable AI researcher would need access to hardware to run experiments. Improving a model requires testing candidate designs, training new systems, evaluating them, and deploying them. Those activities consume compute. If the amount of computation needed grows alongside the sophistication of the research, then hardware availability becomes a limiting factor. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2507.23181" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Will Compute Bottlenecks Prevent an Intelligence Explosion?</span><span class="citation-popover-snippet">arXivWill Compute Bottlenecks Prevent an Intelligence Explosion?July 31, 2025...</span><span class="citation-popover-meta">Published: July 31, 2025</span></span></span>
+Even a highly capable AI researcher would need access to hardware to run experiments. Improving a model requires testing candidate designs, training new systems, evaluating them, and deploying them. Those activities consume compute. If the amount of computation needed grows alongside the sophistication of the research, then hardware availability becomes a limiting factor. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2507.23181" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Will Compute Bottlenecks Prevent an Intelligence Explosion?</span><span class="citation-popover-snippet">Will Compute Bottlenecks Prevent an Intelligence Explosion?July 31, 2025...</span><span class="citation-popover-meta">Published: July 31, 2025</span></span></span>
 
 Several layers of infrastructure matter:
 
@@ -321,7 +321,7 @@ For critics of intelligence-explosion scenarios, this matters because an AI cann
 
 Advanced semiconductor manufacturing is one of the most concentrated and technically demanding industries in the world. Building new fabrication facilities takes years, requires specialised equipment, and depends on complex global supply chains.
 
-This means that even if an AI system discovered dramatic algorithmic improvements, converting those improvements into vastly greater computational capacity could still be slow. Recent discussions of AI infrastructure repeatedly identify chip manufacturing, memory supply, advanced packaging, and networking components as major constraints on growth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.datacenterknowledge.com/infrastructure/after-the-power-crunch-ai-infrastructure-hits-a-gpu-wall" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datacenterknowledge.com">[DataCenterKnowledge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datacenterknowledge.com</span><span class="citation-popover-snippet">DataCenterKnowledgeAfter the Power Crunch, AI Infrastructure Hits a Silicon WallMay 11, 2026 — A CNAS report argues that chip manufacturi...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cepa.org/article/compute-ai-bubble-or-bottleneck/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cepa.org">[CEPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cepa.org</span><span class="citation-popover-snippet">in both the US and China...</span></span></span>
+This means that even if an AI system discovered dramatic algorithmic improvements, converting those improvements into vastly greater computational capacity could still be slow. Recent discussions of AI infrastructure repeatedly identify chip manufacturing, memory supply, advanced packaging, and networking components as major constraints on growth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.datacenterknowledge.com/infrastructure/after-the-power-crunch-ai-infrastructure-hits-a-gpu-wall" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datacenterknowledge.com">[DataCenterKnowledge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datacenterknowledge.com</span><span class="citation-popover-snippet">After the Power Crunch, AI Infrastructure Hits a Silicon WallMay 11, 2026 — A CNAS report argues that chip manufacturi...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cepa.org/article/compute-ai-bubble-or-bottleneck/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cepa.org">[CEPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cepa.org</span><span class="citation-popover-snippet">in both the US and China...</span></span></span>
 
 From this perspective, recursive improvement may encounter a form of economic friction. Capability gains might continue, but each step would require additional physical investment rather than occurring entirely in software.
 
@@ -329,9 +329,9 @@ From this perspective, recursive improvement may encounter a form of economic fr
 
 Another increasingly prominent argument is that energy, rather than semiconductors, may become the binding constraint.
 
-AI data centres consume large amounts of electricity, and demand projections have led utilities, policymakers, and infrastructure planners to warn about grid constraints. Researchers and policy analysts have argued that electricity supply is becoming one of the most important determinants of future compute growth. Several regions already face delays for new grid connections or restrictions on additional data-centre construction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.csis.org/analysis/electricity-supply-bottleneck-us-ai-dominance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csis.org">[CSIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csis.org</span><span class="citation-popover-title">electricity supply bottleneck us ai dominance</span><span class="citation-popover-snippet">CSISThe Electricity Supply Bottleneck on U.S. AI Dominance3 Mar 2025 — This paper demonstrates how electricity supply is the most acutely...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spglobal.com/en/research-insights/special-reports/look-forward/data-center-frontiers/global-ai-power-demand-challenges-opportunities" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spglobal.com">[2S&amp;P Global]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spglobal.com</span><span class="citation-popover-title">global ai power demand challenges opportunities</span><span class="citation-popover-snippet">S&amp;P GlobalAI&#x27;s global resource race: Challenges and opportunities2 Dec 2025 — Explore how AI energy consumption and data center power dem...</span></span></span>
+AI data centres consume large amounts of electricity, and demand projections have led utilities, policymakers, and infrastructure planners to warn about grid constraints. Researchers and policy analysts have argued that electricity supply is becoming one of the most important determinants of future compute growth. Several regions already face delays for new grid connections or restrictions on additional data-centre construction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.csis.org/analysis/electricity-supply-bottleneck-us-ai-dominance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csis.org">[CSIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csis.org</span><span class="citation-popover-title">electricity supply bottleneck us ai dominance</span><span class="citation-popover-snippet">The Electricity Supply Bottleneck on U.S. AI Dominance3 Mar 2025 — This paper demonstrates how electricity supply is the most acutely...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spglobal.com/en/research-insights/special-reports/look-forward/data-center-frontiers/global-ai-power-demand-challenges-opportunities" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spglobal.com">[2S&amp;P Global]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spglobal.com</span><span class="citation-popover-title">global ai power demand challenges opportunities</span><span class="citation-popover-snippet">S&amp;P GlobalAI&#x27;s global resource race: Challenges and opportunities2 Dec 2025 — Explore how AI energy consumption and data center power dem...</span></span></span>
 
-The concern is not merely total energy production. Large AI clusters require power at specific locations, with reliable transmission infrastructure and cooling capacity. Some studies forecast significant regional stress on electricity systems as [AI compute]({{ 'compute-kyc/' | relative_url }}) demand rises. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2507.23181" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Will Compute Bottlenecks Prevent an Intelligence Explosion?</span><span class="citation-popover-snippet">arXivWill Compute Bottlenecks Prevent an Intelligence Explosion?July 31, 2025...</span><span class="citation-popover-meta">Published: July 31, 2025</span></span></span>
+The concern is not merely total energy production. Large AI clusters require power at specific locations, with reliable transmission infrastructure and cooling capacity. Some studies forecast significant regional stress on electricity systems as [AI compute]({{ 'compute-kyc/' | relative_url }}) demand rises. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2507.23181" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Will Compute Bottlenecks Prevent an Intelligence Explosion?</span><span class="citation-popover-snippet">Will Compute Bottlenecks Prevent an Intelligence Explosion?July 31, 2025...</span><span class="citation-popover-meta">Published: July 31, 2025</span></span></span>
 
 If AI capability growth depends heavily on ever-larger training and inference systems, then energy infrastructure could impose delays measured in years rather than weeks.
 
@@ -341,7 +341,7 @@ If AI capability growth depends heavily on ever-larger training and inference sy
 
 Recursive self-improvement discussions sometimes focus on technical capability while overlooking finance.
 
-Frontier AI systems are already extraordinarily expensive to develop. Training costs have risen rapidly, with hardware, infrastructure, staffing, and networking expenses reaching tens or hundreds of millions of dollars for leading systems. Some analyses suggest that frontier-model development could reach billion-dollar training costs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2507.23181" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Will Compute Bottlenecks Prevent an Intelligence Explosion?</span><span class="citation-popover-snippet">arXivWill Compute Bottlenecks Prevent an Intelligence Explosion?July 31, 2025...</span><span class="citation-popover-meta">Published: July 31, 2025</span></span></span>
+Frontier AI systems are already extraordinarily expensive to develop. Training costs have risen rapidly, with hardware, infrastructure, staffing, and networking expenses reaching tens or hundreds of millions of dollars for leading systems. Some analyses suggest that frontier-model development could reach billion-dollar training costs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2507.23181" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Will Compute Bottlenecks Prevent an Intelligence Explosion?</span><span class="citation-popover-snippet">Will Compute Bottlenecks Prevent an Intelligence Explosion?July 31, 2025...</span><span class="citation-popover-meta">Published: July 31, 2025</span></span></span>
 
 This creates another possible brake. Even if AI systems become excellent researchers, someone must still finance new facilities, purchase hardware, and deploy infrastructure. Capital markets can move quickly, but not infinitely quickly.
 
@@ -351,7 +351,7 @@ A world in which AI capability doubles every few months would still need investo
 
 The strongest counterargument is that intelligence growth does not require compute growth in a one-to-one relationship.
 
-Historically, many important advances in AI have come from algorithmic improvements rather than simply using more hardware. Better architectures, training methods, and optimisation techniques have often achieved the same capability with substantially less computation. Researchers tracking software progress note that efficiency gains have repeatedly reduced the compute needed to reach a given performance level. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://epoch.ai/topics/software-progress" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epoch.ai">[Epoch AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epoch.ai</span><span class="citation-popover-snippet">AI Software Progress: Data &amp; ResearchEpoch tracks these compute efficiency gains, often called algorithmic progress, over time, examining...</span></span></span>
+Historically, many important advances in AI have come from algorithmic improvements rather than simply using more hardware. Better architectures, training methods, and optimisation techniques have often achieved the same capability with substantially less computation. Researchers tracking software progress note that [efficiency gains]({{ 'efficiency-gains/' | relative_url }}) have repeatedly reduced the compute needed to reach a given performance level. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://epoch.ai/topics/software-progress" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epoch.ai">[Epoch AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epoch.ai</span><span class="citation-popover-snippet">AI Software Progress: Data &amp; ResearchEpoch tracks these compute efficiency gains, often called algorithmic progress, over time, examining...</span></span></span>
 
 From this perspective, an advanced AI might improve itself by becoming more efficient rather than by acquiring vastly larger data centres. If software improvements outpace hardware constraints, compute bottlenecks become less effective as a brake.
 
@@ -366,11 +366,11 @@ Supporters of faster-takeoff scenarios therefore argue that physical constraints
 
 The available evidence points in two directions simultaneously.
 
-On one hand, compute constraints appear very real. Industry reporting, infrastructure analyses, and policy studies consistently identify shortages in chips, memory, manufacturing capacity, electricity, cooling systems, and grid connections. These are not hypothetical limitations; they are already influencing AI [deployment]({{ 'release-gates/' | relative_url }}) decisions today. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techradar.com/pro/the-global-memory-shortage-the-hidden-bottleneck-behind-the-ai-boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-snippet">AI infrastructure, especially large language model training and inference, demands significantly more memory than traditional systems, le...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.csis.org/analysis/electricity-supply-bottleneck-us-ai-dominance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csis.org">[CSIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csis.org</span><span class="citation-popover-title">electricity supply bottleneck us ai dominance</span><span class="citation-popover-snippet">CSISThe Electricity Supply Bottleneck on U.S. AI Dominance3 Mar 2025 — This paper demonstrates how electricity supply is the most acutely...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spglobal.com/en/research-insights/special-reports/look-forward/data-center-frontiers/global-ai-power-demand-challenges-opportunities" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spglobal.com">[3S&amp;P Global]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spglobal.com</span><span class="citation-popover-title">global ai power demand challenges opportunities</span><span class="citation-popover-snippet">S&amp;P GlobalAI&#x27;s global resource race: Challenges and opportunities2 Dec 2025 — Explore how AI energy consumption and data center power dem...</span></span></span>
+On one hand, compute constraints appear very real. Industry reporting, infrastructure analyses, and policy studies consistently identify shortages in chips, memory, manufacturing capacity, electricity, cooling systems, and grid connections. These are not hypothetical limitations; they are already influencing AI deployment decisions today. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techradar.com/pro/the-global-memory-shortage-the-hidden-bottleneck-behind-the-ai-boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-snippet">AI infrastructure, especially large language model training and inference, demands significantly more memory than traditional systems, le...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.csis.org/analysis/electricity-supply-bottleneck-us-ai-dominance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csis.org">[CSIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csis.org</span><span class="citation-popover-title">electricity supply bottleneck us ai dominance</span><span class="citation-popover-snippet">The Electricity Supply Bottleneck on U.S. AI Dominance3 Mar 2025 — This paper demonstrates how electricity supply is the most acutely...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spglobal.com/en/research-insights/special-reports/look-forward/data-center-frontiers/global-ai-power-demand-challenges-opportunities" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spglobal.com">[3S&amp;P Global]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spglobal.com</span><span class="citation-popover-title">global ai power demand challenges opportunities</span><span class="citation-popover-snippet">S&amp;P GlobalAI&#x27;s global resource race: Challenges and opportunities2 Dec 2025 — Explore how AI energy consumption and data center power dem...</span></span></span>
 
 On the other hand, there is little evidence that current bottlenecks have halted frontier AI progress. Instead, firms have responded by investing more money, building larger facilities, improving efficiency, and redesigning hardware. The semiconductor and data-centre sectors continue expanding rapidly despite constraints. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tomshardware.com/tech-industry/semiconductors/semiconductor-industry-enters-giga-cycle-as-ai-infrastructure-spending-reshapes-demand" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tomshardware.com">[Tom&#x27;s Hardware]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tomshardware.com</span><span class="citation-popover-snippet">This AI-led growth is simultaneously transforming the economies of compute, memory, networking, and storage. Semiconductor revenues, whic...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://epoch.ai/trends" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epoch.ai">[Epoch AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epoch.ai</span><span class="citation-popover-snippet">in Artificial Intelligence5 Feb 2026 — Frontier AI systems are advancing rapidly from increases in compute, hardware performance, softwar...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yolegroup.com/press-release/data-center-semiconductor-trends-2025-artificial-intelligence-reshapes-compute-and-memory-markets/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yolegroup.com">[Yole Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yolegroup.com</span><span class="citation-popover-snippet">Yole GroupData center semiconductor trends 2025: Artificial...12 Aug 2025 — The total semiconductor market for data centers is projected...</span></span></span>
 
-Recent economic modelling of recursive self-improvement reflects this uncertainty. Some analyses find that compute and human research effort may substitute for one another, while others suggest they are complementary. The result is not a clear demonstration that compute bottlenecks either will or will not prevent an intelligence explosion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2507.23181" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Will Compute Bottlenecks Prevent an Intelligence Explosion?</span><span class="citation-popover-snippet">arXivWill Compute Bottlenecks Prevent an Intelligence Explosion?July 31, 2025...</span><span class="citation-popover-meta">Published: July 31, 2025</span></span></span>
+Recent economic modelling of recursive self-improvement reflects this [uncertainty]({{ 'uncertainty/' | relative_url }}). Some analyses find that compute and human research effort may substitute for one another, while others suggest they are complementary. The result is not a clear demonstration that compute bottlenecks either will or will not prevent an intelligence explosion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2507.23181" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Will Compute Bottlenecks Prevent an Intelligence Explosion?</span><span class="citation-popover-snippet">Will Compute Bottlenecks Prevent an Intelligence Explosion?July 31, 2025...</span><span class="citation-popover-meta">Published: July 31, 2025</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/THdR0AFHz28" title="THE AI DOOM SCENARIO EXPERTS CAN’T DISMISS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=THdR0AFHz28" target="_blank" rel="noopener noreferrer">THE AI DOOM SCENARIO EXPERTS CAN’T DISMISS</a></p><p class="youtube-embed-meta">Channel: Dukta Feelgood &middot; Views: 34 &middot; Uploaded: May 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=THdR0AFHz28" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=THdR0AFHz28">Open on YouTube</a></p></div></div></div>
@@ -379,7 +379,7 @@ Recent economic modelling of recursive self-improvement reflects this uncertaint
 
 A crucial point in the AI doom debate is that slowing an intelligence explosion is not the same as eliminating existential risk.
 
-If compute constraints stretch capability growth over years rather than months, that could create valuable time for safety research, evaluations, interpretability work, governance measures, incident response planning, and international coordination. Many researchers view additional time as one of the most important resources for reducing risk.
+If compute constraints stretch capability growth over years rather than months, that could create valuable time for safety research, [evaluations]({{ 'evaluations/' | relative_url }}), [interpretability]({{ 'interpretability/' | relative_url }}) work, governance measures, incident response planning, and international coordination. Many researchers view additional time as one of the most important resources for reducing risk.
 
 However, a slower takeoff does not automatically make advanced AI safe. A system that remains misaligned, deceptive, or difficult to control could still pose serious dangers even if progress unfolds gradually. The main effect of compute bottlenecks would be to change the speed and visibility of capability growth, not necessarily the underlying alignment problem.
 
@@ -389,7 +389,7 @@ Conversely, observing rapid capability gains despite infrastructure constraints 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72a06a-Illustration-3-dark.svg" | relative_url }}" alt="Compute brakes illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72a06a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72a06a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The bottom line
 
-Compute bottlenecks are one of the most important objections to classic intelligence-explosion arguments. Chips, electricity, data centres, manufacturing capacity, and capital are all physical resources that cannot be expanded instantly. These constraints make the most extreme versions of a purely software-driven runaway intelligence explosion less straightforward than early discussions sometimes implied. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.csis.org/analysis/electricity-supply-bottleneck-us-ai-dominance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csis.org">[CSIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csis.org</span><span class="citation-popover-title">electricity supply bottleneck us ai dominance</span><span class="citation-popover-snippet">CSISThe Electricity Supply Bottleneck on U.S. AI Dominance3 Mar 2025 — This paper demonstrates how electricity supply is the most acutely...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cepa.org/article/compute-ai-bubble-or-bottleneck/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cepa.org">[CEPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cepa.org</span><span class="citation-popover-snippet">in both the US and China...</span></span></span>
+Compute bottlenecks are one of the most important [objections]({{ 'objections/' | relative_url }}) to classic intelligence-explosion arguments. Chips, electricity, data centres, manufacturing capacity, and capital are all physical resources that cannot be expanded instantly. These constraints make the most extreme versions of a purely software-driven runaway intelligence explosion less straightforward than early discussions sometimes implied. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.csis.org/analysis/electricity-supply-bottleneck-us-ai-dominance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csis.org">[CSIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csis.org</span><span class="citation-popover-title">electricity supply bottleneck us ai dominance</span><span class="citation-popover-snippet">The Electricity Supply Bottleneck on U.S. AI Dominance3 Mar 2025 — This paper demonstrates how electricity supply is the most acutely...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cepa.org/article/compute-ai-bubble-or-bottleneck/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cepa.org">[CEPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cepa.org</span><span class="citation-popover-snippet">in both the US and China...</span></span></span>
 
 Yet the evidence does not show that compute bottlenecks would necessarily stop recursive improvement. AI progress has repeatedly benefited from efficiency gains, algorithmic advances, and massive investment that reduced or overcame previous constraints. The central uncertainty is whether future software improvements will outpace the rate at which physical bottlenecks can slow them. That question remains unresolved, making compute constraints one of the most significant and actively debated variables in assessments of AI doom, takeoff speed, and long-term existential risk. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://epoch.ai/gradient-updates/the-software-intelligence-explosion-debate-needs-experiments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epoch.ai">[Epoch AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epoch.ai</span><span class="citation-popover-title">the software intelligence explosion debate needs experiments</span><span class="citation-popover-snippet">The software intelligence explosion debate needs...14 Nov 2025 — For example, increasing difficulty in finding new algorithms might bott...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://epoch.ai/gradient-updates/how-fast-can-algorithms-advance-capabilities" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epoch.ai">[Epoch AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epoch.ai</span><span class="citation-popover-title">how fast can algorithms advance capabilities</span><span class="citation-popover-snippet">?16 May 2025 — In the AI 2027 scenario, the authors predict a fast takeoff of AI systems recursively self-improving until we have superin...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
@@ -479,7 +479,7 @@ Yet the evidence does not show that compute bottlenecks would necessarily stop r
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -488,78 +488,94 @@ Yet the evidence does not show that compute bottlenecks would necessarily stop r
       </div>
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=compute-brakes-can-compute-bottlenecks-stop-an-intelligence-explosion-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2001 AI Artificial Intelligence Double Sided 27&quot; x 41&quot; Theatrical Movie Poster"><img src="{{ '/assets/images/marketplace-covers/93c153cc5f9346af0cb8.jpg' | relative_url }}" alt="Listing image for 2001 AI Artificial Intelligence Double Sided 27&quot; x 41&quot; Theatrical Movie Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-compute-bottlenecks-stop-an-intelligence-explosion-artificial-intelligence-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence t shirt" data-ebay-reference="can-compute-bottlenecks-stop-an-intelligence-explosion-artificial-intelligence-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Evolution of Bender Tshirt Artificial Intelligence Robot Technology Top"><img src="https://i.ebayimg.com/images/g/wzAAAOSw8h1nGhmU/s-l225.jpg" alt="Listing image for Funny Evolution of Bender Tshirt Artificial Intelligence Robot Technology Top" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=compute-brakes-can-compute-bottlenecks-stop-an-intelligence-explosion-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">2001 AI Artificial Intelligence Double Sided 27&quot; x 41&quot; Theatrical Movie Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-compute-bottlenecks-stop-an-intelligence-explosion-artificial-intelligence-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence t shirt" data-ebay-reference="can-compute-bottlenecks-stop-an-intelligence-explosion-artificial-intelligence-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Funny Evolution of Bender Tshirt Artificial Intelligence Robot Technology Top</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=compute-brakes-can-compute-bottlenecks-stop-an-intelligence-explosion-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.com</span>: artificial intelligence poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-compute-bottlenecks-stop-an-intelligence-explosion-artificial-intelligence-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence t shirt" data-ebay-reference="can-compute-bottlenecks-stop-an-intelligence-explosion-artificial-intelligence-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=compute-brakes-can-compute-bottlenecks-stop-an-intelligence-explosion-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-compute-bottlenecks-stop-an-intelligence-explosion-artificial-intelligence-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence t shirt" data-ebay-reference="can-compute-bottlenecks-stop-an-intelligence-explosion-artificial-intelligence-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=compute-brakes-can-compute-bottlenecks-stop-an-intelligence-explosion-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. ARTIFICIAL INTELLIGENCE Original One Sheet Movie Poster - 2001 - SPIELBERG"><img src="{{ '/assets/images/marketplace-covers/196ffedb43a9555ec05d.jpg' | relative_url }}" alt="Listing image for A.I. ARTIFICIAL INTELLIGENCE Original One Sheet Movie Poster - 2001 - SPIELBERG" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-compute-bottlenecks-stop-an-intelligence-explosion-artificial-intelligence-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence t shirt" data-ebay-reference="can-compute-bottlenecks-stop-an-intelligence-explosion-artificial-intelligence-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SKYNET LB MENS T SHIRT RETRO CYBERDYNE ARTIFICIAL INTELLIGENCE ARNIE CLASSIC"><img src="https://i.ebayimg.com/images/g/mjUAAOSwlFFhGndB/s-l225.jpg" alt="Listing image for SKYNET LB MENS T SHIRT RETRO CYBERDYNE ARTIFICIAL INTELLIGENCE ARNIE CLASSIC" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=compute-brakes-can-compute-bottlenecks-stop-an-intelligence-explosion-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A.I. ARTIFICIAL INTELLIGENCE Original One Sheet Movie Poster - 2001 - SPIELBERG</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-compute-bottlenecks-stop-an-intelligence-explosion-artificial-intelligence-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence t shirt" data-ebay-reference="can-compute-bottlenecks-stop-an-intelligence-explosion-artificial-intelligence-t-shirt" target="_blank" rel="sponsored noopener noreferrer">SKYNET LB MENS T SHIRT RETRO CYBERDYNE ARTIFICIAL INTELLIGENCE ARNIE CLASSIC</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=compute-brakes-can-compute-bottlenecks-stop-an-intelligence-explosion-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.com</span>: artificial intelligence poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-compute-bottlenecks-stop-an-intelligence-explosion-artificial-intelligence-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence t shirt" data-ebay-reference="can-compute-bottlenecks-stop-an-intelligence-explosion-artificial-intelligence-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=compute-brakes-can-compute-bottlenecks-stop-an-intelligence-explosion-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-compute-bottlenecks-stop-an-intelligence-explosion-artificial-intelligence-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence t shirt" data-ebay-reference="can-compute-bottlenecks-stop-an-intelligence-explosion-artificial-intelligence-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=compute-brakes-can-compute-bottlenecks-stop-an-intelligence-explosion-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Artificial Intelligence D/S Original Movie Poster - 27 x 40&quot;"><img src="{{ '/assets/images/marketplace-covers/ee257b4353feff751eb7.jpg' | relative_url }}" alt="Listing image for Artificial Intelligence D/S Original Movie Poster - 27 x 40&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-compute-bottlenecks-stop-an-intelligence-explosion-artificial-intelligence-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence t shirt" data-ebay-reference="can-compute-bottlenecks-stop-an-intelligence-explosion-artificial-intelligence-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Skynet Artificial Intelligence Male Adults Short Sleeve Soft Style T Shirt"><img src="https://i.ebayimg.com/images/g/VRsAAeSwQbdo~kUn/s-l225.jpg" alt="Listing image for Skynet Artificial Intelligence Male Adults Short Sleeve Soft Style T Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=compute-brakes-can-compute-bottlenecks-stop-an-intelligence-explosion-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Artificial Intelligence D/S Original Movie Poster - 27 x 40&quot;</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-compute-bottlenecks-stop-an-intelligence-explosion-artificial-intelligence-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence t shirt" data-ebay-reference="can-compute-bottlenecks-stop-an-intelligence-explosion-artificial-intelligence-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Skynet Artificial Intelligence Male Adults Short Sleeve Soft Style T Shirt</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=compute-brakes-can-compute-bottlenecks-stop-an-intelligence-explosion-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.com</span>: artificial intelligence poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-compute-bottlenecks-stop-an-intelligence-explosion-artificial-intelligence-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence t shirt" data-ebay-reference="can-compute-bottlenecks-stop-an-intelligence-explosion-artificial-intelligence-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=compute-brakes-can-compute-bottlenecks-stop-an-intelligence-explosion-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-compute-bottlenecks-stop-an-intelligence-explosion-artificial-intelligence-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence t shirt" data-ebay-reference="can-compute-bottlenecks-stop-an-intelligence-explosion-artificial-intelligence-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=compute-brakes-can-compute-bottlenecks-stop-an-intelligence-explosion-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Companion - Artificial Intelligence Dark Comedy Cinema Film - POSTER 20&quot;x30&quot;"><img src="{{ '/assets/images/marketplace-covers/23a7b1724046ba6c1026.jpg' | relative_url }}" alt="Listing image for Companion - Artificial Intelligence Dark Comedy Cinema Film - POSTER 20&quot;x30&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-compute-bottlenecks-stop-an-intelligence-explosion-artificial-intelligence-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence t shirt" data-ebay-reference="can-compute-bottlenecks-stop-an-intelligence-explosion-artificial-intelligence-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Move 37 T Shirt AlphaGo Lee Sedol Ai Artificial Intelligence Game of Go"><img src="https://i.ebayimg.com/images/g/sckAAOSwETJnL5g7/s-l225.jpg" alt="Listing image for Move 37 T Shirt AlphaGo Lee Sedol Ai Artificial Intelligence Game of Go" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=compute-brakes-can-compute-bottlenecks-stop-an-intelligence-explosion-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Companion - Artificial Intelligence Dark Comedy Cinema Film - POSTER 20&quot;x30&quot;</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-compute-bottlenecks-stop-an-intelligence-explosion-artificial-intelligence-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence t shirt" data-ebay-reference="can-compute-bottlenecks-stop-an-intelligence-explosion-artificial-intelligence-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Move 37 T Shirt AlphaGo Lee Sedol Ai Artificial Intelligence Game of Go</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=compute-brakes-can-compute-bottlenecks-stop-an-intelligence-explosion-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.com</span>: artificial intelligence poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-compute-bottlenecks-stop-an-intelligence-explosion-artificial-intelligence-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence t shirt" data-ebay-reference="can-compute-bottlenecks-stop-an-intelligence-explosion-artificial-intelligence-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=compute-brakes-can-compute-bottlenecks-stop-an-intelligence-explosion-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-compute-bottlenecks-stop-an-intelligence-explosion-artificial-intelligence-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence t shirt" data-ebay-reference="can-compute-bottlenecks-stop-an-intelligence-explosion-artificial-intelligence-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=compute-brakes-can-compute-bottlenecks-stop-an-intelligence-explosion-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-compute-bottlenecks-stop-an-intelligence-explosion-artificial-intelligence-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence t shirt" data-ebay-reference="can-compute-bottlenecks-stop-an-intelligence-explosion-artificial-intelligence-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -635,17 +651,31 @@ Yet the evidence does not show that compute bottlenecks would necessarily stop r
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -658,42 +688,73 @@ Yet the evidence does not show that compute bottlenecks would necessarily stop r
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -708,181 +769,185 @@ Yet the evidence does not show that compute bottlenecks would necessarily stop r
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: arxiv.org  
    Title: arXiv Will Compute Bottlenecks Prevent an Intelligence Explosion?  
-   Link: [https://arxiv.org/abs/2507.23181](https://arxiv.org/abs/2507.23181)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivWill Compute Bottlenecks Prevent an Intelligence Explosion?July 31, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2507.23181" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2507.23181</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Will Compute Bottlenecks Prevent an Intelligence Explosion?July 31, 2025...</p></details>
    Published: July 31, 2025  
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2507.23181v1](https://arxiv.org/html/2507.23181v1)  
+   Link: <a href="https://arxiv.org/html/2507.23181v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2507.23181v1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>We show the...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: mckinsey.com  
    Title: the cost of compute a 7 trillion dollar race to scale data centers  
-   Link: [https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-cost-of-compute-a-7-trillion-dollar-race-to-scale-data-centers](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-cost-of-compute-a-7-trillion-dollar-race-to-scale-data-centers)  
+   Link: <a href="https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-cost-of-compute-a-7-trillion-dollar-race-to-scale-data-centers" target="_blank" rel="noopener noreferrer nofollow">https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-cost-of-compute-a-7-trillion-dollar-race-to-scale-data-centers</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>McKinsey &amp; CompanyThe cost of compute: A $7 trillion race to scale data centers28 Apr 2025 — Our research shows that by 2030, data center...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv The rising costs of training frontier AI models  
-   Link: [https://arxiv.org/abs/2405.21015](https://arxiv.org/abs/2405.21015)  
+   Link: <a href="https://arxiv.org/abs/2405.21015" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.21015</a>  
 
 5. <a id="endnote-5"></a>
    Source: datacenterknowledge.com  
-   Link: [https://www.datacenterknowledge.com/infrastructure/after-the-power-crunch-ai-infrastructure-hits-a-gpu-wall](https://www.datacenterknowledge.com/infrastructure/after-the-power-crunch-ai-infrastructure-hits-a-gpu-wall)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DataCenterKnowledgeAfter the Power Crunch, AI Infrastructure Hits a Silicon WallMay 11, 2026 — A CNAS report argues that chip manufacturi...</p></details>
+   Link: <a href="https://www.datacenterknowledge.com/infrastructure/after-the-power-crunch-ai-infrastructure-hits-a-gpu-wall" target="_blank" rel="noopener noreferrer nofollow">https://www.datacenterknowledge.com/infrastructure/after-the-power-crunch-ai-infrastructure-hits-a-gpu-wall</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>After the Power Crunch, AI Infrastructure Hits a Silicon WallMay 11, 2026 — A CNAS report argues that chip manufacturi...</p></details>
    Published: May 11, 2026  
 
 6. <a id="endnote-6"></a>
    Source: cepa.org  
-   Link: [https://cepa.org/article/compute-ai-bubble-or-bottleneck/](https://cepa.org/article/compute-ai-bubble-or-bottleneck/)  
+   Link: <a href="https://cepa.org/article/compute-ai-bubble-or-bottleneck/" target="_blank" rel="noopener noreferrer nofollow">https://cepa.org/article/compute-ai-bubble-or-bottleneck/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>in both the US and China...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: techradar.com  
-   Link: [https://www.techradar.com/pro/the-global-memory-shortage-the-hidden-bottleneck-behind-the-ai-boom](https://www.techradar.com/pro/the-global-memory-shortage-the-hidden-bottleneck-behind-the-ai-boom)  
+   Link: <a href="https://www.techradar.com/pro/the-global-memory-shortage-the-hidden-bottleneck-behind-the-ai-boom" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/pro/the-global-memory-shortage-the-hidden-bottleneck-behind-the-ai-boom</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI infrastructure, especially large language model training and inference, demands significantly more memory than traditional systems, le...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: csis.org  
    Title: electricity supply bottleneck us ai dominance  
-   Link: [https://www.csis.org/analysis/electricity-supply-bottleneck-us-ai-dominance](https://www.csis.org/analysis/electricity-supply-bottleneck-us-ai-dominance)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CSISThe Electricity Supply Bottleneck on U.S. AI Dominance3 Mar 2025 — This paper demonstrates how electricity supply is the most acutely...</p></details>
+   Link: <a href="https://www.csis.org/analysis/electricity-supply-bottleneck-us-ai-dominance" target="_blank" rel="noopener noreferrer nofollow">https://www.csis.org/analysis/electricity-supply-bottleneck-us-ai-dominance</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Electricity Supply Bottleneck on U.S. AI Dominance3 Mar 2025 — This paper demonstrates how electricity supply is the most acutely...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2604.06198](https://arxiv.org/abs/2604.06198)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivConcentrated siting of AI data centers drives regional power-system stress under rising global compute demandMarch 13, 2026...</p></details>
+   Link: <a href="https://arxiv.org/abs/2604.06198" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.06198</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Concentrated siting of AI data centers drives regional power-system stress under rising global compute demandMarch 13, 2026...</p></details>
    Published: March 13, 2026  
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2509.07218](https://arxiv.org/abs/2509.07218)  
+   Link: <a href="https://arxiv.org/abs/2509.07218" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2509.07218</a>  
 
 11. <a id="endnote-11"></a>
    Source: epoch.ai  
-   Link: [https://epoch.ai/topics/software-progress](https://epoch.ai/topics/software-progress)  
+   Link: <a href="https://epoch.ai/topics/software-progress" target="_blank" rel="noopener noreferrer nofollow">https://epoch.ai/topics/software-progress</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Software Progress: Data &amp; ResearchEpoch tracks these compute efficiency gains, often called algorithmic progress, over time, examining...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: epoch.ai  
-   Link: [https://epoch.ai/trends](https://epoch.ai/trends)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in [Artificial](&amp;#123;&amp;#123; &#x27;artificial-goals/&#x27; | relative_url &amp;#125;&amp;#125;) Intelligence5 Feb 2026 — Frontier AI systems are advancing rapidly from increases in compute, hardware performance, softwar...</p></details>
+   Link: <a href="https://epoch.ai/trends" target="_blank" rel="noopener noreferrer nofollow">https://epoch.ai/trends</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>in Artificial Intelligence5 Feb 2026 — Frontier AI systems are advancing rapidly from increases in compute, hardware performance, softwar...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/business/retail-consumer/energy-use-forcing-rethink-ai-chip-design-tsmc-says-2026-05-28/](https://www.reuters.com/business/retail-consumer/energy-use-forcing-rethink-ai-chip-design-tsmc-says-2026-05-28/)  
+   Link: <a href="https://www.reuters.com/business/retail-consumer/energy-use-forcing-rethink-ai-chip-design-tsmc-says-2026-05-28/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/retail-consumer/energy-use-forcing-rethink-ai-chip-design-tsmc-says-2026-05-28/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kevin Zhang, TSMC’s Senior VP of Business Development, noted that customers — including those in mobile, IoT, and high-performance AI dat...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: epoch.ai  
    Title: the software intelligence explosion debate needs experiments  
-   Link: [https://epoch.ai/gradient-updates/the-software-intelligence-explosion-debate-needs-experiments](https://epoch.ai/gradient-updates/the-software-intelligence-explosion-debate-needs-experiments)  
+   Link: <a href="https://epoch.ai/gradient-updates/the-software-intelligence-explosion-debate-needs-experiments" target="_blank" rel="noopener noreferrer nofollow">https://epoch.ai/gradient-updates/the-software-intelligence-explosion-debate-needs-experiments</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The software intelligence explosion debate needs...14 Nov 2025 — For example, increasing difficulty in finding new algorithms might bott...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: epoch.ai  
    Title: how fast can algorithms advance capabilities  
-   Link: [https://epoch.ai/gradient-updates/how-fast-can-algorithms-advance-capabilities](https://epoch.ai/gradient-updates/how-fast-can-algorithms-advance-capabilities)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>?16 May 2025 — In the AI 2027 scenario, the authors predict a fast takeoff of AI systems recursively self-improving until we have superin...</p></details>
+   Link: <a href="https://epoch.ai/gradient-updates/how-fast-can-algorithms-advance-capabilities" target="_blank" rel="noopener noreferrer nofollow">https://epoch.ai/gradient-updates/how-fast-can-algorithms-advance-capabilities</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>?16 May 2025 — In the AI 2027 scenario, the authors predict a [fast takeoff](&amp;#123;&amp;#123; &#x27;fast-takeoff/&#x27; | relative_url &amp;#125;&amp;#125;) of AI systems recursively self-improving until we have superin...</p></details>
    Published: May 2025  
 
 16. <a id="endnote-16"></a>
    Source: epoch.ai  
    Title: compute for robotic manipulation  
-   Link: [https://epoch.ai/data-insights/compute-for-robotic-manipulation](https://epoch.ai/data-insights/compute-for-robotic-manipulation)  
+   Link: <a href="https://epoch.ai/data-insights/compute-for-robotic-manipulation" target="_blank" rel="noopener noreferrer nofollow">https://epoch.ai/data-insights/compute-for-robotic-manipulation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Compute is not a bottleneck for robotic manipulation8 Aug 2025 — Compute is not a bottleneck for robotics, while training data is. Fronti...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: spglobal.com  
    Title: global ai power demand challenges opportunities  
-   Link: [https://www.spglobal.com/en/research-insights/special-reports/look-forward/data-center-frontiers/global-ai-power-demand-challenges-opportunities](https://www.spglobal.com/en/research-insights/special-reports/look-forward/data-center-frontiers/global-ai-power-demand-challenges-opportunities)  
+   Link: <a href="https://www.spglobal.com/en/research-insights/special-reports/look-forward/data-center-frontiers/global-ai-power-demand-challenges-opportunities" target="_blank" rel="noopener noreferrer nofollow">https://www.spglobal.com/en/research-insights/special-reports/look-forward/data-center-frontiers/global-ai-power-demand-challenges-opportunities</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>S&amp;P GlobalAI&#x27;s global resource race: Challenges and opportunities2 Dec 2025 — Explore how AI energy consumption and data center power dem...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: yolegroup.com  
-   Link: [https://www.yolegroup.com/press-release/data-center-semiconductor-trends-2025-artificial-intelligence-reshapes-compute-and-memory-markets/](https://www.yolegroup.com/press-release/data-center-semiconductor-trends-2025-artificial-intelligence-reshapes-compute-and-memory-markets/)  
+   Link: <a href="https://www.yolegroup.com/press-release/data-center-semiconductor-trends-2025-artificial-intelligence-reshapes-compute-and-memory-markets/" target="_blank" rel="noopener noreferrer nofollow">https://www.yolegroup.com/press-release/data-center-semiconductor-trends-2025-artificial-intelligence-reshapes-compute-and-memory-markets/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Yole GroupData center semiconductor trends 2025: Artificial...12 Aug 2025 — The total semiconductor market for data centers is projected...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: tomshardware.com  
-   Link: [https://www.tomshardware.com/tech-industry/semiconductors/semiconductor-industry-enters-giga-cycle-as-ai-infrastructure-spending-reshapes-demand](https://www.tomshardware.com/tech-industry/semiconductors/semiconductor-industry-enters-giga-cycle-as-ai-infrastructure-spending-reshapes-demand)  
+   Link: <a href="https://www.tomshardware.com/tech-industry/semiconductors/semiconductor-industry-enters-giga-cycle-as-ai-infrastructure-spending-reshapes-demand" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/semiconductors/semiconductor-industry-enters-giga-cycle-as-ai-infrastructure-spending-reshapes-demand</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This AI-led growth is simultaneously transforming the economies of compute, memory, networking, and storage. Semiconductor revenues, whic...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: aimultiple.com  
    Title: ai energy consumption  
-   Link: [https://aimultiple.com/ai-energy-consumption](https://aimultiple.com/ai-energy-consumption)  
+   Link: <a href="https://aimultiple.com/ai-energy-consumption" target="_blank" rel="noopener noreferrer nofollow">https://aimultiple.com/ai-energy-consumption</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Statistics5 days ago — Globally, data centers consumed about 415 TWh of electricity in 2024. While AI currently represents a minority sha...</p></details>
 
 ### Additional References
 
 21. <a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/391150569_AI%27s_Power_Requirements_Under_Exponential_Growth_Extrapolating_AI_Data_Center_Power_Demand_and_Assessing_Its_Potential_Impact_on_US_Competitiveness](https://www.researchgate.net/publication/391150569_AI%27s_Power_Requirements_Under_Exponential_Growth_Extrapolating_AI_Data_Center_Power_Demand_and_Assessing_Its_Potential_Impact_on_US_Competitiveness)  
+   Link: <a href="https://www.researchgate.net/publication/391150569_AI%27s_Power_Requirements_Under_Exponential_Growth_Extrapolating_AI_Data_Center_Power_Demand_and_Assessing_Its_Potential_Impact_on_US_Competitiveness" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391150569_AI%27s_Power_Requirements_Under_Exponential_Growth_Extrapolating_AI_Data_Center_Power_Demand_and_Assessing_Its_Potential_Impact_on_US_Competitiveness</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) AI&#x27;s Power Requirements Under Exponential Growth...PDF | An exponential increase in computational resources (compute) used for art...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/robbie-whelan-21808015_were-using-so-much-ai-that-computing-firepower-activity-7449495574992588800-eDLo](https://www.linkedin.com/posts/robbie-whelan-21808015_were-using-so-much-ai-that-computing-firepower-activity-7449495574992588800-eDLo)  
+   Link: <a href="https://www.linkedin.com/posts/robbie-whelan-21808015_were-using-so-much-ai-that-computing-firepower-activity-7449495574992588800-eDLo" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/robbie-whelan-21808015_were-using-so-much-ai-that-computing-firepower-activity-7449495574992588800-eDLo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Compute Crunch: Data Centers Can&#x27;t Keep UpWhy are some prominent AI tools seeing so many outages and rationing usage to subscribers? W...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/dsbkkgroup/posts/3173220452849940/](https://www.facebook.com/groups/dsbkkgroup/posts/3173220452849940/)  
+   Link: <a href="https://www.facebook.com/groups/dsbkkgroup/posts/3173220452849940/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/dsbkkgroup/posts/3173220452849940/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI infrastructure and productivity growth prospectsMy assumptions: 1) AI infrastructure built-outs are the same as fiber optics were. Bot...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/ais-hidden-bottleneck-why-power-chips-decide-100b-data-center-5kr0e](https://www.linkedin.com/pulse/ais-hidden-bottleneck-why-power-chips-decide-100b-data-center-5kr0e)  
+   Link: <a href="https://www.linkedin.com/pulse/ais-hidden-bottleneck-why-power-chips-decide-100b-data-center-5kr0e" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/ais-hidden-bottleneck-why-power-chips-decide-100b-data-center-5kr0e</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI&#x27;s Hidden Bottleneck: Why Power, Not Chips, Will Decide...Sightline Climate published a report projecting that 30 to 50 percent of the...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: kiplinger.com  
-   Link: [https://www.kiplinger.com/business/ai-is-powering-a-semiconductor-boom](https://www.kiplinger.com/business/ai-is-powering-a-semiconductor-boom)  
+   Link: <a href="https://www.kiplinger.com/business/ai-is-powering-a-semiconductor-boom" target="_blank" rel="noopener noreferrer nofollow">https://www.kiplinger.com/business/ai-is-powering-a-semiconductor-boom</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Global chip sales are projected to reach $1.3 trillion in 2026, marking a 60% increase from the previous year. AI-related chips will acco...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/jaykapoor_the-ai-industry-rings-its-hands-about-a-chip-activity-7451029971541635073--nNQ](https://www.linkedin.com/posts/jaykapoor_the-ai-industry-rings-its-hands-about-a-chip-activity-7451029971541635073--nNQ)  
+   Link: <a href="https://www.linkedin.com/posts/jaykapoor_the-ai-industry-rings-its-hands-about-a-chip-activity-7451029971541635073--nNQ" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/jaykapoor_the-ai-industry-rings-its-hands-about-a-chip-activity-7451029971541635073--nNQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jensen Huang Warns of Dirty Jobs Bottleneck in AI IndustryThe AI industry rings its hands about a chip problem. Jensen Huang just told Dw...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40jannadikhemais/the-ai-race-shifts-from-chips-to-energy-for-data-centers-cc623a13c7f4](https://medium.com/%40jannadikhemais/the-ai-race-shifts-from-chips-to-energy-for-data-centers-cc623a13c7f4)  
+   Link: <a href="https://medium.com/%40jannadikhemais/the-ai-race-shifts-from-chips-to-energy-for-data-centers-cc623a13c7f4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40jannadikhemais/the-ai-race-shifts-from-chips-to-energy-for-data-centers-cc623a13c7f4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The AI Race Shifts from Chips to Energy for Data CentersA recent Financial Times report highlights that investments in AI are now tied mo...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: bain.com  
    Title: how can we meet ais insatiable demand for compute power technology report 2025  
-   Link: [https://www.bain.com/insights/how-can-we-meet-ais-insatiable-demand-for-compute-power-technology-report-2025/](https://www.bain.com/insights/how-can-we-meet-ais-insatiable-demand-for-compute-power-technology-report-2025/)  
+   Link: <a href="https://www.bain.com/insights/how-can-we-meet-ais-insatiable-demand-for-compute-power-technology-report-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.bain.com/insights/how-can-we-meet-ais-insatiable-demand-for-compute-power-technology-report-2025/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Can We Meet AI&#x27;s Insatiable Demand for Compute...Sep 23, 2025 — AI&#x27;s computational needs are growing more than twice as fast as Moor...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: researchgate.net  
    Title: 394175305 Will Compute Bottlenecks Prevent an Intelligence Explosion  
-   Link: [https://www.researchgate.net/publication/394175305_Will_Compute_Bottlenecks_Prevent_an_Intelligence_Explosion](https://www.researchgate.net/publication/394175305_Will_Compute_Bottlenecks_Prevent_an_Intelligence_Explosion)  
+   Link: <a href="https://www.researchgate.net/publication/394175305_Will_Compute_Bottlenecks_Prevent_an_Intelligence_Explosion" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394175305_Will_Compute_Bottlenecks_Prevent_an_Intelligence_Explosion</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Will Compute Bottlenecks Prevent an Intelligence Explosion?19 Jan 2026 — This paper presents an economic model and an empirical estimatio...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: linkedin.com  
    Title: 2 ai chips data centers q4 2024 q2 2025 trends dino cajic mym9e  
-   Link: [https://www.linkedin.com/pulse/2-ai-chips-data-centers-q4-2024-q2-2025-trends-dino-cajic-mym9e](https://www.linkedin.com/pulse/2-ai-chips-data-centers-q4-2024-q2-2025-trends-dino-cajic-mym9e)  
+   Link: <a href="https://www.linkedin.com/pulse/2-ai-chips-data-centers-q4-2024-q2-2025-trends-dino-cajic-mym9e" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/2-ai-chips-data-centers-q4-2024-q2-2025-trends-dino-cajic-mym9e</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2). AI Chips and Data Centers: Q4 2024 – Q2 2025 TrendsThe last few months have seen record-breaking AI chip performance, new approaches...</p></details>

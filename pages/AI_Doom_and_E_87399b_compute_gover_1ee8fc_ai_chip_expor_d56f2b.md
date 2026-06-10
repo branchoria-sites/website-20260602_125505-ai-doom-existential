@@ -12,21 +12,21 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38
 - AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - governance
 - chip-controls
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - governance
 - chip-controls
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Restrictions on advanced AI hardware aim to slow dangerous capability growth, but their long-term impact remains disputed.
 hero_summary: Restrictions on advanced AI hardware aim to slow dangerous capability growth, but their long-term impact remains disputed.
 layout: default
 permalink: /chip-controls/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /governance/
 nav_short_title: Chip Controls
 title: Can AI Chip Controls Slow Dangerous Capabilities?
@@ -205,6 +205,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-02 12:00:44'
 parent_title: What Rules Could Reduce AI Doom Risk? | AI Doom
 parent_permalink: /governance/
 parent_nav_short_title: Governance
@@ -212,20 +213,20 @@ parent_heading_title: What Rules Could Reduce AI Doom Risk?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_compute_gover_1ee8fc
-  title: Governance | AI Doom and
+  title: Governance | AI Doom and E 87399 b
   permalink: /governance/
   short_title: Governance
   heading_title: What Rules Could Reduce AI Doom Risk?
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_compute_gover_1ee8fc
-  title: Governance | AI Doom and
+  title: Governance | AI Doom and E 87399 b
   permalink: /governance/
   short_title: Governance
   heading_title: What Rules Could Reduce AI Doom Risk?
@@ -263,7 +264,7 @@ child_links:
   heading_title: Do chip controls really buy safety time?
 up_link:
   basename: AI_Doom_and_E_87399b_compute_gover_1ee8fc
-  title: Governance | AI Doom and
+  title: Governance | AI Doom and E 87399 b
   permalink: /governance/
   short_title: Governance
   heading_title: What Rules Could Reduce AI Doom Risk?
@@ -273,7 +274,6 @@ next_link:
   permalink: /cloud-oversight/
   short_title: Cloud Oversight
   heading_title: Can Cloud Providers Police Frontier AI Training?
-date: '2026-06-02 12:00:44 '
 header:
   og_image: /assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_ai_chip_expor_d56f2b-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_ai_chip_expor_d56f2b-Illustration-1.webp
@@ -282,13 +282,13 @@ image: /assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_ai_chip_expor_d5
 
 ## Introduction
 
-Do export controls on AI chips reduce existential risk? The short answer is: possibly, but only under specific assumptions about how advanced AI might become [dangerous]({{ 'autonomy/' | relative_url }}).
+Do export controls on AI chips reduce existential risk? The short answer is: possibly, but only under specific assumptions about how advanced AI might become dangerous.
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_ai_chip_expor_d56f2b-Illustration-1-dark.svg" | relative_url }}" alt="Chip Controls illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_ai_chip_expor_d56f2b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_ai_chip_expor_d56f2b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 People worried about AI doom or existential risk often argue that access to enormous amounts of computing power is one of the main constraints on building frontier AI systems. If that is true, restricting access to the most advanced AI chips could slow the development of extremely capable systems, buy time for safety research, and reduce the pressure of an international race toward increasingly powerful AI. On that view, chip controls are one of the few interventions that target a physical bottleneck rather than software that can be copied and distributed easily. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.governance.ai/Computing_Power_and_the_Governance_of_AI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.governance.ai">[cdn.governance.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.governance.ai</span><span class="citation-popover-title">Computing Power and the Governance of Artificial</span><span class="citation-popover-snippet">February 13, 2024 — 14 Feb 2024 — Computing power, or &quot;compute,&quot; is crucial for the development and deployment of artificial intelligence...</span><span class="citation-popover-meta">Published: February 13, 2024</span></span></span>
 
-However, the case is far from settled. Critics argue that export controls may only delay capability growth rather than stop it, may encourage domestic chip industries in targeted countries, and may worsen [geopolitical]({{ 'geopolitics/' | relative_url }}) competition in ways that make international AI safety cooperation harder. Whether chip controls reduce existential risk depends heavily on timelines, enforcement, technological trends, and how one thinks AI doom could occur. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chathamhouse.org/2026/04/ai-export-controls-are-not-best-bargaining-chip" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chathamhouse.org">[Chatham House]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chathamhouse.org</span><span class="citation-popover-title">ai export controls are not best bargaining chip</span><span class="citation-popover-snippet">Chatham HouseAI export controls are not the best bargaining chip29 Apr 2026 — US export controls on chips and hardware alone will not pre...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.csis.org/analysis/limits-chip-export-controls-meeting-china-challenge" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csis.org">[CSIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csis.org</span><span class="citation-popover-snippet">CSISThe Limits of Chip Export Controls in Meeting the China...Apr 14, 2025 — Impair Chinese capabilities in AI and supercomputing by cut...</span></span></span>
+However, the case is far from settled. Critics argue that export controls may only delay capability growth rather than stop it, may encourage domestic chip industries in targeted countries, and may worsen geopolitical competition in ways that make international AI safety cooperation harder. Whether chip controls reduce existential risk depends heavily on timelines, enforcement, technological trends, and how one thinks AI doom could occur. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chathamhouse.org/2026/04/ai-export-controls-are-not-best-bargaining-chip" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chathamhouse.org">[Chatham House]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chathamhouse.org</span><span class="citation-popover-title">ai export controls are not best bargaining chip</span><span class="citation-popover-snippet">Chatham HouseAI export controls are not the best bargaining chip29 Apr 2026 — US export controls on chips and hardware alone will not pre...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.csis.org/analysis/limits-chip-export-controls-meeting-china-challenge" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csis.org">[CSIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csis.org</span><span class="citation-popover-snippet">The Limits of Chip Export Controls in Meeting the China...Apr 14, 2025 — Impair Chinese capabilities in AI and supercomputing by cut...</span></span></span>
 
 ## How AI Hardware Export Controls Work
 
@@ -322,9 +322,9 @@ Many AI doom scenarios assume that existential risk becomes serious only after s
 
 Under this view, slowing capability growth has value because safety work and capability work are not progressing at the same speed. A delay is useful if safety improves faster than capabilities during that period.
 
-There is also a race-dynamics argument. Some researchers worry that competition between major powers or major AI companies could create incentives to deploy systems before they are adequately understood. If export controls reduce the pace of the race or preserve opportunities for coordination, they could indirectly reduce existential risk. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2506.20530v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivToward a Global Regime for Compute Governance25 Jun 2025 — Applied to frontier AI, a global export control regime would restrict the...</span></span></span>
+There is also a race-dynamics argument. Some researchers worry that competition between major powers or major AI companies could create incentives to deploy systems before they are adequately understood. If export controls reduce the pace of the race or preserve opportunities for coordination, they could indirectly reduce existential risk. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2506.20530v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Toward a Global Regime for Compute Governance25 Jun 2025 — Applied to frontier AI, a global export control regime would restrict the...</span></span></span>
 
-Another argument is based on concentration. If only a small number of actors can access the largest AI clusters, governments may find it easier to monitor frontier development and identify warning signs before extremely capable systems are created. Export controls can therefore be viewed as supporting broader compute governance rather than as a standalone safety measure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.governance.ai/Computing_Power_and_the_Governance_of_AI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.governance.ai">[cdn.governance.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.governance.ai</span><span class="citation-popover-title">Computing Power and the Governance of Artificial</span><span class="citation-popover-snippet">February 13, 2024 — 14 Feb 2024 — Computing power, or &quot;compute,&quot; is crucial for the development and deployment of artificial intelligence...</span><span class="citation-popover-meta">Published: February 13, 2024</span></span></span>
+Another argument is based on concentration. If only a small number of actors can access the largest AI clusters, governments may find it easier to monitor frontier development and identify [warning signs]({{ 'warning-signs/' | relative_url }}) before extremely capable systems are created. Export controls can therefore be viewed as supporting broader compute governance rather than as a standalone safety measure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.governance.ai/Computing_Power_and_the_Governance_of_AI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.governance.ai">[cdn.governance.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.governance.ai</span><span class="citation-popover-title">Computing Power and the Governance of Artificial</span><span class="citation-popover-snippet">February 13, 2024 — 14 Feb 2024 — Computing power, or &quot;compute,&quot; is crucial for the development and deployment of artificial intelligence...</span><span class="citation-popover-meta">Published: February 13, 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DAA25e6oMF4" title="&#x27;Chip War&#x27; author Chris Miller on the battle of AI chip export controls" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DAA25e6oMF4" target="_blank" rel="noopener noreferrer">&#x27;Chip War&#x27; author Chris Miller on the battle of AI chip export controls</a></p><p class="youtube-embed-meta">Channel: CNBC Television &middot; Views: 13.3K &middot; Uploaded: December 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DAA25e6oMF4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DAA25e6oMF4">Open on YouTube</a></p></div></div></div>
@@ -349,11 +349,11 @@ Moreover, if future AI systems require less compute than many current forecasts 
 
 Critics of chip controls do not necessarily deny that compute matters. Instead, they question whether restrictions meaningfully reduce long-term existential risk.
 
-One criticism is that delays may be temporary. If AI doom risks emerge over decades rather than a few years, slowing access to current hardware may simply postpone developments without changing the eventual outcome. A policy that delays powerful AI by two years may matter greatly under [short timelines]({{ 'short-timelines/' | relative_url }}) but much less under long timelines. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chathamhouse.org/2026/04/ai-export-controls-are-not-best-bargaining-chip" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chathamhouse.org">[Chatham House]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chathamhouse.org</span><span class="citation-popover-title">ai export controls are not best bargaining chip</span><span class="citation-popover-snippet">Chatham HouseAI export controls are not the best bargaining chip29 Apr 2026 — US export controls on chips and hardware alone will not pre...</span></span></span>
+One criticism is that delays may be temporary. If AI doom risks emerge over decades rather than a few years, slowing access to current hardware may simply postpone developments without changing the eventual outcome. A policy that delays powerful AI by two years may matter greatly under [short timelines]({{ 'short-timelines/' | relative_url }}) but much less under [long timelines]({{ 'long-timelines/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chathamhouse.org/2026/04/ai-export-controls-are-not-best-bargaining-chip" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chathamhouse.org">[Chatham House]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chathamhouse.org</span><span class="citation-popover-title">ai export controls are not best bargaining chip</span><span class="citation-popover-snippet">Chatham HouseAI export controls are not the best bargaining chip29 Apr 2026 — US export controls on chips and hardware alone will not pre...</span></span></span>
 
 A second criticism is technological substitution. Countries facing restrictions may invest heavily in domestic semiconductor industries. Several observers have argued that export controls have accelerated efforts toward Chinese technological self-sufficiency, creating stronger domestic competitors than might otherwise have emerged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tomshardware.com/tech-industry/huawei-chairman-thanks-the-us-for-supercharging-chinas-semiconductor-industry-washingtons-export-controls-encouraged-chinese-firms-to-invest-in-r-and-d-and-build-their-own-tech-stack-competing-with-american-technologies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tomshardware.com">[Tom&#x27;s Hardware]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tomshardware.com</span><span class="citation-popover-snippet">He stated that without the pressure, Chinese companies like Huawei may not have pursued innovations such as their LogicFolding chip archi...</span></span></span> IDTechEx A third criticism concerns circumvention. Export controls are difficult to enforce perfectly. Analysts have pointed to loopholes involving ov <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.idtechex.com/en/research-article/us-export-controls-on-ai-chips-boost-domestic-innovation-in-china/33482" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: idtechex.com">[idtechex.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">idtechex.com</span><span class="citation-popover-title">us export controls on ai chips boost domestic innovation in china</span><span class="citation-popover-snippet">US Export Controls on AI Chips Boost Domestic Innovation...Jul 9, 2025 — The US puts pressure on the global semiconductor supply chain t...</span></span></span> erseas subsidiaries, cloud computing access, intermediaries, and smuggling networks. Recent regulatory updates have attempted to close some of these gaps, illustrating the ongoing challenge of enforcement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/china/us-takes-step-halt-nvidia-ai-chip-shipments-chinese-firms-outside-china-2026-05-31/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Department of Commerce announced new guidance aimed at closing a loophole that potentially allowed subsidiaries of Chinese companies outs...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/sen-warren-calls-trump-close-loophole-allowing-ai-chips-be-sent-overseas-units-2026-06-01/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Warren and Kim blast Trump for allowing AI chips to be sent to overseas units of Chinese firmsOn June 1, 2026, Democratic Senators Elizab...</span><span class="citation-popover-meta">Published: June 1, 2026</span></span></span>
 
-Finally, some critics argue that framing AI development primarily as a strategic competition can intensify geopolitical rivalry. If major powers become convinced that advanced AI will determine military and economic dominance, they may become less willing to cooperate on safety measures. In that scenario, chip controls could inadvertently strengthen the very race dynamics that many AI doom researchers view as dangerous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2506.20530v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivToward a Global Regime for Compute Governance25 Jun 2025 — Applied to frontier AI, a global export control regime would restrict the...</span></span></span>
+Finally, some critics argue that framing AI development primarily as a strategic competition can intensify geopolitical rivalry. If major powers become convinced that advanced AI will determine military and economic dominance, they may become less willing to cooperate on safety measures. In that scenario, chip controls could inadvertently strengthen the very race dynamics that many AI doom researchers view as dangerous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2506.20530v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Toward a Global Regime for Compute Governance25 Jun 2025 — Applied to frontier AI, a global export control regime would restrict the...</span></span></span>
 
 ## International Coordination Is the Real Challenge
 
@@ -363,7 +363,7 @@ A single country's controls can matter if that country dominates critical parts 
 
 However, AI doom arguments generally concern humanity-wide outcomes rather than the behaviour of one nation. If dangerous systems can eventually be built elsewhere, then unilateral controls may provide only temporary protection.
 
-For that reason, some compute-governance proposals envision broader international arrangements resembling export-control regimes used for other strategically important technologies. The goal would be coordinated monitoring of advanced compute rather than a patchwork of competing national restrictions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2506.20530v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivToward a Global Regime for Compute Governance25 Jun 2025 — Applied to frontier AI, a global export control regime would restrict the...</span></span></span>
+For that reason, some compute-governance proposals envision broader international arrangements resembling export-control regimes used for other strategically important technologies. The goal would be coordinated monitoring of advanced compute rather than a patchwork of competing national restrictions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2506.20530v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Toward a Global Regime for Compute Governance25 Jun 2025 — Applied to frontier AI, a global export control regime would restrict the...</span></span></span>
 
 This is easier to propose than to achieve. States may disagree about which systems are dangerous, which actors should be restricted, and whether maintaining a technological lead is compatible with long-term cooperation.
 
@@ -377,7 +377,7 @@ Someone with a high p(doom) because they believe transformative AI could arrive 
 
 Someone with a lower p(doom), longer timelines, or greater confidence in technological adaptation may view export controls as having only modest effects. They may accept that controls slow development while doubting that the delay materially changes humanity's long-run prospects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chathamhouse.org/2026/04/ai-export-controls-are-not-best-bargaining-chip" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chathamhouse.org">[Chatham House]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chathamhouse.org</span><span class="citation-popover-title">ai export controls are not best bargaining chip</span><span class="citation-popover-snippet">Chatham HouseAI export controls are not the best bargaining chip29 Apr 2026 — US export controls on chips and hardware alone will not pre...</span></span></span>
 
-As a result, disagreements about chip controls often reflect deeper disagreements about [AI timelines]({{ 'timeline-effects/' | relative_url }}), the importance of compute, the likelihood of loss-of-control scenarios, and the feasibility of international coordination.
+As a result, disagreements about chip controls often reflect deeper disagreements about AI timelines, the importance of compute, the likelihood of loss-of-control scenarios, and the feasibility of international coordination.
 
 ## The Bottom Line
 
@@ -385,7 +385,7 @@ Export controls on advanced AI chips are one of the few proposed AI-safety inter
 
 The strongest evidence suggests that chip controls can impose real costs and delays on frontier AI development. The strongest counterargument is that delays may be temporary, can stimulate domestic alternatives, and may not address the deeper coordination problems that drive existential risk. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cfr.org/podcasts/spillover/u-s-china-ai-race-escalates-chip-bans-arent-working-a-lesson-from-nuclear-proliferation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cfr.org">[Council on Foreign Relations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cfr.org</span><span class="citation-popover-snippet">US-China AI Race Escalates + Chip Bans Aren&#x27;t Working25 Mar 2026 — We discuss: How U.S. export controls on chips are slowing China&#x27;s AI p...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ai-frontiers.org/topic/policy-and-regulation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ai-frontiers.org">[3AI Frontiers 3CSIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ai-frontiers.org</span><span class="citation-popover-snippet">Policy &amp; RegulationArticles in this section explore if, when, and how to implement regulation that harnesses AI&#x27;s benefits while limiting...</span></span></span>
 
-For that reason, even many supporters view export controls not as a complete solution to AI doom, but as one component of a broader compute-governance strategy that would also require monitoring, safety standards, international coordination, and mechanisms for responding if increasingly capable AI systems begin to show genuinely dangerous behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2506.20530v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivToward a Global Regime for Compute Governance25 Jun 2025 — Applied to frontier AI, a global export control regime would restrict the...</span></span></span> 2arXiv
+For that reason, even many supporters view export controls not as a complete solution to AI doom, but as one component of a broader compute-governance strategy that would also require monitoring, safety standards, international coordination, and mechanisms for responding if increasingly capable AI systems begin to show genuinely dangerous behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2506.20530v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Toward a Global Regime for Compute Governance25 Jun 2025 — Applied to frontier AI, a global export control regime would restrict the...</span></span></span> 2arXiv
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ny4X0OCL7nI" title="Graphs AI Companies Would Prefer You To Misunderstand | Toby Ord, Oxford University" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ny4X0OCL7nI" target="_blank" rel="noopener noreferrer">Graphs AI Companies Would Prefer You To Misunderstand | Toby Ord, Oxford University</a></p><p class="youtube-embed-meta">Channel: 80,000 Hours &middot; Views: 80.4K &middot; Uploaded: June 2025 &middot; Length: 2 hours 53 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ny4X0OCL7nI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ny4X0OCL7nI">Open on YouTube</a></p></div></div></div>
@@ -477,7 +477,7 @@ For that reason, even many supporters view export controls not as a complete sol
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -487,111 +487,36 @@ For that reason, even many supporters view export controls not as a complete sol
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-controls-can-ai-chip-controls-slow-dangerous-capabilities-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Intel 4004 CPU Resin Display, 50th Anniversary Tech Art, Retro Computer Gift"><img src="{{ '/assets/images/marketplace-covers/2e028fad25634e001434.jpg' | relative_url }}" alt="Listing image for Intel 4004 CPU Resin Display, 50th Anniversary Tech Art, Retro Computer Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-chip-controls-slow-dangerous-capabilities-computer-chip-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip display" data-ebay-reference="can-ai-chip-controls-slow-dangerous-capabilities-computer-chip-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mos Technologies 8568 Commodore C128 Vdc Chip Video Display Controller Dip-48"><img src="https://i.ebayimg.com/images/g/OUYAAeSw~eNpFej5/s-l225.jpg" alt="Listing image for Mos Technologies 8568 Commodore C128 Vdc Chip Video Display Controller Dip-48" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-controls-can-ai-chip-controls-slow-dangerous-capabilities-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Intel 4004 CPU Resin Display, 50th Anniversary Tech Art, Retro Computer Gift</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-chip-controls-slow-dangerous-capabilities-computer-chip-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip display" data-ebay-reference="can-ai-chip-controls-slow-dangerous-capabilities-computer-chip-display" target="_blank" rel="sponsored noopener noreferrer">Mos Technologies 8568 Commodore C128 Vdc Chip Video Display Controller Dip-48</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-controls-can-ai-chip-controls-slow-dangerous-capabilities-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip display">Search <span data-ebay-domain-label>eBay.com</span>: computer chip display</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-chip-controls-slow-dangerous-capabilities-computer-chip-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip display" data-ebay-reference="can-ai-chip-controls-slow-dangerous-capabilities-computer-chip-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip display">Search <span data-ebay-domain-label>eBay.co.uk</span>: computer chip display</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-controls-can-ai-chip-controls-slow-dangerous-capabilities-ai-doom-and-computer-chip-display&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-controls-can-ai-chip-controls-slow-dangerous-capabilities-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SuperChips Computer Chip Handheld Monitor for Silverado Sierra Gas 2547"><img src="{{ '/assets/images/marketplace-covers/41158b1c41c78a270211.jpg' | relative_url }}" alt="Listing image for SuperChips Computer Chip Handheld Monitor for Silverado Sierra Gas 2547" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-controls-can-ai-chip-controls-slow-dangerous-capabilities-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SuperChips Computer Chip Handheld Monitor for Silverado Sierra Gas 2547</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-controls-can-ai-chip-controls-slow-dangerous-capabilities-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip display">Search <span data-ebay-domain-label>eBay.com</span>: computer chip display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-controls-can-ai-chip-controls-slow-dangerous-capabilities-ai-doom-and-computer-chip-display&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-controls-can-ai-chip-controls-slow-dangerous-capabilities-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HD1920*1200 Computer Laptop TV LCD/LED Test Tool Panel Tester Support 7&quot;-84&quot;"><img src="{{ '/assets/images/marketplace-covers/ab5cf6d467336249110f.jpg' | relative_url }}" alt="Listing image for HD1920*1200 Computer Laptop TV LCD/LED Test Tool Panel Tester Support 7&quot;-84&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-controls-can-ai-chip-controls-slow-dangerous-capabilities-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">HD1920*1200 Computer Laptop TV LCD/LED Test Tool Panel Tester Support 7&quot;-84&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-controls-can-ai-chip-controls-slow-dangerous-capabilities-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip display">Search <span data-ebay-domain-label>eBay.com</span>: computer chip display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-controls-can-ai-chip-controls-slow-dangerous-capabilities-ai-doom-and-computer-chip-display&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-controls-can-ai-chip-controls-slow-dangerous-capabilities-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SuperChips Computer Chip Handheld Monitor for 21-24 Ford Bronco"><img src="{{ '/assets/images/marketplace-covers/a7b51e30a1c9debd9491.jpg' | relative_url }}" alt="Listing image for SuperChips Computer Chip Handheld Monitor for 21-24 Ford Bronco" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-controls-can-ai-chip-controls-slow-dangerous-capabilities-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SuperChips Computer Chip Handheld Monitor for 21-24 Ford Bronco</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-controls-can-ai-chip-controls-slow-dangerous-capabilities-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip display">Search <span data-ebay-domain-label>eBay.com</span>: computer chip display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-controls-can-ai-chip-controls-slow-dangerous-capabilities-ai-doom-and-computer-chip-display&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-controls-can-ai-chip-controls-slow-dangerous-capabilities-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=semiconductor+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-controls-can-ai-chip-controls-slow-dangerous-capabilities-ai-doom-and-semiconductor-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SEMICON SEMI Semiconductor 1986 Switzerland Technology Tech Computers Ad Poster"><img src="{{ '/assets/images/marketplace-covers/7c9ec5d64aaface6546f.jpg' | relative_url }}" alt="Listing image for SEMICON SEMI Semiconductor 1986 Switzerland Technology Tech Computers Ad Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=semiconductor+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-controls-can-ai-chip-controls-slow-dangerous-capabilities-ai-doom-and-semiconductor-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SEMICON SEMI Semiconductor 1986 Switzerland Technology Tech Computers Ad Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=semiconductor+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-controls-can-ai-chip-controls-slow-dangerous-capabilities-ai-doom-and-semiconductor-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for semiconductor poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: semiconductor poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=semiconductor+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-controls-can-ai-chip-controls-slow-dangerous-capabilities-ai-doom-and-semiconductor-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-chip-controls-slow-dangerous-capabilities-computer-chip-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip display" data-ebay-reference="can-ai-chip-controls-slow-dangerous-capabilities-computer-chip-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -599,15 +524,15 @@ For that reason, even many supporters view export controls not as a complete sol
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=semiconductor+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-controls-can-ai-chip-controls-slow-dangerous-capabilities-ai-doom-and-semiconductor-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2004 Freescale Semiconductor Processors Launched Motorola Retro Print Ad/Poster"><img src="{{ '/assets/images/marketplace-covers/9b158726fe11b3f89425.jpg' | relative_url }}" alt="Listing image for 2004 Freescale Semiconductor Processors Launched Motorola Retro Print Ad/Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-chip-controls-slow-dangerous-capabilities-computer-chip-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip display" data-ebay-reference="can-ai-chip-controls-slow-dangerous-capabilities-computer-chip-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Intel P8276 Small System CRT Display Controller IC / Video Chip"><img src="https://i.ebayimg.com/images/g/TJMAAeSwZeRqDoWt/s-l225.jpg" alt="Listing image for Intel P8276 Small System CRT Display Controller IC / Video Chip" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=semiconductor+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-controls-can-ai-chip-controls-slow-dangerous-capabilities-ai-doom-and-semiconductor-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">2004 Freescale Semiconductor Processors Launched Motorola Retro Print Ad/Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-chip-controls-slow-dangerous-capabilities-computer-chip-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip display" data-ebay-reference="can-ai-chip-controls-slow-dangerous-capabilities-computer-chip-display" target="_blank" rel="sponsored noopener noreferrer">Intel P8276 Small System CRT Display Controller IC / Video Chip</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=semiconductor+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-controls-can-ai-chip-controls-slow-dangerous-capabilities-ai-doom-and-semiconductor-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for semiconductor poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: semiconductor poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-chip-controls-slow-dangerous-capabilities-computer-chip-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip display" data-ebay-reference="can-ai-chip-controls-slow-dangerous-capabilities-computer-chip-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip display">Search <span data-ebay-domain-label>eBay.co.uk</span>: computer chip display</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=semiconductor+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-controls-can-ai-chip-controls-slow-dangerous-capabilities-ai-doom-and-semiconductor-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-chip-controls-slow-dangerous-capabilities-computer-chip-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip display" data-ebay-reference="can-ai-chip-controls-slow-dangerous-capabilities-computer-chip-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -615,15 +540,15 @@ For that reason, even many supporters view export controls not as a complete sol
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=semiconductor+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-controls-can-ai-chip-controls-slow-dangerous-capabilities-ai-doom-and-semiconductor-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Semiconductor devices poster. Soviet poster. 1958. Semiconductors. Physics. How"><img src="{{ '/assets/images/marketplace-covers/8ea91965bbfd4efd33c2.jpg' | relative_url }}" alt="Listing image for Semiconductor devices poster. Soviet poster. 1958. Semiconductors. Physics. How" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-chip-controls-slow-dangerous-capabilities-computer-chip-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip display" data-ebay-reference="can-ai-chip-controls-slow-dangerous-capabilities-computer-chip-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 5.5inch 720x1280 LCD Display Screen with ST7703 Driver Chip for Electronics"><img src="https://i.ebayimg.com/images/g/yxcAAeSwI0FptUKQ/s-l225.jpg" alt="Listing image for 5.5inch 720x1280 LCD Display Screen with ST7703 Driver Chip for Electronics" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=semiconductor+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-controls-can-ai-chip-controls-slow-dangerous-capabilities-ai-doom-and-semiconductor-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Semiconductor devices poster. Soviet poster. 1958. Semiconductors. Physics. How</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-chip-controls-slow-dangerous-capabilities-computer-chip-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip display" data-ebay-reference="can-ai-chip-controls-slow-dangerous-capabilities-computer-chip-display" target="_blank" rel="sponsored noopener noreferrer">5.5inch 720x1280 LCD Display Screen with ST7703 Driver Chip for Electronics</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=semiconductor+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-controls-can-ai-chip-controls-slow-dangerous-capabilities-ai-doom-and-semiconductor-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for semiconductor poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: semiconductor poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-chip-controls-slow-dangerous-capabilities-computer-chip-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip display" data-ebay-reference="can-ai-chip-controls-slow-dangerous-capabilities-computer-chip-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip display">Search <span data-ebay-domain-label>eBay.co.uk</span>: computer chip display</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=semiconductor+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-controls-can-ai-chip-controls-slow-dangerous-capabilities-ai-doom-and-semiconductor-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-chip-controls-slow-dangerous-capabilities-computer-chip-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip display" data-ebay-reference="can-ai-chip-controls-slow-dangerous-capabilities-computer-chip-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -631,15 +556,15 @@ For that reason, even many supporters view export controls not as a complete sol
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=semiconductor+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-controls-can-ai-chip-controls-slow-dangerous-capabilities-ai-doom-and-semiconductor-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Semiconductor Patent Illustration Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/46c31fef2691eaf2bb1a.jpg' | relative_url }}" alt="Listing image for Semiconductor Patent Illustration Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-chip-controls-slow-dangerous-capabilities-computer-chip-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip display" data-ebay-reference="can-ai-chip-controls-slow-dangerous-capabilities-computer-chip-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 5.5inch 720x1280 LCD Display Screen with ST7703 Driver Chip for Electronics"><img src="https://i.ebayimg.com/images/g/LxEAAeSwSW5o0Mqv/s-l225.jpg" alt="Listing image for 5.5inch 720x1280 LCD Display Screen with ST7703 Driver Chip for Electronics" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=semiconductor+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-controls-can-ai-chip-controls-slow-dangerous-capabilities-ai-doom-and-semiconductor-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Semiconductor Patent Illustration Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-chip-controls-slow-dangerous-capabilities-computer-chip-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip display" data-ebay-reference="can-ai-chip-controls-slow-dangerous-capabilities-computer-chip-display" target="_blank" rel="sponsored noopener noreferrer">5.5inch 720x1280 LCD Display Screen with ST7703 Driver Chip for Electronics</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=semiconductor+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-controls-can-ai-chip-controls-slow-dangerous-capabilities-ai-doom-and-semiconductor-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for semiconductor poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: semiconductor poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-chip-controls-slow-dangerous-capabilities-computer-chip-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip display" data-ebay-reference="can-ai-chip-controls-slow-dangerous-capabilities-computer-chip-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip display">Search <span data-ebay-domain-label>eBay.co.uk</span>: computer chip display</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=semiconductor+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-controls-can-ai-chip-controls-slow-dangerous-capabilities-ai-doom-and-semiconductor-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-chip-controls-slow-dangerous-capabilities-computer-chip-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip display" data-ebay-reference="can-ai-chip-controls-slow-dangerous-capabilities-computer-chip-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -647,7 +572,7 @@ For that reason, even many supporters view export controls not as a complete sol
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=semiconductor+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chip-controls-can-ai-chip-controls-slow-dangerous-capabilities-ai-doom-and-semiconductor-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-chip-controls-slow-dangerous-capabilities-computer-chip-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip display" data-ebay-reference="can-ai-chip-controls-slow-dangerous-capabilities-computer-chip-display" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -724,17 +649,31 @@ For that reason, even many supporters view export controls not as a complete sol
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -747,42 +686,73 @@ For that reason, even many supporters view export controls not as a complete sol
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -797,177 +767,181 @@ For that reason, even many supporters view export controls not as a complete sol
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: cdn.governance.ai  
    Title: Computing Power and the Governance of Artificial  
-   Link: [https://cdn.governance.ai/Computing_Power_and_the_Governance_of_AI.pdf](https://cdn.governance.ai/Computing_Power_and_the_Governance_of_AI.pdf)  
+   Link: <a href="https://cdn.governance.ai/Computing_Power_and_the_Governance_of_AI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.governance.ai/Computing_Power_and_the_Governance_of_AI.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 13, 2024 — 14 Feb 2024 — Computing power, or &quot;compute,&quot; is crucial for the development and deployment of artificial intelligence...</p></details>
    Published: February 13, 2024  
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2506.20530v1](https://arxiv.org/html/2506.20530v1)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivToward a Global Regime for Compute Governance25 Jun 2025 — Applied to frontier AI, a global export control regime would restrict the...</p></details>
+   Link: <a href="https://arxiv.org/html/2506.20530v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.20530v1</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Toward a Global Regime for Compute Governance25 Jun 2025 — Applied to frontier AI, a global export control regime would restrict the...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: csis.org  
-   Link: [https://www.csis.org/analysis/limits-chip-export-controls-meeting-china-challenge](https://www.csis.org/analysis/limits-chip-export-controls-meeting-china-challenge)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CSISThe Limits of Chip Export Controls in Meeting the China...Apr 14, 2025 — Impair Chinese capabilities in AI and supercomputing by cut...</p></details>
+   Link: <a href="https://www.csis.org/analysis/limits-chip-export-controls-meeting-china-challenge" target="_blank" rel="noopener noreferrer nofollow">https://www.csis.org/analysis/limits-chip-export-controls-meeting-china-challenge</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Limits of Chip Export Controls in Meeting the China...Apr 14, 2025 — Impair Chinese capabilities in AI and supercomputing by cut...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2605.23475](https://arxiv.org/abs/2605.23475)  
+   Link: <a href="https://arxiv.org/abs/2605.23475" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.23475</a>  
 
 5. <a id="endnote-5"></a>
    Source: ai-frontiers.org  
    Title: us chip export controls china ai  
-   Link: [https://ai-frontiers.org/articles/us-chip-export-controls-china-ai](https://ai-frontiers.org/articles/us-chip-export-controls-china-ai)  
+   Link: <a href="https://ai-frontiers.org/articles/us-chip-export-controls-china-ai" target="_blank" rel="noopener noreferrer nofollow">https://ai-frontiers.org/articles/us-chip-export-controls-china-ai</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI FrontiersHow US Export Controls Have (and Haven&#x27;t) Curbed...8 Jul 2025 — The past six years of export controls on chips and chipmakin...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: idtechex.com  
    Title: us export controls on ai chips boost domestic innovation in china  
-   Link: [https://www.idtechex.com/en/research-article/us-export-controls-on-ai-chips-boost-domestic-innovation-in-china/33482](https://www.idtechex.com/en/research-article/us-export-controls-on-ai-chips-boost-domestic-innovation-in-china/33482)  
+   Link: <a href="https://www.idtechex.com/en/research-article/us-export-controls-on-ai-chips-boost-domestic-innovation-in-china/33482" target="_blank" rel="noopener noreferrer nofollow">https://www.idtechex.com/en/research-article/us-export-controls-on-ai-chips-boost-domestic-innovation-in-china/33482</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>US Export Controls on AI Chips Boost Domestic Innovation...Jul 9, 2025 — The US puts pressure on the global semiconductor supply chain t...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/world/china/us-takes-step-halt-nvidia-ai-chip-shipments-chinese-firms-outside-china-2026-05-31/](https://www.reuters.com/world/china/us-takes-step-halt-nvidia-ai-chip-shipments-chinese-firms-outside-china-2026-05-31/)  
+   Link: <a href="https://www.reuters.com/world/china/us-takes-step-halt-nvidia-ai-chip-shipments-chinese-firms-outside-china-2026-05-31/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/china/us-takes-step-halt-nvidia-ai-chip-shipments-chinese-firms-outside-china-2026-05-31/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Commerce announced new guidance aimed at closing a loophole that potentially allowed subsidiaries of Chinese companies outs...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/world/sen-warren-calls-trump-close-loophole-allowing-ai-chips-be-sent-overseas-units-2026-06-01/](https://www.reuters.com/world/sen-warren-calls-trump-close-loophole-allowing-ai-chips-be-sent-overseas-units-2026-06-01/)  
+   Link: <a href="https://www.reuters.com/world/sen-warren-calls-trump-close-loophole-allowing-ai-chips-be-sent-overseas-units-2026-06-01/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/sen-warren-calls-trump-close-loophole-allowing-ai-chips-be-sent-overseas-units-2026-06-01/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Warren and Kim blast Trump for allowing AI chips to be sent to overseas units of Chinese firmsOn June 1, 2026, Democratic Senators Elizab...</p></details>
    Published: June 1, 2026  
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2506.03497](https://arxiv.org/abs/2506.03497)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivBridging the Artificial Intelligence Governance Gap: The United States&#x27; and China&#x27;s Divergent Approaches to Governing General-Purpos...</p></details>
+   Link: <a href="https://arxiv.org/abs/2506.03497" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2506.03497</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bridging the Artificial Intelligence Governance Gap: The United States&#x27; and China&#x27;s Divergent Approaches to Governing General-Purpos...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
    Title: arXiv The coordination gap in frontier AI safety policies  
-   Link: [https://arxiv.org/abs/2603.10015](https://arxiv.org/abs/2603.10015)  
+   Link: <a href="https://arxiv.org/abs/2603.10015" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.10015</a>  
 
 11. <a id="endnote-11"></a>
    Source: ai-frontiers.org  
-   Link: [https://ai-frontiers.org/topic/policy-and-regulation](https://ai-frontiers.org/topic/policy-and-regulation)  
+   Link: <a href="https://ai-frontiers.org/topic/policy-and-regulation" target="_blank" rel="noopener noreferrer nofollow">https://ai-frontiers.org/topic/policy-and-regulation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Policy &amp; RegulationArticles in this section explore if, when, and how to implement regulation that harnesses AI&#x27;s benefits while limiting...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: csis.org  
-   Link: [https://www.csis.org/analysis/deepseek-huawei-export-controls-and-future-us-china-ai-race](https://www.csis.org/analysis/deepseek-huawei-export-controls-and-future-us-china-ai-race)  
+   Link: <a href="https://www.csis.org/analysis/deepseek-huawei-export-controls-and-future-us-china-ai-race" target="_blank" rel="noopener noreferrer nofollow">https://www.csis.org/analysis/deepseek-huawei-export-controls-and-future-us-china-ai-race</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DeepSeek, Huawei, Export Controls, and the Future of...7 Mar 2025 — By limiting China&#x27;s access to advanced AI chips, the US has inadvert...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: chathamhouse.org  
    Title: ai export controls are not best bargaining chip  
-   Link: [https://www.chathamhouse.org/2026/04/ai-export-controls-are-not-best-bargaining-chip](https://www.chathamhouse.org/2026/04/ai-export-controls-are-not-best-bargaining-chip)  
+   Link: <a href="https://www.chathamhouse.org/2026/04/ai-export-controls-are-not-best-bargaining-chip" target="_blank" rel="noopener noreferrer nofollow">https://www.chathamhouse.org/2026/04/ai-export-controls-are-not-best-bargaining-chip</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Chatham HouseAI export controls are not the best bargaining chip29 Apr 2026 — US export controls on chips and hardware alone will not pre...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: laweconcenter.org  
    Title: us export controls on ai and semiconductors  
-   Link: [https://laweconcenter.org/resources/us-export-controls-on-ai-and-semiconductors/](https://laweconcenter.org/resources/us-export-controls-on-ai-and-semiconductors/)  
+   Link: <a href="https://laweconcenter.org/resources/us-export-controls-on-ai-and-semiconductors/" target="_blank" rel="noopener noreferrer nofollow">https://laweconcenter.org/resources/us-export-controls-on-ai-and-semiconductors/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>International Center for Law &amp; EconomicsUS Export Controls on AI and SemiconductorsMar 25, 2025 — The United States implemented unprecede...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: forum.effectivealtruism.org  
-   Link: [https://forum.effectivealtruism.org/posts/iiRGCydMX7aiEjvGm/12-tentative-ideas-for-us-ai-policy-luke-muehlhauser](https://forum.effectivealtruism.org/posts/iiRGCydMX7aiEjvGm/12-tentative-ideas-for-us-ai-policy-luke-muehlhauser)  
+   Link: <a href="https://forum.effectivealtruism.org/posts/iiRGCydMX7aiEjvGm/12-tentative-ideas-for-us-ai-policy-luke-muehlhauser" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/iiRGCydMX7aiEjvGm/12-tentative-ideas-for-us-ai-policy-luke-muehlhauser</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Effective Altruism Forum12 tentative ideas for US AI policy (Luke Muehlhauser)19 Apr 2023 — Security features on chips can be leveraged f...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: tomshardware.com  
-   Link: [https://www.tomshardware.com/tech-industry/huawei-chairman-thanks-the-us-for-supercharging-chinas-semiconductor-industry-washingtons-export-controls-encouraged-chinese-firms-to-invest-in-r-and-d-and-build-their-own-tech-stack-competing-with-american-technologies](https://www.tomshardware.com/tech-industry/huawei-chairman-thanks-the-us-for-supercharging-chinas-semiconductor-industry-washingtons-export-controls-encouraged-chinese-firms-to-invest-in-r-and-d-and-build-their-own-tech-stack-competing-with-american-technologies)  
+   Link: <a href="https://www.tomshardware.com/tech-industry/huawei-chairman-thanks-the-us-for-supercharging-chinas-semiconductor-industry-washingtons-export-controls-encouraged-chinese-firms-to-invest-in-r-and-d-and-build-their-own-tech-stack-competing-with-american-technologies" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/huawei-chairman-thanks-the-us-for-supercharging-chinas-semiconductor-industry-washingtons-export-controls-encouraged-chinese-firms-to-invest-in-r-and-d-and-build-their-own-tech-stack-competing-with-american-technologies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>He stated that without the pressure, Chinese companies like Huawei may not have pursued innovations such as their LogicFolding chip archi...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: cfr.org  
-   Link: [https://www.cfr.org/podcasts/spillover/u-s-china-ai-race-escalates-chip-bans-arent-working-a-lesson-from-nuclear-proliferation](https://www.cfr.org/podcasts/spillover/u-s-china-ai-race-escalates-chip-bans-arent-working-a-lesson-from-nuclear-proliferation)  
+   Link: <a href="https://www.cfr.org/podcasts/spillover/u-s-china-ai-race-escalates-chip-bans-arent-working-a-lesson-from-nuclear-proliferation" target="_blank" rel="noopener noreferrer nofollow">https://www.cfr.org/podcasts/spillover/u-s-china-ai-race-escalates-chip-bans-arent-working-a-lesson-from-nuclear-proliferation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US-China AI Race Escalates + Chip Bans Aren&#x27;t Working25 Mar 2026 — We discuss: How U.S. export controls on chips are slowing China&#x27;s AI p...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: cfr.org  
-   Link: [https://www.cfr.org/articles/chinas-ai-chip-deficit-why-huawei-cant-catch-nvidia-and-us-export-controls-should-remain](https://www.cfr.org/articles/chinas-ai-chip-deficit-why-huawei-cant-catch-nvidia-and-us-export-controls-should-remain)  
+   Link: <a href="https://www.cfr.org/articles/chinas-ai-chip-deficit-why-huawei-cant-catch-nvidia-and-us-export-controls-should-remain" target="_blank" rel="noopener noreferrer nofollow">https://www.cfr.org/articles/chinas-ai-chip-deficit-why-huawei-cant-catch-nvidia-and-us-export-controls-should-remain</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>advantages in AI could significantly erode by loosening export controls on the H200 chip. If the United States exports three million H200...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: forum.effectivealtruism.org  
    Title: the us expands restrictions on ai exports to china what are  
-   Link: [https://forum.effectivealtruism.org/posts/c6RnqjBd3BAkqsknB/the-us-expands-restrictions-on-ai-exports-to-china-what-are](https://forum.effectivealtruism.org/posts/c6RnqjBd3BAkqsknB/the-us-expands-restrictions-on-ai-exports-to-china-what-are)  
+   Link: <a href="https://forum.effectivealtruism.org/posts/c6RnqjBd3BAkqsknB/the-us-expands-restrictions-on-ai-exports-to-china-what-are" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/c6RnqjBd3BAkqsknB/the-us-expands-restrictions-on-ai-exports-to-china-what-are</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>14 Oct 2022 — The export controls seek to slow or stop Chinese companies from developing cutting-edge AI capabilities. They do this by ma...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: thecairoreview.com  
-   Link: [https://www.thecairoreview.com/essays/a-costly-illusion-of-control/](https://www.thecairoreview.com/essays/a-costly-illusion-of-control/)  
+   Link: <a href="https://www.thecairoreview.com/essays/a-costly-illusion-of-control/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecairoreview.com/essays/a-costly-illusion-of-control/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cairo Review of Global AffairsA Costly Illusion of Control: No Winners, Many Losers in...The aggressive US approach to China risks t...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/mike-shepard-ab086b6_trumps-ai-chip-export-push-stymied-by-bureaucratic-activity-7448488879071838208-TArR](https://www.linkedin.com/posts/mike-shepard-ab086b6_trumps-ai-chip-export-push-stymied-by-bureaucratic-activity-7448488879071838208-TArR)  
+   Link: <a href="https://www.linkedin.com/posts/mike-shepard-ab086b6_trumps-ai-chip-export-push-stymied-by-bureaucratic-activity-7448488879071838208-TArR" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/mike-shepard-ab086b6_trumps-ai-chip-export-push-stymied-by-bureaucratic-activity-7448488879071838208-TArR</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Trump&#x27;s AI Chip Export Plan Halted by Licensing BottlenecksPresident Donald Trump&#x27;s goal of significantly boosting global sales of Americ...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=SbY0QRY-DM0](https://www.youtube.com/watch?v=SbY0QRY-DM0)  
+   Link: <a href="https://www.youtube.com/watch?v=SbY0QRY-DM0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SbY0QRY-DM0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US-China competition: AI, chips and export controls — where...As US-China technology competition intensifies, governments across the wor...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: americanactionforum.org  
    Title: the gain ai act in context export controls and u s ai competitiveness  
-   Link: [https://www.americanactionforum.org/insight/the-gain-ai-act-in-context-export-controls-and-u-s-ai-competitiveness/](https://www.americanactionforum.org/insight/the-gain-ai-act-in-context-export-controls-and-u-s-ai-competitiveness/)  
+   Link: <a href="https://www.americanactionforum.org/insight/the-gain-ai-act-in-context-export-controls-and-u-s-ai-competitiveness/" target="_blank" rel="noopener noreferrer nofollow">https://www.americanactionforum.org/insight/the-gain-ai-act-in-context-export-controls-and-u-s-ai-competitiveness/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The GAIN AI Act in Context: Export Controls and U.S. AI...Nov 25, 2025 — The GAIN AI Act shapes export controls and U.S. competitiveness...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: brookings.edu  
    Title: how overly aggressive bans on ai chip exports to china can backfire  
-   Link: [https://www.brookings.edu/articles/how-overly-aggressive-bans-on-ai-chip-exports-to-china-can-backfire/](https://www.brookings.edu/articles/how-overly-aggressive-bans-on-ai-chip-exports-to-china-can-backfire/)  
+   Link: <a href="https://www.brookings.edu/articles/how-overly-aggressive-bans-on-ai-chip-exports-to-china-can-backfire/" target="_blank" rel="noopener noreferrer nofollow">https://www.brookings.edu/articles/how-overly-aggressive-bans-on-ai-chip-exports-to-china-can-backfire/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How overly aggressive bans on AI chip exports to China...15 Aug 2025 — John Villasenor explains the state of AI chip exports to China an...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: laweconcenter.org  
    Title: us export controls on ai and semiconductors two divergent visions  
-   Link: [https://laweconcenter.org/resources/us-export-controls-on-ai-and-semiconductors-two-divergent-visions/](https://laweconcenter.org/resources/us-export-controls-on-ai-and-semiconductors-two-divergent-visions/)  
+   Link: <a href="https://laweconcenter.org/resources/us-export-controls-on-ai-and-semiconductors-two-divergent-visions/" target="_blank" rel="noopener noreferrer nofollow">https://laweconcenter.org/resources/us-export-controls-on-ai-and-semiconductors-two-divergent-visions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US Export Controls on AI and Semiconductors24 Mar 2025 — With broad and effective U.S.-imposed export controls on chips, China doesn&#x27;t ri...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: fdd.org  
    Title: why export controls work 5 debunked myths about u s china ai competition  
-   Link: [https://www.fdd.org/analysis/2025/09/08/why-export-controls-work-5-debunked-myths-about-u-s-china-ai-competition/](https://www.fdd.org/analysis/2025/09/08/why-export-controls-work-5-debunked-myths-about-u-s-china-ai-competition/)  
+   Link: <a href="https://www.fdd.org/analysis/2025/09/08/why-export-controls-work-5-debunked-myths-about-u-s-china-ai-competition/" target="_blank" rel="noopener noreferrer nofollow">https://www.fdd.org/analysis/2025/09/08/why-export-controls-work-5-debunked-myths-about-u-s-china-ai-competition/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>export controls is a Chinese AI ecosystem built on weaker domestic substitutes in which Chinese companies must...Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: mofo.com  
    Title: 260209 managing export control risks in the ai chip ecosystem  
-   Link: [https://www.mofo.com/resources/insights/260209-managing-export-control-risks-in-the-ai-chip-ecosystem](https://www.mofo.com/resources/insights/260209-managing-export-control-risks-in-the-ai-chip-ecosystem)  
+   Link: <a href="https://www.mofo.com/resources/insights/260209-managing-export-control-risks-in-the-ai-chip-ecosystem" target="_blank" rel="noopener noreferrer nofollow">https://www.mofo.com/resources/insights/260209-managing-export-control-risks-in-the-ai-chip-ecosystem</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Managing Export Control Risks in the AI Chip Ecosystem9 Feb 2026 — In August 2025, DOJ announced charges against two Chinese nationals fo...</p></details>
    Published: August 2025  
 
 28. <a id="endnote-28"></a>
    Source: Wikipedia  
    Title: United States export controls on AI chips and semiconductors  
-   Link: [https://en.wikipedia.org/wiki/United_States_export_controls_on_AI_chips_and_semiconductors](https://en.wikipedia.org/wiki/United_States_export_controls_on_AI_chips_and_semiconductors)  
+   Link: <a href="https://en.wikipedia.org/wiki/United_States_export_controls_on_AI_chips_and_semiconductors" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/United_States_export_controls_on_AI_chips_and_semiconductors</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>United States export controls on AI chips and semiconductorsUnited States export controls on AI chips and semiconductors are a series...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: builtin.com  
    Title: Trump Lifted the AI Chip Ban on China, Clearing Nvidia  
-   Link: [https://builtin.com/articles/trump-lifts-ai-chip-ban-china-nvidia](https://builtin.com/articles/trump-lifts-ai-chip-ban-china-nvidia)  
+   Link: <a href="https://builtin.com/articles/trump-lifts-ai-chip-ban-china-nvidia" target="_blank" rel="noopener noreferrer nofollow">https://builtin.com/articles/trump-lifts-ai-chip-ban-china-nvidia</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>keeps tight control over which Nvidia chips can be sold to China, toggling export bans, tariffs and licensing rules. The shifting policy...</p></details>

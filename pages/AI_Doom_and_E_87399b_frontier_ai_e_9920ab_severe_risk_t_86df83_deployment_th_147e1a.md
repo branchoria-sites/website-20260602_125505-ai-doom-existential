@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_frontier_ai_e_9920ab_severe_risk_t_86df83_capability_th_d9904d
 - AI_Doom_and_E_87399b_frontier_ai_e_9920ab_severe_risk_t_86df83_open_weight_t_3026a4
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - evals
 - risk-thresholds
 - release-gates
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - evals
 - risk-thresholds
 - release-gates
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Acceptable deployment thresholds ask whether a powerful model can be released safely after safeguards, limits, and residual risk are considered.
 hero_summary: Acceptable deployment thresholds ask whether a powerful model can be released safely after safeguards, limits, and residual risk are considered.
 layout: default
 permalink: /release-gates/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /evals/
 - /risk-thresholds/
 nav_short_title: Release Gates
@@ -211,10 +211,10 @@ parent_heading_title: What happens when a model crosses a threshold?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_frontier_ai_e_9920ab
-  title: Evals | AI Doom and
+  title: Evals | AI Doom and E 87399 b
   permalink: /evals/
   short_title: Evals
   heading_title: Can Tests Catch Dangerous AI in Time?
@@ -226,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_frontier_ai_e_9920ab
-  title: Evals | AI Doom and
+  title: Evals | AI Doom and E 87399 b
   permalink: /evals/
   short_title: Evals
   heading_title: Can Tests Catch Dangerous AI in Time?
@@ -277,10 +277,10 @@ In the context of *AI doom* and frontier models — powerful systems whose misus
 
 In frontier AI frameworks, developers often distinguish two kinds of stopping points:
 
-* **Capability thresholds:** markers signalling that a model has reached abilities that could enable extreme harms (e.g., autonomous strategy planning, biological weaponisation‑enabling reasoning). These thresholds prompt intensified evaluation and safety work but do not by themselves decide whether to deploy.
+* **[Capability thresholds]({{ 'capability-thresholds/' | relative_url }}):** markers signalling that a model has reached abilities that could enable extreme harms (e.g., autonomous strategy planning, biological weaponisation‑enabling reasoning). These thresholds prompt intensified evaluation and safety work but do not by themselves decide whether to deploy.
 * **Deployment or residual‑risk thresholds:** criteria that *judge the overall risk level* a model poses after safeguards. If residual risk exceeds what a developer or regulator considers acceptable, deployment — especially wide or public deployment — should be restricted or withheld. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">Frontier Model Forum Risk Taxonomy and Thresholds for Frontier AI Frameworks</span><span class="citation-popover-snippet">Frontier Model ForumRisk Taxonomy and Thresholds for Frontier AI Frameworks - Frontier Model ForumJune 18, 2025...</span><span class="citation-popover-meta">Published: June 18, 2025</span></span></span>
 
-Put plainly: acceptable deployment thresholds ask, *given what a model can do and all the controls we’ve applied, is it still too [dangerous]({{ 'autonomy/' | relative_url }}) to let people use it widely?* These thresholds are attempts to make that judgement systematic and pre‑committed rather than ad hoc at the point of release.
+Put plainly: acceptable deployment thresholds ask, *given what a model can do and all the controls we’ve applied, is it still too dangerous to let people use it widely?* These thresholds are attempts to make that judgement systematic and pre‑committed rather than ad hoc at the point of release.
 
 ## Why Thresholds Matter: From Theory to Decision Gates
 
@@ -322,8 +322,8 @@ Acceptable deployment thresholds are meant to be *conservative margins* that tak
 
 There’s no single universal formula for acceptable deployment thresholds. Within industry and governance circles, thresholds tend to be developed through a mix of:
 
-* **[Benchmark]({{ 'benchmark-limits/' | relative_url }}) and capability assessments:** identifying where model behaviours intersect with known dangerous capabilities and then deciding how much of that capability can be tolerated given mitigations.
-* **Risk scoring systems:** frameworks that quantify risk vectors (such as misuse susceptibility, autonomy, robustness) and apply composite criteria to determine acceptable classes of deployment.
+* **Benchmark and capability assessments:** identifying where model behaviours intersect with known dangerous capabilities and then deciding how much of that capability can be tolerated given mitigations.
+* **Risk scoring systems:** frameworks that quantify risk vectors (such as misuse susceptibility, [autonomy]({{ 'autonomy/' | relative_url }}), robustness) and apply composite criteria to determine acceptable classes of deployment.
 * **Policy standards and legal frameworks:** examples include the *EU AI Act’s* tiered risk approach — where some systems are outright prohibited, others regulated, and some allowed with safeguards — which implicitly embeds acceptable deployment concepts by categorising residual risk levels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/european-journal-of-risk-regulation/article/risk-reasonableness-and-residual-harm-under-the-eu-ai-act-a-conceptual-framework-for-proportional-exante-controls/093E8A6D09AE75FD4AE8D366ABF02D19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentRisk, Reasonableness and Residual Harm under the EU AI Act: A Conceptual Framework for Proportiona...</span></span></span> University Press & Assessment
 
 Practical decision frameworks often provide “Yes/No” gates or **deployment authorisation conditions** that must be satisfied before moving from internal testing to broader access.
@@ -335,9 +335,9 @@ Practical decision frameworks often provide “Yes/No” gates or **deployment a
 
 Acceptable deployment thresholds do not always lead to a binary choice of “public release” or “no release.” Many frameworks include **graduated access strategies** based on residual risk:
 
-* **Internal use only:** The model remains within the developer’s organisation for research or controlled [operational]({{ 'operational-thresholds/' | relative_url }}) tests.
+* **Internal use only:** The model remains within the developer’s organisation for research or controlled operational tests.
 * **Limited external access:** By issuing access through controlled APIs or partner programmes, developers can collect usage data and observe real‑world interactions without exposing the system to broad misuse.
-* **Delayed release with conditional safeguards:** Release occurs only after additional measures — such as third‑party audits, independent evaluations, or government‑mandated conditions — are satisfied.
+* **Delayed release with conditional safeguards:** Release occurs only after additional measures — such as third‑party audits, [independent]({{ 'red-teaming/' | relative_url }}) [evaluations]({{ 'evaluations/' | relative_url }}), or government‑mandated conditions — are satisfied.
 
 These intermediate deployment categories are attempts to balance innovation and caution: they allow some benefits to accrue while keeping potential harms contained. It reflects an understanding that *not all unsafe systems are equally dangerous* when access is limited.
 
@@ -446,7 +446,7 @@ Acceptable deployment thresholds are pivotal governance tools that link technica
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -456,111 +456,36 @@ Acceptable deployment thresholds are pivotal governance tools that link technica
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=release-gates-how-risky-is-too-risky-to-release-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DENSO Industrial Robot Arm Model 1:6 Scale Manipulator Simulation Display Gift"><img src="{{ '/assets/images/marketplace-covers/65d51f66075c4571a747.jpg' | relative_url }}" alt="Listing image for DENSO Industrial Robot Arm Model 1:6 Scale Manipulator Simulation Display Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-risky-is-too-risky-to-release-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="how-risky-is-too-risky-to-release-robot-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Articulated Robot Display Figure – Custom 3D Printed Model"><img src="https://i.ebayimg.com/images/g/wJ0AAeSwI3Zp4fM2/s-l225.jpg" alt="Listing image for Articulated Robot Display Figure – Custom 3D Printed Model" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=release-gates-how-risky-is-too-risky-to-release-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">DENSO Industrial Robot Arm Model 1:6 Scale Manipulator Simulation Display Gift</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-risky-is-too-risky-to-release-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="how-risky-is-too-risky-to-release-robot-display-model" target="_blank" rel="sponsored noopener noreferrer">Articulated Robot Display Figure – Custom 3D Printed Model</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=release-gates-how-risky-is-too-risky-to-release-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search <span data-ebay-domain-label>eBay.com</span>: robot display model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-risky-is-too-risky-to-release-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="how-risky-is-too-risky-to-release-robot-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot display model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=release-gates-how-risky-is-too-risky-to-release-ai-doom-and-robot-display-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=release-gates-how-risky-is-too-risky-to-release-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Toy Story Mr. Robot with Lights 3D Print Model For display Only, Not a toy"><img src="{{ '/assets/images/marketplace-covers/64cc1c96018c3c374a54.jpg' | relative_url }}" alt="Listing image for Toy Story Mr. Robot with Lights 3D Print Model For display Only, Not a toy" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=release-gates-how-risky-is-too-risky-to-release-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Toy Story Mr. Robot with Lights 3D Print Model For display Only, Not a toy</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=release-gates-how-risky-is-too-risky-to-release-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search <span data-ebay-domain-label>eBay.com</span>: robot display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=release-gates-how-risky-is-too-risky-to-release-ai-doom-and-robot-display-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=release-gates-how-risky-is-too-risky-to-release-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lost In Space YM-3 Robot Mini Display Model in Retro TV 17RMB03"><img src="{{ '/assets/images/marketplace-covers/52a95005f7f5389649de.jpg' | relative_url }}" alt="Listing image for Lost In Space YM-3 Robot Mini Display Model in Retro TV 17RMB03" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=release-gates-how-risky-is-too-risky-to-release-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Lost In Space YM-3 Robot Mini Display Model in Retro TV 17RMB03</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=release-gates-how-risky-is-too-risky-to-release-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search <span data-ebay-domain-label>eBay.com</span>: robot display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=release-gates-how-risky-is-too-risky-to-release-ai-doom-and-robot-display-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=release-gates-how-risky-is-too-risky-to-release-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kaiyodo Grendizer Cold Cast Figure with Base Super Robot Display Model New"><img src="{{ '/assets/images/marketplace-covers/53d929fffd3f45df8d8c.jpg' | relative_url }}" alt="Listing image for Kaiyodo Grendizer Cold Cast Figure with Base Super Robot Display Model New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=release-gates-how-risky-is-too-risky-to-release-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Kaiyodo Grendizer Cold Cast Figure with Base Super Robot Display Model New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=release-gates-how-risky-is-too-risky-to-release-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search <span data-ebay-domain-label>eBay.com</span>: robot display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=release-gates-how-risky-is-too-risky-to-release-ai-doom-and-robot-display-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=release-gates-how-risky-is-too-risky-to-release-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=release-gates-how-risky-is-too-risky-to-release-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SKYNET LB MENS T SHIRT RETRO CYBERDYNE ARTIFICIAL INTELLIGENCE ARNIE CLASSIC"><img src="{{ '/assets/images/marketplace-covers/fe4caa4fdcd791b2fb74.jpg' | relative_url }}" alt="Listing image for SKYNET LB MENS T SHIRT RETRO CYBERDYNE ARTIFICIAL INTELLIGENCE ARNIE CLASSIC" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=release-gates-how-risky-is-too-risky-to-release-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SKYNET LB MENS T SHIRT RETRO CYBERDYNE ARTIFICIAL INTELLIGENCE ARNIE CLASSIC</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=release-gates-how-risky-is-too-risky-to-release-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=release-gates-how-risky-is-too-risky-to-release-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-risky-is-too-risky-to-release-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="how-risky-is-too-risky-to-release-robot-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -568,15 +493,15 @@ Acceptable deployment thresholds are pivotal governance tools that link technica
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=release-gates-how-risky-is-too-risky-to-release-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Trust Me I Asked AI T-Shirt Funny Artificial intelligence Sizes Small to 5XL"><img src="{{ '/assets/images/marketplace-covers/d0683946fdfc9215b99f.jpg' | relative_url }}" alt="Listing image for Trust Me I Asked AI T-Shirt Funny Artificial intelligence Sizes Small to 5XL" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-risky-is-too-risky-to-release-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="how-risky-is-too-risky-to-release-robot-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/100 Scale Mecha Assembly Model Kit Action Figure with Water Decals Display Sta"><img src="https://i.ebayimg.com/images/g/DNIAAeSw0PVpgYHF/s-l225.jpg" alt="Listing image for 1/100 Scale Mecha Assembly Model Kit Action Figure with Water Decals Display Sta" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=release-gates-how-risky-is-too-risky-to-release-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Trust Me I Asked AI T-Shirt Funny Artificial intelligence Sizes Small to 5XL</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-risky-is-too-risky-to-release-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="how-risky-is-too-risky-to-release-robot-display-model" target="_blank" rel="sponsored noopener noreferrer">1/100 Scale Mecha Assembly Model Kit Action Figure with Water Decals Display Sta</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=release-gates-how-risky-is-too-risky-to-release-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-risky-is-too-risky-to-release-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="how-risky-is-too-risky-to-release-robot-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot display model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=release-gates-how-risky-is-too-risky-to-release-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-risky-is-too-risky-to-release-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="how-risky-is-too-risky-to-release-robot-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -584,15 +509,15 @@ Acceptable deployment thresholds are pivotal governance tools that link technica
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=release-gates-how-risky-is-too-risky-to-release-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Skynet Artificial Intelligence Male Adults Short Sleeve Soft Style T Shirt"><img src="{{ '/assets/images/marketplace-covers/5b6f0d8afbdc2e9cb4b7.jpg' | relative_url }}" alt="Listing image for Skynet Artificial Intelligence Male Adults Short Sleeve Soft Style T Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-risky-is-too-risky-to-release-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="how-risky-is-too-risky-to-release-robot-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Steampunk Robot Bust 3D Printed Display Model"><img src="https://i.ebayimg.com/images/g/Si0AAeSwnQ5qHZ7A/s-l225.jpg" alt="Listing image for Steampunk Robot Bust 3D Printed Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=release-gates-how-risky-is-too-risky-to-release-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Skynet Artificial Intelligence Male Adults Short Sleeve Soft Style T Shirt</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-risky-is-too-risky-to-release-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="how-risky-is-too-risky-to-release-robot-display-model" target="_blank" rel="sponsored noopener noreferrer">Steampunk Robot Bust 3D Printed Display Model</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=release-gates-how-risky-is-too-risky-to-release-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-risky-is-too-risky-to-release-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="how-risky-is-too-risky-to-release-robot-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot display model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=release-gates-how-risky-is-too-risky-to-release-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-risky-is-too-risky-to-release-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="how-risky-is-too-risky-to-release-robot-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -600,15 +525,15 @@ Acceptable deployment thresholds are pivotal governance tools that link technica
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=release-gates-how-risky-is-too-risky-to-release-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ARTIFICIAL INTELLIGENCE MALE ADULTS BLACK T SHIRT | NOVELTY | GIFT | BIRTHDAY"><img src="{{ '/assets/images/marketplace-covers/95f715df35fa193ddaab.jpg' | relative_url }}" alt="Listing image for ARTIFICIAL INTELLIGENCE MALE ADULTS BLACK T SHIRT | NOVELTY | GIFT | BIRTHDAY" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-risky-is-too-risky-to-release-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="how-risky-is-too-risky-to-release-robot-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eufy Robot Vacuum Cordless Eufy E20 Auto-Empty Station-ex display model"><img src="https://i.ebayimg.com/images/g/yvkAAeSwjapp7Onh/s-l225.jpg" alt="Listing image for Eufy Robot Vacuum Cordless Eufy E20 Auto-Empty Station-ex display model" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=release-gates-how-risky-is-too-risky-to-release-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">ARTIFICIAL INTELLIGENCE MALE ADULTS BLACK T SHIRT | NOVELTY | GIFT | BIRTHDAY</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-risky-is-too-risky-to-release-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="how-risky-is-too-risky-to-release-robot-display-model" target="_blank" rel="sponsored noopener noreferrer">Eufy Robot Vacuum Cordless Eufy E20 Auto-Empty Station-ex display model</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=release-gates-how-risky-is-too-risky-to-release-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-risky-is-too-risky-to-release-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="how-risky-is-too-risky-to-release-robot-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot display model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=release-gates-how-risky-is-too-risky-to-release-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-risky-is-too-risky-to-release-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="how-risky-is-too-risky-to-release-robot-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -616,7 +541,7 @@ Acceptable deployment thresholds are pivotal governance tools that link technica
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=release-gates-how-risky-is-too-risky-to-release-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-risky-is-too-risky-to-release-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="how-risky-is-too-risky-to-release-robot-display-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -693,17 +618,31 @@ Acceptable deployment thresholds are pivotal governance tools that link technica
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -716,42 +655,73 @@ Acceptable deployment thresholds are pivotal governance tools that link technica
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -766,33 +736,37 @@ Acceptable deployment thresholds are pivotal governance tools that link technica
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: GOV.UK  
    Title: Emerging processes for frontier AI safety  
-   Link: [https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety](https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety)  
+   Link: <a href="https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety</a>  
 
 2. <a id="endnote-2"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/journals/european-journal-of-risk-regulation/article/risk-reasonableness-and-residual-harm-under-the-eu-ai-act-a-conceptual-framework-for-proportional-exante-controls/093E8A6D09AE75FD4AE8D366ABF02D19](https://www.cambridge.org/core/journals/european-journal-of-risk-regulation/article/risk-reasonableness-and-residual-harm-under-the-eu-ai-act-a-conceptual-framework-for-proportional-exante-controls/093E8A6D09AE75FD4AE8D366ABF02D19)  
+   Link: <a href="https://www.cambridge.org/core/journals/european-journal-of-risk-regulation/article/risk-reasonableness-and-residual-harm-under-the-eu-ai-act-a-conceptual-framework-for-proportional-exante-controls/093E8A6D09AE75FD4AE8D366ABF02D19" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/european-journal-of-risk-regulation/article/risk-reasonableness-and-residual-harm-under-the-eu-ai-act-a-conceptual-framework-for-proportional-exante-controls/093E8A6D09AE75FD4AE8D366ABF02D19</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentRisk, Reasonableness and Residual Harm under the EU AI Act: A Conceptual Framework for Proportiona...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: frontiermodelforum.org  
    Title: Frontier Model Forum Risk Taxonomy and Thresholds for Frontier AI Frameworks  
-   Link: [https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/](https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/)  
+   Link: <a href="https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Model ForumRisk Taxonomy and Thresholds for Frontier AI Frameworks - Frontier Model ForumJune 18, 2025...</p></details>
    Published: June 18, 2025  
 
@@ -800,35 +774,35 @@ Acceptable deployment thresholds are pivotal governance tools that link technica
 
 4. <a id="endnote-4"></a>
    Source: cltc.berkeley.edu  
-   Link: [https://cltc.berkeley.edu/2024/11/18/cltc-submits-working-paper-for-ai-action-summit/](https://cltc.berkeley.edu/2024/11/18/cltc-submits-working-paper-for-ai-action-summit/)  
+   Link: <a href="https://cltc.berkeley.edu/2024/11/18/cltc-submits-working-paper-for-ai-action-summit/" target="_blank" rel="noopener noreferrer nofollow">https://cltc.berkeley.edu/2024/11/18/cltc-submits-working-paper-for-ai-action-summit/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CLTC UC Berkeley Center for Long-Term CybersecurityNovember 18, 2024...</p></details>
    Published: November 18, 2024  
 
 5. <a id="endnote-5"></a>
    Source: youtube.com  
    Title: It Begins: The First Real AI Sandbox Escape Just Happened. (Open AI Confirmed)  
-   Link: [https://www.youtube.com/watch?v=tWQOj1FrbIY](https://www.youtube.com/watch?v=tWQOj1FrbIY)  
+   Link: <a href="https://www.youtube.com/watch?v=tWQOj1FrbIY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tWQOj1FrbIY</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Towards auditable risk management frameworks for advanced AI developers...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
    Title: Google Deep Mind Just Built an AI Too Dangerous to Release  
-   Link: [https://www.youtube.com/watch?v=OP-0QkMBNNU](https://www.youtube.com/watch?v=OP-0QkMBNNU)  
+   Link: <a href="https://www.youtube.com/watch?v=OP-0QkMBNNU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OP-0QkMBNNU</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>It Begins: The First Real AI Sandbox Escape Just Happened. (OpenAI Confirmed)...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
-   Title: [Anthropic](&#123;&#123; 'anthropic-tests/' | relative_url &#125;&#125;) Did Not Ship Mythos Five  
-   Link: [https://www.youtube.com/watch?v=sicC0nYwEtE](https://www.youtube.com/watch?v=sicC0nYwEtE)  
+   Title: Anthropic Did Not Ship Mythos Five  
+   Link: <a href="https://www.youtube.com/watch?v=sicC0nYwEtE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sicC0nYwEtE</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google DeepMind Just Built an AI Too Dangerous to Release...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
    Title: Anthropic's Plan to Stop AI Bioweapons & Autonomous Misuse  
-   Link: [https://www.youtube.com/watch?v=Z_nHHKrcjQM](https://www.youtube.com/watch?v=Z_nHHKrcjQM)  
+   Link: <a href="https://www.youtube.com/watch?v=Z_nHHKrcjQM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Z_nHHKrcjQM</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic Did Not Ship Mythos Five...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: Towards auditable risk management frameworks for advanced AI developers  
-   Link: [https://www.youtube.com/watch?v=2hF7RTmtW7A](https://www.youtube.com/watch?v=2hF7RTmtW7A)  
+   Link: <a href="https://www.youtube.com/watch?v=2hF7RTmtW7A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2hF7RTmtW7A</a>  

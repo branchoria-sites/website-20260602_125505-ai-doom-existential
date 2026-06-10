@@ -19,19 +19,19 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_p_doom_estima_72d1f2
 - AI_Doom_and_E_87399b_recursive_imp_3a3504
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - race-pressure
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - race-pressure
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Competition between labs, companies and states can make safety measures harder even when everyone says they want caution.
 hero_summary: Competition between labs, companies and states can make safety measures harder even when everyone says they want caution.
 layout: default
 permalink: /race-pressure/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 nav_short_title: Race Pressure
 title: Why AI Races Can Make Safety Harder
 title_full: Why AI Races Can Make Safety Harder | AI Doom
@@ -211,61 +211,61 @@ ui_strings:
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 15:18:13'
 parent_title: AI Doom
-parent_permalink: /ai-doom-and/
+parent_permalink: /ai-doom-and-e-87399-b/
 parent_nav_short_title: AI Doom
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 sibling_links:
 - basename: AI_Doom_and_E_87399b_recursive_imp_3a3504
-  title: AI Takeoff | AI Doom and
+  title: AI Takeoff | AI Doom and E 87399 b
   permalink: /ai-takeoff/
   short_title: AI Takeoff
   heading_title: Could AI Improvement Run Away From US?
 - basename: AI_Doom_and_E_87399b_dangerous_aut_8f4266
-  title: Autonomy | AI Doom and
+  title: Autonomy | AI Doom and E 87399 b
   permalink: /autonomy/
   short_title: Autonomy
   heading_title: When Does AI Autonomy Become Dangerous?
 - basename: AI_Doom_and_E_87399b_interpretabil_15527d
-  title: Control Tools | AI Doom and
+  title: Control Tools | AI Doom and E 87399 b
   permalink: /control-tools/
   short_title: Control Tools
   heading_title: Can We Make Advanced AI Understandable?
 - basename: AI_Doom_and_E_87399b_frontier_ai_e_9920ab
-  title: Evals | AI Doom and
+  title: Evals | AI Doom and E 87399 b
   permalink: /evals/
   short_title: Evals
   heading_title: Can Tests Catch Dangerous AI in Time?
 - basename: AI_Doom_and_E_87399b_compute_gover_1ee8fc
-  title: Governance | AI Doom and
+  title: Governance | AI Doom and E 87399 b
   permalink: /governance/
   short_title: Governance
   heading_title: What Rules Could Reduce AI Doom Risk?
 - basename: AI_Doom_and_E_87399b_loss_of_contr_19a113
-  title: Loss of Control | AI Doom and
+  title: Loss of Control | AI Doom and E 87399 b
   permalink: /loss-of-control/
   short_title: Loss of Control
   heading_title: How Could Humans Lose Control of AI?
 - basename: AI_Doom_and_E_87399b_catastrophic_c92548
-  title: Misuse | AI Doom and
+  title: Misuse | AI Doom and E 87399 b
   permalink: /misuse/
   short_title: Misuse
   heading_title: How Could People Misuse Advanced AI?
 - basename: AI_Doom_and_E_87399b_p_doom_estima_72d1f2
-  title: P Doom | AI Doom and
+  title: P Doom | AI Doom and E 87399 b
   permalink: /p-doom/
   short_title: P Doom
   heading_title: What Does p(doom) Really Mean?
 - basename: AI_Doom_and_E_87399b_deceptive_ali_f9f449
-  title: Scheming Tests | AI Doom and
+  title: Scheming Tests | AI Doom and E 87399 b
   permalink: /scheming-tests/
   short_title: Scheming Tests
   heading_title: Can AI Pretend to Be Aligned?
@@ -293,17 +293,17 @@ child_links:
 up_link:
   basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 prev_link:
   basename: AI_Doom_and_E_87399b_p_doom_estima_72d1f2
-  title: P Doom | AI Doom and
+  title: P Doom | AI Doom and E 87399 b
   permalink: /p-doom/
   short_title: P Doom
   heading_title: What Does p(doom) Really Mean?
 next_link:
   basename: AI_Doom_and_E_87399b_deceptive_ali_f9f449
-  title: Scheming Tests | AI Doom and
+  title: Scheming Tests | AI Doom and E 87399 b
   permalink: /scheming-tests/
   short_title: Scheming Tests
   heading_title: Can AI Pretend to Be Aligned?
@@ -315,38 +315,38 @@ image: /assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049-overview-social.
 
 ## Introduction
 
-Within the broader debate about [AI doom and]({{ 'ai-doom-and/' | relative_url }}) existential risk from advanced AI systems, one mechanism that many experts worry about is not just *what* AI can do, but *how* competitive pressures shape when and how powerful systems are released. “AI race dynamics” refers to the incentive structures that push organisations and nations to develop and deploy increasingly capable AI quickly — sometimes at the expense of careful safety research and risk mitigation. These dynamics are analogous to historical arms races and have specific implications for existential risk: they can compress safety timelines, discourage thorough evaluation, and make widespread precautions harder to sustain without [shared rules]({{ 'shared-rules/' | relative_url }}) and collective governance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/glossary/ai-race-dynamics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryAI Race Dynamics — AI Governance Definition &amp; Guide | AI Safety DirectoryMarch 27, 2026...</span><span class="citation-popover-meta">Published: March 27, 2026</span></span></span>
+Within the broader debate about AI doom and existential risk from advanced AI systems, one mechanism that many experts worry about is not just *what* AI can do, but *how* competitive pressures shape when and how powerful systems are released. “AI race dynamics” refers to the incentive structures that push organisations and nations to develop and deploy increasingly capable AI quickly — sometimes at the expense of careful safety research and risk mitigation. These dynamics are analogous to historical arms races and have specific implications for existential risk: they can compress safety timelines, discourage thorough evaluation, and make widespread precautions harder to sustain without [shared rules]({{ 'shared-rules/' | relative_url }}) and collective [governance]({{ 'governance/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/glossary/ai-race-dynamics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryAI Race Dynamics — AI Governance Definition &amp; Guide &#124; AI Safety DirectoryMarch 27, 2026...</span><span class="citation-popover-meta">Published: March 27, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049-overview.webp" | relative_url }}" alt="Overview image for Race Pressure" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Competition Encourages Early Deployment
 
-At its core, competitive pressure in AI arises because being first to build or release a more capable system brings concrete advantages — including market share, strategic positioning, talent attraction, and influence over norms and standards. When investors, customers, or governments reward speed and capability, individual actors may face strong incentives to prioritise rapid development and [deployment]({{ 'release-gates/' | relative_url }}) over comprehensive safety assessments. This can create a *race to the bottom* where all actors feel compelled to move faster than they otherwise would if safety were the sole criterion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/glossary/ai-race-dynamics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryAI Race Dynamics — AI Governance Definition &amp; Guide | AI Safety DirectoryMarch 27, 2026...</span><span class="citation-popover-meta">Published: March 27, 2026</span></span></span>
+At its core, competitive pressure in AI arises because being first to build or release a more capable system brings concrete advantages — including market share, strategic positioning, talent attraction, and influence over norms and standards. When investors, customers, or governments reward speed and capability, individual actors may face strong incentives to prioritise rapid development and deployment over comprehensive safety assessments. This can create a *race to the bottom* where all actors feel compelled to move faster than they otherwise would if safety were the sole criterion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/glossary/ai-race-dynamics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryAI Race Dynamics — AI Governance Definition &amp; Guide &#124; AI Safety DirectoryMarch 27, 2026...</span><span class="citation-popover-meta">Published: March 27, 2026</span></span></span>
 
 Economic and game‑theoretic analyses bear this out. A recent working paper shows that even when firms privately recognise safety as valuable, competition can still induce *premature deployment* because first‑mover advantages raise expected payoffs from speeding up relative to thorough risk mitigation. In other words, firms may launch systems earlier than socially optimal because each fears losing ground to rivals.[TSE]
 
-This effect isn’t limited to private companies. National programmes also compete for technological leadership and economic power. For countries aiming to gain a strategic edge in AI, the perceived necessity to “win” can discourage robust, time‑intensive safety review or regulations that look like they could slow progress. A classic prisoner’s dilemma emerges: every participant would be better off with stronger safety norms, but each fears that slowing down unilaterally would leave them behind.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/glossary/ai-race-dynamics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryAI Race Dynamics — AI Governance Definition &amp; Guide | AI Safety DirectoryMarch 27, 2026...</span><span class="citation-popover-meta">Published: March 27, 2026</span></span></span>
+This effect isn’t limited to private companies. National programmes also compete for technological leadership and economic power. For countries aiming to gain a strategic edge in AI, the perceived necessity to “win” can discourage robust, time‑intensive safety review or regulations that look like they could slow progress. A classic prisoner’s dilemma emerges: every participant would be better off with stronger safety norms, but each fears that slowing down unilaterally would leave them behind.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/glossary/ai-race-dynamics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryAI Race Dynamics — AI Governance Definition &amp; Guide &#124; AI Safety DirectoryMarch 27, 2026...</span><span class="citation-popover-meta">Published: March 27, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049-Illustration-1-dark.svg" | relative_url }}" alt="Race Pressure illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Commercial Race Incentives
 
-In commercial AI development, race pressures are most visible around [model releases]({{ 'release-races/' | relative_url }}). High‑profile announcements of capabilities by one lab put pressure on others to respond quickly with comparable or superior systems. This phenomenon is intensifying as benchmarks and headline metrics — such as [benchmark]({{ 'benchmark-limits/' | relative_url }}) scores or claimed “frontier” status — become shorthand for leadership. As one industry analysis puts it, the competition rewards speed *before certainty*, pushing labs toward riskier updates and shorter evaluation timelines.<span class="citation-chip-wrap"><a class="citation-chip" href="https://kraft.id/frontier-ai-competition-risky-behavior/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kraft.id">[KRAFTID]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kraft.id</span><span class="citation-popover-title">IDHow Frontier AI Competition Drives Risk</span><span class="citation-popover-snippet">KRAFTIDHow Frontier AI Competition Drives RiskDecember 6, 2025...</span><span class="citation-popover-meta">Published: December 6, 2025</span></span></span>
+In commercial AI development, race pressures are most visible around [model releases]({{ 'release-races/' | relative_url }}). High‑profile announcements of capabilities by one lab put pressure on others to respond quickly with comparable or superior systems. This phenomenon is intensifying as benchmarks and headline metrics — such as benchmark scores or claimed “frontier” status — become shorthand for leadership. As one industry analysis puts it, the competition rewards speed *before certainty*, pushing labs toward riskier updates and shorter evaluation timelines.<span class="citation-chip-wrap"><a class="citation-chip" href="https://kraft.id/frontier-ai-competition-risky-behavior/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kraft.id">[KRAFTID]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kraft.id</span><span class="citation-popover-title">IDHow Frontier AI Competition Drives Risk</span><span class="citation-popover-snippet">IDHow Frontier AI Competition Drives RiskDecember 6, 2025...</span><span class="citation-popover-meta">Published: December 6, 2025</span></span></span>
 
-This dynamic can undermine internal safety processes. Investigative reporting has highlighted accounts from within leading AI labs describing safety [evaluations]({{ 'evaluations/' | relative_url }}) being shortened or reframed due to competitive pressures, and safety protocols adjusted to keep pace with rivals rather than to ensure maturity and thorough risk understanding. Although specific claims must be treated with caution, they illustrate how commercial incentives can compete with safety priorities in practice.<span class="citation-chip-wrap"><a class="citation-chip" href="https://theeditorial.news/technology/inside-the-ai-arms-race-how-openai-[anthropic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theeditorial.news">[The Editorial]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theeditorial.news</span><span class="citation-popover-snippet">The EditorialAI Safety Crisis at OpenAI Anthropic Google 2026 | The EditorialMarch 29, 2026...</span><span class="citation-popover-meta">Published: March 29, 2026</span></span></span>
+This dynamic can undermine internal safety processes. Investigative reporting has highlighted accounts from within leading AI labs describing safety [evaluations]({{ 'evaluations/' | relative_url }}) being shortened or reframed due to competitive pressures, and safety protocols adjusted to keep pace with rivals rather than to ensure maturity and thorough risk understanding. Although specific claims must be treated with caution, they illustrate how commercial incentives can compete with safety priorities in practice.<span class="citation-chip-wrap"><a class="citation-chip" href="https://theeditorial.news/technology/inside-the-ai-arms-race-how-openai-anthropic-and-google-are-racing-past-safety-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theeditorial.news">[The Editorial]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theeditorial.news</span><span class="citation-popover-snippet">The EditorialAI Safety Crisis at OpenAI Anthropic Google 2026 &#124; The EditorialMarch 29, 2026...</span><span class="citation-popover-meta">Published: March 29, 2026</span></span></span>
 
-Another commercial pressure comes from legal and investment ecosystems. Labs aiming to attract capital or maintain high valuations may prioritise visible capability leadership over internal safety research that produces no immediate product value. This can create organisational incentives that deprioritise long‑term risk reduction in favour of short‑term competitive gain, making existential concerns harder to address ahead of deployment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/glossary/ai-race-dynamics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryAI Race Dynamics — AI Governance Definition &amp; Guide | AI Safety DirectoryMarch 27, 2026...</span><span class="citation-popover-meta">Published: March 27, 2026</span></span></span>
+Another commercial pressure comes from legal and investment ecosystems. Labs aiming to attract capital or maintain high valuations may prioritise visible capability leadership over internal safety research that produces no immediate product value. This can create organisational incentives that deprioritise long‑term risk reduction in favour of short‑term competitive gain, making existential concerns harder to address ahead of deployment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/glossary/ai-race-dynamics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryAI Race Dynamics — AI Governance Definition &amp; Guide &#124; AI Safety DirectoryMarch 27, 2026...</span><span class="citation-popover-meta">Published: March 27, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qRLrE2tkr2Y" title="AI ‘race to recklessness’ could have dire consequences, tech experts warn in new interview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qRLrE2tkr2Y" target="_blank" rel="noopener noreferrer">AI ‘race to recklessness’ could have dire consequences, tech experts warn in new interview</a></p><p class="youtube-embed-meta">Channel: NBC News &middot; Views: 37.2K &middot; Uploaded: March 2023 &middot; Length: 4 minutes 34 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qRLrE2tkr2Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qRLrE2tkr2Y">Open on YouTube</a></p></div></div></div>
 
 ## Geopolitical Competition
 
-Beyond commercial rivalries, geopolitical competition amplifies race dynamics. Governments around the world increasingly view AI as a strategic national capability, with leadership linked to economic strength, military power, and technological prestige. This framing — often communicated by senior officials in major states — makes the timing of AI breakthroughs politically salient. Countries may fear strategic disadvantage if they impose stringent safety regimes while others do not.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iiss.org/publications/strategic-comments/2022/international-competition-over-artificial-intelligence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iiss.org">[IISS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iiss.org</span><span class="citation-popover-title">International competition over artificial intelligence</span><span class="citation-popover-snippet">IISSInternational competition over artificial intelligence...</span></span></span>
+Beyond commercial rivalries, geopolitical competition amplifies race dynamics. Governments around the world increasingly view AI as a strategic national capability, with leadership linked to economic strength, military power, and technological prestige. This framing — often communicated by senior officials in major states — makes the timing of AI breakthroughs politically salient. Countries may fear strategic disadvantage if they impose stringent safety regimes while others do not.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iiss.org/publications/strategic-comments/2022/international-competition-over-artificial-intelligence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iiss.org">[IISS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iiss.org</span><span class="citation-popover-title">International competition over artificial intelligence</span><span class="citation-popover-snippet">International competition over artificial intelligence...</span></span></span>
 
-The result can be a *global race pressure*: states support rapid development programmes, underfund or slow safety governance institutions, or emphasise speed in national AI strategies, all in hopes of capturing perceived first‑mover advantages. In such an environment, voluntary global standards may struggle to gain traction, and domestic priorities can crowd out collaborative safety initiatives that require slowing down or harmonising across borders.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/glossary/ai-race-dynamics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryAI Race Dynamics — AI Governance Definition &amp; Guide | AI Safety DirectoryMarch 27, 2026...</span><span class="citation-popover-meta">Published: March 27, 2026</span></span></span>
+The result can be a *global race pressure*: states support rapid development programmes, underfund or slow safety governance institutions, or emphasise speed in national AI strategies, all in hopes of capturing perceived first‑mover advantages. In such an environment, voluntary global standards may struggle to gain traction, and domestic priorities can crowd out collaborative safety initiatives that require slowing down or harmonising across borders.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/glossary/ai-race-dynamics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryAI Race Dynamics — AI Governance Definition &amp; Guide &#124; AI Safety DirectoryMarch 27, 2026...</span><span class="citation-popover-meta">Published: March 27, 2026</span></span></span>
 
-Economic models of international competition also highlight structural issues. When multiple actors invest in both speed and safety under competition, total industry speed can increase at the expense of safety investment, raising conditional risk even if each actor would prefer to wait or collaborate more if given the choice. This makes geopolitical contest a distinct amplifier of early deployment pressures.<span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6839098" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">SSRNThe AGI Race and Existential Risk by Ethan Bueno de Mesquita, Wioletta Dziuda, Mattias Polborn:: SSRNMay 28, 2026...</span><span class="citation-popover-meta">Published: May 28, 2026</span></span></span>
+Economic models of international competition also highlight structural issues. When multiple actors invest in both speed and safety under competition, total industry speed can increase at the expense of safety investment, raising conditional risk even if each actor would prefer to wait or collaborate more if given the choice. This makes geopolitical contest a distinct amplifier of early deployment pressures.<span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6839098" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">The AGI Race and Existential Risk by Ethan Bueno de Mesquita, Wioletta Dziuda, Mattias Polborn:: SSRNMay 28, 2026...</span><span class="citation-popover-meta">Published: May 28, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049-Illustration-2-dark.svg" | relative_url }}" alt="Race Pressure illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -354,9 +354,9 @@ Economic models of international competition also highlight structural issues. W
 
 These competitive pressures illustrate a key governance challenge: individual incentives do not necessarily align with collective safety. Because each actor — company or nation — can benefit from being first, none may bear the full social cost of a safety failure that harms all. This *coordination problem* is central to why shared rules and norms matter for existential risk reduction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://homo-deus.com/lab/ai-risk/ai-governance-race/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: homo-deus.com">[Homo Deus Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">homo-deus.com</span><span class="citation-popover-snippet">Homo Deus LabAI Race Dynamics: Modeling Governance and Catastrophic Risk — Homo Deus LabMarch 19, 2026...</span><span class="citation-popover-meta">Published: March 19, 2026</span></span></span>
 
-Shared rules — whether international agreements, industry standards, or rigorous, enforceable regulation — can help change the payoff structure. If all actors face common expectations to meet safety thresholds before deployment, the incentive to cut corners diminishes. Similarly, tools such as multilateral safety testing, transparent reporting of evaluation results, and shared risk assessment frameworks help align competitive incentives with collective risk reduction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://s-rsa.com/index.php/agi/article/view/16439" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: s-rsa.com">[s-rsa.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">s-rsa.com</span><span class="citation-popover-snippet">Enabling Frontier Lab Collaboration to Mitigate AI Safety Risks | SuperIntelligence - Robotics - Safety &amp; AlignmentDecember 28, 2025...</span><span class="citation-popover-meta">Published: December 28, 2025</span></span></span>
+Shared rules — whether international agreements, industry standards, or rigorous, enforceable regulation — can help change the payoff structure. If all actors face common expectations to meet safety thresholds before deployment, the incentive to cut corners diminishes. Similarly, tools such as multilateral safety testing, transparent reporting of evaluation results, and shared risk assessment frameworks help align competitive incentives with collective risk reduction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://s-rsa.com/index.php/agi/article/view/16439" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: s-rsa.com">[s-rsa.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">s-rsa.com</span><span class="citation-popover-snippet">Enabling Frontier Lab Collaboration to Mitigate AI Safety Risks &#124; SuperIntelligence - Robotics - Safety &amp; AlignmentDecember 28, 2025...</span><span class="citation-popover-meta">Published: December 28, 2025</span></span></span>
 
-Without such mechanisms, competition can keep pushing actors toward earlier, less‑tested deployment, even when they acknowledge the risks. In essence, the pressure to deploy early is not only a commercial or geopolitical phenomenon; it is a symptom of how global incentive structures are currently configured around frontier AI development. Changing those structures — by embedding safety into competitive advantages rather than making safety a luxury — is a core focus of current policy proposals aimed at reducing existential AI risk.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/glossary/ai-race-dynamics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryAI Race Dynamics — AI Governance Definition &amp; Guide | AI Safety DirectoryMarch 27, 2026...</span><span class="citation-popover-meta">Published: March 27, 2026</span></span></span>
+Without such mechanisms, competition can keep pushing actors toward earlier, less‑tested deployment, even when they acknowledge the risks. In essence, the pressure to deploy early is not only a commercial or geopolitical phenomenon; it is a symptom of how global incentive structures are currently configured around frontier AI development. Changing those structures — by embedding safety into competitive advantages rather than making safety a luxury — is a core focus of current policy proposals aimed at reducing existential AI risk.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/glossary/ai-race-dynamics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryAI Race Dynamics — AI Governance Definition &amp; Guide &#124; AI Safety DirectoryMarch 27, 2026...</span><span class="citation-popover-meta">Published: March 27, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XVIc2fE3UzM" title="&#x27;Godfather&#x27; of AI warns arms race risks amplifying dangers of &#x27;superhuman&#x27; systems" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XVIc2fE3UzM" target="_blank" rel="noopener noreferrer">&#x27;Godfather&#x27; of AI warns arms race risks amplifying dangers of &#x27;superhuman&#x27; systems</a></p><p class="youtube-embed-meta">Channel: Sky News &middot; Views: 6.2K &middot; Uploaded: February 2025 &middot; Length: 2 minutes 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XVIc2fE3UzM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XVIc2fE3UzM">Open on YouTube</a></p></div></div></div>
@@ -366,7 +366,7 @@ Without such mechanisms, competition can keep pushing actors toward earlier, les
 
 ## Summary
 
-AI race dynamics describe how competitive pressures — among companies and between nations — can incentivise earlier deployment of increasingly powerful AI systems at the expense of safety. These pressures arise from economic incentives for first‑mover advantage, political imperatives in geopolitical competition, and collective action problems that make robust governance challenging without shared rules. Because the timing of deployment and thoroughness of safety evaluation are central to managing existential risk, understanding and addressing race dynamics is essential for meaningful mitigation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/glossary/ai-race-dynamics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryAI Race Dynamics — AI Governance Definition &amp; Guide | AI Safety DirectoryMarch 27, 2026...</span><span class="citation-popover-meta">Published: March 27, 2026</span></span></span>
+AI race dynamics describe how competitive pressures — among companies and between nations — can incentivise earlier deployment of increasingly powerful AI systems at the expense of safety. These pressures arise from economic incentives for first‑mover advantage, political imperatives in geopolitical competition, and collective action problems that make robust governance challenging without shared rules. Because the timing of deployment and thoroughness of safety evaluation are central to managing existential risk, understanding and addressing race dynamics is essential for meaningful mitigation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/glossary/ai-race-dynamics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryAI Race Dynamics — AI Governance Definition &amp; Guide &#124; AI Safety DirectoryMarch 27, 2026...</span><span class="citation-popover-meta">Published: March 27, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049-Illustration-3-dark.svg" | relative_url }}" alt="Race Pressure illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -793,62 +793,62 @@ AI race dynamics describe how competitive pressures — among companies and betw
 1. <a id="endnote-1"></a>
    Source: kraft.id  
    Title: IDHow Frontier AI Competition Drives Risk  
-   Link: [https://kraft.id/frontier-ai-competition-risky-behavior/](https://kraft.id/frontier-ai-competition-risky-behavior/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>KRAFTIDHow Frontier AI Competition Drives RiskDecember 6, 2025...</p></details>
+   Link: <a href="https://kraft.id/frontier-ai-competition-risky-behavior/" target="_blank" rel="noopener noreferrer nofollow">https://kraft.id/frontier-ai-competition-risky-behavior/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>IDHow Frontier AI Competition Drives RiskDecember 6, 2025...</p></details>
    Published: December 6, 2025  
 
 2. <a id="endnote-2"></a>
    Source: iiss.org  
-   Title: International competition over [artificial](&#123;&#123; 'artificial-goals/' | relative_url &#125;&#125;) intelligence  
-   Link: [https://www.iiss.org/publications/strategic-comments/2022/international-competition-over-artificial-intelligence/](https://www.iiss.org/publications/strategic-comments/2022/international-competition-over-artificial-intelligence/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IISSInternational competition over artificial intelligence...</p></details>
+   Title: International competition over artificial intelligence  
+   Link: <a href="https://www.iiss.org/publications/strategic-comments/2022/international-competition-over-artificial-intelligence/" target="_blank" rel="noopener noreferrer nofollow">https://www.iiss.org/publications/strategic-comments/2022/international-competition-over-artificial-intelligence/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>International competition over artificial intelligence...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6839098](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6839098)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SSRNThe AGI Race and Existential Risk by Ethan Bueno de Mesquita, Wioletta Dziuda, Mattias Polborn:: SSRNMay 28, 2026...</p></details>
+   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6839098" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6839098</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The AGI Race and Existential Risk by Ethan Bueno de Mesquita, Wioletta Dziuda, Mattias Polborn:: SSRNMay 28, 2026...</p></details>
    Published: May 28, 2026  
 
 4. <a id="endnote-4"></a>
    Source: homo-deus.com  
-   Link: [https://homo-deus.com/lab/ai-risk/ai-governance-race/](https://homo-deus.com/lab/ai-risk/ai-governance-race/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Homo Deus LabAI Race Dynamics: Modeling Governance and Catastrophic Risk — Homo Deus LabMarch 19, 2026...</p></details>
+   Link: <a href="https://homo-deus.com/lab/ai-risk/ai-governance-race/" target="_blank" rel="noopener noreferrer nofollow">https://homo-deus.com/lab/ai-risk/ai-governance-race/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Homo Deus LabAI Race Dynamics: Modeling Governance and [Catastrophic](&amp;#123;&amp;#123; &#x27;misuse/&#x27; | relative_url &amp;#125;&amp;#125;) Risk — Homo Deus LabMarch 19, 2026...</p></details>
    Published: March 19, 2026  
 
 5. <a id="endnote-5"></a>
    Source: s-rsa.com  
-   Link: [https://s-rsa.com/index.php/agi/article/view/16439](https://s-rsa.com/index.php/agi/article/view/16439)  
+   Link: <a href="https://s-rsa.com/index.php/agi/article/view/16439" target="_blank" rel="noopener noreferrer nofollow">https://s-rsa.com/index.php/agi/article/view/16439</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enabling Frontier Lab Collaboration to Mitigate AI Safety Risks | SuperIntelligence - Robotics - Safety &amp; AlignmentDecember 28, 2025...</p></details>
    Published: December 28, 2025  
 
 6. <a id="endnote-6"></a>
    Source: aisecurityandsafety.org  
-   Link: [https://aisecurityandsafety.org/en/glossary/ai-race-dynamics/](https://aisecurityandsafety.org/en/glossary/ai-race-dynamics/)  
+   Link: <a href="https://aisecurityandsafety.org/en/glossary/ai-race-dynamics/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/en/glossary/ai-race-dynamics/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security &amp; Safety DirectoryAI Race Dynamics — AI Governance Definition &amp; Guide | AI Safety DirectoryMarch 27, 2026...</p></details>
    Published: March 27, 2026  
 
 7. <a id="endnote-7"></a>
    Source: theeditorial.news  
-   Link: [https://theeditorial.news/technology/inside-the-ai-arms-race-how-openai-[anthropic](https://theeditorial.news/technology/inside-the-ai-arms-race-how-openai-[anthropic)  
+   Link: <a href="https://theeditorial.news/technology/inside-the-ai-arms-race-how-openai-anthropic-and-google-are-racing-past-safety-research" target="_blank" rel="noopener noreferrer nofollow">https://theeditorial.news/technology/inside-the-ai-arms-race-how-openai-anthropic-and-google-are-racing-past-safety-research</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The EditorialAI Safety Crisis at OpenAI Anthropic Google 2026 | The EditorialMarch 29, 2026...</p></details>
    Published: March 29, 2026  
 
 8. <a id="endnote-8"></a>
    Source: aisecurityandsafety.org  
    Title: A I Race Dynamics — AI Governance Definition & Guide | AI Safety Directory  
-   Link: [https://aisecurityandsafety.org/es/glossary/ai-race-dynamics/](https://aisecurityandsafety.org/es/glossary/ai-race-dynamics/)  
+   Link: <a href="https://aisecurityandsafety.org/es/glossary/ai-race-dynamics/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/es/glossary/ai-race-dynamics/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Race Dynamics — AI Governance Definition &amp; Guide | AI Safety DirectoryMarch 27, 2026 — AI RACE DYNAMICS governance Última actualizació...</p></details>
    Published: March 27, 2026  
 
 9. <a id="endnote-9"></a>
    Source: aimodels.fyi  
-   Link: [https://www.aimodels.fyi/papers/arxiv/enabling-frontier-lab-collaboration-mitigate-ai-safety](https://www.aimodels.fyi/papers/arxiv/enabling-frontier-lab-collaboration-mitigate-ai-safety)  
+   Link: <a href="https://www.aimodels.fyi/papers/arxiv/enabling-frontier-lab-collaboration-mitigate-ai-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.aimodels.fyi/papers/arxiv/enabling-frontier-lab-collaboration-mitigate-ai-safety</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ENABLING FRONTIER LAB COLLABORATION TO MITIGATE AI SAFETY RISKS Published 11/13/2025 by Nicholas Felstead OVERVIEW * AI safety risks increas...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: intelligence.org  
    Title: New Paper: "Racing to the Precipice"  
-   Link: [https://intelligence.org/2013/11/27/new-paper-racing-to-the-precipice/](https://intelligence.org/2013/11/27/new-paper-racing-to-the-precipice/)  
+   Link: <a href="https://intelligence.org/2013/11/27/new-paper-racing-to-the-precipice/" target="_blank" rel="noopener noreferrer nofollow">https://intelligence.org/2013/11/27/new-paper-racing-to-the-precipice/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Machine Intelligence Research InstituteNovember 27, 2013 — NEW PAPER: “RACING TO THE PRECIPICE” * November 27, 2013 * Luke Muehlhauser Du...</p></details>
    Published: November 27, 2013  
 
@@ -857,62 +857,62 @@ AI race dynamics describe how competitive pressures — among companies and betw
 11. <a id="endnote-11"></a>
    Source: forethought.org  
    Title: how can ai labs incorporate risks from ai accelerating ai progress into  
-   Link: [https://www.forethought.org/research/how-can-ai-labs-incorporate-risks-from-ai-accelerating-ai-progress-into](https://www.forethought.org/research/how-can-ai-labs-incorporate-risks-from-ai-accelerating-ai-progress-into)  
+   Link: <a href="https://www.forethought.org/research/how-can-ai-labs-incorporate-risks-from-ai-accelerating-ai-progress-into" target="_blank" rel="noopener noreferrer nofollow">https://www.forethought.org/research/how-can-ai-labs-incorporate-risks-from-ai-accelerating-ai-progress-into</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Their Responsible Scaling Policies?March 24, 2025 — HOW CAN AI LABS INCORPORATE RISKS FROM AI ACCELERATING AI PROGRESS INTO THEIR RESPONS...</p></details>
    Published: March 24, 2025  
 
 12. <a id="endnote-12"></a>
    Source: sciencedirect.com  
    Title: Strategic insights from simulation gaming of AI race dynamics  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0016328725000254](https://www.sciencedirect.com/science/article/pii/S0016328725000254)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0016328725000254" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0016328725000254</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;ScienceDirectMarch 1, 2025 — STRATEGIC INSIGHTS FROM SIMULATION GAMING OF AI RACE DYNAMICS [https://doi.org/10.1016/j.futures.2025.103563G...&quot;](https://doi.org/10.1016/j.futures.2025.103563G...&quot;)...</p></details>
    Published: March 1, 2025  
 
 13. <a id="endnote-13"></a>
    Source: longtermwiki.com  
    Title: Multipolar Trap (AI Development) | Longterm Wiki  
-   Link: [https://www.longtermwiki.com/wiki/multipolar-trap](https://www.longtermwiki.com/wiki/multipolar-trap)  
+   Link: <a href="https://www.longtermwiki.com/wiki/multipolar-trap" target="_blank" rel="noopener noreferrer nofollow">https://www.longtermwiki.com/wiki/multipolar-trap</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>January 30, 2026 — MULTIPOLAR TRAP (AI DEVELOPMENT) Risk MULTIPOLAR TRAP (AI DEVELOPMENT) Part of Structural Risks (Overview) Analysis of...</p></details>
    Published: January 30, 2026  
 
 14. <a id="endnote-14"></a>
    Source: research.tees.ac.uk  
    Title: tees.ac.uk Multi-Agent Risks from Advanced AI  
-   Link: [https://research.tees.ac.uk/en/publications/multi-agent-risks-from-advanced-ai](https://research.tees.ac.uk/en/publications/multi-agent-risks-from-advanced-ai)  
+   Link: <a href="https://research.tees.ac.uk/en/publications/multi-agent-risks-from-advanced-ai" target="_blank" rel="noopener noreferrer nofollow">https://research.tees.ac.uk/en/publications/multi-agent-risks-from-advanced-ai</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>tees.ac.ukMulti-Agent Risks from Advanced AI - Teesside University&#x27;s Research PortalFebruary 19, 2025 — MULTI-AGENT RISKS FROM ADVANCED A...</p></details>
    Published: February 19, 2025  
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=qRLrE2tkr2Y](https://www.youtube.com/watch?v=qRLrE2tkr2Y)  
+   Link: <a href="https://www.youtube.com/watch?v=qRLrE2tkr2Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qRLrE2tkr2Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Humane Technology Co-Founders Tristan Harris and Aza Raskin discuss The AI Dilemma...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=XVIc2fE3UzM](https://www.youtube.com/watch?v=XVIc2fE3UzM)  
+   Link: <a href="https://www.youtube.com/watch?v=XVIc2fE3UzM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XVIc2fE3UzM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI &#x27;race to recklessness&#x27; could have dire consequences, tech experts warn in new interview...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: tse-fr.eu  
    Title: ai safety and competition 0  
-   Link: [https://www.tse-fr.eu/fr/publications/ai-safety-and-competition-0](https://www.tse-fr.eu/fr/publications/ai-safety-and-competition-0)  
+   Link: <a href="https://www.tse-fr.eu/fr/publications/ai-safety-and-competition-0" target="_blank" rel="noopener noreferrer nofollow">https://www.tse-fr.eu/fr/publications/ai-safety-and-competition-0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Safety and Competition | TSEMay 7, 2026 — Document de travail AI SAFETY AND COMPETITION Jay Pil Choi, Doh-Shin Jeon et Domenico Menicu...</p></details>
    Published: May 7, 2026  
 
 18. <a id="endnote-18"></a>
    Source: axios.com  
    Title: ai race safety guardrail  
-   Link: [https://www.axios.com/2026/03/03/ai-race-safety-guardrail/](https://www.axios.com/2026/03/03/ai-race-safety-guardrail/)  
+   Link: <a href="https://www.axios.com/2026/03/03/ai-race-safety-guardrail/" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2026/03/03/ai-race-safety-guardrail/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic, OpenAI, Google battle threatens safe AIMarch 3, 2026 — Mar 3, 2026 - Technology SAFETY GUARDRAILS LOOSEN AS AI RIVALRIES GROWS...</p></details>
    Published: March 3, 2026  
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=cB0_-qKbal4](https://www.youtube.com/watch?v=cB0_-qKbal4)  
+   Link: <a href="https://www.youtube.com/watch?v=cB0_-qKbal4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cB0_-qKbal4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI &#x27;arms race&#x27; risks human extinction, warns top computing expert...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: AI 'arms race' risks human extinction, warns top computing expert  
-   Link: [https://www.youtube.com/watch?v=oqjy9roufKc](https://www.youtube.com/watch?v=oqjy9roufKc)  
+   Link: <a href="https://www.youtube.com/watch?v=oqjy9roufKc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oqjy9roufKc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>America and China Are Racing to Different AI Futures...</p></details>

@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549_ai_compute_ky_377148
 - AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549_cloud_monitor_82c6db
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - governance
 - cloud-oversight
 - training-traces
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - governance
 - cloud-oversight
 - training-traces
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Large AI training runs can leave compute-use patterns that cloud providers may detect without reading a model's private contents.
 hero_summary: Large AI training runs can leave compute-use patterns that cloud providers may detect without reading a model's private contents.
 layout: default
 permalink: /training-traces/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /governance/
 - /cloud-oversight/
 nav_short_title: Training traces
@@ -203,6 +203,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-02 12:26:00'
 parent_title: Can Cloud Providers Police Frontier AI Training? | Governance
 parent_permalink: /cloud-oversight/
 parent_nav_short_title: Cloud Oversight
@@ -210,10 +211,10 @@ parent_heading_title: Can Cloud Providers Police Frontier AI Training?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_compute_gover_1ee8fc
-  title: Governance | AI Doom and
+  title: Governance | AI Doom and E 87399 b
   permalink: /governance/
   short_title: Governance
   heading_title: What Rules Could Reduce AI Doom Risk?
@@ -225,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_compute_gover_1ee8fc
-  title: Governance | AI Doom and
+  title: Governance | AI Doom and E 87399 b
   permalink: /governance/
   short_title: Governance
   heading_title: What Rules Could Reduce AI Doom Risk?
@@ -260,7 +261,6 @@ prev_link:
   permalink: /evasion-risks/
   short_title: Evasion risks
   heading_title: Can frontier AI training hide from clouds?
-date: '2026-06-02 12:26:00 '
 header:
   og_image: /assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549_cloud_trainin_79cb04-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549_cloud_trainin_79cb04-Illustration-1.webp
@@ -269,7 +269,7 @@ image: /assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bb
 
 ## Introduction
 
-One reason cloud-provider monitoring appears so often in discussions of [AI doom and]({{ 'ai-doom-and/' | relative_url }}) existential risk is that the largest AI training runs are unusually difficult to hide. Training a frontier model typically requires vast numbers of specialised AI chips working together for weeks or months, creating distinctive patterns of compute use, networking activity, power consumption, storage access, and spending. Supporters of compute governance argue that cloud providers may be able to identify such projects without inspecting a model's weights, training data, or internal design. Instead, they would monitor operational metadata: the digital equivalent of noticing that a factory is consuming enormous amounts of [electricity]({{ 'power-limits/' | relative_url }}) and raw materials, without knowing exactly what product is being made inside. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.robots.ox.ac.uk/~mosb/public/pdf/3343/Heim%20et%20al.%20-%202024%20-%20Governing%20Through%20the%20Cloud%20The%20Intermediary%20Role.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: robots.ox.ac.uk">[robots.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">robots.ox.ac.uk</span><span class="citation-popover-title">Heim et al. 2024 Governing Through the Cloud The Intermediary Role</span><span class="citation-popover-snippet">THE INTERMEDIARY ROLE OF COMPUTE PROVIDERS...26 Mar 2024 — They store and process valuable technical data during large AI deployments an...</span></span></span>
+One reason cloud-provider [monitoring]({{ 'monitoring/' | relative_url }}) appears so often in discussions of AI doom and existential risk is that the largest AI training runs are unusually difficult to hide. Training a frontier model typically requires vast numbers of specialised AI chips working together for weeks or months, creating distinctive patterns of compute use, networking activity, power consumption, storage access, and spending. Supporters of compute [governance]({{ 'governance/' | relative_url }}) argue that cloud providers may be able to identify such projects without inspecting a model's weights, training data, or internal design. Instead, they would monitor operational metadata: the digital equivalent of noticing that a factory is consuming enormous amounts of electricity and raw materials, without knowing exactly what product is being made inside. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.robots.ox.ac.uk/~mosb/public/pdf/3343/Heim%20et%20al.%20-%202024%20-%20Governing%20Through%20the%20Cloud%20The%20Intermediary%20Role.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: robots.ox.ac.uk">[robots.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">robots.ox.ac.uk</span><span class="citation-popover-title">Heim et al. 2024 Governing Through the Cloud The Intermediary Role</span><span class="citation-popover-snippet">THE INTERMEDIARY ROLE OF COMPUTE PROVIDERS...26 Mar 2024 — They store and process valuable technical data during large AI deployments an...</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549_cloud_trainin_79cb04-Illustration-1-dark.svg" | relative_url }}" alt="Training traces illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549_cloud_trainin_79cb04-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549_cloud_trainin_79cb04-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -290,7 +290,7 @@ A frontier training run often stands out through several signals occurring simul
 
 The important point is that cloud providers do not need to know what model is being trained in order to observe these patterns. A customer renting a handful of GPUs for research looks very different from a customer continuously operating a giant cluster intended to push the state of the art.
 
-This distinction is one reason compute governance proposals focus on training rather than deployment. A deployed model may serve millions of users using distributed infrastructure, but training a new frontier model often requires unusually concentrated resources. Researchers have repeatedly identified this concentration as one of the few practical [monitoring]({{ 'monitoring/' | relative_url }}) points available in the AI ecosystem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.robots.ox.ac.uk/~mosb/public/pdf/3343/Heim%20et%20al.%20-%202024%20-%20Governing%20Through%20the%20Cloud%20The%20Intermediary%20Role.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: robots.ox.ac.uk">[robots.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">robots.ox.ac.uk</span><span class="citation-popover-title">Heim et al. 2024 Governing Through the Cloud The Intermediary Role</span><span class="citation-popover-snippet">THE INTERMEDIARY ROLE OF COMPUTE PROVIDERS...26 Mar 2024 — They store and process valuable technical data during large AI deployments an...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/guides/compute-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-title">compute governance</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryControlling AI Through Hardware &amp; Compute Access (2026)3 Apr 2026 — Compute governance is an emerging polic...</span></span></span> & Safety Directory
+This distinction is one reason compute governance proposals focus on training rather than deployment. A deployed model may serve millions of users using distributed infrastructure, but training a new frontier model often requires unusually concentrated resources. Researchers have repeatedly identified this concentration as one of the few practical monitoring points available in the AI ecosystem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.robots.ox.ac.uk/~mosb/public/pdf/3343/Heim%20et%20al.%20-%202024%20-%20Governing%20Through%20the%20Cloud%20The%20Intermediary%20Role.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: robots.ox.ac.uk">[robots.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">robots.ox.ac.uk</span><span class="citation-popover-title">Heim et al. 2024 Governing Through the Cloud The Intermediary Role</span><span class="citation-popover-snippet">THE INTERMEDIARY ROLE OF COMPUTE PROVIDERS...26 Mar 2024 — They store and process valuable technical data during large AI deployments an...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/guides/compute-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-title">compute governance</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryControlling AI Through Hardware &amp; Compute Access (2026)3 Apr 2026 — Compute governance is an emerging polic...</span></span></span> & Safety Directory
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dBZp47999Ko" title="Why US AI Act Compute Thresholds Are Misguided..." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dBZp47999Ko" target="_blank" rel="noopener noreferrer">Why US AI Act Compute Thresholds Are Misguided...</a></p><p class="youtube-embed-meta">Channel: Machine Learning Street Talk &middot; Views: 18.2K &middot; Uploaded: July 2024 &middot; Length: 1 hour 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dBZp47999Ko" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dBZp47999Ko">Open on YouTube</a></p></div></div></div>
@@ -307,7 +307,7 @@ From a monitoring perspective, metadata can provide information such as:
 
 Observable metadataWhat it may indicateNumber of GPUs reservedScale of training effortDuration of continuous usageWhether the activity resembles training rather than experimentationNetwork traffic between acceleratorsLarge distributed training clustersCompute expenditureApproximate project scaleCustomer identity and ownershipWho is operating the projectGeographic location of resourcesJurisdiction and compliance requirements
 
-Supporters argue that this approach is less intrusive than inspecting models directly. The provider monitors infrastructure usage rather than intellectual property, training data, or model architecture. That distinction is often presented as a way to balance [oversight]({{ 'oversight-evasion/' | relative_url }}) with commercial confidentiality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.robots.ox.ac.uk/~mosb/public/pdf/3343/Heim%20et%20al.%20-%202024%20-%20Governing%20Through%20the%20Cloud%20The%20Intermediary%20Role.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: robots.ox.ac.uk">[robots.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">robots.ox.ac.uk</span><span class="citation-popover-title">Heim et al. 2024 Governing Through the Cloud The Intermediary Role</span><span class="citation-popover-snippet">THE INTERMEDIARY ROLE OF COMPUTE PROVIDERS...26 Mar 2024 — They store and process valuable technical data during large AI deployments an...</span></span></span>
+Supporters argue that this approach is less intrusive than inspecting models directly. The provider monitors infrastructure usage rather than intellectual property, training data, or model architecture. That distinction is often presented as a way to balance oversight with commercial confidentiality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.robots.ox.ac.uk/~mosb/public/pdf/3343/Heim%20et%20al.%20-%202024%20-%20Governing%20Through%20the%20Cloud%20The%20Intermediary%20Role.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: robots.ox.ac.uk">[robots.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">robots.ox.ac.uk</span><span class="citation-popover-title">Heim et al. 2024 Governing Through the Cloud The Intermediary Role</span><span class="citation-popover-snippet">THE INTERMEDIARY ROLE OF COMPUTE PROVIDERS...26 Mar 2024 — They store and process valuable technical data during large AI deployments an...</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549_cloud_trainin_79cb04-Illustration-2-dark.svg" | relative_url }}" alt="Training traces illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549_cloud_trainin_79cb04-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549_cloud_trainin_79cb04-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -330,7 +330,7 @@ Another challenge is distinguishing training from other activities. Large cluste
 There is also the risk of deliberate concealment. A developer seeking to avoid scrutiny might attempt to divide a large training run into smaller pieces, spread activity across providers, or use privately owned hardware rather than public clouds. Recent research on distributed training and compute governance examines whether frontier-scale training could eventually be fragmented across multiple systems in ways that reduce visibility. While such approaches face substantial technical and economic challenges, they represent a genuine concern for governance proposals that assume frontier training remains highly concentrated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2405.21015" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The rising costs of training frontier AI models</span><span class="citation-popover-snippet">arXiv The rising costs of training frontier AI models</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7EwAdTqGgWM" title="Lennart Heim on the AI Triad: Compute, Data, and Algorithms" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7EwAdTqGgWM" target="_blank" rel="noopener noreferrer">Lennart Heim on the AI Triad: Compute, Data, and Algorithms</a></p><p class="youtube-embed-meta">Channel: Future of Life Institute &middot; Views: 2.1K &middot; Uploaded: March 2023 &middot; Length: 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7EwAdTqGgWM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7EwAdTqGgWM">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7knwihgj0fU" title="On the slow death of Scaling (birth of Adaption Labs) | Sara Hooker | HF ML Club India EP2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7knwihgj0fU" target="_blank" rel="noopener noreferrer">On the slow death of Scaling (birth of Adaption Labs) | Sara Hooker | HF ML Club India EP2</a></p><p class="youtube-embed-meta">Channel: Hugging Face &middot; Views: 1.7K &middot; Uploaded: May 2026 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7knwihgj0fU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7knwihgj0fU">Open on YouTube</a></p></div></div></div>
 
 ## Could providers monitor chips directly?
 
@@ -341,11 +341,11 @@ The attraction is obvious: if governance mechanisms could observe compute activi
 For now, most practical cloud-monitoring proposals focus on operational metadata because providers already collect much of that information as part of normal infrastructure management.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7knwihgj0fU" title="On the slow death of Scaling (birth of Adaption Labs) | Sara Hooker | HF ML Club India EP2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7knwihgj0fU" target="_blank" rel="noopener noreferrer">On the slow death of Scaling (birth of Adaption Labs) | Sara Hooker | HF ML Club India EP2</a></p><p class="youtube-embed-meta">Channel: Hugging Face &middot; Views: 1.7K &middot; Uploaded: May 2026 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7knwihgj0fU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7knwihgj0fU">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Wr9rxkOqYxo" title="Scaling Laws: Can AI Make AI Regulation Cheaper?, with Cullen O&#x27;Keefe and Kevin Frazier" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Wr9rxkOqYxo" target="_blank" rel="noopener noreferrer">Scaling Laws: Can AI Make AI Regulation Cheaper?, with Cullen O&#x27;Keefe and Kevin Frazier</a></p><p class="youtube-embed-meta">Channel: Lawfare &middot; Views: 268 &middot; Uploaded: February 2026 &middot; Length: 49 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Wr9rxkOqYxo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Wr9rxkOqYxo">Open on YouTube</a></p></div></div></div>
 
 ## What this means for AI doom debates
 
-Within existential-risk discussions, cloud monitoring is usually presented as an early-warning mechanism rather than a complete solution. Even proponents generally acknowledge that spotting a frontier training run does not reveal whether a model is aligned, [deceptive]({{ 'scheming-tests/' | relative_url }}), controllable, or dangerous. It merely provides visibility that might otherwise be absent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.robots.ox.ac.uk/~mosb/public/pdf/3343/Heim%20et%20al.%20-%202024%20-%20Governing%20Through%20the%20Cloud%20The%20Intermediary%20Role.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: robots.ox.ac.uk">[robots.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">robots.ox.ac.uk</span><span class="citation-popover-title">Heim et al. 2024 Governing Through the Cloud The Intermediary Role</span><span class="citation-popover-snippet">THE INTERMEDIARY ROLE OF COMPUTE PROVIDERS...26 Mar 2024 — They store and process valuable technical data during large AI deployments an...</span></span></span>
+Within existential-risk discussions, cloud monitoring is usually presented as an early-warning mechanism rather than a complete solution. Even proponents generally acknowledge that spotting a frontier training run does not reveal whether a model is aligned, deceptive, controllable, or dangerous. It merely provides visibility that might otherwise be absent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.robots.ox.ac.uk/~mosb/public/pdf/3343/Heim%20et%20al.%20-%202024%20-%20Governing%20Through%20the%20Cloud%20The%20Intermediary%20Role.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: robots.ox.ac.uk">[robots.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">robots.ox.ac.uk</span><span class="citation-popover-title">Heim et al. 2024 Governing Through the Cloud The Intermediary Role</span><span class="citation-popover-snippet">THE INTERMEDIARY ROLE OF COMPUTE PROVIDERS...26 Mar 2024 — They store and process valuable technical data during large AI deployments an...</span></span></span>
 
 The strongest argument in favour of cloud monitoring is that frontier AI development currently depends on unusually large and expensive computing infrastructure. If that remains true, cloud providers may be one of the few actors capable of noticing when development crosses into frontier territory. The strongest objection is that future advances could reduce the amount of compute needed, distribute training across many systems, or otherwise weaken the connection between observable infrastructure use and genuinely dangerous capability development. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2405.21015" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The rising costs of training frontier AI models</span><span class="citation-popover-snippet">arXiv The rising costs of training frontier AI models</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ojs.aaai.org/index.php/AAAI/article/view/41127/45088" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ojs.aaai.org">[AAAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ojs.aaai.org</span><span class="citation-popover-snippet">AAAI PublicationsDetecting Compute Structuring in AI Governance Is Likely...by E Seferis · 2026 — A1: There are only a few cloud provide...</span></span></span>
 
@@ -776,101 +776,101 @@ As a result, the debate is less about whether large training runs leave traces�
 1. <a id="endnote-1"></a>
    Source: robots.ox.ac.uk  
    Title: Heim et al. 2024 Governing Through the Cloud The Intermediary Role  
-   Link: [https://www.robots.ox.ac.uk/~mosb/public/pdf/3343/Heim%20et%20al.%20-%202024%20-%20Governing%20Through%20the%20Cloud%20The%20Intermediary%20Role.pdf](https://www.robots.ox.ac.uk/~mosb/public/pdf/3343/Heim%20et%20al.%20-%202024%20-%20Governing%20Through%20the%20Cloud%20The%20Intermediary%20Role.pdf)  
+   Link: <a href="https://www.robots.ox.ac.uk/~mosb/public/pdf/3343/Heim%20et%20al.%20-%202024%20-%20Governing%20Through%20the%20Cloud%20The%20Intermediary%20Role.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.robots.ox.ac.uk/~mosb/public/pdf/3343/Heim%20et%20al.%20-%202024%20-%20Governing%20Through%20the%20Cloud%20The%20Intermediary%20Role.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE INTERMEDIARY ROLE OF COMPUTE PROVIDERS...26 Mar 2024 — They store and process valuable technical data during large AI deployments an...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: ai-safety-atlas.com  
    Title: Compute Governance  
-   Link: [https://ai-safety-atlas.com/chapters/v1/governance/compute-governance](https://ai-safety-atlas.com/chapters/v1/governance/compute-governance)  
+   Link: <a href="https://ai-safety-atlas.com/chapters/v1/governance/compute-governance" target="_blank" rel="noopener noreferrer nofollow">https://ai-safety-atlas.com/chapters/v1/governance/compute-governance</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 4The U.S. Executive Order on AI requires companies to notify the government about training runs exceeding 1 0 2 6 operations - a...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv The rising costs of training frontier AI models  
-   Link: [https://arxiv.org/abs/2405.21015](https://arxiv.org/abs/2405.21015)  
+   Link: <a href="https://arxiv.org/abs/2405.21015" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.21015</a>  
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Does Distributed Training Undermine Compute Governance?  
-   Link: [https://arxiv.org/abs/2605.29359](https://arxiv.org/abs/2605.29359)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivDoes Distributed Training Undermine Compute Governance?May 28, 2026...</p></details>
+   Link: <a href="https://arxiv.org/abs/2605.29359" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.29359</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Does Distributed Training Undermine Compute Governance?May 28, 2026...</p></details>
    Published: May 28, 2026  
 
 5. <a id="endnote-5"></a>
    Source: ojs.aaai.org  
-   Link: [https://ojs.aaai.org/index.php/AAAI/article/view/41127/45088](https://ojs.aaai.org/index.php/AAAI/article/view/41127/45088)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAAI PublicationsDetecting Compute Structuring in AI Governance Is Likely...by E Seferis · 2026 — A1: There are only a few [cloud provide](&amp;#123;&amp;#123; &#x27;cloud-oversight/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link: <a href="https://ojs.aaai.org/index.php/AAAI/article/view/41127/45088" target="_blank" rel="noopener noreferrer nofollow">https://ojs.aaai.org/index.php/AAAI/article/view/41127/45088</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAAI PublicationsDetecting Compute Structuring in AI Governance Is Likely...by E Seferis · 2026 — A1: There are only a few cloud provide...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv Timing and Memory Telemetry on GPUs for AI Governance  
-   Link: [https://arxiv.org/abs/2602.09369](https://arxiv.org/abs/2602.09369)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivTiming and Memory Telemetry on GPUs for AI GovernanceFebruary 10, 2026...</p></details>
+   Link: <a href="https://arxiv.org/abs/2602.09369" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2602.09369</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Timing and Memory Telemetry on GPUs for AI GovernanceFebruary 10, 2026...</p></details>
    Published: February 10, 2026  
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2412.03824](https://arxiv.org/pdf/2412.03824)  
+   Link: <a href="https://arxiv.org/pdf/2412.03824" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2412.03824</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Towards Data Governance of Frontier AI Modelsby J Hausenloy · 2024 · Cited by 5 — As a key input to the pre-training and fine- tuning of...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: aisecurityandsafety.org  
    Title: compute governance  
-   Link: [https://aisecurityandsafety.org/en/guides/compute-governance/](https://aisecurityandsafety.org/en/guides/compute-governance/)  
+   Link: <a href="https://aisecurityandsafety.org/en/guides/compute-governance/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/en/guides/compute-governance/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security &amp; Safety DirectoryControlling AI Through Hardware &amp; Compute Access (2026)3 Apr 2026 — Compute governance is an emerging polic...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: frontier-economics.com  
-   Link: [https://www.frontier-economics.com/uk/en/news-and-insights/articles/article-i21406-ai-beyond-the-cloud-navigating-competition-innovation-and-regulation/](https://www.frontier-economics.com/uk/en/news-and-insights/articles/article-i21406-ai-beyond-the-cloud-navigating-competition-innovation-and-regulation/)  
+   Link: <a href="https://www.frontier-economics.com/uk/en/news-and-insights/articles/article-i21406-ai-beyond-the-cloud-navigating-competition-innovation-and-regulation/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontier-economics.com/uk/en/news-and-insights/articles/article-i21406-ai-beyond-the-cloud-navigating-competition-innovation-and-regulation/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI beyond the cloud: navigating competition, innovation...However, cloud services will remain crucial for training new models, running l...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: ifs.org.uk  
-   Link: [https://ifs.org.uk/](https://ifs.org.uk/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IFS | Institute for Fiscal StudiesIFS is the UK&#x27;s leading [independent](&amp;#123;&amp;#123; &#x27;red-teaming/&#x27; | relative_url &amp;#125;&amp;#125;) economics research institute. We analyse and inform economic and po...</p></details>
+   Link: <a href="https://ifs.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://ifs.org.uk/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Institute for Fiscal StudiesIFS is the UK&#x27;s leading [independent](&amp;#123;&amp;#123; &#x27;red-teaming/&#x27; | relative_url &amp;#125;&amp;#125;) economics research institute. We analyse and inform economic and po...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: history.ac.uk  
-   Link: [https://www.history.ac.uk/](https://www.history.ac.uk/)  
+   Link: <a href="https://www.history.ac.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.history.ac.uk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Institute of Historical ResearchThe IHR is the UK&#x27;s national centre for history. Dedicated to supporting historians of all kinds. Find ou...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: flyfrontier.com  
-   Link: [https://www.flyfrontier.com/](https://www.flyfrontier.com/)  
+   Link: <a href="https://www.flyfrontier.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.flyfrontier.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Airlines: Low Fares Done RightAs Home of Low Fares Done Right, find great deals and cheap flights to destinations all over North...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40adnanmasood/the-ai-governance-frontier-series-part-4-google-clouds-approach-to-safe-and-responsible-ai-fe4644415e44](https://medium.com/%40adnanmasood/the-ai-governance-frontier-series-part-4-google-clouds-approach-to-safe-and-responsible-ai-fe4644415e44)  
+   Link: <a href="https://medium.com/%40adnanmasood/the-ai-governance-frontier-series-part-4-google-clouds-approach-to-safe-and-responsible-ai-fe4644415e44" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40adnanmasood/the-ai-governance-frontier-series-part-4-google-clouds-approach-to-safe-and-responsible-ai-fe4644415e44</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>le AI by embedding fairness, transparency, safety, and accountability into...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: iod.com  
    Title: Institute of Directors | Business Networking, Events  
-   Link: [https://www.iod.com/](https://www.iod.com/)  
+   Link: <a href="https://www.iod.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.iod.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LondonThe IoD is a thriving membership community for directors in the UK and beyond, where you can connect with other leaders, develop yo...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: aisafetybook.com  
-   Link: [https://www.aisafetybook.com/textbook/compute-governance](https://www.aisafetybook.com/textbook/compute-governance)  
+   Link: <a href="https://www.aisafetybook.com/textbook/compute-governance" target="_blank" rel="noopener noreferrer nofollow">https://www.aisafetybook.com/textbook/compute-governance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>8.7: Compute Governance | AI Safety...A common shorthand for computational resources or computing power used for AI is compute...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: ics.sas.ac.uk  
    Title: sas.ac.uk Institute of Classical Studies  
-   Link: [https://ics.sas.ac.uk/](https://ics.sas.ac.uk/)  
+   Link: <a href="https://ics.sas.ac.uk/" target="_blank" rel="noopener noreferrer nofollow">https://ics.sas.ac.uk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of Classical Studies - LondonThe national centre for the promotion and facilitation of research in Classics and related disciplines throu...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Category:Research institutes in London  
-   Link: [https://en.wikipedia.org/wiki/Category%3AResearch_institutes_in_London](https://en.wikipedia.org/wiki/Category%3AResearch_institutes_in_London)  
+   Link: <a href="https://en.wikipedia.org/wiki/Category%3AResearch_institutes_in_London" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Category%3AResearch_institutes_in_London</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Category:Research institutes in LondonI · Institute for Community Studies · Institute for Fiscal Studies · Institute of Cancer Researc...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a](https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a)  
+   Link: <a href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>risks of frontier AI (Annex A)28 Apr 2025 — The risks posed by future Frontier AI will include the risks we see today, but with potential...</p></details>

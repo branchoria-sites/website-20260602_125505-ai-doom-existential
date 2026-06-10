@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_frontier_ai_e_9920ab_eval_false_co_fa7edc_evaluation_st_7008e0
 - AI_Doom_and_E_87399b_frontier_ai_e_9920ab_eval_false_co_fa7edc_upper_bound_c_4cf391
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - evals
 - false-comfort
 - benchmark-limits
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - evals
 - false-comfort
 - benchmark-limits
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Benchmarks often fail to reveal dangerous AI abilities due to narrow tasks, saturation, and test familiarity effects.
 hero_summary: Benchmarks often fail to reveal dangerous AI abilities due to narrow tasks, saturation, and test familiarity effects.
 layout: default
 permalink: /benchmark-limits/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /evals/
 - /false-comfort/
 nav_short_title: Benchmark Limits
@@ -211,10 +211,10 @@ parent_heading_title: Can frontier evals give false comfort?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_frontier_ai_e_9920ab
-  title: Evals | AI Doom and
+  title: Evals | AI Doom and E 87399 b
   permalink: /evals/
   short_title: Evals
   heading_title: Can Tests Catch Dangerous AI in Time?
@@ -226,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_frontier_ai_e_9920ab
-  title: Evals | AI Doom and
+  title: Evals | AI Doom and E 87399 b
   permalink: /evals/
   short_title: Evals
   heading_title: Can Tests Catch Dangerous AI in Time?
@@ -269,7 +269,7 @@ image: /assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_eval_false_co_fa
 
 ## Introduction
 
-In debates about [AI doom and]({{ 'ai-doom-and/' | relative_url }}) existential risk, benchmark results are often treated as evidence that a model is safe, controllable, or lacks certain [dangerous]({{ 'autonomy/' | relative_url }}) abilities. The problem is that benchmarks are not neutral windows into a system's full capabilities. They are human-designed tests, and the way those tests are constructed can systematically hide risks.
+In debates about AI doom and existential risk, benchmark results are often treated as evidence that a model is safe, controllable, or lacks certain dangerous abilities. The problem is that benchmarks are not neutral windows into a system's full capabilities. They are human-designed tests, and the way those tests are constructed can systematically hide risks.
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_eval_false_co_fa7edc_benchmark_des_aa2a37-Illustration-1-dark.svg" | relative_url }}" alt="Benchmark Limits illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_eval_false_co_fa7edc_benchmark_des_aa2a37-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_eval_false_co_fa7edc_benchmark_des_aa2a37-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -311,7 +311,7 @@ This creates an asymmetry in interpretation:
 * A strong benchmark result usually demonstrates capability.
 * A weak benchmark result does not necessarily demonstrate incapability.
 
-For AI-risk researchers, this asymmetry is important because dangerous capabilities may be exactly the capabilities that are hardest to elicit. Sophisticated planning, [deception]({{ 'deception-and-loss/' | relative_url }}), vulnerability discovery, scientific problem-solving, or strategic reasoning may require specialised setups that ordinary benchmarks do not provide. A clean evaluation result can therefore be a false negative rather than reassuring evidence of safety. Metr Evaluations <span class="citation-chip-wrap"><a class="citation-chip" href="https://ai-safety-atlas.com/chapters/v1/evaluations/dangerous-capability-evaluations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ai-safety-atlas.com">[2ai-safety-atlas.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ai-safety-atlas.com</span><span class="citation-popover-title">Dangerous Capability Evaluations</span><span class="citation-popover-snippet">Chapter 5Dangerous capability evaluations specifically probe for these potentially harmful abilities, helping identify systems that might...</span></span></span>
+For AI-risk researchers, this asymmetry is important because dangerous capabilities may be exactly the capabilities that are hardest to elicit. Sophisticated planning, deception, vulnerability discovery, scientific problem-solving, or strategic reasoning may require specialised setups that ordinary benchmarks do not provide. A clean evaluation result can therefore be a false negative rather than reassuring evidence of safety. Metr Evaluations <span class="citation-chip-wrap"><a class="citation-chip" href="https://ai-safety-atlas.com/chapters/v1/evaluations/dangerous-capability-evaluations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ai-safety-atlas.com">[2ai-safety-atlas.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ai-safety-atlas.com</span><span class="citation-popover-title">Dangerous Capability Evaluations</span><span class="citation-popover-snippet">Chapter 5Dangerous capability evaluations specifically probe for these potentially harmful abilities, helping identify systems that might...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/y2N9dIhcNrY" title="BREAKING - UC Berkeley Researchers REVEAL Critical Flaws in AI Benchmarks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=y2N9dIhcNrY" target="_blank" rel="noopener noreferrer">BREAKING - UC Berkeley Researchers REVEAL Critical Flaws in AI Benchmarks</a></p><p class="youtube-embed-meta">Channel: AIM Network &middot; Views: 2.6K &middot; Uploaded: April 2026 &middot; Length: 3 minutes 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=y2N9dIhcNrY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=y2N9dIhcNrY">Open on YouTube</a></p></div></div></div>
@@ -326,7 +326,7 @@ From an existential-risk perspective, saturation creates two problems.
 
 First, it can encourage the mistaken belief that progress has slowed because benchmark scores are barely moving. In reality, capabilities may be advancing rapidly in domains the benchmark no longer measures.
 
-Second, saturated benchmarks often focus attention on narrow improvements while overlooking emerging abilities. A model that performs only slightly better on a standard test may nevertheless have acquired substantial gains in autonomy, planning, persistence, or tool use that matter far more for catastrophic-risk assessments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mbrenndoerfer.com/writing/benchmark-saturation-ai-evaluation-metrics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mbrenndoerfer.com">[Michael Brenndoerfer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mbrenndoerfer.com</span><span class="citation-popover-snippet">Michael BrenndoerferBenchmark Saturation: AI Evaluation Metrics and Ceiling...6 Mar 2026 — Benchmark saturation imposes real costs on th...</span></span></span>
+Second, saturated benchmarks often focus attention on narrow improvements while overlooking emerging abilities. A model that performs only slightly better on a standard test may nevertheless have acquired substantial gains in [autonomy]({{ 'autonomy/' | relative_url }}), planning, persistence, or tool use that matter far more for [catastrophic]({{ 'misuse/' | relative_url }})-risk assessments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mbrenndoerfer.com/writing/benchmark-saturation-ai-evaluation-metrics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mbrenndoerfer.com">[Michael Brenndoerfer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mbrenndoerfer.com</span><span class="citation-popover-snippet">Michael BrenndoerferBenchmark Saturation: AI Evaluation Metrics and Ceiling...6 Mar 2026 — Benchmark saturation imposes real costs on th...</span></span></span>
 
 In effect, a benchmark can stop measuring the frontier long before the frontier stops moving.
 
@@ -336,7 +336,7 @@ In effect, a benchmark can stop measuring the frontier long before the frontier 
 
 Benchmarks also become less informative when models are exposed to them during development.
 
-Many influential benchmark datasets are public. Over time, examples from those datasets can appear in training corpora, evaluation discussions, research papers, or fine-tuning processes. Even when direct contamination is unintentional, models may become increasingly familiar with the patterns and answers that benchmarks reward. <span class="citation-chip-wrap"><a class="citation-chip" href="https://layerlens.ai/blog/why-ai-benchmarks-are-misleading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: layerlens.ai">[LayerLens]</a><span class="citation-popover" role="note"><span class="citation-popover-source">layerlens.ai</span><span class="citation-popover-title">why ai benchmarks are misleading</span><span class="citation-popover-snippet">LayerLensWhy AI Benchmarks Are Misleading14 Mar 2026 — AI benchmarks mislead when treated as conclusions. Learn the five core problems: d...</span></span></span>
+Many influential benchmark datasets are public. Over time, examples from those datasets can appear in training corpora, evaluation discussions, research papers, or fine-tuning processes. Even when direct contamination is unintentional, models may become increasingly familiar with the patterns and answers that benchmarks reward. <span class="citation-chip-wrap"><a class="citation-chip" href="https://layerlens.ai/blog/why-ai-benchmarks-are-misleading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: layerlens.ai">[LayerLens]</a><span class="citation-popover" role="note"><span class="citation-popover-source">layerlens.ai</span><span class="citation-popover-title">why ai benchmarks are misleading</span><span class="citation-popover-snippet">Why AI Benchmarks Are Misleading14 Mar 2026 — AI benchmarks mislead when treated as conclusions. Learn the five core problems: d...</span></span></span>
 
 This can produce a misleading picture of capability.
 
@@ -373,9 +373,9 @@ Several organisations now argue that benchmark suites should be supplemented wit
 * realistic agent environments; <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2601.09032" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 * open-ended projects;
 * adversarial testing by external experts; <span class="citation-chip-wrap"><a class="citation-chip" href="https://evaluations.metr.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: evaluations.metr.org">[evaluations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">evaluations.metr.org</span><span class="citation-popover-snippet">Metr EvaluationsMETR&#x27;s Autonomy Evaluation ResourcesThis is METR&#x27;s collection of resources for evaluating potentially dangerous autonomou...</span></span></span> ns focused on dangerous capabilities rather than general performance;
-* continuous monitoring instead of one-off benchmark scores. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ai-safety-atlas.com/chapters/v1/evaluations/dangerous-capability-evaluations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ai-safety-atlas.com">[ai-safety-atlas.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ai-safety-atlas.com</span><span class="citation-popover-title">Dangerous Capability Evaluations</span><span class="citation-popover-snippet">Chapter 5Dangerous capability evaluations specifically probe for these potentially harmful abilities, helping identify systems that might...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://evaluations.metr.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: evaluations.metr.org">[Metr Evaluations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">evaluations.metr.org</span><span class="citation-popover-snippet">Metr EvaluationsMETR&#x27;s Autonomy Evaluation ResourcesThis is METR&#x27;s collection of resources for evaluating potentially dangerous autonomou...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">Not all are applied across all domains. These include: Auto-graded task sets that measure AI...Read more...</span></span></span>
+* continuous [monitoring]({{ 'monitoring/' | relative_url }}) instead of one-off benchmark scores. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ai-safety-atlas.com/chapters/v1/evaluations/dangerous-capability-evaluations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ai-safety-atlas.com">[ai-safety-atlas.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ai-safety-atlas.com</span><span class="citation-popover-title">Dangerous Capability Evaluations</span><span class="citation-popover-snippet">Chapter 5Dangerous capability evaluations specifically probe for these potentially harmful abilities, helping identify systems that might...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://evaluations.metr.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: evaluations.metr.org">[Metr Evaluations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">evaluations.metr.org</span><span class="citation-popover-snippet">Metr EvaluationsMETR&#x27;s Autonomy Evaluation ResourcesThis is METR&#x27;s collection of resources for evaluating potentially dangerous autonomou...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">Not all are applied across all domains. These include: Auto-graded task sets that measure AI...Read more...</span></span></span>
 
-Recent work on "open-world evaluations" reflects this shift. Instead of asking whether a model can answer predefined questions, researchers examine whether it can complete messy real-world objectives that involve uncertainty, planning, coordination, and adaptation. Advocates argue that such evaluations may provide earlier warning signs of emerging capabilities than traditional benchmarks because they resemble the environments in which dangerous behaviour would actually occur. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.20520" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Open-World Evaluations for Measuring Frontier AI Capabilities</span><span class="citation-popover-snippet">arXiv Open-World Evaluations for Measuring Frontier AI Capabilities</span></span></span>
+Recent work on "open-world evaluations" reflects this shift. Instead of asking whether a model can answer predefined questions, researchers examine whether it can complete messy real-world objectives that involve uncertainty, planning, coordination, and adaptation. Advocates argue that such evaluations may provide earlier [warning signs]({{ 'warning-signs/' | relative_url }}) of emerging capabilities than traditional benchmarks because they resemble the environments in which dangerous behaviour would actually occur. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.20520" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Open-World Evaluations for Measuring Frontier AI Capabilities</span><span class="citation-popover-snippet">arXiv Open-World Evaluations for Measuring Frontier AI Capabilities</span></span></span>
 
 These methods are slower, more expensive, and harder to standardise. However, many AI safety researchers believe those costs are justified if the goal is to detect capabilities that could matter in high-stakes scenarios.
 
@@ -809,187 +809,187 @@ In AI doom discussions, the strongest concern is not that benchmarks always unde
 
 1. <a id="endnote-1"></a>
    Source: evaluations.metr.org  
-   Link: [https://evaluations.metr.org/](https://evaluations.metr.org/)  
+   Link: <a href="https://evaluations.metr.org/" target="_blank" rel="noopener noreferrer nofollow">https://evaluations.metr.org/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Metr EvaluationsMETR&#x27;s Autonomy Evaluation ResourcesThis is METR&#x27;s collection of resources for evaluating potentially dangerous autonomou...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: aisi.gov.uk  
-   Link: [https://www.aisi.gov.uk/frontier-ai-trends-report](https://www.aisi.gov.uk/frontier-ai-trends-report)  
+   Link: <a href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/frontier-ai-trends-report</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Not all are applied across all domains. These include: Auto-graded task sets that measure AI...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv Open-World Evaluations for Measuring Frontier AI Capabilities  
-   Link: [https://arxiv.org/abs/2605.20520](https://arxiv.org/abs/2605.20520)  
+   Link: <a href="https://arxiv.org/abs/2605.20520" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.20520</a>  
 
 4. <a id="endnote-4"></a>
    Source: metr.org  
-   Link: [https://metr.org/measuring-autonomous-ai-capabilities/](https://metr.org/measuring-autonomous-ai-capabilities/)  
+   Link: <a href="https://metr.org/measuring-autonomous-ai-capabilities/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/measuring-autonomous-ai-capabilities/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Resources for Measuring Autonomous AI CapabilitiesA benchmark measuring the performance of humans and AI agents on day-long ML research e...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: metr.org  
-   Link: [https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)  
+   Link: <a href="https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring AI Ability to Complete Long TasksMar 19, 2025 — We propose measuring AI performance in terms of the length of tasks AI agents c...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2601.09032](https://arxiv.org/abs/2601.09032)  
+   Link: <a href="https://arxiv.org/abs/2601.09032" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2601.09032</a>  
 
 7. <a id="endnote-7"></a>
    Source: metr.org  
-   Link: [https://metr.org/research/](https://metr.org/research/)  
+   Link: <a href="https://metr.org/research/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/research/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchOur AI evaluations research focuses on assessing broad autonomous capabilities and the ability of AI systems to accelerate AI R&amp;D...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: ai-safety-atlas.com  
    Title: Dangerous Capability Evaluations  
-   Link: [https://ai-safety-atlas.com/chapters/v1/evaluations/dangerous-capability-evaluations/](https://ai-safety-atlas.com/chapters/v1/evaluations/dangerous-capability-evaluations/)  
+   Link: <a href="https://ai-safety-atlas.com/chapters/v1/evaluations/dangerous-capability-evaluations/" target="_blank" rel="noopener noreferrer nofollow">https://ai-safety-atlas.com/chapters/v1/evaluations/dangerous-capability-evaluations/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 5Dangerous capability evaluations specifically probe for these potentially harmful abilities, helping identify systems that might...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2601.11916](https://arxiv.org/abs/2601.11916)  
+   Link: <a href="https://arxiv.org/abs/2601.11916" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2601.11916</a>  
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
    Title: arXiv When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation  
-   Link: [https://arxiv.org/abs/2602.16763](https://arxiv.org/abs/2602.16763)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivWhen AI Benchmarks Plateau: A Systematic Study of Benchmark SaturationFebruary 18, 2026...</p></details>
+   Link: <a href="https://arxiv.org/abs/2602.16763" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2602.16763</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>When AI Benchmarks Plateau: A Systematic Study of Benchmark SaturationFebruary 18, 2026...</p></details>
    Published: February 18, 2026  
 
 11. <a id="endnote-11"></a>
    Source: layerlens.ai  
    Title: why ai benchmarks are misleading  
-   Link: [https://layerlens.ai/blog/why-ai-benchmarks-are-misleading](https://layerlens.ai/blog/why-ai-benchmarks-are-misleading)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LayerLensWhy AI Benchmarks Are Misleading14 Mar 2026 — AI benchmarks mislead when treated as conclusions. Learn the five core problems: d...</p></details>
+   Link: <a href="https://layerlens.ai/blog/why-ai-benchmarks-are-misleading" target="_blank" rel="noopener noreferrer nofollow">https://layerlens.ai/blog/why-ai-benchmarks-are-misleading</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why AI Benchmarks Are Misleading14 Mar 2026 — AI benchmarks mislead when treated as conclusions. Learn the five core problems: d...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: arxiv.org  
    Title: arXiv Benchmarking is Broken  
-   Link: [https://arxiv.org/html/2510.07575v1](https://arxiv.org/html/2510.07575v1)  
+   Link: <a href="https://arxiv.org/html/2510.07575v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2510.07575v1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Benchmarking is Broken - Don&#x27;t Let AI be its Own Judge8 Oct 2025 — Issues like data contamination and selective reporting by model develo...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: hai.stanford.edu  
    Title: HAIWhat Makes a Good AI Benchmark?  
-   Link: [https://hai.stanford.edu/assets/files/hai-policy-brief-what-makes-a-good-ai-benchmark.pdf](https://hai.stanford.edu/assets/files/hai-policy-brief-what-makes-a-good-ai-benchmark.pdf)  
+   Link: <a href="https://hai.stanford.edu/assets/files/hai-policy-brief-what-makes-a-good-ai-benchmark.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hai.stanford.edu/assets/files/hai-policy-brief-what-makes-a-good-ai-benchmark.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford HAIby A Reuel · 2024 · Cited by 5 — This research aims to help make AI evaluations more transparent and empower benchmark develo...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: metr.org  
-   Link: [https://metr.org/](https://metr.org/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>METRModel Evaluation &amp; Threat Research. METR conducts research and evaluations to improve public understanding of the capabilities and ri...</p></details>
+   Link: <a href="https://metr.org/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Model Evaluation &amp; Threat Research. METR conducts research and evaluations to improve public understanding of the capabilities and ri...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: metr.org  
    Title: 2024 11 22 evaluating r d capabilities of llms  
-   Link: [https://metr.org/blog/2024-11-22-evaluating-r-d-capabilities-of-llms/](https://metr.org/blog/2024-11-22-evaluating-r-d-capabilities-of-llms/)  
+   Link: <a href="https://metr.org/blog/2024-11-22-evaluating-r-d-capabilities-of-llms/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/blog/2024-11-22-evaluating-r-d-capabilities-of-llms/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating frontier AI R&amp;D capabilities of language model...Nov 22, 2024 — We hope RE-Bench and the methodology we&#x27;ve developed will be...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: GOV.UK  
    Title: Frontier AI: capabilities and risks – discussion paper  
-   Link: [https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper](https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper)  
+   Link: <a href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It describes the current state and key trends relating to frontier AI capabilities, and then explores how frontier AI capabilities...Rea...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: internationalaisafetyreport.org  
    Title: international ai safety report 2026  
-   Link: [https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026](https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026)  
+   Link: <a href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow">https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Feb 2026 — This Report assesses what general-purpose AI systems can do, what risks they pose, and how those risks can be managed.Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: metr.org  
    Title: common elements  
-   Link: [https://metr.org/common-elements](https://metr.org/common-elements)  
+   Link: <a href="https://metr.org/common-elements" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/common-elements</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Most policies outline dangerous capability...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2601.23112v1](https://arxiv.org/html/2601.23112v1)  
+   Link: <a href="https://arxiv.org/html/2601.23112v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2601.23112v1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How should AI Safety Benchmarks...30 Jan 2026 — Traditional benchmarks measure how well a model performs, while safety benchmarks assess...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2512.01166v4](https://arxiv.org/html/2512.01166v4)  
+   Link: <a href="https://arxiv.org/html/2512.01166v4" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2512.01166v4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating AI Providers&#x27; Frontier AI Safety Frameworks23 Apr 2026 — This study assesses 12 Frameworks, using 65 weighted criteria, across...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2503.14499](https://arxiv.org/abs/2503.14499)  
+   Link: <a href="https://arxiv.org/abs/2503.14499" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2503.14499</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring AI Ability to Complete Long Software TasksMar 18, 2025 — This is the time humans typically take to complete tasks that AI model...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: [https://assets.publishing.service.gov.uk/media/653aabbd80884d000df71bdc/emerging-processes-frontier-ai-safety.pdf](https://assets.publishing.service.gov.uk/media/653aabbd80884d000df71bdc/emerging-processes-frontier-ai-safety.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/653aabbd80884d000df71bdc/emerging-processes-frontier-ai-safety.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/653aabbd80884d000df71bdc/emerging-processes-frontier-ai-safety.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Processes for Frontier AI SafetyDangerous capabilities: the abilities of an AI system to cause significant harm due to intentional [misuse](&amp;#123;&amp;#123; &#x27;misuse/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: mbrenndoerfer.com  
-   Link: [https://mbrenndoerfer.com/writing/benchmark-saturation-ai-evaluation-metrics](https://mbrenndoerfer.com/writing/benchmark-saturation-ai-evaluation-metrics)  
+   Link: <a href="https://mbrenndoerfer.com/writing/benchmark-saturation-ai-evaluation-metrics" target="_blank" rel="noopener noreferrer nofollow">https://mbrenndoerfer.com/writing/benchmark-saturation-ai-evaluation-metrics</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Michael BrenndoerferBenchmark Saturation: AI Evaluation Metrics and Ceiling...6 Mar 2026 — Benchmark saturation imposes real costs on th...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: knowledge4policy.ec.europa.eu  
-   Link: [https://knowledge4policy.ec.europa.eu/news/ai-benchmarking-nine-challenges-way-forward_en](https://knowledge4policy.ec.europa.eu/news/ai-benchmarking-nine-challenges-way-forward_en)  
+   Link: <a href="https://knowledge4policy.ec.europa.eu/news/ai-benchmarking-nine-challenges-way-forward_en" target="_blank" rel="noopener noreferrer nofollow">https://knowledge4policy.ec.europa.eu/news/ai-benchmarking-nine-challenges-way-forward_en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Knowledge for policyAI benchmarking: Nine challenges and a way forwardA recent JRC paper explores AI benchmarks, which are considered an...</p></details>
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: youtu.be  
-   Link: [https://youtu.be/SjSl2re_Fm8](https://youtu.be/SjSl2re_Fm8)  
+   Link: <a href="https://youtu.be/SjSl2re_Fm8" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/SjSl2re_Fm8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>And having AI models rapidly build their successors with limited human oversight naturally raises the risk that things will go off the ra...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: researchgate.net  
    Title: 400340170 How should AI Safety Benchmarks Benchmark Safety  
-   Link: [https://www.researchgate.net/publication/400340170_How_should_AI_Safety_Benchmarks_Benchmark_Safety](https://www.researchgate.net/publication/400340170_How_should_AI_Safety_Benchmarks_Benchmark_Safety)  
+   Link: <a href="https://www.researchgate.net/publication/400340170_How_should_AI_Safety_Benchmarks_Benchmark_Safety" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400340170_How_should_AI_Safety_Benchmarks_Benchmark_Safety</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) How Should AI Safety Benchmarks Benchmark Safety?10 Feb 2026 — We present a review of 210 safety benchmarks that maps out common ch...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: frontiermodelforum.org  
    Title: managing advanced cyber risks in frontier ai frameworks  
-   Link: [https://www.frontiermodelforum.org/technical-reports/managing-advanced-cyber-risks-in-frontier-ai-frameworks/](https://www.frontiermodelforum.org/technical-reports/managing-advanced-cyber-risks-in-frontier-ai-frameworks/)  
+   Link: <a href="https://www.frontiermodelforum.org/technical-reports/managing-advanced-cyber-risks-in-frontier-ai-frameworks/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/technical-reports/managing-advanced-cyber-risks-in-frontier-ai-frameworks/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>13 Feb 2026 — Frontier AI thresholds describe predefined notions of risk that indicate when additional action is warranted to avoid unacc...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: The Most Important Graph in AI Right Now | Beth Barnes, CEO of METR  
-   Link: [https://www.youtube.com/watch?v=jXtk68Kzmms](https://www.youtube.com/watch?v=jXtk68Kzmms)  
+   Link: <a href="https://www.youtube.com/watch?v=jXtk68Kzmms" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jXtk68Kzmms</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BREAKING - UC Berkeley Researchers REVEAL Critical Flaws in AI Benchmarks - YouTube BREAKING - UC Berkeley Researchers REVEAL Critical Fl...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: kili-technology.com  
    Title: ai benchmarks guide the top evaluations in 2026 and why theyre not enough  
-   Link: [https://kili-technology.com/blog/ai-benchmarks-guide-the-top-evaluations-in-2026-and-why-theyre-not-enough](https://kili-technology.com/blog/ai-benchmarks-guide-the-top-evaluations-in-2026-and-why-theyre-not-enough)  
+   Link: <a href="https://kili-technology.com/blog/ai-benchmarks-guide-the-top-evaluations-in-2026-and-why-theyre-not-enough" target="_blank" rel="noopener noreferrer nofollow">https://kili-technology.com/blog/ai-benchmarks-guide-the-top-evaluations-in-2026-and-why-theyre-not-enough</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This guide maps every major 2026 evaluation category and explains why human expert review still wins...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/deep-dive-various-modern-benchmarking-frontier-ai-models-perumal-zoc8c](https://www.linkedin.com/pulse/deep-dive-various-modern-benchmarking-frontier-ai-models-perumal-zoc8c)  
+   Link: <a href="https://www.linkedin.com/pulse/deep-dive-various-modern-benchmarking-frontier-ai-models-perumal-zoc8c" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/deep-dive-various-modern-benchmarking-frontier-ai-models-perumal-zoc8c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ture the capabilities of models designed for autonomous...Read more...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: ai.meta.com  
    Title: Advanced AI Scaling Framework v2  
-   Link: [https://ai.meta.com/static-resource/Meta_Advanced-AI-Scaling-Framework-v2/](https://ai.meta.com/static-resource/Meta_Advanced-AI-Scaling-Framework-v2/)  
+   Link: <a href="https://ai.meta.com/static-resource/Meta_Advanced-AI-Scaling-Framework-v2/" target="_blank" rel="noopener noreferrer nofollow">https://ai.meta.com/static-resource/Meta_Advanced-AI-Scaling-Framework-v2/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Scaling Framework - Meta AI7 Apr 2026 — This Advanced AI Scaling Framework outlines how Meta manages and prepares for. Frontier AI cap...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: crowdstrike.com  
-   Link: [https://www.crowdstrike.com/en-us/cybersecurity-101/[artificial](https://www.crowdstrike.com/en-us/cybersecurity-101/[artificial)  
+   Link: <a href="https://www.crowdstrike.com/en-us/cybersecurity-101/artificial-intelligence/frontier-ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.crowdstrike.com/en-us/cybersecurity-101/artificial-intelligence/frontier-ai/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier AI Explained: Key Models, Players, and Business...6 days ago — Frontier AI is most effective when employees understand its capa...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: rdi.berkeley.edu  
    Title: frontier ai impact on cybersecurity  
-   Link: [https://rdi.berkeley.edu/frontier-ai-impact-on-cybersecurity/](https://rdi.berkeley.edu/frontier-ai-impact-on-cybersecurity/)  
+   Link: <a href="https://rdi.berkeley.edu/frontier-ai-impact-on-cybersecurity/" target="_blank" rel="noopener noreferrer nofollow">https://rdi.berkeley.edu/frontier-ai-impact-on-cybersecurity/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI&#x27;s Impact on the Cybersecurity LandscapeWe present a comprehensive analysis of frontier AI&#x27;s impact on cybersecurity using a marginal r...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
    Title: AI Safety Benchmarks Do Not Benchmark Safety  
-   Link: [https://www.youtube.com/watch?v=HaKi5uwX6p0](https://www.youtube.com/watch?v=HaKi5uwX6p0)  
+   Link: <a href="https://www.youtube.com/watch?v=HaKi5uwX6p0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HaKi5uwX6p0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BREAKING - UC Berkeley Researchers REVEAL Critical Flaws in AI Benchmarks...</p></details>

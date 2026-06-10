@@ -12,21 +12,21 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343
 - AI_Doom_and_E_87399b_loss_of_contr_19a113_shutdown_resi_de0ce6
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - loss-of-control
 - over-delegation
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - loss-of-control
 - over-delegation
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: People may lose meaningful control not because an AI rebels, but because institutions hand over decisions faster than they can supervise them.
 hero_summary: People may lose meaningful control not because an AI rebels, but because institutions hand over decisions faster than they can supervise them.
 layout: default
 permalink: /over-delegation/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /loss-of-control/
 nav_short_title: Over delegation
 title: Can humans lose control without a takeover?
@@ -213,20 +213,20 @@ parent_heading_title: How Could Humans Lose Control of AI?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_loss_of_contr_19a113
-  title: Loss of Control | AI Doom and
+  title: Loss of Control | AI Doom and E 87399 b
   permalink: /loss-of-control/
   short_title: Loss of Control
   heading_title: How Could Humans Lose Control of AI?
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_loss_of_contr_19a113
-  title: Loss of Control | AI Doom and
+  title: Loss of Control | AI Doom and E 87399 b
   permalink: /loss-of-control/
   short_title: Loss of Control
   heading_title: How Could Humans Lose Control of AI?
@@ -264,7 +264,7 @@ child_links:
   heading_title: What Happens When Humans Stop Knowing Enough?
 up_link:
   basename: AI_Doom_and_E_87399b_loss_of_contr_19a113
-  title: Loss of Control | AI Doom and
+  title: Loss of Control | AI Doom and E 87399 b
   permalink: /loss-of-control/
   short_title: Loss of Control
   heading_title: How Could Humans Lose Control of AI?
@@ -288,32 +288,32 @@ image: /assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f6
 
 ## Introduction
 
-In debates about existential risks from advanced [artificial]({{ 'artificial-goals/' | relative_url }}) intelligence, *loss of human control* is a core concern: that systems could act in ways people cannot direct, halt or correct. Beyond dramatic scenarios of an AI literally “breaking out” and resisting shutdown, there is a subtler route to losing meaningful control — not through intent or deception by the AI itself, but through **passive [loss of control]({{ 'loss-of-control/' | relative_url }}) via over‑delegation**. This refers to humans and institutions transferring authority to AI systems faster than they retain the capacity, structures or incentives to oversee them. Over time, decision‑making can migrate into opaque automated layers where humans remain legally or nominally responsible but lack real influence over outcomes. The result is that even well‑intentioned organisations and governments can end up with AI in charge of choices they no longer understand or can meaningfully correct. Such delegation doesn’t require a hostile AI; it arises from institutional practice, governance gaps, and the relentless drive for efficiency. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6206859" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">SSRNThe AI Non-Delegation Doctrine: Authority, Commit-Boundary Control, and Runtime Governance in High-Consequence AI Systems by Frank Sc...</span></span></span>
+In debates about existential risks from advanced artificial intelligence, *loss of human control* is a core concern: that systems could act in ways people cannot direct, halt or correct. Beyond dramatic scenarios of an AI literally “breaking out” and resisting shutdown, there is a subtler route to losing meaningful control — not through intent or deception by the AI itself, but through **passive [loss of control]({{ 'loss-of-control/' | relative_url }}) via over‑delegation**. This refers to humans and institutions transferring authority to AI systems faster than they retain the capacity, structures or incentives to oversee them. Over time, decision‑making can migrate into opaque automated layers where humans remain legally or nominally responsible but lack real influence over outcomes. The result is that even well‑intentioned organisations and governments can end up with AI in charge of choices they no longer understand or can meaningfully correct. Such delegation doesn’t require a hostile AI; it arises from institutional practice, [governance]({{ 'governance/' | relative_url }}) gaps, and the relentless drive for efficiency. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6206859" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">The AI Non-Delegation Doctrine: Authority, Commit-Boundary Control, and Runtime Governance in High-Consequence AI Systems by Frank Sc...</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca-Illustration-1-dark.svg" | relative_url }}" alt="Over delegation illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What “Passive Loss of Control” Means in Practice
 
-Passive loss of control isn’t about an AI suddenly rejecting human instructions. Instead it describes a *migration of authority* — where advisory, routine, or low‑stakes suggestions from AI harden into [default decisions]({{ 'default-decisions/' | relative_url }}), and where [human oversight]({{ 'human-oversight/' | relative_url }}) becomes superficial. Frank Schouten’s *AI Non‑Delegation Doctrine* characterises this as authority shifting through efficiency rather than conscious delegation: advisory outputs become implicit decisions, defaults become de facto policies, and accountability becomes diffuse. This process often goes unnoticed within organisations because each incremental delegation seems small, but cumulatively it erodes humans’ ability to intervene or reverse course. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/Delivery.cfm/6610518.pdf?abstractid=6610518&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">SSRNThe Accountability Vacuum: Why Agentic AI Governance Fails Under Conditions of Expertise Erosion by Gabriel Sze:: SSRNApril 20...</span></span></span>
+Passive loss of control isn’t about an AI suddenly rejecting human instructions. Instead it describes a *migration of authority* — where advisory, routine, or low‑stakes suggestions from AI harden into [default decisions]({{ 'default-decisions/' | relative_url }}), and where [human oversight]({{ 'human-oversight/' | relative_url }}) becomes superficial. Frank Schouten’s *AI Non‑Delegation Doctrine* characterises this as authority shifting through efficiency rather than conscious delegation: advisory outputs become implicit decisions, defaults become de facto policies, and accountability becomes diffuse. This process often goes unnoticed within organisations because each incremental delegation seems small, but cumulatively it erodes humans’ ability to intervene or reverse course. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/Delivery.cfm/6610518.pdf?abstractid=6610518&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">The Accountability Vacuum: Why Agentic AI Governance Fails Under Conditions of Expertise Erosion by Gabriel Sze:: SSRNApril 20...</span></span></span>
 
-Academic work on decision‑making and [automation]({{ 'automation-bias/' | relative_url }}) similarly highlights structural elements of this problem: **assessability** (can humans understand decisions?), **dependency** (can delegation be reversed?), and **[contestability]({{ 'contestability/' | relative_url }})** (can decisions be challenged?). If systems make decisions that humans cannot interpret or reframe, authority slides from people to machine without clear checkpoints. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2505.01085" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Artificial Intelligence in Government: Why People Feel They Lose Control</span><span class="citation-popover-snippet">arXivArtificial Intelligence in Government: Why People Feel They Lose ControlMay 2, 2025...</span><span class="citation-popover-meta">Published: May 2, 2025</span></span></span>
+Academic work on decision‑making and automation similarly highlights structural elements of this problem: **assessability** (can humans understand decisions?), **dependency** (can delegation be reversed?), and **[contestability]({{ 'contestability/' | relative_url }})** (can decisions be challenged?). If systems make decisions that humans cannot interpret or reframe, authority slides from people to machine without clear checkpoints. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2505.01085" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Artificial Intelligence in Government: Why People Feel They Lose Control</span><span class="citation-popover-snippet">Artificial Intelligence in Government: Why People Feel They Lose ControlMay 2, 2025...</span><span class="citation-popover-meta">Published: May 2, 2025</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aRMyIl4ENTA" title="AI&#x27;s Most Dangerous Truth: We&#x27;ve Already Lost Control" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aRMyIl4ENTA" target="_blank" rel="noopener noreferrer">AI&#x27;s Most Dangerous Truth: We&#x27;ve Already Lost Control</a></p><p class="youtube-embed-meta">Channel: Info-Tech Research Group &middot; Views: 11.5K &middot; Uploaded: January 2026 &middot; Length: 1 hour 36 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aRMyIl4ENTA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aRMyIl4ENTA">Open on YouTube</a></p></div></div></div>
 
 ## How Speed, Opacity and Dependence Weaken Oversight
 
-A key mechanism in over‑delegation is **opacity**. As AI systems become more complex and integrated, their reasoning and decision hierarchies are harder for even expert humans to interpret. Traditional [governance]({{ 'governance/' | relative_url }}) efforts that expect humans “in the loop” presume that people can actually *meaningfully oversee* what the systems do. But research into human oversight under real‑world conditions shows this assumption often fails: humans may lack the competence, incentives, or institutional support to supervise autonomous systems effectively. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s00146-023-01777-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkInstitutionalised distrust and human oversight of artificial intelligence: towards a democratic design of AI governance unde...</span></span></span>
+A key mechanism in over‑delegation is **opacity**. As AI systems become more complex and integrated, their reasoning and decision hierarchies are harder for even expert humans to interpret. Traditional governance efforts that expect humans “in the loop” presume that people can actually *meaningfully oversee* what the systems do. But research into human oversight under real‑world conditions shows this assumption often fails: humans may lack the competence, incentives, or institutional support to supervise autonomous systems effectively. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s00146-023-01777-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkInstitutionalised distrust and human oversight of artificial intelligence: towards a democratic design of AI governance unde...</span></span></span>
 
-**Speed and scale** compound this issue. Agent‑like systems operate continuously, making countless high‑frequency micro‑decisions. Traditional oversight models (spot checks, periodic audits, manual approvals) were designed for static, discrete actions — not continuous, high‑impact decision streams. As one practitioner discussion notes, governance frameworks can look strong “on paper” but collapse under the operational speed and complexity of autonomous workflows, leaving humans fighting to catch up after the fact rather than shaping decisions in the moment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/AI_Governance/comments/1slyg2g/ai_governance_isnt_failing_because_we_lack/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditAI governance isn&#x27;t failing because we lack regulation i mean like it&#x27;s failing at executionApril 15, 2026...</span><span class="citation-popover-meta">Published: April 15, 2026</span></span></span>
+**Speed and scale** compound this issue. Agent‑like systems operate continuously, making countless high‑frequency micro‑decisions. Traditional oversight models (spot checks, periodic audits, manual approvals) were designed for static, discrete actions — not continuous, high‑impact decision streams. As one practitioner discussion notes, governance frameworks can look strong “on paper” but collapse under the operational speed and complexity of autonomous workflows, leaving humans fighting to catch up after the fact rather than shaping decisions in the moment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/AI_Governance/comments/1slyg2g/ai_governance_isnt_failing_because_we_lack/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">AI governance isn&#x27;t failing because we lack regulation i mean like it&#x27;s failing at executionApril 15, 2026...</span><span class="citation-popover-meta">Published: April 15, 2026</span></span></span>
 
-**Dependence** also plays a role. Organisations increasingly rely on AI’s recommendations for strategic and tactical planning, compliance, customer interaction, and optimisation. Over time, humans can become less prepared to question recommendations because expertise in the underlying domain atrophies or attention shifts to other priorities. In governance literature, this is described as **expertise erosion**: when human overseers are structurally unable to exercise meaningful oversight because they no longer understand the system they are tasked with governing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6736618" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">SSRN(When) Should We Delegate AI Governance to AIs? Some Lessons from Administrative Law by Nicholas Caputo:: SSRNSeptember 24, 2025...</span><span class="citation-popover-meta">Published: September 24, 2025</span></span></span>
+**Dependence** also plays a role. Organisations increasingly rely on AI’s recommendations for strategic and tactical planning, compliance, customer interaction, and optimisation. Over time, humans can become less prepared to question recommendations because expertise in the underlying domain atrophies or attention shifts to other priorities. In governance literature, this is described as **[expertise erosion]({{ 'expertise-erosion/' | relative_url }})**: when human overseers are structurally unable to exercise meaningful oversight because they no longer understand the system they are tasked with governing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6736618" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">SSRN(When) Should We Delegate AI Governance to AIs? Some Lessons from Administrative Law by Nicholas Caputo:: SSRNSeptember 24, 2025...</span><span class="citation-popover-meta">Published: September 24, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca-Illustration-2-dark.svg" | relative_url }}" alt="Over delegation illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Delegation Without Surrendering Authority — The Governance Gap
 
-The core challenge in passive loss of control is *distinguishing delegation of tasks from delegation of authority*. Modern governance frameworks — including drafts like the EU AI Act — emphasise human oversight as a requirement, but they often assume that human involvement equates to effective control. Scholars have critiqued this assumption, urging that oversight mechanisms must be designed so that humans can actually *review, contest and override* automated decisions when necessary. Without this, the mere presence of a human nominally “in the loop” does not prevent authority from slipping into automated layers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adalovelaceinstitute.org/report/dilemmas-of-delegation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adalovelaceinstitute.org">[Ada Lovelace Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adalovelaceinstitute.org</span><span class="citation-popover-title">Ada Lovelace Institute The dilemmas of delegation | Ada Lovelace Institute</span><span class="citation-popover-snippet">Ada Lovelace InstituteThe dilemmas of delegation | Ada Lovelace InstituteNovember 11, 2025...</span><span class="citation-popover-meta">Published: November 11, 2025</span></span></span>
+The core challenge in passive loss of control is *distinguishing delegation of tasks from delegation of authority*. Modern governance frameworks — including drafts like the EU AI Act — emphasise human oversight as a requirement, but they often assume that human involvement equates to effective control. Scholars have critiqued this assumption, urging that oversight mechanisms must be designed so that humans can actually *review, contest and override* automated decisions when necessary. Without this, the mere presence of a human nominally “in the loop” does not prevent authority from slipping into automated layers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adalovelaceinstitute.org/report/dilemmas-of-delegation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adalovelaceinstitute.org">[Ada Lovelace Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adalovelaceinstitute.org</span><span class="citation-popover-title">Ada Lovelace Institute The dilemmas of delegation &#124; Ada Lovelace Institute</span><span class="citation-popover-snippet">Ada Lovelace InstituteThe dilemmas of delegation &#124; Ada Lovelace InstituteNovember 11, 2025...</span><span class="citation-popover-meta">Published: November 11, 2025</span></span></span>
 
 To bridge this gap, governance thinkers propose concepts like **Cognitive Operating Architecture**: institutional layers that explicitly govern how cognition is delegated, how authority is assigned, and how accountability persists through system updates and organisational change. Such architectural measures aim to ensure that delegation enhances rather than undermines human authority — by preserving traceability, accountability reversion, and clarity on who controls what. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.irsa.institute/explainer/cognitive-operating-architecture" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irsa.institute">[Regenerative Systems Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irsa.institute</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -322,10 +322,10 @@ To bridge this gap, governance thinkers propose concepts like **Cognitive Operat
 
 ## Where High‑Stakes Delegation Could Become Dangerous
 
-Delegation becomes [dangerous]({{ 'autonomy/' | relative_url }}) not when AI performs trivial tasks autonomously, but when humans **entrust systems with decisions that affect critical infrastructure, public safety, or societal norms without adequate safeguards**. This problem isn’t purely technical; it’s deeply institutional. For example:
+Delegation becomes dangerous not when AI performs trivial tasks autonomously, but when humans **entrust systems with decisions that affect critical infrastructure, public safety, or societal norms without adequate safeguards**. This problem isn’t purely technical; it’s deeply institutional. For example:
 
-* **Government and public administration:** Studies show that as AI systems are integrated into welfare, tax, and law enforcement functions, citizens can feel they have lost control over outcomes precisely because they cannot understand or contest automated decisions — a dynamic akin to “failure‑by‑success,” where perceived efficiency gains mask deep legitimacy and oversight risks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2505.01085" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Artificial Intelligence in Government: Why People Feel They Lose Control</span><span class="citation-popover-snippet">arXivArtificial Intelligence in Government: Why People Feel They Lose ControlMay 2, 2025...</span><span class="citation-popover-meta">Published: May 2, 2025</span></span></span>
-* **Corporate settings:** In enterprises deploying dozens of autonomous AI agents across functions without integrated oversight systems, organisational leaders already report governance debt — where uncoordinated automation creates accountability vacuums and unmanageable complexity. Present‑day episodes of agents acting without transparent governance illustrate how quickly oversight gaps can compound. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/agi/comments/1swwmiu/the_organizational_ai_control_problem_is_already/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditThe organizational AI control problem is already here. Companies deploying 50+ uncoordinated agents today are creating governance d...</span></span></span>
+* **Government and public administration:** Studies show that as AI systems are integrated into welfare, tax, and law enforcement functions, citizens can feel they have lost control over outcomes precisely because they cannot understand or contest automated decisions — a dynamic akin to “failure‑by‑success,” where perceived [efficiency gains]({{ 'efficiency-gains/' | relative_url }}) mask deep legitimacy and oversight risks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2505.01085" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Artificial Intelligence in Government: Why People Feel They Lose Control</span><span class="citation-popover-snippet">Artificial Intelligence in Government: Why People Feel They Lose ControlMay 2, 2025...</span><span class="citation-popover-meta">Published: May 2, 2025</span></span></span>
+* **Corporate settings:** In enterprises deploying dozens of autonomous AI agents across functions without integrated oversight systems, organisational leaders already report governance debt — where uncoordinated automation creates accountability vacuums and unmanageable complexity. Present‑day episodes of agents acting without transparent governance illustrate how quickly oversight gaps can compound. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/agi/comments/1swwmiu/the_organizational_ai_control_problem_is_already/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">The organizational AI control problem is already here. Companies deploying 50+ uncoordinated agents today are creating governance d...</span></span></span>
 * **Use in governance of AI itself:** Even discussions about delegating aspects of AI governance to AI systems (for example, using AI to monitor compliance) highlight delegation limits: if humans cannot understand or contest the governance decisions made by the AI, delegation undermines legitimacy and control rather than supporting it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/Delivery.cfm/6212581.pdf?abstractid=6212581&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">We Outsourced Thinking: AGI, Oversight, and the Business of Artificial Intelligence by Glenn Rowe:: SSRNMarch 26, 2026 — WHEN WE OUTSOUR...</span><span class="citation-popover-meta">Published: March 26, 2026</span></span></span>
 
 In each case, the danger arises not from immediate catastrophes, but from **institutional erosion of capacity to govern** — a long, incremental process that can leave critical decisions outside the reach of meaningful human intervention. Such structural drift illustrates that *loss of control need not be sudden to be profound*; it can be embedded in how societies and organisations adapt to and rely on autonomous systems.
@@ -761,133 +761,133 @@ Passive loss of control through over‑delegation is a governance phenomenon whe
 
 1. <a id="endnote-1"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6206859](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6206859)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SSRNThe AI Non-Delegation Doctrine: Authority, Commit-Boundary Control, and Runtime Governance in High-Consequence AI Systems by Frank Sc...</p></details>
+   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6206859" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6206859</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The AI Non-Delegation Doctrine: Authority, Commit-Boundary Control, and Runtime Governance in High-Consequence AI Systems by Frank Sc...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
    Title: arXiv Artificial Intelligence in Government: Why People Feel They Lose Control  
-   Link: [https://arxiv.org/abs/2505.01085](https://arxiv.org/abs/2505.01085)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivArtificial Intelligence in Government: Why People Feel They Lose ControlMay 2, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2505.01085" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.01085</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial Intelligence in Government: Why People Feel They Lose ControlMay 2, 2025...</p></details>
    Published: May 2, 2025  
 
 3. <a id="endnote-3"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s00146-023-01777-z](https://link.springer.com/article/10.1007/s00146-023-01777-z)  
+   Link: <a href="https://link.springer.com/article/10.1007/s00146-023-01777-z" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s00146-023-01777-z</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkInstitutionalised distrust and human oversight of artificial intelligence: towards a democratic design of AI governance unde...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/AI_Governance/comments/1slyg2g/ai_governance_isnt_failing_because_we_lack/](https://www.reddit.com/r/AI_Governance/comments/1slyg2g/ai_governance_isnt_failing_because_we_lack/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditAI governance isn&#x27;t failing because we lack regulation i mean like it&#x27;s failing at executionApril 15, 2026...</p></details>
+   Link: <a href="https://www.reddit.com/r/AI_Governance/comments/1slyg2g/ai_governance_isnt_failing_because_we_lack/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AI_Governance/comments/1slyg2g/ai_governance_isnt_failing_because_we_lack/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI governance isn&#x27;t failing because we lack regulation i mean like it&#x27;s failing at executionApril 15, 2026...</p></details>
    Published: April 15, 2026  
 
 5. <a id="endnote-5"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/Delivery.cfm/6610518.pdf?abstractid=6610518&mirid=1](https://papers.ssrn.com/sol3/Delivery.cfm/6610518.pdf?abstractid=6610518&mirid=1)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SSRNThe Accountability Vacuum: Why Agentic AI Governance Fails Under Conditions of Expertise Erosion &lt;br&gt; by Gabriel Sze:: SSRNApril 20...</p></details>
+   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/6610518.pdf?abstractid=6610518&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/6610518.pdf?abstractid=6610518&amp;mirid=1</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Accountability Vacuum: Why Agentic AI Governance Fails Under Conditions of Expertise Erosion &lt;br&gt; by Gabriel Sze:: SSRNApril 20...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/agi/comments/1swwmiu/the_organizational_ai_control_problem_is_already/](https://www.reddit.com/r/agi/comments/1swwmiu/the_organizational_ai_control_problem_is_already/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditThe organizational AI control problem is already here. Companies deploying 50+ uncoordinated agents today are creating governance d...</p></details>
+   Link: <a href="https://www.reddit.com/r/agi/comments/1swwmiu/the_organizational_ai_control_problem_is_already/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/agi/comments/1swwmiu/the_organizational_ai_control_problem_is_already/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The organizational AI control problem is already here. Companies deploying 50+ uncoordinated agents today are creating governance d...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6736618](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6736618)  
+   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6736618" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6736618</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>SSRN(When) Should We Delegate AI Governance to AIs? Some Lessons from Administrative Law by Nicholas Caputo:: SSRNSeptember 24, 2025...</p></details>
    Published: September 24, 2025  
 
 8. <a id="endnote-8"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/Delivery.cfm/6212581.pdf?abstractid=6212581&mirid=1](https://papers.ssrn.com/sol3/Delivery.cfm/6212581.pdf?abstractid=6212581&mirid=1)  
+   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/6212581.pdf?abstractid=6212581&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/6212581.pdf?abstractid=6212581&amp;mirid=1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>We Outsourced Thinking: AGI, Oversight, and the Business of Artificial Intelligence by Glenn Rowe:: SSRNMarch 26, 2026 — WHEN WE OUTSOUR...</p></details>
    Published: March 26, 2026  
 
 9. <a id="endnote-9"></a>
    Source: papers.ssrn.com  
    Title: A revised version of this manuscript is current  
-   Link: [https://papers.ssrn.com/sol3/Delivery.cfm/6328039.pdf?abstractid=6328039&mirid=1](https://papers.ssrn.com/sol3/Delivery.cfm/6328039.pdf?abstractid=6328039&mirid=1)  
+   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/6328039.pdf?abstractid=6328039&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/6328039.pdf?abstractid=6328039&amp;mirid=1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Orders Under Algorithmic Pressure: Alignment Governance, Civilizational Identity, and the Fiduciary Limits of Delegation by Hiew Yee Leon...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s44163-024-00152-1](https://link.springer.com/article/10.1007/s44163-024-00152-1)  
+   Link: <a href="https://link.springer.com/article/10.1007/s44163-024-00152-1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s44163-024-00152-1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>springer.comDecision-making power and responsibility in an automated administration | Discover Artificial Intelligence | Springer Nature...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s10257-022-00562-7](https://link.springer.com/article/10.1007/s10257-022-00562-7)  
+   Link: <a href="https://link.springer.com/article/10.1007/s10257-022-00562-7" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10257-022-00562-7</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and relational governance of artificial intelligence outsourcing | Information Systems and e-Business Management | Springer Nature LinkAu...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: adalovelaceinstitute.org  
    Title: Ada Lovelace Institute The dilemmas of delegation | Ada Lovelace Institute  
-   Link: [https://www.adalovelaceinstitute.org/report/dilemmas-of-delegation/](https://www.adalovelaceinstitute.org/report/dilemmas-of-delegation/)  
+   Link: <a href="https://www.adalovelaceinstitute.org/report/dilemmas-of-delegation/" target="_blank" rel="noopener noreferrer nofollow">https://www.adalovelaceinstitute.org/report/dilemmas-of-delegation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ada Lovelace InstituteThe dilemmas of delegation | Ada Lovelace InstituteNovember 11, 2025...</p></details>
    Published: November 11, 2025  
 
 13. <a id="endnote-13"></a>
    Source: irsa.institute  
-   Link: [https://www.irsa.institute/explainer/cognitive-operating-architecture](https://www.irsa.institute/explainer/cognitive-operating-architecture)  
+   Link: <a href="https://www.irsa.institute/explainer/cognitive-operating-architecture" target="_blank" rel="noopener noreferrer nofollow">https://www.irsa.institute/explainer/cognitive-operating-architecture</a>  
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11614927/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11614927/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11614927/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11614927/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2023 Oct 6;39(6):2853–2866. doi: 10.1007/s00146-023-01777-z INSTITUTIONALISED DISTRUST AND HUMAN OVERSIGHT OF ARTIFICIAL INTELLIGENCE: TO...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: inferensys.com  
-   Link: [https://inferensys.com/blog/ai-workforce-analytics-and-role-redesign/the-cost-of-poor-ai-delegation-when-automation-undermines-authority](https://inferensys.com/blog/ai-workforce-analytics-and-role-redesign/the-cost-of-poor-ai-delegation-when-automation-undermines-authority)  
+   Link: <a href="https://inferensys.com/blog/ai-workforce-analytics-and-role-redesign/the-cost-of-poor-ai-delegation-when-automation-undermines-authority" target="_blank" rel="noopener noreferrer nofollow">https://inferensys.com/blog/ai-workforce-analytics-and-role-redesign/the-cost-of-poor-ai-delegation-when-automation-undermines-authority</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Poor AI Delegation: When Automation Undermines Authority | Inference SystemsTHE COST OF POOR AI DELEGATION: WHEN AUTOMATION UNDERMINES AU...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: speeki.com  
-   Link: [https://www.speeki.com/blog/what-happens-when-ai-agents-go-off-script](https://www.speeki.com/blog/what-happens-when-ai-agents-go-off-script)  
+   Link: <a href="https://www.speeki.com/blog/what-happens-when-ai-agents-go-off-script" target="_blank" rel="noopener noreferrer nofollow">https://www.speeki.com/blog/what-happens-when-ai-agents-go-off-script</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The loss of control problem: What happens when AI agents go off-script | SpeekiTHE LOSS OF CONTROL PROBLEM: WHAT HAPPENS WHEN AI AGENTS G...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: research.manchester.ac.uk  
-   Link: [https://research.manchester.ac.uk/en/publications/formal-and-relational-governance-of-artificial-intelligence-outso/](https://research.manchester.ac.uk/en/publications/formal-and-relational-governance-of-artificial-intelligence-outso/)  
+   Link: <a href="https://research.manchester.ac.uk/en/publications/formal-and-relational-governance-of-artificial-intelligence-outso/" target="_blank" rel="noopener noreferrer nofollow">https://research.manchester.ac.uk/en/publications/formal-and-relational-governance-of-artificial-intelligence-outso/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and relational governance of artificial intelligence outsourcing - Research Explorer The University of ManchesterAugust 25, 2022 — FORMAL...</p></details>
    Published: August 25, 2022  
 
 18. <a id="endnote-18"></a>
    Source: research.utwente.nl  
    Title: nl Formal and relational governance of artificial intelligence outsourcing  
-   Link: [https://research.utwente.nl/en/publications/formal-and-relational-governance-of-artificial-intelligence-outso/](https://research.utwente.nl/en/publications/formal-and-relational-governance-of-artificial-intelligence-outso/)  
+   Link: <a href="https://research.utwente.nl/en/publications/formal-and-relational-governance-of-artificial-intelligence-outso/" target="_blank" rel="noopener noreferrer nofollow">https://research.utwente.nl/en/publications/formal-and-relational-governance-of-artificial-intelligence-outso/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and relational governance of artificial intelligence outsourcing - University of Twente Research InformationDecember 1, 2022 — FORMAL AND...</p></details>
    Published: December 1, 2022  
 
 19. <a id="endnote-19"></a>
    Source: crowe.com  
-   Link: [https://www.crowe.com/insights/how-your-business-is-losing-to-ai](https://www.crowe.com/insights/how-your-business-is-losing-to-ai)  
+   Link: <a href="https://www.crowe.com/insights/how-your-business-is-losing-to-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.crowe.com/insights/how-your-business-is-losing-to-ai</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ard, Julie DeMuth Mellendorf Image: Glowing warning icons across a digital network, symbolizing AI gover...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: wcr.legal  
    Title: A I Governance Risk as a Failure of Responsibility and Oversight  
-   Link: [https://wcr.legal/ai-governance-risk-failure-of-responsibility-and-oversight/](https://wcr.legal/ai-governance-risk-failure-of-responsibility-and-oversight/)  
+   Link: <a href="https://wcr.legal/ai-governance-risk-failure-of-responsibility-and-oversight/" target="_blank" rel="noopener noreferrer nofollow">https://wcr.legal/ai-governance-risk-failure-of-responsibility-and-oversight/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Governance Risk as a Failure of Responsibility and Oversight - WCR.LEGALApril 27, 2026 — * April 27, 2026 * Image: AI Governance Risk...</p></details>
    Published: April 27, 2026  
 
 21. <a id="endnote-21"></a>
    Source: lordslibrary.parliament.uk  
    Title: uk Potential future risks from autonomous AI systems  
-   Link: [https://lordslibrary.parliament.uk/potential-future-risks-from-autonomous-ai-systems/](https://lordslibrary.parliament.uk/potential-future-risks-from-autonomous-ai-systems/)  
+   Link: <a href="https://lordslibrary.parliament.uk/potential-future-risks-from-autonomous-ai-systems/" target="_blank" rel="noopener noreferrer nofollow">https://lordslibrary.parliament.uk/potential-future-risks-from-autonomous-ai-systems/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>future risks from autonomous AI systems - House of Lords LibraryJanuary 5, 2026 — POTENTIAL FUTURE RISKS FROM AUTONOMOUS AI SYSTEMS In Fo...</p></details>
    Published: January 5, 2026  
 
 22. <a id="endnote-22"></a>
    Source: allinckx.com  
-   Link: [https://www.allinckx.com/insights/ai-alignment-requires-human-alignment](https://www.allinckx.com/insights/ai-alignment-requires-human-alignment)  
+   Link: <a href="https://www.allinckx.com/insights/ai-alignment-requires-human-alignment" target="_blank" rel="noopener noreferrer nofollow">https://www.allinckx.com/insights/ai-alignment-requires-human-alignment</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Much of the current discussion around artificial intelligence focuses on alignm...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: whitepapersonline.com  
    Title: Agentic AI Governance  
-   Link: [https://whitepapersonline.com/en/whitepaper/beyond-hallucinations-governing-agentic-ai-through-identity-delegation-and-execution-control](https://whitepapersonline.com/en/whitepaper/beyond-hallucinations-governing-agentic-ai-through-identity-delegation-and-execution-control)  
+   Link: <a href="https://whitepapersonline.com/en/whitepaper/beyond-hallucinations-governing-agentic-ai-through-identity-delegation-and-execution-control" target="_blank" rel="noopener noreferrer nofollow">https://whitepapersonline.com/en/whitepaper/beyond-hallucinations-governing-agentic-ai-through-identity-delegation-and-execution-control</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March 27, 2026 — BEYOND HALLUCINATIONS: GOVERNING AGENTIC AI THROUGH IDENTITY, DELEGATION, AND EXECUTION CONTROL Rohit Yajee Published on...</p></details>
    Published: March 27, 2026  

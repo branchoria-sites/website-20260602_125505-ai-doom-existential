@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e_black_box_evi_931b81
 - AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e_misleading_po_7a9cae
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - control-tools
 - scaling-limits
 - model-circuits
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - control-tools
 - scaling-limits
 - model-circuits
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Attempts to map AI circuits and hidden representations face growing limits as models scale to billions of parameters.
 hero_summary: Attempts to map AI circuits and hidden representations face growing limits as models scale to billions of parameters.
 layout: default
 permalink: /model-circuits/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /control-tools/
 - /scaling-limits/
 nav_short_title: Model Circuits
@@ -203,6 +203,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-02 12:40:50'
 parent_title: Why Bigger AI Models May Resist Human Understanding | Control Tools
 parent_permalink: /scaling-limits/
 parent_nav_short_title: Scaling Limits
@@ -210,10 +211,10 @@ parent_heading_title: Why Bigger AI Models May Resist Human Understanding
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_interpretabil_15527d
-  title: Control Tools | AI Doom and
+  title: Control Tools | AI Doom and E 87399 b
   permalink: /control-tools/
   short_title: Control Tools
   heading_title: Can We Make Advanced AI Understandable?
@@ -225,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_interpretabil_15527d
-  title: Control Tools | AI Doom and
+  title: Control Tools | AI Doom and E 87399 b
   permalink: /control-tools/
   short_title: Control Tools
   heading_title: Can We Make Advanced AI Understandable?
@@ -260,7 +261,6 @@ prev_link:
   permalink: /misleading-xai/
   short_title: Misleading XAI
   heading_title: Can AI explanations sound right while hiding the truth?
-date: '2026-06-02 12:40:50 '
 header:
   og_image: /assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e_mechanistic_i_d561dd-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e_mechanistic_i_d561dd-Illustration-1.webp
@@ -269,19 +269,19 @@ image: /assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40
 
 ## Introduction
 
-Mechanistic [interpretability]({{ 'interpretability/' | relative_url }}) is the branch of [AI research]({{ 'ai-research-loop/' | relative_url }}) that tries to reverse-engineer neural networks and identify the internal mechanisms that produce specific behaviours. Rather than asking an AI system why it generated an answer, researchers attempt to trace the actual computations inside the model: which features were detected, which internal circuits were activated, and how information flowed through the network.
+Mechanistic [interpretability]({{ 'interpretability/' | relative_url }}) is the branch of AI research that tries to reverse-engineer neural networks and identify the internal mechanisms that produce specific behaviours. Rather than asking an AI system why it generated an answer, researchers attempt to trace the actual computations inside the model: which features were detected, which internal circuits were activated, and how information flowed through the network.
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e_mechanistic_i_d561dd-Illustration-1-dark.svg" | relative_url }}" alt="Model Circuits illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e_mechanistic_i_d561dd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e_mechanistic_i_d561dd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For people concerned about AI doom, alignment failures, or [loss of control]({{ 'loss-of-control/' | relative_url }}) over advanced systems, mechanistic interpretability is attractive because it promises something stronger than behavioural testing. In principle, if researchers could understand a frontier model's internal reasoning, they might detect dangerous goals, deceptive strategies, or other warning signs before those behaviours appear openly.
+For people concerned about AI doom, alignment failures, or [loss of control]({{ 'loss-of-control/' | relative_url }}) over advanced systems, mechanistic interpretability is attractive because it promises something stronger than behavioural testing. In principle, if researchers could understand a frontier model's internal reasoning, they might detect dangerous goals, deceptive strategies, or other [warning signs]({{ 'warning-signs/' | relative_url }}) before those behaviours appear openly.
 
-The difficulty is that the approach becomes harder as models become more capable. Some recent work has shown that researchers can identify meaningful internal features and circuits in large language models, but the same research has also highlighted how enormous the scaling challenge remains. The central question is no longer whether mechanistic interpretability can work in small cases. It is whether it can keep pace with frontier models whose internal computations may be vastly more complex than anything humans can inspect directly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/research/mapping-mind-language-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-title">Mapping the Mind of a Large Language Model</span><span class="citation-popover-snippet">AnthropicMapping the Mind of a Large Language ModelMay 21, 2024 — We have identified how millions of concepts are represented inside Clau...</span><span class="citation-popover-meta">Published: May 21, 2024</span></span></span>
+The difficulty is that the approach becomes harder as models become more capable. Some recent work has shown that researchers can identify meaningful internal features and circuits in large language models, but the same research has also highlighted how enormous the scaling challenge remains. The central question is no longer whether mechanistic interpretability can work in small cases. It is whether it can keep pace with frontier models whose internal computations may be vastly more complex than anything humans can inspect directly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/research/mapping-mind-language-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-title">Mapping the Mind of a Large Language Model</span><span class="citation-popover-snippet">Mapping the Mind of a Large Language ModelMay 21, 2024 — We have identified how millions of concepts are represented inside Clau...</span><span class="citation-popover-meta">Published: May 21, 2024</span></span></span>
 
 ## How distributed representations resist human interpretation
 
 One of the biggest obstacles is that modern neural networks do not usually store concepts in neat, isolated locations.
 
-A common intuition is that a neuron might represent a single idea such as "dog", "Paris", or "danger". In practice, researchers repeatedly find that many neurons respond to mixtures of unrelated concepts. This phenomenon is often called *polysemanticity*. A single neuron may participate in multiple computations depending on context, making it difficult to assign a simple human-readable meaning to it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/research/towards-monosemanticity-decomposing-language-models-with-dictionary-learning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-title">towards monosemanticity decomposing language models with dictionary learning</span><span class="citation-popover-snippet">AnthropicDecomposing Language Models With Dictionary Learning5 Oct 2023 — In our latest paper, Towards Monosemanticity: Decomposing Langu...</span></span></span>
+A common intuition is that a neuron might represent a single idea such as "dog", "Paris", or "danger". In practice, researchers repeatedly find that many neurons respond to mixtures of unrelated concepts. This phenomenon is often called *polysemanticity*. A single neuron may participate in multiple computations depending on context, making it difficult to assign a simple human-readable meaning to it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/research/towards-monosemanticity-decomposing-language-models-with-dictionary-learning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-title">towards monosemanticity decomposing language models with dictionary learning</span><span class="citation-popover-snippet">Decomposing Language Models With Dictionary Learning5 Oct 2023 — In our latest paper, Towards Monosemanticity: Decomposing Langu...</span></span></span>
 
 The deeper problem is that models often use what researchers call *superposition*. Instead of allocating separate internal resources to separate concepts, a network can compress many features into the same representational space. Anthropic's work on toy models and later interpretability research argues that neural networks frequently represent more features than they have obvious dimensions available, causing concepts to overlap and interfere with one another. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://transformer-circuits.pub/2024/scaling-monosemanticity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: transformer-circuits.pub">[transformer-circuits.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">transformer-circuits.pub</span><span class="citation-popover-title">scaling monosemanticity</span><span class="citation-popover-snippet">Extracting Interpretable Features from Claude 3 Sonnet21 May 2024 — Eight months ago, we demonstrated that sparse autoencoders could reco...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
@@ -310,14 +310,14 @@ However, frontier models appear to rely on many overlapping mechanisms rather th
 
 A useful analogy is biological brains. Finding one neural pathway involved in vision does not mean vision depends entirely on that pathway. Multiple subsystems often contribute simultaneously, providing redundancy and robustness.
 
-Large language models appear to exhibit something similar. A circuit discovered in one setting may not be the only route through which the model can achieve a task. Alternative pathways may exist, and the model may switch strategies depending on context. As model size increases, the number of potential interactions grows dramatically. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2407.02646v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivA Practical Review of Mechanistic Interpretability for...10 Mar 2025 — Our survey brings a unique perspective of task-centric surve...</span></span></span>
+Large language models appear to exhibit something similar. A circuit discovered in one setting may not be the only route through which the model can achieve a task. Alternative pathways may exist, and the model may switch strategies depending on context. As model size increases, the number of potential interactions grows dramatically. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2407.02646v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Practical Review of Mechanistic Interpretability for...10 Mar 2025 — Our survey brings a unique perspective of task-centric surve...</span></span></span>
 
-This matters for AI safety because researchers are often interested in rare but [dangerous]({{ 'autonomy/' | relative_url }}) behaviours. Suppose a safety team identifies one circuit associated with deceptive reasoning and modifies it. If the model can achieve the same outcome through several other circuits, the intervention may provide only limited assurance.
+This matters for AI safety because researchers are often interested in rare but dangerous behaviours. Suppose a safety team identifies one circuit associated with deceptive reasoning and modifies it. If the model can achieve the same outcome through several other circuits, the intervention may provide only limited assurance.
 
 The challenge is therefore not merely locating a mechanism. It is determining whether that mechanism is the complete explanation for a behaviour or only one component in a much larger network of computations.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vFdVrX503W0" title="Language Models Can Explain Neurons in Language Models" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vFdVrX503W0" target="_blank" rel="noopener noreferrer">Language Models Can Explain Neurons in Language Models</a></p><p class="youtube-embed-meta">Channel: Arize AI &middot; Views: 971 &middot; Uploaded: June 2023 &middot; Length: 39 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vFdVrX503W0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vFdVrX503W0">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qMBWbJQ3b2g" title="Towards Monosemanticity Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qMBWbJQ3b2g" target="_blank" rel="noopener noreferrer">Towards Monosemanticity Explained</a></p><p class="youtube-embed-meta">Channel: Unify &middot; Views: 1.2K &middot; Uploaded: June 2024 &middot; Length: 1 hour 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qMBWbJQ3b2g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qMBWbJQ3b2g">Open on YouTube</a></p></div></div></div>
 
 ## Backup strategies and redundant circuits in large models
 
@@ -329,7 +329,7 @@ A model with many redundant pathways may continue producing the same behaviour e
 
 This creates several difficulties:
 
-**Causal uncertainty.** Researchers may identify a component strongly correlated with a behaviour without proving that it is uniquely responsible for it.
+**Causal [uncertainty]({{ 'uncertainty/' | relative_url }}).** Researchers may identify a component strongly correlated with a behaviour without proving that it is uniquely responsible for it.
 
 **Intervention failure.** Removing an apparently important circuit may have surprisingly little effect.
 
@@ -368,7 +368,7 @@ Researchers might successfully explain thousands or even millions of individual 
 This distinction is crucial in AI doom debates. The question is not whether some internal representations can be interpreted. The question is whether enough of the system can be understood to provide confidence that dangerous objectives, deceptive reasoning, or other [catastrophic]({{ 'misuse/' | relative_url }}) failure modes are absent.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qMBWbJQ3b2g" title="Towards Monosemanticity Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qMBWbJQ3b2g" target="_blank" rel="noopener noreferrer">Towards Monosemanticity Explained</a></p><p class="youtube-embed-meta">Channel: Unify &middot; Views: 1.2K &middot; Uploaded: June 2024 &middot; Length: 1 hour 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qMBWbJQ3b2g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qMBWbJQ3b2g">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vFdVrX503W0" title="Language Models Can Explain Neurons in Language Models" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vFdVrX503W0" target="_blank" rel="noopener noreferrer">Language Models Can Explain Neurons in Language Models</a></p><p class="youtube-embed-meta">Channel: Arize AI &middot; Views: 971 &middot; Uploaded: June 2023 &middot; Length: 39 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vFdVrX503W0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vFdVrX503W0">Open on YouTube</a></p></div></div></div>
 
 ## Automation helps, but may not solve the scaling problem
 
@@ -376,7 +376,7 @@ Recognising that humans cannot manually inspect billions of parameters, research
 
 OpenAI demonstrated one version of this approach by using GPT-4 to generate explanations for neurons in GPT-2. The broader goal is to create systems that help explain other systems, allowing interpretability research to scale beyond manual investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openai.com/index/language-models-can-explain-neurons-in-language-models/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: OpenAI">[OpenAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">OpenAI</span><span class="citation-popover-title">language models can explain neurons in language models</span><span class="citation-popover-snippet">Language models can explain neurons in...9 May 2023 — We use GPT-4 to automatically write explanations for the behavior of neurons in la...</span><span class="citation-popover-meta">Published: May 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openaipublic.blob.core.windows.net">[2openaipublic.blob.core.windows.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openaipublic.blob.core.windows.net</span><span class="citation-popover-snippet">Language models can explain neurons in language models9 May 2023 — This paper applies automation to the problem of scaling an interpretab...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
-Automated circuit-discovery methods have also improved substantially. New techniques can identify candidate circuits far faster than earlier approaches, making larger-scale investigations more practical. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2407.02646v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivA Practical Review of Mechanistic Interpretability for...10 Mar 2025 — Our survey brings a unique perspective of task-centric surve...</span></span></span>
+Automated circuit-discovery methods have also improved substantially. New techniques can identify candidate circuits far faster than earlier approaches, making larger-scale investigations more practical. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2407.02646v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Practical Review of Mechanistic Interpretability for...10 Mar 2025 — Our survey brings a unique perspective of task-centric surve...</span></span></span>
 
 However, automation introduces its own questions:
 
@@ -398,7 +398,7 @@ In effect, automation may help address the labour problem without fully solving 
 
 Mechanistic interpretability occupies a distinctive place in existential-risk debates because it targets a specific concern: humans may lose the ability to understand what increasingly capable systems are doing internally.
 
-Supporters argue that interpretability could eventually provide an "AI MRI" capable of revealing hidden goals, deceptive planning, or dangerous reasoning before catastrophe occurs. Progress on sparse autoencoders, feature discovery, and circuit analysis is often cited as evidence that the field is moving in that direction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://transformer-circuits.pub/2024/july-update/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: transformer-circuits.pub">[transformer-circuits.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">transformer-circuits.pub</span><span class="citation-popover-title">Circuits Updates</span><span class="citation-popover-snippet">In a linear representation, each feature f i f_i...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/research/team/interpretability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-snippet">Interpretability ResearchThe mission of the Interpretability team is to discover and understand how large language models work internally...</span></span></span>
+Supporters argue that interpretability could eventually provide an "AI MRI" capable of revealing [hidden goals]({{ 'hidden-goals/' | relative_url }}), deceptive planning, or dangerous reasoning before catastrophe occurs. Progress on sparse autoencoders, feature discovery, and circuit analysis is often cited as evidence that the field is moving in that direction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://transformer-circuits.pub/2024/july-update/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: transformer-circuits.pub">[transformer-circuits.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">transformer-circuits.pub</span><span class="citation-popover-title">Circuits Updates</span><span class="citation-popover-snippet">In a linear representation, each feature f i f_i...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/research/team/interpretability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-snippet">Interpretability ResearchThe mission of the Interpretability team is to discover and understand how large language models work internally...</span></span></span>
 
 Sceptics do not necessarily deny the value of interpretability. Instead, many question whether it can scale quickly enough. Frontier models already contain enormous numbers of interacting features, and future systems may be substantially more complex still. Even optimistic researchers frequently describe interpretability as being in an early stage relative to the scale of the systems being studied. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://transformer-circuits.pub/2024/scaling-monosemanticity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: transformer-circuits.pub">[transformer-circuits.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">transformer-circuits.pub</span><span class="citation-popover-title">scaling monosemanticity</span><span class="citation-popover-snippet">Extracting Interpretable Features from Claude 3 Sonnet21 May 2024 — Eight months ago, we demonstrated that sparse autoencoders could reco...</span><span class="citation-popover-meta">Published: May 2024</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/research/toy-models-of-superposition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-title">toy models of superposition</span><span class="citation-popover-snippet">14 Sept 2022 — In this paper, we use toy models — small ReLU networks trained on synthetic data with sparse input features — to investiga...</span></span></span>
 
@@ -794,214 +794,214 @@ For AI doom discussions, this creates an uncomfortable possibility. If mechanist
 1. <a id="endnote-1"></a>
    Source: anthropic.com  
    Title: Mapping the Mind of a Large Language Model  
-   Link: [https://www.anthropic.com/research/mapping-mind-language-model](https://www.anthropic.com/research/mapping-mind-language-model)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AnthropicMapping the Mind of a Large Language ModelMay 21, 2024 — We have identified how millions of concepts are represented inside Clau...</p></details>
+   Link: <a href="https://www.anthropic.com/research/mapping-mind-language-model" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/research/mapping-mind-language-model</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mapping the Mind of a Large Language ModelMay 21, 2024 — We have identified how millions of concepts are represented inside Clau...</p></details>
    Published: May 21, 2024  
 
 2. <a id="endnote-2"></a>
    Source: transformer-circuits.pub  
    Title: scaling monosemanticity  
-   Link: [https://transformer-circuits.pub/2024/scaling-monosemanticity/](https://transformer-circuits.pub/2024/scaling-monosemanticity/)  
+   Link: <a href="https://transformer-circuits.pub/2024/scaling-monosemanticity/" target="_blank" rel="noopener noreferrer nofollow">https://transformer-circuits.pub/2024/scaling-monosemanticity/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Extracting Interpretable Features from Claude 3 Sonnet21 May 2024 — Eight months ago, we demonstrated that sparse autoencoders could reco...</p></details>
    Published: May 2024  
 
 3. <a id="endnote-3"></a>
    Source: anthropic.com  
    Title: towards monosemanticity decomposing language models with dictionary learning  
-   Link: [https://www.anthropic.com/research/towards-monosemanticity-decomposing-language-models-with-dictionary-learning](https://www.anthropic.com/research/towards-monosemanticity-decomposing-language-models-with-dictionary-learning)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AnthropicDecomposing Language Models With Dictionary Learning5 Oct 2023 — In our latest paper, Towards Monosemanticity: Decomposing Langu...</p></details>
+   Link: <a href="https://www.anthropic.com/research/towards-monosemanticity-decomposing-language-models-with-dictionary-learning" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/research/towards-monosemanticity-decomposing-language-models-with-dictionary-learning</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Decomposing Language Models With Dictionary Learning5 Oct 2023 — In our latest paper, Towards Monosemanticity: Decomposing Langu...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2407.02646v2](https://arxiv.org/html/2407.02646v2)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivA Practical Review of Mechanistic Interpretability for...10 Mar 2025 — Our survey brings a unique perspective of task-centric surve...</p></details>
+   Link: <a href="https://arxiv.org/html/2407.02646v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2407.02646v2</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Practical Review of Mechanistic Interpretability for...10 Mar 2025 — Our survey brings a unique perspective of task-centric surve...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: transformer-circuits.pub  
-   Link: [https://transformer-circuits.pub/2022/toy_model/index.html](https://transformer-circuits.pub/2022/toy_model/index.html)  
+   Link: <a href="https://transformer-circuits.pub/2022/toy_model/index.html" target="_blank" rel="noopener noreferrer nofollow">https://transformer-circuits.pub/2022/toy_model/index.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Toy Models of SuperpositionSep 14, 2022 — In this paper, we use toy models — small ReLU networks trained on [synthetic data](&amp;#123;&amp;#123; &#x27;synthetic-data/&#x27; | relative_url &amp;#125;&amp;#125;) with sparse in...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: anthropic.com  
    Title: superposition memorization and double descent  
-   Link: [https://www.anthropic.com/research/superposition-memorization-and-double-descent](https://www.anthropic.com/research/superposition-memorization-and-double-descent)  
+   Link: <a href="https://www.anthropic.com/research/superposition-memorization-and-double-descent" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/research/superposition-memorization-and-double-descent</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Superposition, Memorization, and Double Descent5 Jan 2023 — In a recent paper, we found that simple neural networks trained on toy tasks...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2309.08600](https://arxiv.org/abs/2309.08600)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivSparse Autoencoders Find Highly Interpretable Features in...by H Cunningham · 2023 · Cited by 1050 — These autoencoders learn sets...</p></details>
+   Link: <a href="https://arxiv.org/abs/2309.08600" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2309.08600</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sparse Autoencoders Find Highly Interpretable Features in...by H Cunningham · 2023 · Cited by 1050 — These autoencoders learn sets...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: transformer-circuits.pub  
-   Link: [https://transformer-circuits.pub/](https://transformer-circuits.pub/)  
+   Link: <a href="https://transformer-circuits.pub/" target="_blank" rel="noopener noreferrer nofollow">https://transformer-circuits.pub/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Transformer Circuits ThreadAnthropic&#x27;s Interpretability Research. A surprising fact about modern large language models is that nobody rea...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2407.00886](https://arxiv.org/abs/2407.00886)  
+   Link: <a href="https://arxiv.org/abs/2407.00886" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2407.00886</a>  
 
 10. <a id="endnote-10"></a>
    Source: OpenAI  
    Title: language models can explain neurons in language models  
-   Link: [https://openai.com/index/language-models-can-explain-neurons-in-language-models/](https://openai.com/index/language-models-can-explain-neurons-in-language-models/)  
+   Link: <a href="https://openai.com/index/language-models-can-explain-neurons-in-language-models/" target="_blank" rel="noopener noreferrer nofollow">https://openai.com/index/language-models-can-explain-neurons-in-language-models/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Language models can explain neurons in...9 May 2023 — We use GPT-4 to automatically write explanations for the behavior of neurons in la...</p></details>
    Published: May 2023  
 
 11. <a id="endnote-11"></a>
    Source: openaipublic.blob.core.windows.net  
-   Link: [https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html](https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html)  
+   Link: <a href="https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html" target="_blank" rel="noopener noreferrer nofollow">https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Language models can explain neurons in language models9 May 2023 — This paper applies automation to the problem of scaling an interpretab...</p></details>
    Published: May 2023  
 
 12. <a id="endnote-12"></a>
    Source: anthropic.com  
    Title: engineering challenges interpretability  
-   Link: [https://www.anthropic.com/research/engineering-challenges-interpretability](https://www.anthropic.com/research/engineering-challenges-interpretability)  
+   Link: <a href="https://www.anthropic.com/research/engineering-challenges-interpretability" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/research/engineering-challenges-interpretability</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The engineering challenges of scaling interpretabilityJun 13, 2024 — Our Sparse Autoencoders—the tools we use to investigate “features”—a...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2602.11180](https://arxiv.org/abs/2602.11180)  
+   Link: <a href="https://arxiv.org/abs/2602.11180" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2602.11180</a>  
 
 14. <a id="endnote-14"></a>
    Source: transformer-circuits.pub  
    Title: monosemantic features  
-   Link: [https://transformer-circuits.pub/2023/monosemantic-features](https://transformer-circuits.pub/2023/monosemantic-features)  
+   Link: <a href="https://transformer-circuits.pub/2023/monosemantic-features" target="_blank" rel="noopener noreferrer nofollow">https://transformer-circuits.pub/2023/monosemantic-features</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Decomposing Language Models With Dictionary Learning4 Oct 2023 — In this paper, we use a weak dictionary learning algorithm called a spar...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: transformer-circuits.pub  
    Title: Circuits Updates  
-   Link: [https://transformer-circuits.pub/2024/july-update/index.html](https://transformer-circuits.pub/2024/july-update/index.html)  
+   Link: <a href="https://transformer-circuits.pub/2024/july-update/index.html" target="_blank" rel="noopener noreferrer nofollow">https://transformer-circuits.pub/2024/july-update/index.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In a linear representation, each feature f i f_i...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: anthropic.com  
-   Link: [https://www.anthropic.com/research/team/interpretability](https://www.anthropic.com/research/team/interpretability)  
+   Link: <a href="https://www.anthropic.com/research/team/interpretability" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/research/team/interpretability</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Interpretability ResearchThe mission of the Interpretability team is to discover and understand how large language models work internally...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: anthropic.com  
    Title: toy models of superposition  
-   Link: [https://www.anthropic.com/research/toy-models-of-superposition](https://www.anthropic.com/research/toy-models-of-superposition)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>14 Sept 2022 — In this paper, we use toy models — small ReLU networks trained on [synthetic](&amp;#123;&amp;#123; &#x27;synthetic-data/&#x27; | relative_url &amp;#125;&amp;#125;) data with sparse input features — to investiga...</p></details>
+   Link: <a href="https://www.anthropic.com/research/toy-models-of-superposition" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/research/toy-models-of-superposition</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>14 Sept 2022 — In this paper, we use toy models — small ReLU networks trained on synthetic data with sparse input features — to investiga...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: anthropic.com  
-   Link: [https://www.anthropic.com/research/decomposing-language-models-into-understandable-components](https://www.anthropic.com/research/decomposing-language-models-into-understandable-components)  
+   Link: <a href="https://www.anthropic.com/research/decomposing-language-models-into-understandable-components" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/research/decomposing-language-models-into-understandable-components</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Decomposing Language Models Into Understandable...Oct 5, 2023 — This work is a result of Anthropic&#x27;s investment in Mechanistic Interpret...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: arxiv.org  
    Title: features in large language models via sparse autoencoders.Read more  
-   Link: [https://arxiv.org/html/2503.05613v3](https://arxiv.org/html/2503.05613v3)  
+   Link: <a href="https://arxiv.org/html/2503.05613v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2503.05613v3</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Survey on Sparse Autoencoders: Interpreting the Internal...23 Sept 2025 — Towards monosemanticity: Decomposing language models with di...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2310.06200v1](https://arxiv.org/html/2310.06200v1)  
+   Link: <a href="https://arxiv.org/html/2310.06200v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2310.06200v1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Importance of Prompt Tuning for Automated Neuron...In bills2023language, the team from OpenAI showcases that GPT-4 can be useful in...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: github.com  
-   Link: [https://github.com/openai/automated-interpretability](https://github.com/openai/automated-interpretability)  
+   Link: <a href="https://github.com/openai/automated-interpretability" target="_blank" rel="noopener noreferrer nofollow">https://github.com/openai/automated-interpretability</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>openai/automated-interpretabilityThis repository contains code and tools associated with the Language models can explain neurons in langu...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: galileo.ai  
    Title: anthropic ai interpretability breakthrough  
-   Link: [https://galileo.ai/blog/anthropic-ai-interpretability-breakthrough](https://galileo.ai/blog/anthropic-ai-interpretability-breakthrough)  
+   Link: <a href="https://galileo.ai/blog/anthropic-ai-interpretability-breakthrough" target="_blank" rel="noopener noreferrer nofollow">https://galileo.ai/blog/anthropic-ai-interpretability-breakthrough</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Anthropic Made AI 70% More Interpretable1 Aug 2025 — Discover Anthropic&#x27;s breakthrough: sparse autoencoders make AI 70% interpretable...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Anthropic](https://en.wikipedia.org/wiki/Anthropic)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AnthropicAnthropic is an American [artificial](&amp;#123;&amp;#123; &#x27;artificial-goals/&#x27; | relative_url &amp;#125;&amp;#125;) intelligence (AI) company headquartered in San Francisco. It has developed a range of lar...</p></details>
+   Link: <a href="https://en.wikipedia.org/wiki/Anthropic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anthropic</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AnthropicAnthropic is an American artificial intelligence (AI) company headquartered in San Francisco. It has developed a range of lar...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: strikingloo.github.io  
-   Link: [https://strikingloo.github.io/wiki/monosemanticity](https://strikingloo.github.io/wiki/monosemanticity)  
+   Link: <a href="https://strikingloo.github.io/wiki/monosemanticity" target="_blank" rel="noopener noreferrer nofollow">https://strikingloo.github.io/wiki/monosemanticity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Towards MonosemanticityOct 5, 2023 — In this paper, we use a weak dictionary learning algorithm called a sparse autoencoder to generate l...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/warren-wong-code_ai-machinelearning-interpretability-activity-7341814151171723264-1VN9](https://www.linkedin.com/posts/warren-wong-code_ai-machinelearning-interpretability-activity-7341814151171723264-1VN9)  
+   Link: <a href="https://www.linkedin.com/posts/warren-wong-code_ai-machinelearning-interpretability-activity-7341814151171723264-1VN9" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/warren-wong-code_ai-machinelearning-interpretability-activity-7341814151171723264-1VN9</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OpenAI&#x27;s Automated Interpretability: Explaining Neurons in...Jun 20, 2025 — OpenAI&#x27;s 2023 paper, &quot;Language Models Can Explain Neurons in...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: techcrunch.com  
-   Link: [https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/](https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/)  
+   Link: <a href="https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/" target="_blank" rel="noopener noreferrer nofollow">https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/</a>  
 
 27. <a id="endnote-27"></a>
    Source: theorempath.com  
    Title: mechanistic interpretability  
-   Link: [https://theorempath.com/topics/mechanistic-interpretability](https://theorempath.com/topics/mechanistic-interpretability)  
+   Link: <a href="https://theorempath.com/topics/mechanistic-interpretability" target="_blank" rel="noopener noreferrer nofollow">https://theorempath.com/topics/mechanistic-interpretability</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Features, Circuits, SAEsby R Sneiderman · 2026 — Mechanistic interpretability for transformers: superposition, sparse autoencoders, the l...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/datasciencedojo/posts/-openai-just-released-a-groundbreaking-paper-that-pushes-mechanistic-interpretab/860302616519891/](https://www.facebook.com/datasciencedojo/posts/-openai-just-released-a-groundbreaking-paper-that-pushes-mechanistic-interpretab/860302616519891/)  
+   Link: <a href="https://www.facebook.com/datasciencedojo/posts/-openai-just-released-a-groundbreaking-paper-that-pushes-mechanistic-interpretab/860302616519891/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/datasciencedojo/posts/-openai-just-released-a-groundbreaking-paper-that-pushes-mechanistic-interpretab/860302616519891/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OpenAI just released a groundbreaking paper that pushes...Language models can explain neurons in language models use GPT-4 to automatica...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: simonwillison.net  
-   Link: [https://simonwillison.net/2023/May/9/explain-neurons/](https://simonwillison.net/2023/May/9/explain-neurons/)  
+   Link: <a href="https://simonwillison.net/2023/May/9/explain-neurons/" target="_blank" rel="noopener noreferrer nofollow">https://simonwillison.net/2023/May/9/explain-neurons/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 9, 2023 — “We generated cluster labels by embedding each neuron explanation using the OpenAI Embeddings API, then clustering them and...</p></details>
    Published: May 9, 2023  
 
 30. <a id="endnote-30"></a>
    Source: aarnphm.xyz  
    Title: mechanistic interpretability  
-   Link: [https://aarnphm.xyz/thoughts/mechanistic-interpretability](https://aarnphm.xyz/thoughts/mechanistic-interpretability)  
+   Link: <a href="https://aarnphm.xyz/thoughts/mechanistic-interpretability" target="_blank" rel="noopener noreferrer nofollow">https://aarnphm.xyz/thoughts/mechanistic-interpretability</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aaron&#x27;s notesJan 6, 2026 — This greatly simplifies resulting circuits by: Handling cross-layer superposition directly; Allowing features...</p></details>
 
 ### Additional References
 
 31. <a id="endnote-31"></a>
    Source: github.com  
-   Link: [https://github.com/zepingyu0512/awesome-llm-understanding-mechanism](https://github.com/zepingyu0512/awesome-llm-understanding-mechanism)  
+   Link: <a href="https://github.com/zepingyu0512/awesome-llm-understanding-mechanism" target="_blank" rel="noopener noreferrer nofollow">https://github.com/zepingyu0512/awesome-llm-understanding-mechanism</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Awesome Papers for Understanding LLM MechanismThis list focuses on understanding the internal mechanism of large language models (LLM). W...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: tryalign.ai  
-   Link: [https://tryalign.ai/resources/blog/scaling-monosemanticity-extracting-interpretable-features-from-claude-3-sonnet](https://tryalign.ai/resources/blog/scaling-monosemanticity-extracting-interpretable-features-from-claude-3-sonnet)  
+   Link: <a href="https://tryalign.ai/resources/blog/scaling-monosemanticity-extracting-interpretable-features-from-claude-3-sonnet" target="_blank" rel="noopener noreferrer nofollow">https://tryalign.ai/resources/blog/scaling-monosemanticity-extracting-interpretable-features-from-claude-3-sonnet</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Extracting Interpretable Features from Claude 3 SonnetThe Anthropic research team managed to extract interpretable features from the acti...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Futurology/comments/13d8m62/language_models_can_explain_neurons_in_language/](https://www.reddit.com/r/Futurology/comments/13d8m62/language_models_can_explain_neurons_in_language/)  
+   Link: <a href="https://www.reddit.com/r/Futurology/comments/13d8m62/language_models_can_explain_neurons_in_language/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/13d8m62/language_models_can_explain_neurons_in_language/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Language models can explain neurons in language modelsWe propose an automated process that uses GPT-4 to produce and score natural langua...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: krmopuri.github.io  
-   Link: [https://krmopuri.github.io/xml/static_files/presentations/MI-Pranav.pdf](https://krmopuri.github.io/xml/static_files/presentations/MI-Pranav.pdf)  
+   Link: <a href="https://krmopuri.github.io/xml/static_files/presentations/MI-Pranav.pdf" target="_blank" rel="noopener noreferrer nofollow">https://krmopuri.github.io/xml/static_files/presentations/MI-Pranav.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanistic InterpretabilityGPT circuits are understood as compositions of two “atomic” circuits, the “query-key” and. “output-value” cir...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: medium.com  
-   Link: [https://medium.com/thedeephub/understanding-the-scaling-of-monosemanticity-in-ai-models-a-comprehensive-analysis-f72818fa44ca](https://medium.com/thedeephub/understanding-the-scaling-of-monosemanticity-in-ai-models-a-comprehensive-analysis-f72818fa44ca)  
+   Link: <a href="https://medium.com/thedeephub/understanding-the-scaling-of-monosemanticity-in-ai-models-a-comprehensive-analysis-f72818fa44ca" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/thedeephub/understanding-the-scaling-of-monosemanticity-in-ai-models-a-comprehensive-analysis-f72818fa44ca</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the “Scaling of Monosemanticity” in AI ModelsA particular aspect of AI is called monosemanticity, where parts of an AI syst...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: lsd-project.jp  
-   Link: [https://lsd-project.jp/weblsd/o/begin/mechanistic](https://lsd-project.jp/weblsd/o/begin/mechanistic)  
+   Link: <a href="https://lsd-project.jp/weblsd/o/begin/mechanistic" target="_blank" rel="noopener noreferrer nofollow">https://lsd-project.jp/weblsd/o/begin/mechanistic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ライフサイエンス辞書: mechanistic機構 の, メカニズム の, 機構的 な. 【類義語】machinery, mechanism, mechanistically, organization. mechanistic insight *** コーパス PubMe...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/programming/comments/185gcbc/god_help_us_lets_try_to_understand_ai/](https://www.reddit.com/r/programming/comments/185gcbc/god_help_us_lets_try_to_understand_ai/)  
+   Link: <a href="https://www.reddit.com/r/programming/comments/185gcbc/god_help_us_lets_try_to_understand_ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/programming/comments/185gcbc/god_help_us_lets_try_to_understand_ai/</a>  
 
 38. <a id="endnote-38"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=XrCq3pQJS6w](https://www.youtube.com/watch?v=XrCq3pQJS6w)  
+   Link: <a href="https://www.youtube.com/watch?v=XrCq3pQJS6w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XrCq3pQJS6w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ACM AI | Reading Group W24W5 | Mechanistic Interpretability...This week, with William Zhou, we take a deep dive into mechanistic intepre...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=vFdVrX503W0](https://www.youtube.com/watch?v=vFdVrX503W0)  
+   Link: <a href="https://www.youtube.com/watch?v=vFdVrX503W0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vFdVrX503W0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Language Models Can Explain Neurons in Language ModelsIn this paper reading we discuss OpenAI&#x27;s paper &quot;Language Models Can Explain Neuron...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=qMBWbJQ3b2g](https://www.youtube.com/watch?v=qMBWbJQ3b2g)  
+   Link: <a href="https://www.youtube.com/watch?v=qMBWbJQ3b2g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qMBWbJQ3b2g</a>  

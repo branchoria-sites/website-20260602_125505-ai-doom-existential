@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72a06a_chip_manufact_915c39
 - AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72a06a_software_effi_2bba9e
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - ai-takeoff
 - compute-brakes
 - power-limits
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - ai-takeoff
 - compute-brakes
 - power-limits
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Power grids and cooling systems may become slower to expand than AI software capabilities.
 hero_summary: Power grids and cooling systems may become slower to expand than AI software capabilities.
 layout: default
 permalink: /power-limits/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /ai-takeoff/
 - /compute-brakes/
 nav_short_title: Power Limits
@@ -211,10 +211,10 @@ parent_heading_title: Can compute bottlenecks stop an intelligence explosion?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_recursive_imp_3a3504
-  title: AI Takeoff | AI Doom and
+  title: AI Takeoff | AI Doom and E 87399 b
   permalink: /ai-takeoff/
   short_title: AI Takeoff
   heading_title: Could AI Improvement Run Away From US?
@@ -226,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_recursive_imp_3a3504
-  title: AI Takeoff | AI Doom and
+  title: AI Takeoff | AI Doom and E 87399 b
   permalink: /ai-takeoff/
   short_title: AI Takeoff
   heading_title: Could AI Improvement Run Away From US?
@@ -269,11 +269,11 @@ image: /assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72
 
 ## Introduction
 
-Could electricity shortages slow a runaway AI race? Possibly. Among the various compute bottlenecks discussed in debates about [AI doom and]({{ 'ai-doom-and/' | relative_url }}) intelligence explosions, electricity is one of the most concrete. Advanced AI systems do not run on abstract computing power. They require vast data centres filled with specialised chips, cooling equipment, networking hardware and, above all, reliable electricity.
+Could electricity shortages slow a runaway AI race? Possibly. Among the various compute bottlenecks discussed in debates about AI doom and intelligence explosions, electricity is one of the most concrete. Advanced AI systems do not run on abstract computing power. They require vast data centres filled with specialised chips, cooling equipment, networking hardware and, above all, reliable electricity.
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72a06a_electricity_b_6772c2-Illustration-1-dark.svg" | relative_url }}" alt="Power Limits illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72a06a_electricity_b_6772c2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72a06a_electricity_b_6772c2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because some [AI takeoff]({{ 'ai-takeoff/' | relative_url }}) scenarios assume that capability gains can compound rapidly once AI systems begin automating [AI research]({{ 'ai-research-loop/' | relative_url }}). Even if that is technically possible, the resulting systems would still need somewhere to run. If electrical infrastructure expands more slowly than AI software capabilities, power availability could become a brake on capability growth, buying time for safety work, monitoring and coordination. On the other hand, if energy systems adapt quickly enough, electricity may slow AI progress only modestly rather than preventing a rapid acceleration. The evidence so far suggests that power constraints are real and already affecting AI infrastructure projects, but it remains unclear whether they are strong enough to stop a potential intelligence explosion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iea.org">[IEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iea.org</span><span class="citation-popover-title">energy demand from ai</span><span class="citation-popover-snippet">IEAEnergy demand from AI – Energy and AI – AnalysisFrom 2024 to 2030, data centre electricity consumption grows by around 15% per year, m...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.datacenterknowledge.com/energy-power-supply/why-ai-data-center-projects-face-years-of-delays-after-approval" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datacenterknowledge.com">[DataCenterKnowledge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datacenterknowledge.com</span><span class="citation-popover-snippet">DataCenterKnowledgeWhy AI Data Center Projects Face Years of Delays After...5 days ago — New PJM data reveals AI infrastructure projects...</span></span></span>
+This matters because some [AI takeoff]({{ 'ai-takeoff/' | relative_url }}) scenarios assume that capability gains can compound rapidly once AI systems begin automating AI research. Even if that is technically possible, the resulting systems would still need somewhere to run. If electrical infrastructure expands more slowly than AI software capabilities, power availability could become a brake on capability growth, buying time for safety work, [monitoring]({{ 'monitoring/' | relative_url }}) and coordination. On the other hand, if energy systems adapt quickly enough, electricity may slow AI progress only modestly rather than preventing a rapid acceleration. The evidence so far suggests that power constraints are real and already affecting AI infrastructure projects, but it remains unclear whether they are strong enough to stop a potential intelligence explosion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iea.org">[IEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iea.org</span><span class="citation-popover-title">energy demand from ai</span><span class="citation-popover-snippet">Energy demand from AI – Energy and AI – AnalysisFrom 2024 to 2030, data centre electricity consumption grows by around 15% per year, m...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.datacenterknowledge.com/energy-power-supply/why-ai-data-center-projects-face-years-of-delays-after-approval" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datacenterknowledge.com">[DataCenterKnowledge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datacenterknowledge.com</span><span class="citation-popover-snippet">Why AI Data Center Projects Face Years of Delays After...5 days ago — New PJM data reveals AI infrastructure projects...</span></span></span>
 
 ## Why AI clusters strain electricity networks
 
@@ -292,9 +292,9 @@ From an AI-doom perspective, this creates an important implementation constraint
 
 The strongest evidence for electricity as a practical constraint comes from current infrastructure projects.
 
-In many regions, developers can obtain funding, land and equipment but still face years-long waits for grid connections. Recent reporting on major electricity markets shows AI-related projects spending long periods in interconnection queues, with some facilities waiting years after receiving approval before they can actually obtain power. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.datacenterknowledge.com/energy-power-supply/why-ai-data-center-projects-face-years-of-delays-after-approval" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datacenterknowledge.com">[DataCenterKnowledge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datacenterknowledge.com</span><span class="citation-popover-snippet">DataCenterKnowledgeWhy AI Data Center Projects Face Years of Delays After...5 days ago — New PJM data reveals AI infrastructure projects...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://qz.com/us-power-grid-ai-data-center-demand-constraints-051326" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qz.com">[Quartz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qz.com</span><span class="citation-popover-title">Quartz AI data centers have U.S</span><span class="citation-popover-snippet">power grid struggling to keep up2 days ago — The time projects spend in queues before reaching commercial operation has doubled, from les...</span></span></span>
+In many regions, developers can obtain funding, land and equipment but still face years-long waits for grid connections. Recent reporting on major electricity markets shows AI-related projects spending long periods in interconnection queues, with some facilities waiting years after receiving approval before they can actually obtain power. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.datacenterknowledge.com/energy-power-supply/why-ai-data-center-projects-face-years-of-delays-after-approval" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datacenterknowledge.com">[DataCenterKnowledge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datacenterknowledge.com</span><span class="citation-popover-snippet">Why AI Data Center Projects Face Years of Delays After...5 days ago — New PJM data reveals AI infrastructure projects...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://qz.com/us-power-grid-ai-data-center-demand-constraints-051326" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qz.com">[Quartz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qz.com</span><span class="citation-popover-title">Quartz AI data centers have U.S</span><span class="citation-popover-snippet">power grid struggling to keep up2 days ago — The time projects spend in queues before reaching commercial operation has doubled, from les...</span></span></span>
 
-Some industry analyses report that grid energisation can take up to a decade in particularly constrained locations. Transformer shortages, transmission upgrades and utility approval processes have emerged as recurring obstacles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.datacenterknowledge.com/energy-power-supply/why-ai-data-center-projects-face-years-of-delays-after-approval" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datacenterknowledge.com">[DataCenterKnowledge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datacenterknowledge.com</span><span class="citation-popover-snippet">DataCenterKnowledgeWhy AI Data Center Projects Face Years of Delays After...5 days ago — New PJM data reveals AI infrastructure projects...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techinvestments.io/p/power-bottlenecks-and-the-ai-data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techinvestments.io">[Tech Investments]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techinvestments.io</span><span class="citation-popover-title">power bottlenecks and the ai data</span><span class="citation-popover-snippet">Power Bottlenecks &amp; The AI Data Center9 May 2026 — “A 5-year backlog on grid transformers just killed half of America&#x27;s 2026 AI data cent...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+Some industry analyses report that grid energisation can take up to a decade in particularly constrained locations. Transformer shortages, transmission upgrades and utility approval processes have emerged as recurring obstacles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.datacenterknowledge.com/energy-power-supply/why-ai-data-center-projects-face-years-of-delays-after-approval" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datacenterknowledge.com">[DataCenterKnowledge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datacenterknowledge.com</span><span class="citation-popover-snippet">Why AI Data Center Projects Face Years of Delays After...5 days ago — New PJM data reveals AI infrastructure projects...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techinvestments.io/p/power-bottlenecks-and-the-ai-data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techinvestments.io">[Tech Investments]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techinvestments.io</span><span class="citation-popover-title">power bottlenecks and the ai data</span><span class="citation-popover-snippet">Power Bottlenecks &amp; The AI Data Center9 May 2026 — “A 5-year backlog on grid transformers just killed half of America&#x27;s 2026 AI data cent...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 The pattern is visible internationally. Proposed AI facilities in North America, Europe and Australia increasingly encounter disputes over electricity availability, transmission capacity, environmental impacts and local resource use. Researchers modelling AI infrastructure growth have identified regions such as Virginia, Oregon and Ireland as particularly vulnerable to local power-system stress because of concentrated data-centre development. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.03090" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv From Barrier to Bridge: The Case for AI Data Center/Power Grid Co-Design</span><span class="citation-popover-snippet">arXiv From Barrier to Bridge: The Case for AI Data Center/Power Grid Co-Design</span></span></span>
 
@@ -311,14 +311,14 @@ Those who think power could significantly slow an AI takeoff point to several fa
 
 * Electricity demand is growing faster than grid infrastructure in many regions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iea.org/news/ai-is-set-to-drive-surging-electricity-demand-from-data-centres-while-offering-the-potential-to-transform-how-the-energy-sector-works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iea.org">[IEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iea.org</span><span class="citation-popover-snippet">AI is set to drive surging electricity demand from data...10 Apr 2025 — It projects that electricity demand from data centres worldwide...</span></span></span>
 * Large numbers of proposed AI facilities have been delayed because of power availability problems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2026/02/24/ai-data-center-boom-projects-numbers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Global AI data center boom hits delays</span><span class="citation-popover-snippet">These disruptions highlight the increasing stress on electrical infrastructure, caused by energy-intensive data centers, leading to power...</span></span></span>
-* Critical equipment such as transformers, switchgear and grid connections often have long lead times. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.datacenterknowledge.com/energy-power-supply/why-ai-data-center-projects-face-years-of-delays-after-approval" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datacenterknowledge.com">[DataCenterKnowledge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datacenterknowledge.com</span><span class="citation-popover-snippet">DataCenterKnowledgeWhy AI Data Center Projects Face Years of Delays After...5 days ago — New PJM data reveals AI infrastructure projects...</span></span></span>
+* Critical equipment such as transformers, switchgear and grid connections often have long lead times. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.datacenterknowledge.com/energy-power-supply/why-ai-data-center-projects-face-years-of-delays-after-approval" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datacenterknowledge.com">[DataCenterKnowledge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datacenterknowledge.com</span><span class="citation-popover-snippet">Why AI Data Center Projects Face Years of Delays After...5 days ago — New PJM data reveals AI infrastructure projects...</span></span></span>
 * Concentrating huge amounts of compute in a few locations can create local grid stress even when national electricity supply appears adequate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.03090" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv From Barrier to Bridge: The Case for AI Data Center/Power Grid Co-Design</span><span class="citation-popover-snippet">arXiv From Barrier to Bridge: The Case for AI Data Center/Power Grid Co-Design</span></span></span>
 
-Under this view, AI capabilities might continue improving rapidly in software while physical [deployment]({{ 'release-gates/' | relative_url }}) lags behind. A system that designs better algorithms does not instantly create additional gigawatts of power generation.
+Under this view, AI capabilities might continue improving rapidly in software while physical deployment lags behind. A system that designs better algorithms does not instantly create additional gigawatts of power generation.
 
-However, critics of the "electricity as a hard limit" argument note that markets respond to shortages. Utilities are expanding generation plans, energy companies are targeting AI demand directly, and data-centre operators are increasingly exploring dedicated power sources, microgrids and on-site generation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.datacenterknowledge.com/energy-power-supply/why-ai-data-center-projects-face-years-of-delays-after-approval" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datacenterknowledge.com">[DataCenterKnowledge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datacenterknowledge.com</span><span class="citation-popover-snippet">DataCenterKnowledgeWhy AI Data Center Projects Face Years of Delays After...5 days ago — New PJM data reveals AI infrastructure projects...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.investors.com/research/the-new-america/sei-stock-solaris-energy-data-centers-ai/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: investors.com">[Investors.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">investors.com</span><span class="citation-popover-snippet">Despite this customer concentration risk, demand for faster and reliable power solutions is accelerating. U.S. data center energy use is...</span></span></span>
+However, critics of the "electricity as a hard limit" argument note that markets respond to shortages. Utilities are expanding generation plans, energy companies are targeting AI demand directly, and data-centre operators are increasingly exploring dedicated power sources, microgrids and on-site generation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.datacenterknowledge.com/energy-power-supply/why-ai-data-center-projects-face-years-of-delays-after-approval" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datacenterknowledge.com">[DataCenterKnowledge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datacenterknowledge.com</span><span class="citation-popover-snippet">Why AI Data Center Projects Face Years of Delays After...5 days ago — New PJM data reveals AI infrastructure projects...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.investors.com/research/the-new-america/sei-stock-solaris-energy-data-centers-ai/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: investors.com">[Investors.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">investors.com</span><span class="citation-popover-snippet">Despite this customer concentration risk, demand for faster and reliable power solutions is accelerating. U.S. data center energy use is...</span></span></span>
 
-Some analysts argue that headline estimates of future electricity demand may overstate near-term pressure because many announced projects are delayed, cancelled or scaled back before construction. Others point to continual improvements in chip efficiency, which reduce electricity required per unit of computation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://itif.org/publications/2026/04/07/four-reasons-new-ai-data-centers-wont-overwhelm-the-electricity-grid/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itif.org">[ITIF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itif.org</span><span class="citation-popover-title">four reasons new ai data centers wont overwhelm the electricity grid</span><span class="citation-popover-snippet">ITIFFour Reasons New AI Data Centers Won&#x27;t Overwhelm...Apr 7, 2026 — As a result, the demand for energy to power new data centers will b...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/business/retail-consumer/energy-use-forcing-rethink-ai-chip-design-tsmc-says-2026-05-28/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Kevin Zhang, TSMC’s Senior VP of Business Development, noted that customers — including those in mobile, IoT, and high-performance AI dat...</span></span></span> This means that electricity shortages may slow AI growth without stopping it.
+Some analysts argue that headline estimates of future electricity demand may overstate near-term pressure because many announced projects are delayed, cancelled or scaled back before construction. Others point to continual improvements in chip efficiency, which reduce electricity required per unit of computation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://itif.org/publications/2026/04/07/four-reasons-new-ai-data-centers-wont-overwhelm-the-electricity-grid/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itif.org">[ITIF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itif.org</span><span class="citation-popover-title">four reasons new ai data centers wont overwhelm the electricity grid</span><span class="citation-popover-snippet">Four Reasons New AI Data Centers Won&#x27;t Overwhelm...Apr 7, 2026 — As a result, the demand for energy to power new data centers will b...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/business/retail-consumer/energy-use-forcing-rethink-ai-chip-design-tsmc-says-2026-05-28/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Kevin Zhang, TSMC’s Senior VP of Business Development, noted that customers — including those in mobile, IoT, and high-performance AI dat...</span></span></span> This means that electricity shortages may slow AI growth without stopping it.
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72a06a_electricity_b_6772c2-Illustration-2-dark.svg" | relative_url }}" alt="Power Limits illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72a06a_electricity_b_6772c2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72a06a_electricity_b_6772c2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -361,7 +361,7 @@ This is why p(doom) estimates rarely depend on electricity alone. Power constrai
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72a06a_electricity_b_6772c2-Illustration-3-dark.svg" | relative_url }}" alt="Power Limits illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72a06a_electricity_b_6772c2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72a06a_electricity_b_6772c2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The bottom line
 
-Electricity shortages are one of the most plausible mechanisms by which compute bottlenecks could slow an AI takeoff. Frontier AI systems increasingly depend on infrastructure whose expansion is measured in years rather than months. Grid interconnection queues, transformer shortages, generation constraints and cooling requirements are already delaying major AI projects in several regions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2026/02/24/ai-data-center-boom-projects-numbers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Global AI data center boom hits delays</span><span class="citation-popover-snippet">These disruptions highlight the increasing stress on electrical infrastructure, caused by energy-intensive data centers, leading to power...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.datacenterknowledge.com/energy-power-supply/why-ai-data-center-projects-face-years-of-delays-after-approval" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datacenterknowledge.com">[3DataCenterKnowledge 3DataCenterKnowledge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datacenterknowledge.com</span><span class="citation-popover-snippet">DataCenterKnowledgeWhy AI Data Center Projects Face Years of Delays After...5 days ago — New PJM data reveals AI infrastructure projects...</span></span></span>
+Electricity shortages are one of the most plausible mechanisms by which compute bottlenecks could slow an AI takeoff. Frontier AI systems increasingly depend on infrastructure whose expansion is measured in years rather than months. Grid interconnection queues, transformer shortages, generation constraints and cooling requirements are already delaying major AI projects in several regions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2026/02/24/ai-data-center-boom-projects-numbers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Global AI data center boom hits delays</span><span class="citation-popover-snippet">These disruptions highlight the increasing stress on electrical infrastructure, caused by energy-intensive data centers, leading to power...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.datacenterknowledge.com/energy-power-supply/why-ai-data-center-projects-face-years-of-delays-after-approval" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datacenterknowledge.com">[3DataCenterKnowledge 3DataCenterKnowledge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datacenterknowledge.com</span><span class="citation-popover-snippet">Why AI Data Center Projects Face Years of Delays After...5 days ago — New PJM data reveals AI infrastructure projects...</span></span></span>
 
 The key [uncertainty]({{ 'uncertainty/' | relative_url }}) is scale. Current evidence suggests that power constraints are slowing some AI infrastructure build-outs, but not stopping them. Energy companies, utilities and technology firms are investing heavily to overcome these limits, while chip designers continue improving efficiency. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/business/retail-consumer/energy-use-forcing-rethink-ai-chip-design-tsmc-says-2026-05-28/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Kevin Zhang, TSMC’s Senior VP of Business Development, noted that customers — including those in mobile, IoT, and high-performance AI dat...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iea.org/reports/energy-and-ai/energy-supply-for-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iea.org">[BlackRock As a result]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iea.org</span><span class="citation-popover-title">energy supply for ai</span><span class="citation-popover-snippet">Global electricity generation to supply data centres is projected to grow from 460 TWh in 2024 to over 1 000 TWh in 2030 and 1 300 TWh in...</span></span></span>, electricity appears more likely to be a brake than a wall: a factor that could slow the pace of capability growth and lengthen the timeline for potential AI takeoff, without necessarily preventing highly capable systems from emerging. IEA <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.blackrock.com/us/individual/insights/energy-and-the-ai-buildout" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackrock.com">[BlackRock]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackrock.com</span><span class="citation-popover-title">Black Rock Energy and the AI buildout, an investor&#x27;s view</span><span class="citation-popover-snippet">Energy and the AI buildout, an investor&#x27;s view - BlackRock5 days ago — BlackRock technology investors review how AI is affecting energy d...</span></span></span>
 
@@ -451,7 +451,7 @@ The key [uncertainty]({{ 'uncertainty/' | relative_url }}) is scale. Current evi
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -461,111 +461,36 @@ The key [uncertainty]({{ 'uncertainty/' | relative_url }}) is scale. Current evi
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-could-the-power-grid-slow-a-runaway-ai-race-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HALEY JOEL OSMENT SIGNED ARTIFICIAL INTELLIGENCE AI 12X18 MOVIE POSTER PHOTO BAS"><img src="{{ '/assets/images/marketplace-covers/3d12bbcc085ead81e29b.jpg' | relative_url }}" alt="Listing image for HALEY JOEL OSMENT SIGNED ARTIFICIAL INTELLIGENCE AI 12X18 MOVIE POSTER PHOTO BAS" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-power-grid-slow-a-runaway-ai-race-artificial-intelligence-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence t shirt" data-ebay-reference="could-the-power-grid-slow-a-runaway-ai-race-artificial-intelligence-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Trust Me I Asked AI T-Shirt Funny Artificial intelligence Sizes Small to 5XL"><img src="https://i.ebayimg.com/images/g/25AAAeSw-g1p0B2N/s-l225.jpg" alt="Listing image for Trust Me I Asked AI T-Shirt Funny Artificial intelligence Sizes Small to 5XL" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-could-the-power-grid-slow-a-runaway-ai-race-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">HALEY JOEL OSMENT SIGNED ARTIFICIAL INTELLIGENCE AI 12X18 MOVIE POSTER PHOTO BAS</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-power-grid-slow-a-runaway-ai-race-artificial-intelligence-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence t shirt" data-ebay-reference="could-the-power-grid-slow-a-runaway-ai-race-artificial-intelligence-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Trust Me I Asked AI T-Shirt Funny Artificial intelligence Sizes Small to 5XL</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-could-the-power-grid-slow-a-runaway-ai-race-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.com</span>: artificial intelligence poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-power-grid-slow-a-runaway-ai-race-artificial-intelligence-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence t shirt" data-ebay-reference="could-the-power-grid-slow-a-runaway-ai-race-artificial-intelligence-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-could-the-power-grid-slow-a-runaway-ai-race-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-could-the-power-grid-slow-a-runaway-ai-race-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Artificial Intelligence D/S Original Movie Poster - 27 x 40&quot;"><img src="{{ '/assets/images/marketplace-covers/ee257b4353feff751eb7.jpg' | relative_url }}" alt="Listing image for Artificial Intelligence D/S Original Movie Poster - 27 x 40&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-could-the-power-grid-slow-a-runaway-ai-race-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Artificial Intelligence D/S Original Movie Poster - 27 x 40&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-could-the-power-grid-slow-a-runaway-ai-race-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.com</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-could-the-power-grid-slow-a-runaway-ai-race-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-could-the-power-grid-slow-a-runaway-ai-race-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. ARTIFICIAL INTELLIGENCE Original One Sheet Movie Poster - 2001 - SPIELBERG"><img src="{{ '/assets/images/marketplace-covers/196ffedb43a9555ec05d.jpg' | relative_url }}" alt="Listing image for A.I. ARTIFICIAL INTELLIGENCE Original One Sheet Movie Poster - 2001 - SPIELBERG" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-could-the-power-grid-slow-a-runaway-ai-race-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A.I. ARTIFICIAL INTELLIGENCE Original One Sheet Movie Poster - 2001 - SPIELBERG</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-could-the-power-grid-slow-a-runaway-ai-race-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.com</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-could-the-power-grid-slow-a-runaway-ai-race-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-could-the-power-grid-slow-a-runaway-ai-race-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2001 AI Artificial Intelligence Double Sided 27&quot; x 41&quot; Theatrical Movie Poster"><img src="{{ '/assets/images/marketplace-covers/93c153cc5f9346af0cb8.jpg' | relative_url }}" alt="Listing image for 2001 AI Artificial Intelligence Double Sided 27&quot; x 41&quot; Theatrical Movie Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-could-the-power-grid-slow-a-runaway-ai-race-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">2001 AI Artificial Intelligence Double Sided 27&quot; x 41&quot; Theatrical Movie Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-could-the-power-grid-slow-a-runaway-ai-race-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.com</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-could-the-power-grid-slow-a-runaway-ai-race-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-could-the-power-grid-slow-a-runaway-ai-race-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-could-the-power-grid-slow-a-runaway-ai-race-ai-doom-and-data-center-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Man Using Tablet In Data Center 2 A Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4ad2d1c09e0ab0875a3b.jpg' | relative_url }}" alt="Listing image for Man Using Tablet In Data Center 2 A Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-could-the-power-grid-slow-a-runaway-ai-race-ai-doom-and-data-center-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Man Using Tablet In Data Center 2 A Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-could-the-power-grid-slow-a-runaway-ai-race-ai-doom-and-data-center-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for data center wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: data center wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-could-the-power-grid-slow-a-runaway-ai-race-ai-doom-and-data-center-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-power-grid-slow-a-runaway-ai-race-artificial-intelligence-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence t shirt" data-ebay-reference="could-the-power-grid-slow-a-runaway-ai-race-artificial-intelligence-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -573,15 +498,15 @@ The key [uncertainty]({{ 'uncertainty/' | relative_url }}) is scale. Current evi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-could-the-power-grid-slow-a-runaway-ai-race-ai-doom-and-data-center-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Data Center Garden Work Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/aab23fc66989cb7be41d.jpg' | relative_url }}" alt="Listing image for Data Center Garden Work Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-power-grid-slow-a-runaway-ai-race-artificial-intelligence-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence t shirt" data-ebay-reference="could-the-power-grid-slow-a-runaway-ai-race-artificial-intelligence-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Touch Me I’m Not AI - (Artificial Intelligence) Quality 100% Cotton T-Shirt"><img src="https://i.ebayimg.com/images/g/H0IAAeSwo41qCJyd/s-l225.jpg" alt="Listing image for Touch Me I’m Not AI - (Artificial Intelligence) Quality 100% Cotton T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-could-the-power-grid-slow-a-runaway-ai-race-ai-doom-and-data-center-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Data Center Garden Work Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-power-grid-slow-a-runaway-ai-race-artificial-intelligence-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence t shirt" data-ebay-reference="could-the-power-grid-slow-a-runaway-ai-race-artificial-intelligence-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Touch Me I’m Not AI - (Artificial Intelligence) Quality 100% Cotton T-Shirt</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-could-the-power-grid-slow-a-runaway-ai-race-ai-doom-and-data-center-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for data center wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: data center wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-power-grid-slow-a-runaway-ai-race-artificial-intelligence-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence t shirt" data-ebay-reference="could-the-power-grid-slow-a-runaway-ai-race-artificial-intelligence-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-could-the-power-grid-slow-a-runaway-ai-race-ai-doom-and-data-center-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-power-grid-slow-a-runaway-ai-race-artificial-intelligence-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence t shirt" data-ebay-reference="could-the-power-grid-slow-a-runaway-ai-race-artificial-intelligence-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -589,15 +514,15 @@ The key [uncertainty]({{ 'uncertainty/' | relative_url }}) is scale. Current evi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-could-the-power-grid-slow-a-runaway-ai-race-ai-doom-and-data-center-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Server Room Data Centre Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/11c8920107b0c05920bf.jpg' | relative_url }}" alt="Listing image for Server Room Data Centre Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-power-grid-slow-a-runaway-ai-race-artificial-intelligence-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence t shirt" data-ebay-reference="could-the-power-grid-slow-a-runaway-ai-race-artificial-intelligence-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Irony Of Artificial Intelligence Is... Funny Quality 100% Cotton T-Shirt"><img src="https://i.ebayimg.com/images/g/z7cAAeSwDPJqAkd9/s-l225.jpg" alt="Listing image for The Irony Of Artificial Intelligence Is... Funny Quality 100% Cotton T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-could-the-power-grid-slow-a-runaway-ai-race-ai-doom-and-data-center-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Server Room Data Centre Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-power-grid-slow-a-runaway-ai-race-artificial-intelligence-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence t shirt" data-ebay-reference="could-the-power-grid-slow-a-runaway-ai-race-artificial-intelligence-t-shirt" target="_blank" rel="sponsored noopener noreferrer">The Irony Of Artificial Intelligence Is... Funny Quality 100% Cotton T-Shirt</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-could-the-power-grid-slow-a-runaway-ai-race-ai-doom-and-data-center-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for data center wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: data center wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-power-grid-slow-a-runaway-ai-race-artificial-intelligence-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence t shirt" data-ebay-reference="could-the-power-grid-slow-a-runaway-ai-race-artificial-intelligence-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-could-the-power-grid-slow-a-runaway-ai-race-ai-doom-and-data-center-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-power-grid-slow-a-runaway-ai-race-artificial-intelligence-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence t shirt" data-ebay-reference="could-the-power-grid-slow-a-runaway-ai-race-artificial-intelligence-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -605,15 +530,15 @@ The key [uncertainty]({{ 'uncertainty/' | relative_url }}) is scale. Current evi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-could-the-power-grid-slow-a-runaway-ai-race-ai-doom-and-data-center-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for An Advanced Futuristic Data Center Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/8d9c7ec50bda9f88905f.jpg' | relative_url }}" alt="Listing image for An Advanced Futuristic Data Center Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-power-grid-slow-a-runaway-ai-race-artificial-intelligence-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence t shirt" data-ebay-reference="could-the-power-grid-slow-a-runaway-ai-race-artificial-intelligence-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Terminator T-Shirt Artificial Intelligence Mens Unisex Tee Top"><img src="https://i.ebayimg.com/images/g/l4sAAOSw3Axj3OMN/s-l225.jpg" alt="Listing image for Terminator T-Shirt Artificial Intelligence Mens Unisex Tee Top" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-could-the-power-grid-slow-a-runaway-ai-race-ai-doom-and-data-center-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">An Advanced Futuristic Data Center Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-power-grid-slow-a-runaway-ai-race-artificial-intelligence-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence t shirt" data-ebay-reference="could-the-power-grid-slow-a-runaway-ai-race-artificial-intelligence-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Terminator T-Shirt Artificial Intelligence Mens Unisex Tee Top</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-could-the-power-grid-slow-a-runaway-ai-race-ai-doom-and-data-center-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for data center wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: data center wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-power-grid-slow-a-runaway-ai-race-artificial-intelligence-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence t shirt" data-ebay-reference="could-the-power-grid-slow-a-runaway-ai-race-artificial-intelligence-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-could-the-power-grid-slow-a-runaway-ai-race-ai-doom-and-data-center-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-power-grid-slow-a-runaway-ai-race-artificial-intelligence-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence t shirt" data-ebay-reference="could-the-power-grid-slow-a-runaway-ai-race-artificial-intelligence-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -621,7 +546,7 @@ The key [uncertainty]({{ 'uncertainty/' | relative_url }}) is scale. Current evi
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-could-the-power-grid-slow-a-runaway-ai-race-ai-doom-and-data-center-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-power-grid-slow-a-runaway-ai-race-artificial-intelligence-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence t shirt" data-ebay-reference="could-the-power-grid-slow-a-runaway-ai-race-artificial-intelligence-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -698,17 +623,31 @@ The key [uncertainty]({{ 'uncertainty/' | relative_url }}) is scale. Current evi
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -721,42 +660,73 @@ The key [uncertainty]({{ 'uncertainty/' | relative_url }}) is scale. Current evi
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -771,156 +741,160 @@ The key [uncertainty]({{ 'uncertainty/' | relative_url }}) is scale. Current evi
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: iea.org  
    Title: energy demand from ai  
-   Link: [https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai](https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IEAEnergy demand from AI – Energy and AI – AnalysisFrom 2024 to 2030, data centre electricity consumption grows by around 15% per year, m...</p></details>
+   Link: <a href="https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Energy demand from AI – Energy and AI – AnalysisFrom 2024 to 2030, data centre electricity consumption grows by around 15% per year, m...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: datacenterknowledge.com  
-   Link: [https://www.datacenterknowledge.com/energy-power-supply/why-ai-data-center-projects-face-years-of-delays-after-approval](https://www.datacenterknowledge.com/energy-power-supply/why-ai-data-center-projects-face-years-of-delays-after-approval)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DataCenterKnowledgeWhy AI Data Center Projects Face Years of Delays After...5 days ago — New PJM data reveals AI infrastructure projects...</p></details>
+   Link: <a href="https://www.datacenterknowledge.com/energy-power-supply/why-ai-data-center-projects-face-years-of-delays-after-approval" target="_blank" rel="noopener noreferrer nofollow">https://www.datacenterknowledge.com/energy-power-supply/why-ai-data-center-projects-face-years-of-delays-after-approval</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why AI Data Center Projects Face Years of Delays After...5 days ago — New PJM data reveals AI infrastructure projects...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: iea.org  
-   Link: [https://www.iea.org/reports/energy-and-ai/executive-summary](https://www.iea.org/reports/energy-and-ai/executive-summary)  
+   Link: <a href="https://www.iea.org/reports/energy-and-ai/executive-summary" target="_blank" rel="noopener noreferrer nofollow">https://www.iea.org/reports/energy-and-ai/executive-summary</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>summary – Energy and AI – AnalysisElectricity demand for data centres more than doubles by 2030. Data centre electricity consumption is s...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: iea.org  
-   Link: [https://www.iea.org/news/ai-is-set-to-drive-surging-electricity-demand-from-data-centres-while-offering-the-potential-to-transform-how-the-energy-sector-works](https://www.iea.org/news/ai-is-set-to-drive-surging-electricity-demand-from-data-centres-while-offering-the-potential-to-transform-how-the-energy-sector-works)  
+   Link: <a href="https://www.iea.org/news/ai-is-set-to-drive-surging-electricity-demand-from-data-centres-while-offering-the-potential-to-transform-how-the-energy-sector-works" target="_blank" rel="noopener noreferrer nofollow">https://www.iea.org/news/ai-is-set-to-drive-surging-electricity-demand-from-data-centres-while-offering-the-potential-to-transform-how-the-energy-sector-works</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI is set to drive surging electricity demand from data...10 Apr 2025 — It projects that electricity demand from data centres worldwide...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv From Barrier to Bridge: The Case for AI Data Center/Power Grid Co-Design  
-   Link: [https://arxiv.org/abs/2605.03090](https://arxiv.org/abs/2605.03090)  
+   Link: <a href="https://arxiv.org/abs/2605.03090" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.03090</a>  
 
 6. <a id="endnote-6"></a>
    Source: datacenterknowledge.com  
    Title: gridlocked how power constraints are shaping the future of data centers  
-   Link: [https://www.datacenterknowledge.com/energy-power-supply/gridlocked-how-power-constraints-are-shaping-the-future-of-data-centers](https://www.datacenterknowledge.com/energy-power-supply/gridlocked-how-power-constraints-are-shaping-the-future-of-data-centers)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DataCenterKnowledgeGridlocked: Power Constraints Shape the Future of Data...1 Apr 2026 — If a data center plans to rely solely on the gr...</p></details>
+   Link: <a href="https://www.datacenterknowledge.com/energy-power-supply/gridlocked-how-power-constraints-are-shaping-the-future-of-data-centers" target="_blank" rel="noopener noreferrer nofollow">https://www.datacenterknowledge.com/energy-power-supply/gridlocked-how-power-constraints-are-shaping-the-future-of-data-centers</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gridlocked: Power Constraints Shape the Future of Data...1 Apr 2026 — If a data center plans to rely solely on the gr...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: datacenterknowledge.com  
-   Link: [https://www.datacenterknowledge.com/build-design/ai-data-center-boom-rewires-us-power-supply-chain](https://www.datacenterknowledge.com/build-design/ai-data-center-boom-rewires-us-power-supply-chain)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DataCenterKnowledgeAI Data Center Boom Rewires US Power Supply Chain1 day ago — The US data center electrical equipment market is project...</p></details>
+   Link: <a href="https://www.datacenterknowledge.com/build-design/ai-data-center-boom-rewires-us-power-supply-chain" target="_blank" rel="noopener noreferrer nofollow">https://www.datacenterknowledge.com/build-design/ai-data-center-boom-rewires-us-power-supply-chain</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Data Center Boom Rewires US Power Supply Chain1 day ago — The US data center electrical equipment market is project...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2604.06198](https://arxiv.org/abs/2604.06198)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivConcentrated siting of AI data centers drives regional power-system stress under rising global compute demandMarch 13, 2026...</p></details>
+   Link: <a href="https://arxiv.org/abs/2604.06198" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.06198</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Concentrated siting of AI data centers drives regional power-system stress under rising global compute demandMarch 13, 2026...</p></details>
    Published: March 13, 2026  
 
 9. <a id="endnote-9"></a>
    Source: news.com.au  
-   Link: [https://www.news.com.au/finance/economy/australian-economy/completely-unprepared-warning-over-australias-ai-data-centre-frenzy/news-story/02fbcc38cb0c5c0aaedf785e1ea61fe0](https://www.news.com.au/finance/economy/australian-economy/completely-unprepared-warning-over-australias-ai-data-centre-frenzy/news-story/02fbcc38cb0c5c0aaedf785e1ea61fe0)  
+   Link: <a href="https://www.news.com.au/finance/economy/australian-economy/completely-unprepared-warning-over-australias-ai-data-centre-frenzy/news-story/02fbcc38cb0c5c0aaedf785e1ea61fe0" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/finance/economy/australian-economy/completely-unprepared-warning-over-australias-ai-data-centre-frenzy/news-story/02fbcc38cb0c5c0aaedf785e1ea61fe0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The report criticizes the lack of regulations and recommends a moratorium on new data centre approvals until enforceable standards are de...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: axios.com  
    Title: Global AI data center boom hits delays  
-   Link: [https://www.axios.com/2026/02/24/ai-data-center-boom-projects-numbers](https://www.axios.com/2026/02/24/ai-data-center-boom-projects-numbers)  
+   Link: <a href="https://www.axios.com/2026/02/24/ai-data-center-boom-projects-numbers" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2026/02/24/ai-data-center-boom-projects-numbers</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These disruptions highlight the increasing stress on electrical infrastructure, caused by energy-intensive data centers, leading to power...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: datacenterknowledge.com  
    Title: why data centers produce their own power  
-   Link: [https://www.datacenterknowledge.com/energy-power-supply/why-data-centers-produce-their-own-power](https://www.datacenterknowledge.com/energy-power-supply/why-data-centers-produce-their-own-power)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DataCenterKnowledgeWhy Data Centers Are Turning to Behind-the-Meter PowerApr 15, 2026 — Grid queues, community pressures, and AI demand p...</p></details>
+   Link: <a href="https://www.datacenterknowledge.com/energy-power-supply/why-data-centers-produce-their-own-power" target="_blank" rel="noopener noreferrer nofollow">https://www.datacenterknowledge.com/energy-power-supply/why-data-centers-produce-their-own-power</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Data Centers Are Turning to Behind-the-Meter PowerApr 15, 2026 — Grid queues, community pressures, and AI demand p...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: investors.com  
-   Link: [https://www.investors.com/research/the-new-america/sei-stock-solaris-energy-data-centers-ai/](https://www.investors.com/research/the-new-america/sei-stock-solaris-energy-data-centers-ai/)  
+   Link: <a href="https://www.investors.com/research/the-new-america/sei-stock-solaris-energy-data-centers-ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.investors.com/research/the-new-america/sei-stock-solaris-energy-data-centers-ai/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite this customer concentration risk, demand for faster and reliable power solutions is accelerating. U.S. data center energy use is...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: itif.org  
    Title: four reasons new ai data centers wont overwhelm the electricity grid  
-   Link: [https://itif.org/publications/2026/04/07/four-reasons-new-ai-data-centers-wont-overwhelm-the-electricity-grid/](https://itif.org/publications/2026/04/07/four-reasons-new-ai-data-centers-wont-overwhelm-the-electricity-grid/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ITIFFour Reasons New AI Data Centers Won&#x27;t Overwhelm...Apr 7, 2026 — As a result, the demand for energy to power new data centers will b...</p></details>
+   Link: <a href="https://itif.org/publications/2026/04/07/four-reasons-new-ai-data-centers-wont-overwhelm-the-electricity-grid/" target="_blank" rel="noopener noreferrer nofollow">https://itif.org/publications/2026/04/07/four-reasons-new-ai-data-centers-wont-overwhelm-the-electricity-grid/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Four Reasons New AI Data Centers Won&#x27;t Overwhelm...Apr 7, 2026 — As a result, the demand for energy to power new data centers will b...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/business/retail-consumer/energy-use-forcing-rethink-ai-chip-design-tsmc-says-2026-05-28/](https://www.reuters.com/business/retail-consumer/energy-use-forcing-rethink-ai-chip-design-tsmc-says-2026-05-28/)  
+   Link: <a href="https://www.reuters.com/business/retail-consumer/energy-use-forcing-rethink-ai-chip-design-tsmc-says-2026-05-28/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/retail-consumer/energy-use-forcing-rethink-ai-chip-design-tsmc-says-2026-05-28/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kevin Zhang, TSMC’s Senior VP of Business Development, noted that customers — including those in mobile, IoT, and high-performance AI dat...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2509.07218](https://arxiv.org/abs/2509.07218)  
+   Link: <a href="https://arxiv.org/abs/2509.07218" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2509.07218</a>  
 
 16. <a id="endnote-16"></a>
    Source: blackrock.com  
    Title: Black Rock Energy and the AI buildout, an investor's view  
-   Link: [https://www.blackrock.com/us/individual/insights/energy-and-the-ai-buildout](https://www.blackrock.com/us/individual/insights/energy-and-the-ai-buildout)  
+   Link: <a href="https://www.blackrock.com/us/individual/insights/energy-and-the-ai-buildout" target="_blank" rel="noopener noreferrer nofollow">https://www.blackrock.com/us/individual/insights/energy-and-the-ai-buildout</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Energy and the AI buildout, an investor&#x27;s view - BlackRock5 days ago — BlackRock technology investors review how AI is affecting energy d...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: iea.org  
    Title: energy supply for ai  
-   Link: [https://www.iea.org/reports/energy-and-ai/energy-supply-for-ai](https://www.iea.org/reports/energy-and-ai/energy-supply-for-ai)  
+   Link: <a href="https://www.iea.org/reports/energy-and-ai/energy-supply-for-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.iea.org/reports/energy-and-ai/energy-supply-for-ai</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Global electricity generation to supply data centres is projected to grow from 460 TWh in 2024 to over 1 000 TWh in 2030 and 1 300 TWh in...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2509.07218](https://arxiv.org/pdf/2509.07218)  
+   Link: <a href="https://arxiv.org/pdf/2509.07218" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2509.07218</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Electricity Demand and Grid Impacts of AI Data Centersby X Chen · 2025 · Cited by 57 — Section IV analyzes the key challenges that AI dat...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2509.07218v3](https://arxiv.org/html/2509.07218v3)  
+   Link: <a href="https://arxiv.org/html/2509.07218v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2509.07218v3</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Electricity Demand and Grid Impacts of AI Data Centers29 Sept 2025 — Looking ahead, the IEA projects that global data center electricity...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: datacenterknowledge.com  
    Title: From Capacity to Chaos: How AI Data Centers Challenge the Grid  
-   Link: [https://www.datacenterknowledge.com/uptime/from-capacity-to-chaos-how-ai-data-centers-challenge-the-grid](https://www.datacenterknowledge.com/uptime/from-capacity-to-chaos-how-ai-data-centers-challenge-the-grid)  
+   Link: <a href="https://www.datacenterknowledge.com/uptime/from-capacity-to-chaos-how-ai-data-centers-challenge-the-grid" target="_blank" rel="noopener noreferrer nofollow">https://www.datacenterknowledge.com/uptime/from-capacity-to-chaos-how-ai-data-centers-challenge-the-grid</a>  
 
 21. <a id="endnote-21"></a>
    Source: energy.gov  
    Title: Powering AI and Data Center Infrastructure Recommendations July 2024  
-   Link: [https://www.energy.gov/sites/default/files/2024-08/Powering%20AI%20and%20Data%20Center%20Infrastructure%20Recommendations%20July%202024.pdf](https://www.energy.gov/sites/default/files/2024-08/Powering%20AI%20and%20Data%20Center%20Infrastructure%20Recommendations%20July%202024.pdf)  
+   Link: <a href="https://www.energy.gov/sites/default/files/2024-08/Powering%20AI%20and%20Data%20Center%20Infrastructure%20Recommendations%20July%202024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/sites/default/files/2024-08/Powering%20AI%20and%20Data%20Center%20Infrastructure%20Recommendations%20July%202024.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Powering AI and Data Center Infrastructure...19 Aug 2024 — Siting of large AI training facilities can be more flexible than siting of da...</p></details>
    Published: July 2024  
 
 22. <a id="endnote-22"></a>
    Source: interface-eu.org  
    Title: [ai compute](&#123;&#123; 'compute-kyc/' | relative_url &#125;&#125;) energy bottlenecks  
-   Link: [https://www.interface-eu.org/publications/ai-compute-energy-bottlenecks](https://www.interface-eu.org/publications/ai-compute-energy-bottlenecks)  
+   Link: <a href="https://www.interface-eu.org/publications/ai-compute-energy-bottlenecks" target="_blank" rel="noopener noreferrer nofollow">https://www.interface-eu.org/publications/ai-compute-energy-bottlenecks</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>InterfaceFrom Chips to Grids5 May 2026 — Why AI clusters prompt higher energy demands than traditional data centres. Large AI compute clu...</p></details>
    Published: May 2026  
 
 23. <a id="endnote-23"></a>
    Source: qz.com  
    Title: Quartz AI data centers have U.S  
-   Link: [https://qz.com/us-power-grid-ai-data-center-demand-constraints-051326](https://qz.com/us-power-grid-ai-data-center-demand-constraints-051326)  
+   Link: <a href="https://qz.com/us-power-grid-ai-data-center-demand-constraints-051326" target="_blank" rel="noopener noreferrer nofollow">https://qz.com/us-power-grid-ai-data-center-demand-constraints-051326</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>power grid struggling to keep up2 days ago — The time projects spend in queues before reaching commercial operation has doubled, from les...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: finance.yahoo.com  
    Title: Finance AI data centers have U.S  
-   Link: [https://finance.yahoo.com/sectors/energy/articles/ai-data-centers-u-power-165930006.html](https://finance.yahoo.com/sectors/energy/articles/ai-data-centers-u-power-165930006.html)  
+   Link: <a href="https://finance.yahoo.com/sectors/energy/articles/ai-data-centers-u-power-165930006.html" target="_blank" rel="noopener noreferrer nofollow">https://finance.yahoo.com/sectors/energy/articles/ai-data-centers-u-power-165930006.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>power grid struggling to keep up2 days ago — The time projects spend in queues before reaching commercial operation has doubled, from les...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: techinvestments.io  
    Title: power bottlenecks and the ai data  
-   Link: [https://www.techinvestments.io/p/power-bottlenecks-and-the-ai-data](https://www.techinvestments.io/p/power-bottlenecks-and-the-ai-data)  
+   Link: <a href="https://www.techinvestments.io/p/power-bottlenecks-and-the-ai-data" target="_blank" rel="noopener noreferrer nofollow">https://www.techinvestments.io/p/power-bottlenecks-and-the-ai-data</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Power Bottlenecks &amp; The AI Data Center9 May 2026 — “A 5-year backlog on grid transformers just killed half of America&#x27;s 2026 AI data cent...</p></details>
    Published: May 2026  
 
@@ -928,51 +902,51 @@ The key [uncertainty]({{ 'uncertainty/' | relative_url }}) is scale. Current evi
 
 26. <a id="endnote-26"></a>
    Source: tomshardware.com  
-   Link: [https://www.tomshardware.com/tech-industry/ai-data-centers-trigger-massive-irreversible-76-percent-electricity-price-spike-in-largest-us-region-federal-watchdog-demands-tech-giants-pay-for-their-own-power-infrastructure](https://www.tomshardware.com/tech-industry/ai-data-centers-trigger-massive-irreversible-76-percent-electricity-price-spike-in-largest-us-region-federal-watchdog-demands-tech-giants-pay-for-their-own-power-infrastructure)  
+   Link: <a href="https://www.tomshardware.com/tech-industry/ai-data-centers-trigger-massive-irreversible-76-percent-electricity-price-spike-in-largest-us-region-federal-watchdog-demands-tech-giants-pay-for-their-own-power-infrastructure" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/ai-data-centers-trigger-massive-irreversible-76-percent-electricity-price-spike-in-largest-us-region-federal-watchdog-demands-tech-giants-pay-for-their-own-power-infrastructure</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI data centers trigger massive &#x27;irreversible&#x27; 76% electricity...1 day ago — AI data centers trigger massive &#x27;irreversible&#x27; 76% electric...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: informationweek.com  
-   Link: [https://www.informationweek.com/machine-learning-ai/the-ai-infrastructure-bottleneck-is-becoming-a-cio-problem](https://www.informationweek.com/machine-learning-ai/the-ai-infrastructure-bottleneck-is-becoming-a-cio-problem)  
+   Link: <a href="https://www.informationweek.com/machine-learning-ai/the-ai-infrastructure-bottleneck-is-becoming-a-cio-problem" target="_blank" rel="noopener noreferrer nofollow">https://www.informationweek.com/machine-learning-ai/the-ai-infrastructure-bottleneck-is-becoming-a-cio-problem</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The AI infrastructure bottleneck is becoming a CIO problem2 days ago — &quot;The demand curve for AI infrastructure appears to be outpacing no...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/xlanin_aiinfrastructure-datacenters-gridinterconnection-activity-7452081135653855232-DoCL](https://www.linkedin.com/posts/xlanin_aiinfrastructure-datacenters-gridinterconnection-activity-7452081135653855232-DoCL)  
+   Link: <a href="https://www.linkedin.com/posts/xlanin_aiinfrastructure-datacenters-gridinterconnection-activity-7452081135653855232-DoCL" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/xlanin_aiinfrastructure-datacenters-gridinterconnection-activity-7452081135653855232-DoCL</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US Data Center Grid Interconnection Delays Cause Market...Of the 12 gigawatts of AI data centers planned to come online in the US this y...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/daily-ai-wire_ai-data-centers-to-consume-3-of-global-electricity-activity-7459304088808132611-oMQG](https://www.linkedin.com/posts/daily-ai-wire_ai-data-centers-to-consume-3-of-global-electricity-activity-7459304088808132611-oMQG)  
+   Link: <a href="https://www.linkedin.com/posts/daily-ai-wire_ai-data-centers-to-consume-3-of-global-electricity-activity-7459304088808132611-oMQG" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/daily-ai-wire_ai-data-centers-to-consume-3-of-global-electricity-activity-7459304088808132611-oMQG</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Daily AI Wire News&#x27; PostAI Data Centers to Consume 3% of Global Electricity by 2030, IEA Reports 🛰️ [POLICY] AI data centers will consume...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/international-energy-agency_in-2030-we-expect-that-the-electricity-activity-7462473928490430464-WZxQ](https://www.linkedin.com/posts/international-energy-agency_in-2030-we-expect-that-the-electricity-activity-7462473928490430464-WZxQ)  
+   Link: <a href="https://www.linkedin.com/posts/international-energy-agency_in-2030-we-expect-that-the-electricity-activity-7462473928490430464-WZxQ" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/international-energy-agency_in-2030-we-expect-that-the-electricity-activity-7462473928490430464-WZxQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>🗣️ “In 2030, we expect that the electricity consumption of...“In 2030, we expect that the electricity consumption of data centres will h...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DXWwUZKCpnc/](https://www.instagram.com/p/DXWwUZKCpnc/)  
+   Link: <a href="https://www.instagram.com/p/DXWwUZKCpnc/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXWwUZKCpnc/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI&#x27;s next bottleneck may not be model quality....THE BEST AI INVESTMENT MIGHT BE IN ENERGY TECH AnaGPT AI is exploding. But power isn&#x27;t...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/leeps_aiinfrastructure-datacenters-energytransition-activity-7316969571943436289-0gvk](https://www.linkedin.com/posts/leeps_aiinfrastructure-datacenters-energytransition-activity-7316969571943436289-0gvk)  
+   Link: <a href="https://www.linkedin.com/posts/leeps_aiinfrastructure-datacenters-energytransition-activity-7316969571943436289-0gvk" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/leeps_aiinfrastructure-datacenters-energytransition-activity-7316969571943436289-0gvk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IEA report: Data centers&#x27; energy demand to double by 2030A typical AI-focused data center consumes as much electricity as 100,000 househo...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/magdyaly_grid-interconnection-bottleneckred-flags-activity-7398571071349620736-gUfT](https://www.linkedin.com/posts/magdyaly_grid-interconnection-bottleneckred-flags-activity-7398571071349620736-gUfT)  
+   Link: <a href="https://www.linkedin.com/posts/magdyaly_grid-interconnection-bottleneckred-flags-activity-7398571071349620736-gUfT" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/magdyaly_grid-interconnection-bottleneckred-flags-activity-7398571071349620736-gUfT</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Magdy Aly&#x27;s PostMcKinsey projects US data centers will need 69 GW between 2025-2028—equivalent to Germany&#x27;s entire renewables fleet added...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/leeps_iea-data-center-energy-consumption-set-to-activity-7316956162069803010-nBa9](https://www.linkedin.com/posts/leeps_iea-data-center-energy-consumption-set-to-activity-7316956162069803010-nBa9)  
+   Link: <a href="https://www.linkedin.com/posts/leeps_iea-data-center-energy-consumption-set-to-activity-7316956162069803010-nBa9" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/leeps_iea-data-center-energy-consumption-set-to-activity-7316956162069803010-nBa9</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IEA: Data center energy to double by 2030, driven by AIIEA: Data center energy consumption set to double by 2030 to 945TWh US and China w...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: weforum.org  
    Title: electricity data grid connectivity strategic bottleneck ai transformation  
-   Link: [https://www.weforum.org/stories/2026/05/electricity-data-grid-connectivity-strategic-bottleneck-ai-transformation/](https://www.weforum.org/stories/2026/05/electricity-data-grid-connectivity-strategic-bottleneck-ai-transformation/)  
+   Link: <a href="https://www.weforum.org/stories/2026/05/electricity-data-grid-connectivity-strategic-bottleneck-ai-transformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.weforum.org/stories/2026/05/electricity-data-grid-connectivity-strategic-bottleneck-ai-transformation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Is power grid connectivity the strategic bottleneck for AI?6 days ago — By 2060, DNV estimates ~80% of data centre electricity demand wil...</p></details>

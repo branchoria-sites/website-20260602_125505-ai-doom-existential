@@ -7,21 +7,21 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d59e80_compute_gover_a7d298
 - AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d59e80_frontier_ai_e_84b246
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - p-doom
 - expert-surveys
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - p-doom
 - expert-surveys
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Expert surveys show substantial concern about catastrophic AI risk but deep disagreement about its likely causes.
 hero_summary: Expert surveys show substantial concern about catastrophic AI risk but deep disagreement about its likely causes.
 layout: default
 permalink: /expert-surveys/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /p-doom/
 - /alignment-governance/
 nav_short_title: Expert Surveys
@@ -209,10 +209,10 @@ parent_heading_title: How Safety and Governance Shape AI Doom Forecasts
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_p_doom_estima_72d1f2
-  title: P Doom | AI Doom and
+  title: P Doom | AI Doom and E 87399 b
   permalink: /p-doom/
   short_title: P Doom
   heading_title: What Does p(doom) Really Mean?
@@ -224,10 +224,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_p_doom_estima_72d1f2
-  title: P Doom | AI Doom and
+  title: P Doom | AI Doom and E 87399 b
   permalink: /p-doom/
   short_title: P Doom
   heading_title: What Does p(doom) Really Mean?
@@ -296,7 +296,7 @@ Researchers have been asked slightly different questions, including:
 
 These are related but not identical concepts. A respondent may think literal extinction is unlikely while believing that humanity could lose meaningful control over its future. Others may view [misuse]({{ 'misuse/' | relative_url }}) by governments or malicious actors as more plausible than a takeover by autonomous AI systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aiimpacts.org/2022-expert-survey-on-progress-in-ai/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiimpacts.org">[AI Impacts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiimpacts.org</span><span class="citation-popover-title">2022 expert survey on progress in ai</span><span class="citation-popover-snippet">AI Impacts2022 Expert Survey on Progress in AIAug 3, 2022 — What probability do you put on future AI advances causing human extinction or...</span></span></span>
 
-Survey timing also matters. Researchers answering before the release of powerful frontier systems may have had different intuitions from those responding after seeing rapid advances in large language models and multimodal systems. Several surveys have found that expectations about [AI timelines]({{ 'timeline-effects/' | relative_url }}) shifted significantly after recent breakthroughs, and shorter timelines can indirectly increase perceived catastrophe risks because there appears to be less time to solve safety problems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aiimpacts.org/2022-expert-survey-on-progress-in-ai/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiimpacts.org">[AI Impacts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiimpacts.org</span><span class="citation-popover-title">2022 expert survey on progress in ai</span><span class="citation-popover-snippet">AI Impacts2022 Expert Survey on Progress in AIAug 3, 2022 — What probability do you put on future AI advances causing human extinction or...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aiimpacts.org/2022-expert-survey-on-progress-in-ai/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiimpacts.org">[AI Impacts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiimpacts.org</span><span class="citation-popover-title">2022 expert survey on progress in ai</span><span class="citation-popover-snippet">AI Impacts2022 Expert Survey on Progress in AIAug 3, 2022 — What probability do you put on future AI advances causing human extinction or...</span></span></span>
+Survey timing also matters. Researchers answering before the release of powerful frontier systems may have had different intuitions from those responding after seeing rapid advances in large language models and multimodal systems. Several surveys have found that expectations about AI timelines shifted significantly after recent breakthroughs, and shorter timelines can indirectly increase perceived catastrophe risks because there appears to be less time to solve safety problems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aiimpacts.org/2022-expert-survey-on-progress-in-ai/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiimpacts.org">[AI Impacts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiimpacts.org</span><span class="citation-popover-title">2022 expert survey on progress in ai</span><span class="citation-popover-snippet">AI Impacts2022 Expert Survey on Progress in AIAug 3, 2022 — What probability do you put on future AI advances causing human extinction or...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aiimpacts.org/2022-expert-survey-on-progress-in-ai/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiimpacts.org">[AI Impacts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiimpacts.org</span><span class="citation-popover-title">2022 expert survey on progress in ai</span><span class="citation-popover-snippet">AI Impacts2022 Expert Survey on Progress in AIAug 3, 2022 — What probability do you put on future AI advances causing human extinction or...</span></span></span>
 
 Another complication is the difference between median responses and distributions. A median p(doom) of 5% can sound modest, but it may conceal a population split between people assigning near-zero risk and people assigning very high probabilities. Looking only at the median therefore understates how much disagreement exists inside the field. AI Impacts <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.aiimpacts.org/p/2023-ai-survey-of-2778-six-things" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.aiimpacts.org">[2blog.aiimpacts.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.aiimpacts.org</span><span class="citation-popover-title">2023 ai survey of 2778 six things</span><span class="citation-popover-snippet">Survey of 2778 AI authors: six parts in picturesJan 4, 2024 — Median respondents put 5% or more on advanced AI leading to human extinctio...</span></span></span>
 
@@ -307,7 +307,7 @@ Another complication is the difference between median responses and distribution
 
 The most important limitation of p(doom) surveys is that they usually measure conclusions rather than reasoning.
 
-Recent research examining disagreement among AI experts suggests that experts often cluster around fundamentally different mental models of advanced AI. One broad camp tends to view future systems as powerful but controllable tools. Another is more sympathetic to the idea that advanced AI could become an autonomous strategic actor capable of escaping human control. These worldviews can produce dramatically different risk estimates even when participants share similar technical backgrounds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2502.14870" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivWhy do Experts Disagree on Existential Risk and P(doom)? A Survey of AI ExpertsJanuary 25, 2025...</span><span class="citation-popover-meta">Published: January 25, 2025</span></span></span>
+Recent research examining disagreement among AI experts suggests that experts often cluster around fundamentally different mental models of advanced AI. One broad camp tends to view future systems as powerful but controllable tools. Another is more sympathetic to the idea that advanced AI could become an autonomous strategic actor capable of escaping human control. These worldviews can produce dramatically different risk estimates even when participants share similar technical backgrounds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2502.14870" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Why do Experts Disagree on Existential Risk and P(doom)? A Survey of AI ExpertsJanuary 25, 2025...</span><span class="citation-popover-meta">Published: January 25, 2025</span></span></span>
 
 Three researchers could each report a 5% p(doom) while holding very different beliefs:
 
@@ -327,7 +327,7 @@ Because this page sits within the broader question of how alignment and governan
 
 Researchers who expect major breakthroughs in [interpretability]({{ 'interpretability/' | relative_url }}), monitoring, [evaluations]({{ 'evaluations/' | relative_url }}), and control methods generally tend toward lower catastrophe estimates. They may still acknowledge serious risks but expect engineering solutions to reduce them over time.
 
-Researchers with higher p(doom) estimates often believe that capability gains could outpace understanding, creating systems that are difficult to monitor or control before they become strategically powerful. Others place greater weight on governance failures, arguing that even if technical solutions exist, commercial and [geopolitical]({{ 'geopolitics/' | relative_url }}) competition may prevent their consistent adoption. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2502.14870" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivWhy do Experts Disagree on Existential Risk and P(doom)? A Survey of AI ExpertsJanuary 25, 2025...</span><span class="citation-popover-meta">Published: January 25, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rand.org/pubs/research_reports/RRA3034-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-title">RRA3034 1</span><span class="citation-popover-snippet">RAND CorporationOn the Extinction Risk from Artificial Intelligence6 May 2025 — In this report, RAND researchers examined and seriously c...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+Researchers with higher p(doom) estimates often believe that capability gains could outpace understanding, creating systems that are difficult to monitor or control before they become strategically powerful. Others place greater weight on governance failures, arguing that even if technical solutions exist, commercial and geopolitical competition may prevent their consistent adoption. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2502.14870" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Why do Experts Disagree on Existential Risk and P(doom)? A Survey of AI ExpertsJanuary 25, 2025...</span><span class="citation-popover-meta">Published: January 25, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rand.org/pubs/research_reports/RRA3034-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-title">RRA3034 1</span><span class="citation-popover-snippet">RAND CorporationOn the Extinction Risk from Artificial Intelligence6 May 2025 — In this report, RAND researchers examined and seriously c...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 Survey numbers alone cannot tell readers which of these assumptions is correct. They can only reveal that these assumptions are major drivers of disagreement.
 
@@ -344,7 +344,7 @@ Several limitations deserve attention:
 * Researchers often disagree about what counts as artificial general intelligence or transformative AI.
 * The field has a mixed record on long-range forecasting.
 * Survey participants may be influenced by different definitions of catastrophe.
-* Response rates and sampling methods can affect results. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vox.com/future-perfect/2024/1/10/24032987/ai-impacts-survey-artificial-intelligence-chatgpt-openai-existential-risk-superintelligence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vox.com">[Vox]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vox.com</span><span class="citation-popover-title">Thousands of AI experts are torn about what they&#x27;ve</span><span class="citation-popover-snippet">VoxJanuary 10, 2024 — 10 Jan 2024 — The 2016 AI impacts survey was immediately controversial. In 2016, barely anyone was talking about th...</span><span class="citation-popover-meta">Published: January 10, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/d41586-024-00147-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature For this reason]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">AI &amp; robotics briefing: There&#x27;s a 5% risk that AI will wipe out...Jan 16, 2024 — In a survey of 2700 AI experts, a majority said there w...</span></span></span>, a survey showing a median 5% extinction risk should not be interpreted as proving there is exactly a 5% chance of doom. Equally, it should not be dismissed as meaningless. The important information is that many people closest to AI research consider existential catastrophe plausible enough to assign non-trivial probabilities to it.
+* Response rates and sampling methods can affect results. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vox.com/future-perfect/2024/1/10/24032987/ai-impacts-survey-artificial-intelligence-chatgpt-openai-existential-risk-superintelligence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vox.com">[Vox]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vox.com</span><span class="citation-popover-title">Thousands of AI experts are torn about what they&#x27;ve</span><span class="citation-popover-snippet">January 10, 2024 — 10 Jan 2024 — The 2016 AI impacts survey was immediately controversial. In 2016, barely anyone was talking about th...</span><span class="citation-popover-meta">Published: January 10, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/d41586-024-00147-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature For this reason]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">AI &amp; robotics briefing: There&#x27;s a 5% risk that AI will wipe out...Jan 16, 2024 — In a survey of 2700 AI experts, a majority said there w...</span></span></span>, a survey showing a median 5% extinction risk should not be interpreted as proving there is exactly a 5% chance of doom. Equally, it should not be dismissed as meaningless. The important information is that many people closest to AI research consider existential catastrophe plausible enough to assign non-trivial probabilities to it.
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d59e80_ai_researcher_c2f0e9-Illustration-3-dark.svg" | relative_url }}" alt="Expert Surveys illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d59e80_ai_researcher_c2f0e9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d59e80_ai_researcher_c2f0e9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -352,7 +352,7 @@ Several limitations deserve attention:
 
 Expert surveys provide evidence that concern about AI doom is widespread within the AI research community, but they do not reveal a consensus theory of how doom would occur.
 
-The most robust finding is not the exact median p(doom) figure. It is the coexistence of two facts: many AI researchers assign meaningful probabilities to existential catastrophe, and those researchers often disagree profoundly about the underlying mechanism. Some fear misalignment, some fear [loss of control]({{ 'loss-of-control/' | relative_url }}), some fear governance failure, and some fear catastrophic misuse. Similar p(doom) numbers can therefore mask very different assumptions about the future of advanced AI. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2502.14870" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivWhy do Experts Disagree on Existential Risk and P(doom)? A Survey of AI ExpertsJanuary 25, 2025...</span><span class="citation-popover-meta">Published: January 25, 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aiimpacts.org/2022-expert-survey-on-progress-in-ai/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiimpacts.org">[3AI Impacts 3AI Impacts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiimpacts.org</span><span class="citation-popover-title">2022 expert survey on progress in ai</span><span class="citation-popover-snippet">AI Impacts2022 Expert Survey on Progress in AIAug 3, 2022 — What probability do you put on future AI advances causing human extinction or...</span></span></span>
+The most robust finding is not the exact median p(doom) figure. It is the coexistence of two facts: many AI researchers assign meaningful probabilities to existential catastrophe, and those researchers often disagree profoundly about the underlying mechanism. Some fear misalignment, some fear [loss of control]({{ 'loss-of-control/' | relative_url }}), some fear governance failure, and some fear catastrophic misuse. Similar p(doom) numbers can therefore mask very different assumptions about the future of advanced AI. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2502.14870" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Why do Experts Disagree on Existential Risk and P(doom)? A Survey of AI ExpertsJanuary 25, 2025...</span><span class="citation-popover-meta">Published: January 25, 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aiimpacts.org/2022-expert-survey-on-progress-in-ai/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiimpacts.org">[3AI Impacts 3AI Impacts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiimpacts.org</span><span class="citation-popover-title">2022 expert survey on progress in ai</span><span class="citation-popover-snippet">AI Impacts2022 Expert Survey on Progress in AIAug 3, 2022 — What probability do you put on future AI advances causing human extinction or...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0m8h9ydCenc" title="P(doom): Will AI destroy human civilization? | Demis Hassabis and Lex Fridman" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0m8h9ydCenc" target="_blank" rel="noopener noreferrer">P(doom): Will AI destroy human civilization? | Demis Hassabis and Lex Fridman</a></p><p class="youtube-embed-meta">Channel: Lex Clips &middot; Views: 9.6K &middot; Uploaded: July 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0m8h9ydCenc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0m8h9ydCenc">Open on YouTube</a></p></div></div></div>
@@ -779,141 +779,141 @@ The most robust finding is not the exact median p(doom) figure. It is the coexis
 
 1. <a id="endnote-1"></a>
    Source: aiimpacts.org  
-   Link: [https://aiimpacts.org/wp-content/uploads/2024/01/EMBARGOED_-AI-Impacts-Survey-Release-Google-Docs.pdf](https://aiimpacts.org/wp-content/uploads/2024/01/EMBARGOED_-AI-Impacts-Survey-Release-Google-Docs.pdf)  
+   Link: <a href="https://aiimpacts.org/wp-content/uploads/2024/01/EMBARGOED_-AI-Impacts-Survey-Release-Google-Docs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiimpacts.org/wp-content/uploads/2024/01/EMBARGOED_-AI-Impacts-Survey-Release-Google-Docs.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI ImpactsMedian AI expert says 5% chance of human extinction from...4 Jan 2024 — BERKELEY, CALIFORNIA: In a new survey of 2,778 AI expe...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: aiimpacts.org  
    Title: 2022 expert survey on progress in ai  
-   Link: [https://aiimpacts.org/2022-expert-survey-on-progress-in-ai/](https://aiimpacts.org/2022-expert-survey-on-progress-in-ai/)  
+   Link: <a href="https://aiimpacts.org/2022-expert-survey-on-progress-in-ai/" target="_blank" rel="noopener noreferrer nofollow">https://aiimpacts.org/2022-expert-survey-on-progress-in-ai/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Impacts2022 Expert Survey on Progress in AIAug 3, 2022 — What probability do you put on future AI advances causing human extinction or...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: aiimpacts.org  
    Title: Thousands of AI authors on the future of AI  
-   Link: [https://aiimpacts.org/wp-content/uploads/2023/04/Thousands_of_AI_authors_on_the_future_of_AI.pdf](https://aiimpacts.org/wp-content/uploads/2023/04/Thousands_of_AI_authors_on_the_future_of_AI.pdf)  
+   Link: <a href="https://aiimpacts.org/wp-content/uploads/2023/04/Thousands_of_AI_authors_on_the_future_of_AI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiimpacts.org/wp-content/uploads/2023/04/Thousands_of_AI_authors_on_the_future_of_AI.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>More than half suggested that “...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: rai.ac.uk  
-   Link: [https://rai.ac.uk/hed-are-ai-researchers-concerned-about-the-existential-threat-of-ai/](https://rai.ac.uk/hed-are-ai-researchers-concerned-about-the-existential-threat-of-ai/)  
+   Link: <a href="https://rai.ac.uk/hed-are-ai-researchers-concerned-about-the-existential-threat-of-ai/" target="_blank" rel="noopener noreferrer nofollow">https://rai.ac.uk/hed-are-ai-researchers-concerned-about-the-existential-threat-of-ai/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ounding existential risk–which did not land amongst the top ten concerns that emerged in responses.Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: aiimpacts.org  
-   Link: [https://aiimpacts.org/2024/](https://aiimpacts.org/2024/)  
+   Link: <a href="https://aiimpacts.org/2024/" target="_blank" rel="noopener noreferrer nofollow">https://aiimpacts.org/2024/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>2024 – AI ImpactsThe Expert Survey on Progress in AI (ESPAI) is a large survey of AI researchers about the future of AI, conducted in 201...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: time.com  
    Title: When Might AI Outsmart Us?  
-   Link: [https://time.com/6556168/when-ai-outsmart-humans/](https://time.com/6556168/when-ai-outsmart-humans/)  
+   Link: <a href="https://time.com/6556168/when-ai-outsmart-humans/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6556168/when-ai-outsmart-humans/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>It Depends Who You AskExperts have varied opinions on when artificial general intelligence (AGI) will be developed, with some predicting...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: blog.aiimpacts.org  
    Title: 2023 ai survey of 2778 six things  
-   Link: [https://blog.aiimpacts.org/p/2023-ai-survey-of-2778-six-things](https://blog.aiimpacts.org/p/2023-ai-survey-of-2778-six-things)  
+   Link: <a href="https://blog.aiimpacts.org/p/2023-ai-survey-of-2778-six-things" target="_blank" rel="noopener noreferrer nofollow">https://blog.aiimpacts.org/p/2023-ai-survey-of-2778-six-things</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Survey of 2778 AI authors: six parts in picturesJan 4, 2024 — Median respondents put 5% or more on advanced AI leading to human extinctio...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2502.14870](https://arxiv.org/abs/2502.14870)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivWhy do Experts Disagree on Existential Risk and P(doom)? A Survey of AI ExpertsJanuary 25, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2502.14870" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.14870</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why do Experts Disagree on Existential Risk and P(doom)? A Survey of AI ExpertsJanuary 25, 2025...</p></details>
    Published: January 25, 2025  
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2502.14870v1](https://arxiv.org/html/2502.14870v1)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivWhy do Experts Disagree on Existential Risk and P(doom)...23 Feb 2025 — According to AI Impacts, roughly 40% of respondents indicat...</p></details>
+   Link: <a href="https://arxiv.org/html/2502.14870v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.14870v1</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why do Experts Disagree on Existential Risk and P(doom)...23 Feb 2025 — According to AI Impacts, roughly 40% of respondents indicat...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: rand.org  
    Title: RRA3034 1  
-   Link: [https://www.rand.org/pubs/research_reports/RRA3034-1.html](https://www.rand.org/pubs/research_reports/RRA3034-1.html)  
+   Link: <a href="https://www.rand.org/pubs/research_reports/RRA3034-1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/research_reports/RRA3034-1.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RAND CorporationOn the Extinction Risk from Artificial Intelligence6 May 2025 — In this report, RAND researchers examined and seriously c...</p></details>
    Published: May 2025  
 
 11. <a id="endnote-11"></a>
    Source: vox.com  
    Title: Thousands of AI experts are torn about what they've  
-   Link: [https://www.vox.com/future-perfect/2024/1/10/24032987/ai-impacts-survey-artificial-intelligence-chatgpt-openai-existential-risk-superintelligence](https://www.vox.com/future-perfect/2024/1/10/24032987/ai-impacts-survey-artificial-intelligence-chatgpt-openai-existential-risk-superintelligence)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>VoxJanuary 10, 2024 — 10 Jan 2024 — The 2016 AI impacts survey was immediately controversial. In 2016, barely anyone was talking about th...</p></details>
+   Link: <a href="https://www.vox.com/future-perfect/2024/1/10/24032987/ai-impacts-survey-artificial-intelligence-chatgpt-openai-existential-risk-superintelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.vox.com/future-perfect/2024/1/10/24032987/ai-impacts-survey-artificial-intelligence-chatgpt-openai-existential-risk-superintelligence</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 10, 2024 — 10 Jan 2024 — The 2016 AI impacts survey was immediately controversial. In 2016, barely anyone was talking about th...</p></details>
    Published: January 10, 2024  
 
 12. <a id="endnote-12"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/d41586-024-00147-z](https://www.nature.com/articles/d41586-024-00147-z)  
+   Link: <a href="https://www.nature.com/articles/d41586-024-00147-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-024-00147-z</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI &amp; robotics briefing: There&#x27;s a 5% risk that AI will wipe out...Jan 16, 2024 — In a survey of 2700 AI experts, a majority said there w...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2401.02843](https://arxiv.org/abs/2401.02843)  
+   Link: <a href="https://arxiv.org/abs/2401.02843" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2401.02843</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>More than half...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: businessinsider.com  
-   Link: [https://www.businessinsider.com/ai-researchers-chance-tech-making-humans-extinct-2024-1](https://www.businessinsider.com/ai-researchers-chance-tech-making-humans-extinct-2024-1)  
+   Link: <a href="https://www.businessinsider.com/ai-researchers-chance-tech-making-humans-extinct-2024-1" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/ai-researchers-chance-tech-making-humans-extinct-2024-1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Approximately 58% of surveyed researchers believe there is at least a 5% chance of AI causing catastrophic outcomes. The survey highlight...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/P%28doom%29](https://en.wikipedia.org/wiki/P%28doom%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/P%28doom%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/P%28doom%29</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>P(doom)In AI safety, P(doom) is the probability of existentially catastrophic outcomes (so-called &quot;doomsday scenarios&quot;) as a result of...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/simontorrance_why-do-experts-disagree-on-existential-risk-activity-7301886948334333952-VwQS](https://www.linkedin.com/posts/simontorrance_why-do-experts-disagree-on-existential-risk-activity-7301886948334333952-VwQS)  
+   Link: <a href="https://www.linkedin.com/posts/simontorrance_why-do-experts-disagree-on-existential-risk-activity-7301886948334333952-VwQS" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/simontorrance_why-do-experts-disagree-on-existential-risk-activity-7301886948334333952-VwQS</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI experts divided on AI safety and controlA new survey reveals that &#x27;AI experts&#x27; cluster into two viewpoints - &quot;AI as controllable tool&quot;...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: wsj.com  
-   Link: [https://www.wsj.com/articles/a-godfather-of-ai-remains-concerned-as-ever-about-human-extinction-ec0fe932](https://www.wsj.com/articles/a-godfather-of-ai-remains-concerned-as-ever-about-human-extinction-ec0fe932)  
+   Link: <a href="https://www.wsj.com/articles/a-godfather-of-ai-remains-concerned-as-ever-about-human-extinction-ec0fe932" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/articles/a-godfather-of-ai-remains-concerned-as-ever-about-human-extinction-ec0fe932</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite his earlier calls for a moratorium on AI development to prioritize safety, the industry has surged ahead, investing massively in...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/technology/2024/dec/27/godfather-of-ai-raises-odds-of-the-technology-wiping-out-humanity-over-next-30-years](https://www.theguardian.com/technology/2024/dec/27/godfather-of-ai-raises-odds-of-the-technology-wiping-out-humanity-over-next-30-years)  
+   Link: <a href="https://www.theguardian.com/technology/2024/dec/27/godfather-of-ai-raises-odds-of-the-technology-wiping-out-humanity-over-next-30-years" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2024/dec/27/godfather-of-ai-raises-odds-of-the-technology-wiping-out-humanity-over-next-30-years</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Godfather of AI&#x27; shortens odds of the technology wiping out...28 Dec 2024 — Geoffrey Hinton says there is 10% to 20% chance AI will lea...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: machine.news  
    Title: welcome to the x risk games which ai models pose the greatest threat to humanity  
-   Link: [https://www.machine.news/welcome-to-the-x-risk-games-which-ai-models-pose-the-greatest-threat-to-humanity/](https://www.machine.news/welcome-to-the-x-risk-games-which-ai-models-pose-the-greatest-threat-to-humanity/)  
+   Link: <a href="https://www.machine.news/welcome-to-the-x-risk-games-which-ai-models-pose-the-greatest-threat-to-humanity/" target="_blank" rel="noopener noreferrer nofollow">https://www.machine.news/welcome-to-the-x-risk-games-which-ai-models-pose-the-greatest-threat-to-humanity/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Which AI model poses the worst existential apocalypse risk?17 Feb 2026 — Chinese academics have identified the AI model that currently po...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=BCA7ZTafHc8](https://www.youtube.com/watch?v=BCA7ZTafHc8)  
+   Link: <a href="https://www.youtube.com/watch?v=BCA7ZTafHc8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BCA7ZTafHc8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>most AI researchers are REALLY worriedThis Yudkowskian Has A 99.999% P(Doom). Doom Debates•19K &amp;middot; 1:09:03. Go... AI Expert Exposes...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: thebulletin.org  
    Title: three key misconceptions in the debate about ai and existential risk  
-   Link: [https://thebulletin.org/2024/07/three-key-misconceptions-in-the-debate-about-ai-and-existential-risk/](https://thebulletin.org/2024/07/three-key-misconceptions-in-the-debate-about-ai-and-existential-risk/)  
+   Link: <a href="https://thebulletin.org/2024/07/three-key-misconceptions-in-the-debate-about-ai-and-existential-risk/" target="_blank" rel="noopener noreferrer nofollow">https://thebulletin.org/2024/07/three-key-misconceptions-in-the-debate-about-ai-and-existential-risk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Three key misconceptions in the debate about AI and...15 Jul 2024 — 59 percent of US adults support prioritizing mitigating the risk of...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: brookings.edu  
    Title: are ai existential risks real and what should we do about them  
-   Link: [https://www.brookings.edu/articles/are-ai-existential-risks-real-and-what-should-we-do-about-them/](https://www.brookings.edu/articles/are-ai-existential-risks-real-and-what-should-we-do-about-them/)  
+   Link: <a href="https://www.brookings.edu/articles/are-ai-existential-risks-real-and-what-should-we-do-about-them/" target="_blank" rel="noopener noreferrer nofollow">https://www.brookings.edu/articles/are-ai-existential-risks-real-and-what-should-we-do-about-them/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Are AI existential risks real—and what should we do about...Jul 11, 2025 — The challenges of existential risk from highly capable AI sys...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: nickbostrom.com  
-   Link: [https://nickbostrom.com/papers/existential-risks/](https://nickbostrom.com/papers/existential-risks/)  
+   Link: <a href="https://nickbostrom.com/papers/existential-risks/" target="_blank" rel="noopener noreferrer nofollow">https://nickbostrom.com/papers/existential-risks/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>al hazards, this paper analyzes a recently emerging category: that of existential...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: shop.freiheit.org  
    Title: FNF A4 Policy Paper Existential Risk from AI EN web final  
-   Link: [https://shop.freiheit.org/download/P2%401939/989395/FNF_A4_Policy%20Paper_Existential%20Risk%20from%20AI_EN_web_final.pdf](https://shop.freiheit.org/download/P2%401939/989395/FNF_A4_Policy%20Paper_Existential%20Risk%20from%20AI_EN_web_final.pdf)  
+   Link: <a href="https://shop.freiheit.org/download/P2%401939/989395/FNF_A4_Policy%20Paper_Existential%20Risk%20from%20AI_EN_web_final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shop.freiheit.org/download/P2%401939/989395/FNF_A4_Policy%20Paper_Existential%20Risk%20from%20AI_EN_web_final.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RISK FROM AIby C Nauer · 2025 — A 2024 survey of 2,778 AI researchers estimated a 10% chance of AGI by 2027 and a 50% chance by 2047, ref...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: klover.ai  
    Title: pdoom ai risk fridmans perspective on existential threat  
-   Link: [https://www.klover.ai/pdoom-ai-risk-fridmans-perspective-on-existential-threat/](https://www.klover.ai/pdoom-ai-risk-fridmans-perspective-on-existential-threat/)  
+   Link: <a href="https://www.klover.ai/pdoom-ai-risk-fridmans-perspective-on-existential-threat/" target="_blank" rel="noopener noreferrer nofollow">https://www.klover.ai/pdoom-ai-risk-fridmans-perspective-on-existential-threat/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>P(doom) &amp; AI Risk: Fridman&#x27;s Perspective on Existential...23 Jun 2025 — Fridman openly estimated the probability of AI creating an exist...</p></details>

@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_ai_research_l_2238ea
 - AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_eval_safety_b_854dea
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - ai-takeoff
 - fast-takeoff
 - late-alarms
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - ai-takeoff
 - fast-takeoff
 - late-alarms
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Stock-market shocks, job losses, and political disruption may be dramatic, but they could appear only after the key capability jump has happened.
 hero_summary: Stock-market shocks, job losses, and political disruption may be dramatic, but they could appear only after the key capability jump has happened.
 layout: default
 permalink: /late-alarms/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /ai-takeoff/
 - /fast-takeoff/
 nav_short_title: Late alarms
@@ -211,10 +211,10 @@ parent_heading_title: What would warn US before FOOM?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_recursive_imp_3a3504
-  title: AI Takeoff | AI Doom and
+  title: AI Takeoff | AI Doom and E 87399 b
   permalink: /ai-takeoff/
   short_title: AI Takeoff
   heading_title: Could AI Improvement Run Away From US?
@@ -226,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_recursive_imp_3a3504
-  title: AI Takeoff | AI Doom and
+  title: AI Takeoff | AI Doom and E 87399 b
   permalink: /ai-takeoff/
   short_title: AI Takeoff
   heading_title: Could AI Improvement Run Away From US?
@@ -275,7 +275,7 @@ image: /assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c7
 
 ## Introduction
 
-One of the central claims in hard-takeoff or FOOM (fast intelligence explosion) arguments is that the most obvious signs of disruption may not be the most useful warnings. Stock-market turmoil, mass unemployment, political instability, or dramatic social change would certainly attract public attention. The concern is that these events might occur only after the crucial transition has already happened: the point at which AI systems become capable enough to accelerate their own development, evade effective [oversight]({{ 'oversight-evasion/' | relative_url }}), or gain decisive strategic advantages. <span class="citation-chip-wrap"><a class="citation-chip" href="https://intelligence.org/ai-foom-debate/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intelligence.org">[Machine Intelligence Research Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intelligence.org</span><span class="citation-popover-snippet">Machine Intelligence Research InstituteThe Hanson-Yudkowsky AI-Foom Debate eBookNovember 6, 2024 — In late 2008, economist Robin Hanson a...</span><span class="citation-popover-meta">Published: November 6, 2024</span></span></span>
+One of the central claims in hard-takeoff or FOOM (fast intelligence explosion) arguments is that the most obvious signs of disruption may not be the most useful warnings. Stock-market turmoil, mass unemployment, political instability, or dramatic social change would certainly attract public attention. The concern is that these events might occur only after the crucial transition has already happened: the point at which AI systems become capable enough to accelerate their own development, evade effective oversight, or gain decisive strategic advantages. <span class="citation-chip-wrap"><a class="citation-chip" href="https://intelligence.org/ai-foom-debate/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intelligence.org">[Machine Intelligence Research Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intelligence.org</span><span class="citation-popover-snippet">Machine Intelligence Research InstituteThe Hanson-Yudkowsky AI-Foom Debate eBookNovember 6, 2024 — In late 2008, economist Robin Hanson a...</span><span class="citation-popover-meta">Published: November 6, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_late_societal_f5e128-Illustration-1-dark.svg" | relative_url }}" alt="Late alarms illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_late_societal_f5e128-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_late_societal_f5e128-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -285,12 +285,17 @@ This creates an uncomfortable possibility for AI doom scenarios. A world waiting
 
 Most social and economic indicators measure effects rather than causes. Unemployment rises after firms change their hiring behaviour. Political systems react after economic incentives shift. Financial markets often respond only once participants recognise that a technological change is commercially important.
 
-Hard-takeoff advocates argue that a decisive AI capability transition could occur upstream of all these visible effects. The first systems capable of accelerating [AI research]({{ 'ai-research-loop/' | relative_url }}) might exist inside a small number of laboratories, data centres, government programmes, or corporate environments long before the wider public experiences major disruption. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alignmentforum.org/posts/hRohhttbtpY3SHmmD/takeoff-speeds-have-a-huge-effect-on-what-it-means-to-work-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alignmentforum.org">[AI Alignment Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alignmentforum.org</span><span class="citation-popover-title">takeoff speeds have a huge effect on what it means to work 1</span><span class="citation-popover-snippet">Whether AI is a...</span></span></span>
+Hard-takeoff advocates argue that a decisive AI capability transition could occur upstream of all these visible effects. The first systems capable of accelerating AI research might exist inside a small number of laboratories, data centres, government programmes, or corporate environments long before the wider public experiences major disruption. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alignmentforum.org/posts/hRohhttbtpY3SHmmD/takeoff-speeds-have-a-huge-effect-on-what-it-means-to-work-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alignmentforum.org">[AI Alignment Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alignmentforum.org</span><span class="citation-popover-title">takeoff speeds have a huge effect on what it means to work 1</span><span class="citation-popover-snippet">Whether AI is a...</span></span></span>
 
 In this view, the sequence is not:
 
+
+<div class="content-enhancement content-enhancement--step-flow" markdown="1">
+
 1. Society experiences chaos.
-2. Researchers realise AI has become [dangerous]({{ 'autonomy/' | relative_url }}).
+2. Researchers realise AI has become dangerous.
+
+</div>
 
 Instead, the sequence could be:
 
@@ -735,7 +740,7 @@ In a gradual-transition model, society receives repeated warnings. AI systems st
 
 Hard-takeoff arguments reject the assumption that future capability growth must resemble past technological diffusion. They focus on a specific mechanism: AI systems helping to build better AI systems.
 
-If AI becomes a major contributor to AI research itself, then capability improvements could arrive faster than social adaptation mechanisms. Researchers sometimes describe this as [recursive]({{ 'ai-takeoff/' | relative_url }}) self-improvement, though modern discussions often focus less on dramatic self-rewriting and more on AI accelerating the entire research and development cycle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://intelligence.org/ai-foom-debate/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intelligence.org">[Machine Intelligence Research Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intelligence.org</span><span class="citation-popover-snippet">Machine Intelligence Research InstituteThe Hanson-Yudkowsky AI-Foom Debate eBookNovember 6, 2024 — In late 2008, economist Robin Hanson a...</span><span class="citation-popover-meta">Published: November 6, 2024</span></span></span>
+If AI becomes a major contributor to AI research itself, then capability improvements could arrive faster than social adaptation mechanisms. Researchers sometimes describe this as recursive self-improvement, though modern discussions often focus less on dramatic self-rewriting and more on AI accelerating the entire research and development cycle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://intelligence.org/ai-foom-debate/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intelligence.org">[Machine Intelligence Research Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intelligence.org</span><span class="citation-popover-snippet">Machine Intelligence Research InstituteThe Hanson-Yudkowsky AI-Foom Debate eBookNovember 6, 2024 — In late 2008, economist Robin Hanson a...</span><span class="citation-popover-meta">Published: November 6, 2024</span></span></span>
 
 Under this model, the critical period is not when AI replaces large numbers of workers. The critical period is when AI starts substantially shortening the time required for major advances in algorithms, training methods, engineering, or scientific discovery. Economic disruption may appear only after those capability gains have already accumulated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://intelligence.org/ai-foom-debate/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intelligence.org">[Machine Intelligence Research Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intelligence.org</span><span class="citation-popover-snippet">Machine Intelligence Research InstituteThe Hanson-Yudkowsky AI-Foom Debate eBookNovember 6, 2024 — In late 2008, economist Robin Hanson a...</span><span class="citation-popover-meta">Published: November 6, 2024</span></span></span>
 
@@ -764,9 +769,9 @@ This means the physical world can appear relatively normal while digital systems
 
 ### Institutions may misinterpret early signals
 
-Human organisations are accustomed to gradual technological change. If capability gains arrive faster than expected, decision-makers may repeatedly classify warning signs as temporary anomalies.
+Human organisations are accustomed to gradual technological change. If capability gains arrive faster than expected, decision-makers may repeatedly classify [warning signs]({{ 'warning-signs/' | relative_url }}) as temporary anomalies.
 
-A sudden jump in research productivity might be attributed to better tools. Rapid scientific breakthroughs might be treated as ordinary progress. Economic advantages gained by AI-heavy organisations might initially appear as normal competitive success. In a fast-takeoff scenario, these interpretations could delay recognition of what is actually happening. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forethought.org/research/preparing-for-the-intelligence-explosion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forethought.org">[Forethought]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forethought.org</span><span class="citation-popover-snippet">ForethoughtPreparing for the Intelligence Explosion - Forethoughtby W MacAskill · Cited by 22 — The challenge of harnessing AI&#x27;s ability...</span></span></span>
+A sudden jump in research productivity might be attributed to better tools. Rapid scientific breakthroughs might be treated as ordinary progress. Economic advantages gained by AI-heavy organisations might initially appear as normal competitive success. In a fast-takeoff scenario, these interpretations could delay recognition of what is actually happening. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forethought.org/research/preparing-for-the-intelligence-explosion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forethought.org">[Forethought]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forethought.org</span><span class="citation-popover-snippet">Preparing for the Intelligence Explosion - Forethoughtby W MacAskill · Cited by 22 — The challenge of harnessing AI&#x27;s ability...</span></span></span>
 
 ## Why this matters for AI doom arguments
 
@@ -776,7 +781,7 @@ If major public disruption occurs before existential danger emerges, then societ
 
 If, however, the most visible disruptions arrive after the decisive capability transition, then waiting for obvious evidence becomes much less attractive as a risk-management strategy. In that world, warning systems need to focus on technical indicators closer to the source of capability growth rather than on downstream social consequences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://intelligence.org/ai-foom-debate/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intelligence.org">[Machine Intelligence Research Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intelligence.org</span><span class="citation-popover-snippet">Machine Intelligence Research InstituteThe Hanson-Yudkowsky AI-Foom Debate eBookNovember 6, 2024 — In late 2008, economist Robin Hanson a...</span><span class="citation-popover-meta">Published: November 6, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/AI_alignment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[AI Alignment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">AI alignment</span></span></span>
 
-This logic helps explain why many AI safety researchers place unusual emphasis on evaluations, [interpretability]({{ 'interpretability/' | relative_url }}) research, monitoring frontier systems, tracking AI-assisted AI development, and understanding emerging autonomous capabilities. The goal is to detect important changes before they appear in unemployment statistics, election outcomes, GDP figures, or financial markets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forethought.org/research/preparing-for-the-intelligence-explosion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forethought.org">[Forethought]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forethought.org</span><span class="citation-popover-snippet">ForethoughtPreparing for the Intelligence Explosion - Forethoughtby W MacAskill · Cited by 22 — The challenge of harnessing AI&#x27;s ability...</span></span></span>
+This logic helps explain why many AI safety researchers place unusual emphasis on [evaluations]({{ 'evaluations/' | relative_url }}), [interpretability]({{ 'interpretability/' | relative_url }}) research, monitoring frontier systems, tracking AI-assisted AI development, and understanding emerging autonomous capabilities. The goal is to detect important changes before they appear in unemployment statistics, election outcomes, GDP figures, or financial markets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forethought.org/research/preparing-for-the-intelligence-explosion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forethought.org">[Forethought]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forethought.org</span><span class="citation-popover-snippet">Preparing for the Intelligence Explosion - Forethoughtby W MacAskill · Cited by 22 — The challenge of harnessing AI&#x27;s ability...</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_late_societal_f5e128-Illustration-3-dark.svg" | relative_url }}" alt="Late alarms illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_late_societal_f5e128-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_late_societal_f5e128-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -803,92 +808,92 @@ The late-alarm argument does not prove that a FOOM will happen. Nor does it show
 
 1. <a id="endnote-1"></a>
    Source: intelligence.org  
-   Link: [https://intelligence.org/ai-foom-debate/](https://intelligence.org/ai-foom-debate/)  
+   Link: <a href="https://intelligence.org/ai-foom-debate/" target="_blank" rel="noopener noreferrer nofollow">https://intelligence.org/ai-foom-debate/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Machine Intelligence Research InstituteThe Hanson-Yudkowsky AI-Foom Debate eBookNovember 6, 2024 — In late 2008, economist Robin Hanson a...</p></details>
    Published: November 6, 2024  
 
 2. <a id="endnote-2"></a>
    Source: marginalrevolution.com  
-   Link: [https://marginalrevolution.com/marginalrevolution/2025/02/why-i-think-ai-take-off-is-relatively-slow.html](https://marginalrevolution.com/marginalrevolution/2025/02/why-i-think-ai-take-off-is-relatively-slow.html)  
+   Link: <a href="https://marginalrevolution.com/marginalrevolution/2025/02/why-i-think-ai-take-off-is-relatively-slow.html" target="_blank" rel="noopener noreferrer nofollow">https://marginalrevolution.com/marginalrevolution/2025/02/why-i-think-ai-take-off-is-relatively-slow.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ome a larger share of the economy over time.Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: forethought.org  
-   Link: [https://www.forethought.org/research/preparing-for-the-intelligence-explosion](https://www.forethought.org/research/preparing-for-the-intelligence-explosion)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ForethoughtPreparing for the Intelligence Explosion - Forethoughtby W MacAskill · Cited by 22 — The challenge of harnessing AI&#x27;s ability...</p></details>
+   Link: <a href="https://www.forethought.org/research/preparing-for-the-intelligence-explosion" target="_blank" rel="noopener noreferrer nofollow">https://www.forethought.org/research/preparing-for-the-intelligence-explosion</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Preparing for the Intelligence Explosion - Forethoughtby W MacAskill · Cited by 22 — The challenge of harnessing AI&#x27;s ability...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: alignmentforum.org  
    Title: takeoff speeds have a huge effect on what it means to work 1  
-   Link: [https://www.alignmentforum.org/posts/hRohhttbtpY3SHmmD/takeoff-speeds-have-a-huge-effect-on-what-it-means-to-work-1](https://www.alignmentforum.org/posts/hRohhttbtpY3SHmmD/takeoff-speeds-have-a-huge-effect-on-what-it-means-to-work-1)  
+   Link: <a href="https://www.alignmentforum.org/posts/hRohhttbtpY3SHmmD/takeoff-speeds-have-a-huge-effect-on-what-it-means-to-work-1" target="_blank" rel="noopener noreferrer nofollow">https://www.alignmentforum.org/posts/hRohhttbtpY3SHmmD/takeoff-speeds-have-a-huge-effect-on-what-it-means-to-work-1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Whether AI is a...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: alignmentforum.org  
-   Link: [https://www.alignmentforum.org/posts/zkF9PNSyDKusoyLkP/investigating-ai-takeover-scenarios](https://www.alignmentforum.org/posts/zkF9PNSyDKusoyLkP/investigating-ai-takeover-scenarios)  
+   Link: <a href="https://www.alignmentforum.org/posts/zkF9PNSyDKusoyLkP/investigating-ai-takeover-scenarios" target="_blank" rel="noopener noreferrer nofollow">https://www.alignmentforum.org/posts/zkF9PNSyDKusoyLkP/investigating-ai-takeover-scenarios</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Alignment ForumInvestigating AI Takeover Scenarios17 Sept 2021 — Here, we discuss variable social, economic and technological characte...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: scottaaronson.blog  
    Title: Shtetl-Optimized Reform AI Alignment  
-   Link: [https://scottaaronson.blog/?p=6821](https://scottaaronson.blog/?p=6821)  
+   Link: <a href="https://scottaaronson.blog/?p=6821" target="_blank" rel="noopener noreferrer nofollow">https://scottaaronson.blog/?p=6821</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shtetl-OptimizedReform AI AlignmentNovember 20, 2022 — 20 Nov 2022 — We Reform AI-riskers believe that, here just like in high school, th...</p></details>
    Published: November 20, 2022  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: AI alignment  
-   Link: [https://en.wikipedia.org/wiki/AI_alignment](https://en.wikipedia.org/wiki/AI_alignment)  
+   Link: <a href="https://en.wikipedia.org/wiki/AI_alignment" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/AI_alignment</a>  
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/388459864_Gradual_Disempowerment_Systemic_Existential_Risks_from_Incremental_AI_Development](https://www.researchgate.net/publication/388459864_Gradual_Disempowerment_Systemic_Existential_Risks_from_Incremental_AI_Development)  
+   Link: <a href="https://www.researchgate.net/publication/388459864_Gradual_Disempowerment_Systemic_Existential_Risks_from_Incremental_AI_Development" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388459864_Gradual_Disempowerment_Systemic_Existential_Risks_from_Incremental_AI_Development</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Systemic Existential Risks from Incremental AI Development10 Jan 2025 — This paper examines the systemic risks posed by incremental advan...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: davidmanheim.medium.com  
-   Link: [https://davidmanheim.medium.com/a-tentative-typology-of-ai-foom-scenarios-54ff20c906c3](https://davidmanheim.medium.com/a-tentative-typology-of-ai-foom-scenarios-54ff20c906c3)  
+   Link: <a href="https://davidmanheim.medium.com/a-tentative-typology-of-ai-foom-scenarios-54ff20c906c3" target="_blank" rel="noopener noreferrer nofollow">https://davidmanheim.medium.com/a-tentative-typology-of-ai-foom-scenarios-54ff20c906c3</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tentative Typology of AI-Foom Scenarios | by David ManheimA foom-like explosion can quickly make a once-small system more powerful than t...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/aisafetyopen/posts/1159381928098165/](https://www.facebook.com/groups/aisafetyopen/posts/1159381928098165/)  
+   Link: <a href="https://www.facebook.com/groups/aisafetyopen/posts/1159381928098165/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/aisafetyopen/posts/1159381928098165/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced AI alignment steps to reduce dangerIn it, I break down the basic case into 5 points: 1) Advanced AI is possible 2) Advanced AI m...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: ea-crux-project.vercel.app  
-   Link: [https://ea-crux-project.vercel.app/ai-transition-model/gradual/](https://ea-crux-project.vercel.app/ai-transition-model/gradual/)  
+   Link: <a href="https://ea-crux-project.vercel.app/ai-transition-model/gradual/" target="_blank" rel="noopener noreferrer nofollow">https://ea-crux-project.vercel.app/ai-transition-model/gradual/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Gradual AI TakeoverCausal factors driving gradual loss of human control. Based on Christiano&#x27;s two-part failure model: proxy optimization...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/singularity/comments/1rwoy0/intelligence_explosion_aigofoom/](https://www.reddit.com/r/singularity/comments/1rwoy0/intelligence_explosion_aigofoom/)  
+   Link: <a href="https://www.reddit.com/r/singularity/comments/1rwoy0/intelligence_explosion_aigofoom/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/singularity/comments/1rwoy0/intelligence_explosion_aigofoom/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence Explosion: &quot;AI-go-FOOM&quot;: r/singularityI found this text in &#x27;Intelligence Explosion Microeconomics&#x27;, written by Eliezer Yudk...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/cnn/posts/tech-ceo-and-co-founder-of-othersideai-matt-shumer-said-in-a-now-viral-article-p/1284670926858889/](https://www.facebook.com/cnn/posts/tech-ceo-and-co-founder-of-othersideai-matt-shumer-said-in-a-now-viral-article-p/1284670926858889/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tech CEO and co-founder of OthersideAI Matt Shumer said...As Trump signs executive order on [artificial](&amp;#123;&amp;#123; &#x27;artificial-goals/&#x27; | relative_url &amp;#125;&amp;#125;) intelligence, tech giants warn of...</p></details>
+   Link: <a href="https://www.facebook.com/cnn/posts/tech-ceo-and-co-founder-of-othersideai-matt-shumer-said-in-a-now-viral-article-p/1284670926858889/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnn/posts/tech-ceo-and-co-founder-of-othersideai-matt-shumer-said-in-a-now-viral-article-p/1284670926858889/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tech CEO and co-founder of OthersideAI Matt Shumer said...As Trump signs executive order on artificial intelligence, tech giants warn of...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: podimo.com  
-   Link: [https://podimo.com/es/shows/the-nonlinear-library-alignment-forum-top-posts/episode/6e332718-a938-4c85-91d8-e5fe0e933b09](https://podimo.com/es/shows/the-nonlinear-library-alignment-forum-top-posts/episode/6e332718-a938-4c85-91d8-e5fe0e933b09)  
+   Link: <a href="https://podimo.com/es/shows/the-nonlinear-library-alignment-forum-top-posts/episode/6e332718-a938-4c85-91d8-e5fe0e933b09" target="_blank" rel="noopener noreferrer nofollow">https://podimo.com/es/shows/the-nonlinear-library-alignment-forum-top-posts/episode/6e332718-a938-4c85-91d8-e5fe0e933b09</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What failure looks like by Paul ChristianoThe stereotyped image of AI catastrophe is a powerful, malicious AI system that takes its creat...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: blog.biocomm.ai  
    Title: foom warning ai intelligence explosion nearly here in our environment  
-   Link: [https://blog.biocomm.ai/2024/11/23/foom-warning-ai-intelligence-explosion-nearly-here-in-our-environment/](https://blog.biocomm.ai/2024/11/23/foom-warning-ai-intelligence-explosion-nearly-here-in-our-environment/)  
+   Link: <a href="https://blog.biocomm.ai/2024/11/23/foom-warning-ai-intelligence-explosion-nearly-here-in-our-environment/" target="_blank" rel="noopener noreferrer nofollow">https://blog.biocomm.ai/2024/11/23/foom-warning-ai-intelligence-explosion-nearly-here-in-our-environment/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>biocomm.aiFOOM! WARNING. AI INTELLIGENCE EXPLOSION...24 Nov 2024 — “There are no hard problems, only problems that are hard to a certain...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: responsible.com  
-   Link: [https://responsible.com/web-news/what-failure-looks-like-ai-alignment-forum/](https://responsible.com/web-news/what-failure-looks-like-ai-alignment-forum/)  
+   Link: <a href="https://responsible.com/web-news/what-failure-looks-like-ai-alignment-forum/" target="_blank" rel="noopener noreferrer nofollow">https://responsible.com/web-news/what-failure-looks-like-ai-alignment-forum/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The stereotyped image of AI catastrophe is a powerful, malicious AI...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: x.com  
-   Link: [https://x.com/DavidDuvenaud/status/1885009790436352122](https://x.com/DavidDuvenaud/status/1885009790436352122)  
+   Link: <a href="https://x.com/DavidDuvenaud/status/1885009790436352122" target="_blank" rel="noopener noreferrer nofollow">https://x.com/DavidDuvenaud/status/1885009790436352122</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>g, not with sudden violent takeover, but through a gradual loss of...Read more...</p></details>

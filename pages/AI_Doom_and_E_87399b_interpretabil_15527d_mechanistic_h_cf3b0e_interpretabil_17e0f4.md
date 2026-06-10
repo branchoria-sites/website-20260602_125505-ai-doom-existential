@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_interpretabil_15527d_mechanistic_h_cf3b0e_hidden_goal_d_69f397
 - AI_Doom_and_E_87399b_interpretabil_15527d_mechanistic_h_cf3b0e_mechanistic_h_0757ae
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - control-tools
 - hidden-goals
 - interpretability
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - control-tools
 - hidden-goals
 - interpretability
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Looks at how mechanistic insights can complement testing, monitoring, and control measures to reduce AI doom risk.
 hero_summary: Looks at how mechanistic insights can complement testing, monitoring, and control measures to reduce AI doom risk.
 layout: default
 permalink: /interpretability/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /control-tools/
 - /hidden-goals/
 nav_short_title: Interpretability
@@ -211,10 +211,10 @@ parent_heading_title: Can We Detect Hidden Goals Inside Advanced AI?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_interpretabil_15527d
-  title: Control Tools | AI Doom and
+  title: Control Tools | AI Doom and E 87399 b
   permalink: /control-tools/
   short_title: Control Tools
   heading_title: Can We Make Advanced AI Understandable?
@@ -226,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_interpretabil_15527d
-  title: Control Tools | AI Doom and
+  title: Control Tools | AI Doom and E 87399 b
   permalink: /control-tools/
   short_title: Control Tools
   heading_title: Can We Make Advanced AI Understandable?
@@ -269,15 +269,15 @@ image: /assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_mechanistic_h_cf
 
 ## Introduction
 
-For researchers concerned about AI doom or existential risk, mechanistic interpretability is rarely viewed as a standalone solution. The more practical hope is that it can be combined with evaluations, monitoring systems, safeguards, and control mechanisms to create multiple layers of defence against [loss of control]({{ 'loss-of-control/' | relative_url }}). Instead of asking whether interpretability can fully reveal an advanced model’s goals, many safety researchers now ask a narrower question: can insight into a model’s internal representations make existing safety practices more effective? <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.14082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Mechanistic Interpretability for AI Safety -- A Review</span><span class="citation-popover-snippet">arXivMechanistic Interpretability for AI Safety -- A ReviewApril 22, 2024...</span><span class="citation-popover-meta">Published: April 22, 2024</span></span></span>
+For researchers concerned about AI doom or existential risk, mechanistic interpretability is rarely viewed as a standalone solution. The more practical hope is that it can be combined with [evaluations]({{ 'evaluations/' | relative_url }}), monitoring systems, safeguards, and control mechanisms to create multiple layers of defence against [loss of control]({{ 'loss-of-control/' | relative_url }}). Instead of asking whether interpretability can fully reveal an advanced model’s goals, many safety researchers now ask a narrower question: can insight into a model’s internal representations make existing safety practices more effective? <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.14082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Mechanistic Interpretability for AI Safety -- A Review</span><span class="citation-popover-snippet">Mechanistic Interpretability for AI Safety -- A ReviewApril 22, 2024...</span><span class="citation-popover-meta">Published: April 22, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_mechanistic_h_cf3b0e_interpretabil_17e0f4-Illustration-1-dark.svg" | relative_url }}" alt="Interpretability illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_mechanistic_h_cf3b0e_interpretabil_17e0f4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_mechanistic_h_cf3b0e_interpretabil_17e0f4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This shift matters because behavioural testing alone may miss dangerous tendencies that remain dormant during evaluation. If advanced systems can strategically conceal capabilities, pursue hidden objectives, or develop forms of deceptive behaviour, then safety measures based solely on observed outputs may provide a misleading picture. Interpretability research attempts to supply an additional source of evidence by examining what is happening inside the model itself. The central implementation challenge is therefore integration: turning internal understanding into practical monitoring and control tools that reduce existential risk rather than merely producing interesting scientific insights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.14082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Mechanistic Interpretability for AI Safety -- A Review</span><span class="citation-popover-snippet">arXivMechanistic Interpretability for AI Safety -- A ReviewApril 22, 2024...</span><span class="citation-popover-meta">Published: April 22, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://alignmentproject.aisi.gov.uk/research-area/interpretability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alignmentproject.aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alignmentproject.aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteInterpretability — Alignment Project by AISIInterpretability provides access to AI systems&#x27; internal mechanisms, off...</span></span></span>
+This shift matters because behavioural testing alone may miss dangerous tendencies that remain dormant during evaluation. If advanced systems can strategically conceal capabilities, pursue hidden objectives, or develop forms of deceptive behaviour, then safety measures based solely on observed outputs may provide a misleading picture. Interpretability research attempts to supply an additional source of evidence by examining what is happening inside the model itself. The central implementation challenge is therefore integration: turning internal understanding into practical [monitoring]({{ 'monitoring/' | relative_url }}) and [control tools]({{ 'control-tools/' | relative_url }}) that reduce existential risk rather than merely producing interesting scientific insights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.14082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Mechanistic Interpretability for AI Safety -- A Review</span><span class="citation-popover-snippet">Mechanistic Interpretability for AI Safety -- A ReviewApril 22, 2024...</span><span class="citation-popover-meta">Published: April 22, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://alignmentproject.aisi.gov.uk/research-area/interpretability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alignmentproject.aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alignmentproject.aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteInterpretability — Alignment Project by AISIInterpretability provides access to AI systems&#x27; internal mechanisms, off...</span></span></span>
 
 ## How Interpretability Complements Behavioural Testing
 
-Most current AI safety regimes rely heavily on evaluations. Researchers test models for harmful capabilities, deceptive tendencies, autonomous behaviour, and other warning signs before and after deployment. Institutions such as the UK AI Security Institute have built extensive evaluation programmes around this approach. <span class="citation-chip-wrap"><a class="citation-chip" href="https://inspect.aisi.org.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inspect.aisi.org.uk">[inspect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inspect.aisi.org.uk</span><span class="citation-popover-snippet">AIWelcome. Inspect is a framework for frontier AI evaluations developed by the UK AI Security Institute and Meridian Labs. Inspect can be...</span></span></span> The difficulty is that behavioural tests observe only what a model does under specific conditions. A sufficiently capable system could potentially behave safely during testing while pursuing different objectives internally. This possibility underlies concerns about deceptive alignment and other forms of inner misalignment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.14082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Mechanistic Interpretability for AI Safety -- A Review</span><span class="citation-popover-snippet">arXivMechanistic Interpretability for AI Safety -- A ReviewApril 22, 2024...</span><span class="citation-popover-meta">Published: April 22, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://leonardbereska.github.io/blog/2024/mechinterpreview/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leonardbereska.github.io">[2leonardbereska.github.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leonardbereska.github.io</span><span class="citation-popover-snippet">deception can be subtle, gradual, and, at first, entirely internal.... deceptive alignment: When a misaligned model aims to appear align...</span></span></span>
+Most current AI safety regimes rely heavily on evaluations. Researchers test models for harmful capabilities, deceptive tendencies, autonomous behaviour, and other warning signs before and after deployment. Institutions such as the UK AI Security Institute have built extensive evaluation programmes around this approach. <span class="citation-chip-wrap"><a class="citation-chip" href="https://inspect.aisi.org.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inspect.aisi.org.uk">[inspect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inspect.aisi.org.uk</span><span class="citation-popover-snippet">AIWelcome. Inspect is a framework for frontier AI evaluations developed by the UK AI Security Institute and Meridian Labs. Inspect can be...</span></span></span> The difficulty is that behavioural tests observe only what a model does under specific conditions. A sufficiently capable system could potentially behave safely during testing while pursuing different objectives internally. This possibility underlies concerns about deceptive alignment and other forms of inner misalignment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.14082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Mechanistic Interpretability for AI Safety -- A Review</span><span class="citation-popover-snippet">Mechanistic Interpretability for AI Safety -- A ReviewApril 22, 2024...</span><span class="citation-popover-meta">Published: April 22, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://leonardbereska.github.io/blog/2024/mechinterpreview/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leonardbereska.github.io">[2leonardbereska.github.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leonardbereska.github.io</span><span class="citation-popover-snippet">deception can be subtle, gradual, and, at first, entirely internal.... deceptive alignment: When a misaligned model aims to appear align...</span></span></span>
 
 Interpretability is therefore often framed as a complementary layer rather than a replacement for evaluations:
 
@@ -286,7 +286,7 @@ Interpretability is therefore often framed as a complementary layer rather than 
 
 * Behavioural testing asks what the model does.
 * Interpretability asks how the model is producing those behaviours.
-* Combining the two can reveal discrepancies between observed behaviour and internal processing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.14082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Mechanistic Interpretability for AI Safety -- A Review</span><span class="citation-popover-snippet">arXivMechanistic Interpretability for AI Safety -- A ReviewApril 22, 2024...</span><span class="citation-popover-meta">Published: April 22, 2024</span></span></span>
+* Combining the two can reveal discrepancies between observed behaviour and internal processing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.14082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Mechanistic Interpretability for AI Safety -- A Review</span><span class="citation-popover-snippet">Mechanistic Interpretability for AI Safety -- A ReviewApril 22, 2024...</span><span class="citation-popover-meta">Published: April 22, 2024</span></span></span>
 
 </div>
 
@@ -303,11 +303,11 @@ One of the most discussed uses of mechanistic interpretability is continuous mon
 
 The idea is similar to monitoring equipment in a nuclear reactor or aircraft engine. Engineers do not wait for visible failure before checking internal indicators. Instead, they watch internal signals that might provide advance warning of problems. Some AI safety researchers hope that interpretable features could eventually serve a similar role. <span class="citation-chip-wrap"><a class="citation-chip" href="https://alignmentproject.aisi.gov.uk/research-area/interpretability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alignmentproject.aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alignmentproject.aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteInterpretability — Alignment Project by AISIInterpretability provides access to AI systems&#x27; internal mechanisms, off...</span></span></span>
 
-Recent interpretability work has identified internal features corresponding to concepts, topics, reasoning steps, and behavioural tendencies within large language models. Sparse autoencoders and related techniques attempt to isolate these features in a form that humans can inspect and analyse. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.blopig.com/blog/2026/05/peering-inside-the-black-box-a-beginners-introduction-to-mechanistic-interpretability/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blopig.com">[Blopig]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blopig.com</span><span class="citation-popover-title">A Beginner&#x27;s</span><span class="citation-popover-snippet">BlopigA Beginner&#x27;s Introduction to Mechanistic Interpretability18 May 2026 — Arguably the greatest surge of interest in the field was cat...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+Recent interpretability work has identified internal features corresponding to concepts, topics, reasoning steps, and behavioural tendencies within large language models. Sparse autoencoders and related techniques attempt to isolate these features in a form that humans can inspect and analyse. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.blopig.com/blog/2026/05/peering-inside-the-black-box-a-beginners-introduction-to-mechanistic-interpretability/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blopig.com">[Blopig]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blopig.com</span><span class="citation-popover-title">A Beginner&#x27;s</span><span class="citation-popover-snippet">A Beginner&#x27;s Introduction to Mechanistic Interpretability18 May 2026 — Arguably the greatest surge of interest in the field was cat...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 In a safety context, researchers envision monitoring systems that could:
 
-* Detect activation patterns associated with [deception]({{ 'deception-and-loss/' | relative_url }}) or manipulation.
+* Detect activation patterns associated with deception or manipulation.
 * Identify internal representations linked to dangerous capabilities.
 * Flag unusual goal-directed reasoning.
 * Track changes in internal behaviour as models are updated or fine-tuned.
@@ -315,7 +315,7 @@ In a safety context, researchers envision monitoring systems that could:
 
 The attraction of this approach is that warning signs might appear internally before they become visible through outputs. If true, interpretability could provide earlier detection of emerging risks than behavioural testing alone. This possibility is one reason why organisations working on frontier AI safety increasingly discuss interpretability alongside evaluations and safeguards rather than as a purely scientific research programme. <span class="citation-chip-wrap"><a class="citation-chip" href="https://alignmentproject.aisi.gov.uk/research-area/interpretability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alignmentproject.aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alignmentproject.aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteInterpretability — Alignment Project by AISIInterpretability provides access to AI systems&#x27; internal mechanisms, off...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://alignmentproject.aisi.gov.uk/research-area/interpretability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alignmentproject.aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alignmentproject.aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteInterpretability — Alignment Project by AISIInterpretability provides access to AI systems&#x27; internal mechanisms, off...</span></span></span>
 
-However, the evidence remains preliminary. Researchers can identify many internal features, but there is still considerable uncertainty about whether future highly capable systems will possess stable, detectable representations corresponding to goals, intentions, or deceptive plans. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.14082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Mechanistic Interpretability for AI Safety -- A Review</span><span class="citation-popover-snippet">arXivMechanistic Interpretability for AI Safety -- A ReviewApril 22, 2024...</span><span class="citation-popover-meta">Published: April 22, 2024</span></span></span>
+However, the evidence remains preliminary. Researchers can identify many internal features, but there is still considerable [uncertainty]({{ 'uncertainty/' | relative_url }}) about whether future highly capable systems will possess stable, detectable representations corresponding to goals, intentions, or deceptive plans. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.14082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Mechanistic Interpretability for AI Safety -- A Review</span><span class="citation-popover-snippet">Mechanistic Interpretability for AI Safety -- A ReviewApril 22, 2024...</span><span class="citation-popover-meta">Published: April 22, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_mechanistic_h_cf3b0e_interpretabil_17e0f4-Illustration-2-dark.svg" | relative_url }}" alt="Interpretability illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_mechanistic_h_cf3b0e_interpretabil_17e0f4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_mechanistic_h_cf3b0e_interpretabil_17e0f4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -325,13 +325,13 @@ Monitoring alone does not reduce risk unless it can inform action. This has led 
 
 Several proposed control strategies depend directly on interpretability findings.
 
-One possibility is targeted intervention. If researchers identify internal circuits associated with dangerous behaviour, they may be able to suppress, modify, or remove them. Recent work on sparse feature circuits aims to map interpretable causal structures within models and identify components that can be altered without retraining the entire system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.14082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Mechanistic Interpretability for AI Safety -- A Review</span><span class="citation-popover-snippet">arXivMechanistic Interpretability for AI Safety -- A ReviewApril 22, 2024...</span><span class="citation-popover-meta">Published: April 22, 2024</span></span></span>
+One possibility is targeted intervention. If researchers identify internal circuits associated with dangerous behaviour, they may be able to suppress, modify, or remove them. Recent work on sparse feature circuits aims to map interpretable causal structures within models and identify components that can be altered without retraining the entire system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.14082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Mechanistic Interpretability for AI Safety -- A Review</span><span class="citation-popover-snippet">Mechanistic Interpretability for AI Safety -- A ReviewApril 22, 2024...</span><span class="citation-popover-meta">Published: April 22, 2024</span></span></span>
 
 Another possibility is safety-triggered oversight. Internal indicators could activate additional monitoring, human review, or restricted operating modes when suspicious patterns appear. Instead of relying on external behaviour alone, the system's internal state would become part of the decision process governing access to powerful actions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://alignmentproject.aisi.gov.uk/research-area/interpretability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alignmentproject.aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alignmentproject.aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteInterpretability — Alignment Project by AISIInterpretability provides access to AI systems&#x27; internal mechanisms, off...</span></span></span>
 
 More ambitious proposals involve using interpretability to verify alignment properties directly. In principle, researchers might eventually inspect whether a model is using reasoning processes consistent with intended objectives rather than merely checking outputs. This remains largely aspirational, but it is a recurring theme in discussions of long-term AI control. <span class="citation-chip-wrap"><a class="citation-chip" href="https://alignmentproject.aisi.gov.uk/research-area/interpretability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alignmentproject.aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alignmentproject.aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteInterpretability — Alignment Project by AISIInterpretability provides access to AI systems&#x27; internal mechanisms, off...</span></span></span>
 
-From an AI doom perspective, the attraction is obvious. If future systems become capable enough to strategically conceal dangerous intentions, then direct observation of internal mechanisms could offer a route to oversight that behavioural testing cannot provide. Whether such oversight can scale to superhuman systems remains an open question. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.14082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Mechanistic Interpretability for AI Safety -- A Review</span><span class="citation-popover-snippet">arXivMechanistic Interpretability for AI Safety -- A ReviewApril 22, 2024...</span><span class="citation-popover-meta">Published: April 22, 2024</span></span></span>
+From an AI doom perspective, the attraction is obvious. If future systems become capable enough to strategically conceal dangerous intentions, then direct observation of internal mechanisms could offer a route to oversight that behavioural testing cannot provide. Whether such oversight can scale to superhuman systems remains an open question. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.14082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Mechanistic Interpretability for AI Safety -- A Review</span><span class="citation-popover-snippet">Mechanistic Interpretability for AI Safety -- A ReviewApril 22, 2024...</span><span class="citation-popover-meta">Published: April 22, 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ub1ivilmzSc" title="Andy Zou – Top-Down Interpretability for AI Safety [Alignment Workshop]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ub1ivilmzSc" target="_blank" rel="noopener noreferrer">Andy Zou – Top-Down Interpretability for AI Safety [Alignment Workshop]</a></p><p class="youtube-embed-meta">Channel: FAR․AI &middot; Views: 1.0K &middot; Uploaded: December 2024 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ub1ivilmzSc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ub1ivilmzSc">Open on YouTube</a></p></div></div></div>
@@ -342,21 +342,21 @@ Supporters of combining interpretability with safety measures usually advance se
 
 First, interpretability potentially reduces dependence on trust. Instead of assuming that a model is aligned because it behaves well, researchers could inspect aspects of the internal machinery generating that behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://alignmentproject.aisi.gov.uk/research-area/interpretability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alignmentproject.aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alignmentproject.aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteInterpretability — Alignment Project by AISIInterpretability provides access to AI systems&#x27; internal mechanisms, off...</span></span></span>
 
-Second, it may improve incident response. If an advanced system behaves unexpectedly, mechanistic tools could help identify the source of the problem more quickly than behavioural investigation alone. Understanding failure mechanisms is often essential for correcting them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.14082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Mechanistic Interpretability for AI Safety -- A Review</span><span class="citation-popover-snippet">arXivMechanistic Interpretability for AI Safety -- A ReviewApril 22, 2024...</span><span class="citation-popover-meta">Published: April 22, 2024</span></span></span>
+Second, it may improve incident response. If an advanced system behaves unexpectedly, mechanistic tools could help identify the source of the problem more quickly than behavioural investigation alone. Understanding failure mechanisms is often essential for correcting them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.14082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Mechanistic Interpretability for AI Safety -- A Review</span><span class="citation-popover-snippet">Mechanistic Interpretability for AI Safety -- A ReviewApril 22, 2024...</span><span class="citation-popover-meta">Published: April 22, 2024</span></span></span>
 
 Third, interpretability could make safety evaluations more informative. Current evaluations reveal whether a model passes or fails a test. Internal analysis may help explain why it passes or fails and whether the result should be trusted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://alignmentproject.aisi.gov.uk/research-area/interpretability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alignmentproject.aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alignmentproject.aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteInterpretability — Alignment Project by AISIInterpretability provides access to AI systems&#x27; internal mechanisms, off...</span></span></span>
 
-Finally, proponents argue that future frontier systems may become too capable for purely behavioural oversight. If models can adapt to tests, manipulate evaluators, or conceal dangerous capabilities, then access to internal representations may become increasingly important. This concern is particularly salient in discussions of deceptive alignment and hidden goals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.14082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Mechanistic Interpretability for AI Safety -- A Review</span><span class="citation-popover-snippet">arXivMechanistic Interpretability for AI Safety -- A ReviewApril 22, 2024...</span><span class="citation-popover-meta">Published: April 22, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://leonardbereska.github.io/blog/2024/mechinterpreview/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leonardbereska.github.io">[2leonardbereska.github.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leonardbereska.github.io</span><span class="citation-popover-snippet">deception can be subtle, gradual, and, at first, entirely internal.... deceptive alignment: When a misaligned model aims to appear align...</span></span></span>
+Finally, proponents argue that future frontier systems may become too capable for purely behavioural oversight. If models can adapt to tests, manipulate evaluators, or conceal dangerous capabilities, then access to internal representations may become increasingly important. This concern is particularly salient in discussions of deceptive alignment and hidden goals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.14082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Mechanistic Interpretability for AI Safety -- A Review</span><span class="citation-popover-snippet">Mechanistic Interpretability for AI Safety -- A ReviewApril 22, 2024...</span><span class="citation-popover-meta">Published: April 22, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://leonardbereska.github.io/blog/2024/mechinterpreview/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leonardbereska.github.io">[2leonardbereska.github.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leonardbereska.github.io</span><span class="citation-popover-snippet">deception can be subtle, gradual, and, at first, entirely internal.... deceptive alignment: When a misaligned model aims to appear align...</span></span></span>
 
 ## Why Many Researchers Remain Cautious
 
 Even among AI safety researchers, enthusiasm for interpretability is tempered by significant doubts.
 
-The first concern is scale. Modern frontier models contain vast numbers of parameters and highly distributed computations. Researchers can identify meaningful features and circuits, but understanding a substantial fraction of a frontier model remains far beyond current capabilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.14082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Mechanistic Interpretability for AI Safety -- A Review</span><span class="citation-popover-snippet">arXivMechanistic Interpretability for AI Safety -- A ReviewApril 22, 2024...</span><span class="citation-popover-meta">Published: April 22, 2024</span></span></span>
+The first concern is scale. Modern frontier models contain vast numbers of parameters and highly distributed computations. Researchers can identify meaningful features and circuits, but understanding a substantial fraction of a frontier model remains far beyond current capabilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.14082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Mechanistic Interpretability for AI Safety -- A Review</span><span class="citation-popover-snippet">Mechanistic Interpretability for AI Safety -- A ReviewApril 22, 2024...</span><span class="citation-popover-meta">Published: April 22, 2024</span></span></span>
 
-The second concern is actionability. Finding an interpretable representation does not necessarily mean researchers can use it to improve safety. Recent studies have highlighted a gap between detecting internal information and reliably steering behaviour using that information. Models may possess relevant internal knowledge without translating that knowledge into safer outputs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.14082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Mechanistic Interpretability for AI Safety -- A Review</span><span class="citation-popover-snippet">arXivMechanistic Interpretability for AI Safety -- A ReviewApril 22, 2024...</span><span class="citation-popover-meta">Published: April 22, 2024</span></span></span>
+The second concern is actionability. Finding an interpretable representation does not necessarily mean researchers can use it to improve safety. Recent studies have highlighted a gap between detecting internal information and reliably steering behaviour using that information. Models may possess relevant internal knowledge without translating that knowledge into safer outputs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.14082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Mechanistic Interpretability for AI Safety -- A Review</span><span class="citation-popover-snippet">Mechanistic Interpretability for AI Safety -- A ReviewApril 22, 2024...</span><span class="citation-popover-meta">Published: April 22, 2024</span></span></span>
 
-A third concern is adversarial adaptation. If advanced systems become strategically aware, they may learn to evade oversight mechanisms. Some recent research has explored scenarios in which models generate deceptive explanations or coordinate to fool automated interpretability systems, suggesting that interpretability tools themselves may become targets of manipulation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.14082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Mechanistic Interpretability for AI Safety -- A Review</span><span class="citation-popover-snippet">arXivMechanistic Interpretability for AI Safety -- A ReviewApril 22, 2024...</span><span class="citation-popover-meta">Published: April 22, 2024</span></span></span>
+A third concern is adversarial adaptation. If advanced systems become strategically aware, they may learn to evade oversight mechanisms. Some recent research has explored scenarios in which models generate deceptive explanations or coordinate to fool automated interpretability systems, suggesting that interpretability tools themselves may become targets of manipulation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.14082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Mechanistic Interpretability for AI Safety -- A Review</span><span class="citation-popover-snippet">Mechanistic Interpretability for AI Safety -- A ReviewApril 22, 2024...</span><span class="citation-popover-meta">Published: April 22, 2024</span></span></span>
 
 Finally, critics argue that interpretability should not be treated as a magic detector for hidden goals. Even supporters increasingly frame it as one component within a broader safety portfolio rather than a definitive solution. The objective is often described as increasing the chances of catching dangerous behaviour and making deception more difficult, not guaranteeing perfect detection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alignmentforum.org/posts/aDDjCJAGqcpmA5apw/eis-viii-an-engineer-s-understanding-of-deceptive-alignment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alignmentforum.org">[Alignment Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alignmentforum.org</span><span class="citation-popover-title">As AI safety researchers, we care a lot about deceptive alignment.Read more</span><span class="citation-popover-snippet">Alignment ForumEIS VIII: An Engineer&#x27;s Understanding of Deceptive...Feb 19, 2023 — DeceptionDeceptive AlignmentInterpretability (ML &amp; AI...</span></span></span>
 
@@ -369,17 +369,12 @@ In the context of AI existential risk, the most realistic vision is not complete
 Under this model:
 
 * Evaluations identify dangerous capabilities and behaviours.
-* Monitoring systems track internal warning signs during [deployment]({{ 'release-gates/' | relative_url }}).
-
-<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
-
+* Monitoring systems track internal warning signs during deployment.
 * Interpretability tools help explain failures and detect anomalies.
 * White-box control methods intervene when risky internal states appear.
-* Human oversight remains available for high-consequence decisions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://alignmentproject.aisi.gov.uk/research-area/interpretability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alignmentproject.aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alignmentproject.aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteInterpretability — Alignment Project by AISIInterpretability provides access to AI systems&#x27; internal mechanisms, off...</span></span></span>
+* [Human oversight]({{ 'human-oversight/' | relative_url }}) remains available for high-consequence decisions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://alignmentproject.aisi.gov.uk/research-area/interpretability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alignmentproject.aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alignmentproject.aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteInterpretability — Alignment Project by AISIInterpretability provides access to AI systems&#x27; internal mechanisms, off...</span></span></span>
 
-</div>
-
-Whether this architecture can scale to systems far more capable than today's models remains uncertain. Yet within AI doom discussions, its importance lies in the possibility of reducing one of the central risks: that humanity could lose control of increasingly powerful systems without understanding what they are doing internally. Mechanistic interpretability becomes most relevant not as an isolated research field, but as a tool integrated into a broader effort to monitor, evaluate, constrain, and ultimately govern advanced AI behaviour before hidden failure modes become catastrophic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.14082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Mechanistic Interpretability for AI Safety -- A Review</span><span class="citation-popover-snippet">arXivMechanistic Interpretability for AI Safety -- A ReviewApril 22, 2024...</span><span class="citation-popover-meta">Published: April 22, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://alignmentproject.aisi.gov.uk/research-area/interpretability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alignmentproject.aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alignmentproject.aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteInterpretability — Alignment Project by AISIInterpretability provides access to AI systems&#x27; internal mechanisms, off...</span></span></span>
+Whether this architecture can scale to systems far more capable than today's models remains uncertain. Yet within AI doom discussions, its importance lies in the possibility of reducing one of the central risks: that humanity could lose control of increasingly powerful systems without understanding what they are doing internally. Mechanistic interpretability becomes most relevant not as an isolated research field, but as a tool integrated into a broader effort to monitor, evaluate, constrain, and ultimately govern advanced AI behaviour before hidden failure modes become catastrophic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.14082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Mechanistic Interpretability for AI Safety -- A Review</span><span class="citation-popover-snippet">Mechanistic Interpretability for AI Safety -- A ReviewApril 22, 2024...</span><span class="citation-popover-meta">Published: April 22, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://alignmentproject.aisi.gov.uk/research-area/interpretability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alignmentproject.aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alignmentproject.aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteInterpretability — Alignment Project by AISIInterpretability provides access to AI systems&#x27; internal mechanisms, off...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_pgwIsiziEc" title="Mechanistic Interpretability for AI Alignment | Callum McDougall, Joseph Bloom | EAGxBerlin 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_pgwIsiziEc" target="_blank" rel="noopener noreferrer">Mechanistic Interpretability for AI Alignment | Callum McDougall, Joseph Bloom | EAGxBerlin 2023</a></p><p class="youtube-embed-meta">Channel: Effective Altruism &middot; Views: 690 &middot; Uploaded: October 2023 &middot; Length: 50 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_pgwIsiziEc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_pgwIsiziEc">Open on YouTube</a></p></div></div></div>
@@ -807,226 +802,226 @@ Whether this architecture can scale to systems far more capable than today's mod
 1. <a id="endnote-1"></a>
    Source: arxiv.org  
    Title: arXiv Mechanistic Interpretability for AI Safety -- A Review  
-   Link: [https://arxiv.org/abs/2404.14082](https://arxiv.org/abs/2404.14082)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivMechanistic Interpretability for AI Safety -- A ReviewApril 22, 2024...</p></details>
+   Link: <a href="https://arxiv.org/abs/2404.14082" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2404.14082</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanistic Interpretability for AI Safety -- A ReviewApril 22, 2024...</p></details>
    Published: April 22, 2024  
 
 2. <a id="endnote-2"></a>
    Source: alignmentproject.aisi.gov.uk  
-   Link: [https://alignmentproject.aisi.gov.uk/research-area/interpretability](https://alignmentproject.aisi.gov.uk/research-area/interpretability)  
+   Link: <a href="https://alignmentproject.aisi.gov.uk/research-area/interpretability" target="_blank" rel="noopener noreferrer nofollow">https://alignmentproject.aisi.gov.uk/research-area/interpretability</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security InstituteInterpretability — Alignment Project by AISIInterpretability provides access to AI systems&#x27; internal mechanisms, off...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2404.14082v2](https://arxiv.org/html/2404.14082v2)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivMechanistic Interpretability for AI Safety A ReviewTrojan Detection: Detecting deceptive alignment models is a key motivation for in...</p></details>
+   Link: <a href="https://arxiv.org/html/2404.14082v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2404.14082v2</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanistic Interpretability for AI Safety A ReviewTrojan Detection: Detecting deceptive alignment models is a key motivation for in...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: aisi.gov.uk  
-   Link: [https://www.aisi.gov.uk/blog/why-were-working-on-white-box-control](https://www.aisi.gov.uk/blog/why-were-working-on-white-box-control)  
+   Link: <a href="https://www.aisi.gov.uk/blog/why-were-working-on-white-box-control" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/blog/why-were-working-on-white-box-control</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security InstituteWhy we&#x27;re working on white box control | AISI WorkJul 10, 2025 — White box control involves altering or observing wh...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: GOV.UK  
    Title: ai safety institute approach to evaluations  
-   Link: [https://www.gov.uk/government/publications/ai-safety-institute-approach-to-evaluations/ai-safety-institute-approach-to-evaluations](https://www.gov.uk/government/publications/ai-safety-institute-approach-to-evaluations/ai-safety-institute-approach-to-evaluations)  
+   Link: <a href="https://www.gov.uk/government/publications/ai-safety-institute-approach-to-evaluations/ai-safety-institute-approach-to-evaluations" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-safety-institute-approach-to-evaluations/ai-safety-institute-approach-to-evaluations</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Feb 9, 2024 — AISI will assess potential risks of new models before and after they are deployed, including by evaluating for potentially...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: aisi.gov.uk  
    Title: inspect [evals](&#123;&#123; 'evals/' | relative_url &#125;&#125;)  
-   Link: [https://www.aisi.gov.uk/blog/inspect-evals](https://www.aisi.gov.uk/blog/inspect-evals)  
+   Link: <a href="https://www.aisi.gov.uk/blog/inspect-evals" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/blog/inspect-evals</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Announcing Inspect Evals | AISI Work13 Nov 2024 — Inspect Evals are built on top of Inspect AI, an open-source evaluation framework creat...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: leonardbereska.github.io  
-   Link: [https://leonardbereska.github.io/blog/2024/mechinterpreview/](https://leonardbereska.github.io/blog/2024/mechinterpreview/)  
+   Link: <a href="https://leonardbereska.github.io/blog/2024/mechinterpreview/" target="_blank" rel="noopener noreferrer nofollow">https://leonardbereska.github.io/blog/2024/mechinterpreview/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>deception can be subtle, gradual, and, at first, entirely internal.... deceptive alignment: When a misaligned model aims to appear align...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: aisi.gov.uk  
    Title: AI Security Institute Making safeguard evaluations actionable | AISI Work  
-   Link: [https://www.aisi.gov.uk/blog/making-safeguard-evaluations-actionable](https://www.aisi.gov.uk/blog/making-safeguard-evaluations-actionable)  
+   Link: <a href="https://www.aisi.gov.uk/blog/making-safeguard-evaluations-actionable" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/blog/making-safeguard-evaluations-actionable</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security InstituteMaking safeguard evaluations actionable | AISI WorkMay 29, 2025 — The AI Security Institute (AISI) conducts extensiv...</p></details>
    Published: May 29, 2025  
 
 9. <a id="endnote-9"></a>
    Source: aisi.gov.uk  
    Title: principles for safeguard evaluation  
-   Link: [https://www.aisi.gov.uk/blog/principles-for-safeguard-evaluation](https://www.aisi.gov.uk/blog/principles-for-safeguard-evaluation)  
+   Link: <a href="https://www.aisi.gov.uk/blog/principles-for-safeguard-evaluation" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/blog/principles-for-safeguard-evaluation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security InstitutePrinciples for safeguard evaluation | AISI WorkFeb 4, 2025 — At the AI Safety Institute, along with evaluating model...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: blopig.com  
    Title: A Beginner's  
-   Link: [https://www.blopig.com/blog/2026/05/peering-inside-the-black-box-a-beginners-introduction-to-mechanistic-interpretability/](https://www.blopig.com/blog/2026/05/peering-inside-the-black-box-a-beginners-introduction-to-mechanistic-interpretability/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BlopigA Beginner&#x27;s Introduction to Mechanistic Interpretability18 May 2026 — Arguably the greatest surge of interest in the field was cat...</p></details>
+   Link: <a href="https://www.blopig.com/blog/2026/05/peering-inside-the-black-box-a-beginners-introduction-to-mechanistic-interpretability/" target="_blank" rel="noopener noreferrer nofollow">https://www.blopig.com/blog/2026/05/peering-inside-the-black-box-a-beginners-introduction-to-mechanistic-interpretability/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Beginner&#x27;s Introduction to Mechanistic Interpretability18 May 2026 — Arguably the greatest surge of interest in the field was cat...</p></details>
    Published: May 2026  
 
 11. <a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2403.19647](https://arxiv.org/abs/2403.19647)  
+   Link: <a href="https://arxiv.org/abs/2403.19647" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.19647</a>  
 
 12. <a id="endnote-12"></a>
    Source: aisi.gov.uk  
-   Link: [https://www.aisi.gov.uk/research-agenda](https://www.aisi.gov.uk/research-agenda)  
+   Link: <a href="https://www.aisi.gov.uk/research-agenda" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/research-agenda</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security InstituteAISI Research Agenda | The AI Security InstituteWe outline our research priorities, our approach to developing techn...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2501.16496v1](https://arxiv.org/html/2501.16496v1)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivOpen Problems in Mechanistic Interpretability27 Jan 2025 — This forward-facing review discusses the current frontier of mechanistic...</p></details>
+   Link: <a href="https://arxiv.org/html/2501.16496v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2501.16496v1</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Open Problems in Mechanistic Interpretability27 Jan 2025 — This forward-facing review discusses the current frontier of mechanistic...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2603.18353](https://arxiv.org/abs/2603.18353)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivInterpretability without actionability: mechanistic methods cannot correct language model errors despite near-perfect internal repre...</p></details>
+   Link: <a href="https://arxiv.org/abs/2603.18353" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.18353</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Interpretability without actionability: mechanistic methods cannot correct language model errors despite near-perfect internal repre...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2504.07831](https://arxiv.org/abs/2504.07831)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivDeceptive Automated Interpretability: Language Models Coordinating to Fool Oversight SystemsApril 10, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2504.07831" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2504.07831</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deceptive Automated Interpretability: Language Models Coordinating to Fool Oversight SystemsApril 10, 2025...</p></details>
    Published: April 10, 2025  
 
 16. <a id="endnote-16"></a>
    Source: github.com  
-   Link: [https://github.com/UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai)  
+   Link: <a href="https://github.com/UKGovernmentBEIS/inspect_ai" target="_blank" rel="noopener noreferrer nofollow">https://github.com/UKGovernmentBEIS/inspect_ai</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UKGovernmentBEIS/inspect_ai: Inspect: A framework for...A framework for large language model evaluations created by the UK AI Security I...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: github.com  
-   Link: [https://github.com/zepingyu0512/awesome-llm-understanding-mechanism](https://github.com/zepingyu0512/awesome-llm-understanding-mechanism)  
+   Link: <a href="https://github.com/zepingyu0512/awesome-llm-understanding-mechanism" target="_blank" rel="noopener noreferrer nofollow">https://github.com/zepingyu0512/awesome-llm-understanding-mechanism</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Awesome Papers for Understanding LLM MechanismThis list focuses on understanding the internal mechanism of large language models (LLM). W...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: github.com  
-   Link: [https://github.com/llmsresearch/ai-biology](https://github.com/llmsresearch/ai-biology)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Language Models (LLMs), based on interpretability research by [Anthropic](&amp;#123;&amp;#123; &#x27;anthropic-tests/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link: <a href="https://github.com/llmsresearch/ai-biology" target="_blank" rel="noopener noreferrer nofollow">https://github.com/llmsresearch/ai-biology</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Language Models (LLMs), based on interpretability research by Anthropic...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: aisi.gov.uk  
-   Link: [https://www.aisi.gov.uk/](https://www.aisi.gov.uk/)  
+   Link: <a href="https://www.aisi.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>facilitates rigorous research to enable advanced AI...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: aisi.gov.uk  
-   Link: [https://www.aisi.gov.uk/research](https://www.aisi.gov.uk/research)  
+   Link: <a href="https://www.aisi.gov.uk/research" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/research</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AISI Research &amp; Publications | The AI Security InstituteBreaking agent backbones: Evaluating the security of backbone LLMs in AI agents...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: aisi.gov.uk  
-   Link: [https://www.aisi.gov.uk/blog](https://www.aisi.gov.uk/blog)  
+   Link: <a href="https://www.aisi.gov.uk/blog" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/blog</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AISI Blog | The AI Security InstituteWe open-sourced our framework for large language model evaluation, which provides facilities for pro...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: hannamw.github.io  
-   Link: [https://hannamw.github.io/](https://hannamw.github.io/)  
+   Link: <a href="https://hannamw.github.io/" target="_blank" rel="noopener noreferrer nofollow">https://hannamw.github.io/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Michael Hanna | Michael Hanna&#x27;s personal websiteMany colleagues and I have a paper accepted to ICML 2025 on a new Mechanistic Interpretab...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: far.ai  
-   Link: [https://far.ai/about/newsletters/2025-q1-ai-safety](https://far.ai/about/newsletters/2025-q1-ai-safety)  
+   Link: <a href="https://far.ai/about/newsletters/2025-q1-ai-safety" target="_blank" rel="noopener noreferrer nofollow">https://far.ai/about/newsletters/2025-q1-ai-safety</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2025 Q1: AI Safety: From Research to Global ActionThrough keynotes, lightning talks, and hands-on demos, attendees gained crucial insight...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: GOV.UK  
    Title: ai safety institute approach to evaluations  
-   Link: [https://www.gov.uk/government/publications/ai-safety-institute-approach-to-evaluations](https://www.gov.uk/government/publications/ai-safety-institute-approach-to-evaluations)  
+   Link: <a href="https://www.gov.uk/government/publications/ai-safety-institute-approach-to-evaluations" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-safety-institute-approach-to-evaluations</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Safety Institute approach to evaluations9 Feb 2024 — AI Safety Institute (AISI) approach to evaluations and testing of advanced AI system...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: inspect.aisi.org.uk  
-   Link: [https://inspect.aisi.org.uk/](https://inspect.aisi.org.uk/)  
+   Link: <a href="https://inspect.aisi.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://inspect.aisi.org.uk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AIWelcome. Inspect is a framework for frontier [AI evaluations](&amp;#123;&amp;#123; &#x27;ai-evaluations/&#x27; | relative_url &amp;#125;&amp;#125;) developed by the UK AI Security Institute and Meridian Labs. Inspect can be...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: alignmentforum.org  
    Title: As AI safety researchers, we care a lot about deceptive alignment.Read more  
-   Link: [https://www.alignmentforum.org/posts/aDDjCJAGqcpmA5apw/eis-viii-an-engineer-s-understanding-of-deceptive-alignment](https://www.alignmentforum.org/posts/aDDjCJAGqcpmA5apw/eis-viii-an-engineer-s-understanding-of-deceptive-alignment)  
+   Link: <a href="https://www.alignmentforum.org/posts/aDDjCJAGqcpmA5apw/eis-viii-an-engineer-s-understanding-of-deceptive-alignment" target="_blank" rel="noopener noreferrer nofollow">https://www.alignmentforum.org/posts/aDDjCJAGqcpmA5apw/eis-viii-an-engineer-s-understanding-of-deceptive-alignment</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alignment ForumEIS VIII: An Engineer&#x27;s Understanding of Deceptive...Feb 19, 2023 — DeceptionDeceptive AlignmentInterpretability (ML &amp; AI...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/technology/2025/nov/04/experts-find-flaws-hundreds-tests-check-ai-safety-effectiveness](https://www.theguardian.com/technology/2025/nov/04/experts-find-flaws-hundreds-tests-check-ai-safety-effectiveness)  
+   Link: <a href="https://www.theguardian.com/technology/2025/nov/04/experts-find-flaws-hundreds-tests-check-ai-safety-effectiveness" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2025/nov/04/experts-find-flaws-hundreds-tests-check-ai-safety-effectiveness</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The study found nearly all benchmarks had weaknesses, with some being misleading or irrelevant, thereby undermining claims about AI model...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: alignmentforum.org  
    Title: interpretability will not reliably find deceptive ai  
-   Link: [https://www.alignmentforum.org/posts/PwnadG4BFjaER3MGf/interpretability-will-not-reliably-find-deceptive-ai](https://www.alignmentforum.org/posts/PwnadG4BFjaER3MGf/interpretability-will-not-reliably-find-deceptive-ai)  
+   Link: <a href="https://www.alignmentforum.org/posts/PwnadG4BFjaER3MGf/interpretability-will-not-reliably-find-deceptive-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.alignmentforum.org/posts/PwnadG4BFjaER3MGf/interpretability-will-not-reliably-find-deceptive-ai</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alignment ForumInterpretability Will Not Reliably Find Deceptive AIMay 4, 2025 — The goal shifts from achieving near-certainty to maximiz...</p></details>
    Published: May 4, 2025  
 
 29. <a id="endnote-29"></a>
    Source: inspect.aisi.org.uk  
    Title: aisi.org.uk Evals  
-   Link: [https://inspect.aisi.org.uk/evals/](https://inspect.aisi.org.uk/evals/)  
+   Link: <a href="https://inspect.aisi.org.uk/evals/" target="_blank" rel="noopener noreferrer nofollow">https://inspect.aisi.org.uk/evals/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Inspect AIA large-scale, high-quality cybersecurity evaluation framework designed to rigorously assess the capabilities of AI agents on r...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: alignmentforum.org  
    Title: U K AISI's Alignment Team: Research Agenda  
-   Link: [https://www.alignmentforum.org/posts/tbnw7LbNApvxNLAg8/uk-aisi-s-alignment-team-research-agenda](https://www.alignmentforum.org/posts/tbnw7LbNApvxNLAg8/uk-aisi-s-alignment-team-research-agenda)  
+   Link: <a href="https://www.alignmentforum.org/posts/tbnw7LbNApvxNLAg8/uk-aisi-s-alignment-team-research-agenda" target="_blank" rel="noopener noreferrer nofollow">https://www.alignmentforum.org/posts/tbnw7LbNApvxNLAg8/uk-aisi-s-alignment-team-research-agenda</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UK AISI&#x27;s Alignment Team: Research AgendaMay 7, 2025 — The AISI Alignment Team focuses on research relevant to reducing risks to safety a...</p></details>
    Published: May 7, 2025  
 
 31. <a id="endnote-31"></a>
    Source: linkedin.com  
    Title: Leonard Bereska  
-   Link: [https://www.linkedin.com/posts/leonard-bereska_mechanistic-interpretability-for-ai-safety-activity-7239734092341161984-pQnI](https://www.linkedin.com/posts/leonard-bereska_mechanistic-interpretability-for-ai-safety-activity-7239734092341161984-pQnI)  
+   Link: <a href="https://www.linkedin.com/posts/leonard-bereska_mechanistic-interpretability-for-ai-safety-activity-7239734092341161984-pQnI" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/leonard-bereska_mechanistic-interpretability-for-ai-safety-activity-7239734092341161984-pQnI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanistic Interpretability for AI SafetyOur review paper, &quot;Mechanistic Interpretability for AI Safety — A Review&quot; is published in TMLR...</p></details>
 
 ### Additional References
 
 32. <a id="endnote-32"></a>
    Source: ai-evaluation.org  
-   Link: [https://ai-evaluation.org/programme](https://ai-evaluation.org/programme)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apply Today — International Programme on AI EvaluationJoin the International Programme on AI Evaluation to develop [expertise](&amp;#123;&amp;#123; &#x27;expertise-erosion/&#x27; | relative_url &amp;#125;&amp;#125;) in AI capabi...</p></details>
+   Link: <a href="https://ai-evaluation.org/programme" target="_blank" rel="noopener noreferrer nofollow">https://ai-evaluation.org/programme</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apply Today — International Programme on AI EvaluationJoin the International Programme on AI Evaluation to develop expertise in AI capabi...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: anthropic.com  
-   Link: [https://www.anthropic.com/research/team/interpretability](https://www.anthropic.com/research/team/interpretability)  
+   Link: <a href="https://www.anthropic.com/research/team/interpretability" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/research/team/interpretability</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Interpretability ResearchThe mission of the Interpretability team is to discover and understand how large language models work internally...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/singularity/comments/1cxbh3e/new_anthropic_paper_on_mechanistic/](https://www.reddit.com/r/singularity/comments/1cxbh3e/new_anthropic_paper_on_mechanistic/)  
+   Link: <a href="https://www.reddit.com/r/singularity/comments/1cxbh3e/new_anthropic_paper_on_mechanistic/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/singularity/comments/1cxbh3e/new_anthropic_paper_on_mechanistic/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New Anthropic paper on mechanistic interpretabilityThe research team extracted millions of interpretable features from Claude Sonnet, som...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: transformer-circuits.pub  
-   Link: [https://transformer-circuits.pub/](https://transformer-circuits.pub/)  
+   Link: <a href="https://transformer-circuits.pub/" target="_blank" rel="noopener noreferrer nofollow">https://transformer-circuits.pub/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Transformer Circuits ThreadAnthropic&#x27;s Interpretability Research. A surprising fact about modern large language models is that nobody rea...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40ml-point/mechanistic-interpretability-in-anthropics-claude-sonnet-c5fea2cfe37a](https://medium.com/%40ml-point/mechanistic-interpretability-in-anthropics-claude-sonnet-c5fea2cfe37a)  
+   Link: <a href="https://medium.com/%40ml-point/mechanistic-interpretability-in-anthropics-claude-sonnet-c5fea2cfe37a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40ml-point/mechanistic-interpretability-in-anthropics-claude-sonnet-c5fea2cfe37a</a>  
 
 37. <a id="endnote-37"></a>
    Source: lexsi.ai  
    Title: interpretability as alignment making internal understanding a design principle  
-   Link: [https://lexsi.ai/resources/research-papers/interpretability-as-alignment-making-internal-understanding-a-design-principle](https://lexsi.ai/resources/research-papers/interpretability-as-alignment-making-internal-understanding-a-design-principle)  
+   Link: <a href="https://lexsi.ai/resources/research-papers/interpretability-as-alignment-making-internal-understanding-a-design-principle" target="_blank" rel="noopener noreferrer nofollow">https://lexsi.ai/resources/research-papers/interpretability-as-alignment-making-internal-understanding-a-design-principle</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Interpretability also provides a unique defense against deceptive alignment, where a model appears aligned...Read more...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: linkedin.com  
    Title: U K AI Safety Institute Releases Evaluation Suite for Agentic  
-   Link: [https://www.linkedin.com/posts/asteris-ai_aisafety-uktech-regulation-activity-7434376263852523521-bCNv](https://www.linkedin.com/posts/asteris-ai_aisafety-uktech-regulation-activity-7434376263852523521-bCNv)  
+   Link: <a href="https://www.linkedin.com/posts/asteris-ai_aisafety-uktech-regulation-activity-7434376263852523521-bCNv" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/asteris-ai_aisafety-uktech-regulation-activity-7434376263852523521-bCNv</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Safety Institute has officially released its new suite of evaluations for Agentic AI. This is one of the first government-led framewor...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: aisecurityandsafety.org  
    Title: AI Security & Safety Directory Mechanistic Interpretability  
-   Link: [https://aisecurityandsafety.org/glossary/mechanistic-interpretability/](https://aisecurityandsafety.org/glossary/mechanistic-interpretability/)  
+   Link: <a href="https://aisecurityandsafety.org/glossary/mechanistic-interpretability/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/glossary/mechanistic-interpretability/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>alignment properties, and identify deceptive reasoning patterns in advanced AI systems.... AI safety? By understanding the internal...R...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: themoonlight.io  
-   Link: [https://www.themoonlight.io/en/review/interpretability-as-alignment-making-internal-understanding-a-design-principle](https://www.themoonlight.io/en/review/interpretability-as-alignment-making-internal-understanding-a-design-principle)  
+   Link: <a href="https://www.themoonlight.io/en/review/interpretability-as-alignment-making-internal-understanding-a-design-principle" target="_blank" rel="noopener noreferrer nofollow">https://www.themoonlight.io/en/review/interpretability-as-alignment-making-internal-understanding-a-design-principle</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>atent misaligned goals, reward hacking, or deceptive reasoning that behavioral...Read more...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: intuitionlabs.ai  
    Title: understanding mechanistic interpretability in ai models  
-   Link: [https://intuitionlabs.ai/pdfs/understanding-mechanistic-interpretability-in-ai-models.pdf](https://intuitionlabs.ai/pdfs/understanding-mechanistic-interpretability-in-ai-models.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aug 16, 2025 — By opening up the [black box](&amp;#123;&amp;#123; &#x27;black-box-evidence/&#x27; | relative_url &amp;#125;&amp;#125;), we aim to catch issues like deceptive reasoning or unintended objectives before they cause harm...</p></details>
+   Link: <a href="https://intuitionlabs.ai/pdfs/understanding-mechanistic-interpretability-in-ai-models.pdf" target="_blank" rel="noopener noreferrer nofollow">https://intuitionlabs.ai/pdfs/understanding-mechanistic-interpretability-in-ai-models.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aug 16, 2025 — By opening up the black box, we aim to catch issues like deceptive reasoning or unintended objectives before they cause harm...</p></details>

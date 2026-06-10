@@ -12,21 +12,21 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38
 - AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - governance
 - cloud-oversight
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - governance
 - cloud-oversight
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Cloud platforms could become enforcement points for tracking large AI training jobs and identifying high-risk activity.
 hero_summary: Cloud platforms could become enforcement points for tracking large AI training jobs and identifying high-risk activity.
 layout: default
 permalink: /cloud-oversight/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /governance/
 nav_short_title: Cloud Oversight
 title: Can Cloud Providers Police Frontier AI Training?
@@ -205,6 +205,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-02 12:01:05'
 parent_title: What Rules Could Reduce AI Doom Risk? | AI Doom
 parent_permalink: /governance/
 parent_nav_short_title: Governance
@@ -212,20 +213,20 @@ parent_heading_title: What Rules Could Reduce AI Doom Risk?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_compute_gover_1ee8fc
-  title: Governance | AI Doom and
+  title: Governance | AI Doom and E 87399 b
   permalink: /governance/
   short_title: Governance
   heading_title: What Rules Could Reduce AI Doom Risk?
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_compute_gover_1ee8fc
-  title: Governance | AI Doom and
+  title: Governance | AI Doom and E 87399 b
   permalink: /governance/
   short_title: Governance
   heading_title: What Rules Could Reduce AI Doom Risk?
@@ -263,7 +264,7 @@ child_links:
   heading_title: Can clouds really spot frontier AI training?
 up_link:
   basename: AI_Doom_and_E_87399b_compute_gover_1ee8fc
-  title: Governance | AI Doom and
+  title: Governance | AI Doom and E 87399 b
   permalink: /governance/
   short_title: Governance
   heading_title: What Rules Could Reduce AI Doom Risk?
@@ -279,7 +280,6 @@ next_link:
   permalink: /safety-checks/
   short_title: Safety Checks
   heading_title: Should Frontier Models Pass Safety Checks First?
-date: '2026-06-02 12:01:05 '
 header:
   og_image: /assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549-Illustration-1.webp
@@ -292,13 +292,13 @@ Cloud providers sit at the centre of many proposals for governing frontier AI. T
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549-Illustration-1-dark.svg" | relative_url }}" alt="Cloud Oversight illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within debates about [AI doom and]({{ 'ai-doom-and/' | relative_url }}) existential risk, cloud monitoring is usually presented as a specific implementation mechanism within broader compute governance. The goal is not to prove that advanced AI will become existentially [dangerous]({{ 'autonomy/' | relative_url }}), but to create visibility and intervention points if highly capable systems begin to emerge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Within debates about AI doom and existential risk, cloud monitoring is usually presented as a specific implementation mechanism within broader compute governance. The goal is not to prove that advanced AI will become existentially dangerous, but to create visibility and intervention points if highly capable systems begin to emerge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## Why Clouds Are a Governance Choke Point
 
 A recurring observation in AI governance is that frontier model training is unusually concentrated. Training the largest systems often requires vast clusters of specialised AI chips, extensive engineering support, and access to data-centre infrastructure that only a small number of companies can provide. Researchers have therefore argued that cloud providers occupy a natural "choke point" in the AI ecosystem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ojs.aaai.org/index.php/AAAI/article/view/41127/45088" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ojs.aaai.org">[AAAI Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ojs.aaai.org</span><span class="citation-popover-snippet">AAAI PublicationsDetecting Compute Structuring in AI Governance Is Likely...by E Seferis · 2026 — A1: There are only a few cloud provide...</span></span></span>
 
-For AI doom advocates, this concentration matters because it creates one of the few locations where monitoring may be technically and economically feasible. Instead of tracking millions of users or software projects, regulators could focus on a relatively small number of infrastructure providers. Cloud operators already collect information about workloads for billing, resource allocation, security, and [operational]({{ 'operational-thresholds/' | relative_url }}) management, meaning some of the information needed for oversight may already exist within normal business processes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.robots.ox.ac.uk/~mosb/public/pdf/3343/Heim%20et%20al.%20-%202024%20-%20Governing%20Through%20the%20Cloud%20The%20Intermediary%20Role.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: robots.ox.ac.uk">[robots.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">robots.ox.ac.uk</span><span class="citation-popover-title">Heim et al. 2024 Governing Through the Cloud The Intermediary Role</span><span class="citation-popover-snippet">THE INTERMEDIARY ROLE OF COMPUTE PROVIDERS...26 Mar 2024 — They store and process valuable technical data during large AI deployments an...</span></span></span>
+For AI doom advocates, this concentration matters because it creates one of the few locations where monitoring may be technically and economically feasible. Instead of tracking millions of users or software projects, regulators could focus on a relatively small number of infrastructure providers. Cloud operators already collect information about workloads for billing, resource allocation, security, and operational management, meaning some of the information needed for oversight may already exist within normal business processes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.robots.ox.ac.uk/~mosb/public/pdf/3343/Heim%20et%20al.%20-%202024%20-%20Governing%20Through%20the%20Cloud%20The%20Intermediary%20Role.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: robots.ox.ac.uk">[robots.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">robots.ox.ac.uk</span><span class="citation-popover-title">Heim et al. 2024 Governing Through the Cloud The Intermediary Role</span><span class="citation-popover-snippet">THE INTERMEDIARY ROLE OF COMPUTE PROVIDERS...26 Mar 2024 — They store and process valuable technical data during large AI deployments an...</span></span></span>
 
 Supporters of cloud oversight typically point to three advantages:
 
@@ -311,7 +311,7 @@ Supporters of cloud oversight typically point to three advantages:
 
 </div>
 
-From an existential-risk perspective, the attraction is that warning signs of potentially dangerous capability development could become visible before systems are deployed.
+From an existential-risk perspective, the attraction is that [warning signs]({{ 'warning-signs/' | relative_url }}) of potentially dangerous capability development could become visible before systems are deployed.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tcmpaFUSo1g" title="Samuel Hammond on why AI Progress is Accelerating - and how Governments Should Respond" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tcmpaFUSo1g" target="_blank" rel="noopener noreferrer">Samuel Hammond on why AI Progress is Accelerating - and how Governments Should Respond</a></p><p class="youtube-embed-meta">Channel: Future of Life Institute &middot; Views: 2.9K &middot; Uploaded: August 2024 &middot; Length: 2 hours 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tcmpaFUSo1g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tcmpaFUSo1g">Open on YouTube</a></p></div></div></div>
@@ -332,7 +332,7 @@ Proposed monitoring schemes often include:
 
 Several policy discussions in the United States have moved in this direction. Following Executive Order 14110, the Department of Commerce proposed rules requiring infrastructure-as-a-service providers to establish customer identification procedures and report certain large AI training activities involving foreign actors. The objective was partly to improve visibility into advanced AI development and reduce opportunities for malicious use of American cloud infrastructure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.federalregister.gov/documents/2024/01/29/2024-01580/taking-additional-steps-to-address-the-national-emergency-with-respect-to-significant-malicious" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: federalregister.gov">[Federal Register]</a><span class="citation-popover" role="note"><span class="citation-popover-source">federalregister.gov</span><span class="citation-popover-title">Federal Register Proposed Rule</span><span class="citation-popover-snippet">Federal RegisterProposed RuleJanuary 29, 2024 — 29 Jan 2024 — The Executive order of October 30, 2023, “Safe, Secure, and Trustworthy Dev...</span><span class="citation-popover-meta">Published: January 29, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hoganlovells.com/en/publications/us-dept-of-commerce-proposes-new-know-your-customer-rules-for-cloud-services-and-ai-training" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hoganlovells.com">[2www.hoganlovells.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hoganlovells.com</span><span class="citation-popover-title">www.hoganlovells.com U.S</span><span class="citation-popover-snippet">Dept. of Commerce proposes new “Know Your...26 Feb 2024 — Reports on Large AI Model Training. The proposed rules would require U.S. IaaS...</span></span></span>
 
-For proponents of AI doom prevention, such reporting systems are valuable less because they stop dangerous AI automatically and more because they create awareness. A regulator cannot react to a frontier training run it does not know exists.
+For proponents of AI doom prevention, such reporting systems are valuable less because they stop dangerous AI automatically and more because they create [awareness]({{ 'awareness/' | relative_url }}). A regulator cannot react to a frontier training run it does not know exists.
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549-Illustration-2-dark.svg" | relative_url }}" alt="Cloud Oversight illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -344,24 +344,24 @@ Instead, researchers have argued that providers can often infer governance-relev
 
 This distinction matters because AI governance proposals frequently focus on monitoring compute consumption rather than monitoring model content. If a regulatory framework requires notification when training exceeds a specified threshold, providers may only need evidence that a threshold was crossed, not access to the model's weights, datasets, or proprietary research. <span class="citation-chip-wrap"><a class="citation-chip" href="https://law-ai.org/the-role-of-compute-thresholds-for-ai-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law-ai.org">[Institute for Law &amp; AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law-ai.org</span><span class="citation-popover-title">Institute for Law &amp; AIThe Role of Compute Thresholds for AI Governance</span><span class="citation-popover-snippet">February 20, 2025 — This article discusses the role of training compute thresholds, which use training compute to determine which potenti...</span><span class="citation-popover-meta">Published: February 20, 2025</span></span></span>
 
-Supporters argue this approach could reduce privacy concerns while still providing useful oversight. The cloud provider becomes an intermediary that verifies activity levels and customer identities rather than a direct reviewer of [AI research]({{ 'ai-research-loop/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Supporters argue this approach could reduce privacy concerns while still providing useful oversight. The cloud provider becomes an intermediary that verifies activity levels and customer identities rather than a direct reviewer of AI research. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## Why AI Doom Advocates Care About This Mechanism
 
 Many AI doom arguments involve scenarios in which highly capable systems are developed before adequate safety measures exist. In these narratives, one danger is that frontier capabilities emerge unexpectedly, perhaps inside a competitive race dynamic where organisations are incentivised to prioritise capability gains over caution.
 
-Cloud monitoring is attractive to some safety advocates because it could create earlier warning signals. If regulators receive notice that unusually large training runs are occurring, they may be able to require evaluations, audits, or additional safeguards before deployment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://futureoflife.org/document/bis-rule-for-establishment-of-reporting-requirements/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: futureoflife.org">[Future of Life Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">futureoflife.org</span><span class="citation-popover-title">bis rule for establishment of reporting requirements</span><span class="citation-popover-snippet">Expand quarterly reporting requirements to include an up-to-date overview of safety and security practices and prior applicable activitie...</span></span></span>
+Cloud monitoring is attractive to some safety advocates because it could create earlier warning signals. If regulators receive notice that unusually large training runs are occurring, they may be able to require [evaluations]({{ 'evaluations/' | relative_url }}), audits, or additional safeguards before deployment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://futureoflife.org/document/bis-rule-for-establishment-of-reporting-requirements/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: futureoflife.org">[Future of Life Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">futureoflife.org</span><span class="citation-popover-title">bis rule for establishment of reporting requirements</span><span class="citation-popover-snippet">Expand quarterly reporting requirements to include an up-to-date overview of safety and security practices and prior applicable activitie...</span></span></span>
 
 This does not solve the core alignment problem. A cloud provider cannot determine whether a model is genuinely aligned with human interests. However, supporters argue that visibility is a prerequisite for almost every other governance tool. Safety testing, incident response, and capability evaluation become difficult if policymakers do not know which systems are being trained in the first place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.heim.xyz/governing-through-the-cloud/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.heim.xyz">[Blog - Lennart Heim]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.heim.xyz</span><span class="citation-popover-snippet">Lennart HeimThe Intermediary Role of Compute Providers in AI Regulation13 Mar 2024 — We argue that compute providers should have legal ob...</span></span></span>
 
 For this reason, cloud oversight is often framed as an enabling mechanism rather than a complete solution to existential risk.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BGvQmHd4QPE" title="The threat of existential risk from AI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BGvQmHd4QPE" target="_blank" rel="noopener noreferrer">The threat of existential risk from AI</a></p><p class="youtube-embed-meta">Channel: Machine Learning Street Talk &middot; Views: 19.7K &middot; Uploaded: July 2024 &middot; Length: 49 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BGvQmHd4QPE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BGvQmHd4QPE">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1CB9dgUlNpg" title="Sara Hooker on compute thresholds for AI; CrowdStrike breaks the internet | Safe Mode" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1CB9dgUlNpg" target="_blank" rel="noopener noreferrer">Sara Hooker on compute thresholds for AI; CrowdStrike breaks the internet | Safe Mode</a></p><p class="youtube-embed-meta">Channel: CyberScoop &middot; Views: 279 &middot; Uploaded: July 2024 &middot; Length: 46 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1CB9dgUlNpg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1CB9dgUlNpg">Open on YouTube</a></p></div></div></div>
 
 ## Privacy, Enforcement and Evasion Risks
 
-The strongest objections focus on privacy, enforceability, and the possibility of circumvention.
+The strongest [objections]({{ 'objections/' | relative_url }}) focus on privacy, enforceability, and the possibility of circumvention.
 
 Privacy concerns arise because monitoring large training runs inevitably creates pressure for cloud providers to collect more information about customers and workloads. Even if providers only report metadata, critics worry about mission creep, commercial confidentiality, and the creation of surveillance infrastructure that extends beyond frontier AI. Researchers working on cloud-based governance generally acknowledge that balancing oversight with confidentiality is one of the central implementation challenges. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -370,7 +370,7 @@ Enforcement is another concern. A reporting requirement only helps if providers 
 Evasion is perhaps the most serious challenge from an AI doom perspective. If frontier development increasingly occurs on privately owned clusters, state-supported infrastructure, or hardware outside regulated jurisdictions, cloud monitoring may capture only part of the relevant activity. International coordination therefore becomes important. A system that works only in one country could push activity elsewhere rather than eliminate it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1CB9dgUlNpg" title="Sara Hooker on compute thresholds for AI; CrowdStrike breaks the internet | Safe Mode" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1CB9dgUlNpg" target="_blank" rel="noopener noreferrer">Sara Hooker on compute thresholds for AI; CrowdStrike breaks the internet | Safe Mode</a></p><p class="youtube-embed-meta">Channel: CyberScoop &middot; Views: 279 &middot; Uploaded: July 2024 &middot; Length: 46 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1CB9dgUlNpg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1CB9dgUlNpg">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pSDC2mmVQpg" title="The Existential Risk of AI is Being IGNORED (This is SCARY) – Matthew Syed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pSDC2mmVQpg" target="_blank" rel="noopener noreferrer">The Existential Risk of AI is Being IGNORED (This is SCARY) – Matthew Syed</a></p><p class="youtube-embed-meta">Channel: The Daily Heretic &middot; Views: 5.1K &middot; Uploaded: October 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pSDC2mmVQpg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pSDC2mmVQpg">Open on YouTube</a></p></div></div></div>
 
 ## Could Cloud Oversight Meaningfully Reduce Existential Risk?
 
@@ -775,147 +775,147 @@ The key [uncertainty]({{ 'uncertainty/' | relative_url }}) is not whether cloud 
 1. <a id="endnote-1"></a>
    Source: cdn.governance.ai  
    Title: Oversight for Frontier AI through a Know-Your-Customer  
-   Link: [https://cdn.governance.ai/Oversight_for_Frontier_AI_through_a_KYC_Scheme_for_Compute_Providers.pdf](https://cdn.governance.ai/Oversight_for_Frontier_AI_through_a_KYC_Scheme_for_Compute_Providers.pdf)  
+   Link: <a href="https://cdn.governance.ai/Oversight_for_Frontier_AI_through_a_KYC_Scheme_for_Compute_Providers.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.governance.ai/Oversight_for_Frontier_AI_through_a_KYC_Scheme_for_Compute_Providers.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 23, 2023 — by J Egan · 2023 · Cited by 19 — This paper recommends that the US government implement a Know-Your-Customer (KYC) sch...</p></details>
    Published: October 23, 2023  
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2403.08501](https://arxiv.org/abs/2403.08501)  
+   Link: <a href="https://arxiv.org/abs/2403.08501" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08501</a>  
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2310.13625](https://arxiv.org/abs/2310.13625)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivOversight for Frontier AI through a Know-Your-Customer Scheme for Compute ProvidersOctober 20, 2023...</p></details>
+   Link: <a href="https://arxiv.org/abs/2310.13625" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2310.13625</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Oversight for Frontier AI through a Know-Your-Customer Scheme for Compute ProvidersOctober 20, 2023...</p></details>
    Published: October 20, 2023  
 
 4. <a id="endnote-4"></a>
    Source: blog.heim.xyz  
-   Link: [https://blog.heim.xyz/governing-through-the-cloud/](https://blog.heim.xyz/governing-through-the-cloud/)  
+   Link: <a href="https://blog.heim.xyz/governing-through-the-cloud/" target="_blank" rel="noopener noreferrer nofollow">https://blog.heim.xyz/governing-through-the-cloud/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lennart HeimThe Intermediary Role of Compute Providers in AI Regulation13 Mar 2024 — We argue that compute providers should have legal ob...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ojs.aaai.org  
-   Link: [https://ojs.aaai.org/index.php/AAAI/article/view/41127/45088](https://ojs.aaai.org/index.php/AAAI/article/view/41127/45088)  
+   Link: <a href="https://ojs.aaai.org/index.php/AAAI/article/view/41127/45088" target="_blank" rel="noopener noreferrer nofollow">https://ojs.aaai.org/index.php/AAAI/article/view/41127/45088</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AAAI PublicationsDetecting Compute Structuring in AI Governance Is Likely...by E Seferis · 2026 — A1: There are only a few cloud provide...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: robots.ox.ac.uk  
    Title: Heim et al. 2024 Governing Through the Cloud The Intermediary Role  
-   Link: [https://www.robots.ox.ac.uk/~mosb/public/pdf/3343/Heim%20et%20al.%20-%202024%20-%20Governing%20Through%20the%20Cloud%20The%20Intermediary%20Role.pdf](https://www.robots.ox.ac.uk/~mosb/public/pdf/3343/Heim%20et%20al.%20-%202024%20-%20Governing%20Through%20the%20Cloud%20The%20Intermediary%20Role.pdf)  
+   Link: <a href="https://www.robots.ox.ac.uk/~mosb/public/pdf/3343/Heim%20et%20al.%20-%202024%20-%20Governing%20Through%20the%20Cloud%20The%20Intermediary%20Role.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.robots.ox.ac.uk/~mosb/public/pdf/3343/Heim%20et%20al.%20-%202024%20-%20Governing%20Through%20the%20Cloud%20The%20Intermediary%20Role.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE INTERMEDIARY ROLE OF COMPUTE PROVIDERS...26 Mar 2024 — They store and process valuable technical data during large AI deployments an...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: law-ai.org  
    Title: Institute for Law & AIThe Role of Compute Thresholds for AI Governance  
-   Link: [https://law-ai.org/the-role-of-compute-thresholds-for-ai-governance/](https://law-ai.org/the-role-of-compute-thresholds-for-ai-governance/)  
+   Link: <a href="https://law-ai.org/the-role-of-compute-thresholds-for-ai-governance/" target="_blank" rel="noopener noreferrer nofollow">https://law-ai.org/the-role-of-compute-thresholds-for-ai-governance/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 20, 2025 — This article discusses the role of training compute thresholds, which use training compute to determine which potenti...</p></details>
    Published: February 20, 2025  
 
 8. <a id="endnote-8"></a>
    Source: cdn.governance.ai  
    Title: Accessing Controlled AI Chips via Infrastructure as a Service  
-   Link: [https://cdn.governance.ai/Accessing_Controlled_AI_Chips_via_Infrastructure-as-a-Service.pdf](https://cdn.governance.ai/Accessing_Controlled_AI_Chips_via_Infrastructure-as-a-Service.pdf)  
+   Link: <a href="https://cdn.governance.ai/Accessing_Controlled_AI_Chips_via_Infrastructure-as-a-Service.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.governance.ai/Accessing_Controlled_AI_Chips_via_Infrastructure-as-a-Service.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Accessing Controlled AI Chips via Infrastructure-as-a-...15 Dec 2023 — The implementation of a cohesive KYC scheme will also ensure cons...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: hoganlovells.com  
    Title: www.hoganlovells.com U.S  
-   Link: [https://www.hoganlovells.com/en/publications/us-dept-of-commerce-proposes-new-know-your-customer-rules-for-cloud-services-and-ai-training](https://www.hoganlovells.com/en/publications/us-dept-of-commerce-proposes-new-know-your-customer-rules-for-cloud-services-and-ai-training)  
+   Link: <a href="https://www.hoganlovells.com/en/publications/us-dept-of-commerce-proposes-new-know-your-customer-rules-for-cloud-services-and-ai-training" target="_blank" rel="noopener noreferrer nofollow">https://www.hoganlovells.com/en/publications/us-dept-of-commerce-proposes-new-know-your-customer-rules-for-cloud-services-and-ai-training</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dept. of Commerce proposes new “Know Your...26 Feb 2024 — Reports on Large AI Model Training. The proposed rules would require U.S. IaaS...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: rand.org  
    Title: RRA3686 1  
-   Link: [https://www.rand.org/pubs/research_reports/RRA3686-1.html](https://www.rand.org/pubs/research_reports/RRA3686-1.html)  
+   Link: <a href="https://www.rand.org/pubs/research_reports/RRA3686-1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/research_reports/RRA3686-1.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RAND CorporationStrategies and Detection Gaps in a Game-Theoretic Model...16 Jun 2025 — The authors outline strategies for cloud service...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2604.04712v1](https://arxiv.org/html/2604.04712v1)  
+   Link: <a href="https://arxiv.org/html/2604.04712v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2604.04712v1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hardware-Level Governance of AI Compute: A Feasibility...6 Apr 2026 — This paper bridges the gap between AI governance and computer engi...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2412.03824](https://arxiv.org/pdf/2412.03824)  
+   Link: <a href="https://arxiv.org/pdf/2412.03824" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2412.03824</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Towards Data Governance of Frontier AI Modelsby J Hausenloy · 2024 · Cited by 5 — As a key input to the pre-training and fine- tuning of...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: ai-safety-atlas.com  
    Title: Compute Governance  
-   Link: [https://ai-safety-atlas.com/chapters/v1/governance/compute-governance](https://ai-safety-atlas.com/chapters/v1/governance/compute-governance)  
+   Link: <a href="https://ai-safety-atlas.com/chapters/v1/governance/compute-governance" target="_blank" rel="noopener noreferrer nofollow">https://ai-safety-atlas.com/chapters/v1/governance/compute-governance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 4The U.S. Executive Order on AI requires companies to notify the government about training runs exceeding 1 0 2 6 operations - a...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: federalregister.gov  
    Title: Federal Register Proposed Rule  
-   Link: [https://www.federalregister.gov/documents/2024/01/29/2024-01580/taking-additional-steps-to-address-the-national-emergency-with-respect-to-significant-malicious](https://www.federalregister.gov/documents/2024/01/29/2024-01580/taking-additional-steps-to-address-the-national-emergency-with-respect-to-significant-malicious)  
+   Link: <a href="https://www.federalregister.gov/documents/2024/01/29/2024-01580/taking-additional-steps-to-address-the-national-emergency-with-respect-to-significant-malicious" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2024/01/29/2024-01580/taking-additional-steps-to-address-the-national-emergency-with-respect-to-significant-malicious</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal RegisterProposed RuleJanuary 29, 2024 — 29 Jan 2024 — The Executive order of October 30, 2023, “Safe, Secure, and Trustworthy Dev...</p></details>
    Published: January 29, 2024  
 
 15. <a id="endnote-15"></a>
    Source: futureoflife.org  
    Title: bis rule for establishment of reporting requirements  
-   Link: [https://futureoflife.org/document/bis-rule-for-establishment-of-reporting-requirements/](https://futureoflife.org/document/bis-rule-for-establishment-of-reporting-requirements/)  
+   Link: <a href="https://futureoflife.org/document/bis-rule-for-establishment-of-reporting-requirements/" target="_blank" rel="noopener noreferrer nofollow">https://futureoflife.org/document/bis-rule-for-establishment-of-reporting-requirements/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Expand quarterly reporting requirements to include an up-to-date overview of safety and security practices and prior applicable activitie...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: aisecurityandsafety.org  
    Title: compute governance  
-   Link: [https://aisecurityandsafety.org/en/guides/compute-governance/](https://aisecurityandsafety.org/en/guides/compute-governance/)  
+   Link: <a href="https://aisecurityandsafety.org/en/guides/compute-governance/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/en/guides/compute-governance/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Controlling AI Through Hardware &amp; Compute Access (2026)3 Apr 2026 — Compute governance is an emerging policy approach that seeks to manag...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: frontier-economics.com  
-   Link: [https://www.frontier-economics.com/uk/en/news-and-insights/articles/article-i21406-ai-beyond-the-cloud-navigating-competition-innovation-and-regulation/](https://www.frontier-economics.com/uk/en/news-and-insights/articles/article-i21406-ai-beyond-the-cloud-navigating-competition-innovation-and-regulation/)  
+   Link: <a href="https://www.frontier-economics.com/uk/en/news-and-insights/articles/article-i21406-ai-beyond-the-cloud-navigating-competition-innovation-and-regulation/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontier-economics.com/uk/en/news-and-insights/articles/article-i21406-ai-beyond-the-cloud-navigating-competition-innovation-and-regulation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI beyond the cloud: navigating competition, innovation...However, cloud services will remain crucial for training new models, running l...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: kelleydrye.com  
-   Link: [https://www.kelleydrye.com/viewpoints/blogs/trade-and-manufacturing-monitor/bis-proposes-kyc-and-other-cybersecurity-requirements-on-cloud-services-and-ai-training](https://www.kelleydrye.com/viewpoints/blogs/trade-and-manufacturing-monitor/bis-proposes-kyc-and-other-cybersecurity-requirements-on-cloud-services-and-ai-training)  
+   Link: <a href="https://www.kelleydrye.com/viewpoints/blogs/trade-and-manufacturing-monitor/bis-proposes-kyc-and-other-cybersecurity-requirements-on-cloud-services-and-ai-training" target="_blank" rel="noopener noreferrer nofollow">https://www.kelleydrye.com/viewpoints/blogs/trade-and-manufacturing-monitor/bis-proposes-kyc-and-other-cybersecurity-requirements-on-cloud-services-and-ai-training</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BIS Proposes KYC and Other Cybersecurity…2 Feb 2024 — In accordance with Executive Order, the proposed rule would require reports to the...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: sidley.com  
    Title: new know your customer and reporting rules proposed for cloud providers  
-   Link: [https://www.sidley.com/en/insights/newsupdates/2024/02/new-know-your-customer-and-reporting-rules-proposed-for-cloud-providers](https://www.sidley.com/en/insights/newsupdates/2024/02/new-know-your-customer-and-reporting-rules-proposed-for-cloud-providers)  
+   Link: <a href="https://www.sidley.com/en/insights/newsupdates/2024/02/new-know-your-customer-and-reporting-rules-proposed-for-cloud-providers" target="_blank" rel="noopener noreferrer nofollow">https://www.sidley.com/en/insights/newsupdates/2024/02/new-know-your-customer-and-reporting-rules-proposed-for-cloud-providers</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. IaaS providers will be required to report the training of large AI models. The proposed IaaS Rule includes a provision requiring U.S...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40adnanmasood/the-ai-governance-frontier-series-part-4-google-clouds-approach-to-safe-and-responsible-ai-fe4644415e44](https://medium.com/%40adnanmasood/the-ai-governance-frontier-series-part-4-google-clouds-approach-to-safe-and-responsible-ai-fe4644415e44)  
+   Link: <a href="https://medium.com/%40adnanmasood/the-ai-governance-frontier-series-part-4-google-clouds-approach-to-safe-and-responsible-ai-fe4644415e44" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40adnanmasood/the-ai-governance-frontier-series-part-4-google-clouds-approach-to-safe-and-responsible-ai-fe4644415e44</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>le AI by embedding fairness, transparency, safety, and accountability into...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: aisafetybook.com  
-   Link: [https://www.aisafetybook.com/textbook/compute-governance](https://www.aisafetybook.com/textbook/compute-governance)  
+   Link: <a href="https://www.aisafetybook.com/textbook/compute-governance" target="_blank" rel="noopener noreferrer nofollow">https://www.aisafetybook.com/textbook/compute-governance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>section, we will discuss how compute governance enables AI...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a](https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a)  
+   Link: <a href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>risks of frontier AI (Annex A)28 Apr 2025 — The risks posed by future Frontier AI will include the risks we see today, but with potential...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=1CB9dgUlNpg](https://www.youtube.com/watch?v=1CB9dgUlNpg)  
+   Link: <a href="https://www.youtube.com/watch?v=1CB9dgUlNpg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1CB9dgUlNpg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scaling Laws: Can AI Make AI Regulation Cheaper?, with Cullen O&#x27;Keefe and Kevin Frazier...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: Samuel Hammond on why AI Progress is Accelerating  
-   Link: [https://www.youtube.com/watch?v=tcmpaFUSo1g](https://www.youtube.com/watch?v=tcmpaFUSo1g)  
+   Link: <a href="https://www.youtube.com/watch?v=tcmpaFUSo1g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tcmpaFUSo1g</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Existential Risk of AI is Being IGNORED (This is SCARY) – Matthew Syed...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: aisi.gov.uk  
-   Link: [https://www.aisi.gov.uk/frontier-ai-trends-report](https://www.aisi.gov.uk/frontier-ai-trends-report)  
+   Link: <a href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/frontier-ai-trends-report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)Established in 2023, the AI Security Institute (AISI) i...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: paloaltonetworks.com  
    Title: frontier ai models real time cloud security  
-   Link: [https://www.paloaltonetworks.com/blog/cloud-security/frontier-ai-models-real-time-cloud-security/](https://www.paloaltonetworks.com/blog/cloud-security/frontier-ai-models-real-time-cloud-security/)  
+   Link: <a href="https://www.paloaltonetworks.com/blog/cloud-security/frontier-ai-models-real-time-cloud-security/" target="_blank" rel="noopener noreferrer nofollow">https://www.paloaltonetworks.com/blog/cloud-security/frontier-ai-models-real-time-cloud-security/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Learn why real-time cloud runtime protection is essential to stop exploits...</p></details>

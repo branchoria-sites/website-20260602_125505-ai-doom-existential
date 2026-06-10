@@ -7,21 +7,21 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_long_horizon_5d3d50
 - AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_strategy_adap_a9b1b7
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - autonomy
 - current-benchmarks
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - autonomy
 - current-benchmarks
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: AI agents often lose track of previous steps, causing failure in extended multi-stage projects.
 hero_summary: AI agents often lose track of previous steps, causing failure in extended multi-stage projects.
 layout: default
 permalink: /context-memory/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /autonomy/
 - /current-benchmarks/
 nav_short_title: Context & Memory
@@ -34,7 +34,7 @@ page_heading_title: Why AI Agents Struggle to Keep Track Over Long Tasks
 source_count: 30
 infographic_count: 3
 planned_sections:
-- Examples from LongDS Bench showing late stage errors
+- Examples from Long DS Bench showing late stage errors
 - Mechanisms behind state loss in multi step tasks
 - Implications for autonomous long term planning
 focal_unit_type: mechanism
@@ -209,10 +209,10 @@ parent_heading_title: What Current AI Agents Can (and Can't) Do
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_dangerous_aut_8f4266
-  title: Autonomy | AI Doom and
+  title: Autonomy | AI Doom and E 87399 b
   permalink: /autonomy/
   short_title: Autonomy
   heading_title: When Does AI Autonomy Become Dangerous?
@@ -224,10 +224,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_dangerous_aut_8f4266
-  title: Autonomy | AI Doom and
+  title: Autonomy | AI Doom and E 87399 b
   permalink: /autonomy/
   short_title: Autonomy
   heading_title: When Does AI Autonomy Become Dangerous?
@@ -281,14 +281,14 @@ When people imagine future autonomous AI systems tackling multi‑stage real‑w
 
 Research benchmarks created in 2026 reveal a consistent pattern: as a task stretches beyond a dozen or dozens of steps, agents fail not because they cannot reason per step, but because they *fail to maintain a coherent evolving state*. Two recent pieces of empirical work make this clear:
 
-* **LongDS‑Bench**, a multi‑turn *data‑analysis [benchmark]({{ 'benchmark-limits/' | relative_url }})*, shows that even the best [current models]({{ 'current-models/' | relative_url }}) drop from around ~48 % accuracy early in a workflow to far lower rates later, with long‑horizon errors accounting for the majority of failures. Crucially, adding more agent interaction steps *doesn’t improve outcomes* if the agent hasn’t maintained an accurate analytical state. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.30434" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* **LongDS‑Bench**, a multi‑turn *data‑analysis benchmark*, shows that even the best [current models]({{ 'current-models/' | relative_url }}) drop from around ~48 % accuracy early in a workflow to far lower rates later, with long‑horizon errors accounting for the majority of failures. Crucially, adding more agent interaction steps *doesn’t improve outcomes* if the agent hasn’t maintained an accurate analytical state. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.30434" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 * **LongMINT** evaluates memory under repeated updates and interference across evolving contexts. Here, systems — including memory‑augmented frameworks — achieve low average accuracy (~28 %) when tasks demand retrieving and aggregating information spread across huge contexts (up to 1.8 million tokens). Performance deteriorates as intervening updates interfere with earlier facts, not merely because of context window size but because **the memory mechanisms themselves struggle to recall and piece together past information properly.** <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.30434" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 These empirical results support a broader pattern identified in research and engineering discussions: long tasks expose *amplifying state loss and compounding errors*, not isolated reasoning errors at single steps.
 
 ## Mechanisms Behind State Loss and Memory Failures
 
-Understanding why context and memory failures happen requires looking at how [current AI]({{ 'current-benchmarks/' | relative_url }}) agents are built and where their inherent limitations lie:
+Understanding why context and memory failures happen requires looking at how current AI agents are built and where their inherent limitations lie:
 
 ### Limited Context Windows and Decaying Relevance
 
@@ -303,7 +303,7 @@ Most large language models operate with a **fixed context window** — a sliding
 
 </div>
 
-This structural issue isn’t solved merely by expanding the window; it explains why researchers explore **state models** and memory layers that can summarise or selectively recall past information instead of just accumulating it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zylos.ai/research/2026-04-03-goal-persistence-drift-long-horizon-ai-agents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zylos.ai">[Zylos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zylos.ai</span><span class="citation-popover-title">Goal Persistence and Goal Drift in Long-Horizon AI Agents | Zylos Research</span><span class="citation-popover-snippet">ZylosGoal Persistence and Goal Drift in Long-Horizon AI Agents | Zylos ResearchApril 3, 2026...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
+This structural issue isn’t solved merely by expanding the window; it explains why researchers explore **state models** and memory layers that can summarise or selectively recall past information instead of just accumulating it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zylos.ai/research/2026-04-03-goal-persistence-drift-long-horizon-ai-agents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zylos.ai">[Zylos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zylos.ai</span><span class="citation-popover-title">Goal Persistence and Goal Drift in Long-Horizon AI Agents &#124; Zylos Research</span><span class="citation-popover-snippet">Goal Persistence and Goal Drift in Long-Horizon AI Agents &#124; Zylos ResearchApril 3, 2026...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4ZPr2hkV63k" title="NEW Self-Improving Memory For AI (Forget Memory.md)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4ZPr2hkV63k" target="_blank" rel="noopener noreferrer">NEW Self-Improving Memory For AI (Forget Memory.md)</a></p><p class="youtube-embed-meta">Channel: Discover AI &middot; Views: 12.6K &middot; Uploaded: May 2026 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4ZPr2hkV63k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4ZPr2hkV63k">Open on YouTube</a></p></div></div></div>
@@ -329,7 +329,7 @@ Beyond remembering facts, agents also often fail to keep *objectives* coherent:
 
 * As agents break tasks into subtasks or handle interruptions, their internal representation of the *original goal* can shift subtly — a phenomenon called **goal drift**.
 * Without a stable anchoring mechanism, the agent’s trajectory gradually changes to optimise for local, recent coherence rather than the overall objective.
-* Multi‑session interruptions — common in realistic long‑horizon work — give repeated opportunities for context decay and drift. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zylos.ai/research/2026-05-14-long-horizon-planning-goal-decomposition-ai-agents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zylos.ai">[Zylos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zylos.ai</span><span class="citation-popover-title">Long-Horizon Planning and Goal Decomposition in AI Agents | Zylos Research</span><span class="citation-popover-snippet">ZylosLong-Horizon Planning and Goal Decomposition in AI Agents | Zylos ResearchMay 14, 2026...</span><span class="citation-popover-meta">Published: May 14, 2026</span></span></span>
+* Multi‑session interruptions — common in realistic long‑horizon work — give repeated opportunities for context decay and drift. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zylos.ai/research/2026-05-14-long-horizon-planning-goal-decomposition-ai-agents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zylos.ai">[Zylos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zylos.ai</span><span class="citation-popover-title">Long-Horizon Planning and Goal Decomposition in AI Agents &#124; Zylos Research</span><span class="citation-popover-snippet">Long-Horizon Planning and Goal Decomposition in AI Agents &#124; Zylos ResearchMay 14, 2026...</span><span class="citation-popover-meta">Published: May 14, 2026</span></span></span>
 
 This isn’t merely about storage — it’s about maintaining semantic *meaning* over time, which current architectures handle poorly compared to humans or even classical software systems.
 
@@ -339,7 +339,7 @@ This isn’t merely about storage — it’s about maintaining semantic *meaning
 
 While many benchmarks exist, a few illustrate the scale and nature of these failures:
 
-* **LongCLI‑Bench**, focused on command‑line programming tasks, reports pass rates below 20 % for agent workflows designed to mirror real engineering tasks. Most agents fail early and never recover, indicating that *planning execution and sustained memory* are core bottlenecks even in structured workflows. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hyper.ai/en/papers/2602.14337" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hyper.ai">[HyperAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hyper.ai</span><span class="citation-popover-snippet">HyperAILongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces | Papers | HyperAI...</span></span></span>
+* **LongCLI‑Bench**, focused on command‑line programming tasks, reports pass rates below 20 % for agent workflows designed to mirror real engineering tasks. Most agents fail early and never recover, indicating that *planning execution and sustained memory* are core bottlenecks even in structured workflows. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hyper.ai/en/papers/2602.14337" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hyper.ai">[HyperAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hyper.ai</span><span class="citation-popover-snippet">AILongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces &#124; Papers &#124; HyperAI...</span></span></span>
 * Other long‑horizon plans — such as simulated research tasks, strategic planning benchmarks, and interactive environment rollouts — consistently show fragmentation of context, contradictory decisions, and stalls where agents cannot reconcile earlier decisions with later requirements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://huggingface.co/papers/2601.20730" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huggingface.co">[Hugging Face]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huggingface.co</span><span class="citation-popover-title">Hugging Face Paper page</span><span class="citation-popover-snippet">Hugging FacePaper page - AgentLongBench: A Controllable Long Benchmark For Long-Contexts Agents via Environment RolloutsJanuary 28, 2026...</span><span class="citation-popover-meta">Published: January 28, 2026</span></span></span>
 
 These concrete examples underscore a recurrent point: as workload complexity and horizon length increase, *small memory or context lapses compound* into large failures.
@@ -361,9 +361,9 @@ In this sense, context and memory limitations are not minor engineering quirks b
 
 To overcome these bottlenecks, ongoing work points in several directions:
 
-* **Structured memory architectures** that segment, summarise and selectively retrieve information more intelligently than raw token windows. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.cool/arxiv/2603.13644" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.cool">[Cool Papers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.cool</span><span class="citation-popover-snippet">Cool PapersStatePlane: A Cognitive State Plane for Long-Horizon AI Systems Under Bounded Context | Cool Papers - Immersive Paper Discover...</span></span></span>
+* **Structured memory architectures** that segment, summarise and selectively retrieve information more intelligently than raw token windows. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.cool/arxiv/2603.13644" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.cool">[Cool Papers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.cool</span><span class="citation-popover-snippet">Cool PapersStatePlane: A Cognitive State Plane for Long-Horizon AI Systems Under Bounded Context &#124; Cool Papers - Immersive Paper Discover...</span></span></span>
 * **Hierarchical planning and goal decomposition** that make tasks into smaller chunks while preserving global alignment, helping mitigate drift. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zylos.ai/en/research/2026-04-21-agent-context-compaction-long-running-sessions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zylos.ai">[Zylos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zylos.ai</span><span class="citation-popover-snippet">April 21, 2026 — 2026-04-21 AGENT CONTEXT COMPACTION FOR LONG-RUNNING SESSIONS: TECHNIQUES AND TRADEOFFS ai-agents context-engineering co...</span><span class="citation-popover-meta">Published: April 21, 2026</span></span></span>
-* **Verification loops and explicit state tracking**, where agents reevaluate earlier decisions or use checkpoints to avoid accumulating silent errors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/AISystemsEngineering/comments/1sevnbt/why_do_longrunning_agents_degrade_even_if_memory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Why do long-running agents degrade even if memory is well structured?</span><span class="citation-popover-snippet">RedditWhy do long-running agents degrade even if memory is well structured?April 7, 2026...</span><span class="citation-popover-meta">Published: April 7, 2026</span></span></span>
+* **Verification loops and explicit state tracking**, where agents reevaluate earlier decisions or use checkpoints to avoid accumulating silent errors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/AISystemsEngineering/comments/1sevnbt/why_do_longrunning_agents_degrade_even_if_memory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Why do long-running agents degrade even if memory is well structured?</span><span class="citation-popover-snippet">Why do long-running agents degrade even if memory is well structured?April 7, 2026...</span><span class="citation-popover-meta">Published: April 7, 2026</span></span></span>
 
 None of these are complete solutions, but they reflect active recognition that context and memory are *design constraints*, not peripheral details.
 
@@ -812,81 +812,81 @@ By concentrating on the mechanisms by which state and memory falter over long se
 
 1. <a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2605.30434](https://arxiv.org/abs/2605.30434)  
+   Link: <a href="https://arxiv.org/abs/2605.30434" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.30434</a>  
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2605.18565](https://arxiv.org/abs/2605.18565)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivLongMINT: Evaluating Memory under Multi-Target Interference in Long-Horizon Agent SystemsMay 18, 2026...</p></details>
+   Link: <a href="https://arxiv.org/abs/2605.18565" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.18565</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>LongMINT: Evaluating Memory under Multi-Target Interference in Long-Horizon Agent SystemsMay 18, 2026...</p></details>
    Published: May 18, 2026  
 
 3. <a id="endnote-3"></a>
    Source: zylos.ai  
    Title: Goal Persistence and Goal Drift in Long-Horizon AI Agents | Zylos Research  
-   Link: [https://zylos.ai/research/2026-04-03-goal-persistence-drift-long-horizon-ai-agents](https://zylos.ai/research/2026-04-03-goal-persistence-drift-long-horizon-ai-agents)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ZylosGoal Persistence and Goal Drift in Long-Horizon AI Agents | Zylos ResearchApril 3, 2026...</p></details>
+   Link: <a href="https://zylos.ai/research/2026-04-03-goal-persistence-drift-long-horizon-ai-agents" target="_blank" rel="noopener noreferrer nofollow">https://zylos.ai/research/2026-04-03-goal-persistence-drift-long-horizon-ai-agents</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Goal Persistence and Goal Drift in Long-Horizon AI Agents | Zylos ResearchApril 3, 2026...</p></details>
    Published: April 3, 2026  
 
 4. <a id="endnote-4"></a>
    Source: papers.cool  
-   Link: [https://papers.cool/arxiv/2603.13644](https://papers.cool/arxiv/2603.13644)  
+   Link: <a href="https://papers.cool/arxiv/2603.13644" target="_blank" rel="noopener noreferrer nofollow">https://papers.cool/arxiv/2603.13644</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cool PapersStatePlane: A Cognitive State Plane for Long-Horizon AI Systems Under Bounded Context | Cool Papers - Immersive Paper Discover...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: zylos.ai  
    Title: Long-Horizon Planning and Goal Decomposition in AI Agents | Zylos Research  
-   Link: [https://zylos.ai/research/2026-05-14-long-horizon-planning-goal-decomposition-ai-agents](https://zylos.ai/research/2026-05-14-long-horizon-planning-goal-decomposition-ai-agents)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ZylosLong-Horizon Planning and Goal Decomposition in AI Agents | Zylos ResearchMay 14, 2026...</p></details>
+   Link: <a href="https://zylos.ai/research/2026-05-14-long-horizon-planning-goal-decomposition-ai-agents" target="_blank" rel="noopener noreferrer nofollow">https://zylos.ai/research/2026-05-14-long-horizon-planning-goal-decomposition-ai-agents</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Long-Horizon Planning and Goal Decomposition in AI Agents | Zylos ResearchMay 14, 2026...</p></details>
    Published: May 14, 2026  
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
    Title: Why do long-running agents degrade even if memory is well structured?  
-   Link: [https://www.reddit.com/r/AISystemsEngineering/comments/1sevnbt/why_do_longrunning_agents_degrade_even_if_memory/](https://www.reddit.com/r/AISystemsEngineering/comments/1sevnbt/why_do_longrunning_agents_degrade_even_if_memory/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditWhy do long-running agents degrade even if memory is well structured?April 7, 2026...</p></details>
+   Link: <a href="https://www.reddit.com/r/AISystemsEngineering/comments/1sevnbt/why_do_longrunning_agents_degrade_even_if_memory/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AISystemsEngineering/comments/1sevnbt/why_do_longrunning_agents_degrade_even_if_memory/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why do long-running agents degrade even if memory is well structured?April 7, 2026...</p></details>
    Published: April 7, 2026  
 
 7. <a id="endnote-7"></a>
    Source: papers.cool  
-   Link: [https://papers.cool/arxiv/2605.18565](https://papers.cool/arxiv/2605.18565)  
+   Link: <a href="https://papers.cool/arxiv/2605.18565" target="_blank" rel="noopener noreferrer nofollow">https://papers.cool/arxiv/2605.18565</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LongMINT: Evaluating Memory under Multi-Target Interference in Long-Horizon Agent Systems | Cool Papers - Immersive Paper DiscoveryMay 18...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: zylos.ai  
-   Link: [https://zylos.ai/en/research/2026-04-21-agent-context-compaction-long-running-sessions](https://zylos.ai/en/research/2026-04-21-agent-context-compaction-long-running-sessions)  
+   Link: <a href="https://zylos.ai/en/research/2026-04-21-agent-context-compaction-long-running-sessions" target="_blank" rel="noopener noreferrer nofollow">https://zylos.ai/en/research/2026-04-21-agent-context-compaction-long-running-sessions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 21, 2026 — 2026-04-21 AGENT CONTEXT COMPACTION FOR LONG-RUNNING SESSIONS: TECHNIQUES AND TRADEOFFS ai-agents context-engineering co...</p></details>
    Published: April 21, 2026  
 
 9. <a id="endnote-9"></a>
    Source: hyper.ai  
-   Link: [https://hyper.ai/en/papers/2602.14337](https://hyper.ai/en/papers/2602.14337)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HyperAILongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces | Papers | HyperAI...</p></details>
+   Link: <a href="https://hyper.ai/en/papers/2602.14337" target="_blank" rel="noopener noreferrer nofollow">https://hyper.ai/en/papers/2602.14337</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AILongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces | Papers | HyperAI...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: huggingface.co  
    Title: Hugging Face Paper page  
-   Link: [https://huggingface.co/papers/2601.20730](https://huggingface.co/papers/2601.20730)  
+   Link: <a href="https://huggingface.co/papers/2601.20730" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/papers/2601.20730</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hugging FacePaper page - AgentLongBench: A Controllable Long Benchmark For Long-Contexts Agents via Environment RolloutsJanuary 28, 2026...</p></details>
    Published: January 28, 2026  
 
 11. <a id="endnote-11"></a>
    Source: huggingface.co  
    Title: Paper page  
-   Link: [https://huggingface.co/papers/2602.14337](https://huggingface.co/papers/2602.14337)  
+   Link: <a href="https://huggingface.co/papers/2602.14337" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/papers/2602.14337</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line InterfacesFebruary 15, 2026 — arxiv...</p></details>
    Published: February 15, 2026  
 
 12. <a id="endnote-12"></a>
    Source: huggingface.co  
    Title: Paper page  
-   Link: [https://huggingface.co/papers/2601.22311](https://huggingface.co/papers/2601.22311)  
+   Link: <a href="https://huggingface.co/papers/2601.22311" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/papers/2601.22311</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Reasoning Fails to Plan: A Planning-Centric Analysis of Long-Horizon Decision Making in LLM AgentsJanuary 29, 2026 — arxiv:2601.22311...</p></details>
    Published: January 29, 2026  
 
 13. <a id="endnote-13"></a>
    Source: huggingface.co  
    Title: Paper page  
-   Link: [https://huggingface.co/papers/2509.09677](https://huggingface.co/papers/2509.09677)  
+   Link: <a href="https://huggingface.co/papers/2509.09677" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/papers/2509.09677</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Illusion of Diminishing Returns: Measuring Long Horizon Execution in LLMsSeptember 11, 2025 — arxiv:2509.09677 Copy markdown THE ILLU...</p></details>
    Published: September 11, 2025  
 
@@ -894,58 +894,58 @@ By concentrating on the mechanisms by which state and memory falter over long se
 
 14. <a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/403912364_Temporal_Dynamics_of_LLM-Assisted_Decision-Making_How_Context_Window_Expansion_and_Long-Term_Memory_Mechanisms_Influence_Long-Horizon_Strategic_Choices](https://www.researchgate.net/publication/403912364_Temporal_Dynamics_of_LLM-Assisted_Decision-Making_How_Context_Window_Expansion_and_Long-Term_Memory_Mechanisms_Influence_Long-Horizon_Strategic_Choices)  
+   Link: <a href="https://www.researchgate.net/publication/403912364_Temporal_Dynamics_of_LLM-Assisted_Decision-Making_How_Context_Window_Expansion_and_Long-Term_Memory_Mechanisms_Influence_Long-Horizon_Strategic_Choices" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403912364_Temporal_Dynamics_of_LLM-Assisted_Decision-Making_How_Context_Window_Expansion_and_Long-Term_Memory_Mechanisms_Influence_Long-Horizon_Strategic_Choices</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>zon Strategic ChoicesOctober 25, 2025 — Article PDF Available TEMPORAL DYNAMICS OF LLM-ASSISTED DECISION-MAKING: HOW CONTEXT WINDOW EXPAN...</p></details>
    Published: October 25, 2025  
 
 15. <a id="endnote-15"></a>
    Source: liner.com  
-   Link: [https://liner.com/review/longclibench-preliminary-benchmark-and-study-for-longhorizon-agentic-programming-in](https://liner.com/review/longclibench-preliminary-benchmark-and-study-for-longhorizon-agentic-programming-in)  
+   Link: <a href="https://liner.com/review/longclibench-preliminary-benchmark-and-study-for-longhorizon-agentic-programming-in" target="_blank" rel="noopener noreferrer nofollow">https://liner.com/review/longclibench-preliminary-benchmark-and-study-for-longhorizon-agentic-programming-in</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces [Quick Review]February 1...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: gist.science  
-   Link: [https://gist.science/paper/2602.14337](https://gist.science/paper/2602.14337)  
+   Link: <a href="https://gist.science/paper/2602.14337" target="_blank" rel="noopener noreferrer nofollow">https://gist.science/paper/2602.14337</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces | Gist.ScienceFebruary 2...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: microsoft.com  
-   Link: [https://www.microsoft.com/en-us/research/publication/on-training-large-language-models-for-long-horizon-tasks-an-empirical-study-of-horizon-length/](https://www.microsoft.com/en-us/research/publication/on-training-large-language-models-for-long-horizon-tasks-an-empirical-study-of-horizon-length/)  
+   Link: <a href="https://www.microsoft.com/en-us/research/publication/on-training-large-language-models-for-long-horizon-tasks-an-empirical-study-of-horizon-length/" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/publication/on-training-large-language-models-for-long-horizon-tasks-an-empirical-study-of-horizon-length/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Microsoft ResearchON TRAINING LARGE LANGUAGE MODELS FOR LONG-HORIZON TASKS: AN EMPIRICAL STUDY OF HORIZON LENGTH * Sunghwan Kim, * Junhe...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/404021178_LongBench_Evaluating_Robotic_Manipulation_Policies_on_Real-World_Long-Horizon_Tasks](https://www.researchgate.net/publication/404021178_LongBench_Evaluating_Robotic_Manipulation_Policies_on_Real-World_Long-Horizon_Tasks)  
+   Link: <a href="https://www.researchgate.net/publication/404021178_LongBench_Evaluating_Robotic_Manipulation_Policies_on_Real-World_Long-Horizon_Tasks" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/404021178_LongBench_Evaluating_Robotic_Manipulation_Policies_on_Real-World_Long-Horizon_Tasks</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) LongBench: Evaluating Robotic Manipulation Policies on Real-World Long-Horizon TasksApril 18, 2026 — LONGBENCH: EVALUATING ROBOTIC...</p></details>
    Published: April 18, 2026  
 
 19. <a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/401228854_Field-Theoretic_Memory_for_AI_Agents_Continuous_Dynamics_for_Context_Preservation/download](https://www.researchgate.net/publication/401228854_Field-Theoretic_Memory_for_AI_Agents_Continuous_Dynamics_for_Context_Preservation/download)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 31, 2026 — FIELD-THEORETIC MEMORY FOR AI AGENTS: [CONTINUOUS](&amp;#123;&amp;#123; &#x27;continuous-control/&#x27; | relative_url &amp;#125;&amp;#125;) DYNAMICS FOR CONTEXT PRESERVATION * January 2026 DOI:10.48550/arXiv.2...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/401228854_Field-Theoretic_Memory_for_AI_Agents_Continuous_Dynamics_for_Context_Preservation/download" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/401228854_Field-Theoretic_Memory_for_AI_Agents_Continuous_Dynamics_for_Context_Preservation/download</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 31, 2026 — FIELD-THEORETIC MEMORY FOR AI AGENTS: CONTINUOUS DYNAMICS FOR CONTEXT PRESERVATION * January 2026 DOI:10.48550/arXiv.2...</p></details>
    Published: January 31, 2026  
 
 20. <a id="endnote-20"></a>
    Source: aimodels.fyi  
    Title: Scaling Long-Horizon LLM Agent via Context-Folding | AI Research Paper Details  
-   Link: [https://www.aimodels.fyi/papers/arxiv/scaling-long-horizon-llm-agent-via-context](https://www.aimodels.fyi/papers/arxiv/scaling-long-horizon-llm-agent-via-context)  
+   Link: <a href="https://www.aimodels.fyi/papers/arxiv/scaling-long-horizon-llm-agent-via-context" target="_blank" rel="noopener noreferrer nofollow">https://www.aimodels.fyi/papers/arxiv/scaling-long-horizon-llm-agent-via-context</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SCALING LONG-HORIZON LLM AGENT VIA CONTEXT-FOLDING Published 10/15/2025 by Weiwei Sun, Miao Lu, Zhan Ling, Kang Liu, Xuesong Yao...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: aimodels.fyi  
-   Link: [https://www.aimodels.fyi/papers/arxiv/lost-maze-overcoming-context-limitations-long-horizon](https://www.aimodels.fyi/papers/arxiv/lost-maze-overcoming-context-limitations-long-horizon)  
+   Link: <a href="https://www.aimodels.fyi/papers/arxiv/lost-maze-overcoming-context-limitations-long-horizon" target="_blank" rel="noopener noreferrer nofollow">https://www.aimodels.fyi/papers/arxiv/lost-maze-overcoming-context-limitations-long-horizon</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SEE HOW SLIM CONQUERS LONG-HORIZON SEARCH.? LOST IN THE MAZE: OVERCOMING CONTEXT LIMITATIONS IN LONG-HORIZON AGENTIC SEARCH Published 10/...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: redis.io  
    Title: Long-Horizon AI Agents: Memory & State Infrastructure  
-   Link: [https://redis.io/blog/long-horizon-ai-agents-memory-state-infrastructure/](https://redis.io/blog/long-horizon-ai-agents-memory-state-infrastructure/)  
+   Link: <a href="https://redis.io/blog/long-horizon-ai-agents-memory-state-infrastructure/" target="_blank" rel="noopener noreferrer nofollow">https://redis.io/blog/long-horizon-ai-agents-memory-state-infrastructure/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 21, 2026 — LONG-HORIZON TASKS: BUILDING AGENTS THAT WORK OVER HOURS &amp; DAYS May 21, 2026 9 minute read Image: Image Jim Allen Wallace...</p></details>
    Published: May 21, 2026  
 
 23. <a id="endnote-23"></a>
    Source: ai.riera.co.uk  
    Title: riera.co.uk Long CL I-Bench  
-   Link: [https://ai.riera.co.uk/tools/benchmarking/longcli-bench/](https://ai.riera.co.uk/tools/benchmarking/longcli-bench/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>riera.co.ukLongCLI-Bench - Home-Office [Automation](&amp;#123;&amp;#123; &#x27;automation-bias/&#x27; | relative_url &amp;#125;&amp;#125;) &amp; AI HubMarch 1, 2026 — Home-Office Automation &amp; AI Hub LongCLI-Bench * [Input] LongCLI...</p></details>
+   Link: <a href="https://ai.riera.co.uk/tools/benchmarking/longcli-bench/" target="_blank" rel="noopener noreferrer nofollow">https://ai.riera.co.uk/tools/benchmarking/longcli-bench/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>riera.co.ukLongCLI-Bench - Home-Office Automation &amp; AI HubMarch 1, 2026 — Home-Office Automation &amp; AI Hub LongCLI-Bench * [Input] LongCLI...</p></details>
    Published: March 1, 2026  

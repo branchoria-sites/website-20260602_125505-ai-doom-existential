@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-catastrophic/
 description: Focused pages that expand on Misuse.
-date: '2026-06-02'
+date: '2026-06-10'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_catastrophic_c92548
-parent_title: Misuse | AI Doom and
+parent_title: Misuse | AI Doom and E 87399 b
 parent_nav_short_title: Misuse
 parent_permalink: /misuse/
 ---

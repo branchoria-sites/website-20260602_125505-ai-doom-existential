@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_bio_predep_4af8c1
 - AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_pathogen_t_3833c8
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - misuse
 - bio-threat-ai
 - biosecurity-evasion
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - misuse
 - bio-threat-ai
 - biosecurity-evasion
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: AI can generate synthetic sequences that bypass traditional DNA screening, revealing gaps in current biosecurity controls.
 hero_summary: AI can generate synthetic sequences that bypass traditional DNA screening, revealing gaps in current biosecurity controls.
 layout: default
 permalink: /biosecurity-evasion/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /misuse/
 - /bio-threat-ai/
 nav_short_title: Biosecurity Evasion
@@ -211,10 +211,10 @@ parent_heading_title: How AI Could Accelerate Dangerous Pathogen Design
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_catastrophic_c92548
-  title: Misuse | AI Doom and
+  title: Misuse | AI Doom and E 87399 b
   permalink: /misuse/
   short_title: Misuse
   heading_title: How Could People Misuse Advanced AI?
@@ -226,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_catastrophic_c92548
-  title: Misuse | AI Doom and
+  title: Misuse | AI Doom and E 87399 b
   permalink: /misuse/
   short_title: Misuse
   heading_title: How Could People Misuse Advanced AI?
@@ -269,7 +269,7 @@ image: /assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_550
 
 ## Introduction
 
-AI‑assisted design tools in biology promise major advances in medicine and research. But as they get better at *designing biological sequences*, they also interact in unexpected ways with existing biosecurity controls — especially the systems used to screen orders for synthetic DNA before it is manufactured. This webpage focuses on **how AI‑generated DNA or protein sequences could evade DNA synthesis biosecurity screening**: the core mechanisms that let AI‑designed sequences slip past current controls, why that matters in the context of reducing risks from advanced AI systems, and where current safeguards fall short. In short, biosecurity screening today *mostly looks for similarity to known [dangerous]({{ 'autonomy/' | relative_url }}) sequences*, and AI can *reshape or generate alternatives that escape those patterns* while retaining harmful functions — revealing a structural gap that links advanced AI capability to potential misuse if human control and [oversight]({{ 'oversight-evasion/' | relative_url }}) fail. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1817535/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers | Protein design, generative AI and biological securityApril 1, 2026...</span><span class="citation-popover-meta">Published: April 1, 2026</span></span></span>
+AI‑assisted design tools in biology promise major advances in medicine and research. But as they get better at *designing biological sequences*, they also interact in unexpected ways with existing biosecurity controls — especially the systems used to screen orders for synthetic DNA before it is manufactured. This webpage focuses on **how AI‑generated DNA or protein sequences could evade DNA synthesis biosecurity screening**: the core mechanisms that let AI‑designed sequences slip past current controls, why that matters in the context of reducing risks from advanced AI systems, and where current safeguards fall short. In short, biosecurity screening today *mostly looks for similarity to known dangerous sequences*, and AI can *reshape or generate alternatives that escape those patterns* while retaining harmful functions — revealing a structural gap that links advanced AI capability to potential [misuse]({{ 'misuse/' | relative_url }}) if human control and oversight fail. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1817535/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers &#124; Protein design, generative AI and biological securityApril 1, 2026...</span><span class="citation-popover-meta">Published: April 1, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_biosecurit_e5e926-Illustration-1-dark.svg" | relative_url }}" alt="Biosecurity Evasion illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_biosecurit_e5e926-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_biosecurit_e5e926-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -279,7 +279,7 @@ Most providers of custom DNA synthesis screen orders using *homology‑based met
 
 Historically, this approach made practical sense: biological threat sequences tended to come from known organisms, and matching to a known pathogenic gene or toxin fragment was the easiest metric for flagging risk. Consortia such as the International Gene Synthesis Consortium (IGSC) established screening protocols based on this homology model, and guidance remains in use in jurisdictions like the UK and US. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK584258/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Emerging Threats of Synthetic Biology and Biotechnology - NCBI Bookshelf...</span></span></span>
 
-But **homology is inherently a pattern‑matching approach**, and it assumes that the dangerous sequence will *look like* something already recognised. That assumption *breaks down* when design moves beyond replication of natural sequences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1817535/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers | Protein design, generative AI and biological securityApril 1, 2026...</span><span class="citation-popover-meta">Published: April 1, 2026</span></span></span>
+But **homology is inherently a pattern‑matching approach**, and it assumes that the dangerous sequence will *look like* something already recognised. That assumption *breaks down* when design moves beyond replication of natural sequences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1817535/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers &#124; Protein design, generative AI and biological securityApril 1, 2026...</span><span class="citation-popover-meta">Published: April 1, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rrz3ZXWZYss" title="AI-enhanced biodesign, DNA synthesis and risk mitigation | Nicole Wheeler | EAG London: 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rrz3ZXWZYss" target="_blank" rel="noopener noreferrer">AI-enhanced biodesign, DNA synthesis and risk mitigation | Nicole Wheeler | EAG London: 2024</a></p><p class="youtube-embed-meta">Channel: Effective Altruism &middot; Views: 337 &middot; Uploaded: July 2024 &middot; Length: 53 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rrz3ZXWZYss" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rrz3ZXWZYss">Open on YouTube</a></p></div></div></div>
@@ -288,17 +288,17 @@ But **homology is inherently a pattern‑matching approach**, and it assumes tha
 
 ### 1. Generating “Synthetic Homologs” with Low Sequence Similarity
 
-One documented mechanism arises from AI’s ability to produce *functionally similar but sequence‑divergent variants* — so‑called **[synthetic]({{ 'synthetic-data/' | relative_url }}) homologs**. Tools that learn protein design or DNA patterns can be used to generate altered sequences that encode the *same or similar structure and biological activity* as a known toxin, but with significantly different nucleotide or amino acid sequences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1817535/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers | Protein design, generative AI and biological securityApril 1, 2026...</span><span class="citation-popover-meta">Published: April 1, 2026</span></span></span>
+One documented mechanism arises from AI’s ability to produce *functionally similar but sequence‑divergent variants* — so‑called **synthetic homologs**. Tools that learn protein design or DNA patterns can be used to generate altered sequences that encode the *same or similar structure and biological activity* as a known toxin, but with significantly different nucleotide or amino acid sequences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1817535/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers &#124; Protein design, generative AI and biological securityApril 1, 2026...</span><span class="citation-popover-meta">Published: April 1, 2026</span></span></span>
 
 A notable example came from a *red‑teaming* study led by researchers including scientists at Microsoft, who used generative AI to redesign core sequences of toxins such as ricin. When these AI‑altered sequences were run through commercial screening systems, many escaped detection entirely because their edited sequences did *not resemble the original known hazards closely enough* to be flagged. In cases reported in industry outlets, detection rates fell dramatically — in some tests to near zero — until vendors updated their screening software. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eweek.com/news/ai-engineered-toxins-dna-screens-microsoft-research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eweek.com">[eWeek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eweek.com</span><span class="citation-popover-title">e Week‘Up to 100%’ of AI-Crafted Toxins Escape DNA Screens</span><span class="citation-popover-snippet">eWeek‘Up to 100%’ of AI-Crafted Toxins Escape DNA ScreensOctober 3, 2025...</span><span class="citation-popover-meta">Published: October 3, 2025</span></span></span>
 
-This kind of sequence *paraphrasing* is not simply random mutation; it stems from AI models that are trained to explore biological design space while satisfying constraints like structural viability. The divergence from known patterns can be sufficient to game tools that look for **straight sequence similarity**, even where the end product would, if synthesized, produce a harmful protein. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1817535/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers | Protein design, generative AI and biological securityApril 1, 2026...</span><span class="citation-popover-meta">Published: April 1, 2026</span></span></span>
+This kind of sequence *paraphrasing* is not simply random mutation; it stems from AI models that are trained to explore biological design space while satisfying constraints like structural viability. The divergence from known patterns can be sufficient to game tools that look for **straight sequence similarity**, even where the end product would, if synthesized, produce a harmful protein. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1817535/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers &#124; Protein design, generative AI and biological securityApril 1, 2026...</span><span class="citation-popover-meta">Published: April 1, 2026</span></span></span>
 
 ### 2. AI Decoupling Sequence from Function
 
-AI design tools don’t just mimic existing sequences; they can *learn the relationships between sequence and higher‑order properties* like protein folding and function. This means they can, in principle, design sequences with the **same biochemical capabilities** — for example, binding or catalysis — without maintaining the exact linear sequence that would trigger a homology match. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1817535/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers | Protein design, generative AI and biological securityApril 1, 2026...</span><span class="citation-popover-meta">Published: April 1, 2026</span></span></span>
+AI design tools don’t just mimic existing sequences; they can *learn the relationships between sequence and higher‑order properties* like protein folding and function. This means they can, in principle, design sequences with the **same biochemical capabilities** — for example, binding or catalysis — without maintaining the exact linear sequence that would trigger a homology match. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1817535/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers &#124; Protein design, generative AI and biological securityApril 1, 2026...</span><span class="citation-popover-meta">Published: April 1, 2026</span></span></span>
 
-From a biosecurity screening perspective, this decoupling matters because tools that rely strictly on sequence similarity will miss sequences that are *functionally equivalent* but evolutionarily or statistically far removed from anything in the screening database. In other words, the operative danger isn’t abstract similarity, it’s the *function* that current screening cannot see. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1817535/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers | Protein design, generative AI and biological securityApril 1, 2026...</span><span class="citation-popover-meta">Published: April 1, 2026</span></span></span>
+From a biosecurity screening perspective, this decoupling matters because tools that rely strictly on sequence similarity will miss sequences that are *functionally equivalent* but evolutionarily or statistically far removed from anything in the screening database. In other words, the operative danger isn’t abstract similarity, it’s the *function* that current screening cannot see. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1817535/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers &#124; Protein design, generative AI and biological securityApril 1, 2026...</span><span class="citation-popover-meta">Published: April 1, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_biosecurit_e5e926-Illustration-2-dark.svg" | relative_url }}" alt="Biosecurity Evasion illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_biosecurit_e5e926-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_biosecurit_e5e926-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -306,8 +306,8 @@ From a biosecurity screening perspective, this decoupling matters because tools 
 
 AI’s role isn’t limited to rewriting sequences. It can also exploit **systemic limits in screening frameworks**. For example:
 
-* Screening thresholds typically focus on sequences above a certain length (e.g. >50 nucleotides). Shorter fragments, even if they can be assembled afterwards into a dangerous construct, may bypass detection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/jlb/article/13/1/lsag005/8663945" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicBiosecurity in the age of synthetic nucleic acids: modernizing the law to manage emerging threats | Journal of Law and the Bi...</span></span></span>
-* Screening databases are list‑based: they rely on curated sets of regulated agents. Novel sequences — whether completely new or designed by AI — fall outside those lists by definition until they are incorporated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/jlb/article/13/1/lsag005/8663945" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicBiosecurity in the age of synthetic nucleic acids: modernizing the law to manage emerging threats | Journal of Law and the Bi...</span></span></span>
+* Screening thresholds typically focus on sequences above a certain length (e.g. >50 nucleotides). Shorter fragments, even if they can be assembled afterwards into a dangerous construct, may bypass detection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/jlb/article/13/1/lsag005/8663945" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicBiosecurity in the age of synthetic nucleic acids: modernizing the law to manage emerging threats &#124; Journal of Law and the Bi...</span></span></span>
+* Screening databases are list‑based: they rely on curated sets of regulated agents. Novel sequences — whether completely new or designed by AI — fall outside those lists by definition until they are incorporated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/jlb/article/13/1/lsag005/8663945" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicBiosecurity in the age of synthetic nucleic acids: modernizing the law to manage emerging threats &#124; Journal of Law and the Bi...</span></span></span>
 * Screening quality and rigour vary across providers and regions, meaning motivated users could seek suppliers with weaker or inconsistent controls. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faf.ae/home/2026/5/5/governing-the-convergence-google-deepmind-the-nuclear-threat-initiative-dna-synthesis-screening-and-the-architecture-of-ai-biosecurity-part-iii" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faf.ae">[Foreign Affairs Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faf.ae</span><span class="citation-popover-snippet">Foreign Affairs ForumGoverning the Convergence: Google DeepMind, the Nuclear Threat Initiative, DNA Synthesis Screening, and the Architec...</span></span></span>
 
 All of these structural features create opportunities where **AI‑generated designs can navigate between the gaps** and reach synthesis without triggering existing safeguards.
@@ -317,7 +317,7 @@ All of these structural features create opportunities where **AI‑generated des
 
 ## Why These Mechanisms Matter for AI Doom and Risk
 
-From the perspective of AI’s role in existential risk, these mechanisms illustrate one of the *systemic interfaces* where advanced AI capabilities interact with real‑world control points in ways that stretch current [governance]({{ 'governance/' | relative_url }}) models. DNA synthesis screening was designed in a pre‑AI context when threat sequences were largely known and well‑characterised. When AI can generate novel, functional designs outside that space, it can undermine the *assumed chokepoint* where humans intercept potentially harmful orders. This highlights broader themes in AI risk: **[automation]({{ 'automation-bias/' | relative_url }}) outrunning existing safeguards** and **latent vulnerabilities in critical control infrastructure**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eweek.com/news/ai-engineered-toxins-dna-screens-microsoft-research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eweek.com">[eWeek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eweek.com</span><span class="citation-popover-title">e Week‘Up to 100%’ of AI-Crafted Toxins Escape DNA Screens</span><span class="citation-popover-snippet">eWeek‘Up to 100%’ of AI-Crafted Toxins Escape DNA ScreensOctober 3, 2025...</span><span class="citation-popover-meta">Published: October 3, 2025</span></span></span>
+From the perspective of AI’s role in existential risk, these mechanisms illustrate one of the *systemic interfaces* where advanced AI capabilities interact with real‑world control points in ways that stretch current [governance]({{ 'governance/' | relative_url }}) models. DNA synthesis screening was designed in a pre‑AI context when threat sequences were largely known and well‑characterised. When AI can generate novel, functional designs outside that space, it can undermine the *assumed chokepoint* where humans intercept potentially harmful orders. This highlights broader themes in AI risk: **automation outrunning existing safeguards** and **latent vulnerabilities in critical control infrastructure**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eweek.com/news/ai-engineered-toxins-dna-screens-microsoft-research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eweek.com">[eWeek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eweek.com</span><span class="citation-popover-title">e Week‘Up to 100%’ of AI-Crafted Toxins Escape DNA Screens</span><span class="citation-popover-snippet">eWeek‘Up to 100%’ of AI-Crafted Toxins Escape DNA ScreensOctober 3, 2025...</span><span class="citation-popover-meta">Published: October 3, 2025</span></span></span>
 
 Even if actual physical synthesis and downstream pathogenic function remain hard and require significant lab work, the ability to design digital sequences that *evade detection* changes the cost and effort calculus and potentially lowers one barrier that was thought to aid containment.
 
@@ -328,10 +328,10 @@ Even if actual physical synthesis and downstream pathogenic function remain hard
 
 Security researchers and policy analysts are already advocating changes to address these vulnerabilities:
 
-* **Moving beyond sequence similarity to function‑based screening** — approaches that evaluate ordered sequences by predicted biological activity could catch hazardous designs even when they are dissimilar to known examples. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1817535/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers | Protein design, generative AI and biological securityApril 1, 2026...</span><span class="citation-popover-meta">Published: April 1, 2026</span></span></span>
+* **Moving beyond sequence similarity to function‑based screening** — approaches that evaluate ordered sequences by predicted biological activity could catch hazardous designs even when they are dissimilar to known examples. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1817535/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers &#124; Protein design, generative AI and biological securityApril 1, 2026...</span><span class="citation-popover-meta">Published: April 1, 2026</span></span></span>
 * **AI‑enhanced screening tools** that themselves use machine learning to predict risk, rather than simple pattern matching, are an area of active research and discussion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK535887/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">In particular, the volunta</span><span class="citation-popover-snippet">for Mitigating Concerns - Biodefense in the Age of Synthetic Biology - NCBI BookshelfJune 19, 2018 — PITFALLS OF LIST-BASED SCREENING Adv...</span><span class="citation-popover-meta">Published: June 19, 2018</span></span></span>
 * **Metadata and intent‑based checks** — screening not just the sequence but the context of the order (customer identity, research purpose) to provide additional flags. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK614605/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIPromoting and Protecting AI-Enabled Innovation for Biosecurity</span><span class="citation-popover-snippet">The Age of AI in the Life Sciences - NCBI BookshelfApril 23, 2025...</span><span class="citation-popover-meta">Published: April 23, 2025</span></span></span>
-* **Updating regulatory lists and databases** more dynamically to include AI‑designed variants once their risk profiles are understood, though this is inherently reactive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/jlb/article/13/1/lsag005/8663945" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicBiosecurity in the age of synthetic nucleic acids: modernizing the law to manage emerging threats | Journal of Law and the Bi...</span></span></span>
+* **Updating regulatory lists and databases** more dynamically to include AI‑designed variants once their risk profiles are understood, though this is inherently reactive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/jlb/article/13/1/lsag005/8663945" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicBiosecurity in the age of synthetic nucleic acids: modernizing the law to manage emerging threats &#124; Journal of Law and the Bi...</span></span></span>
 
 None of these responses fully eliminates the underlying risk, but they illustrate how biosecurity systems must evolve to interpret *function*, not just *appearance*, in an era when AI can reshape the design space.
 
@@ -339,7 +339,7 @@ None of these responses fully eliminates the underlying risk, but they illustrat
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_biosecurit_e5e926-Illustration-3-dark.svg" | relative_url }}" alt="Biosecurity Evasion illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_biosecurit_e5e926-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_biosecurit_e5e926-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Summary
 
-AI tools are raising core challenges for existing DNA synthesis biosecurity screening by enabling the generation of sequences that **escape pattern‑based detection** while retaining dangerous potential. The primary mechanisms include creating synthetic sequences with low homology to known hazards, decoupling biological function from simple sequence patterns, and exploiting systemic gaps in screening protocols. Recognising and addressing these mechanisms is critical for any credible effort to manage AI’s role in biological risk without assuming that traditional safeguards will suffice indefinitely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1817535/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers | Protein design, generative AI and biological securityApril 1, 2026...</span><span class="citation-popover-meta">Published: April 1, 2026</span></span></span>
+AI tools are raising core challenges for existing DNA synthesis biosecurity screening by enabling the generation of sequences that **escape pattern‑based detection** while retaining dangerous potential. The primary mechanisms include creating synthetic sequences with low homology to known hazards, decoupling biological function from simple sequence patterns, and exploiting systemic gaps in screening protocols. Recognising and addressing these mechanisms is critical for any credible effort to manage AI’s role in biological risk without assuming that traditional safeguards will suffice indefinitely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1817535/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers &#124; Protein design, generative AI and biological securityApril 1, 2026...</span><span class="citation-popover-meta">Published: April 1, 2026</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -762,117 +762,117 @@ AI tools are raising core challenges for existing DNA synthesis biosecurity scre
 
 1. <a id="endnote-1"></a>
    Source: microsoft.com  
-   Link: [https://www.microsoft.com/en-us/research/publication/strengthening-nucleic-acid-biosecurity-screening-against-generative-protein-design-tools/](https://www.microsoft.com/en-us/research/publication/strengthening-nucleic-acid-biosecurity-screening-against-generative-protein-design-tools/)  
+   Link: <a href="https://www.microsoft.com/en-us/research/publication/strengthening-nucleic-acid-biosecurity-screening-against-generative-protein-design-tools/" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/publication/strengthening-nucleic-acid-biosecurity-screening-against-generative-protein-design-tools/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Microsoft ResearchOctober 2, 2025 — STRENGTHENING NUCLEIC ACID BIOSECURITY SCREENING AGAINST GENERATIVE PROTEIN DESIGN TOOLS * Bruce Witt...</p></details>
    Published: October 2, 2025  
 
 2. <a id="endnote-2"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIPromoting and Protecting AI-Enabled Innovation for Biosecurity  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK614605/](https://www.ncbi.nlm.nih.gov/books/NBK614605/)  
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK614605/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK614605/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Age of AI in the Life Sciences - NCBI BookshelfApril 23, 2025...</p></details>
    Published: April 23, 2025  
 
 3. <a id="endnote-3"></a>
    Source: ncbi.nlm.nih.gov  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK584258/](https://www.ncbi.nlm.nih.gov/books/NBK584258/)  
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK584258/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK584258/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Emerging Threats of Synthetic Biology and Biotechnology - NCBI Bookshelf...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: eweek.com  
    Title: e Week‘Up to 100%’ of AI-Crafted Toxins Escape DNA Screens  
-   Link: [https://www.eweek.com/news/ai-engineered-toxins-dna-screens-microsoft-research/](https://www.eweek.com/news/ai-engineered-toxins-dna-screens-microsoft-research/)  
+   Link: <a href="https://www.eweek.com/news/ai-engineered-toxins-dna-screens-microsoft-research/" target="_blank" rel="noopener noreferrer nofollow">https://www.eweek.com/news/ai-engineered-toxins-dna-screens-microsoft-research/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>eWeek‘Up to 100%’ of AI-Crafted Toxins Escape DNA ScreensOctober 3, 2025...</p></details>
    Published: October 3, 2025  
 
 5. <a id="endnote-5"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/jlb/article/13/1/lsag005/8663945](https://academic.oup.com/jlb/article/13/1/lsag005/8663945)  
+   Link: <a href="https://academic.oup.com/jlb/article/13/1/lsag005/8663945" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jlb/article/13/1/lsag005/8663945</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicBiosecurity in the age of synthetic nucleic acids: modernizing the law to manage emerging threats | Journal of Law and the Bi...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1817535/full](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1817535/full)  
+   Link: <a href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1817535/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1817535/full</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersFrontiers | Protein design, generative AI and biological securityApril 1, 2026...</p></details>
    Published: April 1, 2026  
 
 7. <a id="endnote-7"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2026.1832724/full](https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2026.1832724/full)  
+   Link: <a href="https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2026.1832724/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2026.1832724/full</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersFrontiers | Beyond sequence similarity: toward function-based screening of nucleic acid synthesisMay 14, 2026...</p></details>
    Published: May 14, 2026  
 
 8. <a id="endnote-8"></a>
    Source: faf.ae  
-   Link: [https://www.faf.ae/home/2026/5/5/governing-the-convergence-google-deepmind-the-nuclear-threat-initiative-dna-synthesis-screening-and-the-architecture-of-ai-biosecurity-part-iii](https://www.faf.ae/home/2026/5/5/governing-the-convergence-google-deepmind-the-nuclear-threat-initiative-dna-synthesis-screening-and-the-architecture-of-ai-biosecurity-part-iii)  
+   Link: <a href="https://www.faf.ae/home/2026/5/5/governing-the-convergence-google-deepmind-the-nuclear-threat-initiative-dna-synthesis-screening-and-the-architecture-of-ai-biosecurity-part-iii" target="_blank" rel="noopener noreferrer nofollow">https://www.faf.ae/home/2026/5/5/governing-the-convergence-google-deepmind-the-nuclear-threat-initiative-dna-synthesis-screening-and-the-architecture-of-ai-biosecurity-part-iii</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Foreign Affairs ForumGoverning the Convergence: Google DeepMind, the Nuclear Threat Initiative, DNA Synthesis Screening, and the Architec...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: monitor.cntrarmscontrol.org  
    Title: dna synthesis screening  
-   Link: [https://monitor.cntrarmscontrol.org/en/2025/dna-synthesis-screening/](https://monitor.cntrarmscontrol.org/en/2025/dna-synthesis-screening/)  
+   Link: <a href="https://monitor.cntrarmscontrol.org/en/2025/dna-synthesis-screening/" target="_blank" rel="noopener noreferrer nofollow">https://monitor.cntrarmscontrol.org/en/2025/dna-synthesis-screening/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, these capabilities a...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: nist.gov  
-   Link: [https://www.nist.gov/publications/experimental-evaluation-ai-driven-protein-design-risks-using-safe-biological-proxies](https://www.nist.gov/publications/experimental-evaluation-ai-driven-protein-design-risks-using-safe-biological-proxies)  
+   Link: <a href="https://www.nist.gov/publications/experimental-evaluation-ai-driven-protein-design-risks-using-safe-biological-proxies" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/publications/experimental-evaluation-ai-driven-protein-design-risks-using-safe-biological-proxies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Experimental Evaluation of AI-Driven Protein Design Risks Using Safe Biological Proxies | NISTJune 20, 2025 — EXPERIMENTAL EVALUATION OF...</p></details>
    Published: June 20, 2025  
 
 11. <a id="endnote-11"></a>
    Source: cset.georgetown.edu  
-   Title: safeguarding mail order dna synthesis in the age of [artificial](&#123;&#123; 'artificial-goals/' | relative_url &#125;&#125;) intelligence  
-   Link: [https://cset.georgetown.edu/publication/safeguarding-mail-order-dna-synthesis-in-the-age-of-artificial-intelligence/](https://cset.georgetown.edu/publication/safeguarding-mail-order-dna-synthesis-in-the-age-of-artificial-intelligence/)  
+   Title: safeguarding mail order dna synthesis in the age of artificial intelligence  
+   Link: <a href="https://cset.georgetown.edu/publication/safeguarding-mail-order-dna-synthesis-in-the-age-of-artificial-intelligence/" target="_blank" rel="noopener noreferrer nofollow">https://cset.georgetown.edu/publication/safeguarding-mail-order-dna-synthesis-in-the-age-of-artificial-intelligence/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mail-Order DNA Synthesis in the Age of Artificial Intelligence | Center for Security and Emerging TechnologyJune 20, 2024 — Image: Safegu...</p></details>
    Published: June 20, 2024  
 
 12. <a id="endnote-12"></a>
    Source: GOV.UK  
    Title: U K screening guidance on synthetic nucleic acids for users and providers  
-   Link: [https://www.gov.uk/government/publications/uk-screening-guidance-on-synthetic-nucleic-acids/uk-screening-guidance-on-synthetic-nucleic-acids-for-users-and-providers](https://www.gov.uk/government/publications/uk-screening-guidance-on-synthetic-nucleic-acids/uk-screening-guidance-on-synthetic-nucleic-acids-for-users-and-providers)  
+   Link: <a href="https://www.gov.uk/government/publications/uk-screening-guidance-on-synthetic-nucleic-acids/uk-screening-guidance-on-synthetic-nucleic-acids-for-users-and-providers" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/uk-screening-guidance-on-synthetic-nucleic-acids/uk-screening-guidance-on-synthetic-nucleic-acids-for-users-and-providers</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>screening guidance on synthetic nucleic acids for users and providers - GOV.UKOctober 8, 2024 — DEFINITIONS (KEYWORDS) Keyword | Definiti...</p></details>
    Published: October 8, 2024  
 
 13. <a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: While offering tremendous potential to fuel biologica  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9988571/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9988571/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9988571/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9988571/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>by design: Biosafety and biosecurity in the age of synthetic genomics - PMCFebruary 10, 2023 — SUMMARY Technologies to profoundly enginee...</p></details>
    Published: February 10, 2023  
 
 14. <a id="endnote-14"></a>
    Source: idtdna.com  
    Title: IDT DNAAI Biosecurity Challenges in Protein Engineering | IDT  
-   Link: [https://www.idtdna.com/page/support-and-education/decoded-plus/biosecurity-challenges-in-the-age-of-ai](https://www.idtdna.com/page/support-and-education/decoded-plus/biosecurity-challenges-in-the-age-of-ai)  
+   Link: <a href="https://www.idtdna.com/page/support-and-education/decoded-plus/biosecurity-challenges-in-the-age-of-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.idtdna.com/page/support-and-education/decoded-plus/biosecurity-challenges-in-the-age-of-ai</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Biosecurity Challenges in Protein Engineering | IDTMarch 17, 2025 — Trends &amp; Insights BIOSECURITY CHALLENGES IN THE AGE OF AI Inside t...</p></details>
    Published: March 17, 2025  
 
 15. <a id="endnote-15"></a>
    Source: ncbi.nlm.nih.gov  
    Title: In particular, the volunta  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK535887/](https://www.ncbi.nlm.nih.gov/books/NBK535887/)  
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK535887/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK535887/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>for Mitigating Concerns - Biodefense in the Age of Synthetic Biology - NCBI BookshelfJune 19, 2018 — PITFALLS OF LIST-BASED SCREENING Adv...</p></details>
    Published: June 19, 2018  
 
 16. <a id="endnote-16"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/28861521/](https://pubmed.ncbi.nlm.nih.gov/28861521/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/28861521/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/28861521/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2017 Aug 23;2(4):e00319-17. doi: 10.1128/mSphere.00319-17. eCollection 2017 Jul-Aug. OPTIONS FOR SYNTHETIC DNA ORDER SCREENING, REVISITED...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Why Bioweapons and AI Scare Nuclear Proliferation Experts  
-   Link: [https://www.youtube.com/watch?v=A0jsbl-92v0](https://www.youtube.com/watch?v=A0jsbl-92v0)  
+   Link: <a href="https://www.youtube.com/watch?v=A0jsbl-92v0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=A0jsbl-92v0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-enhanced biodesign, DNA synthesis and risk mitigation | Nicole Wheeler | EAG London is a highly relevant video detailing the structura...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=rrz3ZXWZYss](https://www.youtube.com/watch?v=rrz3ZXWZYss)  
+   Link: <a href="https://www.youtube.com/watch?v=rrz3ZXWZYss" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rrz3ZXWZYss</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Bioinfohazards: Jassi Pannu on Controlling Dangerous Data from which AI Models Learn...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Oy-oyODkTuY](https://www.youtube.com/watch?v=Oy-oyODkTuY)  
+   Link: <a href="https://www.youtube.com/watch?v=Oy-oyODkTuY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Oy-oyODkTuY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Why Bioweapons and AI Scare Nuclear Proliferation Experts...</p></details>

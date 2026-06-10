@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_dangerous_aut_8f4266_autonomy_secu_d6c65d_agent_exploit_2bcbf3
 - AI_Doom_and_E_87399b_dangerous_aut_8f4266_autonomy_secu_d6c65d_overprivilege_d8e492
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - autonomy
 - autonomy-vulnerabilities
 - memory-poisoning
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - autonomy
 - autonomy-vulnerabilities
 - memory-poisoning
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Persistent memory can help AI agents work over time, but poisoned records may quietly steer later decisions away from human intent.
 hero_summary: Persistent memory can help AI agents work over time, but poisoned records may quietly steer later decisions away from human intent.
 layout: default
 permalink: /memory-poisoning/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /autonomy/
 - /autonomy-vulnerabilities/
 nav_short_title: Memory poisoning
@@ -211,10 +211,10 @@ parent_heading_title: Hidden Hazards in Autonomous AI Agents
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_dangerous_aut_8f4266
-  title: Autonomy | AI Doom and
+  title: Autonomy | AI Doom and E 87399 b
   permalink: /autonomy/
   short_title: Autonomy
   heading_title: When Does AI Autonomy Become Dangerous?
@@ -226,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_dangerous_aut_8f4266
-  title: Autonomy | AI Doom and
+  title: Autonomy | AI Doom and E 87399 b
   permalink: /autonomy/
   short_title: Autonomy
   heading_title: When Does AI Autonomy Become Dangerous?
@@ -275,7 +275,7 @@ image: /assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_autonomy_secu_d6
 
 ## Introduction
 
-Can poisoned memory make agents drift? In principle, yes. The concern is not that a single malicious prompt instantly turns an AI agent into a hostile system, but that persistent memory may allow subtle manipulations to accumulate over time. An autonomous agent that stores experiences, preferences, instructions or summaries from previous interactions can be influenced by information that remains long after the original interaction has ended. If that stored information is false, [misleading]({{ 'misleading-xai/' | relative_url }}) or adversarially crafted, later decisions may gradually move away from the goals humans intended the system to pursue. Researchers call this class of attack *memory poisoning*. Recent studies have shown that memory-augmented agents can be induced to store malicious records and later retrieve them, influencing behaviour across sessions and tasks. arXiv OpenReview Within AI doom and existential-risk discussions <span class="citation-chip-wrap"><a class="citation-chip" href="https://openreview.net/forum?id=QINnsnppv8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openreview.net">[openreview.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openreview.net</span><span class="citation-popover-snippet">OpenReviewMemory Injection Attacks on LLM Agents via Query-Only...by S Dong · Cited by 11 — In this paper, we propose a novel Memory INJ...</span></span></span>, memory poisoning matters because many loss-of-control scenarios involve highly autonomous systems operating over long time horizons. If future agents depend heavily on accumulated memories to guide planning and action, corruption of those memories could become one route by which alignment degrades over time, even when the original system appeared safe.
+Can poisoned memory make agents drift? In principle, yes. The concern is not that a single malicious prompt instantly turns an AI agent into a hostile system, but that persistent memory may allow subtle manipulations to accumulate over time. An autonomous agent that stores experiences, preferences, instructions or summaries from previous interactions can be influenced by information that remains long after the original interaction has ended. If that stored information is false, misleading or adversarially crafted, later decisions may gradually move away from the goals humans intended the system to pursue. Researchers call this class of attack *memory poisoning*. Recent studies have shown that memory-augmented agents can be induced to store malicious records and later retrieve them, influencing behaviour across sessions and tasks. arXiv OpenReview Within AI doom and existential-risk discussions <span class="citation-chip-wrap"><a class="citation-chip" href="https://openreview.net/forum?id=QINnsnppv8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openreview.net">[openreview.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openreview.net</span><span class="citation-popover-snippet">Memory Injection Attacks on LLM Agents via Query-Only...by S Dong · Cited by 11 — In this paper, we propose a novel Memory INJ...</span></span></span>, memory poisoning matters because many loss-of-control scenarios involve highly autonomous systems operating over long time horizons. If future agents depend heavily on accumulated memories to guide planning and action, corruption of those memories could become one route by which alignment degrades over time, even when the original system appeared safe.
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_autonomy_secu_d6c65d_memory_poison_cf2649-Illustration-1-dark.svg" | relative_url }}" alt="Memory poisoning illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_autonomy_secu_d6c65d_memory_poison_cf2649-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_autonomy_secu_d6c65d_memory_poison_cf2649-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -283,9 +283,9 @@ Can poisoned memory make agents drift? In principle, yes. The concern is not tha
 
 Traditional large language models largely forget each interaction once a conversation ends. Autonomous agents are different. To complete long-running tasks, they increasingly maintain persistent memory stores containing past experiences, retrieved documents, user preferences, planning traces and records of successful actions. This memory allows agents to learn from experience and maintain continuity across sessions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.oracle.com/developers/agent-memory-why-your-ai-has-amnesia-and-how-to-fix-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.oracle.com">[Oracle Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.oracle.com</span><span class="citation-popover-title">agent memory why your ai has amnesia and how to fix it</span><span class="citation-popover-snippet">Oracle BlogsAgent Memory: Why Your AI Has Amnesia and How to Fix It17 Feb 2026 — It enables agents to store, retrieve, update, and forget...</span></span></span>
 
-The security problem is that memory changes the temporal structure of attacks. A prompt injection normally affects a single interaction. Memory poisoning affects future interactions that may occur days, weeks or months later. Once a poisoned record is stored, the attack can remain dormant until the relevant memory is retrieved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mem0.ai/blog/ai-memory-security-best-practices" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mem0.ai">[Mem0]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mem0.ai</span><span class="citation-popover-title">ai memory security best practices</span><span class="citation-popover-snippet">Mem0AI Memory Security: Best Practices and Implementation11 Feb 2026 — Memory poisoning targets the agent&#x27;s long-term memory, meaning the...</span></span></span> LoginRadius Researchers studying agent security increasingly describe long-term memory as a new attack surface rather than merely a convenience feature. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.loginradius.com/blog/engineering/what-is-memory-poisoning-in-agentic-systems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loginradius.com">[loginradius.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loginradius.com</span><span class="citation-popover-title">what is memory poisoning in agentic systems</span><span class="citation-popover-snippet">?2 Mar 2026 — Memory poisoning occurs when malicious or manipulated information is injected into an AI agent&#x27;s memory store in a way that...</span></span></span> Recent work on memory injection attacks found that adversaries could influence agent behaviour through interactions alone, without directly editing the memory database. The agent itself stores the poisoned information and later treats it as trusted past experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openreview.net/forum?id=QINnsnppv8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openreview.net">[OpenReview]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openreview.net</span><span class="citation-popover-snippet">OpenReviewMemory Injection Attacks on LLM Agents via Query-Only...by S Dong · Cited by 11 — In this paper, we propose a novel Memory INJ...</span></span></span>
+The security problem is that memory changes the temporal structure of attacks. A prompt injection normally affects a single interaction. Memory poisoning affects future interactions that may occur days, weeks or months later. Once a poisoned record is stored, the attack can remain dormant until the relevant memory is retrieved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mem0.ai/blog/ai-memory-security-best-practices" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mem0.ai">[Mem0]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mem0.ai</span><span class="citation-popover-title">ai memory security best practices</span><span class="citation-popover-snippet">AI Memory Security: Best Practices and Implementation11 Feb 2026 — Memory poisoning targets the agent&#x27;s long-term memory, meaning the...</span></span></span> LoginRadius Researchers studying agent security increasingly describe long-term memory as a new attack surface rather than merely a convenience feature. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.loginradius.com/blog/engineering/what-is-memory-poisoning-in-agentic-systems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loginradius.com">[loginradius.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loginradius.com</span><span class="citation-popover-title">what is memory poisoning in agentic systems</span><span class="citation-popover-snippet">?2 Mar 2026 — Memory poisoning occurs when malicious or manipulated information is injected into an AI agent&#x27;s memory store in a way that...</span></span></span> Recent work on memory injection attacks found that adversaries could influence agent behaviour through interactions alone, without directly editing the memory database. The agent itself stores the poisoned information and later treats it as trusted past experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openreview.net/forum?id=QINnsnppv8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openreview.net">[OpenReview]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openreview.net</span><span class="citation-popover-snippet">Memory Injection Attacks on LLM Agents via Query-Only...by S Dong · Cited by 11 — In this paper, we propose a novel Memory INJ...</span></span></span>
 
-For AI doom arguments, this matters because many alignment proposals assume that a system's objectives remain relatively stable. Persistent memory introduces another pathway through which goals, priorities or behavioural tendencies may shift after [deployment]({{ 'release-gates/' | relative_url }}).
+For AI doom arguments, this matters because many alignment proposals assume that a system's objectives remain relatively stable. Persistent memory introduces another pathway through which goals, priorities or behavioural tendencies may shift after deployment.
 
 ## What memory poisoning looks like in agent workflows
 
@@ -710,15 +710,15 @@ A typical workflow looks like this:
 </script>
 </section>
 
-1. An agent encounters information from a user, website, document, email or external tool. 2. The agent decides that the information is important and stores it in long-term memory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.promptfoo.dev/lm-security-db/vuln/agent-persistent-memory-poisoning-7e5fb607" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: promptfoo.dev">[promptfoo.dev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">promptfoo.dev</span><span class="citation-popover-title">agent persistent memory poisoning 7e5fb607</span><span class="citation-popover-snippet">Agent Persistent Memory Poisoning | LLM Security Database31 Dec 2025 — The agent retrieves the poisoned memory, appends it as context, an...</span></span></span> 3. The memory becomes part of the agent's future context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.promptfoo.dev/lm-security-db/vuln/agent-persistent-memory-poisoning-7e5fb607" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: promptfoo.dev">[promptfoo.dev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">promptfoo.dev</span><span class="citation-popover-title">agent persistent memory poisoning 7e5fb607</span><span class="citation-popover-snippet">Agent Persistent Memory Poisoning | LLM Security Database31 Dec 2025 — The agent retrieves the poisoned memory, appends it as context, an...</span></span></span>
+1. An agent encounters information from a user, website, document, email or external tool. 2. The agent decides that the information is important and stores it in long-term memory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.promptfoo.dev/lm-security-db/vuln/agent-persistent-memory-poisoning-7e5fb607" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: promptfoo.dev">[promptfoo.dev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">promptfoo.dev</span><span class="citation-popover-title">agent persistent memory poisoning 7e5fb607</span><span class="citation-popover-snippet">Agent Persistent Memory Poisoning &#124; LLM Security Database31 Dec 2025 — The agent retrieves the poisoned memory, appends it as context, an...</span></span></span> 3. The memory becomes part of the agent's future context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.promptfoo.dev/lm-security-db/vuln/agent-persistent-memory-poisoning-7e5fb607" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: promptfoo.dev">[promptfoo.dev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">promptfoo.dev</span><span class="citation-popover-title">agent persistent memory poisoning 7e5fb607</span><span class="citation-popover-snippet">Agent Persistent Memory Poisoning &#124; LLM Security Database31 Dec 2025 — The agent retrieves the poisoned memory, appends it as context, an...</span></span></span>
 4. Later tasks retrieve the poisoned memory.
 5. The agent incorporates the retrieved information into planning and decision-making.
 
-The key feature is persistence. The attack succeeds because the agent treats remembered information as part of its own accumulated experience rather than as a fresh external input. arXiv <span class="citation-chip-wrap"><a class="citation-chip" href="https://mem0.ai/blog/ai-memory-security-best-practices" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mem0.ai">[2Mem0]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mem0.ai</span><span class="citation-popover-title">ai memory security best practices</span><span class="citation-popover-snippet">Mem0AI Memory Security: Best Practices and Implementation11 Feb 2026 — Memory poisoning targets the agent&#x27;s long-term memory, meaning the...</span></span></span>
+The key feature is persistence. The attack succeeds because the agent treats remembered information as part of its own accumulated experience rather than as a fresh external input. arXiv <span class="citation-chip-wrap"><a class="citation-chip" href="https://mem0.ai/blog/ai-memory-security-best-practices" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mem0.ai">[2Mem0]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mem0.ai</span><span class="citation-popover-title">ai memory security best practices</span><span class="citation-popover-snippet">AI Memory Security: Best Practices and Implementation11 Feb 2026 — Memory poisoning targets the agent&#x27;s long-term memory, meaning the...</span></span></span>
 
 Several recent research programmes have demonstrated variants of this mechanism:
 
-* **MINJA (Memory Injection Attack)** showed that attackers could induce agents to store malicious memories through ordinary interactions and later influence future outputs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openreview.net/forum?id=QINnsnppv8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openreview.net">[OpenReview]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openreview.net</span><span class="citation-popover-snippet">OpenReviewMemory Injection Attacks on LLM Agents via Query-Only...by S Dong · Cited by 11 — In this paper, we propose a novel Memory INJ...</span></span></span>
+* **MINJA (Memory Injection Attack)** showed that attackers could induce agents to store malicious memories through ordinary interactions and later influence future outputs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openreview.net/forum?id=QINnsnppv8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openreview.net">[OpenReview]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openreview.net</span><span class="citation-popover-snippet">Memory Injection Attacks on LLM Agents via Query-Only...by S Dong · Cited by 11 — In this paper, we propose a novel Memory INJ...</span></span></span>
 * **AgentPoison** demonstrated that poisoning long-term memory or retrieval databases can function as a form of backdoor attack against agents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2601.05504" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXiv[2601.05504] Memory Poisoning Attack and Defense on...January 9, 2026 — by BD Sunil · 2026 · Cited by 11 — Abstract:Large language...</span><span class="citation-popover-meta">Published: January 9, 2026</span></span></span>
 * **MemoryGraft** explored how agents can learn unsafe behavioural patterns by retrieving poisoned examples from their own experience databases and imitating them in later situations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2601.05504" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXiv[2601.05504] Memory Poisoning Attack and Defense on...January 9, 2026 — by BD Sunil · 2026 · Cited by 11 — Abstract:Large language...</span><span class="citation-popover-meta">Published: January 9, 2026</span></span></span>
 * **Sleeper Memory Poisoning** found that fabricated memories could be inserted and later activated in future conversations, producing attacker-intended actions after long delays. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2601.05504" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXiv[2601.05504] Memory Poisoning Attack and Defense on...January 9, 2026 — by BD Sunil · 2026 · Cited by 11 — Abstract:Large language...</span><span class="citation-popover-meta">Published: January 9, 2026</span></span></span>
@@ -769,7 +769,7 @@ The doom argument is therefore indirect. Memory poisoning is viewed less as a st
 
 ## The strongest objections
 
-Not everyone sees memory poisoning as a major contributor to existential risk. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.promptfoo.dev/lm-security-db/vuln/agent-persistent-memory-poisoning-7e5fb607" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: promptfoo.dev">[promptfoo.dev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">promptfoo.dev</span><span class="citation-popover-title">agent persistent memory poisoning 7e5fb607</span><span class="citation-popover-snippet">Agent Persistent Memory Poisoning | LLM Security Database31 Dec 2025 — The agent retrieves the poisoned memory, appends it as context, an...</span></span></span>
+Not everyone sees memory poisoning as a major contributor to existential risk. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.promptfoo.dev/lm-security-db/vuln/agent-persistent-memory-poisoning-7e5fb607" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: promptfoo.dev">[promptfoo.dev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">promptfoo.dev</span><span class="citation-popover-title">agent persistent memory poisoning 7e5fb607</span><span class="citation-popover-snippet">Agent Persistent Memory Poisoning &#124; LLM Security Database31 Dec 2025 — The agent retrieves the poisoned memory, appends it as context, an...</span></span></span>
 
 One objection is that the threat may largely be an engineering problem. Human-designed systems already protect databases against corruption, and similar techniques could potentially protect agent memories. Segregated memory stores, validation pipelines, provenance tracking, cryptographic signing and human review may substantially reduce the risk. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2601.05504" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXiv[2601.05504] Memory Poisoning Attack and Defense on...January 9, 2026 — by BD Sunil · 2026 · Cited by 11 — Abstract:Large language...</span><span class="citation-popover-meta">Published: January 9, 2026</span></span></span>
 
@@ -777,11 +777,11 @@ A second objection is that current demonstrations often involve agents specifica
 
 A third objection is that alignment failures severe enough to threaten civilisation probably require deeper problems than corrupted memory alone. If a system's core objectives remain aligned and continuously monitored, poisoned memories may produce local errors rather than long-term strategic divergence.
 
-These objections are important because they highlight a broader [uncertainty]({{ 'uncertainty/' | relative_url }}) in AI risk debates: researchers can demonstrate vulnerabilities in current systems more easily than they can show how those vulnerabilities would scale into existential threats.
+These [objections]({{ 'objections/' | relative_url }}) are important because they highlight a broader [uncertainty]({{ 'uncertainty/' | relative_url }}) in AI risk debates: researchers can demonstrate vulnerabilities in current systems more easily than they can show how those vulnerabilities would scale into existential threats.
 
 ## What warning signs would matter?
 
-For people concerned about AI doom, the most relevant warning signs are not isolated memory attacks but evidence that advanced agents increasingly rely on memory for high-level decision-making.
+For people concerned about AI doom, the most relevant [warning signs]({{ 'warning-signs/' | relative_url }}) are not isolated memory attacks but evidence that advanced agents increasingly rely on memory for high-level decision-making.
 
 Particularly significant indicators would include:
 
@@ -805,10 +805,10 @@ Common ideas include:
 * validating memories before storage;
 * attaching provenance and trust scores to remembered information;
 * separating factual memory from behavioural instructions;
-* limiting which information can become persistent memory; <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.promptfoo.dev/lm-security-db/vuln/agent-persistent-memory-poisoning-7e5fb607" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: promptfoo.dev">[promptfoo.dev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">promptfoo.dev</span><span class="citation-popover-title">agent persistent memory poisoning 7e5fb607</span><span class="citation-popover-snippet">Agent Persistent Memory Poisoning | LLM Security Database31 Dec 2025 — The agent retrieves the poisoned memory, appends it as context, an...</span></span></span>
+* limiting which information can become persistent memory; <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.promptfoo.dev/lm-security-db/vuln/agent-persistent-memory-poisoning-7e5fb607" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: promptfoo.dev">[promptfoo.dev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">promptfoo.dev</span><span class="citation-popover-title">agent persistent memory poisoning 7e5fb607</span><span class="citation-popover-snippet">Agent Persistent Memory Poisoning &#124; LLM Security Database31 Dec 2025 — The agent retrieves the poisoned memory, appends it as context, an...</span></span></span>
 * auditing retrieved memories before they influence actions;
 * [monitoring]({{ 'monitoring/' | relative_url }}) behavioural drift over long time periods;
-* creating specialised memory-security frameworks such as OWASP's Agent Memory Guard project. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owasp.org/www-project-agent-memory-guard/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owasp.org">[OWASP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owasp.org</span><span class="citation-popover-snippet">OWASPOWASP Agent Memory GuardAgent Memory Guard protects AI agents from memory poisoning attacks — the corruption of persistent agent mem...</span></span></span>
+* creating specialised memory-security frameworks such as OWASP's Agent Memory Guard project. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owasp.org/www-project-agent-memory-guard/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owasp.org">[OWASP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owasp.org</span><span class="citation-popover-snippet">OWASP Agent Memory GuardAgent Memory Guard protects AI agents from memory poisoning attacks — the corruption of persistent agent mem...</span></span></span>
 
 A broader lesson emerging from the research is that memory cannot simply be treated as passive storage. In autonomous agents, memory becomes part of the decision-making process itself. If future AI systems depend heavily on remembered experiences to guide behaviour, then protecting memory integrity may become a central requirement for maintaining alignment over time.
 
@@ -821,180 +821,180 @@ In the wider AI doom debate, memory poisoning is therefore best understood as a 
 
 1. <a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2601.05504](https://arxiv.org/abs/2601.05504)  
+   Link: <a href="https://arxiv.org/abs/2601.05504" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2601.05504</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXiv[2601.05504] Memory Poisoning Attack and Defense on...January 9, 2026 — by BD Sunil · 2026 · Cited by 11 — Abstract:Large language...</p></details>
    Published: January 9, 2026  
 
 2. <a id="endnote-2"></a>
    Source: openreview.net  
-   Link: [https://openreview.net/forum?id=QINnsnppv8](https://openreview.net/forum?id=QINnsnppv8)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OpenReviewMemory Injection Attacks on LLM Agents via Query-Only...by S Dong · Cited by 11 — In this paper, we propose a novel Memory INJ...</p></details>
+   Link: <a href="https://openreview.net/forum?id=QINnsnppv8" target="_blank" rel="noopener noreferrer nofollow">https://openreview.net/forum?id=QINnsnppv8</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Memory Injection Attacks on LLM Agents via Query-Only...by S Dong · Cited by 11 — In this paper, we propose a novel Memory INJ...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv Hidden in Memory: Sleeper Memory Poisoning in LLM Agents  
-   Link: [https://arxiv.org/abs/2605.15338](https://arxiv.org/abs/2605.15338)  
+   Link: <a href="https://arxiv.org/abs/2605.15338" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.15338</a>  
 
 4. <a id="endnote-4"></a>
    Source: blogs.oracle.com  
    Title: agent memory why your ai has amnesia and how to fix it  
-   Link: [https://blogs.oracle.com/developers/agent-memory-why-your-ai-has-amnesia-and-how-to-fix-it](https://blogs.oracle.com/developers/agent-memory-why-your-ai-has-amnesia-and-how-to-fix-it)  
+   Link: <a href="https://blogs.oracle.com/developers/agent-memory-why-your-ai-has-amnesia-and-how-to-fix-it" target="_blank" rel="noopener noreferrer nofollow">https://blogs.oracle.com/developers/agent-memory-why-your-ai-has-amnesia-and-how-to-fix-it</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oracle BlogsAgent Memory: Why Your AI Has Amnesia and How to Fix It17 Feb 2026 — It enables agents to store, retrieve, update, and forget...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: mem0.ai  
    Title: ai memory security best practices  
-   Link: [https://mem0.ai/blog/ai-memory-security-best-practices](https://mem0.ai/blog/ai-memory-security-best-practices)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mem0AI Memory Security: Best Practices and Implementation11 Feb 2026 — Memory poisoning targets the agent&#x27;s long-term memory, meaning the...</p></details>
+   Link: <a href="https://mem0.ai/blog/ai-memory-security-best-practices" target="_blank" rel="noopener noreferrer nofollow">https://mem0.ai/blog/ai-memory-security-best-practices</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Memory Security: Best Practices and Implementation11 Feb 2026 — Memory poisoning targets the agent&#x27;s long-term memory, meaning the...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: loginradius.com  
    Title: what is memory poisoning in agentic systems  
-   Link: [https://www.loginradius.com/blog/engineering/what-is-memory-poisoning-in-agentic-systems](https://www.loginradius.com/blog/engineering/what-is-memory-poisoning-in-agentic-systems)  
+   Link: <a href="https://www.loginradius.com/blog/engineering/what-is-memory-poisoning-in-agentic-systems" target="_blank" rel="noopener noreferrer nofollow">https://www.loginradius.com/blog/engineering/what-is-memory-poisoning-in-agentic-systems</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>?2 Mar 2026 — Memory poisoning occurs when malicious or manipulated information is injected into an AI agent&#x27;s memory store in a way that...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2512.16962](https://arxiv.org/abs/2512.16962)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivMemoryGraft: Persistent Compromise of LLM Agents via Poisoned Experience RetrievalDecember 18, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2512.16962" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2512.16962</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>MemoryGraft: Persistent Compromise of LLM Agents via Poisoned Experience RetrievalDecember 18, 2025...</p></details>
    Published: December 18, 2025  
 
 8. <a id="endnote-8"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40MonlesYen/memory-poisoning-in-llm-agent-systems-why-injected-context-gets-trusted-5e7cd3bd8a24](https://medium.com/%40MonlesYen/memory-poisoning-in-llm-agent-systems-why-injected-context-gets-trusted-5e7cd3bd8a24)  
+   Link: <a href="https://medium.com/%40MonlesYen/memory-poisoning-in-llm-agent-systems-why-injected-context-gets-trusted-5e7cd3bd8a24" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40MonlesYen/memory-poisoning-in-llm-agent-systems-why-injected-context-gets-trusted-5e7cd3bd8a24</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>tly from classical prompt injection.Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
    Title: arXiv Agent Poison: Red-teaming LLM Agents via Poisoning  
-   Link: [https://arxiv.org/abs/2407.12784](https://arxiv.org/abs/2407.12784)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivAgentPoison: Red-teaming LLM Agents via Poisoning...July 17, 2024 — by Z Chen · 2024 · Cited by 347 — We propose a novel red teamin...</p></details>
+   Link: <a href="https://arxiv.org/abs/2407.12784" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2407.12784</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AgentPoison: Red-teaming LLM Agents via Poisoning...July 17, 2024 — by Z Chen · 2024 · Cited by 347 — We propose a novel red teamin...</p></details>
    Published: July 17, 2024  
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2604.02623](https://arxiv.org/abs/2604.02623)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivPoison Once, Exploit Forever: Environment-Injected Memory Poisoning Attacks on Web AgentsApril 3, 2026...</p></details>
+   Link: <a href="https://arxiv.org/abs/2604.02623" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.02623</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Poison Once, Exploit Forever: Environment-Injected Memory Poisoning Attacks on Web AgentsApril 3, 2026...</p></details>
    Published: April 3, 2026  
 
 11. <a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2601.11653](https://arxiv.org/abs/2601.11653)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivAI Agents Need Memory Control Over More ContextJanuary 15, 2026 — by F Bousetouane · 2026 · Cited by 3 — As interactions grow, agent...</p></details>
+   Link: <a href="https://arxiv.org/abs/2601.11653" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2601.11653</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Agents Need Memory Control Over More ContextJanuary 15, 2026 — by F Bousetouane · 2026 · Cited by 3 — As interactions grow, agent...</p></details>
    Published: January 15, 2026  
 
 12. <a id="endnote-12"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40michael.hannecke/agent-memory-poisoning-the-attack-that-waits-9400f806fbd7](https://medium.com/%40michael.hannecke/agent-memory-poisoning-the-attack-that-waits-9400f806fbd7)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MediumAgent Memory Poisoning The Attack WaitsMemory poisoning turns agent persistence into an attack vector. Learn why traditional defens...</p></details>
+   Link: <a href="https://medium.com/%40michael.hannecke/agent-memory-poisoning-the-attack-that-waits-9400f806fbd7" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40michael.hannecke/agent-memory-poisoning-the-attack-that-waits-9400f806fbd7</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Agent Memory Poisoning The Attack WaitsMemory poisoning turns agent persistence into an attack vector. Learn why traditional defens...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: arxiv.org  
    Title: arXiv Mem Morph: Tool Hijacking in LLM Agents via Memory Poisoning  
-   Link: [https://arxiv.org/abs/2605.26154](https://arxiv.org/abs/2605.26154)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivMemMorph: Tool Hijacking in LLM Agents via Memory PoisoningMay 24, 2026...</p></details>
+   Link: <a href="https://arxiv.org/abs/2605.26154" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.26154</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>MemMorph: Tool Hijacking in LLM Agents via Memory PoisoningMay 24, 2026...</p></details>
    Published: May 24, 2026  
 
 14. <a id="endnote-14"></a>
    Source: arxiv.org  
    Title: arXiv Memory poisoning and secure multi-agent systems  
-   Link: [https://arxiv.org/abs/2603.20357](https://arxiv.org/abs/2603.20357)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivMemory poisoning and secure multi-agent systemsMarch 20, 2026 — by V Torra · 2026 — In this paper, we first present the main types o...</p></details>
+   Link: <a href="https://arxiv.org/abs/2603.20357" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.20357</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Memory poisoning and secure multi-agent systemsMarch 20, 2026 — by V Torra · 2026 — In this paper, we first present the main types o...</p></details>
    Published: March 20, 2026  
 
 15. <a id="endnote-15"></a>
    Source: owasp.org  
-   Link: [https://owasp.org/www-project-agent-memory-guard/](https://owasp.org/www-project-agent-memory-guard/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OWASPOWASP Agent Memory GuardAgent Memory Guard protects AI agents from memory poisoning attacks — the corruption of persistent agent mem...</p></details>
+   Link: <a href="https://owasp.org/www-project-agent-memory-guard/" target="_blank" rel="noopener noreferrer nofollow">https://owasp.org/www-project-agent-memory-guard/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>OWASP Agent Memory GuardAgent Memory Guard protects AI agents from memory poisoning attacks — the corruption of persistent agent mem...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2512.17793v1](https://arxiv.org/html/2512.17793v1)  
+   Link: <a href="https://arxiv.org/html/2512.17793v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2512.17793v1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Systemic Risks of Interacting AI19 Dec 2025 — In this study, we investigate system-level emergent risks of interacting AI agents. The cor...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2601.05504v2](https://arxiv.org/html/2601.05504v2)  
+   Link: <a href="https://arxiv.org/html/2601.05504v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2601.05504v2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Memory Poisoning Attack and Defense on Memory Based...12 Jan 2026 — Large language model agents equipped with persistent memory are vuln...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40instatunnel/agentic-memory-poisoning-how-long-term-ai-context-can-be-weaponized-7c0eb213bd1a](https://medium.com/%40instatunnel/agentic-memory-poisoning-how-long-term-ai-context-can-be-weaponized-7c0eb213bd1a)  
+   Link: <a href="https://medium.com/%40instatunnel/agentic-memory-poisoning-how-long-term-ai-context-can-be-weaponized-7c0eb213bd1a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40instatunnel/agentic-memory-poisoning-how-long-term-ai-context-can-be-weaponized-7c0eb213bd1a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ent subtle, false “facts,” preferences, or security overrides...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40sambeera/ai-agent-safety-security-and-threat-mitigation-a9e7b72a1e5a](https://medium.com/%40sambeera/ai-agent-safety-security-and-threat-mitigation-a9e7b72a1e5a)  
+   Link: <a href="https://medium.com/%40sambeera/ai-agent-safety-security-and-threat-mitigation-a9e7b72a1e5a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40sambeera/ai-agent-safety-security-and-threat-mitigation-a9e7b72a1e5a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI agent safety, security, and threat mitigation.Data poisoning is a critical adversarial attack that compromises models by inserting cor...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40neonmaxima/memory-poisoning-and-tool-[misuse](https://medium.com/%40neonmaxima/memory-poisoning-and-tool-[misuse)  
+   Link: <a href="https://medium.com/%40neonmaxima/memory-poisoning-and-tool-[misuse" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40neonmaxima/memory-poisoning-and-tool-[misuse</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and capability. There is usually a retrieval pipeline...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Agentic AI Security Is 10x Harder Than LLM Safety  
-   Link: [https://www.youtube.com/watch?v=vdug7B1-dSs](https://www.youtube.com/watch?v=vdug7B1-dSs)  
+   Link: <a href="https://www.youtube.com/watch?v=vdug7B1-dSs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vdug7B1-dSs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OWASP Top 10 for Agentic Security...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: OWASP Top 10 for Agentic Security  
-   Link: [https://www.youtube.com/watch?v=xPrIuDiAtEs](https://www.youtube.com/watch?v=xPrIuDiAtEs)  
+   Link: <a href="https://www.youtube.com/watch?v=xPrIuDiAtEs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xPrIuDiAtEs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Agentic AI Security, Simply Explained (FREE Masterclass)...</p></details>
 
 ### Additional References
 
 23. <a id="endnote-23"></a>
    Source: promptfoo.dev  
-   Link: [https://www.promptfoo.dev/lm-security-db/tag/poisoning](https://www.promptfoo.dev/lm-security-db/tag/poisoning)  
+   Link: <a href="https://www.promptfoo.dev/lm-security-db/tag/poisoning" target="_blank" rel="noopener noreferrer nofollow">https://www.promptfoo.dev/lm-security-db/tag/poisoning</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Poisoning LLM VulnerabilitiesA vulnerability exists in multi-user LLM agents utilizing persistent shared state, allowing Unintentional Cr...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/securityskeptic_memory-injection-attacks-against-llm-agents-activity-7311025022272176130-GNlj](https://www.linkedin.com/posts/securityskeptic_memory-injection-attacks-against-llm-agents-activity-7311025022272176130-GNlj)  
+   Link: <a href="https://www.linkedin.com/posts/securityskeptic_memory-injection-attacks-against-llm-agents-activity-7311025022272176130-GNlj" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/securityskeptic_memory-injection-attacks-against-llm-agents-activity-7311025022272176130-GNlj</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Memory Injection Attacks against LLM Agents | Dave...27 Mar 2025 — A recent paper describes an experimental attack against large languag...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: drainpipe.io  
-   Link: [https://drainpipe.io/knowledge-base/what-is-agentic-memory-poisoning-and-how-can-malicious-data-corrupt-the-long-term-memory-of-autonomous-ai-agents/](https://drainpipe.io/knowledge-base/what-is-agentic-memory-poisoning-and-how-can-malicious-data-corrupt-the-long-term-memory-of-autonomous-ai-agents/)  
+   Link: <a href="https://drainpipe.io/knowledge-base/what-is-agentic-memory-poisoning-and-how-can-malicious-data-corrupt-the-long-term-memory-of-autonomous-ai-agents/" target="_blank" rel="noopener noreferrer nofollow">https://drainpipe.io/knowledge-base/what-is-agentic-memory-poisoning-and-how-can-malicious-data-corrupt-the-long-term-memory-of-autonomous-ai-agents/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What is &#x27;Agentic Memory Poisoning,&#x27; and How Can...Apr 3, 2026 — Agentic memory poisoning corrupts an AI agent&#x27;s long-term memory, turnin...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/matijafranklin_excited-about-our-new-paper-ai-agent-traps-activity-7444771323563675648-200R](https://www.linkedin.com/posts/matijafranklin_excited-about-our-new-paper-ai-agent-traps-activity-7444771323563675648-200R)  
+   Link: <a href="https://www.linkedin.com/posts/matijafranklin_excited-about-our-new-paper-ai-agent-traps-activity-7444771323563675648-200R" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/matijafranklin_excited-about-our-new-paper-ai-agent-traps-activity-7444771323563675648-200R</a>  
 
 27. <a id="endnote-27"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/jeganselvarajlinkedin_the-ai-agent-identity-crisis-activity-7445432540842139649-QLmy](https://www.linkedin.com/posts/jeganselvarajlinkedin_the-ai-agent-identity-crisis-activity-7445432540842139649-QLmy)  
+   Link: <a href="https://www.linkedin.com/posts/jeganselvarajlinkedin_the-ai-agent-identity-crisis-activity-7445432540842139649-QLmy" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/jeganselvarajlinkedin_the-ai-agent-identity-crisis-activity-7445432540842139649-QLmy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Agents: The New Security Risk in 2026The risk is not just access. It&#x27;s invisible autonomy with no memory of accountability. That&#x27;s a v...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/398936727_MemoryGraft_Persistent_Compromise_of_LLM_Agents_via_Poisoned_Experience_Retrieval](https://www.researchgate.net/publication/398936727_MemoryGraft_Persistent_Compromise_of_LLM_Agents_via_Poisoned_Experience_Retrieval)  
+   Link: <a href="https://www.researchgate.net/publication/398936727_MemoryGraft_Persistent_Compromise_of_LLM_Agents_via_Poisoned_Experience_Retrieval" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398936727_MemoryGraft_Persistent_Compromise_of_LLM_Agents_via_Poisoned_Experience_Retrieval</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It is a novel indirect injection attack that compromises agent behavior not through immediate...Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: tianpan.co  
    Title: 2026 04 10 agent memory poisoning persistent compromise  
-   Link: [https://tianpan.co/blog/2026-04-10-agent-memory-poisoning-persistent-compromise](https://tianpan.co/blog/2026-04-10-agent-memory-poisoning-persistent-compromise)  
+   Link: <a href="https://tianpan.co/blog/2026-04-10-agent-memory-poisoning-persistent-compromise" target="_blank" rel="noopener noreferrer nofollow">https://tianpan.co/blog/2026-04-10-agent-memory-poisoning-persistent-compromise</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Agent Memory Poisoning: The Attack That Persists Across...Apr 10, 2026 — Memory poisoning lets attackers plant instructions into an agen...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: promptfoo.dev  
    Title: agent persistent memory poisoning 7e5fb607  
-   Link: [https://www.promptfoo.dev/lm-security-db/vuln/agent-persistent-memory-poisoning-7e5fb607](https://www.promptfoo.dev/lm-security-db/vuln/agent-persistent-memory-poisoning-7e5fb607)  
+   Link: <a href="https://www.promptfoo.dev/lm-security-db/vuln/agent-persistent-memory-poisoning-7e5fb607" target="_blank" rel="noopener noreferrer nofollow">https://www.promptfoo.dev/lm-security-db/vuln/agent-persistent-memory-poisoning-7e5fb607</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Agent Persistent Memory Poisoning | LLM Security Database31 Dec 2025 — The agent retrieves the poisoned memory, appends it as context, an...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: alignmentforum.org  
    Title: ai control may increase existential risk  
-   Link: [https://www.alignmentforum.org/posts/rZcyemEpBHgb2hqLP/ai-control-may-increase-existential-risk](https://www.alignmentforum.org/posts/rZcyemEpBHgb2hqLP/ai-control-may-increase-existential-risk)  
+   Link: <a href="https://www.alignmentforum.org/posts/rZcyemEpBHgb2hqLP/ai-control-may-increase-existential-risk" target="_blank" rel="noopener noreferrer nofollow">https://www.alignmentforum.org/posts/rZcyemEpBHgb2hqLP/ai-control-may-increase-existential-risk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>11 Mar 2025 — AI control may primarily shift probability mass away from &quot;moderately large warning shots&quot; and towards &quot;ineffective warning...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: christian-schneider.net  
    Title: persistent memory poisoning in ai agents  
-   Link: [https://christian-schneider.net/blog/persistent-memory-poisoning-in-ai-agents/](https://christian-schneider.net/blog/persistent-memory-poisoning-in-ai-agents/)  
+   Link: <a href="https://christian-schneider.net/blog/persistent-memory-poisoning-in-ai-agents/" target="_blank" rel="noopener noreferrer nofollow">https://christian-schneider.net/blog/persistent-memory-poisoning-in-ai-agents/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Memory poisoning in AI agents: exploits that wait26 Feb 2026 — Learn how memory poisoning attacks create persistence in agentic AI system...</p></details>

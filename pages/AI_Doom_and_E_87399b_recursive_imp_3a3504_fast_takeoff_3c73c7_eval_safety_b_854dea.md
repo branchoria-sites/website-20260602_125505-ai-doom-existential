@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_ai_research_l_2238ea
 - AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_late_societal_f5e128
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - ai-takeoff
 - fast-takeoff
 - safety-buffers
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - ai-takeoff
 - fast-takeoff
 - safety-buffers
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: AI safety evaluations only help if warning signs appear far enough before dangerous autonomy for labs and governments to act.
 hero_summary: AI safety evaluations only help if warning signs appear far enough before dangerous autonomy for labs and governments to act.
 layout: default
 permalink: /safety-buffers/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /ai-takeoff/
 - /fast-takeoff/
 nav_short_title: Safety buffers
@@ -211,10 +211,10 @@ parent_heading_title: What would warn US before FOOM?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_recursive_imp_3a3504
-  title: AI Takeoff | AI Doom and
+  title: AI Takeoff | AI Doom and E 87399 b
   permalink: /ai-takeoff/
   short_title: AI Takeoff
   heading_title: Could AI Improvement Run Away From US?
@@ -226,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_recursive_imp_3a3504
-  title: AI Takeoff | AI Doom and
+  title: AI Takeoff | AI Doom and E 87399 b
   permalink: /ai-takeoff/
   short_title: AI Takeoff
   heading_title: Could AI Improvement Run Away From US?
@@ -273,7 +273,7 @@ AI safety [evaluations]({{ 'evaluations/' | relative_url }}) are often described
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_eval_safety_b_854dea-Illustration-1-dark.svg" | relative_url }}" alt="Safety buffers illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_eval_safety_b_854dea-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_eval_safety_b_854dea-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The problem is that evaluations only help if there is a safety buffer between the first warning signs and genuinely dangerous capability. If that buffer is measured in years, there may be time to respond. If it is measured in weeks, days, or a single training run, warning systems may provide little practical protection. Within debates about fast takeoff and FOOM scenarios, the size of this buffer is one of the most important and uncertain questions. It determines whether evaluations are a useful brake on risk or merely a way of documenting danger after it has already arrived.
+The problem is that evaluations only help if there is a safety buffer between the first [warning signs]({{ 'warning-signs/' | relative_url }}) and genuinely dangerous capability. If that buffer is measured in years, there may be time to respond. If it is measured in weeks, days, or a single training run, warning systems may provide little practical protection. Within debates about fast takeoff and FOOM scenarios, the size of this buffer is one of the most important and uncertain questions. It determines whether evaluations are a useful brake on risk or merely a way of documenting danger after it has already arrived.
 
 ## What dangerous capability evaluations try to catch
 
@@ -295,9 +295,9 @@ A safety buffer is the gap between two moments:
 1. The point at which evaluations begin showing concerning results.
 2. The point at which the system becomes genuinely dangerous.
 
-The entire logic of capability thresholds and responsible scaling policies depends on such a gap existing. Many proposed governance frameworks assume that warning signs will appear early enough for developers to increase security, restrict deployment, improve monitoring, or pause development if necessary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/news/anthropics-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-title">s responsible scaling policy</span><span class="citation-popover-snippet">AnthropicAnthropic&#x27;s Responsible Scaling PolicySep 19, 2023 — Our RSP defines a framework called AI Safety Levels (ASL) for addressing ca...</span></span></span>
+The entire logic of capability thresholds and responsible scaling policies depends on such a gap existing. Many proposed governance frameworks assume that warning signs will appear early enough for developers to increase security, restrict deployment, improve monitoring, or pause development if necessary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/news/anthropics-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-title">s responsible scaling policy</span><span class="citation-popover-snippet">Anthropic&#x27;s Responsible Scaling PolicySep 19, 2023 — Our RSP defines a framework called AI Safety Levels (ASL) for addressing ca...</span></span></span>
 
-Anthropic's Responsible Scaling Policy provides a concrete example. The framework defines capability thresholds intended to trigger stronger safety requirements before risk becomes unacceptable. The policy's stated aim is to gather evidence and deploy mitigations ahead of dangerous capability levels rather than after them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/news/responsible-scaling-policy-v3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-title">responsible scaling policy v3</span><span class="citation-popover-snippet">AnthropicResponsible Scaling Policy Version 3.024 Feb 2026 — We viewed the capability thresholds as potentially important moments for the...</span></span></span>
+Anthropic's Responsible Scaling Policy provides a concrete example. The framework defines capability thresholds intended to trigger stronger safety requirements before risk becomes unacceptable. The policy's stated aim is to gather evidence and deploy mitigations ahead of dangerous capability levels rather than after them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/news/responsible-scaling-policy-v3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-title">responsible scaling policy v3</span><span class="citation-popover-snippet">Responsible Scaling Policy Version 3.024 Feb 2026 — We viewed the capability thresholds as potentially important moments for the...</span></span></span>
 
 In practice, the safety-buffer model assumes several things are true:
 
@@ -366,7 +366,7 @@ A warning must be:
 
 Each stage introduces delay.
 
-Recent discussions of frontier-risk governance have highlighted this problem. Pre-deployment evaluations often occur close to release schedules, leaving limited time for [independent]({{ 'red-teaming/' | relative_url }}) review or deeper investigation. Some analysts argue that evaluation systems need to be embedded throughout development rather than treated as a final checkpoint immediately before deployment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://metr.org/blog/2026-05-19-frontier-risk-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[Metr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-title">2026 05 19 frontier risk report</span><span class="citation-popover-snippet">MetrFrontier Risk Report (February to March 2026)May 19, 2026 — 19 May 2026 — To date, third-party evaluations of frontier AI have largel...</span><span class="citation-popover-meta">Published: May 19, 2026</span></span></span>
+Recent discussions of frontier-risk governance have highlighted this problem. Pre-deployment evaluations often occur close to release schedules, leaving limited time for [independent]({{ 'red-teaming/' | relative_url }}) review or deeper investigation. Some analysts argue that evaluation systems need to be embedded throughout development rather than treated as a final checkpoint immediately before deployment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://metr.org/blog/2026-05-19-frontier-risk-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[Metr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-title">2026 05 19 frontier risk report</span><span class="citation-popover-snippet">Frontier Risk Report (February to March 2026)May 19, 2026 — 19 May 2026 — To date, third-party evaluations of frontier AI have largel...</span><span class="citation-popover-meta">Published: May 19, 2026</span></span></span>
 
 The UK's AI Security Institute also faces a related limitation. Although it can evaluate models and identify concerns, it generally lacks direct authority to compel companies to alter development plans. This means that warning signals do not automatically translate into protective action. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/7204670/uk-ai-safety-institute/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">uk ai safety institute</span><span class="citation-popover-snippet">This led to the establishment of the UK&#x27;s AI Safety Institute (AISI) in November 2023, with a mandate to evaluate the risks of new AI mod...</span><span class="citation-popover-meta">Published: November 2023</span></span></span>
 
@@ -403,7 +403,7 @@ Researchers increasingly look for:
 
 </div>
 
-Some responsible-scaling approaches explicitly depend on the belief that dangerous capabilities develop gradually enough to forecast in advance. Their aim is to identify important thresholds before crossing them and prepare safeguards ahead of time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lesswrong.com/posts/vAopGQhFPdjcA8CEh/anthropic-reflections-on-our-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lesswrong.com">[LessWrong]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lesswrong.com</span><span class="citation-popover-snippet">LessWrongAnthropic: Reflections on our Responsible Scaling PolicyMay 19, 2024 — We aim to collect evidence about model risk and prepare s...</span><span class="citation-popover-meta">Published: May 19, 2024</span></span></span>
+Some responsible-scaling approaches explicitly depend on the belief that dangerous capabilities develop gradually enough to forecast in advance. Their aim is to identify important thresholds before crossing them and prepare safeguards ahead of time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lesswrong.com/posts/vAopGQhFPdjcA8CEh/anthropic-reflections-on-our-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lesswrong.com">[LessWrong]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lesswrong.com</span><span class="citation-popover-snippet">Anthropic: Reflections on our Responsible Scaling PolicyMay 19, 2024 — We aim to collect evidence about model risk and prepare s...</span><span class="citation-popover-meta">Published: May 19, 2024</span></span></span>
 
 At present, however, the evidence remains limited. Frontier models have improved rapidly, but humanity has not yet observed systems with the extreme capabilities envisioned in AI takeover scenarios. As a result, nobody can directly measure how much warning would precede such systems. Current evaluation programmes are partly an attempt to learn that answer before it becomes urgent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)The UK AI Security Institute (AISI) has conducted evalu...</span></span></span>
 
@@ -840,244 +840,244 @@ That disagreement sits at the heart of the wider debate over fast takeoff warnin
 
 1. <a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2403.13793](https://arxiv.org/abs/2403.13793)  
+   Link: <a href="https://arxiv.org/abs/2403.13793" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.13793</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Our evaluations cover four areas...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: time.com  
    Title: uk ai safety institute  
-   Link: [https://time.com/7204670/uk-ai-safety-institute/](https://time.com/7204670/uk-ai-safety-institute/)  
+   Link: <a href="https://time.com/7204670/uk-ai-safety-institute/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/7204670/uk-ai-safety-institute/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This led to the establishment of the UK&#x27;s AI Safety Institute (AISI) in November 2023, with a mandate to evaluate the risks of new AI mod...</p></details>
    Published: November 2023  
 
 3. <a id="endnote-3"></a>
    Source: anthropic.com  
    Title: s responsible scaling policy  
-   Link: [https://www.anthropic.com/news/anthropics-responsible-scaling-policy](https://www.anthropic.com/news/anthropics-responsible-scaling-policy)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AnthropicAnthropic&#x27;s Responsible Scaling PolicySep 19, 2023 — Our RSP defines a framework called AI Safety Levels (ASL) for addressing ca...</p></details>
+   Link: <a href="https://www.anthropic.com/news/anthropics-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/news/anthropics-responsible-scaling-policy</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic&#x27;s Responsible Scaling PolicySep 19, 2023 — Our RSP defines a framework called AI Safety Levels (ASL) for addressing ca...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: lesswrong.com  
-   Link: [https://www.lesswrong.com/posts/vAopGQhFPdjcA8CEh/anthropic-reflections-on-our-responsible-scaling-policy](https://www.lesswrong.com/posts/vAopGQhFPdjcA8CEh/anthropic-reflections-on-our-responsible-scaling-policy)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LessWrongAnthropic: Reflections on our Responsible Scaling PolicyMay 19, 2024 — We aim to collect evidence about model risk and prepare s...</p></details>
+   Link: <a href="https://www.lesswrong.com/posts/vAopGQhFPdjcA8CEh/anthropic-reflections-on-our-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/posts/vAopGQhFPdjcA8CEh/anthropic-reflections-on-our-responsible-scaling-policy</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic: Reflections on our Responsible Scaling PolicyMay 19, 2024 — We aim to collect evidence about model risk and prepare s...</p></details>
    Published: May 19, 2024  
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv Sabotage Evaluations for Frontier Models  
-   Link: [https://arxiv.org/abs/2410.21514](https://arxiv.org/abs/2410.21514)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivSabotage Evaluations for Frontier ModelsOctober 28, 2024...</p></details>
+   Link: <a href="https://arxiv.org/abs/2410.21514" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2410.21514</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sabotage Evaluations for Frontier ModelsOctober 28, 2024...</p></details>
    Published: October 28, 2024  
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv Evaluating Frontier Models for Stealth and Situational Awareness  
-   Link: [https://arxiv.org/abs/2505.01420](https://arxiv.org/abs/2505.01420)  
+   Link: <a href="https://arxiv.org/abs/2505.01420" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.01420</a>  
 
 7. <a id="endnote-7"></a>
    Source: anthropic.com  
    Title: responsible scaling policy v3  
-   Link: [https://www.anthropic.com/news/responsible-scaling-policy-v3](https://www.anthropic.com/news/responsible-scaling-policy-v3)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AnthropicResponsible Scaling Policy Version 3.024 Feb 2026 — We viewed the capability thresholds as potentially important moments for the...</p></details>
+   Link: <a href="https://www.anthropic.com/news/responsible-scaling-policy-v3" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/news/responsible-scaling-policy-v3</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Responsible Scaling Policy Version 3.024 Feb 2026 — We viewed the capability thresholds as potentially important moments for the...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: metr.org  
    Title: 2026 05 19 frontier risk report  
-   Link: [https://metr.org/blog/2026-05-19-frontier-risk-report/](https://metr.org/blog/2026-05-19-frontier-risk-report/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MetrFrontier Risk Report (February to March 2026)May 19, 2026 — 19 May 2026 — To date, third-party evaluations of frontier AI have largel...</p></details>
+   Link: <a href="https://metr.org/blog/2026-05-19-frontier-risk-report/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/blog/2026-05-19-frontier-risk-report/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Risk Report (February to March 2026)May 19, 2026 — 19 May 2026 — To date, third-party evaluations of frontier AI have largel...</p></details>
    Published: May 19, 2026  
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2406.14713](https://arxiv.org/abs/2406.14713)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivRisk thresholds for frontier AIJune 20, 2024...</p></details>
+   Link: <a href="https://arxiv.org/abs/2406.14713" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2406.14713</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Risk thresholds for frontier AIJune 20, 2024...</p></details>
    Published: June 20, 2024  
 
 10. <a id="endnote-10"></a>
    Source: anthropic.com  
-   Link: [https://www.anthropic.com/](https://www.anthropic.com/)  
+   Link: <a href="https://www.anthropic.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/</a>  
 
 11. <a id="endnote-11"></a>
    Source: assets.anthropic.com  
    Title: method of informing safety and risk cases profiling sources of danger  
-   Link: [https://assets.anthropic.com/m/377027d5b36ac1eb/original/Sabotage-Evaluations-for-Frontier-Models.pdf](https://assets.anthropic.com/m/377027d5b36ac1eb/original/Sabotage-Evaluations-for-Frontier-Models.pdf)  
+   Link: <a href="https://assets.anthropic.com/m/377027d5b36ac1eb/original/Sabotage-Evaluations-for-Frontier-Models.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.anthropic.com/m/377027d5b36ac1eb/original/Sabotage-Evaluations-for-Frontier-Models.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluations for Frontier Modelsby J Benton · Cited by 41 — are screened by another model to detect [misuse](&amp;#123;&amp;#123; &#x27;misuse/&#x27; | relative_url &amp;#125;&amp;#125;), and dangerous-capability evalu...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: anthropic.com  
    Title: acquires Stainless  
-   Link: [https://anthropic.com/news/anthropic-acquires-stainless](https://anthropic.com/news/anthropic-acquires-stainless)  
+   Link: <a href="https://anthropic.com/news/anthropic-acquires-stainless" target="_blank" rel="noopener noreferrer nofollow">https://anthropic.com/news/anthropic-acquires-stainless</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic acquires Stainless...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2512.01166v3](https://arxiv.org/html/2512.01166v3)  
+   Link: <a href="https://arxiv.org/html/2512.01166v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2512.01166v3</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI model will not cause harm, even when the model has dangerous capabilities. They can be thought of as safeguards against misuse, or...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: time.com  
    Title: exclusive anthropic drops flagship safety pledge  
-   Link: [https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/](https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/)  
+   Link: <a href="https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Exclusive: Anthropic Drops Flagship Safety Pledge24 Feb 2026 — In 2023, Anthropic committed to never train an AI system unless it could g...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: deepmind.google  
-   Link: [https://deepmind.google/research/publications/78150/](https://deepmind.google/research/publications/78150/)  
+   Link: <a href="https://deepmind.google/research/publications/78150/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/research/publications/78150/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating Frontier Models for Dangerous Capabilities21 Mar 2024 — We introduce a programme of new &quot;dangerous capability&quot; evaluations and...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: governance.ai  
    Title: ‍.Read more  
-   Link: [https://www.governance.ai/analysis/anthropics-rsp-v3-0-how-it-works-whats-changed-and-some-reflections](https://www.governance.ai/analysis/anthropics-rsp-v3-0-how-it-works-whats-changed-and-some-reflections)  
+   Link: <a href="https://www.governance.ai/analysis/anthropics-rsp-v3-0-how-it-works-whats-changed-and-some-reflections" target="_blank" rel="noopener noreferrer nofollow">https://www.governance.ai/analysis/anthropics-rsp-v3-0-how-it-works-whats-changed-and-some-reflections</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic&#x27;s RSP v3.0: How it Works, What&#x27;s Changed, and...Mar 17, 2026 — Anthropic&#x27;s Responsible Scaling Policy (RSP) – its framework fo...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: frontiermodelforum.org  
    Title: frontier capability assessments  
-   Link: [https://www.frontiermodelforum.org/technical-reports/frontier-capability-assessments/](https://www.frontiermodelforum.org/technical-reports/frontier-capability-assessments/)  
+   Link: <a href="https://www.frontiermodelforum.org/technical-reports/frontier-capability-assessments/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/technical-reports/frontier-capability-assessments/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Model ForumFrontier Capability Assessments22 Apr 2025 — Frontier Capability Assessments are procedures conducted on frontier mod...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: aisi.gov.uk  
-   Link: [https://www.aisi.gov.uk/frontier-ai-trends-report](https://www.aisi.gov.uk/frontier-ai-trends-report)  
+   Link: <a href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/frontier-ai-trends-report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)The UK AI Security Institute (AISI) has conducted evalu...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: iaps.ai  
    Title: responsible scaling  
-   Link: [https://www.iaps.ai/research/responsible-scaling](https://www.iaps.ai/research/responsible-scaling)  
+   Link: <a href="https://www.iaps.ai/research/responsible-scaling" target="_blank" rel="noopener noreferrer nofollow">https://www.iaps.ai/research/responsible-scaling</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Institute for AI Policy and StrategyResponsible Scaling: Comparing Government Guidance...Mar 11, 2024 — Anthropic and other AI companies...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: safer-ai.org  
    Title: anthropics responsible scaling policy update makes a step backwards  
-   Link: [https://www.safer-ai.org/anthropics-responsible-scaling-policy-update-makes-a-step-backwards](https://www.safer-ai.org/anthropics-responsible-scaling-policy-update-makes-a-step-backwards)  
+   Link: <a href="https://www.safer-ai.org/anthropics-responsible-scaling-policy-update-makes-a-step-backwards" target="_blank" rel="noopener noreferrer nofollow">https://www.safer-ai.org/anthropics-responsible-scaling-policy-update-makes-a-step-backwards</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The new policy adopts...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Anthropic](https://en.wikipedia.org/wiki/Anthropic)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AnthropicAnthropic is an American [artificial](&amp;#123;&amp;#123; &#x27;artificial-goals/&#x27; | relative_url &amp;#125;&amp;#125;) intelligence (AI) company headquartered in San Francisco. It has developed a series of la...</p></details>
+   Link: <a href="https://en.wikipedia.org/wiki/Anthropic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anthropic</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AnthropicAnthropic is an American artificial intelligence (AI) company headquartered in San Francisco. It has developed a series of la...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: verifywise.ai  
-   Link: [https://verifywise.ai/de/ai-governance-library/policies-and-internal-governance/anthropic-responsible-scaling-policy](https://verifywise.ai/de/ai-governance-library/policies-and-internal-governance/anthropic-responsible-scaling-policy)  
+   Link: <a href="https://verifywise.ai/de/ai-governance-library/policies-and-internal-governance/anthropic-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow">https://verifywise.ai/de/ai-governance-library/policies-and-internal-governance/anthropic-responsible-scaling-policy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It establishes commitments for...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: verifywise.ai  
-   Link: [https://verifywise.ai/ai-governance-library/policies-and-internal-governance/anthropic-responsible-scaling-policy](https://verifywise.ai/ai-governance-library/policies-and-internal-governance/anthropic-responsible-scaling-policy)  
+   Link: <a href="https://verifywise.ai/ai-governance-library/policies-and-internal-governance/anthropic-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow">https://verifywise.ai/ai-governance-library/policies-and-internal-governance/anthropic-responsible-scaling-policy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic Responsible Scaling PolicyAnthropic&#x27;s Responsible Scaling Policy defines AI Safety Levels (ASL) based on model capabilities and...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: frontiermodelforum.org  
-   Link: [https://www.frontiermodelforum.org/](https://www.frontiermodelforum.org/)  
+   Link: <a href="https://www.frontiermodelforum.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Model ForumThe Frontier Model Forum is an industry-supported non-profit focused on addressing significant risks to public safety...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: frontiermodelforum.org  
    Title: managing advanced cyber risks in frontier ai frameworks  
-   Link: [https://www.frontiermodelforum.org/technical-reports/managing-advanced-cyber-risks-in-frontier-ai-frameworks/](https://www.frontiermodelforum.org/technical-reports/managing-advanced-cyber-risks-in-frontier-ai-frameworks/)  
+   Link: <a href="https://www.frontiermodelforum.org/technical-reports/managing-advanced-cyber-risks-in-frontier-ai-frameworks/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/technical-reports/managing-advanced-cyber-risks-in-frontier-ai-frameworks/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>13 Feb 2026 — Frontier capability assessments are procedures conducted on frontier AI models to gather evidence of whether they have capa...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: ts2.tech  
    Title: Anthropic Brings on Open AI Co-Founder Andrej Karpathy  
-   Link: [https://ts2.tech/en/anthropic-just-hired-openai-co-founder-andrej-karpathy-rivals-will-notice/](https://ts2.tech/en/anthropic-just-hired-openai-co-founder-andrej-karpathy-rivals-will-notice/)  
+   Link: <a href="https://ts2.tech/en/anthropic-just-hired-openai-co-founder-andrej-karpathy-rivals-will-notice/" target="_blank" rel="noopener noreferrer nofollow">https://ts2.tech/en/anthropic-just-hired-openai-co-founder-andrej-karpathy-rivals-will-notice/</a>  
 
 27. <a id="endnote-27"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/miclchen_anthropics-responsible-scaling-policy-version-activity-7432196983748206592-ItDB](https://www.linkedin.com/posts/miclchen_anthropics-responsible-scaling-policy-version-activity-7432196983748206592-ItDB)  
+   Link: <a href="https://www.linkedin.com/posts/miclchen_anthropics-responsible-scaling-policy-version-activity-7432196983748206592-ItDB" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/miclchen_anthropics-responsible-scaling-policy-version-activity-7432196983748206592-ItDB</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>No more implication of unilateral commitment to pause AI...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/company/anthropicresearch](https://www.linkedin.com/company/anthropicresearch)  
+   Link: <a href="https://www.linkedin.com/company/anthropicresearch" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/company/anthropicresearch</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AnthropicWe&#x27;re an AI research company that builds reliable, interpretable, and steerable AI systems. Our first product is Claude, an AI a...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: ai-safety-atlas.com  
    Title: Dangerous Capability Evaluations  
-   Link: [https://ai-safety-atlas.com/chapters/v1/evaluations/dangerous-capability-evaluations/](https://ai-safety-atlas.com/chapters/v1/evaluations/dangerous-capability-evaluations/)  
+   Link: <a href="https://ai-safety-atlas.com/chapters/v1/evaluations/dangerous-capability-evaluations/" target="_blank" rel="noopener noreferrer nofollow">https://ai-safety-atlas.com/chapters/v1/evaluations/dangerous-capability-evaluations/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 5Dangerous capability evaluations specifically probe for these potentially harmful abilities, helping identify systems that might...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: forum.effectivealtruism.org  
    Title: anthropic announcing our updated responsible scaling policy  
-   Link: [https://forum.effectivealtruism.org/posts/JoJwBsGJFWtq72omp/anthropic-announcing-our-updated-responsible-scaling-policy](https://forum.effectivealtruism.org/posts/JoJwBsGJFWtq72omp/anthropic-announcing-our-updated-responsible-scaling-policy)  
+   Link: <a href="https://forum.effectivealtruism.org/posts/JoJwBsGJFWtq72omp/anthropic-announcing-our-updated-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/JoJwBsGJFWtq72omp/anthropic-announcing-our-updated-responsible-scaling-policy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rewrote its RSP16 Oct 2024 — New RSP introduces more flexible risk assessment but weakens some previous commitments, like evaluation freq...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: aisecurityandsafety.org  
    Title: anthropic rsp  
-   Link: [https://aisecurityandsafety.org/de/frameworks/anthropic-rsp/](https://aisecurityandsafety.org/de/frameworks/anthropic-rsp/)  
+   Link: <a href="https://aisecurityandsafety.org/de/frameworks/anthropic-rsp/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/de/frameworks/anthropic-rsp/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wichtige Anforderungen. Assess AI...Read more...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/singularity/comments/1g4a1mm/anthropic_announcing_our_updated_responsible/](https://www.reddit.com/r/singularity/comments/1g4a1mm/anthropic_announcing_our_updated_responsible/)  
+   Link: <a href="https://www.reddit.com/r/singularity/comments/1g4a1mm/anthropic_announcing_our_updated_responsible/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/singularity/comments/1g4a1mm/anthropic_announcing_our_updated_responsible/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>easures for Claude 4 Opus &quot;to limit risk of users developing...Read more...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/%40anthropic-ai](https://www.youtube.com/%40anthropic-ai)  
+   Link: <a href="https://www.youtube.com/%40anthropic-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/%40anthropic-ai</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AnthropicWe&#x27;re an AI safety and research company. Talk to our AI assistant Claude on claude.com. Download Claude on desktop, iOS, or Andr...</p></details>
 
 ### Additional References
 
 34. <a id="endnote-34"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/tesssbuckley_today-uks-ai-security-institute-of-department-activity-7407352566029828097-ZTJf](https://www.linkedin.com/posts/tesssbuckley_today-uks-ai-security-institute-of-department-activity-7407352566029828097-ZTJf)  
+   Link: <a href="https://www.linkedin.com/posts/tesssbuckley_today-uks-ai-security-institute-of-department-activity-7407352566029828097-ZTJf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/tesssbuckley_today-uks-ai-security-institute-of-department-activity-7407352566029828097-ZTJf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UK AI Security Institute Publishes Frontier AI Trends ReportAs the first public analysis of trends by AISI it draws on two years&#x27; worth o...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: sebastianfarquhar.com  
-   Link: [https://sebastianfarquhar.com/assets/papers/phuongEvaluating2024.pdf](https://sebastianfarquhar.com/assets/papers/phuongEvaluating2024.pdf)  
+   Link: <a href="https://sebastianfarquhar.com/assets/papers/phuongEvaluating2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sebastianfarquhar.com/assets/papers/phuongEvaluating2024.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating Frontier Models for Dangerous Capabilitiesby M Phuong · 2024 · Cited by 145 — Our evaluations cover four areas: (1) persuasion...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: rand.org  
-   Link: [https://www.rand.org/content/dam/rand/pubs/conf_proceedings/CFA3400/CFA3429-1/RAND_CFA3429-1.pdf](https://www.rand.org/content/dam/rand/pubs/conf_proceedings/CFA3400/CFA3429-1/RAND_CFA3429-1.pdf)  
+   Link: <a href="https://www.rand.org/content/dam/rand/pubs/conf_proceedings/CFA3400/CFA3429-1/RAND_CFA3429-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/content/dam/rand/pubs/conf_proceedings/CFA3400/CFA3429-1/RAND_CFA3429-1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ty, and identifying warning signs of evaluation problems, this initiative aims...Read more...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: aisi.gov.uk  
    Title: early lessons from evaluating frontier ai systems  
-   Link: [https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems](https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems)  
+   Link: <a href="https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>model complies with explicitly harmful requests.... For example, directly exploring the capability to cause large-scale harm would be da...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: agora.eto.tech  
    Title: Agora Anthropic Responsible Scaling Policy  
-   Link: [https://agora.eto.tech/instrument/768](https://agora.eto.tech/instrument/768)  
+   Link: <a href="https://agora.eto.tech/instrument/768" target="_blank" rel="noopener noreferrer nofollow">https://agora.eto.tech/instrument/768</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ETO AgoraAnthropic Responsible Scaling Policy - ETO AGORAA Capability Threshold is a prespeciﬁed level of AI capability that, if reached...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: GOV.UK  
    Title: emerging processes for frontier ai safety  
-   Link: [https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety](https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety)  
+   Link: <a href="https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>processes for frontier AI safety27 Oct 2023 — This document contains the world&#x27;s first overview of emerging safety processes focused on f...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: richardmoulange.substack.com  
    Title: deep dive how the uk can enhance  
-   Link: [https://richardmoulange.substack.com/p/deep-dive-how-the-uk-can-enhance](https://richardmoulange.substack.com/p/deep-dive-how-the-uk-can-enhance)  
+   Link: <a href="https://richardmoulange.substack.com/p/deep-dive-how-the-uk-can-enhance" target="_blank" rel="noopener noreferrer nofollow">https://richardmoulange.substack.com/p/deep-dive-how-the-uk-can-enhance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>substack.comDeep-dive: how the UK can enhance strategic advantage...... models for dangerous capabilities. This enables rapid warning wh...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: forum.effectivealtruism.org  
    Title: responsible scaling policy v3 1  
-   Link: [https://forum.effectivealtruism.org/posts/DGZNAGL2FNJfftwgE/responsible-scaling-policy-v3-1](https://forum.effectivealtruism.org/posts/DGZNAGL2FNJfftwgE/responsible-scaling-policy-v3-1)  
+   Link: <a href="https://forum.effectivealtruism.org/posts/DGZNAGL2FNJfftwgE/responsible-scaling-policy-v3-1" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/DGZNAGL2FNJfftwgE/responsible-scaling-policy-v3-1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scaling Policy v3Feb 24, 2026 — The idea was: if a company has a policy saying it isn&#x27;t safe to train an AI model with X level of capabil...</p></details>
 
 42. <a id="endnote-42"></a>
    Source: youtube.com  
    Title: Mary Phuong – Dangerous Capability [Evals](&#123;&#123; 'evals/' | relative_url &#125;&#125;): Basis for Frontier Safety  
-   Link: [https://www.youtube.com/watch?v=pO8IcIqhHuk](https://www.youtube.com/watch?v=pO8IcIqhHuk)  
+   Link: <a href="https://www.youtube.com/watch?v=pO8IcIqhHuk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pO8IcIqhHuk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Vincent Conitzer - AI Testing Should Account for Sophisticated Strategic Behaviour [Alignment Worksh...</p></details>
 
 43. <a id="endnote-43"></a>
    Source: youtube.com  
    Title: Vincent Conitzer  
-   Link: [https://www.youtube.com/watch?v=SB5NeoYi_q8](https://www.youtube.com/watch?v=SB5NeoYi_q8)  
+   Link: <a href="https://www.youtube.com/watch?v=SB5NeoYi_q8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SB5NeoYi_q8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UK Tested Mythos AI&#x27;s Cyber Skills. Here&#x27;s What It Found...</p></details>

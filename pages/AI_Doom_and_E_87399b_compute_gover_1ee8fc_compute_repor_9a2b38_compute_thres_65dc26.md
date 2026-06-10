@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38_10_26_flop_th_7f0a85
 - AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38_thresholds_an_c9e82d
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - governance
 - thresholds
 - evasion-risks
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - governance
 - thresholds
 - evasion-risks
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Researchers debate whether fine-tuning, model reuse and other techniques could undermine threshold-based regulation.
 hero_summary: Researchers debate whether fine-tuning, model reuse and other techniques could undermine threshold-based regulation.
 layout: default
 permalink: /evasion-risks-eeb298/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /governance/
 - /thresholds/
 nav_short_title: Evasion Risks
@@ -203,6 +203,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-02 12:26:31'
 parent_title: When Should AI Training Runs Trigger Oversight? | Governance
 parent_permalink: /thresholds/
 parent_nav_short_title: Thresholds
@@ -210,10 +211,10 @@ parent_heading_title: When Should AI Training Runs Trigger Oversight?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_compute_gover_1ee8fc
-  title: Governance | AI Doom and
+  title: Governance | AI Doom and E 87399 b
   permalink: /governance/
   short_title: Governance
   heading_title: What Rules Could Reduce AI Doom Risk?
@@ -225,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_compute_gover_1ee8fc
-  title: Governance | AI Doom and
+  title: Governance | AI Doom and E 87399 b
   permalink: /governance/
   short_title: Governance
   heading_title: What Rules Could Reduce AI Doom Risk?
@@ -266,7 +267,6 @@ next_link:
   permalink: /moving-target/
   short_title: Moving Target
   heading_title: Will Today's Compute Limits Still Matter Tomorrow?
-date: '2026-06-02 12:26:31 '
 header:
   og_image: /assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38_compute_thres_65dc26-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38_compute_thres_65dc26-Illustration-1.webp
@@ -275,7 +275,7 @@ image: /assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a
 
 ## Introduction
 
-One of the proposals in AI [governance]({{ 'governance/' | relative_url }}) aimed at reducing existential risk is to trigger [oversight]({{ 'oversight-evasion/' | relative_url }}) when a system’s **training compute** — the total computational work used to build it — crosses a specified threshold. Because frontier AI models historically needed vast amounts of compute, regulators such as under the US AI Executive Order and the EU AI Act use these thresholds to decide **when developers must report, evaluate, or otherwise face regulatory scrutiny**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/glossary/compute-threshold/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryCompute Threshold — AI Governance Definition &amp; Guide | AI Safety DirectoryMarch 27, 2026...</span><span class="citation-popover-meta">Published: March 27, 2026</span></span></span>
+One of the proposals in AI [governance]({{ 'governance/' | relative_url }}) aimed at reducing existential risk is to trigger oversight when a system’s **training compute** — the total computational work used to build it — crosses a specified threshold. Because frontier AI models historically needed vast amounts of compute, regulators such as under the US AI Executive Order and the EU AI Act use these thresholds to decide **when developers must report, evaluate, or otherwise face regulatory scrutiny**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/glossary/compute-threshold/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryCompute Threshold — AI Governance Definition &amp; Guide &#124; AI Safety DirectoryMarch 27, 2026...</span><span class="citation-popover-meta">Published: March 27, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38_compute_thres_65dc26-Illustration-1-dark.svg" | relative_url }}" alt="Evasion Risks illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38_compute_thres_65dc26-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38_compute_thres_65dc26-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -290,11 +290,11 @@ A key reason compute‑based oversight may be evaded is that **advances in model
 
 **Fine‑tuning and parameter‑efficient training:** Researchers have developed methods such as *LoRA* (Low‑Rank Adaptation) and other parameter‑efficient fine‑tuning that allow a large pre‑trained model to be adapted or extended using a small fraction of the compute required for full pre‑training. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/LoRA_%28machine_learning%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lo RA (machine learning</span><span class="citation-popover-snippet">Lo RA (machine learning</span></span></span> These techniques are widely used in AI development precisely because they cut cost and environmental footprint, but they also mean a powerful base model can be *customised* or substantially improved for a new task without crossing a high compute threshold.
 
-**Model reuse and distillation:** Instead of training a new model from scratch, developers can use an existing large model as a starting point — for example through *knowledge distillation* or *kickstarting* — where a smaller, student model learns from the outputs of a larger one. Research notes that these methods can significantly reduce training compute while yielding systems with capabilities closely matching larger‑scale training. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aimodels.fyi/papers/arxiv/defending-compute-thresholds-against-legal-loopholes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aimodels.fyi">[AIModels]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aimodels.fyi</span><span class="citation-popover-title">Defending Compute Thresholds Against Legal Loopholes | AI Research Paper Details</span><span class="citation-popover-snippet">AIModelsDefending Compute Thresholds Against Legal Loopholes | AI Research Paper DetailsFebruary 4, 2025...</span><span class="citation-popover-meta">Published: February 4, 2025</span></span></span>
+**Model reuse and distillation:** Instead of training a new model from scratch, developers can use an existing large model as a starting point — for example through *knowledge distillation* or *kickstarting* — where a smaller, student model learns from the outputs of a larger one. Research notes that these methods can significantly reduce training compute while yielding systems with capabilities closely matching larger‑scale training. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aimodels.fyi/papers/arxiv/defending-compute-thresholds-against-legal-loopholes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aimodels.fyi">[AIModels]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aimodels.fyi</span><span class="citation-popover-title">Defending Compute Thresholds Against Legal Loopholes &#124; AI Research Paper Details</span><span class="citation-popover-snippet">Defending Compute Thresholds Against Legal Loopholes &#124; AI Research Paper DetailsFebruary 4, 2025...</span><span class="citation-popover-meta">Published: February 4, 2025</span></span></span>
 
 **Model expansion:** Reusing previously trained weights to build a larger or more capable model post‑training lets developers defer or minimise new compute that would count toward a threshold. As reported in policy analysis, such techniques can yield compute savings of 20 – 70 per cent relative to training equivalent performance from scratch, undermining the idea that capability always requires high compute investment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themoonlight.io/en/review/defending-compute-thresholds-against-legal-loopholes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themoonlight.io">[Moonlight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themoonlight.io</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Inference and [deployment]({{ 'release-gates/' | relative_url }})‑time scaling:** Some research argues that current thresholds focus solely on *training* compute, but **models can scale their effective capabilities through heavy compute use during inference or test‑time training**, potentially matching or exceeding what high‑compute trained models can do. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.longtermwiki.com/wiki/thresholds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: longtermwiki.com">[Longterm Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">longtermwiki.com</span><span class="citation-popover-title">Longterm Wiki Compute Thresholds | Longterm Wiki</span><span class="citation-popover-snippet">Longterm WikiCompute Thresholds | Longterm WikiJanuary 30, 2026...</span><span class="citation-popover-meta">Published: January 30, 2026</span></span></span> If such deployment‑time computation isn’t counted toward reporting requirements, a system trained below a threshold could still perform at or above the level of systems that would have triggered oversight.
+**Inference and deployment‑time scaling:** Some research argues that current thresholds focus solely on *training* compute, but **models can scale their effective capabilities through heavy compute use during inference or test‑time training**, potentially matching or exceeding what high‑compute trained models can do. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.longtermwiki.com/wiki/thresholds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: longtermwiki.com">[Longterm Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">longtermwiki.com</span><span class="citation-popover-title">Longterm Wiki Compute Thresholds &#124; Longterm Wiki</span><span class="citation-popover-snippet">Longterm WikiCompute Thresholds &#124; Longterm WikiJanuary 30, 2026...</span><span class="citation-popover-meta">Published: January 30, 2026</span></span></span> If such deployment‑time computation isn’t counted toward reporting requirements, a system trained below a threshold could still perform at or above the level of systems that would have triggered oversight.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CcrC5zSv1iA" title="LLM Fine-Tuning Course – From Supervised FT to RLHF, LoRA, and Multimodal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CcrC5zSv1iA" target="_blank" rel="noopener noreferrer">LLM Fine-Tuning Course – From Supervised FT to RLHF, LoRA, and Multimodal</a></p><p class="youtube-embed-meta">Channel: freeCodeCamp.org &middot; Views: 69.0K &middot; Uploaded: March 2026 &middot; Length: 11 hours 56 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CcrC5zSv1iA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CcrC5zSv1iA">Open on YouTube</a></p></div></div></div>
@@ -303,13 +303,13 @@ A key reason compute‑based oversight may be evaded is that **advances in model
 
 Because compute thresholds are a **proxy** — not a perfect measure — of risk, several kinds of [loopholes]({{ 'loopholes/' | relative_url }}) have been identified by researchers and policy analysts.
 
-**Ambiguity around what counts as “training compute”:** Many current regulatory texts and proposals focus on the compute used in initial pre‑training, leaving unclear whether compute used for fine‑tuning or later modification must be reported. In the US Executive Order’s reporting regime, definitions remain ambiguous, potentially allowing developers to split or structure training activities to stay just below trigger levels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://chatpaper.com/paper/104471" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chatpaper.com">[ChatPaper]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chatpaper.com</span><span class="citation-popover-title">Chat Paper Defending Compute Thresholds Against Legal Loopholes</span><span class="citation-popover-snippet">ChatPaperDefending Compute Thresholds Against Legal LoopholesFebruary 4, 2025...</span><span class="citation-popover-meta">Published: February 4, 2025</span></span></span>
+**Ambiguity around what counts as “training compute”:** Many current regulatory texts and proposals focus on the compute used in initial pre‑training, leaving unclear whether compute used for fine‑tuning or later modification must be reported. In the US Executive Order’s reporting regime, definitions remain ambiguous, potentially allowing developers to split or structure training activities to stay just below trigger levels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://chatpaper.com/paper/104471" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chatpaper.com">[ChatPaper]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chatpaper.com</span><span class="citation-popover-title">Chat Paper Defending Compute Thresholds Against Legal Loopholes</span><span class="citation-popover-snippet">Defending Compute Thresholds Against Legal LoopholesFebruary 4, 2025...</span><span class="citation-popover-meta">Published: February 4, 2025</span></span></span>
 
-**Post‑training enhancements not always counted:** If a developer trains a base model below a threshold and then applies extensive fine‑tuning that dramatically expands capabilities, regulators might not catch this unless the rules explicitly aggregate all compute across lifecycle stages. Some frameworks, like parts of the EU AI Act, attempt to count *cumulative* compute, but enforcement and clarity remain significant policy challenges. <span class="citation-chip-wrap"><a class="citation-chip" href="https://chatpaper.com/paper/104471" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chatpaper.com">[ChatPaper]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chatpaper.com</span><span class="citation-popover-title">Chat Paper Defending Compute Thresholds Against Legal Loopholes</span><span class="citation-popover-snippet">ChatPaperDefending Compute Thresholds Against Legal LoopholesFebruary 4, 2025...</span><span class="citation-popover-meta">Published: February 4, 2025</span></span></span>
+**Post‑training enhancements not always counted:** If a developer trains a base model below a threshold and then applies extensive fine‑tuning that dramatically expands capabilities, regulators might not catch this unless the rules explicitly aggregate all compute across lifecycle stages. Some frameworks, like parts of the EU AI Act, attempt to count *cumulative* compute, but enforcement and clarity remain significant policy challenges. <span class="citation-chip-wrap"><a class="citation-chip" href="https://chatpaper.com/paper/104471" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chatpaper.com">[ChatPaper]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chatpaper.com</span><span class="citation-popover-title">Chat Paper Defending Compute Thresholds Against Legal Loopholes</span><span class="citation-popover-snippet">Defending Compute Thresholds Against Legal LoopholesFebruary 4, 2025...</span><span class="citation-popover-meta">Published: February 4, 2025</span></span></span>
 
-**Splitting training across entities:** In theory, an organisation could divide a large training job into smaller segments or subcontract portions of work so no individual part exceeds the reportable threshold. While hard to do at frontier scales in practice, such structuring could exploit definitional gaps in rules that don’t address **combined or coordinated training runs**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.longtermwiki.com/wiki/thresholds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: longtermwiki.com">[Longterm Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">longtermwiki.com</span><span class="citation-popover-title">Longterm Wiki Compute Thresholds | Longterm Wiki</span><span class="citation-popover-snippet">Longterm WikiCompute Thresholds | Longterm WikiJanuary 30, 2026...</span><span class="citation-popover-meta">Published: January 30, 2026</span></span></span>
+**Splitting training across entities:** In theory, an organisation could divide a large training job into smaller segments or subcontract portions of work so no individual part exceeds the reportable threshold. While hard to do at frontier scales in practice, such structuring could exploit definitional gaps in rules that don’t address **combined or coordinated training runs**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.longtermwiki.com/wiki/thresholds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: longtermwiki.com">[Longterm Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">longtermwiki.com</span><span class="citation-popover-title">Longterm Wiki Compute Thresholds &#124; Longterm Wiki</span><span class="citation-popover-snippet">Longterm WikiCompute Thresholds &#124; Longterm WikiJanuary 30, 2026...</span><span class="citation-popover-meta">Published: January 30, 2026</span></span></span>
 
-**Downstream modification outside oversight:** Developers downstream of the original model creator — such as third parties fine‑tuning or adapting open‑weight models — may introduce new risks without being subject to the original training compute threshold, because many regulations focus on upstream developers only. A risk analysis published in legal scholarship notes that even small modifications can subvert safety mechanisms and increase risk without ever crossing compute‑based thresholds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/european-journal-of-risk-regulation/article/on-regulating-downstream-ai-developers/D04DCD850584103DE7B8B138D42070AE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentOn Regulating Downstream AI Developers | European Journal of Risk Regulation | Cambridge CoreAugus...</span></span></span> University Press & Assessment
+**Downstream modification outside oversight:** Developers downstream of the original model creator — such as third parties fine‑tuning or adapting open‑weight models — may introduce new risks without being subject to the original training compute threshold, because many regulations focus on upstream developers only. A risk analysis published in legal scholarship notes that even small modifications can subvert safety mechanisms and increase risk without ever crossing compute‑based thresholds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/european-journal-of-risk-regulation/article/on-regulating-downstream-ai-developers/D04DCD850584103DE7B8B138D42070AE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentOn Regulating Downstream AI Developers &#124; European Journal of Risk Regulation &#124; Cambridge CoreAugus...</span></span></span> University Press & Assessment
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38_compute_thres_65dc26-Illustration-2-dark.svg" | relative_url }}" alt="Evasion Risks illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38_compute_thres_65dc26-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38_compute_thres_65dc26-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -319,11 +319,11 @@ Recognising these bypass mechanisms, scholars and policymakers have proposed sev
 
 **Aggregate lifecycle compute reporting:** Instead of only counting initial training compute, regulations could require developers to sum all significant compute events related to a model — including fine‑tuning, adaptation, and any inference‑time optimisation used for capability growth — into a cumulative metric triggering oversight once it exceeds a threshold.
 
-**Threshold sensitivity adjustments:** Some analyses suggest introducing **fractional compute thresholds** for downstream activities — for example, counting fine‑tuning compute at 15 per cent or more of original training compute as part of the regulatory trigger. This aims to close loopholes where substantial capability enhancements happen for little compute. <span class="citation-chip-wrap"><a class="citation-chip" href="https://chatpaper.com/paper/104471" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chatpaper.com">[ChatPaper]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chatpaper.com</span><span class="citation-popover-title">Chat Paper Defending Compute Thresholds Against Legal Loopholes</span><span class="citation-popover-snippet">ChatPaperDefending Compute Thresholds Against Legal LoopholesFebruary 4, 2025...</span><span class="citation-popover-meta">Published: February 4, 2025</span></span></span>
+**Threshold sensitivity adjustments:** Some analyses suggest introducing **fractional compute thresholds** for downstream activities — for example, counting fine‑tuning compute at 15 per cent or more of original training compute as part of the regulatory trigger. This aims to close loopholes where substantial capability enhancements happen for little compute. <span class="citation-chip-wrap"><a class="citation-chip" href="https://chatpaper.com/paper/104471" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chatpaper.com">[ChatPaper]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chatpaper.com</span><span class="citation-popover-title">Chat Paper Defending Compute Thresholds Against Legal Loopholes</span><span class="citation-popover-snippet">Defending Compute Thresholds Against Legal LoopholesFebruary 4, 2025...</span><span class="citation-popover-meta">Published: February 4, 2025</span></span></span>
 
-**Multifactor triggers:** Rather than relying on compute alone, combining compute thresholds with other signals — such as evaluation results, capability benchmarks, availability of model weights, or access policies — could reduce the incentive to “game” training compute metrics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/glossary/compute-threshold/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryCompute Threshold — AI Governance Definition &amp; Guide | AI Safety DirectoryMarch 27, 2026...</span><span class="citation-popover-meta">Published: March 27, 2026</span></span></span>
+**Multifactor triggers:** Rather than relying on compute alone, combining compute thresholds with other signals — such as evaluation results, capability benchmarks, availability of model weights, or access policies — could reduce the incentive to “game” training compute metrics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/glossary/compute-threshold/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryCompute Threshold — AI Governance Definition &amp; Guide &#124; AI Safety DirectoryMarch 27, 2026...</span><span class="citation-popover-meta">Published: March 27, 2026</span></span></span>
 
-**Third‑party monitoring and verification:** Because self‑reporting has inherent limitations, frameworks might incorporate [independent]({{ 'red-teaming/' | relative_url }}) verification from cloud providers or hardware vendors with visibility into real compute use, though this raises trade‑offs around privacy and commercial sensitivity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.longtermwiki.com/wiki/thresholds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: longtermwiki.com">[Longterm Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">longtermwiki.com</span><span class="citation-popover-title">Longterm Wiki Compute Thresholds | Longterm Wiki</span><span class="citation-popover-snippet">Longterm WikiCompute Thresholds | Longterm WikiJanuary 30, 2026...</span><span class="citation-popover-meta">Published: January 30, 2026</span></span></span>
+**Third‑party [monitoring]({{ 'monitoring/' | relative_url }}) and verification:** Because self‑reporting has inherent limitations, frameworks might incorporate [independent]({{ 'red-teaming/' | relative_url }}) verification from cloud providers or hardware vendors with visibility into real compute use, though this raises trade‑offs around privacy and commercial sensitivity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.longtermwiki.com/wiki/thresholds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: longtermwiki.com">[Longterm Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">longtermwiki.com</span><span class="citation-popover-title">Longterm Wiki Compute Thresholds &#124; Longterm Wiki</span><span class="citation-popover-snippet">Longterm WikiCompute Thresholds &#124; Longterm WikiJanuary 30, 2026...</span><span class="citation-popover-meta">Published: January 30, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oZ7788oKoss" title="AI Safety Regulations: Prudent or Paranoid? with a16z&#x27;s Martin Casado" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oZ7788oKoss" target="_blank" rel="noopener noreferrer">AI Safety Regulations: Prudent or Paranoid? with a16z&#x27;s Martin Casado</a></p><p class="youtube-embed-meta">Channel: Cognitive Revolution &quot;How AI Changes Everything&quot; &middot; Views: 1.8K &middot; Uploaded: June 2024 &middot; Length: 1 hour 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oZ7788oKoss" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oZ7788oKoss">Open on YouTube</a></p></div></div></div>
@@ -332,7 +332,7 @@ Recognising these bypass mechanisms, scholars and policymakers have proposed sev
 
 The existence of plausible bypass strategies illustrates a central tension in compute‑based governance: **measurable signals are attractive for their simplicity, but technological ingenuity can erode their comprehensiveness**. For those concerned about existential risk, the key takeaway is that compute thresholds can act as an early screening tool but are unlikely on their own to capture all potentially dangerous trajectories, especially as scaling laws evolve and efficient training methods proliferate.
 
-Addressing this gap is part of a broader governance challenge: ensuring that upstream policy triggers remain aligned with the *actual capabilities and risks* of advanced systems, rather than the arbitrary artefacts of current training paradigms. Integrating compute thresholds into a wider ecosystem of regulatory and evaluation mechanisms — and updating them as developer practices change — is essential if oversight is to keep pace with innovation rather than be circumvented by it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/glossary/compute-threshold/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryCompute Threshold — AI Governance Definition &amp; Guide | AI Safety DirectoryMarch 27, 2026...</span><span class="citation-popover-meta">Published: March 27, 2026</span></span></span>
+Addressing this gap is part of a broader governance challenge: ensuring that upstream policy triggers remain aligned with the *actual capabilities and risks* of advanced systems, rather than the arbitrary artefacts of current training paradigms. Integrating compute thresholds into a wider ecosystem of regulatory and evaluation mechanisms — and updating them as developer practices change — is essential if oversight is to keep pace with innovation rather than be circumvented by it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/glossary/compute-threshold/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryCompute Threshold — AI Governance Definition &amp; Guide &#124; AI Safety DirectoryMarch 27, 2026...</span><span class="citation-popover-meta">Published: March 27, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38_compute_thres_65dc26-Illustration-3-dark.svg" | relative_url }}" alt="Evasion Risks illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38_compute_thres_65dc26-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38_compute_thres_65dc26-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -759,48 +759,48 @@ Addressing this gap is part of a broader governance challenge: ensuring that ups
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Lo RA (machine learning)  
-   Link: [https://en.wikipedia.org/wiki/LoRA_%28machine_learning%29](https://en.wikipedia.org/wiki/LoRA_%28machine_learning%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/LoRA_%28machine_learning%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/LoRA_%28machine_learning%29</a>  
 
 2. <a id="endnote-2"></a>
    Source: aimodels.fyi  
-   Title: Defending Compute Thresholds Against Legal Loopholes | [AI Research](&#123;&#123; 'ai-research-loop/' | relative_url &#125;&#125;) Paper Details  
-   Link: [https://www.aimodels.fyi/papers/arxiv/defending-compute-thresholds-against-legal-loopholes](https://www.aimodels.fyi/papers/arxiv/defending-compute-thresholds-against-legal-loopholes)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AIModelsDefending Compute Thresholds Against Legal Loopholes | AI Research Paper DetailsFebruary 4, 2025...</p></details>
+   Title: Defending Compute Thresholds Against Legal Loopholes | AI Research Paper Details  
+   Link: <a href="https://www.aimodels.fyi/papers/arxiv/defending-compute-thresholds-against-legal-loopholes" target="_blank" rel="noopener noreferrer nofollow">https://www.aimodels.fyi/papers/arxiv/defending-compute-thresholds-against-legal-loopholes</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Defending Compute Thresholds Against Legal Loopholes | AI Research Paper DetailsFebruary 4, 2025...</p></details>
    Published: February 4, 2025  
 
 3. <a id="endnote-3"></a>
    Source: chatpaper.com  
    Title: Chat Paper Defending Compute Thresholds Against Legal Loopholes  
-   Link: [https://chatpaper.com/paper/104471](https://chatpaper.com/paper/104471)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ChatPaperDefending Compute Thresholds Against Legal LoopholesFebruary 4, 2025...</p></details>
+   Link: <a href="https://chatpaper.com/paper/104471" target="_blank" rel="noopener noreferrer nofollow">https://chatpaper.com/paper/104471</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Defending Compute Thresholds Against Legal LoopholesFebruary 4, 2025...</p></details>
    Published: February 4, 2025  
 
 4. <a id="endnote-4"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/journals/european-journal-of-risk-regulation/article/on-regulating-downstream-ai-developers/D04DCD850584103DE7B8B138D42070AE](https://www.cambridge.org/core/journals/european-journal-of-risk-regulation/article/on-regulating-downstream-ai-developers/D04DCD850584103DE7B8B138D42070AE)  
+   Link: <a href="https://www.cambridge.org/core/journals/european-journal-of-risk-regulation/article/on-regulating-downstream-ai-developers/D04DCD850584103DE7B8B138D42070AE" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/european-journal-of-risk-regulation/article/on-regulating-downstream-ai-developers/D04DCD850584103DE7B8B138D42070AE</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentOn Regulating Downstream AI Developers | European Journal of Risk Regulation | Cambridge CoreAugus...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: governance.ai  
    Title: training compute thresholds features and functions in ai regulation  
-   Link: [https://www.governance.ai/research-paper/training-compute-thresholds-features-and-functions-in-ai-regulation](https://www.governance.ai/research-paper/training-compute-thresholds-features-and-functions-in-ai-regulation)  
+   Link: <a href="https://www.governance.ai/research-paper/training-compute-thresholds-features-and-functions-in-ai-regulation" target="_blank" rel="noopener noreferrer nofollow">https://www.governance.ai/research-paper/training-compute-thresholds-features-and-functions-in-ai-regulation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Training Compute Thresholds: Features and Functions in AI Regulation | GovAIAugust 7, 2024 — TRAINING COMPUTE THRESHOLDS: FEATURES AND FU...</p></details>
    Published: August 7, 2024  
 
 6. <a id="endnote-6"></a>
    Source: aisecurityandsafety.org  
-   Link: [https://aisecurityandsafety.org/en/glossary/compute-threshold/](https://aisecurityandsafety.org/en/glossary/compute-threshold/)  
+   Link: <a href="https://aisecurityandsafety.org/en/glossary/compute-threshold/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/en/glossary/compute-threshold/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security &amp; Safety DirectoryCompute Threshold — AI Governance Definition &amp; Guide | AI Safety DirectoryMarch 27, 2026...</p></details>
    Published: March 27, 2026  
 
 7. <a id="endnote-7"></a>
    Source: themoonlight.io  
-   Link: [https://www.themoonlight.io/en/review/defending-compute-thresholds-against-legal-loopholes](https://www.themoonlight.io/en/review/defending-compute-thresholds-against-legal-loopholes)  
+   Link: <a href="https://www.themoonlight.io/en/review/defending-compute-thresholds-against-legal-loopholes" target="_blank" rel="noopener noreferrer nofollow">https://www.themoonlight.io/en/review/defending-compute-thresholds-against-legal-loopholes</a>  
 
 8. <a id="endnote-8"></a>
    Source: longtermwiki.com  
    Title: Longterm Wiki Compute Thresholds | Longterm Wiki  
-   Link: [https://www.longtermwiki.com/wiki/thresholds](https://www.longtermwiki.com/wiki/thresholds)  
+   Link: <a href="https://www.longtermwiki.com/wiki/thresholds" target="_blank" rel="noopener noreferrer nofollow">https://www.longtermwiki.com/wiki/thresholds</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Longterm WikiCompute Thresholds | Longterm WikiJanuary 30, 2026...</p></details>
    Published: January 30, 2026  
 
@@ -808,59 +808,59 @@ Addressing this gap is part of a broader governance challenge: ensuring that ups
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2212473X25001063](https://www.sciencedirect.com/science/article/pii/S2212473X25001063)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectApril 1, 2026 — Volume 60, April 2026, 106234 THE REGULATION OF FINE-TUNING: FEDERATED COMPLIANCE FOR MODIFIED GENERAL-PURPO...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2212473X25001063" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2212473X25001063</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 1, 2026 — Volume 60, April 2026, 106234 THE REGULATION OF FINE-TUNING: FEDERATED COMPLIANCE FOR MODIFIED GENERAL-PURPO...</p></details>
    Published: April 1, 2026  
 
 10. <a id="endnote-10"></a>
    Source: dev.to  
-   Link: [https://dev.to/tiamatenity/model-theft-how-attackers-steal-your-fine-tuned-ai-models-through-api-extraction-142e](https://dev.to/tiamatenity/model-theft-how-attackers-steal-your-fine-tuned-ai-models-through-api-extraction-142e)  
+   Link: <a href="https://dev.to/tiamatenity/model-theft-how-attackers-steal-your-fine-tuned-ai-models-through-api-extraction-142e" target="_blank" rel="noopener noreferrer nofollow">https://dev.to/tiamatenity/model-theft-how-attackers-steal-your-fine-tuned-ai-models-through-api-extraction-142e</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DEV CommunityMarch 8, 2026 — Posted on Mar 8 MODEL THEFT: HOW ATTACKERS STEAL YOUR FINE-TUNED AI MODELS THROUGH API EXTRACTION #ai #secur...</p></details>
    Published: March 8, 2026  
 
 11. <a id="endnote-11"></a>
    Source: Tech Policy Press  
    Title: Why Context, Not Compute, is the Key to AI Governance | Tech Policy.Press  
-   Link: [https://www.techpolicy.press/why-context-not-compute-is-the-key-to-ai-governance](https://www.techpolicy.press/why-context-not-compute-is-the-key-to-ai-governance)  
+   Link: <a href="https://www.techpolicy.press/why-context-not-compute-is-the-key-to-ai-governance" target="_blank" rel="noopener noreferrer nofollow">https://www.techpolicy.press/why-context-not-compute-is-the-key-to-ai-governance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Context, Not Compute, is the Key to AI Governance | TechPolicy.PressAugust 5, 2025 — THE SHORTCOMINGS OF CHARACTERISTICS-CASED (AKA C...</p></details>
    Published: August 5, 2025  
 
 12. <a id="endnote-12"></a>
    Source: hai.stanford.edu  
    Title: policy brief safety risks customizing foundation models fine tuning  
-   Link: [https://hai.stanford.edu/policy/policy-brief-safety-risks-customizing-foundation-models-fine-tuning?queryID=a9b895ba35a7c303d4cf3853542bdcf4](https://hai.stanford.edu/policy/policy-brief-safety-risks-customizing-foundation-models-fine-tuning?queryID=a9b895ba35a7c303d4cf3853542bdcf4)  
+   Link: <a href="https://hai.stanford.edu/policy/policy-brief-safety-risks-customizing-foundation-models-fine-tuning?queryID=a9b895ba35a7c303d4cf3853542bdcf4" target="_blank" rel="noopener noreferrer nofollow">https://hai.stanford.edu/policy/policy-brief-safety-risks-customizing-foundation-models-fine-tuning?queryID=a9b895ba35a7c303d4cf3853542bdcf4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Risks from Customizing Foundation Models via Fine-Tuning | Stanford HAIJanuary 8, 2024 — policyPolicy Brief SAFETY RISKS FROM CUSTOMIZING...</p></details>
    Published: January 8, 2024  
 
 13. <a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/389917094_On_Regulating_Downstream_AI_Developers](https://www.researchgate.net/publication/389917094_On_Regulating_Downstream_AI_Developers)  
+   Link: <a href="https://www.researchgate.net/publication/389917094_On_Regulating_Downstream_AI_Developers" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389917094_On_Regulating_Downstream_AI_Developers</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>small amounts of fine-tuning to remove safe- guards) • Threshold would be somewhat ar...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: epoch.ai  
    Title: the limited benefit of recycling foundation models  
-   Link: [https://epoch.ai/publications/the-limited-benefit-of-recycling-foundation-models](https://epoch.ai/publications/the-limited-benefit-of-recycling-foundation-models)  
+   Link: <a href="https://epoch.ai/publications/the-limited-benefit-of-recycling-foundation-models" target="_blank" rel="noopener noreferrer nofollow">https://epoch.ai/publications/the-limited-benefit-of-recycling-foundation-models</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>7, 2023 THE LIMITED BENEFIT OF RECYCLING FOUNDATION MODELS While reusing pretrained models often saves training costs on large training r...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: law-ai.org  
    Title: The Role of Compute Thresholds for AI Governance  
-   Link: [https://law-ai.org/the-role-of-compute-thresholds-for-ai-governance/](https://law-ai.org/the-role-of-compute-thresholds-for-ai-governance/)  
+   Link: <a href="https://law-ai.org/the-role-of-compute-thresholds-for-ai-governance/" target="_blank" rel="noopener noreferrer nofollow">https://law-ai.org/the-role-of-compute-thresholds-for-ai-governance/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DOES COMPUTE USAGE OUTSIDE OF TRAINING INFLUENCE PERFORMANCE AND RISK? In light of the relationship between training compute and performa...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: emergentmind.com  
    Title: Compute Thresholds in AI and Beyond  
-   Link: [https://www.emergentmind.com/topics/compute-thresholds](https://www.emergentmind.com/topics/compute-thresholds)  
+   Link: <a href="https://www.emergentmind.com/topics/compute-thresholds" target="_blank" rel="noopener noreferrer nofollow">https://www.emergentmind.com/topics/compute-thresholds</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EMPIRICAL EVIDENCE, POLICY APPLICATIONS, AND ILLUSTRATIVE VALUES Empirically, scaling laws in machine learning indicate that increasing t...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: themoonlight.io  
-   Link: [https://www.themoonlight.io/es/review/defending-compute-thresholds-against-legal-loopholes](https://www.themoonlight.io/es/review/defending-compute-thresholds-against-legal-loopholes)  
+   Link: <a href="https://www.themoonlight.io/es/review/defending-compute-thresholds-against-legal-loopholes" target="_blank" rel="noopener noreferrer nofollow">https://www.themoonlight.io/es/review/defending-compute-thresholds-against-legal-loopholes</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Con Moonlight, tu compañero IA de investigación, pod...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=1CB9dgUlNpg](https://www.youtube.com/watch?v=1CB9dgUlNpg)  
+   Link: <a href="https://www.youtube.com/watch?v=1CB9dgUlNpg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1CB9dgUlNpg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scaling Laws: Can AI Make AI Regulation Cheaper?, with Cullen O&#x27;Keefe and Kevin Frazier...</p></details>

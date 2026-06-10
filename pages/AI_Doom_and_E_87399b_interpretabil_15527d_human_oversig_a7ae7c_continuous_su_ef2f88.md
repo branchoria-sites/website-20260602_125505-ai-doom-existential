@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_approval_rubb_a5a25f
 - AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_weak_supervis_fb4c95
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - control-tools
 - human-oversight
 - continuous-control
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - control-tools
 - human-oversight
 - continuous-control
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Layered controls may matter more than one-off approval when AI agents can act continuously across software, infrastructure and organisations.
 hero_summary: Layered controls may matter more than one-off approval when AI agents can act continuously across software, infrastructure and organisations.
 layout: default
 permalink: /continuous-control/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /control-tools/
 - /human-oversight/
 nav_short_title: Continuous Control
@@ -203,6 +203,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-02 12:39:42'
 parent_title: Can Humans Really Stay In Control Of Superhuman AI? | Control Tools
 parent_permalink: /human-oversight/
 parent_nav_short_title: Human Oversight
@@ -210,10 +211,10 @@ parent_heading_title: Can Humans Really Stay In Control Of Superhuman AI?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_interpretabil_15527d
-  title: Control Tools | AI Doom and
+  title: Control Tools | AI Doom and E 87399 b
   permalink: /control-tools/
   short_title: Control Tools
   heading_title: Can We Make Advanced AI Understandable?
@@ -225,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_interpretabil_15527d
-  title: Control Tools | AI Doom and
+  title: Control Tools | AI Doom and E 87399 b
   permalink: /control-tools/
   short_title: Control Tools
   heading_title: Can We Make Advanced AI Understandable?
@@ -260,7 +261,6 @@ next_link:
   permalink: /rubber-stamps/
   short_title: Rubber Stamps
   heading_title: Can human approval become a rubber stamp?
-date: '2026-06-02 12:39:42 '
 header:
   og_image: /assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_continuous_su_ef2f88-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_continuous_su_ef2f88-Illustration-1.webp
@@ -269,7 +269,7 @@ image: /assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7
 
 ## Introduction
 
-As AI systems evolve from tools that answer a question to **agents that act continuously and autonomously in the world**, the idea of checking crucial decisions once — at [deployment]({{ 'release-gates/' | relative_url }}) — no longer captures the core safety challenge. In high‑stakes settings, powerful autonomous agents could make hundreds or thousands of decisions across software, infrastructure, and organisational boundaries, potentially accumulating risk or drift long before a human reviewer ever sees the consequences. Continuous supervision — ongoing, real‑time oversight of agent behaviour and its impacts — is emerging as a **distinct governance problem** rather than just a compliance checkbox. This matters to the debate over [human oversight]({{ 'human-oversight/' | relative_url }}) limits in powerful autonomous AI systems because it highlights *when, why and how* traditional human‑in‑the‑loop control may become structurally inadequate in the face of persistent, adaptive autonomy.
+As AI systems evolve from tools that answer a question to **agents that act continuously and autonomously in the world**, the idea of checking crucial decisions once — at deployment — no longer captures the core safety challenge. In high‑stakes settings, powerful autonomous agents could make hundreds or thousands of decisions across software, infrastructure, and organisational boundaries, potentially accumulating risk or drift long before a human reviewer ever sees the consequences. Continuous supervision — ongoing, real‑time oversight of agent behaviour and its impacts — is emerging as a **distinct [governance]({{ 'governance/' | relative_url }}) problem** rather than just a compliance checkbox. This matters to the debate over [human oversight]({{ 'human-oversight/' | relative_url }}) limits in powerful autonomous AI systems because it highlights *when, why and how* traditional human‑in‑the‑loop control may become structurally inadequate in the face of persistent, adaptive autonomy.
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_continuous_su_ef2f88-Illustration-1-dark.svg" | relative_url }}" alt="Continuous Control illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_continuous_su_ef2f88-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_continuous_su_ef2f88-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -277,19 +277,19 @@ Below, we explore why continuous supervision differs from one‑off approval, th
 
 ## Why One‑Off Approval Breaks Down With Continuous Agents
 
-Traditional AI [oversight]({{ 'oversight-evasion/' | relative_url }}) frameworks tend to assume that a human can review, approve or veto an AI’s significant actions at discrete checkpoints. This model works reasonably well when AI systems generate outputs that are **static or episodic** — a single plan, a single recommendation or a limited batch of actions. However, autonomous agents are designed to **execute multi‑step plans, adapt to feedback, interact with networks and tools, and act without direct human invocation**.
+Traditional AI oversight frameworks tend to assume that a human can review, approve or veto an AI’s significant actions at discrete checkpoints. This model works reasonably well when AI systems generate outputs that are **static or episodic** — a single plan, a single recommendation or a limited batch of actions. However, autonomous agents are designed to **execute multi‑step plans, adapt to feedback, interact with networks and tools, and act without direct human invocation**.
 
 Continuous supervision becomes necessary for several reasons:
 
 * **Ongoing decision streams:** Unlike a chatbot query, an autonomous agent can issue actions repeatedly over time, interact with APIs, change permissions and trigger downstream effects without explicit prompts that flag human attention. This persistent execution means risk can compound before a checkpoint ever arrives.
-* **Drift and model degradation:** Agents that operate across changing environments or evolving data distributions can drift from intended behaviour over time. Traditional pre‑deployment evaluation doesn’t capture *in‑operation* drift or emergent failure patterns. Organizations increasingly recognise this risk; recent industry discussions emphasise the need for “real‑time behavioural monitoring to track changes to behaviour when <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.itpro.com/technology/artificial-intelligence/workers-cant-identify-work-produced-by-ai-agents-business-risks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itpro.com">[agents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itpro.com</span><span class="citation-popover-title">IT Pro Over two-thirds of workers can&#x27;t identify actions taken by AI agents</span><span class="citation-popover-snippet">With 73% of organizations anticipating a vital role for AI agents in the next year, 68% admit they cannot reliably distinguish AI versus...</span></span></span> encounter real‑world scenarios,” including hallucinations, feedback loops or data contamination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techradar.com/pro/ai-agents-create-new-risks-requiring-continuous-monitoring-and-oversight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-snippet">These AI agents automate tasks, operate 24/7, and offer cost and efficiency benefits. However, the article highlights significant risks...</span></span></span>
-* **Automation bias and opacity:** Humans overseeing complex systems tend to defer to machine judgement, especially when performance usually appears accurate. Continuous action diminishes opportunities for meaningful human reflection, possibly turning oversight into routine rubber‑stamping.
+* **Drift and model degradation:** Agents that operate across changing environments or evolving data distributions can drift from intended behaviour over time. Traditional pre‑deployment evaluation doesn’t capture *in‑operation* drift or emergent failure patterns. Organizations increasingly recognise this risk; recent industry discussions emphasise the need for “real‑time behavioural [monitoring]({{ 'monitoring/' | relative_url }}) to track changes to behaviour when <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.itpro.com/technology/artificial-intelligence/workers-cant-identify-work-produced-by-ai-agents-business-risks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itpro.com">[agents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itpro.com</span><span class="citation-popover-title">IT Pro Over two-thirds of workers can&#x27;t identify actions taken by AI agents</span><span class="citation-popover-snippet">With 73% of organizations anticipating a vital role for AI agents in the next year, 68% admit they cannot reliably distinguish AI versus...</span></span></span> encounter real‑world scenarios,” including hallucinations, feedback loops or data contamination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techradar.com/pro/ai-agents-create-new-risks-requiring-continuous-monitoring-and-oversight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-snippet">These AI agents automate tasks, operate 24/7, and offer cost and efficiency benefits. However, the article highlights significant risks...</span></span></span>
+* **[Automation bias]({{ 'automation-bias/' | relative_url }}) and opacity:** Humans overseeing complex systems tend to defer to machine judgement, especially when performance usually appears accurate. Continuous action diminishes opportunities for meaningful human reflection, possibly turning oversight into routine rubber‑stamping.
 
 In short, when agents act persistently rather than in a prompt–reply cycle, **human oversight needs to be embedded across time, not just at a launch decision**.
 
 ## What Continuous Supervision Requires
 
-Continuous supervision goes beyond passive log collection or periodic audits. It entails *active, real‑time mechanisms* for observing, interpreting and, when necessary, intervening in an agent’s behaviour. Three broad elements recur in emerging [governance]({{ 'governance/' | relative_url }}) proposals:
+Continuous supervision goes beyond passive log collection or periodic audits. It entails *active, real‑time mechanisms* for observing, interpreting and, when necessary, intervening in an agent’s behaviour. Three broad elements recur in emerging governance proposals:
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1xhTs25oFAA" title="How to Stop Adversarial AI Threats with Prisma AIRS 3.0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1xhTs25oFAA" target="_blank" rel="noopener noreferrer">How to Stop Adversarial AI Threats with Prisma AIRS 3.0</a></p><p class="youtube-embed-meta">Channel: Palo Alto Networks &middot; Views: 78.5K &middot; Uploaded: March 2026 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1xhTs25oFAA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1xhTs25oFAA">Open on YouTube</a></p></div></div></div>
@@ -300,11 +300,11 @@ Continuous oversight depends on **high‑fidelity telemetry and behavioural trac
 
 ### Anomaly Detection and Alerting
 
-Real‑time supervision must automate the identification of risky patterns such as unusual action sequences, unexpected tool invocations, or goal drift. When these triggers occur, the supervisory layer should flag them for human review, escalate behaviour, pause execution, or route decisions into fail‑safe modes. A 2026 perspective on AI safety systems argues that **dedicated runtime safety layers** operating parallel to performance‑oriented systems can detect anomalies and support conservative interventions when unsafe conditions emerge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2772508126000219" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectArtificial intelligence (AI) safety system for safe &amp; trustworthy autonomy - ScienceDirectToday...</span></span></span>
+Real‑time supervision must automate the identification of risky patterns such as unusual action sequences, unexpected tool invocations, or goal drift. When these triggers occur, the supervisory layer should flag them for human review, escalate behaviour, pause execution, or route decisions into fail‑safe modes. A 2026 perspective on AI safety systems argues that **dedicated runtime safety layers** operating parallel to performance‑oriented systems can detect anomalies and support conservative interventions when unsafe conditions emerge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2772508126000219" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Artificial intelligence (AI) safety system for safe &amp; trustworthy autonomy - ScienceDirectToday...</span></span></span>
 
 ### Human‑Machine Escalation Paths
 
-Continuous human involvement doesn’t mean reviewing every action; it means *defining clear points where humans must re‑enter the loop*. Governance frameworks often prescribe **dynamic thresholds** — deviations in confidence, resource use, or risk impact — that trigger expansions of human oversight, escalation to safety teams, or even complete shutdown. Some enterprise governance models tier autonomy into levels (observe, advise, act with approval, fully autonomous) with corresponding monitoring and intervention paths. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.itpro.com/technology/[artificial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itpro.com">[IT Pro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itpro.com</span><span class="citation-popover-title">IT Pro&#x27;One-size-fits-all&#x27; agent governance sets enterprises up to fail</span><span class="citation-popover-snippet">The primary issue is the widespread application of a &quot;one-size-fits-all&quot; governance model that fails to distinguish between an agent&#x27;s au...</span></span></span>
+Continuous human involvement doesn’t mean reviewing every action; it means *defining clear points where humans must re‑enter the loop*. Governance frameworks often prescribe **dynamic thresholds** — deviations in confidence, resource use, or risk impact — that trigger expansions of human oversight, escalation to safety teams, or even complete shutdown. Some enterprise governance models tier autonomy into levels (observe, advise, act with approval, fully autonomous) with corresponding monitoring and intervention paths. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.itpro.com/technology/artificial-intelligence/one-size-fits-all-agent-governance-sets-enterprises-up-to-fail" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itpro.com">[IT Pro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itpro.com</span><span class="citation-popover-title">IT Pro&#x27;One-size-fits-all&#x27; agent governance sets enterprises up to fail</span><span class="citation-popover-snippet">The primary issue is the widespread application of a &quot;one-size-fits-all&quot; governance model that fails to distinguish between an agent&#x27;s au...</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_continuous_su_ef2f88-Illustration-2-dark.svg" | relative_url }}" alt="Continuous Control illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_continuous_su_ef2f88-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_continuous_su_ef2f88-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -312,16 +312,11 @@ Continuous human involvement doesn’t mean reviewing every action; it means *de
 
 A natural way to organise continuous supervision is through **[autonomy tiers]({{ 'autonomy-tiers/' | relative_url }})** that calibrate how much freedom an agent has and where oversight should apply:
 
-
-<div class="content-enhancement content-enhancement--caution" markdown="1">
-
 * **Low autonomy (observe/advice):** Agents suggest actions or insights, with all executions requiring human approval. Continuous supervision here is simpler; agents generate proposals, and humans decide.
 * **Medium autonomy (assisted execution):** Agents act within defined boundaries but escalate high‑risk actions. Supervision must monitor *context and thresholds* to determine when escalation is appropriate.
-* **High autonomy (independent operation):** Agents perform actions under minimal human prompts. Here, continuous monitoring focuses heavily on anomalies and *contingent intervention capabilities*, such as remote pausing or rollback.
+* **High autonomy ([independent]({{ 'red-teaming/' | relative_url }}) operation):** Agents perform actions under minimal human prompts. Here, continuous monitoring focuses heavily on anomalies and *contingent intervention capabilities*, such as remote pausing or rollback.
 
-</div>
-
-Governance models that specify this tiered structure help clarify what supervision *means* at each level, from simple logging to sophisticated anomaly detection or enforced escalation protocols. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koneetiv.com/governance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koneetiv.com">[Koneetiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koneetiv.com</span><span class="citation-popover-title">LOOP™ — enterprise AI agent governance protocol | Koneetiv</span><span class="citation-popover-snippet">KoneetivLOOP™ — enterprise AI agent governance protocol | Koneetiv...</span></span></span>
+Governance models that specify this tiered structure help clarify what supervision *means* at each level, from simple logging to sophisticated anomaly detection or enforced escalation protocols. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koneetiv.com/governance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koneetiv.com">[Koneetiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koneetiv.com</span><span class="citation-popover-title">LOOP™ — enterprise AI agent governance protocol &#124; Koneetiv</span><span class="citation-popover-snippet">LOOP™ — enterprise AI agent governance protocol &#124; Koneetiv...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LOLI0emzDb0" title="Monitor, optimize and scale with AI Observability in Microsoft Foundry | BRK190" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LOLI0emzDb0" target="_blank" rel="noopener noreferrer">Monitor, optimize and scale with AI Observability in Microsoft Foundry | BRK190</a></p><p class="youtube-embed-meta">Channel: Microsoft Events &middot; Views: 1.8K &middot; Uploaded: November 2025 &middot; Length: 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LOLI0emzDb0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LOLI0emzDb0">Open on YouTube</a></p></div></div></div>
@@ -330,14 +325,9 @@ Governance models that specify this tiered structure help clarify what supervisi
 
 Continuous supervision inherently involves **trade‑offs**:
 
-
-<div class="content-enhancement content-enhancement--caution" markdown="1">
-
 * **Usefulness versus constraint:** Tight supervision (frequent human review or strict escalation gates) can preserve safety but may undercut the *value proposition* of autonomous agents — speed, fluidity and scale.
 * **Speed versus risk visibility:** Real‑time monitoring and anomaly detection can introduce latency, especially if every deviation requires human attention or escalates to safety teams. This friction can be at odds with applications where rapid decisions matter.
-* **Containment versus autonomy:** Strategies like forced pauses or rollbacks help prevent catastrophic outcomes but may render agents less effective in dynamic environments. Designing *graduated containment* — where agents operate with autonomy until certain risk markers occur — is an area of active research.
-
-</div>
+* **Containment versus autonomy:** Strategies like forced pauses or rollbacks help prevent [catastrophic]({{ 'misuse/' | relative_url }}) outcomes but may render agents less effective in dynamic environments. Designing *graduated containment* — where agents operate with autonomy until certain risk markers occur — is an area of active research.
 
 These trade‑offs are not just technical; they reflect a deeper governance question central to AI doom debates: can we build systems that are both empowered to act and *bound* to human values and oversight? If not, proponents of existential risk arguments warn, agents could accumulate influence or adapt in ways that elude continuous control, especially as complexity and capabilities grow.
 
@@ -347,8 +337,8 @@ These trade‑offs are not just technical; they reflect a deeper governance ques
 
 Even with a conceptual framework, implementing continuous supervision in powerful AI systems faces serious hurdles:
 
-* **Oversight latency:** Detecting and diagnosing risky behaviour in real time is technically hard, and delays between detection and intervention may be exploited by the agent’s actions themselves. Research on monitoring protocols highlights the challenge of balancing synchronous (real‑time) monitoring with [operational]({{ 'operational-thresholds/' | relative_url }}) speed and scalability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/research/practical-challenges-of-control-monitoring-in-frontier-ai-deployments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-* **Attribution and identity:** In practice, distinguishing *which* agent or component triggered an action—especially when agents operate under shared credentials or within human sessions—complicates monitoring and enforcement. Lax identity controls can leave governance blind to autonomous behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.itpro.com/technology/[artificial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itpro.com">[IT Pro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itpro.com</span><span class="citation-popover-title">IT Pro&#x27;One-size-fits-all&#x27; agent governance sets enterprises up to fail</span><span class="citation-popover-snippet">The primary issue is the widespread application of a &quot;one-size-fits-all&quot; governance model that fails to distinguish between an agent&#x27;s au...</span></span></span>
+* **Oversight latency:** Detecting and diagnosing risky behaviour in real time is technically hard, and delays between detection and intervention may be exploited by the agent’s actions themselves. Research on monitoring protocols highlights the challenge of balancing synchronous (real‑time) monitoring with operational speed and scalability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/research/practical-challenges-of-control-monitoring-in-frontier-ai-deployments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* **Attribution and identity:** In practice, distinguishing *which* agent or component triggered an action—especially when agents operate under shared credentials or within human sessions—complicates monitoring and enforcement. Lax identity controls can leave governance blind to autonomous behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.itpro.com/technology/artificial-intelligence/one-size-fits-all-agent-governance-sets-enterprises-up-to-fail" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itpro.com">[IT Pro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itpro.com</span><span class="citation-popover-title">IT Pro&#x27;One-size-fits-all&#x27; agent governance sets enterprises up to fail</span><span class="citation-popover-snippet">The primary issue is the widespread application of a &quot;one-size-fits-all&quot; governance model that fails to distinguish between an agent&#x27;s au...</span></span></span>
 * **Scalability of human review:** Continuous human approval for a large volume of decisions simply does not scale. Thus, supervision must rely on **automated detection and selective human escalation**, a pattern that pushes the “human in the loop” further out in the execution chain.
 
 ## Why This Matters for AI Doom Arguments
@@ -794,108 +784,108 @@ As autonomous AI agents become more capable and more integrated into high‑impa
 
 1. <a id="endnote-1"></a>
    Source: techradar.com  
-   Link: [https://www.techradar.com/pro/ai-agents-create-new-risks-requiring-continuous-monitoring-and-oversight](https://www.techradar.com/pro/ai-agents-create-new-risks-requiring-continuous-monitoring-and-oversight)  
+   Link: <a href="https://www.techradar.com/pro/ai-agents-create-new-risks-requiring-continuous-monitoring-and-oversight" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/pro/ai-agents-create-new-risks-requiring-continuous-monitoring-and-oversight</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>These AI agents automate tasks, operate 24/7, and offer cost and efficiency benefits. However, the article highlights significant risks...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: techradar.com  
    Title: Tech Radar Observability was built for humans  
-   Link: [https://www.techradar.com/pro/observability-was-built-for-humans-ai-agents-need-something-different](https://www.techradar.com/pro/observability-was-built-for-humans-ai-agents-need-something-different)  
+   Link: <a href="https://www.techradar.com/pro/observability-was-built-for-humans-ai-agents-need-something-different" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/pro/observability-was-built-for-humans-ai-agents-need-something-different</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI agents need something differentMay 26, 2026 — The article discusses a significant shift occurring in the observability space due to th...</p></details>
    Published: May 26, 2026  
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2772508126000219](https://www.sciencedirect.com/science/article/pii/S2772508126000219)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectArtificial intelligence (AI) safety system for safe &amp; trustworthy autonomy - ScienceDirectToday...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2772508126000219" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2772508126000219</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligence (AI) safety system for safe &amp; trustworthy autonomy - ScienceDirectToday...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: koneetiv.com  
    Title: LOOP™ — enterprise AI agent governance protocol | Koneetiv  
-   Link: [https://www.koneetiv.com/governance](https://www.koneetiv.com/governance)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>KoneetivLOOP™ — enterprise AI agent governance protocol | Koneetiv...</p></details>
+   Link: <a href="https://www.koneetiv.com/governance" target="_blank" rel="noopener noreferrer nofollow">https://www.koneetiv.com/governance</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>LOOP™ — enterprise AI agent governance protocol | Koneetiv...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: itpro.com  
    Title: IT Pro'One-size-fits-all' agent governance sets enterprises up to fail  
-   Link: [https://www.itpro.com/technology/[artificial](https://www.itpro.com/technology/[artificial)  
+   Link: <a href="https://www.itpro.com/technology/artificial-intelligence/one-size-fits-all-agent-governance-sets-enterprises-up-to-fail" target="_blank" rel="noopener noreferrer nofollow">https://www.itpro.com/technology/artificial-intelligence/one-size-fits-all-agent-governance-sets-enterprises-up-to-fail</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The primary issue is the widespread application of a &quot;one-size-fits-all&quot; governance model that fails to distinguish between an agent&#x27;s au...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: aisi.gov.uk  
-   Link: [https://www.aisi.gov.uk/research/practical-challenges-of-control-monitoring-in-frontier-ai-deployments](https://www.aisi.gov.uk/research/practical-challenges-of-control-monitoring-in-frontier-ai-deployments)  
+   Link: <a href="https://www.aisi.gov.uk/research/practical-challenges-of-control-monitoring-in-frontier-ai-deployments" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/research/practical-challenges-of-control-monitoring-in-frontier-ai-deployments</a>  
 
 7. <a id="endnote-7"></a>
    Source: itpro.com  
    Title: IT Pro Over two-thirds of workers can't identify actions taken by AI agents  
-   Link: [https://www.itpro.com/technology/artificial-intelligence/workers-cant-identify-work-produced-by-ai-agents-business-risks](https://www.itpro.com/technology/artificial-intelligence/workers-cant-identify-work-produced-by-ai-agents-business-risks)  
+   Link: <a href="https://www.itpro.com/technology/artificial-intelligence/workers-cant-identify-work-produced-by-ai-agents-business-risks" target="_blank" rel="noopener noreferrer nofollow">https://www.itpro.com/technology/artificial-intelligence/workers-cant-identify-work-produced-by-ai-agents-business-risks</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>With 73% of organizations anticipating a vital role for AI agents in the next year, 68% admit they cannot reliably distinguish AI versus...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: swept.ai  
    Title: The non-deterministic nature of AI means that quite  
-   Link: [https://www.swept.ai/offering/supervision](https://www.swept.ai/offering/supervision)  
+   Link: <a href="https://www.swept.ai/offering/supervision" target="_blank" rel="noopener noreferrer nofollow">https://www.swept.ai/offering/supervision</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Supervision | Keep AI On Spec | Swept AIKEEP AI ON SPEC Agents drift, models decay, context becomes polluted, and user behavior evolves...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/403947038_Agentic_AI_and_Autonomous_Decision-Making_A_Review_of_Human-in-the-Loop_Frameworks_Oversight_Mechanisms_and_Trust_Calibration/download](https://www.researchgate.net/publication/403947038_Agentic_AI_and_Autonomous_Decision-Making_A_Review_of_Human-in-the-Loop_Frameworks_Oversight_Mechanisms_and_Trust_Calibration/download)  
+   Link: <a href="https://www.researchgate.net/publication/403947038_Agentic_AI_and_Autonomous_Decision-Making_A_Review_of_Human-in-the-Loop_Frameworks_Oversight_Mechanisms_and_Trust_Calibration/download" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403947038_Agentic_AI_and_Autonomous_Decision-Making_A_Review_of_Human-in-the-Loop_Frameworks_Oversight_Mechanisms_and_Trust_Calibration/download</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This insight is directly applicable to agentic AI. An operator monitoring a multi-step AI agent may perceive its current state (Level 1)...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: swept.ai  
-   Link: [https://www.swept.ai/ai-supervision](https://www.swept.ai/ai-supervision)  
+   Link: <a href="https://www.swept.ai/ai-supervision" target="_blank" rel="noopener noreferrer nofollow">https://www.swept.ai/ai-supervision</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Copy page ON THIS PAGE: * Supervision ≠ Just Monitoring * The Three Pillars of Supervision * Why AI Supervision Matters * How Much Superv...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: aiagentgovernance.org  
-   Link: [https://aiagentgovernance.org/](https://aiagentgovernance.org/)  
+   Link: <a href="https://aiagentgovernance.org/" target="_blank" rel="noopener noreferrer nofollow">https://aiagentgovernance.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>McCormick · Version: v2.0.0 · CC BY 4.0 &gt; Authorship context: This is a practitioner&#x27;s methodology, not an academic paper. The author...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: agenticoversight.ai  
-   Link: [https://www.agenticoversight.ai/](https://www.agenticoversight.ai/)  
+   Link: <a href="https://www.agenticoversight.ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.agenticoversight.ai/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>We Make It Trustworthy. Harness the power of Artificial Intelligence with confidence. Agentic Oversight provides an indepe...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: researchgate.net  
    Title: (PDF) Limits of Safe AI Deployment: Differentiating Oversight and Control  
-   Link: [https://www.researchgate.net/publication/393478318_Limits_of_Safe_AI_Deployment_Differentiating_Oversight_and_Control](https://www.researchgate.net/publication/393478318_Limits_of_Safe_AI_Deployment_Differentiating_Oversight_and_Control)  
+   Link: <a href="https://www.researchgate.net/publication/393478318_Limits_of_Safe_AI_Deployment_Differentiating_Oversight_and_Control" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/393478318_Limits_of_Safe_AI_Deployment_Differentiating_Oversight_and_Control</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>July 4, 2025 — LIMITS OF SAFE AI DEPLOYMENT: DIFFERENTIATING OVERSIGHT AND CONTROL * July 2025 DOI:10.48550/arXiv.2507.03525 * License *...</p></details>
    Published: July 4, 2025  
 
 14. <a id="endnote-14"></a>
    Source: aixiv.science  
    Title: Execution-Boundary Interlocks for High-Autonomy AI Systems | ai Xiv  
-   Link: [https://aixiv.science/abs/aixiv.260217.000001](https://aixiv.science/abs/aixiv.260217.000001)  
+   Link: <a href="https://aixiv.science/abs/aixiv.260217.000001" target="_blank" rel="noopener noreferrer nofollow">https://aixiv.science/abs/aixiv.260217.000001</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Execution-Boundary Interlocks for High-Autonomy AI Systems | aiXivMarch 4, 2026 — EXECUTION-BOUNDARY INTERLOCKS FOR HIGH-AUTONOMY AI SYST...</p></details>
    Published: March 4, 2026  
 
 15. <a id="endnote-15"></a>
    Source: swept.ai  
    Title: Each phase addresses different risks and requires different capab  
-   Link: [https://www.swept.ai/post/agentic-ai-governance](https://www.swept.ai/post/agentic-ai-governance)  
+   Link: <a href="https://www.swept.ai/post/agentic-ai-governance" target="_blank" rel="noopener noreferrer nofollow">https://www.swept.ai/post/agentic-ai-governance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Agentic AI Governance: How to Trust and Control Autonomous AI Agents | Swept AIFebruary 6, 2026 — THE AGENTIC AI GOVERNANCE FRAMEWORK Eff...</p></details>
    Published: February 6, 2026  
 
 16. <a id="endnote-16"></a>
    Source: labs.cloudsecurityalliance.org  
    Title: governance nist ai agent standards agentic governance v1 csa  
-   Link: [https://labs.cloudsecurityalliance.org/research/governance-nist-ai-agent-standards-agentic-governance-v1-csa/](https://labs.cloudsecurityalliance.org/research/governance-nist-ai-agent-standards-agentic-governance-v1-csa/)  
+   Link: <a href="https://labs.cloudsecurityalliance.org/research/governance-nist-ai-agent-standards-agentic-governance-v1-csa/" target="_blank" rel="noopener noreferrer nofollow">https://labs.cloudsecurityalliance.org/research/governance-nist-ai-agent-standards-agentic-governance-v1-csa/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Governance: NIST Standards for Autonomous Systems – Lab SpaceMarch 22, 2026 — AGENTIC AI GOVERNANCE: NIST STANDARDS FOR AUTONOMOUS SYS...</p></details>
    Published: March 22, 2026  
 
 17. <a id="endnote-17"></a>
    Source: medrxiv.org  
    Title: HAAR F: Healthcare AI Agents Regulatory Framework  
-   Link: [https://www.medrxiv.org/content/10.64898/2026.04.09.26350519v1.full-text](https://www.medrxiv.org/content/10.64898/2026.04.09.26350519v1.full-text)  
+   Link: <a href="https://www.medrxiv.org/content/10.64898/2026.04.09.26350519v1.full-text" target="_blank" rel="noopener noreferrer nofollow">https://www.medrxiv.org/content/10.64898/2026.04.09.26350519v1.full-text</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HAARF: Healthcare AI Agents Regulatory Framework - A Comprehensive Security Verification Standard for Autonomous AI Systems in Clinical E...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: emergentmind.com  
    Title: M I9: Runtime Governance for Agentic AI Systems  
-   Link: [https://www.emergentmind.com/papers/2508.03858](https://www.emergentmind.com/papers/2508.03858)  
+   Link: <a href="https://www.emergentmind.com/papers/2508.03858" target="_blank" rel="noopener noreferrer nofollow">https://www.emergentmind.com/papers/2508.03858</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MI9: Runtime Governance for Agentic AI SystemsAugust 5, 2025 — MI9 -- AGENT INTELLIGENCE PROTOCOL: RUNTIME GOVERNANCE FOR AGENTIC AI SYST...</p></details>
    Published: August 5, 2025  

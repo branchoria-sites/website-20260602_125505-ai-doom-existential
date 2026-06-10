@@ -12,21 +12,21 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372
 - AI_Doom_and_E_87399b_dangerous_aut_8f4266_multi_step_ai_ed5101
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - autonomy
 - ai-oversight
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - autonomy
 - ai-oversight
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Analyzes how current oversight frameworks struggle to keep pace with increasingly autonomous AI systems and why tiered controls are needed.
 hero_summary: Analyzes how current oversight frameworks struggle to keep pace with increasingly autonomous AI systems and why tiered controls are needed.
 layout: default
 permalink: /ai-oversight/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /autonomy/
 nav_short_title: AI Oversight
 title: Managing and Governing Autonomous AI Agents
@@ -213,20 +213,20 @@ parent_heading_title: When Does AI Autonomy Become Dangerous?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_dangerous_aut_8f4266
-  title: Autonomy | AI Doom and
+  title: Autonomy | AI Doom and E 87399 b
   permalink: /autonomy/
   short_title: Autonomy
   heading_title: When Does AI Autonomy Become Dangerous?
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_dangerous_aut_8f4266
-  title: Autonomy | AI Doom and
+  title: Autonomy | AI Doom and E 87399 b
   permalink: /autonomy/
   short_title: Autonomy
   heading_title: When Does AI Autonomy Become Dangerous?
@@ -264,7 +264,7 @@ child_links:
   heading_title: Can monitoring catch agents before damage spreads?
 up_link:
   basename: AI_Doom_and_E_87399b_dangerous_aut_8f4266
-  title: Autonomy | AI Doom and
+  title: Autonomy | AI Doom and E 87399 b
   permalink: /autonomy/
   short_title: Autonomy
   heading_title: When Does AI Autonomy Become Dangerous?
@@ -282,25 +282,25 @@ image: /assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac0
 
 ## Introduction
 
-As AI systems move from answering individual prompts to pursuing goals across hours, days, or even longer periods, [governance]({{ 'governance/' | relative_url }}) becomes a central issue in debates about [AI doom and]({{ 'ai-doom-and/' | relative_url }}) existential risk. Long-horizon AI agents are difficult to supervise because they can make many interconnected decisions before a human notices a problem. In the most serious loss-of-control scenarios discussed by AI safety researchers, the danger is not a single mistaken output but an autonomous system that continues pursuing objectives despite errors, misunderstandings, or incentives that diverge from human intentions.
+As AI systems move from answering individual prompts to pursuing goals across hours, days, or even longer periods, [governance]({{ 'governance/' | relative_url }}) becomes a central issue in debates about AI doom and existential risk. Long-horizon AI agents are difficult to supervise because they can make many interconnected decisions before a human notices a problem. In the most serious loss-of-control scenarios discussed by AI safety researchers, the danger is not a single mistaken output but an autonomous system that continues pursuing objectives despite errors, misunderstandings, or incentives that diverge from human intentions.
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1-Illustration-1-dark.svg" | relative_url }}" alt="AI Oversight illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Current evidence suggests that today's agents remain far short of the robust autonomy assumed in many existential-risk scenarios. However, major safety assessments note that task horizons are increasing and that autonomous agents create distinctive [oversight]({{ 'oversight-evasion/' | relative_url }}) challenges because human intervention becomes harder once systems are operating independently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/International_AI_Safety_Report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[International AI Safety Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">International AI Safety ReportThe report assesses a wide range of risks posed by general-purpose AI and how to mitigate against them.R...</span></span></span>
+Current evidence suggests that today's agents remain far short of the robust [autonomy]({{ 'autonomy/' | relative_url }}) assumed in many existential-risk scenarios. However, major safety assessments note that task horizons are increasing and that autonomous agents create distinctive oversight challenges because human intervention becomes harder once systems are operating independently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/International_AI_Safety_Report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[International AI Safety Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">International AI Safety ReportThe report assesses a wide range of risks posed by general-purpose AI and how to mitigate against them.R...</span></span></span>
 
 The governance question is therefore not simply whether autonomous agents should be allowed. It is whether oversight institutions, regulations, and organisational controls can adapt quickly enough as agents become capable of managing increasingly complex tasks with less direct supervision.
 
 ## Why Existing Oversight Models Struggle
 
-Most governance systems for software, machine learning, and corporate automation were designed around tools that produce bounded outputs. A model generates a prediction, recommendation, or piece of text, and a human reviews the result. Long-horizon agents challenge this assumption because they act repeatedly, interact with external systems, revise plans, and pursue goals over extended periods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://validmind.com/blog/agentic-ai-governance-frameworks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: validmind.com">[ValidMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">validmind.com</span><span class="citation-popover-snippet">ValidMindAgentic AI Governance Frameworks: Autonomous AI Systems2 days ago — Learn how agentic AI governance frameworks help control auto...</span></span></span>
+Most governance systems for software, machine learning, and corporate automation were designed around tools that produce bounded outputs. A model generates a prediction, recommendation, or piece of text, and a human reviews the result. Long-horizon agents challenge this assumption because they act repeatedly, interact with external systems, revise plans, and pursue goals over extended periods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://validmind.com/blog/agentic-ai-governance-frameworks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: validmind.com">[ValidMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">validmind.com</span><span class="citation-popover-snippet">Agentic AI Governance Frameworks: Autonomous AI Systems2 days ago — Learn how agentic AI governance frameworks help control auto...</span></span></span>
 
 This creates several governance difficulties.
 
-**Review becomes less practical.** Human oversight can work when an AI produces one decision at a time. It becomes much harder when an agent executes hundreds of actions across multiple systems. By the time a reviewer notices a problem, the consequences may already have propagated.
+**Review becomes less practical.** [Human oversight]({{ 'human-oversight/' | relative_url }}) can work when an AI produces one decision at a time. It becomes much harder when an agent executes hundreds of actions across multiple systems. By the time a reviewer notices a problem, the consequences may already have propagated.
 
 **Responsibility becomes unclear.** Traditional governance frameworks often assume a clear chain of accountability. With autonomous agents, responsibility may be distributed across model developers, deployment teams, operators, users, and the organisations providing access to tools and data. Determining who is accountable for failures becomes more complicated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.blueprism.com/resources/blog/ai-agent-agentic-governance-framework/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueprism.com">[SS&amp;C Blue Prism]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueprism.com</span><span class="citation-popover-snippet">SS&amp;C Blue PrismAI Agent Governance Framework for Agentic Worfklows23 hours ago — A modern governance model for autonomous agents rests on...</span></span></span>
 
-**Static audits may miss dynamic behaviour.** Many compliance systems rely on periodic reviews and documentation. Agentic systems can change behaviour depending on context, goals, interactions with other agents, and environmental feedback. Researchers and governance specialists increasingly argue that runtime monitoring is needed because point-in-time audits may not capture how agents actually behave after deployment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://validmind.com/blog/agentic-ai-governance-frameworks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: validmind.com">[ValidMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">validmind.com</span><span class="citation-popover-snippet">ValidMindAgentic AI Governance Frameworks: Autonomous AI Systems2 days ago — Learn how agentic AI governance frameworks help control auto...</span></span></span>
+**Static audits may miss dynamic behaviour.** Many compliance systems rely on periodic reviews and documentation. Agentic systems can change behaviour depending on context, goals, interactions with other agents, and environmental feedback. Researchers and governance specialists increasingly argue that runtime [monitoring]({{ 'monitoring/' | relative_url }}) is needed because point-in-time audits may not capture how agents actually behave after deployment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://validmind.com/blog/agentic-ai-governance-frameworks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: validmind.com">[ValidMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">validmind.com</span><span class="citation-popover-snippet">Agentic AI Governance Frameworks: Autonomous AI Systems2 days ago — Learn how agentic AI governance frameworks help control auto...</span></span></span>
 
 From an AI doom perspective, these limitations matter because many loss-of-control arguments depend on failures emerging during extended autonomous operation rather than during laboratory testing.
 
@@ -321,7 +321,7 @@ Second, there is the problem of **hidden adaptation**. Agents may discover unexp
 
 Third, there is the problem of **intervention delay**. The International AI Safety Report notes that autonomous agents can increase risks because failures become harder to interrupt once systems are acting independently. The longer an agent can operate without oversight, the more important timely detection and interruption become. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/International_AI_Safety_Report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[International AI Safety Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">International AI Safety ReportThe report assesses a wide range of risks posed by general-purpose AI and how to mitigate against them.R...</span></span></span>
 
-These concerns help explain why governance discussions increasingly focus on [operational]({{ 'operational-thresholds/' | relative_url }}) control, monitoring, and interruptibility rather than solely on pre-deployment testing.
+These concerns help explain why governance discussions increasingly focus on operational control, monitoring, and interruptibility rather than solely on pre-deployment testing.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BjNOU5b0SpM" title="Securing Autonomous AI Reasoning | AI Security, Governance &amp; Trust in Intelligent Systems | Uplatz" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BjNOU5b0SpM" target="_blank" rel="noopener noreferrer">Securing Autonomous AI Reasoning | AI Security, Governance &amp; Trust in Intelligent Systems | Uplatz</a></p><p class="youtube-embed-meta">Channel: Uplatz &middot; Views: 18 &middot; Uploaded: May 2026 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BjNOU5b0SpM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BjNOU5b0SpM">Open on YouTube</a></p></div></div></div>
@@ -330,13 +330,13 @@ These concerns help explain why governance discussions increasingly focus on [op
 
 One emerging governance approach is to match oversight requirements to the level of autonomy an agent possesses.
 
-Recent governance proposals from industry analysts and policy specialists argue that treating all AI agents the same is a mistake. A read-only assistant that summarises documents presents different risks from an agent authorised to spend money, modify software, negotiate with external parties, or coordinate other agents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.itpro.com/technology/[artificial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itpro.com">[IT Pro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itpro.com</span><span class="citation-popover-title">IT Pro&#x27;One-size-fits-all&#x27; agent governance sets enterprises up to fail</span><span class="citation-popover-snippet">The primary issue is the widespread application of a &quot;one-size-fits-all&quot; governance model that fails to distinguish between an agent&#x27;s au...</span></span></span>
+Recent governance proposals from industry analysts and policy specialists argue that treating all AI agents the same is a mistake. A read-only assistant that summarises documents presents different risks from an agent authorised to spend money, modify software, negotiate with external parties, or coordinate other agents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.itpro.com/technology/artificial-intelligence/one-size-fits-all-agent-governance-sets-enterprises-up-to-fail" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itpro.com">[IT Pro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itpro.com</span><span class="citation-popover-title">IT Pro&#x27;One-size-fits-all&#x27; agent governance sets enterprises up to fail</span><span class="citation-popover-snippet">The primary issue is the widespread application of a &quot;one-size-fits-all&quot; governance model that fails to distinguish between an agent&#x27;s au...</span></span></span>
 
 A tiered model typically includes progressively stronger controls:
 
 Autonomy levelTypical governance responseInformation-only agentsLogging, transparency requirements, access controlsAdvisory agentsHuman review of recommendations before actionAgents acting with approvalFormal authorisation checkpoints and audit trailsFully autonomous agentsContinuous monitoring, emergency shutdown mechanisms, strict permissions, incident-response procedures, and extensive accountability requirements
 
-The attraction of tiered governance is that it recognises differing risk levels while avoiding the false choice between unrestricted autonomy and complete prohibition. Gartner and other governance analysts have recently argued that autonomy level and access privileges should be treated as separate governance variables rather than collapsed into a single category. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.itpro.com/technology/[artificial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itpro.com">[IT Pro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itpro.com</span><span class="citation-popover-title">IT Pro&#x27;One-size-fits-all&#x27; agent governance sets enterprises up to fail</span><span class="citation-popover-snippet">The primary issue is the widespread application of a &quot;one-size-fits-all&quot; governance model that fails to distinguish between an agent&#x27;s au...</span></span></span>
+The attraction of tiered governance is that it recognises differing risk levels while avoiding the false choice between unrestricted autonomy and complete prohibition. Gartner and other governance analysts have recently argued that autonomy level and access privileges should be treated as separate governance variables rather than collapsed into a single category. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.itpro.com/technology/artificial-intelligence/one-size-fits-all-agent-governance-sets-enterprises-up-to-fail" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itpro.com">[IT Pro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itpro.com</span><span class="citation-popover-title">IT Pro&#x27;One-size-fits-all&#x27; agent governance sets enterprises up to fail</span><span class="citation-popover-snippet">The primary issue is the widespread application of a &quot;one-size-fits-all&quot; governance model that fails to distinguish between an agent&#x27;s au...</span></span></span>
 
 For existential-risk discussions, the most important tiers are those involving substantial autonomous decision-making, because these are the systems most relevant to future loss-of-control scenarios.
 
@@ -350,13 +350,13 @@ Governance proposals for advanced agents increasingly converge on several practi
 
 **Action-level accountability.** Important decisions should be traceable. This means maintaining records of what an agent did, why it acted, what information it used, and which permissions allowed the action. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.blueprism.com/resources/blog/ai-agent-agentic-governance-framework/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueprism.com">[SS&amp;C Blue Prism]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueprism.com</span><span class="citation-popover-snippet">SS&amp;C Blue PrismAI Agent Governance Framework for Agentic Worfklows23 hours ago — A modern governance model for autonomous agents rests on...</span></span></span>
 
-**Interruptibility and rollback.** Governance systems require practical means of halting or reversing harmful behaviour. This becomes increasingly important as agents gain access to real-world infrastructure, software systems, financial resources, or other autonomous tools. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.itpro.com/technology/[artificial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itpro.com">[IT Pro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itpro.com</span><span class="citation-popover-title">IT Pro&#x27;One-size-fits-all&#x27; agent governance sets enterprises up to fail</span><span class="citation-popover-snippet">The primary issue is the widespread application of a &quot;one-size-fits-all&quot; governance model that fails to distinguish between an agent&#x27;s au...</span></span></span>
+**Interruptibility and rollback.** Governance systems require practical means of halting or reversing harmful behaviour. This becomes increasingly important as agents gain access to real-world infrastructure, software systems, financial resources, or other autonomous tools. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.itpro.com/technology/artificial-intelligence/one-size-fits-all-agent-governance-sets-enterprises-up-to-fail" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itpro.com">[IT Pro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itpro.com</span><span class="citation-popover-title">IT Pro&#x27;One-size-fits-all&#x27; agent governance sets enterprises up to fail</span><span class="citation-popover-snippet">The primary issue is the widespread application of a &quot;one-size-fits-all&quot; governance model that fails to distinguish between an agent&#x27;s au...</span></span></span>
 
 **Permission management.** Many governance proposals emphasise least-privilege access, ensuring that agents receive only the permissions necessary for their assigned tasks. This reduces the potential impact of failures or unexpected behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techradar.com/pro/lack-of-ai-governance-could-force-40-percent-of-enterprises-to-roll-back-autonomous-ai-agents-by-2027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-snippet">Many organizations currently either over-trust or overly restrict their AI agents, creating serious risks. Excessive trust can lead to un...</span></span></span>
 
 **Runtime policy enforcement.** Some researchers argue that governance should operate as an [independent]({{ 'red-teaming/' | relative_url }}) layer that monitors and constrains agents during operation rather than relying entirely on the agent's internal alignment. Proposed approaches include external policy engines that can block, redirect, or restrict actions in real time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2604.04749" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-These mechanisms are not proof against catastrophic failures, but they represent attempts to preserve meaningful human control as autonomy increases.
+These mechanisms are not proof against [catastrophic]({{ 'misuse/' | relative_url }}) failures, but they represent attempts to preserve meaningful human control as autonomy increases.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2VlXhGottLw" title="Inside The Second Int&#x27;l AI Safety Report with Stephen Clare &amp; Stephen Casper | The AI Policy Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2VlXhGottLw" target="_blank" rel="noopener noreferrer">Inside The Second Int&#x27;l AI Safety Report with Stephen Clare &amp; Stephen Casper | The AI Policy Podcast</a></p><p class="youtube-embed-meta">Channel: Center for Strategic &amp; International Studies &middot; Views: 2.6K &middot; Uploaded: February 2026 &middot; Length: 1 hour 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2VlXhGottLw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2VlXhGottLw">Open on YouTube</a></p></div></div></div>
@@ -365,7 +365,7 @@ These mechanisms are not proof against catastrophic failures, but they represent
 
 A central disagreement in AI doom debates is whether governance can realistically keep pace with advancing capabilities.
 
-Optimists argue that governance institutions have repeatedly adapted to powerful technologies. In this view, agent oversight can evolve through better evaluations, licensing systems, monitoring requirements, incident reporting, and international coordination. The existence of emerging frameworks such as the NIST AI Risk Management Framework, the EU AI Act, and specialised agent-governance proposals is often cited as evidence that governance capacity is developing alongside the technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://github.com/systempromptio/awesome-ai-agent-governance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-snippet">GitHubsystempromptio/awesome-ai-agent-governanceNIST AI Risk Management Framework - NIST&#x27;s voluntary framework for managing AI risk. Four...</span></span></span>
+Optimists argue that governance institutions have repeatedly adapted to powerful technologies. In this view, agent oversight can evolve through better [evaluations]({{ 'evaluations/' | relative_url }}), licensing systems, monitoring requirements, incident reporting, and international coordination. The existence of emerging frameworks such as the NIST AI Risk Management Framework, the EU AI Act, and specialised agent-governance proposals is often cited as evidence that governance capacity is developing alongside the technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://github.com/systempromptio/awesome-ai-agent-governance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-snippet">systempromptio/awesome-ai-agent-governanceNIST AI Risk Management Framework - NIST&#x27;s voluntary framework for managing AI risk. Four...</span></span></span>
 
 More pessimistic researchers question whether institutional adaptation can occur quickly enough. They note that long-horizon agents may become increasingly difficult to understand, monitor, and control, especially if they can coordinate with other systems, exploit governance gaps, or operate faster than human review processes. Some governance researchers argue that alignment should be viewed not only as a property of individual models but also as a problem of governing entire ecosystems of interacting agents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2604.04749" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -387,7 +387,7 @@ The International AI Safety Report highlights broader institutional challenges a
 
 Long-horizon AI agents occupy a distinctive place in existential-risk debates because they connect abstract concerns about misalignment and loss of control to concrete governance questions.
 
-Most AI doom scenarios do not depend on a single [dangerous]({{ 'autonomy/' | relative_url }}) output. They depend on systems that can plan, adapt, persist, and pursue objectives over extended periods while operating with limited supervision. Governance frameworks designed for traditional software or short-lived AI interactions may therefore prove inadequate if autonomy continues to increase.
+Most AI doom scenarios do not depend on a single dangerous output. They depend on systems that can plan, adapt, persist, and pursue objectives over extended periods while operating with limited supervision. Governance frameworks designed for traditional software or short-lived AI interactions may therefore prove inadequate if autonomy continues to increase.
 
 The strongest governance response proposed so far is not a single regulation or control mechanism. It is a layered system combining autonomy-based permissions, continuous monitoring, accountability, runtime intervention, and institutional coordination. Whether such measures can remain effective as agent capabilities grow is one of the most important unresolved questions in the broader debate over AI existential risk and p(doom).
 
@@ -780,217 +780,217 @@ The strongest governance response proposed so far is not a single regulation or 
 
 1. <a id="endnote-1"></a>
    Source: validmind.com  
-   Link: [https://validmind.com/blog/agentic-ai-governance-frameworks/](https://validmind.com/blog/agentic-ai-governance-frameworks/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ValidMindAgentic AI Governance Frameworks: Autonomous AI Systems2 days ago — Learn how agentic AI governance frameworks help control auto...</p></details>
+   Link: <a href="https://validmind.com/blog/agentic-ai-governance-frameworks/" target="_blank" rel="noopener noreferrer nofollow">https://validmind.com/blog/agentic-ai-governance-frameworks/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Agentic AI Governance Frameworks: Autonomous AI Systems2 days ago — Learn how agentic AI governance frameworks help control auto...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2604.04749](https://arxiv.org/abs/2604.04749)  
+   Link: <a href="https://arxiv.org/abs/2604.04749" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.04749</a>  
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2508.18765](https://arxiv.org/abs/2508.18765)  
+   Link: <a href="https://arxiv.org/abs/2508.18765" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2508.18765</a>  
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2512.03180](https://arxiv.org/abs/2512.03180)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivAGENTSAFE: A Unified Framework for Ethical Assurance and Governance in Agentic AIDecember 2, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2512.03180" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2512.03180</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AGENTSAFE: A Unified Framework for Ethical Assurance and Governance in Agentic AIDecember 2, 2025...</p></details>
    Published: December 2, 2025  
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv Institutional AI: A Governance Framework for Distributional AGI Safety  
-   Link: [https://arxiv.org/abs/2601.10599](https://arxiv.org/abs/2601.10599)  
+   Link: <a href="https://arxiv.org/abs/2601.10599" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2601.10599</a>  
 
 6. <a id="endnote-6"></a>
    Source: techradar.com  
-   Link: [https://www.techradar.com/pro/lack-of-ai-governance-could-force-40-percent-of-enterprises-to-roll-back-autonomous-ai-agents-by-2027](https://www.techradar.com/pro/lack-of-ai-governance-could-force-40-percent-of-enterprises-to-roll-back-autonomous-ai-agents-by-2027)  
+   Link: <a href="https://www.techradar.com/pro/lack-of-ai-governance-could-force-40-percent-of-enterprises-to-roll-back-autonomous-ai-agents-by-2027" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/pro/lack-of-ai-governance-could-force-40-percent-of-enterprises-to-roll-back-autonomous-ai-agents-by-2027</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Many organizations currently either over-trust or overly restrict their AI agents, creating serious risks. Excessive trust can lead to un...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: learn.microsoft.com  
    Title: governance security across organization  
-   Link: [https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ai-agents/governance-security-across-organization](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ai-agents/governance-security-across-organization)  
+   Link: <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ai-agents/governance-security-across-organization" target="_blank" rel="noopener noreferrer nofollow">https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ai-agents/governance-security-across-organization</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Every AI agent introduces organizational risk. Agents access data. Agents take actions.Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: techradar.com  
-   Link: [https://www.techradar.com/pro/ai-agents-are-creating-a-major-security-blind-spot-in-financial-services](https://www.techradar.com/pro/ai-agents-are-creating-a-major-security-blind-spot-in-financial-services)  
+   Link: <a href="https://www.techradar.com/pro/ai-agents-are-creating-a-major-security-blind-spot-in-financial-services" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/pro/ai-agents-are-creating-a-major-security-blind-spot-in-financial-services</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The rapid adoption of AI in FS, combined with inadequate control mechanisms, poses substantial risks—from data breaches and financial los...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: github.com  
-   Link: [https://github.com/systempromptio/awesome-ai-agent-governance](https://github.com/systempromptio/awesome-ai-agent-governance)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GitHubsystempromptio/awesome-ai-agent-governanceNIST AI Risk Management Framework - NIST&#x27;s voluntary framework for managing AI risk. Four...</p></details>
+   Link: <a href="https://github.com/systempromptio/awesome-ai-agent-governance" target="_blank" rel="noopener noreferrer nofollow">https://github.com/systempromptio/awesome-ai-agent-governance</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>systempromptio/awesome-ai-agent-governanceNIST AI Risk Management Framework - NIST&#x27;s voluntary framework for managing AI risk. Four...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2602.21012](https://arxiv.org/pdf/2602.21012)  
+   Link: <a href="https://arxiv.org/pdf/2602.21012" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2602.21012</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Report does not necessarily represent the.Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: international.com  
-   Link: [https://www.international.com/](https://www.international.com/)  
+   Link: <a href="https://www.international.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.international.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ional durability and pioneering innovation to reduce costs and grow your...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2602.21012](https://arxiv.org/abs/2602.21012)  
+   Link: <a href="https://arxiv.org/abs/2602.21012" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2602.21012</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[2602.21012] International AI Safety Report 2026by Y Bengio · 2026 · Cited by 72 — The International AI Safety Report 2026 synthesises th...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: nist.gov  
-   Link: [https://www.nist.gov/itl/ai-risk-management-framework](https://www.nist.gov/itl/ai-risk-management-framework)  
+   Link: <a href="https://www.nist.gov/itl/ai-risk-management-framework" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/itl/ai-risk-management-framework</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Risk Management Framework | NISTNIST has developed a framework to better manage risks to individuals, organizations, and society assoc...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: internationalaisafetyreport.org  
-   Link: [https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026](https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026)  
+   Link: <a href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow">https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>International AI Safety ReportInternational AI Safety Report 20263 Feb 2026 — AI agents pose heightened risks because they act autonomous...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: internationalaisafetyreport.org  
-   Link: [https://internationalaisafetyreport.org/publication/2026-report-executive-summary](https://internationalaisafetyreport.org/publication/2026-report-executive-summary)  
+   Link: <a href="https://internationalaisafetyreport.org/publication/2026-report-executive-summary" target="_blank" rel="noopener noreferrer nofollow">https://internationalaisafetyreport.org/publication/2026-report-executive-summary</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>International AI Safety Report2026 Report: Executive SummaryFeb 3, 2026 — AI agents pose heightened risks because they act autonomously...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: blueprism.com  
-   Link: [https://www.blueprism.com/resources/blog/ai-agent-agentic-governance-framework/](https://www.blueprism.com/resources/blog/ai-agent-agentic-governance-framework/)  
+   Link: <a href="https://www.blueprism.com/resources/blog/ai-agent-agentic-governance-framework/" target="_blank" rel="noopener noreferrer nofollow">https://www.blueprism.com/resources/blog/ai-agent-agentic-governance-framework/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SS&amp;C Blue PrismAI Agent Governance Framework for Agentic Worfklows23 hours ago — A modern governance model for autonomous agents rests on...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: internationalaisafetyreport.org  
    Title: International AI Safety Report Extended  
-   Link: [https://internationalaisafetyreport.org/sites/default/files/2026-02/ai-safety-report-2026-extended-summary-for-policymakers.pdf](https://internationalaisafetyreport.org/sites/default/files/2026-02/ai-safety-report-2026-extended-summary-for-policymakers.pdf)  
+   Link: <a href="https://internationalaisafetyreport.org/sites/default/files/2026-02/ai-safety-report-2026-extended-summary-for-policymakers.pdf" target="_blank" rel="noopener noreferrer nofollow">https://internationalaisafetyreport.org/sites/default/files/2026-02/ai-safety-report-2026-extended-summary-for-policymakers.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Extended Summary for PolicymakersRisks to human autonomy... AI agents can increase reliability risks by carrying out tasks with limited...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: itpro.com  
    Title: IT Pro'One-size-fits-all' agent governance sets enterprises up to fail  
-   Link: [https://www.itpro.com/technology/[artificial](https://www.itpro.com/technology/[artificial)  
+   Link: <a href="https://www.itpro.com/technology/artificial-intelligence/one-size-fits-all-agent-governance-sets-enterprises-up-to-fail" target="_blank" rel="noopener noreferrer nofollow">https://www.itpro.com/technology/artificial-intelligence/one-size-fits-all-agent-governance-sets-enterprises-up-to-fail</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The primary issue is the widespread application of a &quot;one-size-fits-all&quot; governance model that fails to distinguish between an agent&#x27;s au...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: nsp.nanet.go.kr  
-   Link: [https://nsp.nanet.go.kr/plan/subject/detail.do?nationalPlanControlNo=PLAN0000060576](https://nsp.nanet.go.kr/plan/subject/detail.do?nationalPlanControlNo=PLAN0000060576)  
+   Link: <a href="https://nsp.nanet.go.kr/plan/subject/detail.do?nationalPlanControlNo=PLAN0000060576" target="_blank" rel="noopener noreferrer nofollow">https://nsp.nanet.go.kr/plan/subject/detail.do?nationalPlanControlNo=PLAN0000060576</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction 14. 1. Background on general-purpose AI 16... Loss of control 76. 2.3. Systemic risks 84. 2.3.1. Labour market impacts...R...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/long](https://dictionary.cambridge.org/dictionary/english/long)  
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/long" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/long</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>being an amount of time that is more than average or usual, or being of a particular amount of time: The...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: internationalaisafetyreport.org  
    Title: international ai safety report 2026  
-   Link: [https://internationalaisafetyreport.org/sites/default/files/2026-02/international-ai-safety-report-2026.pdf](https://internationalaisafetyreport.org/sites/default/files/2026-02/international-ai-safety-report-2026.pdf)  
+   Link: <a href="https://internationalaisafetyreport.org/sites/default/files/2026-02/international-ai-safety-report-2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://internationalaisafetyreport.org/sites/default/files/2026-02/international-ai-safety-report-2026.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Report does not necessarily represent the.Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: internationalaisafetyreport.org  
-   Link: [https://internationalaisafetyreport.org/publication/2026-report-extended-summary-policymakers](https://internationalaisafetyreport.org/publication/2026-report-extended-summary-policymakers)  
+   Link: <a href="https://internationalaisafetyreport.org/publication/2026-report-extended-summary-policymakers" target="_blank" rel="noopener noreferrer nofollow">https://internationalaisafetyreport.org/publication/2026-report-extended-summary-policymakers</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2026 Report: Extended Summary for Policymakers3 Feb 2026 — The International AI Safety Report 2026 provides a scientific assessment of th...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/International](https://en.wikipedia.org/wiki/International)  
+   Link: <a href="https://en.wikipedia.org/wiki/International" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/International</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>InternationalInternational is an adjective (also used as a noun) meaning &quot;between nations&quot;. International may also refer to: Contents...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Long](https://en.wikipedia.org/wiki/Long)  
+   Link: <a href="https://en.wikipedia.org/wiki/Long" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Long</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LongSports · Long, a fielding term in cricket · Long, in tennis and similar games, beyond the service line during a serve and beyond t...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: Wikipedia  
    Title: International AI Safety Report  
-   Link: [https://en.wikipedia.org/wiki/International_AI_Safety_Report](https://en.wikipedia.org/wiki/International_AI_Safety_Report)  
+   Link: <a href="https://en.wikipedia.org/wiki/International_AI_Safety_Report" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/International_AI_Safety_Report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>International AI Safety ReportThe report assesses a wide range of risks posed by general-purpose AI and how to mitigate against them.R...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: aiactblog.nl  
    Title: international ai safety report 2026  
-   Link: [https://www.aiactblog.nl/en/posts/international-ai-safety-report-2026](https://www.aiactblog.nl/en/posts/international-ai-safety-report-2026)  
+   Link: <a href="https://www.aiactblog.nl/en/posts/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.aiactblog.nl/en/posts/international-ai-safety-report-2026</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>key AI risks24 Feb 2026 — Autonomous decision-making in high-risk domains, inadequate transparency, insufficient human oversight, the ris...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: verifywise.ai  
    Title: agent international ai safety report 2026  
-   Link: [https://verifywise.ai/ai-governance-library/agentic-risks/agent-international-ai-safety-report-2026](https://verifywise.ai/ai-governance-library/agentic-risks/agent-international-ai-safety-report-2026)  
+   Link: <a href="https://verifywise.ai/ai-governance-library/agentic-risks/agent-international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow">https://verifywise.ai/ai-governance-library/agentic-risks/agent-international-ai-safety-report-2026</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>International AI Safety Report 2026Independent expert panel report chaired by Yoshua Bengio for UK DSIT, synthesising evidence on general...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: nice.com  
    Title: Agentic AI Governance Frameworks  
-   Link: [https://www.nice.com/agentic-ai/agentic-ai-governance-frameworks](https://www.nice.com/agentic-ai/agentic-ai-governance-frameworks)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NiCEExplore key governance frameworks for agentic AI systems, ensuring responsible development and deployment. Read the guide to enhance...</p></details>
+   Link: <a href="https://www.nice.com/agentic-ai/agentic-ai-governance-frameworks" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.com/agentic-ai/agentic-ai-governance-frameworks</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Explore key governance frameworks for agentic AI systems, ensuring responsible development and deployment. Read the guide to enhance...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: digital-strategy.ec.europa.eu  
    Title: eu A I Act | Shaping Europe's digital future  
-   Link: [https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai)  
+   Link: <a href="https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Act | Shaping Europe&#x27;s digital future - European UnionThe AI Act is the first-ever legal framework on AI, which addresses the risks of AI...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=pCqQbbpLRGE](https://www.youtube.com/watch?v=pCqQbbpLRGE)  
+   Link: <a href="https://www.youtube.com/watch?v=pCqQbbpLRGE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pCqQbbpLRGE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Long | Meaning of longSee here, the meanings of the word long, as video and text. (Click show more below.) long (adjective) Having much d...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: insideglobaltech.com  
-   Link: [https://www.insideglobaltech.com/2026/02/10/international-ai-safety-report-2026-examines-ai-capabilities-risks-and-safeguards/](https://www.insideglobaltech.com/2026/02/10/international-ai-safety-report-2026-examines-ai-capabilities-risks-and-safeguards/)  
+   Link: <a href="https://www.insideglobaltech.com/2026/02/10/international-ai-safety-report-2026-examines-ai-capabilities-risks-and-safeguards/" target="_blank" rel="noopener noreferrer nofollow">https://www.insideglobaltech.com/2026/02/10/international-ai-safety-report-2026-examines-ai-capabilities-risks-and-safeguards/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>International AI Safety Report 2026 Examines AI...10 Feb 2026 — The Report foreshadows that AI agents could compound these reliability r...</p></details>
 
 ### Additional References
 
 32. <a id="endnote-32"></a>
    Source: teksystems.com  
-   Link: [https://www.teksystems.com/en-hk/insights/article/agentic-ai-governance](https://www.teksystems.com/en-hk/insights/article/agentic-ai-governance)  
+   Link: <a href="https://www.teksystems.com/en-hk/insights/article/agentic-ai-governance" target="_blank" rel="noopener noreferrer nofollow">https://www.teksystems.com/en-hk/insights/article/agentic-ai-governance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Best Practices for Robust Agentic AI GovernanceRobust agentic AI governance frameworks are pre-requisites to ensure safe deployment, bu...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: paloaltonetworks.com  
-   Link: [https://www.paloaltonetworks.com/cyberpedia/what-is-agentic-ai-governance](https://www.paloaltonetworks.com/cyberpedia/what-is-agentic-ai-governance)  
+   Link: <a href="https://www.paloaltonetworks.com/cyberpedia/what-is-agentic-ai-governance" target="_blank" rel="noopener noreferrer nofollow">https://www.paloaltonetworks.com/cyberpedia/what-is-agentic-ai-governance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Complete Guide to Agentic AI GovernanceAgentic AI governance is the structured management of delegated authority in autonomous AI syste...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: datarobot.com  
-   Link: [https://www.datarobot.com/blog/agentic-ai-governance-framework/](https://www.datarobot.com/blog/agentic-ai-governance-framework/)  
+   Link: <a href="https://www.datarobot.com/blog/agentic-ai-governance-framework/" target="_blank" rel="noopener noreferrer nofollow">https://www.datarobot.com/blog/agentic-ai-governance-framework/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to build an agentic AI governance framework that scalesAgentic AI requires a new governance framework to manage autonomy, access, and...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/long](https://www.merriam-webster.com/dictionary/long)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/long" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/long</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LONG Definition &amp; Meaning1. a: extending for a considerable distance a long coastline b: having greater length than usual a long corrid...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: onestopenglish.com  
-   Link: [https://www.onestopenglish.com/your-english/your-english-word-grammar-long/550209.article](https://www.onestopenglish.com/your-english/your-english-word-grammar-long/550209.article)  
+   Link: <a href="https://www.onestopenglish.com/your-english/your-english-word-grammar-long/550209.article" target="_blank" rel="noopener noreferrer nofollow">https://www.onestopenglish.com/your-english/your-english-word-grammar-long/550209.article</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Your English: Word grammar: long | ArticleApart from its use as an adjective (and occasionally as a verb – followed by for), the word lon...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: inform.tmforum.org  
-   Link: [https://inform.tmforum.org/features-and-opinion/ai-autonomy-governance-a-governance-framework-for-agentic-ai-enabling-safe-accountable-and-scalable-autonomous-intelligence](https://inform.tmforum.org/features-and-opinion/ai-autonomy-governance-a-governance-framework-for-agentic-ai-enabling-safe-accountable-and-scalable-autonomous-intelligence)  
+   Link: <a href="https://inform.tmforum.org/features-and-opinion/ai-autonomy-governance-a-governance-framework-for-agentic-ai-enabling-safe-accountable-and-scalable-autonomous-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://inform.tmforum.org/features-and-opinion/ai-autonomy-governance-a-governance-framework-for-agentic-ai-enabling-safe-accountable-and-scalable-autonomous-intelligence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>autonomy governance (a governance framework for...Mar 19, 2026 — It outlines governance principles, risk categories, operational control...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/yoshuabengio_today-were-releasing-the-international-ai-activity-7424442271615582209-dOCq](https://www.linkedin.com/posts/yoshuabengio_today-were-releasing-the-international-ai-activity-7424442271615582209-dOCq)  
+   Link: <a href="https://www.linkedin.com/posts/yoshuabengio_today-were-releasing-the-international-ai-activity-7424442271615582209-dOCq" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/yoshuabengio_today-were-releasing-the-international-ai-activity-7424442271615582209-dOCq</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2026 International AI Safety Report: Expert Insights on...The International AI Safety Report is a global and independent scientific synt...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: linkedin.com  
    Title: foxahmed international ai safety report 2026 activity 7425985510717849601 LuAb  
-   Link: [https://www.linkedin.com/posts/foxahmed_international-ai-safety-report-2026-activity-7425985510717849601-LuAb](https://www.linkedin.com/posts/foxahmed_international-ai-safety-report-2026-activity-7425985510717849601-LuAb)  
+   Link: <a href="https://www.linkedin.com/posts/foxahmed_international-ai-safety-report-2026-activity-7425985510717849601-LuAb" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/foxahmed_international-ai-safety-report-2026-activity-7425985510717849601-LuAb</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2026 AI Safety Report: AI Risks Now Operational and...The 2026 International AI Safety Report confirms that frontier AI risks are no lon...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: linkedin.com  
    Title: part 3 5 international ai safety report 2026 [loss control](&#123;&#123; 'objections/' | relative_url &#125;&#125;) john shay bozdc  
-   Link: [https://www.linkedin.com/pulse/part-3-5-international-ai-safety-report-2026-loss-control-john-shay-bozdc](https://www.linkedin.com/pulse/part-3-5-international-ai-safety-report-2026-loss-control-john-shay-bozdc)  
+   Link: <a href="https://www.linkedin.com/pulse/part-3-5-international-ai-safety-report-2026-loss-control-john-shay-bozdc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/part-3-5-international-ai-safety-report-2026-loss-control-john-shay-bozdc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PART 3 OF 5 — International AI Safety Report 2026Loss of control — scenarios where humans can no longer reliably understand, predict, or...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: dictionary.com  
-   Link: [https://www.dictionary.com/browse/long](https://www.dictionary.com/browse/long)  
+   Link: <a href="https://www.dictionary.com/browse/long" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/long</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LONG Definition &amp; Meaningverb (used without object). to have an earnest or strong desire or craving; yearn: to long to return home. to lo...</p></details>

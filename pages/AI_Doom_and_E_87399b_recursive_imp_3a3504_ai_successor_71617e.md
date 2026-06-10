@@ -12,21 +12,21 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7
 - AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - ai-takeoff
 - successor-training
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - ai-takeoff
 - successor-training
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: The strongest intelligence explosion claim depends on whether future systems can plan, run, and verify the training of better models without humans.
 hero_summary: The strongest intelligence explosion claim depends on whether future systems can plan, run, and verify the training of better models without humans.
 layout: default
 permalink: /successor-training/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /ai-takeoff/
 nav_short_title: Successor training
 title: Could AI train the next AI itself?
@@ -213,20 +213,20 @@ parent_heading_title: Could AI Improvement Run Away From US?
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_recursive_imp_3a3504
-  title: AI Takeoff | AI Doom and
+  title: AI Takeoff | AI Doom and E 87399 b
   permalink: /ai-takeoff/
   short_title: AI Takeoff
   heading_title: Could AI Improvement Run Away From US?
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_recursive_imp_3a3504
-  title: AI Takeoff | AI Doom and
+  title: AI Takeoff | AI Doom and E 87399 b
   permalink: /ai-takeoff/
   short_title: AI Takeoff
   heading_title: Could AI Improvement Run Away From US?
@@ -264,7 +264,7 @@ child_links:
   heading_title: Is synthetic data already self improvement?
 up_link:
   basename: AI_Doom_and_E_87399b_recursive_imp_3a3504
-  title: AI Takeoff | AI Doom and
+  title: AI Takeoff | AI Doom and E 87399 b
   permalink: /ai-takeoff/
   short_title: AI Takeoff
   heading_title: Could AI Improvement Run Away From US?
@@ -288,11 +288,11 @@ image: /assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_716
 
 ## Introduction
 
-Could an AI really train the next AI itself? In a limited sense, parts of this are already happening. AI systems are increasingly used to write code, generate training data, evaluate model outputs, tune systems, and assist researchers building newer models. The more important question for [AI doom and]({{ 'ai-doom-and/' | relative_url }}) intelligence-explosion debates is whether future systems could perform *most or all* of the work needed to create a more capable successor without meaningful human involvement.
+Could an AI really train the next AI itself? In a limited sense, parts of this are already happening. AI systems are increasingly used to write code, generate training data, evaluate model outputs, tune systems, and assist researchers building newer models. The more important question for AI doom and intelligence-explosion debates is whether future systems could perform *most or all* of the work needed to create a more capable successor without meaningful human involvement.
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e-Illustration-1-dark.svg" | relative_url }}" alt="Successor training illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because many arguments about [recursive]({{ 'ai-takeoff/' | relative_url }}) AI improvement depend on such a loop existing. If an AI can substantially automate [AI research]({{ 'ai-research-loop/' | relative_url }}) and development, each generation of systems could help produce the next generation faster. If crucial human bottlenecks remain, the feedback loop may be much weaker than intelligence-explosion scenarios assume. The debate is therefore not whether AI can contribute to successor training—it already can—but whether it can eventually replace the researchers, engineers, evaluators, and decision-makers who currently drive frontier AI progress. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jack-clark.net/2026/05/04/import-ai-455-automating-ai-research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jack-clark.net">[Import AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jack-clark.net</span><span class="citation-popover-title">Import AIImport AI 455: Automating AI Research</span><span class="citation-popover-snippet">May 4, 2026 — 4 May 2026 — As of March 2026, AI systems are able to post-train models to get about half as much of the uplift as ones tra...</span><span class="citation-popover-meta">Published: May 4, 2026</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axios.com/2026/01/27/models-improve-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-snippet">This self-learning approach is attracting significant attention from both top AI labs like Google DeepMind and startups, as it promises t...</span></span></span>
+This matters because many arguments about recursive AI improvement depend on such a loop existing. If an AI can substantially automate AI research and development, each generation of systems could help produce the next generation faster. If crucial human bottlenecks remain, the feedback loop may be much weaker than intelligence-explosion scenarios assume. The debate is therefore not whether AI can contribute to successor training—it already can—but whether it can eventually replace the researchers, engineers, evaluators, and decision-makers who currently drive frontier AI progress. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jack-clark.net/2026/05/04/import-ai-455-automating-ai-research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jack-clark.net">[Import AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jack-clark.net</span><span class="citation-popover-title">Import AIImport AI 455: Automating AI Research</span><span class="citation-popover-snippet">May 4, 2026 — 4 May 2026 — As of March 2026, AI systems are able to post-train models to get about half as much of the uplift as ones tra...</span><span class="citation-popover-meta">Published: May 4, 2026</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axios.com/2026/01/27/models-improve-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-snippet">This self-learning approach is attracting significant attention from both top AI labs like Google DeepMind and startups, as it promises t...</span></span></span>
 
 ## What autonomous successor training would require
 
@@ -325,17 +325,22 @@ Many of these tasks are already being partially automated. Frontier models can w
 
 One reason successor training has become a serious topic is that several forecasting efforts now focus specifically on AI's ability to automate AI research.
 
-In 2026, Anthropic co-founder Jack Clark argued that there may be better than even odds that AI R&D becomes largely automated by the end of 2028. His argument was not that machines suddenly become magical scientists. Rather, he pointed to steady improvements in coding, experiment execution, model tuning, and other research tasks that collectively make up much of frontier AI development. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kucoin.com/news/flash/anthropic-co-founder-predicts-ai-r-d-will-become-fully-automated-by-2028" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kucoin.com">[KuCoin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kucoin.com</span><span class="citation-popover-snippet">KuCoinAnthropic co-founder predicts AI R&amp;D will become fully...5 days ago — Anthropic co-founder Jack Clark predicts that AI R&amp;D could b...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sjl.us/2026/05/08/breakout/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sjl.us">[Scott Loftesness]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sjl.us</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+In 2026, Anthropic co-founder Jack Clark argued that there may be better than even odds that AI R&D becomes largely automated by the end of 2028. His argument was not that machines suddenly become magical scientists. Rather, he pointed to steady improvements in coding, experiment execution, model tuning, and other research tasks that collectively make up much of frontier AI development. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kucoin.com/news/flash/anthropic-co-founder-predicts-ai-r-d-will-become-fully-automated-by-2028" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kucoin.com">[KuCoin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kucoin.com</span><span class="citation-popover-snippet">Anthropic co-founder predicts AI R&amp;D will become fully...5 days ago — Anthropic co-founder Jack Clark predicts that AI R&amp;D could b...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sjl.us/2026/05/08/breakout/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sjl.us">[Scott Loftesness]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sjl.us</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Related forecasting work from the research organisation METR has focused on when AI systems might automate AI development itself, treating this as a key milestone because it could create a positive feedback loop in capability growth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://metr.org/notes/2026-02-10-simpler-ai-timelines-model/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[Metr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-title">It is based on the AI Futures model,</span><span class="citation-popover-snippet">MetrA simpler AI timelines model predicts 99% AI R&amp;D...February 10, 2026 — 10 Feb 2026 — In this post, I describe a simple model for for...</span><span class="citation-popover-meta">Published: February 10, 2026</span></span></span>
+Related forecasting work from the research organisation METR has focused on when AI systems might automate AI development itself, treating this as a key milestone because it could create a positive feedback loop in capability growth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://metr.org/notes/2026-02-10-simpler-ai-timelines-model/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[Metr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-title">It is based on the AI Futures model,</span><span class="citation-popover-snippet">A simpler AI timelines model predicts 99% AI R&amp;D...February 10, 2026 — 10 Feb 2026 — In this post, I describe a simple model for for...</span><span class="citation-popover-meta">Published: February 10, 2026</span></span></span>
 
 The underlying reasoning is straightforward. If AI systems become capable enough to perform substantial fractions of AI research:
+
+
+<div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * More research can be conducted simultaneously.
 * Experiments can run continuously.
 * Engineering bottlenecks shrink.
 * New models can be developed faster.
-* Progress may increasingly depend on machine labour rather than scarce human [expertise]({{ 'expertise-erosion/' | relative_url }}).
+* Progress may increasingly depend on machine labour rather than scarce human expertise.
+
+</div>
 
 In that world, the pace of capability gains could accelerate even if no dramatic scientific breakthrough occurs. Several researchers interviewed in a 2025–26 study identified automation of AI research as one of the most important pathways through which recursive improvement could emerge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2603.03338" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv AI Researchers&#x27; Views on Automating AI R&amp;D and Intelligence Explosions</span><span class="citation-popover-snippet">arXiv AI Researchers&#x27; Views on Automating AI R&amp;D and Intelligence Explosions</span></span></span>
 
@@ -351,13 +356,13 @@ First, AI performance on software engineering tasks has improved rapidly. Benchm
 
 Second, AI-generated data is already used to improve future models. Variants of what is sometimes called the "Karpathy loop" involve models generating outputs, stronger models filtering or evaluating those outputs, and the resulting material being used to train later systems. This is not full autonomous successor training, but it is a primitive form of AI contributing to the creation of future AI. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mindstudio.ai/blog/andrej-karpathy-joins-anthropic-karpathy-loop-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mindstudio.ai">[mindstudio.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mindstudio.ai</span><span class="citation-popover-title">What the Karpathy Loop Means for AI Builders</span><span class="citation-popover-snippet">May 26, 2026 — 6 days ago — The Karpathy Loop is a recursive model improvement cycle in which AI models generate training outputs, a stro...</span><span class="citation-popover-meta">Published: May 26, 2026</span></span></span>
 
-Third, major labs increasingly use AI tools internally to accelerate development work. Some observers argue that the industry is gradually moving from "AI-assisted researchers" toward "researchers supervising AI researchers". If that trend continues, the amount of human labour required per capability advance could decline substantially. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sjl.us/2026/05/08/breakout/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sjl.us">[Scott Loftesness]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sjl.us</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/research/anthropic-institute-agenda?via=join" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-title">institute agenda</span><span class="citation-popover-snippet">AnthropicFocus areas for The Anthropic Institute7 May 2026 — Our agenda focuses on four areas for research: Economic diffusion; Threats a...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+Third, major labs increasingly use AI tools internally to accelerate development work. Some observers argue that the industry is gradually moving from "AI-assisted researchers" toward "researchers supervising AI researchers". If that trend continues, the amount of human labour required per capability advance could decline substantially. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sjl.us/2026/05/08/breakout/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sjl.us">[Scott Loftesness]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sjl.us</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/research/anthropic-institute-agenda?via=join" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-title">institute agenda</span><span class="citation-popover-snippet">Focus areas for The Anthropic Institute7 May 2026 — Our agenda focuses on four areas for research: Economic diffusion; Threats a...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 For doom-focused thinkers, the concern is not that one model instantly creates a vastly smarter successor. It is that many small automation gains accumulate until most of the research pipeline can be executed by machines.
 
 ## Where human bottlenecks may still break the loop
 
-The strongest objections focus on the difficulty of replacing humans completely.
+The strongest [objections]({{ 'objections/' | relative_url }}) focus on the difficulty of replacing humans completely.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ckbGs4F86LU" title="Recursive Self-Improvement: The AI Feedback Loop Behind the “Intelligence Explosion”" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ckbGs4F86LU" target="_blank" rel="noopener noreferrer">Recursive Self-Improvement: The AI Feedback Loop Behind the “Intelligence Explosion”</a></p><p class="youtube-embed-meta">Channel: Terra Glitch &middot; Views: 11 &middot; Uploaded: May 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ckbGs4F86LU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ckbGs4F86LU">Open on YouTube</a></p></div></div></div>
@@ -372,7 +377,7 @@ Sceptics argue that AI systems may become extremely useful research assistants w
 
 Even if an AI could design a better successor, training that successor requires enormous computing infrastructure.
 
-Data centres, specialised chips, [electricity]({{ 'power-limits/' | relative_url }}) supplies, networking equipment, and capital investment remain physical resources that cannot be conjured by software alone. Several researchers argue that compute constraints could significantly slow any recursive-improvement process. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2603.03338" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv AI Researchers&#x27; Views on Automating AI R&amp;D and Intelligence Explosions</span><span class="citation-popover-snippet">arXiv AI Researchers&#x27; Views on Automating AI R&amp;D and Intelligence Explosions</span></span></span>
+Data centres, specialised chips, electricity supplies, networking equipment, and capital investment remain physical resources that cannot be conjured by software alone. Several researchers argue that compute constraints could significantly slow any recursive-improvement process. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2603.03338" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv AI Researchers&#x27; Views on Automating AI R&amp;D and Intelligence Explosions</span><span class="citation-popover-snippet">arXiv AI Researchers&#x27; Views on Automating AI R&amp;D and Intelligence Explosions</span></span></span>
 
 This does not eliminate risk, but it suggests that capability growth may be limited by economics and infrastructure rather than pure intelligence.
 
@@ -401,7 +406,7 @@ Successor training occupies a special place in AI doom discussions because it is
 
 The strongest doom arguments do not require an AI to rewrite its own source code overnight or instantly become superintelligent. They require something more modest but potentially more plausible: AI systems gradually automating larger fractions of AI development until progress becomes increasingly machine-driven rather than human-driven. At that point, each generation of systems could help create the next generation faster than before. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2603.03338" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv AI Researchers&#x27; Views on Automating AI R&amp;D and Intelligence Explosions</span><span class="citation-popover-snippet">arXiv AI Researchers&#x27; Views on Automating AI R&amp;D and Intelligence Explosions</span></span></span> Axios Yet the evidence remains incomplete. No current system can independently run frontier AI research. Researchers disagree sharply about timelin <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axios.com/2026/01/27/models-improve-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[axios.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-snippet">This self-learning approach is attracting significant attention from both top AI labs like Google DeepMind and startups, as it promises t...</span></span></span> es, about whether automation of AI R&D would produce explosive growth, and about how much physical and organisational bottlenecks would slow the process. Interviews with leading researchers reveal substantial disagreement on exactly these questions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2603.03338" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv AI Researchers&#x27; Views on Automating AI R&amp;D and Intelligence Explosions</span><span class="citation-popover-snippet">arXiv AI Researchers&#x27; Views on Automating AI R&amp;D and Intelligence Explosions</span></span></span>
 
-The key warning sign, therefore, is not whether an AI can assist with coding or training. Those capabilities already exist. The more significant indicator would be AI systems reliably planning, executing, evaluating, and improving large-scale AI research projects with minimal human intervention. If that threshold is crossed, concerns about recursive improvement and intelligence explosion move from largely theoretical arguments to practical questions about how quickly the feedback loop can run and whether humans remain able to steer it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jack-clark.net/2026/05/04/import-ai-455-automating-ai-research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jack-clark.net">[Import AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jack-clark.net</span><span class="citation-popover-title">Import AIImport AI 455: Automating AI Research</span><span class="citation-popover-snippet">May 4, 2026 — 4 May 2026 — As of March 2026, AI systems are able to post-train models to get about half as much of the uplift as ones tra...</span><span class="citation-popover-meta">Published: May 4, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://metr.org/notes/2026-02-10-simpler-ai-timelines-model/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[Metr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-title">It is based on the AI Futures model,</span><span class="citation-popover-snippet">MetrA simpler AI timelines model predicts 99% AI R&amp;D...February 10, 2026 — 10 Feb 2026 — In this post, I describe a simple model for for...</span><span class="citation-popover-meta">Published: February 10, 2026</span></span></span>
+The key warning sign, therefore, is not whether an AI can assist with coding or training. Those capabilities already exist. The more significant indicator would be AI systems reliably planning, executing, evaluating, and improving large-scale AI research projects with minimal human intervention. If that threshold is crossed, concerns about recursive improvement and intelligence explosion move from largely theoretical arguments to practical questions about how quickly the feedback loop can run and whether humans remain able to steer it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jack-clark.net/2026/05/04/import-ai-455-automating-ai-research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jack-clark.net">[Import AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jack-clark.net</span><span class="citation-popover-title">Import AIImport AI 455: Automating AI Research</span><span class="citation-popover-snippet">May 4, 2026 — 4 May 2026 — As of March 2026, AI systems are able to post-train models to get about half as much of the uplift as ones tra...</span><span class="citation-popover-meta">Published: May 4, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://metr.org/notes/2026-02-10-simpler-ai-timelines-model/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[Metr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-title">It is based on the AI Futures model,</span><span class="citation-popover-snippet">A simpler AI timelines model predicts 99% AI R&amp;D...February 10, 2026 — 10 Feb 2026 — In this post, I describe a simple model for for...</span><span class="citation-popover-meta">Published: February 10, 2026</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -489,7 +494,7 @@ The key warning sign, therefore, is not whether an AI can assist with coding or 
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -499,111 +504,36 @@ The key warning sign, therefore, is not whether an AI can assist with coding or 
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=successor-training-could-ai-train-the-next-ai-itself-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16&quot; FHD IPS Triple Screen Laptop Extender USB C HDMI Plug Play Win Mac Chrome"><img src="{{ '/assets/images/marketplace-covers/d6fbedf7d4099a542581.jpg' | relative_url }}" alt="Listing image for 16&quot; FHD IPS Triple Screen Laptop Extender USB C HDMI Plug Play Win Mac Chrome" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-train-the-next-ai-itself-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="could-ai-train-the-next-ai-itself-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. Artificial Intelligence Movie Film Poster Art Print"><img src="https://i.ebayimg.com/images/g/QBAAAOSwKr5m~RI5/s-l225.jpg" alt="Listing image for A.I. Artificial Intelligence Movie Film Poster Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=successor-training-could-ai-train-the-next-ai-itself-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">16&quot; FHD IPS Triple Screen Laptop Extender USB C HDMI Plug Play Win Mac Chrome</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-train-the-next-ai-itself-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="could-ai-train-the-next-ai-itself-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">A.I. Artificial Intelligence Movie Film Poster Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=successor-training-could-ai-train-the-next-ai-itself-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip display">Search <span data-ebay-domain-label>eBay.com</span>: computer chip display</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-train-the-next-ai-itself-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="could-ai-train-the-next-ai-itself-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=successor-training-could-ai-train-the-next-ai-itself-ai-doom-and-computer-chip-display&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=successor-training-could-ai-train-the-next-ai-itself-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HD1920*1200 Computer Laptop TV LCD/LED Test Tool Panel Tester Support 7&quot;-84&quot;"><img src="{{ '/assets/images/marketplace-covers/ab5cf6d467336249110f.jpg' | relative_url }}" alt="Listing image for HD1920*1200 Computer Laptop TV LCD/LED Test Tool Panel Tester Support 7&quot;-84&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=successor-training-could-ai-train-the-next-ai-itself-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">HD1920*1200 Computer Laptop TV LCD/LED Test Tool Panel Tester Support 7&quot;-84&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=successor-training-could-ai-train-the-next-ai-itself-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip display">Search <span data-ebay-domain-label>eBay.com</span>: computer chip display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=successor-training-could-ai-train-the-next-ai-itself-ai-doom-and-computer-chip-display&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=successor-training-could-ai-train-the-next-ai-itself-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DIY Electronic Calculator Kit with LED Digital Tube Display and"><img src="{{ '/assets/images/marketplace-covers/895afc544c6eaae59255.jpg' | relative_url }}" alt="Listing image for DIY Electronic Calculator Kit with LED Digital Tube Display and" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=successor-training-could-ai-train-the-next-ai-itself-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">DIY Electronic Calculator Kit with LED Digital Tube Display and</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=successor-training-could-ai-train-the-next-ai-itself-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip display">Search <span data-ebay-domain-label>eBay.com</span>: computer chip display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=successor-training-could-ai-train-the-next-ai-itself-ai-doom-and-computer-chip-display&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=successor-training-could-ai-train-the-next-ai-itself-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SuperChips Computer Chip Handheld Monitor for 21-24 Ford Bronco"><img src="{{ '/assets/images/marketplace-covers/a7b51e30a1c9debd9491.jpg' | relative_url }}" alt="Listing image for SuperChips Computer Chip Handheld Monitor for 21-24 Ford Bronco" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=successor-training-could-ai-train-the-next-ai-itself-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SuperChips Computer Chip Handheld Monitor for 21-24 Ford Bronco</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=successor-training-could-ai-train-the-next-ai-itself-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip display">Search <span data-ebay-domain-label>eBay.com</span>: computer chip display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=successor-training-could-ai-train-the-next-ai-itself-ai-doom-and-computer-chip-display&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=successor-training-could-ai-train-the-next-ai-itself-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=successor-training-could-ai-train-the-next-ai-itself-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray"><img src="{{ '/assets/images/marketplace-covers/3c3ecd285cbeae3cd708.jpg' | relative_url }}" alt="Listing image for AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=successor-training-could-ai-train-the-next-ai-itself-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=successor-training-could-ai-train-the-next-ai-itself-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=successor-training-could-ai-train-the-next-ai-itself-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-train-the-next-ai-itself-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="could-ai-train-the-next-ai-itself-artificial-intelligence-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -611,15 +541,15 @@ The key warning sign, therefore, is not whether an AI can assist with coding or 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=successor-training-could-ai-train-the-next-ai-itself-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. Artificial Intelligence Movie Film Poster Art Print"><img src="{{ '/assets/images/marketplace-covers/fb76514b204d73a37317.jpg' | relative_url }}" alt="Listing image for A.I. Artificial Intelligence Movie Film Poster Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-train-the-next-ai-itself-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="could-ai-train-the-next-ai-itself-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. ARTIFICIAL INTELLIGENCE CAST SIGNED 12x18 OFFICIAL MOVIE POSTER PHOTO w/COA"><img src="https://i.ebayimg.com/images/g/PB4AAOSwvjBbEZSm/s-l225.jpg" alt="Listing image for A.I. ARTIFICIAL INTELLIGENCE CAST SIGNED 12x18 OFFICIAL MOVIE POSTER PHOTO w/COA" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=successor-training-could-ai-train-the-next-ai-itself-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A.I. Artificial Intelligence Movie Film Poster Art Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-train-the-next-ai-itself-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="could-ai-train-the-next-ai-itself-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">A.I. ARTIFICIAL INTELLIGENCE CAST SIGNED 12x18 OFFICIAL MOVIE POSTER PHOTO w/COA</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=successor-training-could-ai-train-the-next-ai-itself-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-train-the-next-ai-itself-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="could-ai-train-the-next-ai-itself-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=successor-training-could-ai-train-the-next-ai-itself-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-train-the-next-ai-itself-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="could-ai-train-the-next-ai-itself-artificial-intelligence-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -627,15 +557,15 @@ The key warning sign, therefore, is not whether an AI can assist with coding or 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=successor-training-could-ai-train-the-next-ai-itself-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery"><img src="{{ '/assets/images/marketplace-covers/fe6f721a300e36459934.jpg' | relative_url }}" alt="Listing image for A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-train-the-next-ai-itself-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="could-ai-train-the-next-ai-itself-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery"><img src="https://i.ebayimg.com/images/g/-PcAAeSw5GNqCPEC/s-l225.jpg" alt="Listing image for A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=successor-training-could-ai-train-the-next-ai-itself-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-train-the-next-ai-itself-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="could-ai-train-the-next-ai-itself-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=successor-training-could-ai-train-the-next-ai-itself-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-train-the-next-ai-itself-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="could-ai-train-the-next-ai-itself-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=successor-training-could-ai-train-the-next-ai-itself-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-train-the-next-ai-itself-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="could-ai-train-the-next-ai-itself-artificial-intelligence-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -643,15 +573,15 @@ The key warning sign, therefore, is not whether an AI can assist with coding or 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=successor-training-could-ai-train-the-next-ai-itself-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ccd8b5ee633357b5409d.jpg' | relative_url }}" alt="Listing image for Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-train-the-next-ai-itself-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="could-ai-train-the-next-ai-itself-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray"><img src="https://i.ebayimg.com/images/g/4~UAAeSwCm1p-6Qa/s-l225.jpg" alt="Listing image for AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=successor-training-could-ai-train-the-next-ai-itself-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-train-the-next-ai-itself-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="could-ai-train-the-next-ai-itself-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=successor-training-could-ai-train-the-next-ai-itself-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-train-the-next-ai-itself-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="could-ai-train-the-next-ai-itself-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=successor-training-could-ai-train-the-next-ai-itself-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-train-the-next-ai-itself-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="could-ai-train-the-next-ai-itself-artificial-intelligence-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -659,7 +589,7 @@ The key warning sign, therefore, is not whether an AI can assist with coding or 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=successor-training-could-ai-train-the-next-ai-itself-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-train-the-next-ai-itself-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="could-ai-train-the-next-ai-itself-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -736,17 +666,31 @@ The key warning sign, therefore, is not whether an AI can assist with coding or 
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -759,42 +703,73 @@ The key warning sign, therefore, is not whether an AI can assist with coding or 
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -809,253 +784,257 @@ The key warning sign, therefore, is not whether an AI can assist with coding or 
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: jack-clark.net  
    Title: Import AIImport AI 455: Automating AI Research  
-   Link: [https://jack-clark.net/2026/05/04/import-ai-455-automating-ai-research/](https://jack-clark.net/2026/05/04/import-ai-455-automating-ai-research/)  
+   Link: <a href="https://jack-clark.net/2026/05/04/import-ai-455-automating-ai-research/" target="_blank" rel="noopener noreferrer nofollow">https://jack-clark.net/2026/05/04/import-ai-455-automating-ai-research/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 4, 2026 — 4 May 2026 — As of March 2026, AI systems are able to post-train models to get about half as much of the uplift as ones tra...</p></details>
    Published: May 4, 2026  
 
 2. <a id="endnote-2"></a>
    Source: axios.com  
-   Link: [https://www.axios.com/2026/01/27/models-improve-ai](https://www.axios.com/2026/01/27/models-improve-ai)  
+   Link: <a href="https://www.axios.com/2026/01/27/models-improve-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2026/01/27/models-improve-ai</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This self-learning approach is attracting significant attention from both top AI labs like Google DeepMind and startups, as it promises t...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv AI Researchers' Views on Automating AI R&D and Intelligence Explosions  
-   Link: [https://arxiv.org/abs/2603.03338](https://arxiv.org/abs/2603.03338)  
+   Link: <a href="https://arxiv.org/abs/2603.03338" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.03338</a>  
 
 4. <a id="endnote-4"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/fciucci_the-2026-state-of-ai-agents-report-by-anthropic-activity-7414680232613527552-K3CN](https://www.linkedin.com/posts/fciucci_the-2026-state-of-ai-agents-report-by-anthropic-activity-7414680232613527552-K3CN)  
+   Link: <a href="https://www.linkedin.com/posts/fciucci_the-2026-state-of-ai-agents-report-by-anthropic-activity-7414680232613527552-K3CN" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/fciucci_the-2026-state-of-ai-agents-report-by-anthropic-activity-7414680232613527552-K3CN</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 2026 State of AI Agents Report by Anthropic ClaudeCode agents handle multi-step development workflows, not just code completion: plan...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: kucoin.com  
-   Link: [https://www.kucoin.com/news/flash/anthropic-co-founder-predicts-ai-r-d-will-become-fully-automated-by-2028](https://www.kucoin.com/news/flash/anthropic-co-founder-predicts-ai-r-d-will-become-fully-automated-by-2028)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>KuCoinAnthropic co-founder predicts AI R&amp;D will become fully...5 days ago — Anthropic co-founder Jack Clark predicts that AI R&amp;D could b...</p></details>
+   Link: <a href="https://www.kucoin.com/news/flash/anthropic-co-founder-predicts-ai-r-d-will-become-fully-automated-by-2028" target="_blank" rel="noopener noreferrer nofollow">https://www.kucoin.com/news/flash/anthropic-co-founder-predicts-ai-r-d-will-become-fully-automated-by-2028</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic co-founder predicts AI R&amp;D will become fully...5 days ago — Anthropic co-founder Jack Clark predicts that AI R&amp;D could b...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: axios.com  
-   Link: [https://www.axios.com/2026/05/07/anthropic-jack-clark-ai-intelligence-explosion](https://www.axios.com/2026/05/07/anthropic-jack-clark-ai-intelligence-explosion)  
+   Link: <a href="https://www.axios.com/2026/05/07/anthropic-jack-clark-ai-intelligence-explosion" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2026/05/07/anthropic-jack-clark-ai-intelligence-explosion</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Co-founder Jack Clark predicts a greater than 60% chance that by 2028, an AI system could autonomously build a better version of itself...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: metr.org  
    Title: It is based on the AI Futures model,  
-   Link: [https://metr.org/notes/2026-02-10-simpler-ai-timelines-model/](https://metr.org/notes/2026-02-10-simpler-ai-timelines-model/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MetrA simpler [AI timelines](&amp;#123;&amp;#123; &#x27;timeline-effects/&#x27; | relative_url &amp;#125;&amp;#125;) model predicts 99% AI R&amp;D...February 10, 2026 — 10 Feb 2026 — In this post, I describe a simple model for for...</p></details>
+   Link: <a href="https://metr.org/notes/2026-02-10-simpler-ai-timelines-model/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/notes/2026-02-10-simpler-ai-timelines-model/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A simpler AI timelines model predicts 99% AI R&amp;D...February 10, 2026 — 10 Feb 2026 — In this post, I describe a simple model for for...</p></details>
    Published: February 10, 2026  
 
 8. <a id="endnote-8"></a>
    Source: importai.substack.com  
    Title: A I systems are about to start building themselves  
-   Link: [https://importai.substack.com/p/import-ai-455-automating-ai-research](https://importai.substack.com/p/import-ai-455-automating-ai-research)  
+   Link: <a href="https://importai.substack.com/p/import-ai-455-automating-ai-research" target="_blank" rel="noopener noreferrer nofollow">https://importai.substack.com/p/import-ai-455-automating-ai-research</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Import AI 455May 4, 2026 — Solving real-world software engineering problems: SWE-Bench is a widely used coding test which evaluates how w...</p></details>
    Published: May 4, 2026  
 
 9. <a id="endnote-9"></a>
    Source: mindstudio.ai  
    Title: What the Karpathy Loop Means for AI Builders  
-   Link: [https://www.mindstudio.ai/blog/andrej-karpathy-joins-anthropic-karpathy-loop-explained/](https://www.mindstudio.ai/blog/andrej-karpathy-joins-anthropic-karpathy-loop-explained/)  
+   Link: <a href="https://www.mindstudio.ai/blog/andrej-karpathy-joins-anthropic-karpathy-loop-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.mindstudio.ai/blog/andrej-karpathy-joins-anthropic-karpathy-loop-explained/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 26, 2026 — 6 days ago — The Karpathy Loop is a recursive model improvement cycle in which AI models generate training outputs, a stro...</p></details>
    Published: May 26, 2026  
 
 10. <a id="endnote-10"></a>
    Source: anthropic.com  
    Title: institute agenda  
-   Link: [https://www.anthropic.com/research/anthropic-institute-agenda?via=join](https://www.anthropic.com/research/anthropic-institute-agenda?via=join)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AnthropicFocus areas for The Anthropic Institute7 May 2026 — Our agenda focuses on four areas for research: Economic diffusion; Threats a...</p></details>
+   Link: <a href="https://www.anthropic.com/research/anthropic-institute-agenda?via=join" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/research/anthropic-institute-agenda?via=join</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Focus areas for The Anthropic Institute7 May 2026 — Our agenda focuses on four areas for research: Economic diffusion; Threats a...</p></details>
    Published: May 2026  
 
 11. <a id="endnote-11"></a>
    Source: arxiv.org  
    Title: arXiv Will Compute Bottlenecks Prevent an Intelligence Explosion?  
-   Link: [https://arxiv.org/abs/2507.23181](https://arxiv.org/abs/2507.23181)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivWill Compute Bottlenecks Prevent an Intelligence Explosion?July 31, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2507.23181" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2507.23181</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Will Compute Bottlenecks Prevent an Intelligence Explosion?July 31, 2025...</p></details>
    Published: July 31, 2025  
 
 12. <a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2511.10668](https://arxiv.org/abs/2511.10668)  
+   Link: <a href="https://arxiv.org/abs/2511.10668" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2511.10668</a>  
 
 13. <a id="endnote-13"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/andrew-hall-40a88444_ai-models-have-gotten-so-good-that-we-no-activity-7423413030778118144-WK2m](https://www.linkedin.com/posts/andrew-hall-40a88444_ai-models-have-gotten-so-good-that-we-no-activity-7423413030778118144-WK2m)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LinkedInAI Models&#x27; Recursive Improvement: Challenges and...January 31, 2026 — AI models have gotten so good that we no longer know how t...</p></details>
+   Link: <a href="https://www.linkedin.com/posts/andrew-hall-40a88444_ai-models-have-gotten-so-good-that-we-no-activity-7423413030778118144-WK2m" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/andrew-hall-40a88444_ai-models-have-gotten-so-good-that-we-no-activity-7423413030778118144-WK2m</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Models&#x27; Recursive Improvement: Challenges and...January 31, 2026 — AI models have gotten so good that we no longer know how t...</p></details>
    Published: January 31, 2026  
 
 14. <a id="endnote-14"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2605.06390v3](https://arxiv.org/html/2605.06390v3)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivAutomated Alignment is Harder Than You Think14 May 2026 — A leading proposal for aligning [artificial](&amp;#123;&amp;#123; &#x27;artificial-goals/&#x27; | relative_url &amp;#125;&amp;#125;) superintelligence (ASI) is to u...</p></details>
+   Link: <a href="https://arxiv.org/html/2605.06390v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2605.06390v3</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Automated Alignment is Harder Than You Think14 May 2026 — A leading proposal for aligning artificial superintelligence (ASI) is to u...</p></details>
    Published: May 2026  
 
 15. <a id="endnote-15"></a>
    Source: anthropic.com  
-   Link: [https://www.anthropic.com/research](https://www.anthropic.com/research)  
+   Link: <a href="https://www.anthropic.com/research" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/research</a>  
 
 16. <a id="endnote-16"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/sekoul_theres-a-pretty-clean-way-to-track-how-capable-activity-7457836671393439745-gC_O](https://www.linkedin.com/posts/sekoul_theres-a-pretty-clean-way-to-track-how-capable-activity-7457836671393439745-gC_O)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Autonomy Grows 10x Per Year, Successor Training...Which leads to his core claim: there&#x27;s a 60%+ chance that by end of 2028, an AI sys...</p></details>
+   Link: <a href="https://www.linkedin.com/posts/sekoul_theres-a-pretty-clean-way-to-track-how-capable-activity-7457836671393439745-gC_O" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/sekoul_theres-a-pretty-clean-way-to-track-how-capable-activity-7457836671393439745-gC_O</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI [Autonomy](&amp;#123;&amp;#123; &#x27;autonomy/&#x27; | relative_url &amp;#125;&amp;#125;) Grows 10x Per Year, Successor Training...Which leads to his core claim: there&#x27;s a 60%+ chance that by end of 2028, an AI sys...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/matthewsavarick_the-ceo-of-anthropic-just-said-the-quiet-activity-7429530623226052609-4n2W](https://www.linkedin.com/posts/matthewsavarick_the-ceo-of-anthropic-just-said-the-quiet-activity-7429530623226052609-4n2W)  
+   Link: <a href="https://www.linkedin.com/posts/matthewsavarick_the-ceo-of-anthropic-just-said-the-quiet-activity-7429530623226052609-4n2W" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/matthewsavarick_the-ceo-of-anthropic-just-said-the-quiet-activity-7429530623226052609-4n2W</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dario Amodei predicts AI surpassing humans by 2026-2027believes AI systems smarter than the best humans in almost everything could arrive...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: anthropic.com  
-   Link: [https://www.anthropic.com/](https://www.anthropic.com/)  
+   Link: <a href="https://www.anthropic.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/</a>  
 
 19. <a id="endnote-19"></a>
    Source: anthropic.com  
-   Link: [https://www.anthropic.com/economic-index](https://www.anthropic.com/economic-index)  
+   Link: <a href="https://www.anthropic.com/economic-index" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/economic-index</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic Economic Index: Understanding AI&#x27;s effects...Mar 24, 2026 — The Anthropic Economic Index reveals the shape of AI adoption acro...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: mindstudio.ai  
    Title: What Is Recursive Self-Improvement in AI?  
-   Link: [https://www.mindstudio.ai/blog/what-is-recursive-self-improvement-ai-intelligence-explosion/](https://www.mindstudio.ai/blog/what-is-recursive-self-improvement-ai-intelligence-explosion/)  
+   Link: <a href="https://www.mindstudio.ai/blog/what-is-recursive-self-improvement-ai-intelligence-explosion/" target="_blank" rel="noopener noreferrer nofollow">https://www.mindstudio.ai/blog/what-is-recursive-self-improvement-ai-intelligence-explosion/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Intelligence...13 May 2026 — Recursive self-improvement is when AI builds its own successor without human input. Learn what it means...</p></details>
    Published: May 2026  
 
 21. <a id="endnote-21"></a>
    Source: intelligence.org  
    Title: thoughts on ai 2027  
-   Link: [https://intelligence.org/2025/04/09/thoughts-on-ai-2027/](https://intelligence.org/2025/04/09/thoughts-on-ai-2027/)  
+   Link: <a href="https://intelligence.org/2025/04/09/thoughts-on-ai-2027/" target="_blank" rel="noopener noreferrer nofollow">https://intelligence.org/2025/04/09/thoughts-on-ai-2027/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Apr 9, 2025 — One of the core things I think AI 2027 does right is put their emphasis on recursive self-improvement (RSI). I see a lot of...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: businessinsider.com  
    Title: Business Insider Why AI hasn't replaced every 'automatable' job  
-   Link: [https://www.businessinsider.com/why-ai-hasnt-replaced-every-automatable-job-yet-2026-5](https://www.businessinsider.com/why-ai-hasnt-replaced-every-automatable-job-yet-2026-5)  
+   Link: <a href="https://www.businessinsider.com/why-ai-hasnt-replaced-every-automatable-job-yet-2026-5" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/why-ai-hasnt-replaced-every-automatable-job-yet-2026-5</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>According to Benjamin Todd, president of 80,000 Hours, the reason lies in AI&#x27;s current limitations—it often automates only parts of a job...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: sjl.us  
-   Link: [https://sjl.us/2026/05/08/breakout/](https://sjl.us/2026/05/08/breakout/)  
+   Link: <a href="https://sjl.us/2026/05/08/breakout/" target="_blank" rel="noopener noreferrer nofollow">https://sjl.us/2026/05/08/breakout/</a>  
 
 24. <a id="endnote-24"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Anthropic](https://en.wikipedia.org/wiki/Anthropic)  
+   Link: <a href="https://en.wikipedia.org/wiki/Anthropic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anthropic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AnthropicAnthropic is an American artificial intelligence (AI) company headquartered in San Francisco. It has developed a range of lar...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: businessinsider.com  
    Title: openai safety team ai self improvement challenge job 2026 5  
-   Link: [https://www.businessinsider.com/openai-safety-team-ai-self-improvement-challenge-job-2026-5](https://www.businessinsider.com/openai-safety-team-ai-self-improvement-challenge-job-2026-5)  
+   Link: <a href="https://www.businessinsider.com/openai-safety-team-ai-self-improvement-challenge-job-2026-5" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/openai-safety-team-ai-self-improvement-challenge-job-2026-5</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OpenAI Hires in Preparation for AI That Could Train Itself23 May 2026 — OpenAI and Sam Altman aim to automate AI research. They are now h...</p></details>
    Published: May 2026  
 
 26. <a id="endnote-26"></a>
    Source: instagram.com  
    Title: Anthropic just put a number on the intelligence explosion  
-   Link: [https://www.instagram.com/p/DYyuuKWRKAm/](https://www.instagram.com/p/DYyuuKWRKAm/)  
+   Link: <a href="https://www.instagram.com/p/DYyuuKWRKAm/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYyuuKWRKAm/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>He warned of a 60% chance an AI will fully train its successor by 2028, leading to a possible &quot;intelligence explosion.&quot; Clark also mentio...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: anthropic.skilljar.com  
-   Link: [https://anthropic.skilljar.com/](https://anthropic.skilljar.com/)  
+   Link: <a href="https://anthropic.skilljar.com/" target="_blank" rel="noopener noreferrer nofollow">https://anthropic.skilljar.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CoursesThis course empowers students to develop AI Fluency skills that enhance learning, career planning, and academic success through re...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: forbes.com  
-   Link: [https://www.forbes.com/sites/anishasircar/2026/01/28/anthropic-ceo-warns-superhuman-ai-could-arrive-by-2027-with-civilization-level-risks/](https://www.forbes.com/sites/anishasircar/2026/01/28/anthropic-ceo-warns-superhuman-ai-could-arrive-by-2027-with-civilization-level-risks/)  
+   Link: <a href="https://www.forbes.com/sites/anishasircar/2026/01/28/anthropic-ceo-warns-superhuman-ai-could-arrive-by-2027-with-civilization-level-risks/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/anishasircar/2026/01/28/anthropic-ceo-warns-superhuman-ai-could-arrive-by-2027-with-civilization-level-risks/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic CEO Warns Superhuman AI Could Arrive By...Jan 28, 2026 — Dario Amodei warns that superhuman AI arriving within two years could...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/pivotwealth/posts/anthropic-just-accidentally-leaked-their-most-advanced-ai-model-and-it-makes-the/1555832719883872/](https://www.facebook.com/pivotwealth/posts/anthropic-just-accidentally-leaked-their-most-advanced-ai-model-and-it-makes-the/1555832719883872/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the current one look outdated. The same [current model](&amp;#123;&amp;#123; &#x27;current-models/&#x27; | relative_url &amp;#125;&amp;#125;) that already...</p></details>
+   Link: <a href="https://www.facebook.com/pivotwealth/posts/anthropic-just-accidentally-leaked-their-most-advanced-ai-model-and-it-makes-the/1555832719883872/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/pivotwealth/posts/anthropic-just-accidentally-leaked-their-most-advanced-ai-model-and-it-makes-the/1555832719883872/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>the current one look outdated. The same current model that already...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: the-decoder.com  
-   Link: [https://the-decoder.com/anthropic-co-founder-maps-out-how-recursive-ai-improvement-could-outpace-the-humans-meant-to-supervise-it/](https://the-decoder.com/anthropic-co-founder-maps-out-how-recursive-ai-improvement-could-outpace-the-humans-meant-to-supervise-it/)  
+   Link: <a href="https://the-decoder.com/anthropic-co-founder-maps-out-how-recursive-ai-improvement-could-outpace-the-humans-meant-to-supervise-it/" target="_blank" rel="noopener noreferrer nofollow">https://the-decoder.com/anthropic-co-founder-maps-out-how-recursive-ai-improvement-could-outpace-the-humans-meant-to-supervise-it/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic co-founder maps out how recursive AI improvement...5 May 2026 — Jack Clark argues in a long essay that the building blocks for...</p></details>
    Published: May 2026  
 
 31. <a id="endnote-31"></a>
    Source: x.com  
-   Link: [https://x.com/AnthropicAI](https://x.com/AnthropicAI)  
+   Link: <a href="https://x.com/AnthropicAI" target="_blank" rel="noopener noreferrer nofollow">https://x.com/AnthropicAI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic (@AnthropicAI) / Posts / XAnthropic✓... We&#x27;re an AI safety and research company that builds reliable, interpretable, and steer...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: forklog.com  
    Title: anthropic co founder forecasts self developing ai by 2028  
-   Link: [https://forklog.com/en/anthropic-co-founder-forecasts-self-developing-ai-by-2028/](https://forklog.com/en/anthropic-co-founder-forecasts-self-developing-ai-by-2028/)  
+   Link: <a href="https://forklog.com/en/anthropic-co-founder-forecasts-self-developing-ai-by-2028/" target="_blank" rel="noopener noreferrer nofollow">https://forklog.com/en/anthropic-co-founder-forecasts-self-developing-ai-by-2028/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic co-founder forecasts &#x27;self-developing AI&#x27; by 20285 May 2026 — By 2028, AI systems capable of designing and training their own s...</p></details>
    Published: May 2026  
 
 ### Additional References
 
 33. <a id="endnote-33"></a>
-   Source: situational-awareness.ai  
-   Link: [https://situational-awareness.ai/superalignment/](https://situational-awareness.ai/superalignment/)  
+   Source: situational-[awareness](&#123;&#123; 'awareness/' | relative_url &#125;&#125;). ai  
+   Link: <a href="https://situational-awareness.ai/superalignment/" target="_blank" rel="noopener noreferrer nofollow">https://situational-awareness.ai/superalignment/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IIIc. SuperalignmentOur current alignment techniques (methods to ensure we can reliably control, steer, and trust AI systems) won&#x27;t scale...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/technology/2026/jan/06/leading-ai-expert-delays-timeline-possible-destruction-humanity](https://www.theguardian.com/technology/2026/jan/06/leading-ai-expert-delays-timeline-possible-destruction-humanity)  
+   Link: <a href="https://www.theguardian.com/technology/2026/jan/06/leading-ai-expert-delays-timeline-possible-destruction-humanity" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2026/jan/06/leading-ai-expert-delays-timeline-possible-destruction-humanity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Previously, in his widely discussed &quot;AI 2027&quot; scenario, Kokotajlo predicted that AI would achieve fully autonomous coding by 2027 and the...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: forethought.org  
-   Link: [https://www.forethought.org/research/will-ai-r-and-d-automation-cause-a-software-intelligence-explosion](https://www.forethought.org/research/will-ai-r-and-d-automation-cause-a-software-intelligence-explosion)  
+   Link: <a href="https://www.forethought.org/research/will-ai-r-and-d-automation-cause-a-software-intelligence-explosion" target="_blank" rel="noopener noreferrer nofollow">https://www.forethought.org/research/will-ai-r-and-d-automation-cause-a-software-intelligence-explosion</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>earch, feedback loops could overcome diminishing returns, significantly accelerating AI progress.Read more...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: medium.com  
    Title: flourishing an optimistic alternative to ai 2027 0fed085a6863  
-   Link: [https://medium.com/%40papricaalison/flourishing-an-optimistic-alternative-to-ai-2027-0fed085a6863](https://medium.com/%40papricaalison/flourishing-an-optimistic-alternative-to-ai-2027-0fed085a6863)  
+   Link: <a href="https://medium.com/%40papricaalison/flourishing-an-optimistic-alternative-to-ai-2027-0fed085a6863" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40papricaalison/flourishing-an-optimistic-alternative-to-ai-2027-0fed085a6863</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Flourishing — An Optimistic Alternative to AI 2027Occurrence 2: Automated AI R&amp;D leads to self-improving ASIs. · AI 2027 forecast impact...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: instagram.com  
    Title: The timeline for AI autonomy just accelerated drastically  
-   Link: [https://www.instagram.com/reel/DY44llOxyML/](https://www.instagram.com/reel/DY44llOxyML/)  
+   Link: <a href="https://www.instagram.com/reel/DY44llOxyML/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DY44llOxyML/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>co-founder Jack Clark believes there&#x27;s a serious possibility that, by 2028, AI systems could start developing better su...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: lesswrong.com  
    Title: ais will greatly change engineering in ai companies well  
-   Link: [https://www.lesswrong.com/posts/uRdJio8pnTqHpWa4t/ais-will-greatly-change-engineering-in-ai-companies-well](https://www.lesswrong.com/posts/uRdJio8pnTqHpWa4t/ais-will-greatly-change-engineering-in-ai-companies-well)  
+   Link: <a href="https://www.lesswrong.com/posts/uRdJio8pnTqHpWa4t/ais-will-greatly-change-engineering-in-ai-companies-well" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/posts/uRdJio8pnTqHpWa4t/ais-will-greatly-change-engineering-in-ai-companies-well</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>complete tasks that take top human research... (This could even happen before full AI R&amp;D automation but after automation of research...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: instagram.com  
    Title: G V on Instagram: "What if AI could improve itself?  
-   Link: [https://www.instagram.com/reel/DYVC5FZGALK/](https://www.instagram.com/reel/DYVC5FZGALK/)  
+   Link: <a href="https://www.instagram.com/reel/DYVC5FZGALK/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYVC5FZGALK/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>That&#x27;s the...The core idea is called open-endedness—AI systems that co-evolve by constantly challenging each other, like biological evol...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: blog.redwoodresearch.org  
    Title: whats up with anthropic predicting  
-   Link: [https://blog.redwoodresearch.org/p/whats-up-with-anthropic-predicting](https://blog.redwoodresearch.org/p/whats-up-with-anthropic-predicting)  
+   Link: <a href="https://blog.redwoodresearch.org/p/whats-up-with-anthropic-predicting" target="_blank" rel="noopener noreferrer nofollow">https://blog.redwoodresearch.org/p/whats-up-with-anthropic-predicting</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>redwoodresearch.orgWhat&#x27;s up with Anthropic predicting AGI by early 2027?Nov 3, 2025 — As far as I&#x27;m aware, Anthropic is the only AI comp...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=ckbGs4F86LU](https://www.youtube.com/watch?v=ckbGs4F86LU)  
+   Link: <a href="https://www.youtube.com/watch?v=ckbGs4F86LU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ckbGs4F86LU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The AI Intelligence Explosion: Why Recursive Self-Improvement Changes Everything...</p></details>
 
 42. <a id="endnote-42"></a>
    Source: youtube.com  
    Title: The AI Intelligence Explosion: Why Recursive Self-Improvement Changes Everything  
-   Link: [https://www.youtube.com/watch?v=xRQQFCWhobc](https://www.youtube.com/watch?v=xRQQFCWhobc)  
+   Link: <a href="https://www.youtube.com/watch?v=xRQQFCWhobc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xRQQFCWhobc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>They FINALLY Made an AI That Doesn&#x27;t Need Us Anymore... SELF-TRAINED and No Limits...</p></details>

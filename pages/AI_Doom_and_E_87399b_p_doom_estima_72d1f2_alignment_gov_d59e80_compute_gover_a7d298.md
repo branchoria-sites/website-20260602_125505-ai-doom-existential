@@ -7,21 +7,21 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d59e80_ai_researcher_c2f0e9
 - AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d59e80_frontier_ai_e_84b246
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - p-doom
 - compute-limits
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - p-doom
 - compute-limits
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: Limits on the biggest AI training runs are often proposed as a way to slow dangerous capability races.
 hero_summary: Limits on the biggest AI training runs are often proposed as a way to slow dangerous capability races.
 layout: default
 permalink: /compute-limits-aa7e79/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /p-doom/
 - /alignment-governance/
 nav_short_title: Compute Limits
@@ -209,10 +209,10 @@ parent_heading_title: How Safety and Governance Shape AI Doom Forecasts
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_p_doom_estima_72d1f2
-  title: P Doom | AI Doom and
+  title: P Doom | AI Doom and E 87399 b
   permalink: /p-doom/
   short_title: P Doom
   heading_title: What Does p(doom) Really Mean?
@@ -224,10 +224,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_p_doom_estima_72d1f2
-  title: P Doom | AI Doom and
+  title: P Doom | AI Doom and E 87399 b
   permalink: /p-doom/
   short_title: P Doom
   heading_title: What Does p(doom) Really Mean?
@@ -273,11 +273,11 @@ image: /assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d5
 
 ## Introduction
 
-One reason some researchers assign a lower p(doom)—the estimated probability that advanced AI causes existential catastrophe—is that they believe governments could slow or shape the development of the most powerful systems through compute [governance]({{ 'governance/' | relative_url }}). In this context, "compute" means the specialised computing power needed to train and run frontier AI models. Because the largest AI systems require enormous quantities of advanced chips, [electricity]({{ 'power-limits/' | relative_url }}), data-centre capacity, and capital, some analysts argue that compute is one of the few practical choke points available to policymakers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.governance.ai/Computing_Power_and_the_Governance_of_AI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.governance.ai">[cdn.governance.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.governance.ai</span><span class="citation-popover-title">Computing Power and the Governance of Artificial</span><span class="citation-popover-snippet">February 13, 2024 — 14 Feb 2024 — Computing power, or &quot;compute,&quot; is crucial for the development and deployment of artificial intelligence...</span><span class="citation-popover-meta">Published: February 13, 2024</span></span></span>
+One reason some researchers assign a lower p(doom)—the estimated probability that advanced AI causes existential catastrophe—is that they believe governments could slow or shape the development of the most powerful systems through compute [governance]({{ 'governance/' | relative_url }}). In this context, "compute" means the specialised computing power needed to train and run frontier AI models. Because the largest AI systems require enormous quantities of advanced chips, electricity, data-centre capacity, and capital, some analysts argue that compute is one of the few practical choke points available to policymakers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.governance.ai/Computing_Power_and_the_Governance_of_AI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.governance.ai">[cdn.governance.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.governance.ai</span><span class="citation-popover-title">Computing Power and the Governance of Artificial</span><span class="citation-popover-snippet">February 13, 2024 — 14 Feb 2024 — Computing power, or &quot;compute,&quot; is crucial for the development and deployment of artificial intelligence...</span><span class="citation-popover-meta">Published: February 13, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d59e80_compute_gover_a7d298-Illustration-1-dark.svg" | relative_url }}" alt="Compute Limits illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d59e80_compute_gover_a7d298-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d59e80_compute_gover_a7d298-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The core idea is straightforward. If the most dangerous capabilities emerge only after very large training runs, then monitoring and regulating those runs could provide warning time, enable safety [evaluations]({{ 'evaluations/' | relative_url }}), reduce competitive pressure, and make it harder for reckless or malicious actors to develop frontier systems. Under that view, effective compute governance could lower p(doom) by reducing the chances of an uncontrolled AI race. Critics, however, argue that enforcement may be difficult, international coordination may fail, and technical changes could weaken compute-based controls over time. Institute for Law & AI <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lawfaremedia.org/article/to-govern-ai-we-must-govern-compute" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Lawfare">[Default]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Lawfare</span><span class="citation-popover-title">to govern ai we must govern compute</span><span class="citation-popover-snippet">DefaultTo Govern AI, We Must Govern Computeby L Heim · 2024 · Cited by 2 — Compute governance can support AI policy goals in multiple way...</span></span></span>
+The core idea is straightforward. If the most dangerous capabilities emerge only after very large training runs, then [monitoring]({{ 'monitoring/' | relative_url }}) and regulating those runs could provide warning time, enable safety [evaluations]({{ 'evaluations/' | relative_url }}), reduce competitive pressure, and make it harder for reckless or malicious actors to develop frontier systems. Under that view, effective compute governance could lower p(doom) by reducing the chances of an uncontrolled AI race. Critics, however, argue that enforcement may be difficult, international coordination may fail, and technical changes could weaken compute-based controls over time. Institute for Law & AI <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lawfaremedia.org/article/to-govern-ai-we-must-govern-compute" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Lawfare">[Default]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Lawfare</span><span class="citation-popover-title">to govern ai we must govern compute</span><span class="citation-popover-snippet">DefaultTo Govern AI, We Must Govern Computeby L Heim · 2024 · Cited by 2 — Compute governance can support AI policy goals in multiple way...</span></span></span>
 
 ## How Compute Governance Is Supposed to Work
 
@@ -287,12 +287,12 @@ The most commonly discussed measures include:
 
 * Mandatory reporting of exceptionally large training runs.
 * Licensing requirements above specified compute thresholds.
-* Independent safety evaluations before deployment.
+* [Independent]({{ 'red-teaming/' | relative_url }}) safety evaluations before deployment.
 * Monitoring of large chip clusters and data centres.
 * Export controls on advanced AI chips.
 * Hardware security features that help verify compliance with regulations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ai-safety-atlas.com/chapters/v1/governance/compute-governance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ai-safety-atlas.com">[ai-safety-atlas.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ai-safety-atlas.com</span><span class="citation-popover-title">Compute Governance</span><span class="citation-popover-snippet">Chapter 4Regulations have already begun using compute thresholds to trigger oversight mechanisms. The U.S. Executive Order on AI requires...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://forum.effectivealtruism.org/posts/iiRGCydMX7aiEjvGm/12-tentative-ideas-for-us-ai-policy-luke-muehlhauser" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forum.effectivealtruism.org">[Effective Altruism Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forum.effectivealtruism.org</span><span class="citation-popover-snippet">Effective Altruism Forum12 tentative ideas for US AI policy (Luke Muehlhauser)19 Apr 2023 — Security features on chips can be leveraged f...</span></span></span>
 
-Many proposals rely on compute thresholds. Instead of attempting to regulate every AI model, governments would focus on systems trained using exceptionally large amounts of computing power. Advocates argue that training compute correlates with frontier capabilities strongly enough to serve as a practical trigger for additional oversight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2405.10799v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivTraining Compute Thresholds: Features and Functions in...Aug 6, 2024 — We argue that training compute currently is the most suitabl...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://law-ai.org/the-role-of-compute-thresholds-for-ai-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law-ai.org">[Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law-ai.org</span><span class="citation-popover-snippet">Institute for Law &amp; AIThe Role of Compute Thresholds for AI GovernanceThis article discusses the role of training compute thresholds, whi...</span></span></span> for Law & AI
+Many proposals rely on compute thresholds. Instead of attempting to regulate every AI model, governments would focus on systems trained using exceptionally large amounts of computing power. Advocates argue that training compute correlates with frontier capabilities strongly enough to serve as a practical trigger for additional oversight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2405.10799v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Training Compute Thresholds: Features and Functions in...Aug 6, 2024 — We argue that training compute currently is the most suitabl...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://law-ai.org/the-role-of-compute-thresholds-for-ai-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law-ai.org">[Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law-ai.org</span><span class="citation-popover-snippet">Institute for Law &amp; AIThe Role of Compute Thresholds for AI GovernanceThis article discusses the role of training compute thresholds, whi...</span></span></span> for Law & AI
 
 From an AI-doom perspective, the attraction is not merely regulation for its own sake. The hope is that oversight of the largest training runs could create opportunities to identify dangerous capabilities before they become widely deployed.
 
@@ -317,10 +317,15 @@ Another argument is that compute governance creates visibility. Governments curr
 
 Proponents argue that monitoring major training runs could help authorities answer questions such as:
 
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
 * Who is building frontier systems?
 * How rapidly are capabilities advancing?
 * Which organisations possess the resources to train the next generation of models?
-* When should additional safety measures be triggered? Blog - Lennart Heim+2Default <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.heim.xyz/compute-and-the-governance-of-ai-talk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.heim.xyz">[blog.heim.xyz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.heim.xyz</span><span class="citation-popover-title">Compute offers unique governance capacities for AI</span><span class="citation-popover-snippet">Blog - Lennart HeimCompute and the Governance of AI - TalkNov 5, 2023 — This talk explores the role of computational resources, or &quot;compu...</span></span></span>
+* When should additional safety measures be triggered? Blog - Lennart Heim+2Default <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.heim.xyz/compute-and-the-governance-of-ai-talk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.heim.xyz">[blog.heim.xyz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.heim.xyz</span><span class="citation-popover-title">Compute offers unique governance capacities for AI</span><span class="citation-popover-snippet">Lennart HeimCompute and the Governance of AI - TalkNov 5, 2023 — This talk explores the role of computational resources, or &quot;compu...</span></span></span>
+
+</div>
 
 For lower p(doom) forecasters, greater visibility reduces the chance that transformative capabilities arrive unexpectedly.
 
@@ -336,7 +341,7 @@ Although comprehensive compute governance does not yet exist, elements of the ap
 
 The United States introduced reporting requirements for exceptionally large AI training runs through executive action, while the European Union's AI framework incorporates compute-related thresholds for identifying especially capable models that may require additional scrutiny and risk-management measures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ai-safety-atlas.com/chapters/v1/governance/compute-governance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ai-safety-atlas.com">[ai-safety-atlas.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ai-safety-atlas.com</span><span class="citation-popover-title">Compute Governance</span><span class="citation-popover-snippet">Chapter 4Regulations have already begun using compute thresholds to trigger oversight mechanisms. The U.S. Executive Order on AI requires...</span></span></span>
 
-Export controls on advanced AI chips represent another example. While often discussed in geopolitical terms, some AI-safety advocates view export controls as a form of compute governance because they influence who can access the hardware needed for frontier AI development. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2405.10799v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivTraining Compute Thresholds: Features and Functions in...Aug 6, 2024 — We argue that training compute currently is the most suitabl...</span></span></span>
+Export controls on advanced AI chips represent another example. While often discussed in geopolitical terms, some AI-safety advocates view export controls as a form of compute governance because they influence who can access the hardware needed for frontier AI development. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2405.10799v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Training Compute Thresholds: Features and Functions in...Aug 6, 2024 — We argue that training compute currently is the most suitabl...</span></span></span>
 
 These measures are far from the comprehensive global monitoring systems envisioned by some researchers. Nevertheless, supporters see them as early demonstrations that compute can be used as a policy lever.
 
@@ -363,19 +368,19 @@ A model that requires enormous resources today might be trainable with much less
 This does not necessarily invalidate compute governance, but it implies that thresholds may require frequent revision.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KugscAbcHmQ" title="AIM 2025 SuperIntelligence Keynote: What&#x27;s your p(doom)?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KugscAbcHmQ" target="_blank" rel="noopener noreferrer">AIM 2025 SuperIntelligence Keynote: What&#x27;s your p(doom)?</a></p><p class="youtube-embed-meta">Channel: iQStudios &middot; Views: 222 &middot; Uploaded: June 2025 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KugscAbcHmQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KugscAbcHmQ">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7EwAdTqGgWM" title="Lennart Heim on the AI Triad: Compute, Data, and Algorithms" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7EwAdTqGgWM" target="_blank" rel="noopener noreferrer">Lennart Heim on the AI Triad: Compute, Data, and Algorithms</a></p><p class="youtube-embed-meta">Channel: Future of Life Institute &middot; Views: 2.1K &middot; Uploaded: March 2023 &middot; Length: 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7EwAdTqGgWM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7EwAdTqGgWM">Open on YouTube</a></p></div></div></div>
 
 ### Distributed Training Could Make Monitoring Harder
 
 Many proposals assume that frontier training requires large, visible data centres. Recent research has explored whether increasingly distributed training methods could weaken that assumption.
 
-If developers can spread training across many locations or clusters, detection may become more difficult. Researchers examining this possibility generally conclude that countermeasures may exist, but they also highlight distributed training as a genuine challenge for long-term enforcement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2405.10799v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivTraining Compute Thresholds: Features and Functions in...Aug 6, 2024 — We argue that training compute currently is the most suitabl...</span></span></span>
+If developers can spread training across many locations or clusters, detection may become more difficult. Researchers examining this possibility generally conclude that countermeasures may exist, but they also highlight distributed training as a genuine challenge for long-term enforcement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2405.10799v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Training Compute Thresholds: Features and Functions in...Aug 6, 2024 — We argue that training compute currently is the most suitabl...</span></span></span>
 
 ### Hardware Verification Remains Immature
 
 Some of the most ambitious proposals rely on hardware-level monitoring, cryptographic verification, or built-in chip security features.
 
-While these ideas receive growing attention, several analyses note that many proposed verification mechanisms remain technically immature. The systems needed for robust international monitoring may take years to develop and standardise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2405.10799v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivTraining Compute Thresholds: Features and Functions in...Aug 6, 2024 — We argue that training compute currently is the most suitabl...</span></span></span>
+While these ideas receive growing attention, several analyses note that many proposed verification mechanisms remain technically immature. The systems needed for robust international monitoring may take years to develop and standardise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2405.10799v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Training Compute Thresholds: Features and Functions in...Aug 6, 2024 — We argue that training compute currently is the most suitabl...</span></span></span>
 
 For sceptics, this creates a gap between theoretical governance proposals and currently deployable policy tools.
 
@@ -388,7 +393,7 @@ Even people who support compute governance disagree about when stronger interven
 Several developments are frequently cited as potential triggers for tighter controls:
 
 * Frontier models demonstrating dangerous autonomous capabilities.
-* Evidence of successful [deception]({{ 'deception-and-loss/' | relative_url }}) during evaluations.
+* Evidence of successful deception during evaluations.
 * Rapid increases in AI-driven scientific or engineering performance.
 * Models showing the ability to accelerate AI research itself.
 * Increasing concentration of frontier capability in a small number of training runs.
@@ -396,10 +401,10 @@ Several developments are frequently cited as potential triggers for tighter cont
 
 From an AI-doom perspective, the most important warning sign would be evidence that capability growth is outpacing humanity's ability to understand, evaluate, or control advanced systems.
 
-Supporters of compute governance argue that once such warning signs appear, it may be too late to design monitoring systems from scratch. They therefore favour building reporting mechanisms, data-centre visibility, and regulatory capacity before the most dangerous capabilities emerge. Critics counter that governments risk creating expensive and intrusive regulatory structures based on uncertain forecasts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lawfaremedia.org/article/to-govern-ai-we-must-govern-compute" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Lawfare">[Default]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Lawfare</span><span class="citation-popover-title">to govern ai we must govern compute</span><span class="citation-popover-snippet">DefaultTo Govern AI, We Must Govern Computeby L Heim · 2024 · Cited by 2 — Compute governance can support AI policy goals in multiple way...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lawfaremedia.org/article/to-govern-ai-we-must-govern-compute" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Lawfare">[Default]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Lawfare</span><span class="citation-popover-title">to govern ai we must govern compute</span><span class="citation-popover-snippet">DefaultTo Govern AI, We Must Govern Computeby L Heim · 2024 · Cited by 2 — Compute governance can support AI policy goals in multiple way...</span></span></span>
+Supporters of compute governance argue that once such [warning signs]({{ 'warning-signs/' | relative_url }}) appear, it may be too late to design monitoring systems from scratch. They therefore favour building reporting mechanisms, data-centre visibility, and regulatory capacity before the most dangerous capabilities emerge. Critics counter that governments risk creating expensive and intrusive regulatory structures based on uncertain forecasts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lawfaremedia.org/article/to-govern-ai-we-must-govern-compute" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Lawfare">[Default]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Lawfare</span><span class="citation-popover-title">to govern ai we must govern compute</span><span class="citation-popover-snippet">DefaultTo Govern AI, We Must Govern Computeby L Heim · 2024 · Cited by 2 — Compute governance can support AI policy goals in multiple way...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lawfaremedia.org/article/to-govern-ai-we-must-govern-compute" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Lawfare">[Default]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Lawfare</span><span class="citation-popover-title">to govern ai we must govern compute</span><span class="citation-popover-snippet">DefaultTo Govern AI, We Must Govern Computeby L Heim · 2024 · Cited by 2 — Compute governance can support AI policy goals in multiple way...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7EwAdTqGgWM" title="Lennart Heim on the AI Triad: Compute, Data, and Algorithms" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7EwAdTqGgWM" target="_blank" rel="noopener noreferrer">Lennart Heim on the AI Triad: Compute, Data, and Algorithms</a></p><p class="youtube-embed-meta">Channel: Future of Life Institute &middot; Views: 2.1K &middot; Uploaded: March 2023 &middot; Length: 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7EwAdTqGgWM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7EwAdTqGgWM">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KugscAbcHmQ" title="AIM 2025 SuperIntelligence Keynote: What&#x27;s your p(doom)?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KugscAbcHmQ" target="_blank" rel="noopener noreferrer">AIM 2025 SuperIntelligence Keynote: What&#x27;s your p(doom)?</a></p><p class="youtube-embed-meta">Channel: iQStudios &middot; Views: 222 &middot; Uploaded: June 2025 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KugscAbcHmQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KugscAbcHmQ">Open on YouTube</a></p></div></div></div>
 
 ## Why Compute Governance Changes Some p(doom) Estimates
 
@@ -817,178 +822,178 @@ The disagreement is therefore not mainly about whether compute matters. It is ab
 1. <a id="endnote-1"></a>
    Source: cdn.governance.ai  
    Title: Computing Power and the Governance of Artificial  
-   Link: [https://cdn.governance.ai/Computing_Power_and_the_Governance_of_AI.pdf](https://cdn.governance.ai/Computing_Power_and_the_Governance_of_AI.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>February 13, 2024 — 14 Feb 2024 — Computing power, or &quot;compute,&quot; is crucial for the development and [deployment](&amp;#123;&amp;#123; &#x27;release-gates/&#x27; | relative_url &amp;#125;&amp;#125;) of artificial intelligence...</p></details>
+   Link: <a href="https://cdn.governance.ai/Computing_Power_and_the_Governance_of_AI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.governance.ai/Computing_Power_and_the_Governance_of_AI.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>February 13, 2024 — 14 Feb 2024 — Computing power, or &quot;compute,&quot; is crucial for the development and deployment of artificial intelligence...</p></details>
    Published: February 13, 2024  
 
 2. <a id="endnote-2"></a>
    Source: law-ai.org  
-   Link: [https://law-ai.org/the-role-of-compute-thresholds-for-ai-governance/](https://law-ai.org/the-role-of-compute-thresholds-for-ai-governance/)  
+   Link: <a href="https://law-ai.org/the-role-of-compute-thresholds-for-ai-governance/" target="_blank" rel="noopener noreferrer nofollow">https://law-ai.org/the-role-of-compute-thresholds-for-ai-governance/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Institute for Law &amp; AIThe Role of Compute Thresholds for AI GovernanceThis article discusses the role of training compute thresholds, whi...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: epoch.ai  
    Title: three issues undermining compute based ai policies  
-   Link: [https://epoch.ai/gradient-updates/three-issues-undermining-compute-based-ai-policies](https://epoch.ai/gradient-updates/three-issues-undermining-compute-based-ai-policies)  
+   Link: <a href="https://epoch.ai/gradient-updates/three-issues-undermining-compute-based-ai-policies" target="_blank" rel="noopener noreferrer nofollow">https://epoch.ai/gradient-updates/three-issues-undermining-compute-based-ai-policies</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Three challenges facing compute-based AI policiesSep 11, 2025 — &#x27;Training compute&#x27; is constantly evolving, and compute-based AI policies...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: ai-safety-atlas.com  
    Title: Compute Governance  
-   Link: [https://ai-safety-atlas.com/chapters/v1/governance/compute-governance](https://ai-safety-atlas.com/chapters/v1/governance/compute-governance)  
+   Link: <a href="https://ai-safety-atlas.com/chapters/v1/governance/compute-governance" target="_blank" rel="noopener noreferrer nofollow">https://ai-safety-atlas.com/chapters/v1/governance/compute-governance</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 4Regulations have already begun using compute thresholds to trigger oversight mechanisms. The U.S. Executive Order on AI requires...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2405.10799v2](https://arxiv.org/html/2405.10799v2)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivTraining Compute Thresholds: Features and Functions in...Aug 6, 2024 — We argue that training compute currently is the most suitabl...</p></details>
+   Link: <a href="https://arxiv.org/html/2405.10799v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2405.10799v2</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Training Compute Thresholds: Features and Functions in...Aug 6, 2024 — We argue that training compute currently is the most suitabl...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: law-ai.org  
    Title: Institute for Law & AIAdvanced AI Governance: A Literature Review of Problems  
-   Link: [https://law-ai.org/advanced-ai-gov-litrev/](https://law-ai.org/advanced-ai-gov-litrev/)  
+   Link: <a href="https://law-ai.org/advanced-ai-gov-litrev/" target="_blank" rel="noopener noreferrer nofollow">https://law-ai.org/advanced-ai-gov-litrev/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>November 1, 2023 — This literature review provides an overview and taxonomy of past and recent research in the emerging field of advanced...</p></details>
    Published: November 1, 2023  
 
 7. <a id="endnote-7"></a>
    Source: blog.heim.xyz  
    Title: Compute offers unique governance capacities for AI  
-   Link: [https://blog.heim.xyz/compute-and-the-governance-of-ai-talk/](https://blog.heim.xyz/compute-and-the-governance-of-ai-talk/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Blog - Lennart HeimCompute and the Governance of AI - TalkNov 5, 2023 — This talk explores the role of computational resources, or &quot;compu...</p></details>
+   Link: <a href="https://blog.heim.xyz/compute-and-the-governance-of-ai-talk/" target="_blank" rel="noopener noreferrer nofollow">https://blog.heim.xyz/compute-and-the-governance-of-ai-talk/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lennart HeimCompute and the Governance of AI - TalkNov 5, 2023 — This talk explores the role of computational resources, or &quot;compu...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: intelligence.org  
    Title: Machine Intelligence Research Institute AI Governance to Avoid Extinction  
-   Link: [https://intelligence.org/wp-content/uploads/2025/05/AI-Governance-to-Avoid-Extinction.pdf](https://intelligence.org/wp-content/uploads/2025/05/AI-Governance-to-Avoid-Extinction.pdf)  
+   Link: <a href="https://intelligence.org/wp-content/uploads/2025/05/AI-Governance-to-Avoid-Extinction.pdf" target="_blank" rel="noopener noreferrer nofollow">https://intelligence.org/wp-content/uploads/2025/05/AI-Governance-to-Avoid-Extinction.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Machine Intelligence Research InstituteAI Governance to Avoid ExtinctionMay 1, 2025 — by P Barnett · 2025 · Cited by 7 — Proliferation of...</p></details>
    Published: May 1, 2025  
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2506.20530v1](https://arxiv.org/html/2506.20530v1)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivToward a Global Regime for Compute Governance25 Jun 2025 — Applied to frontier AI, a global export control regime would restrict the...</p></details>
+   Link: <a href="https://arxiv.org/html/2506.20530v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.20530v1</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Toward a Global Regime for Compute Governance25 Jun 2025 — Applied to frontier AI, a global export control regime would restrict the...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: gjia.georgetown.edu  
    Title: Journal A Playbook for Winning the AI Race: Compete, Counter  
-   Link: [https://gjia.georgetown.edu/science-technology/a-playbook-for-winning-the-ai-race-compete-counter-cooperate/](https://gjia.georgetown.edu/science-technology/a-playbook-for-winning-the-ai-race-compete-counter-cooperate/)  
+   Link: <a href="https://gjia.georgetown.edu/science-technology/a-playbook-for-winning-the-ai-race-compete-counter-cooperate/" target="_blank" rel="noopener noreferrer nofollow">https://gjia.georgetown.edu/science-technology/a-playbook-for-winning-the-ai-race-compete-counter-cooperate/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Georgetown JournalA Playbook for Winning the AI Race: Compete, Counter...November 18, 2025 — 18 Nov 2025 — The challenge facing policyma...</p></details>
    Published: November 18, 2025  
 
 11. <a id="endnote-11"></a>
    Source: governance.ai  
    Title: inference scaling and ai governance  
-   Link: [https://www.governance.ai/research-paper/inference-scaling-and-ai-governance](https://www.governance.ai/research-paper/inference-scaling-and-ai-governance)  
+   Link: <a href="https://www.governance.ai/research-paper/inference-scaling-and-ai-governance" target="_blank" rel="noopener noreferrer nofollow">https://www.governance.ai/research-paper/inference-scaling-and-ai-governance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI governance measures that rely on training-compute thresholds. Rapid scaling of inference-during-training would have more ambiguous eff...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: arxiv.org  
    Title: arXiv Does Distributed Training Undermine Compute Governance?  
-   Link: [https://arxiv.org/abs/2605.29359](https://arxiv.org/abs/2605.29359)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivDoes Distributed Training Undermine Compute Governance?May 28, 2026...</p></details>
+   Link: <a href="https://arxiv.org/abs/2605.29359" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.29359</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Does Distributed Training Undermine Compute Governance?May 28, 2026...</p></details>
    Published: May 28, 2026  
 
 13. <a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2604.04712](https://arxiv.org/abs/2604.04712)  
+   Link: <a href="https://arxiv.org/abs/2604.04712" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.04712</a>  
 
 14. <a id="endnote-14"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a](https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a)  
+   Link: <a href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>November 3, 2023 — 28 Apr 2025 — The risks posed by future Frontier AI will include the risks we see today, but with potential for larger...</p></details>
    Published: November 3, 2023  
 
 15. <a id="endnote-15"></a>
    Source: aisi.gov.uk  
    Title: frontier ai trends report  
-   Link: [https://www.aisi.gov.uk/frontier-ai-trends-report](https://www.aisi.gov.uk/frontier-ai-trends-report)  
+   Link: <a href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/frontier-ai-trends-report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>“Training Compute of Frontier AI Models Grows by 4-5x per Year.Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: arxiv.org  
    Title: arXiv Risk thresholds for frontier AI  
-   Link: [https://arxiv.org/abs/2406.14713](https://arxiv.org/abs/2406.14713)  
+   Link: <a href="https://arxiv.org/abs/2406.14713" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2406.14713</a>  
 
 17. <a id="endnote-17"></a>
    Source: Lawfare  
    Title: to govern ai we must govern compute  
-   Link: [https://www.lawfaremedia.org/article/to-govern-ai-we-must-govern-compute](https://www.lawfaremedia.org/article/to-govern-ai-we-must-govern-compute)  
+   Link: <a href="https://www.lawfaremedia.org/article/to-govern-ai-we-must-govern-compute" target="_blank" rel="noopener noreferrer nofollow">https://www.lawfaremedia.org/article/to-govern-ai-we-must-govern-compute</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DefaultTo Govern AI, We Must Govern Computeby L Heim · 2024 · Cited by 2 — Compute governance can support AI policy goals in multiple way...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: Lawfare  
    Title: legal challenges to compute governance  
-   Link: [https://www.lawfaremedia.org/article/legal-challenges-to-compute-governance](https://www.lawfaremedia.org/article/legal-challenges-to-compute-governance)  
+   Link: <a href="https://www.lawfaremedia.org/article/legal-challenges-to-compute-governance" target="_blank" rel="noopener noreferrer nofollow">https://www.lawfaremedia.org/article/legal-challenges-to-compute-governance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Challenges to Compute Governanceby D Bernabei · 2024 · Cited by 1 — This article assesses the emergence of compute-based AI regulation, i...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: forum.effectivealtruism.org  
-   Link: [https://forum.effectivealtruism.org/posts/iiRGCydMX7aiEjvGm/12-tentative-ideas-for-us-ai-policy-luke-muehlhauser](https://forum.effectivealtruism.org/posts/iiRGCydMX7aiEjvGm/12-tentative-ideas-for-us-ai-policy-luke-muehlhauser)  
+   Link: <a href="https://forum.effectivealtruism.org/posts/iiRGCydMX7aiEjvGm/12-tentative-ideas-for-us-ai-policy-luke-muehlhauser" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/iiRGCydMX7aiEjvGm/12-tentative-ideas-for-us-ai-policy-luke-muehlhauser</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Effective Altruism Forum12 tentative ideas for US AI policy (Luke Muehlhauser)19 Apr 2023 — Security features on chips can be leveraged f...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: lesswrong.com  
    Title: compute governance literature review  
-   Link: [https://www.lesswrong.com/posts/eLzDLCB68qNoWDRba/compute-governance-literature-review](https://www.lesswrong.com/posts/eLzDLCB68qNoWDRba/compute-governance-literature-review)  
+   Link: <a href="https://www.lesswrong.com/posts/eLzDLCB68qNoWDRba/compute-governance-literature-review" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/posts/eLzDLCB68qNoWDRba/compute-governance-literature-review</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>25 Jun 2024 — Compute governance is a method for monitoring and regulating AI systems by tracking the hardware required to develop fronti...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: forum.effectivealtruism.org  
    Title: let s think about slowing down ai 1  
-   Link: [https://forum.effectivealtruism.org/posts/vwK3v3Mekf6Jjpeep/let-s-think-about-slowing-down-ai-1](https://forum.effectivealtruism.org/posts/vwK3v3Mekf6Jjpeep/let-s-think-about-slowing-down-ai-1)  
+   Link: <a href="https://forum.effectivealtruism.org/posts/vwK3v3Mekf6Jjpeep/let-s-think-about-slowing-down-ai-1" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/vwK3v3Mekf6Jjpeep/let-s-think-about-slowing-down-ai-1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>If the AI safety community tries to slow things down, it will disproportionately slow down progress in the...Read more...</p></details>
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: siliconranch.substack.com  
-   Link: [https://siliconranch.substack.com/p/export-controls-are-ai-safety](https://siliconranch.substack.com/p/export-controls-are-ai-safety)  
+   Link: <a href="https://siliconranch.substack.com/p/export-controls-are-ai-safety" target="_blank" rel="noopener noreferrer nofollow">https://siliconranch.substack.com/p/export-controls-are-ai-safety</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Export Controls Are AI SafetyExport controls do reduce existential risks, and they hopefully hinder the use of AI for human rights abuses...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: ai-frontiers.org  
-   Link: [https://ai-frontiers.org/topic/policy-and-regulation](https://ai-frontiers.org/topic/policy-and-regulation)  
+   Link: <a href="https://ai-frontiers.org/topic/policy-and-regulation" target="_blank" rel="noopener noreferrer nofollow">https://ai-frontiers.org/topic/policy-and-regulation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Policy &amp; RegulationArticles in this section explore if, when, and how to implement regulation that harnesses AI&#x27;s benefits while limiting...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/380720022_Training_Compute_Thresholds_Features_and_Functions_in_AI_Governance](https://www.researchgate.net/publication/380720022_Training_Compute_Thresholds_Features_and_Functions_in_AI_Governance)  
+   Link: <a href="https://www.researchgate.net/publication/380720022_Training_Compute_Thresholds_Features_and_Functions_in_AI_Governance" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/380720022_Training_Compute_Thresholds_Features_and_Functions_in_AI_Governance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Features and Functions in AI GovernanceCompute thresholds provide a practical starting point for identifying potentially high-risk models...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: longtermresilience.org  
-   Link: [https://www.longtermresilience.org/response-to-the-uks-future-of-compute-review-a-missed-opportunity-to-lead-in-compute-governance/](https://www.longtermresilience.org/response-to-the-uks-future-of-compute-review-a-missed-opportunity-to-lead-in-compute-governance/)  
+   Link: <a href="https://www.longtermresilience.org/response-to-the-uks-future-of-compute-review-a-missed-opportunity-to-lead-in-compute-governance/" target="_blank" rel="noopener noreferrer nofollow">https://www.longtermresilience.org/response-to-the-uks-future-of-compute-review-a-missed-opportunity-to-lead-in-compute-governance/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Response to the UK&#x27;s Future of Compute Review13 Mar 2023 — Requiring AI companies to report, or possibly in the future apply for a licens...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: gov.ca.gov  
    Title: June 17 2025 – The California Report on Frontier AI Policy  
-   Link: [https://www.gov.ca.gov/wp-content/uploads/2025/06/June-17-2025-%E2%80%93-The-California-Report-on-Frontier-AI-Policy.pdf](https://www.gov.ca.gov/wp-content/uploads/2025/06/June-17-2025-%E2%80%93-The-California-Report-on-Frontier-AI-Policy.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CALIFORNIA REPORT ON FRONTIER AI POLICYJun 17, 2025 — Training Compute Thresholds: Features and Functions in AI Regulation.... On the Li...</p></details>
+   Link: <a href="https://www.gov.ca.gov/wp-content/uploads/2025/06/June-17-2025-%E2%80%93-The-California-Report-on-Frontier-AI-Policy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.ca.gov/wp-content/uploads/2025/06/June-17-2025-%E2%80%93-The-California-Report-on-Frontier-AI-Policy.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>LIFORNIA REPORT ON FRONTIER AI POLICYJun 17, 2025 — Training Compute Thresholds: Features and Functions in AI Regulation.... On the Li...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=TGQ0FtvAPK4](https://www.youtube.com/watch?v=TGQ0FtvAPK4)  
+   Link: <a href="https://www.youtube.com/watch?v=TGQ0FtvAPK4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TGQ0FtvAPK4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Beating the AI Doom CycleAI inequality explored as access to frontier models becomes scarce and selectively allocated by security, comput...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S030859612500014X](https://www.sciencedirect.com/science/article/pii/S030859612500014X)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectIt&#x27;s just distributed computing: Rethinking AI governanceby ML Mueller · 2025 · Cited by 38 — Attempts to control AI can hav...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S030859612500014X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S030859612500014X</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s just distributed computing: Rethinking AI governanceby ML Mueller · 2025 · Cited by 38 — Attempts to control AI can hav...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: lcfi.ac.uk  
    Title: What Role Can “COMPUTE” Play In AI Governance?  
-   Link: [https://www.lcfi.ac.uk/news-events/blog/post/what-role-can-compute-play-in-ai-governance](https://www.lcfi.ac.uk/news-events/blog/post/what-role-can-compute-play-in-ai-governance)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LCFI14 Feb 2024 — A major new 19-author report argues that governing computing power (&#x27;compute&#x27;) can help AI governance be more effective...</p></details>
+   Link: <a href="https://www.lcfi.ac.uk/news-events/blog/post/what-role-can-compute-play-in-ai-governance" target="_blank" rel="noopener noreferrer nofollow">https://www.lcfi.ac.uk/news-events/blog/post/what-role-can-compute-play-in-ai-governance</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>14 Feb 2024 — A major new 19-author report argues that governing computing power (&#x27;compute&#x27;) can help AI governance be more effective...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: forethought.org  
    Title: Inference Scaling Reshapes AI Governance  
-   Link: [https://www.forethought.org/research/inference-scaling-reshapes-ai-governance](https://www.forethought.org/research/inference-scaling-reshapes-ai-governance)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ForethoughtFeb 13, 2025 — The shift from scaling up the pre-training compute of AI systems to scaling up their inference compute may have...</p></details>
+   Link: <a href="https://www.forethought.org/research/inference-scaling-reshapes-ai-governance" target="_blank" rel="noopener noreferrer nofollow">https://www.forethought.org/research/inference-scaling-reshapes-ai-governance</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Feb 13, 2025 — The shift from scaling up the pre-training compute of AI systems to scaling up their inference compute may have...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: smarterarticles.co.uk  
-   Link: [https://smarterarticles.co.uk/capture-by-design-how-frontier-labs-wrote-ai-rules-before-regulators-arrived](https://smarterarticles.co.uk/capture-by-design-how-frontier-labs-wrote-ai-rules-before-regulators-arrived)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Capture by Design: How Frontier Labs Wrote AI Rules Before...25 Apr 2026 — “[Anthropic](&amp;#123;&amp;#123; &#x27;anthropic-tests/&#x27; | relative_url &amp;#125;&amp;#125;)&#x27;s dispute with US government exposes deeper rifts...</p></details>
+   Link: <a href="https://smarterarticles.co.uk/capture-by-design-how-frontier-labs-wrote-ai-rules-before-regulators-arrived" target="_blank" rel="noopener noreferrer nofollow">https://smarterarticles.co.uk/capture-by-design-how-frontier-labs-wrote-ai-rules-before-regulators-arrived</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Capture by Design: How Frontier Labs Wrote AI Rules Before...25 Apr 2026 — “Anthropic&#x27;s dispute with US government exposes deeper rifts...</p></details>

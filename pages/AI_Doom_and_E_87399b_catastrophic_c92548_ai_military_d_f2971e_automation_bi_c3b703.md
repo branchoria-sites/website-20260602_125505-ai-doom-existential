@@ -7,23 +7,23 @@ sibling_basenames:
 - AI_Doom_and_E_87399b_catastrophic_c92548_ai_military_d_f2971e_ai_crisis_dec_f450be
 - AI_Doom_and_E_87399b_catastrophic_c92548_ai_military_d_f2971e_ai_nuclear_wa_bdb736
 tags:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - misuse
 - military-ai-risk
 - automation-bias
 keywords:
-- ai-doom-and
+- ai-doom-and-e-87399-b
 - misuse
 - military-ai-risk
 - automation-bias
-affiliate_category: ai-doom-and
+affiliate_category: ai-doom-and-e-87399-b
 show_ads: true
 description: AI decision tools may make commanders more confident in uncertain assessments than the evidence really warrants.
 hero_summary: AI decision tools may make commanders more confident in uncertain assessments than the evidence really warrants.
 layout: default
 permalink: /automation-bias/
 sidebar_expanded_urls:
-- /ai-doom-and/
+- /ai-doom-and-e-87399-b/
 - /misuse/
 - /military-ai-risk/
 nav_short_title: Automation Bias
@@ -211,10 +211,10 @@ parent_heading_title: 'AI in Military Decisions: Escalation and Control Challeng
 ancestor_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_catastrophic_c92548
-  title: Misuse | AI Doom and
+  title: Misuse | AI Doom and E 87399 b
   permalink: /misuse/
   short_title: Misuse
   heading_title: How Could People Misuse Advanced AI?
@@ -226,10 +226,10 @@ ancestor_links:
 breadcrumb_links:
 - basename: AI_Doom_and_E_87399b
   title: AI Doom
-  permalink: /ai-doom-and/
+  permalink: /ai-doom-and-e-87399-b/
   short_title: AI Doom
 - basename: AI_Doom_and_E_87399b_catastrophic_c92548
-  title: Misuse | AI Doom and
+  title: Misuse | AI Doom and E 87399 b
   permalink: /misuse/
   short_title: Misuse
   heading_title: How Could People Misuse Advanced AI?
@@ -275,11 +275,11 @@ image: /assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_military_d_f29
 
 ## Introduction
 
-Automation bias is the tendency to give too much weight to a machine's recommendation and too little weight to one's own judgement or other evidence. In military decision-making, this matters because AI systems are increasingly being used to analyse intelligence, identify threats, prioritise targets, assess risks and recommend courses of action. Human commanders may formally remain in charge, yet their decisions can be strongly shaped by machine advice. When the advice is wrong, incomplete or [misleading]({{ 'misleading-xai/' | relative_url }}), excessive trust can turn an AI error into a human decision. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cset.georgetown.edu/publication/ai-safety-and-automation-bias/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cset.georgetown.edu">[CSET]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cset.georgetown.edu</span><span class="citation-popover-snippet">CSETAI Safety and Automation BiasAutomation bias is the tendency for an individual to over-rely on an automated system. It can lead to in...</span></span></span>
+Automation bias is the tendency to give too much weight to a machine's recommendation and too little weight to one's own judgement or other evidence. In military decision-making, this matters because AI systems are increasingly being used to analyse intelligence, identify threats, prioritise targets, assess risks and recommend courses of action. Human commanders may formally remain in charge, yet their decisions can be strongly shaped by machine advice. When the advice is wrong, incomplete or misleading, excessive trust can turn an AI error into a human decision. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cset.georgetown.edu/publication/ai-safety-and-automation-bias/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cset.georgetown.edu">[CSET]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cset.georgetown.edu</span><span class="citation-popover-snippet">AI Safety and Automation BiasAutomation bias is the tendency for an individual to over-rely on an automated system. It can lead to in...</span></span></span>
 
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_military_d_f2971e_automation_bi_c3b703-Illustration-1-dark.svg" | relative_url }}" alt="Automation Bias illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_military_d_f2971e_automation_bi_c3b703-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_military_d_f2971e_automation_bi_c3b703-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within [AI doom and]({{ 'ai-doom-and/' | relative_url }}) existential-risk debates, automation bias is important not because it guarantees catastrophe on its own, but because it could become one link in a larger chain of escalation. If increasingly capable AI systems generate recommendations that appear objective, precise and authoritative, military organisations may become more willing to act on uncertain information. During crises between major powers, that [false confidence]({{ 'false-confidence/' | relative_url }}) could contribute to miscalculation, accidental escalation or decisions taken before uncertainty is properly understood. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6082847" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">SSRNAI-Enabled Military Decision-Making and Escalation Riskby B Oktenli · 2026 — This paper examines how AI-enabled decision support and...</span></span></span>
+Within AI doom and existential-risk debates, automation bias is important not because it guarantees catastrophe on its own, but because it could become one link in a larger chain of escalation. If increasingly capable AI systems generate recommendations that appear objective, precise and authoritative, military organisations may become more willing to act on uncertain information. During crises between major powers, that [false confidence]({{ 'false-confidence/' | relative_url }}) could contribute to miscalculation, accidental escalation or decisions taken before [uncertainty]({{ 'uncertainty/' | relative_url }}) is properly understood. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6082847" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">AI-Enabled Military Decision-Making and Escalation Riskby B Oktenli · 2026 — This paper examines how AI-enabled decision support and...</span></span></span>
 
 ## Why commanders may overtrust machine recommendations
 
@@ -303,13 +303,13 @@ Importantly, automation bias does not require an AI system to be highly autonomo
 
 Military crises are precisely the environments in which automation bias is most likely to emerge.
 
-Commanders often operate under severe time pressure, incomplete information and the fear that hesitation could be costly. In such conditions, people naturally look for cognitive shortcuts. AI systems can become attractive because they appear to reduce [uncertainty]({{ 'uncertainty/' | relative_url }}) and accelerate decisions. Research on military AI and escalation risk has highlighted concerns that AI-enabled decision support may compress decision timelines while simultaneously creating a false sense of confidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/Delivery.cfm/5375402.pdf?abstractid=5375402&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">ssrn.com“Because We Take Our Values to War” Analyzing the...5 In certain scenarios, AI systems—particularly some autonomous weapons—can...</span></span></span>
+Commanders often operate under severe time pressure, incomplete information and the fear that hesitation could be costly. In such conditions, people naturally look for cognitive shortcuts. AI systems can become attractive because they appear to reduce uncertainty and accelerate decisions. Research on military AI and escalation risk has highlighted concerns that AI-enabled decision support may compress decision timelines while simultaneously creating a false sense of confidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/Delivery.cfm/5375402.pdf?abstractid=5375402&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">ssrn.com“Because We Take Our Values to War” Analyzing the...5 In certain scenarios, AI systems—particularly some autonomous weapons—can...</span></span></span>
 
 This creates a dangerous combination. A commander facing ambiguous intelligence may normally seek additional analysis, consult colleagues or delay action. If an AI system instead presents a confident recommendation, the temptation to act quickly may increase. The decision-maker remains formally responsible, but the machine's apparent certainty can narrow the range of options seriously considered. ICRC Blogs <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iaps.ai/research/ai-decision-support-systems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iaps.ai">[Institute for AI Policy and Strategy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iaps.ai</span><span class="citation-popover-title">ai decision support systems</span><span class="citation-popover-snippet">Institute for AI Policy and StrategyAI Decision Support Systems: A Neglected Source of...9 Apr 2026 — Automation Bias: Operators over-tr...</span></span></span>
 
-Research outside the military domain has repeatedly found that time pressure can increase reliance on automated advice. Although military environments differ from civilian settings, the underlying psychological mechanism is similar: when attention and time are scarce, people become more likely to accept machine-generated recommendations rather than independently verify them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2411.00998" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivAutomation Bias in AI-Assisted Medical Decision-Making under Time Pressure in Computational PathologyNovember 1, 2024...</span><span class="citation-popover-meta">Published: November 1, 2024</span></span></span>
+Research outside the military domain has repeatedly found that time pressure can increase reliance on automated advice. Although military environments differ from civilian settings, the underlying psychological mechanism is similar: when attention and time are scarce, people become more likely to accept machine-generated recommendations rather than independently verify them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2411.00998" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Automation Bias in AI-Assisted Medical Decision-Making under Time Pressure in Computational PathologyNovember 1, 2024...</span><span class="citation-popover-meta">Published: November 1, 2024</span></span></span>
 
-For AI doom arguments, the concern is not merely a single bad recommendation. It is the possibility that multiple organisations, all relying on increasingly capable AI systems, enter a crisis in which machine-generated assessments reinforce each other's errors and push decision-makers towards rapid escalation before uncertainty can be resolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6082847" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">SSRNAI-Enabled Military Decision-Making and Escalation Riskby B Oktenli · 2026 — This paper examines how AI-enabled decision support and...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sipri.org/publications/2025/sipri-insights-peace-and-security/impact-military-artificial-intelligence-nuclear-escalation-risk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sipri.org">[SIPRI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sipri.org</span><span class="citation-popover-snippet">SIPRIImpact of Military Artificial Intelligence on Nuclear...Increasing integration of artificial intelligence (AI) into military system...</span></span></span>
+For AI doom arguments, the concern is not merely a single bad recommendation. It is the possibility that multiple organisations, all relying on increasingly capable AI systems, enter a crisis in which machine-generated assessments reinforce each other's errors and push decision-makers towards rapid escalation before uncertainty can be resolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6082847" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">AI-Enabled Military Decision-Making and Escalation Riskby B Oktenli · 2026 — This paper examines how AI-enabled decision support and...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sipri.org/publications/2025/sipri-insights-peace-and-security/impact-military-artificial-intelligence-nuclear-escalation-risk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sipri.org">[SIPRI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sipri.org</span><span class="citation-popover-snippet">Impact of Military Artificial Intelligence on Nuclear...Increasing integration of artificial intelligence (AI) into military system...</span></span></span>
 
 ## The danger of advice that looks more certain than it is
 
@@ -329,11 +329,11 @@ Direct evidence from real-world military crises remains limited because many rel
 
 However, several strands of evidence support concern about automation bias:
 
-First, automation bias is a well-established phenomenon in psychology and human-machine interaction. People frequently place excessive trust in automated systems, particularly when those systems appear authoritative or technically sophisticated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cset.georgetown.edu/publication/ai-safety-and-automation-bias/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cset.georgetown.edu">[CSET]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cset.georgetown.edu</span><span class="citation-popover-snippet">CSETAI Safety and Automation BiasAutomation bias is the tendency for an individual to over-rely on an automated system. It can lead to in...</span></span></span>
+First, automation bias is a well-established phenomenon in psychology and human-machine interaction. People frequently place excessive trust in automated systems, particularly when those systems appear authoritative or technically sophisticated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cset.georgetown.edu/publication/ai-safety-and-automation-bias/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cset.georgetown.edu">[CSET]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cset.georgetown.edu</span><span class="citation-popover-snippet">AI Safety and Automation BiasAutomation bias is the tendency for an individual to over-rely on an automated system. It can lead to in...</span></span></span>
 
 Second, military-focused analyses from organisations such as SIPRI, the International Committee of the Red Cross and academic researchers have identified automation bias as a recurring concern in AI-enabled decision support systems. These analyses argue that AI recommendations may displace human judgement, especially in operational environments characterised by uncertainty and urgency. SIPRI <span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.icrc.org/law-and-policy/2024/08/29/artificial-intelligence-in-military-decision-making-supporting-humans-not-replacing-them/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.icrc.org">[ICRC Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.icrc.org</span><span class="citation-popover-snippet">ICRC BlogsAI in military decision-making: supporting humans, not...Aug 29, 2024 — As a result of these, the use of AI DSS has the potent...</span></span></span>
 
-Third, recent research suggests the picture may be more nuanced than some critics assume. A 2026 study involving United States Military Academy cadets found less susceptibility to automation bias than is often feared, with military trainees showing more calibrated trust in algorithmic advice than comparable civilian samples. The findings are preliminary and context-specific, but they suggest that training and professional culture may significantly influence outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2411.00998" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivAutomation Bias in AI-Assisted Medical Decision-Making under Time Pressure in Computational PathologyNovember 1, 2024...</span><span class="citation-popover-meta">Published: November 1, 2024</span></span></span>
+Third, recent research suggests the picture may be more nuanced than some critics assume. A 2026 study involving United States Military Academy cadets found less susceptibility to automation bias than is often feared, with military trainees showing more calibrated trust in algorithmic advice than comparable civilian samples. The findings are preliminary and context-specific, but they suggest that training and professional culture may significantly influence outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2411.00998" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Automation Bias in AI-Assisted Medical Decision-Making under Time Pressure in Computational PathologyNovember 1, 2024...</span><span class="citation-popover-meta">Published: November 1, 2024</span></span></span>
 
 This mixed evidence is important. Automation bias appears to be a genuine risk, but it is not inevitable. The degree of danger may depend heavily on organisational design, training and operational context.
 
@@ -364,9 +364,9 @@ Automation bias is not usually presented as a standalone path to human extinctio
 
 The concern is that increasingly capable AI systems may become trusted advisers in military and geopolitical crises long before they become fully autonomous actors. If decision-makers systematically overestimate the reliability of AI-generated assessments, then machine outputs could influence escalation dynamics in ways that no participant fully understands. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/Delivery.cfm/5375402.pdf?abstractid=5375402&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">ssrn.com“Because We Take Our Values to War” Analyzing the...5 In certain scenarios, AI systems—particularly some autonomous weapons—can...</span></span></span>
 
-Sceptics argue that professional military organisations are aware of these risks and are likely to develop procedures that reduce overreliance. Existing evidence does provide some support for that view, particularly where training is strong and users understand the limitations of the technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2411.00998" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivAutomation Bias in AI-Assisted Medical Decision-Making under Time Pressure in Computational PathologyNovember 1, 2024...</span><span class="citation-popover-meta">Published: November 1, 2024</span></span></span>
+Sceptics argue that professional military organisations are aware of these risks and are likely to develop procedures that reduce overreliance. Existing evidence does provide some support for that view, particularly where training is strong and users understand the limitations of the technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2411.00998" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Automation Bias in AI-Assisted Medical Decision-Making under Time Pressure in Computational PathologyNovember 1, 2024...</span><span class="citation-popover-meta">Published: November 1, 2024</span></span></span>
 
-The unresolved question is whether safeguards can keep pace with increasingly sophisticated AI systems. If future systems become more persuasive, more complex and more deeply integrated into military command structures, the challenge may shift from keeping humans "in the loop" to ensuring that humans remain willing and able to disagree with machine advice when it matters most. <span class="citation-chip-wrap"><a class="citation-chip" href="https://perryworldhouse.upenn.edu/news-and-insight/the-myth-of-the-human-in-the-loop-and-the-reality-of-cognitive-offloading/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: perryworldhouse.upenn.edu">[Perry World House]</a><span class="citation-popover" role="note"><span class="citation-popover-source">perryworldhouse.upenn.edu</span><span class="citation-popover-title">the myth of the human in the loop and the reality of cognitive offloading</span><span class="citation-popover-snippet">Perry World HouseThe Myth of the Human-in-the-Loop and the Reality...Nov 24, 2025 — Automation bias can endanger the successful deployme...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.repository.cam.ac.uk/bitstreams/2b292975-6ced-479d-bbd5-b9a2cfd391ab/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: repository.cam.ac.uk">[Cambridge Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">repository.cam.ac.uk</span><span class="citation-popover-snippet">Cambridge RepositoryAugmenting military decision making with artificial...by K Vold · 2026 · Cited by 1 — This article explores how AI m...</span></span></span>
+The unresolved question is whether safeguards can keep pace with increasingly sophisticated AI systems. If future systems become more persuasive, more complex and more deeply integrated into military command structures, the challenge may shift from keeping humans "in the loop" to ensuring that humans remain willing and able to disagree with machine advice when it matters most. <span class="citation-chip-wrap"><a class="citation-chip" href="https://perryworldhouse.upenn.edu/news-and-insight/the-myth-of-the-human-in-the-loop-and-the-reality-of-cognitive-offloading/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: perryworldhouse.upenn.edu">[Perry World House]</a><span class="citation-popover" role="note"><span class="citation-popover-source">perryworldhouse.upenn.edu</span><span class="citation-popover-title">the myth of the human in the loop and the reality of cognitive offloading</span><span class="citation-popover-snippet">Perry World HouseThe Myth of the Human-in-the-Loop and the Reality...Nov 24, 2025 — Automation bias can endanger the successful deployme...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.repository.cam.ac.uk/bitstreams/2b292975-6ced-479d-bbd5-b9a2cfd391ab/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: repository.cam.ac.uk">[Cambridge Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">repository.cam.ac.uk</span><span class="citation-popover-snippet">bridge RepositoryAugmenting military decision making with artificial...by K Vold · 2026 · Cited by 1 — This article explores how AI m...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wopyt6Z2GFs" title="Is AI changing US military warfare? | This is America" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wopyt6Z2GFs" target="_blank" rel="noopener noreferrer">Is AI changing US military warfare? | This is America</a></p><p class="youtube-embed-meta">Channel: Al Jazeera English &middot; Views: 51.8K &middot; Uploaded: May 2026 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wopyt6Z2GFs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wopyt6Z2GFs">Open on YouTube</a></p></div></div></div>
@@ -793,272 +793,272 @@ The unresolved question is whether safeguards can keep pace with increasingly so
 
 1. <a id="endnote-1"></a>
    Source: blogs.icrc.org  
-   Link: [https://blogs.icrc.org/law-and-policy/2024/08/29/artificial-intelligence-in-military-decision-making-supporting-humans-not-replacing-them/](https://blogs.icrc.org/law-and-policy/2024/08/29/artificial-intelligence-in-military-decision-making-supporting-humans-not-replacing-them/)  
+   Link: <a href="https://blogs.icrc.org/law-and-policy/2024/08/29/artificial-intelligence-in-military-decision-making-supporting-humans-not-replacing-them/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.icrc.org/law-and-policy/2024/08/29/artificial-intelligence-in-military-decision-making-supporting-humans-not-replacing-them/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ICRC BlogsAI in military decision-making: supporting humans, not...Aug 29, 2024 — As a result of these, the use of AI DSS has the potent...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6082847](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6082847)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SSRNAI-Enabled Military Decision-Making and Escalation Riskby B Oktenli · 2026 — This paper examines how AI-enabled decision support and...</p></details>
+   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6082847" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6082847</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-Enabled Military Decision-Making and Escalation Riskby B Oktenli · 2026 — This paper examines how AI-enabled decision support and...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sipri.org  
-   Link: [https://www.sipri.org/publications/2025/sipri-insights-peace-and-security/impact-military-artificial-intelligence-nuclear-escalation-risk](https://www.sipri.org/publications/2025/sipri-insights-peace-and-security/impact-military-artificial-intelligence-nuclear-escalation-risk)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SIPRIImpact of Military Artificial Intelligence on Nuclear...Increasing integration of artificial intelligence (AI) into military system...</p></details>
+   Link: <a href="https://www.sipri.org/publications/2025/sipri-insights-peace-and-security/impact-military-artificial-intelligence-nuclear-escalation-risk" target="_blank" rel="noopener noreferrer nofollow">https://www.sipri.org/publications/2025/sipri-insights-peace-and-security/impact-military-artificial-intelligence-nuclear-escalation-risk</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Impact of Military Artificial Intelligence on Nuclear...Increasing integration of artificial intelligence (AI) into military system...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/journals/cambridge-forum-on-ai-law-and-[governance](https://www.cambridge.org/core/journals/cambridge-forum-on-ai-law-and-[governance)  
+   Link: <a href="https://www.cambridge.org/core/journals/cambridge-forum-on-ai-law-and-[governance" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/cambridge-forum-on-ai-law-and-[governance</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentUpskilling human actors against AI automation bias in...by YK Heng · 2025 · Cited by 2 — The use...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: blogs.icrc.org  
    Title: the problem of algorithmic bias in ai based military decision support systems  
-   Link: [https://blogs.icrc.org/law-and-policy/2024/09/03/the-problem-of-algorithmic-bias-in-ai-based-military-decision-support-systems/](https://blogs.icrc.org/law-and-policy/2024/09/03/the-problem-of-algorithmic-bias-in-ai-based-military-decision-support-systems/)  
+   Link: <a href="https://blogs.icrc.org/law-and-policy/2024/09/03/the-problem-of-algorithmic-bias-in-ai-based-military-decision-support-systems/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.icrc.org/law-and-policy/2024/09/03/the-problem-of-algorithmic-bias-in-ai-based-military-decision-support-systems/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ICRC BlogsThe problem of algorithmic bias in AI-based military decision...3 Sept 2024 — Algorithmic bias has long been recognized as a k...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: sipri.org  
-   Link: [https://www.sipri.org/publications/2024/sipri-background-papers/bias-military-artificial-intelligence](https://www.sipri.org/publications/2024/sipri-background-papers/bias-military-artificial-intelligence)  
+   Link: <a href="https://www.sipri.org/publications/2024/sipri-background-papers/bias-military-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.sipri.org/publications/2024/sipri-background-papers/bias-military-artificial-intelligence</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bias in Military Artificial IntelligenceThis background paper provides a deeper examination of the issue of bias in military AI. Three in...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: blogs.icrc.org  
-   Link: [https://blogs.icrc.org/app/uploads/sites/102/2024/08/artificial-intelligence-in-military-decision-making-supporting-humans-not-replacing-them-2.pdf](https://blogs.icrc.org/app/uploads/sites/102/2024/08/artificial-intelligence-in-military-decision-making-supporting-humans-not-replacing-them-2.pdf)  
+   Link: <a href="https://blogs.icrc.org/app/uploads/sites/102/2024/08/artificial-intelligence-in-military-decision-making-supporting-humans-not-replacing-them-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://blogs.icrc.org/app/uploads/sites/102/2024/08/artificial-intelligence-in-military-decision-making-supporting-humans-not-replacing-them-2.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ICRC BlogsAI in military decision-making: supporting humans, not...by W Zhou · Cited by 4 — The novelty of this development is that the...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2411.00998](https://arxiv.org/abs/2411.00998)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivAutomation Bias in AI-Assisted Medical Decision-Making under Time Pressure in Computational PathologyNovember 1, 2024...</p></details>
+   Link: <a href="https://arxiv.org/abs/2411.00998" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.00998</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Automation Bias in AI-Assisted Medical Decision-Making under Time Pressure in Computational PathologyNovember 1, 2024...</p></details>
    Published: November 1, 2024  
 
 9. <a id="endnote-9"></a>
    Source: sipri.org  
-   Link: [https://www.sipri.org/publications/2020/policy-reports/artificial-intelligence-strategic-stability-and-nuclear-risk](https://www.sipri.org/publications/2020/policy-reports/artificial-intelligence-strategic-stability-and-nuclear-risk)  
+   Link: <a href="https://www.sipri.org/publications/2020/policy-reports/artificial-intelligence-strategic-stability-and-nuclear-risk" target="_blank" rel="noopener noreferrer nofollow">https://www.sipri.org/publications/2020/policy-reports/artificial-intelligence-strategic-stability-and-nuclear-risk</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial Intelligence, Strategic Stability and Nuclear RiskThis report aims to offer the reader a concrete understanding of how the ado...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2103.02381](https://arxiv.org/abs/2103.02381)  
+   Link: <a href="https://arxiv.org/abs/2103.02381" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2103.02381</a>  
 
 11. <a id="endnote-11"></a>
    Source: sipri.org  
-   Link: [https://www.sipri.org/publications/2025/other-publications/autonomous-weapon-systems-and-ai-enabled-decision-support-systems-military-targeting-comparison-and](https://www.sipri.org/publications/2025/other-publications/autonomous-weapon-systems-and-ai-enabled-decision-support-systems-military-targeting-comparison-and)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SIPRIAutonomous Weapon Systems and AI-enabled Decision...This report provides a comparative analysis of autonomous weapon systems and ar...</p></details>
+   Link: <a href="https://www.sipri.org/publications/2025/other-publications/autonomous-weapon-systems-and-ai-enabled-decision-support-systems-military-targeting-comparison-and" target="_blank" rel="noopener noreferrer nofollow">https://www.sipri.org/publications/2025/other-publications/autonomous-weapon-systems-and-ai-enabled-decision-support-systems-military-targeting-comparison-and</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous Weapon Systems and AI-enabled Decision...This report provides a comparative analysis of autonomous weapon systems and ar...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2604.04333](https://arxiv.org/abs/2604.04333)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivWhat is Human in Judgment? Testing Automation Bias and Algorithm Aversion Among United States Military Academy CadetsApril 6, 2026...</p></details>
+   Link: <a href="https://arxiv.org/abs/2604.04333" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.04333</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Human in Judgment? Testing Automation Bias and Algorithm Aversion Among United States Military Academy CadetsApril 6, 2026...</p></details>
    Published: April 6, 2026  
 
 13. <a id="endnote-13"></a>
    Source: blogs.icrc.org  
-   Link: [https://blogs.icrc.org/app/uploads/sites/102/2024/09/transcending-weapon-systems-the-ethical-challenges-of-ai-in-military-decision-support-systems.pdf](https://blogs.icrc.org/app/uploads/sites/102/2024/09/transcending-weapon-systems-the-ethical-challenges-of-ai-in-military-decision-support-systems.pdf)  
+   Link: <a href="https://blogs.icrc.org/app/uploads/sites/102/2024/09/transcending-weapon-systems-the-ethical-challenges-of-ai-in-military-decision-support-systems.pdf" target="_blank" rel="noopener noreferrer nofollow">https://blogs.icrc.org/app/uploads/sites/102/2024/09/transcending-weapon-systems-the-ethical-challenges-of-ai-in-military-decision-support-systems.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ICRC Blogsthe ethical challenges of AI in military decision support...by M Klaus · Cited by 13 — However, they could foster forms of bia...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: sipri.org  
-   Title: 0825 [ai military](&#123;&#123; 'military-ai-risk/' | relative_url &#125;&#125;) bias  
-   Link: [https://www.sipri.org/sites/default/files/2025-08/0825_ai_military_bias.pdf](https://www.sipri.org/sites/default/files/2025-08/0825_ai_military_bias.pdf)  
+   Title: 0825 ai military bias  
+   Link: <a href="https://www.sipri.org/sites/default/files/2025-08/0825_ai_military_bias.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sipri.org/sites/default/files/2025-08/0825_ai_military_bias.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bias in Military Artificial Intelligence and Compliance with...3 Aug 2025 — Focusing on bias in AI-enabled autonomous weapon systems (AW...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: sipri.org  
-   Link: [https://www.sipri.org/publications/2025/other-publications/bias-military-artificial-intelligence-and-compliance-international-humanitarian-law](https://www.sipri.org/publications/2025/other-publications/bias-military-artificial-intelligence-and-compliance-international-humanitarian-law)  
+   Link: <a href="https://www.sipri.org/publications/2025/other-publications/bias-military-artificial-intelligence-and-compliance-international-humanitarian-law" target="_blank" rel="noopener noreferrer nofollow">https://www.sipri.org/publications/2025/other-publications/bias-military-artificial-intelligence-and-compliance-international-humanitarian-law</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Then, focusing on bias in AI-enabled autonomous weapon systems and AI-...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: sipri.org  
-   Link: [https://www.sipri.org/sites/default/files/2024-12/background_paper_bias_in_military_ai_0.pdf](https://www.sipri.org/sites/default/files/2024-12/background_paper_bias_in_military_ai_0.pdf)  
+   Link: <a href="https://www.sipri.org/sites/default/files/2024-12/background_paper_bias_in_military_ai_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sipri.org/sites/default/files/2024-12/background_paper_bias_in_military_ai_0.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bias in Military Artificial IntelligenceBias in AI used for targeting (e.g. AWS and AIenabled DSS) poses risks of target misidentificatio...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: sipri.org  
    Title: hosts virtual launch event new report bias military ai  
-   Link: [https://www.sipri.org/events/2025/sipri-hosts-virtual-launch-event-new-report-bias-military-ai](https://www.sipri.org/events/2025/sipri-hosts-virtual-launch-event-new-report-bias-military-ai)  
+   Link: <a href="https://www.sipri.org/events/2025/sipri-hosts-virtual-launch-event-new-report-bias-military-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.sipri.org/events/2025/sipri-hosts-virtual-launch-event-new-report-bias-military-ai</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SIPRI hosts virtual launch event for new report on bias in...Aug 29, 2025 — Informed by insights gathered during an expert workshop conv...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: sipri.org  
    Title: 2025 6 ai and nuclear risk  
-   Link: [https://www.sipri.org/sites/default/files/2025-06/2025_6_ai_and_nuclear_risk.pdf](https://www.sipri.org/sites/default/files/2025-06/2025_6_ai_and_nuclear_risk.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-powered decision-support system can bias a decision- maker towards acting, while autonomy in a system with.Read more...</p></details>
+   Link: <a href="https://www.sipri.org/sites/default/files/2025-06/2025_6_ai_and_nuclear_risk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sipri.org/sites/default/files/2025-06/2025_6_ai_and_nuclear_risk.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-powered decision-support system can bias a decision- maker towards acting, while [autonomy](&amp;#123;&amp;#123; &#x27;autonomy/&#x27; | relative_url &amp;#125;&amp;#125;) in a system with.Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: sipri.org  
-   Link: [https://www.sipri.org/commentary/topical-backgrounder/2026/mapping-military-ai-industry](https://www.sipri.org/commentary/topical-backgrounder/2026/mapping-military-ai-industry)  
+   Link: <a href="https://www.sipri.org/commentary/topical-backgrounder/2026/mapping-military-ai-industry" target="_blank" rel="noopener noreferrer nofollow">https://www.sipri.org/commentary/topical-backgrounder/2026/mapping-military-ai-industry</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rs, as well as civil society and academic...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: sipri.org  
    Title: military ai responsible procurement  
-   Link: [https://www.sipri.org/commentary/essay/2025/military-ai-responsible-procurement](https://www.sipri.org/commentary/essay/2025/military-ai-responsible-procurement)  
+   Link: <a href="https://www.sipri.org/commentary/essay/2025/military-ai-responsible-procurement" target="_blank" rel="noopener noreferrer nofollow">https://www.sipri.org/commentary/essay/2025/military-ai-responsible-procurement</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Responsible behaviour in military AI starts with...16 Oct 2025 — Areas where AI is expected to generate important opportunities in the m...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: icrc.org  
    Title: See how we deliver aid and uphold international  
-   Link: [https://www.icrc.org/en](https://www.icrc.org/en)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ICRC: Neutral humanitarian action | Protecting lives in conflictThe ICRC protects lives and dignity in conflict zones through neutral, im...</p></details>
+   Link: <a href="https://www.icrc.org/en" target="_blank" rel="noopener noreferrer nofollow">https://www.icrc.org/en</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Neutral humanitarian action | Protecting lives in conflictThe ICRC protects lives and dignity in conflict zones through neutral, im...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: careers.icrc.org  
-   Link: [https://careers.icrc.org/go/All-Jobs/3807301/](https://careers.icrc.org/go/All-Jobs/3807301/)  
+   Link: <a href="https://careers.icrc.org/go/All-Jobs/3807301/" target="_blank" rel="noopener noreferrer nofollow">https://careers.icrc.org/go/All-Jobs/3807301/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>job vacanciesFrom medical assistance and food distribution to logistics and finance, see our humanitarian career opportunities and apply...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: blogs.icrc.org  
    Title: artificial intelligence in military decision making  
-   Link: [https://blogs.icrc.org/law-and-policy/category/special-themes/artificial-intelligence-in-military-decision-making/](https://blogs.icrc.org/law-and-policy/category/special-themes/artificial-intelligence-in-military-decision-making/)  
+   Link: <a href="https://blogs.icrc.org/law-and-policy/category/special-themes/artificial-intelligence-in-military-decision-making/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.icrc.org/law-and-policy/category/special-themes/artificial-intelligence-in-military-decision-making/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>intelligence in military decision-making12 Mar 2026 — This series outlines and investigates the manifold challenges, risks, and the poten...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: blogs.icrc.org  
-   Link: [https://blogs.icrc.org/law-and-policy/2024/08/29/artificial-intelligence-in-military-decision-making-supporting-humans-not-replacing-them/artificial-intelligence-in-military-decision-making-supporting-humans-not-replacing-them-2/](https://blogs.icrc.org/law-and-policy/2024/08/29/artificial-intelligence-in-military-decision-making-supporting-humans-not-replacing-them/artificial-intelligence-in-military-decision-making-supporting-humans-not-replacing-them-2/)  
+   Link: <a href="https://blogs.icrc.org/law-and-policy/2024/08/29/artificial-intelligence-in-military-decision-making-supporting-humans-not-replacing-them/artificial-intelligence-in-military-decision-making-supporting-humans-not-replacing-them-2/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.icrc.org/law-and-policy/2024/08/29/artificial-intelligence-in-military-decision-making-supporting-humans-not-replacing-them/artificial-intelligence-in-military-decision-making-supporting-humans-not-replacing-them-2/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ICRC Logistics. artificial-intelligence-in-military-decision-making-supporting-humans-not-replacing-them-2. Download. Share this article...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: blogs.icrc.org  
    Title: constant care must be taken to address bias in military ai  
-   Link: [https://blogs.icrc.org/law-and-policy/2025/08/28/constant-care-must-be-taken-to-address-bias-in-military-ai/](https://blogs.icrc.org/law-and-policy/2025/08/28/constant-care-must-be-taken-to-address-bias-in-military-ai/)  
+   Link: <a href="https://blogs.icrc.org/law-and-policy/2025/08/28/constant-care-must-be-taken-to-address-bias-in-military-ai/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.icrc.org/law-and-policy/2025/08/28/constant-care-must-be-taken-to-address-bias-in-military-ai/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>icrc.org&#x27;Constant care&#x27; must be taken to address bias in military AI28 Aug 2025 — How bias in military AI may manifest in more complex an...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: blogs.icrc.org  
-   Link: [https://blogs.icrc.org/app/uploads/sites/102/2024/09/the-problem-of-algorithmic-bias-in-ai-based-military-decision-support-systems-1.pdf](https://blogs.icrc.org/app/uploads/sites/102/2024/09/the-problem-of-algorithmic-bias-in-ai-based-military-decision-support-systems-1.pdf)  
+   Link: <a href="https://blogs.icrc.org/app/uploads/sites/102/2024/09/the-problem-of-algorithmic-bias-in-ai-based-military-decision-support-systems-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://blogs.icrc.org/app/uploads/sites/102/2024/09/the-problem-of-algorithmic-bias-in-ai-based-military-decision-support-systems-1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I Bode · Cited by 11 — The increased use of AI in making military dec...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: automation.com  
-   Link: [https://www.automation.com/](https://www.automation.com/)  
+   Link: <a href="https://www.automation.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.automation.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>News, Articles &amp; Resources for Industrial...ISA provides technical resources and standards to help industrial automation professionals a...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/automation](https://dictionary.cambridge.org/dictionary/english/automation)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| English meaning - Cambridge Dictionary4 days ago — the use of machines or computers instead of people to do a job, especially in a fact...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/automation" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/automation</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary4 days ago — the use of machines or computers instead of people to do a job, especially in a fact...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/services/aop-cambridge-core/content/view/75804737BEF096498E05E3EB824A2877/S303337332510029Xa.pdf/div-class-title-upskilling-human-actors-against-ai-automation-bias-in-strategic-decision-making-on-the-resort-to-force-div.pdf](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/75804737BEF096498E05E3EB824A2877/S303337332510029Xa.pdf/div-class-title-upskilling-human-actors-against-ai-automation-bias-in-strategic-decision-making-on-the-resort-to-force-div.pdf)  
+   Link: <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/75804737BEF096498E05E3EB824A2877/S303337332510029Xa.pdf/div-class-title-upskilling-human-actors-against-ai-automation-bias-in-strategic-decision-making-on-the-resort-to-force-div.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/services/aop-cambridge-core/content/view/75804737BEF096498E05E3EB824A2877/S303337332510029Xa.pdf/div-class-title-upskilling-human-actors-against-ai-automation-bias-in-strategic-decision-making-on-the-resort-to-force-div.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/journals/cambridge-forum-on-ai-law-and-governance/article/computer-says-war-ai-and-resorttoforce-decision-making-in-a-context-of-rapid-change-and-global-uncertainty/CDB36A8431353395A740F78A3EFC0732](https://www.cambridge.org/core/journals/cambridge-forum-on-ai-law-and-governance/article/computer-says-war-ai-and-resorttoforce-decision-making-in-a-context-of-rapid-change-and-global-uncertainty/CDB36A8431353395A740F78A3EFC0732)  
+   Link: <a href="https://www.cambridge.org/core/journals/cambridge-forum-on-ai-law-and-governance/article/computer-says-war-ai-and-resorttoforce-decision-making-in-a-context-of-rapid-change-and-global-uncertainty/CDB36A8431353395A740F78A3EFC0732" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/cambridge-forum-on-ai-law-and-governance/article/computer-says-war-ai-and-resorttoforce-decision-making-in-a-context-of-rapid-change-and-global-uncertainty/CDB36A8431353395A740F78A3EFC0732</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Computer says, “war”: AI and resort-to-force decision...by T Erskine · 2025 — Upskillling human actors against AI automation bias in str...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: cambridge.org  
    Title: The erosion of human(e) judgement in targeting?  
-   Link: [https://www.cambridge.org/core/journals/international-review-of-the-red-cross/article/erosion-of-humane-judgement-in-targeting-quantification-logics-aienabled-decision-support-systems-and-proportionality-assessments-in-ihl/31024C3473211FB84FD535BC815ADC03](https://www.cambridge.org/core/journals/international-review-of-the-red-cross/article/erosion-of-humane-judgement-in-targeting-quantification-logics-aienabled-decision-support-systems-and-proportionality-assessments-in-ihl/31024C3473211FB84FD535BC815ADC03)  
+   Link: <a href="https://www.cambridge.org/core/journals/international-review-of-the-red-cross/article/erosion-of-humane-judgement-in-targeting-quantification-logics-aienabled-decision-support-systems-and-proportionality-assessments-in-ihl/31024C3473211FB84FD535BC815ADC03" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/international-review-of-the-red-cross/article/erosion-of-humane-judgement-in-targeting-quantification-logics-aienabled-decision-support-systems-and-proportionality-assessments-in-ihl/31024C3473211FB84FD535BC815ADC03</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>by J Dorsey · 2025 · Cited by 7 — This article examines the growing use of artificial intelligence (AI)-enabled decision support systems...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/Delivery.cfm/5375402.pdf?abstractid=5375402&mirid=1](https://papers.ssrn.com/sol3/Delivery.cfm/5375402.pdf?abstractid=5375402&mirid=1)  
+   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/5375402.pdf?abstractid=5375402&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/5375402.pdf?abstractid=5375402&amp;mirid=1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ssrn.com“Because We Take Our Values to War” Analyzing the...5 In certain scenarios, AI systems—particularly some autonomous weapons—can...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: iaps.ai  
    Title: ai decision support systems  
-   Link: [https://www.iaps.ai/research/ai-decision-support-systems](https://www.iaps.ai/research/ai-decision-support-systems)  
+   Link: <a href="https://www.iaps.ai/research/ai-decision-support-systems" target="_blank" rel="noopener noreferrer nofollow">https://www.iaps.ai/research/ai-decision-support-systems</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Institute for AI Policy and StrategyAI Decision Support Systems: A Neglected Source of...9 Apr 2026 — Automation Bias: Operators over-tr...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: perryworldhouse.upenn.edu  
    Title: the myth of the human in the loop and the reality of cognitive offloading  
-   Link: [https://perryworldhouse.upenn.edu/news-and-insight/the-myth-of-the-human-in-the-loop-and-the-reality-of-cognitive-offloading/](https://perryworldhouse.upenn.edu/news-and-insight/the-myth-of-the-human-in-the-loop-and-the-reality-of-cognitive-offloading/)  
+   Link: <a href="https://perryworldhouse.upenn.edu/news-and-insight/the-myth-of-the-human-in-the-loop-and-the-reality-of-cognitive-offloading/" target="_blank" rel="noopener noreferrer nofollow">https://perryworldhouse.upenn.edu/news-and-insight/the-myth-of-the-human-in-the-loop-and-the-reality-of-cognitive-offloading/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Perry World HouseThe Myth of the Human-in-the-Loop and the Reality...Nov 24, 2025 — Automation bias can endanger the successful deployme...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: repository.cam.ac.uk  
-   Link: [https://www.repository.cam.ac.uk/bitstreams/2b292975-6ced-479d-bbd5-b9a2cfd391ab/download](https://www.repository.cam.ac.uk/bitstreams/2b292975-6ced-479d-bbd5-b9a2cfd391ab/download)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge RepositoryAugmenting military decision making with artificial...by K Vold · 2026 · Cited by 1 — This article explores how AI m...</p></details>
+   Link: <a href="https://www.repository.cam.ac.uk/bitstreams/2b292975-6ced-479d-bbd5-b9a2cfd391ab/download" target="_blank" rel="noopener noreferrer nofollow">https://www.repository.cam.ac.uk/bitstreams/2b292975-6ced-479d-bbd5-b9a2cfd391ab/download</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>bridge RepositoryAugmenting military decision making with artificial...by K Vold · 2026 · Cited by 1 — This article explores how AI m...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: automatedresearch.org  
-   Link: [https://automatedresearch.org/news/news-briefing-26-august-6-september-2024/](https://automatedresearch.org/news/news-briefing-26-august-6-september-2024/)  
+   Link: <a href="https://automatedresearch.org/news/news-briefing-26-august-6-september-2024/" target="_blank" rel="noopener noreferrer nofollow">https://automatedresearch.org/news/news-briefing-26-august-6-september-2024/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Automated Decision ResearchNews Briefing 26 August - 6 September 20246 Sept 2024 — The authors argue that AI should complement, not repla...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: mdpi.com  
    Title: Automation | An Open Access Journal from MDPIAutomation  
-   Link: [https://www.mdpi.com/journal/automation](https://www.mdpi.com/journal/automation)  
+   Link: <a href="https://www.mdpi.com/journal/automation" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/journal/automation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Automation is an international, peer-reviewed, open access journal on automation and control systems published bimonthly online by MDPI...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: ojs.bonviewpress.com  
-   Link: [https://ojs.bonviewpress.com/index.php/AIA/article/view/5549/1955](https://ojs.bonviewpress.com/index.php/AIA/article/view/5549/1955)  
+   Link: <a href="https://ojs.bonviewpress.com/index.php/AIA/article/view/5549/1955" target="_blank" rel="noopener noreferrer nofollow">https://ojs.bonviewpress.com/index.php/AIA/article/view/5549/1955</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI decision support and providing a practical basis for controlled userstudies on trust, bias, and ethical judgment in military human–AI...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: Wikipedia  
    Title: International Committee of the Red Cross  
-   Link: [https://en.wikipedia.org/wiki/International_Committee_of_the_Red_Cross](https://en.wikipedia.org/wiki/International_Committee_of_the_Red_Cross)  
+   Link: <a href="https://en.wikipedia.org/wiki/International_Committee_of_the_Red_Cross" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/International_Committee_of_the_Red_Cross</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>International Committee of the Red CrossThe International Committee of the Red Cross (ICRC) is a humanitarian aid organization based i...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Automation](https://en.wikipedia.org/wiki/Automation)  
+   Link: <a href="https://en.wikipedia.org/wiki/Automation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Automation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AutomationAutomation describes a wide range of technologies that reduce human intervention in processes, mainly by predetermining deci...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/automation](https://www.merriam-webster.com/dictionary/automation)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/automation" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/automation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; MeaningApr 29, 2026 — The meaning of AUTOMATION is the technique of making an apparatus, a process, or a system operate auto...</p></details>
 
 ### Additional References
 
 42. <a id="endnote-42"></a>
    Source: vimeo.com  
-   Link: [https://vimeo.com/1094320405](https://vimeo.com/1094320405)  
+   Link: <a href="https://vimeo.com/1094320405" target="_blank" rel="noopener noreferrer nofollow">https://vimeo.com/1094320405</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI in Military Decision Making: A Dialogue on How to Enhance...Military armed forces are exploring increasingly sophisticated artificial...</p></details>
 
 43. <a id="endnote-43"></a>
    Source: history-commons.net  
-   Link: [https://history-commons.net/artifacts/29033032/ai-in-military-decision-making/29932885/](https://history-commons.net/artifacts/29033032/ai-in-military-decision-making/29932885/)  
+   Link: <a href="https://history-commons.net/artifacts/29033032/ai-in-military-decision-making/29932885/" target="_blank" rel="noopener noreferrer nofollow">https://history-commons.net/artifacts/29033032/ai-in-military-decision-making/29932885/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI in Military Decision-Making: ICRC Observations on...The ICRC stresses that these systems must augment, not replace, human decision-ma...</p></details>
 
 44. <a id="endnote-44"></a>
    Source: turing.ac.uk  
-   Link: [https://www.turing.ac.uk/sites/default/files/2025-09/turing_final_report_ai_wont_replace_the_general_2025.pdf](https://www.turing.ac.uk/sites/default/files/2025-09/turing_final_report_ai_wont_replace_the_general_2025.pdf)  
+   Link: <a href="https://www.turing.ac.uk/sites/default/files/2025-09/turing_final_report_ai_wont_replace_the_general_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.turing.ac.uk/sites/default/files/2025-09/turing_final_report_ai_wont_replace_the_general_2025.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Algorithms, Decision-making and Battlefield CommandThis study aimed to identify AI exploitation challenges for UK Defence3 when integrati...</p></details>
 
 45. <a id="endnote-45"></a>
    Source: automationanywhere.com  
-   Link: [https://www.automationanywhere.com/home](https://www.automationanywhere.com/home)  
+   Link: <a href="https://www.automationanywhere.com/home" target="_blank" rel="noopener noreferrer nofollow">https://www.automationanywhere.com/home</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Automation Anywhere: The #1 Provider of Agentic AutomationThe industry&#x27;s most advanced, most deployed agentic process automation system c...</p></details>
 
 46. <a id="endnote-46"></a>
    Source: cset.georgetown.edu  
-   Link: [https://cset.georgetown.edu/publication/ai-safety-and-automation-bias/](https://cset.georgetown.edu/publication/ai-safety-and-automation-bias/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CSETAI Safety and Automation BiasAutomation bias is the tendency for an individual to over-rely on an automated system. It can lead to in...</p></details>
+   Link: <a href="https://cset.georgetown.edu/publication/ai-safety-and-automation-bias/" target="_blank" rel="noopener noreferrer nofollow">https://cset.georgetown.edu/publication/ai-safety-and-automation-bias/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Safety and Automation BiasAutomation bias is the tendency for an individual to over-rely on an automated system. It can lead to in...</p></details>
 
 47. <a id="endnote-47"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/boell-human-security_stockholm-international-peace-research-institute-activity-7370748867836809216-TZ6N](https://www.linkedin.com/posts/boell-human-security_stockholm-international-peace-research-institute-activity-7370748867836809216-TZ6N)  
+   Link: <a href="https://www.linkedin.com/posts/boell-human-security_stockholm-international-peace-research-institute-activity-7370748867836809216-TZ6N" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/boell-human-security_stockholm-international-peace-research-institute-activity-7370748867836809216-TZ6N</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Heinrich-Böll-Stiftung | Global Unit for Human Security&#x27;s PostStockholm International Peace Research Institute (SIPRI) published a report...</p></details>
 
 48. <a id="endnote-48"></a>
    Source: docs-library.unoda.org  
-   Link: [https://docs-library.unoda.org/General_Assembly_First_Committee_-Eightieth_session_%282025%29/79-239-Dorsey-Bo-Bode-Schwarz-EN.pdf](https://docs-library.unoda.org/General_Assembly_First_Committee_-Eightieth_session_%282025%29/79-239-Dorsey-Bo-Bode-Schwarz-EN.pdf)  
+   Link: <a href="https://docs-library.unoda.org/General_Assembly_First_Committee_-Eightieth_session_%282025%29/79-239-Dorsey-Bo-Bode-Schwarz-EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs-library.unoda.org/General_Assembly_First_Committee_-Eightieth_session_%282025%29/79-239-Dorsey-Bo-Bode-Schwarz-EN.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Systems and AI-Enabled Decision Support Systems, Stockholm International Peace Research Institution. (SIPRI) forthcoming 2025 (draft on f...</p></details>
 
 49. <a id="endnote-49"></a>
    Source: reachingcriticalwill.org  
-   Link: [https://www.reachingcriticalwill.org/resources/statements/18078-presentation-on-the-legal-and-humanitarian-implications-of-bias-in-military-ai](https://www.reachingcriticalwill.org/resources/statements/18078-presentation-on-the-legal-and-humanitarian-implications-of-bias-in-military-ai)  
+   Link: <a href="https://www.reachingcriticalwill.org/resources/statements/18078-presentation-on-the-legal-and-humanitarian-implications-of-bias-in-military-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.reachingcriticalwill.org/resources/statements/18078-presentation-on-the-legal-and-humanitarian-implications-of-bias-in-military-ai</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Presentation on the Legal and Humanitarian Implications...Oct 27, 2025 — Presentation on the Legal and Humanitarian Implications of Bias...</p></details>
 
 50. <a id="endnote-50"></a>
    Source: cset.georgetown.edu  
    Title: reducing the risks of artificial intelligence for military decision advantage  
-   Link: [https://cset.georgetown.edu/publication/reducing-the-risks-of-artificial-intelligence-for-military-decision-advantage/](https://cset.georgetown.edu/publication/reducing-the-risks-of-artificial-intelligence-for-military-decision-advantage/)  
+   Link: <a href="https://cset.georgetown.edu/publication/reducing-the-risks-of-artificial-intelligence-for-military-decision-advantage/" target="_blank" rel="noopener noreferrer nofollow">https://cset.georgetown.edu/publication/reducing-the-risks-of-artificial-intelligence-for-military-decision-advantage/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the Risks of Artificial Intelligence for Military...This policy brief examines how failures in AI systems directly or indirectly influen...</p></details>
 
 51. <a id="endnote-51"></a>
    Source: geneva-academy.ch  
-   Link: [https://geneva-academy.ch/wp-content/uploads/2025/09/Artificial-Intelligence-And-Related-Technologies-In-Military-Decision-Making.pdf](https://geneva-academy.ch/wp-content/uploads/2025/09/Artificial-Intelligence-And-Related-Technologies-In-Military-Decision-Making.pdf)  
+   Link: <a href="https://geneva-academy.ch/wp-content/uploads/2025/09/Artificial-Intelligence-And-Related-Technologies-In-Military-Decision-Making.pdf" target="_blank" rel="noopener noreferrer nofollow">https://geneva-academy.ch/wp-content/uploads/2025/09/Artificial-Intelligence-And-Related-Technologies-In-Military-Decision-Making.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ry decision-making on the use of force, in terms of compliance with IHL and the...Read more...</p></details>
