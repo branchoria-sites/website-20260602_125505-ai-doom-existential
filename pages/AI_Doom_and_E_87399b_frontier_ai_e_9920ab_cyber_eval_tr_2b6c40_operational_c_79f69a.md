@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /cyber-tripwires/
 nav_short_title: Operational Thresholds
 title: When AI Cyber Skills Cross Real World Thresholds
-title_full: When AI Cyber Skills Cross Real World Thresholds | Cyber tripwires
+title_full: When AI Cyber Skills Cross Real World Thresholds
 display_title_short: Operational Thresholds
 display_title: Operational Thresholds
 heading_title: When AI Cyber Skills Cross Real World Thresholds
@@ -204,7 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 21:14:23'
-parent_title: When should cyber evals stop a release? | Evals
+parent_title: When should cyber evals stop a release?
 parent_permalink: /cyber-tripwires/
 parent_nav_short_title: Cyber tripwires
 parent_heading_title: When should cyber evals stop a release?
@@ -271,7 +271,6 @@ image: /assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b
 
 In debates about AI doom and existential risk, cyber [evaluations]({{ 'evaluations/' | relative_url }}) matter because they may provide one of the earliest observable signs that an AI system is crossing from laboratory competence into real-world operational capability. The key question is not whether a model can answer cybersecurity questions or solve benchmark puzzles. It is whether it can reliably help carry out substantial parts of an attack campaign in realistic environments, reducing the expertise, time, or effort required for dangerous actors. When that happens, many safety frameworks argue that deployment should no longer be treated as an ordinary product decision. Instead, it becomes a [governance]({{ 'governance/' | relative_url }}) decision involving access controls, security requirements, monitoring, and potentially delayed release. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.openai.com">[OpenAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.openai.com</span><span class="citation-popover-title">Open AIPreparedness Framework</span><span class="citation-popover-snippet">Preparedness FrameworkApril 28, 2025 — 15 Apr 2025 — Critical capability thresholds mean capabilities that present a meaningful ris...</span><span class="citation-popover-meta">Published: April 28, 2025</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_operational_c_79f69a-Illustration-1-dark.svg" | relative_url }}" alt="Operational Thresholds illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_operational_c_79f69a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_operational_c_79f69a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader question of when cyber evaluations become genuine deployment tripwires, operational-[capability thresholds]({{ 'capability-thresholds/' | relative_url }}) are the point at which demonstrated performance is considered strong enough to trigger additional safeguards. The central challenge is determining where that threshold should sit and what evidence should count as crossing it.
 
@@ -280,7 +279,6 @@ Within the broader question of when cyber evaluations become genuine deployment 
 A cyber capability threshold is not simply a benchmark score. Most frontier AI governance frameworks define thresholds in terms of meaningful changes to real-world risk.
 
 OpenAI's Preparedness Framework describes critical capability thresholds as capabilities that create a qualitatively new route to severe harm and therefore require safeguards. Anthropic's Responsible Scaling Policy similarly links capability thresholds to mandatory protections rather than treating them as research curiosities. The broader frontier-AI governance literature increasingly converges on the idea that thresholds should trigger specific mitigations rather than merely generate concern. <span class="citation-chip-wrap"><a class="citation-chip" href="https://metr.org/common-elements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[METR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-title">common elements</span><span class="citation-popover-snippet">Common Elements of Frontier AI Safety Policies16 Dec 2025 — Capability Thresholds: Thresholds at which specific AI capabilities would...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.openai.com">[OpenAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.openai.com</span><span class="citation-popover-title">Open AIPreparedness Framework</span><span class="citation-popover-snippet">Preparedness FrameworkApril 28, 2025 — 15 Apr 2025 — Critical capability thresholds mean capabilities that present a meaningful ris...</span><span class="citation-popover-meta">Published: April 28, 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www-cdn.anthropic.com/872c653b2d0501d6ab44cf87f43e1dc4853e4d37.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www-cdn.anthropic.com">[Anthropic For cyber risk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www-cdn.anthropic.com</span><span class="citation-popover-snippet">This update to our RSP provides...Read more...</span></span></span>, the most important distinction is between:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -309,7 +307,6 @@ Second, performance improved when models were given larger inference budgets. Mo
 
 These findings suggest that operational thresholds cannot be defined purely in terms of model architecture or benchmark rankings. They must account for the entire deployed system, including agent scaffolding, tool access, memory systems, and inference-time resources.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bUF_A0gpsj8" title="LLM Performance in Multi-Step Cyber Attacks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bUF_A0gpsj8" target="_blank" rel="noopener noreferrer">LLM Performance in Multi-Step Cyber Attacks</a></p><p class="youtube-embed-meta">Channel: AI Research Roundup &middot; Views: 29 &middot; Uploaded: March 2026 &middot; Length: 4 minutes 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bUF_A0gpsj8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bUF_A0gpsj8">Open on YouTube</a></p></div></div></div>
 
 ## What Evidence Would Actually Trigger a Deployment Restriction?
@@ -329,7 +326,6 @@ If a model can repeatedly complete substantial fractions of realistic attack seq
 The UK AI Security Institute reports that frontier models progressed from apprentice-level cyber performance in 2023 to completing some expert-level tasks in 2025. That does not mean they have become expert hackers overall, but it demonstrates that expert-level performance is now appearing in at least some evaluation settings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)Cyber: Models started completing expert-level tasks (ty...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)Cyber: Models started completing expert-level tasks (ty...</span></span></span>
 
 For many governance proposals, the appearance of expert-level capability is an important warning sign because it suggests that further improvements could rapidly expand operational usefulness.
-
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_operational_c_79f69a-Illustration-2-dark.svg" | relative_url }}" alt="Operational Thresholds illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_operational_c_79f69a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_operational_c_79f69a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Autonomous operation over extended periods
@@ -354,7 +350,6 @@ Another concern involves recursive capability growth. If AI systems become capab
 
 Importantly, operational cyber thresholds are not treated as proof that an AI takeover is imminent. Rather, they are viewed as warning indicators that a system is acquiring real-world leverage over critical digital environments.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Hx5dIJ3H8p4" title="Understanding the Most Viral Chart in Artificial Intelligence | Odd Lots" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Hx5dIJ3H8p4" target="_blank" rel="noopener noreferrer">Understanding the Most Viral Chart in Artificial Intelligence | Odd Lots</a></p><p class="youtube-embed-meta">Channel: Bloomberg Podcasts &middot; Views: 5.5K &middot; Uploaded: April 2026 &middot; Length: 1 hour 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Hx5dIJ3H8p4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Hx5dIJ3H8p4">Open on YouTube</a></p></div></div></div>
 
 ## The Main Dispute: Are Current Models Near the Threshold?
@@ -373,7 +368,6 @@ Current systems still fail many realistic attack scenarios. Even the strongest m
 From this perspective, today's systems may represent rapid progress without yet constituting the kind of robust operational capability that would justify the most restrictive deployment responses.
 
 The disagreement is therefore less about whether capabilities are improving and more about where the relevant threshold lies.
-
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_operational_c_79f69a-Illustration-3-dark.svg" | relative_url }}" alt="Operational Thresholds illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_operational_c_79f69a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_operational_c_79f69a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Happens After a Threshold Is Crossed?
@@ -399,9 +393,7 @@ The underlying idea is straightforward: if a model acquires cyber capabilities t
 
 For readers interested in AI doom arguments, operational cyber thresholds are therefore important not because they prove [catastrophic]({{ 'misuse/' | relative_url }}) outcomes are likely, but because they provide one of the clearest observable indicators that advanced AI systems are moving from laboratory demonstrations towards capabilities with genuine strategic consequences. The entire purpose of cyber evaluations as deployment tripwires is to identify that transition before the consequences become difficult to reverse.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UB4esgnycTw" title="Immersive boosts cyber resilience through AI-powered attack simulations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UB4esgnycTw" target="_blank" rel="noopener noreferrer">Immersive boosts cyber resilience through AI-powered attack simulations</a></p><p class="youtube-embed-meta">Channel: DEMO &middot; Views: 356 &middot; Uploaded: March 2026 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UB4esgnycTw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UB4esgnycTw">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

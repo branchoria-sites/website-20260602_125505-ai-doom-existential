@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /successor-training/
 nav_short_title: Compute limits
 title: Could compute stop a runaway AI loop?
-title_full: Could compute stop a runaway AI loop? | Successor training
+title_full: Could compute stop a runaway AI loop?
 display_title_short: Compute limits
 display_title: Compute limits
 heading_title: Could compute stop a runaway AI loop?
@@ -204,7 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 12:19:33'
-parent_title: Could AI train the next AI itself? | AI Takeoff
+parent_title: Could AI train the next AI itself?
 parent_permalink: /successor-training/
 parent_nav_short_title: Successor training
 parent_heading_title: Could AI train the next AI itself?
@@ -277,7 +277,6 @@ image: /assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_716
 
 One objection to runaway AI self-improvement is simple: intelligence is not the same thing as compute. Even if an AI became an excellent researcher and could help design a stronger successor, it would still need vast amounts of computing hardware, electricity, data-centre capacity, and funding to train that successor. In the AI doom debate, this matters because many fast-takeoff scenarios assume that each generation of AI can rapidly create a more capable next generation. Compute constraints are one of the strongest reasons to think that such feedback loops could be slower, more expensive, and easier to observe than some classic intelligence-explosion stories suggest.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e_compute_limit_3ad269-Illustration-1-dark.svg" | relative_url }}" alt="Compute limits illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e_compute_limit_3ad269-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e_compute_limit_3ad269-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 At the same time, compute limits are not necessarily permanent barriers. Recent decades have seen extraordinary growth in AI training compute, supported by expanding chip production, larger data centres, improving algorithms, and huge capital investment. The key question is therefore not whether compute matters—it clearly does—but whether physical infrastructure grows fast enough to keep pace with increasingly capable automated AI research. <span class="citation-chip-wrap"><a class="citation-chip" href="https://epoch.ai/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epoch.ai">[Epoch AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epoch.ai</span><span class="citation-popover-snippet">The amount of compute used to train frontier language models has grown exponentially. Since 2020, the trend among top-5 models ha...</span></span></span>
 
@@ -286,7 +285,6 @@ At the same time, compute limits are not necessarily permanent barriers. Recent 
 A common misunderstanding in discussions of recursive self-improvement is that a smarter AI could improve itself purely through software. In reality, training a frontier model is a large industrial process.
 
 Creating a more capable successor typically requires:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -301,7 +299,6 @@ Creating a more capable successor typically requires:
 Even if an AI system generated brilliant new algorithms, those ideas would still need to be tested and validated through experiments that consume real computational resources. Frontier model training already operates at scales where hardware acquisition, cluster construction, and energy supply become major strategic concerns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2405.21015" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The rising costs of training frontier AI models</span><span class="citation-popover-snippet">The rising costs of training frontier AI modelsMay 31, 2024...</span><span class="citation-popover-meta">Published: May 31, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-next-big-shifts-in-ai-workloads-and-hyperscaler-strategies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mckinsey.com">[McKinsey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mckinsey.com</span><span class="citation-popover-title">the next big shifts in ai workloads and hyperscaler strategies</span><span class="citation-popover-snippet">McKinsey &amp; CompanyThe next big shifts in AI workloads and hyperscaler strategies17 Dec 2025 — Training workloads will demand up to one me...</span></span></span> & Company
 
 This creates a distinction that is often blurred in public discussions. An AI may be able to automate cognitive labour—writing code, designing experiments, analysing results—without automatically solving physical bottlenecks such as chip manufacturing or power generation.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/04Kutj1vAiw" title="Forget NVIDIA | This 24-Year-Old&#x27;s $4.5B Bet on AI&#x27;s Real Problem (Leopold Aschenbrenner)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=04Kutj1vAiw" target="_blank" rel="noopener noreferrer">Forget NVIDIA | This 24-Year-Old&#x27;s $4.5B Bet on AI&#x27;s Real Problem (Leopold Aschenbrenner)</a></p><p class="youtube-embed-meta">Channel: Limitless Podcast &middot; Views: 90.6K &middot; Uploaded: March 2026 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=04Kutj1vAiw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=04Kutj1vAiw">Open on YouTube</a></p></div></div></div>
 
@@ -327,14 +324,12 @@ Training frontier systems has become extraordinarily expensive. Analyses of trai
 
 As a result, only a small number of organisations currently possess the resources needed to train the largest models. An autonomous AI would not merely need technical knowledge; it would also need continued access to enormous financial and industrial resources.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e_compute_limit_3ad269-Illustration-2-dark.svg" | relative_url }}" alt="Compute limits illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e_compute_limit_3ad269-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e_compute_limit_3ad269-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why compute limits reduce some risks but not all
 
 Compute constraints are one of the strongest arguments against extremely fast, invisible, software-only intelligence explosions.
 
 If training a more capable successor requires:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -357,7 +352,6 @@ Second, algorithmic improvements can partially substitute for hardware. Research
 
 Third, a runaway process does not necessarily require each generation to be vastly larger than the previous one. If an AI became dramatically better at research while operating on roughly similar compute budgets, significant capability gains might occur before infrastructure limits became binding.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sViyNJzf-OQ" title="Anthropic research warns AI could build itself by 2028" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sViyNJzf-OQ" target="_blank" rel="noopener noreferrer">Anthropic research warns AI could build itself by 2028</a></p><p class="youtube-embed-meta">Channel: Axios &middot; Views: 15.8K &middot; Uploaded: May 2026 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sViyNJzf-OQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sViyNJzf-OQ">Open on YouTube</a></p></div></div></div>
 
 ## The central disagreement
@@ -367,7 +361,6 @@ The deepest disagreement is not whether compute matters. Almost everyone agrees 
 Instead, the debate concerns the relative importance of intelligence and infrastructure.
 
 Those who see compute constraints as a major brake argue that physical resources ultimately govern how quickly capabilities can grow. Intelligence alone cannot manufacture chips, build power stations, or construct data centres overnight. Therefore, they expect self-improvement loops to be slower, more visible, and more manageable than classic intelligence-explosion scenarios suggest. World Economic Forum <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/business/retail-consumer/energy-use-forcing-rethink-ai-chip-design-tsmc-says-2026-05-28/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Kevin Zhang, TSMC’s Senior VP of Business Development, noted that customers — including those in mobile, IoT, and high-performance AI dat...</span></span></span> Those more concerned about AI doom respond that even a partially constrained feedback loop could still be dangerous. If AI systems automate most AI research and development, they may dramatically accelerate the rate at which available compute is converted into capability gains. In that world, infrastructure remains a constraint, but a much less effective one than human research labour is today. Rapid capability growth could still occur even without unlimited hardware. Stanford HAI <span class="citation-chip-wrap"><a class="citation-chip" href="https://epoch.ai/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epoch.ai">[Epoch AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epoch.ai</span><span class="citation-popover-snippet">The amount of compute used to train frontier language models has grown exponentially. Since 2020, the trend among top-5 models ha...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TzsG6P8B5gY" title="Situational Awareness: The Decade Ahead" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TzsG6P8B5gY" target="_blank" rel="noopener noreferrer">Situational Awareness: The Decade Ahead</a></p><p class="youtube-embed-meta">Channel: Jengo &middot; Views: 136 &middot; Uploaded: March 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TzsG6P8B5gY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TzsG6P8B5gY">Open on YouTube</a></p></div></div></div>
 
@@ -380,7 +373,6 @@ They weaken the strongest versions of the claim that a single AI could instantly
 But compute limits do not eliminate concerns about [loss of control]({{ 'loss-of-control/' | relative_url }}). A system may become strategically dangerous long before it reaches the maximum scale allowed by global chip production. Moreover, history shows that when powerful technologies generate economic and geopolitical advantages, societies often invest heavily in expanding the underlying infrastructure.
 
 The practical takeaway is that compute constraints are best understood as a speed limiter, not necessarily a safety guarantee. They reduce some pathways to runaway self-improvement, but they do not by themselves rule out the possibility that increasingly autonomous AI systems could drive capability growth faster than human institutions can reliably manage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://epoch.ai/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epoch.ai">[Epoch AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epoch.ai</span><span class="citation-popover-snippet">The amount of compute used to train frontier language models has grown exponentially. Since 2020, the trend among top-5 models ha...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://epoch.ai/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epoch.ai">[Epoch AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epoch.ai</span><span class="citation-popover-snippet">The amount of compute used to train frontier language models has grown exponentially. Since 2020, the trend among top-5 models ha...</span></span></span>
-
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e_compute_limit_3ad269-Illustration-3-dark.svg" | relative_url }}" alt="Compute limits illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e_compute_limit_3ad269-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e_compute_limit_3ad269-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 

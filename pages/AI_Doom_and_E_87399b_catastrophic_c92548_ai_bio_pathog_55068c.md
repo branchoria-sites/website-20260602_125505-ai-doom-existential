@@ -30,7 +30,7 @@ sidebar_expanded_urls:
 - /misuse/
 nav_short_title: Bio Threat AI
 title: How AI Could Accelerate Dangerous Pathogen Design
-title_full: How AI Could Accelerate Dangerous Pathogen Design | Misuse
+title_full: How AI Could Accelerate Dangerous Pathogen Design
 display_title_short: Bio Threat AI
 display_title: Bio Threat AI
 heading_title: How AI Could Accelerate Dangerous Pathogen Design
@@ -206,7 +206,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 15:12:01'
-parent_title: How Could People Misuse Advanced AI? | AI Doom
+parent_title: How Could People Misuse Advanced AI?
 parent_permalink: /misuse/
 parent_nav_short_title: Misuse
 parent_heading_title: How Could People Misuse Advanced AI?
@@ -290,7 +290,6 @@ image: /assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_550
 
 A core concern in discussions about **AI doom and existential risk** is not just whether advanced AI could misbehave independently, but how humans might *use AI to amplify danger*. In the domain of biological threats, one of the most debated mechanisms is how **AI‑assisted design of enhanced biological pathogens** could potentially lower the technical barriers to creating or significantly altering harmful biological agents — whether toxins, viruses, or bacteria — in ways that pose risks far beyond conventional bioengineering. This page focuses tightly on that mechanism: how powerful AI tools might contribute to designing biological agents with enhanced lethality, transmissibility, immune evasion, or other dangerous traits; how plausible and near‑term these risks are; what safeguards currently exist or are proposed; and where uncertainties lie.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c-Illustration-1-dark.svg" | relative_url }}" alt="Bio Threat AI illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How AI Could Change Biological Design
 
@@ -301,7 +300,6 @@ At present, routine biological threat development — whether for harmful or ben
 * **Predictive modelling of complex traits:** In principle, advanced models could assist in understanding how changes at the genetic level affect phenotypes — for example, transmissibility or immune evasion. While datasets are incomplete and complex interactions are difficult to model accurately today, improved predictive capabilities could reduce the experimental iterations needed to pursue high‑consequence designs.[NCBI]
 
 Taken together, these capabilities represent an **uplift in design power**: they do not yet remove the need for wet‑lab work and expert interpretation, but they *change the cost‑benefit calculus* of experiments that could yield more hazardous biological agents.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8qA18Eh-lus" title="Creating deadly human viruses will get easier with AI | The Economist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8qA18Eh-lus" target="_blank" rel="noopener noreferrer">Creating deadly human viruses will get easier with AI | The Economist</a></p><p class="youtube-embed-meta">Channel: The Economist &middot; Views: 11.7K &middot; Uploaded: May 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8qA18Eh-lus" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8qA18Eh-lus">Open on YouTube</a></p></div></div></div>
 
@@ -315,7 +313,6 @@ There is disagreement among researchers about how quickly and how far AI might a
 
 In short, experts generally agree that AI‑assisted design of fully novel pathogens **is not yet a present‑day reality**, but the **trajectory of capability growth could make it feasible in the near to medium term** if not governed effectively.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c-Illustration-2-dark.svg" | relative_url }}" alt="Bio Threat AI illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Dual‑Use Challenges and Oversight Gaps
 
@@ -326,7 +323,6 @@ AI‑assisted biological design tools sit within a larger **dual‑use dilemma**
 * **[Governance]({{ 'governance/' | relative_url }}) ambiguity:** There is ongoing debate about how to restrict access to high‑risk generative biological AI without unduly hindering scientific progress. Some argue that model [evaluations]({{ 'evaluations/' | relative_url }}) should prioritise high‑consequence capabilities before deployment, and differentiated access controls could help manage risk.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2407.13059" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Prioritizing High-Consequence Biological Capabilities in Evaluations of Artificial Intelligence ModelsMay 25, 2024...</span><span class="citation-popover-meta">Published: May 25, 2024</span></span></span>
 
 These dual‑use challenges highlight the **regulatory catch‑up problem**: governance frameworks have not fully adapted to technologies that blur traditional boundaries between design, prediction and execution.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FltwTnSLvh0" title="AI Tells Scientists How to Make Biological Weapons | GRAVITAS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FltwTnSLvh0" target="_blank" rel="noopener noreferrer">AI Tells Scientists How to Make Biological Weapons | GRAVITAS</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 1.1K &middot; Uploaded: May 2026 &middot; Length: 3 minutes 34 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FltwTnSLvh0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FltwTnSLvh0">Open on YouTube</a></p></div></div></div>
 
@@ -339,7 +335,6 @@ Preventing [catastrophic]({{ 'misuse/' | relative_url }}) misuse requires an int
 * **Data governance:** Treating certain biological datasets (e.g., those closely tied to pathogen phenotypes) as sensitive and restricting their use in open training sets could limit the raw material available for misuse.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2026/02/17/ai-data-viruses-biosecurity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">AI&#x27;s big biosecurity blind spot</span><span class="citation-popover-snippet">They propose a framework that treats high-risk biological data with the same level of caution as sensitive health records. The core conce...</span></span></span>
 * **Layered oversight and cooperation:** A defense‑in‑depth strategy that combines technological safeguards, legal restrictions, industry standards, and international norms may offer the best chance of balancing innovation with risk reduction. Shared threat intelligence and rapid incident response protocols are essential parts of such a system.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c-Illustration-3-dark.svg" | relative_url }}" alt="Bio Threat AI illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where Uncertainties and Disputes Remain
 
@@ -348,7 +343,6 @@ There are active debates within the research community about how significant the
 * **Timing and capability projections:** Some experts emphasise that today’s models are far from autonomously creating harmful pathogens, while others warn that even incremental capability improvements could quickly erode safety margins. The pace of progress, quality of training data, and degree of lab automation all influence how soon risk thresholds might be crossed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12711334/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">December 16, 2025...</span><span class="citation-popover-meta">Published: December 16, 2025</span></span></span>
 * **Role of intent and access:** Capability alone is not sufficient for misuse; access to lab infrastructure, reagents, wet‑lab expertise, and delivery mechanisms matter. Strategic assessments weigh both technical capacity and actor motivation when estimating plausible misuse scenarios.
 * **Balancing openness and safety:** Restricting access to models or datasets could impede beneficial research. Navigating how to govern AI tools in biology without stifling innovation continues to be a central ethical and policy challenge.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/B2sWfniZCcI" title="Could one scientist armed with AI kill a billion people?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=B2sWfniZCcI" target="_blank" rel="noopener noreferrer">Could one scientist armed with AI kill a billion people?</a></p><p class="youtube-embed-meta">Channel: 80,000 Hours &middot; Views: 8.2K &middot; Uploaded: March 2026 &middot; Length: 3 hours 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=B2sWfniZCcI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=B2sWfniZCcI">Open on YouTube</a></p></div></div></div>
 

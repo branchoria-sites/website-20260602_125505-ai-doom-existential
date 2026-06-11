@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /ai-misuse-governance/
 nav_short_title: AI Accountability
 title: Why AI Laws Fail to Enforce Safety Globally
-title_full: Why AI Laws Fail to Enforce Safety Globally | AI Misuse Governance
+title_full: Why AI Laws Fail to Enforce Safety Globally
 display_title_short: AI Accountability
 display_title: AI Accountability
 heading_title: Why AI Laws Fail to Enforce Safety Globally
@@ -204,7 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 15:17:14'
-parent_title: Why Policy Gaps Heighten Risks of AI Misuse | Misuse
+parent_title: Why Policy Gaps Heighten Risks of AI Misuse
 parent_permalink: /ai-misuse-governance/
 parent_nav_short_title: AI Misuse Governance
 parent_heading_title: Why Policy Gaps Heighten Risks of AI Misuse
@@ -271,7 +271,6 @@ image: /assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2
 
 Many governments now have AI principles, safety frameworks or draft regulations. The harder question is whether any of them can reliably enforce safety when AI systems become more powerful, more autonomous and more globally distributed. For people concerned about AI doom or existential risk, this is not a technical detail. The concern is that even if safety standards exist on paper, weak enforcement could allow dangerous systems to be developed, deployed or misused before regulators can detect problems or intervene.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6_ai_enforcemen_308bdc-Illustration-1-dark.svg" | relative_url }}" alt="AI Accountability illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6_ai_enforcemen_308bdc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6_ai_enforcemen_308bdc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The central challenge is an accountability gap. AI development is concentrated in a small number of powerful companies operating across borders, while oversight remains fragmented across national regulators with uneven technical expertise and limited resources. International organisations have produced influential [governance]({{ 'governance/' | relative_url }}) principles, but most lack strong enforcement powers. As a result, there is often a large distance between formal commitments to AI safety and the practical ability to verify compliance, investigate failures or impose meaningful consequences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oecd.ai/en/catalogue/tools/a-governance-framework-for-algorithmic-accountability-and-transparency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.ai">[OECD AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.ai</span><span class="citation-popover-snippet">A governance framework for algorithmic accountability and...May 22, 2023 — The study develops policy options for the governance of algor...</span><span class="citation-popover-meta">Published: May 22, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/topics/sub-issues/ai-principles.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">AI principlesThe OECD AI Principles are the first intergovernmental standard on AI. They promote innovative, trustworthy AI that resp...</span></span></span>
 
@@ -280,7 +279,6 @@ The central challenge is an accountability gap. AI development is concentrated i
 Most discussions about AI doom focus on technical questions such as alignment, control and dangerous [autonomy]({{ 'autonomy/' | relative_url }}). Yet many proposed safety measures depend on governance systems that can actually monitor and constrain behaviour.
 
 A recurring argument from AI safety researchers is that risks increase when powerful actors face incentives to move quickly while oversight remains weak. If companies or states believe they can gain strategic advantages from deploying increasingly capable systems, voluntary commitments may come under pressure. Enforcement becomes especially important in scenarios involving:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -312,7 +310,6 @@ A small number of companies possess vastly greater computing resources, technica
 This creates a structural imbalance. Regulators may depend on company disclosures to understand model capabilities, safety testing or incident reports. In some cases, the organisations being regulated know far more about potential risks than the institutions responsible for oversight.
 
 For critics of current governance approaches, this raises an uncomfortable possibility: enforcement may become reactive and dependent on self-reporting precisely when independent verification is most important.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MibT-DWrcOE" title="Who Controls AI 70% of Global Rules Written Without the Global South" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MibT-DWrcOE" target="_blank" rel="noopener noreferrer">Who Controls AI 70% of Global Rules Written Without the Global South</a></p><p class="youtube-embed-meta">Channel: Hafoju Lachi &middot; Views: 12 &middot; Uploaded: January 2026 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MibT-DWrcOE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MibT-DWrcOE">Open on YouTube</a></p></div></div></div>
 
@@ -355,7 +352,6 @@ Parliamentary evidence submitted in the United Kingdom has highlighted how cross
 
 For existential-risk scenarios, these jurisdictional problems become even more significant. If a dangerous capability emerges in one country, its effects may not remain confined there. Yet international institutions capable of enforcing AI rules across borders remain limited.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6_ai_enforcemen_308bdc-Illustration-2-dark.svg" | relative_url }}" alt="AI Accountability illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6_ai_enforcemen_308bdc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6_ai_enforcemen_308bdc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Regulatory fragmentation encourages forum shopping
 
@@ -379,7 +375,6 @@ This creates a familiar pattern in global governance. Broad agreement often exis
 
 For readers interested in AI doom debates, this distinction matters because existential-risk arguments typically concern low-probability but extremely high-consequence failures. Such risks may require stronger verification and enforcement systems than those traditionally used for ethical guidelines.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/n6fF5UypcPA" title="NIST vs. EU AI Act: How to Build a Global AI Governance Framework #aigovernance #aiaccountability" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=n6fF5UypcPA" target="_blank" rel="noopener noreferrer">NIST vs. EU AI Act: How to Build a Global AI Governance Framework #aigovernance #aiaccountability</a></p><p class="youtube-embed-meta">Channel: Cinthify &middot; Views: 2 &middot; Uploaded: April 2026 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=n6fF5UypcPA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=n6fF5UypcPA">Open on YouTube</a></p></div></div></div>
 
 ### Consensus on principles does not mean consensus on action
@@ -395,7 +390,6 @@ Questions that remain contested include:
 * Which institutions should oversee frontier systems?
 
 Without answers to these questions, accountability mechanisms can remain largely aspirational.
-
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6_ai_enforcemen_308bdc-Illustration-3-dark.svg" | relative_url }}" alt="AI Accountability illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6_ai_enforcemen_308bdc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6_ai_enforcemen_308bdc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Reactive oversight often arrives after deployment
@@ -419,7 +413,6 @@ Aviation, nuclear power and some areas of medicine rely heavily on incident repo
 The OECD has repeatedly emphasised the need for better tracking of AI incidents and stronger evidence bases for governance decisions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/topics/artificial-intelligence.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Artificial intelligenceTrustworthy AI calls for governments worldwide to develop interoperable risk-based approaches to AI governance...</span></span></span>
 
 Without systematic reporting, regulators may underestimate risks, fail to identify dangerous patterns or learn about problems only after public exposure.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pyRGJzqetY4" title="The Global Privacy Horizon: AI Governance and Data Security in 2026" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pyRGJzqetY4" target="_blank" rel="noopener noreferrer">The Global Privacy Horizon: AI Governance and Data Security in 2026</a></p><p class="youtube-embed-meta">Channel: CISO Marketplace &middot; Views: 15 &middot; Uploaded: May 2026 &middot; Length: 52 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pyRGJzqetY4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pyRGJzqetY4">Open on YouTube</a></p></div></div></div>
 

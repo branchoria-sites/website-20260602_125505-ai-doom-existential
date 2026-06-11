@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /over-delegation/
 nav_short_title: Default Decisions
 title: When Advice Becomes the Decision
-title_full: When Advice Becomes the Decision | Over delegation
+title_full: When Advice Becomes the Decision
 display_title_short: Default Decisions
 display_title: Default Decisions
 heading_title: When Advice Becomes the Decision
@@ -204,7 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 11:07:26'
-parent_title: Can humans lose control without a takeover? | Loss of Control
+parent_title: Can humans lose control without a takeover?
 parent_permalink: /over-delegation/
 parent_nav_short_title: Over delegation
 parent_heading_title: Can humans lose control without a takeover?
@@ -277,14 +277,12 @@ image: /assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f6
 
 One of the subtler pathways to loss of meaningful human control is **when AI advice quietly becomes the default decision** — that is, when recommendations from an AI system are accepted so habitually that they effectively *are* the decision, even if a human formally approves them. In debates about existential risk from advanced AI, this mechanism matters because it can erode human judgement, oversight and agency long before systems reach any dramatic form of [autonomy]({{ 'autonomy/' | relative_url }}). Instead of a system “running amok,” authority shifts through routine practice: humans come to trust, automate or default to AI suggestions in ways that weaken their ability — and incentive — to review, override, or contest those outputs. Over time, this dynamic can concentrate decision‑making power in opaque processes that no one thoroughly understands or governs.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca_ai_advice_def_130a4f-Illustration-1-dark.svg" | relative_url }}" alt="Default Decisions illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca_ai_advice_def_130a4f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca_ai_advice_def_130a4f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Advisory Systems Become De Facto Decision‑Makers
 
 The phenomenon where AI advice hardens into the decision itself isn’t simply about delegation by fiat. It plays out through **[automation bias]({{ 'automation-bias/' | relative_url }})** — a well‑documented cognitive tendency for humans to favour automated recommendations over their own judgements, and to lean on them even when the advice is incorrect or misaligned with context. Research in human‑machine interaction shows that when people receive advice labelled as coming from an AI, they are significantly more likely to follow it, even against contradictory evidence and to their own detriment. This overreliance arises from trust, perceived competence of the system, and cognitive ease, not from malicious intent or clear delegation of authority. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0747563224002206" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Trust and reliance on AI — An experimental study on the extent and costs of overreliance on AI - ScienceDirectNovember 1, 2024...</span><span class="citation-popover-meta">Published: November 1, 2024</span></span></span>
 
 Studies across psychology and organisational behaviour identify two related biases that underpin this shift:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -294,7 +292,6 @@ Studies across psychology and organisational behaviour identify two related bias
 </div>
 
 These cognitive patterns show how advisory systems can overshadow human judgement over time — not because they are perfect decision‑makers, but because humans defer to them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s00146-025-02422-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Exploring automation bias in human–AI collaboration: a review and implications for explainable AI &#124; AI &amp; SOCIETY &#124; Springer Natur...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/a50TSY2X-yM" title="New documentary asks if we are doomed by AI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=a50TSY2X-yM" target="_blank" rel="noopener noreferrer">New documentary asks if we are doomed by AI</a></p><p class="youtube-embed-meta">Channel: NBC News &middot; Views: 64.0K &middot; Uploaded: March 2026 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=a50TSY2X-yM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=a50TSY2X-yM">Open on YouTube</a></p></div></div></div>
 
@@ -310,7 +307,6 @@ Several structural forces accelerate the transition from “advice” to “deci
 
 **4. Institutional incentives and signalling:** In organisational settings, managers and peers may implicitly reward reliance on AI recommendations because they are perceived as impartial, efficient, or modern. Experimental research highlights that in delegated environments, decision‑makers can be blamed for *overriding* algorithmic recommendations — even when human judgement would have improved outcomes — which further biases behaviour toward default acceptance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4966186" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">SSRN When Delegating AI-Assisted Decisions Drives AI Over-reliance by Hossein Nikpayam, Mirko Kremer, Francis de...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca_ai_advice_def_130a4f-Illustration-2-dark.svg" | relative_url }}" alt="Default Decisions illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca_ai_advice_def_130a4f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca_ai_advice_def_130a4f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Warning Signs That Oversight Has Become Ceremonial
 
@@ -322,9 +318,7 @@ Detecting when AI advice has become the *default* decision rather than one input
 * **Implicit default behaviours:** Workflows and organisational policies begin treating AI output as an input that rarely requires human override, with few documented criteria for when human judgement must prevail. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.itpro.com/technology/artificial-intelligence/swamped-with-decisions-to-make-managers-turn-to-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itpro.com">[IT Pro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itpro.com</span><span class="citation-popover-title">swamped with decisions to make managers turn to ai</span><span class="citation-popover-snippet">A survey by Confluent found that 62% of UK managers use AI for the majority of their decisions, with 46% trusting it more than colleagues...</span></span></span>
 * **Perfunctory human involvement:** Reviews are conducted quickly or in batches without deep engagement, turning human “approval” into a checkbox that legitimises decision automation rather than meaningfully governing it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/artificial/comments/1td300k/i_think_humanintheloop_may_become_one_of_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">I think “human-in-the-loop” may become one of the biggest governance illusions in enterprise AIMay 14, 2026...</span><span class="citation-popover-meta">Published: May 14, 2026</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JRyH7YLaeIM" title="Algorithmic Indifference: The Loss of Human Agency" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JRyH7YLaeIM" target="_blank" rel="noopener noreferrer">Algorithmic Indifference: The Loss of Human Agency</a></p><p class="youtube-embed-meta">Channel: Deep Dive Global &middot; Views: 44 &middot; Uploaded: May 2026 &middot; Length: 44 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JRyH7YLaeIM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JRyH7YLaeIM">Open on YouTube</a></p></div></div></div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8oLkHGX-FyA" title="When AI Becomes The Default Voice" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8oLkHGX-FyA" target="_blank" rel="noopener noreferrer">When AI Becomes The Default Voice</a></p><p class="youtube-embed-meta">Channel: The Human Workforce &middot; Views: 5.3K &middot; Uploaded: April 2026 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8oLkHGX-FyA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8oLkHGX-FyA">Open on YouTube</a></p></div></div></div>
 
@@ -335,7 +329,6 @@ From an existential risk perspective, the transition from advice to default deci
 Recognising and guarding against this shift is essential to preserving human judgement in high‑stakes contexts and ensuring systems remain aligned with human values and objectives.
 
 By understanding how advisory systems become de facto decision‑makers, evaluators and policymakers can better design [governance]({{ 'governance/' | relative_url }}) structures that preserve scrutiny, retain human expertise, and resist letting AI advice harden into default authority.
-
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca_ai_advice_def_130a4f-Illustration-3-dark.svg" | relative_url }}" alt="Default Decisions illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca_ai_advice_def_130a4f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca_ai_advice_def_130a4f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -890,4 +883,4 @@ By understanding how advisory systems become de facto decision‑makers, evaluat
    Source: journals.sagepub.com  
    Link: <a href="https://journals.sagepub.com/doi/10.1177/00187208231190459" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/00187208231190459</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>When Should They? - Richard E. Dunning, Baruch Fischhoff, Alex L. Davis, 2024August 8, 2023 — WHEN DO HUMANS HEED AI AGENTS’ ADVICE? WHEN...</p></details>
-   Published: August 8, 2023  
+   Published: August 8, 2023

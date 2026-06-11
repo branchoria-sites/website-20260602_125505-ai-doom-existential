@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /human-oversight/
 nav_short_title: Continuous Control
 title: What would real time AI supervision require?
-title_full: What would real time AI supervision require? | Human Oversight
+title_full: What would real time AI supervision require?
 display_title_short: Continuous Control
 display_title: Continuous Control
 heading_title: What would real time AI supervision require?
@@ -204,7 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-02 12:39:42'
-parent_title: Can Humans Really Stay In Control Of Superhuman AI? | Control Tools
+parent_title: Can Humans Really Stay In Control Of Superhuman AI?
 parent_permalink: /human-oversight/
 parent_nav_short_title: Human Oversight
 parent_heading_title: Can Humans Really Stay In Control Of Superhuman AI?
@@ -271,7 +271,6 @@ image: /assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7
 
 As AI systems evolve from tools that answer a question to **agents that act continuously and autonomously in the world**, the idea of checking crucial decisions once — at deployment — no longer captures the core safety challenge. In high‑stakes settings, powerful autonomous agents could make hundreds or thousands of decisions across software, infrastructure, and organisational boundaries, potentially accumulating risk or drift long before a human reviewer ever sees the consequences. Continuous supervision — ongoing, real‑time oversight of agent behaviour and its impacts — is emerging as a **distinct [governance]({{ 'governance/' | relative_url }}) problem** rather than just a compliance checkbox. This matters to the debate over [human oversight]({{ 'human-oversight/' | relative_url }}) limits in powerful autonomous AI systems because it highlights *when, why and how* traditional human‑in‑the‑loop control may become structurally inadequate in the face of persistent, adaptive autonomy.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_continuous_su_ef2f88-Illustration-1-dark.svg" | relative_url }}" alt="Continuous Control illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_continuous_su_ef2f88-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_continuous_su_ef2f88-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Below, we explore why continuous supervision differs from one‑off approval, the practical challenges it raises, and the key trade‑offs between [autonomy]({{ 'autonomy/' | relative_url }}), speed and containment that shape both risk and mitigation.
 
@@ -291,7 +290,6 @@ In short, when agents act persistently rather than in a prompt–reply cycle, **
 
 Continuous supervision goes beyond passive log collection or periodic audits. It entails *active, real‑time mechanisms* for observing, interpreting and, when necessary, intervening in an agent’s behaviour. Three broad elements recur in emerging governance proposals:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1xhTs25oFAA" title="How to Stop Adversarial AI Threats with Prisma AIRS 3.0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1xhTs25oFAA" target="_blank" rel="noopener noreferrer">How to Stop Adversarial AI Threats with Prisma AIRS 3.0</a></p><p class="youtube-embed-meta">Channel: Palo Alto Networks &middot; Views: 78.5K &middot; Uploaded: March 2026 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1xhTs25oFAA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1xhTs25oFAA">Open on YouTube</a></p></div></div></div>
 
 ### Monitoring With Meaningful Signals
@@ -306,7 +304,6 @@ Real‑time supervision must automate the identification of risky patterns such 
 
 Continuous human involvement doesn’t mean reviewing every action; it means *defining clear points where humans must re‑enter the loop*. Governance frameworks often prescribe **dynamic thresholds** — deviations in confidence, resource use, or risk impact — that trigger expansions of human oversight, escalation to safety teams, or even complete shutdown. Some enterprise governance models tier autonomy into levels (observe, advise, act with approval, fully autonomous) with corresponding monitoring and intervention paths. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.itpro.com/technology/artificial-intelligence/one-size-fits-all-agent-governance-sets-enterprises-up-to-fail" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itpro.com">[IT Pro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itpro.com</span><span class="citation-popover-title">IT Pro&#x27;One-size-fits-all&#x27; agent governance sets enterprises up to fail</span><span class="citation-popover-snippet">The primary issue is the widespread application of a &quot;one-size-fits-all&quot; governance model that fails to distinguish between an agent&#x27;s au...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_continuous_su_ef2f88-Illustration-2-dark.svg" | relative_url }}" alt="Continuous Control illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_continuous_su_ef2f88-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_continuous_su_ef2f88-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Monitoring, Autonomy Tiers and Points of Intervention
 
@@ -317,7 +314,6 @@ A natural way to organise continuous supervision is through **[autonomy tiers]({
 * **High autonomy ([independent]({{ 'red-teaming/' | relative_url }}) operation):** Agents perform actions under minimal human prompts. Here, continuous monitoring focuses heavily on anomalies and *contingent intervention capabilities*, such as remote pausing or rollback.
 
 Governance models that specify this tiered structure help clarify what supervision *means* at each level, from simple logging to sophisticated anomaly detection or enforced escalation protocols. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koneetiv.com/governance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koneetiv.com">[Koneetiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koneetiv.com</span><span class="citation-popover-title">LOOP™ — enterprise AI agent governance protocol &#124; Koneetiv</span><span class="citation-popover-snippet">LOOP™ — enterprise AI agent governance protocol &#124; Koneetiv...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LOLI0emzDb0" title="Monitor, optimize and scale with AI Observability in Microsoft Foundry | BRK190" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LOLI0emzDb0" target="_blank" rel="noopener noreferrer">Monitor, optimize and scale with AI Observability in Microsoft Foundry | BRK190</a></p><p class="youtube-embed-meta">Channel: Microsoft Events &middot; Views: 1.8K &middot; Uploaded: November 2025 &middot; Length: 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LOLI0emzDb0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LOLI0emzDb0">Open on YouTube</a></p></div></div></div>
 
@@ -330,7 +326,6 @@ Continuous supervision inherently involves **trade‑offs**:
 * **Containment versus autonomy:** Strategies like forced pauses or rollbacks help prevent [catastrophic]({{ 'misuse/' | relative_url }}) outcomes but may render agents less effective in dynamic environments. Designing *graduated containment* — where agents operate with autonomy until certain risk markers occur — is an area of active research.
 
 These trade‑offs are not just technical; they reflect a deeper governance question central to AI doom debates: can we build systems that are both empowered to act and *bound* to human values and oversight? If not, proponents of existential risk arguments warn, agents could accumulate influence or adapt in ways that elude continuous control, especially as complexity and capabilities grow.
-
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_continuous_su_ef2f88-Illustration-3-dark.svg" | relative_url }}" alt="Continuous Control illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_continuous_su_ef2f88-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_continuous_su_ef2f88-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Practical Challenges to Continuous Supervision
@@ -347,11 +342,9 @@ In AI existential‑risk debates, continuous supervision underscores a central s
 
 Continuous supervision highlights where oversight might break down in practice: where sheer volume of decisions, opacity of reasoning, and real‑time action streams overwhelm human capacity to monitor and intervene meaningfully. It shows that *formal human oversight requirements on paper* are not sufficient; what matters is *how supervision works in operation*, moment to moment, in real deployment contexts.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/reISMhbZ2XE" title="Building Better AI Agents: Observability and Evaluation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=reISMhbZ2XE" target="_blank" rel="noopener noreferrer">Building Better AI Agents: Observability and Evaluation</a></p><p class="youtube-embed-meta">Channel: LangChain &middot; Views: 7.2K &middot; Uploaded: February 2026 &middot; Length: 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=reISMhbZ2XE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=reISMhbZ2XE">Open on YouTube</a></p></div></div></div>
 
 ## Summary: What Continuous Supervision Aims To Achieve
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -888,4 +881,4 @@ As autonomous AI agents become more capable and more integrated into high‑impa
    Title: M I9: Runtime Governance for Agentic AI Systems  
    Link: <a href="https://www.emergentmind.com/papers/2508.03858" target="_blank" rel="noopener noreferrer nofollow">https://www.emergentmind.com/papers/2508.03858</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MI9: Runtime Governance for Agentic AI SystemsAugust 5, 2025 — MI9 -- AGENT INTELLIGENCE PROTOCOL: RUNTIME GOVERNANCE FOR AGENTIC AI SYST...</p></details>
-   Published: August 5, 2025  
+   Published: August 5, 2025

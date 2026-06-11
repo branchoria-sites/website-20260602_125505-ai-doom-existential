@@ -30,7 +30,7 @@ sidebar_expanded_urls:
 - /autonomy/
 nav_short_title: Current Benchmarks
 title: What Current AI Agents Can (and Can't) Do
-title_full: What Current AI Agents Can (and Can't) Do | Autonomy
+title_full: What Current AI Agents Can (and Can't) Do
 display_title_short: Current Benchmarks
 display_title: Current Benchmarks
 heading_title: What Current AI Agents Can (and Can't) Do
@@ -206,7 +206,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 12:17:26'
-parent_title: When Does AI Autonomy Become Dangerous? | AI Doom
+parent_title: When Does AI Autonomy Become Dangerous?
 parent_permalink: /autonomy/
 parent_nav_short_title: Autonomy
 parent_heading_title: When Does AI Autonomy Become Dangerous?
@@ -290,7 +290,6 @@ image: /assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4a
 
 For debates about AI doom, dangerous [autonomy]({{ 'autonomy/' | relative_url }}), and [loss of control]({{ 'loss-of-control/' | relative_url }}), one practical question matters more than almost any theoretical argument: how well can current AI agents actually carry out long, complex tasks without human help?
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372-Illustration-1-dark.svg" | relative_url }}" alt="Current Benchmarks illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The evidence so far is mixed. Modern agents can complete substantially longer tasks than systems from only a few years ago, and some can autonomously perform software engineering work that would take human experts several hours. At the same time, benchmark results consistently show that current agents remain unreliable on genuinely long-horizon activities. They lose track of goals, fail to recover from unexpected obstacles, accumulate small errors, and often abandon tasks before completion. The current empirical picture is therefore neither "agents are already fully autonomous" nor "agents cannot act independently at all". Instead, researchers are observing rapidly improving but still fragile systems whose capabilities appear to be extending into longer time horizons. arXiv 4International AI Safety Report <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techuk.org/resource/the-release-of-the-international-ai-safety-report-2026-navigating-rapid-ai-advancement-and-emerging-risks.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techuk.org">[TechUK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techuk.org</span><span class="citation-popover-snippet">The release of the international AI safety report 20263 Feb 2026 — The report notes that AI agents can now autonomously complete software...</span></span></span>, multiple tools, and opportunities for mistakes to compound over time..
 
@@ -315,7 +314,6 @@ This behaviour resembles what software engineers sometimes call "error accumulat
 
 The limitations revealed by long-horizon benchmarks are remarkably consistent across domains.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/k1t2xyWMUdY" title="How METR measures Long Tasks and Experienced Open Source Dev Productivity - Joel Becker, METR" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=k1t2xyWMUdY" target="_blank" rel="noopener noreferrer">How METR measures Long Tasks and Experienced Open Source Dev Productivity - Joel Becker, METR</a></p><p class="youtube-embed-meta">Channel: AI Engineer &middot; Views: 10.7K &middot; Uploaded: January 2026 &middot; Length: 1 hour 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=k1t2xyWMUdY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=k1t2xyWMUdY">Open on YouTube</a></p></div></div></div>
 
 ### Losing Context and State
@@ -334,7 +332,6 @@ Dynamic benchmarks such as Gaia2 were developed partly because static evaluation
 
 The International AI Safety Report similarly highlights difficulty handling unexpected obstacles as a major limitation of contemporary agents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internationalaisafetyreport.org">[International AI Safety Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internationalaisafetyreport.org</span><span class="citation-popover-title">international ai safety report 2026</span><span class="citation-popover-snippet">Loss of control... Current agents reliably fail on longer tasks, lose track of...Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372-Illustration-2-dark.svg" | relative_url }}" alt="Current Benchmarks illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Planning Failures
 
@@ -352,7 +349,6 @@ Benchmarks such as RetailBench, which evaluates long-term decision-making in cha
 
 For AI-safety researchers, this phenomenon is interesting because it resembles, in miniature form, concerns about specification errors and goal drift that appear in broader alignment discussions.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WaJhhD7Qgac" title="47 - David Rein on METR Time Horizons" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WaJhhD7Qgac" target="_blank" rel="noopener noreferrer">47 - David Rein on METR Time Horizons</a></p><p class="youtube-embed-meta">Channel: AXRP &middot; Views: 1.2K &middot; Uploaded: January 2026 &middot; Length: 1 hour 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WaJhhD7Qgac" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WaJhhD7Qgac">Open on YouTube</a></p></div></div></div>
 
 ## Why Time-Horizon Metrics Matter to Doom Arguments
@@ -369,7 +365,6 @@ On the other hand, the same benchmarks provide evidence for a different concern:
 
 For people concerned about p(doom)—the probability that advanced AI could eventually cause existential catastrophe—the key question is not whether current systems can autonomously run civilisation. They plainly cannot. The question is whether the trend toward longer and more reliable autonomous operation continues faster than methods for [monitoring]({{ 'monitoring/' | relative_url }}), controlling, and aligning those systems.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372-Illustration-3-dark.svg" | relative_url }}" alt="Current Benchmarks illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What We Can Infer—and What We Cannot
 
@@ -385,9 +380,7 @@ Third, the evidence currently points to a gap between impressive demonstrations 
 
 From the perspective of AI-doom debates, current long-horizon benchmarks therefore function less as proof of imminent loss of control and more as an early-warning indicator. They show that autonomous capability is real, measurable, and increasing, while also showing that present systems remain far from the robust, persistent autonomy assumed by the most severe existential-risk scenarios. <span class="citation-chip-wrap"><a class="citation-chip" href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internationalaisafetyreport.org">[International AI Safety Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internationalaisafetyreport.org</span><span class="citation-popover-title">international ai safety report 2026</span><span class="citation-popover-snippet">Loss of control... Current agents reliably fail on longer tasks, lose track of...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://metr.org/time-horizons/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[METR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-title">time horizons</span><span class="citation-popover-snippet">Task-Completion Time Horizons of Frontier AI ModelsMar 3, 2026 — The 50%-time horizon is the length of task (measured by how long it take...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HQ4_mgY4pgs" title="Antibrittle Agents: Engineering Reliability for Long-Horizon AI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HQ4_mgY4pgs" target="_blank" rel="noopener noreferrer">Antibrittle Agents: Engineering Reliability for Long-Horizon AI</a></p><p class="youtube-embed-meta">Channel: Vinh Nguyen &middot; Views: 109 &middot; Uploaded: March 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HQ4_mgY4pgs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HQ4_mgY4pgs">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

@@ -30,7 +30,7 @@ sidebar_expanded_urls:
 - /p-doom/
 nav_short_title: Agency Disputes
 title: Why AI Autonomy Leads Experts to Disagree on Doom
-title_full: Why AI Autonomy Leads Experts to Disagree on Doom | P Doom
+title_full: Why AI Autonomy Leads Experts to Disagree on Doom
 display_title_short: Agency Disputes
 display_title: Agency Disputes
 heading_title: Why AI Autonomy Leads Experts to Disagree on Doom
@@ -206,7 +206,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 19:04:08'
-parent_title: What Does p(doom) Really Mean? | AI Doom
+parent_title: What Does p(doom) Really Mean?
 parent_permalink: /p-doom/
 parent_nav_short_title: P Doom
 parent_heading_title: What Does p(doom) Really Mean?
@@ -284,14 +284,12 @@ image: /assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_agency_dis_87
 
 Experts disagree sharply about the *risk of existential catastrophe from advanced AI*, and a central fault line in those disagreements concerns **assumptions about AI agency and [autonomy]({{ 'autonomy/' | relative_url }})**. Some researchers model future AI as powerful **controllable tools** that operate under [human oversight]({{ 'human-oversight/' | relative_url }}); others frame them as **autonomous agents** with their own goals and the capacity to act independently in the world. Which picture one adopts fundamentally shapes how one assesses the likelihood of “AI doom” — from negligible to non‑trivial — because agency carries implications for alignment, control, goal pursuit and behaviour that go well beyond simple capability estimates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2502.14870" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Why do Experts Disagree on Existential Risk and P(doom)? A Survey of AI ExpertsJanuary 25, 2025...</span><span class="citation-popover-meta">Published: January 25, 2025</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_agency_dis_87e1f9-Illustration-1-dark.svg" | relative_url }}" alt="Agency Disputes illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_agency_dis_87e1f9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_agency_dis_87e1f9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Controllable Tool versus Autonomous Agent: Two Competing Perspectives
 
 A 2025 survey of 111 AI researchers found that disagreement about existential risk is closely tied to how experts conceptualise the nature of future AI systems. Respondents clustered into two broad viewpoints: **AI as a controllable tool** or **AI as a potentially uncontrollable agent**. Those in the former camp tend to see advanced AI systems as extensions of human decision‑making that can remain within human control through engineering and safeguards. Those in the latter view anticipate systems with goal‑directed behaviour that could pursue their own sub‑goals in ways that evade or overwhelm human control. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2502.14870" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Why do Experts Disagree on Existential Risk and P(doom)? A Survey of AI ExpertsJanuary 25, 2025...</span><span class="citation-popover-meta">Published: January 25, 2025</span></span></span>
 
 This division matters because belief in agent‑like autonomy usually correlates with **higher perceived risks**. If an AI can plan over multiple steps, accumulate resources and operate independently, then traditional safety mechanisms such as human oversight or kill switches may not be sufficient to capture its behaviour. Conversely, if systems remain fundamentally **controllable and corrigible tools** whose outputs and actions can always be constrained by designers and operators, then existential outcomes become far less plausible in most analysts’ models. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2502.14870" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Why do Experts Disagree on Existential Risk and P(doom)? A Survey of AI ExpertsJanuary 25, 2025...</span><span class="citation-popover-meta">Published: January 25, 2025</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oJB7JNWo58w" title="WEF 2026: Yuval Noah Harari Says AI Is Not a Tool — It’s an Agent That Can Rule Humans | AI1G" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oJB7JNWo58w" target="_blank" rel="noopener noreferrer">WEF 2026: Yuval Noah Harari Says AI Is Not a Tool — It’s an Agent That Can Rule Humans | AI1G</a></p><p class="youtube-embed-meta">Channel: DRM News &middot; Views: 153.5K &middot; Uploaded: January 2026 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oJB7JNWo58w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oJB7JNWo58w">Open on YouTube</a></p></div></div></div>
 
@@ -302,7 +300,6 @@ This division matters because belief in agent‑like autonomy usually correlates
 
 In practice, these framings shape disagreements over key concepts such as *corrigibility* — how much a system allows itself to be corrected or shut down by humans — and whether autonomous planning and power‑seeking behaviour are credible features of future systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Instrumental_convergence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Instrumental convergence</span><span class="citation-popover-snippet">Instrumental convergence</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_agency_dis_87e1f9-Illustration-2-dark.svg" | relative_url }}" alt="Agency Disputes illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_agency_dis_87e1f9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_agency_dis_87e1f9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Instrumental Convergence and Multi‑Step Goals
 
@@ -312,7 +309,6 @@ For example, an autonomous agent optimising a seemingly benign objective might s
 
 Critics of this line of reasoning, by contrast, argue that current and near‑term systems do not demonstrate the sort of deep autonomous planning needed for genuine goal‑directed agency, and that attributing such agency to future AI is speculative. They contend that many behaviours interpreted as ”self‑interested” in AI systems today are artifacts of statistical patterns rather than evidence of true intention or planning, and therefore should not be extrapolated to forecast existential outcomes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Instrumental_convergence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Instrumental convergence</span><span class="citation-popover-snippet">Instrumental convergence</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0fXGtQoJgNo" title="Godfather of AI: The next 5 years Will Change Humanity Forever | Yoshua Bengio" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0fXGtQoJgNo" target="_blank" rel="noopener noreferrer">Godfather of AI: The next 5 years Will Change Humanity Forever | Yoshua Bengio</a></p><p class="youtube-embed-meta">Channel: Silicon Valley Girl &middot; Views: 87.4K &middot; Uploaded: February 2026 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0fXGtQoJgNo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0fXGtQoJgNo">Open on YouTube</a></p></div></div></div>
 
 ## Survey Evidence Linking Agency Assumptions to Risk Judgements
@@ -321,7 +317,6 @@ The 2025 expert survey shows a correlation between familiarity with safety conce
 
 This pattern suggests that part of the disagreement is not just about technical predictions, but about **conceptual framing**: whether one views future AI through the lens of sophisticated agentic behaviour that could outpace human control, or through the lens of controlled systems that remain subject to human revision. It highlights that expert disagreement is partly rooted in *which aspects of AI capability and autonomy are given epistemic weight when judging p(doom)*.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_agency_dis_87e1f9-Illustration-3-dark.svg" | relative_url }}" alt="Agency Disputes illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_agency_dis_87e1f9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_agency_dis_87e1f9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Agency Disputes Matter for Risk Policy and Alignment
 
@@ -329,9 +324,7 @@ Differences in agency assumptions influence debates over both *alignment* and *[
 
 This core disagreement matters because it shapes **policy, research priorities and resource allocation** in AI safety. Without resolving or at least clarifying underlying assumptions about agency and autonomy, discussions about p(doom) will continue to reflect fundamentally different mental models of what future AI systems are *like*, not just whether they are *safe*. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2502.14870" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Why do Experts Disagree on Existential Risk and P(doom)? A Survey of AI ExpertsJanuary 25, 2025...</span><span class="citation-popover-meta">Published: January 25, 2025</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6HrEvh8914I" title="SHODAN, AI Alignment, and the Myth of Control | What System Shock Got Right" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6HrEvh8914I" target="_blank" rel="noopener noreferrer">SHODAN, AI Alignment, and the Myth of Control | What System Shock Got Right</a></p><p class="youtube-embed-meta">Channel: Terra Glitch &middot; Views: 56 &middot; Uploaded: March 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6HrEvh8914I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6HrEvh8914I">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /chip-controls/
 nav_short_title: Backlash
 title: Can chip controls worsen the AI race?
-title_full: Can chip controls worsen the AI race? | Chip Controls
+title_full: Can chip controls worsen the AI race?
 display_title_short: Backlash
 display_title: Backlash
 heading_title: Can chip controls worsen the AI race?
@@ -204,7 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-02 12:24:45'
-parent_title: Can AI Chip Controls Slow Dangerous Capabilities? | Governance
+parent_title: Can AI Chip Controls Slow Dangerous Capabilities?
 parent_permalink: /chip-controls/
 parent_nav_short_title: Chip Controls
 parent_heading_title: Can AI Chip Controls Slow Dangerous Capabilities?
@@ -271,7 +271,6 @@ image: /assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_ai_chip_expor_d5
 
 One objection to AI chip export controls is that they may reduce one risk while increasing another. In the context of AI doom or existential risk, the question is not simply whether restrictions slow the development of advanced AI systems. It is whether they reduce overall danger after accounting for geopolitical reactions.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_ai_chip_expor_d56f2b_chip_controls_e5ad0d-Illustration-1-dark.svg" | relative_url }}" alt="Backlash illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_ai_chip_expor_d56f2b_chip_controls_e5ad0d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_ai_chip_expor_d56f2b_chip_controls_e5ad0d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Critics argue that strict controls on advanced AI chips can intensify strategic rivalry, encourage technological self-sufficiency programmes, and make international cooperation on AI safety more difficult. If existential risk partly comes from a competitive race in which governments and companies feel pressure to deploy increasingly powerful systems before they are fully understood, then policies that deepen geopolitical confrontation may have unintended consequences. The debate is therefore not about whether [chip controls]({{ 'chip-controls/' | relative_url }}) have effects—they clearly do—but whether those effects ultimately reduce or increase long-term AI risk. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chathamhouse.org/2026/04/ai-export-controls-are-not-best-bargaining-chip" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chathamhouse.org">[Chatham House]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chathamhouse.org</span><span class="citation-popover-snippet">Chatham HouseAI export controls are not the best bargaining chip4 days ago — US export controls on chips and hardware alone will not prev...</span></span></span>
 
@@ -293,9 +292,7 @@ The strongest backlash argument concerns technological self-sufficiency.
 
 For several years, Chinese policymakers have treated dependence on foreign semiconductors as a strategic vulnerability. Export controls have strengthened the political case for investing heavily in domestic alternatives. Beijing's goal of creating an "[independent]({{ 'red-teaming/' | relative_url }}) and controllable" technology stack predates recent restrictions, but multiple analyses argue that controls have accelerated those efforts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://merics.org/en/report/chinas-drive-toward-self-reliance-artificial-intelligence-chips-large-language-models" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: merics.org">[MERICS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">merics.org</span><span class="citation-popover-snippet">China&#x27;s drive toward self-reliance in artificial intelligenceJul 22, 2025 — China is pursuing self-reliance in AI at every level of...</span></span></span> CSIS The mechanism is straightforward: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.csis.org/analysis/limits-chip-export-controls-meeting-china-challenge" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csis.org">[csis.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csis.org</span><span class="citation-popover-title">limits chip export controls meeting china challenge</span><span class="citation-popover-snippet">The Limits of Chip Export Controls in Meeting the China...Apr 14, 2025 — The US government and those of its allies have imposed and prog...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SbY0QRY-DM0" title="US-China competition: AI, chips and export controls — where to next?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SbY0QRY-DM0" target="_blank" rel="noopener noreferrer">US-China competition: AI, chips and export controls — where to next?</a></p><p class="youtube-embed-meta">Channel: United States Studies Centre &middot; Views: 1.0K &middot; Uploaded: February 2025 &middot; Length: 57 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SbY0QRY-DM0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SbY0QRY-DM0">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -313,7 +310,6 @@ Recent developments illustrate this pattern. Chinese firms have increased invest
 Some observers argue that restrictions may therefore create a paradox. They may slow capabilities in the short term while encouraging the emergence of a more independent rival ecosystem in the long term. Huawei executives have publicly argued that sanctions accelerated domestic innovation and forced Chinese companies to develop technologies they might otherwise have postponed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tomshardware.com/tech-industry/huawei-chairman-thanks-the-us-for-supercharging-chinas-semiconductor-industry-washingtons-export-controls-encouraged-chinese-firms-to-invest-in-r-and-d-and-build-their-own-tech-stack-competing-with-american-technologies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tomshardware.com">[Tom&#x27;s Hardware]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tomshardware.com</span><span class="citation-popover-snippet">He stated that without the pressure, Chinese companies like Huawei may not have pursued innovations such as their LogicFolding chip archi...</span></span></span>
 
 That does not necessarily mean the controls failed. A policy can both delay progress and stimulate adaptation. The question is which effect dominates over the timescales relevant to existential risk.
-
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_ai_chip_expor_d56f2b_chip_controls_e5ad0d-Illustration-2-dark.svg" | relative_url }}" alt="Backlash illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_ai_chip_expor_d56f2b_chip_controls_e5ad0d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_ai_chip_expor_d56f2b_chip_controls_e5ad0d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Does self-sufficiency make AI doom more likely?
@@ -334,7 +330,6 @@ A more fragmented technological world may create:
 
 In extreme versions of AI doom scenarios, the problem is not merely that powerful systems exist. The problem is that competitive pressure encourages actors to accept risks they would otherwise avoid. Under that model, geopolitical fragmentation can itself become part of the risk pathway.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8M-Xu0G2_gE" title="Geopolitical rivalry and the global competition in AI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8M-Xu0G2_gE" target="_blank" rel="noopener noreferrer">Geopolitical rivalry and the global competition in AI</a></p><p class="youtube-embed-meta">Channel: Institut français des relations internationales &middot; Views: 1.0K &middot; Uploaded: July 2023 &middot; Length: 1 hour 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8M-Xu0G2_gE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8M-Xu0G2_gE">Open on YouTube</a></p></div></div></div>
 
 ## Cooperation risks for global AI safety
@@ -350,7 +345,6 @@ Critics of chip restrictions argue that policies framed primarily around technol
 This concern appears in some recent policy commentary. Analysts have argued that export controls alone are unlikely to prevent advanced AI development indefinitely and may reduce their usefulness as bargaining tools if they undermine broader diplomatic relationships. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chathamhouse.org/2026/04/ai-export-controls-are-not-best-bargaining-chip" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chathamhouse.org">[Chatham House]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chathamhouse.org</span><span class="citation-popover-snippet">Chatham HouseAI export controls are not the best bargaining chip4 days ago — US export controls on chips and hardware alone will not prev...</span></span></span>
 
 For AI doom discussions, this matters because many long-term safety strategies assume some ability to coordinate internationally once systems become sufficiently capable. If geopolitical hostility grows faster than safety cooperation, then controls could inadvertently make some future [governance]({{ 'governance/' | relative_url }}) proposals harder to implement.
-
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_ai_chip_expor_d56f2b_chip_controls_e5ad0d-Illustration-3-dark.svg" | relative_url }}" alt="Backlash illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_ai_chip_expor_d56f2b_chip_controls_e5ad0d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_ai_chip_expor_d56f2b_chip_controls_e5ad0d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The evidence remains mixed
@@ -373,9 +367,7 @@ For people concerned about AI doom, the central question is therefore not whethe
 
 That tension is one of the main reasons export controls remain controversial within the broader debate about reducing existential risk from advanced AI systems.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5a2g0hgvoIE" title="Taiwan Frontlines - Episode 1 - ft. Chris Miller" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5a2g0hgvoIE" target="_blank" rel="noopener noreferrer">Taiwan Frontlines - Episode 1 - ft. Chris Miller</a></p><p class="youtube-embed-meta">Channel: The German Marshall Fund of the United States &middot; Views: 2.0K &middot; Uploaded: January 2026 &middot; Length: 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5a2g0hgvoIE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5a2g0hgvoIE">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -494,15 +486,15 @@ That tension is one of the main reasons export controls remain controversial wit
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-chip-controls-worsen-the-ai-race-computer-chip-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip display" data-ebay-reference="can-chip-controls-worsen-the-ai-race-computer-chip-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1PCS Digital LED Display USB 3.2 Adapter 10Gbps 36-60W Meter Tester Chip5621"><img src="https://i.ebayimg.com/images/g/fq4AAeSwTsdo~zb8/s-l225.jpg" alt="Listing image for 1PCS Digital LED Display USB 3.2 Adapter 10Gbps 36-60W Meter Tester Chip5621" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=semiconductor+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-chip-controls-worsen-the-ai-race-semiconductor-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="semiconductor display model" data-ebay-reference="can-chip-controls-worsen-the-ai-race-semiconductor-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2IN1 Phone Cooler Magnetic Backclip RGB 15W Semiconductor Game Radiator Type-C"><img src="https://i.ebayimg.com/images/g/T3AAAeSwpFxo91OO/s-l225.jpg" alt="Listing image for 2IN1 Phone Cooler Magnetic Backclip RGB 15W Semiconductor Game Radiator Type-C" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-chip-controls-worsen-the-ai-race-computer-chip-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip display" data-ebay-reference="can-chip-controls-worsen-the-ai-race-computer-chip-display" target="_blank" rel="sponsored noopener noreferrer">1PCS Digital LED Display USB 3.2 Adapter 10Gbps 36-60W Meter Tester Chip5621</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=semiconductor+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-chip-controls-worsen-the-ai-race-semiconductor-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="semiconductor display model" data-ebay-reference="can-chip-controls-worsen-the-ai-race-semiconductor-display-model" target="_blank" rel="sponsored noopener noreferrer">2IN1 Phone Cooler Magnetic Backclip RGB 15W Semiconductor Game Radiator Type-C</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-chip-controls-worsen-the-ai-race-computer-chip-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip display" data-ebay-reference="can-chip-controls-worsen-the-ai-race-computer-chip-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip display">Search <span data-ebay-domain-label>eBay.co.uk</span>: computer chip display</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=semiconductor+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-chip-controls-worsen-the-ai-race-semiconductor-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="semiconductor display model" data-ebay-reference="can-chip-controls-worsen-the-ai-race-semiconductor-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for semiconductor display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: semiconductor display model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-chip-controls-worsen-the-ai-race-computer-chip-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip display" data-ebay-reference="can-chip-controls-worsen-the-ai-race-computer-chip-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=semiconductor+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-chip-controls-worsen-the-ai-race-semiconductor-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="semiconductor display model" data-ebay-reference="can-chip-controls-worsen-the-ai-race-semiconductor-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -510,47 +502,15 @@ That tension is one of the main reasons export controls remain controversial wit
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-chip-controls-worsen-the-ai-race-computer-chip-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip display" data-ebay-reference="can-chip-controls-worsen-the-ai-race-computer-chip-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CHIPS 82C455 LVDS PCI 2MB Industrial VGA GPU Video Card LCD FA-R60P2 working#ZAC"><img src="https://i.ebayimg.com/images/g/G~cAAeSw6Ydp7fn9/s-l225.jpg" alt="Listing image for CHIPS 82C455 LVDS PCI 2MB Industrial VGA GPU Video Card LCD FA-R60P2 working#ZAC" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=semiconductor+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-chip-controls-worsen-the-ai-race-semiconductor-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="semiconductor display model" data-ebay-reference="can-chip-controls-worsen-the-ai-race-semiconductor-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Effective Cooling with Semiconductor Technology Dual Fans Digital Display"><img src="https://i.ebayimg.com/images/g/E28AAeSwQIpqBMLz/s-l225.jpg" alt="Listing image for Effective Cooling with Semiconductor Technology Dual Fans Digital Display" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-chip-controls-worsen-the-ai-race-computer-chip-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip display" data-ebay-reference="can-chip-controls-worsen-the-ai-race-computer-chip-display" target="_blank" rel="sponsored noopener noreferrer">CHIPS 82C455 LVDS PCI 2MB Industrial VGA GPU Video Card LCD FA-R60P2 working#ZAC</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=semiconductor+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-chip-controls-worsen-the-ai-race-semiconductor-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="semiconductor display model" data-ebay-reference="can-chip-controls-worsen-the-ai-race-semiconductor-display-model" target="_blank" rel="sponsored noopener noreferrer">Effective Cooling with Semiconductor Technology Dual Fans Digital Display</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-chip-controls-worsen-the-ai-race-computer-chip-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip display" data-ebay-reference="can-chip-controls-worsen-the-ai-race-computer-chip-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip display">Search <span data-ebay-domain-label>eBay.co.uk</span>: computer chip display</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=semiconductor+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-chip-controls-worsen-the-ai-race-semiconductor-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="semiconductor display model" data-ebay-reference="can-chip-controls-worsen-the-ai-race-semiconductor-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for semiconductor display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: semiconductor display model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-chip-controls-worsen-the-ai-race-computer-chip-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip display" data-ebay-reference="can-chip-controls-worsen-the-ai-race-computer-chip-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-chip-controls-worsen-the-ai-race-computer-chip-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip display" data-ebay-reference="can-chip-controls-worsen-the-ai-race-computer-chip-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1PCS Digital LED Display USB 3.2 Adapter 10Gbps 36-60W Meter Tester Chip5621"><img src="https://i.ebayimg.com/images/g/fq4AAeSwTsdo~zb8/s-l225.jpg" alt="Listing image for 1PCS Digital LED Display USB 3.2 Adapter 10Gbps 36-60W Meter Tester Chip5621" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-chip-controls-worsen-the-ai-race-computer-chip-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip display" data-ebay-reference="can-chip-controls-worsen-the-ai-race-computer-chip-display" target="_blank" rel="sponsored noopener noreferrer">1PCS Digital LED Display USB 3.2 Adapter 10Gbps 36-60W Meter Tester Chip5621</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-chip-controls-worsen-the-ai-race-computer-chip-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip display" data-ebay-reference="can-chip-controls-worsen-the-ai-race-computer-chip-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip display">Search <span data-ebay-domain-label>eBay.co.uk</span>: computer chip display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-chip-controls-worsen-the-ai-race-computer-chip-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip display" data-ebay-reference="can-chip-controls-worsen-the-ai-race-computer-chip-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-chip-controls-worsen-the-ai-race-computer-chip-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip display" data-ebay-reference="can-chip-controls-worsen-the-ai-race-computer-chip-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Computer Aid 2-SIO Rev 6 &amp;2-SIO(R) S-100 Dual Serial I/O Boards Untested"><img src="https://i.ebayimg.com/images/g/ck8AAeSwXHVo4qE9/s-l225.jpg" alt="Listing image for Vintage Computer Aid 2-SIO Rev 6 &amp;2-SIO(R) S-100 Dual Serial I/O Boards Untested" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-chip-controls-worsen-the-ai-race-computer-chip-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip display" data-ebay-reference="can-chip-controls-worsen-the-ai-race-computer-chip-display" target="_blank" rel="sponsored noopener noreferrer">Vintage Computer Aid 2-SIO Rev 6 &amp;2-SIO(R) S-100 Dual Serial I/O Boards Untested</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-chip-controls-worsen-the-ai-race-computer-chip-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip display" data-ebay-reference="can-chip-controls-worsen-the-ai-race-computer-chip-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip display">Search <span data-ebay-domain-label>eBay.co.uk</span>: computer chip display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-chip-controls-worsen-the-ai-race-computer-chip-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip display" data-ebay-reference="can-chip-controls-worsen-the-ai-race-computer-chip-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=semiconductor+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-chip-controls-worsen-the-ai-race-semiconductor-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="semiconductor display model" data-ebay-reference="can-chip-controls-worsen-the-ai-race-semiconductor-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -558,7 +518,7 @@ That tension is one of the main reasons export controls remain controversial wit
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-chip-controls-worsen-the-ai-race-computer-chip-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip display" data-ebay-reference="can-chip-controls-worsen-the-ai-race-computer-chip-display" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=semiconductor+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-chip-controls-worsen-the-ai-race-semiconductor-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="semiconductor display model" data-ebay-reference="can-chip-controls-worsen-the-ai-race-semiconductor-display-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -768,6 +728,7 @@ That tension is one of the main reasons export controls remain controversial wit
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

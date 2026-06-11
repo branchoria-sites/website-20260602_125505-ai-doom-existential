@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /first-movers/
 nav_short_title: Deployment rules
 title: Can rules stop a dangerous AI race
-title_full: Can rules stop a dangerous AI race | First Movers
+title_full: Can rules stop a dangerous AI race
 display_title_short: Deployment rules
 display_title: Deployment rules
 heading_title: Can rules stop a dangerous AI race
@@ -204,7 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 18:53:09'
-parent_title: Why Being First Can Make AI Less Safe | Race Pressure
+parent_title: Why Being First Can Make AI Less Safe
 parent_permalink: /first-movers/
 parent_nav_short_title: First Movers
 parent_heading_title: Why Being First Can Make AI Less Safe
@@ -271,7 +271,6 @@ image: /assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56
 
 Can regulation slow a dangerous AI race? Possibly, but only under certain conditions. In the AI doom and existential-risk debate, the concern is not simply that powerful systems might be built, but that competitive pressure could encourage companies or governments to deploy frontier AI before its capabilities and failure modes are properly understood. Regulation is often proposed as a way to reduce that pressure by making safety testing, external review, and risk management mandatory rather than optional.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_frontier_ai_d_8b76b0-Illustration-1-dark.svg" | relative_url }}" alt="Deployment rules illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_frontier_ai_d_8b76b0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_frontier_ai_d_8b76b0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Supporters argue that well-designed rules can change incentives so that delaying deployment for safety reasons is no longer a competitive disadvantage. Critics counter that regulation may be ineffective, difficult to enforce internationally, or could even favour large incumbents without meaningfully reducing risk. The key question is therefore not whether regulation exists, but whether it can create enough coordination among major AI developers to prevent premature launches of systems that might eventually contribute to loss-of-control scenarios or other existential risks.
 
@@ -283,7 +282,6 @@ The problem, according to many AI-risk researchers, is that voluntary commitment
 
 This creates a classic coordination problem. Voluntary agreements can help when all participants trust one another and when incentives remain aligned. However, they may become fragile if:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * Commercial rewards for being first are very large.
@@ -294,7 +292,6 @@ This creates a classic coordination problem. Voluntary agreements can help when 
 </div>
 
 From an AI doom perspective, this matters because the most dangerous deployment decisions may occur precisely when competitive pressure is strongest. The concern is not that companies are reckless, but that market and geopolitical incentives can make caution costly.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/X6Er7kLi2wE" title="UK AI Summit: What can it achieve?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=X6Er7kLi2wE" target="_blank" rel="noopener noreferrer">UK AI Summit: What can it achieve?</a></p><p class="youtube-embed-meta">Channel: Chatham House &middot; Views: 1.7K &middot; Uploaded: October 2023 &middot; Length: 1 hour 3 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=X6Er7kLi2wE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=X6Er7kLi2wE">Open on YouTube</a></p></div></div></div>
 
@@ -319,7 +316,6 @@ The underlying goal is not necessarily to prohibit deployment. Rather, it is to 
 
 For readers interested in AI doom arguments, this is important because many loss-of-control scenarios depend on systems becoming highly capable before humans can reliably understand, monitor, or constrain them. Mandatory evaluations are an attempt to slow deployment until evidence about safety catches up with capability growth.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6e_LgAu_QIw" title="How Google DeepMind Tests AI Before It Goes Wrong" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6e_LgAu_QIw" target="_blank" rel="noopener noreferrer">How Google DeepMind Tests AI Before It Goes Wrong</a></p><p class="youtube-embed-meta">Channel: CNBC International &middot; Views: 4.4K &middot; Uploaded: January 2026 &middot; Length: 44 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6e_LgAu_QIw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6e_LgAu_QIw">Open on YouTube</a></p></div></div></div>
 
 ## What current regulations actually try to do
@@ -342,7 +338,6 @@ For this reason, many governance proposals focus on international coordination r
 
 The difficulty is that AI is often viewed simultaneously as:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * A commercial technology.
@@ -355,7 +350,6 @@ The difficulty is that AI is often viewed simultaneously as:
 Governments may therefore face conflicting incentives. They may want stronger safety measures while also wanting domestic firms to remain globally competitive.
 
 This tension is especially visible in debates about frontier models. Policymakers concerned about existential risk often favour stronger oversight, whereas policymakers focused on innovation may worry that excessive restrictions could slow economic growth or strategic advantage.
-
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_frontier_ai_d_8b76b0-Illustration-2-dark.svg" | relative_url }}" alt="Deployment rules illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_frontier_ai_d_8b76b0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_frontier_ai_d_8b76b0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Could regulation actually reduce existential risk?
@@ -382,7 +376,6 @@ Third, compliance does not guarantee safety. A company can satisfy procedural re
 
 As a result, even many supporters of regulation view it as a risk-reduction tool rather than a complete solution to AI doom concerns.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ihhmg_w1o-U" title="Why artificial intelligence developers say regulation is needed to keep AI in check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ihhmg_w1o-U" target="_blank" rel="noopener noreferrer">Why artificial intelligence developers say regulation is needed to keep AI in check</a></p><p class="youtube-embed-meta">Channel: PBS NewsHour &middot; Views: 33.8K &middot; Uploaded: May 2023 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ihhmg_w1o-U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ihhmg_w1o-U">Open on YouTube</a></p></div></div></div>
 
 ## The strongest objections
@@ -398,7 +391,6 @@ A third objection is regulatory capture. Large firms often have more resources t
 A fourth objection concerns uncertainty itself. Regulators may not know enough about advanced AI to identify appropriate thresholds for intervention. Academic analysis of the EU AI Act's treatment of systemic risk repeatedly highlights the difficulty of defining and measuring risks from rapidly evolving frontier models. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/european-journal-of-risk-regulation/article/regulating-uncertainty-governing-generalpurpose-ai-models-and-systemic-risk/7EEFE1D8421A43A98CE91F7C697DE538" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentGoverning General-Purpose AI Models and Systemic Riskby S Carey · Cited by 7 — This article critic...</span></span></span> University Press & Assessment
 
 These criticisms do not necessarily imply that regulation is futile. Rather, they suggest that governance mechanisms must evolve alongside the technology they seek to govern.
-
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_frontier_ai_d_8b76b0-Illustration-3-dark.svg" | relative_url }}" alt="Deployment rules illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_frontier_ai_d_8b76b0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_frontier_ai_d_8b76b0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What this means for the AI doom debate

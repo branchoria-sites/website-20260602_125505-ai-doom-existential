@@ -30,7 +30,7 @@ sidebar_expanded_urls:
 - /governance/
 nav_short_title: Cloud Oversight
 title: Can Cloud Providers Police Frontier AI Training?
-title_full: Can Cloud Providers Police Frontier AI Training? | Governance
+title_full: Can Cloud Providers Police Frontier AI Training?
 display_title_short: Cloud Oversight
 display_title: Cloud Oversight
 heading_title: Can Cloud Providers Police Frontier AI Training?
@@ -206,7 +206,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-02 12:01:05'
-parent_title: What Rules Could Reduce AI Doom Risk? | AI Doom
+parent_title: What Rules Could Reduce AI Doom Risk?
 parent_permalink: /governance/
 parent_nav_short_title: Governance
 parent_heading_title: What Rules Could Reduce AI Doom Risk?
@@ -290,7 +290,6 @@ image: /assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bb
 
 Cloud providers sit at the centre of many proposals for governing frontier AI. The basic idea is simple: if the most powerful AI systems require enormous amounts of computing power, then the companies that provide that computing power may be one of the few practical places where oversight can occur. Rather than trying to monitor every AI developer directly, governments could require major cloud providers to identify customers, record large training runs, and report activities that cross specified risk thresholds. Supporters see this as a realistic way to reduce the chances of dangerous AI development slipping entirely out of view. Critics question whether such [monitoring]({{ 'monitoring/' | relative_url }}) would work in practice, whether it would be compatible with privacy and commercial confidentiality, and whether determined actors could simply evade it. [cdn.[governance]({{ 'governance/' | relative_url }}). ai]
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549-Illustration-1-dark.svg" | relative_url }}" alt="Cloud Oversight illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within debates about AI doom and existential risk, cloud monitoring is usually presented as a specific implementation mechanism within broader compute governance. The goal is not to prove that advanced AI will become existentially dangerous, but to create visibility and intervention points if highly capable systems begin to emerge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -302,7 +301,6 @@ For AI doom advocates, this concentration matters because it creates one of the 
 
 Supporters of cloud oversight typically point to three advantages:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Visibility:** large training runs often leave measurable traces in compute usage.
@@ -312,7 +310,6 @@ Supporters of cloud oversight typically point to three advantages:
 </div>
 
 From an existential-risk perspective, the attraction is that [warning signs]({{ 'warning-signs/' | relative_url }}) of potentially dangerous capability development could become visible before systems are deployed.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tcmpaFUSo1g" title="Samuel Hammond on why AI Progress is Accelerating - and how Governments Should Respond" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tcmpaFUSo1g" target="_blank" rel="noopener noreferrer">Samuel Hammond on why AI Progress is Accelerating - and how Governments Should Respond</a></p><p class="youtube-embed-meta">Channel: Future of Life Institute &middot; Views: 2.9K &middot; Uploaded: August 2024 &middot; Length: 2 hours 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tcmpaFUSo1g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tcmpaFUSo1g">Open on YouTube</a></p></div></div></div>
 
@@ -333,7 +330,6 @@ Proposed monitoring schemes often include:
 Several policy discussions in the United States have moved in this direction. Following Executive Order 14110, the Department of Commerce proposed rules requiring infrastructure-as-a-service providers to establish customer identification procedures and report certain large AI training activities involving foreign actors. The objective was partly to improve visibility into advanced AI development and reduce opportunities for malicious use of American cloud infrastructure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.federalregister.gov/documents/2024/01/29/2024-01580/taking-additional-steps-to-address-the-national-emergency-with-respect-to-significant-malicious" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: federalregister.gov">[Federal Register]</a><span class="citation-popover" role="note"><span class="citation-popover-source">federalregister.gov</span><span class="citation-popover-title">Federal Register Proposed Rule</span><span class="citation-popover-snippet">Federal RegisterProposed RuleJanuary 29, 2024 — 29 Jan 2024 — The Executive order of October 30, 2023, “Safe, Secure, and Trustworthy Dev...</span><span class="citation-popover-meta">Published: January 29, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hoganlovells.com/en/publications/us-dept-of-commerce-proposes-new-know-your-customer-rules-for-cloud-services-and-ai-training" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hoganlovells.com">[2www.hoganlovells.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hoganlovells.com</span><span class="citation-popover-title">www.hoganlovells.com U.S</span><span class="citation-popover-snippet">Dept. of Commerce proposes new “Know Your...26 Feb 2024 — Reports on Large AI Model Training. The proposed rules would require U.S. IaaS...</span></span></span>
 
 For proponents of AI doom prevention, such reporting systems are valuable less because they stop dangerous AI automatically and more because they create [awareness]({{ 'awareness/' | relative_url }}). A regulator cannot react to a frontier training run it does not know exists.
-
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549-Illustration-2-dark.svg" | relative_url }}" alt="Cloud Oversight illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Could Cloud Providers Actually Detect?
@@ -356,7 +352,6 @@ This does not solve the core alignment problem. A cloud provider cannot determin
 
 For this reason, cloud oversight is often framed as an enabling mechanism rather than a complete solution to existential risk.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1CB9dgUlNpg" title="Sara Hooker on compute thresholds for AI; CrowdStrike breaks the internet | Safe Mode" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1CB9dgUlNpg" target="_blank" rel="noopener noreferrer">Sara Hooker on compute thresholds for AI; CrowdStrike breaks the internet | Safe Mode</a></p><p class="youtube-embed-meta">Channel: CyberScoop &middot; Views: 279 &middot; Uploaded: July 2024 &middot; Length: 46 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1CB9dgUlNpg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1CB9dgUlNpg">Open on YouTube</a></p></div></div></div>
 
 ## Privacy, Enforcement and Evasion Risks
@@ -369,7 +364,6 @@ Enforcement is another concern. A reporting requirement only helps if providers 
 
 Evasion is perhaps the most serious challenge from an AI doom perspective. If frontier development increasingly occurs on privately owned clusters, state-supported infrastructure, or hardware outside regulated jurisdictions, cloud monitoring may capture only part of the relevant activity. International coordination therefore becomes important. A system that works only in one country could push activity elsewhere rather than eliminate it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pSDC2mmVQpg" title="The Existential Risk of AI is Being IGNORED (This is SCARY) – Matthew Syed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pSDC2mmVQpg" target="_blank" rel="noopener noreferrer">The Existential Risk of AI is Being IGNORED (This is SCARY) – Matthew Syed</a></p><p class="youtube-embed-meta">Channel: The Daily Heretic &middot; Views: 5.1K &middot; Uploaded: October 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pSDC2mmVQpg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pSDC2mmVQpg">Open on YouTube</a></p></div></div></div>
 
 ## Could Cloud Oversight Meaningfully Reduce Existential Risk?
@@ -381,7 +375,6 @@ Cloud monitoring is unlikely to provide a complete defence against AI-related ex
 At the same time, many governance researchers view cloud providers as one of the most practical enforcement points currently available. Compared with attempting to monitor algorithms, datasets, or individual researchers directly, cloud infrastructure offers a comparatively concentrated and observable target for regulation. This is why proposals for KYC requirements, training-run reporting, and compute thresholds have received sustained attention in frontier-AI policy discussions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The key [uncertainty]({{ 'uncertainty/' | relative_url }}) is not whether cloud providers can provide some visibility into frontier AI development. They almost certainly can. The open question is how much visibility they can provide before privacy costs, international coordination problems, and technical evasion strategies begin to undermine the system. For debates about AI doom, that uncertainty is central: cloud oversight may be one of the most realistic governance tools available, yet its ability to prevent loss-of-control scenarios remains unproven. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rand.org/pubs/research_reports/RRA3686-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-title">RRA3686 1</span><span class="citation-popover-snippet">RAND CorporationStrategies and Detection Gaps in a Game-Theoretic Model...16 Jun 2025 — The authors outline strategies for cloud service...</span></span></span>
-
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549-Illustration-3-dark.svg" | relative_url }}" alt="Cloud Oversight illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 

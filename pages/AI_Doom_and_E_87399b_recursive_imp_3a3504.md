@@ -34,7 +34,7 @@ sidebar_expanded_urls:
 - /ai-doom-and-e-87399-b/
 nav_short_title: AI Takeoff
 title: Could AI Improvement Run Away From US?
-title_full: Could AI Improvement Run Away From US? | AI Doom
+title_full: Could AI Improvement Run Away From US?
 display_title_short: AI Takeoff
 display_title: AI Takeoff
 heading_title: Could AI Improvement Run Away From US?
@@ -311,14 +311,12 @@ image: /assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504-overview-social.
 
 One of the clearest‑defined mechanisms that feeds into **AI doom and existential risk** narratives is *recursive AI improvement* — the idea that an AI system could progressively enhance its own capabilities without human guidance, triggering a rapid *intelligence explosion* that leaves [human oversight]({{ 'human-oversight/' | relative_url }}) far behind. This page explains what people mean by recursive improvement, how it might unfold, why the speed of such a *takeoff* matters for risk, and what current research suggests about how close we might be to this phenomenon. Echoing the long‑standing origin of the idea with British mathematician I. J. Good, the core concern is that once a machine can reliably improve itself, its learning could accelerate in a positive feedback loop — with profound implications for control and alignment.[AI Wiki]
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504-overview.webp" | relative_url }}" alt="Overview image for AI Takeoff" loading="eager" decoding="sync" fetchpriority="high">
 ## How recursive improvement could work
 
 At its core, *recursive self‑improvement* is a positive feedback process: if an AI system can analyse and modify its own design — or design successor systems — then every improvement it makes increases its capacity to make further improvements. In Good’s original 1965 formulation, an “ultraintelligent machine” would design smarter machines, leading to an *intelligence explosion* where machine intelligence quickly transcends human capability.[AI Wiki]
 
 Technically, the cycle involves several steps:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -331,7 +329,6 @@ Technically, the cycle involves several steps:
 
 Researchers like Nick Bostrom have modelled this process with the idea that *optimization power* divided by *recalcitrance* (difficulty of improvement) determines the growth rate. If recalcitrance drops once a system reaches human‑level capability — for example, easier algorithmic improvements or abundant hardware — then even modest iterative gains could cascade into rapid capability escalation.[AI Wiki]
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504-Illustration-1-dark.svg" | relative_url }}" alt="AI Takeoff illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Slow takeoff vs fast takeoff: why speed matters
 
@@ -341,7 +338,6 @@ The *takeoff* is the phase during which an AI moves from roughly human‑level a
 * **Hard or [fast takeoff]({{ 'fast-takeoff/' | relative_url }}):** capability leaps happen quickly — over months, weeks, or even days — once the feedback loop begins. Proponents argue that once a system starts improving itself meaningfully, each successive upgrade yields disproportionately larger gains, compressing what once took years into much shorter intervals. This scenario makes oversight extremely difficult and raises the spectre of a system rapidly reaching a *decisive strategic advantage*, a point where it could set terms for the future with little human influence.[AI Wiki]
 
 The term “FOOM” is often used in this community for an abrupt jump in capability tied to recursive improvement. Whether AI will experience soft or hard takeoff remains deeply uncertain and highly contested among researchers, but it is central to risk assessments: a hard takeoff would leave minimal time for course corrections, yet a slow takeoff could offer breathing room for mitigation if properly governed.
-
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504-Illustration-3-dark.svg" | relative_url }}" alt="AI Takeoff illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -357,9 +353,7 @@ Recursive improvement today is not yet the dramatic, autonomous cycle that Good 
 
 Moreover, a 2026 survey of frontier AI researchers found broad agreement that automating AI research is a high‑priority risk concern, though opinions diverge on whether this will lead to explosive growth versus slower, incremental change.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2507.23181" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Will Compute Bottlenecks Prevent an Intelligence Explosion?</span><span class="citation-popover-snippet">Will Compute Bottlenecks Prevent an Intelligence Explosion?July 31, 2025...</span><span class="citation-popover-meta">Published: July 31, 2025</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jQsEF_HFbAE" title="GAEA Talks - Every AI Safety Warning Was Ignored with Dr Roman Yampolskiy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jQsEF_HFbAE" target="_blank" rel="noopener noreferrer">GAEA Talks - Every AI Safety Warning Was Ignored with Dr Roman Yampolskiy</a></p><p class="youtube-embed-meta">Channel: GAEA AI &middot; Views: 110.3K &middot; Uploaded: March 2026 &middot; Length: 1 hour 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jQsEF_HFbAE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jQsEF_HFbAE">Open on YouTube</a></p></div></div></div>
-
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504-Illustration-2-dark.svg" | relative_url }}" alt="AI Takeoff illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why recursive improvement matters for existential risk
@@ -370,9 +364,7 @@ Experts warn that even absent “malice”, a superintelligent system pursuing m
 
 Recursive self‑improvement remains theoretical today. There is no public evidence of an AI system independently surging into a true intelligence explosion, but the building blocks — automation of parts of AI development and iterative optimisation — are actively being explored. Whether this path leads to a hard takeoff, a soft one, or remains constrained by technical bottlenecks is a major hinge on the canvas of existential risk assessments.[AI Wiki]
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EKomXwswYJ8" title="Nick Bostrom - The Intelligence Explosion, What Happens to Humans and New Economic Systems" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EKomXwswYJ8" target="_blank" rel="noopener noreferrer">Nick Bostrom - The Intelligence Explosion, What Happens to Humans and New Economic Systems</a></p><p class="youtube-embed-meta">Channel: Wes Roth &middot; Views: 38.5K &middot; Uploaded: August 2025 &middot; Length: 1 hour 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EKomXwswYJ8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EKomXwswYJ8">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

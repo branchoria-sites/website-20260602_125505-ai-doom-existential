@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-deceptive-ali/
 description: Focused pages that expand on Deception and Loss.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_deceptive_ali_f9f449_deception_los_dd8ce0
-parent_title: Deception and Loss | Scheming Tests
+parent_title: Deception and Loss
 parent_nav_short_title: Deception and Loss
 parent_permalink: /deception-and-loss/
 ---

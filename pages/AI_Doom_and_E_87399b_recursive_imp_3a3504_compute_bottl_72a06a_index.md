@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-recursive-imp/
 description: Focused pages that expand on Compute brakes.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72a06a
-parent_title: Compute brakes | AI Takeoff
+parent_title: Compute brakes
 parent_nav_short_title: Compute brakes
 parent_permalink: /compute-brakes/
 ---

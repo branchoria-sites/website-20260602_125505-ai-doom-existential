@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /ai-oversight/
 nav_short_title: Runtime Watch
 title: Can monitoring catch agents before damage spreads?
-title_full: Can monitoring catch agents before damage spreads? | AI Oversight
+title_full: Can monitoring catch agents before damage spreads?
 display_title_short: Runtime Watch
 display_title: Runtime Watch
 heading_title: Can monitoring catch agents before damage spreads?
@@ -204,7 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 12:18:55'
-parent_title: Managing and Governing Autonomous AI Agents | Autonomy
+parent_title: Managing and Governing Autonomous AI Agents
 parent_permalink: /ai-oversight/
 parent_nav_short_title: AI Oversight
 parent_heading_title: Managing and Governing Autonomous AI Agents
@@ -271,7 +271,6 @@ image: /assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac0
 
 As AI systems evolve from static tools that answer discrete queries to **long‑horizon autonomous agents** that plan, act, and make decisions over extended periods, a pressing [governance]({{ 'governance/' | relative_url }}) challenge arises: how can we **detect and intervene when these agents behave dangerously in real time**? Static audits and pre‑deployment tests can only go so far — once an agent interacts with tools, external APIs, users and dynamic environments, novel and unanticipated behaviours can emerge. **Runtime [monitoring]({{ 'monitoring/' | relative_url }})** aims to fill that gap by supervising agents *as they operate*, spotting unsafe patterns before they cascade into harm. This section focuses on the mechanisms and limits of such monitoring from a safety and existential‑risk perspective: why it matters, how it works, and what it can — and cannot — realistically catch.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1_runtime_monit_6e4433-Illustration-1-dark.svg" | relative_url }}" alt="Runtime Watch illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1_runtime_monit_6e4433-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1_runtime_monit_6e4433-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Static Audits Miss Dangerous Behaviour
 
@@ -291,7 +290,6 @@ The upshot is that **pre‑deployment assurance doesn’t guarantee safety once 
 
 At the most basic level, monitoring systems collect structured records of an agent’s behaviour during execution — including:
 
-
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
 * **Action traces**: step‑by‑step records of tool calls, API requests, and decisions the agent makes.
@@ -302,13 +300,11 @@ At the most basic level, monitoring systems collect structured records of an age
 
 This telemetry forms the **foundation for anomaly detection** and post‑hoc analysis. Without it, an agent’s behaviour is essentially a black box the moment it leaves the test environment. Many enterprise solutions in 2026 now include runtime logs and dashboards precisely for this purpose, treating agents like production services that require observability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tracectrl.ai/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tracectrl.ai">[TraceCtrl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tracectrl.ai</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AvggwQ4Bbzk" title="We Gave AI the Keys—Here’s What Broke in 2 Weeks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AvggwQ4Bbzk" target="_blank" rel="noopener noreferrer">We Gave AI the Keys—Here’s What Broke in 2 Weeks</a></p><p class="youtube-embed-meta">Channel: Human Capital Innovations &middot; Views: 8 &middot; Uploaded: February 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AvggwQ4Bbzk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AvggwQ4Bbzk">Open on YouTube</a></p></div></div></div>
 
 ### Anomaly Detection
 
 Once behavioural logs are available, monitoring systems use **anomaly detection techniques** to flag unusual patterns that could indicate risk:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -324,7 +320,6 @@ Emerging tools such as Bulwark, Sentiver, and TraceCtrl actively monitor these p
 
 Beyond heuristic logging, **formal methods** offer a stronger, mathematically grounded approach to runtime monitoring. These systems use explicit behavioural specifications — often in temporal logic — to define what *must* and *must not* happen during execution. A runtime verifier checks each decision against these formal constraints and flags violations as they occur. Research prototypes like *AgentGuard* and related runtime verification frameworks apply formal event modelling and probabilistic assurances to detect unsafe behaviour dynamically, using structures like Markov decision processes to reason about emergent agent behaviour quantitatively. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2509.23864" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Agent Guard: Runtime Verification of AI Agents</span><span class="citation-popover-snippet">AgentGuard: Runtime Verification of AI AgentsSeptember 28, 2025...</span><span class="citation-popover-meta">Published: September 28, 2025</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1_runtime_monit_6e4433-Illustration-2-dark.svg" | relative_url }}" alt="Runtime Watch illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1_runtime_monit_6e4433-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1_runtime_monit_6e4433-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Predictive and Proactive Monitoring
 
@@ -337,7 +332,6 @@ While promising, runtime monitoring faces serious limitations that are especiall
 ### Complexity and Ambiguity
 
 Autonomous agents often operate in open‑ended environments with high [uncertainty]({{ 'uncertainty/' | relative_url }}). Interpreting whether a given behaviour is truly dangerous — versus novel but benign — can be extremely hard. Telemetry alone does not always reveal *intent*, and many modern agents generate complex plans that are not easily reducible to simple behavioural invariants. Monitoring systems can raise alerts, but interpreting them correctly requires human judgement and context that may be lacking in high‑speed decision loops.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YC0cKrj5Ado" title="How to Secure Autonomous AI Agents: The AgentWard Lifecycle Architecture Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YC0cKrj5Ado" target="_blank" rel="noopener noreferrer">How to Secure Autonomous AI Agents: The AgentWard Lifecycle Architecture Explained</a></p><p class="youtube-embed-meta">Channel: Maria Varela | AI Research Explained &middot; Views: 12 &middot; Uploaded: May 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YC0cKrj5Ado" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YC0cKrj5Ado">Open on YouTube</a></p></div></div></div>
 
@@ -352,7 +346,6 @@ Real‑world production systems generate huge volumes of telemetry. Distilling m
 ### Lack of Universal Standards
 
 Unlike traditional IT security, which benefits from decades of standardisation, **runtime monitoring for AI agents lacks widely accepted protocols**. Different tools and frameworks use incompatible logs, metrics, and policies, making it hard to build interoperable governance infrastructure. The academic and industry research landscape remains fragmented, with varying definitions of what constitutes “safe” behaviour and how best to enforce it.
-
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1_runtime_monit_6e4433-Illustration-3-dark.svg" | relative_url }}" alt="Runtime Watch illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1_runtime_monit_6e4433-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1_runtime_monit_6e4433-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Monitoring Does — And Can’t — Protect Against
@@ -369,7 +362,6 @@ However, runtime monitoring does **not guarantee alignment** in the deeper sense
 
 From a governance perspective, the rise of runtime monitoring marks a shift in focus from *pre‑deployment assurance* to **continuous oversight**. Policymakers and organisations are increasingly recognising that:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * AI agents require **continuous observability and behavioural control**, not one‑off audits.
@@ -380,9 +372,7 @@ From a governance perspective, the rise of runtime monitoring marks a shift in f
 
 These shifts reflect an emerging consensus that oversight of long‑horizon AI agents cannot rely solely on static testing or design‑time safety measures. Runtime monitoring is a necessary, though not standalone, component of responsible deployment and risk reduction in increasingly autonomous systems.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AAjssTRFobA" title="The AI Agent Reliability Crisis in Software Engineering" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AAjssTRFobA" target="_blank" rel="noopener noreferrer">The AI Agent Reliability Crisis in Software Engineering</a></p><p class="youtube-embed-meta">Channel: The Pleopod Times &middot; Views: 12 &middot; Uploaded: May 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AAjssTRFobA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AAjssTRFobA">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -917,4 +907,4 @@ These shifts reflect an emerging consensus that oversight of long‑horizon AI a
    Title: Runtime Verification and Temporal Logic for AI Agent Safety | Zylos Research  
    Link: <a href="https://zylos.ai/research/2026-03-15-runtime-verification-temporal-logic-ai-agent-safety" target="_blank" rel="noopener noreferrer nofollow">https://zylos.ai/research/2026-03-15-runtime-verification-temporal-logic-ai-agent-safety</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March 15, 2026 — 2026-03-15 RUNTIME VERIFICATION AND TEMPORAL LOGIC FOR AI AGENT SAFETY runtime-verification temporal-logic agent-safety...</p></details>
-   Published: March 15, 2026  
+   Published: March 15, 2026

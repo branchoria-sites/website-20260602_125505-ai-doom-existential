@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /first-movers/
 nav_short_title: Race evidence
 title: What AI race models can and cannot prove
-title_full: What AI race models can and cannot prove | First Movers
+title_full: What AI race models can and cannot prove
 display_title_short: Race evidence
 display_title: Race evidence
 heading_title: What AI race models can and cannot prove
@@ -204,7 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 18:52:42'
-parent_title: Why Being First Can Make AI Less Safe | Race Pressure
+parent_title: Why Being First Can Make AI Less Safe
 parent_permalink: /first-movers/
 parent_nav_short_title: First Movers
 parent_heading_title: Why Being First Can Make AI Less Safe
@@ -277,7 +277,6 @@ image: /assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56
 
 Do AI race simulations show real doom risk? The short answer is: they provide evidence that competitive pressures can push organisations towards faster and potentially less safe AI deployment, but they do not directly prove that an AI-caused existential catastrophe will occur.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_ai_race_model_76d082-Illustration-1-dark.svg" | relative_url }}" alt="Race evidence illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_ai_race_model_76d082-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_ai_race_model_76d082-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This distinction matters. In debates about AI doom, race dynamics are often presented as a key mechanism through which otherwise cautious organisations could end up taking dangerous risks. Simulation games, economic models, and strategic exercises are attempts to study that mechanism before real-world events unfold. They can reveal recurring incentives, coordination failures, and decision-making patterns. What they cannot do is demonstrate that advanced AI will become uncontrollable, nor can they reliably estimate a precise probability of extinction. The evidence is therefore indirect but potentially important: it bears on whether the conditions associated with higher-risk futures are likely to emerge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0016328725000254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Author links... full-scale wargames. The first of these is the shortest and simplest...Read more...</span></span></span>
 
@@ -286,7 +285,6 @@ This distinction matters. In debates about AI doom, race dynamics are often pres
 One of the most discussed examples is *Intelligence Rising*, a multi-year scenario exercise designed to explore future AI race dynamics. Researchers analysed dozens of game runs involving participants navigating competition between firms and states under conditions of rapid AI progress. Across many iterations, facilitators observed recurring patterns: intense pressure to maintain leadership, difficulties sustaining cooperation agreements, and incentives to prioritise strategic advantage over caution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2410.03092" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Strategic Insights from Simulation Gaming of AI Race Dynamics</span><span class="citation-popover-snippet">arXiv Strategic Insights from Simulation Gaming of AI Race Dynamics</span></span></span>
 
 The value of these exercises is not that they predict the future. Rather, they expose how people behave when confronted with plausible strategic pressures. Several recurring themes appeared repeatedly:
-
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
@@ -302,7 +300,6 @@ For AI doom advocates, these findings matter because many existential-risk scena
 
 However, simulation games have obvious limitations. Participants know they are in a game. The scenarios embed assumptions chosen by designers. The outcomes may reveal human incentives under [uncertainty]({{ 'uncertainty/' | relative_url }}) without accurately representing future AI capabilities. A simulation showing a race to deploy is therefore evidence about strategic behaviour, not evidence that a loss-of-control event will actually happen.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jWJLcI7DRDw" title="45 devs COMPETE to find the SMARTEST Racing AI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jWJLcI7DRDw" target="_blank" rel="noopener noreferrer">45 devs COMPETE to find the SMARTEST Racing AI</a></p><p class="youtube-embed-meta">Channel: AIA &middot; Views: 186.3K &middot; Uploaded: June 2025 &middot; Length: 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jWJLcI7DRDw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jWJLcI7DRDw">Open on YouTube</a></p></div></div></div>
 
 ## What economic deployment models add
@@ -312,7 +309,6 @@ Economic and game-theoretic models approach the same question differently. Inste
 Many of these models examine situations where firms can choose between deploying sooner with less safety work or deploying later with more safety work. Under a wide range of assumptions, competition creates incentives to move earlier than would be socially optimal. The basic mechanism resembles a collective-action problem: every participant benefits from a safer ecosystem, but each individual participant may gain by moving faster than rivals. This can produce a race-to-the-bottom outcome in which safety investments are reduced even when everyone agrees they have value.
 
 These models are useful because they make assumptions explicit. Researchers can change variables such as:
-
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
@@ -338,7 +334,6 @@ The concern is not primarily about recklessness. It is about incentives. If one 
 
 Recent public debates over frontier-model safety policies have often been interpreted through this lens. Some observers argue that increasing competition among leading AI developers has made voluntary restraint harder to sustain, while others argue that competition can also drive safety improvements and better testing. The disagreement itself reflects the central question raised by race models: whether competition ultimately strengthens or weakens caution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2026/03/03/ai-race-safety-guardrail" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Safety guardrails loosen as AI rivalries grows</span><span class="citation-popover-snippet">Even traditionally cautious firms, like Anthropic, have recently revised their internal guidelines, narrowing criteria for delaying risky...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/anthropic-changing-safety-policy-2026-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-title">anthropic changing safety policy 2026 2</span><span class="citation-popover-snippet">The company will no longer unilaterally pause or delay new AI model deployments when safety mechanisms lag, citing increased competition...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_ai_race_model_76d082-Illustration-2-dark.svg" | relative_url }}" alt="Race evidence illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_ai_race_model_76d082-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_ai_race_model_76d082-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The strongest objections to race-based evidence
 
@@ -354,7 +349,6 @@ Fourth, some economists and technology analysts argue that competition can somet
 
 These [objections]({{ 'objections/' | relative_url }}) do not invalidate the simulations, but they narrow what conclusions can reasonably be drawn from them.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FaQjEABZ80g" title="The Most Likely AI Doom Scenario — with Jim Babcock, LessWrong Team" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FaQjEABZ80g" target="_blank" rel="noopener noreferrer">The Most Likely AI Doom Scenario — with Jim Babcock, LessWrong Team</a></p><p class="youtube-embed-meta">Channel: Doom Debates &middot; Views: 23.5K &middot; Uploaded: April 2025 &middot; Length: 1 hour 53 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FaQjEABZ80g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FaQjEABZ80g">Open on YouTube</a></p></div></div></div>
 
 ## Where model evidence stops short
@@ -362,7 +356,6 @@ These [objections]({{ 'objections/' | relative_url }}) do not invalidate the sim
 The most important limitation is that race simulations provide evidence about conditions, not outcomes.
 
 They can support claims such as:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -375,7 +368,6 @@ They can support claims such as:
 
 They cannot directly establish:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * That advanced AI will become misaligned.
@@ -387,7 +379,6 @@ They cannot directly establish:
 
 This distinction is crucial. In the AI doom debate, race simulations are best understood as evidence about one link in a longer causal chain. They address whether competitive environments could encourage premature deployment. They do not independently validate the rest of the chain leading from advanced AI development to existential catastrophe.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_ai_race_model_76d082-Illustration-3-dark.svg" | relative_url }}" alt="Race evidence illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_ai_race_model_76d082-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_ai_race_model_76d082-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the evidence means for AI doom
 
@@ -397,9 +388,7 @@ At the same time, they fall well short of proving doom. Their strongest contribu
 
 For that reason, race simulations are often treated as supporting evidence in AI doom arguments rather than decisive evidence. They make concerns about premature deployment more plausible, but the overall existential-risk debate still depends on many additional questions about AI capabilities, alignment, control, [governance]({{ 'governance/' | relative_url }}), and human decision-making that no simulation game can settle on its own. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0016328725000254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Author links... full-scale wargames. The first of these is the shortest and simplest...Read more...</span></span></span> 2arXiv
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O9P-fjSzJzs" title="Mutually Assured AI Malfunction | Robert Wright &amp; Dan Hendrycks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O9P-fjSzJzs" target="_blank" rel="noopener noreferrer">Mutually Assured AI Malfunction | Robert Wright &amp; Dan Hendrycks</a></p><p class="youtube-embed-meta">Channel: Nonzero &middot; Views: 2.9K &middot; Uploaded: March 2025 &middot; Length: 1 hour 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O9P-fjSzJzs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O9P-fjSzJzs">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /alignment-governance/
 nav_short_title: Compute Limits
 title: Can Compute Controls Actually Slow an AI Race?
-title_full: Can Compute Controls Actually Slow an AI Race? | Alignment & Governance
+title_full: Can Compute Controls Actually Slow an AI Race?
 display_title_short: Compute Limits
 display_title: Compute Limits
 heading_title: Can Compute Controls Actually Slow an AI Race?
@@ -202,7 +202,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 19:06:45'
-parent_title: How Safety and Governance Shape AI Doom Forecasts | P Doom
+parent_title: How Safety and Governance Shape AI Doom Forecasts
 parent_permalink: /alignment-governance/
 parent_nav_short_title: Alignment & Governance
 parent_heading_title: How Safety and Governance Shape AI Doom Forecasts
@@ -275,7 +275,6 @@ image: /assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d5
 
 One reason some researchers assign a lower p(doom)—the estimated probability that advanced AI causes existential catastrophe—is that they believe governments could slow or shape the development of the most powerful systems through compute [governance]({{ 'governance/' | relative_url }}). In this context, "compute" means the specialised computing power needed to train and run frontier AI models. Because the largest AI systems require enormous quantities of advanced chips, electricity, data-centre capacity, and capital, some analysts argue that compute is one of the few practical choke points available to policymakers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.governance.ai/Computing_Power_and_the_Governance_of_AI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.governance.ai">[cdn.governance.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.governance.ai</span><span class="citation-popover-title">Computing Power and the Governance of Artificial</span><span class="citation-popover-snippet">February 13, 2024 — 14 Feb 2024 — Computing power, or &quot;compute,&quot; is crucial for the development and deployment of artificial intelligence...</span><span class="citation-popover-meta">Published: February 13, 2024</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d59e80_compute_gover_a7d298-Illustration-1-dark.svg" | relative_url }}" alt="Compute Limits illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d59e80_compute_gover_a7d298-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d59e80_compute_gover_a7d298-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The core idea is straightforward. If the most dangerous capabilities emerge only after very large training runs, then [monitoring]({{ 'monitoring/' | relative_url }}) and regulating those runs could provide warning time, enable safety [evaluations]({{ 'evaluations/' | relative_url }}), reduce competitive pressure, and make it harder for reckless or malicious actors to develop frontier systems. Under that view, effective compute governance could lower p(doom) by reducing the chances of an uncontrolled AI race. Critics, however, argue that enforcement may be difficult, international coordination may fail, and technical changes could weaken compute-based controls over time. Institute for Law & AI <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lawfaremedia.org/article/to-govern-ai-we-must-govern-compute" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Lawfare">[Default]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Lawfare</span><span class="citation-popover-title">to govern ai we must govern compute</span><span class="citation-popover-snippet">DefaultTo Govern AI, We Must Govern Computeby L Heim · 2024 · Cited by 2 — Compute governance can support AI policy goals in multiple way...</span></span></span>
 
@@ -308,7 +307,6 @@ One common concern is that AI developers may feel pressured to deploy increasing
 
 For people worried about AI doom, even modest delays can matter. A six-month or one-year delay may not sound dramatic, but if alignment techniques, [interpretability]({{ 'interpretability/' | relative_url }}) tools, and safety evaluations improve during that period, the resulting reduction in risk could be significant.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TGQ0FtvAPK4" title="Beating the AI Doom Cycle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TGQ0FtvAPK4" target="_blank" rel="noopener noreferrer">Beating the AI Doom Cycle</a></p><p class="youtube-embed-meta">Channel: The AI Daily Brief: Artificial Intelligence News &middot; Views: 5.9K &middot; Uploaded: May 2026 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TGQ0FtvAPK4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TGQ0FtvAPK4">Open on YouTube</a></p></div></div></div>
 
 ### Increasing Visibility Into Frontier Development
@@ -316,7 +314,6 @@ For people worried about AI doom, even modest delays can matter. A six-month or 
 Another argument is that compute governance creates visibility. Governments currently have limited insight into many aspects of advanced AI development. Large compute clusters, however, are harder to hide than software research alone.
 
 Proponents argue that monitoring major training runs could help authorities answer questions such as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -345,7 +342,6 @@ Export controls on advanced AI chips represent another example. While often disc
 
 These measures are far from the comprehensive global monitoring systems envisioned by some researchers. Nevertheless, supporters see them as early demonstrations that compute can be used as a policy lever.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d59e80_compute_gover_a7d298-Illustration-2-dark.svg" | relative_url }}" alt="Compute Limits illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d59e80_compute_gover_a7d298-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d59e80_compute_gover_a7d298-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Critics Doubt Enforcement and Coordination
 
@@ -367,7 +363,6 @@ A model that requires enormous resources today might be trainable with much less
 
 This does not necessarily invalidate compute governance, but it implies that thresholds may require frequent revision.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7EwAdTqGgWM" title="Lennart Heim on the AI Triad: Compute, Data, and Algorithms" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7EwAdTqGgWM" target="_blank" rel="noopener noreferrer">Lennart Heim on the AI Triad: Compute, Data, and Algorithms</a></p><p class="youtube-embed-meta">Channel: Future of Life Institute &middot; Views: 2.1K &middot; Uploaded: March 2023 &middot; Length: 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7EwAdTqGgWM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7EwAdTqGgWM">Open on YouTube</a></p></div></div></div>
 
 ### Distributed Training Could Make Monitoring Harder
@@ -383,7 +378,6 @@ Some of the most ambitious proposals rely on hardware-level monitoring, cryptogr
 While these ideas receive growing attention, several analyses note that many proposed verification mechanisms remain technically immature. The systems needed for robust international monitoring may take years to develop and standardise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2405.10799v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Training Compute Thresholds: Features and Functions in...Aug 6, 2024 — We argue that training compute currently is the most suitabl...</span></span></span>
 
 For sceptics, this creates a gap between theoretical governance proposals and currently deployable policy tools.
-
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d59e80_compute_gover_a7d298-Illustration-3-dark.svg" | relative_url }}" alt="Compute Limits illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d59e80_compute_gover_a7d298-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d59e80_compute_gover_a7d298-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Warning Signs Would Justify Tighter Controls?
@@ -402,7 +396,6 @@ Several developments are frequently cited as potential triggers for tighter cont
 From an AI-doom perspective, the most important warning sign would be evidence that capability growth is outpacing humanity's ability to understand, evaluate, or control advanced systems.
 
 Supporters of compute governance argue that once such [warning signs]({{ 'warning-signs/' | relative_url }}) appear, it may be too late to design monitoring systems from scratch. They therefore favour building reporting mechanisms, data-centre visibility, and regulatory capacity before the most dangerous capabilities emerge. Critics counter that governments risk creating expensive and intrusive regulatory structures based on uncertain forecasts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lawfaremedia.org/article/to-govern-ai-we-must-govern-compute" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Lawfare">[Default]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Lawfare</span><span class="citation-popover-title">to govern ai we must govern compute</span><span class="citation-popover-snippet">DefaultTo Govern AI, We Must Govern Computeby L Heim · 2024 · Cited by 2 — Compute governance can support AI policy goals in multiple way...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lawfaremedia.org/article/to-govern-ai-we-must-govern-compute" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Lawfare">[Default]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Lawfare</span><span class="citation-popover-title">to govern ai we must govern compute</span><span class="citation-popover-snippet">DefaultTo Govern AI, We Must Govern Computeby L Heim · 2024 · Cited by 2 — Compute governance can support AI policy goals in multiple way...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KugscAbcHmQ" title="AIM 2025 SuperIntelligence Keynote: What&#x27;s your p(doom)?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KugscAbcHmQ" target="_blank" rel="noopener noreferrer">AIM 2025 SuperIntelligence Keynote: What&#x27;s your p(doom)?</a></p><p class="youtube-embed-meta">Channel: iQStudios &middot; Views: 222 &middot; Uploaded: June 2025 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KugscAbcHmQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KugscAbcHmQ">Open on YouTube</a></p></div></div></div>
 

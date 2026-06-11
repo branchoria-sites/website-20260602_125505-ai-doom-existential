@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /thresholds/
 nav_short_title: Moving Target
 title: Will Today's Compute Limits Still Matter Tomorrow?
-title_full: Will Today's Compute Limits Still Matter Tomorrow? | Thresholds
+title_full: Will Today's Compute Limits Still Matter Tomorrow?
 display_title_short: Moving Target
 display_title: Moving Target
 heading_title: Will Today's Compute Limits Still Matter Tomorrow?
@@ -204,7 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-02 12:26:45'
-parent_title: When Should AI Training Runs Trigger Oversight? | Governance
+parent_title: When Should AI Training Runs Trigger Oversight?
 parent_permalink: /thresholds/
 parent_nav_short_title: Thresholds
 parent_heading_title: When Should AI Training Runs Trigger Oversight?
@@ -271,7 +271,6 @@ image: /assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a
 
 A recurring question in debates about AI [governance]({{ 'governance/' | relative_url }}) and existential risk is whether **fixed compute thresholds can keep pace with rapid AI progress**. Compute‑based reporting thresholds — rules requiring extra oversight once a model’s training uses more than a certain number of computational operations — are attractive because they are measurable and seem technically grounded. Yet the AI landscape is evolving fast: hardware improves, training techniques become more efficient, and the number and variety of high‑compute projects mushroom. That raises a real concern within the AI doom and safety conversation: **can a static number really remain a reliable signal of future danger, or will thresholds become outdated as capabilities outgrow them?** Current evidence suggests that without adaptive updating or contextualisation, fixed thresholds are likely to drift behind the frontier they’re meant to capture and may weaken as an early warning trigger. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://regulations.ai/glossary/compute-threshold" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: regulations.ai">[Regulations.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">regulations.ai</span><span class="citation-popover-title">Compute Threshold</span><span class="citation-popover-snippet">AI Regulation Glossary &#124; Regulations.ai...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38_thresholds_an_c9e82d-Illustration-1-dark.svg" | relative_url }}" alt="Moving Target illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38_thresholds_an_c9e82d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38_thresholds_an_c9e82d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Fixed Compute Thresholds Drift Over Time
 
@@ -284,7 +283,6 @@ However, several trends challenge the long‑term stability of a fixed threshold
 * **Shifts in how AI scales:** Some emerging research indicates that new modes of improving performance — such as inference‑time scaling rather than traditional training compute — could reshape how capabilities grow. If capability starts to decouple from the specific measure of training FLOPs, thresholds tied only to training compute risk becoming less predictive of real‑world power. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2503.05705" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Inference Scaling Reshapes AI Governance</span><span class="citation-popover-snippet">Inference Scaling Reshapes AI GovernanceFebruary 12, 2025...</span><span class="citation-popover-meta">Published: February 12, 2025</span></span></span>
 
 These dynamics illustrate that **thresholds based on a fixed compute value tend to drift relative to the evolving frontier**. As models become more efficient or as the ecosystem grows more diverse, a threshold that once signalled cutting‑edge capability and risk may become either too weak or too blunt to serve its regulatory purpose.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FOHtGeUjgZY" title="A Shoe Company Just Became an AI Firm And OpenAI&#x27;s Cybersecurity Move Should Wake Up Every Leader" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FOHtGeUjgZY" target="_blank" rel="noopener noreferrer">A Shoe Company Just Became an AI Firm And OpenAI&#x27;s Cybersecurity Move Should Wake Up Every Leader</a></p><p class="youtube-embed-meta">Channel: Future Ready Leadership With Jacob Morgan &middot; Views: 121 &middot; Uploaded: April 2026 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FOHtGeUjgZY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FOHtGeUjgZY">Open on YouTube</a></p></div></div></div>
 
@@ -299,7 +297,6 @@ This matters for both governance and safety signalling:
 
 These forecasts underscore how **AI progress is not linear or static**, and any governance tool tied closely to the scale of training runs must factor in both quantity and pace of change.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38_thresholds_an_c9e82d-Illustration-2-dark.svg" | relative_url }}" alt="Moving Target illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38_thresholds_an_c9e82d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38_thresholds_an_c9e82d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Options for Updating Thresholds
 
@@ -312,9 +309,7 @@ Acknowledging that **compute thresholds drift over time**, researchers and polic
 
 Taken together, these options illustrate a common theme: thresholds must be **dynamic and contextualised** if they are to remain a meaningful signal of when heightened scrutiny is appropriate.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/szoyMP3xOlg" title="Compute in AI Governance: Shaping the Future | Michelle Fang | MIT 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=szoyMP3xOlg" target="_blank" rel="noopener noreferrer">Compute in AI Governance: Shaping the Future | Michelle Fang | MIT 2024</a></p><p class="youtube-embed-meta">Channel: Imagination in Action &middot; Views: 148 &middot; Uploaded: July 2024 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=szoyMP3xOlg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=szoyMP3xOlg">Open on YouTube</a></p></div></div></div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dBZp47999Ko" title="Why US AI Act Compute Thresholds Are Misguided..." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dBZp47999Ko" target="_blank" rel="noopener noreferrer">Why US AI Act Compute Thresholds Are Misguided...</a></p><p class="youtube-embed-meta">Channel: Machine Learning Street Talk &middot; Views: 18.2K &middot; Uploaded: July 2024 &middot; Length: 1 hour 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dBZp47999Ko" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dBZp47999Ko">Open on YouTube</a></p></div></div></div>
 
@@ -327,7 +322,6 @@ If thresholds lag too far behind model capabilities, they risk becoming symbolic
 But importantly, these mechanisms also reveal that thresholds are **a screening tool, not a final arbiter**. They flag candidates for oversight and evaluation, and must be paired with deeper assessments of capability, alignment, and misuse potential to meaningfully contribute to managing existential risk from advanced AI. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.governance.ai/research-paper/training-compute-thresholds-features-and-functions-in-ai-regulation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governance.ai">[governance.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governance.ai</span><span class="citation-popover-title">training compute thresholds features and functions in ai regulation</span><span class="citation-popover-snippet">Training Compute Thresholds: Features and Functions in AI Regulation &#124; GovAIAugust 7, 2024...</span><span class="citation-popover-meta">Published: August 7, 2024</span></span></span>
 
 In this sense, compute thresholds that evolve along with technical progress are less about “keeping pace” as a static guardrail and more about **feeding continuous safety evaluation pipelines** that evolve as rapidly as the frontier they monitor.
-
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38_thresholds_an_c9e82d-Illustration-3-dark.svg" | relative_url }}" alt="Moving Target illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38_thresholds_an_c9e82d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38_thresholds_an_c9e82d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 

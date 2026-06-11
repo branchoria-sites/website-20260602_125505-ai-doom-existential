@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /first-movers/
 nav_short_title: Race pressure
 title: Why waiting can feel too expensive
-title_full: Why waiting can feel too expensive | First Movers
+title_full: Why waiting can feel too expensive
 display_title_short: Race pressure
 display_title: Race pressure
 heading_title: Why waiting can feel too expensive
@@ -204,7 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 18:52:12'
-parent_title: Why Being First Can Make AI Less Safe | Race Pressure
+parent_title: Why Being First Can Make AI Less Safe
 parent_permalink: /first-movers/
 parent_nav_short_title: First Movers
 parent_heading_title: Why Being First Can Make AI Less Safe
@@ -271,7 +271,6 @@ image: /assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56
 
 A recurring claim in AI doom discussions is that safety is not always ignored because developers are careless. Instead, safety work can become strategically expensive. When organisations believe that being first to deploy a highly capable AI system brings major rewards, every month spent on additional testing, [interpretability]({{ 'interpretability/' | relative_url }}) work, red-teaming, or safeguards may feel like a competitive loss.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_race_incentiv_03f099-Illustration-1-dark.svg" | relative_url }}" alt="Race pressure illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_race_incentiv_03f099-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_race_incentiv_03f099-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This creates a specific mechanism within the broader debate about first-mover advantage and premature deployment. Even if all major developers publicly support safety, each may worry that a rival will capture users, investment, influence, or strategic advantage during any delay. In that environment, waiting can look less like responsible caution and more like surrendering a lead. Critics of the AI doom argument dispute how strong these pressures really are, but many researchers studying AI competition view race incentives as a plausible reason why organisations could deploy systems before their risks are fully understood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/1907.04534" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The Role of Cooperation in Responsible AI Development</span><span class="citation-popover-snippet">The Role of Cooperation in Responsible AI DevelopmentJuly 10, 2019 — by A Askell · 2019 · Cited by 110 — In this paper, we argue tha...</span><span class="citation-popover-meta">Published: July 10, 2019</span></span></span>
 
@@ -292,7 +291,6 @@ A useful way to think about the mechanism is that every delay has two prices:
 
 When the second cost becomes large enough, safety delays begin to resemble strategic sacrifices.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7JYb0JGz7rg" title="Claude Mythos can make the world ‘much more secure’ says Anthropic co-founder" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7JYb0JGz7rg" target="_blank" rel="noopener noreferrer">Claude Mythos can make the world ‘much more secure’ says Anthropic co-founder</a></p><p class="youtube-embed-meta">Channel: Channel 4 News &middot; Views: 45.4K &middot; Uploaded: May 2026 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7JYb0JGz7rg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7JYb0JGz7rg">Open on YouTube</a></p></div></div></div>
 
 ## Why shared safety benefits become externalities
@@ -302,7 +300,6 @@ The central economic argument concerns externalities. An externality exists when
 Extra safety testing can reduce the probability of serious failures that would affect users, competitors, governments, and society more broadly. However, the organisation paying for the testing may receive only part of that benefit. Meanwhile, the commercial gains from releasing earlier largely accrue to the organisation itself.
 
 This creates an asymmetry:
-
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
@@ -322,7 +319,6 @@ The classic comparison is a prisoner's dilemma.
 Imagine two frontier AI developers. Each would prefer a world in which both organisations conduct extensive safety testing before release. Yet each also knows that if it alone pauses while the other continues, it may lose market position, investment, talent, or strategic influence.
 
 The resulting logic can look like this:
-
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_race_incentiv_03f099-Illustration-2-dark.svg" | relative_url }}" alt="Race pressure illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_race_incentiv_03f099-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_race_incentiv_03f099-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -353,7 +349,6 @@ Third, observers point to real-world debates within frontier AI companies. In re
 
 None of these examples demonstrates that an existential catastrophe will occur. They are instead used to support a narrower claim: competitive incentives capable of reducing safety margins appear to exist.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gyOGhnEnGkk" title="AI: Existential Risk or Power Grab?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gyOGhnEnGkk" target="_blank" rel="noopener noreferrer">AI: Existential Risk or Power Grab?</a></p><p class="youtube-embed-meta">Channel: Pupil Swim &middot; Views: 1.4K &middot; Uploaded: May 2026 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gyOGhnEnGkk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gyOGhnEnGkk">Open on YouTube</a></p></div></div></div>
 
 ## Why this matters for AI doom
@@ -365,7 +360,6 @@ Interpretability research, alignment testing, capability [evaluations]({{ 'evalu
 The concern is especially acute for scenarios involving rapid capability advances. If AI systems become dramatically more capable over short periods, the gap between "technically possible" and "safely understood" could widen. In that world, competition might encourage deployment before researchers have established reliable ways to predict or control system behaviour.
 
 The International AI Safety Report highlights the broader challenge that capabilities can advance faster than understanding and risk-management techniques. For doom-focused researchers, race dynamics are one reason that this gap could persist rather than naturally correcting itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/1907.04534" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The Role of Cooperation in Responsible AI Development</span><span class="citation-popover-snippet">The Role of Cooperation in Responsible AI DevelopmentJuly 10, 2019 — by A Askell · 2019 · Cited by 110 — In this paper, we argue tha...</span><span class="citation-popover-meta">Published: July 10, 2019</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6MaUZ4Hi7os" title="AI Billionaire on Existential Risk: Jaan Tallinn – #112" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6MaUZ4Hi7os" target="_blank" rel="noopener noreferrer">AI Billionaire on Existential Risk: Jaan Tallinn – #112</a></p><p class="youtube-embed-meta">Channel: Manifold &middot; Views: 1.6K &middot; Uploaded: May 2026 &middot; Length: 1 hour 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6MaUZ4Hi7os" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6MaUZ4Hi7os">Open on YouTube</a></p></div></div></div>
 
@@ -380,7 +374,6 @@ Another objection is that the "AI race" metaphor can be overstated. Some researc
 A third objection is empirical [uncertainty]({{ 'uncertainty/' | relative_url }}). The strongest doom claims often depend on future systems becoming extraordinarily powerful and difficult to control. If such systems never emerge, or if alignment techniques improve quickly, then competitive deployment pressure may prove far less consequential than doomers expect.
 
 These objections do not eliminate the race-incentive argument. They instead highlight a central uncertainty: nobody knows how powerful future AI systems will become, how large first-mover advantages will be, or how effectively safety and competition can be balanced.
-
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_race_incentiv_03f099-Illustration-3-dark.svg" | relative_url }}" alt="Race pressure illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_race_incentiv_03f099-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_race_incentiv_03f099-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why coordination is often proposed as the solution

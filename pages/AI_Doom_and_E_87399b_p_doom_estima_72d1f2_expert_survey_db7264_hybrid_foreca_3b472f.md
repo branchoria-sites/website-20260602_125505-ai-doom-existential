@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /survey-estimates/
 nav_short_title: Forecast Tournaments
 title: How Hybrid Forecasting Shapes AI Doom Predictions
-title_full: How Hybrid Forecasting Shapes AI Doom Predictions | Survey Estimates
+title_full: How Hybrid Forecasting Shapes AI Doom Predictions
 display_title_short: Forecast Tournaments
 display_title: Forecast Tournaments
 heading_title: How Hybrid Forecasting Shapes AI Doom Predictions
@@ -204,7 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 19:01:57'
-parent_title: How AI Experts Forecast Doom Probabilities | P Doom
+parent_title: How AI Experts Forecast Doom Probabilities
 parent_permalink: /survey-estimates/
 parent_nav_short_title: Survey Estimates
 parent_heading_title: How AI Experts Forecast Doom Probabilities
@@ -271,7 +271,6 @@ image: /assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db
 
 Hybrid forecasting tournaments are structured events that blend **formal probability elicitation** with **deliberative discussion** to help experts refine their subjective estimates of complex, uncertain outcomes — including the **probability of existential catastrophe from artificial intelligence** (“AI doom”). In the context of long-tailed risks where historical data are scarce and reasoning is deeply uncertain, these tournaments are not just quizzes: they are carefully designed social‑cognitive experiments that reveal *how experts think, why they disagree, and whether structured dialogue moves beliefs in practice*. The most notable example so far — the **Existential Risk Persuasion Tournament (XPT)** — brings together specialist subject‑matter experts and forecasting generalists (“superforecasters”) to generate, discuss, and revise probability forecasts of [catastrophic]({{ 'misuse/' | relative_url }}) and existential risks, with AI risk as a major focal point. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0169207024001250" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Subjective-probability forecasts of existential risk: Initial results from a hybrid persuasion-forecasting tournament - Scie...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264_hybrid_foreca_3b472f-Illustration-1-dark.svg" | relative_url }}" alt="Forecast Tournaments illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264_hybrid_foreca_3b472f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264_hybrid_foreca_3b472f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Hybrid Forecasting Tournaments Are
 
@@ -294,7 +293,6 @@ The **Existential Risk Persuasion Tournament (XPT)** ran from June to October 20
 
 The key innovation was to blend the scoring accountability of forecasting tournaments with deliberative features borrowed from structured expert elicitation, seeking not just point estimates but insight into how reasoning evolves across dialogue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0169207024001250" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Subjective-probability forecasts of existential risk: Initial results from a hybrid persuasion-forecasting tournament - Scie...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1WQzQ5hhz7k" title="What superforecasters and experts think about existential risks | Ezra Karger" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1WQzQ5hhz7k" target="_blank" rel="noopener noreferrer">What superforecasters and experts think about existential risks | Ezra Karger</a></p><p class="youtube-embed-meta">Channel: 80,000 Hours &middot; Views: 1.3K &middot; Uploaded: September 2024 &middot; Length: 2 hours 49 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1WQzQ5hhz7k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1WQzQ5hhz7k">Open on YouTube</a></p></div></div></div>
 
 ### Expert Dialogue and Probability Adjustments
@@ -307,7 +305,6 @@ Two patterns emerged:
 * **Entrenched priors:** Despite four months of argument exchange and incentives to influence peers, both groups tended to stick with their initial probability distributions rather than updating toward the other side’s view. This suggests strong cognitive anchoring and confirmation biases even among trained forecasters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0169207024001250" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Subjective-probability forecasts of existential risk: Initial results from a hybrid persuasion-forecasting tournament - Scie...</span></span></span>
 
 These results provide a concrete lens on expert disagreement: it’s not just about who knows more, but about how different groups approach [uncertainty]({{ 'uncertainty/' | relative_url }}) and interpret sparse evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://polycrisis.org/resource/subjective-probability-forecasts-of-existential-risk-initial-results-from-a-hybrid-persuasion-forecasting-tournament/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: polycrisis.org">[Polycrisis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">polycrisis.org</span><span class="citation-popover-snippet">Subjective-Probability Forecasts of Existential Risk: Initial Results from a Hybrid Persuasion-Forecasting Tournament - Polycri...</span></span></span>
-
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264_hybrid_foreca_3b472f-Illustration-2-dark.svg" | relative_url }}" alt="Forecast Tournaments illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264_hybrid_foreca_3b472f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264_hybrid_foreca_3b472f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Insights on Confidence, Consensus and Limits
@@ -327,13 +324,11 @@ The promise of hybrid tournaments is that **structured discussion might reduce d
 
 This pattern matters for **AI doom probability debates** because it suggests that structured tournaments may reveal deeper structural divides in how experts think about existential risks, rather than magically resolving them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0169207024001250" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Subjective-probability forecasts of existential risk: Initial results from a hybrid persuasion-forecasting tournament - Scie...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iRpRP0GIeLQ" title="Who Was Liron Shapira BEFORE Doom Debates? - Interview on Theo Jaffee&#x27;s Podcast from December 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iRpRP0GIeLQ" target="_blank" rel="noopener noreferrer">Who Was Liron Shapira BEFORE Doom Debates? - Interview on Theo Jaffee&#x27;s Podcast from December 2023</a></p><p class="youtube-embed-meta">Channel: Doom Debates &middot; Views: 1.0K &middot; Uploaded: May 2026 &middot; Length: 1 hour 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iRpRP0GIeLQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iRpRP0GIeLQ">Open on YouTube</a></p></div></div></div>
 
 ## Why Hybrid Tournaments Matter for AI Doom Forecasting
 
 Hybrid forecasting tournaments, like the XPT, contribute to the broader landscape of expert opinion in several ways:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -345,12 +340,10 @@ Hybrid forecasting tournaments, like the XPT, contribute to the broader landscap
 
 This methodological innovation complements traditional surveys by adding depth to *how* judgments are formed and where uncertainty stems from, rather than simply cataloguing point estimates of p(doom). <span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.repec.org/a/eee/intfor/v41y2025i2p499-516.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[IDEAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264_hybrid_foreca_3b472f-Illustration-3-dark.svg" | relative_url }}" alt="Forecast Tournaments illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264_hybrid_foreca_3b472f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264_hybrid_foreca_3b472f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Interpretation and Ongoing Challenges
 
 While hybrid tournaments represent a promising frontier in expert elicitation, they also highlight the limits of forecasting long‑run, unprecedented events like existential catastrophe from AI:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -364,9 +357,7 @@ While hybrid tournaments represent a promising frontier in expert elicitation, t
 
 Hybrid forecasting tournaments such as the Existential Risk Persuasion Tournament offer a **novel, structured way to probe expert beliefs about AI doom probabilities**. By combining numerical forecasting with sustained dialogue, they illuminate not only what experts estimate but *why* they differ and how (or whether) those estimates shift through argumentation. Early results show persistent disagreement, especially on long‑term AI risk, and limited belief convergence, underscoring both the potential and the profound challenges of using forecasting methods to refine assessments of existential risk. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0169207024001250" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Subjective-probability forecasts of existential risk: Initial results from a hybrid persuasion-forecasting tournament - Scie...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GYvKcZ-ZWXY" title="Should you make and use existential risk estimates? How? | Michael Aird | EAGxAustralia 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GYvKcZ-ZWXY" target="_blank" rel="noopener noreferrer">Should you make and use existential risk estimates? How? | Michael Aird | EAGxAustralia 2022</a></p><p class="youtube-embed-meta">Channel: Effective Altruism &middot; Views: 269 &middot; Uploaded: August 2023 &middot; Length: 50 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GYvKcZ-ZWXY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GYvKcZ-ZWXY">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

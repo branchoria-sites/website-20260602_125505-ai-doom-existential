@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-index/
 description: Focused pages that expand on AI Doom and E 87399 b.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: AI_Doom_and_E_87399b
 parent_title: AI Doom and E 87399 b

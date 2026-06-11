@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /successor-training/
 nav_short_title: Coding agents
 title: Could coding agents replace AI researchers?
-title_full: Could coding agents replace AI researchers? | Successor training
+title_full: Could coding agents replace AI researchers?
 display_title_short: Coding agents
 display_title: Coding agents
 heading_title: Could coding agents replace AI researchers?
@@ -204,7 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 12:19:24'
-parent_title: Could AI train the next AI itself? | AI Takeoff
+parent_title: Could AI train the next AI itself?
 parent_permalink: /successor-training/
 parent_nav_short_title: Successor training
 parent_heading_title: Could AI train the next AI itself?
@@ -271,7 +271,6 @@ image: /assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_716
 
 A key question in debates about AI doom and recursive self-improvement is whether coding agents could remove one of the biggest bottlenecks in frontier AI development: software engineering. Modern AI labs do not advance purely through scientific breakthroughs. They depend on vast amounts of coding, debugging, experiment management, evaluation infrastructure, data pipelines, [monitoring]({{ 'monitoring/' | relative_url }}) systems, and deployment work. If AI systems become able to perform much of that labour, the pace of AI development could accelerate significantly. If they cannot, then many fast-takeoff and intelligence-explosion scenarios become harder to realise.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e_coding_agents_5cf58d-Illustration-1-dark.svg" | relative_url }}" alt="Coding agents illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e_coding_agents_5cf58d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e_coding_agents_5cf58d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The short answer is that coding agents are already removing some engineering bottlenecks, but there is little evidence that they can yet replace the full range of work performed by experienced AI researchers and research engineers. The importance of this question for existential-risk discussions is that software engineering may be easier to automate than scientific discovery. If machines can take over enough of the engineering burden, even without becoming brilliant scientists, they may still speed up the creation of more capable successor systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://github.com/anthropics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-snippet">AnthropicClaude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://metr.org/research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[Metr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-snippet">ResearchForecasting the Impacts of AI R&amp;D Acceleration: Results of a Pilot Study. 20 August 2025. AI agents are improving rapidly at...</span><span class="citation-popover-meta">Published: August 2025</span></span></span>
 
@@ -315,7 +314,6 @@ Current coding agents also struggle with: <span class="citation-chip-wrap"><a cl
 
 Even highly capable coding agents often succeed on well-defined technical tasks while failing on broader project management and research-direction questions. That distinction is central to the debate.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9-JBHGlYEBI" title="AI Agent Automatically Codes WITH TOOLS - SWE-Agent Tutorial (&quot;Devin Clone&quot;)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9-JBHGlYEBI" target="_blank" rel="noopener noreferrer">AI Agent Automatically Codes WITH TOOLS - SWE-Agent Tutorial (&quot;Devin Clone&quot;)</a></p><p class="youtube-embed-meta">Channel: Matthew Berman &middot; Views: 80.2K &middot; Uploaded: April 2024 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9-JBHGlYEBI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9-JBHGlYEBI">Open on YouTube</a></p></div></div></div>
 
 ## The strongest doom-relevant argument
@@ -330,14 +328,12 @@ In that scenario, AI systems accelerate progress without independently inventing
 
 Some recent forecasting work explicitly examines AI R&D acceleration through automation of software engineering and machine-learning tasks. The concern is not that an AI wakes up and redesigns itself overnight, but that increasingly capable agents steadily compress research cycles by reducing the amount of human labour required per generation of models. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://metr.org/time-horizons/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[Metr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-snippet">Task-Completion Time Horizons of Frontier AI ModelsIt varies by model, task, and the exact agent setup, but AI agents are typically s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://metr.org/notes/2026-02-17-exploratory-transcript-analysis-for-estimating-time-savings-from-coding-agents/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[Metr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-snippet">Analyzing coding agent transcripts to upper bound...17 Feb 2026 — This method estimates a time savings factor of ~1.5x to ~13x on Cl...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e_coding_agents_5cf58d-Illustration-3-dark.svg" | relative_url }}" alt="Coding agents illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e_coding_agents_5cf58d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e_coding_agents_5cf58d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why sceptics think the bottleneck may persist
 
 Critics of recursive-improvement scenarios argue that software engineering is only one constraint among many.
 
 Even if coding productivity increases substantially, frontier AI development still depends on factors that are harder to automate:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -357,7 +353,6 @@ There is also evidence that faster coding does not automatically produce faster 
 
 Another sceptical argument is that frontier AI research contains many activities that look less like programming and more like scientific judgement. Deciding which hypotheses deserve attention, interpreting surprising results, identifying hidden failure modes, and choosing strategic research directions may remain difficult to automate even if coding itself becomes largely automated.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e_coding_agents_5cf58d-Illustration-2-dark.svg" | relative_url }}" alt="Coding agents illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e_coding_agents_5cf58d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e_coding_agents_5cf58d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When faster engineering becomes a doom-relevant feedback loop
 
@@ -365,9 +360,7 @@ For existential-risk discussions, the key question is not whether coding agents 
 
 A feedback loop becomes interesting when three conditions hold:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aR20FWCCjAs" title="Ilya Sutskever – We&#x27;re moving from the age of scaling to the age of research" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aR20FWCCjAs" target="_blank" rel="noopener noreferrer">Ilya Sutskever – We&#x27;re moving from the age of scaling to the age of research</a></p><p class="youtube-embed-meta">Channel: Dwarkesh Patel &middot; Views: 1.4M &middot; Uploaded: November 2025 &middot; Length: 1 hour 36 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aR20FWCCjAs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aR20FWCCjAs">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -383,9 +376,7 @@ This is why coding agents occupy a prominent place in AI-doom discussions. They 
 
 At the same time, current evidence does not show that coding agents can independently run frontier AI laboratories. They appear much closer to highly productive research assistants than autonomous research directors. The central [uncertainty]({{ 'uncertainty/' | relative_url }}) is whether future improvements merely continue this pattern of assistance or eventually remove enough engineering bottlenecks to create a self-reinforcing acceleration cycle. That uncertainty sits near the heart of modern debates about p(doom), recursive improvement, and the possibility of losing control of increasingly capable AI systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/2603.03992" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Measuring AI R&amp;D Automation</span><span class="citation-popover-snippet">Measuring AI R&amp;D AutomationMarch 4, 2026 — by A Chan · 2026 — For tasks more directly relevant to frontier research, METR&#x27;s RE-Bench...</span><span class="citation-popover-meta">Published: March 4, 2026</span></span></span> [3Metr 3Metr]
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FF90PmbZ0T0" title="Coding with AI Agents in 2025: A Game Changer for Developers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FF90PmbZ0T0" target="_blank" rel="noopener noreferrer">Coding with AI Agents in 2025: A Game Changer for Developers</a></p><p class="youtube-embed-meta">Channel: EngX Space &middot; Views: 1.2K &middot; Uploaded: April 2025 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FF90PmbZ0T0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FF90PmbZ0T0">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

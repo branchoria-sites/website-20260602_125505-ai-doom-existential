@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /risk-thresholds/
 nav_short_title: Release Gates
 title: How risky is too risky to release?
-title_full: How risky is too risky to release? | Risk thresholds
+title_full: How risky is too risky to release?
 display_title_short: Release Gates
 display_title: Release Gates
 heading_title: How risky is too risky to release?
@@ -204,7 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 21:20:18'
-parent_title: What happens when a model crosses a threshold? | Evals
+parent_title: What happens when a model crosses a threshold?
 parent_permalink: /risk-thresholds/
 parent_nav_short_title: Risk thresholds
 parent_heading_title: What happens when a model crosses a threshold?
@@ -271,7 +271,6 @@ image: /assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_severe_risk_t_86
 
 In the context of *AI doom* and frontier models — powerful systems whose misuse or unexpected behaviour could cause [catastrophic]({{ 'misuse/' | relative_url }}) harm — developers and regulators face a fundamental dilemma: *when is a model too risky to release?* “Acceptable deployment thresholds” are the [governance]({{ 'governance/' | relative_url }}) criteria that groups use to decide whether a given AI system, after safeguards and mitigations have been applied, is *safe enough* to move beyond internal testing into broader release. These thresholds sit downstream of capability assessments: a model might be capable of dangerous behaviours, but the key governance question is whether the *residual risk* after safety work makes deployment tolerable in the real world. Determinations about acceptable risk are central to how responsible actors aim to prevent severe harm while still enabling beneficial innovation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">Frontier Model Forum Risk Taxonomy and Thresholds for Frontier AI Frameworks</span><span class="citation-popover-snippet">Frontier Model ForumRisk Taxonomy and Thresholds for Frontier AI Frameworks - Frontier Model ForumJune 18, 2025...</span><span class="citation-popover-meta">Published: June 18, 2025</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_severe_risk_t_86df83_deployment_th_147e1a-Illustration-1-dark.svg" | relative_url }}" alt="Release Gates illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_severe_risk_t_86df83_deployment_th_147e1a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_severe_risk_t_86df83_deployment_th_147e1a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What “Acceptable Deployment Thresholds” Mean
 
@@ -286,7 +285,6 @@ Put plainly: acceptable deployment thresholds ask, *given what a model can do an
 
 Acceptable deployment thresholds are, in effect, **release gates** in governance pipelines: explicit conditions that must be met before an AI system progresses to broader distribution. They bind evaluation results to governance actions, such as:
 
-
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
 * Deploying only within closed environments (e.g. internal use or limited API access).
@@ -298,13 +296,11 @@ Acceptable deployment thresholds are, in effect, **release gates** in governance
 
 These thresholds are especially important because frontier models can pose uncertain and systemic dangers. Unlike traditional software, the real‑world consequences of a misaligned or misused AI can scale rapidly, cross domain boundaries, and be hard to reverse. Having pre‑defined acceptable risk boundaries means decisions about *whether to release at all* are grounded in explicit criteria rather than discretion or competitive pressure.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2hF7RTmtW7A" title="Towards auditable risk management frameworks for advanced AI developers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2hF7RTmtW7A" target="_blank" rel="noopener noreferrer">Towards auditable risk management frameworks for advanced AI developers</a></p><p class="youtube-embed-meta">Channel: OECD. AI &middot; Views: 298 &middot; Uploaded: February 2025 &middot; Length: 1 hour 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2hF7RTmtW7A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2hF7RTmtW7A">Open on YouTube</a></p></div></div></div>
 
 ## Residual Risk After Safeguards and Mitigations
 
 Appointing acceptable deployment thresholds requires grappling with *residual risk* — the harm that remains after planned mitigations. Mitigations can include red‑teaming (stress testing for adversarial [misuse]({{ 'misuse/' | relative_url }})), access limitations, behavioural constraints on outputs, or technical alignment work. But even with these measures, some risk persists:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -316,7 +312,6 @@ Appointing acceptable deployment thresholds requires grappling with *residual ri
 
 Acceptable deployment thresholds are meant to be *conservative margins* that take these uncertainties into account. Some frameworks emphasise that thresholds should err on the side of safety in the face of limited evidence and high consequence potential. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cltc.berkeley.edu/2024/11/18/cltc-submits-working-paper-for-ai-action-summit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cltc.berkeley.edu">[CLTC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cltc.berkeley.edu</span><span class="citation-popover-snippet">CLTC UC Berkeley Center for Long-Term CybersecurityNovember 18, 2024...</span><span class="citation-popover-meta">Published: November 18, 2024</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_severe_risk_t_86df83_deployment_th_147e1a-Illustration-2-dark.svg" | relative_url }}" alt="Release Gates illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_severe_risk_t_86df83_deployment_th_147e1a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_severe_risk_t_86df83_deployment_th_147e1a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Operationalising Thresholds: How They Get Defined
 
@@ -327,7 +322,6 @@ There’s no single universal formula for acceptable deployment thresholds. With
 * **Policy standards and legal frameworks:** examples include the *EU AI Act’s* tiered risk approach — where some systems are outright prohibited, others regulated, and some allowed with safeguards — which implicitly embeds acceptable deployment concepts by categorising residual risk levels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/european-journal-of-risk-regulation/article/risk-reasonableness-and-residual-harm-under-the-eu-ai-act-a-conceptual-framework-for-proportional-exante-controls/093E8A6D09AE75FD4AE8D366ABF02D19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentRisk, Reasonableness and Residual Harm under the EU AI Act: A Conceptual Framework for Proportiona...</span></span></span> University Press & Assessment
 
 Practical decision frameworks often provide “Yes/No” gates or **deployment authorisation conditions** that must be satisfied before moving from internal testing to broader access.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Z_nHHKrcjQM" title="Anthropic&#x27;s AI Safety Plan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Z_nHHKrcjQM" target="_blank" rel="noopener noreferrer">Anthropic&#x27;s AI Safety Plan</a></p><p class="youtube-embed-meta">Channel: Vinh Nguyen &middot; Views: 25 &middot; Uploaded: February 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Z_nHHKrcjQM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Z_nHHKrcjQM">Open on YouTube</a></p></div></div></div>
 
@@ -341,7 +335,6 @@ Acceptable deployment thresholds do not always lead to a binary choice of “pub
 
 These intermediate deployment categories are attempts to balance innovation and caution: they allow some benefits to accrue while keeping potential harms contained. It reflects an understanding that *not all unsafe systems are equally dangerous* when access is limited.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_severe_risk_t_86df83_deployment_th_147e1a-Illustration-3-dark.svg" | relative_url }}" alt="Release Gates illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_severe_risk_t_86df83_deployment_th_147e1a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_severe_risk_t_86df83_deployment_th_147e1a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Trade‑offs and Tensions in Setting Acceptable Thresholds
 
@@ -352,7 +345,6 @@ Defining what counts as “acceptable” is inherently normative and contested:
 * **Competitive pressures:** Some actors have moved away from explicit pause commitments — partly citing competitive landscapes where unilateral pauses might leave them behind — complicating attempts to establish broad industry norms.
 
 These tensions shape debates about what acceptable thresholds should look like and whether they should be industry‑driven, regulator‑mandated, or international standards.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tWQOj1FrbIY" title="It Begins: The First Real AI Sandbox Escape Just Happened. (OpenAI Confirmed)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tWQOj1FrbIY" target="_blank" rel="noopener noreferrer">It Begins: The First Real AI Sandbox Escape Just Happened. (OpenAI Confirmed)</a></p><p class="youtube-embed-meta">Channel: TERMINUS | The AGI Endgame &middot; Views: 19.3K &middot; Uploaded: May 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tWQOj1FrbIY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tWQOj1FrbIY">Open on YouTube</a></p></div></div></div>
 
@@ -751,6 +743,7 @@ Acceptable deployment thresholds are pivotal governance tools that link technica
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
@@ -805,4 +798,4 @@ Acceptable deployment thresholds are pivotal governance tools that link technica
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: Towards auditable risk management frameworks for advanced AI developers  
-   Link: <a href="https://www.youtube.com/watch?v=2hF7RTmtW7A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2hF7RTmtW7A</a>  
+   Link: <a href="https://www.youtube.com/watch?v=2hF7RTmtW7A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2hF7RTmtW7A</a>

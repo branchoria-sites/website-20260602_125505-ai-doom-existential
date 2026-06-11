@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-recursive-imp/
 description: Focused pages that expand on Successor training.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e
-parent_title: Successor training | AI Takeoff
+parent_title: Successor training
 parent_nav_short_title: Successor training
 parent_permalink: /successor-training/
 ---

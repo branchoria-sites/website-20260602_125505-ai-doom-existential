@@ -34,7 +34,7 @@ sidebar_expanded_urls:
 - /ai-doom-and-e-87399-b/
 nav_short_title: Misuse
 title: How Could People Misuse Advanced AI?
-title_full: How Could People Misuse Advanced AI? | AI Doom
+title_full: How Could People Misuse Advanced AI?
 display_title_short: Misuse
 display_title: Misuse
 heading_title: How Could People Misuse Advanced AI?
@@ -317,7 +317,6 @@ image: /assets/images/AI_Doom_and_E_87399b_catastrophic_c92548-overview-social.j
 
 One of the most contested strands in the debate about **AI doom and existential risk** is not only whether AI could behave in harmful ways on its own, but how *humans might misuse* powerful AI systems to cause catastrophic damage on a scale that threatens civilisation or even human survival. This page focuses squarely on that question: not the classic alignment problem of an AI pursuing unintended goals, but the very real possibility that *people use increasingly capable AI* to magnify biological threats, automate cyberattack and sabotage, or accelerate military escalation — with consequences that, in the extreme, could be catastrophic. While current AI systems are far from superintelligent, researchers and policymakers agree that misuse risks deserve serious attention now, because these pathways already intersect with domains — biosecurity, cybersecurity, [geopolitics]({{ 'geopolitics/' | relative_url }}) — where errors or deliberate harm can have cascading systemic effects.[GOV.UK]
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548-overview.webp" | relative_url }}" alt="Overview image for Misuse" loading="eager" decoding="sync" fetchpriority="high">
 ## Biological Threat Assistance: AI-Amplified Biosecurity Risks
 
@@ -329,7 +328,6 @@ AI’s ability to process, summarise and generate biological information at scal
 
 In summary, the biological misuse pathway illustrates how *human-directed use of AI*, particularly if combined with advances in biotechnology, could enable actors to pursue high‑consequence biological missions that were previously out of reach — a core concern for those who see AI misuse as a catastrophic risk vector.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548-Illustration-1-dark.svg" | relative_url }}" alt="Misuse illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Cyberattack Automation: Scaling Offensive Capabilities
 
@@ -340,7 +338,6 @@ Cybersecurity has long been a battleground of attackers and defenders, and advan
 * **Broad concern in policy circles.** National security and scientific assessments emphasise that general‑purpose AI could *uplift* the cyber expertise of a broad range of actors, including those lacking deep technical training, by automating complex operations like social engineering or code generation. While the same technologies also bolster cyber defence, the asymmetric advantage could favour attackers absent robust safeguards.[GOV.UK]
 
 Taken together, this paints a picture where *AI‑assisted cyber offence* could magnify the destructive impact of digital attacks — from crippling infrastructure to undermining critical services — especially if adversaries weaponise AI faster than defences can adapt.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kgHwrOhwe04" title="Studies reveal risks of relying on AI systems for military combat | Generation AI | full episode" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kgHwrOhwe04" target="_blank" rel="noopener noreferrer">Studies reveal risks of relying on AI systems for military combat | Generation AI | full episode</a></p><p class="youtube-embed-meta">Channel: Arizona’s Family (3TV / CBS 5) &middot; Views: 254 &middot; Uploaded: April 2026 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kgHwrOhwe04" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kgHwrOhwe04">Open on YouTube</a></p></div></div></div>
 
@@ -354,7 +351,6 @@ AI is increasingly integrated into defence planning, from decision support to au
 
 In the military sphere, misuse is less about rogue actors in the traditional sense and more about geopolitical dynamics and organisational incentives that could push states to deploy powerful AI systems in ways that increase the likelihood of *large‑scale conflict or catastrophic mistakes*.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548-Illustration-2-dark.svg" | relative_url }}" alt="Misuse illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Weighing Misuse in the Broader AI Doom Debate
 
@@ -366,9 +362,7 @@ Across biosecurity, cybersecurity and military contexts, several themes recur in
 
 Critics of misuse‑focused doom narratives argue that catastrophic human misuse is no more likely than the misuse of other powerful technologies — and that robust governance, norms, and international cooperation could prevent extreme outcomes — but proponents counter that the *scale, speed and accessibility* of AI‑enabled capabilities make this a distinct and urgent challenge.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZFqP7OawOSI" title="AI Gets Military Secrets - What Could Go Wrong? | Warning Shots #40" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZFqP7OawOSI" target="_blank" rel="noopener noreferrer">AI Gets Military Secrets - What Could Go Wrong? | Warning Shots #40</a></p><p class="youtube-embed-meta">Channel: The AI Risk Network | AI Safety &middot; Views: 7.1K &middot; Uploaded: May 2026 &middot; Length: 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZFqP7OawOSI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZFqP7OawOSI">Open on YouTube</a></p></div></div></div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jAQKdpwXFzs" title="Mike McCormick: AI Acceleration vs Risks, Funding Global Resilience, AGI scenarios, U.S. vs China" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jAQKdpwXFzs" target="_blank" rel="noopener noreferrer">Mike McCormick: AI Acceleration vs Risks, Funding Global Resilience, AGI scenarios, U.S. vs China</a></p><p class="youtube-embed-meta">Channel: Delphi Digital &middot; Views: 306 &middot; Uploaded: October 2025 &middot; Length: 1 hour 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jAQKdpwXFzs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jAQKdpwXFzs">Open on YouTube</a></p></div></div></div>
 
@@ -381,7 +375,6 @@ Understanding catastrophic misuse is crucial because it represents a bridge betw
 * **Uncertainty and plural perspectives.** While misuse pathways are grounded in plausible mechanisms, there is active debate about *how plausible* catastrophic misuse is relative to other AI disaster scenarios, and about which interventions will be most effective.
 
 By centring on the *human dimensions* of misuse — decisions, incentives, and institutional controls — this view of AI doom complements alignment concerns and underscores that existential threats from AI could arise not only from errant machine goals but also from how powerful tools are wielded in contexts where the stakes are highest.
-
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548-Illustration-3-dark.svg" | relative_url }}" alt="Misuse illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 

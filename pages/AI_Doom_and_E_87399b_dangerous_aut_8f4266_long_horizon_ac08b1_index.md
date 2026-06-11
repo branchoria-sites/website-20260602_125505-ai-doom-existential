@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-dangerous-aut/
 description: Focused pages that expand on AI Oversight.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1
-parent_title: AI Oversight | Autonomy
+parent_title: AI Oversight
 parent_nav_short_title: AI Oversight
 parent_permalink: /ai-oversight/
 ---

@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /military-ai-risk/
 nav_short_title: Decision Speed
 title: Does faster military AI make crises worse?
-title_full: Does faster military AI make crises worse? | Military AI Risk
+title_full: Does faster military AI make crises worse?
 display_title_short: Decision Speed
 display_title: Decision Speed
 heading_title: Does faster military AI make crises worse?
@@ -204,7 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 15:15:29'
-parent_title: 'AI in Military Decisions: Escalation and Control Challenges | Misuse'
+parent_title: 'AI in Military Decisions: Escalation and Control Challenges'
 parent_permalink: /military-ai-risk/
 parent_nav_short_title: Military AI Risk
 parent_heading_title: 'AI in Military Decisions: Escalation and Control Challenges'
@@ -271,7 +271,6 @@ image: /assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_military_d_f29
 
 One of the most concrete ways advanced artificial intelligence (AI) could interact with [catastrophic]({{ 'misuse/' | relative_url }}) risk is through **decision speed in high‑stakes military crises**. Beyond sci‑fi visions of autonomous robots or rogue superintelligence, real‑world AI systems are being embedded into military command and control precisely because they can process data and generate recommendations far faster than humans. This acceleration can have benign effects — clearer pictures of unfolding events, alerts about threats, and near‑real‑time logistical planning. But it also introduces a distinct risk: **compressed decision windows that leave leaders less time to verify, interpret, or de‑escalate**, especially in fast‑moving confrontations between major powers. In the worst cases envisioned by analysts concerned about AI doom, this compression could contribute to inadvertent escalation, miscalculation, or conflict spiralling out of control before humans can intervene. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6082847" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">AI-Enabled Military Decision-Making and Escalation Risk: Human-Machine Command Authority in Great Power Competition by Burak Oktenli...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_military_d_f2971e_ai_crisis_dec_f450be-Illustration-1-dark.svg" | relative_url }}" alt="Decision Speed illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_military_d_f2971e_ai_crisis_dec_f450be-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_military_d_f2971e_ai_crisis_dec_f450be-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How compressed decision windows can raise risk
 
@@ -287,7 +286,6 @@ Yet that faster tempo creates what researchers call **decision compression**: a 
 
 Crucially, decision compression does not require AI to be flawed in the catastrophic sense of misalignment or deception; it arises directly from juxtaposing **fast‑moving battlefield dynamics with slow human cognitive and organisational processes**. When tight coupling — where one part of a system depends closely and immediately on the output of another — meets high complexity, system theorists warn, even minor misinterpretations can cascade into unintended engagements or broader conflict.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5c9VO1oPOMw" title="How Silicon Valley giants are turning into war contractors | All Hail the Military" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5c9VO1oPOMw" target="_blank" rel="noopener noreferrer">How Silicon Valley giants are turning into war contractors | All Hail the Military</a></p><p class="youtube-embed-meta">Channel: Al Jazeera English &middot; Views: 43.5K &middot; Uploaded: May 2026 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5c9VO1oPOMw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5c9VO1oPOMw">Open on YouTube</a></p></div></div></div>
 
 ### Automation bias and cognitive off‑loading
@@ -302,7 +300,6 @@ Faster AI‑supported decision cycles don’t only compress individual decision 
 
 When each side expects its opponent to have faster, AI‑assisted C2 and sensing, leaders may feel they have to **act quickly or risk losing an advantage**. In a crisis, this can look like a pressure to strike first or pre‑empt an adversary’s move, rather than pause to verify ambiguous signals. The acceleration of decision support can change the calculus from “we have hours to sort this out” to “we have minutes or less,” reducing the room for diplomatic de‑escalation and increasing the chance of **triggering responses before clarity emerges**. This dynamic is a classic escalation mechanism in international relations, made sharper by AI’s ability to process and recommend actions at machine speeds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/03058298251317205" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsSpeed and War in US Military Thought: Mapping the Conditions for AI–Enabled Decision-Making - Ian J. Reynolds, 2025April 1...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_military_d_f2971e_ai_crisis_dec_f450be-Illustration-2-dark.svg" | relative_url }}" alt="Decision Speed illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_military_d_f2971e_ai_crisis_dec_f450be-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_military_d_f2971e_ai_crisis_dec_f450be-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Simulation evidence of escalatory patterns
 
@@ -315,7 +312,6 @@ While war games do not equate to real human‑in‑the‑loop governance, they i
 ### When speed aids stability
 
 There are clear contexts where faster AI assistance improves crisis management: detecting early [warning signs]({{ 'warning-signs/' | relative_url }}) of miscommunication, flagging missteps in real time, and enabling more accurate, comprehensive [situational awareness]({{ 'situational-awareness/' | relative_url }}). In complex, multi‑domain battlefields, rapid synthesis of information can help commanders **avoid misperceptions** that might otherwise lead to mistaken escalation. Speed here is a stabilising force when paired with **robust human oversight** and deliberate governance structures that prevent premature action.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DCVlV1jmhhQ" title="How Artificial Intelligence Could Make Future Wars More Lethal Than Nuclear Weapons | WION Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DCVlV1jmhhQ" target="_blank" rel="noopener noreferrer">How Artificial Intelligence Could Make Future Wars More Lethal Than Nuclear Weapons | WION Podcast</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 871 &middot; Uploaded: April 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DCVlV1jmhhQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DCVlV1jmhhQ">Open on YouTube</a></p></div></div></div>
 
@@ -335,7 +331,6 @@ Speed becomes destabilising when:
 
 In these conditions, rapid AI recommendations can create a feedback loop where each side feels compelled to act first, trusting its system’s speed and precision over delayed human judgement.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_military_d_f2971e_ai_crisis_dec_f450be-Illustration-3-dark.svg" | relative_url }}" alt="Decision Speed illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_military_d_f2971e_ai_crisis_dec_f450be-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_military_d_f2971e_ai_crisis_dec_f450be-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Implications for existential risk narratives
 
@@ -343,9 +338,7 @@ In the context of broader **AI doom and existential risk arguments**, AI‑drive
 
 Understanding and mitigating this form of risk involves designing AI systems and military processes that preserve **deliberation time**, ensure transparent and interpretable recommendations, and integrate **run‑time assurance and supervisory control** to prevent escalation in tightly coupled engagement scenarios. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/Delivery.cfm/6176802.pdf?abstractid=6176802&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Compression and Escalation Risk in AI-Enabled Military Command and Control: An Operational Analysis of the ERAM Framework by Burak Oktenl...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_2XGbvm_ibc" title="Inside the Pentagon’s AI War Machine" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_2XGbvm_ibc" target="_blank" rel="noopener noreferrer">Inside the Pentagon’s AI War Machine</a></p><p class="youtube-embed-meta">Channel: Carnegie Endowment &middot; Views: 79.3K &middot; Uploaded: March 2026 &middot; Length: 53 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_2XGbvm_ibc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_2XGbvm_ibc">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

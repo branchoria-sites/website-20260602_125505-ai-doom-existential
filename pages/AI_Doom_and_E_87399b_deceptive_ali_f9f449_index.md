@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-deceptive-ali/
 description: Focused pages that expand on Scheming Tests.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_deceptive_ali_f9f449
-parent_title: Scheming Tests | AI Doom and E 87399 b
+parent_title: Scheming Tests
 parent_nav_short_title: Scheming Tests
 parent_permalink: /scheming-tests/
 ---

@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /ai-oversight/
 nav_short_title: Audit Trails
 title: Who is responsible when an agent goes wrong?
-title_full: Who is responsible when an agent goes wrong? | AI Oversight
+title_full: Who is responsible when an agent goes wrong?
 display_title_short: Audit Trails
 display_title: Audit Trails
 heading_title: Who is responsible when an agent goes wrong?
@@ -204,7 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 12:19:06'
-parent_title: Managing and Governing Autonomous AI Agents | Autonomy
+parent_title: Managing and Governing Autonomous AI Agents
 parent_permalink: /ai-oversight/
 parent_nav_short_title: AI Oversight
 parent_heading_title: Managing and Governing Autonomous AI Agents
@@ -271,14 +271,12 @@ image: /assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac0
 
 As artificial intelligence systems become autonomous—planning, reasoning, and executing actions over extended time without constant human supervision—the question of **who is accountable when they cause harm** becomes both more urgent and more complicated. In the context of long‑horizon AI agents (systems that pursue long sequences of actions to achieve goals), traditional chains of responsibility blur because harm can arise not from a single output but from a **cascade of decisions over time**. This matters for existential‑risk discussions because loss‑of‑control scenarios often hinge on unresolved accountability trails: if no clear human actor can be identified as responsible, then [governance]({{ 'governance/' | relative_url }}), legal liability, and corrective intervention all become much harder to enforce. Accountability trails are the auditable records and governance structures that let humans trace back harmful outcomes to authorised decisions, [human oversight]({{ 'human-oversight/' | relative_url }}) failures, or design flaws—and **their absence creates “accountability gaps” that amplify the risks of autonomous AI deployment**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ibm.com/think/insights/accountability-gap-autonomous-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibm.com">[IBM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibm.com</span><span class="citation-popover-title">The accountability gap in autonomous AI &#124; IBM</span><span class="citation-popover-snippet">The accountability gap in autonomous AI &#124; IBM...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1_agent_account_e9b236-Illustration-1-dark.svg" | relative_url }}" alt="Audit Trails illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1_agent_account_e9b236-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1_agent_account_e9b236-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Long Chains of Actions Blur Responsibility
 
 One reason autonomous agents complicate accountability is that **harmful outcomes may emerge from hundreds or thousands of small actions**, none of which appear dangerous in isolation. In traditional software, a failure is often a single bug or misconfiguration; in long‑horizon AI agents, a harmful result might be the **compounded consequence of many decisions over time** that are difficult to decompose later. This makes it harder to identify the precise causal chain and therefore who should be held responsible. Philosophers and legal scholars have described this as a “**responsibility gap**”: even if AI systems cause harm, it can be unclear whether practitioners, deployers, organisations or the AI itself should bear accountability. Some argue that no true gap exists and that responsibility can always be attributed indirectly to humans in the value chain, but doing so in complex autonomous systems remains a major conceptual and practical challenge.[Springer]
 
 Traditional legal frameworks typically link accountability to identifiable human actions or specific product defects. But when an AI agent makes many sequential decisions, **causally tracing an outcome back to a human decision can become tenuous**—especially if oversight tools or logs are missing or incomplete. This structural ambiguity not only makes litigation and regulatory enforcement harder, but also undercuts the deterrence and learning that clear accountability trails are meant to provide.[SSRN]
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2DqsxSJM1mI" title="The Responsibility Gap: AI and the Shift to True Security Accountability" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2DqsxSJM1mI" target="_blank" rel="noopener noreferrer">The Responsibility Gap: AI and the Shift to True Security Accountability</a></p><p class="youtube-embed-meta">Channel: RSAC Cybersecurity &middot; Views: 2.0K &middot; Uploaded: March 2026 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2DqsxSJM1mI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2DqsxSJM1mI">Open on YouTube</a></p></div></div></div>
 
@@ -292,7 +290,6 @@ To address these governance challenges, accountability trails for autonomous age
 
 These elements are not purely technical. They also require **runtime enforcement** rather than retrospective logging alone. Recording what happened only after an incident does not help if there is no real‑time linkage between decisions, authorisations, and human oversight structures.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ibm.com/think/insights/accountability-gap-autonomous-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibm.com">[IBM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibm.com</span><span class="citation-popover-title">The accountability gap in autonomous AI &#124; IBM</span><span class="citation-popover-snippet">The accountability gap in autonomous AI &#124; IBM...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1_agent_account_e9b236-Illustration-2-dark.svg" | relative_url }}" alt="Audit Trails illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1_agent_account_e9b236-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1_agent_account_e9b236-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Accountability Gaps Affect Loss‑of‑Control Scenarios
 
@@ -302,7 +299,6 @@ Accountability gaps also intersect with **public trust and legal risk**. For exa
 
 Finally, accountability infrastructure supports **alignment verification**: even if an autonomous agent behaves well in testing, stakeholders need to verify that the system’s in‑field behaviour continues to reflect human intentions and constraints. In the absence of detailed accountability trails, deviations can go unnoticed until they accumulate into serious harms, diminishing the ability of governance systems to detect and mitigate misalignment before it cascades.[SSRN]
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Jjc0nCRycoc" title="Episode 114: Responsibility for Consequences and the AI Responsibility Gap with Huzeyfe Demirtas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Jjc0nCRycoc" target="_blank" rel="noopener noreferrer">Episode 114: Responsibility for Consequences and the AI Responsibility Gap with Huzeyfe Demirtas</a></p><p class="youtube-embed-meta">Channel: The Free Will Show &middot; Views: 118 &middot; Uploaded: March 2026 &middot; Length: 43 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Jjc0nCRycoc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Jjc0nCRycoc">Open on YouTube</a></p></div></div></div>
 
 ## Emerging Ideas and Governance Proposals
@@ -310,7 +306,6 @@ Finally, accountability infrastructure supports **alignment verification**: even
 Researchers and governance practitioners have begun proposing frameworks to address accountability gaps. One idea is the concept of an **“Ultimate [AI Accountability]({{ 'ai-accountability/' | relative_url }}) Owner” (UAAO)**: a designated human or organisational role that bears final responsibility for AI outcomes across the full lifecycle—from design to deployment and maintenance. Assigning such an ownership role aims to make accountability more concrete rather than diffuse.[SSRN]
 
 Another stream of work focuses on **real‑time, verifiable audit infrastructure** for agentic systems. This includes proposals for transparent, tamper‑proof logging standards integrated into agent governance, so regulators and auditors can reconstruct actions at the fidelity required to assign responsibility and enforce corrective measures. Proponents argue that without such infrastructure, regulatory frameworks (even those as comprehensive as the EU AI Act) may fail to govern autonomous agents effectively at the scale and speed they operate.[SSRN]
-
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1_agent_account_e9b236-Illustration-3-dark.svg" | relative_url }}" alt="Audit Trails illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1_agent_account_e9b236-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1_agent_account_e9b236-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Accountability Trails and AI Doom Risk
@@ -321,9 +316,7 @@ In scenarios where an agent’s autonomous cascade of actions contributes to sys
 
 In short, **accountability trails are foundational to meaningful human oversight**: they constrain where responsibility can be assigned, they support accountability enforcement, and they enable societies to govern autonomous AI in ways that reduce rather than compound existential risk. The better these trails are designed and enforced, the smaller the “governance gap” and the more robust our collective capacity to detect, understand, and respond to harmful outcomes from autonomous agents.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ibm.com/think/insights/accountability-gap-autonomous-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibm.com">[IBM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibm.com</span><span class="citation-popover-title">The accountability gap in autonomous AI &#124; IBM</span><span class="citation-popover-snippet">The accountability gap in autonomous AI &#124; IBM...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tiDTHaytcRQ" title="Audit Trails and AI Transparency - Regulatory Compliance under the EU AI Act" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tiDTHaytcRQ" target="_blank" rel="noopener noreferrer">Audit Trails and AI Transparency - Regulatory Compliance under the EU AI Act</a></p><p class="youtube-embed-meta">Channel: Lab ICT Heron &middot; Views: 224 &middot; Uploaded: March 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tiDTHaytcRQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tiDTHaytcRQ">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -859,4 +852,4 @@ In short, **accountability trails are foundational to meaningful human oversight
    Title: (PDF) Computational Accountability  
    Link: <a href="https://www.researchgate.net/publication/370625370_Computational_Accountability" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/370625370_Computational_Accountability</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 9, 2023 — Conference Paper PDF Available COMPUTATIONAL ACCOUNTABILITY * May 2023 DOI:10.1145/3594536.3595122 * License * CC BY 4.0 *...</p></details>
-   Published: May 9, 2023  
+   Published: May 9, 2023

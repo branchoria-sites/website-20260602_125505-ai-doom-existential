@@ -30,7 +30,7 @@ sidebar_expanded_urls:
 - /autonomy/
 nav_short_title: AI Oversight
 title: Managing and Governing Autonomous AI Agents
-title_full: Managing and Governing Autonomous AI Agents | Autonomy
+title_full: Managing and Governing Autonomous AI Agents
 display_title_short: AI Oversight
 display_title: AI Oversight
 heading_title: Managing and Governing Autonomous AI Agents
@@ -206,7 +206,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 12:18:43'
-parent_title: When Does AI Autonomy Become Dangerous? | AI Doom
+parent_title: When Does AI Autonomy Become Dangerous?
 parent_permalink: /autonomy/
 parent_nav_short_title: Autonomy
 parent_heading_title: When Does AI Autonomy Become Dangerous?
@@ -284,7 +284,6 @@ image: /assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac0
 
 As AI systems move from answering individual prompts to pursuing goals across hours, days, or even longer periods, [governance]({{ 'governance/' | relative_url }}) becomes a central issue in debates about AI doom and existential risk. Long-horizon AI agents are difficult to supervise because they can make many interconnected decisions before a human notices a problem. In the most serious loss-of-control scenarios discussed by AI safety researchers, the danger is not a single mistaken output but an autonomous system that continues pursuing objectives despite errors, misunderstandings, or incentives that diverge from human intentions.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1-Illustration-1-dark.svg" | relative_url }}" alt="AI Oversight illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Current evidence suggests that today's agents remain far short of the robust [autonomy]({{ 'autonomy/' | relative_url }}) assumed in many existential-risk scenarios. However, major safety assessments note that task horizons are increasing and that autonomous agents create distinctive oversight challenges because human intervention becomes harder once systems are operating independently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/International_AI_Safety_Report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[International AI Safety Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">International AI Safety ReportThe report assesses a wide range of risks posed by general-purpose AI and how to mitigate against them.R...</span></span></span>
 
@@ -304,7 +303,6 @@ This creates several governance difficulties.
 
 From an AI doom perspective, these limitations matter because many loss-of-control arguments depend on failures emerging during extended autonomous operation rather than during laboratory testing.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pCqQbbpLRGE" title="Long | Meaning of long" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pCqQbbpLRGE" target="_blank" rel="noopener noreferrer">Long | Meaning of long</a></p><p class="youtube-embed-meta">Channel: Words and Meanings Explained &middot; Views: 9.1K &middot; Uploaded: February 2019 &middot; Length: 2 minutes 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pCqQbbpLRGE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pCqQbbpLRGE">Open on YouTube</a></p></div></div></div>
 
 ## Why Longer Task Horizons Create New Governance Problems
@@ -323,7 +321,6 @@ Third, there is the problem of **intervention delay**. The International AI Safe
 
 These concerns help explain why governance discussions increasingly focus on operational control, monitoring, and interruptibility rather than solely on pre-deployment testing.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BjNOU5b0SpM" title="Securing Autonomous AI Reasoning | AI Security, Governance &amp; Trust in Intelligent Systems | Uplatz" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BjNOU5b0SpM" target="_blank" rel="noopener noreferrer">Securing Autonomous AI Reasoning | AI Security, Governance &amp; Trust in Intelligent Systems | Uplatz</a></p><p class="youtube-embed-meta">Channel: Uplatz &middot; Views: 18 &middot; Uploaded: May 2026 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BjNOU5b0SpM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BjNOU5b0SpM">Open on YouTube</a></p></div></div></div>
 
 ## Tiered Oversight and Control Strategies
@@ -339,7 +336,6 @@ Autonomy levelTypical governance responseInformation-only agentsLogging, transpa
 The attraction of tiered governance is that it recognises differing risk levels while avoiding the false choice between unrestricted autonomy and complete prohibition. Gartner and other governance analysts have recently argued that autonomy level and access privileges should be treated as separate governance variables rather than collapsed into a single category. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.itpro.com/technology/artificial-intelligence/one-size-fits-all-agent-governance-sets-enterprises-up-to-fail" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itpro.com">[IT Pro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itpro.com</span><span class="citation-popover-title">IT Pro&#x27;One-size-fits-all&#x27; agent governance sets enterprises up to fail</span><span class="citation-popover-snippet">The primary issue is the widespread application of a &quot;one-size-fits-all&quot; governance model that fails to distinguish between an agent&#x27;s au...</span></span></span>
 
 For existential-risk discussions, the most important tiers are those involving substantial autonomous decision-making, because these are the systems most relevant to future loss-of-control scenarios.
-
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1-Illustration-2-dark.svg" | relative_url }}" alt="AI Oversight illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Effective Oversight Might Require
@@ -357,7 +353,6 @@ Governance proposals for advanced agents increasingly converge on several practi
 **Runtime policy enforcement.** Some researchers argue that governance should operate as an [independent]({{ 'red-teaming/' | relative_url }}) layer that monitors and constrains agents during operation rather than relying entirely on the agent's internal alignment. Proposed approaches include external policy engines that can block, redirect, or restrict actions in real time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2604.04749" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 These mechanisms are not proof against [catastrophic]({{ 'misuse/' | relative_url }}) failures, but they represent attempts to preserve meaningful human control as autonomy increases.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2VlXhGottLw" title="Inside The Second Int&#x27;l AI Safety Report with Stephen Clare &amp; Stephen Casper | The AI Policy Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2VlXhGottLw" target="_blank" rel="noopener noreferrer">Inside The Second Int&#x27;l AI Safety Report with Stephen Clare &amp; Stephen Casper | The AI Policy Podcast</a></p><p class="youtube-embed-meta">Channel: Center for Strategic &amp; International Studies &middot; Views: 2.6K &middot; Uploaded: February 2026 &middot; Length: 1 hour 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2VlXhGottLw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2VlXhGottLw">Open on YouTube</a></p></div></div></div>
 
@@ -380,7 +375,6 @@ Organisations deploying autonomous agents face incentives to increase automation
 There is also a broader societal challenge. Effective oversight may require coordination among technology companies, regulators, standards bodies, governments, and independent auditors. Yet these actors often operate under different incentives and legal frameworks. A governance system that works within one organisation may not scale internationally.
 
 The International AI Safety Report highlights broader institutional challenges around managing advanced AI risks, suggesting that technical safeguards alone are unlikely to be sufficient. Governance capacity, monitoring infrastructure, and collective coordination are all part of the safety picture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nsp.nanet.go.kr/plan/subject/detail.do?nationalPlanControlNo=PLAN0000060576" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsp.nanet.go.kr">[National Strategy Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsp.nanet.go.kr</span><span class="citation-popover-snippet">Introduction 14. 1. Background on general-purpose AI 16... Loss of control 76. 2.3. Systemic risks 84. 2.3.1. Labour market impacts...R...</span></span></span>
-
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1-Illustration-3-dark.svg" | relative_url }}" alt="AI Oversight illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why This Matters for AI Doom Arguments

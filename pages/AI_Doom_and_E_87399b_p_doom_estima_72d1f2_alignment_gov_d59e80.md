@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /p-doom/
 nav_short_title: Alignment & Governance
 title: How Safety and Governance Shape AI Doom Forecasts
-title_full: How Safety and Governance Shape AI Doom Forecasts | P Doom
+title_full: How Safety and Governance Shape AI Doom Forecasts
 display_title_short: Alignment & Governance
 display_title: Alignment & Governance
 heading_title: How Safety and Governance Shape AI Doom Forecasts
@@ -204,7 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 19:06:12'
-parent_title: What Does p(doom) Really Mean? | AI Doom
+parent_title: What Does p(doom) Really Mean?
 parent_permalink: /p-doom/
 parent_nav_short_title: P Doom
 parent_heading_title: What Does p(doom) Really Mean?
@@ -288,7 +288,6 @@ image: /assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d5
 
 When experts give a p(doom) estimate—the probability that advanced AI leads to human extinction, permanent disempowerment, or a comparable civilisational catastrophe—the number is rarely driven by a single belief. Two of the biggest drivers are assumptions about **alignment** and **[governance]({{ 'governance/' | relative_url }})**. Alignment concerns whether highly capable AI systems can be made to reliably pursue human intentions. Governance concerns whether companies, governments, and international institutions can monitor, regulate, test, and control those systems before dangerous failures occur.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d59e80-Illustration-1-dark.svg" | relative_url }}" alt="Alignment &amp; Governance illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d59e80-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d59e80-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 As a result, disagreement about p(doom) is often less about current AI systems and more about future expectations. Someone who believes alignment is fundamentally difficult and governance will fail under competitive pressure may arrive at a much higher p(doom) than someone who expects strong technical safety breakthroughs and effective oversight. Understanding these assumptions helps explain why informed observers can look at the same technology and reach dramatically different conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ai-safety-atlas.com/chapters/v1/risks/appendix-quantifying-existential-risks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ai-safety-atlas.com">[ai-safety-atlas.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ai-safety-atlas.com</span><span class="citation-popover-snippet">Appendix: Quantifying Existential Risks - Chapter 2P(doom) represents the subjective probability that artificial intelligence will cause...</span></span></span>
 
@@ -297,7 +296,6 @@ As a result, disagreement about p(doom) is often less about current AI systems a
 For many AI-risk researchers, alignment is the central [uncertainty]({{ 'uncertainty/' | relative_url }}). The concern is not that current chatbots are plotting against humanity, but that future systems could become highly capable while remaining only partially understood and only imperfectly controllable.
 
 The higher a forecaster judges the difficulty of alignment, the higher their p(doom) tends to be. The underlying logic is straightforward:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -346,7 +344,6 @@ The basic argument is that society does not need perfect alignment immediately i
 
 Higher p(doom) estimates frequently assume the opposite: that competitive pressures between companies or states will undermine caution. Under this view, even if warning signs appear, actors may continue deployment because slowing down risks losing strategic, economic, or military advantages.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oOb9K1KIAyk" title="Top AGI Safety Researcher with 90% P(Doom) on the Trajectory to ASI — Dr. Steven Byrnes Returns!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oOb9K1KIAyk" target="_blank" rel="noopener noreferrer">Top AGI Safety Researcher with 90% P(Doom) on the Trajectory to ASI — Dr. Steven Byrnes Returns!</a></p><p class="youtube-embed-meta">Channel: Doom Debates &middot; Views: 20.2K &middot; Uploaded: March 2026 &middot; Length: 1 hour 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oOb9K1KIAyk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oOb9K1KIAyk">Open on YouTube</a></p></div></div></div>
 
 ## Why the same alignment problem produces different forecasts
@@ -355,20 +352,19 @@ One reason p(doom) estimates vary so widely is that people assign different weig
 
 Consider three stylised positions:
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://calcuja.com/pdoom-calculator/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calcuja.com">[**Alignment pessimism, governance pessimism**]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calcuja.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Alignment pessimism, governance pessimism** <span class="citation-chip-wrap"><a class="citation-chip" href="https://calcuja.com/pdoom-calculator/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calcuja.com">[calcuja.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calcuja.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This combination often produces the highest p(doom) estimates. The forecaster expects alignment to remain unsolved while also expecting weak coordination among governments and firms. In this model, dangerous systems are likely to be built and deployed before adequate safeguards exist.
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://calcuja.com/pdoom-calculator/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calcuja.com">[**Alignment pessimism, governance optimism**]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calcuja.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Alignment pessimism, governance optimism** <span class="citation-chip-wrap"><a class="citation-chip" href="https://calcuja.com/pdoom-calculator/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calcuja.com">[calcuja.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calcuja.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Here the forecaster still worries that advanced AI could be misaligned, but expects regulations, monitoring, evaluations, and deployment controls to reduce the chance of catastrophe. p(doom) may remain significant but substantially lower.
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://calcuja.com/pdoom-calculator/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calcuja.com">[**Alignment optimism, governance optimism**]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calcuja.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Alignment optimism, governance optimism** <span class="citation-chip-wrap"><a class="citation-chip" href="https://calcuja.com/pdoom-calculator/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calcuja.com">[calcuja.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calcuja.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This combination usually yields the lowest estimates. The expectation is that technical safety methods improve alongside governance mechanisms, allowing increasingly capable systems to remain controllable and auditable.
 
 The key point is that p(doom) is often highly sensitive to assumptions about whether either alignment or governance can compensate for weaknesses in the other.
-
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d59e80-Illustration-2-dark.svg" | relative_url }}" alt="Alignment &amp; Governance illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d59e80-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d59e80-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Monitoring, evaluations, and deployment controls as risk reducers
@@ -389,7 +385,6 @@ Monitoring aims to detect suspicious behaviour after deployment. Rather than ass
 
 This approach reflects the possibility that dangerous capabilities emerge gradually rather than appearing all at once.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hliLDNdxkX0" title="Surveying 2,700+ AI Researchers on the Industry&#x27;s Future with Katja Grace of AI Impacts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hliLDNdxkX0" target="_blank" rel="noopener noreferrer">Surveying 2,700+ AI Researchers on the Industry&#x27;s Future with Katja Grace of AI Impacts</a></p><p class="youtube-embed-meta">Channel: Cognitive Revolution &quot;How AI Changes Everything&quot; &middot; Views: 2.2K &middot; Uploaded: March 2024 &middot; Length: 1 hour 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hliLDNdxkX0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hliLDNdxkX0">Open on YouTube</a></p></div></div></div>
 
 ### Controlled deployment
@@ -397,7 +392,6 @@ This approach reflects the possibility that dangerous capabilities emerge gradua
 Many governance proposals focus on limiting how powerful systems are used rather than trying to solve every technical problem beforehand.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -418,7 +412,6 @@ Importantly, these survey results do not imply agreement about why the risk exis
 
 Researchers who assign similar p(doom) values may disagree about:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * Whether alignment or misuse is the larger threat.
@@ -431,14 +424,12 @@ Researchers who assign similar p(doom) values may disagree about:
 
 The same survey found broad support for prioritising research aimed at reducing AI risks, suggesting that even many respondents who are relatively optimistic still view alignment and governance as important determinants of long-term outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2602.21012" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXiv[2602.21012] International AI Safety Report 2026by Y Bengio · 2026 · Cited by 65 — The International AI Safety Report 2026 synthesis...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d59e80-Illustration-3-dark.svg" | relative_url }}" alt="Alignment &amp; Governance illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d59e80-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d59e80-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The strongest objections to alignment-driven doom forecasts
 
 Critics of high p(doom) estimates often challenge the assumptions behind alignment pessimism rather than the mathematics of the estimates themselves.
 
 Several common objections include:
-
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
@@ -459,9 +450,7 @@ Many experts expect future AI systems to become extremely powerful. The larger d
 
 Because answers to those questions remain uncertain, p(doom) estimates vary widely. The number itself is best understood not as a prediction generated by a formula, but as a summary of deeper beliefs about whether humanity can successfully align advanced AI systems and govern their deployment before failures become irreversible. arXiv <span class="citation-chip-wrap"><a class="citation-chip" href="https://ai-safety-atlas.com/chapters/v1/risks/appendix-quantifying-existential-risks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ai-safety-atlas.com">[2ai-safety-atlas.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ai-safety-atlas.com</span><span class="citation-popover-snippet">Appendix: Quantifying Existential Risks - Chapter 2P(doom) represents the subjective probability that artificial intelligence will cause...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/k6M_ScSBF6A" title="The Existential Risk of AI Alignment | Connor Leahy, ep 91" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=k6M_ScSBF6A" target="_blank" rel="noopener noreferrer">The Existential Risk of AI Alignment | Connor Leahy, ep 91</a></p><p class="youtube-embed-meta">Channel: Singularity University &middot; Views: 8.7K &middot; Uploaded: March 2023 &middot; Length: 53 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=k6M_ScSBF6A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=k6M_ScSBF6A">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

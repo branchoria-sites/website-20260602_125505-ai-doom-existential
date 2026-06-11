@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-ai-race-dynam/
 description: Focused pages that expand on Shared Rules.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf
-parent_title: Shared Rules | Race Pressure
+parent_title: Shared Rules
 parent_nav_short_title: Shared Rules
 parent_permalink: /shared-rules/
 ---

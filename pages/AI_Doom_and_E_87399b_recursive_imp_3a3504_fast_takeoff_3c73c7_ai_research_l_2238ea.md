@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /fast-takeoff/
 nav_short_title: AI research loop
 title: When AI starts improving AI itself
-title_full: When AI starts improving AI itself | Fast takeoff
+title_full: When AI starts improving AI itself
 display_title_short: AI research loop
 display_title: AI research loop
 heading_title: When AI starts improving AI itself
@@ -204,7 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 13:05:54'
-parent_title: What would warn US before FOOM? | AI Takeoff
+parent_title: What would warn US before FOOM?
 parent_permalink: /fast-takeoff/
 parent_nav_short_title: Fast takeoff
 parent_heading_title: What would warn US before FOOM?
@@ -271,7 +271,6 @@ image: /assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c7
 
 For people worried about AI doom and rapid “FOOM” scenarios, one warning sign stands above most others: AI systems beginning to make the next generation of AI substantially better. The reason is simple. A [fast takeoff]({{ 'fast-takeoff/' | relative_url }}) does not require machines to redesign themselves overnight. It only requires a feedback loop in which increasingly capable AI systems become increasingly important contributors to AI research and development. If each generation helps create a stronger successor, progress could begin to compound. <span class="citation-chip-wrap"><a class="citation-chip" href="https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-title">alphaevolve a gemini powered coding agent for designing advanced algorithms</span><span class="citation-popover-snippet">Google DeepMindAlphaEvolve: A Gemini-powered coding agent for...14 May 2025 — AlphaEvolve enhanced the efficiency of Google&#x27;s data cente...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_ai_research_l_2238ea-Illustration-1-dark.svg" | relative_url }}" alt="AI research loop illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_ai_research_l_2238ea-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_ai_research_l_2238ea-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This idea remains controversial. No existing system has demonstrated the kind of runaway recursive self-improvement imagined in classic intelligence-explosion arguments. Yet AI is already being used to write code, optimise training systems, search for new algorithms, generate research ideas, and automate parts of scientific work that previously required human researchers. The question is not whether AI can assist AI research. It already does. The question is whether that assistance becomes strong enough that capability gains start feeding directly back into the process that creates future models. <span class="citation-chip-wrap"><a class="citation-chip" href="https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-title">alphaevolve a gemini powered coding agent for designing advanced algorithms</span><span class="citation-popover-snippet">Google DeepMindAlphaEvolve: A Gemini-powered coding agent for...14 May 2025 — AlphaEvolve enhanced the efficiency of Google&#x27;s data cente...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sakana.ai/ai-scientist/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sakana.ai">[Sakana AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sakana.ai</span><span class="citation-popover-title">ai scientist</span><span class="citation-popover-snippet">The AI Scientist: Towards Fully Automated Open-Ended...13 Aug 2024 — The AI Scientist is a fully automated pipeline for end-to-end paper...</span></span></span>
 
@@ -280,7 +279,6 @@ This idea remains controversial. No existing system has demonstrated the kind of
 Many discussions of recursive self-improvement evoke science-fiction images of an AI rewriting its own source code. Most modern versions of the argument are less dramatic.
 
 An AI system does not need complete [autonomy]({{ 'autonomy/' | relative_url }}) to become an important part of the AI research pipeline. It only needs to contribute meaningfully to tasks that improve future systems. Examples include:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -301,9 +299,7 @@ From a FOOM perspective, the crucial question is whether AI becomes a major sour
 
 Recursive self-improvement is often described as a loop:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RP098Dfjw8A" title="Sakana&#x27;s SHOCKING Paper &quot;Automated AI Research&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RP098Dfjw8A" target="_blank" rel="noopener noreferrer">Sakana&#x27;s SHOCKING Paper &quot;Automated AI Research&quot;</a></p><p class="youtube-embed-meta">Channel: Wes Roth &middot; Views: 62.0K &middot; Uploaded: March 2025 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RP098Dfjw8A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RP098Dfjw8A">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -332,7 +328,6 @@ Sakana AI's "AI Scientist" project demonstrated systems capable of generating re
 
 These systems are far from replacing top human researchers. However, they illustrate a key trend: the automation frontier is moving from isolated tasks toward larger chunks of the research process itself.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_ai_research_l_2238ea-Illustration-2-dark.svg" | relative_url }}" alt="AI research loop illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_ai_research_l_2238ea-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_ai_research_l_2238ea-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### AI is starting to discover algorithms
 
@@ -352,7 +347,6 @@ Current AI systems still depend heavily on human judgement. They make mistakes, 
 
 Sceptics also argue that AI progress depends on many bottlenecks beyond algorithm design:
 
-
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
 * Computing hardware.
@@ -369,7 +363,6 @@ Even if AI dramatically accelerated research output, these constraints could slo
 Another objection is that research itself may not scale smoothly. Some discoveries are easy to automate; others may require deep human insight, physical experimentation, or conceptual breakthroughs that do not emerge from simply running more automated searches. The existence of AI-assisted research does not automatically imply exponential improvement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2506.13131" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">AlphaEvolve: A coding agent for scientific and algorithmic...by A Novikov · 2025 · Cited by 526 — In this white paper, we present AlphaE...</span></span></span>
 
 As a result, many AI researchers expect substantial AI-driven research automation without expecting a classic intelligence explosion.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AkadGXzDqBw" title="NOT-Recursive NOT-Self Improvement: autoresearch isn&#x27;t SuperAI&#x27;s next step" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AkadGXzDqBw" target="_blank" rel="noopener noreferrer">NOT-Recursive NOT-Self Improvement: autoresearch isn&#x27;t SuperAI&#x27;s next step</a></p><p class="youtube-embed-meta">Channel: Internet of Bugs &middot; Views: 40.4K &middot; Uploaded: May 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AkadGXzDqBw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AkadGXzDqBw">Open on YouTube</a></p></div></div></div>
 
@@ -389,7 +382,6 @@ People concerned about fast takeoff often focus on a narrower set of indicators:
 
 **Automated AI research outperforms human-led teams.** A world in which leading AI advances come primarily from automated systems rather than human experts would look qualitatively different from today's research environment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sakana.ai/ai-scientist/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sakana.ai">[Sakana AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sakana.ai</span><span class="citation-popover-title">ai scientist</span><span class="citation-popover-snippet">The AI Scientist: Towards Fully Automated Open-Ended...13 Aug 2024 — The AI Scientist is a fully automated pipeline for end-to-end paper...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_ai_research_l_2238ea-Illustration-3-dark.svg" | relative_url }}" alt="AI research loop illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_ai_research_l_2238ea-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_ai_research_l_2238ea-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why this warning sign matters in AI doom arguments
 
@@ -399,9 +391,7 @@ If recursive self-improvement is possible, the earliest detectable stage may not
 
 That does not mean such a loop will inevitably produce a FOOM. The evidence today is consistent with multiple futures: gradual acceleration, powerful but controllable automation of research, or something much faster. The key point is narrower. Among the many candidate warning signs discussed in AI doom debates, AI improving AI is the one most closely connected to the mechanism that fast-takeoff theories actually depend upon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2026/05/07/anthropic-jack-clark-ai-intelligence-explosion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-snippet">Co-founder Jack Clark predicts a greater than 60% chance that by 2028, an AI system could autonomously build a better version of itself...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-title">alphaevolve a gemini powered coding agent for designing advanced algorithms</span><span class="citation-popover-snippet">Google DeepMindAlphaEvolve: A Gemini-powered coding agent for...14 May 2025 — AlphaEvolve enhanced the efficiency of Google&#x27;s data cente...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0k11k6GE-Io" title="Elon Musk: The &quot;Hard Takeoff&quot; Has Begun" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0k11k6GE-Io" target="_blank" rel="noopener noreferrer">Elon Musk: The &quot;Hard Takeoff&quot; Has Begun</a></p><p class="youtube-embed-meta">Channel: Dukta Feelgood &middot; Views: 317 &middot; Uploaded: April 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0k11k6GE-Io" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0k11k6GE-Io">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -489,7 +479,7 @@ That does not mean such a loop will inevitably produce a FOOM. The evidence toda
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -499,111 +489,36 @@ That does not mean such a loop will inevitably produce a FOOM. The evidence toda
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-research-loop-when-ai-starts-improving-ai-itself-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nerd Life T Shirt STEM Computer Hacker Code Robotics Artificial Intelligence Tee"><img src="{{ '/assets/images/marketplace-covers/a9e20afd58cc37dc0a8b.jpg' | relative_url }}" alt="Listing image for Nerd Life T Shirt STEM Computer Hacker Code Robotics Artificial Intelligence Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-starts-improving-ai-itself-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="when-ai-starts-improving-ai-itself-robot-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A1 Mecha Robot Action Figure Articulated Sci-Fi Soldier Toy Model Display"><img src="https://i.ebayimg.com/images/g/b4wAAeSwO1dqILO1/s-l225.jpg" alt="Listing image for A1 Mecha Robot Action Figure Articulated Sci-Fi Soldier Toy Model Display" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-research-loop-when-ai-starts-improving-ai-itself-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Nerd Life T Shirt STEM Computer Hacker Code Robotics Artificial Intelligence Tee</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-starts-improving-ai-itself-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="when-ai-starts-improving-ai-itself-robot-display-model" target="_blank" rel="sponsored noopener noreferrer">A1 Mecha Robot Action Figure Articulated Sci-Fi Soldier Toy Model Display</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-research-loop-when-ai-starts-improving-ai-itself-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence t shirt">Search <span data-ebay-domain-label>eBay.com</span>: artificial intelligence t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-starts-improving-ai-itself-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="when-ai-starts-improving-ai-itself-robot-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot display model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-research-loop-when-ai-starts-improving-ai-itself-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-research-loop-when-ai-starts-improving-ai-itself-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI Artificial Intelligence Data Scientist Saying T-Shirt"><img src="{{ '/assets/images/marketplace-covers/0fae603d8a6ff7ba8ab6.jpg' | relative_url }}" alt="Listing image for AI Artificial Intelligence Data Scientist Saying T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-research-loop-when-ai-starts-improving-ai-itself-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">AI Artificial Intelligence Data Scientist Saying T-Shirt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-research-loop-when-ai-starts-improving-ai-itself-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence t shirt">Search <span data-ebay-domain-label>eBay.com</span>: artificial intelligence t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-research-loop-when-ai-starts-improving-ai-itself-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-research-loop-when-ai-starts-improving-ai-itself-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Skynet Lb Retro Cyberdyne Artificial Intelligence Unisex T-Shirt"><img src="{{ '/assets/images/marketplace-covers/564c98ff0f6bf1d8f6e1.jpg' | relative_url }}" alt="Listing image for Skynet Lb Retro Cyberdyne Artificial Intelligence Unisex T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-research-loop-when-ai-starts-improving-ai-itself-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Skynet Lb Retro Cyberdyne Artificial Intelligence Unisex T-Shirt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-research-loop-when-ai-starts-improving-ai-itself-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence t shirt">Search <span data-ebay-domain-label>eBay.com</span>: artificial intelligence t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-research-loop-when-ai-starts-improving-ai-itself-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-research-loop-when-ai-starts-improving-ai-itself-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jeff Dunham Artificial Intelligence Tour 2024 T Shirt All Size S to 5XL"><img src="{{ '/assets/images/marketplace-covers/a1ccd331f1398a1cc321.jpg' | relative_url }}" alt="Listing image for Jeff Dunham Artificial Intelligence Tour 2024 T Shirt All Size S to 5XL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-research-loop-when-ai-starts-improving-ai-itself-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jeff Dunham Artificial Intelligence Tour 2024 T Shirt All Size S to 5XL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-research-loop-when-ai-starts-improving-ai-itself-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence t shirt">Search <span data-ebay-domain-label>eBay.com</span>: artificial intelligence t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-research-loop-when-ai-starts-improving-ai-itself-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-research-loop-when-ai-starts-improving-ai-itself-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-research-loop-when-ai-starts-improving-ai-itself-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RoboCop ED-209 Resin Model Kit 1:45 Enforcement Droid 1987 Sci-Fi Display Figure"><img src="{{ '/assets/images/marketplace-covers/950450a2945041e0f684.jpg' | relative_url }}" alt="Listing image for RoboCop ED-209 Resin Model Kit 1:45 Enforcement Droid 1987 Sci-Fi Display Figure" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-research-loop-when-ai-starts-improving-ai-itself-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">RoboCop ED-209 Resin Model Kit 1:45 Enforcement Droid 1987 Sci-Fi Display Figure</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-research-loop-when-ai-starts-improving-ai-itself-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-research-loop-when-ai-starts-improving-ai-itself-ai-doom-and-robot-display-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-starts-improving-ai-itself-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="when-ai-starts-improving-ai-itself-robot-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -611,15 +526,15 @@ That does not mean such a loop will inevitably produce a FOOM. The evidence toda
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-research-loop-when-ai-starts-improving-ai-itself-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Short circuit number Johnny 5 robot model articulated Display Poseable Collect"><img src="{{ '/assets/images/marketplace-covers/37476ba08db9f6bf2b69.jpg' | relative_url }}" alt="Listing image for Short circuit number Johnny 5 robot model articulated Display Poseable Collect" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-starts-improving-ai-itself-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="when-ai-starts-improving-ai-itself-robot-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Karcher RCV 3 Robot Vacuum Cleaner - White - Ex Display Model"><img src="https://i.ebayimg.com/images/g/rN8AAeSweWFqKoq3/s-l225.jpg" alt="Listing image for Karcher RCV 3 Robot Vacuum Cleaner - White - Ex Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-research-loop-when-ai-starts-improving-ai-itself-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Short circuit number Johnny 5 robot model articulated Display Poseable Collect</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-starts-improving-ai-itself-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="when-ai-starts-improving-ai-itself-robot-display-model" target="_blank" rel="sponsored noopener noreferrer">Karcher RCV 3 Robot Vacuum Cleaner - White - Ex Display Model</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-research-loop-when-ai-starts-improving-ai-itself-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot display model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-starts-improving-ai-itself-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="when-ai-starts-improving-ai-itself-robot-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot display model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-research-loop-when-ai-starts-improving-ai-itself-ai-doom-and-robot-display-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-starts-improving-ai-itself-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="when-ai-starts-improving-ai-itself-robot-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -627,15 +542,15 @@ That does not mean such a loop will inevitably produce a FOOM. The evidence toda
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-research-loop-when-ai-starts-improving-ai-itself-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DR Who - The Mind Robber - White Robot - 28mm + display model sci-fi retro TV"><img src="{{ '/assets/images/marketplace-covers/cfeded4642e2e7e555e7.jpg' | relative_url }}" alt="Listing image for DR Who - The Mind Robber - White Robot - 28mm + display model sci-fi retro TV" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-starts-improving-ai-itself-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="when-ai-starts-improving-ai-itself-robot-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mecha Robot Skull Bust Building Blocks Set 1469 Pcs Sci-Fi Model Display Gift"><img src="https://i.ebayimg.com/images/g/5RcAAeSw96NqIU2H/s-l225.jpg" alt="Listing image for Mecha Robot Skull Bust Building Blocks Set 1469 Pcs Sci-Fi Model Display Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-research-loop-when-ai-starts-improving-ai-itself-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">DR Who - The Mind Robber - White Robot - 28mm + display model sci-fi retro TV</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-starts-improving-ai-itself-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="when-ai-starts-improving-ai-itself-robot-display-model" target="_blank" rel="sponsored noopener noreferrer">Mecha Robot Skull Bust Building Blocks Set 1469 Pcs Sci-Fi Model Display Gift</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-research-loop-when-ai-starts-improving-ai-itself-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot display model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-starts-improving-ai-itself-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="when-ai-starts-improving-ai-itself-robot-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot display model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-research-loop-when-ai-starts-improving-ai-itself-ai-doom-and-robot-display-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-starts-improving-ai-itself-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="when-ai-starts-improving-ai-itself-robot-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -643,15 +558,15 @@ That does not mean such a loop will inevitably produce a FOOM. The evidence toda
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-research-loop-when-ai-starts-improving-ai-itself-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mengshan 1/144 Mecha Robot Assembly Model Kit Collectible Display Toy"><img src="{{ '/assets/images/marketplace-covers/3c7f3f7475affbd6fb3e.jpg' | relative_url }}" alt="Listing image for Mengshan 1/144 Mecha Robot Assembly Model Kit Collectible Display Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-starts-improving-ai-itself-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="when-ai-starts-improving-ai-itself-robot-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mengshan 1/144 Mecha Robot Assembly Model Kit Collectible Display Toy"><img src="https://i.ebayimg.com/images/g/pnMAAeSwr9dp66mJ/s-l225.jpg" alt="Listing image for Mengshan 1/144 Mecha Robot Assembly Model Kit Collectible Display Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-research-loop-when-ai-starts-improving-ai-itself-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Mengshan 1/144 Mecha Robot Assembly Model Kit Collectible Display Toy</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-starts-improving-ai-itself-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="when-ai-starts-improving-ai-itself-robot-display-model" target="_blank" rel="sponsored noopener noreferrer">Mengshan 1/144 Mecha Robot Assembly Model Kit Collectible Display Toy</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-research-loop-when-ai-starts-improving-ai-itself-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot display model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-starts-improving-ai-itself-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="when-ai-starts-improving-ai-itself-robot-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot display model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-research-loop-when-ai-starts-improving-ai-itself-ai-doom-and-robot-display-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-starts-improving-ai-itself-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="when-ai-starts-improving-ai-itself-robot-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -659,7 +574,7 @@ That does not mean such a loop will inevitably produce a FOOM. The evidence toda
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-research-loop-when-ai-starts-improving-ai-itself-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-starts-improving-ai-itself-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="when-ai-starts-improving-ai-itself-robot-display-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -736,17 +651,31 @@ That does not mean such a loop will inevitably produce a FOOM. The evidence toda
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -759,42 +688,73 @@ That does not mean such a loop will inevitably produce a FOOM. The evidence toda
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -809,12 +769,17 @@ That does not mean such a loop will inevitably produce a FOOM. The evidence toda
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>

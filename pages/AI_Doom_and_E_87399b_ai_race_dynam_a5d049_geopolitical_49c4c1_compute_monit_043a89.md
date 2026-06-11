@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /geopolitics/
 nav_short_title: Compute Checks
 title: Can compute checks make AI restraint credible?
-title_full: Can compute checks make AI restraint credible? | Geopolitics
+title_full: Can compute checks make AI restraint credible?
 display_title_short: Compute Checks
 display_title: Compute Checks
 heading_title: Can compute checks make AI restraint credible?
@@ -204,7 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 18:57:07'
-parent_title: Can Countries Slow Down Without Falling Behind? | Race Pressure
+parent_title: Can Countries Slow Down Without Falling Behind?
 parent_permalink: /geopolitics/
 parent_nav_short_title: Geopolitics
 parent_heading_title: Can Countries Slow Down Without Falling Behind?
@@ -277,7 +277,6 @@ image: /assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c
 
 Can compute checks make AI restraint credible? Possibly—but only if they work well enough to convince governments and companies that rivals are not secretly racing ahead.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1_compute_monit_043a89-Illustration-1-dark.svg" | relative_url }}" alt="Compute Checks illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1_compute_monit_043a89-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1_compute_monit_043a89-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within AI doom and existential-risk debates, one of the biggest concerns is that even leaders who take [catastrophic]({{ 'misuse/' | relative_url }}) AI risks seriously may feel unable to slow down if they suspect competitors will continue developing more powerful systems. Compute [monitoring]({{ 'monitoring/' | relative_url }}) is an attempt to solve that problem. The basic idea is that frontier AI development depends on enormous amounts of specialised computing power, particularly advanced AI chips and large training clusters. If those resources can be tracked, then agreements to limit or delay the most dangerous AI development become more verifiable and therefore more politically plausible. The proposal is often discussed as a practical test of whether international AI restraint is technically enforceable rather than merely aspirational. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.engine.is/news/category/ai-essentials-what-is-compute-and-how-is-it-measured" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: engine.is">[ENGINE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">engine.is</span><span class="citation-popover-title">ai essentials what is compute and how is it measured</span><span class="citation-popover-snippet">AI Essentials: What is compute and how is it measured?24 Oct 2024 — Compute refers to the hardware resources that make AI models wo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://futureoflife.org/wp-content/uploads/2025/07/Belfield-Domestic-frontier-AI-regulation-an-IAEA-for-AI-an-NPT-for-AI-and-a-US-led-Allied-Public-Private-Partnership-for-AI-Four-institutions-for-governing-and-developing-frontier-AI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: futureoflife.org">[Future]</a><span class="citation-popover" role="note"><span class="citation-popover-source">futureoflife.org</span><span class="citation-popover-snippet">Future of Life InstituteDomestic frontier AI regulation, an IAEA for AI, an NPT for...by H Belfield · 2024 · Cited by 2 — This paper tak...</span></span></span> of Life Institute
 
@@ -292,7 +291,6 @@ Training the largest AI models requires vast quantities of specialised computing
 For AI doom advocates, this matters because many loss-of-control scenarios involve systems developed near the technological frontier. If governments could reliably observe when organisations are assembling the computing resources needed for frontier training runs, they might be able to enforce licensing regimes, mandatory evaluations, temporary pauses, or international agreements limiting the development of especially powerful systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://futureoflife.org/wp-content/uploads/2025/07/Belfield-Domestic-frontier-AI-regulation-an-IAEA-for-AI-an-NPT-for-AI-and-a-US-led-Allied-Public-Private-Partnership-for-AI-Four-institutions-for-governing-and-developing-frontier-AI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: futureoflife.org">[Future of Life Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">futureoflife.org</span><span class="citation-popover-snippet">Future of Life InstituteDomestic frontier AI regulation, an IAEA for AI, an NPT for...by H Belfield · 2024 · Cited by 2 — This paper tak...</span></span></span>
 
 This is why compute monitoring is often presented as a more practical governance target than monitoring algorithms or research ideas. You can hide a new machine-learning technique in a notebook. It is much harder to hide thousands of advanced AI chips operating at scale.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wEEZPpx8qow" title="Inside Anthropic&#x27;s $100 Billion Al Compute Commitment | CFO Krishna Rao" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wEEZPpx8qow" target="_blank" rel="noopener noreferrer">Inside Anthropic&#x27;s $100 Billion Al Compute Commitment | CFO Krishna Rao</a></p><p class="youtube-embed-meta">Channel: Invest Like The Best &middot; Views: 78.2K &middot; Uploaded: May 2026 &middot; Length: 1 hour 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wEEZPpx8qow" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wEEZPpx8qow">Open on YouTube</a></p></div></div></div>
 
@@ -310,7 +308,6 @@ Potential monitoring approaches include:
 
 Importantly, these mechanisms do not need to identify every AI project. Their goal is to detect the handful of projects large enough to train frontier models that might significantly affect p(doom) estimates or global strategic balances.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2VlXhGottLw" title="Inside The Second Int&#x27;l AI Safety Report with Stephen Clare &amp; Stephen Casper | The AI Policy Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2VlXhGottLw" target="_blank" rel="noopener noreferrer">Inside The Second Int&#x27;l AI Safety Report with Stephen Clare &amp; Stephen Casper | The AI Policy Podcast</a></p><p class="youtube-embed-meta">Channel: Center for Strategic &amp; International Studies &middot; Views: 2.6K &middot; Uploaded: February 2026 &middot; Length: 1 hour 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2VlXhGottLw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2VlXhGottLw">Open on YouTube</a></p></div></div></div>
 
 ## Why some researchers see compute checks as unusually promising
@@ -324,7 +321,6 @@ Verification changes that calculation. If a state can observe whether competitor
 This logic resembles parts of nuclear arms-control history. The objective is not perfect certainty. Rather, it is creating enough transparency that large-scale violations are likely to be noticed and therefore become politically costly.
 
 Some researchers argue that AI may actually be easier to monitor than nuclear programmes in certain respects because advanced AI development currently depends on a highly concentrated semiconductor ecosystem. Advanced fabrication relies on a small number of firms and facilities, making large-scale clandestine expansion difficult compared with technologies that can be produced in many locations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2511.10783v3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">export controls that have focused on AI chips... Monitoring and verification of AI chips is feasible in...Read more...</span></span></span>
-
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1_compute_monit_043a89-Illustration-2-dark.svg" | relative_url }}" alt="Compute Checks illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1_compute_monit_043a89-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1_compute_monit_043a89-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where verification could fail
@@ -343,7 +339,6 @@ Another concern is that organisations may rent compute remotely rather than owni
 
 From a verification perspective, remote access blurs the distinction between where hardware is located and who is actually using it.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/K-U2fZgPSTQ" title="Sen. Sanders joins top US &amp; Chinese scientists on AI&#x27;s risks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=K-U2fZgPSTQ" target="_blank" rel="noopener noreferrer">Sen. Sanders joins top US &amp; Chinese scientists on AI&#x27;s risks</a></p><p class="youtube-embed-meta">Channel: CNN &middot; Views: 31.4K &middot; Uploaded: April 2026 &middot; Length: 58 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=K-U2fZgPSTQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=K-U2fZgPSTQ">Open on YouTube</a></p></div></div></div>
 
 ### Smuggling and diversion
@@ -359,7 +354,6 @@ Perhaps the most important long-term challenge is that AI progress does not depe
 The success of systems such as DeepSeek strengthened arguments that algorithmic improvements can substantially alter compute requirements. While frontier AI still depends heavily on advanced hardware, improvements in efficiency may complicate efforts to infer capability levels from compute use alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.csis.org/analysis/deepseek-huawei-export-controls-and-future-us-china-ai-race" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csis.org">[CSIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csis.org</span><span class="citation-popover-title">deepseek huawei export controls and future us china ai race</span><span class="citation-popover-snippet">DeepSeek, Huawei, Export Controls, and the Future of...7 Mar 2025 — In Gregory C. Allen&#x27;s latest report, he examines DeepSeek&#x27;s orig...</span></span></span>
 
 For doom-oriented analyses, this means that compute monitoring may need to evolve alongside technical progress rather than relying on fixed thresholds.
-
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1_compute_monit_043a89-Illustration-3-dark.svg" | relative_url }}" alt="Compute Checks illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1_compute_monit_043a89-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1_compute_monit_043a89-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What success would actually look like

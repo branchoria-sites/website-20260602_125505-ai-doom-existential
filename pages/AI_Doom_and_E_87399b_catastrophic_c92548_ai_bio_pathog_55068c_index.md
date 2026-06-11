@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-catastrophic/
 description: Focused pages that expand on Bio Threat AI.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c
-parent_title: Bio Threat AI | Misuse
+parent_title: Bio Threat AI
 parent_nav_short_title: Bio Threat AI
 parent_permalink: /bio-threat-ai/
 ---

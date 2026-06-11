@@ -30,7 +30,7 @@ sidebar_expanded_urls:
 - /race-pressure/
 nav_short_title: Geopolitics
 title: Can Countries Slow Down Without Falling Behind?
-title_full: Can Countries Slow Down Without Falling Behind? | Race Pressure
+title_full: Can Countries Slow Down Without Falling Behind?
 display_title_short: Geopolitics
 display_title: Geopolitics
 heading_title: Can Countries Slow Down Without Falling Behind?
@@ -206,7 +206,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 18:55:45'
-parent_title: Why AI Races Can Make Safety Harder | AI Doom
+parent_title: Why AI Races Can Make Safety Harder
 parent_permalink: /race-pressure/
 parent_nav_short_title: Race Pressure
 parent_heading_title: Why AI Races Can Make Safety Harder
@@ -290,7 +290,6 @@ image: /assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c
 
 A recurring concern in debates about AI doom is that even if governments recognise serious risks from advanced AI, they may still struggle to slow development. The reason is geopolitical competition. If political leaders believe that advanced AI could determine future economic strength, military capability, intelligence gathering, cyber power, or global influence, they may fear that strict safety measures would simply hand an advantage to rival states.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1-Illustration-1-dark.svg" | relative_url }}" alt="Geopolitics illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This creates a central dilemma. Many AI safety advocates argue that the most powerful systems should be tested, monitored, and perhaps developed more slowly than market or strategic pressures would otherwise allow. Yet governments often view AI as a strategic technology comparable to previous transformative technologies whose control affected national power. In that environment, calls for caution can be interpreted as calls to fall behind. For researchers concerned about existential risk, this geopolitical dynamic is not a side issue but one of the main reasons why potentially dangerous systems might be deployed before they are fully understood. RAND Corporation <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.governance.ai/International_Races_for_Risky_Technologies_DRAFT_NOV_2022.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.governance.ai">[Governance AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.governance.ai</span><span class="citation-popover-title">International Races for Risky Technologies DRAFT NOV 2022</span><span class="citation-popover-snippet">Governance AIInternational Races for Risky Technologiesby E Stafford · 2022 · Cited by 3 — We examine how three factors influence their w...</span></span></span>
 
@@ -321,7 +320,6 @@ Researchers studying technology races have modelled similar situations. Competit
 
 Within AI doom discussions, this dynamic is often described as a coordination problem. Humanity as a whole may prefer careful development, but individual states may perceive pressure to accelerate.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MtvH0ArqC4k" title="Nvidia CEO Jensen Huang on AI race vs. China: Overall we&#x27;re not far ahead" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MtvH0ArqC4k" target="_blank" rel="noopener noreferrer">Nvidia CEO Jensen Huang on AI race vs. China: Overall we&#x27;re not far ahead</a></p><p class="youtube-embed-meta">Channel: CNBC Television &middot; Views: 289.9K &middot; Uploaded: October 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MtvH0ArqC4k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MtvH0ArqC4k">Open on YouTube</a></p></div></div></div>
 
 ### Why This Matters for Existential Risk Arguments
@@ -346,7 +344,6 @@ However, sceptics of this optimistic view note that declarations are easier than
 
 This creates an unresolved tension: cooperation exists, but so does competition.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1-Illustration-2-dark.svg" | relative_url }}" alt="Geopolitics illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Strongest Objections to the Safety Slowdown Fear
 
@@ -359,7 +356,6 @@ Another objection is that slowing down development might itself create risks. So
 A third objection concerns feasibility. Critics argue that large-scale international coordination may be unrealistic, especially if many countries and private actors possess the necessary expertise and computing resources. If coordination cannot be achieved, some argue that focusing on technical safety measures may be more productive than pursuing global slowdowns.
 
 These objections do not eliminate the race-dynamics concern, but they highlight why the debate remains unsettled. The question is not simply whether competition exists. It is whether competition meaningfully increases the probability of losing control of advanced AI systems. RAND Corporation <span class="citation-chip-wrap"><a class="citation-chip" href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internationalaisafetyreport.org">[International AI Safety Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internationalaisafetyreport.org</span><span class="citation-popover-title">international ai safety report 2026</span><span class="citation-popover-snippet">International AI Safety ReportInternational AI Safety Report 20263 Feb 2026 — This Report assesses what general-purpose AI systems can do...</span></span></span>
-
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1-Illustration-3-dark.svg" | relative_url }}" alt="Geopolitics illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Credible International Coordination Would Require
@@ -378,7 +374,6 @@ Several proposals recur:
 
 **[Independent]({{ 'red-teaming/' | relative_url }}) safety institutes.** National AI Safety Institutes could provide technical expertise while also contributing to international standards and evaluations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2508.13700" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The AI Risk Spectrum: From Dangerous Capabilities to Existential Threats</span><span class="citation-popover-snippet">arXiv The AI Risk Spectrum: From Dangerous Capabilities to Existential Threats</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2023/11/03/uk-safety-summit-ai-global-musk-altman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Global leaders commit to pre-deployment AI safety testing</span><span class="citation-popover-snippet">This coalition intends to establish common protocols for AI safety at the new London-based AI Safety Institute, which will serve as a glo...</span></span></span> The most ambitious proposals involve forms of compute governance or international oversight for frontier systems. Supporters argue that the largest and most capable models depend on unusually scarce resources, creating opportunities for monitoring and coordination. Critics question whether major powers would ever accept sufficiently intrusive arrangements.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/55Gy_umZOXc" title="The Bletchley Declaration from AI Safety Summit 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=55Gy_umZOXc" target="_blank" rel="noopener noreferrer">The Bletchley Declaration from AI Safety Summit 2023</a></p><p class="youtube-embed-meta">Channel: Rob Miles&#x27; Reading List &middot; Views: 736 &middot; Uploaded: May 2024 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=55Gy_umZOXc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=55Gy_umZOXc">Open on YouTube</a></p></div></div></div>
 
 ## What This Means for p(doom)
@@ -391,9 +386,7 @@ Conversely, many lower p(doom) estimates implicitly assume that governments, com
 
 The question "Can countries slow down without falling behind?" therefore sits near the centre of the wider AI-risk debate. If the answer is no, competitive pressures could continually push the world toward earlier deployment of increasingly capable systems. If the answer is yes, then international cooperation may become one of the most important tools for reducing existential risk from advanced AI. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.governance.ai/International_Races_for_Risky_Technologies_DRAFT_NOV_2022.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.governance.ai">[Governance AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.governance.ai</span><span class="citation-popover-title">International Races for Risky Technologies DRAFT NOV 2022</span><span class="citation-popover-snippet">Governance AIInternational Races for Risky Technologiesby E Stafford · 2022 · Cited by 3 — We examine how three factors influence their w...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rand.org/pubs/perspectives/PEA4155-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-title">PEA4155 1</span><span class="citation-popover-snippet">RAND CorporationThe Artificial General Intelligence Race and International...24 Sept 2025 — The authors contend with whether the greates...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UgDEyQ1h-EA" title="bUt wE cAn&quot;T lEt cHinA WiN tHe AI aRmS rAcE!!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UgDEyQ1h-EA" target="_blank" rel="noopener noreferrer">bUt wE cAn&quot;T lEt cHinA WiN tHe AI aRmS rAcE!!</a></p><p class="youtube-embed-meta">Channel: How Money Works &middot; Views: 423.5K &middot; Uploaded: May 2026 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UgDEyQ1h-EA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UgDEyQ1h-EA">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

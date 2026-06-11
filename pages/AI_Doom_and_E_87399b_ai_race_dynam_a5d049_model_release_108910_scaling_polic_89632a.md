@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /release-races/
 nav_short_title: Scaling rules
 title: Can lab safety promises survive launch races?
-title_full: Can lab safety promises survive launch races? | Release Races
+title_full: Can lab safety promises survive launch races?
 display_title_short: Scaling rules
 display_title: Scaling rules
 heading_title: Can lab safety promises survive launch races?
@@ -204,7 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 18:55:19'
-parent_title: Do AI Launch Races Weaken Safety Checks? | Race Pressure
+parent_title: Do AI Launch Races Weaken Safety Checks?
 parent_permalink: /release-races/
 parent_nav_short_title: Release Races
 parent_heading_title: Do AI Launch Races Weaken Safety Checks?
@@ -271,7 +271,6 @@ image: /assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_model_release_10
 
 Can lab safety promises survive AI launch races? The answer is: possibly, but only under limited conditions. Responsible scaling policies (RSPs) and related frontier safety frameworks were created partly to address a central AI doom concern: that competition between leading labs could push increasingly powerful systems into deployment before their risks are properly understood. These policies attempt to pre-commit organisations to specific safety actions when models reach defined [capability thresholds]({{ 'capability-thresholds/' | relative_url }}). Instead of asking executives to make difficult judgement calls under competitive pressure, the idea is to establish rules in advance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-snippet">Anthropic&#x27;s Responsible Scaling PolicyIn our Responsible Scaling Policy, reaching certain Capability Thresholds requires us to u...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_model_release_108910_scaling_polic_89632a-Illustration-1-dark.svg" | relative_url }}" alt="Scaling rules illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_model_release_108910_scaling_polic_89632a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_model_release_108910_scaling_polic_89632a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Whether this works in practice remains disputed. Supporters argue that predefined thresholds, external scrutiny, and public commitments can make it harder to cut corners. Critics reply that voluntary promises are most likely to weaken precisely when competitive pressure becomes strongest. The recent evolution of frontier-lab safety frameworks has become a real-world test of that concern. Anthropic <span class="citation-chip-wrap"><a class="citation-chip" href="https://openai.com/index/updating-our-preparedness-framework/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: OpenAI">[OpenAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">OpenAI</span><span class="citation-popover-title">updating our preparedness framework</span><span class="citation-popover-snippet">comOur updated Preparedness Framework15 Apr 2025 — Sharing our updated framework for measuring and protecting against severe harm from fr...</span></span></span>
 
@@ -288,7 +287,6 @@ Several frontier developers have adopted versions of this idea.
 For people worried about AI doom, the attraction is clear. Launch races create incentives to move quickly. A policy that commits a lab in advance to specific actions can act as a brake. If a model appears capable of dangerous autonomous cyber activity, advanced biological assistance, or other catastrophic-risk behaviours, deployment would theoretically be delayed regardless of commercial incentives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">risk taxonomy and thresholds</span><span class="citation-popover-snippet">Frontier AI frameworks outline methodologies for identifying, managing and mitigating the potential for large-scale risks...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">risk taxonomy and thresholds</span><span class="citation-popover-snippet">Frontier AI frameworks outline methodologies for identifying, managing and mitigating the potential for large-scale risks...Read more...</span></span></span>
 
 In effect, responsible scaling policies try to convert safety from a discretionary choice into an organisational obligation.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9V6tWC4CdFQ" title="Sundar Pichai: CEO of Google and Alphabet | Lex Fridman Podcast #471" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9V6tWC4CdFQ" target="_blank" rel="noopener noreferrer">Sundar Pichai: CEO of Google and Alphabet | Lex Fridman Podcast #471</a></p><p class="youtube-embed-meta">Channel: Lex Fridman &middot; Views: 1.1M &middot; Uploaded: June 2025 &middot; Length: 2 hours 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9V6tWC4CdFQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9V6tWC4CdFQ">Open on YouTube</a></p></div></div></div>
 
@@ -310,7 +308,6 @@ Several features are intended to strengthen resistance to launch pressure:
 
 From a doom-focused perspective, these mechanisms matter because many catastrophic-risk scenarios involve organisations gradually normalising risk-taking as capabilities advance. Formal commitments are intended to make that drift more difficult.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DUfSl2fZ_E8" title="What OpenAI Doesn’t Want You to Know" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DUfSl2fZ_E8" target="_blank" rel="noopener noreferrer">What OpenAI Doesn’t Want You to Know</a></p><p class="youtube-embed-meta">Channel: More Perfect Union &middot; Views: 1.2M &middot; Uploaded: July 2025 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DUfSl2fZ_E8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DUfSl2fZ_E8">Open on YouTube</a></p></div></div></div>
 
 ## Where voluntary commitments can bend under pressure
@@ -322,7 +319,6 @@ This concern has become more prominent because some frontier safety frameworks h
 Supporters of the change argue that adapting frameworks to reality is sensible and that transparency requirements can still improve safety. Critics see the revision as evidence of the underlying problem: when competitive incentives intensify, voluntary commitments may be rewritten rather than enforced. Anthropic <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/anthropic-changing-safety-policy-2026-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-title">anthropic changing safety policy 2026 2</span><span class="citation-popover-snippet">The company will no longer unilaterally pause or delay new AI model deployments when safety mechanisms lag, citing increased competition...</span></span></span>
 
 This is one of the central disputes within AI doom discussions. Skeptics of voluntary governance argue that launch races create a collective-action problem:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -337,7 +333,6 @@ Under those conditions, the temptation to weaken commitments can become substant
 
 The concern is not necessarily deliberate bad faith. Rather, the same organisation that sincerely creates a safety framework may later conclude that strict adherence is no longer practical.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_model_release_108910_scaling_polic_89632a-Illustration-2-dark.svg" | relative_url }}" alt="Scaling rules illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_model_release_108910_scaling_polic_89632a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_model_release_108910_scaling_polic_89632a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The deeper problem: who decides that a threshold has been crossed?
 
@@ -350,7 +345,6 @@ This creates a subtle vulnerability.
 If threshold assessments depend largely on internal testing, then the organisation may retain substantial discretion over whether a model is considered dangerous enough to trigger stronger requirements. Even a well-intentioned lab may face [uncertainty]({{ 'uncertainty/' | relative_url }}), ambiguous evidence, or disagreement among experts.
 
 For AI doom researchers concerned about deception, scheming, or [loss of control]({{ 'loss-of-control/' | relative_url }}), this uncertainty is especially important. A framework is only as strong as the evaluations that determine when its safeguards activate. If dangerous capabilities are under-detected, the policy may appear rigorous while failing to constrain genuinely risky systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iaps.ai/research/evaluation-awareness-why-frontier-ai-models-are-getting-harder-to-test" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iaps.ai">[Institute for AI Policy and Strategy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iaps.ai</span><span class="citation-popover-title">evaluation awareness why frontier ai models are getting harder to test</span><span class="citation-popover-snippet">Institute for AI Policy and StrategyEvaluation Awareness: Why Frontier AI Models Are Getting...31 Mar 2026 — If a capability evaluation...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JILSzhssMsk" title="Anthropic Vs. OpenAI: How Safety Became The Advantage In AI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JILSzhssMsk" target="_blank" rel="noopener noreferrer">Anthropic Vs. OpenAI: How Safety Became The Advantage In AI</a></p><p class="youtube-embed-meta">Channel: CNBC &middot; Views: 258.3K &middot; Uploaded: January 2026 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JILSzhssMsk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JILSzhssMsk">Open on YouTube</a></p></div></div></div>
 
@@ -371,7 +365,6 @@ Several additions are commonly proposed:
 **Regulatory backing.** Some researchers argue that the strongest safeguards require legal obligations rather than voluntary promises. In this view, responsible scaling policies are valuable prototypes but cannot solve coordination problems on their own. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alignmentforum.org/posts/dxgEaDrEBkkE96CXr/thoughts-on-responsible-scaling-policies-and-regulation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alignmentforum.org">[alignmentforum.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alignmentforum.org</span><span class="citation-popover-title">thoughts on responsible scaling policies and regulation</span><span class="citation-popover-snippet">Voluntary commitments are unlikely to be...Read more...</span></span></span>
 
 The underlying goal is to move from "a company promises to be careful" toward systems where breaking safety commitments carries meaningful costs.
-
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_model_release_108910_scaling_polic_89632a-Illustration-3-dark.svg" | relative_url }}" alt="Scaling rules illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_model_release_108910_scaling_polic_89632a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_model_release_108910_scaling_polic_89632a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What this means for AI doom arguments
@@ -775,6 +768,7 @@ For readers concerned about AI doom and p(doom), that distinction matters. Respo
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /safety-checks/
 nav_short_title: Pre Training Risks
 title: How Pre Training Hazard Modelling Aims to Prevent Catastrophic AI Risks
-title_full: How Pre Training Hazard Modelling Aims to Prevent Catastrophic AI Risks | Safety Checks
+title_full: How Pre Training Hazard Modelling Aims to Prevent Catastrophic AI Risks
 display_title_short: Pre Training Risks
 display_title: Pre Training Risks
 heading_title: How Pre Training Hazard Modelling Aims to Prevent Catastrophic AI Risks
@@ -204,7 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-02 12:17:43'
-parent_title: Should Frontier Models Pass Safety Checks First? | Governance
+parent_title: Should Frontier Models Pass Safety Checks First?
 parent_permalink: /safety-checks/
 parent_nav_short_title: Safety Checks
 parent_heading_title: Should Frontier Models Pass Safety Checks First?
@@ -271,7 +271,6 @@ image: /assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b
 
 In the context of AI systems that could one day pose existential dangers—through [loss of control]({{ 'loss-of-control/' | relative_url }}), deceptive behaviour, or autonomous pursuit of unintended goals—developers and regulators are increasingly talking about **pre‑training hazard modelling**. This term refers to the structured analysis and forecasting that happens *before* a major training run of a powerful AI model begins: identifying the extreme risks that such a run might produce and planning protections or limits in advance. In contrast to testing only after a system is built, pre‑training hazard modelling is about asking *what could go wrong if this model becomes more capable than expected?* and *how do we mitigate those hazards before it exists?* This proactive approach aims to catch [catastrophic]({{ 'misuse/' | relative_url }}) dangers early, and is a central part of proposals for mandatory safety evaluations that could be required before training large AI systems.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1_pre_training_b6a05c-Illustration-1-dark.svg" | relative_url }}" alt="Pre Training Risks illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1_pre_training_b6a05c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1_pre_training_b6a05c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Threat identification for high‑severity AI capabilities
 
@@ -285,7 +284,6 @@ Common hazard domains flagged by frontier safety frameworks include: <span class
 * **Strategic deception**, where models could behave differently when being evaluated versus in deployment or misuse scenarios (sometimes called “scheming” in risk literature). <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2411.03336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Towards evaluations-based safety cases for AI scheming</span><span class="citation-popover-snippet">Towards evaluations-based safety cases for AI schemingOctober 29, 2024...</span><span class="citation-popover-meta">Published: October 29, 2024</span></span></span>
 
 In well‑developed frameworks, threat identification is not a casual brainstorm but a systematic analysis that moves from *broad scenarios* (e.g., “AI could accelerate misuse of bioengineering”) to *specific pathways* linking a future model’s capabilities to measurable harms. This can include conceptually isolating “precursory capabilities”—smaller skills that a model must possess before it can unlock more dangerous behaviours—to give early [warning signs]({{ 'warning-signs/' | relative_url }}) and more manageable assessment points. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apolloresearch.ai/research/precursory-capabilities-a-refinement-to-pre-deployment-information-sharing-and-tripwire-capabilities" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apolloresearch.ai">[Apollo Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apolloresearch.ai</span><span class="citation-popover-snippet">Apollo ResearchPrecursory Capabilities: A Refinement to Pre-deployment Information Sharing and Tripwire Capabilities – Apollo ResearchJun...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/R49Cv7pJ2KA" title="Keynote | Threat Modeling Agentic AI Systems: Proactive Strategies for Security and Resilience" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=R49Cv7pJ2KA" target="_blank" rel="noopener noreferrer">Keynote | Threat Modeling Agentic AI Systems: Proactive Strategies for Security and Resilience</a></p><p class="youtube-embed-meta">Channel: SANS Institute &middot; Views: 10.0K &middot; Uploaded: May 2025 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=R49Cv7pJ2KA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=R49Cv7pJ2KA">Open on YouTube</a></p></div></div></div>
 
@@ -301,7 +299,6 @@ Approaches adapted from systems engineering include:
 
 These methods aim to balance *likelihood* (how probable it is that a future model would develop a particular dangerous capability) with *impact* (how large the harm would be if that capability materialised). Because frontier AI risk is about unprecedented scale and potential irreversibility, even low‑probability, high‑impact pathways are taken seriously in these models.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1_pre_training_b6a05c-Illustration-2-dark.svg" | relative_url }}" alt="Pre Training Risks illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1_pre_training_b6a05c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1_pre_training_b6a05c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Designing mitigation strategies before training begins
 
@@ -316,9 +313,7 @@ Mitigation strategies that can be shaped pre‑training include:
 
 In advanced safety proposals, these mitigations are not static; they evolve. Training forecasts can be updated with new evidence from predecessor models, red‑teaming, and continuous evaluation pipelines so that as understanding grows, the mitigation strategies adjust accordingly.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/n5h1GNvzqIg" title="Anthropic’s Plan to Stop AI Bioweapons &amp; Autonomous Misuse" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=n5h1GNvzqIg" target="_blank" rel="noopener noreferrer">Anthropic’s Plan to Stop AI Bioweapons &amp; Autonomous Misuse</a></p><p class="youtube-embed-meta">Channel: AGI Is Living Intelligence &middot; Views: 43 &middot; Uploaded: February 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=n5h1GNvzqIg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=n5h1GNvzqIg">Open on YouTube</a></p></div></div></div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2Tn5gy1Fuwg" title="&quot;Extinction from AI&quot; – The FULL explanation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2Tn5gy1Fuwg" target="_blank" rel="noopener noreferrer">&quot;Extinction from AI&quot; – The FULL explanation</a></p><p class="youtube-embed-meta">Channel: An Inconvenient Doom &middot; Views: 1.5K &middot; Uploaded: October 2024 &middot; Length: 1 hour 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2Tn5gy1Fuwg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2Tn5gy1Fuwg">Open on YouTube</a></p></div></div></div>
 
@@ -327,7 +322,6 @@ In advanced safety proposals, these mitigations are not static; they evolve. Tra
 From an AI doom perspective, the very idea of pre‑training hazard modelling reflects a shift from reactive to *anticipatory* risk management. Rather than testing only after a model exists—by which point highly capable behaviours might already be baked in—this modelling tries to forecast extreme risks, estimate where they might arise, and tie them to preventative action. In debates about mandatory frontier AI evaluations, this anticipatory modelling forms the backbone of arguments that powerful AI systems should not be trained without first demonstrating that critical hazards have been analysed and mitigated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">www.gov.uk Frontier AI: capabilities and risks – discussion paper</span><span class="citation-popover-snippet">Introduction 2. What is the current state of frontier AI capabilities? 3. How might frontier AI capabilitie...</span></span></span>
 
 Because frontier AI risk involves significant uncertainty and unprecedented capabilities, pre‑training hazard modelling does not claim exact predictions. But by combining structured threat frameworks, expert judgement, and evidence from analogue safety domains, it gives developers and regulators a way to move from vague fears about future dangers to concrete checkpoints and mitigation strategies before the most powerful AI systems are ever trained.
-
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1_pre_training_b6a05c-Illustration-3-dark.svg" | relative_url }}" alt="Pre Training Risks illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1_pre_training_b6a05c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1_pre_training_b6a05c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 

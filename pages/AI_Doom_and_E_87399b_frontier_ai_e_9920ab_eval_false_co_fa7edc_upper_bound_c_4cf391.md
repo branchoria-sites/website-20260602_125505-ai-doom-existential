@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /false-comfort/
 nav_short_title: Upper Bound Limits
 title: Why AI Tests Can't Guarantee Absence of Dangerous Abilities
-title_full: Why AI Tests Can't Guarantee Absence of Dangerous Abilities | False comfort
+title_full: Why AI Tests Can't Guarantee Absence of Dangerous Abilities
 display_title_short: Upper Bound Limits
 display_title: Upper Bound Limits
 heading_title: Why AI Tests Can't Guarantee Absence of Dangerous Abilities
@@ -204,7 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 21:16:54'
-parent_title: Can frontier evals give false comfort? | Evals
+parent_title: Can frontier evals give false comfort?
 parent_permalink: /false-comfort/
 parent_nav_short_title: False comfort
 parent_heading_title: Can frontier evals give false comfort?
@@ -271,7 +271,6 @@ image: /assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_eval_false_co_fa
 
 One of the most important limitations of [AI evaluations]({{ 'ai-evaluations/' | relative_url }}) is that they can usually establish a **lower bound** on capability but rarely a trustworthy **upper bound**. In plain language, a successful test shows that a model can do at least that much. A failed test does not reliably show what the model cannot do. This distinction matters because many AI doom and existential-risk arguments depend on the possibility that dangerous capabilities could emerge before evaluators fully recognise them.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_eval_false_co_fa7edc_upper_bound_c_4cf391-Illustration-1-dark.svg" | relative_url }}" alt="Upper Bound Limits illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_eval_false_co_fa7edc_upper_bound_c_4cf391-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_eval_false_co_fa7edc_upper_bound_c_4cf391-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Researchers working on frontier-model [evaluations]({{ 'evaluations/' | relative_url }}) increasingly emphasise this point. Current evaluation methods can often demonstrate that a model possesses a concerning capability, but they struggle to prove that a model lacks one. Several recent analyses argue that establishing reliable upper bounds on dangerous capabilities may be fundamentally difficult within the current evaluation paradigm. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2412.08653v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">What AI evaluations for preventing catastrophic risks can...26 Nov 2024 — These include an inability to establish upper bounds on c...</span></span></span>
 
@@ -287,7 +286,6 @@ When evaluating frontier AI systems, it is useful to distinguish between two dif
 The first claim is often testable. If a model repeatedly succeeds at sophisticated cyber-security tasks, strategic persuasion exercises, or autonomous planning challenges, evaluators have evidence that those abilities exist. Dangerous-capability evaluations are largely designed around this logic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2412.08653v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">What AI evaluations for preventing catastrophic risks can...26 Nov 2024 — These include an inability to establish upper bounds on c...</span></span></span>
 
 The second claim is much harder. A model may fail a benchmark because:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -310,7 +308,6 @@ A central problem is that AI performance is highly sensitive to how a task is pr
 The same model may perform poorly when given a simple prompt but perform dramatically better when supplied with better instructions, examples, external tools, longer reasoning chains, or specialised software. Researchers often refer to this as a capability-elicitation problem. The challenge is not merely measuring what the model does by default, but discovering what it can do when pushed toward its limits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/391658467_Safety_by_Measurement_A_Systematic_Literature_Review_of_AI_Safety_Evaluation_Methods" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">do when pushed to their limits through techniques like</span><span class="citation-popover-snippet">A Systematic Literature Review of AI Safety Evaluation...May 8, 2025 — 8 May 2025 — Dangerous capabilities evaluations estab...</span><span class="citation-popover-meta">Published: May 8, 2025</span></span></span>
 
 For AI-doom discussions, this matters because existential-risk scenarios generally concern maximum capability rather than average capability. A system that occasionally reaches a dangerous performance threshold may still create significant risk even if its typical performance appears weaker.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6e_LgAu_QIw" title="How Google DeepMind Tests AI Before It Goes Wrong" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6e_LgAu_QIw" target="_blank" rel="noopener noreferrer">How Google DeepMind Tests AI Before It Goes Wrong</a></p><p class="youtube-embed-meta">Channel: CNBC International &middot; Views: 4.4K &middot; Uploaded: January 2026 &middot; Length: 44 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6e_LgAu_QIw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6e_LgAu_QIw">Open on YouTube</a></p></div></div></div>
 
@@ -336,7 +333,6 @@ For existential-risk discussions, the key concern is not whether a model can sol
 
 Several possibilities are frequently discussed:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Long-horizon planning abilities that emerge only in complex environments.
@@ -352,7 +348,6 @@ Google DeepMind's dangerous-capability evaluation programme explicitly notes tha
 This distinction is important. Researchers are not generally claiming that hidden catastrophic capabilities have already been proven. Rather, they argue that existing tests may not be strong enough to rule them out with high confidence.
 
 In other words, the uncertainty itself becomes part of the risk assessment.
-
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_eval_false_co_fa7edc_upper_bound_c_4cf391-Illustration-2-dark.svg" | relative_url }}" alt="Upper Bound Limits illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_eval_false_co_fa7edc_upper_bound_c_4cf391-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_eval_false_co_fa7edc_upper_bound_c_4cf391-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Evaluation Awareness Makes Upper Bounds Even Harder
@@ -377,7 +372,6 @@ AI researchers point to similar patterns in modern models. Capabilities that app
 
 This does not prove that frontier models possess undiscovered catastrophic abilities. It does demonstrate that capability measurement is often sensitive to evaluation design, making strong upper-bound claims difficult to justify.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZTmRT2Hg1oM" title="DeepMind frontier safety | Mary Phuong | EAG London: 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZTmRT2Hg1oM" target="_blank" rel="noopener noreferrer">DeepMind frontier safety | Mary Phuong | EAG London: 2024</a></p><p class="youtube-embed-meta">Channel: Effective Altruism &middot; Views: 444 &middot; Uploaded: June 2024 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZTmRT2Hg1oM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZTmRT2Hg1oM">Open on YouTube</a></p></div></div></div>
 
 ## What This Means for p(doom)
@@ -386,11 +380,50 @@ Many discussions of p(doom) — the estimated probability that advanced AI cause
 
 Those who assign relatively high p(doom) values often argue that:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. Capabilities are advancing rapidly.
 2. Dangerous capabilities may be difficult to detect before deployment.
+3. Evaluations cannot reliably establish safe upper bounds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2412.08653v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">What AI evaluations for preventing catastrophic risks can...26 Nov 2024 — These include an inability to establish upper bounds on c...</span></span></span>
+4. Therefore substantial uncertainty should remain even after favourable test results.
+
+</div>
+
+Critics respond that this reasoning risks becoming unfalsifiable. If every successful evaluation can be dismissed as incomplete, then evidence may never meaningfully reduce concern.
+
+This is a genuine dispute. The strongest version of the upper-bound argument is not that all evaluations are worthless. It is that evaluations provide asymmetric information: they are generally better at revealing danger than proving its absence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2412.08653v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">What AI evaluations for preventing catastrophic risks can...26 Nov 2024 — These include an inability to establish upper bounds on c...</span></span></span>
+
+The practical question is how much confidence policymakers should place in negative results when the consequences of being wrong could be extremely large.
+
+<img src="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_eval_false_co_fa7edc_upper_bound_c_4cf391-Illustration-3-dark.svg" | relative_url }}" alt="Upper Bound Limits illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_eval_false_co_fa7edc_upper_bound_c_4cf391-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_eval_false_co_fa7edc_upper_bound_c_4cf391-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Why Safety Frameworks Use Thresholds Instead of Guarantees
+
+Many frontier-AI safety frameworks have gradually moved away from language implying proof of safety. Instead, they use [capability thresholds]({{ 'capability-thresholds/' | relative_url }}), risk thresholds, warning signs, and staged deployment decisions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.governance.ai/research-paper/risk-thresholds-for-frontier-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governance.ai">[GovAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governance.ai</span><span class="citation-popover-title">risk thresholds for frontier ai</span><span class="citation-popover-snippet">20 Jun 2024 — One increasingly popular approach is to define capability thresholds, which describe AI capabilities beyond which an AI sys...</span></span></span>
+
+This shift reflects an important recognition: upper-bound guarantees may be unattainable.
+
+Rather than claiming that a model definitely lacks dangerous abilities, frameworks increasingly ask questions such as:
+
+* Has the model crossed a predefined capability threshold?
+* Are there warning signs suggesting future risk?
+* Have sufficient mitigations been implemented?
+* Is uncertainty being reduced quickly enough?
+
+This approach resembles safety engineering in other high-stakes fields. The goal is often not to prove impossibility, but to manage uncertainty while maintaining appropriate margins of safety.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PB_y2A_K-18" title="Why AI Evaluation Science Can&#x27;t Keep Up (with Carina Prunkl)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PB_y2A_K-18" target="_blank" rel="noopener noreferrer">Why AI Evaluation Science Can&#x27;t Keep Up (with Carina Prunkl)</a></p><p class="youtube-embed-meta">Channel: Future of Life Institute &middot; Views: 1.4K &middot; Uploaded: April 2026 &middot; Length: 54 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PB_y2A_K-18" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PB_y2A_K-18">Open on YouTube</a></p></div></div></div>
+
+## Policy and Safety Implications for High-Stakes AI
+
+The inability to establish reliable upper bounds has several practical consequences.
+
+First, it strengthens the case for continuous monitoring rather than one-off certification. A model that appears safe today may reveal new capabilities after fine-tuning, tool integration, or deployment changes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/technical-reports/frontier-capability-assessments/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">frontier capability assessments</span><span class="citation-popover-snippet">Frontier Model ForumFrontier Capability AssessmentsApr 22, 2025 — Frontier Capability Assessments are procedures conducted on frontier mo...</span></span></span>
+
+Second, it supports independent evaluation. External researchers often discover behaviours missed by internal testing, and recent work argues that broader evaluator access can reduce false negatives and improve confidence in assessments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2412.08653v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">What AI evaluations for preventing catastrophic risks can...26 Nov 2024 — These include an inability to establish upper bounds on c...</span></span></span>
+
+Third, it encourages defence-in-depth approaches. If evaluations cannot conclusively rule out dangerous capabilities, then safeguards may also need to include monitoring, interpretability research, access controls, incident response mechanisms, and governance measures rather than relying solely on benchmark results. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2412.08653v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">What AI evaluations for preventing catastrophic risks can...26 Nov 2024 — These include an inability to establish upper bounds on c...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://aigi.ox.ac.uk/wp-content/uploads/2026/02/Open-Problems-in-Frontier-AI-Risk-Management-Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aigi.ox.ac.uk">[Oxford Martin AIGI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aigi.ox.ac.uk</span><span class="citation-popover-title">Open Problems in Frontier AI Risk Management Final</span><span class="citation-popover-snippet">ford Martin AIGIOpen Problems in Frontier AI Risk Management22 Feb 2026 — Adopting a problem-oriented approach, we examine each stage o...</span></span></span>
+
+For readers interested in AI doom and existential risk, the central takeaway is not that evaluations are useless. Frontier-capability evaluations remain among the best tools available for identifying emerging dangers. The problem is narrower but significant: passing today's tests does not establish a trustworthy ceiling on what an advanced AI system could do tomorrow, under different conditions, or at maximum effort. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2412.08653v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">What AI evaluations for preventing catastrophic risks can...26 Nov 2024 — These include an inability to establish upper bounds on c...</span></span></span> 2arXiv
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -808,49 +841,6 @@ Those who assign relatively high p(doom) values often argue that:
 })();
 </script>
 </section>
-
-3. Evaluations cannot reliably establish safe upper bounds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2412.08653v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">What AI evaluations for preventing catastrophic risks can...26 Nov 2024 — These include an inability to establish upper bounds on c...</span></span></span>
-4. Therefore substantial uncertainty should remain even after favourable test results.
-
-</div>
-
-Critics respond that this reasoning risks becoming unfalsifiable. If every successful evaluation can be dismissed as incomplete, then evidence may never meaningfully reduce concern.
-
-This is a genuine dispute. The strongest version of the upper-bound argument is not that all evaluations are worthless. It is that evaluations provide asymmetric information: they are generally better at revealing danger than proving its absence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2412.08653v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">What AI evaluations for preventing catastrophic risks can...26 Nov 2024 — These include an inability to establish upper bounds on c...</span></span></span>
-
-The practical question is how much confidence policymakers should place in negative results when the consequences of being wrong could be extremely large.
-
-
-<img src="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_eval_false_co_fa7edc_upper_bound_c_4cf391-Illustration-3-dark.svg" | relative_url }}" alt="Upper Bound Limits illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_eval_false_co_fa7edc_upper_bound_c_4cf391-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_eval_false_co_fa7edc_upper_bound_c_4cf391-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## Why Safety Frameworks Use Thresholds Instead of Guarantees
-
-Many frontier-AI safety frameworks have gradually moved away from language implying proof of safety. Instead, they use [capability thresholds]({{ 'capability-thresholds/' | relative_url }}), risk thresholds, warning signs, and staged deployment decisions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.governance.ai/research-paper/risk-thresholds-for-frontier-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governance.ai">[GovAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governance.ai</span><span class="citation-popover-title">risk thresholds for frontier ai</span><span class="citation-popover-snippet">20 Jun 2024 — One increasingly popular approach is to define capability thresholds, which describe AI capabilities beyond which an AI sys...</span></span></span>
-
-This shift reflects an important recognition: upper-bound guarantees may be unattainable.
-
-Rather than claiming that a model definitely lacks dangerous abilities, frameworks increasingly ask questions such as:
-
-* Has the model crossed a predefined capability threshold?
-* Are there warning signs suggesting future risk?
-* Have sufficient mitigations been implemented?
-* Is uncertainty being reduced quickly enough?
-
-This approach resembles safety engineering in other high-stakes fields. The goal is often not to prove impossibility, but to manage uncertainty while maintaining appropriate margins of safety.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PB_y2A_K-18" title="Why AI Evaluation Science Can&#x27;t Keep Up (with Carina Prunkl)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PB_y2A_K-18" target="_blank" rel="noopener noreferrer">Why AI Evaluation Science Can&#x27;t Keep Up (with Carina Prunkl)</a></p><p class="youtube-embed-meta">Channel: Future of Life Institute &middot; Views: 1.4K &middot; Uploaded: April 2026 &middot; Length: 54 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PB_y2A_K-18" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PB_y2A_K-18">Open on YouTube</a></p></div></div></div>
-
-## Policy and Safety Implications for High-Stakes AI
-
-The inability to establish reliable upper bounds has several practical consequences.
-
-First, it strengthens the case for continuous monitoring rather than one-off certification. A model that appears safe today may reveal new capabilities after fine-tuning, tool integration, or deployment changes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/technical-reports/frontier-capability-assessments/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">frontier capability assessments</span><span class="citation-popover-snippet">Frontier Model ForumFrontier Capability AssessmentsApr 22, 2025 — Frontier Capability Assessments are procedures conducted on frontier mo...</span></span></span>
-
-Second, it supports independent evaluation. External researchers often discover behaviours missed by internal testing, and recent work argues that broader evaluator access can reduce false negatives and improve confidence in assessments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2412.08653v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">What AI evaluations for preventing catastrophic risks can...26 Nov 2024 — These include an inability to establish upper bounds on c...</span></span></span>
-
-Third, it encourages defence-in-depth approaches. If evaluations cannot conclusively rule out dangerous capabilities, then safeguards may also need to include monitoring, interpretability research, access controls, incident response mechanisms, and governance measures rather than relying solely on benchmark results. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2412.08653v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">What AI evaluations for preventing catastrophic risks can...26 Nov 2024 — These include an inability to establish upper bounds on c...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://aigi.ox.ac.uk/wp-content/uploads/2026/02/Open-Problems-in-Frontier-AI-Risk-Management-Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aigi.ox.ac.uk">[Oxford Martin AIGI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aigi.ox.ac.uk</span><span class="citation-popover-title">Open Problems in Frontier AI Risk Management Final</span><span class="citation-popover-snippet">ford Martin AIGIOpen Problems in Frontier AI Risk Management22 Feb 2026 — Adopting a problem-oriented approach, we examine each stage o...</span></span></span>
-
-For readers interested in AI doom and existential risk, the central takeaway is not that evaluations are useless. Frontier-capability evaluations remain among the best tools available for identifying emerging dangers. The problem is narrower but significant: passing today's tests does not establish a trustworthy ceiling on what an advanced AI system could do tomorrow, under different conditions, or at maximum effort. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2412.08653v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">What AI evaluations for preventing catastrophic risks can...26 Nov 2024 — These include an inability to establish upper bounds on c...</span></span></span> 2arXiv
 
 ## Endnotes
 

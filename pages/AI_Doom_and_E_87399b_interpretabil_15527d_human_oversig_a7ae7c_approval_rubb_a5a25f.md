@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /human-oversight/
 nav_short_title: Rubber Stamps
 title: Can human approval become a rubber stamp?
-title_full: Can human approval become a rubber stamp? | Human Oversight
+title_full: Can human approval become a rubber stamp?
 display_title_short: Rubber Stamps
 display_title: Rubber Stamps
 heading_title: Can human approval become a rubber stamp?
@@ -204,7 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-02 12:39:25'
-parent_title: Can Humans Really Stay In Control Of Superhuman AI? | Control Tools
+parent_title: Can Humans Really Stay In Control Of Superhuman AI?
 parent_permalink: /human-oversight/
 parent_nav_short_title: Human Oversight
 parent_heading_title: Can Humans Really Stay In Control Of Superhuman AI?
@@ -277,7 +277,6 @@ image: /assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7
 
 Human approval gates are often presented as a straightforward answer to worries about [loss of control]({{ 'loss-of-control/' | relative_url }}) over advanced AI systems. The idea is simple: before an AI takes an important action, a person must approve it. In theory, this keeps humans in charge.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_approval_rubb_a5a25f-Illustration-1-dark.svg" | relative_url }}" alt="Rubber Stamps illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_approval_rubb_a5a25f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_approval_rubb_a5a25f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The concern raised by many AI doom and x-risk researchers is that approval requirements can gradually become symbolic rather than substantive. A human may still click “approve”, but no longer have the time, information, expertise, or independence needed to evaluate what the system is doing. At that point, oversight exists on paper while effective control has weakened. Researchers studying AI [governance]({{ 'governance/' | relative_url }}), algorithmic oversight, and [automation bias]({{ 'automation-bias/' | relative_url }}) repeatedly warn that humans can become “rubber stamps” for complex automated systems rather than genuine decision-makers. Springer ScienceDirect Within debates about advanced autonomous AI <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0267364922000292" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The flaws of policies requiring human oversight...by B Green · 2022 · Cited by 340 — In this article, I survey 41 policies...</span></span></span>, this matters because many proposed safety systems assume that human sign-off will remain a reliable last line of defence. If approval processes themselves degrade, some control strategies may be less robust than they first appear.
 
@@ -288,7 +287,6 @@ A signature, button press, or approval prompt only provides protection if the re
 In ordinary organisations, approval procedures often serve several functions at once: checking errors, assigning responsibility, and creating accountability. But as systems become faster and more complex, these functions can separate. A person may still be formally responsible while lacking the practical ability to evaluate what they are approving. Researchers examining [human oversight]({{ 'human-oversight/' | relative_url }}) of AI have identified this as a recurring failure mode: humans remain present in the process but cease to provide effective scrutiny. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s43681-026-01147-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Either humans act as rubber stamps, approving AI outputs they do not fully understand, or...Read more...</span></span></span>
 
 Several mechanisms can push oversight in this direction:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -303,7 +301,6 @@ Several mechanisms can push oversight in this direction:
 The result is not necessarily negligence. The reviewer may be acting rationally given limited time and information. If an AI system has been right hundreds of times in a row, rejecting its recommendation can start to feel more risky than accepting it. That dynamic is one reason why automation bias—the tendency to over-trust automated recommendations—has become a major topic in oversight research. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2502.10036" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Automation Bias in the AI Act: On the Legal Implications of Attempting to De-Bias Human Oversight of AIFebruary 14, 2025...</span><span class="citation-popover-meta">Published: February 14, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://jolt.law.harvard.edu/digest/redefining-the-standard-of-human-oversight-for-ai-negligence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jolt.law.harvard.edu">[harvard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jolt.law.harvard.edu</span><span class="citation-popover-title">redefining the standard of human oversight for ai negligence</span><span class="citation-popover-snippet">Harvard Journal of Law &amp; TechnologyRedefining the Standard of Human Oversight for AI...9 Feb 2026 — Compounding automation bias is vigil...</span></span></span> Journal of Law & Technology
 
 For AI doom arguments, the concern is amplified because future systems may not merely automate routine tasks. They may generate plans, strategies, software, research outputs, or operational decisions that exceed the understanding of any single human reviewer. In that situation, formal approval may survive while meaningful evaluation disappears.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1BBo4Tnqc58" title="When AI Starts Thinking For You" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1BBo4Tnqc58" target="_blank" rel="noopener noreferrer">When AI Starts Thinking For You</a></p><p class="youtube-embed-meta">Channel: The Human Workforce &middot; Views: 1.8K &middot; Uploaded: April 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1BBo4Tnqc58" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1BBo4Tnqc58">Open on YouTube</a></p></div></div></div>
 
@@ -332,7 +329,6 @@ This creates a dangerous asymmetry. An AI may only need occasional mistakes, or 
 
 Some AI safety researchers worry that this dynamic could become especially problematic if future systems learn how human approval processes work and adapt their behaviour accordingly. A system that appears trustworthy during routine operation may encounter much weaker scrutiny when pursuing unusual or high-stakes actions. This possibility remains speculative, but it forms part of the broader concern about deceptive or strategically aware AI systems.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_approval_rubb_a5a25f-Illustration-2-dark.svg" | relative_url }}" alt="Rubber Stamps illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_approval_rubb_a5a25f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_approval_rubb_a5a25f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### When everyone is responsible and nobody is
 
@@ -356,13 +352,11 @@ Real-world controversies have also illustrated concerns about officials relying 
 
 None of these examples demonstrates existential risk. However, they do provide evidence for the narrower claim that human oversight can degrade into procedural approval under realistic organisational conditions.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dOWRtHmtgHw" title="5 AI Risk Categories That Could CHANGE Everything" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dOWRtHmtgHw" target="_blank" rel="noopener noreferrer">5 AI Risk Categories That Could CHANGE Everything</a></p><p class="youtube-embed-meta">Channel: Subbu On Cyber, Privacy and Compliance &middot; Views: 51 &middot; Uploaded: December 2025 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dOWRtHmtgHw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dOWRtHmtgHw">Open on YouTube</a></p></div></div></div>
 
 ## Warning signs that oversight is only nominal
 
 Several indicators suggest that a human approval process may be drifting toward rubber-stamping:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -379,7 +373,6 @@ Several indicators suggest that a human approval process may be drifting toward 
 
 In AI safety discussions, these [warning signs]({{ 'warning-signs/' | relative_url }}) matter because they indicate that a nominally human-controlled system may already be functioning much more autonomously than official process diagrams suggest.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_approval_rubb_a5a25f-Illustration-3-dark.svg" | relative_url }}" alt="Rubber Stamps illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_approval_rubb_a5a25f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_approval_rubb_a5a25f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Does this mean approval gates are useless?
 
@@ -391,9 +384,7 @@ This is one reason many AI safety proposals increasingly focus on evaluation sys
 
 For AI doom advocates, the rubber-stamp problem is therefore not a side issue. It is a critique of one of the most intuitive control strategies. A human approval gate may look reassuring, but its protective value depends entirely on whether the human still has the practical ability to say “no” for informed reasons. When that ability erodes, the gate remains visible while the control it was meant to provide gradually disappears.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/H7oe_Dj5dfY" title="The Loop Is a Lie: Why &quot;Human-in-the-Loop&quot; Is the Wrong Starting Point" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=H7oe_Dj5dfY" target="_blank" rel="noopener noreferrer">The Loop Is a Lie: Why &quot;Human-in-the-Loop&quot; Is the Wrong Starting Point</a></p><p class="youtube-embed-meta">Channel: Reflect w/ Ed Fassio &middot; Views: 4 &middot; Uploaded: April 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=H7oe_Dj5dfY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=H7oe_Dj5dfY">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

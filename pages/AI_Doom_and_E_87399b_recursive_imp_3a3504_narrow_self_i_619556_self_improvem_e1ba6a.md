@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /weak-evidence/
 nav_short_title: Recursion Evidence
 title: What Alpha Zero and Auto ML Reveal About Limits of AI Self Improvement
-title_full: What Alpha Zero and Auto ML Reveal About Limits of AI Self Improvement | Weak evidence
+title_full: What Alpha Zero and Auto ML Reveal About Limits of AI Self Improvement
 display_title_short: Recursion Evidence
 display_title: Recursion Evidence
 heading_title: What Alpha Zero and Auto ML Reveal About Limits of AI Self Improvement
@@ -204,7 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 13:09:15'
-parent_title: Do today's self improving systems prove anything? | AI Takeoff
+parent_title: Do today's self improving systems prove anything?
 parent_permalink: /weak-evidence/
 parent_nav_short_title: Weak evidence
 parent_heading_title: Do today's self improving systems prove anything?
@@ -271,7 +271,6 @@ image: /assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_61
 
 In debates about **AI doom** and whether future systems could spiral into runaway improvement outside human control, analysts often look for concrete evidence that machines can *improve themselves*. Two well‑known examples from current AI — **DeepMind’s AlphaZero** in game playing and **automated machine learning (AutoML)** systems — are frequently cited. They do show machines learning without direct human examples and automating parts of the model‑building process, but when examined closely, these examples highlight **clear limits** to autonomous, open‑ended recursive self‑improvement — the sort of feedback loop at the heart of intelligence‑explosion arguments.<span class="citation-chip-wrap"><a class="citation-chip" href="#endnote-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: AI Wiki">[AI Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">AI Wiki</span><span class="citation-popover-snippet">AI Wiki - Artificial Intelligence WikiCURRENT STATE AND FUTURE TRAJECTORIES As of 2024-2025, recursive self-improvement has transitioned</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_self_improvem_e1ba6a-Illustration-1-dark.svg" | relative_url }}" alt="Recursion Evidence illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_self_improvem_e1ba6a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_self_improvem_e1ba6a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This article looks at what AlphaZero and AutoML really demonstrate, where they fall short of recursive AI improvement in the strong sense relevant for existential risk, and what that suggests for how we should interpret “machines improving machines” in the AI‑doom context.
 
@@ -286,7 +285,6 @@ However, this improvement loop is **highly constrained**:
 * **Data generation is specialised:** The system generates synthetic games only because the game environment permits massive simulated play. Most real‑world domains lack such efficient, fully simulable environments.[Informatica]
 
 So while AlphaZero demonstrates a powerful positive feedback loop in a narrow domain, it **does not exhibit the open‑ended, goal‑setting, self‑modifying loop** that would be required for recursive self‑improvement of the sort implicated in intelligence‑explosion scenarios.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nJnc_1dHHMI" title="Understanding Recursive Self-Improvement, Risks &amp; Rewards - The AI Show w/ Paul Roetzer &amp; Mike Kaput" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nJnc_1dHHMI" target="_blank" rel="noopener noreferrer">Understanding Recursive Self-Improvement, Risks &amp; Rewards - The AI Show w/ Paul Roetzer &amp; Mike Kaput</a></p><p class="youtube-embed-meta">Channel: The Artificial Intelligence Show Podcast &middot; Views: 1.1K &middot; Uploaded: December 2025 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nJnc_1dHHMI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nJnc_1dHHMI">Open on YouTube</a></p></div></div></div>
 
@@ -306,7 +304,6 @@ Yet, crucially:
 
 Thus, AutoML shows **automation of components** of the ML lifecycle, but not autonomous recursive improvement that expands capability beyond originally defined objectives.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_self_improvem_e1ba6a-Illustration-2-dark.svg" | relative_url }}" alt="Recursion Evidence illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_self_improvem_e1ba6a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_self_improvem_e1ba6a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why These Examples Are Weak Evidence for Strong Recursion
 
@@ -318,7 +315,6 @@ For AI disaster scenarios predicated on a self‑sustaining intelligence explosi
 
 Recent theoretical work also emphasises **limits** when systems try to rely purely on self‑generated data without grounding in external signals: without anchored feedback, model distributions can degenerate in quality over repeated self‑training, revealing a fundamental boundary to closed‑loop self‑improvement in current paradigms.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2601.05280" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">On the Limits of Self-Improving in LLMs and Why AGI, ASI and the Singularity Are Not Near Without Symbolic Model SynthesisJanuary 5...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MrJVgw8dBhw" title="It&#x27;s Crunch Time: Ajeya Cotra on RSI &amp; AI-Powered AI Safety Work, from the 80,000 Hours Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MrJVgw8dBhw" target="_blank" rel="noopener noreferrer">It&#x27;s Crunch Time: Ajeya Cotra on RSI &amp; AI-Powered AI Safety Work, from the 80,000 Hours Podcast</a></p><p class="youtube-embed-meta">Channel: Cognitive Revolution &quot;How AI Changes Everything&quot; &middot; Views: 1.2K &middot; Uploaded: April 2026 &middot; Length: 3 hours 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MrJVgw8dBhw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MrJVgw8dBhw">Open on YouTube</a></p></div></div></div>
 
 ## Implications for Intelligence Explosion and p(doom) Debates
@@ -328,7 +324,6 @@ In the context of AI existential risk, AlphaZero and AutoML are often invoked to
 This doesn’t mean such a spiral is impossible in principle, but it does mean that **current real‑world systems fall far short** of the kind of recursive self‑improvement that would justify strong confidence in rapid intelligence explosions. In risk assessments framed around **p(doom)** or existential outcomes, the evidence from AlphaZero and AutoML suggests we should be cautious about extrapolating narrow optimisation loops into unfettered, autonomous capability growth.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aisafety.info/questions/8AEL/Is-recursive-self-improvement-possible" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisafety.info">[AISafety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisafety.info</span><span class="citation-popover-title">Is recursive self-improvement possible?</span><span class="citation-popover-snippet">Is recursive self-improvement possible?...</span></span></span>
 
 What these examples *do* show is that AI can increasingly assist in its own development and optimise components of its architecture, which raises practical [governance]({{ 'governance/' | relative_url }}) and safety questions — but the leap to genuine recursive self‑improvement remains **unsubstantiated by current empirical examples**.
-
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_self_improvem_e1ba6a-Illustration-3-dark.svg" | relative_url }}" alt="Recursion Evidence illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_self_improvem_e1ba6a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_self_improvem_e1ba6a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Summary
@@ -340,9 +335,7 @@ What these examples *do* show is that AI can increasingly assist in its own deve
 
 In short, AlphaZero and AutoML offer **important insights into self‑improvement dynamics**, but they remain **weak evidence for the kind of recursive AI limits that would drive runaway capability growth without [human oversight]({{ 'human-oversight/' | relative_url }})** — a core concern in existential risk discussions.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XJF44ddRFLA" title="Recursive AI Self-Improvement is Here, Today" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XJF44ddRFLA" target="_blank" rel="noopener noreferrer">Recursive AI Self-Improvement is Here, Today</a></p><p class="youtube-embed-meta">Channel: Jeffrey Emanuel &middot; Views: 2.4K &middot; Uploaded: January 2026 &middot; Length: 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XJF44ddRFLA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XJF44ddRFLA">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

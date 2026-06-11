@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /weak-evidence/
 nav_short_title: Alpha Zero Limits
 title: How Alpha Zero's Self Play Is Restricted by Game Rules
-title_full: How Alpha Zero's Self Play Is Restricted by Game Rules | Weak evidence
+title_full: How Alpha Zero's Self Play Is Restricted by Game Rules
 display_title_short: Alpha Zero Limits
 display_title: Alpha Zero Limits
 heading_title: How Alpha Zero's Self Play Is Restricted by Game Rules
@@ -204,7 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 13:08:51'
-parent_title: Do today's self improving systems prove anything? | AI Takeoff
+parent_title: Do today's self improving systems prove anything?
 parent_permalink: /weak-evidence/
 parent_nav_short_title: Weak evidence
 parent_heading_title: Do today's self improving systems prove anything?
@@ -271,7 +271,6 @@ image: /assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_61
 
 AlphaZero’s self‑play breakthrough often gets cited in debates about autonomous machine intelligence, recursive self‑improvement, and existential risk from AI. In games such as chess, Go and shogi, the DeepMind system learned *from scratch* by repeatedly playing against itself until it reached world‑class strength with no human data beyond the rules of the game. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aiwiki.ai/wiki/alphazero" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiwiki.ai">[AI Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiwiki.ai</span><span class="citation-popover-title">AI Wiki Alpha Zero &#124; AI Wiki</span><span class="citation-popover-snippet">AI WikiAlphaZero &#124; AI WikiApril 26, 2026...</span><span class="citation-popover-meta">Published: April 26, 2026</span></span></span> But that impressive self‑play loop has important **limits**: it operates inside narrow, human‑defined environments, without [independent]({{ 'red-teaming/' | relative_url }}) exploration, goal‑setting, or expansion beyond those environments. This matters because some arguments about AI “take‑off” assume that self‑improvement abilities like AlphaZero’s could generalise across open‑ended, real‑world tasks; the evidence here shows why those analogies are weak.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_alphazero_sel_8e9d74-Illustration-1-dark.svg" | relative_url }}" alt="Alpha Zero Limits illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_alphazero_sel_8e9d74-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_alphazero_sel_8e9d74-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How AlphaZero’s Self‑Play Works and Why It’s Constrained
 
@@ -285,7 +284,6 @@ But *the scope of that loop is tightly bounded by design*:
 
 These constraints mean AlphaZero *optimises within a closed world* rather than discovering or creating new goals, environments, or domains on its own.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/e77NkSjnyH4" title="AlphaZero and Self Play (David Silver, DeepMind) | AI Podcast Clips" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=e77NkSjnyH4" target="_blank" rel="noopener noreferrer">AlphaZero and Self Play (David Silver, DeepMind) | AI Podcast Clips</a></p><p class="youtube-embed-meta">Channel: Lex Fridman &middot; Views: 16.3K &middot; Uploaded: April 2020 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=e77NkSjnyH4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=e77NkSjnyH4">Open on YouTube</a></p></div></div></div>
 
 ## Why These Limits Matter for Recursive AI Improvement Debates
@@ -298,7 +296,6 @@ In discussions of AI doom and recursive self‑improvement, a central claim is t
 
 Taken together, these points show why many researchers caution against equating AlphaZero’s self‑play success with evidence of autonomous, recursive intelligence growth. Its achievements are bound to narrow, high‑compute scenarios where the optimisation problem is entirely specified.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_alphazero_sel_8e9d74-Illustration-2-dark.svg" | relative_url }}" alt="Alpha Zero Limits illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_alphazero_sel_8e9d74-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_alphazero_sel_8e9d74-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Broader Context: Beyond Games
 
@@ -306,9 +303,7 @@ It’s worth noting that subsequent research has aimed to generalise the *ideas*
 
 For people concerned about AI risk, the upshot is clear: while AlphaZero is a striking demonstration of machine learning capability within a sandbox, the *mechanisms that make it work do not by themselves generalise* to the kind of open‑ended recursive self‑improvement imagined in many AI doom scenarios. This doesn’t rule out future systems that might combine self‑play with goal discovery or meta‑learning, but it does weaken claims that AlphaZero‑like loops are direct precursors to rapid capability take‑off.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WQS7933ub9s" title="Lessons from AlphaZero for Optimal, Model Predictive, and Adaptive Control, Lecture at KTH" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WQS7933ub9s" target="_blank" rel="noopener noreferrer">Lessons from AlphaZero for Optimal, Model Predictive, and Adaptive Control, Lecture at KTH</a></p><p class="youtube-embed-meta">Channel: Dimitri Bertsekas &middot; Views: 5.7K &middot; Uploaded: November 2021 &middot; Length: 1 hour 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WQS7933ub9s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WQS7933ub9s">Open on YouTube</a></p></div></div></div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UzYeqAJ2bA8" title="DeepMind AlphaGo Zero Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UzYeqAJ2bA8" target="_blank" rel="noopener noreferrer">DeepMind AlphaGo Zero Explained</a></p><p class="youtube-embed-meta">Channel: Siraj Raval &middot; Views: 51.3K &middot; Uploaded: August 2018 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UzYeqAJ2bA8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UzYeqAJ2bA8">Open on YouTube</a></p></div></div></div>
 
@@ -319,7 +314,6 @@ For people concerned about AI risk, the upshot is clear: while AlphaZero is a st
 * Empirical research shows it *doesn’t inherently grasp broad strategic reasoning beyond winning games*, underscoring the **practical limits of self‑play loops** as models for unrestricted recursive improvement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openreview.net/forum?id=ZAbYb4jDJt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openreview.net">[OpenReview]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openreview.net</span><span class="citation-popover-title">Open Review Limitations in Planning Ability in Alpha Zero &#124; Open Review</span><span class="citation-popover-snippet">Limitations in Planning Ability in AlphaZero &#124; OpenReviewOctober 10, 2024...</span><span class="citation-popover-meta">Published: October 10, 2024</span></span></span>
 
 These constraints help clarify why achievements like AlphaZero, though impressive, are seen as **[weak evidence]({{ 'weak-evidence/' | relative_url }})** for the kind of autonomous, recursive intelligence often feared in AI doom narratives.
-
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_alphazero_sel_8e9d74-Illustration-3-dark.svg" | relative_url }}" alt="Alpha Zero Limits illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_alphazero_sel_8e9d74-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_alphazero_sel_8e9d74-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -843,4 +837,4 @@ These constraints help clarify why achievements like AlphaZero, though impressiv
    Title: 2017 alphazero  
    Link: <a href="https://awesome.papernotes.org/en/era3_attention/2017_alphazero/" target="_blank" rel="noopener noreferrer nofollow">https://awesome.papernotes.org/en/era3_attention/2017_alphazero/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Erasing Human Go Knowledge from RL via Pure Self-Play - Awesome AI PapersDecember 5, 2017 — Awesome AI Papers AlphaZero — Erasing Human...</p></details>
-   Published: December 5, 2017  
+   Published: December 5, 2017

@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-loss-of-contr/
 description: Focused pages that expand on Over delegation.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca
-parent_title: Over delegation | Loss of Control
+parent_title: Over delegation
 parent_nav_short_title: Over delegation
 parent_permalink: /over-delegation/
 ---

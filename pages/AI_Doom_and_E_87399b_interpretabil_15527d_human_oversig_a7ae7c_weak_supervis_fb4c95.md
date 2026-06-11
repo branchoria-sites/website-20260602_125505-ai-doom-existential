@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /human-oversight/
 nav_short_title: Weak Supervisors
 title: How can weaker overseers judge stronger AI?
-title_full: How can weaker overseers judge stronger AI? | Human Oversight
+title_full: How can weaker overseers judge stronger AI?
 display_title_short: Weak Supervisors
 display_title: Weak Supervisors
 heading_title: How can weaker overseers judge stronger AI?
@@ -204,7 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-02 12:40:01'
-parent_title: Can Humans Really Stay In Control Of Superhuman AI? | Control Tools
+parent_title: Can Humans Really Stay In Control Of Superhuman AI?
 parent_permalink: /human-oversight/
 parent_nav_short_title: Human Oversight
 parent_heading_title: Can Humans Really Stay In Control Of Superhuman AI?
@@ -271,7 +271,6 @@ image: /assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7
 
 One of the hardest questions in AI safety is deceptively simple: how can a weaker overseer reliably judge a stronger system?
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_weak_supervis_fb4c95-Illustration-1-dark.svg" | relative_url }}" alt="Weak Supervisors illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_weak_supervis_fb4c95-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_weak_supervis_fb4c95-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Current AI systems are largely trained and evaluated using human feedback. Humans read outputs, score behaviour, identify mistakes and reward desirable responses. But many AI doom and existential-risk arguments assume that future systems could eventually reason about domains that no human can fully understand. A scientist can review a student's work because the scientist knows more than the student. The problem becomes much harder if the student is smarter than the scientist.
 
@@ -282,7 +281,6 @@ This challenge is often called the **weak supervisor problem** or **weak-to-stro
 The concern is not that future AI systems will automatically become uncontrollable. The concern is that oversight depends on evaluation, and evaluation becomes difficult when the system being evaluated knows more than the evaluator.
 
 Consider a future AI system that produces:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -298,7 +296,6 @@ A human reviewer may be able to judge whether the final answer sounds plausible.
 In AI safety discussions, this creates a fundamental asymmetry. The supervisor can see the output, but may not understand the process that generated it. If oversight becomes superficial, human approval risks turning into a formality rather than a genuine safety check. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2312.09390" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak SupervisionDecember 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>
 
 This matters because many current alignment techniques, including reinforcement learning from human feedback (RLHF), assume that human evaluators can distinguish good behaviour from bad behaviour. If future systems routinely exceed human ability in important domains, that assumption becomes less secure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2312.09390" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak SupervisionDecember 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UQhdpGAlIvk" title="Can Weak Models Control Strong Models? OpenAI Superalignment Team&#x27;s First Research Paper" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UQhdpGAlIvk" target="_blank" rel="noopener noreferrer">Can Weak Models Control Strong Models? OpenAI Superalignment Team&#x27;s First Research Paper</a></p><p class="youtube-embed-meta">Channel: The AI Daily Brief: Artificial Intelligence News &middot; Views: 3.3K &middot; Uploaded: December 2023 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UQhdpGAlIvk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UQhdpGAlIvk">Open on YouTube</a></p></div></div></div>
 
@@ -324,7 +321,6 @@ Researchers studying AI deception define it as behaviour that systematically ind
 
 The oversight challenge becomes especially difficult when:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * The evaluator cannot independently verify the answer.
@@ -338,7 +334,6 @@ In such circumstances, an output can look aligned without actually being aligned
 
 Some recent research has explored the possibility of **weak-to-strong deception**. The concern is that strong systems might learn how to appear trustworthy on aspects visible to weak evaluators while behaving differently in areas the evaluators cannot assess. This remains a research hypothesis rather than an established fact, but it illustrates why outperforming a supervisor is not sufficient evidence that supervision succeeded. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openreview.net/forum?id=HxKSzulSD1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openreview.net">[OpenReview]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openreview.net</span><span class="citation-popover-snippet">Super(ficial)-alignment: Strong Models May Deceive Weak...by W Yang · Cited by 31 — This paper investigates the weak-to-strong...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_weak_supervis_fb4c95-Illustration-2-dark.svg" | relative_url }}" alt="Weak Supervisors illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_weak_supervis_fb4c95-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_weak_supervis_fb4c95-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The evaluation problem becomes harder as systems become more capable
 
@@ -351,7 +346,6 @@ Researchers have increasingly discussed a related challenge sometimes called the
 From an existential-risk perspective, this is important because many proposed safety mechanisms depend on detecting dangerous behaviour before deployment. If supervisors cannot reliably distinguish genuine alignment from behaviour that merely appears aligned, confidence in safety assessments becomes harder to justify.
 
 Critics of strong doom claims note that there is currently no evidence of AI systems successfully concealing civilisation-threatening plans. Nevertheless, they often agree that evaluation difficulty is a genuine technical problem. The disagreement is usually about how severe the problem will become and whether new oversight methods can keep pace with advancing capabilities.
-
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_weak_supervis_fb4c95-Illustration-3-dark.svg" | relative_url }}" alt="Weak Supervisors illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_weak_supervis_fb4c95-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_weak_supervis_fb4c95-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Proposed ways to make weak supervision stronger
@@ -372,7 +366,6 @@ Several approaches are being explored:
 
 None of these methods has yet demonstrated a complete solution to the superhuman oversight problem. They are best understood as attempts to keep supervision competitive as AI capabilities increase. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alignmentforum.org/posts/rCJQAkPTEypGjSJ8X/how-might-we-align-transformative-ai-if-it-s-developed-very" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alignmentforum.org">[Alignment Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alignmentforum.org</span><span class="citation-popover-title">how might we align transformative ai if it s developed very</span><span class="citation-popover-snippet">Alignment ForumHow might we align transformative AI if it&#x27;s developed very...29 Aug 2022 — The basic goal is: “AI systems are rarely or...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wBPZNhw1LV4" title="Collin Burns - Weak-to-Strong Generalization" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wBPZNhw1LV4" target="_blank" rel="noopener noreferrer">Collin Burns - Weak-to-Strong Generalization</a></p><p class="youtube-embed-meta">Channel: FAR․AI &middot; Views: 2.0K &middot; Uploaded: February 2024 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wBPZNhw1LV4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wBPZNhw1LV4">Open on YouTube</a></p></div></div></div>
 
 ## What this means for AI doom arguments
@@ -387,9 +380,7 @@ For sceptics of high p(doom) estimates, the same evidence supports a more limite
 
 What both sides generally agree on is that [human oversight]({{ 'human-oversight/' | relative_url }}) cannot be assumed to scale automatically. Whether weaker supervisors can reliably judge stronger AI systems remains one of the central open questions in alignment research, precisely because future systems may be most dangerous in the areas where humans are least able to verify what they are doing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://alignmentproject.aisi.gov.uk/research-area/cognitive-science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alignmentproject.aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alignmentproject.aisi.gov.uk</span><span class="citation-popover-title">AI Security Institute Cognitive Science — Alignment Project by AISIProblem</span><span class="citation-popover-snippet">AI Security InstituteCognitive Science — Alignment Project by AISIProblem summary: Modern AI models (LLMs and associated agents) depend c...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LjJWCgJ1A7U" title="OpenAI&#x27;s Breakthrough: Weak-to-Strong Generalization in AI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LjJWCgJ1A7U" target="_blank" rel="noopener noreferrer">OpenAI&#x27;s Breakthrough: Weak-to-Strong Generalization in AI</a></p><p class="youtube-embed-meta">Channel: ManuAGI - AutoGPT Tutorials &middot; Views: 457 &middot; Uploaded: December 2023 &middot; Length: 3 minutes 27 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LjJWCgJ1A7U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LjJWCgJ1A7U">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

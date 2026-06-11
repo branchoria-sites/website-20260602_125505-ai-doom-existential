@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-frontier-ai-e/
 description: Focused pages that expand on Evals.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_frontier_ai_e_9920ab
-parent_title: Evals | AI Doom and E 87399 b
+parent_title: Evals
 parent_nav_short_title: Evals
 parent_permalink: /evals/
 ---

@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /cyber-tripwires/
 nav_short_title: Tripwire Comparison
 title: Balancing Early Warnings Against Catastrophic AI Risks
-title_full: Balancing Early Warnings Against Catastrophic AI Risks | Cyber tripwires
+title_full: Balancing Early Warnings Against Catastrophic AI Risks
 display_title_short: Tripwire Comparison
 display_title: Tripwire Comparison
 heading_title: Balancing Early Warnings Against Catastrophic AI Risks
@@ -204,7 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 21:15:02'
-parent_title: When should cyber evals stop a release? | Evals
+parent_title: When should cyber evals stop a release?
 parent_permalink: /cyber-tripwires/
 parent_nav_short_title: Cyber tripwires
 parent_heading_title: When should cyber evals stop a release?
@@ -271,7 +271,6 @@ image: /assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b
 
 In debates about *AI doom* and existential risk from advanced AI systems, technologists and policymakers increasingly talk about “tripwires”: pre‑defined, capability‑based thresholds that trigger specific risk management actions before deployment. One core debate within this terrain is the trade‑off between **early‑warning tripwires** — signals of emerging risky capabilities — and **[catastrophic]({{ 'misuse/' | relative_url }})‑risk tripwires** — thresholds tied to the potential for truly large‑scale harm. Understanding the difference sheds light on how we might detect and manage dangerous AI capabilities in time, without either overreacting to innocuous advances or underestimating the onset of truly catastrophic risks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://carnegieendowment.org/research/2024/12/a-sketch-of-potential-tripwire-capabilities-for-ai?lang=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carnegieendowment.org">[Carnegie Endowment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carnegieendowment.org</span><span class="citation-popover-snippet">Carnegie EndowmentA Sketch of Potential Tripwire Capabilities for AI &#124; Carnegie Endowment for International PeaceDecember 10, 2024...</span><span class="citation-popover-meta">Published: December 10, 2024</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_cyber_tripwir_00207f-Illustration-1-dark.svg" | relative_url }}" alt="Tripwire Comparison illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_cyber_tripwir_00207f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_cyber_tripwir_00207f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Early‑Warning Tripwires Aim to Do
 
@@ -282,7 +281,6 @@ Early‑warning tripwires are designed to notice *proximal indicators* of capabi
 * **Operationalisation:** Early‑warning thresholds help align technical evaluations with governance decisions — for instance, signalling when to expand testing, red‑team more intensively, or convene expert review panels. They support decision‑makers to adapt rather than wait until full‑blown danger is obvious.
 
 The logic behind early‑warning tripwires is similar to early warning systems in other domains (e.g. public health surveillance): catching incremental trends before they coalesce into crises, thereby *giving space for response*. In the AI governance context, this means watching for performance in security assessments, multi‑step reasoning tasks, or other proxy measures that historically precede broader misuse capabilities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.repec.org/p/arx/papers/2412.15433.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[IDEAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.repec.org/p/arx/papers/2412.15433.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[RePEc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ja0G08Ep6Ho" title="How to Build AI Governance in 5 Practical Steps Real Usecase" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ja0G08Ep6Ho" target="_blank" rel="noopener noreferrer">How to Build AI Governance in 5 Practical Steps Real Usecase</a></p><p class="youtube-embed-meta">Channel: Prabh Nair &middot; Views: 2.8K &middot; Uploaded: May 2026 &middot; Length: 57 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ja0G08Ep6Ho" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ja0G08Ep6Ho">Open on YouTube</a></p></div></div></div>
 
@@ -304,7 +302,6 @@ Early‑warning and catastrophic‑risk tripwires are complementary in theory bu
 * **False positives and negatives:** Early warnings can produce false positives — detecting capabilities that seem dangerous but never actually lead to harm — which could burden innovation unnecessarily. Conversely, setting catastrophic tripwires too high may miss earlier signs that timely mitigation would have forestalled broader escalation.
 * **Governance readiness:** Effective use of early warnings requires robust monitoring infrastructure, transparency between developers and regulators, and shared evaluation standards. Without that, early signals may translate into little practical response. Catastrophic tripwires, by design, aim to mobilise action, but in many frameworks the criteria for what constitutes intolerable risk are still being negotiated and operationalised.[CLTC]
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_cyber_tripwir_00207f-Illustration-2-dark.svg" | relative_url }}" alt="Tripwire Comparison illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_cyber_tripwir_00207f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_cyber_tripwir_00207f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the Debate Plays Out in Risk Frameworks
 
@@ -314,13 +311,11 @@ Current frontier AI risk frameworks — both corporate safety frameworks and eme
 * **Measurement challenges:** A significant strain in the literature concerns how to *measure* both early‑warning indicators and catastrophic thresholds in a way that is reliable, comparable, and operationally useful. Safety frameworks often struggle with validity and reliability of metrics, partly because abstract capability measures do not always map cleanly to real‑world misuse potential.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techpolicy.press/measurement-challenges-in-ai-catastrophic-risk-governance-and-safety-frameworks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Tech Policy Press">[Tech Policy Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Tech Policy Press</span><span class="citation-popover-snippet">Measurement Challenges in AI Catastrophic Risk Governance and Safety Frameworks &#124; TechPolicy.PressSeptember 30, 2024...</span><span class="citation-popover-meta">Published: September 30, 2024</span></span></span>
 * **Political and institutional gaps:** Without harmonised international standards, developers may adopt differing tripwires that reflect their own risk tolerances, potentially creating gaps in coverage or differing interpretations of what constitutes catastrophic risk. This governance uncertainty increases friction between early detection and decisive action.[CLTC]
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LgFBi5XD-Ow" title="AI Governance Simplified: From Zero to Pro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LgFBi5XD-Ow" target="_blank" rel="noopener noreferrer">AI Governance Simplified: From Zero to Pro</a></p><p class="youtube-embed-meta">Channel: Prabh Nair &middot; Views: 29.7K &middot; Uploaded: March 2025 &middot; Length: 2 hours 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LgFBi5XD-Ow" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LgFBi5XD-Ow">Open on YouTube</a></p></div></div></div>
 
 ## Balancing Early Warning with Catastrophic Risk
 
 For AI doom concerns — where the focus is on existential or civilisation‑altering harms — balancing early‑warning and catastrophic‑risk tripwires matters because:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -330,7 +325,6 @@ For AI doom concerns — where the focus is on existential or civilisation‑alt
 </div>
 
 Practical proposals often marry both: using early‑warning tripwires as *leading indicators* that feed into structured escalation processes, with clearly defined, scientifically grounded catastrophic thresholds that prompt specific mitigation commitments. This layered threshold approach — akin to traffic light systems of risk levels — is one way governance designers try to walk the tightrope between vigilance and overreaction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apolloresearch.ai/research/precursory-capabilities-a-refinement-to-pre-deployment-information-sharing-and-tripwire-capabilities" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apolloresearch.ai">[Apollo Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apolloresearch.ai</span><span class="citation-popover-snippet">Apollo ResearchPrecursory Capabilities: A Refinement to Pre-deployment Information Sharing and Tripwire Capabilities – Apollo ResearchJun...</span></span></span>
-
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_cyber_tripwir_00207f-Illustration-3-dark.svg" | relative_url }}" alt="Tripwire Comparison illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_cyber_tripwir_00207f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_cyber_tripwir_00207f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where Uncertainty Remains
@@ -343,9 +337,7 @@ Despite growing attention to tripwires in frontier AI governance, several uncert
 
 In debates about AI doom and existential risk, the tension between early‑warning and catastrophic thresholds is less about picking one over the other and more about designing systems where they interact sensibly: early warnings siphon signals into governance processes, and well justified catastrophic tripwires ensure actions are taken before harms reach irreversible scales.<span class="citation-chip-wrap"><a class="citation-chip" href="https://carnegieendowment.org/research/2024/12/a-sketch-of-potential-tripwire-capabilities-for-ai?lang=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carnegieendowment.org">[Carnegie Endowment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carnegieendowment.org</span><span class="citation-popover-snippet">Carnegie EndowmentA Sketch of Potential Tripwire Capabilities for AI &#124; Carnegie Endowment for International PeaceDecember 10, 2024...</span><span class="citation-popover-meta">Published: December 10, 2024</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/05l4veEAr5c" title="The Turing Lectures: Frontier AI Under Pressure — Building Resilience (Highlights)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=05l4veEAr5c" target="_blank" rel="noopener noreferrer">The Turing Lectures: Frontier AI Under Pressure — Building Resilience (Highlights)</a></p><p class="youtube-embed-meta">Channel: The Alan Turing Institute &middot; Views: 417 &middot; Uploaded: May 2026 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=05l4veEAr5c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=05l4veEAr5c">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -433,7 +425,7 @@ In debates about AI doom and existential risk, the tension between early‑warni
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -443,111 +435,36 @@ In debates about AI doom and existential risk, the tension between early‑warni
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tripwire-comparison-balancing-early-warnings-against-catastrophic-ai-risks-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jeff Dunham Artificial Intelligence Tour 2024 T Shirt All Size S to 5XL"><img src="{{ '/assets/images/marketplace-covers/a1ccd331f1398a1cc321.jpg' | relative_url }}" alt="Listing image for Jeff Dunham Artificial Intelligence Tour 2024 T Shirt All Size S to 5XL" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balancing-early-warnings-against-catastrophic-ai-risks-cybersecurity-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cybersecurity sign" data-ebay-reference="balancing-early-warnings-against-catastrophic-ai-risks-cybersecurity-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Humorous Cybersecurity Sign Your Password Was Weak So I Renamed Your #7701"><img src="https://i.ebayimg.com/images/g/5hsAAeSwWZlo~yFq/s-l225.jpg" alt="Listing image for Humorous Cybersecurity Sign Your Password Was Weak So I Renamed Your #7701" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tripwire-comparison-balancing-early-warnings-against-catastrophic-ai-risks-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jeff Dunham Artificial Intelligence Tour 2024 T Shirt All Size S to 5XL</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balancing-early-warnings-against-catastrophic-ai-risks-cybersecurity-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cybersecurity sign" data-ebay-reference="balancing-early-warnings-against-catastrophic-ai-risks-cybersecurity-sign" target="_blank" rel="sponsored noopener noreferrer">Humorous Cybersecurity Sign Your Password Was Weak So I Renamed Your #7701</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tripwire-comparison-balancing-early-warnings-against-catastrophic-ai-risks-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence t shirt">Search <span data-ebay-domain-label>eBay.com</span>: artificial intelligence t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balancing-early-warnings-against-catastrophic-ai-risks-cybersecurity-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cybersecurity sign" data-ebay-reference="balancing-early-warnings-against-catastrophic-ai-risks-cybersecurity-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity sign</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tripwire-comparison-balancing-early-warnings-against-catastrophic-ai-risks-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tripwire-comparison-balancing-early-warnings-against-catastrophic-ai-risks-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Skynet Lb Retro Cyberdyne Artificial Intelligence Unisex T-Shirt"><img src="{{ '/assets/images/marketplace-covers/564c98ff0f6bf1d8f6e1.jpg' | relative_url }}" alt="Listing image for Skynet Lb Retro Cyberdyne Artificial Intelligence Unisex T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tripwire-comparison-balancing-early-warnings-against-catastrophic-ai-risks-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Skynet Lb Retro Cyberdyne Artificial Intelligence Unisex T-Shirt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tripwire-comparison-balancing-early-warnings-against-catastrophic-ai-risks-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence t shirt">Search <span data-ebay-domain-label>eBay.com</span>: artificial intelligence t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tripwire-comparison-balancing-early-warnings-against-catastrophic-ai-risks-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tripwire-comparison-balancing-early-warnings-against-catastrophic-ai-risks-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI Enthusiast Artificial Intelligence Funny T-Shirt"><img src="{{ '/assets/images/marketplace-covers/2dfae633eca7747712ea.jpg' | relative_url }}" alt="Listing image for AI Enthusiast Artificial Intelligence Funny T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tripwire-comparison-balancing-early-warnings-against-catastrophic-ai-risks-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">AI Enthusiast Artificial Intelligence Funny T-Shirt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tripwire-comparison-balancing-early-warnings-against-catastrophic-ai-risks-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence t shirt">Search <span data-ebay-domain-label>eBay.com</span>: artificial intelligence t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tripwire-comparison-balancing-early-warnings-against-catastrophic-ai-risks-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tripwire-comparison-balancing-early-warnings-against-catastrophic-ai-risks-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI Artificial Intelligence Data Scientist Saying T-Shirt"><img src="{{ '/assets/images/marketplace-covers/0fae603d8a6ff7ba8ab6.jpg' | relative_url }}" alt="Listing image for AI Artificial Intelligence Data Scientist Saying T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tripwire-comparison-balancing-early-warnings-against-catastrophic-ai-risks-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">AI Artificial Intelligence Data Scientist Saying T-Shirt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tripwire-comparison-balancing-early-warnings-against-catastrophic-ai-risks-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence t shirt">Search <span data-ebay-domain-label>eBay.com</span>: artificial intelligence t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tripwire-comparison-balancing-early-warnings-against-catastrophic-ai-risks-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tripwire-comparison-balancing-early-warnings-against-catastrophic-ai-risks-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tripwire-comparison-balancing-early-warnings-against-catastrophic-ai-risks-ai-doom-and-cybersecurity-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Humorous Cybersecurity Sign Your Password Was Weak So I Renamed Your #7701"><img src="{{ '/assets/images/marketplace-covers/e036725c9e430176d978.jpg' | relative_url }}" alt="Listing image for Humorous Cybersecurity Sign Your Password Was Weak So I Renamed Your #7701" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tripwire-comparison-balancing-early-warnings-against-catastrophic-ai-risks-ai-doom-and-cybersecurity-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Humorous Cybersecurity Sign Your Password Was Weak So I Renamed Your #7701</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tripwire-comparison-balancing-early-warnings-against-catastrophic-ai-risks-ai-doom-and-cybersecurity-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tripwire-comparison-balancing-early-warnings-against-catastrophic-ai-risks-ai-doom-and-cybersecurity-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balancing-early-warnings-against-catastrophic-ai-risks-cybersecurity-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cybersecurity sign" data-ebay-reference="balancing-early-warnings-against-catastrophic-ai-risks-cybersecurity-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -555,15 +472,15 @@ In debates about AI doom and existential risk, the tension between early‑warni
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tripwire-comparison-balancing-early-warnings-against-catastrophic-ai-risks-ai-doom-and-cybersecurity-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A History of Cyber Security Attacks: 1980 to Present - HC 2017 SIGNED"><img src="{{ '/assets/images/marketplace-covers/d07e5a083650c56364a1.jpg' | relative_url }}" alt="Listing image for A History of Cyber Security Attacks: 1980 to Present - HC 2017 SIGNED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balancing-early-warnings-against-catastrophic-ai-risks-cybersecurity-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cybersecurity sign" data-ebay-reference="balancing-early-warnings-against-catastrophic-ai-risks-cybersecurity-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Secure Enough? Signed 1st Edition 2017 Cybersecurity for Business Owners Execs"><img src="https://i.ebayimg.com/images/g/~hsAAeSwzz5odVOk/s-l225.jpg" alt="Listing image for Secure Enough? Signed 1st Edition 2017 Cybersecurity for Business Owners Execs" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tripwire-comparison-balancing-early-warnings-against-catastrophic-ai-risks-ai-doom-and-cybersecurity-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A History of Cyber Security Attacks: 1980 to Present - HC 2017 SIGNED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balancing-early-warnings-against-catastrophic-ai-risks-cybersecurity-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cybersecurity sign" data-ebay-reference="balancing-early-warnings-against-catastrophic-ai-risks-cybersecurity-sign" target="_blank" rel="sponsored noopener noreferrer">Secure Enough? Signed 1st Edition 2017 Cybersecurity for Business Owners Execs</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tripwire-comparison-balancing-early-warnings-against-catastrophic-ai-risks-ai-doom-and-cybersecurity-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity sign</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balancing-early-warnings-against-catastrophic-ai-risks-cybersecurity-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cybersecurity sign" data-ebay-reference="balancing-early-warnings-against-catastrophic-ai-risks-cybersecurity-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity sign</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tripwire-comparison-balancing-early-warnings-against-catastrophic-ai-risks-ai-doom-and-cybersecurity-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balancing-early-warnings-against-catastrophic-ai-risks-cybersecurity-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cybersecurity sign" data-ebay-reference="balancing-early-warnings-against-catastrophic-ai-risks-cybersecurity-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -571,15 +488,15 @@ In debates about AI doom and existential risk, the tension between early‑warni
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tripwire-comparison-balancing-early-warnings-against-catastrophic-ai-risks-ai-doom-and-cybersecurity-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalized Your Name Computer Repair Technician Cyber Security Sign Wall Clock"><img src="{{ '/assets/images/marketplace-covers/c1028b03439b8fbf2e80.jpg' | relative_url }}" alt="Listing image for Personalized Your Name Computer Repair Technician Cyber Security Sign Wall Clock" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balancing-early-warnings-against-catastrophic-ai-risks-cybersecurity-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cybersecurity sign" data-ebay-reference="balancing-early-warnings-against-catastrophic-ai-risks-cybersecurity-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for George Kurtz Signed 8 X 10 Photo Co-Founder CEO CrowdStrike Cybersecurity"><img src="https://i.ebayimg.com/images/g/lIEAAeSwgYZo8wXF/s-l225.jpg" alt="Listing image for George Kurtz Signed 8 X 10 Photo Co-Founder CEO CrowdStrike Cybersecurity" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tripwire-comparison-balancing-early-warnings-against-catastrophic-ai-risks-ai-doom-and-cybersecurity-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Personalized Your Name Computer Repair Technician Cyber Security Sign Wall Clock</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balancing-early-warnings-against-catastrophic-ai-risks-cybersecurity-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cybersecurity sign" data-ebay-reference="balancing-early-warnings-against-catastrophic-ai-risks-cybersecurity-sign" target="_blank" rel="sponsored noopener noreferrer">George Kurtz Signed 8 X 10 Photo Co-Founder CEO CrowdStrike Cybersecurity</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tripwire-comparison-balancing-early-warnings-against-catastrophic-ai-risks-ai-doom-and-cybersecurity-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity sign</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balancing-early-warnings-against-catastrophic-ai-risks-cybersecurity-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cybersecurity sign" data-ebay-reference="balancing-early-warnings-against-catastrophic-ai-risks-cybersecurity-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity sign</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tripwire-comparison-balancing-early-warnings-against-catastrophic-ai-risks-ai-doom-and-cybersecurity-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balancing-early-warnings-against-catastrophic-ai-risks-cybersecurity-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cybersecurity sign" data-ebay-reference="balancing-early-warnings-against-catastrophic-ai-risks-cybersecurity-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -587,15 +504,15 @@ In debates about AI doom and existential risk, the tension between early‑warni
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tripwire-comparison-balancing-early-warnings-against-catastrophic-ai-risks-ai-doom-and-cybersecurity-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cybersecurity Matters Sign Digital Aesthetic Padlock Decor Tech #7758"><img src="{{ '/assets/images/marketplace-covers/0f14d04f4ededf4d657f.jpg' | relative_url }}" alt="Listing image for Cybersecurity Matters Sign Digital Aesthetic Padlock Decor Tech #7758" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balancing-early-warnings-against-catastrophic-ai-risks-cybersecurity-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cybersecurity sign" data-ebay-reference="balancing-early-warnings-against-catastrophic-ai-risks-cybersecurity-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for George Kurtz Signed 8 X 10 Photo Co-Founder CEO CrowdStrike Cybersecurity"><img src="https://i.ebayimg.com/images/g/uKAAAeSwz59o8wWk/s-l225.jpg" alt="Listing image for George Kurtz Signed 8 X 10 Photo Co-Founder CEO CrowdStrike Cybersecurity" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tripwire-comparison-balancing-early-warnings-against-catastrophic-ai-risks-ai-doom-and-cybersecurity-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Cybersecurity Matters Sign Digital Aesthetic Padlock Decor Tech #7758</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balancing-early-warnings-against-catastrophic-ai-risks-cybersecurity-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cybersecurity sign" data-ebay-reference="balancing-early-warnings-against-catastrophic-ai-risks-cybersecurity-sign" target="_blank" rel="sponsored noopener noreferrer">George Kurtz Signed 8 X 10 Photo Co-Founder CEO CrowdStrike Cybersecurity</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tripwire-comparison-balancing-early-warnings-against-catastrophic-ai-risks-ai-doom-and-cybersecurity-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity sign</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balancing-early-warnings-against-catastrophic-ai-risks-cybersecurity-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cybersecurity sign" data-ebay-reference="balancing-early-warnings-against-catastrophic-ai-risks-cybersecurity-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity sign</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tripwire-comparison-balancing-early-warnings-against-catastrophic-ai-risks-ai-doom-and-cybersecurity-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balancing-early-warnings-against-catastrophic-ai-risks-cybersecurity-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cybersecurity sign" data-ebay-reference="balancing-early-warnings-against-catastrophic-ai-risks-cybersecurity-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -603,7 +520,7 @@ In debates about AI doom and existential risk, the tension between early‑warni
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tripwire-comparison-balancing-early-warnings-against-catastrophic-ai-risks-ai-doom-and-cybersecurity-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balancing-early-warnings-against-catastrophic-ai-risks-cybersecurity-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cybersecurity sign" data-ebay-reference="balancing-early-warnings-against-catastrophic-ai-risks-cybersecurity-sign" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -680,17 +597,31 @@ In debates about AI doom and existential risk, the tension between early‑warni
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -703,42 +634,73 @@ In debates about AI doom and existential risk, the tension between early‑warni
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -753,12 +715,17 @@ In debates about AI doom and existential risk, the tension between early‑warni
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -876,4 +843,4 @@ In debates about AI doom and existential risk, the tension between early‑warni
    Source: link.springer.com  
    Link: <a href="https://link.springer.com/article/10.1007/s44206-024-00095-1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s44206-024-00095-1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Risk Assessment: A Scenario-Based, Proportional Methodology for the AI Act | Digital Society | Springer Nature LinkMarch 7, 2024 — AI RIS...</p></details>
-   Published: March 7, 2024  
+   Published: March 7, 2024

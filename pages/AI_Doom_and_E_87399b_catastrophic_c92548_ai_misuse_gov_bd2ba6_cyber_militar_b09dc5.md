@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /ai-misuse-governance/
 nav_short_title: Cyber & Defense
 title: Where Cybersecurity AI Escapes Regulation
-title_full: Where Cybersecurity AI Escapes Regulation | AI Misuse Governance
+title_full: Where Cybersecurity AI Escapes Regulation
 display_title_short: Cyber & Defense
 display_title: Cyber & Defense
 heading_title: Where Cybersecurity AI Escapes Regulation
@@ -202,7 +202,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 15:17:54'
-parent_title: Why Policy Gaps Heighten Risks of AI Misuse | Misuse
+parent_title: Why Policy Gaps Heighten Risks of AI Misuse
 parent_permalink: /ai-misuse-governance/
 parent_nav_short_title: AI Misuse Governance
 parent_heading_title: Why Policy Gaps Heighten Risks of AI Misuse
@@ -269,7 +269,6 @@ image: /assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2
 
 One of the least discussed [governance]({{ 'governance/' | relative_url }}) gaps in the AI doom debate sits at the intersection of cybersecurity, military systems and national security law. While governments increasingly regulate civilian AI, many of the most powerful AI-enabled cyber capabilities fall partly or entirely outside those frameworks. Defence systems, intelligence programmes, cyber operations and dual-use security tools are often subject to separate rules, classified oversight or explicit legal exemptions. The result is a regulatory blind spot: some of the AI systems most relevant to strategic instability, autonomous cyber conflict and loss-of-control concerns receive less public scrutiny than consumer-facing applications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://verfassungsblog.de/the-ai-act-national-security-exception/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verfassungsblog.de">[Verfassungsblog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verfassungsblog.de</span><span class="citation-popover-title">the ai act national security exception</span><span class="citation-popover-snippet">The AI Act National Security Exceptionby P Vogiatzoglou · 2024 · Cited by 4 — AI systems are not subject to the AI Act whe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cetas.turing.ac.uk/publications/eu-ai-act-national-security-implications" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cetas.turing.ac.uk">[TechSec Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cetas.turing.ac.uk</span><span class="citation-popover-snippet">TechSec CenterThe EU AI Act: National Security Implications31 Jul 2024 — This exclusion applies to both public and private entities devel...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6_cyber_militar_b09dc5-Illustration-1-dark.svg" | relative_url }}" alt="Cyber &amp; Defense illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6_cyber_militar_b09dc5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6_cyber_militar_b09dc5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For people worried about AI doom or broader existential risk, this matters because advanced cyber capabilities are one of the most plausible routes through which powerful AI systems could gain strategic influence. An AI able to discover software vulnerabilities, conduct large-scale cyber operations, automate defence penetration or manipulate digital infrastructure could become relevant not just to ordinary cybercrime but to military escalation, critical infrastructure disruption and state-level competition. The governance question is therefore not simply whether AI can be used in cybersecurity. It is whether the systems operating in these domains are subject to oversight strong enough to detect dangerous failures before they become systemic.
 
@@ -297,7 +296,6 @@ This does not mean NATO or similar organisations are secretly building uncontrol
 
 As AI capabilities improve, this dual-use character becomes more significant. Advanced models increasingly demonstrate abilities relevant to coding, vulnerability discovery, malware analysis and automated system interaction. Regulators may find themselves overseeing the civilian side of these capabilities while having limited visibility into how equivalent systems are being developed or deployed within classified environments.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v07Y4fmSi6Y" title="Risks of Agentic AI: What You Need to Know About Autonomous AI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v07Y4fmSi6Y" target="_blank" rel="noopener noreferrer">Risks of Agentic AI: What You Need to Know About Autonomous AI</a></p><p class="youtube-embed-meta">Channel: IBM Technology &middot; Views: 90.9K &middot; Uploaded: May 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v07Y4fmSi6Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v07Y4fmSi6Y">Open on YouTube</a></p></div></div></div>
 
 ## Offensive and Defensive Cyber AI Are Hard to Separate
@@ -313,7 +311,6 @@ Defensive AI can include:
 * Incident-response automation.
 
 Offensive AI can include:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -331,7 +328,6 @@ This overlap becomes particularly important in AI doom discussions because some 
 
 Most experts do not claim current AI systems possess such capabilities. The concern is that governance frameworks built around today's tools may not scale well if future systems become substantially more autonomous and strategically capable.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/d6bzJf18QYE" title="What Are The Legal Challenges Of AI In Warfare? - AI and Technology Law" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=d6bzJf18QYE" target="_blank" rel="noopener noreferrer">What Are The Legal Challenges Of AI In Warfare? - AI and Technology Law</a></p><p class="youtube-embed-meta">Channel: AI and Technology Law &middot; Views: 15 &middot; Uploaded: September 2025 &middot; Length: 3 minutes 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=d6bzJf18QYE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=d6bzJf18QYE">Open on YouTube</a></p></div></div></div>
 
 ## The Classification Problem
@@ -347,7 +343,6 @@ If a military AI system exhibits dangerous behaviour, external researchers may n
 This issue extends beyond autonomous weapons. Analysts of military AI governance increasingly argue that public debate focuses heavily on lethal autonomous weapons while giving less attention to AI decision-support systems, intelligence analysis tools and cyber operations platforms. Yet these systems may become more widely deployed and more strategically consequential than fully autonomous weapons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rsis.edu.sg/rsis-publication/idss/ip24054-military-ai-governance-moving-beyond-autonomous-weapon-systems/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rsis.edu.sg">[@RSIS_NTU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rsis.edu.sg</span><span class="citation-popover-title">ip24054 military ai governance moving beyond autonomous weapon systems</span><span class="citation-popover-snippet">@RSIS_NTUIP24054 &#124; Military AI Governance: Moving Beyond...24 Jun 2024 — Governance of artificial intelligence in the military domain ha...</span></span></span>
 
 For existential-risk discussions, this creates an information problem. If [warning signs]({{ 'warning-signs/' | relative_url }}) of dangerous autonomy or loss of human control emerge first inside classified cyber or defence systems, the wider research community may receive little advance notice.
-
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6_cyber_militar_b09dc5-Illustration-2-dark.svg" | relative_url }}" alt="Cyber &amp; Defense illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6_cyber_militar_b09dc5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6_cyber_militar_b09dc5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Cybersecurity Matters in AI Doom Scenarios
@@ -367,7 +362,6 @@ From a doom perspective, the concern is not merely that cyber attacks become mor
 Even when governments recognise these risks, institutional fragmentation remains a major obstacle.
 
 Different parts of government often oversee:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -389,7 +383,6 @@ Legal analysts examining the EU AI Act have repeatedly highlighted this difficul
 
 This coordination problem is especially relevant to [catastrophic]({{ 'misuse/' | relative_url }})-risk discussions because existential risks are often cross-sector by nature. A failure that begins in one domain may rapidly spread into others.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6_cyber_militar_b09dc5-Illustration-3-dark.svg" | relative_url }}" alt="Cyber &amp; Defense illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6_cyber_militar_b09dc5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6_cyber_militar_b09dc5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Serious Mitigation Efforts Look Like
 
@@ -406,7 +399,6 @@ Rather than regulating systems according to whether they are military or civilia
 ### Joint cyber and AI safety assessments
 
 Traditional cybersecurity reviews focus on vulnerabilities, access controls and resilience. AI safety evaluations focus on model behaviour, autonomy and alignment. Advanced cyber agents may require both forms of assessment simultaneously, particularly if they can take actions without continuous human approval.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UOQuE8nOwBo" title="AI Governance Is Already Broken — Here’s How to Fix It | Graeme Rudd (Arise Framework) S1E19" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UOQuE8nOwBo" target="_blank" rel="noopener noreferrer">AI Governance Is Already Broken — Here’s How to Fix It | Graeme Rudd (Arise Framework) S1E19</a></p><p class="youtube-embed-meta">Channel: The Cyber Mettle Podcast with Alyson &amp; Omar &middot; Views: 16 &middot; Uploaded: April 2026 &middot; Length: 56 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UOQuE8nOwBo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UOQuE8nOwBo">Open on YouTube</a></p></div></div></div>
 

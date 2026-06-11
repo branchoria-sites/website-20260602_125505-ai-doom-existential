@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /timeline-effects/
 nav_short_title: Survey evidence
 title: What AI surveys really say about doom
-title_full: What AI surveys really say about doom | Timeline Effects
+title_full: What AI surveys really say about doom
 display_title_short: Survey evidence
 display_title: Survey evidence
 heading_title: What AI surveys really say about doom
@@ -204,7 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 19:03:20'
-parent_title: How AI Development Timelines Shape Doom Estimates | P Doom
+parent_title: How AI Development Timelines Shape Doom Estimates
 parent_permalink: /timeline-effects/
 parent_nav_short_title: Timeline Effects
 parent_heading_title: How AI Development Timelines Shape Doom Estimates
@@ -271,7 +271,6 @@ image: /assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_ed
 
 AI researcher surveys are often treated as a reality check in debates about AI doom and p(doom), the estimated probability that advanced AI causes existential catastrophe. They matter because they ask the people closest to the technology two related questions: how soon highly capable AI systems might arrive, and how much risk those systems could pose.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93_ai_surveys_ti_3e6c9e-Illustration-1-dark.svg" | relative_url }}" alt="Survey evidence illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93_ai_surveys_ti_3e6c9e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93_ai_surveys_ti_3e6c9e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The headline finding is not that experts agree on either question. It is almost the opposite. Large surveys of AI researchers consistently show enormous disagreement about timelines, [catastrophic]({{ 'misuse/' | relative_url }}) risk, and humanity's ability to manage increasingly powerful systems. Yet they also show that existential-risk concerns are no longer confined to a small fringe. A meaningful fraction of researchers assign non-trivial probabilities to extremely bad outcomes, including scenarios as severe as human extinction. <span class="citation-chip-wrap"><a class="citation-chip" href="http://www.youtube.com/watch?v=xwJx_xqZI3Q" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[AI Impacts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">AI Impacts Survey</span><span class="citation-popover-snippet">AI Impacts Survey</span></span></span>
 
@@ -289,7 +288,6 @@ This disagreement has been visible across multiple generations of surveys. Earli
 
 For readers trying to interpret p(doom) debates, this means there is no single “expert timeline”. There is a distribution of views, ranging from relatively near-term expectations to much longer horizons.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xwJx_xqZI3Q" title="AI Impacts Survey - The key implications, with Katja Grace" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xwJx_xqZI3Q" target="_blank" rel="noopener noreferrer">AI Impacts Survey - The key implications, with Katja Grace</a></p><p class="youtube-embed-meta">Channel: London Futurists &middot; Views: 281 &middot; Uploaded: June 2024 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xwJx_xqZI3Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xwJx_xqZI3Q">Open on YouTube</a></p></div></div></div>
 
 ## What catastrophic-risk questions reveal
@@ -304,7 +302,6 @@ These numbers are noteworthy because they come from researchers working directly
 
 That combination can appear contradictory, but it reflects genuine uncertainty. Advanced AI could plausibly produce extraordinary benefits, serious harms, or both. Survey respondents often express uncertainty about which path will dominate rather than confidence in any single outcome.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93_ai_surveys_ti_3e6c9e-Illustration-2-dark.svg" | relative_url }}" alt="Survey evidence illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93_ai_surveys_ti_3e6c9e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93_ai_surveys_ti_3e6c9e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why wording changes the results
 
@@ -317,7 +314,6 @@ For example, some researchers may regard extinction as an exceptionally unlikely
 Timeline questions have similar problems. Forecasts about "human-level AI", "artificial general intelligence", "transformative AI", and "full automation of labour" often produce different answers because respondents are imagining different thresholds. <span class="citation-chip-wrap"><a class="citation-chip" href="http://www.youtube.com/watch?v=xwJx_xqZI3Q" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[AI Impacts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">AI Impacts Survey</span><span class="citation-popover-snippet">AI Impacts Survey</span></span></span>
 
 This helps explain why survey findings are sometimes presented in seemingly contradictory ways. One article may emphasise relatively [short timelines]({{ 'short-timelines/' | relative_url }}), while another highlights continuing uncertainty. Both can be accurate descriptions of the same underlying dataset.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hliLDNdxkX0" title="Surveying 2,700+ AI Researchers on the Industry&#x27;s Future with Katja Grace of AI Impacts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hliLDNdxkX0" target="_blank" rel="noopener noreferrer">Surveying 2,700+ AI Researchers on the Industry&#x27;s Future with Katja Grace of AI Impacts</a></p><p class="youtube-embed-meta">Channel: Cognitive Revolution &quot;How AI Changes Everything&quot; &middot; Views: 2.2K &middot; Uploaded: March 2024 &middot; Length: 1 hour 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hliLDNdxkX0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hliLDNdxkX0">Open on YouTube</a></p></div></div></div>
 
@@ -333,7 +329,6 @@ Third, disagreement about timelines is only one source of disagreement about doo
 
 Finally, survey results change over time. The rapid progress of large language models altered many researchers' expectations between the early 2020s and the mid-2020s, leading some surveys to report shorter timelines than previous editions. Future developments could shift expectations again in either direction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2401.02843" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Thousands of AI Authors on the Future of AI</span><span class="citation-popover-snippet">arXiv Thousands of AI Authors on the Future of AI</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93_ai_surveys_ti_3e6c9e-Illustration-3-dark.svg" | relative_url }}" alt="Survey evidence illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93_ai_surveys_ti_3e6c9e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93_ai_surveys_ti_3e6c9e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What readers should take away
 
@@ -347,9 +342,7 @@ Third, uncertainty remains enormous. The same datasets that reveal concern also 
 
 For debates about AI doom, that combination is perhaps the most important finding of all. The survey evidence does not demonstrate that catastrophe is inevitable, nor does it show that existential-risk concerns can be safely dismissed. Instead, it suggests that informed experts remain deeply divided on some of the most consequential questions about humanity's future with advanced AI. <span class="citation-chip-wrap"><a class="citation-chip" href="http://www.youtube.com/watch?v=xwJx_xqZI3Q" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[AI Impacts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">AI Impacts Survey</span><span class="citation-popover-snippet">AI Impacts Survey</span></span></span> 2arXiv
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zQ1POHiR8m8" title="Godfather of AI: We Have 2 Years Before Everything Changes!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zQ1POHiR8m8" target="_blank" rel="noopener noreferrer">Godfather of AI: We Have 2 Years Before Everything Changes!</a></p><p class="youtube-embed-meta">Channel: The Diary Of A CEO &middot; Views: 2.1M &middot; Uploaded: December 2025 &middot; Length: 1 hour 39 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zQ1POHiR8m8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zQ1POHiR8m8">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /shared-rules/
 nav_short_title: Evaluations
 title: Can shared tests slow a reckless AI race?
-title_full: Can shared tests slow a reckless AI race? | Shared Rules
+title_full: Can shared tests slow a reckless AI race?
 display_title_short: Evaluations
 display_title: Evaluations
 heading_title: Can shared tests slow a reckless AI race?
@@ -204,7 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 18:58:58'
-parent_title: How Shared Rules Could Slow the Race | Race Pressure
+parent_title: How Shared Rules Could Slow the Race
 parent_permalink: /shared-rules/
 parent_nav_short_title: Shared Rules
 parent_heading_title: How Shared Rules Could Slow the Race
@@ -271,7 +271,6 @@ image: /assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a7
 
 The idea behind shared [AI evaluations]({{ 'ai-evaluations/' | relative_url }}) is straightforward: if every major developer is expected to run similar safety tests before deploying powerful systems, then skipping safety work becomes harder to justify as a competitive shortcut.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf_shared_evalua_7938d8-Illustration-1-dark.svg" | relative_url }}" alt="Evaluations illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf_shared_evalua_7938d8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf_shared_evalua_7938d8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters because many AI doom arguments are not only about whether advanced systems could become dangerous. They are also about whether companies and governments would notice [warning signs]({{ 'warning-signs/' | relative_url }}) in time, and whether they would feel able to slow down if they did. In a fast-moving AI race, a lab that spends extra time testing for dangerous capabilities may fear losing ground to rivals. Shared evaluations try to change that incentive structure. If comparable tests become a normal expectation across the industry, then releasing first without passing them carries greater reputational, commercial, and potentially regulatory costs.
 
@@ -307,7 +306,6 @@ The UK AI Security Institute has also published work examining whether models wo
 
 For doom-focused arguments, these evaluations matter because they attempt to test the very behaviours that could make conventional oversight fail.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sVfWn4PQ7vM" title="Understanding the Most Viral Chart in Artificial Intelligence | Odd Lots" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sVfWn4PQ7vM" target="_blank" rel="noopener noreferrer">Understanding the Most Viral Chart in Artificial Intelligence | Odd Lots</a></p><p class="youtube-embed-meta">Channel: Bloomberg Podcasts &middot; Views: 3.1K &middot; Uploaded: April 2026 &middot; Length: 56 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sVfWn4PQ7vM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sVfWn4PQ7vM">Open on YouTube</a></p></div></div></div>
 
 ## How comparable testing changes competitive pressure
@@ -319,7 +317,6 @@ Without common expectations, a company may face a difficult trade-off. Spending 
 Shared evaluations attempt to reduce that asymmetry.
 
 If multiple developers use broadly comparable tests, several changes occur:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -349,7 +346,6 @@ From a race-dynamics perspective, third-party testing also makes it harder for c
 
 This does not guarantee restraint. But it can increase the political and reputational cost of abandoning previously accepted safety expectations.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf_shared_evalua_7938d8-Illustration-2-dark.svg" | relative_url }}" alt="Evaluations illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf_shared_evalua_7938d8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf_shared_evalua_7938d8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why evaluations may matter more than formal pauses
 
@@ -364,7 +360,6 @@ Supporters argue that this approach may be more politically realistic because it
 This helps explain why evaluation frameworks have become one of the most widely discussed governance mechanisms among frontier AI developers, safety researchers, and government institutes. They offer a concrete process for converting abstract concern about catastrophic risk into operational decisions about release and deployment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/technical-reports/frontier-capability-assessments/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">frontier capability assessments</span><span class="citation-popover-snippet">Frontier Model ForumFrontier Capability Assessments22 Apr 2025 — Frontier Capability Assessments are procedures conducted on frontier mod...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2507.16534v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[Frontier]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Frontier AI Risk Management Framework in PracticeThis task measures AI models&#x27; ability to troubleshoot biological laboratory protocols an...</span></span></span>
 
 For people worried about AI doom, evaluations are attractive because they create opportunities to discover dangerous capabilities before systems are deeply integrated into society. The hope is that evidence can trigger caution before competitive pressures become overwhelming.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kNaZU9bz-UM" title="Inspect, an OSS Framework for LLM Evals" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kNaZU9bz-UM" target="_blank" rel="noopener noreferrer">Inspect, an OSS Framework for LLM Evals</a></p><p class="youtube-embed-meta">Channel: Hamel Husain &middot; Views: 8.5K &middot; Uploaded: July 2024 &middot; Length: 46 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kNaZU9bz-UM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kNaZU9bz-UM">Open on YouTube</a></p></div></div></div>
 
@@ -384,7 +379,6 @@ If future systems become capable of strategically concealing dangerous behaviour
 
 This concern occupies a special place in AI-doom arguments because a system that can successfully hide dangerous tendencies may pass safety tests while remaining unsafe.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf_shared_evalua_7938d8-Illustration-3-dark.svg" | relative_url }}" alt="Evaluations illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf_shared_evalua_7938d8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf_shared_evalua_7938d8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Benchmarks age quickly
 
@@ -401,7 +395,6 @@ Researchers have also found significant quality problems in existing AI benchmar
 A large review involving researchers from institutions including the UK AI Security Institute identified weaknesses across hundreds of commonly used benchmarks. Reported problems included unclear definitions, weak validation methods, and measurements that may not accurately capture the concepts they claim to assess. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/technology/2025/nov/04/experts-find-flaws-hundreds-tests-check-ai-safety-effectiveness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The study found nearly all benchmarks had weaknesses, with some being misleading or irrelevant, thereby undermining claims about AI model...</span></span></span>
 
 For existential-risk discussions, this matters because confidence in deployment decisions may ultimately depend on benchmark quality. Weak tests can create an illusion of safety while leaving major uncertainties unresolved.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/c82xuCSx_9k" title="Scientists Graded AI Companies On Safety … It Went Badly" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=c82xuCSx_9k" target="_blank" rel="noopener noreferrer">Scientists Graded AI Companies On Safety … It Went Badly</a></p><p class="youtube-embed-meta">Channel: Siliconversations &middot; Views: 285.8K &middot; Uploaded: August 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=c82xuCSx_9k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=c82xuCSx_9k">Open on YouTube</a></p></div></div></div>
 

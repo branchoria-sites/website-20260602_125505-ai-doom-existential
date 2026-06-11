@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /cloud-oversight/
 nav_short_title: Evasion risks
 title: Can frontier AI training hide from clouds?
-title_full: Can frontier AI training hide from clouds? | Cloud Oversight
+title_full: Can frontier AI training hide from clouds?
 display_title_short: Evasion risks
 display_title: Evasion risks
 heading_title: Can frontier AI training hide from clouds?
@@ -204,7 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-02 12:25:46'
-parent_title: Can Cloud Providers Police Frontier AI Training? | Governance
+parent_title: Can Cloud Providers Police Frontier AI Training?
 parent_permalink: /cloud-oversight/
 parent_nav_short_title: Cloud Oversight
 parent_heading_title: Can Cloud Providers Police Frontier AI Training?
@@ -277,7 +277,6 @@ image: /assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bb
 
 Cloud [monitoring]({{ 'monitoring/' | relative_url }}) is often presented as one of the most practical ways to oversee frontier AI development. The logic is straightforward: if training the most capable AI systems requires enormous amounts of specialised computing power, then major cloud providers may be able to detect, record, and sometimes restrict the largest training runs. For people concerned about AI doom or loss-of-control scenarios, this visibility could provide an early warning system before highly capable models are deployed.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549_cloud_monitor_82c6db-Illustration-1-dark.svg" | relative_url }}" alt="Evasion risks illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549_cloud_monitor_82c6db-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549_cloud_monitor_82c6db-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 However, cloud monitoring only works if the relevant activity remains visible to regulated providers. Critics and policy researchers have therefore focused on a key question: could developers deliberately or unintentionally move important frontier AI work outside the scope of [cloud oversight]({{ 'cloud-oversight/' | relative_url }})? The answer is probably yes to some degree, although there is substantial disagreement about how difficult large-scale evasion would actually be. The debate centres not on whether evasion is possible in principle, but on how costly, detectable, and scalable it would be. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.governance.ai/Governing-Through-the-Cloud_The-Intermediary-Role-of-Compute-Providers-in-AI-Regulation.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.governance.ai">[cdn.governance.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.governance.ai</span><span class="citation-popover-title">TH E INTERMEDIARY ROLE OF COMPUTE PROVIDERS</span><span class="citation-popover-snippet">THE INTERMEDIARY ROLE OF COMPUTE PROVIDERS...March 26, 2024 — by L Heim · 2024 · Cited by 19 — In the current ecosystem, frontier AI mod...</span><span class="citation-popover-meta">Published: March 26, 2024</span></span></span>
 
@@ -289,7 +288,6 @@ The central concern is that developers may adapt once monitoring exists. If regu
 
 Importantly, most discussions focus on future possibilities rather than documented cases of frontier AI developers successfully concealing existentially significant training runs. The evidence base remains largely prospective. Analysts are examining vulnerabilities before comprehensive cloud-monitoring systems are widely implemented. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rand.org/pubs/research_reports/RRA3686-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-title">RRA3686 1</span><span class="citation-popover-snippet">RAND CorporationStrategies and Detection Gaps in a Game-Theoretic Model...16 Jun 2025 — The authors outline strategies for cloud service...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Wa0ULIyychs" title="Enterprise AI Infrastructure Security Series - 5) Compute &amp; Data Access Governance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Wa0ULIyychs" target="_blank" rel="noopener noreferrer">Enterprise AI Infrastructure Security Series - 5) Compute &amp; Data Access Governance</a></p><p class="youtube-embed-meta">Channel: ClearML &middot; Views: 33.1K &middot; Uploaded: March 2026 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Wa0ULIyychs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Wa0ULIyychs">Open on YouTube</a></p></div></div></div>
 
 ## Splitting workloads and blurring thresholds
@@ -297,7 +295,6 @@ Importantly, most discussions focus on future possibilities rather than document
 One of the most frequently discussed evasion risks is sometimes called compute structuring. The basic idea is similar to financial "structuring" used to avoid reporting thresholds: instead of conducting one easily identifiable large training run, an organisation divides work into smaller components that individually appear less significant. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ojs.aaai.org/index.php/AAAI/article/view/41127/45088" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ojs.aaai.org">[AAAI Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ojs.aaai.org</span><span class="citation-popover-snippet">Compute structuring, a technique where AI developers split or modify compute workloads for the purpose of avoiding regulation, poses a ch...</span></span></span>
 
 Several broad possibilities are often discussed:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -314,7 +311,6 @@ At the same time, researchers argue that the problem may be less severe than it 
 
 A related concern involves algorithmic progress. If future techniques achieve the same capabilities using substantially less compute, systems that once required heavily monitored infrastructure could potentially be developed below existing thresholds. This possibility is frequently cited as a limitation of governance systems tied exclusively to compute measurements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://law-ai.org/the-role-of-compute-thresholds-for-ai-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law-ai.org">[Institute for Law &amp; AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law-ai.org</span><span class="citation-popover-title">Institute for Law &amp; AIThe Role of Compute Thresholds for AI Governance</span><span class="citation-popover-snippet">February 20, 2025 — This article discusses the role of training compute thresholds, which use training compute to determine which potenti...</span><span class="citation-popover-meta">Published: February 20, 2025</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549_cloud_monitor_82c6db-Illustration-2-dark.svg" | relative_url }}" alt="Evasion risks illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549_cloud_monitor_82c6db-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549_cloud_monitor_82c6db-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Private clusters and state-backed infrastructure
 
@@ -328,7 +324,6 @@ However, the counterargument is that constructing and operating cutting-edge AI 
 
 The practical question is therefore not whether private infrastructure exists—it clearly does—but whether truly frontier-scale projects can remain hidden for long while acquiring the necessary hardware and support systems.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KmhDr41bQIY" title="Governing through the cloud: the role of compute providers in AI regulation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KmhDr41bQIY" target="_blank" rel="noopener noreferrer">Governing through the cloud: the role of compute providers in AI regulation</a></p><p class="youtube-embed-meta">Channel: Oxford Martin School &middot; Views: 311 &middot; Uploaded: April 2024 &middot; Length: 1 hour 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KmhDr41bQIY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KmhDr41bQIY">Open on YouTube</a></p></div></div></div>
 
 ## Why international coordination matters for enforcement
@@ -338,7 +333,6 @@ Even a highly effective national monitoring regime faces a geographical problem.
 This concern appears repeatedly in compute-governance discussions. If one country imposes strict monitoring while others do not, developers may shift large training runs across borders. The result could be regulatory arbitrage, where governance affects location choices more than overall activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lawfaremedia.org/article/to-govern-ai-we-must-govern-compute" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Lawfare">[Default]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Lawfare</span><span class="citation-popover-title">to govern ai we must govern compute</span><span class="citation-popover-snippet">DefaultTo Govern AI, We Must Govern Computeby L Heim · 2024 · Cited by 2 — Compute governance can support AI policy goals in multiple way...</span></span></span>
 
 For that reason, many proposals emphasise international coordination rather than purely domestic regulation. Suggested approaches include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -354,7 +348,6 @@ Supporters argue that compute governance becomes more robust as participation ex
 
 This creates a familiar tension within AI doom debates. Many proposed safeguards become stronger with international cooperation, yet geopolitical rivalry may simultaneously make that cooperation harder to achieve.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549_cloud_monitor_82c6db-Illustration-3-dark.svg" | relative_url }}" alt="Evasion risks illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549_cloud_monitor_82c6db-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549_cloud_monitor_82c6db-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How serious are the evasion risks?
 
@@ -364,9 +357,7 @@ The strongest response is that perfect visibility is not the relevant standard. 
 
 From an AI doom perspective, the key issue is whether monitoring can meaningfully improve the odds of detecting dangerous capability development before a loss-of-control scenario emerges. The debate is therefore less about achieving perfect enforcement and more about whether cloud oversight can shift frontier AI development from being largely opaque to at least partially observable. Evasion risks are one of the main reasons many researchers view cloud monitoring as only one component of a broader package that may also include chip governance, [evaluations]({{ 'evaluations/' | relative_url }}), incident reporting, and international coordination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ai-safety-atlas.com/chapters/v1/governance/compute-governance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ai-safety-atlas.com">[ai-safety-atlas.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ai-safety-atlas.com</span><span class="citation-popover-title">Compute Governance</span><span class="citation-popover-snippet">Chapter 4Compute requirements directly constrain what AI systems can be built - even with cutting-edge algorithms and vast datasets, orga...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lawfaremedia.org/article/to-govern-ai-we-must-govern-compute" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Lawfare">[Default]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Lawfare</span><span class="citation-popover-title">to govern ai we must govern compute</span><span class="citation-popover-snippet">DefaultTo Govern AI, We Must Govern Computeby L Heim · 2024 · Cited by 2 — Compute governance can support AI policy goals in multiple way...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OrWdNdRSJzU" title="Agent security bypasses in practice &amp; Governance gaps for enterprise agents - AI News (Apr 22, 2026)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OrWdNdRSJzU" target="_blank" rel="noopener noreferrer">Agent security bypasses in practice &amp; Governance gaps for enterprise agents - AI News (Apr 22, 2026)</a></p><p class="youtube-embed-meta">Channel: The Automated Daily &middot; Views: 2 &middot; Uploaded: April 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OrWdNdRSJzU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OrWdNdRSJzU">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-p-doom-estima/
 description: Focused pages that expand on Timeline Effects.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93
-parent_title: Timeline Effects | P Doom
+parent_title: Timeline Effects
 parent_nav_short_title: Timeline Effects
 parent_permalink: /timeline-effects/
 ---

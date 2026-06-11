@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-compute-gover/
 description: Focused pages that expand on Thresholds.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38
-parent_title: Thresholds | Governance
+parent_title: Thresholds
 parent_nav_short_title: Thresholds
 parent_permalink: /thresholds/
 ---

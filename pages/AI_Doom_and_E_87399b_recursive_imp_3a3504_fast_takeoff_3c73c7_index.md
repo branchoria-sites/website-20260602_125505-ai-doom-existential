@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-recursive-imp/
 description: Focused pages that expand on Fast takeoff.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7
-parent_title: Fast takeoff | AI Takeoff
+parent_title: Fast takeoff
 parent_nav_short_title: Fast takeoff
 parent_permalink: /fast-takeoff/
 ---

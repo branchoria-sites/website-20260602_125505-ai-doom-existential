@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-deceptive-ali/
 description: Focused pages that expand on Anti Scheming Training.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_deceptive_ali_f9f449_anti_scheming_fa32c6
-parent_title: Anti Scheming Training | Scheming Tests
+parent_title: Anti Scheming Training
 parent_nav_short_title: Anti Scheming Training
 parent_permalink: /anti-scheming-training/
 ---

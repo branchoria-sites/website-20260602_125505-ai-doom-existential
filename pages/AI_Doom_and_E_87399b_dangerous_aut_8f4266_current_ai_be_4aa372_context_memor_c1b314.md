@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /current-benchmarks/
 nav_short_title: Context & Memory
 title: Why AI Agents Struggle to Keep Track Over Long Tasks
-title_full: Why AI Agents Struggle to Keep Track Over Long Tasks | Current Benchmarks
+title_full: Why AI Agents Struggle to Keep Track Over Long Tasks
 display_title_short: Context & Memory
 display_title: Context & Memory
 heading_title: Why AI Agents Struggle to Keep Track Over Long Tasks
@@ -202,7 +202,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 12:17:32'
-parent_title: What Current AI Agents Can (and Can't) Do | Autonomy
+parent_title: What Current AI Agents Can (and Can't) Do
 parent_permalink: /current-benchmarks/
 parent_nav_short_title: Current Benchmarks
 parent_heading_title: What Current AI Agents Can (and Can't) Do
@@ -275,7 +275,6 @@ image: /assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4a
 
 When people imagine future autonomous AI systems tackling multi‑stage real‑world projects — writing a book, managing research, or running a business process with minimal supervision — one practical question dominates the empirical debate: can today’s agents *keep track of what they’re doing over long sequences of steps*? Current research suggests they struggle not because they lack intelligence in individual steps, but because they consistently lose **context and memory** as tasks unfold. In benchmarks designed to stress these capabilities, performance drops markedly as sessions grow longer and internal state becomes harder to manage. These limitations are central to understanding how far current systems are from robust long‑horizon [autonomy]({{ 'autonomy/' | relative_url }}) — and why many scenarios of future AI risk assume *much stronger* memory and planning than today’s models actually exhibit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.30434" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_context_memor_c1b314-Illustration-1-dark.svg" | relative_url }}" alt="Context &amp; Memory illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_context_memor_c1b314-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_context_memor_c1b314-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Where Context and Memory Break Down in Long Tasks
 
@@ -294,7 +293,6 @@ Understanding why context and memory failures happen requires looking at how cur
 
 Most large language models operate with a **fixed context window** — a sliding window of recent tokens the model “sees” at once. Even engines with very large windows (hundreds of thousands of tokens) accumulate noise as tasks progress:
 
-
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
 * Early decisions and constraints become buried under later steps.
@@ -305,13 +303,11 @@ Most large language models operate with a **fixed context window** — a sliding
 
 This structural issue isn’t solved merely by expanding the window; it explains why researchers explore **state models** and memory layers that can summarise or selectively recall past information instead of just accumulating it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zylos.ai/research/2026-04-03-goal-persistence-drift-long-horizon-ai-agents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zylos.ai">[Zylos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zylos.ai</span><span class="citation-popover-title">Goal Persistence and Goal Drift in Long-Horizon AI Agents &#124; Zylos Research</span><span class="citation-popover-snippet">Goal Persistence and Goal Drift in Long-Horizon AI Agents &#124; Zylos ResearchApril 3, 2026...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4ZPr2hkV63k" title="NEW Self-Improving Memory For AI (Forget Memory.md)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4ZPr2hkV63k" target="_blank" rel="noopener noreferrer">NEW Self-Improving Memory For AI (Forget Memory.md)</a></p><p class="youtube-embed-meta">Channel: Discover AI &middot; Views: 12.6K &middot; Uploaded: May 2026 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4ZPr2hkV63k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4ZPr2hkV63k">Open on YouTube</a></p></div></div></div>
 
 ### Interference and Multi‑Target Memory Issues
 
 In benchmarks like LongMINT, information updates can *interfere* with earlier context, leading to:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -333,7 +329,6 @@ Beyond remembering facts, agents also often fail to keep *objectives* coherent:
 
 This isn’t merely about storage — it’s about maintaining semantic *meaning* over time, which current architectures handle poorly compared to humans or even classical software systems.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_context_memor_c1b314-Illustration-2-dark.svg" | relative_url }}" alt="Context &amp; Memory illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_context_memor_c1b314-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_context_memor_c1b314-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Examples from Long‑Horizon Benchmarks
 
@@ -354,7 +349,6 @@ Understanding context and memory limitations isn’t an academic quibble — it 
 
 In this sense, context and memory limitations are not minor engineering quirks but *central constraints* in assessing how far current systems are from genuinely robust long‑horizon autonomy — and how plausible certain speculative risk scenarios are under present technology trends.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WQ6MupnU82A" title="Why Agentic AI Risks Are Different: Prompt Injections &amp; Compounding Errors" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WQ6MupnU82A" target="_blank" rel="noopener noreferrer">Why Agentic AI Risks Are Different: Prompt Injections &amp; Compounding Errors</a></p><p class="youtube-embed-meta">Channel: TrustArc &middot; Views: 60 &middot; Uploaded: February 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WQ6MupnU82A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WQ6MupnU82A">Open on YouTube</a></p></div></div></div>
 
 ## What Researchers and Engineers Are Exploring
@@ -367,13 +361,11 @@ To overcome these bottlenecks, ongoing work points in several directions:
 
 None of these are complete solutions, but they reflect active recognition that context and memory are *design constraints*, not peripheral details.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lfhctiD_OPI" title="GenericAgent Fixing AI Memory" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lfhctiD_OPI" target="_blank" rel="noopener noreferrer">GenericAgent Fixing AI Memory</a></p><p class="youtube-embed-meta">Channel: MLSlops &middot; Views: 198 &middot; Uploaded: April 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lfhctiD_OPI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lfhctiD_OPI">Open on YouTube</a></p></div></div></div>
 
 ## Implications for Long‑Horizon Agent Capability
 
 In practical terms, context and memory failures impose a clear horizon beyond which current agents are unreliable without significant architectural support. Tasks that require:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -387,7 +379,6 @@ In practical terms, context and memory failures impose a clear horizon beyond wh
 are precisely where agents fail most often today. This suggests that, while individual reasoning steps may be strong, the *network of states and goals over time* is the true limiting factor for long‑horizon autonomy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.30434" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 By concentrating on the mechanisms by which state and memory falter over long sequences, researchers sharpen both empirical understanding and engineering priorities. For those assessing the pace of AI capability — and the distance to genuinely autonomous systems — context and memory limitations remain essential empirical constraints, not merely theoretical footnotes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.30434" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_context_memor_c1b314-Illustration-3-dark.svg" | relative_url }}" alt="Context &amp; Memory illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_context_memor_c1b314-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_context_memor_c1b314-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -948,4 +939,4 @@ By concentrating on the mechanisms by which state and memory falter over long se
    Title: riera.co.uk Long CL I-Bench  
    Link: <a href="https://ai.riera.co.uk/tools/benchmarking/longcli-bench/" target="_blank" rel="noopener noreferrer nofollow">https://ai.riera.co.uk/tools/benchmarking/longcli-bench/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>riera.co.ukLongCLI-Bench - Home-Office Automation &amp; AI HubMarch 1, 2026 — Home-Office Automation &amp; AI Hub LongCLI-Bench * [Input] LongCLI...</p></details>
-   Published: March 1, 2026  
+   Published: March 1, 2026

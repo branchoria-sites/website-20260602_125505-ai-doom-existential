@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /autonomy-vulnerabilities/
 nav_short_title: Tool misuse
 title: When agents have too much power
-title_full: When agents have too much power | Autonomy Vulnerabilities
+title_full: When agents have too much power
 display_title_short: Tool misuse
 display_title: Tool misuse
 heading_title: When agents have too much power
@@ -204,7 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 12:18:15'
-parent_title: Hidden Hazards in Autonomous AI Agents | Autonomy
+parent_title: Hidden Hazards in Autonomous AI Agents
 parent_permalink: /autonomy-vulnerabilities/
 parent_nav_short_title: Autonomy Vulnerabilities
 parent_heading_title: Hidden Hazards in Autonomous AI Agents
@@ -271,7 +271,6 @@ image: /assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_autonomy_secu_d6
 
 One reason AI doom and loss-of-control scenarios attract serious attention is that modern AI systems are increasingly being given the ability to do things, not just say things. A large language model that generates text can make mistakes. An AI agent connected to email accounts, cloud infrastructure, financial systems, software repositories, databases, or web browsers can turn mistakes into actions.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_autonomy_secu_d6c65d_overprivilege_d8e492-Illustration-1-dark.svg" | relative_url }}" alt="Tool misuse illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_autonomy_secu_d6c65d_overprivilege_d8e492-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_autonomy_secu_d6c65d_overprivilege_d8e492-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The specific concern examined here is not merely that agents may behave incorrectly. It is that they may be given more authority than they need, allowing small errors, misunderstandings, prompt injections, or forms of misalignment to trigger real-world consequences that are difficult or impossible to reverse. In AI safety discussions, this is often framed as a capability-control mismatch: the system has enough access to cause substantial effects, but lacks the reliability needed to justify that access. Recent security research increasingly identifies over-privileged agents as a distinct risk category rather than simply another software bug. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.09721" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Security Risks in Tool-Enabled AI Agents: A Systematic Analysis of Privileged Execution EnvironmentsMay 10, 2026...</span><span class="citation-popover-meta">Published: May 10, 2026</span></span></span>
 
@@ -309,7 +308,6 @@ Individually, each permission may appear reasonable. Collectively, however, they
 
 For example, an agent with access to internal documentation may discover credentials. An agent with deployment authority may modify software. An agent with communication privileges may distribute misleading instructions. None of these permissions alone appears [catastrophic]({{ 'misuse/' | relative_url }}), but their combination may enable outcomes designers never intended.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Aj8rs-F146I" title="How Palo Alto Networks Stops Agentic AI Threats in Real Time" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Aj8rs-F146I" target="_blank" rel="noopener noreferrer">How Palo Alto Networks Stops Agentic AI Threats in Real Time</a></p><p class="youtube-embed-meta">Channel: Palo Alto Networks &middot; Views: 70.7K &middot; Uploaded: March 2026 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Aj8rs-F146I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Aj8rs-F146I">Open on YouTube</a></p></div></div></div>
 
 ### Agents struggle to infer appropriate boundaries
@@ -326,7 +324,6 @@ The phrase "irreversible tool misuse" does not necessarily mean physically impos
 
 Examples include:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * Publishing confidential information that can be copied indefinitely.
@@ -341,7 +338,6 @@ Examples include:
 The concern is amplified by speed. Human operators may notice a problem after one incorrect action. An autonomous agent can potentially perform hundreds or thousands of actions before intervention occurs.
 
 This dynamic helps explain why some AI safety researchers focus on agent permissions as much as model intelligence. A moderately capable system with extensive authority may create larger immediate risks than a more capable system operating inside strict constraints.
-
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_autonomy_secu_d6c65d_overprivilege_d8e492-Illustration-2-dark.svg" | relative_url }}" alt="Tool misuse illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_autonomy_secu_d6c65d_overprivilege_d8e492-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_autonomy_secu_d6c65d_overprivilege_d8e492-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What evidence exists beyond theory?
@@ -359,7 +355,6 @@ Although many dramatic failure scenarios remain laboratory demonstrations rather
 ## Human approval gates and least-privilege designs
 
 The main response proposed by security researchers is not to eliminate agents entirely. It is to prevent them from possessing more authority than necessary.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XhtO7PoBpjE" title="AI Agents Are the New Attack Surface — Is Your Security Ready? | Steve Winterfeld, Akamai" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XhtO7PoBpjE" target="_blank" rel="noopener noreferrer">AI Agents Are the New Attack Surface — Is Your Security Ready? | Steve Winterfeld, Akamai</a></p><p class="youtube-embed-meta">Channel: TFiR &middot; Views: 848 &middot; Uploaded: May 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XhtO7PoBpjE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XhtO7PoBpjE">Open on YouTube</a></p></div></div></div>
 
@@ -390,7 +385,6 @@ Under this approach, agents may analyse information independently but require hu
 
 This reduces efficiency but creates opportunities to detect mistakes before they become irreversible.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_autonomy_secu_d6c65d_overprivilege_d8e492-Illustration-3-dark.svg" | relative_url }}" alt="Tool misuse illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_autonomy_secu_d6c65d_overprivilege_d8e492-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_autonomy_secu_d6c65d_overprivilege_d8e492-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Monitoring and shutdown capability
 
@@ -410,9 +404,7 @@ Sceptics correctly note that existing agents remain brittle, expensive, and heav
 
 From that perspective, least-privilege design, approval gates, monitoring, and robust authorisation systems are not merely enterprise security practices. They are among the earliest practical tests of whether increasingly autonomous AI systems can remain under meaningful human control as their ability to act in the world grows. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.09721" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Security Risks in Tool-Enabled AI Agents: A Systematic Analysis of Privileged Execution EnvironmentsMay 10, 2026...</span><span class="citation-popover-meta">Published: May 10, 2026</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/g-bOrH7-Zos" title="The Architecture of Autonomy: Securing Agentic AI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=g-bOrH7-Zos" target="_blank" rel="noopener noreferrer">The Architecture of Autonomy: Securing Agentic AI</a></p><p class="youtube-embed-meta">Channel: Vitalii Usenko &middot; Views: 24 &middot; Uploaded: March 2026 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=g-bOrH7-Zos" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=g-bOrH7-Zos">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /objections/
 nav_short_title: Uncertainty
 title: Why p(doom) estimates diverge so sharply
-title_full: Why p(doom) estimates diverge so sharply | Objections
+title_full: Why p(doom) estimates diverge so sharply
 display_title_short: Uncertainty
 display_title: Uncertainty
 heading_title: Why p(doom) estimates diverge so sharply
@@ -204,7 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 11:08:27'
-parent_title: How strong is the case against AI doom? | Loss of Control
+parent_title: How strong is the case against AI doom?
 parent_permalink: /objections/
 parent_nav_short_title: Objections
 parent_heading_title: How strong is the case against AI doom?
@@ -271,7 +271,6 @@ image: /assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04
 
 One reason p(doom) estimates differ so dramatically is that people often disagree less about the final catastrophe than about the chain of assumptions required to reach it. P(doom) is an informal estimate of the probability that advanced AI causes an existential catastrophe such as human extinction or permanent loss of humanity's ability to shape its future. It is not a measured statistic but a judgement under profound uncertainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ai-safety-atlas.com/chapters/v1/risks/appendix-quantifying-existential-risks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ai-safety-atlas.com">[ai-safety-atlas.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ai-safety-atlas.com</span><span class="citation-popover-title">The term has evolved</span><span class="citation-popover-snippet">Appendix: Quantifying Existential Risks - Chapter 2P(doom) represents the subjective probability that artificial intelligence will cause...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343_uncertainty_s_0d35fe-Illustration-1-dark.svg" | relative_url }}" alt="Uncertainty illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343_uncertainty_s_0d35fe-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343_uncertainty_s_0d35fe-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In debates about AI [loss of control]({{ 'loss-of-control/' | relative_url }}), doom-focused researchers frequently describe a sequence of events: highly capable AI is developed, alignment fails, the system becomes strategically dangerous, humans lose control, and that loss of control leads to irreversible catastrophe. Critics often accept that each step is possible while arguing that uncertainty accumulates at every stage. When many uncertain claims are linked together, the resulting probability can become much smaller than any individual step initially appears. This process is often called uncertainty stacking. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.13353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Is Power-Seeking AI an Existential Risk?</span><span class="citation-popover-snippet">Is Power-Seeking AI an Existential Risk?June 16, 2022...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
 
@@ -280,7 +279,6 @@ In debates about AI [loss of control]({{ 'loss-of-control/' | relative_url }}), 
 Most loss-of-control arguments are not built on a single prediction. They are built on multiple conditional claims.
 
 A simplified takeover pathway might look like this:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -301,7 +299,6 @@ This matters because the probability of a whole chain occurring depends on the p
 ### A simple illustration
 
 Suppose someone assigns:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -331,7 +328,6 @@ This is where uncertainty stacking becomes central. If confidence falls slightly
 
 One of the most interesting features of the AI-risk debate is that both sides often agree about the evidence but interpret its implications differently.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343_uncertainty_s_0d35fe-Illustration-2-dark.svg" | relative_url }}" alt="Uncertainty illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343_uncertainty_s_0d35fe-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343_uncertainty_s_0d35fe-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The doomer interpretation
 
@@ -348,7 +344,6 @@ Critics usually agree that future AI could become extremely capable. Their objec
 If there is little direct evidence for strategic deception, recursive self-improvement, durable power-seeking or irreversible takeover, then confidence in those outcomes should remain limited. Many sceptics argue that doom narratives often combine several speculative claims and then discuss the resulting scenario as though it were a single forecast. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.13353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Is Power-Seeking AI an Existential Risk?</span><span class="citation-popover-snippet">Is Power-Seeking AI an Existential Risk?June 16, 2022...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
 
 Under this view, uncertainty stacking is not a minor technical adjustment. It is one of the strongest reasons to resist very high p(doom) estimates.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/C0dTVB8z02Q" title="The Economics of p(doom): Existential Risk and Economic Growth with Superhuman AI (by Jakub Growiec)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=C0dTVB8z02Q" target="_blank" rel="noopener noreferrer">The Economics of p(doom): Existential Risk and Economic Growth with Superhuman AI (by Jakub Growiec)</a></p><p class="youtube-embed-meta">Channel: Klaus Prettner &middot; Views: 340 &middot; Uploaded: September 2025 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=C0dTVB8z02Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=C0dTVB8z02Q">Open on YouTube</a></p></div></div></div>
 
@@ -367,7 +362,6 @@ Two researchers might agree on most facts yet differ sharply on a few key condit
 Small differences at each stage can produce enormous differences in final estimates. Someone assigning relatively optimistic probabilities to five uncertain links may arrive at a p(doom) below 1%. Someone assigning moderately pessimistic probabilities to the same links may reach 20%, 30% or higher. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.13353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Is Power-Seeking AI an Existential Risk?</span><span class="citation-popover-snippet">Is Power-Seeking AI an Existential Risk?June 16, 2022...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
 
 This helps explain why p(doom) figures often appear unstable or highly subjective. Researchers are not usually disagreeing about a single observable fact. They are disagreeing about a nested structure of forecasts, assumptions and unknowns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cset.georgetown.edu/publication/beyond-pdoom-for-ai-risk-quantifying-uncertainty-without-probability/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cset.georgetown.edu">[CSET]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cset.georgetown.edu</span><span class="citation-popover-snippet">Beyond P(doom) for AI Risk: Quantifying Uncertainty...This issue brief explains why analysts and decision-makers need alternatives t...</span></span></span>
-
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343_uncertainty_s_0d35fe-Illustration-3-dark.svg" | relative_url }}" alt="Uncertainty illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343_uncertainty_s_0d35fe-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343_uncertainty_s_0d35fe-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The deeper disagreement: probability versus deep uncertainty

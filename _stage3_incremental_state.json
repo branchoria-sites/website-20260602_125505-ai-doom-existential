@@ -1,10 +1,10 @@
 {
   "version": 7,
-  "generated_at_utc": "2026-06-10T02:43:02.866550Z",
+  "generated_at_utc": "2026-06-11T19:38:46.219011Z",
   "incremental_enabled": true,
   "files": {
     "AI_Doom_and_E_87399b": {
-      "fingerprint": "6428915b071066beedb98d3d32b1b49e01479df0e8716572e3bd6877e6929194",
+      "fingerprint": "4ab52a1b04482b410e49e68e1d820c4704fdedcb4e594e6a4ca8526ca95ca08d",
       "output_page": "pages/AI_Doom_and_E_87399b.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b",
@@ -22,7 +22,7 @@
         "url_count": 333,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1103,
+        "internal_link_candidate_pool_size": 843,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -43,7 +43,7 @@
       }
     },
     "AI_Doom_and_E_87399b_catastrophic_c92548": {
-      "fingerprint": "fda1f779a8167635d6c5a3825169101698a742bc1d0843fb73a408ab3627ef81",
+      "fingerprint": "2891d8662b4fb9d7366bb573cc922ffc14373ce0f300381b43b4bdf0d3c8d605",
       "output_page": "pages/AI_Doom_and_E_87399b_catastrophic_c92548.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_catastrophic_c92548",
@@ -61,7 +61,7 @@
         "url_count": 104,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1096,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 7,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -111,7 +111,7 @@
       }
     },
     "AI_Doom_and_E_87399b_ai_race_dynam_a5d049": {
-      "fingerprint": "905973458028833610b64d0b730db8721bbcde78d6dc5a5cb026f7a793f34f71",
+      "fingerprint": "168f2bb3ab1da6c883be40454f5a83490934d71334e979fffbaac22bc512b5ce",
       "output_page": "pages/AI_Doom_and_E_87399b_ai_race_dynam_a5d049.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049",
@@ -129,7 +129,7 @@
         "url_count": 100,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1097,
+        "internal_link_candidate_pool_size": 840,
         "inline_internal_link_count": 5,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -150,7 +150,7 @@
       }
     },
     "AI_Doom_and_E_87399b_compute_gover_1ee8fc": {
-      "fingerprint": "1d749c31536b27346bc1c5e187c89d8c0e18827d41e4eb5353fddac481d829f2",
+      "fingerprint": "2b08fcd1bdb56aef3b5a3db159768347d98f11e5c3ac7946372e4f1d3cc13462",
       "output_page": "pages/AI_Doom_and_E_87399b_compute_gover_1ee8fc.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_compute_gover_1ee8fc",
@@ -168,7 +168,7 @@
         "url_count": 120,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1096,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 7,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -189,7 +189,7 @@
       }
     },
     "AI_Doom_and_E_87399b_dangerous_aut_8f4266": {
-      "fingerprint": "cbd56d11b6de8eb3f4476e159b1c275c44d9e0b91bf20e44a66da5b17983e223",
+      "fingerprint": "2da0068b167f39b869ca5511aa3c6dc0009b4889546acf596402ec39d5148fa2",
       "output_page": "pages/AI_Doom_and_E_87399b_dangerous_aut_8f4266.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_dangerous_aut_8f4266",
@@ -207,7 +207,7 @@
         "url_count": 108,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1097,
+        "internal_link_candidate_pool_size": 840,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -228,7 +228,7 @@
       }
     },
     "AI_Doom_and_E_87399b_deceptive_ali_f9f449": {
-      "fingerprint": "b12126315e291f197e9aef27b208d076051292f31fe273356389781ea86a52ae",
+      "fingerprint": "8e55239ff851b0ee6bb3735fde7706132274b65c3c59e99949040455df781b16",
       "output_page": "pages/AI_Doom_and_E_87399b_deceptive_ali_f9f449.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_deceptive_ali_f9f449",
@@ -246,7 +246,7 @@
         "url_count": 85,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1096,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -267,7 +267,7 @@
       }
     },
     "AI_Doom_and_E_87399b_frontier_ai_e_9920ab": {
-      "fingerprint": "dc45f42fdc1d9ac4bae5233b6da8878cff3614196f681fd387da438d90cdd98e",
+      "fingerprint": "3c43e6a22202bd21b150543fbebdd9e9e682aff11c34b9a7c3e56671b0866c45",
       "output_page": "pages/AI_Doom_and_E_87399b_frontier_ai_e_9920ab.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_frontier_ai_e_9920ab",
@@ -285,7 +285,7 @@
         "url_count": 261,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1096,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -306,7 +306,7 @@
       }
     },
     "AI_Doom_and_E_87399b_interpretabil_15527d": {
-      "fingerprint": "987a39a06fe84e699ffef4c521bcc858e5128ec9c8c471175bfa760de938d460",
+      "fingerprint": "69b656c8bd1e6405a719c398ceb4ca2c376f47752215d3c0662a8f764f7e7faa",
       "output_page": "pages/AI_Doom_and_E_87399b_interpretabil_15527d.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_interpretabil_15527d",
@@ -324,7 +324,7 @@
         "url_count": 118,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1096,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 7,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -345,7 +345,7 @@
       }
     },
     "AI_Doom_and_E_87399b_loss_of_contr_19a113": {
-      "fingerprint": "42cff6c5fab0f0c010cf4ad4cb5f0d4b16460549af9a91335d4cfa5af5da231d",
+      "fingerprint": "3b1f062c7e1b14f6a51e887ec27d7dfe3f0c9ea3366817d64bc1e794c211ddc8",
       "output_page": "pages/AI_Doom_and_E_87399b_loss_of_contr_19a113.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_loss_of_contr_19a113",
@@ -363,7 +363,7 @@
         "url_count": 100,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1096,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -384,7 +384,7 @@
       }
     },
     "AI_Doom_and_E_87399b_p_doom_estima_72d1f2": {
-      "fingerprint": "e6f3fec6c30445622f2094845eb7f3751e0e8e13b01c2d3da050176946dc8785",
+      "fingerprint": "393b06ca03e3e55b4380ed8a9e6ad426c53328b46b26b213979c158c20c5e18d",
       "output_page": "pages/AI_Doom_and_E_87399b_p_doom_estima_72d1f2.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_p_doom_estima_72d1f2",
@@ -402,7 +402,7 @@
         "url_count": 143,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1095,
+        "internal_link_candidate_pool_size": 838,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -423,7 +423,7 @@
       }
     },
     "AI_Doom_and_E_87399b_recursive_imp_3a3504": {
-      "fingerprint": "056124b68c8a46d77ee6cdf06ac3d6fc924fc2f3ca4acb7493c246ac2906ccaa",
+      "fingerprint": "2922c7a0ebebc68836cc8d37683a9e612adab731fa1a8e2fb8147c06e1c4e7c7",
       "output_page": "pages/AI_Doom_and_E_87399b_recursive_imp_3a3504.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_recursive_imp_3a3504",
@@ -441,7 +441,7 @@
         "url_count": 92,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1096,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 4,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -462,7 +462,7 @@
       }
     },
     "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1": {
-      "fingerprint": "731bed24f9519dac8b49230d82c621af534d5613ffabc9cd8040c43dd3df4c49",
+      "fingerprint": "74930c44c505cf4eb412c8cd1679bff330e391e8b9f47e7af8e2833ecf3d3382",
       "output_page": "pages/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1",
@@ -480,7 +480,7 @@
         "url_count": 119,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1097,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -501,7 +501,7 @@
       }
     },
     "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf": {
-      "fingerprint": "43aafbd89c50a199c8519948e23fa1c2708bd433be8cc71025a6c4f290939d60",
+      "fingerprint": "78d2f0ab1a1b8b3ce3e81bc7ccfff6e030a92dfcd2695bb67a4b22dd3afe403e",
       "output_page": "pages/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf",
@@ -519,7 +519,7 @@
         "url_count": 149,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1097,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -540,7 +540,7 @@
       }
     },
     "AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c": {
-      "fingerprint": "79521278f275c4c9d0a8e45b38cf871d7eafa0a6493195a7e4848cb4f658b8c9",
+      "fingerprint": "fc2f71cfe0c42a84f636a9e699895362dd6da9cc641a3df73344179b39bf8d6d",
       "output_page": "pages/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c",
@@ -558,7 +558,7 @@
         "url_count": 87,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1097,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 5,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -579,7 +579,7 @@
       }
     },
     "AI_Doom_and_E_87399b_catastrophic_c92548_ai_cyber_atta_082acc": {
-      "fingerprint": "6b1defdc96d25d879379ac0a15542608d4f1e22750cd9ac95318eae35fdbef4d",
+      "fingerprint": "d67d09c373abbfad8f02e439ac124ec94cda33af2437c5ce470e2a9d4ac11c56",
       "output_page": "pages/AI_Doom_and_E_87399b_catastrophic_c92548_ai_cyber_atta_082acc.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_catastrophic_c92548_ai_cyber_atta_082acc",
@@ -597,7 +597,7 @@
         "url_count": 101,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 840,
         "inline_internal_link_count": 6,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -618,7 +618,7 @@
       }
     },
     "AI_Doom_and_E_87399b_catastrophic_c92548_ai_military_d_f2971e": {
-      "fingerprint": "bece229edb400071d66f7d20b7ee198b5ce9dc610c356e5885d6bfe268d0ac8f",
+      "fingerprint": "f352b0bafc9aa349d2f5423f8b4665cd300151d5d966b3e93ebce4a220fba684",
       "output_page": "pages/AI_Doom_and_E_87399b_catastrophic_c92548_ai_military_d_f2971e.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_catastrophic_c92548_ai_military_d_f2971e",
@@ -636,7 +636,7 @@
         "url_count": 160,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1097,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -657,7 +657,7 @@
       }
     },
     "AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6": {
-      "fingerprint": "9ec591cffa57728cac7b458084f0ef7d9dd66007abcf7ce147d50e81b15ceda2",
+      "fingerprint": "41a47190ed21c0b10a0a3ce0f3fb8b301ec9318b98f7738ea2ebc89693ffb3c1",
       "output_page": "pages/AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6",
@@ -675,7 +675,7 @@
         "url_count": 104,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1096,
+        "internal_link_candidate_pool_size": 838,
         "inline_internal_link_count": 5,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -696,7 +696,7 @@
       }
     },
     "AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1": {
-      "fingerprint": "c6d79e07bcaba88008059ca51dd73702bb7e9da47d69aaa4ff97e3ab4da56070",
+      "fingerprint": "e8488284dff0b5e037867f5128a7380ea6ad269b9caa068844e3f1ca7da7c06c",
       "output_page": "pages/AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1",
@@ -714,7 +714,7 @@
         "url_count": 144,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1099,
+        "internal_link_candidate_pool_size": 841,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -735,7 +735,7 @@
       }
     },
     "AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343": {
-      "fingerprint": "d2df5846a8bc928e5f49d3900bcc43d1a722f7dfbee391fb85b10bfa9e26480f",
+      "fingerprint": "0ab30255fbd317fd110740371b5e84e18c372556017ea5007a5a96a2f152dae8",
       "output_page": "pages/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343",
@@ -753,7 +753,7 @@
         "url_count": 109,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1095,
+        "internal_link_candidate_pool_size": 837,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -774,7 +774,7 @@
       }
     },
     "AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e": {
-      "fingerprint": "f32859ffe4cd464815c9acb47971cff2c216a5f748a4927089b1ceb051f43d97",
+      "fingerprint": "157fdef36834979070ba089072c0ccf4513927523556cb7e09f62b7919e3e605",
       "output_page": "pages/AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e",
@@ -792,7 +792,7 @@
         "url_count": 152,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1096,
+        "internal_link_candidate_pool_size": 838,
         "inline_internal_link_count": 3,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -813,7 +813,7 @@
       }
     },
     "AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7": {
-      "fingerprint": "b812329639eb26bbbb879b19f48a08a674e961394e51f0b1c8eb5f82951f452d",
+      "fingerprint": "20c61e9aed9610ec962bf57067d0e78be452e0c29b396007f1bb7897901a3092",
       "output_page": "pages/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7",
@@ -831,7 +831,7 @@
         "url_count": 133,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1097,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -852,7 +852,7 @@
       }
     },
     "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c": {
-      "fingerprint": "6bb1fbe3bdb24ecaba68364e88b8a6845ee4aa64abb1b80e03ce090033d432df",
+      "fingerprint": "27f78bd644871c19684f033459cdae14e41896621068e45930738a7ed4dc1c7a",
       "output_page": "pages/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c",
@@ -870,7 +870,7 @@
         "url_count": 109,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1097,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -891,7 +891,7 @@
       }
     },
     "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_model_release_108910": {
-      "fingerprint": "a70f7bde71a1d87dc0da535db732560cdbe4f0d10a496275dbb624c310637b70",
+      "fingerprint": "5dce9bc581dd64dc5f9f9c69a3c81e3e88ec5d4b8f121be9fa05d438cda0621f",
       "output_page": "pages/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_model_release_108910.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_model_release_108910",
@@ -909,7 +909,7 @@
         "url_count": 138,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1096,
+        "internal_link_candidate_pool_size": 838,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -930,7 +930,7 @@
       }
     },
     "AI_Doom_and_E_87399b_compute_gover_1ee8fc_ai_chip_expor_d56f2b": {
-      "fingerprint": "bc9f1c857544959fc05612ded253e4b57c4d3f377f65e483e4d59ed8d6d7a8e2",
+      "fingerprint": "486a16e344ef399c7d0b758b665a3cd29bb1869af768340f1fef05d1ad5ba59a",
       "output_page": "pages/AI_Doom_and_E_87399b_compute_gover_1ee8fc_ai_chip_expor_d56f2b.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_compute_gover_1ee8fc_ai_chip_expor_d56f2b",
@@ -948,7 +948,7 @@
         "url_count": 132,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 840,
         "inline_internal_link_count": 7,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -969,7 +969,7 @@
       }
     },
     "AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549": {
-      "fingerprint": "2424089201ced741852da4a287cd3608aa465baceb6451671c68e57d47c6e3af",
+      "fingerprint": "e96c7a9e5e188598af383a4dedf7438179d7e160cb18992c6a156126f118efb6",
       "output_page": "pages/AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549",
@@ -987,7 +987,7 @@
         "url_count": 120,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1096,
+        "internal_link_candidate_pool_size": 838,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -1008,7 +1008,7 @@
       }
     },
     "AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38": {
-      "fingerprint": "84533fbfb593da481bf59533fe514bd7787299e9216e6e38c5dc84ff06f355ee",
+      "fingerprint": "54e51a18a641885fb1ba39f90ab059b683adb54ae151a7d0f28b895e587d6ee5",
       "output_page": "pages/AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38",
@@ -1026,7 +1026,7 @@
         "url_count": 128,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 840,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -1047,14 +1047,14 @@
       }
     },
     "AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1": {
-      "fingerprint": "52e6b7e79732af553ca57078f0c136e64a99d7b3ed0ed63224a67b0236f599c4",
+      "fingerprint": "c2247f938da970119f3a25b7ab1a9d0525bdee03b1c32b16cd4e2d642c8c31e9",
       "output_page": "pages/AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1",
         "title": "Should Frontier Models Pass Safety Checks First?",
         "permalink": "/safety-checks/",
-        "word_count": 13054,
-        "char_count": 105755,
+        "word_count": 13058,
+        "char_count": 105777,
         "line_count": 384,
         "heading_count": 11,
         "h2_count": 10,
@@ -1065,7 +1065,7 @@
         "url_count": 177,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1097,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -1086,7 +1086,7 @@
       }
     },
     "AI_Doom_and_E_87399b_dangerous_aut_8f4266_autonomy_secu_d6c65d": {
-      "fingerprint": "bb97938ce6857ffee70470b37c3f4d4ce1b1246448e55c600d066a294fbdb944",
+      "fingerprint": "21c05fdd47ac176e9ab98a5a1d1b18814d47d18a01cea930515d6254e7f300d7",
       "output_page": "pages/AI_Doom_and_E_87399b_dangerous_aut_8f4266_autonomy_secu_d6c65d.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_dangerous_aut_8f4266_autonomy_secu_d6c65d",
@@ -1104,7 +1104,7 @@
         "url_count": 103,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 840,
         "inline_internal_link_count": 5,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -1125,7 +1125,7 @@
       }
     },
     "AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372": {
-      "fingerprint": "4deedaf5e7d2fcd06c53500fa492dfce981ab15cbc9cce4133ea05ceeb12c087",
+      "fingerprint": "351490aadf3ed7dd0b854c13389a7aa5bfca39eda6199ebd9f6d3ab794c23e7e",
       "output_page": "pages/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372",
@@ -1143,7 +1143,7 @@
         "url_count": 148,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 840,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -1164,7 +1164,7 @@
       }
     },
     "AI_Doom_and_E_87399b_dangerous_aut_8f4266_multi_step_ai_ed5101": {
-      "fingerprint": "6488fd9ba152945418d2a131b388cda2e30d864280fa16b41b006c61758e9c03",
+      "fingerprint": "380e825ac5393d3b4c9fa37291094bf5f8c9e213163a47ab702922c5bb371b30",
       "output_page": "pages/AI_Doom_and_E_87399b_dangerous_aut_8f4266_multi_step_ai_ed5101.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_dangerous_aut_8f4266_multi_step_ai_ed5101",
@@ -1182,7 +1182,7 @@
         "url_count": 132,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1097,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -1203,7 +1203,7 @@
       }
     },
     "AI_Doom_and_E_87399b_deceptive_ali_f9f449_anti_scheming_fa32c6": {
-      "fingerprint": "b32005e10fbf4895a1b6e76a9c9e4cfaa930fca7e467965c916521b5de178c61",
+      "fingerprint": "1526c968ab183b82c02773d321f0f0d2a66220a09d6fd20ec80d29fa46c89cf6",
       "output_page": "pages/AI_Doom_and_E_87399b_deceptive_ali_f9f449_anti_scheming_fa32c6.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_deceptive_ali_f9f449_anti_scheming_fa32c6",
@@ -1221,7 +1221,7 @@
         "url_count": 120,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1097,
+        "internal_link_candidate_pool_size": 838,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -1242,14 +1242,14 @@
       }
     },
     "AI_Doom_and_E_87399b_deceptive_ali_f9f449_deception_los_dd8ce0": {
-      "fingerprint": "3e10c51beb2bc75697eefb9bb97a2b631707beda704c04221407403998062b12",
+      "fingerprint": "4da5b96cee48c3bc1f532bbd61ef31d66e6923363b3c6d5e8f9f9ceffba1e419",
       "output_page": "pages/AI_Doom_and_E_87399b_deceptive_ali_f9f449_deception_los_dd8ce0.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_deceptive_ali_f9f449_deception_los_dd8ce0",
         "title": "Why Deceptive Alignment Matters for AI Loss of Control",
         "permalink": "/deception-and-loss/",
         "word_count": 9604,
-        "char_count": 75684,
+        "char_count": 75685,
         "line_count": 177,
         "heading_count": 8,
         "h2_count": 7,
@@ -1260,7 +1260,7 @@
         "url_count": 99,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -1281,14 +1281,14 @@
       }
     },
     "AI_Doom_and_E_87399b_deceptive_ali_f9f449_lab_real_worl_a5db25": {
-      "fingerprint": "8563fe5000ff6ad1eed20348a5190f6b56db7a75fb415b19fc4373c07d415cf4",
+      "fingerprint": "d6b8c8f649f24248552493136e168cd75e740d5660d92a2ff05d4d3611f2aa64",
       "output_page": "pages/AI_Doom_and_E_87399b_deceptive_ali_f9f449_lab_real_worl_a5db25.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_deceptive_ali_f9f449_lab_real_worl_a5db25",
         "title": "Do Lab Scheming Scenarios Predict Real‑World AI Deception?",
         "permalink": "/lab-vs-real/",
-        "word_count": 10477,
-        "char_count": 83324,
+        "word_count": 10475,
+        "char_count": 83326,
         "line_count": 366,
         "heading_count": 11,
         "h2_count": 10,
@@ -1299,7 +1299,7 @@
         "url_count": 111,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1097,
+        "internal_link_candidate_pool_size": 838,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -1320,7 +1320,7 @@
       }
     },
     "AI_Doom_and_E_87399b_deceptive_ali_f9f449_scheming_test_3604bd": {
-      "fingerprint": "df6ef946d26a62a16761ad26b69572ce18cc36926a470f78de57b42b2e8d4663",
+      "fingerprint": "c285a6ae02f66544152825ef034420dd09d5779b30712e014a803389c52876b5",
       "output_page": "pages/AI_Doom_and_E_87399b_deceptive_ali_f9f449_scheming_test_3604bd.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_deceptive_ali_f9f449_scheming_test_3604bd",
@@ -1338,7 +1338,7 @@
         "url_count": 149,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -1359,7 +1359,7 @@
       }
     },
     "AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40": {
-      "fingerprint": "38d4103530fc6ca4481abfed0692a3db2c04733def630270aabc4bc7a30cc0c9",
+      "fingerprint": "99b045583258293ee1c06b6733cd44920c1465242dd3f962b3b96aa8efcff371",
       "output_page": "pages/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40",
@@ -1377,7 +1377,7 @@
         "url_count": 139,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -1398,7 +1398,7 @@
       }
     },
     "AI_Doom_and_E_87399b_frontier_ai_e_9920ab_eval_false_co_fa7edc": {
-      "fingerprint": "40c5807da267f9f31be340a93d50923e6e22a64d230e47d7f2417b74eb234cdb",
+      "fingerprint": "ded29b47664fd163c928b80e21c6962c1126b564bae962f7174345052e7a69e6",
       "output_page": "pages/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_eval_false_co_fa7edc.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_frontier_ai_e_9920ab_eval_false_co_fa7edc",
@@ -1416,7 +1416,7 @@
         "url_count": 95,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1097,
+        "internal_link_candidate_pool_size": 838,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -1437,7 +1437,7 @@
       }
     },
     "AI_Doom_and_E_87399b_frontier_ai_e_9920ab_scheming_eval_38bdee": {
-      "fingerprint": "298c7e3ce2b1590e6ec20ba54592a9fc5dcbb90f471dffbd0c6cd8a855c2bf0b",
+      "fingerprint": "0d40f14048dbf456a3830a19cfe0f7cad7e416114384003891005c2fffaaa15a",
       "output_page": "pages/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_scheming_eval_38bdee.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_frontier_ai_e_9920ab_scheming_eval_38bdee",
@@ -1455,7 +1455,7 @@
         "url_count": 143,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1096,
+        "internal_link_candidate_pool_size": 837,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -1476,14 +1476,14 @@
       }
     },
     "AI_Doom_and_E_87399b_frontier_ai_e_9920ab_severe_risk_t_86df83": {
-      "fingerprint": "974c1ea8355b5fddb05c3a0d87bfa890c21761a68f7b234df014556b148694d9",
+      "fingerprint": "e41b33c3e4376ef721cf0ddfd7378485a65246cd69fe4b77ac76dec713f84e95",
       "output_page": "pages/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_severe_risk_t_86df83.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_frontier_ai_e_9920ab_severe_risk_t_86df83",
         "title": "What happens when a model crosses a threshold?",
         "permalink": "/risk-thresholds/",
-        "word_count": 10108,
-        "char_count": 81585,
+        "word_count": 10111,
+        "char_count": 81603,
         "line_count": 202,
         "heading_count": 9,
         "h2_count": 8,
@@ -1494,7 +1494,7 @@
         "url_count": 107,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1099,
+        "internal_link_candidate_pool_size": 840,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -1515,7 +1515,7 @@
       }
     },
     "AI_Doom_and_E_87399b_interpretabil_15527d_ai_monitor_ev_8b5000": {
-      "fingerprint": "1d0ade147110a63970c07492d75ed8b2de6718e7e8e239f81bd846d0723b8a3f",
+      "fingerprint": "4dcaf9072110e6931ce024aaf0009a3fba77323efff22d41591b0d008ff8b9af",
       "output_page": "pages/AI_Doom_and_E_87399b_interpretabil_15527d_ai_monitor_ev_8b5000.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_interpretabil_15527d_ai_monitor_ev_8b5000",
@@ -1533,7 +1533,7 @@
         "url_count": 128,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1100,
+        "internal_link_candidate_pool_size": 841,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -1554,7 +1554,7 @@
       }
     },
     "AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c": {
-      "fingerprint": "f17900dac22b594b1d99fe420886c97b539b6468b119e9469bae3a7fe8dafad6",
+      "fingerprint": "b15c7a71a838eae8206e8878f7ff60d39e1f8d945f1c9a7a27967f34a9ed9365",
       "output_page": "pages/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c",
@@ -1572,7 +1572,7 @@
         "url_count": 133,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -1593,7 +1593,7 @@
       }
     },
     "AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e": {
-      "fingerprint": "c5fd50f045b4996a1c9dfb1f17e728e2ffd6e28ca7ed26ef7cc3126f8dba32e1",
+      "fingerprint": "19862fd914f83b1fcb39e27c744bf6769ade20141ac15727849ba1c565c505ab",
       "output_page": "pages/AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e",
@@ -1611,7 +1611,7 @@
         "url_count": 106,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 4,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -1632,7 +1632,7 @@
       }
     },
     "AI_Doom_and_E_87399b_interpretabil_15527d_mechanistic_h_cf3b0e": {
-      "fingerprint": "6ac482e214678be8b751e04b4340983fd996c88012c80aaa9124b7cc6ccd45af",
+      "fingerprint": "b6343b8af0bfa208183845a45eaa78def008ba3254d43371ec42b16ea3c48363",
       "output_page": "pages/AI_Doom_and_E_87399b_interpretabil_15527d_mechanistic_h_cf3b0e.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_interpretabil_15527d_mechanistic_h_cf3b0e",
@@ -1650,7 +1650,7 @@
         "url_count": 108,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1099,
+        "internal_link_candidate_pool_size": 840,
         "inline_internal_link_count": 3,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -1671,7 +1671,7 @@
       }
     },
     "AI_Doom_and_E_87399b_loss_of_contr_19a113_control_warni_352f11": {
-      "fingerprint": "cc80e7bd483eee0715e05b255cc57b1aae6c396b581284ed5c829c9c9744627e",
+      "fingerprint": "e0697e26474614616ee187c6332a57b3ef584b44739ba80acc905e13ce4e046f",
       "output_page": "pages/AI_Doom_and_E_87399b_loss_of_contr_19a113_control_warni_352f11.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_loss_of_contr_19a113_control_warni_352f11",
@@ -1689,7 +1689,7 @@
         "url_count": 103,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1097,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -1710,7 +1710,7 @@
       }
     },
     "AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca": {
-      "fingerprint": "e2d12bf4c8db642bcad8741396455a08da0260fdcfebbd293c120e8e884361d2",
+      "fingerprint": "4d9d936c96a217b7dbd69faa106e5870ebca7133a8c63dcd5f2f42506b8e06a2",
       "output_page": "pages/AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca",
@@ -1728,7 +1728,7 @@
         "url_count": 104,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1096,
+        "internal_link_candidate_pool_size": 838,
         "inline_internal_link_count": 7,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -1749,7 +1749,7 @@
       }
     },
     "AI_Doom_and_E_87399b_loss_of_contr_19a113_shutdown_resi_de0ce6": {
-      "fingerprint": "7ddec9c68650b9eb7174876c43f32fec0b30ed505106c867aff047e6c64e396b",
+      "fingerprint": "77a2290d9090b3a5302ed314a6e5ab5f41356f3a1c1fe0b20a7f38ea75e97273",
       "output_page": "pages/AI_Doom_and_E_87399b_loss_of_contr_19a113_shutdown_resi_de0ce6.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_loss_of_contr_19a113_shutdown_resi_de0ce6",
@@ -1767,7 +1767,7 @@
         "url_count": 145,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1096,
+        "internal_link_candidate_pool_size": 838,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -1788,7 +1788,7 @@
       }
     },
     "AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_agency_dis_87e1f9": {
-      "fingerprint": "00fc3918f2d5bca176d4ab0e2a580af38b36802fbb0625c8f71a35f3b1228822",
+      "fingerprint": "af50c0410f398a3016f209a11caac6fd18242a20a5870b0f6f323b2a8e4b037b",
       "output_page": "pages/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_agency_dis_87e1f9.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_agency_dis_87e1f9",
@@ -1806,7 +1806,7 @@
         "url_count": 88,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1097,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 6,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -1827,7 +1827,7 @@
       }
     },
     "AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93": {
-      "fingerprint": "cb20af0eb6ee2f60696960e037c5bf87d7a6b45815730b0354aaba6794adfd65",
+      "fingerprint": "00fa8fd2e9f156f8afee2c1a242440659c45a506351dc550a3dab65142907f51",
       "output_page": "pages/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93",
@@ -1845,7 +1845,7 @@
         "url_count": 108,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 840,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -1866,14 +1866,14 @@
       }
     },
     "AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d59e80": {
-      "fingerprint": "c06f8676978874e89a7167aef84d57ac69e7dea42239f1fc3350255c0b974d7e",
+      "fingerprint": "c3a731101659e1e94e9d4f2812fabe66ec8645cf48eb0bb0f30f76aee207b632",
       "output_page": "pages/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d59e80.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d59e80",
         "title": "How Safety and Governance Shape AI Doom Forecasts",
         "permalink": "/alignment-governance/",
-        "word_count": 10212,
-        "char_count": 80909,
+        "word_count": 10218,
+        "char_count": 80945,
         "line_count": 315,
         "heading_count": 13,
         "h2_count": 9,
@@ -1884,7 +1884,7 @@
         "url_count": 116,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1097,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -1905,14 +1905,14 @@
       }
     },
     "AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264": {
-      "fingerprint": "ec2215245c65e7531b3f657cca6407df347adcaf3b80dcda4be262d55386e034",
+      "fingerprint": "ec89f85af9cf159c4089f914c5cfb9db46e02930b92452ba59b828700f070d35",
       "output_page": "pages/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264",
         "title": "How AI Experts Forecast Doom Probabilities",
         "permalink": "/survey-estimates/",
-        "word_count": 10529,
-        "char_count": 82191,
+        "word_count": 10531,
+        "char_count": 82209,
         "line_count": 252,
         "heading_count": 8,
         "h2_count": 7,
@@ -1923,7 +1923,7 @@
         "url_count": 122,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 840,
         "inline_internal_link_count": 7,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -1944,7 +1944,7 @@
       }
     },
     "AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72a06a": {
-      "fingerprint": "86f60eb51968321bfd92892bc0e2e38a0e47779cde3f901d76fe71be46dfb8ce",
+      "fingerprint": "a2a55d87a8127c7677893a2ed42adb2a591c674555611606dff408ba20bb6134",
       "output_page": "pages/AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72a06a.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72a06a",
@@ -1962,7 +1962,7 @@
         "url_count": 129,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1097,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -1983,7 +1983,7 @@
       }
     },
     "AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556": {
-      "fingerprint": "bd1c9b8f2d19d3f5fe4b193d7185d8462b5d2d16e6c4609400565107a45b9b07",
+      "fingerprint": "b8a93671596a6fbb4c167754e05f301b3066f308b81db84a489996f7b037b9ce",
       "output_page": "pages/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556",
@@ -2001,7 +2001,7 @@
         "url_count": 123,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1094,
+        "internal_link_candidate_pool_size": 836,
         "inline_internal_link_count": 1,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -2022,7 +2022,7 @@
       }
     },
     "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1_bletchley_ai_417199": {
-      "fingerprint": "83b369a0593f3382de6113d4e181463bc1e85e9fe4f4e4acf544e2eb152d5aaf",
+      "fingerprint": "401be3637235a70574488eb9df362774e2a88d403ab38b87606ece6e38b0341e",
       "output_page": "pages/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1_bletchley_ai_417199.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1_bletchley_ai_417199",
@@ -2040,7 +2040,7 @@
         "url_count": 133,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 4,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -2061,7 +2061,7 @@
       }
     },
     "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf_seoul_safety_196957": {
-      "fingerprint": "4ec280172347bfee344113fea08796ccd26d4522bb691ac18c2bb649db624fdf",
+      "fingerprint": "6624c69d16135db95bfc056d14ec3c0668b6c34972a4cad1aed07fc9c167122e",
       "output_page": "pages/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf_seoul_safety_196957.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf_seoul_safety_196957",
@@ -2079,7 +2079,7 @@
         "url_count": 137,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1096,
+        "internal_link_candidate_pool_size": 837,
         "inline_internal_link_count": 6,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -2100,7 +2100,7 @@
       }
     },
     "AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6_biotech_dual_d8e3eb": {
-      "fingerprint": "68eb88eb10261848cf5a1d9f20de7e9c6cc049595f5b78c3b7fc369b74e177e7",
+      "fingerprint": "b9492a7a9b7e4ca3f228357e6405c077e7475ca868be32d539b54739b62bc168",
       "output_page": "pages/AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6_biotech_dual_d8e3eb.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6_biotech_dual_d8e3eb",
@@ -2118,7 +2118,7 @@
         "url_count": 154,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1097,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 7,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -2139,7 +2139,7 @@
       }
     },
     "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1_compute_monit_043a89": {
-      "fingerprint": "86637669531f02cc3496e1c3d447695e8660e0fd13bd9c337953f8e1e9ec4111",
+      "fingerprint": "7337c68cc4d4d268b1ff2cbd9aa247e41a09e80bcd27cd0e0f8ae40c4e0897df",
       "output_page": "pages/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1_compute_monit_043a89.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1_compute_monit_043a89",
@@ -2157,7 +2157,7 @@
         "url_count": 117,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -2178,7 +2178,7 @@
       }
     },
     "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1_race_pressure_c5dcfd": {
-      "fingerprint": "b6943fe79cec7e51fa9245b274555373249ce44d894016473537e698e39e29e0",
+      "fingerprint": "cd721d10e9bd75fb9a947c7db97f98476978afda2e59de0e6978b0eb0c7b4158",
       "output_page": "pages/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1_race_pressure_c5dcfd.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1_race_pressure_c5dcfd",
@@ -2196,7 +2196,7 @@
         "url_count": 124,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -2217,7 +2217,7 @@
       }
     },
     "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_model_release_108910_rushed_evals_0c15b1": {
-      "fingerprint": "e036fa7429245c7e17852136f25028006c2511fde396a20cb11be15b895ee17a",
+      "fingerprint": "dafa73272229aae4e9b0bbf207ad4f91cc3b8d946dd2d35bb5a1949b375fea38",
       "output_page": "pages/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_model_release_108910_rushed_evals_0c15b1.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_model_release_108910_rushed_evals_0c15b1",
@@ -2235,7 +2235,7 @@
         "url_count": 132,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1099,
+        "internal_link_candidate_pool_size": 840,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -2256,7 +2256,7 @@
       }
     },
     "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf_capability_th_d9904d": {
-      "fingerprint": "b9788716cf973e1c18284a39a5b92f622b897d4cebcea31b90e1ac19b94a101f",
+      "fingerprint": "213b1d1b7a1703b27337a9972de4b858174fc08bd738dd6d59a43dfe45023221",
       "output_page": "pages/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf_capability_th_d9904d.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf_capability_th_d9904d",
@@ -2274,7 +2274,7 @@
         "url_count": 107,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1100,
+        "internal_link_candidate_pool_size": 841,
         "inline_internal_link_count": 5,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -2295,7 +2295,7 @@
       }
     },
     "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf_shared_evalua_7938d8": {
-      "fingerprint": "331ce923c1e9e6ceb89bc93135a37da648919e3b00b75bbc7cc5bc7bf36000f0",
+      "fingerprint": "c10c3f94db88810acfdc377f5978cc84b57c7bad5ba54c25c6274e7aa70aebb5",
       "output_page": "pages/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf_shared_evalua_7938d8.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf_shared_evalua_7938d8",
@@ -2313,7 +2313,7 @@
         "url_count": 167,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -2334,7 +2334,7 @@
       }
     },
     "AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_bio_predep_4af8c1": {
-      "fingerprint": "19e80da407f29e54b8960a184cbe330564898e1bc968d2b9f20a357eaacf9c5c",
+      "fingerprint": "861f68b4b6a8f458dbc5e1ea570cafc60176d774fd800310cb545ded6684b96c",
       "output_page": "pages/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_bio_predep_4af8c1.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_bio_predep_4af8c1",
@@ -2352,7 +2352,7 @@
         "url_count": 93,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1097,
+        "internal_link_candidate_pool_size": 838,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -2373,7 +2373,7 @@
       }
     },
     "AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_biosecurit_e5e926": {
-      "fingerprint": "8cc2c64c0e25091c09ee7031c1797053065fb373497932605fc6bcd4213cb5ac",
+      "fingerprint": "87296eb7a25500e49a324648b65cd0aa6e2f1cca6d9ae7e3800ae53627c33928",
       "output_page": "pages/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_biosecurit_e5e926.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_biosecurit_e5e926",
@@ -2391,7 +2391,7 @@
         "url_count": 102,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 2,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -2412,7 +2412,7 @@
       }
     },
     "AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_pathogen_t_3833c8": {
-      "fingerprint": "da69e31db53ff70c15d8579ddd91d4f81a1cd4dfcc7e953ccfba1fa6c1fd88a3",
+      "fingerprint": "8b67314274053f3645c0b81fbbd8d7c072fab003b21be96d714ff30e783474a7",
       "output_page": "pages/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_pathogen_t_3833c8.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_pathogen_t_3833c8",
@@ -2430,7 +2430,7 @@
         "url_count": 101,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 3,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -2451,7 +2451,7 @@
       }
     },
     "AI_Doom_and_E_87399b_catastrophic_c92548_ai_cyber_atta_082acc_ai_zero_day_e_517257": {
-      "fingerprint": "611c6842663c7d547c0006f03fc3040b2c8242e88008142345a0c05061b2af29",
+      "fingerprint": "bbe04675e6fc056634230533976babb0df10059f1a61d495f57c9585ae0591c1",
       "output_page": "pages/AI_Doom_and_E_87399b_catastrophic_c92548_ai_cyber_atta_082acc_ai_zero_day_e_517257.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_catastrophic_c92548_ai_cyber_atta_082acc_ai_zero_day_e_517257",
@@ -2469,7 +2469,7 @@
         "url_count": 127,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1097,
+        "internal_link_candidate_pool_size": 838,
         "inline_internal_link_count": 5,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -2490,7 +2490,7 @@
       }
     },
     "AI_Doom_and_E_87399b_catastrophic_c92548_ai_cyber_atta_082acc_cyber_capable_41db34": {
-      "fingerprint": "b5930c858e33d6a1fefd2e6da418b37e837b74a6b9d0a034c7cb95caea6d4851",
+      "fingerprint": "e660ef1089b43ac787749a87bc09f987ed7d2b6f9cca58ab28d05ea1052433c1",
       "output_page": "pages/AI_Doom_and_E_87399b_catastrophic_c92548_ai_cyber_atta_082acc_cyber_capable_41db34.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_catastrophic_c92548_ai_cyber_atta_082acc_cyber_capable_41db34",
@@ -2508,7 +2508,7 @@
         "url_count": 153,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -2529,7 +2529,7 @@
       }
     },
     "AI_Doom_and_E_87399b_catastrophic_c92548_ai_cyber_atta_082acc_real_ai_explo_767c92": {
-      "fingerprint": "793e84af7b83c6e9820857b695060776d7c579c9138f6b49f7646a59a8041db6",
+      "fingerprint": "a3ec76df4a2da8256d516e2de09ba431295ec95731dd1d0de57d8af5c4edce50",
       "output_page": "pages/AI_Doom_and_E_87399b_catastrophic_c92548_ai_cyber_atta_082acc_real_ai_explo_767c92.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_catastrophic_c92548_ai_cyber_atta_082acc_real_ai_explo_767c92",
@@ -2547,7 +2547,7 @@
         "url_count": 116,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 4,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -2568,7 +2568,7 @@
       }
     },
     "AI_Doom_and_E_87399b_catastrophic_c92548_ai_military_d_f2971e_ai_crisis_dec_f450be": {
-      "fingerprint": "5bb877a19a9769e3b40bcab23f3e130c6b5473b7b97ca418cdcab8ec1907ab67",
+      "fingerprint": "bda21c5849ccfe70541592ea11666f3ca56d11b8ab2adaffbad6ac631055b054",
       "output_page": "pages/AI_Doom_and_E_87399b_catastrophic_c92548_ai_military_d_f2971e_ai_crisis_dec_f450be.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_catastrophic_c92548_ai_military_d_f2971e_ai_crisis_dec_f450be",
@@ -2586,7 +2586,7 @@
         "url_count": 87,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1096,
+        "internal_link_candidate_pool_size": 838,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -2607,7 +2607,7 @@
       }
     },
     "AI_Doom_and_E_87399b_catastrophic_c92548_ai_military_d_f2971e_ai_nuclear_wa_bdb736": {
-      "fingerprint": "d361a0c16d96ec5bc2caea847036d007a97231356fc8f74c06822537441cdb79",
+      "fingerprint": "68acbe9d0afd9c1c95c66003acd70b88a2fd40fed2c0cb135094408dcac4980a",
       "output_page": "pages/AI_Doom_and_E_87399b_catastrophic_c92548_ai_military_d_f2971e_ai_nuclear_wa_bdb736.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_catastrophic_c92548_ai_military_d_f2971e_ai_nuclear_wa_bdb736",
@@ -2625,7 +2625,7 @@
         "url_count": 116,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1097,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -2646,7 +2646,7 @@
       }
     },
     "AI_Doom_and_E_87399b_catastrophic_c92548_ai_military_d_f2971e_automation_bi_c3b703": {
-      "fingerprint": "1ee4bd3c1ba01e16ba62728b8072ea9ab9ce234f70edb716c3b0dcc371682378",
+      "fingerprint": "72f7ac4187f05f2c841571aae815bc14f13b900dba52ce160fa72c5566909a64",
       "output_page": "pages/AI_Doom_and_E_87399b_catastrophic_c92548_ai_military_d_f2971e_automation_bi_c3b703.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_catastrophic_c92548_ai_military_d_f2971e_automation_bi_c3b703",
@@ -2664,7 +2664,7 @@
         "url_count": 176,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1097,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 5,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -2685,7 +2685,7 @@
       }
     },
     "AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6_ai_enforcemen_308bdc": {
-      "fingerprint": "f5fba28ed1c6bdb708870abcb7d48e19ec97003fb15d9f69d97d95aada1f15ea",
+      "fingerprint": "64030bbb2d622819832abe6f92159ae2b70bbe197359bb102f78a806c377855d",
       "output_page": "pages/AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6_ai_enforcemen_308bdc.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6_ai_enforcemen_308bdc",
@@ -2703,7 +2703,7 @@
         "url_count": 151,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1096,
+        "internal_link_candidate_pool_size": 838,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -2724,7 +2724,7 @@
       }
     },
     "AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6_cyber_militar_b09dc5": {
-      "fingerprint": "4fafa28f6ab75d47b674670cd34e215f4539d7d4f0071a359185b3b0c88558ff",
+      "fingerprint": "3b851becd5f2cd61277224aec2d1d0e3702780e2a214664f7fb433da9bc1dd36",
       "output_page": "pages/AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6_cyber_militar_b09dc5.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6_cyber_militar_b09dc5",
@@ -2742,7 +2742,7 @@
         "url_count": 130,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1096,
+        "internal_link_candidate_pool_size": 838,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -2763,7 +2763,7 @@
       }
     },
     "AI_Doom_and_E_87399b_compute_gover_1ee8fc_ai_chip_expor_d56f2b_chip_control_20881e": {
-      "fingerprint": "811304b6143881b66e08d8e697c98b8ea6132ffe39d54f30a98c90ddef1c1ef2",
+      "fingerprint": "da63c5876a5515f76b488720ed1a68c0fd6dd3a06bf56aacf12384f71b815542",
       "output_page": "pages/AI_Doom_and_E_87399b_compute_gover_1ee8fc_ai_chip_expor_d56f2b_chip_control_20881e.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_compute_gover_1ee8fc_ai_chip_expor_d56f2b_chip_control_20881e",
@@ -2781,7 +2781,7 @@
         "url_count": 110,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 6,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -2802,7 +2802,7 @@
       }
     },
     "AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1_pre_training_b6a05c": {
-      "fingerprint": "9dfe2f2bf5190bc6071c75c4f1a09accaf51cb1041910fb37214ab88aa7bdfce",
+      "fingerprint": "d7ce0102ca744884dcbf397c06d2694d94ac2e995f108e1363544f2d7265095b",
       "output_page": "pages/AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1_pre_training_b6a05c.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1_pre_training_b6a05c",
@@ -2820,7 +2820,7 @@
         "url_count": 104,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1099,
+        "internal_link_candidate_pool_size": 840,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -2841,14 +2841,14 @@
       }
     },
     "AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_long_horizon_5d3d50": {
-      "fingerprint": "979bee345c07a1422f9a40b4df8bc6bc7fbbae9d62b0c3ba5c074ee511262df0",
+      "fingerprint": "9c6ed1e0da3a0acf0498fd501e48f6783a3707c9579c14dcef767686757f334d",
       "output_page": "pages/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_long_horizon_5d3d50.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_long_horizon_5d3d50",
         "title": "What Long Horizon Benchmarks Reveal About AI Reliability",
         "permalink": "/benchmark-evidence/",
         "word_count": 9790,
-        "char_count": 77651,
+        "char_count": 77652,
         "line_count": 203,
         "heading_count": 9,
         "h2_count": 6,
@@ -2859,7 +2859,7 @@
         "url_count": 114,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1097,
+        "internal_link_candidate_pool_size": 838,
         "inline_internal_link_count": 4,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -2880,7 +2880,7 @@
       }
     },
     "AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1_agent_account_e9b236": {
-      "fingerprint": "c643da02133c1a6226911a88c260a5191a0bd0d00d4cd3d633656fb938eaa260",
+      "fingerprint": "25b3552408772d24af88b86b11a9fd5c31520def47fd8487465cec03a2f03c29",
       "output_page": "pages/AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1_agent_account_e9b236.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1_agent_account_e9b236",
@@ -2898,7 +2898,7 @@
         "url_count": 99,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1097,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 3,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -2919,7 +2919,7 @@
       }
     },
     "AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1_runtime_monit_6e4433": {
-      "fingerprint": "a65a77c8ae69f5648d98791fde3bd8814f6e20388acacdd970222b7d3d7c05d7",
+      "fingerprint": "587df12dc5c1be5801781783e4f9339617ed9a88281eef0462afb7a508159197",
       "output_page": "pages/AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1_runtime_monit_6e4433.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1_runtime_monit_6e4433",
@@ -2937,7 +2937,7 @@
         "url_count": 92,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1097,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 6,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -2958,7 +2958,7 @@
       }
     },
     "AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1_tiered_autono_c837ce": {
-      "fingerprint": "d13ba1e74cf50f66b03e773f22ea61a99eba238f80cb0ff00a65e247012f6bee",
+      "fingerprint": "c996b56ffdafd0d2eb78eaeb0bfb0581ee572dcc8d97fff1bbc41863efe0e4c7",
       "output_page": "pages/AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1_tiered_autono_c837ce.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_dangerous_aut_8f4266_long_horizon_ac08b1_tiered_autono_c837ce",
@@ -2976,7 +2976,7 @@
         "url_count": 101,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 840,
         "inline_internal_link_count": 5,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -2997,7 +2997,7 @@
       }
     },
     "AI_Doom_and_E_87399b_deceptive_ali_f9f449_anti_scheming_fa32c6_deliberative_b396d1": {
-      "fingerprint": "9ca5cfe791754116a1d60bfa4e9d92f632e3eb4316a25539672319c31278be74",
+      "fingerprint": "a14195d86b59aa5a9b9cac3e6ffb6690c62b07a8337064db8af202e667b9eb2d",
       "output_page": "pages/AI_Doom_and_E_87399b_deceptive_ali_f9f449_anti_scheming_fa32c6_deliberative_b396d1.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_deceptive_ali_f9f449_anti_scheming_fa32c6_deliberative_b396d1",
@@ -3015,7 +3015,7 @@
         "url_count": 132,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1096,
+        "internal_link_candidate_pool_size": 838,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -3036,7 +3036,7 @@
       }
     },
     "AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343_current_model_21cdbd": {
-      "fingerprint": "8cd606fd9bb2f92df82643aa5888a6c16d423f48dd73231830a5e1fd2d5e1785",
+      "fingerprint": "31bb6218d8a5153881adb1d4ba53880d354455f64f83d83e87f5bdde4d13083d",
       "output_page": "pages/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343_current_model_21cdbd.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343_current_model_21cdbd",
@@ -3054,7 +3054,7 @@
         "url_count": 96,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1097,
+        "internal_link_candidate_pool_size": 838,
         "inline_internal_link_count": 6,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -3083,7 +3083,7 @@
       }
     },
     "AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343_power_seeking_305b9c": {
-      "fingerprint": "6c5e6b4b313383e64aad03a8f9a28addd2515587339b0309f87e5f60fd098cb0",
+      "fingerprint": "c354cfd57e5ca960a6b295ecb6351fbcde251bccb1fd15b86318c16d13cc572b",
       "output_page": "pages/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343_power_seeking_305b9c.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343_power_seeking_305b9c",
@@ -3101,7 +3101,7 @@
         "url_count": 101,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1099,
+        "internal_link_candidate_pool_size": 840,
         "inline_internal_link_count": 5,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -3122,7 +3122,7 @@
       }
     },
     "AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343_uncertainty_s_0d35fe": {
-      "fingerprint": "249b78356533b4da1459d160494735b1d6e4724bb31f69149801e19e6aff48af",
+      "fingerprint": "da2720b29f9f2b0a0e42886bddac7ef1522c823884889378cb5e7864461f5835",
       "output_page": "pages/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343_uncertainty_s_0d35fe.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343_uncertainty_s_0d35fe",
@@ -3140,7 +3140,7 @@
         "url_count": 95,
         "youtube_embed_count": 1,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 6,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -3161,7 +3161,7 @@
       }
     },
     "AI_Doom_and_E_87399b_loss_of_contr_19a113_shutdown_resi_de0ce6_instrumental_d3b70c": {
-      "fingerprint": "efc53e137e170a696a92fb112af54a8b693f5fa9215f001ca203b0ab267bce83",
+      "fingerprint": "b0130962a48c849641f692981c600b51ecac5de2efb6e9398a0b3f0a1b788155",
       "output_page": "pages/AI_Doom_and_E_87399b_loss_of_contr_19a113_shutdown_resi_de0ce6_instrumental_d3b70c.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_loss_of_contr_19a113_shutdown_resi_de0ce6_instrumental_d3b70c",
@@ -3179,7 +3179,7 @@
         "url_count": 139,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1096,
+        "internal_link_candidate_pool_size": 838,
         "inline_internal_link_count": 5,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -3200,7 +3200,7 @@
       }
     },
     "AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_agency_dis_87e1f9_instrumental_866724": {
-      "fingerprint": "e012e1275f723eff29d9d74b201add905974dcf4a8d0aa385c924e0caabacc56",
+      "fingerprint": "6e5083c236f0665dd8517f36b2e508bfb6c8aa3e6bb8460eaa70836469554bcd",
       "output_page": "pages/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_agency_dis_87e1f9_instrumental_866724.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_agency_dis_87e1f9_instrumental_866724",
@@ -3218,7 +3218,7 @@
         "url_count": 95,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 5,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -3239,7 +3239,7 @@
       }
     },
     "AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e_coding_agents_5cf58d": {
-      "fingerprint": "bf8b3aafd8b073bd79870383d1f00632d4b4d0c14b49aa8bacf8a3d428b40cc4",
+      "fingerprint": "76d852d8b5a8e4768a8c1196b88a64bab9f322d5385a03182a06f014839ca739",
       "output_page": "pages/AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e_coding_agents_5cf58d.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e_coding_agents_5cf58d",
@@ -3257,7 +3257,7 @@
         "url_count": 147,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 840,
         "inline_internal_link_count": 5,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -3278,7 +3278,7 @@
       }
     },
     "AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e_compute_limit_3ad269": {
-      "fingerprint": "d062846fd3604fe9f426d4842116e58d73fbe04a23ed74eeb63450ec98c6ee34",
+      "fingerprint": "21b598cc35d142aa4d77c970eb9280c716ac6d8c9984554f3169ae66d97b5929",
       "output_page": "pages/AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e_compute_limit_3ad269.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e_compute_limit_3ad269",
@@ -3296,7 +3296,7 @@
         "url_count": 137,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 840,
         "inline_internal_link_count": 5,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -3317,7 +3317,7 @@
       }
     },
     "AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e_synthetic_dat_d1a2c9": {
-      "fingerprint": "e283052a5b0dd2069017155e070bb3ab100abe06eb744a5b7b358d65e3755c2a",
+      "fingerprint": "a17128e1a354a2e52feb55da5c22ac5acfa08d8af7f1abbf8b3626d899ee87e1",
       "output_page": "pages/AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e_synthetic_dat_d1a2c9.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e_synthetic_dat_d1a2c9",
@@ -3335,7 +3335,7 @@
         "url_count": 94,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1096,
+        "internal_link_candidate_pool_size": 838,
         "inline_internal_link_count": 2,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -3356,7 +3356,7 @@
       }
     },
     "AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_ai_research_l_2238ea": {
-      "fingerprint": "530211fdfb58dc4cd9630e5d2ccccfe29aaf16dc343a72b850a8e52842e07dc9",
+      "fingerprint": "08bbd3f0aaff84a88026e921bb0f7e32568ccb1c9228bf2727b12b9260011d2e",
       "output_page": "pages/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_ai_research_l_2238ea.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_ai_research_l_2238ea",
@@ -3374,7 +3374,7 @@
         "url_count": 121,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1096,
+        "internal_link_candidate_pool_size": 838,
         "inline_internal_link_count": 7,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -3395,7 +3395,7 @@
       }
     },
     "AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_eval_safety_b_854dea": {
-      "fingerprint": "e0ab92d99b754b6ec0312b5ad81d5c3ea05796c8d49e0376f93b1f3318f6d649",
+      "fingerprint": "742fe0fe2d80f54e2b651ff75620bfcefab06d85930271d3294093affdabd3fd",
       "output_page": "pages/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_eval_safety_b_854dea.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_eval_safety_b_854dea",
@@ -3413,7 +3413,7 @@
         "url_count": 147,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1097,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -3434,7 +3434,7 @@
       }
     },
     "AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_late_societal_f5e128": {
-      "fingerprint": "05ff97509205c0e3330ba50115a796d30fb33ac07902e9bcfc3965df530bcc69",
+      "fingerprint": "3298559f0113e1866c8d4280987adb0ffe32d590a8689546a697c5da1a97f09e",
       "output_page": "pages/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_late_societal_f5e128.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_late_societal_f5e128",
@@ -3452,7 +3452,7 @@
         "url_count": 100,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1097,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 5,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -3473,7 +3473,7 @@
       }
     },
     "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_ai_race_model_76d082": {
-      "fingerprint": "8349efc35134d283e64122514b6649574794d74efe55a23fb7e85b51b83d7993",
+      "fingerprint": "64d4e2d9f5522147415b9de1d095ed94b04723ed3a78658cd8c22e96be30cab6",
       "output_page": "pages/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_ai_race_model_76d082.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_ai_race_model_76d082",
@@ -3491,7 +3491,7 @@
         "url_count": 97,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1097,
+        "internal_link_candidate_pool_size": 838,
         "inline_internal_link_count": 6,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -3512,7 +3512,7 @@
       }
     },
     "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_frontier_ai_d_8b76b0": {
-      "fingerprint": "e3115afa312fea3f016896416fa8505375a28c851ffc5fee08069db9d5712cdc",
+      "fingerprint": "1f91de63f8a9d6d5103c4e401a4be2fc3614e6e17930a73614e3d3f29965a0b7",
       "output_page": "pages/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_frontier_ai_d_8b76b0.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_frontier_ai_d_8b76b0",
@@ -3530,7 +3530,7 @@
         "url_count": 122,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -3551,7 +3551,7 @@
       }
     },
     "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_race_incentiv_03f099": {
-      "fingerprint": "88a7a5695b54237b53753fd01f6589225fb621f3dcb51e51417b512458d078de",
+      "fingerprint": "cac666700b2749cff66362fdb36d261c9a4479d58a12af2192b4d921956bd9a8",
       "output_page": "pages/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_race_incentiv_03f099.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_race_incentiv_03f099",
@@ -3569,7 +3569,7 @@
         "url_count": 103,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1099,
+        "internal_link_candidate_pool_size": 840,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -3590,7 +3590,7 @@
       }
     },
     "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_model_release_108910_openai_testin_b05733": {
-      "fingerprint": "9c6fc266ce885f26ac225b20f3445d8563af020d68b6db04fe4ef83d9089d42b",
+      "fingerprint": "738733bf1c334163721a2bea2e502db06ff59215b8f2439809580a800e216b2c",
       "output_page": "pages/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_model_release_108910_openai_testin_b05733.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_model_release_108910_openai_testin_b05733",
@@ -3608,7 +3608,7 @@
         "url_count": 101,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1096,
+        "internal_link_candidate_pool_size": 837,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -3629,7 +3629,7 @@
       }
     },
     "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_model_release_108910_scaling_polic_89632a": {
-      "fingerprint": "4f0d813eacb6f39ab215ea0e4378b1ec1b533a58dc4052edf3cb1e82e795e03e",
+      "fingerprint": "8683253c1a768c1a708d6717e668f9fa54c4b488799e9c6691bf7706d08ea823",
       "output_page": "pages/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_model_release_108910_scaling_polic_89632a.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_ai_race_dynam_a5d049_model_release_108910_scaling_polic_89632a",
@@ -3647,7 +3647,7 @@
         "url_count": 182,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1099,
+        "internal_link_candidate_pool_size": 840,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -3668,7 +3668,7 @@
       }
     },
     "AI_Doom_and_E_87399b_compute_gover_1ee8fc_ai_chip_expor_d56f2b_chip_controls_e5ad0d": {
-      "fingerprint": "a38ff0fcb19a6507022df1b4dd6500a0ea8a1805e1b0dd0944d54f8b6d16f737",
+      "fingerprint": "c636cfe018e62521871e9309317d3efb4f3f914eab8a3525bdba48275a8420a4",
       "output_page": "pages/AI_Doom_and_E_87399b_compute_gover_1ee8fc_ai_chip_expor_d56f2b_chip_controls_e5ad0d.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_compute_gover_1ee8fc_ai_chip_expor_d56f2b_chip_controls_e5ad0d",
@@ -3686,7 +3686,7 @@
         "url_count": 127,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 7,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -3707,7 +3707,7 @@
       }
     },
     "AI_Doom_and_E_87399b_compute_gover_1ee8fc_ai_chip_expor_d56f2b_chip_limits_s_10eb87": {
-      "fingerprint": "28ad5662efa721c86502e17ffa3f970f037d3ad8f49b4b1e82d00110c4d5fc64",
+      "fingerprint": "681282a9a1cdde0f453e0e0f5b5817bad5d3c981d16d42119c6e9f22b804e34c",
       "output_page": "pages/AI_Doom_and_E_87399b_compute_gover_1ee8fc_ai_chip_expor_d56f2b_chip_limits_s_10eb87.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_compute_gover_1ee8fc_ai_chip_expor_d56f2b_chip_limits_s_10eb87",
@@ -3725,7 +3725,7 @@
         "url_count": 110,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1097,
+        "internal_link_candidate_pool_size": 838,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -3746,7 +3746,7 @@
       }
     },
     "AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549_ai_compute_ky_377148": {
-      "fingerprint": "2a275619ce07243b5759a2c0c9e3a0fee0aa19befaea2e630f958e15a7d6d1ea",
+      "fingerprint": "6e6cd130a343af7fe2bba126060007e3a89222fc342fa826465f62e452bb466e",
       "output_page": "pages/AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549_ai_compute_ky_377148.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549_ai_compute_ky_377148",
@@ -3764,7 +3764,7 @@
         "url_count": 129,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1096,
+        "internal_link_candidate_pool_size": 838,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -3785,7 +3785,7 @@
       }
     },
     "AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549_cloud_monitor_82c6db": {
-      "fingerprint": "8427e30793a43e6b1de5c2a80eb8ea60937a52ceaa6f9793491067dd4b30de6f",
+      "fingerprint": "6b05817058d014bab97791d187b9d7bb91b7b9510faa16f701e23b7ead75d59d",
       "output_page": "pages/AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549_cloud_monitor_82c6db.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549_cloud_monitor_82c6db",
@@ -3803,7 +3803,7 @@
         "url_count": 108,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1099,
+        "internal_link_candidate_pool_size": 841,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -3824,7 +3824,7 @@
       }
     },
     "AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549_cloud_trainin_79cb04": {
-      "fingerprint": "38600ae2fcbaf56d60c41456c20cb26138b155da3d9b57463fe7840590cca969",
+      "fingerprint": "59eb4295c1104d3797565a879ba559fe5ab112b6b6c3d547f319d892992c063c",
       "output_page": "pages/AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549_cloud_trainin_79cb04.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_compute_gover_1ee8fc_cloud_provide_bbb549_cloud_trainin_79cb04",
@@ -3842,7 +3842,7 @@
         "url_count": 99,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1097,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 4,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -3863,7 +3863,7 @@
       }
     },
     "AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38_10_26_flop_th_7f0a85": {
-      "fingerprint": "0344c0495973bc7b54ee7881bf8792c0874739e730c0d4fc446d6ada7cc7b447",
+      "fingerprint": "7cebdd09fa786a96772e4546028cc32751c6c708c8b8f5824a329b0072136b6a",
       "output_page": "pages/AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38_10_26_flop_th_7f0a85.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38_10_26_flop_th_7f0a85",
@@ -3881,7 +3881,7 @@
         "url_count": 118,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 7,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -3902,7 +3902,7 @@
       }
     },
     "AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38_compute_thres_65dc26": {
-      "fingerprint": "52d7b45380b46452d64af63f7a64245ba0eb7051ffadd9b7d85d02126aa751fc",
+      "fingerprint": "d4d07ed8224e4793037526bd1c5ba929fe6a736562dd529a1219a7b437b1ad11",
       "output_page": "pages/AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38_compute_thres_65dc26.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38_compute_thres_65dc26",
@@ -3920,7 +3920,7 @@
         "url_count": 95,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1100,
+        "internal_link_candidate_pool_size": 841,
         "inline_internal_link_count": 6,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -3941,7 +3941,7 @@
       }
     },
     "AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38_thresholds_an_c9e82d": {
-      "fingerprint": "fb456c90d80a76283f8b9b544ee920cf9dc27169434e7595a94cb600d0cd8628",
+      "fingerprint": "f035626145195591f101c766818d1b09a1643c1acaa0146c5f8562698a64cc98",
       "output_page": "pages/AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38_thresholds_an_c9e82d.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38_thresholds_an_c9e82d",
@@ -3959,7 +3959,7 @@
         "url_count": 95,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1097,
+        "internal_link_candidate_pool_size": 838,
         "inline_internal_link_count": 5,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -3980,7 +3980,7 @@
       }
     },
     "AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1_independent_r_169369": {
-      "fingerprint": "8da08228ff1af053921f7594c1708a0a03e28089fabe5420bc5e335941e791b3",
+      "fingerprint": "54cc63f78a76651780eb43e2dd24d9ef9c6629d97da99fcac50593a794ce3a9e",
       "output_page": "pages/AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1_independent_r_169369.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1_independent_r_169369",
@@ -3998,7 +3998,7 @@
         "url_count": 167,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1096,
+        "internal_link_candidate_pool_size": 837,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -4019,14 +4019,14 @@
       }
     },
     "AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1_policy_thresh_0139d0": {
-      "fingerprint": "f6dd60669763ee0fab9fe2bb4bfd5a4bf60fb4ed76c15038f048d5c9b448760b",
+      "fingerprint": "7a5b1d8fb0cf56fcb565378c506d13b8f7a725b5782d7221e7c8a3428075e9f4",
       "output_page": "pages/AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1_policy_thresh_0139d0.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1_policy_thresh_0139d0",
         "title": "How Policy Thresholds Govern Safe Frontier AI Development",
         "permalink": "/risk-thresholds-bbf629/",
         "word_count": 10162,
-        "char_count": 82411,
+        "char_count": 82410,
         "line_count": 285,
         "heading_count": 9,
         "h2_count": 8,
@@ -4037,7 +4037,7 @@
         "url_count": 127,
         "youtube_embed_count": 1,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1099,
+        "internal_link_candidate_pool_size": 840,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -4058,7 +4058,7 @@
       }
     },
     "AI_Doom_and_E_87399b_dangerous_aut_8f4266_autonomy_secu_d6c65d_agent_exploit_2bcbf3": {
-      "fingerprint": "799fe97aecef5a235e2172a6ece143d18d7c8a7c92e9955370be5540dc14645d",
+      "fingerprint": "a6e094cd446900b47732f9ce7b3e2a58377ba0f9c374ffc56924639fbe3181ee",
       "output_page": "pages/AI_Doom_and_E_87399b_dangerous_aut_8f4266_autonomy_secu_d6c65d_agent_exploit_2bcbf3.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_dangerous_aut_8f4266_autonomy_secu_d6c65d_agent_exploit_2bcbf3",
@@ -4076,7 +4076,7 @@
         "url_count": 138,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -4097,14 +4097,14 @@
       }
     },
     "AI_Doom_and_E_87399b_dangerous_aut_8f4266_autonomy_secu_d6c65d_memory_poison_cf2649": {
-      "fingerprint": "5b45b4d47a46310dd1a63e5f077ff41a901a2401ba43fa54683deee01e10734c",
+      "fingerprint": "1967ddba83dfbd59f05610a572119ab72ba958de9ab941b5ed39438a6233b2d1",
       "output_page": "pages/AI_Doom_and_E_87399b_dangerous_aut_8f4266_autonomy_secu_d6c65d_memory_poison_cf2649.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_dangerous_aut_8f4266_autonomy_secu_d6c65d_memory_poison_cf2649",
         "title": "Can poisoned memory make agents drift?",
         "permalink": "/memory-poisoning/",
         "word_count": 11030,
-        "char_count": 87364,
+        "char_count": 87365,
         "line_count": 300,
         "heading_count": 10,
         "h2_count": 9,
@@ -4115,7 +4115,7 @@
         "url_count": 134,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1097,
+        "internal_link_candidate_pool_size": 838,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -4136,7 +4136,7 @@
       }
     },
     "AI_Doom_and_E_87399b_dangerous_aut_8f4266_autonomy_secu_d6c65d_overprivilege_d8e492": {
-      "fingerprint": "edd06aa9f5b383c2e4d4b159f6d3185b4dc80d919434001230cc40bc5e2820d6",
+      "fingerprint": "e458828eb983ccfb56a1a1106c5bd64c5c09488bf8046ae4659f0977a4be6b12",
       "output_page": "pages/AI_Doom_and_E_87399b_dangerous_aut_8f4266_autonomy_secu_d6c65d_overprivilege_d8e492.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_dangerous_aut_8f4266_autonomy_secu_d6c65d_overprivilege_d8e492",
@@ -4154,7 +4154,7 @@
         "url_count": 140,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1097,
+        "internal_link_candidate_pool_size": 838,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -4175,7 +4175,7 @@
       }
     },
     "AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_context_memor_c1b314": {
-      "fingerprint": "ded476058e3af5e67349b9be142fa76e83e014f88ce223317f87727b5000b893",
+      "fingerprint": "fb3ff8f262a705821a807b945facd0693ea46f9413f15b3b31b01a5199ba151c",
       "output_page": "pages/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_context_memor_c1b314.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_context_memor_c1b314",
@@ -4193,7 +4193,7 @@
         "url_count": 105,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 4,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -4214,7 +4214,7 @@
       }
     },
     "AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_strategy_adap_a9b1b7": {
-      "fingerprint": "65c7f138417ac309784fd7813ac634e3a30849d44b051a8a127fc226d8f2474d",
+      "fingerprint": "0680cf7668698dee41bf93688f062c8df116f916501452620d6d9a20a13781be",
       "output_page": "pages/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_strategy_adap_a9b1b7.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_strategy_adap_a9b1b7",
@@ -4232,7 +4232,7 @@
         "url_count": 139,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 7,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -4253,7 +4253,7 @@
       }
     },
     "AI_Doom_and_E_87399b_dangerous_aut_8f4266_multi_step_ai_ed5101_agent_error_s_7394fc": {
-      "fingerprint": "a352f7743e056ffe0c27a8a8fc864101b8744bfa02036a9df3276197d1622de1",
+      "fingerprint": "9bcd42229dafd97587d9f4970615468640ca6f04213f888b27f332a48840a5c3",
       "output_page": "pages/AI_Doom_and_E_87399b_dangerous_aut_8f4266_multi_step_ai_ed5101_agent_error_s_7394fc.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_dangerous_aut_8f4266_multi_step_ai_ed5101_agent_error_s_7394fc",
@@ -4271,7 +4271,7 @@
         "url_count": 113,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1099,
+        "internal_link_candidate_pool_size": 840,
         "inline_internal_link_count": 5,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -4292,7 +4292,7 @@
       }
     },
     "AI_Doom_and_E_87399b_dangerous_aut_8f4266_multi_step_ai_ed5101_anthropic_age_e0c6ba": {
-      "fingerprint": "e0a79454d870aa7c13d3bd98ea866443a1491721dc10612d2b8421f374d36f69",
+      "fingerprint": "0199a17ff3cbf1845a2c85ea9b68cac6beb7ce38f2c707ae3595dd007f55470c",
       "output_page": "pages/AI_Doom_and_E_87399b_dangerous_aut_8f4266_multi_step_ai_ed5101_anthropic_age_e0c6ba.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_dangerous_aut_8f4266_multi_step_ai_ed5101_anthropic_age_e0c6ba",
@@ -4310,7 +4310,7 @@
         "url_count": 147,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -4331,7 +4331,7 @@
       }
     },
     "AI_Doom_and_E_87399b_dangerous_aut_8f4266_multi_step_ai_ed5101_outcome_metri_7dd93f": {
-      "fingerprint": "c925aeb9d81103191638725e812ecbafd3898a2565e86f2c373ec863586eb0c1",
+      "fingerprint": "b65848882e8074cefcb4a4981422ff0472d1f642688c5dddffd875686984cd04",
       "output_page": "pages/AI_Doom_and_E_87399b_dangerous_aut_8f4266_multi_step_ai_ed5101_outcome_metri_7dd93f.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_dangerous_aut_8f4266_multi_step_ai_ed5101_outcome_metri_7dd93f",
@@ -4349,7 +4349,7 @@
         "url_count": 113,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1097,
+        "internal_link_candidate_pool_size": 838,
         "inline_internal_link_count": 4,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -4370,7 +4370,7 @@
       }
     },
     "AI_Doom_and_E_87399b_deceptive_ali_f9f449_anti_scheming_fa32c6_chain_of_thou_a24d54": {
-      "fingerprint": "47d9c516545a9eaa6c1435c8434d5f11569a817919e78fd59bbf24cda13e424a",
+      "fingerprint": "db8d4b0251df8910b9cdcf8f4fe3d4afea3765993c8695d9b8d317c5013f1a6d",
       "output_page": "pages/AI_Doom_and_E_87399b_deceptive_ali_f9f449_anti_scheming_fa32c6_chain_of_thou_a24d54.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_deceptive_ali_f9f449_anti_scheming_fa32c6_chain_of_thou_a24d54",
@@ -4388,7 +4388,7 @@
         "url_count": 99,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 840,
         "inline_internal_link_count": 4,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -4409,7 +4409,7 @@
       }
     },
     "AI_Doom_and_E_87399b_deceptive_ali_f9f449_anti_scheming_fa32c6_covert_action_b5c484": {
-      "fingerprint": "5fadd0fc1a24073d6c4b8cbc6c38321ac658ec31869835f1f580f87f009918b7",
+      "fingerprint": "3f84b90414e25542403e7ae1d34cf8f7a23b6ea1d3f323e71e572bb8d49bc0a7",
       "output_page": "pages/AI_Doom_and_E_87399b_deceptive_ali_f9f449_anti_scheming_fa32c6_covert_action_b5c484.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_deceptive_ali_f9f449_anti_scheming_fa32c6_covert_action_b5c484",
@@ -4427,7 +4427,7 @@
         "url_count": 122,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 840,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -4448,7 +4448,7 @@
       }
     },
     "AI_Doom_and_E_87399b_deceptive_ali_f9f449_deception_los_dd8ce0_false_confide_cd4234": {
-      "fingerprint": "274740d106e63e035183104105a910cce121044f5bb93a935749e7cbbd5bf3f7",
+      "fingerprint": "af55f3878b555b74c8273805ad06770b3ef3f2e48c9c1f26e82f00975a27ca74",
       "output_page": "pages/AI_Doom_and_E_87399b_deceptive_ali_f9f449_deception_los_dd8ce0_false_confide_cd4234.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_deceptive_ali_f9f449_deception_los_dd8ce0_false_confide_cd4234",
@@ -4466,7 +4466,7 @@
         "url_count": 89,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1097,
+        "internal_link_candidate_pool_size": 838,
         "inline_internal_link_count": 7,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -4487,7 +4487,7 @@
       }
     },
     "AI_Doom_and_E_87399b_deceptive_ali_f9f449_deception_los_dd8ce0_hidden_motive_1d74e0": {
-      "fingerprint": "45f93ed1ee013ef643bde3d7b5dde1113dfe6bf54c0ef7e2712207015c7d78cd",
+      "fingerprint": "0b6d4f379f2e8fd76b0b1643884ad16623c197b3937de26ce78f72edbf288a91",
       "output_page": "pages/AI_Doom_and_E_87399b_deceptive_ali_f9f449_deception_los_dd8ce0_hidden_motive_1d74e0.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_deceptive_ali_f9f449_deception_los_dd8ce0_hidden_motive_1d74e0",
@@ -4505,7 +4505,7 @@
         "url_count": 101,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -4526,7 +4526,7 @@
       }
     },
     "AI_Doom_and_E_87399b_deceptive_ali_f9f449_deception_los_dd8ce0_situational_a_1e697e": {
-      "fingerprint": "5eb0d584162f52568af77e4b6d6271053d10512bc6127a59d705e00f6090fd58",
+      "fingerprint": "8f2d0a11b6852cdcae0b793b843a6f995d1113a970200303a57aca028f498661",
       "output_page": "pages/AI_Doom_and_E_87399b_deceptive_ali_f9f449_deception_los_dd8ce0_situational_a_1e697e.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_deceptive_ali_f9f449_deception_los_dd8ce0_situational_a_1e697e",
@@ -4544,7 +4544,7 @@
         "url_count": 141,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -4565,7 +4565,7 @@
       }
     },
     "AI_Doom_and_E_87399b_deceptive_ali_f9f449_lab_real_worl_a5db25_artificial_ob_04bc56": {
-      "fingerprint": "59af0a22688d0372c3f817f323134a00e4e736694afcd38335474b33f259536e",
+      "fingerprint": "42357588a7641170f9d98bd9b6b3c1427a1685efd11350ed5361a963115316f1",
       "output_page": "pages/AI_Doom_and_E_87399b_deceptive_ali_f9f449_lab_real_worl_a5db25_artificial_ob_04bc56.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_deceptive_ali_f9f449_lab_real_worl_a5db25_artificial_ob_04bc56",
@@ -4583,7 +4583,7 @@
         "url_count": 97,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1097,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 7,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -4604,7 +4604,7 @@
       }
     },
     "AI_Doom_and_E_87399b_deceptive_ali_f9f449_lab_real_worl_a5db25_lab_deploymen_62c259": {
-      "fingerprint": "8dd937390a37c5c3db073ea66104e4c3f9a22ee4a93eb6f650b38eed5c234bf4",
+      "fingerprint": "632e8ad09865fb235e8f28f8384eb6646e12041edcd0d754347aaebd8496f98a",
       "output_page": "pages/AI_Doom_and_E_87399b_deceptive_ali_f9f449_lab_real_worl_a5db25_lab_deploymen_62c259.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_deceptive_ali_f9f449_lab_real_worl_a5db25_lab_deploymen_62c259",
@@ -4622,7 +4622,7 @@
         "url_count": 129,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1097,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -4643,7 +4643,7 @@
       }
     },
     "AI_Doom_and_E_87399b_deceptive_ali_f9f449_lab_real_worl_a5db25_situational_a_7cf6d0": {
-      "fingerprint": "9ceadc22bf58c2fa75bac65a34f0ea59bacb1e736b2a9efc617714d8931c4e7f",
+      "fingerprint": "4f597aa182a90c1ecd246c3b4ce1465323f6cae3a2d7a2fe79ffeebaac051654",
       "output_page": "pages/AI_Doom_and_E_87399b_deceptive_ali_f9f449_lab_real_worl_a5db25_situational_a_7cf6d0.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_deceptive_ali_f9f449_lab_real_worl_a5db25_situational_a_7cf6d0",
@@ -4661,7 +4661,7 @@
         "url_count": 130,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 840,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -4682,7 +4682,7 @@
       }
     },
     "AI_Doom_and_E_87399b_deceptive_ali_f9f449_scheming_test_3604bd_ai_model_sand_b0e88d": {
-      "fingerprint": "d1c57e894c1ad4131aac7bda10f7b29316892efdeaa725b4e2cb439930ca88c8",
+      "fingerprint": "4d8ff859e3f79b8be4d0583e8761f9fe499b95e722360a22ce4f709cd575d8cb",
       "output_page": "pages/AI_Doom_and_E_87399b_deceptive_ali_f9f449_scheming_test_3604bd_ai_model_sand_b0e88d.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_deceptive_ali_f9f449_scheming_test_3604bd_ai_model_sand_b0e88d",
@@ -4700,7 +4700,7 @@
         "url_count": 127,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -4721,7 +4721,7 @@
       }
     },
     "AI_Doom_and_E_87399b_deceptive_ali_f9f449_scheming_test_3604bd_apollo_oversi_3e0279": {
-      "fingerprint": "3824cffee4b81cd6a169747cbf0aa0ed6971cba1052478eff49f966d5464783c",
+      "fingerprint": "da1c9ba0ae66d56dc8290627bb485965b26f142e58e46ba465f0404b00c5db3a",
       "output_page": "pages/AI_Doom_and_E_87399b_deceptive_ali_f9f449_scheming_test_3604bd_apollo_oversi_3e0279.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_deceptive_ali_f9f449_scheming_test_3604bd_apollo_oversi_3e0279",
@@ -4739,7 +4739,7 @@
         "url_count": 130,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1099,
+        "internal_link_candidate_pool_size": 840,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -4760,7 +4760,7 @@
       }
     },
     "AI_Doom_and_E_87399b_deceptive_ali_f9f449_scheming_test_3604bd_claude_alignm_060a96": {
-      "fingerprint": "1c9998f198e921d02fee28d53f9eabea3a38dc72435aac93e6888922c0f11ffd",
+      "fingerprint": "e108206a450eb17e35fa75ad50e196c1e72068f7cefd648f3585de290cc56477",
       "output_page": "pages/AI_Doom_and_E_87399b_deceptive_ali_f9f449_scheming_test_3604bd_claude_alignm_060a96.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_deceptive_ali_f9f449_scheming_test_3604bd_claude_alignm_060a96",
@@ -4778,7 +4778,7 @@
         "url_count": 137,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1099,
+        "internal_link_candidate_pool_size": 840,
         "inline_internal_link_count": 1,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -4799,7 +4799,7 @@
       }
     },
     "AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_ai_scaffoldin_dac3b3": {
-      "fingerprint": "d924418124f4304465d0b86ca29ad04e7e58dc55302dd809454baf52ea990778",
+      "fingerprint": "e46d71b526e3c93ca008adca8d229bfb3a4bbc3a12a0eae81835a6d45cdc5836",
       "output_page": "pages/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_ai_scaffoldin_dac3b3.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_ai_scaffoldin_dac3b3",
@@ -4817,7 +4817,7 @@
         "url_count": 92,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 5,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -4838,7 +4838,7 @@
       }
     },
     "AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_cyber_tripwir_00207f": {
-      "fingerprint": "3d67946ba1192855533e7484a8a255745cddd559308733e676cc1d944fc08a16",
+      "fingerprint": "0984cfdab2cde6e5c434783a5eb1861cd965803ebd7cd1f5148e78e835df938a",
       "output_page": "pages/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_cyber_tripwir_00207f.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_cyber_tripwir_00207f",
@@ -4856,7 +4856,7 @@
         "url_count": 98,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -4877,7 +4877,7 @@
       }
     },
     "AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_operational_c_79f69a": {
-      "fingerprint": "4992d179e0c8af372c9e29220bfcf8118f3601d690c05985af5dcbcc86bd6b9a",
+      "fingerprint": "b0ffc81a00b6c5b8219ff572aba9861953992952c26d9c9ae831506f7dbc4b21",
       "output_page": "pages/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_operational_c_79f69a.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_operational_c_79f69a",
@@ -4895,7 +4895,7 @@
         "url_count": 122,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1099,
+        "internal_link_candidate_pool_size": 840,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -4916,7 +4916,7 @@
       }
     },
     "AI_Doom_and_E_87399b_frontier_ai_e_9920ab_eval_false_co_fa7edc_benchmark_des_aa2a37": {
-      "fingerprint": "5193cab9a17c9c47904ceb6bd6fbb0e97836a590904ad6731fb1393174ccd67f",
+      "fingerprint": "50c0edf561c70708819491a8fa855f3e78ce55c8c4020fc057eabe289cedf147",
       "output_page": "pages/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_eval_false_co_fa7edc_benchmark_des_aa2a37.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_frontier_ai_e_9920ab_eval_false_co_fa7edc_benchmark_des_aa2a37",
@@ -4934,7 +4934,7 @@
         "url_count": 138,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 840,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -4955,7 +4955,7 @@
       }
     },
     "AI_Doom_and_E_87399b_frontier_ai_e_9920ab_eval_false_co_fa7edc_evaluation_st_7008e0": {
-      "fingerprint": "f58ba331feace5647fc6f16a8eac231c98410303786a164a08caf2e3695ea987",
+      "fingerprint": "6858536e39c314633188df659b8d54df1fee5d68d199a6966877a4d40b41f2b3",
       "output_page": "pages/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_eval_false_co_fa7edc_evaluation_st_7008e0.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_frontier_ai_e_9920ab_eval_false_co_fa7edc_evaluation_st_7008e0",
@@ -4973,7 +4973,7 @@
         "url_count": 141,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1097,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -4994,14 +4994,14 @@
       }
     },
     "AI_Doom_and_E_87399b_frontier_ai_e_9920ab_eval_false_co_fa7edc_upper_bound_c_4cf391": {
-      "fingerprint": "ea202e4879c590061acdfe484e1ead0f682c6ad1751d93d3da47833f9ac4a30a",
+      "fingerprint": "abefdf5f0206e39d45335bb0b989ce7fcf555d79d9978675cfbbb91282044a81",
       "output_page": "pages/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_eval_false_co_fa7edc_upper_bound_c_4cf391.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_frontier_ai_e_9920ab_eval_false_co_fa7edc_upper_bound_c_4cf391",
         "title": "Why AI Tests Can't Guarantee Absence of Dangerous Abilities",
         "permalink": "/upper-bound-limits/",
         "word_count": 11023,
-        "char_count": 87276,
+        "char_count": 87275,
         "line_count": 345,
         "heading_count": 14,
         "h2_count": 10,
@@ -5012,7 +5012,7 @@
         "url_count": 130,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 840,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -5033,7 +5033,7 @@
       }
     },
     "AI_Doom_and_E_87399b_frontier_ai_e_9920ab_scheming_eval_38bdee_alignment_fak_3b9233": {
-      "fingerprint": "bd3215e184060f2aa9df8e6b04d8e72f664f599d424c412643b8064354999bf1",
+      "fingerprint": "b19eaf56c7d06e8984ad6123b068a8ca3a1749419b9c16f26d8d5b5b624c4742",
       "output_page": "pages/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_scheming_eval_38bdee_alignment_fak_3b9233.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_frontier_ai_e_9920ab_scheming_eval_38bdee_alignment_fak_3b9233",
@@ -5051,7 +5051,7 @@
         "url_count": 108,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1100,
+        "internal_link_candidate_pool_size": 841,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -5072,7 +5072,7 @@
       }
     },
     "AI_Doom_and_E_87399b_frontier_ai_e_9920ab_scheming_eval_38bdee_evaluation_aw_982d4a": {
-      "fingerprint": "ff2aaa1c0180b945a8338f779ca8ddeb020d173c8582fe6a1bafed8d718af3df",
+      "fingerprint": "46f05821aa34dba83bb341acbcfbd7d72870d5ad78e848a73a83bba3597c25a4",
       "output_page": "pages/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_scheming_eval_38bdee_evaluation_aw_982d4a.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_frontier_ai_e_9920ab_scheming_eval_38bdee_evaluation_aw_982d4a",
@@ -5090,7 +5090,7 @@
         "url_count": 112,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1099,
+        "internal_link_candidate_pool_size": 840,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -5111,7 +5111,7 @@
       }
     },
     "AI_Doom_and_E_87399b_frontier_ai_e_9920ab_scheming_eval_38bdee_oversight_eva_b50a88": {
-      "fingerprint": "2f773cf123e43b732b1abf5feafd5f14f5c4c7b7e045f84925e47122b08314d0",
+      "fingerprint": "3a300adbb25242657b008401215f6f2e060188eb02ccc42bb7b0fac91e9d64a1",
       "output_page": "pages/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_scheming_eval_38bdee_oversight_eva_b50a88.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_frontier_ai_e_9920ab_scheming_eval_38bdee_oversight_eva_b50a88",
@@ -5129,7 +5129,7 @@
         "url_count": 143,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1097,
+        "internal_link_candidate_pool_size": 838,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -5150,7 +5150,7 @@
       }
     },
     "AI_Doom_and_E_87399b_frontier_ai_e_9920ab_severe_risk_t_86df83_capability_th_d9904d": {
-      "fingerprint": "14b1e3cff699f0e7ca4a879b83e5552473a4721bb053fd58ede699743db2056e",
+      "fingerprint": "6c148e355d3ca7eab2d098bb2199b3bbf89242478887d826a414716df3328e44",
       "output_page": "pages/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_severe_risk_t_86df83_capability_th_d9904d.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_frontier_ai_e_9920ab_severe_risk_t_86df83_capability_th_d9904d",
@@ -5168,7 +5168,7 @@
         "url_count": 171,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1100,
+        "internal_link_candidate_pool_size": 841,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -5189,7 +5189,7 @@
       }
     },
     "AI_Doom_and_E_87399b_frontier_ai_e_9920ab_severe_risk_t_86df83_deployment_th_147e1a": {
-      "fingerprint": "c7d56e5f8c5fbfede1f8f67d42de614640d859813505c34022569c34964e057c",
+      "fingerprint": "7ccd38cd220e73dc4eb491cfc01a0d6ac91507a890b49167e984c984747b6834",
       "output_page": "pages/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_severe_risk_t_86df83_deployment_th_147e1a.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_frontier_ai_e_9920ab_severe_risk_t_86df83_deployment_th_147e1a",
@@ -5207,7 +5207,7 @@
         "url_count": 69,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -5228,7 +5228,7 @@
       }
     },
     "AI_Doom_and_E_87399b_frontier_ai_e_9920ab_severe_risk_t_86df83_open_weight_t_3026a4": {
-      "fingerprint": "8610a3382d71093e02360efab10804e73fff1395918bd85ab7561974ba1c5721",
+      "fingerprint": "63cd68b76742e62974cb801133dd1865b3c6a9e8bf1b4c7d021289a94de0a7e0",
       "output_page": "pages/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_severe_risk_t_86df83_open_weight_t_3026a4.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_frontier_ai_e_9920ab_severe_risk_t_86df83_open_weight_t_3026a4",
@@ -5246,7 +5246,7 @@
         "url_count": 108,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 6,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -5267,7 +5267,7 @@
       }
     },
     "AI_Doom_and_E_87399b_interpretabil_15527d_ai_monitor_ev_8b5000_ai_interpreta_c22d96": {
-      "fingerprint": "fcfe6f9878c45740dc354c3111bdcc8a37d639908f77b04bb79bc180bb9e503d",
+      "fingerprint": "60dc25e9c2daba9fb6b99f2a92fd43010b3b827703697f1771e86f1e0a2e4ea5",
       "output_page": "pages/AI_Doom_and_E_87399b_interpretabil_15527d_ai_monitor_ev_8b5000_ai_interpreta_c22d96.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_interpretabil_15527d_ai_monitor_ev_8b5000_ai_interpreta_c22d96",
@@ -5285,7 +5285,7 @@
         "url_count": 94,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 4,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -5306,7 +5306,7 @@
       }
     },
     "AI_Doom_and_E_87399b_interpretabil_15527d_ai_monitor_ev_8b5000_ai_monitor_ev_8b5000": {
-      "fingerprint": "4ce7ea5ebb45f387927cd90e9c8de9b23594a8bc6a808d58eef24e2cd6faad1e",
+      "fingerprint": "8f79319ffbb413df37b98f8a221964dc4417502bdcc588f5c896a3e302b10fd8",
       "output_page": "pages/AI_Doom_and_E_87399b_interpretabil_15527d_ai_monitor_ev_8b5000_ai_monitor_ev_8b5000.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_interpretabil_15527d_ai_monitor_ev_8b5000_ai_monitor_ev_8b5000",
@@ -5324,7 +5324,7 @@
         "url_count": 180,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -5345,7 +5345,7 @@
       }
     },
     "AI_Doom_and_E_87399b_interpretabil_15527d_ai_monitor_ev_8b5000_ai_on_ai_over_72b1b9": {
-      "fingerprint": "d46a1577c25dc5c22d07a51d9a0b1292e72bc8a750418971c4f0d73d0f5235ed",
+      "fingerprint": "ca97629388aa0f767bf50c0250a80cedaa0dae39d8cc85966071aa4da92a1f33",
       "output_page": "pages/AI_Doom_and_E_87399b_interpretabil_15527d_ai_monitor_ev_8b5000_ai_on_ai_over_72b1b9.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_interpretabil_15527d_ai_monitor_ev_8b5000_ai_on_ai_over_72b1b9",
@@ -5363,7 +5363,7 @@
         "url_count": 93,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1099,
+        "internal_link_candidate_pool_size": 840,
         "inline_internal_link_count": 6,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -5384,7 +5384,7 @@
       }
     },
     "AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_approval_rubb_a5a25f": {
-      "fingerprint": "df8be4725c616af7900ebdc162e71c4ae920d82947e6c2849cd077ea9a47ec90",
+      "fingerprint": "93d47ee14b0ecf7dee48abb1f4bc6c8ed963196986840917f855a8385edd9ec7",
       "output_page": "pages/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_approval_rubb_a5a25f.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_approval_rubb_a5a25f",
@@ -5402,7 +5402,7 @@
         "url_count": 125,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1097,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -5423,7 +5423,7 @@
       }
     },
     "AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_continuous_su_ef2f88": {
-      "fingerprint": "a6414791c0ee7b656a229a660618a05b5a9590d8701f90efb6bee7fa7b85189b",
+      "fingerprint": "ff4ab68e0b7846dd72e631032ef33492e1b8a412913edbfa06e3cea66244fb34",
       "output_page": "pages/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_continuous_su_ef2f88.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_continuous_su_ef2f88",
@@ -5441,7 +5441,7 @@
         "url_count": 90,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1096,
+        "internal_link_candidate_pool_size": 838,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -5462,7 +5462,7 @@
       }
     },
     "AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_weak_supervis_fb4c95": {
-      "fingerprint": "cd955be21eed8af59658ae52eac34027e856ce35297055cf1a38add26334c61a",
+      "fingerprint": "a06ea47316b4c45a744c890236ad798097a8f660abe88c2a162ffcdbfbcc9df5",
       "output_page": "pages/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_weak_supervis_fb4c95.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_weak_supervis_fb4c95",
@@ -5480,7 +5480,7 @@
         "url_count": 116,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 840,
         "inline_internal_link_count": 6,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -5501,7 +5501,7 @@
       }
     },
     "AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e_black_box_evi_931b81": {
-      "fingerprint": "4de3b80557dcd0112392accbc77c8ee5802b7705dddc91f3c886682bdb37f048",
+      "fingerprint": "2b348f37ad4e281e5cadede1bad6c8ca1ad5559afce7023dd8b7bd724034e14d",
       "output_page": "pages/AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e_black_box_evi_931b81.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e_black_box_evi_931b81",
@@ -5519,7 +5519,7 @@
         "url_count": 139,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1097,
+        "internal_link_candidate_pool_size": 838,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -5540,7 +5540,7 @@
       }
     },
     "AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e_mechanistic_i_d561dd": {
-      "fingerprint": "b2f5ce6edc24e2e9655ba3b7b7f85efa8187e9dad4431d1c7c828d565e8b4fc6",
+      "fingerprint": "c54a797aca2ee66f1d94717ed449d4d9b098b1f20ec41881f11d39ecf4214e22",
       "output_page": "pages/AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e_mechanistic_i_d561dd.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e_mechanistic_i_d561dd",
@@ -5558,7 +5558,7 @@
         "url_count": 144,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 7,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -5579,7 +5579,7 @@
       }
     },
     "AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e_misleading_po_7a9cae": {
-      "fingerprint": "08cde29a805e4b03d2a97d1cf55680ba8cd34c588aedc225e2e5af7cc16087a6",
+      "fingerprint": "8025351fda1b20dbc1e0430bbb751f2cb159dc8820d41a53fad89f4f35bbf5bb",
       "output_page": "pages/AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e_misleading_po_7a9cae.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e_misleading_po_7a9cae",
@@ -5597,7 +5597,7 @@
         "url_count": 140,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 6,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -5618,7 +5618,7 @@
       }
     },
     "AI_Doom_and_E_87399b_interpretabil_15527d_mechanistic_h_cf3b0e_hidden_goal_d_69f397": {
-      "fingerprint": "01a5b05c0f2414a8e9cff1bc418110e20d27491f53b399a7d9a2266f4c44f948",
+      "fingerprint": "ab6464f3dac87e636bcc5b66b4f6377cdd520f1629f2410b82b7fc4c9ecc90d0",
       "output_page": "pages/AI_Doom_and_E_87399b_interpretabil_15527d_mechanistic_h_cf3b0e_hidden_goal_d_69f397.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_interpretabil_15527d_mechanistic_h_cf3b0e_hidden_goal_d_69f397",
@@ -5636,7 +5636,7 @@
         "url_count": 103,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1097,
+        "internal_link_candidate_pool_size": 838,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -5657,7 +5657,7 @@
       }
     },
     "AI_Doom_and_E_87399b_interpretabil_15527d_mechanistic_h_cf3b0e_interpretabil_17e0f4": {
-      "fingerprint": "f038a1118444f37d04b9b560fb3dc233f15b9fba583d45496bfc2443b6d8f82c",
+      "fingerprint": "aca94431515ec4640d500369091a2b1f85333903e0312472bf28ad1ca033b061",
       "output_page": "pages/AI_Doom_and_E_87399b_interpretabil_15527d_mechanistic_h_cf3b0e_interpretabil_17e0f4.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_interpretabil_15527d_mechanistic_h_cf3b0e_interpretabil_17e0f4",
@@ -5675,7 +5675,7 @@
         "url_count": 162,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1099,
+        "internal_link_candidate_pool_size": 840,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -5696,7 +5696,7 @@
       }
     },
     "AI_Doom_and_E_87399b_interpretabil_15527d_mechanistic_h_cf3b0e_mechanistic_h_0757ae": {
-      "fingerprint": "159f1a8a4a7cda99d72a01a7df89e5d3bbce09c648bcb68afb1041abd7df7c6e",
+      "fingerprint": "dfb086247975a68f3a9eb314933d3dc75a79e189c5cc8ed0aaca290f03af3249",
       "output_page": "pages/AI_Doom_and_E_87399b_interpretabil_15527d_mechanistic_h_cf3b0e_mechanistic_h_0757ae.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_interpretabil_15527d_mechanistic_h_cf3b0e_mechanistic_h_0757ae",
@@ -5714,7 +5714,7 @@
         "url_count": 135,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1099,
+        "internal_link_candidate_pool_size": 840,
         "inline_internal_link_count": 5,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -5735,7 +5735,7 @@
       }
     },
     "AI_Doom_and_E_87399b_loss_of_contr_19a113_control_warni_352f11_hidden_reason_ec5ad9": {
-      "fingerprint": "b28062eee253639f85ff866da6638d99cb7b6acba9519f46d02d98968801f2d2",
+      "fingerprint": "32872c0360009979e7b48f13bf1f9640b58e98a67422a68ab2a7afb366235b3b",
       "output_page": "pages/AI_Doom_and_E_87399b_loss_of_contr_19a113_control_warni_352f11_hidden_reason_ec5ad9.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_loss_of_contr_19a113_control_warni_352f11_hidden_reason_ec5ad9",
@@ -5753,7 +5753,7 @@
         "url_count": 136,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1097,
+        "internal_link_candidate_pool_size": 838,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -5774,7 +5774,7 @@
       }
     },
     "AI_Doom_and_E_87399b_loss_of_contr_19a113_control_warni_352f11_human_loop_we_9c32f7": {
-      "fingerprint": "2c40937281d209b84fcc7e37b95e072946e395603e06f4078973009aef33956e",
+      "fingerprint": "6390e22d25b419716119c736667baaaa0e28212f02ac411fe25522df5fecfb0f",
       "output_page": "pages/AI_Doom_and_E_87399b_loss_of_contr_19a113_control_warni_352f11_human_loop_we_9c32f7.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_loss_of_contr_19a113_control_warni_352f11_human_loop_we_9c32f7",
@@ -5792,7 +5792,7 @@
         "url_count": 97,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -5813,7 +5813,7 @@
       }
     },
     "AI_Doom_and_E_87399b_loss_of_contr_19a113_control_warni_352f11_test_aware_ai_b753e9": {
-      "fingerprint": "87cdda576e6ee2a6727cca7570652e6448300f8ffb6b7fce273bc36aacf33c9e",
+      "fingerprint": "566d4a71b9bfe3db28512ec510a01f0237a60aff5785c6fa63942a7e78386dea",
       "output_page": "pages/AI_Doom_and_E_87399b_loss_of_contr_19a113_control_warni_352f11_test_aware_ai_b753e9.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_loss_of_contr_19a113_control_warni_352f11_test_aware_ai_b753e9",
@@ -5831,7 +5831,7 @@
         "url_count": 167,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1099,
+        "internal_link_candidate_pool_size": 840,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -5852,7 +5852,7 @@
       }
     },
     "AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca_ai_advice_def_130a4f": {
-      "fingerprint": "86fd7921d3f0b018e5bc466e28ba19e9009bca737b83ce28169035922fc18666",
+      "fingerprint": "8f9795135746e7e30748d012502bbec6431c32761b435b52aaa5a2dc6ac6f21f",
       "output_page": "pages/AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca_ai_advice_def_130a4f.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca_ai_advice_def_130a4f",
@@ -5870,7 +5870,7 @@
         "url_count": 103,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1097,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 5,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -5891,7 +5891,7 @@
       }
     },
     "AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca_citizens_cont_36114b": {
-      "fingerprint": "bcadb51d1de38d60bd084bd10aaeadf57975f4c244bbb50f7dbc7b85838897aa",
+      "fingerprint": "9e637d2d64c0034431ae4101f207690cfe7a5e9b0b68d73683e76c61491dd813",
       "output_page": "pages/AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca_citizens_cont_36114b.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca_citizens_cont_36114b",
@@ -5909,7 +5909,7 @@
         "url_count": 138,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1097,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 6,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -5930,7 +5930,7 @@
       }
     },
     "AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca_expertise_ero_23d4c6": {
-      "fingerprint": "2005a1a402ab654994fa5da5b754bc92da58f0b71e3f852333384febd5d9c752",
+      "fingerprint": "1f2b464b7ac9b39318fa9c658dd626e627d905e1257970d84afa02f84d519617",
       "output_page": "pages/AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca_expertise_ero_23d4c6.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca_expertise_ero_23d4c6",
@@ -5948,7 +5948,7 @@
         "url_count": 98,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1096,
+        "internal_link_candidate_pool_size": 838,
         "inline_internal_link_count": 6,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -5969,7 +5969,7 @@
       }
     },
     "AI_Doom_and_E_87399b_loss_of_contr_19a113_shutdown_resi_de0ce6_ai_resistance_723aca": {
-      "fingerprint": "76b6db4c1e03b8be0621aac1bd1071889ac658a63e0f3a35e4655147341ff291",
+      "fingerprint": "36093f9826dea406079e61c8817e2dc1fde5328e7a4d8d7016a5537d08af3733",
       "output_page": "pages/AI_Doom_and_E_87399b_loss_of_contr_19a113_shutdown_resi_de0ce6_ai_resistance_723aca.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_loss_of_contr_19a113_shutdown_resi_de0ce6_ai_resistance_723aca",
@@ -5987,7 +5987,7 @@
         "url_count": 142,
         "youtube_embed_count": 2,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1096,
+        "internal_link_candidate_pool_size": 838,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -6008,7 +6008,7 @@
       }
     },
     "AI_Doom_and_E_87399b_loss_of_contr_19a113_shutdown_resi_de0ce6_corrigibility_8e47d4": {
-      "fingerprint": "e86552597714d5e4ac4ec73c3d40191072c0d0fd73636600651c9f2c72b79d70",
+      "fingerprint": "3de514a67f4f5f3e479193325c124cd3056a77a1e864057226516a9faa726d8a",
       "output_page": "pages/AI_Doom_and_E_87399b_loss_of_contr_19a113_shutdown_resi_de0ce6_corrigibility_8e47d4.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_loss_of_contr_19a113_shutdown_resi_de0ce6_corrigibility_8e47d4",
@@ -6026,7 +6026,7 @@
         "url_count": 151,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 840,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -6047,7 +6047,7 @@
       }
     },
     "AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_agency_dis_87e1f9_agent_vs_tool_40fa48": {
-      "fingerprint": "2953f4fb185863cc8ec871a51fa6fee5fe77680cadde8df22348ac4958f28d65",
+      "fingerprint": "b5a4e9ea8224d0ee2d19417ddcb71656eb8ad1dd47c9ecfa9638edaab684eb46",
       "output_page": "pages/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_agency_dis_87e1f9_agent_vs_tool_40fa48.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_agency_dis_87e1f9_agent_vs_tool_40fa48",
@@ -6065,7 +6065,7 @@
         "url_count": 89,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 7,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -6086,7 +6086,7 @@
       }
     },
     "AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_agency_dis_87e1f9_corrigibility_6d053d": {
-      "fingerprint": "a88d198e5e02a6840ec6f3737f1ae804c39999b4f3fe820dc3b819b412dfff7c",
+      "fingerprint": "dda1e321909393b90c88c41ee3644b5e911d1033d02fc6718b1bc80ba90e548b",
       "output_page": "pages/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_agency_dis_87e1f9_corrigibility_6d053d.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_agency_dis_87e1f9_corrigibility_6d053d",
@@ -6104,7 +6104,7 @@
         "url_count": 168,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1100,
+        "internal_link_candidate_pool_size": 841,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -6125,7 +6125,7 @@
       }
     },
     "AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93_ai_surveys_ti_3e6c9e": {
-      "fingerprint": "cc0f44a756242a0ab5f03617b772fb9f7ec992d0cf7925ad79a09f017e54adcb",
+      "fingerprint": "47f978726ccf260a9c842d7b317689e6d9c292d1757e609d9cef6ae0f80d4a37",
       "output_page": "pages/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93_ai_surveys_ti_3e6c9e.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93_ai_surveys_ti_3e6c9e",
@@ -6143,7 +6143,7 @@
         "url_count": 121,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1097,
+        "internal_link_candidate_pool_size": 838,
         "inline_internal_link_count": 6,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -6164,7 +6164,7 @@
       }
     },
     "AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93_long_timeline_8bd32c": {
-      "fingerprint": "48fb262094413d012180a03147ce5dbecc8257492250641b57fb016c5748fb52",
+      "fingerprint": "5d2cf6f88207338e8fd76ddd41487fe2f7d041255410d8f3896b83e7fe11652f",
       "output_page": "pages/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93_long_timeline_8bd32c.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93_long_timeline_8bd32c",
@@ -6182,7 +6182,7 @@
         "url_count": 93,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 5,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -6203,7 +6203,7 @@
       }
     },
     "AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93_short_timelin_2c07bc": {
-      "fingerprint": "f1ca6a190ebe2a4a6d47f2bf0d79a7db86fdc4c40d7d910c6cf1d2e6298f2b60",
+      "fingerprint": "dacb4d8075e82648959c1b8c6c02f157f1f892e990956f90fc5c0015d74c19c7",
       "output_page": "pages/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93_short_timelin_2c07bc.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93_short_timelin_2c07bc",
@@ -6221,7 +6221,7 @@
         "url_count": 89,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1099,
+        "internal_link_candidate_pool_size": 840,
         "inline_internal_link_count": 6,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -6242,7 +6242,7 @@
       }
     },
     "AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d59e80_ai_researcher_c2f0e9": {
-      "fingerprint": "a5f47c624583fa2606672f9758c099de9a45111bd7c5e94e92bde779384e018f",
+      "fingerprint": "7c0875699eac50420930a64ecf1c951790a2b6f62a2ea94e82569c8f8285a439",
       "output_page": "pages/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d59e80_ai_researcher_c2f0e9.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d59e80_ai_researcher_c2f0e9",
@@ -6260,7 +6260,7 @@
         "url_count": 114,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1097,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 6,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -6281,7 +6281,7 @@
       }
     },
     "AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d59e80_compute_gover_a7d298": {
-      "fingerprint": "3bdc6c3e7b1248ee3e80a19412f76e79972e5ec2010755d3f926a1cc9e80821f",
+      "fingerprint": "0a54320ccbbfea619826e40b5b555c8f9e285b432479b67c92c0fc60dad2cca3",
       "output_page": "pages/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d59e80_compute_gover_a7d298.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d59e80_compute_gover_a7d298",
@@ -6299,7 +6299,7 @@
         "url_count": 132,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 840,
         "inline_internal_link_count": 7,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -6320,7 +6320,7 @@
       }
     },
     "AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d59e80_frontier_ai_e_84b246": {
-      "fingerprint": "919a6f966184478f423eca46337af4080787094babf8b909fd1e76343e8f9f2f",
+      "fingerprint": "76922abf48c2d47894a40e72232ef76b69af7f0f5235ebc2edc0d8b037564202",
       "output_page": "pages/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d59e80_frontier_ai_e_84b246.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_p_doom_estima_72d1f2_alignment_gov_d59e80_frontier_ai_e_84b246",
@@ -6338,7 +6338,7 @@
         "url_count": 109,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1097,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -6359,7 +6359,7 @@
       }
     },
     "AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264_expert_popula_9d86f0": {
-      "fingerprint": "a012306f3f44ba52779347e43cd8e1afcd7737d793207947f345f048d12e26d7",
+      "fingerprint": "e9a1ba5ca9c034e06888c464802eb7cc3107814e15ce7e0e9fc8de0679f3dbd9",
       "output_page": "pages/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264_expert_popula_9d86f0.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264_expert_popula_9d86f0",
@@ -6377,7 +6377,7 @@
         "url_count": 123,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 8,
         "related_report_count": 6,
         "internal_link_hit_page_cap": true,
@@ -6398,7 +6398,7 @@
       }
     },
     "AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264_hybrid_foreca_3b472f": {
-      "fingerprint": "4c03a228fed370f4a59d19e833345abc5c28048e5ee255207d3deef43dc2eb0f",
+      "fingerprint": "c577f61828ce39489a84df84fc94c1e5f4561152bd32a491b6403d74b9a254ce",
       "output_page": "pages/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264_hybrid_foreca_3b472f.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264_hybrid_foreca_3b472f",
@@ -6416,7 +6416,7 @@
         "url_count": 106,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1099,
+        "internal_link_candidate_pool_size": 840,
         "inline_internal_link_count": 4,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -6437,7 +6437,7 @@
       }
     },
     "AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264_survey_framin_0cae06": {
-      "fingerprint": "1b8c52f13512ba5b168102c13285d8efd006585e28187388311987d69e1a54b2",
+      "fingerprint": "102a2b1f045c880e34b586ec118ea74df5269e08e930d80d72c885cfec634316",
       "output_page": "pages/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264_survey_framin_0cae06.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264_survey_framin_0cae06",
@@ -6455,7 +6455,7 @@
         "url_count": 110,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 6,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -6476,14 +6476,14 @@
       }
     },
     "AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72a06a_chip_manufact_915c39": {
-      "fingerprint": "7f21a98ba096b85ee400c1a7076a67113a0b8c5d78e63c47413dc5e798d278de",
+      "fingerprint": "2593e991270575c59b2e3696782931257492be72a069ca223e7a73c6ba0fcdc9",
       "output_page": "pages/AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72a06a_chip_manufact_915c39.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72a06a_chip_manufact_915c39",
         "title": "Why AI cannot instantly build more chips",
         "permalink": "/chip-limits/",
-        "word_count": 10394,
-        "char_count": 82745,
+        "word_count": 10398,
+        "char_count": 82763,
         "line_count": 231,
         "heading_count": 10,
         "h2_count": 6,
@@ -6494,7 +6494,7 @@
         "url_count": 116,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1099,
+        "internal_link_candidate_pool_size": 840,
         "inline_internal_link_count": 3,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -6515,7 +6515,7 @@
       }
     },
     "AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72a06a_electricity_b_6772c2": {
-      "fingerprint": "b644067e8546d9cf48dd7afa681dc81c889a48cdadc653d1d41f542235dd24c6",
+      "fingerprint": "4b68235ec2bbab662c26ef8ea458d0eb7a9567c6afa9ec41103102312dfb5b21",
       "output_page": "pages/AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72a06a_electricity_b_6772c2.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72a06a_electricity_b_6772c2",
@@ -6533,7 +6533,7 @@
         "url_count": 139,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 5,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -6554,7 +6554,7 @@
       }
     },
     "AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72a06a_software_effi_2bba9e": {
-      "fingerprint": "3ba7a585b75a846f7505d6f7aa56855873a627947633b8e26f59a9d90aa537c9",
+      "fingerprint": "72f3822d2a1d4c2bae0a71f947b1fd7ff1879db64d2a779d44c2e73581dff997",
       "output_page": "pages/AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72a06a_software_effi_2bba9e.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72a06a_software_effi_2bba9e",
@@ -6572,7 +6572,7 @@
         "url_count": 168,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1099,
+        "internal_link_candidate_pool_size": 840,
         "inline_internal_link_count": 5,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -6593,7 +6593,7 @@
       }
     },
     "AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_alphazero_sel_8e9d74": {
-      "fingerprint": "6c6481a9b0919d7e0caacf7d75579d12217f6ca73912628ecd8dddbbb15980c1",
+      "fingerprint": "be2859f54721d82f884d1c0e5170a60cf8282a65fc114b7c2f71c6cfe8c04c73",
       "output_page": "pages/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_alphazero_sel_8e9d74.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_alphazero_sel_8e9d74",
@@ -6611,7 +6611,7 @@
         "url_count": 87,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1098,
+        "internal_link_candidate_pool_size": 840,
         "inline_internal_link_count": 3,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -6632,7 +6632,7 @@
       }
     },
     "AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_automl_constr_fc237f": {
-      "fingerprint": "4ded056c1aaad2a59a82e8ddf3e5714f827e0dd656090db74c4458909131dc87",
+      "fingerprint": "e2722a8c17ee16ef8a9b6fb923cc0b77134990b84da9eca43d0db96f3319bbf8",
       "output_page": "pages/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_automl_constr_fc237f.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_automl_constr_fc237f",
@@ -6650,7 +6650,7 @@
         "url_count": 95,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1097,
+        "internal_link_candidate_pool_size": 839,
         "inline_internal_link_count": 3,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,
@@ -6671,7 +6671,7 @@
       }
     },
     "AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_self_improvem_e1ba6a": {
-      "fingerprint": "d089e992dc1f6afb38639a61c9a3cf5ff5abbd792383a6834727e6708423ea42",
+      "fingerprint": "366e35c1fbc78eea7069e6614b92c5646dbec163f69bc3be6704dbb376f0847a",
       "output_page": "pages/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_self_improvem_e1ba6a.md",
       "quality_record": {
         "basename": "AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_self_improvem_e1ba6a",
@@ -6689,7 +6689,7 @@
         "url_count": 89,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 1096,
+        "internal_link_candidate_pool_size": 838,
         "inline_internal_link_count": 3,
         "related_report_count": 6,
         "internal_link_hit_page_cap": false,

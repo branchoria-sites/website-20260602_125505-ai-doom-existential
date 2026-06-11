@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-deceptive-ali/
 description: Focused pages that expand on Lab vs Real.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_deceptive_ali_f9f449_lab_real_worl_a5db25
-parent_title: Lab vs Real | Scheming Tests
+parent_title: Lab vs Real
 parent_nav_short_title: Lab vs Real
 parent_permalink: /lab-vs-real/
 ---

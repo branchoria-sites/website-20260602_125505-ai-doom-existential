@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /survey-estimates/
 nav_short_title: Population Evidence
 title: Why Different Expert Groups Disagree on AI Doom Probabilities
-title_full: Why Different Expert Groups Disagree on AI Doom Probabilities | Survey Estimates
+title_full: Why Different Expert Groups Disagree on AI Doom Probabilities
 display_title_short: Population Evidence
 display_title: Population Evidence
 heading_title: Why Different Expert Groups Disagree on AI Doom Probabilities
@@ -204,7 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 19:01:34'
-parent_title: How AI Experts Forecast Doom Probabilities | P Doom
+parent_title: How AI Experts Forecast Doom Probabilities
 parent_permalink: /survey-estimates/
 parent_nav_short_title: Survey Estimates
 parent_heading_title: How AI Experts Forecast Doom Probabilities
@@ -277,7 +277,6 @@ image: /assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db
 
 One of the clearest findings from AI doom surveys is not that experts agree on a particular probability of catastrophe, but that different expert populations consistently give different answers. Researchers who work on mainstream machine learning, researchers focused on AI safety and alignment, [governance]({{ 'governance/' | relative_url }}) specialists, forecasters, and sceptics often look at the same underlying technology and arrive at sharply different estimates of existential risk.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264_expert_popula_9d86f0-Illustration-1-dark.svg" | relative_url }}" alt="Population Evidence illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264_expert_popula_9d86f0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264_expert_popula_9d86f0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters because debates about p(doom) are often presented as disagreements about a single number. In reality, they are frequently disagreements between communities with different training, incentives, conceptual frameworks, and assumptions about future AI systems. [Survey evidence]({{ 'survey-evidence/' | relative_url }}) repeatedly shows that who gets asked can substantially affect the resulting forecast. Understanding those population differences helps explain why published estimates range from near zero to well above 50%, even among people with technical expertise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wiki.aiimpacts.org/uncategorized/ai_risk_surveys" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wiki.aiimpacts.org">[AI Impacts Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wiki.aiimpacts.org</span><span class="citation-popover-title">ai risk surveys</span><span class="citation-popover-snippet">AI Impacts WikiSurveys of experts on levels of AI Risk9 May 2023 — We know of six surveys of AI experts and two surveys of AI safety/gove...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
@@ -293,7 +292,6 @@ Broad AI-research samples also include many people whose primary work involves a
 
 That distinction becomes important when comparing their responses with those of specialist populations.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xW0xjAMD60c" title="P(doom): Probability that AI will destroy human civilization | Roman Yampolskiy and Lex Fridman" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xW0xjAMD60c" target="_blank" rel="noopener noreferrer">P(doom): Probability that AI will destroy human civilization | Roman Yampolskiy and Lex Fridman</a></p><p class="youtube-embed-meta">Channel: Lex Clips &middot; Views: 246.8K &middot; Uploaded: June 2024 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xW0xjAMD60c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xW0xjAMD60c">Open on YouTube</a></p></div></div></div>
 
 ## Safety and Alignment Specialists Often Report Higher p(doom)
@@ -308,7 +306,6 @@ The study also found differences in familiarity with key safety concepts. Resear
 
 From the perspective of many safety specialists, current machine-learning systems should not be treated merely as software tools becoming incrementally more capable. Instead, they are viewed as early examples of systems that could eventually develop strategic behaviour, pursue objectives in unintended ways, or become difficult to supervise effectively at scale. Those assumptions naturally produce higher doom forecasts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2502.14870" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264_expert_popula_9d86f0-Illustration-2-dark.svg" | relative_url }}" alt="Population Evidence illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264_expert_popula_9d86f0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264_expert_popula_9d86f0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Governance and Long-Term Risk Communities Occupy a Different Position
 
@@ -319,7 +316,6 @@ These groups are not always machine-learning researchers themselves, but they fr
 In some cases, governance-focused experts assign relatively high probabilities to catastrophic outcomes even when they are uncertain about specific technical alignment failures. Their concern comes instead from social mechanisms: competitive deployment pressures, military incentives, inadequate monitoring, or the possibility that powerful systems are released before safety measures mature. <span class="citation-chip-wrap"><a class="citation-chip" href="https://80000hours.org/problem-profiles/artificial-intelligence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 80000hours.org">[80,000 Hours]</a><span class="citation-popover" role="note"><span class="citation-popover-source">80000hours.org</span><span class="citation-popover-title">Here&#x27;s why working on AI risks could be the most important use</span><span class="citation-popover-snippet">80,000 HoursWhy AI risks are the world&#x27;s most pressing problemsFeb 24, 2026 — AGI could rapidly transform the world, posing existential r...</span></span></span>
 
 This helps explain why two experts may agree on the technical capabilities of future AI systems but still assign different p(doom) values. One may view governance failures as the dominant threat, while another views technical control as the primary challenge.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/s4iaNoWe4m4" title="How Worried Should We Be About AI? - Katja Grace, AI Impacts - DS Pod #290" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=s4iaNoWe4m4" target="_blank" rel="noopener noreferrer">How Worried Should We Be About AI? - Katja Grace, AI Impacts - DS Pod #290</a></p><p class="youtube-embed-meta">Channel: The DemystifySci Podcast &middot; Views: 2.0K &middot; Uploaded: October 2024 &middot; Length: 2 hours 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=s4iaNoWe4m4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=s4iaNoWe4m4">Open on YouTube</a></p></div></div></div>
 
@@ -333,7 +329,6 @@ Researchers who expect rapid capability jumps or transformative AI arriving on s
 
 The disagreement therefore runs deeper than a simple argument over percentages. Different expert groups often start from different answers to questions such as:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Will future AI remain tool-like or become agentic?
@@ -346,7 +341,6 @@ The disagreement therefore runs deeper than a simple argument over percentages. 
 
 Changes in these assumptions can shift p(doom) forecasts dramatically, even among researchers with similar technical backgrounds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2502.14870" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264_expert_popula_9d86f0-Illustration-3-dark.svg" | relative_url }}" alt="Population Evidence illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264_expert_popula_9d86f0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264_expert_popula_9d86f0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Population Differences Matter for Interpreting Surveys
 
@@ -358,9 +352,7 @@ This does not mean [expert surveys]({{ 'expert-surveys/' | relative_url }}) are 
 
 The surveys therefore tell us less about a precise probability of extinction and more about the structure of expert disagreement. The central lesson is not that AI doom has been measured, but that experts who spend their time thinking about advanced AI often diverge in systematic ways depending on which community they belong to, what models they use, and what future they believe they are trying to forecast. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wiki.aiimpacts.org/uncategorized/ai_risk_surveys" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wiki.aiimpacts.org">[AI Impacts Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wiki.aiimpacts.org</span><span class="citation-popover-title">ai risk surveys</span><span class="citation-popover-snippet">AI Impacts WikiSurveys of experts on levels of AI Risk9 May 2023 — We know of six surveys of AI experts and two surveys of AI safety/gove...</span><span class="citation-popover-meta">Published: May 2023</span></span></span> 2arXiv
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xwJx_xqZI3Q" title="AI Impacts Survey - The key implications, with Katja Grace" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xwJx_xqZI3Q" target="_blank" rel="noopener noreferrer">AI Impacts Survey - The key implications, with Katja Grace</a></p><p class="youtube-embed-meta">Channel: London Futurists &middot; Views: 281 &middot; Uploaded: June 2024 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xwJx_xqZI3Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xwJx_xqZI3Q">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -952,4 +944,4 @@ The surveys therefore tell us less about a precise probability of extinction and
    Title: 396256646 Thousands of AI Authors on the Future of AI  
    Link: <a href="https://www.researchgate.net/publication/396256646_Thousands_of_AI_Authors_on_the_Future_of_AI" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396256646_Thousands_of_AI_Authors_on_the_Future_of_AI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Thousands of AI Authors on the Future of AIOct 5, 2025 — PDF | In October 2023, 2778 researchers who had published in top-tier artificial...</p></details>
-   Published: October 2023  
+   Published: October 2023

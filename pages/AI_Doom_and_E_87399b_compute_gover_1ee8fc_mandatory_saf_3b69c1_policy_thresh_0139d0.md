@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /safety-checks/
 nav_short_title: Risk Thresholds
 title: How Policy Thresholds Govern Safe Frontier AI Development
-title_full: How Policy Thresholds Govern Safe Frontier AI Development | Safety Checks
+title_full: How Policy Thresholds Govern Safe Frontier AI Development
 display_title_short: Risk Thresholds
 display_title: Risk Thresholds
 heading_title: How Policy Thresholds Govern Safe Frontier AI Development
@@ -204,7 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-02 12:27:38'
-parent_title: Should Frontier Models Pass Safety Checks First? | Governance
+parent_title: Should Frontier Models Pass Safety Checks First?
 parent_permalink: /safety-checks/
 parent_nav_short_title: Safety Checks
 parent_heading_title: Should Frontier Models Pass Safety Checks First?
@@ -271,7 +271,6 @@ image: /assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b
 
 In proposals for mandatory frontier AI safety evaluations, policy thresholds are the point at which concern turns into action. Rather than treating safety reviews as advisory exercises, threshold-based governance links predefined indicators of danger to specific consequences. If a model, training run, or organisation crosses a threshold, additional evaluations, reporting requirements, deployment restrictions, or even pauses to development may be triggered. The core idea is that potentially [catastrophic]({{ 'misuse/' | relative_url }}) risks should not depend entirely on the judgement of individual AI companies. Instead, agreed limits create predictable responses before systems become too powerful to manage. Supporters see this as a practical way to reduce the risk of [loss of control]({{ 'loss-of-control/' | relative_url }}), dangerous autonomy, or catastrophic misuse. Critics argue that the wrong thresholds could either fail to catch genuinely dangerous systems or unnecessarily slow beneficial innovation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiermodelforum.org/updates/issue-brief-thresholds-for-frontier-ai-safety-frameworks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">issue brief thresholds for frontier ai safety frameworks</span><span class="citation-popover-snippet">Frontier Model ForumIssue Brief: Thresholds for Frontier AI Safety Frameworks7 Feb 2025 — This brief elaborates on the importance of thre...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024/frontier-ai-safety-commitments-ai-seoul-summit-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">frontier ai safety commitments ai seoul summit 2024</span><span class="citation-popover-snippet">Frontier AI Safety Commitments, AI Seoul Summit 2024Feb 7, 2025 — Thresholds can be defined using model capabilities, estimates of risk...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1_policy_thresh_0139d0-Illustration-1-dark.svg" | relative_url }}" alt="Risk Thresholds illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1_policy_thresh_0139d0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1_policy_thresh_0139d0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within AI doom debates, policy thresholds matter because many existential-risk arguments assume that [warning signs]({{ 'warning-signs/' | relative_url }}) may appear before a full catastrophe. The challenge is deciding which warning signs deserve intervention and what consequences should follow when they appear.
 
@@ -299,7 +298,6 @@ The most prominent example is the European Union's framework for general-purpose
 
 However, compute thresholds face an important criticism. Advances in inference-time scaling—the use of large amounts of computation after training rather than during training—may weaken the connection between training compute and actual capability. A model might become significantly more capable without crossing traditional training thresholds. This is one reason many researchers view compute thresholds as useful filters rather than complete safety measures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internationalaisafetyreport.org">[International AI Safety Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internationalaisafetyreport.org</span><span class="citation-popover-title">international ai safety report 2026</span><span class="citation-popover-snippet">International AI Safety ReportInternational AI Safety Report 20263 Feb 2026 — For example, some current governance approaches use thresho...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EOwFeVESn-w" title="The Future of AI Regulation: A California Bill Shaping the Debate" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EOwFeVESn-w" target="_blank" rel="noopener noreferrer">The Future of AI Regulation: A California Bill Shaping the Debate</a></p><p class="youtube-embed-meta">Channel: Carnegie Endowment &middot; Views: 849 &middot; Uploaded: September 2024 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EOwFeVESn-w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EOwFeVESn-w">Open on YouTube</a></p></div></div></div>
 
 ## What Happens When a Threshold Is Crossed?
@@ -317,6 +315,47 @@ Different frameworks propose different responses, but common interventions inclu
 4. **Deployment restrictions** limiting access to high-risk capabilities.
 5. **Incident reporting obligations** when dangerous behaviour is discovered.
 6. **Temporary pauses in training or deployment** until risks are addressed.
+7. **Escalation to government oversight** for systems deemed capable of causing severe harm. [CLTR](https://www.longtermresilience.org/reports/frontier-ai-safety-frameworks-need-to-include-risk-governance/) [GOV.UK](https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024/frontier-ai-safety-commitments-ai-seoul-summit-2024)
+
+</div>
+
+Some frontier safety proposals use a tiered model rather than a single cut-off. Instead of dividing systems into "safe" and "unsafe", they establish increasing levels of concern. A model approaching a threshold might require intensified monitoring, while a model crossing a higher threshold could trigger deployment restrictions or development pauses. Researchers sometimes describe these as green, yellow, and red zones, with increasingly serious interventions as risks rise. [arXiv](#endnote-2 "Endnote 2")
+
+For advocates concerned about AI doom, the key purpose of escalation is to prevent situations where companies continue pushing capabilities upward despite evidence that systems are becoming difficult to control.
+
+<img src="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1_policy_thresh_0139d0-Illustration-2-dark.svg" | relative_url }}" alt="Risk Thresholds illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1_policy_thresh_0139d0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1_policy_thresh_0139d0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Regulatory Consequences in Practice
+
+The strongest existing examples of threshold-linked obligations come from emerging AI regulations and voluntary frontier safety commitments.
+
+Under the EU AI Act, providers of general-purpose AI models classified as presenting systemic risk face additional requirements. These include model evaluations, risk assessments, adversarial testing, cybersecurity protections, and serious-incident reporting. Significant penalties can apply for non-compliance. The framework therefore creates a direct connection between crossing a threshold and assuming new legal responsibilities. [Digital Strategy](https://digital-strategy.ec.europa.eu/en/faqs/general-purpose-ai-models-ai-act-questions-answers) [Digital Strategy](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai)
+
+The 2024 Seoul Frontier AI Safety Commitments took a related approach. Participating companies agreed to define thresholds at which risks would become intolerable unless adequately mitigated. The commitments emphasised that thresholds should be measurable and linked to meaningful actions when exceeded. [GOV.UK](https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety)
+
+In the United States, debate around California's proposed SB 1047 illustrated how threshold-based governance can become politically contentious. The bill attempted to apply obligations to the largest frontier models and required safety testing and emergency shutdown capabilities. Supporters argued that the legislation addressed catastrophic risks from advanced systems, while opponents warned that it could burden innovation and create legal uncertainty. The bill ultimately did not become law, but it demonstrated how disagreements often focus less on whether thresholds should exist and more on where they should be set. [Morgan Lewis](#endnote-20 "Snippet: Morgan LewisCalifornia's SB 1047 Would Impose New Safety...August 29, 2024 — 29 Aug 2024 — The bill would broadly cover any AI developer...") [2Wikipedia](https://en.wikipedia.org/wiki/Safe_and_Secure_Innovation_for_Frontier_Artificial_Intelligence_Models_Act)
+
+## The Hard Problem: Defining "Too Dangerous"
+
+The most difficult question is not what happens after a threshold is crossed. It is deciding where the threshold belongs.
+
+Capability thresholds can appear more directly connected to real-world harm than compute thresholds, but they create measurement problems. Regulators must determine exactly what level of cyber capability, biological assistance, or autonomous behaviour counts as unacceptable. Small changes in wording can have major consequences. [arXiv](#endnote-2 "Endnote 2")
+
+Risk thresholds attempt to solve this problem by focusing directly on harm. Instead of asking whether a model can perform a task, they ask whether it raises the probability of severe damage beyond an acceptable level. In principle, this approach is more defensible because it targets outcomes rather than proxies. In practice, estimating the probability of unprecedented harms remains extremely difficult. Researchers therefore often recommend combining risk thresholds with more measurable capability indicators. [arXiv](#endnote-2 "Endnote 2")
+
+This uncertainty is especially important in AI doom discussions. If existential risks arise from novel forms of misalignment, deception, or strategic planning that have never previously existed, policymakers may not know which capabilities are most predictive. Thresholds could therefore be set too low, creating unnecessary restrictions, or too high, failing to intervene before dangerous systems emerge.
+
+<img src="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1_policy_thresh_0139d0-Illustration-3-dark.svg" | relative_url }}" alt="Risk Thresholds illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1_policy_thresh_0139d0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1_policy_thresh_0139d0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Can Thresholds Reduce Existential Risk?
+
+From an AI doom perspective, policy thresholds are best understood as a governance tool for handling uncertainty rather than a guaranteed solution.
+
+Supporters argue that thresholds create predetermined stopping points in environments where competitive pressures might otherwise encourage continuous capability expansion. If organisations know in advance that crossing certain capability levels triggers mandatory evaluations, reporting requirements, or pauses, they may have stronger incentives to invest in safety before risks emerge. [CLTR](https://www.longtermresilience.org/reports/frontier-ai-safety-frameworks-need-to-include-risk-governance/) [GOV.UK](https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety)
+
+Critics respond that thresholds depend on evaluators correctly identifying dangerous capabilities. If transformative risks arise from unexpected combinations of abilities, predefined limits may provide a false sense of security. Some analysts also note that many existing safety frameworks still lack clear quantitative definitions of acceptable and unacceptable risk, making enforcement difficult. [arXiv](#endnote-2 "Endnote 2")
+
+The central trade-off is therefore not safety versus innovation but predictability versus flexibility. Strict thresholds can create clear accountability and intervention points. Flexible approaches may adapt more easily to rapidly changing technology but risk allowing dangerous capability growth before oversight mechanisms activate.
+
+For advocates of mandatory frontier AI safety evaluations before training, thresholds are the mechanism that transforms evaluation from observation into governance. Without consequences attached to crossing predefined limits, evaluations merely describe risk. With thresholds, they become a basis for deciding when development should continue, when additional safeguards are required, and when the potential stakes are high enough to justify regulatory intervention. [Frontier Model Forum](https://www.frontiermodelforum.org/updates/issue-brief-thresholds-for-frontier-ai-safety-frameworks/) [CLTR](https://www.longtermresilience.org/reports/frontier-ai-safety-frameworks-need-to-include-risk-governance/)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -734,50 +773,6 @@ Different frameworks propose different responses, but common interventions inclu
 })();
 </script>
 </section>
-
-7. **Escalation to government oversight** for systems deemed capable of causing severe harm. [CLTR](https://www.longtermresilience.org/reports/frontier-ai-safety-frameworks-need-to-include-risk-governance/) [GOV.UK](https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024/frontier-ai-safety-commitments-ai-seoul-summit-2024)
-
-</div>
-
-Some frontier safety proposals use a tiered model rather than a single cut-off. Instead of dividing systems into "safe" and "unsafe", they establish increasing levels of concern. A model approaching a threshold might require intensified monitoring, while a model crossing a higher threshold could trigger deployment restrictions or development pauses. Researchers sometimes describe these as green, yellow, and red zones, with increasingly serious interventions as risks rise. [arXiv](#endnote-2 "Endnote 2")
-
-For advocates concerned about AI doom, the key purpose of escalation is to prevent situations where companies continue pushing capabilities upward despite evidence that systems are becoming difficult to control.
-
-
-<img src="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1_policy_thresh_0139d0-Illustration-2-dark.svg" | relative_url }}" alt="Risk Thresholds illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1_policy_thresh_0139d0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1_policy_thresh_0139d0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## Regulatory Consequences in Practice
-
-The strongest existing examples of threshold-linked obligations come from emerging AI regulations and voluntary frontier safety commitments.
-
-Under the EU AI Act, providers of general-purpose AI models classified as presenting systemic risk face additional requirements. These include model evaluations, risk assessments, adversarial testing, cybersecurity protections, and serious-incident reporting. Significant penalties can apply for non-compliance. The framework therefore creates a direct connection between crossing a threshold and assuming new legal responsibilities. [Digital Strategy](https://digital-strategy.ec.europa.eu/en/faqs/general-purpose-ai-models-ai-act-questions-answers) [Digital Strategy](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai)
-
-The 2024 Seoul Frontier AI Safety Commitments took a related approach. Participating companies agreed to define thresholds at which risks would become intolerable unless adequately mitigated. The commitments emphasised that thresholds should be measurable and linked to meaningful actions when exceeded. [GOV.UK](https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety)
-
-In the United States, debate around California's proposed SB 1047 illustrated how threshold-based governance can become politically contentious. The bill attempted to apply obligations to the largest frontier models and required safety testing and emergency shutdown capabilities. Supporters argued that the legislation addressed catastrophic risks from advanced systems, while opponents warned that it could burden innovation and create legal uncertainty. The bill ultimately did not become law, but it demonstrated how disagreements often focus less on whether thresholds should exist and more on where they should be set. [Morgan Lewis](#endnote-20 "Snippet: Morgan LewisCalifornia's SB 1047 Would Impose New Safety...August 29, 2024 — 29 Aug 2024 — The bill would broadly cover any AI developer...") [2Wikipedia](https://en.wikipedia.org/wiki/Safe_and_Secure_Innovation_for_Frontier_Artificial_Intelligence_Models_Act)
-
-## The Hard Problem: Defining "Too Dangerous"
-
-The most difficult question is not what happens after a threshold is crossed. It is deciding where the threshold belongs.
-
-Capability thresholds can appear more directly connected to real-world harm than compute thresholds, but they create measurement problems. Regulators must determine exactly what level of cyber capability, biological assistance, or autonomous behaviour counts as unacceptable. Small changes in wording can have major consequences. [arXiv](#endnote-2 "Endnote 2")
-
-Risk thresholds attempt to solve this problem by focusing directly on harm. Instead of asking whether a model can perform a task, they ask whether it raises the probability of severe damage beyond an acceptable level. In principle, this approach is more defensible because it targets outcomes rather than proxies. In practice, estimating the probability of unprecedented harms remains extremely difficult. Researchers therefore often recommend combining risk thresholds with more measurable capability indicators. [arXiv](#endnote-2 "Endnote 2")
-
-This uncertainty is especially important in AI doom discussions. If existential risks arise from novel forms of misalignment, deception, or strategic planning that have never previously existed, policymakers may not know which capabilities are most predictive. Thresholds could therefore be set too low, creating unnecessary restrictions, or too high, failing to intervene before dangerous systems emerge.
-
-
-<img src="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1_policy_thresh_0139d0-Illustration-3-dark.svg" | relative_url }}" alt="Risk Thresholds illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1_policy_thresh_0139d0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1_policy_thresh_0139d0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## Can Thresholds Reduce Existential Risk?
-
-From an AI doom perspective, policy thresholds are best understood as a governance tool for handling uncertainty rather than a guaranteed solution.
-
-Supporters argue that thresholds create predetermined stopping points in environments where competitive pressures might otherwise encourage continuous capability expansion. If organisations know in advance that crossing certain capability levels triggers mandatory evaluations, reporting requirements, or pauses, they may have stronger incentives to invest in safety before risks emerge. [CLTR](https://www.longtermresilience.org/reports/frontier-ai-safety-frameworks-need-to-include-risk-governance/) [GOV.UK](https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety)
-
-Critics respond that thresholds depend on evaluators correctly identifying dangerous capabilities. If transformative risks arise from unexpected combinations of abilities, predefined limits may provide a false sense of security. Some analysts also note that many existing safety frameworks still lack clear quantitative definitions of acceptable and unacceptable risk, making enforcement difficult. [arXiv](#endnote-2 "Endnote 2")
-
-The central trade-off is therefore not safety versus innovation but predictability versus flexibility. Strict thresholds can create clear accountability and intervention points. Flexible approaches may adapt more easily to rapidly changing technology but risk allowing dangerous capability growth before oversight mechanisms activate.
-
-For advocates of mandatory frontier AI safety evaluations before training, thresholds are the mechanism that transforms evaluation from observation into governance. Without consequences attached to crossing predefined limits, evaluations merely describe risk. With thresholds, they become a basis for deciding when development should continue, when additional safeguards are required, and when the potential stakes are high enough to justify regulatory intervention. [Frontier Model Forum](https://www.frontiermodelforum.org/updates/issue-brief-thresholds-for-frontier-ai-safety-frameworks/) [CLTR](https://www.longtermresilience.org/reports/frontier-ai-safety-frameworks-need-to-include-risk-governance/)
 
 ## Endnotes
 

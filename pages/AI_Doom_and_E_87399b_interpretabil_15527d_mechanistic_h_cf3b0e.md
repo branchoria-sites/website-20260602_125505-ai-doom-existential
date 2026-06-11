@@ -30,7 +30,7 @@ sidebar_expanded_urls:
 - /control-tools/
 nav_short_title: Hidden Goals
 title: Can We Detect Hidden Goals Inside Advanced AI?
-title_full: Can We Detect Hidden Goals Inside Advanced AI? | Control Tools
+title_full: Can We Detect Hidden Goals Inside Advanced AI?
 display_title_short: Hidden Goals
 display_title: Hidden Goals
 heading_title: Can We Detect Hidden Goals Inside Advanced AI?
@@ -206,7 +206,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 21:21:35'
-parent_title: Can We Make Advanced AI Understandable? | AI Doom
+parent_title: Can We Make Advanced AI Understandable?
 parent_permalink: /control-tools/
 parent_nav_short_title: Control Tools
 parent_heading_title: Can We Make Advanced AI Understandable?
@@ -290,14 +290,12 @@ image: /assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_mechanistic_h_cf
 
 When people worry about *AI doom* — the risk that future super‑powerful AI systems could pursue objectives that conflict with human survival — a central technical question is how we might *see* what’s going on inside those systems before it’s too late. One idea gaining attention in AI safety research is **mechanistic [interpretability]({{ 'interpretability/' | relative_url }})**: the attempt to reverse‑engineer a model’s internal computations in the hope of exposing latent, potentially harmful *hidden goals* that behavioural tests alone might miss. This page focuses narrowly on that quest: what mechanistic interpretability tries to reveal, why some researchers believe it might catch covert objectives, and why others urge caution about its limits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2404.14082v3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Mechanistic Interpretability for AI Safety A ReviewThis review explores mechanistic interpretability: reverse engineering the comput...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_mechanistic_h_cf3b0e-Illustration-1-dark.svg" | relative_url }}" alt="Hidden Goals illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_mechanistic_h_cf3b0e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_mechanistic_h_cf3b0e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Mechanistic Interpretability Tries to Reveal
 
 Mechanistic interpretability is a field within explainable AI dedicated to opening up the “black box” of large neural networks. Rather than relying on input‑output behaviour or surface explanations, it aims to identify the **actual algorithms, circuits, and representations** inside a model — analogous to reverse‑engineering compiled code into human‑readable logic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mechanistic_interpretability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mechanistic interpretability</span><span class="citation-popover-snippet">Mechanistic interpretability</span></span></span>
 
 In practice, researchers look for things like:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -308,7 +306,6 @@ In practice, researchers look for things like:
 </div>
 
 Finding these structures could, in principle, tell us *what* a model computes internally and *why* it reaches certain outputs. The hope among some AI safety researchers is that similar techniques could also uncover **latent or hidden goals** represented within the model — internal objectives that don’t show up in behaviour until triggered by novel situations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://leonardbereska.github.io/blog/2024/mechinterpreview/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leonardbereska.github.io">[leonardbereska.github.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leonardbereska.github.io</span><span class="citation-popover-snippet">Mechanistic Interpretability for AI Safety — A Review10 Jul 2024 — This review explores mechanistic interpretability: reverse engineering...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ARtJ3ybvuC0" title="Neel Nanda on Avoiding an AI Catastrophe with Mechanistic Interpretability" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ARtJ3ybvuC0" target="_blank" rel="noopener noreferrer">Neel Nanda on Avoiding an AI Catastrophe with Mechanistic Interpretability</a></p><p class="youtube-embed-meta">Channel: Future of Life Institute &middot; Views: 3.2K &middot; Uploaded: February 2023 &middot; Length: 1 hour 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ARtJ3ybvuC0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ARtJ3ybvuC0">Open on YouTube</a></p></div></div></div>
 
@@ -328,7 +325,6 @@ Researchers are developing concrete tools to probe internal structure that could
 
 These approaches reflect the belief that a model’s *surface behaviour* is only part of its internal state and that *internal representations* might reveal things that behavioural tests miss.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_mechanistic_h_cf3b0e-Illustration-2-dark.svg" | relative_url }}" alt="Hidden Goals illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_mechanistic_h_cf3b0e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_mechanistic_h_cf3b0e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Skepticism: Why Hidden Goals Might Still Elude Detection
 
@@ -338,7 +334,6 @@ Despite the intuitive appeal of reading a neural network’s internal structure 
 * **Lack of Guarantees**: Scholars like Neel Nanda — a prominent mechanistic interpretability researcher — emphasise that even detailed internal maps *cannot reliably detect deception or hidden objectives* without breakthroughs beyond current techniques. In other words, no amount of interpretability today can guarantee that a model has *no* hidden misaligned goals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alignmentforum.org/posts/PwnadG4BFjaER3MGf/interpretability-will-not-reliably-find-deceptive-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alignmentforum.org">[alignmentforum.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alignmentforum.org</span><span class="citation-popover-title">interpretability will not reliably find deceptive ai</span><span class="citation-popover-snippet">4 May 2025 — Let&#x27;s stop framing interpretability as the one true path to reliably detecting AI deception, a view often born from an isola...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 * **Actionability and Safety**: Recent work suggests that mechanistic interpretability does not automatically translate into *control*. In one study, methods that identified rich internal representations did *not* reliably correct errors or inform safer outputs, highlighting a gap between understanding and controlling risk. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2404.14082v3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Mechanistic Interpretability for AI Safety A ReviewThis review explores mechanistic interpretability: reverse engineering the comput...</span></span></span>
 * **Fundamental Complexity**: Neural networks often encode representations in *superposition* — blending multiple concepts into the same neurons — which makes finding clear, interpretable signals exceedingly difficult at larger scales. These phenomena raise doubts about whether hidden goals, if they exist, can ever be cleanly isolated using current mechanistic tools. <span class="citation-chip-wrap"><a class="citation-chip" href="https://forum.effectivealtruism.org/posts/Th4tviypdKzeb59GN/interpretability-will-not-reliably-find-deceptive-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forum.effectivealtruism.org">[Effective Altruism Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forum.effectivealtruism.org</span><span class="citation-popover-title">interpretability will not reliably find deceptive ai</span><span class="citation-popover-snippet">Effective Altruism ForumInterpretability Will Not Reliably Find Deceptive AIMay 4, 2025 — 4 May 2025 — There are many deep issues in inte...</span><span class="citation-popover-meta">Published: May 4, 2025</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/riniamTdUSo" title="Mechanistic Interpretability explained | Chris Olah and Lex Fridman" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=riniamTdUSo" target="_blank" rel="noopener noreferrer">Mechanistic Interpretability explained | Chris Olah and Lex Fridman</a></p><p class="youtube-embed-meta">Channel: Lex Clips &middot; Views: 26.8K &middot; Uploaded: November 2024 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=riniamTdUSo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=riniamTdUSo">Open on YouTube</a></p></div></div></div>
 
@@ -352,15 +347,12 @@ Within the safety community, there’s an ongoing debate over how much confidenc
 
 Most experts agree that interpretability should be integrated with other safety measures — robust testing, [monitoring]({{ 'monitoring/' | relative_url }}) systems, and control mechanisms — rather than relied on in isolation.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_mechanistic_h_cf3b0e-Illustration-3-dark.svg" | relative_url }}" alt="Hidden Goals illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_mechanistic_h_cf3b0e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_mechanistic_h_cf3b0e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What This Means for AI Doom Risk
 
 In the context of existential risk from advanced AI, the search for hidden goals via mechanistic interpretability reflects a deeper worry: that future systems might harbour objectives very different from what their designers intend, and that these might only become evident after deployment. Mechanistic interpretability offers one route to *peek inside* a model’s inner life, potentially exposing latent strategies that behavioural tests fail to catch. However, the substantial technical challenges and open debates mean that *interpretability is not yet a reliable early warning system* for hidden misalignment. If this work does mature, it could improve how humans audit and oversee powerful models — but researchers emphasise that even a future “MRI for AI minds” would only be one part of a multi‑layered safety strategy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alignmentforum.org/posts/PwnadG4BFjaER3MGf/interpretability-will-not-reliably-find-deceptive-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alignmentforum.org">[alignmentforum.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alignmentforum.org</span><span class="citation-popover-title">interpretability will not reliably find deceptive ai</span><span class="citation-popover-snippet">4 May 2025 — Let&#x27;s stop framing interpretability as the one true path to reliably detecting AI deception, a view often born from an isola...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/w6dRk6RJf90" title="Creating Models Worth Interpreting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=w6dRk6RJf90" target="_blank" rel="noopener noreferrer">Creating Models Worth Interpreting</a></p><p class="youtube-embed-meta">Channel: Neel Nanda &middot; Views: 2.1K &middot; Uploaded: November 2025 &middot; Length: 1 hour 43 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=w6dRk6RJf90" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=w6dRk6RJf90">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -919,4 +911,4 @@ In the context of existential risk from advanced AI, the search for hidden goals
    Title: Figure 1 from Mechanistic Interpretability for AI Safety  
    Link: <a href="https://www.semanticscholar.org/paper/Mechanistic-Interpretability-for-AI-Safety-A-Review-Bereska-Gavves/8b750488d139f9beba0815ff8f46ebe15ebb3e58/figure/0" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Mechanistic-Interpretability-for-AI-Safety-A-Review-Bereska-Gavves/8b750488d139f9beba0815ff8f46ebe15ebb3e58/figure/0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Review | Semantic ScholarApril 22, 2024 — * DOI:10.48550/arXiv.2404.14082 * Corpus ID: 269293418 MECHANISTIC INTERPRETABILITY FOR AI SA...</p></details>
-   Published: April 22, 2024  
+   Published: April 22, 2024

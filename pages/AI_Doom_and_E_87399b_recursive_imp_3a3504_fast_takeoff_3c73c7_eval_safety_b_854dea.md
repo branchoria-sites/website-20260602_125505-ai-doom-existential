@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /fast-takeoff/
 nav_short_title: Safety buffers
 title: Will AI warning tests arrive in time?
-title_full: Will AI warning tests arrive in time? | Fast takeoff
+title_full: Will AI warning tests arrive in time?
 display_title_short: Safety buffers
 display_title: Safety buffers
 heading_title: Will AI warning tests arrive in time?
@@ -204,7 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 13:06:24'
-parent_title: What would warn US before FOOM? | AI Takeoff
+parent_title: What would warn US before FOOM?
 parent_permalink: /fast-takeoff/
 parent_nav_short_title: Fast takeoff
 parent_heading_title: What would warn US before FOOM?
@@ -271,7 +271,6 @@ image: /assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c7
 
 AI safety [evaluations]({{ 'evaluations/' | relative_url }}) are often described as an early-warning system for AI doom risks. The basic hope is simple: dangerous capabilities will appear gradually enough that researchers can detect them, governments can be informed, and stronger safeguards can be deployed before a model becomes capable of causing [catastrophic]({{ 'misuse/' | relative_url }}) harm or escaping meaningful human control.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_eval_safety_b_854dea-Illustration-1-dark.svg" | relative_url }}" alt="Safety buffers illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_eval_safety_b_854dea-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_eval_safety_b_854dea-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The problem is that evaluations only help if there is a safety buffer between the first [warning signs]({{ 'warning-signs/' | relative_url }}) and genuinely dangerous capability. If that buffer is measured in years, there may be time to respond. If it is measured in weeks, days, or a single training run, warning systems may provide little practical protection. Within debates about fast takeoff and FOOM scenarios, the size of this buffer is one of the most important and uncertain questions. It determines whether evaluations are a useful brake on risk or merely a way of documenting danger after it has already arrived.
 
@@ -289,7 +288,6 @@ For AI doom arguments, the crucial question is not whether evaluations can detec
 
 A safety buffer is the gap between two moments:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2veiKzqTPRw" title="Evaluating Malicious AI capabilities" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2veiKzqTPRw" target="_blank" rel="noopener noreferrer">Evaluating Malicious AI capabilities</a></p><p class="youtube-embed-meta">Channel: AI UK &middot; Views: 283 &middot; Uploaded: April 2025 &middot; Length: 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2veiKzqTPRw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2veiKzqTPRw">Open on YouTube</a></p></div></div></div>
 
 1. The point at which evaluations begin showing concerning results.
@@ -300,7 +298,6 @@ The entire logic of capability thresholds and responsible scaling policies depen
 Anthropic's Responsible Scaling Policy provides a concrete example. The framework defines capability thresholds intended to trigger stronger safety requirements before risk becomes unacceptable. The policy's stated aim is to gather evidence and deploy mitigations ahead of dangerous capability levels rather than after them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/news/responsible-scaling-policy-v3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-title">responsible scaling policy v3</span><span class="citation-popover-snippet">Responsible Scaling Policy Version 3.024 Feb 2026 — We viewed the capability thresholds as potentially important moments for the...</span></span></span>
 
 In practice, the safety-buffer model assumes several things are true:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -313,7 +310,6 @@ In practice, the safety-buffer model assumes several things are true:
 </div>
 
 If any of these assumptions fail, the practical value of evaluations declines sharply.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pO8IcIqhHuk" title="Mary Phuong – Dangerous Capability Evals: Basis for Frontier Safety" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pO8IcIqhHuk" target="_blank" rel="noopener noreferrer">Mary Phuong – Dangerous Capability Evals: Basis for Frontier Safety</a></p><p class="youtube-embed-meta">Channel: FAR․AI &middot; Views: 27.9K &middot; Uploaded: September 2024 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pO8IcIqhHuk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pO8IcIqhHuk">Open on YouTube</a></p></div></div></div>
 
@@ -345,14 +341,12 @@ This concern appears in many discussions of recursive improvement. If AI systems
 
 From a doom perspective, the danger is not merely that evaluations fail. It is that evaluations succeed technically while failing strategically because the warning arrives too late.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_eval_safety_b_854dea-Illustration-2-dark.svg" | relative_url }}" alt="Safety buffers illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_eval_safety_b_854dea-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_eval_safety_b_854dea-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The implementation problem: detecting risk is not the same as reducing it
 
 Even if evaluations provide accurate warnings, several additional steps must occur before risk falls.
 
 A warning must be:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -371,7 +365,6 @@ Recent discussions of frontier-risk governance have highlighted this problem. Pr
 The UK's AI Security Institute also faces a related limitation. Although it can evaluate models and identify concerns, it generally lacks direct authority to compel companies to alter development plans. This means that warning signals do not automatically translate into protective action. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/7204670/uk-ai-safety-institute/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">uk ai safety institute</span><span class="citation-popover-snippet">This led to the establishment of the UK&#x27;s AI Safety Institute (AISI) in November 2023, with a mandate to evaluate the risks of new AI mod...</span><span class="citation-popover-meta">Published: November 2023</span></span></span>
 
 In other words, the practical safety buffer is often smaller than the technical safety buffer. A model may generate warning signs months before catastrophe becomes plausible, but bureaucratic, commercial, or political delays can consume much of that time.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UKpt6Kgi34Q" title="We Let AI Agents Communicate. That May Have Been a Mistake." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UKpt6Kgi34Q" target="_blank" rel="noopener noreferrer">We Let AI Agents Communicate. That May Have Been a Mistake.</a></p><p class="youtube-embed-meta">Channel: Gabriel Torch &middot; Views: 3.1K &middot; Uploaded: April 2026 &middot; Length: 4 minutes 11 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UKpt6Kgi34Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UKpt6Kgi34Q">Open on YouTube</a></p></div></div></div>
 
@@ -393,7 +386,6 @@ The strongest evidence would be repeated examples of evaluations successfully pr
 
 Researchers increasingly look for:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * Predictable scaling patterns.
@@ -406,7 +398,6 @@ Researchers increasingly look for:
 Some responsible-scaling approaches explicitly depend on the belief that dangerous capabilities develop gradually enough to forecast in advance. Their aim is to identify important thresholds before crossing them and prepare safeguards ahead of time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lesswrong.com/posts/vAopGQhFPdjcA8CEh/anthropic-reflections-on-our-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lesswrong.com">[LessWrong]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lesswrong.com</span><span class="citation-popover-snippet">Anthropic: Reflections on our Responsible Scaling PolicyMay 19, 2024 — We aim to collect evidence about model risk and prepare s...</span><span class="citation-popover-meta">Published: May 19, 2024</span></span></span>
 
 At present, however, the evidence remains limited. Frontier models have improved rapidly, but humanity has not yet observed systems with the extreme capabilities envisioned in AI takeover scenarios. As a result, nobody can directly measure how much warning would precede such systems. Current evaluation programmes are partly an attempt to learn that answer before it becomes urgent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)The UK AI Security Institute (AISI) has conducted evalu...</span></span></span>
-
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_eval_safety_b_854dea-Illustration-3-dark.svg" | relative_url }}" alt="Safety buffers illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_eval_safety_b_854dea-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_eval_safety_b_854dea-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The central disagreement

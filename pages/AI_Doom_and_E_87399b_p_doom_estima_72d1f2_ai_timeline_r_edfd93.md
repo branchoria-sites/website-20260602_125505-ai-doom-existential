@@ -30,7 +30,7 @@ sidebar_expanded_urls:
 - /p-doom/
 nav_short_title: Timeline Effects
 title: How AI Development Timelines Shape Doom Estimates
-title_full: How AI Development Timelines Shape Doom Estimates | P Doom
+title_full: How AI Development Timelines Shape Doom Estimates
 display_title_short: Timeline Effects
 display_title: Timeline Effects
 heading_title: How AI Development Timelines Shape Doom Estimates
@@ -206,7 +206,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 19:02:29'
-parent_title: What Does p(doom) Really Mean? | AI Doom
+parent_title: What Does p(doom) Really Mean?
 parent_permalink: /p-doom/
 parent_nav_short_title: P Doom
 parent_heading_title: What Does p(doom) Really Mean?
@@ -284,7 +284,6 @@ image: /assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_ed
 
 Expectations about *when* advanced AI will arrive are one of the biggest drivers of p(doom) estimates. Two people can agree about the dangers of misaligned AI, [loss of control]({{ 'loss-of-control/' | relative_url }}), or dangerous [autonomy]({{ 'autonomy/' | relative_url }}), yet reach very different conclusions about existential risk because they disagree about timelines. If transformative AI is decades away, there may be time to improve alignment techniques, build institutions, test systems, and learn from failures. If comparable capabilities arrive within a few years, many of those safeguards may not mature before the most dangerous systems are deployed.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93-Illustration-1-dark.svg" | relative_url }}" alt="Timeline Effects illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This is one reason p(doom) estimates vary so widely. The disagreement is often not just about whether AI could become dangerous, but about how quickly capabilities will advance relative to humanity's ability to understand, govern, and control them. Surveys of AI researchers show substantial uncertainty about both future capabilities and [catastrophic]({{ 'misuse/' | relative_url }}) risk, with timeline expectations often sitting near the centre of that uncertainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2401.02843" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Thousands of AI Authors on the Future of AIJanuary 5, 2024...</span><span class="citation-popover-meta">Published: January 5, 2024</span></span></span>
 
@@ -293,7 +292,6 @@ This is one reason p(doom) estimates vary so widely. The disagreement is often n
 A p(doom) estimate is usually built from a chain of assumptions. One of the earliest links in that chain is a forecast about AI progress.
 
 A simplified version looks like this:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -332,7 +330,6 @@ Several mechanisms push p(doom) upward under short-timeline assumptions:
 
 In many AI doom arguments, the highest-risk scenario is not merely powerful AI, but powerful AI arriving before humans have developed reliable methods to understand and control it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2401.02843" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Thousands of AI Authors on the Future of AIJanuary 5, 2024...</span><span class="citation-popover-meta">Published: January 5, 2024</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hliLDNdxkX0" title="Surveying 2,700+ AI Researchers on the Industry&#x27;s Future with Katja Grace of AI Impacts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hliLDNdxkX0" target="_blank" rel="noopener noreferrer">Surveying 2,700+ AI Researchers on the Industry&#x27;s Future with Katja Grace of AI Impacts</a></p><p class="youtube-embed-meta">Channel: Cognitive Revolution &quot;How AI Changes Everything&quot; &middot; Views: 2.2K &middot; Uploaded: March 2024 &middot; Length: 1 hour 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hliLDNdxkX0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hliLDNdxkX0">Open on YouTube</a></p></div></div></div>
 
 ### Why long timelines often reduce p(doom)
@@ -340,7 +337,6 @@ In many AI doom arguments, the highest-risk scenario is not merely powerful AI, 
 Those who expect longer timelines frequently argue that preparation time itself is a major safety resource.
 
 Additional decades could allow:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -368,7 +364,6 @@ These findings do not prove that shorter timelines cause higher p(doom). However
 * Catastrophic outcomes cannot be confidently ruled out.
 
 That combination helps explain why existential-risk discussions became more prominent after the rapid progress of large language models and other foundation models.
-
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93-Illustration-2-dark.svg" | relative_url }}" alt="Timeline Effects illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why capability updates often affect doom estimates
@@ -400,7 +395,6 @@ Recent work on "gradual disempowerment" highlights another possibility. Rather t
 
 Because of these possibilities, some analysts focus less on calendar dates and more on the ratio between capability progress and safety progress. The crucial question becomes whether control techniques improve faster than the systems they are meant to govern.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/w_agSeXwxhU" title="AI pioneer explains why it poses an existential risk for humanity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=w_agSeXwxhU" target="_blank" rel="noopener noreferrer">AI pioneer explains why it poses an existential risk for humanity</a></p><p class="youtube-embed-meta">Channel: On with Kara Swisher &middot; Views: 91.3K &middot; Uploaded: November 2025 &middot; Length: 53 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=w_agSeXwxhU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=w_agSeXwxhU">Open on YouTube</a></p></div></div></div>
 
 ## Why timeline assumptions help explain expert disagreement
@@ -408,7 +402,6 @@ Because of these possibilities, some analysts focus less on calendar dates and m
 Many headline disagreements about p(doom) become easier to understand when viewed through a timeline lens.
 
 Experts who assign very low probabilities to AI doom often hold one or more of the following beliefs:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -421,7 +414,6 @@ Experts who assign very low probabilities to AI doom often hold one or more of t
 
 Experts with higher p(doom) estimates often combine different assumptions:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Transformative AI could arrive within years or decades.
@@ -433,14 +425,12 @@ Experts with higher p(doom) estimates often combine different assumptions:
 
 Research on expert disagreement suggests that deeper differences about how future AI should be conceptualised—as controllable tools or potentially uncontrollable agents—often interact with timeline forecasts rather than replacing them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2401.02843" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Thousands of AI Authors on the Future of AIJanuary 5, 2024...</span><span class="citation-popover-meta">Published: January 5, 2024</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93-Illustration-3-dark.svg" | relative_url }}" alt="Timeline Effects illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What timeline debates mean for safety planning
 
 Regardless of whether one expects short or [long timelines]({{ 'long-timelines/' | relative_url }}), the debate has practical consequences for AI safety strategy.
 
 Under short-timeline assumptions, priorities often include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -459,7 +449,6 @@ Under longer-timeline assumptions, priorities may shift toward:
 * Improving scientific understanding of intelligence and alignment.
 
 Interestingly, these approaches are not mutually exclusive. Even researchers who disagree sharply about p(doom) often support increased investment in safety research because uncertainty cuts both ways. If timelines are shorter than expected, preparation becomes urgent. If timelines are longer, there is an opportunity to prepare more thoroughly. Surveys of AI researchers have found broad support for prioritising research aimed at reducing potential risks from advanced AI systems, despite continuing disagreement about the magnitude of those risks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2401.02843" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Thousands of AI Authors on the Future of AIJanuary 5, 2024...</span><span class="citation-popover-meta">Published: January 5, 2024</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aDfNGKzzjcU" title="When Did The Internet Become A Cage?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aDfNGKzzjcU" target="_blank" rel="noopener noreferrer">When Did The Internet Become A Cage?</a></p><p class="youtube-embed-meta">Channel: Pupil Swim &middot; Views: 15.4K &middot; Uploaded: April 2026 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aDfNGKzzjcU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aDfNGKzzjcU">Open on YouTube</a></p></div></div></div>
 
@@ -1020,4 +1009,4 @@ For many participants in the AI doom debate, timelines are not a side issue. The
    Title: 396256646 Thousands of AI Authors on the Future of AI  
    Link: <a href="https://www.researchgate.net/publication/396256646_Thousands_of_AI_Authors_on_the_Future_of_AI" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396256646_Thousands_of_AI_Authors_on_the_Future_of_AI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Thousands of AI Authors on the Future of AIOct 5, 2025 — In October 2023, 2,778 researchers who had published in top-tier artificia...</p></details>
-   Published: October 2023  
+   Published: October 2023

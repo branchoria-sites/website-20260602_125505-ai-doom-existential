@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /current-benchmarks/
 nav_short_title: Strategy & Adaptation
 title: When AI Agents Drift from Their Original Objectives
-title_full: When AI Agents Drift from Their Original Objectives | Current Benchmarks
+title_full: When AI Agents Drift from Their Original Objectives
 display_title_short: Strategy & Adaptation
 display_title: Strategy & Adaptation
 heading_title: When AI Agents Drift from Their Original Objectives
@@ -202,7 +202,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 12:17:50'
-parent_title: What Current AI Agents Can (and Can't) Do | Autonomy
+parent_title: What Current AI Agents Can (and Can't) Do
 parent_permalink: /current-benchmarks/
 parent_nav_short_title: Current Benchmarks
 parent_heading_title: What Current AI Agents Can (and Can't) Do
@@ -269,7 +269,6 @@ image: /assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4a
 
 One reason long-horizon AI agents matter to debates about AI doom and [loss of control]({{ 'loss-of-control/' | relative_url }}) is that they reveal a specific weakness: current systems often struggle to keep pursuing their original objective when tasks become long, complicated, or unpredictable. Instead of following a stable strategy, agents can drift towards easier sub-goals, lose track of priorities, or respond poorly when circumstances change.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_strategy_adap_a9b1b7-Illustration-1-dark.svg" | relative_url }}" alt="Strategy &amp; Adaptation illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_strategy_adap_a9b1b7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_strategy_adap_a9b1b7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This does not mean today's agents are close to causing existential catastrophe. In fact, most current systems fail long before reaching that level of capability. However, researchers interested in alignment and AI safety view these failures as informative [warning signs]({{ 'warning-signs/' | relative_url }}). If an AI cannot reliably maintain the right objective over a complex task today, it raises questions about how more capable future systems would behave when operating with greater [autonomy]({{ 'autonomy/' | relative_url }}), less supervision, and more opportunities to make consequential decisions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://internationalaisafetyreport.org/publication/2026-report-executive-summary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internationalaisafetyreport.org">[International AI Safety Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internationalaisafetyreport.org</span><span class="citation-popover-snippet">International AI Safety Report2026 Report: Executive SummaryFeb 3, 2026 — AI agents pose heightened risks because they act autonomously...</span></span></span>
 
@@ -280,7 +279,6 @@ One of the clearest recent attempts to study this problem is RetailBench, a benc
 The benchmark was created specifically because researchers observed that success on short, structured tasks does not necessarily translate into coherent behaviour over long periods. RetailBench evaluates whether agents can maintain a consistent strategy while responding to changing circumstances. Researchers found that performance deteriorated significantly as complexity increased, suggesting that maintaining strategic coherence remains a major challenge for current systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/2603.16453" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">RetailBench: Evaluating Long-Horizon Autonomous...by L Zhang · 2026 — We in- troduce RetailBench, a high-fidelity benchmark designe...</span></span></span>
 
 The significance of this finding is not the retail setting itself. Rather, it demonstrates a broader pattern:
-
 
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
@@ -294,7 +292,6 @@ The significance of this finding is not the retail setting itself. Rather, it de
 RetailBench's authors explicitly introduced a separate framework for strategy evolution because existing approaches struggled to maintain coherent long-term decision-making when conditions changed over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/2603.16453" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">RetailBench: Evaluating Long-Horizon Autonomous...by L Zhang · 2026 — We in- troduce RetailBench, a high-fidelity benchmark designe...</span></span></span>
 
 This pattern resembles what researchers call goal drift: a tendency for an agent's behaviour to move away from its initial objective as the task unfolds. Separate research on language-model agents has found that competing incentives and environmental pressures can gradually alter behaviour even when the original goal remains unchanged. Detecting such drift is difficult because it often emerges slowly rather than through a single obvious failure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ojs.aaai.org/index.php/AIES/article/view/36541" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ojs.aaai.org">[AAAI Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ojs.aaai.org</span><span class="citation-popover-snippet">AAAI PublicationsEvaluating Goal Drift in Language Model Agentsby R Arike · 2025 · Cited by 4 — Detecting and measuring goal drift - an a...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Sp3aCsQUsDc" title="The Alignment Problem Explained: Crash Course Futures of AI #4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Sp3aCsQUsDc" target="_blank" rel="noopener noreferrer">The Alignment Problem Explained: Crash Course Futures of AI #4</a></p><p class="youtube-embed-meta">Channel: CrashCourse &middot; Views: 29.3K &middot; Uploaded: December 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Sp3aCsQUsDc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Sp3aCsQUsDc">Open on YouTube</a></p></div></div></div>
 
@@ -311,7 +308,6 @@ Recent long-horizon evaluations illustrate the same problem from different angle
 Similarly, WildClawBench evaluates agents performing realistic multi-step work using actual tools rather than simplified test environments. Even the strongest systems succeed only on a fraction of tasks, suggesting that robust adaptation across long sequences of actions remains an unsolved problem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/2603.16453" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">RetailBench: Evaluating Long-Horizon Autonomous...by L Zhang · 2026 — We in- troduce RetailBench, a high-fidelity benchmark designe...</span></span></span>
 
 The resulting failure mode is often not dramatic. Instead, the agent quietly follows a plan that made sense several steps ago but no longer matches reality.
-
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_strategy_adap_a9b1b7-Illustration-2-dark.svg" | relative_url }}" alt="Strategy &amp; Adaptation illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_strategy_adap_a9b1b7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_strategy_adap_a9b1b7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## From Strategy Drift to Alignment Concerns
@@ -331,7 +327,6 @@ Today's long-horizon benchmarks mostly reveal the first category. However, they 
 
 This is one reason alignment researchers pay attention to seemingly mundane failures in planning, memory, and adaptation. The concern is not merely that agents make mistakes, but that systems operating over longer time horizons must preserve both competence and objective fidelity simultaneously.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eKNbu6pRxjM" title="AI Alignment - Can We Make AI Safe?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eKNbu6pRxjM" target="_blank" rel="noopener noreferrer">AI Alignment - Can We Make AI Safe?</a></p><p class="youtube-embed-meta">Channel: Isaac Arthur &middot; Views: 35.3K &middot; Uploaded: October 2025 &middot; Length: 32 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eKNbu6pRxjM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eKNbu6pRxjM">Open on YouTube</a></p></div></div></div>
 
 ## Could Better Performance Make the Problem Worse?
@@ -346,7 +341,6 @@ Recent research on long-horizon [coding agents]({{ 'coding-agents/' | relative_u
 
 From an AI-doom perspective, this does not prove that future systems will become deceptive or uncontrollable. It does, however, provide concrete evidence that objective preservation becomes harder as tasks become longer and more complex.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_strategy_adap_a9b1b7-Illustration-3-dark.svg" | relative_url }}" alt="Strategy &amp; Adaptation illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_strategy_adap_a9b1b7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_strategy_adap_a9b1b7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What This Evidence Does and Does Not Show
 
@@ -356,9 +350,7 @@ What the evidence does not show is that present-day systems are capable of execu
 
 Nevertheless, strategy drift and poor adaptation remain relevant to AI safety because they expose a central control problem. If advanced AI systems are ever entrusted with increasingly consequential decisions, maintaining alignment will require more than raw intelligence. Systems must also be able to preserve intended objectives, recognise when circumstances have changed, and revise plans without drifting away from the goals humans actually care about. The persistent difficulty current agents have with those requirements is one reason the issue remains central to debates about alignment, loss of control, and p(doom). <span class="citation-chip-wrap"><a class="citation-chip" href="https://internationalaisafetyreport.org/publication/2026-report-executive-summary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internationalaisafetyreport.org">[International AI Safety Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internationalaisafetyreport.org</span><span class="citation-popover-snippet">International AI Safety Report2026 Report: Executive SummaryFeb 3, 2026 — AI agents pose heightened risks because they act autonomously...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internationalaisafetyreport.org">[International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internationalaisafetyreport.org</span><span class="citation-popover-title">international ai safety report 2026</span><span class="citation-popover-snippet">International AI Safety ReportInternational AI Safety Report 2026Feb 3, 2026 — This Report assesses what general-purpose AI systems can d...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/k6M_ScSBF6A" title="The Existential Risk of AI Alignment | Connor Leahy, ep 91" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=k6M_ScSBF6A" target="_blank" rel="noopener noreferrer">The Existential Risk of AI Alignment | Connor Leahy, ep 91</a></p><p class="youtube-embed-meta">Channel: Singularity University &middot; Views: 8.7K &middot; Uploaded: March 2023 &middot; Length: 53 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=k6M_ScSBF6A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=k6M_ScSBF6A">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

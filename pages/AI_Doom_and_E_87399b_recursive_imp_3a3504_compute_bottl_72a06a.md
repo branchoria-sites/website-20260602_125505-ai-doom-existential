@@ -30,7 +30,7 @@ sidebar_expanded_urls:
 - /ai-takeoff/
 nav_short_title: Compute brakes
 title: Can compute bottlenecks stop an intelligence explosion?
-title_full: Can compute bottlenecks stop an intelligence explosion? | AI Takeoff
+title_full: Can compute bottlenecks stop an intelligence explosion?
 display_title_short: Compute brakes
 display_title: Compute brakes
 heading_title: Can compute bottlenecks stop an intelligence explosion?
@@ -206,7 +206,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 13:07:10'
-parent_title: Could AI Improvement Run Away From US? | AI Doom
+parent_title: Could AI Improvement Run Away From US?
 parent_permalink: /ai-takeoff/
 parent_nav_short_title: AI Takeoff
 parent_heading_title: Could AI Improvement Run Away From US?
@@ -284,7 +284,6 @@ image: /assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72
 
 One objection to AI doom scenarios based on recursive self-improvement is simple: intelligence may be able to improve faster than people, but it cannot improve faster than physics. Even if an advanced AI could automate much of AI research, it would still need chips, data centres, electricity, networking equipment, cooling systems, manufacturing capacity, and capital. These are physical resources that take time to build and are controlled by humans. The key question is whether such compute bottlenecks would merely slow an intelligence explosion or prevent one altogether.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72a06a-Illustration-1-dark.svg" | relative_url }}" alt="Compute brakes illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72a06a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72a06a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This is one of the strongest critiques of fast-takeoff and "FOOM" scenarios. Supporters of intelligence-explosion models argue that software improvements could compound rapidly. Critics respond that the real world contains hard constraints: semiconductor fabrication plants cannot be copied instantly, electrical grids cannot expand overnight, and advanced chips remain scarce and expensive. The debate matters because if compute is a binding constraint, societies may have more time to detect [warning signs]({{ 'warning-signs/' | relative_url }}), improve alignment, and coordinate responses. If compute is not a binding constraint, capability growth could remain much harder to control. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2507.23181" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Will Compute Bottlenecks Prevent an Intelligence Explosion?</span><span class="citation-popover-snippet">Will Compute Bottlenecks Prevent an Intelligence Explosion?July 31, 2025...</span><span class="citation-popover-meta">Published: July 31, 2025</span></span></span>
 
@@ -295,7 +294,6 @@ A common misunderstanding is that recursive self-improvement is purely a softwar
 Even a highly capable AI researcher would need access to hardware to run experiments. Improving a model requires testing candidate designs, training new systems, evaluating them, and deploying them. Those activities consume compute. If the amount of computation needed grows alongside the sophistication of the research, then hardware availability becomes a limiting factor. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2507.23181" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Will Compute Bottlenecks Prevent an Intelligence Explosion?</span><span class="citation-popover-snippet">Will Compute Bottlenecks Prevent an Intelligence Explosion?July 31, 2025...</span><span class="citation-popover-meta">Published: July 31, 2025</span></span></span>
 
 Several layers of infrastructure matter:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -311,7 +309,6 @@ Several layers of infrastructure matter:
 The scale of these requirements is already enormous. Estimates suggest that AI-related data-centre investment could require trillions of dollars globally by 2030, while frontier training runs have become dramatically more expensive over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-cost-of-compute-a-7-trillion-dollar-race-to-scale-data-centers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mckinsey.com">[McKinsey &amp; Company]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mckinsey.com</span><span class="citation-popover-title">the cost of compute a 7 trillion dollar race to scale data centers</span><span class="citation-popover-snippet">McKinsey &amp; CompanyThe cost of compute: A $7 trillion race to scale data centers28 Apr 2025 — Our research shows that by 2030, data center...</span></span></span>
 
 For critics of intelligence-explosion scenarios, this matters because an AI cannot simply "think its way" around all physical bottlenecks. A brilliant design for a better chip does not instantly create a factory capable of manufacturing it.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xRQQFCWhobc" title="The AI Intelligence Explosion: Why Recursive Self-Improvement Changes Everything" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xRQQFCWhobc" target="_blank" rel="noopener noreferrer">The AI Intelligence Explosion: Why Recursive Self-Improvement Changes Everything</a></p><p class="youtube-embed-meta">Channel: AI Atlas &middot; Views: 708 &middot; Uploaded: March 2026 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xRQQFCWhobc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xRQQFCWhobc">Open on YouTube</a></p></div></div></div>
 
@@ -334,7 +331,6 @@ AI data centres consume large amounts of electricity, and demand projections hav
 The concern is not merely total energy production. Large AI clusters require power at specific locations, with reliable transmission infrastructure and cooling capacity. Some studies forecast significant regional stress on electricity systems as [AI compute]({{ 'compute-kyc/' | relative_url }}) demand rises. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2507.23181" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Will Compute Bottlenecks Prevent an Intelligence Explosion?</span><span class="citation-popover-snippet">Will Compute Bottlenecks Prevent an Intelligence Explosion?July 31, 2025...</span><span class="citation-popover-meta">Published: July 31, 2025</span></span></span>
 
 If AI capability growth depends heavily on ever-larger training and inference systems, then energy infrastructure could impose delays measured in years rather than weeks.
-
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72a06a-Illustration-2-dark.svg" | relative_url }}" alt="Compute brakes illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72a06a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72a06a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Money and capital allocation matter
@@ -359,7 +355,6 @@ Another possibility is that AI systems could help accelerate the removal of bott
 
 Supporters of faster-takeoff scenarios therefore argue that physical constraints do not necessarily prevent explosive growth. They may simply shift the growth path from pure software acceleration to a combination of software and infrastructure expansion.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KR23G-0_Txo" title="AI Is Hitting Constraints: Memory, Power and Geopolitics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KR23G-0_Txo" target="_blank" rel="noopener noreferrer">AI Is Hitting Constraints: Memory, Power and Geopolitics</a></p><p class="youtube-embed-meta">Channel: EUVC &middot; Views: 65 &middot; Uploaded: May 2026 &middot; Length: 46 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KR23G-0_Txo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KR23G-0_Txo">Open on YouTube</a></p></div></div></div>
 
 ## What the evidence currently suggests
@@ -372,7 +367,6 @@ On the other hand, there is little evidence that current bottlenecks have halted
 
 Recent economic modelling of recursive self-improvement reflects this [uncertainty]({{ 'uncertainty/' | relative_url }}). Some analyses find that compute and human research effort may substitute for one another, while others suggest they are complementary. The result is not a clear demonstration that compute bottlenecks either will or will not prevent an intelligence explosion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2507.23181" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Will Compute Bottlenecks Prevent an Intelligence Explosion?</span><span class="citation-popover-snippet">Will Compute Bottlenecks Prevent an Intelligence Explosion?July 31, 2025...</span><span class="citation-popover-meta">Published: July 31, 2025</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/THdR0AFHz28" title="THE AI DOOM SCENARIO EXPERTS CAN’T DISMISS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=THdR0AFHz28" target="_blank" rel="noopener noreferrer">THE AI DOOM SCENARIO EXPERTS CAN’T DISMISS</a></p><p class="youtube-embed-meta">Channel: Dukta Feelgood &middot; Views: 34 &middot; Uploaded: May 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=THdR0AFHz28" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=THdR0AFHz28">Open on YouTube</a></p></div></div></div>
 
 ## What bottlenecks would and would not prove
@@ -384,7 +378,6 @@ If compute constraints stretch capability growth over years rather than months, 
 However, a slower takeoff does not automatically make advanced AI safe. A system that remains misaligned, deceptive, or difficult to control could still pose serious dangers even if progress unfolds gradually. The main effect of compute bottlenecks would be to change the speed and visibility of capability growth, not necessarily the underlying alignment problem.
 
 Conversely, observing rapid capability gains despite infrastructure constraints would weaken the argument that physical resources provide a strong natural brake. That would increase concern among those who assign substantial probability to fast-takeoff scenarios and high p(doom) estimates.
-
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72a06a-Illustration-3-dark.svg" | relative_url }}" alt="Compute brakes illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72a06a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_compute_bottl_72a06a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The bottom line
@@ -784,6 +777,7 @@ Yet the evidence does not show that compute bottlenecks would necessarily stop r
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

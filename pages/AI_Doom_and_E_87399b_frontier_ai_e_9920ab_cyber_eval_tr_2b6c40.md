@@ -30,7 +30,7 @@ sidebar_expanded_urls:
 - /evals/
 nav_short_title: Cyber tripwires
 title: When should cyber evals stop a release?
-title_full: When should cyber evals stop a release? | Evals
+title_full: When should cyber evals stop a release?
 display_title_short: Cyber tripwires
 display_title: Cyber tripwires
 heading_title: When should cyber evals stop a release?
@@ -206,7 +206,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 21:13:56'
-parent_title: Can Tests Catch Dangerous AI in Time? | AI Doom
+parent_title: Can Tests Catch Dangerous AI in Time?
 parent_permalink: /evals/
 parent_nav_short_title: Evals
 parent_heading_title: Can Tests Catch Dangerous AI in Time?
@@ -284,7 +284,6 @@ image: /assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b
 
 Cyber [evaluations]({{ 'evaluations/' | relative_url }}) become real deployment tripwires when they stop being academic benchmarks and start providing evidence that a frontier AI system could materially increase the chances of a serious cyber incident in the real world. In the context of AI doom and existential-risk debates, the key question is not whether a model can solve capture-the-flag puzzles or answer security questions. It is whether the model can help users find, develop, or execute cyber operations at a level that changes what dangerous actors can realistically do.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40-Illustration-1-dark.svg" | relative_url }}" alt="Cyber tripwires illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This distinction matters because many frontier AI safety frameworks are built around the idea of [capability thresholds]({{ 'capability-thresholds/' | relative_url }}). Below a threshold, a model may be released with ordinary safeguards. Above it, deployment conditions are supposed to change: access may be restricted, security measures strengthened, external evaluations expanded, or release delayed altogether. The challenge is deciding where that threshold sits and how much evidence is enough to trigger it. Anthropic <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.openai.com">[2cdn.openai.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.openai.com</span><span class="citation-popover-title">preparedness framework v2</span><span class="citation-popover-snippet">Preparedness Framework15 Apr 2025 — Measure capabilities associated with risks of severe harms – we run in–scope models through frontier...</span></span></span>
 
@@ -293,7 +292,6 @@ This distinction matters because many frontier AI safety frameworks are built ar
 Most cyber evaluations are not trying to determine whether a model is “good at hacking”. They are trying to determine whether the model provides meaningful capability uplift.
 
 A useful way to think about this is to ask whether the AI merely knows security concepts or whether it can reliably help complete real attack chains. Modern evaluations increasingly focus on:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -322,7 +320,6 @@ This distinction matters because a deployment tripwire should ideally be tied to
 
 Conversely, a model that reliably completes substantial portions of realistic attack sequences could represent a much more meaningful warning sign even if its benchmark scores appear less dramatic.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Hx5dIJ3H8p4" title="Understanding the Most Viral Chart in Artificial Intelligence | Odd Lots" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Hx5dIJ3H8p4" target="_blank" rel="noopener noreferrer">Understanding the Most Viral Chart in Artificial Intelligence | Odd Lots</a></p><p class="youtube-embed-meta">Channel: Bloomberg Podcasts &middot; Views: 5.5K &middot; Uploaded: April 2026 &middot; Length: 1 hour 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Hx5dIJ3H8p4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Hx5dIJ3H8p4">Open on YouTube</a></p></div></div></div>
 
 ## Why scaffolding can change the result
@@ -330,7 +327,6 @@ Conversely, a model that reliably completes substantial portions of realistic at
 One of the most important lessons from recent cyber evaluations is that the model alone is often not the whole system.
 
 "Scaffolding" refers to the software, tools, memory systems, planning modules and automated workflows wrapped around a model. A model that appears limited in a simple chat interface may perform far better when given:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -351,7 +347,6 @@ A company might evaluate a model in a relatively constrained configuration and c
 
 For this reason, some researchers argue that evaluations should focus on the most capable realistic deployment configuration rather than the raw base model. Otherwise, cyber tripwires may be crossed before anyone notices.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40-Illustration-2-dark.svg" | relative_url }}" alt="Cyber tripwires illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where the tripwire should sit
 
@@ -368,7 +363,6 @@ An early-warning tripwire activates before clearly dangerous capabilities emerge
 Under this approach, evidence that models are approaching expert-level cyber performance would already trigger stronger security, additional evaluations, and tighter [monitoring]({{ 'monitoring/' | relative_url }}).
 
 Supporters argue that waiting for undeniable danger leaves too little time to react. Critics argue that early thresholds risk producing false alarms and unnecessary deployment restrictions.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UB4esgnycTw" title="Immersive boosts cyber resilience through AI-powered attack simulations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UB4esgnycTw" target="_blank" rel="noopener noreferrer">Immersive boosts cyber resilience through AI-powered attack simulations</a></p><p class="youtube-embed-meta">Channel: DEMO &middot; Views: 356 &middot; Uploaded: March 2026 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UB4esgnycTw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UB4esgnycTw">Open on YouTube</a></p></div></div></div>
 
@@ -388,7 +382,6 @@ Under this view, deployment restrictions become appropriate only when systems ap
 
 Some critics of current frontier-AI frameworks argue that waiting for such strong evidence risks acting too late if capabilities continue improving rapidly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fas.org/publication/scaling-ai-safety/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[Federation of American Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">scaling ai safety</span><span class="citation-popover-snippet">“What risks are covered?”.Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40-Illustration-3-dark.svg" | relative_url }}" alt="Cyber tripwires illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The strongest disagreement: capability or impact?
 
@@ -403,7 +396,6 @@ This distinction helps explain why the same evaluation result can produce very d
 A doomer-leaning analyst may view expert-level cyber performance as a warning that AI systems are moving into territory where they could accelerate broader loss-of-control risks. A sceptic may agree that the capability is impressive while arguing that real attackers already possess similar expertise and that the practical impact remains uncertain.
 
 Both positions acknowledge the same evaluation result. They differ on how much real-world danger should be inferred from it.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iBUMvxXyWSA" title="Anthropic AI flags thousands of cyber risks, prompting corporate America &#x27;wake-up call&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iBUMvxXyWSA" target="_blank" rel="noopener noreferrer">Anthropic AI flags thousands of cyber risks, prompting corporate America &#x27;wake-up call&#x27;</a></p><p class="youtube-embed-meta">Channel: Fox Business Clips &middot; Views: 3.5K &middot; Uploaded: May 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iBUMvxXyWSA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iBUMvxXyWSA">Open on YouTube</a></p></div></div></div>
 

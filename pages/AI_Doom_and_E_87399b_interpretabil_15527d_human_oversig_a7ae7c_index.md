@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-interpretabil/
 description: Focused pages that expand on Human Oversight.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c
-parent_title: Human Oversight | Control Tools
+parent_title: Human Oversight
 parent_nav_short_title: Human Oversight
 parent_permalink: /human-oversight/
 ---

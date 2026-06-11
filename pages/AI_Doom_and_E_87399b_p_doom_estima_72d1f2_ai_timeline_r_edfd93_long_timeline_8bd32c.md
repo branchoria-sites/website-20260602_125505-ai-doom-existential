@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /timeline-effects/
 nav_short_title: Long timelines
 title: Does more time really make AI safer?
-title_full: Does more time really make AI safer? | Timeline Effects
+title_full: Does more time really make AI safer?
 display_title_short: Long timelines
 display_title: Long timelines
 heading_title: Does more time really make AI safer?
@@ -204,7 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 19:03:39'
-parent_title: How AI Development Timelines Shape Doom Estimates | P Doom
+parent_title: How AI Development Timelines Shape Doom Estimates
 parent_permalink: /timeline-effects/
 parent_nav_short_title: Timeline Effects
 parent_heading_title: How AI Development Timelines Shape Doom Estimates
@@ -271,7 +271,6 @@ image: /assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_ed
 
 One of the most intuitive arguments in debates about *AI doom* — the risk that advanced artificial intelligence could trigger existential catastrophe — is that **more time before the creation of truly transformative AI should make us safer**. If society expects decades rather than just a few years of progress, the thinking goes, researchers, regulators and institutions will have a long runway to study safety, build safeguards, and coordinate globally. But **does a longer timeline *actually* reduce the probability of [catastrophic]({{ 'misuse/' | relative_url }}) outcomes?** The short answer is: *not automatically*. While extended timelines offer opportunities for preparation, they also come with their own risks and uncertainties. Whether more time *lowers* or *raises* p(doom) depends on how preparation, incentives, and competitive pressures evolve alongside capability advances.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93_long_timeline_8bd32c-Illustration-1-dark.svg" | relative_url }}" alt="Long timelines illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93_long_timeline_8bd32c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93_long_timeline_8bd32c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Case for Preparation Time
 
@@ -284,7 +283,6 @@ Many researchers argue that **a longer interval before the arrival of transforma
 For these reasons, many in the safety community see *delay as a safety asset*, not an obstacle. In work on existential risk modelling, delaying the creation of superintelligent systems is posited to lower overall existential risk **if** AI risk remains high relative to other global hazards, because it gives alignment and [governance]({{ 'governance/' | relative_url }}) science time to catch up.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2209.05459" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv How Do AI Timelines Affect Existential Risk?</span><span class="citation-popover-snippet">How Do AI Timelines Affect Existential Risk?August 30, 2022...</span><span class="citation-popover-meta">Published: August 30, 2022</span></span></span>
 
 Moreover, recent research suggests that **the default probability of averting catastrophic outcomes is higher on medium and longer timelines**, partly because societies have more time to mobilise resources, build strategic understanding, and strengthen safeguards before transformative capability leaps occur.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forethought.org/research/short-timelines-arent-obviously-higher-leverage" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forethought.org">[Forethought]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forethought.org</span><span class="citation-popover-title">Short AI Timelines Aren’t Always Higher-Leverage</span><span class="citation-popover-snippet">Short AI Timelines Aren’t Always Higher-LeverageJanuary 22, 2026...</span><span class="citation-popover-meta">Published: January 22, 2026</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5KVDDfAkRgc" title="We&#x27;re Not Ready for Superintelligence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5KVDDfAkRgc" target="_blank" rel="noopener noreferrer">We&#x27;re Not Ready for Superintelligence</a></p><p class="youtube-embed-meta">Channel: AI In Context &middot; Views: 10.8M &middot; Uploaded: July 2025 &middot; Length: 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5KVDDfAkRgc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5KVDDfAkRgc">Open on YouTube</a></p></div></div></div>
 
@@ -299,7 +297,6 @@ However, **a longer timeline isn’t a sure path to safety unless its advantages
 
 In short, without concrete and sustained effort to use extra time effectively — through research, regulation, cooperation and practical safety engineering — **a long runway could still end in a dangerous sprint where capability overtakes control.**
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93_long_timeline_8bd32c-Illustration-2-dark.svg" | relative_url }}" alt="Long timelines illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93_long_timeline_8bd32c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93_long_timeline_8bd32c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to Judge Safety Progress Against Capability Progress
 
@@ -311,9 +308,7 @@ The central question is **whether safety progress scales alongside capability pr
 
 Some analysts argue that **differential technological development** — deliberately slowing dangerous technologies while accelerating safety work — is a more robust way to reduce total existential risk than passive delay alone. This approach focuses not just on *when* capabilities arise, but *how* different classes of technologies evolve relative to one another.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aimodels.org/ai-governance-organizations/papers/do-ai-timelines-affect-existential-risk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aimodels.org">[Open Source AI Models]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aimodels.org</span><span class="citation-popover-title">Open Source AI Models How Do AI Timelines Affect Existential Risk?</span><span class="citation-popover-snippet">Open Source AI ModelsHow Do AI Timelines Affect Existential Risk? - AI Models...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Nl7-bRFSZBs" title="This best-selling book is freaking out national security advisors" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Nl7-bRFSZBs" target="_blank" rel="noopener noreferrer">This best-selling book is freaking out national security advisors</a></p><p class="youtube-embed-meta">Channel: AI In Context &middot; Views: 2.0M &middot; Uploaded: March 2026 &middot; Length: 43 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Nl7-bRFSZBs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Nl7-bRFSZBs">Open on YouTube</a></p></div></div></div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rSw3UVDZge0" title="Katja Grace—Slowing Down AI, Forecasting AI Risk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rSw3UVDZge0" target="_blank" rel="noopener noreferrer">Katja Grace—Slowing Down AI, Forecasting AI Risk</a></p><p class="youtube-embed-meta">Channel: The Inside View &middot; Views: 2.5K &middot; Uploaded: September 2022 &middot; Length: 1 hour 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rSw3UVDZge0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rSw3UVDZge0">Open on YouTube</a></p></div></div></div>
 
@@ -322,7 +317,6 @@ Some analysts argue that **differential technological development** — delibera
 In p(doom) frameworks, timeline expectations feed into risk estimates because they shape assumptions about preparation opportunities. Longer timelines *could* reduce p(doom) **if** they lead to meaningful progress on safety research, [monitoring]({{ 'monitoring/' | relative_url }}) systems and governance. They allow society to build *guards before the gates open*, not merely to watch the horizon.
 
 But if extra time is met with complacency, misaligned incentives, or ineffective institutions, then longer timelines may do little to lower — and in some scenarios may even raise — the odds of catastrophic outcomes. The quality of the preparation matters just as much as its duration, and risk assessments need to reflect both the length of the runway *and* how effectively it is used.
-
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93_long_timeline_8bd32c-Illustration-3-dark.svg" | relative_url }}" alt="Long timelines illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93_long_timeline_8bd32c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_timeline_r_edfd93_long_timeline_8bd32c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 

@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /agency-disputes/
 nav_short_title: Agent vs Tool
 title: Are Today's AI Systems Tools or Emerging Agents?
-title_full: Are Today's AI Systems Tools or Emerging Agents? | Agency Disputes
+title_full: Are Today's AI Systems Tools or Emerging Agents?
 display_title_short: Agent vs Tool
 display_title: Agent vs Tool
 heading_title: Are Today's AI Systems Tools or Emerging Agents?
@@ -204,7 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 19:04:52'
-parent_title: Why AI Autonomy Leads Experts to Disagree on Doom | P Doom
+parent_title: Why AI Autonomy Leads Experts to Disagree on Doom
 parent_permalink: /agency-disputes/
 parent_nav_short_title: Agency Disputes
 parent_heading_title: Why AI Autonomy Leads Experts to Disagree on Doom
@@ -271,14 +271,12 @@ image: /assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_agency_dis_87
 
 A key fault line in debates about **AI’s existential risk** hinges on how we *conceptualise* advanced systems: are they fundamentally **tools**—predictable, human‑directed instruments—or **agents**—semi‑autonomous entities capable of planning, acting and adapting without constant human steering? That distinction matters because fears about drift, misalignment and [loss of control]({{ 'loss-of-control/' | relative_url }}) depend on seeing AI as something that can pursue “goals” over time rather than merely answer queries. This page surveys the **actual evidence** researchers lean on when arguing that current systems are best understood as either **tools** or **emerging agents**, with a focus on *behaviour, architecture, and capability patterns that distinguish these framings*.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_agency_dis_87e1f9_agent_vs_tool_40fa48-Illustration-1-dark.svg" | relative_url }}" alt="Agent vs Tool illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_agency_dis_87e1f9_agent_vs_tool_40fa48-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_agency_dis_87e1f9_agent_vs_tool_40fa48-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Researchers Mean by “Agents” and “Tools” in AI
 
 Across the academic literature, the **tool view** treats AI as a reactive function approximator: a system that takes input and delivers output under human direction. By contrast, the **agent view** emphasises **perception–decision–action loops**, persistent context, planning and tool use. A recent literature review defines agentic systems by a triad of features—*[autonomy]({{ 'autonomy/' | relative_url }}), reactivity and proactiveness*—that differentiate them from simple tools or black‑box models that simply map questions to responses.[MDPI]
 
 Surveys of agent‑focused research highlight common components attributed to agents:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -289,7 +287,6 @@ Surveys of agent‑focused research highlight common components attributed to ag
 </div>
 
 This conceptual framing is grounded in decades of AI research that predates modern large language models, drawn from cognitive science and autonomous systems theory. Formal definitions of autonomy and agency consistently place *independence from human intervention* and *decision‑making sophistication* at the core of the agent notion.[Springer]
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ua8nPJ1_yk8" title="Emmett Shear on Building AI That Actually Cares: Beyond Control and Steering" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ua8nPJ1_yk8" target="_blank" rel="noopener noreferrer">Emmett Shear on Building AI That Actually Cares: Beyond Control and Steering</a></p><p class="youtube-embed-meta">Channel: a16z &middot; Views: 4.4K &middot; Uploaded: November 2025 &middot; Length: 1 hour 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ua8nPJ1_yk8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ua8nPJ1_yk8">Open on YouTube</a></p></div></div></div>
 
@@ -307,7 +304,6 @@ Empirical work tracking tool use in real deployments provides evidence of wideni
 
 This evidence is important because it links architectural capabilities to real‑world usage: systems are being built that autonomously select and execute tasks in digital environments without step‑by‑step human scripting.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_agency_dis_87e1f9_agent_vs_tool_40fa48-Illustration-2-dark.svg" | relative_url }}" alt="Agent vs Tool illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_agency_dis_87e1f9_agent_vs_tool_40fa48-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_agency_dis_87e1f9_agent_vs_tool_40fa48-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### 3. Multi‑Agent Coordination and Task Decomposition
 
@@ -323,7 +319,6 @@ A contrasting line of evidence comes from practitioners building agents in the w
 
 Practitioners highlight that when an agent encounters unexpected conditions, it frequently *stalls or follows fallback rules* rather than elegantly replanning—behaviour more characteristic of engineered automation than intelligent agents.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wvvDyT4sRDs" title="OpenClaw AI Gone Wrong – Why You Should Be Careful" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wvvDyT4sRDs" target="_blank" rel="noopener noreferrer">OpenClaw AI Gone Wrong – Why You Should Be Careful</a></p><p class="youtube-embed-meta">Channel: tektoc &middot; Views: 1.9K &middot; Uploaded: March 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wvvDyT4sRDs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wvvDyT4sRDs">Open on YouTube</a></p></div></div></div>
 
 ### 2. Error Rates and Reliability Boundaries
@@ -331,7 +326,6 @@ Practitioners highlight that when an agent encounters unexpected conditions, it 
 Real‑world [evaluations]({{ 'evaluations/' | relative_url }}) from business and robotics contexts point out the reliability limits of current agents. Articles reviewing enterprise deployments, robotics integrations and browser‑interacting agents show that while planning and multi‑step actions are possible in controlled settings, **errors, hallucinations, and context gaps still constrain autonomy**. Agents often struggle with dynamic environments requiring fine‑grained perception and consistent state tracking, emphasising tool‑like dependency on infrastructure and human‑provided context.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/culture/2025-in-review/why-ai-didnt-transform-our-lives-in-2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker Why A.I</span><span class="citation-popover-snippet">Didn&#x27;t Transform Our Lives in 2025December 27, 2025 — In 2025, expectations for artificial intelligence (AI) agents fell short of the bol...</span><span class="citation-popover-meta">Published: December 27, 2025</span></span></span>
 
 This doesn’t negate agentic capability, but it reminds us that **functioning autonomy remains bounded** by reliability thresholds that are much lower than what risk framings sometimes imply.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5l2mHWW9rio" title="AI ethics: escalating risks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5l2mHWW9rio" target="_blank" rel="noopener noreferrer">AI ethics: escalating risks</a></p><p class="youtube-embed-meta">Channel: stay curious radio &middot; Views: 5 &middot; Uploaded: April 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5l2mHWW9rio" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5l2mHWW9rio">Open on YouTube</a></p></div></div></div>
 
@@ -345,7 +339,6 @@ The available evidence points to a **spectrum rather than a binary**:
 Hard evidence for *true autonomy in the full existential sense*—systems with [independent]({{ 'red-teaming/' | relative_url }}) goals, persistent self‑directed behaviour and unmediated world interaction—is still absent. But current research shows **architectures and systems exhibiting intermediate forms of autonomy**, and real‑world deployments where systems exercise decision loops and action selection in ways that go beyond classical tools.
 
 Understanding where current AI sits on this continuum, and how that trajectory might evolve, is crucial for evaluating whether agent‑like behaviours could one day contribute meaningfully to loss‑of‑control or misalignment risks.
-
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_agency_dis_87e1f9_agent_vs_tool_40fa48-Illustration-3-dark.svg" | relative_url }}" alt="Agent vs Tool illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_agency_dis_87e1f9_agent_vs_tool_40fa48-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_ai_agency_dis_87e1f9_agent_vs_tool_40fa48-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 

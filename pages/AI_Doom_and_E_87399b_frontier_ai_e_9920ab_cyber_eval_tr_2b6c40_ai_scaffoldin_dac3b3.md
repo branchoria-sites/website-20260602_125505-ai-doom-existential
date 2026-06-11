@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /cyber-tripwires/
 nav_short_title: Scaffolding Effects
 title: How Tools and Memory Amplify AI Cyber Performance
-title_full: How Tools and Memory Amplify AI Cyber Performance | Cyber tripwires
+title_full: How Tools and Memory Amplify AI Cyber Performance
 display_title_short: Scaffolding Effects
 display_title: Scaffolding Effects
 heading_title: How Tools and Memory Amplify AI Cyber Performance
@@ -204,7 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 21:14:37'
-parent_title: When should cyber evals stop a release? | Evals
+parent_title: When should cyber evals stop a release?
 parent_permalink: /cyber-tripwires/
 parent_nav_short_title: Cyber tripwires
 parent_heading_title: When should cyber evals stop a release?
@@ -277,12 +277,10 @@ image: /assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b
 
 When frontier AI models are tested for cyber‑security capabilities within the AI‑risk debate, the **way they are scaffolded — the tools, memory mechanisms, planning loops and extended compute budgets wrapped around the core model — can dramatically shift evaluation outcomes**. Rather than reflecting a model’s “raw” capability based on weights alone, many modern cyber‑capability [evaluations]({{ 'evaluations/' | relative_url }}) embed the base model within frameworks that let it **remember context across many steps, call external tools, and operate with persistent state**. This scaffolding isn’t just a technical curiosity: emerging evidence suggests it can substantially *boost* measured performance on complex cyber tasks, raising important questions about how [capability thresholds]({{ 'capability-thresholds/' | relative_url }}) are defined and what evaluation outcomes really mean for assessing misuse risk in AI‑doom discussions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_ai_scaffoldin_dac3b3-Illustration-1-dark.svg" | relative_url }}" alt="Scaffolding Effects illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_ai_scaffoldin_dac3b3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_ai_scaffoldin_dac3b3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Does “Scaffolding” Mean in AI Cyber Evaluations?
 
 In the context of AI cyber capability testing, **scaffolding refers to any supporting structures or mechanisms beyond the base model that help it perform tasks**. These typically include:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -294,7 +292,6 @@ In the context of AI cyber capability testing, **scaffolding refers to any suppo
 </div>
 
 This contrasts with evaluating a model as a stateless language assistant answering isolated queries. Robust scaffolding effectively turns a model into an *agentic system* that can manage multi‑phase tasks and maintain procedural state, a shift with major consequences for evaluation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kG-GPAJeCMs" title="Challenges and War Stories for AI Risk Assessments | Jake Williams" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kG-GPAJeCMs" target="_blank" rel="noopener noreferrer">Challenges and War Stories for AI Risk Assessments | Jake Williams</a></p><p class="youtube-embed-meta">Channel: Wild West Hackin&#x27; Fest &middot; Views: 248 &middot; Uploaded: May 2026 &middot; Length: 49 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kG-GPAJeCMs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kG-GPAJeCMs">Open on YouTube</a></p></div></div></div>
 
@@ -312,7 +309,6 @@ Aside from structural scaffolding, evaluations that increase the **inference bud
 
 This scaling effect matters because it implies that **evaluation outcomes are not solely functions of model architecture and weights** but are significantly shaped by how much compute and context scaffolding is permitted. A model that seems unable to complete a complex chain under strict limits might succeed reliably with a richer scaffold. This challenges simplistic interpretations of evaluation scores and raises the prospect that benchmarks without scaffold considerations may *underestimate* real‑world capabilities.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_ai_scaffoldin_dac3b3-Illustration-2-dark.svg" | relative_url }}" alt="Scaffolding Effects illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_ai_scaffoldin_dac3b3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_ai_scaffoldin_dac3b3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Scaffolding Introduces Hidden Variables into Benchmarking
 
@@ -328,7 +324,6 @@ In AI doom and existential‑risk frameworks, deployment tripwires are often def
 
 This gap becomes especially concerning if policymakers or lab [governance]({{ 'governance/' | relative_url }}) relies on bare benchmark numbers without clarifying what scaffolding was included. A threshold set on non‑scaffolded performance might allow release of systems that, when scaffolded in realistic scenarios, could exceed danger thresholds — or conversely, unfairly penalise models that perform poorly without scaffolds but gain little from them.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tdFSrhMtlFU" title="Agentic AI in Cybersecurity: Autonomy, Attack, Defense, and Global Governance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tdFSrhMtlFU" target="_blank" rel="noopener noreferrer">Agentic AI in Cybersecurity: Autonomy, Attack, Defense, and Global Governance</a></p><p class="youtube-embed-meta">Channel: Balsillie School of International Affairs &middot; Views: 74 &middot; Uploaded: February 2026 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tdFSrhMtlFU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tdFSrhMtlFU">Open on YouTube</a></p></div></div></div>
 
 ### Realistic Task Structure Matters
@@ -339,7 +334,6 @@ Scaffolding lets evaluations approximate *operational reality*, where an AI woul
 
 It is important to recognise that scaffold‑dependent performance does not necessarily indicate an intrinsically “smarter” base model; rather, it reveals how **embedding models within workflows unlocks capabilities that are latent in the underlying architecture**. From a risk perspective, this matters because adversaries or curious users in the wild may construct scaffolding even if developers or policymakers did not intend it. The danger arises from the *operational unit* — model plus scaffold — rather than the model in isolation.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_ai_scaffoldin_dac3b3-Illustration-3-dark.svg" | relative_url }}" alt="Scaffolding Effects illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_ai_scaffoldin_dac3b3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_ai_scaffoldin_dac3b3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Evaluations Must Reflect Agentic Contexts
 
@@ -349,9 +343,7 @@ The emerging evidence urges a shift in how cyber capability benchmarks are conce
 
 The **impact of scaffolding — tools, memory, planning loops and compute budgets — on AI cyber evaluation outcomes is profound**. Rather than simply measuring a static model’s ability to answer questions, well‑designed scaffolds allow models to retain context, decompose tasks, invoke external resources, and exploit extended compute. These factors materially change performance, complicating the interpretation of cyber capabilities and the setting of safety thresholds. For AI doom and existential‑risk debates, recognising the role of scaffolding is vital: without it, evaluations risk either underestimating real‑world offensive potential or mischaracterising the dangerousness of frontier systems when operating in realistic agentic contexts with support structures that mirror how they would actually be used or misused. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XAqN-V4HgT8" title="Panel Discussion “AI Safety: An Insider’s Perspective”" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XAqN-V4HgT8" target="_blank" rel="noopener noreferrer">Panel Discussion “AI Safety: An Insider’s Perspective”</a></p><p class="youtube-embed-meta">Channel: Thinking About Thinking &middot; Views: 72 &middot; Uploaded: March 2026 &middot; Length: 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XAqN-V4HgT8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XAqN-V4HgT8">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

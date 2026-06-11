@@ -30,7 +30,7 @@ sidebar_expanded_urls:
 - /loss-of-control/
 nav_short_title: Objections
 title: How strong is the case against AI doom?
-title_full: How strong is the case against AI doom? | Loss of Control
+title_full: How strong is the case against AI doom?
 display_title_short: Objections
 display_title: Objections
 heading_title: How strong is the case against AI doom?
@@ -206,7 +206,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 11:08:15'
-parent_title: How Could Humans Lose Control of AI? | AI Doom
+parent_title: How Could Humans Lose Control of AI?
 parent_permalink: /loss-of-control/
 parent_nav_short_title: Loss of Control
 parent_heading_title: How Could Humans Lose Control of AI?
@@ -284,7 +284,6 @@ image: /assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04
 
 The case for AI doom is often presented as a warning about future systems that become powerful enough, autonomous enough and misaligned enough to escape meaningful human control. But there is no consensus that this scenario is likely. Some of the strongest critics accept that advanced AI could create serious problems while rejecting the claim that [loss of control]({{ 'loss-of-control/' | relative_url }}) is a plausible route to human extinction or permanent civilisational collapse.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343-Illustration-1-dark.svg" | relative_url }}" alt="Objections illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The disagreement is not simply between people who care about safety and people who do not. Many sceptics accept that future AI systems could be dangerous. Their objection is that the strongest loss-of-control arguments rely heavily on theoretical reasoning, uncertain forecasts about future capabilities and assumptions about how highly capable AI systems would behave. They argue that present evidence is weak, that key steps in takeover scenarios remain unproven and that current systems do not look much like the agents described in classic AI doom arguments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2310.18244" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Review of the Evidence for Existential Risk from AI via Misaligned Power-SeekingOctober 27, 2023...</span><span class="citation-popover-meta">Published: October 27, 2023</span></span></span>
 
@@ -301,7 +300,6 @@ Sceptics also note that [current models]({{ 'current-models/' | relative_url }})
 This does not prove future systems will remain limited. But critics argue that evidence from current systems cuts both ways. Doom advocates often point to examples of specification gaming, deceptive behaviour in controlled tests or reward hacking as early [warning signs]({{ 'warning-signs/' | relative_url }}). Sceptics respond that these examples are usually narrow, artificial and far removed from the kind of robust, open-ended agency required for a genuine loss-of-control event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2310.18244" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Review of the Evidence for Existential Risk from AI via Misaligned Power-SeekingOctober 27, 2023...</span><span class="citation-popover-meta">Published: October 27, 2023</span></span></span>
 
 A related criticism is that discussions of AI doom sometimes blur together very different concepts:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -327,7 +325,6 @@ One objection is that future AI systems may not be strongly goal-directed agents
 Many current systems behave more like tools than independent actors. They respond to prompts, perform bounded tasks and wait for further instructions. Critics argue that loss-of-control scenarios often assume future AI will naturally evolve into persistent agents with stable goals and long planning horizons, but this transition remains speculative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alignmentforum.org/posts/LDRQ5Zfqwi8GjzPYG/counterarguments-to-the-basic-ai-x-risk-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alignmentforum.org">[Alignment Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alignmentforum.org</span><span class="citation-popover-title">counterarguments to the basic ai x risk case</span><span class="citation-popover-snippet">Alignment ForumCounterarguments to the basic AI x-risk case14 Oct 2022 — Katja Grace provides a list of counterarguments to the basic cas...</span></span></span>
 
 Even if powerful AI systems emerge, sceptics question whether developers will deploy them as autonomous entities rather than as tightly constrained tools embedded within larger human institutions.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hMjbu2GdFqM" title="Why Today’s AI is Stuck: The Evolutionary Path to Truly Autonomous Intelligence. JEPA, EBMs, SSL, RL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hMjbu2GdFqM" target="_blank" rel="noopener noreferrer">Why Today’s AI is Stuck: The Evolutionary Path to Truly Autonomous Intelligence. JEPA, EBMs, SSL, RL</a></p><p class="youtube-embed-meta">Channel: Byte Goose AI. &middot; Views: 163 &middot; Uploaded: March 2026 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hMjbu2GdFqM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hMjbu2GdFqM">Open on YouTube</a></p></div></div></div>
 
@@ -363,7 +360,6 @@ Second, today's systems may be poor guides to future architectures. If AI change
 
 Third, critics argue that doom scenarios sometimes stack multiple uncertain assumptions together. A typical loss-of-control story may require:
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343-Illustration-2-dark.svg" | relative_url }}" alt="Objections illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
@@ -393,7 +389,6 @@ This does not mean such scenarios are impossible. Rather, critics argue that nar
 
 A related concern is anthropomorphism. People often interpret AI behaviour through analogies with human motives such as ambition, self-preservation or desire for control. Critics argue that future AI systems could behave in ways that are alien, fragmented or difficult to compare with human psychology. This makes simple analogies potentially misleading. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/technology/2026/jan/06/ai-consciousness-is-a-red-herring-in-the-safety-debate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian AI consciousness is a red herring in the safety debate</span><span class="citation-popover-snippet">Professor Virginia Dignum argues that interpreting AI behaviors—like resisting shutdowns—as signs of consciousness is misleading and anth...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BY9KV8uCtj4" title="Yann LeCun and Andrew Ng: Why the 6-month AI Pause is a Bad Idea" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BY9KV8uCtj4" target="_blank" rel="noopener noreferrer">Yann LeCun and Andrew Ng: Why the 6-month AI Pause is a Bad Idea</a></p><p class="youtube-embed-meta">Channel: DeepLearningAI &middot; Views: 126.5K &middot; Uploaded: April 2023 &middot; Length: 32 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BY9KV8uCtj4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BY9KV8uCtj4">Open on YouTube</a></p></div></div></div>
 
 ## The institutional objection: humans may remain in the loop
@@ -414,7 +409,6 @@ One reason the debate persists is that both sides can point to genuine uncertain
 
 There are at least three areas where stronger evidence could narrow the disagreement.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343-Illustration-3-dark.svg" | relative_url }}" alt="Objections illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Evidence for persistent strategic deception
 
@@ -429,7 +423,6 @@ Conversely, if capabilities continued improving while such behaviours remained a
 A central unresolved question is whether advanced systems naturally develop incentives to gain resources, preserve themselves or resist intervention.
 
 Researchers already study reward hacking, specification gaming and behaviour under evaluation. More realistic tests of long-horizon autonomy could provide clearer evidence about whether power-seeking emerges in practice rather than only in theory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2310.18244" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Review of the Evidence for Existential Risk from AI via Misaligned Power-SeekingOctober 27, 2023...</span><span class="citation-popover-meta">Published: October 27, 2023</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5t1vTLU7s40" title="Yann Lecun: Meta AI, Open Source, Limits of LLMs, AGI &amp; the Future of AI | Lex Fridman Podcast #416" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5t1vTLU7s40" target="_blank" rel="noopener noreferrer">Yann Lecun: Meta AI, Open Source, Limits of LLMs, AGI &amp; the Future of AI | Lex Fridman Podcast #416</a></p><p class="youtube-embed-meta">Channel: Lex Fridman &middot; Views: 1.3M &middot; Uploaded: March 2024 &middot; Length: 2 hours 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5t1vTLU7s40" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5t1vTLU7s40">Open on YouTube</a></p></div></div></div>
 

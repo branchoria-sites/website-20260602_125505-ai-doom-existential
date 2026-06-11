@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /scaling-limits/
 nav_short_title: Model Circuits
 title: Why mapping AI internals gets harder with scale
-title_full: Why mapping AI internals gets harder with scale | Scaling Limits
+title_full: Why mapping AI internals gets harder with scale
 display_title_short: Model Circuits
 display_title: Model Circuits
 heading_title: Why mapping AI internals gets harder with scale
@@ -204,7 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-02 12:40:50'
-parent_title: Why Bigger AI Models May Resist Human Understanding | Control Tools
+parent_title: Why Bigger AI Models May Resist Human Understanding
 parent_permalink: /scaling-limits/
 parent_nav_short_title: Scaling Limits
 parent_heading_title: Why Bigger AI Models May Resist Human Understanding
@@ -271,7 +271,6 @@ image: /assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40
 
 Mechanistic [interpretability]({{ 'interpretability/' | relative_url }}) is the branch of AI research that tries to reverse-engineer neural networks and identify the internal mechanisms that produce specific behaviours. Rather than asking an AI system why it generated an answer, researchers attempt to trace the actual computations inside the model: which features were detected, which internal circuits were activated, and how information flowed through the network.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e_mechanistic_i_d561dd-Illustration-1-dark.svg" | relative_url }}" alt="Model Circuits illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e_mechanistic_i_d561dd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e_mechanistic_i_d561dd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For people concerned about AI doom, alignment failures, or [loss of control]({{ 'loss-of-control/' | relative_url }}) over advanced systems, mechanistic interpretability is attractive because it promises something stronger than behavioural testing. In principle, if researchers could understand a frontier model's internal reasoning, they might detect dangerous goals, deceptive strategies, or other [warning signs]({{ 'warning-signs/' | relative_url }}) before those behaviours appear openly.
 
@@ -287,7 +286,6 @@ The deeper problem is that models often use what researchers call *superposition
 
 This creates a scaling problem for interpretability: <span class="citation-chip-wrap"><a class="citation-chip" href="https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openaipublic.blob.core.windows.net">[openaipublic.blob.core.windows.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openaipublic.blob.core.windows.net</span><span class="citation-popover-snippet">Language models can explain neurons in language models9 May 2023 — This paper applies automation to the problem of scaling an interpretab...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The model may contain millions of meaningful features.
@@ -298,7 +296,6 @@ This creates a scaling problem for interpretability: <span class="citation-chip-
 </div>
 
 Researchers have therefore increasingly shifted from studying individual neurons to studying higher-level features extracted using tools such as sparse autoencoders. This has produced important progress, but it also reveals the sheer number of features involved. Anthropic's work on Claude 3 Sonnet reported evidence for millions of internal features, illustrating both the promise and the scale of the challenge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/research/superposition-memorization-and-double-descent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-title">superposition memorization and double descent</span><span class="citation-popover-snippet">Superposition, Memorization, and Double Descent5 Jan 2023 — In a recent paper, we found that simple neural networks trained on toy tasks...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://transformer-circuits.pub/2022/toy_model/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: transformer-circuits.pub">[transformer-circuits.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">transformer-circuits.pub</span><span class="citation-popover-snippet">Toy Models of SuperpositionSep 14, 2022 — In this paper, we use toy models — small ReLU networks trained on synthetic data with sparse in...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Mhp8vpOksWw" title="Reading AI&#x27;s Mind - Mechanistic Interpretability Explained [Anthropic Research]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Mhp8vpOksWw" target="_blank" rel="noopener noreferrer">Reading AI&#x27;s Mind - Mechanistic Interpretability Explained [Anthropic Research]</a></p><p class="youtube-embed-meta">Channel: bycloud &middot; Views: 21.2K &middot; Uploaded: November 2023 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Mhp8vpOksWw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Mhp8vpOksWw">Open on YouTube</a></p></div></div></div>
 
@@ -315,7 +312,6 @@ Large language models appear to exhibit something similar. A circuit discovered 
 This matters for AI safety because researchers are often interested in rare but dangerous behaviours. Suppose a safety team identifies one circuit associated with deceptive reasoning and modifies it. If the model can achieve the same outcome through several other circuits, the intervention may provide only limited assurance.
 
 The challenge is therefore not merely locating a mechanism. It is determining whether that mechanism is the complete explanation for a behaviour or only one component in a much larger network of computations.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qMBWbJQ3b2g" title="Towards Monosemanticity Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qMBWbJQ3b2g" target="_blank" rel="noopener noreferrer">Towards Monosemanticity Explained</a></p><p class="youtube-embed-meta">Channel: Unify &middot; Views: 1.2K &middot; Uploaded: June 2024 &middot; Length: 1 hour 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qMBWbJQ3b2g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qMBWbJQ3b2g">Open on YouTube</a></p></div></div></div>
 
@@ -339,7 +335,6 @@ This creates several difficulties:
 
 These concerns are especially relevant in discussions of deceptive alignment and loss-of-control scenarios. If advanced models develop strategies that can be implemented through many different internal pathways, discovering one pathway may not reveal the full picture of what the system is capable of doing.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e_mechanistic_i_d561dd-Illustration-2-dark.svg" | relative_url }}" alt="Model Circuits illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e_mechanistic_i_d561dd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e_mechanistic_i_d561dd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why larger models are not automatically more transparent
 
@@ -350,7 +345,6 @@ There is some evidence supporting this idea. Anthropic's work on monosemantic fe
 Yet these successes do not imply that frontier systems become transparent.
 
 Several scaling pressures push in the opposite direction:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -367,7 +361,6 @@ Researchers might successfully explain thousands or even millions of individual 
 
 This distinction is crucial in AI doom debates. The question is not whether some internal representations can be interpreted. The question is whether enough of the system can be understood to provide confidence that dangerous objectives, deceptive reasoning, or other [catastrophic]({{ 'misuse/' | relative_url }}) failure modes are absent.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vFdVrX503W0" title="Language Models Can Explain Neurons in Language Models" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vFdVrX503W0" target="_blank" rel="noopener noreferrer">Language Models Can Explain Neurons in Language Models</a></p><p class="youtube-embed-meta">Channel: Arize AI &middot; Views: 971 &middot; Uploaded: June 2023 &middot; Length: 39 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vFdVrX503W0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vFdVrX503W0">Open on YouTube</a></p></div></div></div>
 
 ## Automation helps, but may not solve the scaling problem
@@ -380,7 +373,6 @@ Automated circuit-discovery methods have also improved substantially. New techni
 
 However, automation introduces its own questions:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * How can researchers verify that automated explanations are correct?
@@ -391,7 +383,6 @@ However, automation introduces its own questions:
 </div>
 
 In effect, automation may help address the labour problem without fully solving the understanding problem.
-
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e_mechanistic_i_d561dd-Illustration-3-dark.svg" | relative_url }}" alt="Model Circuits illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e_mechanistic_i_d561dd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e_mechanistic_i_d561dd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What this means for AI doom arguments
@@ -1004,4 +995,4 @@ For AI doom discussions, this creates an uncomfortable possibility. If mechanist
 
 40. <a id="endnote-40"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=qMBWbJQ3b2g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qMBWbJQ3b2g</a>  
+   Link: <a href="https://www.youtube.com/watch?v=qMBWbJQ3b2g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qMBWbJQ3b2g</a>

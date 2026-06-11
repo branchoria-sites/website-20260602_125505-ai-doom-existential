@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /bio-threat-ai/
 nav_short_title: Pre Deployment Policy
 title: Evaluating High Risk AI Biological Models Before Release
-title_full: Evaluating High Risk AI Biological Models Before Release | Bio Threat AI
+title_full: Evaluating High Risk AI Biological Models Before Release
 display_title_short: Pre Deployment Policy
 display_title: Pre Deployment Policy
 heading_title: Evaluating High Risk AI Biological Models Before Release
@@ -204,7 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 15:13:01'
-parent_title: How AI Could Accelerate Dangerous Pathogen Design | Misuse
+parent_title: How AI Could Accelerate Dangerous Pathogen Design
 parent_permalink: /bio-threat-ai/
 parent_nav_short_title: Bio Threat AI
 parent_heading_title: How AI Could Accelerate Dangerous Pathogen Design
@@ -277,7 +277,6 @@ image: /assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_550
 
 As fears about **AI‑assisted design of enhanced biological pathogens** grow within broader debates about **AI doom and existential risk**, policymakers and technical experts are increasingly focused on one narrow but high‑stakes problem: *How should regulators and developers evaluate powerful biological AI models *before* they are released or widely deployed?* Pre‑deployment evaluation isn’t about minor tweaks to guidance; it’s about stopping potentially [catastrophic]({{ 'misuse/' | relative_url }}) capabilities from ever leaving the lab or cloud in unexamined form — especially when those capabilities could *meaningfully lower the barriers to harmful biological design*.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_bio_predep_4af8c1-Illustration-1-dark.svg" | relative_url }}" alt="Pre Deployment Policy illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_bio_predep_4af8c1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_bio_predep_4af8c1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This page examines the **policy approaches being proposed and piloted for pre‑deployment evaluation of bio‑AI** — advanced artificial intelligence systems that may have dual‑use or harmful biological capabilities — with an eye on why these approaches matter to long‑term safety and existential‑risk concerns, what they aim to assess, and where the most active debates lie.
 
@@ -286,7 +285,6 @@ This page examines the **policy approaches being proposed and piloted for pre‑
 At its core, **pre‑deployment evaluation** refers to structured, systematic testing and assessment of an AI model *before* it is released for public or broad use, with the explicit aim of identifying dangerous capabilities and deciding whether release should proceed, be modified, or be blocked.
 
 For biological AI models — systems trained on genomic data, biomolecular design tasks, or other life‑science domains — the stakes are especially high because of the potential for [misuse]({{ 'misuse/' | relative_url }}) in designing or interpreting pathogenic sequences. These [evaluations]({{ 'evaluations/' | relative_url }}) attempt to answer two linked questions:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -311,7 +309,6 @@ The **UK AI Safety Institute (AISI)** has published one of the first *formalised
 
 By anchoring evaluation in a formal institutional process rather than voluntary corporate practice, the UK AISI framework represents a concrete policy tool that could serve as a template for other jurisdictions.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/B2sWfniZCcI" title="Could one scientist armed with AI kill a billion people?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=B2sWfniZCcI" target="_blank" rel="noopener noreferrer">Could one scientist armed with AI kill a billion people?</a></p><p class="youtube-embed-meta">Channel: 80,000 Hours &middot; Views: 8.2K &middot; Uploaded: March 2026 &middot; Length: 3 hours 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=B2sWfniZCcI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=B2sWfniZCcI">Open on YouTube</a></p></div></div></div>
 
 ### Risk‑Threshold and Capability‑Focused Assessments
@@ -328,7 +325,6 @@ Linking evaluations to capability thresholds — for example, a metric of model 
 
 One recurring policy idea is **externally conducted evaluations**, separate from the model developers themselves. Such third‑party evaluation aims to reduce conflicts of interest and provide [independent]({{ 'red-teaming/' | relative_url }}) verification of safety claims:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * Policy documents recommend allowing qualified external experts to conduct or oversee assessments, especially at the *pre‑deployment phase*, where irreversible decisions about release are made.
@@ -338,7 +334,6 @@ One recurring policy idea is **externally conducted evaluations**, separate from
 </div>
 
 Such external checks are especially important for biological AI, given that underlying risks can be subtle and difficult for insider teams to bound.
-
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_bio_predep_4af8c1-Illustration-2-dark.svg" | relative_url }}" alt="Pre Deployment Policy illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_bio_predep_4af8c1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_bio_predep_4af8c1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Red Teaming and Capability Benchmarking
@@ -354,7 +349,6 @@ For bio‑AI, these techniques might mean testing how models respond to prompts 
 ## Regulatory and Ethical Considerations
 
 The prospect of introducing pre‑deployment evaluations raises a set of regulatory and ethical tensions:
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DZOinNZTfVA" title="What is the state of biodefense in the US?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DZOinNZTfVA" target="_blank" rel="noopener noreferrer">What is the state of biodefense in the US?</a></p><p class="youtube-embed-meta">Channel: Brown University School of Public Health &middot; Views: 297 &middot; Uploaded: March 2026 &middot; Length: 1 hour 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DZOinNZTfVA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DZOinNZTfVA">Open on YouTube</a></p></div></div></div>
 
@@ -374,7 +368,6 @@ Policy approaches vary: some propose selective disclosure to regulators and vett
 
 The governance landscape is already diverse:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * Some countries (e.g. China) require pre‑release *registration* and security assessment of AI models, including generalized large models, as part of broader state oversight frameworks;
@@ -385,12 +378,10 @@ The governance landscape is already diverse:
 
 This patchwork creates tension between *softer*, voluntary evaluation practices and *harder*, enforceable assessments that could amount to de facto licensing or gating mechanisms — raising questions about regulatory arbitrage, cross‑border enforcement, and competitive dynamics.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_bio_predep_4af8c1-Illustration-3-dark.svg" | relative_url }}" alt="Pre Deployment Policy illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_bio_predep_4af8c1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_bio_predep_4af8c1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Pre‑Deployment Evaluation Matters for AI Doom and Biological Risk
 
 From the perspective of existential risk thinking, pre‑deployment evaluation tackles a crucial structural problem: *the unpredictability of advanced AI systems and the outsized harms they could enable when coupled with biological domains.*
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -406,7 +397,6 @@ In this light, pre‑deployment evaluation is not a bureaucratic add‑on but a 
 
 Despite growing consensus on evaluation as a policy tool, significant uncertainties remain:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * **What exact metrics or benchmarks should be used** for biological risk? Unlike simple toxicity tests, biological AI risks are multi‑dimensional and hard to reduce to single numbers.
@@ -419,9 +409,7 @@ And perhaps most fundamentally, *pre‑deployment evaluation doesn’t eliminate
 
 In summary, policy approaches to **pre‑deployment evaluation of bio‑AI** are emerging from a blend of frontier AI safety thinking and traditional regulatory governance, seeking to systematically test, measure, and govern high‑risk models before they are deployed. While significant design and implementation challenges remain, structured evaluation frameworks, mandatory testing regimes, and standardised metrics are rapidly moving from abstract proposals to real policy instruments — with implications that touch directly on how society manages one of the most delicate intersections of AI capability and biological risk.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ib9FECi5TWU" title="Open AI Shipped Their Most Dangerous Model But Anthropic Refused" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ib9FECi5TWU" target="_blank" rel="noopener noreferrer">Open AI Shipped Their Most Dangerous Model But Anthropic Refused</a></p><p class="youtube-embed-meta">Channel: Gcore &middot; Views: 1.2K &middot; Uploaded: May 2026 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ib9FECi5TWU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ib9FECi5TWU">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -955,4 +943,4 @@ In summary, policy approaches to **pre‑deployment evaluation of bio‑AI** are
    Source: pmc.ncbi.nlm.nih.gov  
    Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12061118/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12061118/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govDual-use capabilities of concern of biological AI models - PMCMay 8, 2025 — POLICYMAKER GUIDANCE FOR HAZARDOUS BIOLOGICAL AI CAPAB...</p></details>
-   Published: May 8, 2025  
+   Published: May 8, 2025

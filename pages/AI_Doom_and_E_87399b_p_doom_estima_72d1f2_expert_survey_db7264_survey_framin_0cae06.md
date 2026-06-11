@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /survey-estimates/
 nav_short_title: Survey Framing
 title: How Survey Design Shapes AI Doom Predictions
-title_full: How Survey Design Shapes AI Doom Predictions | Survey Estimates
+title_full: How Survey Design Shapes AI Doom Predictions
 display_title_short: Survey Framing
 display_title: Survey Framing
 heading_title: How Survey Design Shapes AI Doom Predictions
@@ -204,7 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-01 19:00:57'
-parent_title: How AI Experts Forecast Doom Probabilities | P Doom
+parent_title: How AI Experts Forecast Doom Probabilities
 parent_permalink: /survey-estimates/
 parent_nav_short_title: Survey Estimates
 parent_heading_title: How AI Experts Forecast Doom Probabilities
@@ -271,7 +271,6 @@ image: /assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db
 
 When people see a headline claiming that AI researchers assign a 5%, 10%, or 20% chance to human extinction from advanced AI, it is easy to assume those numbers represent a stable expert consensus. In practice, p(doom) survey results are highly sensitive to how questions are asked. Small changes in wording, time horizon, definitions of catastrophe, or assumptions about AI control can shift responses substantially. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wiki.aiimpacts.org">[AI Impacts Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wiki.aiimpacts.org</span><span class="citation-popover-title">2023 expert survey on progress in ai</span><span class="citation-popover-snippet">AI Impacts Wiki2023 Expert Survey on Progress in AI17 Aug 2023 — “What probability do you put on human inability to control future advanc...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264_survey_framin_0cae06-Illustration-1-dark.svg" | relative_url }}" alt="Survey Framing illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264_survey_framin_0cae06-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264_survey_framin_0cae06-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This does not mean the surveys are meaningless. Rather, it means they are measuring a difficult and uncertain belief space. Researchers are asking experts to estimate unprecedented events involving future technologies, unclear timelines, and contested theories of AI alignment. The resulting numbers depend not only on what respondents believe, but also on how they interpret the survey itself. Understanding these framing effects is essential for interpreting expert forecasts about AI doom and existential risk.
 
@@ -284,7 +283,6 @@ Some surveys ask directly about **human extinction**, while others ask about bro
 This distinction matters because many AI safety researchers do not view extinction as the only existentially [catastrophic]({{ 'misuse/' | relative_url }}) outcome. A future in which highly capable AI systems permanently dominate human decision-making may be considered an existential loss even if humans remain alive. When surveys broaden the definition in this way, respondents may include a wider range of failure scenarios in their estimates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lesswrong.com/posts/RkegCmCgjGhskiFvm/ai-impacts-2023-expert-survey-on-progress-in-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lesswrong.com">[AI Impacts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lesswrong.com</span><span class="citation-popover-title">ai impacts 2023 expert survey on progress in ai</span><span class="citation-popover-snippet">AI Impacts 2023 Expert Survey on Progress in AI5 Jan 2024 — We asked about the likelihood that AI will cause human extinction us...</span></span></span>
 
 The wording also affects how respondents mentally construct examples:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -322,7 +320,6 @@ A respondent asked about catastrophe “within the next 20 years” is answering
 
 The AI Impacts survey included versions that specified a 100-year horizon and versions that did not. This matters because many researchers separate two uncertainties:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZyNUcxi40z0" title="EYE4AI - When Will AI Surpass Humanity - The Interview with Katja Grace" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZyNUcxi40z0" target="_blank" rel="noopener noreferrer">EYE4AI - When Will AI Surpass Humanity - The Interview with Katja Grace</a></p><p class="youtube-embed-meta">Channel: EYE4AI &middot; Views: 53.4K &middot; Uploaded: February 2024 &middot; Length: 1 hour 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZyNUcxi40z0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZyNUcxi40z0">Open on YouTube</a></p></div></div></div>
 
 1. Whether extremely powerful AI will ever be developed.
@@ -346,7 +343,6 @@ This creates what survey researchers sometimes call a hidden-reference problem. 
 
 Several assumptions can alter responses:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **How powerful future AI becomes**
@@ -362,14 +358,12 @@ The 2025 survey on expert disagreement over AI existential risk found that exper
 
 A survey question that implicitly points respondents toward one model or the other can therefore shift aggregate results.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264_survey_framin_0cae06-Illustration-2-dark.svg" | relative_url }}" alt="Survey Framing illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264_survey_framin_0cae06-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264_survey_framin_0cae06-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Difference Between “AI Causes Doom” and “Humans Lose Control”
 
 Framing effects become especially visible when comparing broad catastrophe questions with control-focused questions.
 
 A general question about AI causing extinction can include many pathways:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -389,7 +383,6 @@ This distinction matters because different experts find different pathways more 
 An AI [governance]({{ 'governance/' | relative_url }}) specialist worried about geopolitical races may assign a higher risk when all pathways are considered. A technical alignment researcher may assign a higher risk when the survey specifically highlights control problems.
 
 The survey wording effectively determines which danger models become most salient during estimation.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fs1Ky20OTYc" title="How to frame your AI ideas with the AI Problem Framing Canvas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fs1Ky20OTYc" target="_blank" rel="noopener noreferrer">How to frame your AI ideas with the AI Problem Framing Canvas</a></p><p class="youtube-embed-meta">Channel: Design Sprint Academy &middot; Views: 170 &middot; Uploaded: February 2026 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fs1Ky20OTYc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fs1Ky20OTYc">Open on YouTube</a></p></div></div></div>
 
@@ -413,7 +406,6 @@ The goal is not necessarily to find a single “true” p(doom) number. Instead,
 
 Multiple-question designs help reveal:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * Whether respondents are sensitive to control-focused language.
@@ -426,7 +418,6 @@ Multiple-question designs help reveal:
 The AI Impacts surveys are notable partly because they expose these framing effects rather than hiding them. By publishing multiple variants, they show how much [uncertainty]({{ 'uncertainty/' | relative_url }}) exists in the measurement process itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lesswrong.com/posts/RkegCmCgjGhskiFvm/ai-impacts-2023-expert-survey-on-progress-in-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lesswrong.com">[LessWrong]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lesswrong.com</span><span class="citation-popover-title">ai impacts 2023 expert survey on progress in ai</span><span class="citation-popover-snippet">AI Impacts 2023 Expert Survey on Progress in AI5 Jan 2024 — We asked about the likelihood that AI will cause human extinction us...</span></span></span>
 
 For readers, this is often more informative than a single headline number. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2401.02843v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">More than half...Read more...</span></span></span>
-
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264_survey_framin_0cae06-Illustration-3-dark.svg" | relative_url }}" alt="Survey Framing illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264_survey_framin_0cae06-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264_survey_framin_0cae06-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Does Framing Mean the Surveys Are Unreliable?
@@ -447,7 +438,6 @@ The most important lesson is that p(doom) figures are not objective measurements
 
 They are structured judgements produced under uncertainty. The exact number depends partly on:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * How doom is defined.
@@ -463,9 +453,7 @@ When one survey reports a median p(doom) of 5% and another reports 10% or higher
 
 For discussions of AI doom, the most informative takeaway is often not the precise percentage. It is the fact that substantial numbers of AI researchers assign non-trivial probabilities to catastrophic outcomes across a range of survey framings, while also disagreeing sharply about which assumptions justify those estimates. The wording of the question does not create that disagreement, but it often reveals where the deepest uncertainties lie.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GWT1IXVu6rA" title="AI Risk Forecasting in Plain English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GWT1IXVu6rA" target="_blank" rel="noopener noreferrer">AI Risk Forecasting in Plain English</a></p><p class="youtube-embed-meta">Channel: StratEngine AI &middot; Uploaded: May 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GWT1IXVu6rA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GWT1IXVu6rA">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

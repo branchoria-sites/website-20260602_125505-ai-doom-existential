@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-interpretabil/
 description: Focused pages that expand on Control Failures.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_interpretabil_15527d_ai_monitor_ev_8b5000
-parent_title: Control Failures | Control Tools
+parent_title: Control Failures
 parent_nav_short_title: Control Failures
 parent_permalink: /control-failures/
 ---

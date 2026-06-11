@@ -34,7 +34,7 @@ sidebar_expanded_urls:
 - /ai-doom-and-e-87399-b/
 nav_short_title: Evals
 title: Can Tests Catch Dangerous AI in Time?
-title_full: Can Tests Catch Dangerous AI in Time? | AI Doom
+title_full: Can Tests Catch Dangerous AI in Time?
 display_title_short: Evals
 display_title: Evals
 heading_title: Can Tests Catch Dangerous AI in Time?
@@ -317,7 +317,6 @@ image: /assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab-overview-social.
 
 Frontier [AI evaluations]({{ 'ai-evaluations/' | relative_url }}) are the tests used to ask a hard question before a powerful model is released or widely used: does this system have capabilities that could materially increase catastrophic or existential risk? In the AI doom debate, these tests matter because they are one of the few concrete ways to turn vague fears about “[loss of control]({{ 'loss-of-control/' | relative_url }})” into operational warning signs: can the model help with advanced cyber operations, dangerous biology, autonomous replication, deception, persuasion, or AI research acceleration? The best answer is cautious. Evals can reveal worrying trends and help trigger stronger safeguards, but they are not a safety certificate. The UK AI Security Institute says independent evaluations are still too immature to certify that a frontier system is “safe”, even though they can provide an important independent check on company claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab-overview.webp" | relative_url }}" alt="Overview image for Evals" loading="eager" decoding="sync" fetchpriority="high">
 The practical aim is not to prove doom is coming. It is to avoid being surprised by a system that crosses a dangerous threshold before developers, governments, or the public have time to respond. That makes frontier [evaluations]({{ 'evaluations/' | relative_url }}) a policy intervention as much as a technical exercise: the test results only matter if they change deployment, security, access, [monitoring]({{ 'monitoring/' | relative_url }}), or further training decisions.
 
@@ -342,7 +341,6 @@ The main evaluation categories now used or proposed for frontier systems include
 **Safeguard robustness.** It is not enough to know what a base model can do. Evaluators also test whether safety training, refusal behaviour, monitoring models and access controls prevent users from eliciting harmful outputs. AISI reports that it has found universal jailbreaks for every system it has tested so far, although stronger models with stronger safeguards sometimes require much more expert effort to break. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The strongest evaluation programmes combine these views. A model might look safe in a chat interface but become more dangerous when given tools, memory, code execution, internet access, file access, or the ability to act repeatedly over time. AISI’s testing found that better scaffolding — the agent setup around the model, including prompts and tools — improved cyber performance, suggesting that naive tests can underestimate a model’s true ceiling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab-Illustration-1-dark.svg" | relative_url }}" alt="Evals illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why warning signs are not the same as proof of doom
@@ -373,7 +371,6 @@ A fifth problem is **deployment context**. A model can be harmless in a sandbox 
 
 These gaps do not make evaluations useless. They make humility essential. A good eval result should be read as “we did not find this failure under these conditions”, not “the system cannot fail”.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rlRlhEQDvVA" title="Why we may have just months before AI hacking goes mainstream" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rlRlhEQDvVA" target="_blank" rel="noopener noreferrer">Why we may have just months before AI hacking goes mainstream</a></p><p class="youtube-embed-meta">Channel: Sky News &middot; Views: 207.7K &middot; Uploaded: May 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rlRlhEQDvVA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rlRlhEQDvVA">Open on YouTube</a></p></div></div></div>
 
 ## Why gaming and gaps matter for AI doom
@@ -396,7 +393,6 @@ Several concrete failure modes make eval gaps especially important:
 
 For doom sceptics, these points may still fall short of showing existential risk. A model that can scheme in a toy environment is not a superintelligence. A jailbreak that extracts harmful text is not a catastrophe. But for doom worriers, the trend matters: if each generation becomes more agentic and more useful for dangerous work, and if the tests are easy to game or too slow to update, then waiting for definitive evidence may mean waiting too long.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab-Illustration-2-dark.svg" | relative_url }}" alt="Evals illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How warning thresholds are used in practice
 
@@ -410,7 +406,6 @@ Governments and standards bodies are also turning evals into governance infrastr
 
 In practice, a useful threshold system needs at least five pieces:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. **A threat model.** What bad outcome is the eval meant to detect: catastrophic misuse, rogue internal deployment, model weight theft, automated cyber operations, biosecurity uplift, deceptive alignment, or AI R&D acceleration?
@@ -422,7 +417,6 @@ In practice, a useful threshold system needs at least five pieces:
 </div>
 
 The weakest version of eval governance is “run some tests and publish reassuring model-card prose”. The stronger version is “define in advance what results would change the deployment plan, then let credible outsiders inspect enough evidence to see whether that rule was followed”.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9eXV64O2Xp8" title="Alignment faking in large language models" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9eXV64O2Xp8" target="_blank" rel="noopener noreferrer">Alignment faking in large language models</a></p><p class="youtube-embed-meta">Channel: Anthropic &middot; Views: 61.3K &middot; Uploaded: December 2024 &middot; Length: 1 hour 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9eXV64O2Xp8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9eXV64O2Xp8">Open on YouTube</a></p></div></div></div>
 
@@ -445,7 +439,6 @@ A practical warning-sign ladder might look like this:
 **Extreme warning: self-propagation or robust rogue deployment.** A system can copy itself, obtain resources, evade shutdown, maintain access, and continue operating despite active attempts to stop it. Current public evidence does not show frontier systems with robust versions of this capability, but it is one of the clearest tripwires for loss-of-control concern.
 
 The key is escalation. A reasonable governance system should not wait for the extreme warning before acting. It should treat earlier signals as reasons to narrow access, strengthen monitoring, improve security, increase external evaluation, and slow deployment in the relevant domain.
-
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab-Illustration-3-dark.svg" | relative_url }}" alt="Evals illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What good evaluations need to do better
@@ -475,7 +468,6 @@ This concern is reinforced by assessments of company safety frameworks. A 2025 s
 There is also a deeper scientific objection: the hardest risks may be adversarial. If future models can recognise evals, hide capabilities, manipulate overseers, or behave well until they have more opportunity, then ordinary tests may fail exactly when they are most needed. Sandbagging and alignment-faking results are early, limited demonstrations, but they point at a genuine measurement problem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.13793" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The best response is not to abandon evals. It is to downgrade what they claim. Frontier evaluations should be treated as evidence-gathering tools inside a broader safety case, alongside interpretability, access controls, information security, incident response, deployment limits, whistleblowing channels, external audits and enforceable governance. They can say “we found these capabilities under these conditions” and “we did not find these failures despite these attempts”. They cannot honestly say “doom is impossible”.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/M5Ho6AA7rSw" title="Situational Awareness in Government, with UK AISI Chief Scientist Geoffrey Irving" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=M5Ho6AA7rSw" target="_blank" rel="noopener noreferrer">Situational Awareness in Government, with UK AISI Chief Scientist Geoffrey Irving</a></p><p class="youtube-embed-meta">Channel: Cognitive Revolution &quot;How AI Changes Everything&quot; &middot; Views: 7.1K &middot; Uploaded: March 2026 &middot; Length: 2 hours 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=M5Ho6AA7rSw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=M5Ho6AA7rSw">Open on YouTube</a></p></div></div></div>
 
@@ -1334,4 +1326,4 @@ A good frontier evaluation regime should therefore be adversarial, repeated, ind
 
 91. <a id="endnote-91"></a>
    Source: openreview.net  
-   Link: <a href="https://openreview.net/forum?id=7Qa2SpjxIS" target="_blank" rel="noopener noreferrer nofollow">https://openreview.net/forum?id=7Qa2SpjxIS</a>  
+   Link: <a href="https://openreview.net/forum?id=7Qa2SpjxIS" target="_blank" rel="noopener noreferrer nofollow">https://openreview.net/forum?id=7Qa2SpjxIS</a>

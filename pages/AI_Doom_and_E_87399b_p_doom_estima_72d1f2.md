@@ -34,7 +34,7 @@ sidebar_expanded_urls:
 - /ai-doom-and-e-87399-b/
 nav_short_title: P Doom
 title: What Does p(doom) Really Mean?
-title_full: What Does p(doom) Really Mean? | AI Doom
+title_full: What Does p(doom) Really Mean?
 display_title_short: P Doom
 display_title: P Doom
 heading_title: What Does p(doom) Really Mean?
@@ -317,7 +317,6 @@ image: /assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2-overview-social.
 
 p(doom) means someone’s estimated probability that advanced AI leads to existential catastrophe: human extinction, permanent disempowerment, or a similarly irreversible loss of humanity’s future. It is not a measured statistic like a failure rate in engineering. It is a judgement under deep [uncertainty]({{ 'uncertainty/' | relative_url }}), built from beliefs about future AI capability, alignment, deployment incentives, [governance]({{ 'governance/' | relative_url }}), misuse, and humanity’s ability to stop or recover from dangerous systems.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2-overview.webp" | relative_url }}" alt="Overview image for P Doom" loading="eager" decoding="sync" fetchpriority="high">
 That is why p(doom) numbers vary so widely. Some researchers put AI-caused existential risk near zero; others put it in the tens of per cent or higher. The disagreement is not just about one fact. It reflects different mental models of AI: whether future systems are best understood as controllable tools, dangerous agents, brittle pattern-matchers, or something not yet captured by today’s categories. The most useful way to read p(doom) is therefore not as a magic answer, but as a compressed map of assumptions. A good p(doom) estimate should make its conditions visible: what level of AI capability is assumed, what kind of failure is being counted, over what timeframe, and what evidence would move the number up or down. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2401.02843" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Thousands of AI Authors on the Future of AIJanuary 5, 2024...</span><span class="citation-popover-meta">Published: January 5, 2024</span></span></span>
 
@@ -342,7 +341,6 @@ The number also bundles several conditional beliefs that are easy to mix togethe
 
 A single p(doom) figure hides all of those assumptions. Two people can both say “10%” while meaning very different things: one may think transformative AI is likely but safety work will probably succeed; another may think transformative AI is unlikely soon, but extremely dangerous if it does arrive.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2-Illustration-1-dark.svg" | relative_url }}" alt="P Doom illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What surveys actually show
 
@@ -357,7 +355,6 @@ Earlier surveys pointed in a similar direction. The 2022 Expert Survey on Progre
 A separate forecasting exercise, the Existential Risk Persuasion Tournament, produced lower AI-extinction estimates than many AI-safety discussions. In reporting on that work, the Forecasting Research Institute and later summaries described a large gap between domain experts and superforecasters: AI domain experts put AI-caused human extinction by 2100 at around 3% on average in one summary, while superforecasters put it around 0.38%; both groups nevertheless saw powerful AI by 2100 as highly likely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://80000hours.org/2024/09/why-experts-and-forecasters-disagree-about-ai-risk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 80000hours.org">[80,000 Hours]</a><span class="citation-popover" role="note"><span class="citation-popover-source">80000hours.org</span><span class="citation-popover-title">80,000 Hours Why experts and forecasters disagree about AI risk</span><span class="citation-popover-snippet">80,000 Hours Why experts and forecasters disagree about AI risk</span></span></span>
 
 Those numbers are not directly interchangeable with AI Impacts results, because the populations, definitions and timeframes differ. But that is the point: p(doom) changes when the question changes. “Extinction by 2100 caused by AI” is not the same as “extinction or permanent severe disempowerment from advanced AI over a broader horizon”. A careful reader should compare the wording before comparing the percentages.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qn1T4YwJW9o" title="Doomsday Clock Physicist Warns AI Is Major THREAT to Humanity! — Prof. Daniel Holz, Univ. of Chicago" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qn1T4YwJW9o" target="_blank" rel="noopener noreferrer">Doomsday Clock Physicist Warns AI Is Major THREAT to Humanity! — Prof. Daniel Holz, Univ. of Chicago</a></p><p class="youtube-embed-meta">Channel: Doom Debates &middot; Views: 5.5K &middot; Uploaded: February 2026 &middot; Length: 1 hour 36 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qn1T4YwJW9o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qn1T4YwJW9o">Open on YouTube</a></p></div></div></div>
 
@@ -381,7 +378,6 @@ There are several recurring fault lines:
 
 **Reference class.** Some forecasters compare AI doom to past technological scares that did not end the world, which pushes estimates down. Others compare it to novel global catastrophic risks where past non-occurrence gives little comfort, because humanity has never previously created a rival general intelligence or delegated major strategic action to machines.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2-Illustration-2-dark.svg" | relative_url }}" alt="P Doom illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why public p(doom) numbers can mislead
 
@@ -398,7 +394,6 @@ Second, medians can hide tails. A median of 5% may sound modest, but it means ha
 Third, the word “doom” can blur severity. A 10% chance of severe economic disruption is not the same as a 10% chance of extinction. Some public discussion uses p(doom) loosely for “things go really badly”, while surveys may ask about specific outcomes such as extinction or permanent disempowerment. Readers should check the endpoint before reacting to the percentage.
 
 Fourth, probabilities can become identity badges. In online AI culture, saying “my p(doom) is 50%” or “my p(doom) is zero” can signal group membership as much as analysis. Field’s expert survey explicitly notes that online debate has become tribal, with labels such as “doomer” and “accelerationist” often replacing careful discussion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2401.02843" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Thousands of AI Authors on the Future of AIJanuary 5, 2024...</span><span class="citation-popover-meta">Published: January 5, 2024</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_M0bg-DIdmQ" title="Existential Risk Prediction by Super-Forecasters &amp; Domain Experts on AI, Nuclear, Pandemics, Climate" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_M0bg-DIdmQ" target="_blank" rel="noopener noreferrer">Existential Risk Prediction by Super-Forecasters &amp; Domain Experts on AI, Nuclear, Pandemics, Climate</a></p><p class="youtube-embed-meta">Channel: Paul Beckwith &middot; Views: 8.6K &middot; Uploaded: October 2023 &middot; Length: 52 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_M0bg-DIdmQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_M0bg-DIdmQ">Open on YouTube</a></p></div></div></div>
 
@@ -428,7 +423,6 @@ That cuts both ways. It weakens overconfident dismissal, because some sceptical 
 
 Yann LeCun is a prominent example of a leading AI researcher who has dismissed near-term existential-risk claims as premature, arguing that present AI is still far from human or animal-level understanding and that fears of uncontrollable systems overstate what today’s approaches can do. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ft.com/content/30fa44a1-7623-499f-93b0-81e26e22f2a6?syn-25a6b1a6=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ft.com">[Financial Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ft.com</span><span class="citation-popover-title">Financial Times AI will never threaten humans, says top Meta scientist</span><span class="citation-popover-snippet">Financial Times AI will never threaten humans, says top Meta scientist</span></span></span> The persuasive part of this sceptical view is not the rhetoric; it is the demand that doom arguments specify mechanisms, capabilities and failure points rather than relying on a general sense that “smarter than human” automatically means “unstoppable”.
 
-
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2-Illustration-3-dark.svg" | relative_url }}" alt="P Doom illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to read p(doom) honestly
 
@@ -445,7 +439,6 @@ A serious estimate should answer four questions.
 **What would change the estimate?** A healthy p(doom) should be updateable. It should move down if interpretability, control, evaluations and governance demonstrate robust success on systems close to the dangerous frontier. It should move up if systems show persistent deception, autonomous replication, hidden goal pursuit, dangerous cyber capability, successful evasion of oversight, or strong evidence that labs or states are racing past safety thresholds.
 
 This is where expert disagreement can become productive. Instead of asking only “what is your p(doom)?”, the better question is: “which assumption drives your estimate most?” For one person it may be short timelines. For another it may be alignment difficulty. For another it may be geopolitical competition. For a sceptic it may be the absence of evidence for autonomous power-seeking. Once those assumptions are visible, the argument can focus on evidence rather than labels.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AwmJ-OnK2I4" title="Top Economist Says P(Doom) Is 0.1% — Noah Smith vs. Liron Shapira Debate" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AwmJ-OnK2I4" target="_blank" rel="noopener noreferrer">Top Economist Says P(Doom) Is 0.1% — Noah Smith vs. Liron Shapira Debate</a></p><p class="youtube-embed-meta">Channel: Doom Debates &middot; Views: 7.3K &middot; Uploaded: January 2026 &middot; Length: 1 hour 55 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AwmJ-OnK2I4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AwmJ-OnK2I4">Open on YouTube</a></p></div></div></div>
 
@@ -1046,4 +1039,4 @@ The practical lesson is that p(doom) should not be treated as a vote on whether 
 
 40. <a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/yann.lecun/posts/a-sensible-piece-by-nello-cristianini-about-ai-existential-riskor-lack-thereofif/10158942941237143/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/yann.lecun/posts/a-sensible-piece-by-nello-cristianini-about-ai-existential-riskor-lack-thereofif/10158942941237143/</a>  
+   Link: <a href="https://www.facebook.com/yann.lecun/posts/a-sensible-piece-by-nello-cristianini-about-ai-existential-riskor-lack-thereofif/10158942941237143/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/yann.lecun/posts/a-sensible-piece-by-nello-cristianini-about-ai-existential-riskor-lack-thereofif/10158942941237143/</a>

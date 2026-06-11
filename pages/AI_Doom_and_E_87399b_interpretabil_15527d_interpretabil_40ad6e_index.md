@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-interpretabil/
 description: Focused pages that expand on Scaling Limits.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e
-parent_title: Scaling Limits | Control Tools
+parent_title: Scaling Limits
 parent_nav_short_title: Scaling Limits
 parent_permalink: /scaling-limits/
 ---

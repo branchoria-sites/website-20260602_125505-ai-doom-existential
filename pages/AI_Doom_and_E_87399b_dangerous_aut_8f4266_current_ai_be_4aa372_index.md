@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-dangerous-aut/
 description: Focused pages that expand on Current Benchmarks.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372
-parent_title: Current Benchmarks | Autonomy
+parent_title: Current Benchmarks
 parent_nav_short_title: Current Benchmarks
 parent_permalink: /current-benchmarks/
 ---
