@@ -269,23 +269,23 @@ image: /assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_severe_risk_t_86
 
 ## Introduction
 
-Capability thresholds are one of the main ways frontier AI developers try to identify when a model's abilities have become dangerous enough to warrant special scrutiny before release. In the context of AI doom and existential risk debates, the basic idea is simple: some capabilities may create plausible pathways to [catastrophic]({{ 'misuse/' | relative_url }}) misuse, [loss of control]({{ 'loss-of-control/' | relative_url }}), or other severe outcomes, even if those outcomes have not yet occurred. A capability threshold is a predefined point at which a model's demonstrated abilities become a warning sign that stronger safeguards, restricted deployment, or additional evaluation may be needed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/issue-briefs/frontier-ai-biosafety-thresholds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">frontier ai biosafety thresholds</span><span class="citation-popover-snippet">Frontier Model ForumFrontier AI Biosafety Thresholds12 May 2025 — Frontier AI thresholds describe predefined notions of risk that indicat...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://frontierglobaluw.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontierglobaluw.com">[Frontier]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontierglobaluw.com</span><span class="citation-popover-snippet">FRONTIER309 Kent Street Sydney 2000 (0)20 3968 8235 enquiries@frontierglobaluw.com © Copyright 2020-2025. Frontier is a private limited c...</span></span></span>
+Capability thresholds are one of the main ways frontier AI developers try to identify when a model's abilities have become dangerous enough to warrant special scrutiny before release. In the context of AI doom and existential risk debates, the basic idea is simple: some capabilities may create plausible pathways to [catastrophic]({{ 'misuse/' | relative_url }}) misuse, [loss of control]({{ 'loss-of-control/' | relative_url }}), or other severe outcomes, even if those outcomes have not yet occurred. A capability threshold is a predefined point at which a model's demonstrated abilities become a warning sign that stronger safeguards, restricted deployment, or additional evaluation may be needed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/issue-briefs/frontier-ai-biosafety-thresholds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">frontier ai biosafety thresholds</span><span class="citation-popover-snippet">Frontier Model ForumFrontier AI Biosafety Thresholds12 May 2025 — Frontier AI thresholds describe predefined notions of risk that indicat...</span><span class="citation-popover-meta">Published: May 2025</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://frontierglobaluw.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontierglobaluw.com">[Frontier]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontierglobaluw.com</span><span class="citation-popover-snippet">FRONTIER309 Kent Street Sydney 2000 (0)20 3968 8235 enquiries@frontierglobaluw.com © Copyright 2020-2025. Frontier is a private limited c...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_severe_risk_t_86df83_capability_th_d9904d-Illustration-1-dark.svg" | relative_url }}" alt="Capability Thresholds illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_severe_risk_t_86df83_capability_th_d9904d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_severe_risk_t_86df83_capability_th_d9904d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The importance of these thresholds comes from a practical problem. It is often easier to measure what a model can do than to estimate the precise probability of future catastrophes. As a result, many frontier AI safety frameworks use capability tests as early indicators that risks may be increasing, particularly in areas such as biosecurity, cyber operations, and dangerous [autonomy]({{ 'autonomy/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2406.14713" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Risk thresholds for frontier AIJune 20, 2024...</span><span class="citation-popover-meta">Published: June 20, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://metr.org/common-elements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[2metr.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-title">common elements</span><span class="citation-popover-snippet">of Frontier AI Safety Policies16 Dec 2025 — The policies also outline commitments to conduct model evaluations assessing whether models a...</span></span></span>
+The importance of these thresholds comes from a practical problem. It is often easier to measure what a model can do than to estimate the precise probability of future catastrophes. As a result, many frontier AI safety frameworks use capability tests as early indicators that risks may be increasing, particularly in areas such as biosecurity, cyber operations, and dangerous [autonomy]({{ 'autonomy/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2406.14713" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Risk thresholds for frontier AIJune 20, 2024...</span><span class="citation-popover-meta">Published: June 20, 2024</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://metr.org/common-elements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[2metr.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-title">common elements</span><span class="citation-popover-snippet">of Frontier AI Safety Policies16 Dec 2025 — The policies also outline commitments to conduct model evaluations assessing whether models a...</span></span></span>
 
 ## What capability thresholds try to catch
 
-Capability thresholds are designed to detect abilities that could unlock serious threat scenarios. They are not intended to measure ordinary mistakes, misinformation, or routine product harms. Instead, they focus on abilities that might substantially increase the likelihood of extreme outcomes if combined with malicious intent, poor oversight, or future advances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/issue-briefs/frontier-ai-biosafety-thresholds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">frontier ai biosafety thresholds</span><span class="citation-popover-snippet">Frontier Model ForumFrontier AI Biosafety Thresholds12 May 2025 — Frontier AI thresholds describe predefined notions of risk that indicat...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://frontierglobaluw.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontierglobaluw.com">[Frontier]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontierglobaluw.com</span><span class="citation-popover-snippet">FRONTIER309 Kent Street Sydney 2000 (0)20 3968 8235 enquiries@frontierglobaluw.com © Copyright 2020-2025. Frontier is a private limited c...</span></span></span>
+Capability thresholds are designed to detect abilities that could unlock serious threat scenarios. They are not intended to measure ordinary mistakes, misinformation, or routine product harms. Instead, they focus on abilities that might substantially increase the likelihood of extreme outcomes if combined with malicious intent, poor oversight, or future advances.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/issue-briefs/frontier-ai-biosafety-thresholds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">frontier ai biosafety thresholds</span><span class="citation-popover-snippet">Frontier Model ForumFrontier AI Biosafety Thresholds12 May 2025 — Frontier AI thresholds describe predefined notions of risk that indicat...</span><span class="citation-popover-meta">Published: May 2025</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://frontierglobaluw.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontierglobaluw.com">[Frontier]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontierglobaluw.com</span><span class="citation-popover-snippet">FRONTIER309 Kent Street Sydney 2000 (0)20 3968 8235 enquiries@frontierglobaluw.com © Copyright 2020-2025. Frontier is a private limited c...</span></span></span>
 
 The mechanism works in stages:
 
 1. Researchers identify a threat scenario, such as assisting biological weapon development or conducting sophisticated cyber operations.
 2. They identify the capabilities that would make that scenario easier.
 3. They create [evaluations]({{ 'evaluations/' | relative_url }}) to test for those capabilities.
-4. Crossing a predefined threshold triggers additional [governance]({{ 'governance/' | relative_url }}) actions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/issue-briefs/frontier-ai-biosafety-thresholds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">frontier ai biosafety thresholds</span><span class="citation-popover-snippet">Frontier Model ForumFrontier AI Biosafety Thresholds12 May 2025 — Frontier AI thresholds describe predefined notions of risk that indicat...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> 2cdn.openai.com
+4. Crossing a predefined threshold triggers additional [governance]({{ 'governance/' | relative_url }}) actions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/issue-briefs/frontier-ai-biosafety-thresholds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">frontier ai biosafety thresholds</span><span class="citation-popover-snippet">Frontier Model ForumFrontier AI Biosafety Thresholds12 May 2025 — Frontier AI thresholds describe predefined notions of risk that indicat...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> 2cdn.openai.com
 
-From an AI doom perspective, capability thresholds matter because they aim to provide warning before a system becomes fully capable of causing severe harm. Rather than waiting for a disaster, developers look for abilities that might represent stepping stones towards more dangerous systems. This reflects a broader concern in AI safety that capability gains can sometimes appear faster than expected and that dangerous combinations of abilities may emerge before society has reliable control methods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2406.14713" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Risk thresholds for frontier AIJune 20, 2024...</span><span class="citation-popover-meta">Published: June 20, 2024</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">risks of frontier AI (Annex A)28 Apr 2025 — However, these systems can exhibit dangerous capabilities and pose a... training compared to...</span></span></span>
+From an AI doom perspective, capability thresholds matter because they aim to provide warning before a system becomes fully capable of causing severe harm. Rather than waiting for a disaster, developers look for abilities that might represent stepping stones towards more dangerous systems. This reflects a broader concern in AI safety that capability gains can sometimes appear faster than expected and that dangerous combinations of abilities may emerge before society has reliable control methods.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2406.14713" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Risk thresholds for frontier AIJune 20, 2024...</span><span class="citation-popover-meta">Published: June 20, 2024</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">risks of frontier AI (Annex A)28 Apr 2025 — However, these systems can exhibit dangerous capabilities and pose a... training compared to...</span></span></span>
 
 ## Examples from biosecurity and cyber autonomy
 
@@ -295,34 +295,34 @@ Biosecurity and cyber capabilities have become the most common examples because 
 
 ### Biosecurity capabilities
 
-Many frontier safety frameworks treat advanced biological knowledge and reasoning as a major area for evaluation. The concern is not that [current models]({{ 'current-models/' | relative_url }}) automatically enable catastrophic biological attacks. Rather, researchers worry about future systems that might substantially improve a user's ability to design pathogens, troubleshoot experiments, identify weaknesses in existing safeguards, or accelerate scientific work relevant to biological threats. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/issue-briefs/frontier-ai-biosafety-thresholds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">frontier ai biosafety thresholds</span><span class="citation-popover-snippet">Frontier Model ForumFrontier AI Biosafety Thresholds12 May 2025 — Frontier AI thresholds describe predefined notions of risk that indicat...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> 2cdn.openai.com
+Many frontier safety frameworks treat advanced biological knowledge and reasoning as a major area for evaluation. The concern is not that [current models]({{ 'current-models/' | relative_url }}) automatically enable catastrophic biological attacks. Rather, researchers worry about future systems that might substantially improve a user's ability to design pathogens, troubleshoot experiments, identify weaknesses in existing safeguards, or accelerate scientific work relevant to biological threats.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/issue-briefs/frontier-ai-biosafety-thresholds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">frontier ai biosafety thresholds</span><span class="citation-popover-snippet">Frontier Model ForumFrontier AI Biosafety Thresholds12 May 2025 — Frontier AI thresholds describe predefined notions of risk that indicat...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> 2cdn.openai.com
 
 Capability thresholds in this area therefore focus on questions such as:
 
 * Can the model outperform existing public resources when assisting with specialised biological tasks?
 * Can it help solve difficult technical problems that would otherwise require expert knowledge?
-* Can it provide unusually effective guidance across an entire biological workflow rather than isolated steps? Frontier Model Forum <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)Autonomy skills: We test the extent to which AI systems...</span></span></span>
+* Can it provide unusually effective guidance across an entire biological workflow rather than isolated steps? Frontier Model Forum<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)Autonomy skills: We test the extent to which AI systems...</span></span></span>
 
-For AI doom advocates, biosecurity thresholds are important because they represent one of the clearest pathways by which increasingly capable AI could contribute to globally catastrophic misuse. Critics generally agree that biological capabilities deserve [monitoring]({{ 'monitoring/' | relative_url }}), although they often disagree about how close current systems are to crossing truly alarming thresholds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.openai.com/openai-preparedness-framework-beta.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.openai.com">[cdn.openai.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.openai.com</span><span class="citation-popover-title">preparedness framework beta</span><span class="citation-popover-snippet">Preparedness Framework (Beta)18 Dec 2023 — By catastrophic risk, we mean any risk which could result in hundreds of billions of dollars i...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">frontier ai capabilities and risks discussion paper</span><span class="citation-popover-snippet">It describes the current state and key trends relating to frontier AI capabilities, and then explores how frontier AI capabilities...Rea...</span></span></span>
+For AI doom advocates, biosecurity thresholds are important because they represent one of the clearest pathways by which increasingly capable AI could contribute to globally catastrophic misuse. Critics generally agree that biological capabilities deserve [monitoring]({{ 'monitoring/' | relative_url }}), although they often disagree about how close current systems are to crossing truly alarming thresholds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.openai.com/openai-preparedness-framework-beta.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.openai.com">[cdn.openai.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.openai.com</span><span class="citation-popover-title">preparedness framework beta</span><span class="citation-popover-snippet">Preparedness Framework (Beta)18 Dec 2023 — By catastrophic risk, we mean any risk which could result in hundreds of billions of dollars i...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">frontier ai capabilities and risks discussion paper</span><span class="citation-popover-snippet">It describes the current state and key trends relating to frontier AI capabilities, and then explores how frontier AI capabilities...Rea...</span></span></span>
 
 ### Cyber capabilities
 
-Cybersecurity evaluations examine whether models can identify vulnerabilities, write sophisticated exploits, coordinate complex intrusion campaigns, or autonomously perform multi-step offensive tasks. Frontier AI safety frameworks increasingly treat advanced cyber ability as a core category of dangerous capability. Frontier Model Forum <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)Autonomy skills: We test the extent to which AI systems...</span></span></span>
+Cybersecurity evaluations examine whether models can identify vulnerabilities, write sophisticated exploits, coordinate complex intrusion campaigns, or autonomously perform multi-step offensive tasks. Frontier AI safety frameworks increasingly treat advanced cyber ability as a core category of dangerous capability. Frontier Model Forum<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)Autonomy skills: We test the extent to which AI systems...</span></span></span>
 
-The concern is not merely that models can generate code. Many existing systems can already do that. The question is whether they can reliably perform sequences of actions that resemble the work of highly skilled human attackers. If a model could independently discover vulnerabilities, adapt to obstacles, and execute long chains of actions with limited human supervision, it might represent a qualitatively different level of risk. Frontier Model Forum <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)Autonomy skills: We test the extent to which AI systems...</span></span></span>
+The concern is not merely that models can generate code. Many existing systems can already do that. The question is whether they can reliably perform sequences of actions that resemble the work of highly skilled human attackers. If a model could independently discover vulnerabilities, adapt to obstacles, and execute long chains of actions with limited human supervision, it might represent a qualitatively different level of risk. Frontier Model Forum<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)Autonomy skills: We test the extent to which AI systems...</span></span></span>
 
-This links directly to wider AI doom discussions about dangerous autonomy. A model that can repeatedly plan, adapt, and execute complex objectives in cyber environments may provide evidence that broader autonomous capabilities are emerging. Whether that eventually leads to genuine loss-of-control scenarios remains highly disputed, but cyber evaluations are often viewed as an observable testing ground for such concerns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2406.14713" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Risk thresholds for frontier AIJune 20, 2024...</span><span class="citation-popover-meta">Published: June 20, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)Autonomy skills: We test the extent to which AI systems...</span></span></span>
+This links directly to wider AI doom discussions about dangerous autonomy. A model that can repeatedly plan, adapt, and execute complex objectives in cyber environments may provide evidence that broader autonomous capabilities are emerging. Whether that eventually leads to genuine loss-of-control scenarios remains highly disputed, but cyber evaluations are often viewed as an observable testing ground for such concerns.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2406.14713" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Risk thresholds for frontier AIJune 20, 2024...</span><span class="citation-popover-meta">Published: June 20, 2024</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)Autonomy skills: We test the extent to which AI systems...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_severe_risk_t_86df83_capability_th_d9904d-Illustration-2-dark.svg" | relative_url }}" alt="Capability Thresholds illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_severe_risk_t_86df83_capability_th_d9904d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_severe_risk_t_86df83_capability_th_d9904d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Early autonomy warning signs
 
-Several evaluation programmes also test abilities related to self-improvement, autonomous research, self-proliferation, deception, or long-horizon planning. Researchers do not claim that current models exhibit full autonomous agency. Instead, they are looking for incremental warning signs that systems are becoming better at pursuing goals across extended sequences of actions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2406.14713" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Risk thresholds for frontier AIJune 20, 2024...</span><span class="citation-popover-meta">Published: June 20, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)Autonomy skills: We test the extent to which AI systems...</span></span></span>
+Several evaluation programmes also test abilities related to self-improvement, autonomous research, self-proliferation, deception, or long-horizon planning. Researchers do not claim that current models exhibit full autonomous agency. Instead, they are looking for incremental warning signs that systems are becoming better at pursuing goals across extended sequences of actions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2406.14713" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Risk thresholds for frontier AIJune 20, 2024...</span><span class="citation-popover-meta">Published: June 20, 2024</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)Autonomy skills: We test the extent to which AI systems...</span></span></span>
 
-For doom-focused researchers, these evaluations are particularly significant because many takeover and loss-of-control scenarios rely on advanced autonomy. The presence of such capabilities would not prove that a takeover is imminent, but it could indicate movement towards abilities that feature prominently in long-term existential risk arguments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2406.14713" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Risk thresholds for frontier AIJune 20, 2024...</span><span class="citation-popover-meta">Published: June 20, 2024</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">emerging processes for frontier ai safety</span><span class="citation-popover-snippet">processes for frontier AI safety27 Oct 2023 — This document contains the world&#x27;s first overview of emerging safety processes focused on f...</span></span></span>
+For doom-focused researchers, these evaluations are particularly significant because many takeover and loss-of-control scenarios rely on advanced autonomy. The presence of such capabilities would not prove that a takeover is imminent, but it could indicate movement towards abilities that feature prominently in long-term existential risk arguments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2406.14713" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Risk thresholds for frontier AIJune 20, 2024...</span><span class="citation-popover-meta">Published: June 20, 2024</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">emerging processes for frontier ai safety</span><span class="citation-popover-snippet">processes for frontier AI safety27 Oct 2023 — This document contains the world&#x27;s first overview of emerging safety processes focused on f...</span></span></span>
 
 ## Why crossing a capability threshold does not always block release
 
-A common misunderstanding is that crossing a capability threshold automatically means a model cannot be deployed. Most current frameworks do not work that way. Instead, thresholds usually function as triggers for additional safeguards and review. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/issue-briefs/frontier-ai-biosafety-thresholds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">frontier ai biosafety thresholds</span><span class="citation-popover-snippet">Frontier Model ForumFrontier AI Biosafety Thresholds12 May 2025 — Frontier AI thresholds describe predefined notions of risk that indicat...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://frontierglobaluw.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontierglobaluw.com">[Frontier]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontierglobaluw.com</span><span class="citation-popover-snippet">FRONTIER309 Kent Street Sydney 2000 (0)20 3968 8235 enquiries@frontierglobaluw.com © Copyright 2020-2025. Frontier is a private limited c...</span></span></span>
+A common misunderstanding is that crossing a capability threshold automatically means a model cannot be deployed. Most current frameworks do not work that way. Instead, thresholds usually function as triggers for additional safeguards and review.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/issue-briefs/frontier-ai-biosafety-thresholds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">frontier ai biosafety thresholds</span><span class="citation-popover-snippet">Frontier Model ForumFrontier AI Biosafety Thresholds12 May 2025 — Frontier AI thresholds describe predefined notions of risk that indicat...</span><span class="citation-popover-meta">Published: May 2025</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://frontierglobaluw.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontierglobaluw.com">[Frontier]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontierglobaluw.com</span><span class="citation-popover-snippet">FRONTIER309 Kent Street Sydney 2000 (0)20 3968 8235 enquiries@frontierglobaluw.com © Copyright 2020-2025. Frontier is a private limited c...</span></span></span>
 
 Once a threshold is crossed, developers may respond by:
 
@@ -330,223 +330,223 @@ Once a threshold is crossed, developers may respond by:
 * Restricting access to trusted users.
 * Adding monitoring and abuse-detection systems.
 * Limiting deployment environments.
-* Conducting further evaluations before wider release. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/issue-briefs/frontier-ai-biosafety-thresholds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">frontier ai biosafety thresholds</span><span class="citation-popover-snippet">Frontier Model ForumFrontier AI Biosafety Thresholds12 May 2025 — Frontier AI thresholds describe predefined notions of risk that indicat...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> 2cdn.openai.com
+* Conducting further evaluations before wider release.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/issue-briefs/frontier-ai-biosafety-thresholds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">frontier ai biosafety thresholds</span><span class="citation-popover-snippet">Frontier Model ForumFrontier AI Biosafety Thresholds12 May 2025 — Frontier AI thresholds describe predefined notions of risk that indicat...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> 2cdn.openai.com
 
-This reflects an important distinction between capability and risk. A model may possess a dangerous capability while still being considered releasable if developers believe effective mitigations reduce the overall risk to an acceptable level. Conversely, a model might remain below a capability threshold but still raise concerns in a specific deployment context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2406.14713" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Risk thresholds for frontier AIJune 20, 2024...</span><span class="citation-popover-meta">Published: June 20, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://frontierglobaluw.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontierglobaluw.com">[Frontier]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontierglobaluw.com</span><span class="citation-popover-snippet">FRONTIER309 Kent Street Sydney 2000 (0)20 3968 8235 enquiries@frontierglobaluw.com © Copyright 2020-2025. Frontier is a private limited c...</span></span></span>
+This reflects an important distinction between capability and risk. A model may possess a dangerous capability while still being considered releasable if developers believe effective mitigations reduce the overall risk to an acceptable level. Conversely, a model might remain below a capability threshold but still raise concerns in a specific deployment context.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2406.14713" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Risk thresholds for frontier AIJune 20, 2024...</span><span class="citation-popover-meta">Published: June 20, 2024</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://frontierglobaluw.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontierglobaluw.com">[Frontier]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontierglobaluw.com</span><span class="citation-popover-snippet">FRONTIER309 Kent Street Sydney 2000 (0)20 3968 8235 enquiries@frontierglobaluw.com © Copyright 2020-2025. Frontier is a private limited c...</span></span></span>
 
-Supporters argue that this flexibility is necessary because capability tests are imperfect proxies for real-world harm. Critics respond that thresholds lose much of their value if companies retain broad discretion to release models after crossing them. The debate is therefore not just about where thresholds should be set, but also about how binding they should be. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2406.14713" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Risk thresholds for frontier AIJune 20, 2024...</span><span class="citation-popover-meta">Published: June 20, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://fas.org/publication/scaling-ai-safety/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[Federation of American Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">scaling ai safety</span><span class="citation-popover-snippet">Can Preparedness Frameworks Pull Their Weight?5 Mar 2024 — Preparedness frameworks should cover the breadth of potential catastrophic ris...</span></span></span>
+Supporters argue that this flexibility is necessary because capability tests are imperfect proxies for real-world harm. Critics respond that thresholds lose much of their value if companies retain broad discretion to release models after crossing them. The debate is therefore not just about where thresholds should be set, but also about how binding they should be.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2406.14713" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Risk thresholds for frontier AIJune 20, 2024...</span><span class="citation-popover-meta">Published: June 20, 2024</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://fas.org/publication/scaling-ai-safety/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[Federation of American Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">scaling ai safety</span><span class="citation-popover-snippet">Can Preparedness Frameworks Pull Their Weight?5 Mar 2024 — Preparedness frameworks should cover the breadth of potential catastrophic ris...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZTmRT2Hg1oM" title="DeepMind frontier safety | Mary Phuong | EAG London: 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZTmRT2Hg1oM" target="_blank" rel="noopener noreferrer">DeepMind frontier safety | Mary Phuong | EAG London: 2024</a></p><p class="youtube-embed-meta">Channel: Effective Altruism &middot; Views: 444 &middot; Uploaded: June 2024 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZTmRT2Hg1oM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZTmRT2Hg1oM">Open on YouTube</a></p></div></div></div>
 
 ## The main disagreement: warning system or false precision?
 
-Capability thresholds are attractive because they create concrete decision points. Instead of relying entirely on vague discussions about future risk, they connect measurable evaluations to governance actions. Many researchers see them as one of the most practical tools currently available for managing frontier AI [uncertainty]({{ 'uncertainty/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/issue-briefs/frontier-ai-biosafety-thresholds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">frontier ai biosafety thresholds</span><span class="citation-popover-snippet">Frontier Model ForumFrontier AI Biosafety Thresholds12 May 2025 — Frontier AI thresholds describe predefined notions of risk that indicat...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://frontierglobaluw.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontierglobaluw.com">[Frontier]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontierglobaluw.com</span><span class="citation-popover-snippet">FRONTIER309 Kent Street Sydney 2000 (0)20 3968 8235 enquiries@frontierglobaluw.com © Copyright 2020-2025. Frontier is a private limited c...</span></span></span>
+Capability thresholds are attractive because they create concrete decision points. Instead of relying entirely on vague discussions about future risk, they connect measurable evaluations to governance actions. Many researchers see them as one of the most practical tools currently available for managing frontier AI [uncertainty]({{ 'uncertainty/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/issue-briefs/frontier-ai-biosafety-thresholds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">frontier ai biosafety thresholds</span><span class="citation-popover-snippet">Frontier Model ForumFrontier AI Biosafety Thresholds12 May 2025 — Frontier AI thresholds describe predefined notions of risk that indicat...</span><span class="citation-popover-meta">Published: May 2025</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://frontierglobaluw.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontierglobaluw.com">[Frontier]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontierglobaluw.com</span><span class="citation-popover-snippet">FRONTIER309 Kent Street Sydney 2000 (0)20 3968 8235 enquiries@frontierglobaluw.com © Copyright 2020-2025. Frontier is a private limited c...</span></span></span>
 
 However, significant disagreements remain.
 
-One criticism is that capabilities are difficult to measure accurately. Models may perform poorly on a benchmark while still possessing relevant abilities in the real world. Alternatively, they may excel on a test without posing meaningful danger outside the evaluation environment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2406.14713" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Risk thresholds for frontier AIJune 20, 2024...</span><span class="citation-popover-meta">Published: June 20, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.publishing.service.gov.uk/media/65395abae6c968000daa9b25/frontier-ai-capabilities-risks-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Capabilities and risks from frontier AI○ Evaluations: systematic assessments of an AI system&#x27;s performance, capabilities, or safety...</span></span></span>
+One criticism is that capabilities are difficult to measure accurately. Models may perform poorly on a benchmark while still possessing relevant abilities in the real world. Alternatively, they may excel on a test without posing meaningful danger outside the evaluation environment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2406.14713" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Risk thresholds for frontier AIJune 20, 2024...</span><span class="citation-popover-meta">Published: June 20, 2024</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.publishing.service.gov.uk/media/65395abae6c968000daa9b25/frontier-ai-capabilities-risks-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Capabilities and risks from frontier AI○ Evaluations: systematic assessments of an AI system&#x27;s performance, capabilities, or safety...</span></span></span>
 
-Another criticism is that dangerous capabilities may emerge gradually rather than at a single clear threshold. A model that scores just below a cutoff may be almost as capable as one that scores just above it. This creates uncertainty around where lines should be drawn. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2406.14713" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Risk thresholds for frontier AIJune 20, 2024...</span><span class="citation-popover-meta">Published: June 20, 2024</span></span></span> Frontier AI doom advocates often accept these limitations but argue that imperfect warning systems are better than none. Their concern is that waiting <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">frontier ai capabilities and risks discussion paper</span><span class="citation-popover-snippet">It describes the current state and key trends relating to frontier AI capabilities, and then explores how frontier AI capabilities...Rea...</span></span></span> for direct evidence of catastrophic harm could mean reacting only after capabilities have advanced too far. Sceptics counter that capability thresholds can create an illusion of precision and may overstate confidence about speculative future risks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2406.14713" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Risk thresholds for frontier AIJune 20, 2024...</span><span class="citation-popover-meta">Published: June 20, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://fas.org/publication/scaling-ai-safety/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[Federation of American Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">scaling ai safety</span><span class="citation-popover-snippet">Can Preparedness Frameworks Pull Their Weight?5 Mar 2024 — Preparedness frameworks should cover the breadth of potential catastrophic ris...</span></span></span>
+Another criticism is that dangerous capabilities may emerge gradually rather than at a single clear threshold. A model that scores just below a cutoff may be almost as capable as one that scores just above it. This creates uncertainty around where lines should be drawn.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2406.14713" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Risk thresholds for frontier AIJune 20, 2024...</span><span class="citation-popover-meta">Published: June 20, 2024</span></span></span> Frontier AI doom advocates often accept these limitations but argue that imperfect warning systems are better than none. Their concern is that waiting<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">frontier ai capabilities and risks discussion paper</span><span class="citation-popover-snippet">It describes the current state and key trends relating to frontier AI capabilities, and then explores how frontier AI capabilities...Rea...</span></span></span> for direct evidence of catastrophic harm could mean reacting only after capabilities have advanced too far. Sceptics counter that capability thresholds can create an illusion of precision and may overstate confidence about speculative future risks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2406.14713" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Risk thresholds for frontier AIJune 20, 2024...</span><span class="citation-popover-meta">Published: June 20, 2024</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://fas.org/publication/scaling-ai-safety/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[Federation of American Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">scaling ai safety</span><span class="citation-popover-snippet">Can Preparedness Frameworks Pull Their Weight?5 Mar 2024 — Preparedness frameworks should cover the breadth of potential catastrophic ris...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/H-_4sz5_jXU" title="Deconstructing Claude Mythos &amp; Opus 4.7: Inside Anthropic&#x27;s Massive MoE Models. RL-AIF, SAEs, RL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=H-_4sz5_jXU" target="_blank" rel="noopener noreferrer">Deconstructing Claude Mythos &amp; Opus 4.7: Inside Anthropic&#x27;s Massive MoE Models. RL-AIF, SAEs, RL</a></p><p class="youtube-embed-meta">Channel: Byte Goose AI. &middot; Views: 228 &middot; Uploaded: May 2026 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=H-_4sz5_jXU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=H-_4sz5_jXU">Open on YouTube</a></p></div></div></div>
 
 ## What capability flags can and cannot tell us
 
-Capability thresholds are best understood as early-warning indicators rather than proof that an existential catastrophe is imminent. They attempt to identify abilities that could make catastrophic misuse, dangerous autonomy, or future loss-of-control scenarios more plausible if progress continues. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/issue-briefs/frontier-ai-biosafety-thresholds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">frontier ai biosafety thresholds</span><span class="citation-popover-snippet">Frontier Model ForumFrontier AI Biosafety Thresholds12 May 2025 — Frontier AI thresholds describe predefined notions of risk that indicat...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> 2arXiv
+Capability thresholds are best understood as early-warning indicators rather than proof that an existential catastrophe is imminent. They attempt to identify abilities that could make catastrophic misuse, dangerous autonomy, or future loss-of-control scenarios more plausible if progress continues.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/issue-briefs/frontier-ai-biosafety-thresholds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">frontier ai biosafety thresholds</span><span class="citation-popover-snippet">Frontier Model ForumFrontier AI Biosafety Thresholds12 May 2025 — Frontier AI thresholds describe predefined notions of risk that indicat...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> 2arXiv
 
-For readers interested in AI doom, their significance lies in the fact that they operationalise a difficult question: what observable evidence should make us more worried about advanced AI systems? Capability thresholds do not answer the larger debate over p(doom), nor do they settle arguments about whether AI takeover scenarios are realistic. What they provide is a mechanism for turning abstract concerns into concrete tests and release decisions. When a model begins demonstrating abilities associated with biosecurity risks, advanced cyber operations, or increasingly autonomous behaviour, those abilities become release warning signs that developers, regulators, and safety researchers can no longer easily ignore. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2406.14713" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Risk thresholds for frontier AIJune 20, 2024...</span><span class="citation-popover-meta">Published: June 20, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://frontierglobaluw.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontierglobaluw.com">[Frontier]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontierglobaluw.com</span><span class="citation-popover-snippet">FRONTIER309 Kent Street Sydney 2000 (0)20 3968 8235 enquiries@frontierglobaluw.com © Copyright 2020-2025. Frontier is a private limited c...</span></span></span>
+For readers interested in AI doom, their significance lies in the fact that they operationalise a difficult question: what observable evidence should make us more worried about advanced AI systems? Capability thresholds do not answer the larger debate over p(doom), nor do they settle arguments about whether AI takeover scenarios are realistic. What they provide is a mechanism for turning abstract concerns into concrete tests and release decisions. When a model begins demonstrating abilities associated with biosecurity risks, advanced cyber operations, or increasingly autonomous behaviour, those abilities become release warning signs that developers, regulators, and safety researchers can no longer easily ignore.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2406.14713" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Risk thresholds for frontier AIJune 20, 2024...</span><span class="citation-popover-meta">Published: June 20, 2024</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://frontierglobaluw.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontierglobaluw.com">[Frontier]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontierglobaluw.com</span><span class="citation-popover-snippet">FRONTIER309 Kent Street Sydney 2000 (0)20 3968 8235 enquiries@frontierglobaluw.com © Copyright 2020-2025. Frontier is a private limited c...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_severe_risk_t_86df83_capability_th_d9904d-Illustration-3-dark.svg" | relative_url }}" alt="Capability Thresholds illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_severe_risk_t_86df83_capability_th_d9904d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_severe_risk_t_86df83_capability_th_d9904d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When model abilities become release warning signs. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When model abilities become release warning signs. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8vm0DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Jonathan Russell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8vm0DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
+</h4>
+<p class="fr-book-author">By Stuart Jonathan Russell</p>
         
-        <p class="fr-book-desc">Directly addresses controlling increasingly capable AI systems and warning signs from advancing capabilities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses controlling increasingly capable AI systems and warning signs from advancing capabilities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superintelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7_H8AwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superintelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superintelligence">Superintelligence</a>
-        </h4>
-        <p class="fr-book-author">By Nick Bostrom</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superintelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7_H8AwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superintelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superintelligence">Superintelligence</a>
+</h4>
+<p class="fr-book-author">By Nick Bostrom</p>
         
-        <p class="fr-book-desc">Explores capability growth and thresholds where advanced systems become difficult to control.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores capability growth and thresholds where advanced systems become difficult to control.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
-        </h4>
-        <p class="fr-book-author">By Brian Christian</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
+</h4>
+<p class="fr-book-author">By Brian Christian</p>
         
-        <p class="fr-book-desc">Covers methods for identifying and managing risks from increasingly capable AI.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers methods for identifying and managing risks from increasingly capable AI.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Life 3.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3_otDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Life 3.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Life 3.0">Life 3.0</a>
-        </h4>
-        <p class="fr-book-author">By Max Tegmark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Life 3.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3_otDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Life 3.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Life 3.0">Life 3.0</a>
+</h4>
+<p class="fr-book-author">By Max Tegmark</p>
         
-        <p class="fr-book-desc">Discusses capability advances and governance responses to transformative AI.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses capability advances and governance responses to transformative AI.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superintelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superintelligence</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Superintelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superintelligence</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-model-abilities-become-release-warning-signs-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="when-model-abilities-become-release-warning-signs-robot-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3D Printed Robot Anatomy Head Bust 6.1in Sci-Fi Display Model Art Figure"><img src="https://i.ebayimg.com/images/g/GMYAAeSwy5Jph1UC/s-l225.jpg" alt="Listing image for 3D Printed Robot Anatomy Head Bust 6.1in Sci-Fi Display Model Art Figure" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-model-abilities-become-release-warning-signs-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="when-model-abilities-become-release-warning-signs-robot-display-model" target="_blank" rel="sponsored noopener noreferrer">3D Printed Robot Anatomy Head Bust 6.1in Sci-Fi Display Model Art Figure</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-model-abilities-become-release-warning-signs-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="when-model-abilities-become-release-warning-signs-robot-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-model-abilities-become-release-warning-signs-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="when-model-abilities-become-release-warning-signs-robot-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-model-abilities-become-release-warning-signs-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="when-model-abilities-become-release-warning-signs-robot-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3D Printed Robot Anatomy Head Bust 6.1in Sci-Fi Display Model Art Figure"><img src="https://i.ebayimg.com/images/g/GMYAAeSwy5Jph1UC/s-l225.jpg" alt="Listing image for 3D Printed Robot Anatomy Head Bust 6.1in Sci-Fi Display Model Art Figure" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-model-abilities-become-release-warning-signs-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="when-model-abilities-become-release-warning-signs-robot-display-model" target="_blank" rel="sponsored noopener noreferrer">3D Printed Robot Anatomy Head Bust 6.1in Sci-Fi Display Model Art Figure</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-model-abilities-become-release-warning-signs-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="when-model-abilities-become-release-warning-signs-robot-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: robot display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-model-abilities-become-release-warning-signs-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="when-model-abilities-become-release-warning-signs-robot-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-model-abilities-become-release-warning-signs-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="when-model-abilities-become-release-warning-signs-robot-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3D Printed Mannequin Dummy Tentacle Action Figures Multi-Jointed Robot Toy"><img src="https://i.ebayimg.com/images/g/teoAAOSw6Y1n7pPT/s-l225.jpg" alt="Listing image for 3D Printed Mannequin Dummy Tentacle Action Figures Multi-Jointed Robot Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-model-abilities-become-release-warning-signs-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="when-model-abilities-become-release-warning-signs-robot-display-model" target="_blank" rel="sponsored noopener noreferrer">3D Printed Mannequin Dummy Tentacle Action Figures Multi-Jointed Robot Toy</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-model-abilities-become-release-warning-signs-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="when-model-abilities-become-release-warning-signs-robot-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-model-abilities-become-release-warning-signs-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="when-model-abilities-become-release-warning-signs-robot-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-model-abilities-become-release-warning-signs-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="when-model-abilities-become-release-warning-signs-robot-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3D Printed Mannequin Dummy Tentacle Action Figures Multi-Jointed Robot Toy"><img src="https://i.ebayimg.com/images/g/teoAAOSw6Y1n7pPT/s-l225.jpg" alt="Listing image for 3D Printed Mannequin Dummy Tentacle Action Figures Multi-Jointed Robot Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-model-abilities-become-release-warning-signs-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="when-model-abilities-become-release-warning-signs-robot-display-model" target="_blank" rel="sponsored noopener noreferrer">3D Printed Mannequin Dummy Tentacle Action Figures Multi-Jointed Robot Toy</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-model-abilities-become-release-warning-signs-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="when-model-abilities-become-release-warning-signs-robot-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: robot display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-model-abilities-become-release-warning-signs-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="when-model-abilities-become-release-warning-signs-robot-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-model-abilities-become-release-warning-signs-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="when-model-abilities-become-release-warning-signs-robot-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for YuMi 6-Axis Industrial Robot 3D Model 1:4 Scale Display *vb"><img src="https://i.ebayimg.com/images/g/po8AAeSwRxtp3h42/s-l225.jpg" alt="Listing image for YuMi 6-Axis Industrial Robot 3D Model 1:4 Scale Display *vb" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-model-abilities-become-release-warning-signs-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="when-model-abilities-become-release-warning-signs-robot-display-model" target="_blank" rel="sponsored noopener noreferrer">YuMi 6-Axis Industrial Robot 3D Model 1:4 Scale Display *vb</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-model-abilities-become-release-warning-signs-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="when-model-abilities-become-release-warning-signs-robot-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-model-abilities-become-release-warning-signs-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="when-model-abilities-become-release-warning-signs-robot-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-model-abilities-become-release-warning-signs-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="when-model-abilities-become-release-warning-signs-robot-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for YuMi 6-Axis Industrial Robot 3D Model 1:4 Scale Display *vb"><img src="https://i.ebayimg.com/images/g/po8AAeSwRxtp3h42/s-l225.jpg" alt="Listing image for YuMi 6-Axis Industrial Robot 3D Model 1:4 Scale Display *vb" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-model-abilities-become-release-warning-signs-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="when-model-abilities-become-release-warning-signs-robot-display-model" target="_blank" rel="sponsored noopener noreferrer">YuMi 6-Axis Industrial Robot 3D Model 1:4 Scale Display *vb</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-model-abilities-become-release-warning-signs-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="when-model-abilities-become-release-warning-signs-robot-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: robot display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-model-abilities-become-release-warning-signs-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="when-model-abilities-become-release-warning-signs-robot-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-model-abilities-become-release-warning-signs-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="when-model-abilities-become-release-warning-signs-robot-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Modular Display Stand for Transforming Robot, Portable Model Base for Living"><img src="https://i.ebayimg.com/images/g/1R0AAeSwDN9oejrn/s-l225.jpg" alt="Listing image for Modular Display Stand for Transforming Robot, Portable Model Base for Living" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-model-abilities-become-release-warning-signs-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="when-model-abilities-become-release-warning-signs-robot-display-model" target="_blank" rel="sponsored noopener noreferrer">Modular Display Stand for Transforming Robot, Portable Model Base for Living</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-model-abilities-become-release-warning-signs-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="when-model-abilities-become-release-warning-signs-robot-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-model-abilities-become-release-warning-signs-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="when-model-abilities-become-release-warning-signs-robot-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-model-abilities-become-release-warning-signs-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="when-model-abilities-become-release-warning-signs-robot-display-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-model-abilities-become-release-warning-signs-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="when-model-abilities-become-release-warning-signs-robot-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Modular Display Stand for Transforming Robot, Portable Model Base for Living"><img src="https://i.ebayimg.com/images/g/1R0AAeSwDN9oejrn/s-l225.jpg" alt="Listing image for Modular Display Stand for Transforming Robot, Portable Model Base for Living" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-model-abilities-become-release-warning-signs-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="when-model-abilities-become-release-warning-signs-robot-display-model" target="_blank" rel="sponsored noopener noreferrer">Modular Display Stand for Transforming Robot, Portable Model Base for Living</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-model-abilities-become-release-warning-signs-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="when-model-abilities-become-release-warning-signs-robot-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: robot display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-model-abilities-become-release-warning-signs-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="when-model-abilities-become-release-warning-signs-robot-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-model-abilities-become-release-warning-signs-robot-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot display model" data-ebay-reference="when-model-abilities-become-release-warning-signs-robot-display-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -562,7 +562,7 @@ For readers interested in AI doom, their significance lies in the fact that they
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -582,7 +582,7 @@ For readers interested in AI doom, their significance lies in the fact that they
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -614,7 +614,7 @@ For readers interested in AI doom, their significance lies in the fact that they
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -666,7 +666,7 @@ For readers interested in AI doom, their significance lies in the fact that they
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -711,7 +711,7 @@ For readers interested in AI doom, their significance lies in the fact that they
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -752,244 +752,244 @@ For readers interested in AI doom, their significance lies in the fact that they
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2406.14713" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2406.14713</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Risk thresholds for frontier AIJune 20, 2024...</p></details>
+   Link:<a href="https://arxiv.org/abs/2406.14713" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2406.14713</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Risk thresholds for frontier AIJune 20, 2024...</p></details>
    Published: June 20, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: metr.org  
    Title: common elements  
-   Link: <a href="https://metr.org/common-elements" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/common-elements</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of Frontier AI Safety Policies16 Dec 2025 — The policies also outline commitments to conduct model evaluations assessing whether models a...</p></details>
+   Link:<a href="https://metr.org/common-elements" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/common-elements</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Frontier AI Safety Policies16 Dec 2025 — The policies also outline commitments to conduct model evaluations assessing whether models a...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cdn.openai.com  
    Title: preparedness framework beta  
-   Link: <a href="https://cdn.openai.com/openai-preparedness-framework-beta.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.openai.com/openai-preparedness-framework-beta.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Preparedness Framework (Beta)18 Dec 2023 — By catastrophic risk, we mean any risk which could result in hundreds of billions of dollars i...</p></details>
+   Link:<a href="https://cdn.openai.com/openai-preparedness-framework-beta.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.openai.com/openai-preparedness-framework-beta.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Preparedness Framework (Beta)18 Dec 2023 — By catastrophic risk, we mean any risk which could result in hundreds of billions of dollars i...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Evaluating Frontier Models for Dangerous Capabilities  
-   Link: <a href="https://arxiv.org/abs/2403.13793" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.13793</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating Frontier Models for Dangerous CapabilitiesMarch 20, 2024...</p></details>
+   Link:<a href="https://arxiv.org/abs/2403.13793" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.13793</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating Frontier Models for Dangerous CapabilitiesMarch 20, 2024...</p></details>
    Published: March 20, 2024  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>risks of frontier AI (Annex A)28 Apr 2025 — However, these systems can exhibit dangerous capabilities and pose a... training compared to...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>risks of frontier AI (Annex A)28 Apr 2025 — However, these systems can exhibit dangerous capabilities and pose a... training compared to...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: GOV.UK  
    Title: frontier ai capabilities and risks discussion paper  
-   Link: <a href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It describes the current state and key trends relating to frontier AI capabilities, and then explores how frontier AI capabilities...Rea...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It describes the current state and key trends relating to frontier AI capabilities, and then explores how frontier AI capabilities...Rea...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aisi.gov.uk  
-   Link: <a href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/frontier-ai-trends-report</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)Autonomy skills: We test the extent to which AI systems...</p></details>
+   Link:<a href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/frontier-ai-trends-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)Autonomy skills: We test the extent to which AI systems...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cdn.openai.com  
    Title: preparedness framework v2  
-   Link: <a href="https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Preparedness Framework15 Apr 2025 — In our updated framework, we make clear that we use a holistic process to decide which areas of front...</p></details>
+   Link:<a href="https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Preparedness Framework15 Apr 2025 — In our updated framework, we make clear that we use a holistic process to decide which areas of front...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: GOV.UK  
    Title: emerging processes for frontier ai safety  
-   Link: <a href="https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>processes for frontier AI safety27 Oct 2023 — This document contains the world&#x27;s first overview of emerging safety processes focused on f...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>processes for frontier AI safety27 Oct 2023 — This document contains the world&#x27;s first overview of emerging safety processes focused on f...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/65395abae6c968000daa9b25/frontier-ai-capabilities-risks-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/65395abae6c968000daa9b25/frontier-ai-capabilities-risks-report.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Capabilities and risks from frontier AI○ Evaluations: systematic assessments of an AI system&#x27;s performance, capabilities, or safety...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/65395abae6c968000daa9b25/frontier-ai-capabilities-risks-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/65395abae6c968000daa9b25/frontier-ai-capabilities-risks-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Capabilities and risks from frontier AI○ Evaluations: systematic assessments of an AI system&#x27;s performance, capabilities, or safety...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: OpenAI  
    Title: updating our preparedness framework  
-   Link: <a href="https://openai.com/index/updating-our-preparedness-framework/" target="_blank" rel="noopener noreferrer nofollow">https://openai.com/index/updating-our-preparedness-framework/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>comOur updated Preparedness Framework15 Apr 2025 — Sharing our updated framework for measuring and protecting against severe harm from fr...</p></details>
+   Link:<a href="https://openai.com/index/updating-our-preparedness-framework/" target="_blank" rel="noopener noreferrer nofollow">https://openai.com/index/updating-our-preparedness-framework/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>comOur updated Preparedness Framework15 Apr 2025 — Sharing our updated framework for measuring and protecting against severe harm from fr...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: OpenAI  
    Title: our approach to frontier risk  
-   Link: <a href="https://openai.com/global-affairs/our-approach-to-frontier-risk/" target="_blank" rel="noopener noreferrer nofollow">https://openai.com/global-affairs/our-approach-to-frontier-risk/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>comOpenAI&#x27;s Approach to Frontier RiskOct 26, 2023 — The Preparedness Framework will detail our approach to developing rigorous frontier m...</p></details>
+   Link:<a href="https://openai.com/global-affairs/our-approach-to-frontier-risk/" target="_blank" rel="noopener noreferrer nofollow">https://openai.com/global-affairs/our-approach-to-frontier-risk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>comOpenAI&#x27;s Approach to Frontier RiskOct 26, 2023 — The Preparedness Framework will detail our approach to developing rigorous frontier m...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2507.16534v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2507.16534v2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier AI Risk Management Framework in PracticeTo understand and identify the unprecedented risks posed by rapidly advancing artificial...</p></details>
+   Link:<a href="https://arxiv.org/html/2507.16534v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2507.16534v2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier AI Risk Management Framework in PracticeTo understand and identify the unprecedented risks posed by rapidly advancing artificial...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2507.16534v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2507.16534v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier AI Risk Management Framework in Practice22 Jul 2025 — This technical report conducts a comprehensive assessment of AI&#x27;s frontier...</p></details>
+   Link:<a href="https://arxiv.org/html/2507.16534v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2507.16534v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier AI Risk Management Framework in Practice22 Jul 2025 — This technical report conducts a comprehensive assessment of AI&#x27;s frontier...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2511.05526v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2511.05526v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Emergency Response Measures for Catastrophic AI Risk28 Oct 2025 — These thresholds directly parallel the catastrophic risks identified in...</p></details>
+   Link:<a href="https://arxiv.org/html/2511.05526v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2511.05526v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Emergency Response Measures for Catastrophic AI Risk28 Oct 2025 — These thresholds directly parallel the catastrophic risks identified in...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2509.24394" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2509.24394</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OpenAI Preparedness Framework affordances_v6by S Coggins · 2025 · Cited by 2 — The 2025 OpenAI Preparedness Framework does not guarantee...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2509.24394" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2509.24394</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OpenAI Preparedness Framework affordances_v6by S Coggins · 2025 · Cited by 2 — The 2025 OpenAI Preparedness Framework does not guarantee...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: aisi.gov.uk  
    Title: early lessons from evaluating frontier ai systems  
-   Link: <a href="https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AISI Work24 Oct 2024 — We look into the evolving role of third-party evaluators in assessing AI safety, and explore how to design robust...</p></details>
+   Link:<a href="https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AISI Work24 Oct 2024 — We look into the evolving role of third-party evaluators in assessing AI safety, and explore how to design robust...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: find-and-update.company-information.service.gov.uk  
    Title: company-information.service.gov.uk FRONTIE R LTD overview  
-   Link: <a href="https://find-and-update.company-information.service.gov.uk/company/05553837" target="_blank" rel="noopener noreferrer nofollow">https://find-and-update.company-information.service.gov.uk/company/05553837</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LTD overview - Companies House - GOV.UKFRONTIER LTD - Free company information from Companies House including registered office address...</p></details>
+   Link:<a href="https://find-and-update.company-information.service.gov.uk/company/05553837" target="_blank" rel="noopener noreferrer nofollow">https://find-and-update.company-information.service.gov.uk/company/05553837</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LTD overview - Companies House - GOV.UKFRONTIER LTD - Free company information from Companies House including registered office address...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: frontiermodelforum.org  
    Title: frontier ai biosafety thresholds  
-   Link: <a href="https://www.frontiermodelforum.org/issue-briefs/frontier-ai-biosafety-thresholds/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/issue-briefs/frontier-ai-biosafety-thresholds/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Model ForumFrontier AI Biosafety Thresholds12 May 2025 — Frontier AI thresholds describe predefined notions of risk that indicat...</p></details>
+   Link:<a href="https://www.frontiermodelforum.org/issue-briefs/frontier-ai-biosafety-thresholds/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/issue-briefs/frontier-ai-biosafety-thresholds/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Model ForumFrontier AI Biosafety Thresholds12 May 2025 — Frontier AI thresholds describe predefined notions of risk that indicat...</p></details>
    Published: May 2025  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: frontiermodelforum.org  
    Title: issue brief thresholds for frontier ai safety frameworks  
-   Link: <a href="https://www.frontiermodelforum.org/updates/issue-brief-thresholds-for-frontier-ai-safety-frameworks/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/updates/issue-brief-thresholds-for-frontier-ai-safety-frameworks/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Model ForumIssue Brief: Thresholds for Frontier AI Safety Frameworks7 Feb 2025 — This brief elaborates on the importance of thre...</p></details>
+   Link:<a href="https://www.frontiermodelforum.org/updates/issue-brief-thresholds-for-frontier-ai-safety-frameworks/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/updates/issue-brief-thresholds-for-frontier-ai-safety-frameworks/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Model ForumIssue Brief: Thresholds for Frontier AI Safety Frameworks7 Feb 2025 — This brief elaborates on the importance of thre...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: frontiermodelforum.org  
    Title: risk taxonomy and thresholds  
-   Link: <a href="https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>for Frontier AI Frameworks18 Jun 2025 — Thresholds can be used to signal when a frontier model requires additional scrutiny or safeguards...</p></details>
+   Link:<a href="https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>for Frontier AI Frameworks18 Jun 2025 — Thresholds can be used to signal when a frontier model requires additional scrutiny or safeguards...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: frontiermodelforum.org  
    Title: issue brief components of frontier ai safety frameworks  
-   Link: <a href="https://www.frontiermodelforum.org/updates/issue-brief-components-of-frontier-ai-safety-frameworks/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/updates/issue-brief-components-of-frontier-ai-safety-frameworks/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Model ForumIssue Brief: Components of Frontier AI Safety Frameworks8 Nov 2024 — These may include, for example, security or cont...</p></details>
+   Link:<a href="https://www.frontiermodelforum.org/updates/issue-brief-components-of-frontier-ai-safety-frameworks/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/updates/issue-brief-components-of-frontier-ai-safety-frameworks/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Model ForumIssue Brief: Components of Frontier AI Safety Frameworks8 Nov 2024 — These may include, for example, security or cont...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: frontiermodelforum.org  
    Title: managing advanced cyber risks in frontier ai frameworks  
-   Link: <a href="https://www.frontiermodelforum.org/technical-reports/managing-advanced-cyber-risks-in-frontier-ai-frameworks/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/technical-reports/managing-advanced-cyber-risks-in-frontier-ai-frameworks/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Model ForumManaging Advanced Cyber Risks in Frontier AI Frameworks13 Feb 2026 — Frontier AI frameworks address high-severity or...</p></details>
+   Link:<a href="https://www.frontiermodelforum.org/technical-reports/managing-advanced-cyber-risks-in-frontier-ai-frameworks/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/technical-reports/managing-advanced-cyber-risks-in-frontier-ai-frameworks/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Model ForumManaging Advanced Cyber Risks in Frontier AI Frameworks13 Feb 2026 — Frontier AI frameworks address high-severity or...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: frontiermodelforum.org  
    Title: third party assessments  
-   Link: <a href="https://www.frontiermodelforum.org/technical-reports/third-party-assessments/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/technical-reports/third-party-assessments/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Third-Party Assessments4 Aug 2025 — If a developer reports their model narrowly falls below a dangerous capability threshold for autonomo...</p></details>
+   Link:<a href="https://www.frontiermodelforum.org/technical-reports/third-party-assessments/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/technical-reports/third-party-assessments/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Third-Party Assessments4 Aug 2025 — If a developer reports their model narrowly falls below a dangerous capability threshold for autonomo...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: fas.org  
    Title: scaling ai safety  
-   Link: <a href="https://fas.org/publication/scaling-ai-safety/" target="_blank" rel="noopener noreferrer nofollow">https://fas.org/publication/scaling-ai-safety/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Can Preparedness Frameworks Pull Their Weight?5 Mar 2024 — Preparedness frameworks should cover the breadth of potential catastrophic ris...</p></details>
+   Link:<a href="https://fas.org/publication/scaling-ai-safety/" target="_blank" rel="noopener noreferrer nofollow">https://fas.org/publication/scaling-ai-safety/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can Preparedness Frameworks Pull Their Weight?5 Mar 2024 — Preparedness frameworks should cover the breadth of potential catastrophic ris...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: flyfrontier.com  
-   Link: <a href="https://www.flyfrontier.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.flyfrontier.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Airlines: Low Fares Done RightAs Home of Low Fares Done Right, find great deals and cheap flights to destinations all over North...</p></details>
+   Link:<a href="https://www.flyfrontier.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.flyfrontier.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Airlines: Low Fares Done RightAs Home of Low Fares Done Right, find great deals and cheap flights to destinations all over North...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: frontierag.co.uk  
-   Link: <a href="https://www.frontierag.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontierag.co.uk/</a>  
+   Link:<a href="https://www.frontierag.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontierag.co.uk/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/frontier" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/frontier</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FRONTIER Definition &amp; Meaning6 days ago — 1. a: a border between two countries; the frontier between Canada and the US b obsolete: a st...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/frontier" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/frontier</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FRONTIER Definition &amp; Meaning6 days ago — 1. a: a border between two countries; the frontier between Canada and the US b obsolete: a st...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: collinsdictionary.com  
-   Link: <a href="https://www.collinsdictionary.com/dictionary/english/frontier" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/frontier</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the part of a country that borders another country; boundary; border · 2. the land or territory that forms the furthest extent...Read more...</p></details>
+   Link:<a href="https://www.collinsdictionary.com/dictionary/english/frontier" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/frontier</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the part of a country that borders another country; boundary; border · 2. the land or territory that forms the furthest extent...Read more...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: x.com  
-   Link: <a href="https://x.com/fmf_org" target="_blank" rel="noopener noreferrer nofollow">https://x.com/fmf_org</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and deployment of frontier AI.Read more...</p></details>
+   Link:<a href="https://x.com/fmf_org" target="_blank" rel="noopener noreferrer nofollow">https://x.com/fmf_org</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and deployment of frontier AI.Read more...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: enkryptai.com  
    Title: frontier safety frameworks comprehensive overview  
-   Link: <a href="https://www.enkryptai.com/blog/frontier-safety-frameworks-comprehensive-overview" target="_blank" rel="noopener noreferrer nofollow">https://www.enkryptai.com/blog/frontier-safety-frameworks-comprehensive-overview</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Safety Frameworks — A Comprehensive Picture17 Jul 2025 — Google DeepMind&#x27;s Frontier Safety Framework introduces Critical Capabil...</p></details>
+   Link:<a href="https://www.enkryptai.com/blog/frontier-safety-frameworks-comprehensive-overview" target="_blank" rel="noopener noreferrer nofollow">https://www.enkryptai.com/blog/frontier-safety-frameworks-comprehensive-overview</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Safety Frameworks — A Comprehensive Picture17 Jul 2025 — Google DeepMind&#x27;s Frontier Safety Framework introduces Critical Capabil...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: frontierglobaluw.com  
-   Link: <a href="https://frontierglobaluw.com/" target="_blank" rel="noopener noreferrer nofollow">https://frontierglobaluw.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FRONTIER309 Kent Street Sydney 2000 (0)20 3968 8235 enquiries@frontierglobaluw.com © Copyright 2020-2025. Frontier is a private limited c...</p></details>
+   Link:<a href="https://frontierglobaluw.com/" target="_blank" rel="noopener noreferrer nofollow">https://frontierglobaluw.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FRONTIER309 Kent Street Sydney 2000 (0)20 3968 8235 enquiries@frontierglobaluw.com © Copyright 2020-2025. Frontier is a private limited c...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: Wikipedia  
    Title: Frontier Airlines  
-   Link: <a href="https://en.wikipedia.org/wiki/Frontier_Airlines" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Frontier_Airlines</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier AirlinesFrontier Airlines, Inc., is an American ultra-low-cost airline headquartered in Denver, Colorado. It operates flights...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Frontier_Airlines" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Frontier_Airlines</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier AirlinesFrontier Airlines, Inc., is an American ultra-low-cost airline headquartered in Denver, Colorado. It operates flights...</p></details>
 
 ### Additional References
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/openais-preparedness-framework-red-marble-ai-vfvtc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/openais-preparedness-framework-red-marble-ai-vfvtc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OpenAI&#x27;s preparedness frameworkProviding transparency on training data sources may not be necessary to detect and manage catastrophic ris...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/openais-preparedness-framework-red-marble-ai-vfvtc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/openais-preparedness-framework-red-marble-ai-vfvtc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OpenAI&#x27;s preparedness frameworkProviding transparency on training data sources may not be necessary to detect and manage catastrophic ris...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: aigi.ox.ac.uk  
-   Link: <a href="https://aigi.ox.ac.uk/wp-content/uploads/2025/10/Post-convening-memo_-Safety-Frameworks-and-Standards_-A-comparative-analysis-to-advance-risk-management-of-frontier-AI_09.10.2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aigi.ox.ac.uk/wp-content/uploads/2025/10/Post-convening-memo_-Safety-Frameworks-and-Standards_-A-comparative-analysis-to-advance-risk-management-of-frontier-AI_09.10.2025.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Frameworks and Standards: A comparative analysis to...by M Ziosi · 2025 · Cited by 2 — Frontier AI refers to highly capable AI that coul...</p></details>
+   Link:<a href="https://aigi.ox.ac.uk/wp-content/uploads/2025/10/Post-convening-memo_-Safety-Frameworks-and-Standards_-A-comparative-analysis-to-advance-risk-management-of-frontier-AI_09.10.2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aigi.ox.ac.uk/wp-content/uploads/2025/10/Post-convening-memo_-Safety-Frameworks-and-Standards_-A-comparative-analysis-to-advance-risk-management-of-frontier-AI_09.10.2025.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Frameworks and Standards: A comparative analysis to...by M Ziosi · 2025 · Cited by 2 — Frontier AI refers to highly capable AI that coul...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: ratings.safer-ai.org  
-   Link: <a href="https://ratings.safer-ai.org/company/openai/" target="_blank" rel="noopener noreferrer nofollow">https://ratings.safer-ai.org/company/openai/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Risk Management RatingsOpenAI – Risk Management RatingsTheir Beta framework had a strong emphasis on running a process for identifying un...</p></details>
+   Link:<a href="https://ratings.safer-ai.org/company/openai/" target="_blank" rel="noopener noreferrer nofollow">https://ratings.safer-ai.org/company/openai/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Risk Management RatingsOpenAI – Risk Management RatingsTheir Beta framework had a strong emphasis on running a process for identifying un...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=DUAbMXUl7U4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DUAbMXUl7U4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OpenAI Launches Catastrophic Risk Preparedness TeamOpenAI forms a team to focus on how to prepare for the biggest most catastrophic risks...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DUAbMXUl7U4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DUAbMXUl7U4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OpenAI Launches Catastrophic Risk Preparedness TeamOpenAI forms a team to focus on how to prepare for the biggest most catastrophic risks...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: the-decoder.com  
-   Link: <a href="https://the-decoder.com/how-openai-aims-to-prevent-catastrophic-ai-risks/" target="_blank" rel="noopener noreferrer nofollow">https://the-decoder.com/how-openai-aims-to-prevent-catastrophic-ai-risks/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How OpenAI aims to prevent catastrophic AI risks - The DecoderDec 19, 2023 — OpenAI seeks to monitor catastrophic risk through careful as...</p></details>
+   Link:<a href="https://the-decoder.com/how-openai-aims-to-prevent-catastrophic-ai-risks/" target="_blank" rel="noopener noreferrer nofollow">https://the-decoder.com/how-openai-aims-to-prevent-catastrophic-ai-risks/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How OpenAI aims to prevent catastrophic AI risks - The DecoderDec 19, 2023 — OpenAI seeks to monitor catastrophic risk through careful as...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: aicerts.ai  
    Title: openais preparedness hire signals ai risk management shift  
-   Link: <a href="https://www.aicerts.ai/news/openais-preparedness-hire-signals-ai-risk-management-shift/" target="_blank" rel="noopener noreferrer nofollow">https://www.aicerts.ai/news/openais-preparedness-hire-signals-ai-risk-management-shift/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OpenAI&#x27;s Preparedness Hire Signals AI Risk Management...OpenAI&#x27;s search for a Preparedness chief highlights AI Risk Management, safety c...</p></details>
+   Link:<a href="https://www.aicerts.ai/news/openais-preparedness-hire-signals-ai-risk-management-shift/" target="_blank" rel="noopener noreferrer nofollow">https://www.aicerts.ai/news/openais-preparedness-hire-signals-ai-risk-management-shift/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OpenAI&#x27;s Preparedness Hire Signals AI Risk Management...OpenAI&#x27;s search for a Preparedness chief highlights AI Risk Management, safety c...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: internationalaisafetyreport.org  
    Title: second key update technical safeguards and risk management  
-   Link: <a href="https://internationalaisafetyreport.org/publication/second-key-update-technical-safeguards-and-risk-management" target="_blank" rel="noopener noreferrer nofollow">https://internationalaisafetyreport.org/publication/second-key-update-technical-safeguards-and-risk-management</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Second Key Update: Technical Safeguards and Risk...Nov 25, 2025 — Frontier AI Safety Frameworks aim to function as risk management tools...</p></details>
+   Link:<a href="https://internationalaisafetyreport.org/publication/second-key-update-technical-safeguards-and-risk-management" target="_blank" rel="noopener noreferrer nofollow">https://internationalaisafetyreport.org/publication/second-key-update-technical-safeguards-and-risk-management</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Second Key Update: Technical Safeguards and Risk...Nov 25, 2025 — Frontier AI Safety Frameworks aim to function as risk management tools...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: forum.effectivealtruism.org  
    Title: the world s first frontier ai regulation is surprisingly  
-   Link: <a href="https://forum.effectivealtruism.org/posts/Z4DYcBDd36mwr5Xpq/the-world-s-first-frontier-ai-regulation-is-surprisingly" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/Z4DYcBDd36mwr5Xpq/the-world-s-first-frontier-ai-regulation-is-surprisingly</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>world&#x27;s first frontier AI regulation is surprisingly thoughtful22 Sept 2025 — As a rule, they all identify specific dangerous capabilitie...</p></details>
+   Link:<a href="https://forum.effectivealtruism.org/posts/Z4DYcBDd36mwr5Xpq/the-world-s-first-frontier-ai-regulation-is-surprisingly" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/Z4DYcBDd36mwr5Xpq/the-world-s-first-frontier-ai-regulation-is-surprisingly</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>world&#x27;s first frontier AI regulation is surprisingly thoughtful22 Sept 2025 — As a rule, they all identify specific dangerous capabilitie...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: libertify.com  
    Title: openai preparedness framework 2025 safety analysis  
-   Link: <a href="https://www.libertify.com/interactive-library/openai-preparedness-framework-2025-safety-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://www.libertify.com/interactive-library/openai-preparedness-framework-2025-safety-analysis/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OpenAI Preparedness Framework 2025: What It17 Mar 2026 — Only 3 of 24 risks evaluated: The framework requests systematic evaluation of ju...</p></details>
+   Link:<a href="https://www.libertify.com/interactive-library/openai-preparedness-framework-2025-safety-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://www.libertify.com/interactive-library/openai-preparedness-framework-2025-safety-analysis/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OpenAI Preparedness Framework 2025: What It17 Mar 2026 — Only 3 of 24 risks evaluated: The framework requests systematic evaluation of ju...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: forum.effectivealtruism.org  
-   Link: <a href="https://forum.effectivealtruism.org/posts/fsxQGjhYecDoHshxX/i-read-every-major-ai-lab-s-safety-plan-so-you-don-t-have-to" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/fsxQGjhYecDoHshxX/i-read-every-major-ai-lab-s-safety-plan-so-you-don-t-have-to</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>read every major AI lab&#x27;s safety plan so you don&#x27;t have to16 Dec 2024 — OpenAI&#x27;s Preparedness Framework contains a unique risk category...</p></details>
+   Link:<a href="https://forum.effectivealtruism.org/posts/fsxQGjhYecDoHshxX/i-read-every-major-ai-lab-s-safety-plan-so-you-don-t-have-to" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/fsxQGjhYecDoHshxX/i-read-every-major-ai-lab-s-safety-plan-so-you-don-t-have-to</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>read every major AI lab&#x27;s safety plan so you don&#x27;t have to16 Dec 2024 — OpenAI&#x27;s Preparedness Framework contains a unique risk category...</p></details>

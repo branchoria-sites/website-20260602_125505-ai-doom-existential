@@ -276,7 +276,7 @@ One of the simplest forms of automation in *“Could an AI really train its own 
 
 Training a modern large AI model requires immense amounts of data. Traditionally this has come from human‑created sources — books, websites, code repositories, scientific articles — but two pressures are pushing teams to use AI‑generated synthetic data more often: real data scarcity and the desire to cheaply augment specific training niches. Synthetic data is artificially created content designed to mimic real data distributions, and researchers are experimenting with it to fill gaps where real data is rare or sensitive (for example, medical text or synthetic images for rare events).[MDPI]
 
-In practice, synthetic data may be used in two broad ways: <span class="citation-chip-wrap"><a class="citation-chip" href="https://aiwiki.ai/wiki/synthetic_data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiwiki.ai">[aiwiki.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiwiki.ai</span><span class="citation-popover-title">MODEL COLLAPSE The most widely discussed risk is model collapse, the phenomeno</span><span class="citation-popover-snippet">Synthetic data &#124; AI WikiMay 1, 2026 — RISKS AND CHALLENGES Synthetic data carries significant risks that the research community has incre...</span><span class="citation-popover-meta">Published: May 1, 2026</span></span></span>
+In practice, synthetic data may be used in two broad ways:<span class="citation-chip-wrap"><a class="citation-chip" href="https://aiwiki.ai/wiki/synthetic_data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiwiki.ai">[aiwiki.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiwiki.ai</span><span class="citation-popover-title">MODEL COLLAPSE The most widely discussed risk is model collapse, the phenomeno</span><span class="citation-popover-snippet">Synthetic data &#124; AI WikiMay 1, 2026 — RISKS AND CHALLENGES Synthetic data carries significant risks that the research community has incre...</span><span class="citation-popover-meta">Published: May 1, 2026</span></span></span>
 
 * **Augmentation or oversampling:** Models generate examples to balance under‑represented categories in a dataset (for instance, rare classes in classification tasks), helping downstream models learn more robustly.[MDPI]
 * **Substituting or bootstrapping data:** Large language models (LLMs) or generative models are prompted to create large batches of pseudo‑data (text, image labels, code) intended to stand in for real data in regions where it is incomplete or unavailable. This can reduce the need for human‑curated corpora.
@@ -322,269 +322,269 @@ Rather than being a primitive cause of an intelligence explosion, **AI‑generat
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e_synthetic_dat_d1a2c9-Illustration-3-dark.svg" | relative_url }}" alt="Synthetic data illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e_synthetic_dat_d1a2c9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_ai_successor_71617e_synthetic_dat_d1a2c9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Is synthetic data already self improvement?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Is synthetic data already self improvement?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
-        </h4>
-        <p class="fr-book-author">By Brian Christian</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
+</h4>
+<p class="fr-book-author">By Brian Christian</p>
         
-        <p class="fr-book-desc">Discusses training data, model behaviour, and alignment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses training data, model behaviour, and alignment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Russell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
+</h4>
+<p class="fr-book-author">By Stuart Russell</p>
         
-        <p class="fr-book-desc">Relevant to how training processes shape AI systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to how training processes shape AI systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Artificial Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8jZBksh-bUMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Artificial Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Artificial Intelligence">Artificial Intelligence</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Jonathan Russell, Peter Norvig et al.</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 10 Google Books ratings</p>
-        <p class="fr-book-desc">Provides background on learning systems and training data.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Artificial Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8jZBksh-bUMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Artificial Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Artificial Intelligence">Artificial Intelligence</a>
+</h4>
+<p class="fr-book-author">By Stuart Jonathan Russell, Peter Norvig et al.</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 10 Google Books ratings</p>
+<p class="fr-book-desc">Provides background on learning systems and training data.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Learning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Np9SDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Learning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Learning">Deep Learning</a>
-        </h4>
-        <p class="fr-book-author">By Ian Goodfellow, Yoshua Bengio et al.</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 6 Google Books ratings</p>
-        <p class="fr-book-desc">Covers data generation and model training concepts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Learning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Np9SDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Learning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Learning">Deep Learning</a>
+</h4>
+<p class="fr-book-author">By Ian Goodfellow, Yoshua Bengio et al.</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 6 Google Books ratings</p>
+<p class="fr-book-desc">Covers data generation and model training concepts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Artificial+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Artificial Intelligence</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Artificial+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Artificial Intelligence</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. ARTIFICIAL INTELLIGENCE Original One Sheet Movie Poster - 2001 - SPIELBERG"><img src="{{ '/assets/images/marketplace-covers/196ffedb43a9555ec05d.jpg' | relative_url }}" alt="Listing image for A.I. ARTIFICIAL INTELLIGENCE Original One Sheet Movie Poster - 2001 - SPIELBERG" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A.I. ARTIFICIAL INTELLIGENCE Original One Sheet Movie Poster - 2001 - SPIELBERG</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.com</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. ARTIFICIAL INTELLIGENCE Original One Sheet Movie Poster - 2001 - SPIELBERG"><img src="{{ '/assets/images/marketplace-covers/196ffedb43a9555ec05d.jpg' | relative_url }}" alt="Listing image for A.I. ARTIFICIAL INTELLIGENCE Original One Sheet Movie Poster - 2001 - SPIELBERG" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A.I. ARTIFICIAL INTELLIGENCE Original One Sheet Movie Poster - 2001 - SPIELBERG</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.com</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI Artificial Intelligence Original 2001 Movie Poster 27x40 DS"><img src="{{ '/assets/images/marketplace-covers/ee2480d2e31d09060c16.jpg' | relative_url }}" alt="Listing image for AI Artificial Intelligence Original 2001 Movie Poster 27x40 DS" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">AI Artificial Intelligence Original 2001 Movie Poster 27x40 DS</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.com</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI Artificial Intelligence Original 2001 Movie Poster 27x40 DS"><img src="{{ '/assets/images/marketplace-covers/ee2480d2e31d09060c16.jpg' | relative_url }}" alt="Listing image for AI Artificial Intelligence Original 2001 Movie Poster 27x40 DS" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">AI Artificial Intelligence Original 2001 Movie Poster 27x40 DS</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.com</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Companion - Artificial Intelligence Dark Comedy Cinema Film - POSTER 20&quot;x30&quot;"><img src="{{ '/assets/images/marketplace-covers/23a7b1724046ba6c1026.jpg' | relative_url }}" alt="Listing image for Companion - Artificial Intelligence Dark Comedy Cinema Film - POSTER 20&quot;x30&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Companion - Artificial Intelligence Dark Comedy Cinema Film - POSTER 20&quot;x30&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.com</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Companion - Artificial Intelligence Dark Comedy Cinema Film - POSTER 20&quot;x30&quot;"><img src="{{ '/assets/images/marketplace-covers/23a7b1724046ba6c1026.jpg' | relative_url }}" alt="Listing image for Companion - Artificial Intelligence Dark Comedy Cinema Film - POSTER 20&quot;x30&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Companion - Artificial Intelligence Dark Comedy Cinema Film - POSTER 20&quot;x30&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.com</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HALEY JOEL OSMENT SIGNED ARTIFICIAL INTELLIGENCE AI 12X18 MOVIE POSTER PHOTO BAS"><img src="{{ '/assets/images/marketplace-covers/3d12bbcc085ead81e29b.jpg' | relative_url }}" alt="Listing image for HALEY JOEL OSMENT SIGNED ARTIFICIAL INTELLIGENCE AI 12X18 MOVIE POSTER PHOTO BAS" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">HALEY JOEL OSMENT SIGNED ARTIFICIAL INTELLIGENCE AI 12X18 MOVIE POSTER PHOTO BAS</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.com</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HALEY JOEL OSMENT SIGNED ARTIFICIAL INTELLIGENCE AI 12X18 MOVIE POSTER PHOTO BAS"><img src="{{ '/assets/images/marketplace-covers/3d12bbcc085ead81e29b.jpg' | relative_url }}" alt="Listing image for HALEY JOEL OSMENT SIGNED ARTIFICIAL INTELLIGENCE AI 12X18 MOVIE POSTER PHOTO BAS" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">HALEY JOEL OSMENT SIGNED ARTIFICIAL INTELLIGENCE AI 12X18 MOVIE POSTER PHOTO BAS</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.com</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ccd8b5ee633357b5409d.jpg' | relative_url }}" alt="Listing image for Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ccd8b5ee633357b5409d.jpg' | relative_url }}" alt="Listing image for Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. Artificial Intelligence Movie Film Poster Art Print"><img src="{{ '/assets/images/marketplace-covers/fb76514b204d73a37317.jpg' | relative_url }}" alt="Listing image for A.I. Artificial Intelligence Movie Film Poster Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A.I. Artificial Intelligence Movie Film Poster Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. Artificial Intelligence Movie Film Poster Art Print"><img src="{{ '/assets/images/marketplace-covers/fb76514b204d73a37317.jpg' | relative_url }}" alt="Listing image for A.I. Artificial Intelligence Movie Film Poster Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A.I. Artificial Intelligence Movie Film Poster Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray"><img src="{{ '/assets/images/marketplace-covers/3c3ecd285cbeae3cd708.jpg' | relative_url }}" alt="Listing image for AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray"><img src="{{ '/assets/images/marketplace-covers/3c3ecd285cbeae3cd708.jpg' | relative_url }}" alt="Listing image for AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster"><img src="{{ '/assets/images/marketplace-covers/000874dca6d2fcc04da4.jpg' | relative_url }}" alt="Listing image for A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster"><img src="{{ '/assets/images/marketplace-covers/000874dca6d2fcc04da4.jpg' | relative_url }}" alt="Listing image for A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-data-is-synthetic-data-already-self-improvement-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -600,7 +600,7 @@ Rather than being a primitive cause of an intelligence explosion, **AI‑generat
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -620,7 +620,7 @@ Rather than being a primitive cause of an intelligence explosion, **AI‑generat
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -652,7 +652,7 @@ Rather than being a primitive cause of an intelligence explosion, **AI‑generat
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -682,7 +682,7 @@ Rather than being a primitive cause of an intelligence explosion, **AI‑generat
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -740,139 +740,139 @@ Rather than being a primitive cause of an intelligence explosion, **AI‑generat
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2942226" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2942226</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Systematic Review of Synthetic Data Generation Techniques Using Generative AI | MDPISeptember 4, 2024...</p></details>
+   Link:<a href="https://www.mdpi.com/2942226" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2942226</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Systematic Review of Synthetic Data Generation Techniques Using Generative AI | MDPISeptember 4, 2024...</p></details>
    Published: September 4, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: techtarget.com  
    Title: Model collapse explained How synthetic training data breaks AI  
-   Link: <a href="https://www.techtarget.com/whatis/feature/Model-collapse-explained-How-synthetic-training-data-breaks-AI" target="_blank" rel="noopener noreferrer nofollow">https://www.techtarget.com/whatis/feature/Model-collapse-explained-How-synthetic-training-data-breaks-AI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Model collapse explained: How synthetic training data breaks AIJuly 7, 2023...</p></details>
+   Link:<a href="https://www.techtarget.com/whatis/feature/Model-collapse-explained-How-synthetic-training-data-breaks-AI" target="_blank" rel="noopener noreferrer nofollow">https://www.techtarget.com/whatis/feature/Model-collapse-explained-How-synthetic-training-data-breaks-AI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Model collapse explained: How synthetic training data breaks AIJuly 7, 2023...</p></details>
    Published: July 7, 2023  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: techtarget.com  
    Title: Tech Target AI cannibalism explained: A model failure  
-   Link: <a href="https://www.techtarget.com/whatis/feature/AI-cannibalism-explained" target="_blank" rel="noopener noreferrer nofollow">https://www.techtarget.com/whatis/feature/AI-cannibalism-explained</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI cannibalism explained: A model failureJuly 1, 2025 — AI CANNIBALISM EXPLAINED: A MODEL FAILURE AI CANNIBALISM – TRAINING ON AI-GENERAT...</p></details>
+   Link:<a href="https://www.techtarget.com/whatis/feature/AI-cannibalism-explained" target="_blank" rel="noopener noreferrer nofollow">https://www.techtarget.com/whatis/feature/AI-cannibalism-explained</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI cannibalism explained: A model failureJuly 1, 2025 — AI CANNIBALISM EXPLAINED: A MODEL FAILURE AI CANNIBALISM – TRAINING ON AI-GENERAT...</p></details>
    Published: July 1, 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nature.com  
    Title: AI models collapse when trained on recursively generated data | Nature  
-   Link: <a href="https://www.nature.com/articles/s41586-024-07566-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-024-07566-y</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI models collapse when trained on recursively generated data | NatureJuly 24, 2024...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41586-024-07566-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-024-07566-y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI models collapse when trained on recursively generated data | NatureJuly 24, 2024...</p></details>
    Published: July 24, 2024  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2404.05090" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2404.05090</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Bad is Training on Synthetic Data? A Statistical Analysis of Language Model CollapseApril 7, 2024...</p></details>
+   Link:<a href="https://arxiv.org/abs/2404.05090" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2404.05090</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Bad is Training on Synthetic Data? A Statistical Analysis of Language Model CollapseApril 7, 2024...</p></details>
    Published: April 7, 2024  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ibm.com  
    Title: What Is Model Collapse? | IBM  
-   Link: <a href="https://www.ibm.com/think/topics/model-collapse" target="_blank" rel="noopener noreferrer nofollow">https://www.ibm.com/think/topics/model-collapse</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is Model Collapse? | IBM...</p></details>
+   Link:<a href="https://www.ibm.com/think/topics/model-collapse" target="_blank" rel="noopener noreferrer nofollow">https://www.ibm.com/think/topics/model-collapse</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Is Model Collapse? | IBM...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: techtarget.com  
    Title: Gen A I and synthetic data: What can go wrong in business?  
-   Link: <a href="https://www.techtarget.com/searchenterpriseai/feature/GenAI-and-synthetic-data-What-can-go-wrong-in-business" target="_blank" rel="noopener noreferrer nofollow">https://www.techtarget.com/searchenterpriseai/feature/GenAI-and-synthetic-data-What-can-go-wrong-in-business</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TechTargetMay 7, 2026 — RISKS OF SYNTHETIC DATA [MISUSE](&amp;#123;&amp;#123; &#x27;misuse/&#x27; | relative_url &amp;#125;&amp;#125;) Synthetic data can be misused internally or externally and carry significant ris...</p></details>
+   Link:<a href="https://www.techtarget.com/searchenterpriseai/feature/GenAI-and-synthetic-data-What-can-go-wrong-in-business" target="_blank" rel="noopener noreferrer nofollow">https://www.techtarget.com/searchenterpriseai/feature/GenAI-and-synthetic-data-What-can-go-wrong-in-business</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TechTargetMay 7, 2026 — RISKS OF SYNTHETIC DATA [MISUSE](&amp;#123;&amp;#123; &#x27;misuse/&#x27; | relative_url &amp;#125;&amp;#125;) Synthetic data can be misused internally or externally and carry significant ris...</p></details>
    Published: May 7, 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: mdpi.com  
    Title: Mahmoud Department of Electrical, Computer and Software Engineering  
-   Link: <a href="https://www.mdpi.com/2079-9292/13/17/3509/html" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2079-9292/13/17/3509/html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Systematic Review of Synthetic Data Generation Techniques Using Generative AI | MDPISeptember 4, 2024 — 4 September 2024 A SYSTEMATIC R...</p></details>
+   Link:<a href="https://www.mdpi.com/2079-9292/13/17/3509/html" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2079-9292/13/17/3509/html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Systematic Review of Synthetic Data Generation Techniques Using Generative AI | MDPISeptember 4, 2024 — 4 September 2024 A SYSTEMATIC R...</p></details>
    Published: September 4, 2024  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2079-9292/13/17/3509" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2079-9292/13/17/3509</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Systematic Review of Synthetic Data Generation Techniques Using Generative AISeptember 4, 2024 — Background: Open Access Systematic Rev...</p></details>
+   Link:<a href="https://www.mdpi.com/2079-9292/13/17/3509" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2079-9292/13/17/3509</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Systematic Review of Synthetic Data Generation Techniques Using Generative AISeptember 4, 2024 — Background: Open Access Systematic Rev...</p></details>
    Published: September 4, 2024  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aiwiki.ai  
    Title: MODEL COLLAPSE The most widely discussed risk is model collapse, the phenomeno  
-   Link: <a href="https://aiwiki.ai/wiki/synthetic_data" target="_blank" rel="noopener noreferrer nofollow">https://aiwiki.ai/wiki/synthetic_data</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Synthetic data | AI WikiMay 1, 2026 — RISKS AND CHALLENGES Synthetic data carries significant risks that the research community has incre...</p></details>
+   Link:<a href="https://aiwiki.ai/wiki/synthetic_data" target="_blank" rel="noopener noreferrer nofollow">https://aiwiki.ai/wiki/synthetic_data</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Synthetic data | AI WikiMay 1, 2026 — RISKS AND CHALLENGES Synthetic data carries significant risks that the research community has incre...</p></details>
    Published: May 1, 2026  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aisecurityandsafety.org  
    Title: model collapse  
-   Link: <a href="https://aisecurityandsafety.org/en/guides/model-collapse/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/en/guides/model-collapse/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Happens When AI Trains on AI-Generated Data (2026) | AI Safety DirectoryApril 3, 2026 — MODEL COLLAPSE: WHAT HAPPENS WHEN AI TRAINS...</p></details>
+   Link:<a href="https://aisecurityandsafety.org/en/guides/model-collapse/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/en/guides/model-collapse/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Happens When AI Trains on AI-Generated Data (2026) | AI Safety DirectoryApril 3, 2026 — MODEL COLLAPSE: WHAT HAPPENS WHEN AI TRAINS...</p></details>
    Published: April 3, 2026  
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ijpds.org  
-   Link: <a href="https://ijpds.org/article/view/2158" target="_blank" rel="noopener noreferrer nofollow">https://ijpds.org/article/view/2158</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 31, 2023 — FEDERATED LEARNING FOR GENERATING SYNTHETIC DATA: A SCOPING REVIEW MAIN ARTICLE CONTENT Claire Little Cathie Marsh Ins...</p></details>
+   Link:<a href="https://ijpds.org/article/view/2158" target="_blank" rel="noopener noreferrer nofollow">https://ijpds.org/article/view/2158</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 31, 2023 — FEDERATED LEARNING FOR GENERATING SYNTHETIC DATA: A SCOPING REVIEW MAIN ARTICLE CONTENT Claire Little Cathie Marsh Ins...</p></details>
    Published: October 31, 2023  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: research.manchester.ac.uk  
-   Link: <a href="https://research.manchester.ac.uk/en/publications/federated-learning-for-generating-synthetic-data-a-scoping-review" target="_blank" rel="noopener noreferrer nofollow">https://research.manchester.ac.uk/en/publications/federated-learning-for-generating-synthetic-data-a-scoping-review</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>learning for generating synthetic data: a scoping review - Research Explorer The University of ManchesterOctober 31, 2023 — FEDERATED LEA...</p></details>
+   Link:<a href="https://research.manchester.ac.uk/en/publications/federated-learning-for-generating-synthetic-data-a-scoping-review" target="_blank" rel="noopener noreferrer nofollow">https://research.manchester.ac.uk/en/publications/federated-learning-for-generating-synthetic-data-a-scoping-review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>learning for generating synthetic data: a scoping review - Research Explorer The University of ManchesterOctober 31, 2023 — FEDERATED LEA...</p></details>
    Published: October 31, 2023  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: montrealethics.ai  
-   Link: <a href="https://montrealethics.ai/self-improving-diffusion-models-with-synthetic-data/" target="_blank" rel="noopener noreferrer nofollow">https://montrealethics.ai/self-improving-diffusion-models-with-synthetic-data/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 3, 2025 — SELF-IMPROVING DIFFUSION MODELS WITH SYNTHETIC DATA February 3, 2025 Image Image 🔬 Research Summary by Sina Alemohamma...</p></details>
+   Link:<a href="https://montrealethics.ai/self-improving-diffusion-models-with-synthetic-data/" target="_blank" rel="noopener noreferrer nofollow">https://montrealethics.ai/self-improving-diffusion-models-with-synthetic-data/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 3, 2025 — SELF-IMPROVING DIFFUSION MODELS WITH SYNTHETIC DATA February 3, 2025 Image Image 🔬 Research Summary by Sina Alemohamma...</p></details>
    Published: February 3, 2025  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aimodels.fyi  
    Title: Self-Improving Diffusion Models with Synthetic Data | AI Research Paper Details  
-   Link: <a href="https://www.aimodels.fyi/papers/arxiv/self-improving-diffusion-models-synthetic-data" target="_blank" rel="noopener noreferrer nofollow">https://www.aimodels.fyi/papers/arxiv/self-improving-diffusion-models-synthetic-data</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SELF-IMPROVING DIFFUSION MODELS WITH SYNTHETIC DATA Published 8/30/2024 by Sina Alemohammad, Ahmed Imtiaz Humayun, Shruti Ag...</p></details>
+   Link:<a href="https://www.aimodels.fyi/papers/arxiv/self-improving-diffusion-models-synthetic-data" target="_blank" rel="noopener noreferrer nofollow">https://www.aimodels.fyi/papers/arxiv/self-improving-diffusion-models-synthetic-data</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SELF-IMPROVING DIFFUSION MODELS WITH SYNTHETIC DATA Published 8/30/2024 by Sina Alemohammad, Ahmed Imtiaz Humayun, Shruti Ag...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: itpro.com  
    Title: What is model collapse and why is it a risk for enterprise AI?  
-   Link: <a href="https://www.itpro.com/technology/artificial-intelligence/what-is-model-collapse-and-why-is-it-a-risk-for-enterprise-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.itpro.com/technology/artificial-intelligence/what-is-model-collapse-and-why-is-it-a-risk-for-enterprise-ai</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IT ProApril 10, 2026 — WHAT IS MODEL COLLAPSE AND WHY IS IT A RISK FOR ENTERPRISE AI? Model collapse is a nightmare for AI companies an...</p></details>
+   Link:<a href="https://www.itpro.com/technology/artificial-intelligence/what-is-model-collapse-and-why-is-it-a-risk-for-enterprise-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.itpro.com/technology/artificial-intelligence/what-is-model-collapse-and-why-is-it-a-risk-for-enterprise-ai</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IT ProApril 10, 2026 — WHAT IS MODEL COLLAPSE AND WHY IS IT A RISK FOR ENTERPRISE AI? Model collapse is a nightmare for AI companies an...</p></details>
    Published: April 10, 2026  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: techcrunch.com  
    Title: The promise and perils of synthetic data | Tech Crunch  
-   Link: <a href="https://techcrunch.com/2024/12/24/the-promise-and-perils-of-synthetic-data/" target="_blank" rel="noopener noreferrer nofollow">https://techcrunch.com/2024/12/24/the-promise-and-perils-of-synthetic-data/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It suffers from the same “garbage in, garbage out” problem as all AI. Models create synthetic data, and if the data used to train these m...</p></details>
+   Link:<a href="https://techcrunch.com/2024/12/24/the-promise-and-perils-of-synthetic-data/" target="_blank" rel="noopener noreferrer nofollow">https://techcrunch.com/2024/12/24/the-promise-and-perils-of-synthetic-data/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It suffers from the same “garbage in, garbage out” problem as all AI. Models create synthetic data, and if the data used to train these m...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: research.adobe.com  
    Title: self improving diffusion models with synthetic data  
-   Link: <a href="https://research.adobe.com/publication/self-improving-diffusion-models-with-synthetic-data/" target="_blank" rel="noopener noreferrer nofollow">https://research.adobe.com/publication/self-improving-diffusion-models-with-synthetic-data/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Research » Self-Improving Diffusion Models With Synthetic DataFebruary 1, 2025 — SELF-IMPROVING DIFFUSION MODELS WITH SYNTHETIC DATA ICLR...</p></details>
+   Link:<a href="https://research.adobe.com/publication/self-improving-diffusion-models-with-synthetic-data/" target="_blank" rel="noopener noreferrer nofollow">https://research.adobe.com/publication/self-improving-diffusion-models-with-synthetic-data/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Research » Self-Improving Diffusion Models With Synthetic DataFebruary 1, 2025 — SELF-IMPROVING DIFFUSION MODELS WITH SYNTHETIC DATA ICLR...</p></details>
    Published: February 1, 2025  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: AI Model Collapse: Structural Degradation via Synthetic Data  
-   Link: <a href="https://www.youtube.com/watch?v=83wMMwM6c2Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=83wMMwM6c2Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Is Eating Itself: The &quot;Model Collapse&quot; Theory explains why recursive training on synthetic data degrades the diversity of informationa...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=83wMMwM6c2Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=83wMMwM6c2Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Is Eating Itself: The &quot;Model Collapse&quot; Theory explains why recursive training on synthetic data degrades the diversity of informationa...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: automationinside.com  
    Title: ai model collapse synthetic training  
-   Link: <a href="https://automationinside.com/content/ai-model-collapse-synthetic-training" target="_blank" rel="noopener noreferrer nofollow">https://automationinside.com/content/ai-model-collapse-synthetic-training</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Model Collapse: The Risks of Training AI on Synthetic Data | AutomationInside.comAI MODEL COLLAPSE: THE RISKS OF TRAINING AI ON SYNTHE...</p></details>
+   Link:<a href="https://automationinside.com/content/ai-model-collapse-synthetic-training" target="_blank" rel="noopener noreferrer nofollow">https://automationinside.com/content/ai-model-collapse-synthetic-training</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Model Collapse: The Risks of Training AI on Synthetic Data | AutomationInside.comAI MODEL COLLAPSE: THE RISKS OF TRAINING AI ON SYNTHE...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: journalofbigdata.springeropen.com  
-   Link: <a href="https://journalofbigdata.springeropen.com/articles/10.1186/s40537-023-00792-7" target="_blank" rel="noopener noreferrer nofollow">https://journalofbigdata.springeropen.com/articles/10.1186/s40537-023-00792-7</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and latent space synthetic data generation: a literature review | Journal of Big Data | Full TextJuly 10, 2023 — TABULAR AND LATENT SPACE...</p></details>
+   Link:<a href="https://journalofbigdata.springeropen.com/articles/10.1186/s40537-023-00792-7" target="_blank" rel="noopener noreferrer nofollow">https://journalofbigdata.springeropen.com/articles/10.1186/s40537-023-00792-7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and latent space synthetic data generation: a literature review | Journal of Big Data | Full TextJuly 10, 2023 — TABULAR AND LATENT SPACE...</p></details>
    Published: July 10, 2023

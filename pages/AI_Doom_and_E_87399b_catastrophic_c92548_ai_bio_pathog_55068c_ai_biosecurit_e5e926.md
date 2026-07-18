@@ -269,16 +269,16 @@ image: /assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_550
 
 ## Introduction
 
-AI‑assisted design tools in biology promise major advances in medicine and research. But as they get better at *designing biological sequences*, they also interact in unexpected ways with existing biosecurity controls — especially the systems used to screen orders for synthetic DNA before it is manufactured. This webpage focuses on **how AI‑generated DNA or protein sequences could evade DNA synthesis biosecurity screening**: the core mechanisms that let AI‑designed sequences slip past current controls, why that matters in the context of reducing risks from advanced AI systems, and where current safeguards fall short. In short, biosecurity screening today *mostly looks for similarity to known dangerous sequences*, and AI can *reshape or generate alternatives that escape those patterns* while retaining harmful functions — revealing a structural gap that links advanced AI capability to potential [misuse]({{ 'misuse/' | relative_url }}) if human control and oversight fail. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1817535/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers &#124; Protein design, generative AI and biological securityApril 1, 2026...</span><span class="citation-popover-meta">Published: April 1, 2026</span></span></span>
+AI‑assisted design tools in biology promise major advances in medicine and research. But as they get better at *designing biological sequences*, they also interact in unexpected ways with existing biosecurity controls — especially the systems used to screen orders for synthetic DNA before it is manufactured. This webpage focuses on **how AI‑generated DNA or protein sequences could evade DNA synthesis biosecurity screening**: the core mechanisms that let AI‑designed sequences slip past current controls, why that matters in the context of reducing risks from advanced AI systems, and where current safeguards fall short. In short, biosecurity screening today *mostly looks for similarity to known dangerous sequences*, and AI can *reshape or generate alternatives that escape those patterns* while retaining harmful functions — revealing a structural gap that links advanced AI capability to potential [misuse]({{ 'misuse/' | relative_url }}) if human control and oversight fail.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1817535/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers &#124; Protein design, generative AI and biological securityApril 1, 2026...</span><span class="citation-popover-meta">Published: April 1, 2026</span></span></span>
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_biosecurit_e5e926-Illustration-1-dark.svg" | relative_url }}" alt="Biosecurity Evasion illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_biosecurit_e5e926-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_biosecurit_e5e926-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Current DNA Screening Works and Its Homology Limits
 
-Most providers of custom DNA synthesis screen orders using *homology‑based methods*. When a customer submits a requested sequence, software compares it to a database of **“sequences of concern” (SoCs)** — for example, segments associated with known toxins, pathogens, or regulated agents. If the similarity to a known hazardous sequence crosses a threshold, the order may be flagged for review or blocked. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK614605/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIPromoting and Protecting AI-Enabled Innovation for Biosecurity</span><span class="citation-popover-snippet">The Age of AI in the Life Sciences - NCBI BookshelfApril 23, 2025...</span><span class="citation-popover-meta">Published: April 23, 2025</span></span></span>
+Most providers of custom DNA synthesis screen orders using *homology‑based methods*. When a customer submits a requested sequence, software compares it to a database of **“sequences of concern” (SoCs)** — for example, segments associated with known toxins, pathogens, or regulated agents. If the similarity to a known hazardous sequence crosses a threshold, the order may be flagged for review or blocked.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK614605/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIPromoting and Protecting AI-Enabled Innovation for Biosecurity</span><span class="citation-popover-snippet">The Age of AI in the Life Sciences - NCBI BookshelfApril 23, 2025...</span><span class="citation-popover-meta">Published: April 23, 2025</span></span></span>
 
-Historically, this approach made practical sense: biological threat sequences tended to come from known organisms, and matching to a known pathogenic gene or toxin fragment was the easiest metric for flagging risk. Consortia such as the International Gene Synthesis Consortium (IGSC) established screening protocols based on this homology model, and guidance remains in use in jurisdictions like the UK and US. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK584258/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Emerging Threats of Synthetic Biology and Biotechnology - NCBI Bookshelf...</span></span></span>
+Historically, this approach made practical sense: biological threat sequences tended to come from known organisms, and matching to a known pathogenic gene or toxin fragment was the easiest metric for flagging risk. Consortia such as the International Gene Synthesis Consortium (IGSC) established screening protocols based on this homology model, and guidance remains in use in jurisdictions like the UK and US.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK584258/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Emerging Threats of Synthetic Biology and Biotechnology - NCBI Bookshelf...</span></span></span>
 
-But **homology is inherently a pattern‑matching approach**, and it assumes that the dangerous sequence will *look like* something already recognised. That assumption *breaks down* when design moves beyond replication of natural sequences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1817535/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers &#124; Protein design, generative AI and biological securityApril 1, 2026...</span><span class="citation-popover-meta">Published: April 1, 2026</span></span></span>
+But **homology is inherently a pattern‑matching approach**, and it assumes that the dangerous sequence will *look like* something already recognised. That assumption *breaks down* when design moves beyond replication of natural sequences.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1817535/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers &#124; Protein design, generative AI and biological securityApril 1, 2026...</span><span class="citation-popover-meta">Published: April 1, 2026</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rrz3ZXWZYss" title="AI-enhanced biodesign, DNA synthesis and risk mitigation | Nicole Wheeler | EAG London: 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rrz3ZXWZYss" target="_blank" rel="noopener noreferrer">AI-enhanced biodesign, DNA synthesis and risk mitigation | Nicole Wheeler | EAG London: 2024</a></p><p class="youtube-embed-meta">Channel: Effective Altruism &middot; Views: 337 &middot; Uploaded: July 2024 &middot; Length: 53 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rrz3ZXWZYss" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rrz3ZXWZYss">Open on YouTube</a></p></div></div></div>
 
@@ -286,26 +286,26 @@ But **homology is inherently a pattern‑matching approach**, and it assumes tha
 
 ### 1. Generating “Synthetic Homologs” with Low Sequence Similarity
 
-One documented mechanism arises from AI’s ability to produce *functionally similar but sequence‑divergent variants* — so‑called **synthetic homologs**. Tools that learn protein design or DNA patterns can be used to generate altered sequences that encode the *same or similar structure and biological activity* as a known toxin, but with significantly different nucleotide or amino acid sequences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1817535/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers &#124; Protein design, generative AI and biological securityApril 1, 2026...</span><span class="citation-popover-meta">Published: April 1, 2026</span></span></span>
+One documented mechanism arises from AI’s ability to produce *functionally similar but sequence‑divergent variants* — so‑called **synthetic homologs**. Tools that learn protein design or DNA patterns can be used to generate altered sequences that encode the *same or similar structure and biological activity* as a known toxin, but with significantly different nucleotide or amino acid sequences.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1817535/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers &#124; Protein design, generative AI and biological securityApril 1, 2026...</span><span class="citation-popover-meta">Published: April 1, 2026</span></span></span>
 
-A notable example came from a *red‑teaming* study led by researchers including scientists at Microsoft, who used generative AI to redesign core sequences of toxins such as ricin. When these AI‑altered sequences were run through commercial screening systems, many escaped detection entirely because their edited sequences did *not resemble the original known hazards closely enough* to be flagged. In cases reported in industry outlets, detection rates fell dramatically — in some tests to near zero — until vendors updated their screening software. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eweek.com/news/ai-engineered-toxins-dna-screens-microsoft-research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eweek.com">[eWeek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eweek.com</span><span class="citation-popover-title">e Week‘Up to 100%’ of AI-Crafted Toxins Escape DNA Screens</span><span class="citation-popover-snippet">eWeek‘Up to 100%’ of AI-Crafted Toxins Escape DNA ScreensOctober 3, 2025...</span><span class="citation-popover-meta">Published: October 3, 2025</span></span></span>
+A notable example came from a *red‑teaming* study led by researchers including scientists at Microsoft, who used generative AI to redesign core sequences of toxins such as ricin. When these AI‑altered sequences were run through commercial screening systems, many escaped detection entirely because their edited sequences did *not resemble the original known hazards closely enough* to be flagged. In cases reported in industry outlets, detection rates fell dramatically — in some tests to near zero — until vendors updated their screening software.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eweek.com/news/ai-engineered-toxins-dna-screens-microsoft-research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eweek.com">[eWeek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eweek.com</span><span class="citation-popover-title">e Week‘Up to 100%’ of AI-Crafted Toxins Escape DNA Screens</span><span class="citation-popover-snippet">eWeek‘Up to 100%’ of AI-Crafted Toxins Escape DNA ScreensOctober 3, 2025...</span><span class="citation-popover-meta">Published: October 3, 2025</span></span></span>
 
-This kind of sequence *paraphrasing* is not simply random mutation; it stems from AI models that are trained to explore biological design space while satisfying constraints like structural viability. The divergence from known patterns can be sufficient to game tools that look for **straight sequence similarity**, even where the end product would, if synthesized, produce a harmful protein. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1817535/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers &#124; Protein design, generative AI and biological securityApril 1, 2026...</span><span class="citation-popover-meta">Published: April 1, 2026</span></span></span>
+This kind of sequence *paraphrasing* is not simply random mutation; it stems from AI models that are trained to explore biological design space while satisfying constraints like structural viability. The divergence from known patterns can be sufficient to game tools that look for **straight sequence similarity**, even where the end product would, if synthesized, produce a harmful protein.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1817535/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers &#124; Protein design, generative AI and biological securityApril 1, 2026...</span><span class="citation-popover-meta">Published: April 1, 2026</span></span></span>
 
 ### 2. AI Decoupling Sequence from Function
 
-AI design tools don’t just mimic existing sequences; they can *learn the relationships between sequence and higher‑order properties* like protein folding and function. This means they can, in principle, design sequences with the **same biochemical capabilities** — for example, binding or catalysis — without maintaining the exact linear sequence that would trigger a homology match. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1817535/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers &#124; Protein design, generative AI and biological securityApril 1, 2026...</span><span class="citation-popover-meta">Published: April 1, 2026</span></span></span>
+AI design tools don’t just mimic existing sequences; they can *learn the relationships between sequence and higher‑order properties* like protein folding and function. This means they can, in principle, design sequences with the **same biochemical capabilities** — for example, binding or catalysis — without maintaining the exact linear sequence that would trigger a homology match.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1817535/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers &#124; Protein design, generative AI and biological securityApril 1, 2026...</span><span class="citation-popover-meta">Published: April 1, 2026</span></span></span>
 
-From a biosecurity screening perspective, this decoupling matters because tools that rely strictly on sequence similarity will miss sequences that are *functionally equivalent* but evolutionarily or statistically far removed from anything in the screening database. In other words, the operative danger isn’t abstract similarity, it’s the *function* that current screening cannot see. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1817535/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers &#124; Protein design, generative AI and biological securityApril 1, 2026...</span><span class="citation-popover-meta">Published: April 1, 2026</span></span></span>
+From a biosecurity screening perspective, this decoupling matters because tools that rely strictly on sequence similarity will miss sequences that are *functionally equivalent* but evolutionarily or statistically far removed from anything in the screening database. In other words, the operative danger isn’t abstract similarity, it’s the *function* that current screening cannot see.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1817535/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers &#124; Protein design, generative AI and biological securityApril 1, 2026...</span><span class="citation-popover-meta">Published: April 1, 2026</span></span></span>
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_biosecurit_e5e926-Illustration-2-dark.svg" | relative_url }}" alt="Biosecurity Evasion illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_biosecurit_e5e926-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_biosecurit_e5e926-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### 3. Exploiting Screening Protocol Gaps and Thresholds
 
 AI’s role isn’t limited to rewriting sequences. It can also exploit **systemic limits in screening frameworks**. For example:
 
-* Screening thresholds typically focus on sequences above a certain length (e.g. >50 nucleotides). Shorter fragments, even if they can be assembled afterwards into a dangerous construct, may bypass detection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/jlb/article/13/1/lsag005/8663945" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicBiosecurity in the age of synthetic nucleic acids: modernizing the law to manage emerging threats &#124; Journal of Law and the Bi...</span></span></span>
-* Screening databases are list‑based: they rely on curated sets of regulated agents. Novel sequences — whether completely new or designed by AI — fall outside those lists by definition until they are incorporated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/jlb/article/13/1/lsag005/8663945" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicBiosecurity in the age of synthetic nucleic acids: modernizing the law to manage emerging threats &#124; Journal of Law and the Bi...</span></span></span>
-* Screening quality and rigour vary across providers and regions, meaning motivated users could seek suppliers with weaker or inconsistent controls. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faf.ae/home/2026/5/5/governing-the-convergence-google-deepmind-the-nuclear-threat-initiative-dna-synthesis-screening-and-the-architecture-of-ai-biosecurity-part-iii" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faf.ae">[Foreign Affairs Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faf.ae</span><span class="citation-popover-snippet">Foreign Affairs ForumGoverning the Convergence: Google DeepMind, the Nuclear Threat Initiative, DNA Synthesis Screening, and the Architec...</span></span></span>
+* Screening thresholds typically focus on sequences above a certain length (e.g. >50 nucleotides). Shorter fragments, even if they can be assembled afterwards into a dangerous construct, may bypass detection.<span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/jlb/article/13/1/lsag005/8663945" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicBiosecurity in the age of synthetic nucleic acids: modernizing the law to manage emerging threats &#124; Journal of Law and the Bi...</span></span></span>
+* Screening databases are list‑based: they rely on curated sets of regulated agents. Novel sequences — whether completely new or designed by AI — fall outside those lists by definition until they are incorporated.<span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/jlb/article/13/1/lsag005/8663945" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicBiosecurity in the age of synthetic nucleic acids: modernizing the law to manage emerging threats &#124; Journal of Law and the Bi...</span></span></span>
+* Screening quality and rigour vary across providers and regions, meaning motivated users could seek suppliers with weaker or inconsistent controls.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faf.ae/home/2026/5/5/governing-the-convergence-google-deepmind-the-nuclear-threat-initiative-dna-synthesis-screening-and-the-architecture-of-ai-biosecurity-part-iii" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faf.ae">[Foreign Affairs Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faf.ae</span><span class="citation-popover-snippet">Foreign Affairs ForumGoverning the Convergence: Google DeepMind, the Nuclear Threat Initiative, DNA Synthesis Screening, and the Architec...</span></span></span>
 
 All of these structural features create opportunities where **AI‑generated designs can navigate between the gaps** and reach synthesis without triggering existing safeguards.
 
@@ -313,7 +313,7 @@ All of these structural features create opportunities where **AI‑generated des
 
 ## Why These Mechanisms Matter for AI Doom and Risk
 
-From the perspective of AI’s role in existential risk, these mechanisms illustrate one of the *systemic interfaces* where advanced AI capabilities interact with real‑world control points in ways that stretch current [governance]({{ 'governance/' | relative_url }}) models. DNA synthesis screening was designed in a pre‑AI context when threat sequences were largely known and well‑characterised. When AI can generate novel, functional designs outside that space, it can undermine the *assumed chokepoint* where humans intercept potentially harmful orders. This highlights broader themes in AI risk: **automation outrunning existing safeguards** and **latent vulnerabilities in critical control infrastructure**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eweek.com/news/ai-engineered-toxins-dna-screens-microsoft-research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eweek.com">[eWeek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eweek.com</span><span class="citation-popover-title">e Week‘Up to 100%’ of AI-Crafted Toxins Escape DNA Screens</span><span class="citation-popover-snippet">eWeek‘Up to 100%’ of AI-Crafted Toxins Escape DNA ScreensOctober 3, 2025...</span><span class="citation-popover-meta">Published: October 3, 2025</span></span></span>
+From the perspective of AI’s role in existential risk, these mechanisms illustrate one of the *systemic interfaces* where advanced AI capabilities interact with real‑world control points in ways that stretch current [governance]({{ 'governance/' | relative_url }}) models. DNA synthesis screening was designed in a pre‑AI context when threat sequences were largely known and well‑characterised. When AI can generate novel, functional designs outside that space, it can undermine the *assumed chokepoint* where humans intercept potentially harmful orders. This highlights broader themes in AI risk: **automation outrunning existing safeguards** and **latent vulnerabilities in critical control infrastructure**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eweek.com/news/ai-engineered-toxins-dna-screens-microsoft-research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eweek.com">[eWeek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eweek.com</span><span class="citation-popover-title">e Week‘Up to 100%’ of AI-Crafted Toxins Escape DNA Screens</span><span class="citation-popover-snippet">eWeek‘Up to 100%’ of AI-Crafted Toxins Escape DNA ScreensOctober 3, 2025...</span><span class="citation-popover-meta">Published: October 3, 2025</span></span></span>
 
 Even if actual physical synthesis and downstream pathogenic function remain hard and require significant lab work, the ability to design digital sequences that *evade detection* changes the cost and effort calculus and potentially lowers one barrier that was thought to aid containment.
 
@@ -323,282 +323,282 @@ Even if actual physical synthesis and downstream pathogenic function remain hard
 
 Security researchers and policy analysts are already advocating changes to address these vulnerabilities:
 
-* **Moving beyond sequence similarity to function‑based screening** — approaches that evaluate ordered sequences by predicted biological activity could catch hazardous designs even when they are dissimilar to known examples. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1817535/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers &#124; Protein design, generative AI and biological securityApril 1, 2026...</span><span class="citation-popover-meta">Published: April 1, 2026</span></span></span>
-* **AI‑enhanced screening tools** that themselves use machine learning to predict risk, rather than simple pattern matching, are an area of active research and discussion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK535887/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">In particular, the volunta</span><span class="citation-popover-snippet">for Mitigating Concerns - Biodefense in the Age of Synthetic Biology - NCBI BookshelfJune 19, 2018 — PITFALLS OF LIST-BASED SCREENING Adv...</span><span class="citation-popover-meta">Published: June 19, 2018</span></span></span>
-* **Metadata and intent‑based checks** — screening not just the sequence but the context of the order (customer identity, research purpose) to provide additional flags. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK614605/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIPromoting and Protecting AI-Enabled Innovation for Biosecurity</span><span class="citation-popover-snippet">The Age of AI in the Life Sciences - NCBI BookshelfApril 23, 2025...</span><span class="citation-popover-meta">Published: April 23, 2025</span></span></span>
-* **Updating regulatory lists and databases** more dynamically to include AI‑designed variants once their risk profiles are understood, though this is inherently reactive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/jlb/article/13/1/lsag005/8663945" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicBiosecurity in the age of synthetic nucleic acids: modernizing the law to manage emerging threats &#124; Journal of Law and the Bi...</span></span></span>
+* **Moving beyond sequence similarity to function‑based screening** — approaches that evaluate ordered sequences by predicted biological activity could catch hazardous designs even when they are dissimilar to known examples.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1817535/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers &#124; Protein design, generative AI and biological securityApril 1, 2026...</span><span class="citation-popover-meta">Published: April 1, 2026</span></span></span>
+* **AI‑enhanced screening tools** that themselves use machine learning to predict risk, rather than simple pattern matching, are an area of active research and discussion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK535887/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">In particular, the volunta</span><span class="citation-popover-snippet">for Mitigating Concerns - Biodefense in the Age of Synthetic Biology - NCBI BookshelfJune 19, 2018 — PITFALLS OF LIST-BASED SCREENING Adv...</span><span class="citation-popover-meta">Published: June 19, 2018</span></span></span>
+* **Metadata and intent‑based checks** — screening not just the sequence but the context of the order (customer identity, research purpose) to provide additional flags.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK614605/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIPromoting and Protecting AI-Enabled Innovation for Biosecurity</span><span class="citation-popover-snippet">The Age of AI in the Life Sciences - NCBI BookshelfApril 23, 2025...</span><span class="citation-popover-meta">Published: April 23, 2025</span></span></span>
+* **Updating regulatory lists and databases** more dynamically to include AI‑designed variants once their risk profiles are understood, though this is inherently reactive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/jlb/article/13/1/lsag005/8663945" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicBiosecurity in the age of synthetic nucleic acids: modernizing the law to manage emerging threats &#124; Journal of Law and the Bi...</span></span></span>
 
 None of these responses fully eliminates the underlying risk, but they illustrate how biosecurity systems must evolve to interpret *function*, not just *appearance*, in an era when AI can reshape the design space.
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_biosecurit_e5e926-Illustration-3-dark.svg" | relative_url }}" alt="Biosecurity Evasion illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_biosecurit_e5e926-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_biosecurit_e5e926-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Summary
 
-AI tools are raising core challenges for existing DNA synthesis biosecurity screening by enabling the generation of sequences that **escape pattern‑based detection** while retaining dangerous potential. The primary mechanisms include creating synthetic sequences with low homology to known hazards, decoupling biological function from simple sequence patterns, and exploiting systemic gaps in screening protocols. Recognising and addressing these mechanisms is critical for any credible effort to manage AI’s role in biological risk without assuming that traditional safeguards will suffice indefinitely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1817535/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers &#124; Protein design, generative AI and biological securityApril 1, 2026...</span><span class="citation-popover-meta">Published: April 1, 2026</span></span></span>
+AI tools are raising core challenges for existing DNA synthesis biosecurity screening by enabling the generation of sequences that **escape pattern‑based detection** while retaining dangerous potential. The primary mechanisms include creating synthetic sequences with low homology to known hazards, decoupling biological function from simple sequence patterns, and exploiting systemic gaps in screening protocols. Recognising and addressing these mechanisms is critical for any credible effort to manage AI’s role in biological risk without assuming that traditional safeguards will suffice indefinitely.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1817535/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers &#124; Protein design, generative AI and biological securityApril 1, 2026...</span><span class="citation-popover-meta">Published: April 1, 2026</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How AI Could Evade DNA Screening Controls. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How AI Could Evade DNA Screening Controls. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
-        </h4>
-        <p class="fr-book-author">By Brian Christian</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
+</h4>
+<p class="fr-book-author">By Brian Christian</p>
         
-        <p class="fr-book-desc">Relevant to evaluating AI systems used in biological contexts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to evaluating AI systems used in biological contexts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Russell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
+</h4>
+<p class="fr-book-author">By Stuart Russell</p>
         
-        <p class="fr-book-desc">Explores governance challenges around powerful AI-enabled tools.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores governance challenges around powerful AI-enabled tools.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Genesis+Machine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Genesis Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B1QyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Genesis Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Genesis+Machine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Genesis Machine">The Genesis Machine</a>
-        </h4>
-        <p class="fr-book-author">By Amy Webb, Andrew Hessel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Genesis+Machine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Genesis Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B1QyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Genesis Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Genesis+Machine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Genesis Machine">The Genesis Machine</a>
+</h4>
+<p class="fr-book-author">By Amy Webb, Andrew Hessel</p>
         
-        <p class="fr-book-desc">Covers synthetic biology advances and associated governance challenges.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Genesis+Machine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers synthetic biology advances and associated governance challenges.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Genesis+Machine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Editing+Humanity+by+Kevin+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Editing Humanity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mywMxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Editing Humanity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Editing+Humanity+by+Kevin+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Editing Humanity">Editing Humanity</a>
-        </h4>
-        <p class="fr-book-author">By Kevin Davies</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Editing+Humanity+by+Kevin+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Editing Humanity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mywMxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Editing Humanity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Editing+Humanity+by+Kevin+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Editing Humanity">Editing Humanity</a>
+</h4>
+<p class="fr-book-author">By Kevin Davies</p>
         
-        <p class="fr-book-desc">Provides background on gene-editing technologies and safeguards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Editing+Humanity+by+Kevin+Davies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides background on gene-editing technologies and safeguards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Editing+Humanity+by+Kevin+Davies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Genesis+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Genesis Machine</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Genesis+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Genesis Machine</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DIY Electronic Calculator Kit with LED Digital Tube Display and"><img src="{{ '/assets/images/marketplace-covers/895afc544c6eaae59255.jpg' | relative_url }}" alt="Listing image for DIY Electronic Calculator Kit with LED Digital Tube Display and" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">DIY Electronic Calculator Kit with LED Digital Tube Display and</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip display">Search <span data-ebay-domain-label>eBay.com</span>: computer chip display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-computer-chip-display&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DIY Electronic Calculator Kit with LED Digital Tube Display and"><img src="{{ '/assets/images/marketplace-covers/895afc544c6eaae59255.jpg' | relative_url }}" alt="Listing image for DIY Electronic Calculator Kit with LED Digital Tube Display and" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">DIY Electronic Calculator Kit with LED Digital Tube Display and</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip display">Search<span data-ebay-domain-label>eBay.com</span>: computer chip display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-computer-chip-display&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SuperChips Computer Chip Handheld Monitor for 21-24 Ford Bronco"><img src="{{ '/assets/images/marketplace-covers/a7b51e30a1c9debd9491.jpg' | relative_url }}" alt="Listing image for SuperChips Computer Chip Handheld Monitor for 21-24 Ford Bronco" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SuperChips Computer Chip Handheld Monitor for 21-24 Ford Bronco</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip display">Search <span data-ebay-domain-label>eBay.com</span>: computer chip display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-computer-chip-display&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SuperChips Computer Chip Handheld Monitor for 21-24 Ford Bronco"><img src="{{ '/assets/images/marketplace-covers/a7b51e30a1c9debd9491.jpg' | relative_url }}" alt="Listing image for SuperChips Computer Chip Handheld Monitor for 21-24 Ford Bronco" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SuperChips Computer Chip Handheld Monitor for 21-24 Ford Bronco</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip display">Search<span data-ebay-domain-label>eBay.com</span>: computer chip display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-computer-chip-display&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Intel 4004 CPU Resin Display, 50th Anniversary Tech Art, Retro Computer Gift"><img src="{{ '/assets/images/marketplace-covers/2e028fad25634e001434.jpg' | relative_url }}" alt="Listing image for Intel 4004 CPU Resin Display, 50th Anniversary Tech Art, Retro Computer Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Intel 4004 CPU Resin Display, 50th Anniversary Tech Art, Retro Computer Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip display">Search <span data-ebay-domain-label>eBay.com</span>: computer chip display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-computer-chip-display&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Intel 4004 CPU Resin Display, 50th Anniversary Tech Art, Retro Computer Gift"><img src="{{ '/assets/images/marketplace-covers/2e028fad25634e001434.jpg' | relative_url }}" alt="Listing image for Intel 4004 CPU Resin Display, 50th Anniversary Tech Art, Retro Computer Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Intel 4004 CPU Resin Display, 50th Anniversary Tech Art, Retro Computer Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip display">Search<span data-ebay-domain-label>eBay.com</span>: computer chip display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-computer-chip-display&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SuperChips Computer Chip Handheld Monitor for Silverado Sierra Gas 2547"><img src="{{ '/assets/images/marketplace-covers/41158b1c41c78a270211.jpg' | relative_url }}" alt="Listing image for SuperChips Computer Chip Handheld Monitor for Silverado Sierra Gas 2547" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SuperChips Computer Chip Handheld Monitor for Silverado Sierra Gas 2547</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip display">Search <span data-ebay-domain-label>eBay.com</span>: computer chip display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-computer-chip-display&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SuperChips Computer Chip Handheld Monitor for Silverado Sierra Gas 2547"><img src="{{ '/assets/images/marketplace-covers/41158b1c41c78a270211.jpg' | relative_url }}" alt="Listing image for SuperChips Computer Chip Handheld Monitor for Silverado Sierra Gas 2547" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SuperChips Computer Chip Handheld Monitor for Silverado Sierra Gas 2547</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip display">Search<span data-ebay-domain-label>eBay.com</span>: computer chip display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-computer-chip-display&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DNA Model Double Helix Model DNA Molecular Model Kit Science Educational"><img src="{{ '/assets/images/marketplace-covers/8064eef587961adc7fac.jpg' | relative_url }}" alt="Listing image for DNA Model Double Helix Model DNA Molecular Model Kit Science Educational" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">DNA Model Double Helix Model DNA Molecular Model Kit Science Educational</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for DNA model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: DNA model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-dna-model-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DNA Model Double Helix Model DNA Molecular Model Kit Science Educational"><img src="{{ '/assets/images/marketplace-covers/8064eef587961adc7fac.jpg' | relative_url }}" alt="Listing image for DNA Model Double Helix Model DNA Molecular Model Kit Science Educational" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">DNA Model Double Helix Model DNA Molecular Model Kit Science Educational</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for DNA model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: DNA model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-dna-model-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dna Models Classroom Human Dna Model Protein Model Kit Dna Molecule Model"><img src="{{ '/assets/images/marketplace-covers/d566da5114811fa689e2.jpg' | relative_url }}" alt="Listing image for Dna Models Classroom Human Dna Model Protein Model Kit Dna Molecule Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Dna Models Classroom Human Dna Model Protein Model Kit Dna Molecule Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for DNA model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: DNA model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-dna-model-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dna Models Classroom Human Dna Model Protein Model Kit Dna Molecule Model"><img src="{{ '/assets/images/marketplace-covers/d566da5114811fa689e2.jpg' | relative_url }}" alt="Listing image for Dna Models Classroom Human Dna Model Protein Model Kit Dna Molecule Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Dna Models Classroom Human Dna Model Protein Model Kit Dna Molecule Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for DNA model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: DNA model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-dna-model-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Molymod 12-Layer Advanced Mini DNA Double Helix Molecular Model Kit"><img src="{{ '/assets/images/marketplace-covers/e5a7600a9960affed584.jpg' | relative_url }}" alt="Listing image for Molymod 12-Layer Advanced Mini DNA Double Helix Molecular Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Molymod 12-Layer Advanced Mini DNA Double Helix Molecular Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for DNA model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: DNA model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-dna-model-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Molymod 12-Layer Advanced Mini DNA Double Helix Molecular Model Kit"><img src="{{ '/assets/images/marketplace-covers/e5a7600a9960affed584.jpg' | relative_url }}" alt="Listing image for Molymod 12-Layer Advanced Mini DNA Double Helix Molecular Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Molymod 12-Layer Advanced Mini DNA Double Helix Molecular Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for DNA model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: DNA model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-dna-model-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Colorful Double Spiral DNA Model Kit Improve Interest For Kids Plastic Exce AM9"><img src="{{ '/assets/images/marketplace-covers/488eb84ff271c2223aa0.jpg' | relative_url }}" alt="Listing image for Colorful Double Spiral DNA Model Kit Improve Interest For Kids Plastic Exce AM9" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Colorful Double Spiral DNA Model Kit Improve Interest For Kids Plastic Exce AM9</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for DNA model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: DNA model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-dna-model-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Colorful Double Spiral DNA Model Kit Improve Interest For Kids Plastic Exce AM9"><img src="{{ '/assets/images/marketplace-covers/488eb84ff271c2223aa0.jpg' | relative_url }}" alt="Listing image for Colorful Double Spiral DNA Model Kit Improve Interest For Kids Plastic Exce AM9" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Colorful Double Spiral DNA Model Kit Improve Interest For Kids Plastic Exce AM9</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for DNA model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: DNA model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-dna-model-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biosecurity-evasion-how-ai-could-evade-dna-screening-controls-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -614,7 +614,7 @@ AI tools are raising core challenges for existing DNA synthesis biosecurity scre
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -634,7 +634,7 @@ AI tools are raising core challenges for existing DNA synthesis biosecurity scre
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -666,7 +666,7 @@ AI tools are raising core challenges for existing DNA synthesis biosecurity scre
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -696,7 +696,7 @@ AI tools are raising core challenges for existing DNA synthesis biosecurity scre
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -754,119 +754,119 @@ AI tools are raising core challenges for existing DNA synthesis biosecurity scre
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: microsoft.com  
-   Link: <a href="https://www.microsoft.com/en-us/research/publication/strengthening-nucleic-acid-biosecurity-screening-against-generative-protein-design-tools/" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/publication/strengthening-nucleic-acid-biosecurity-screening-against-generative-protein-design-tools/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Microsoft ResearchOctober 2, 2025 — STRENGTHENING NUCLEIC ACID BIOSECURITY SCREENING AGAINST GENERATIVE PROTEIN DESIGN TOOLS * Bruce Witt...</p></details>
+   Link:<a href="https://www.microsoft.com/en-us/research/publication/strengthening-nucleic-acid-biosecurity-screening-against-generative-protein-design-tools/" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/publication/strengthening-nucleic-acid-biosecurity-screening-against-generative-protein-design-tools/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Microsoft ResearchOctober 2, 2025 — STRENGTHENING NUCLEIC ACID BIOSECURITY SCREENING AGAINST GENERATIVE PROTEIN DESIGN TOOLS * Bruce Witt...</p></details>
    Published: October 2, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIPromoting and Protecting AI-Enabled Innovation for Biosecurity  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK614605/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK614605/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Age of AI in the Life Sciences - NCBI BookshelfApril 23, 2025...</p></details>
+   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK614605/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK614605/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Age of AI in the Life Sciences - NCBI BookshelfApril 23, 2025...</p></details>
    Published: April 23, 2025  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ncbi.nlm.nih.gov  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK584258/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK584258/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Emerging Threats of Synthetic Biology and Biotechnology - NCBI Bookshelf...</p></details>
+   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK584258/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK584258/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Emerging Threats of Synthetic Biology and Biotechnology - NCBI Bookshelf...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: eweek.com  
    Title: e Week‘Up to 100%’ of AI-Crafted Toxins Escape DNA Screens  
-   Link: <a href="https://www.eweek.com/news/ai-engineered-toxins-dna-screens-microsoft-research/" target="_blank" rel="noopener noreferrer nofollow">https://www.eweek.com/news/ai-engineered-toxins-dna-screens-microsoft-research/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>eWeek‘Up to 100%’ of AI-Crafted Toxins Escape DNA ScreensOctober 3, 2025...</p></details>
+   Link:<a href="https://www.eweek.com/news/ai-engineered-toxins-dna-screens-microsoft-research/" target="_blank" rel="noopener noreferrer nofollow">https://www.eweek.com/news/ai-engineered-toxins-dna-screens-microsoft-research/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>eWeek‘Up to 100%’ of AI-Crafted Toxins Escape DNA ScreensOctober 3, 2025...</p></details>
    Published: October 3, 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/jlb/article/13/1/lsag005/8663945" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jlb/article/13/1/lsag005/8663945</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicBiosecurity in the age of synthetic nucleic acids: modernizing the law to manage emerging threats | Journal of Law and the Bi...</p></details>
+   Link:<a href="https://academic.oup.com/jlb/article/13/1/lsag005/8663945" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jlb/article/13/1/lsag005/8663945</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicBiosecurity in the age of synthetic nucleic acids: modernizing the law to manage emerging threats | Journal of Law and the Bi...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1817535/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1817535/full</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersFrontiers | Protein design, generative AI and biological securityApril 1, 2026...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1817535/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1817535/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersFrontiers | Protein design, generative AI and biological securityApril 1, 2026...</p></details>
    Published: April 1, 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2026.1832724/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2026.1832724/full</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersFrontiers | Beyond sequence similarity: toward function-based screening of nucleic acid synthesisMay 14, 2026...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2026.1832724/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2026.1832724/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersFrontiers | Beyond sequence similarity: toward function-based screening of nucleic acid synthesisMay 14, 2026...</p></details>
    Published: May 14, 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: faf.ae  
-   Link: <a href="https://www.faf.ae/home/2026/5/5/governing-the-convergence-google-deepmind-the-nuclear-threat-initiative-dna-synthesis-screening-and-the-architecture-of-ai-biosecurity-part-iii" target="_blank" rel="noopener noreferrer nofollow">https://www.faf.ae/home/2026/5/5/governing-the-convergence-google-deepmind-the-nuclear-threat-initiative-dna-synthesis-screening-and-the-architecture-of-ai-biosecurity-part-iii</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Foreign Affairs ForumGoverning the Convergence: Google DeepMind, the Nuclear Threat Initiative, DNA Synthesis Screening, and the Architec...</p></details>
+   Link:<a href="https://www.faf.ae/home/2026/5/5/governing-the-convergence-google-deepmind-the-nuclear-threat-initiative-dna-synthesis-screening-and-the-architecture-of-ai-biosecurity-part-iii" target="_blank" rel="noopener noreferrer nofollow">https://www.faf.ae/home/2026/5/5/governing-the-convergence-google-deepmind-the-nuclear-threat-initiative-dna-synthesis-screening-and-the-architecture-of-ai-biosecurity-part-iii</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Foreign Affairs ForumGoverning the Convergence: Google DeepMind, the Nuclear Threat Initiative, DNA Synthesis Screening, and the Architec...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: monitor.cntrarmscontrol.org  
    Title: dna synthesis screening  
-   Link: <a href="https://monitor.cntrarmscontrol.org/en/2025/dna-synthesis-screening/" target="_blank" rel="noopener noreferrer nofollow">https://monitor.cntrarmscontrol.org/en/2025/dna-synthesis-screening/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>However, these capabilities a...</p></details>
+   Link:<a href="https://monitor.cntrarmscontrol.org/en/2025/dna-synthesis-screening/" target="_blank" rel="noopener noreferrer nofollow">https://monitor.cntrarmscontrol.org/en/2025/dna-synthesis-screening/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, these capabilities a...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nist.gov  
-   Link: <a href="https://www.nist.gov/publications/experimental-evaluation-ai-driven-protein-design-risks-using-safe-biological-proxies" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/publications/experimental-evaluation-ai-driven-protein-design-risks-using-safe-biological-proxies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Experimental Evaluation of AI-Driven Protein Design Risks Using Safe Biological Proxies | NISTJune 20, 2025 — EXPERIMENTAL EVALUATION OF...</p></details>
+   Link:<a href="https://www.nist.gov/publications/experimental-evaluation-ai-driven-protein-design-risks-using-safe-biological-proxies" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/publications/experimental-evaluation-ai-driven-protein-design-risks-using-safe-biological-proxies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Experimental Evaluation of AI-Driven Protein Design Risks Using Safe Biological Proxies | NISTJune 20, 2025 — EXPERIMENTAL EVALUATION OF...</p></details>
    Published: June 20, 2025  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cset.georgetown.edu  
    Title: safeguarding mail order dna synthesis in the age of artificial intelligence  
-   Link: <a href="https://cset.georgetown.edu/publication/safeguarding-mail-order-dna-synthesis-in-the-age-of-artificial-intelligence/" target="_blank" rel="noopener noreferrer nofollow">https://cset.georgetown.edu/publication/safeguarding-mail-order-dna-synthesis-in-the-age-of-artificial-intelligence/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mail-Order DNA Synthesis in the Age of Artificial Intelligence | Center for Security and Emerging TechnologyJune 20, 2024 — Image: Safegu...</p></details>
+   Link:<a href="https://cset.georgetown.edu/publication/safeguarding-mail-order-dna-synthesis-in-the-age-of-artificial-intelligence/" target="_blank" rel="noopener noreferrer nofollow">https://cset.georgetown.edu/publication/safeguarding-mail-order-dna-synthesis-in-the-age-of-artificial-intelligence/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mail-Order DNA Synthesis in the Age of Artificial Intelligence | Center for Security and Emerging TechnologyJune 20, 2024 — Image: Safegu...</p></details>
    Published: June 20, 2024  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: GOV.UK  
    Title: U K screening guidance on synthetic nucleic acids for users and providers  
-   Link: <a href="https://www.gov.uk/government/publications/uk-screening-guidance-on-synthetic-nucleic-acids/uk-screening-guidance-on-synthetic-nucleic-acids-for-users-and-providers" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/uk-screening-guidance-on-synthetic-nucleic-acids/uk-screening-guidance-on-synthetic-nucleic-acids-for-users-and-providers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>screening guidance on synthetic nucleic acids for users and providers - GOV.UKOctober 8, 2024 — DEFINITIONS (KEYWORDS) Keyword | Definiti...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/uk-screening-guidance-on-synthetic-nucleic-acids/uk-screening-guidance-on-synthetic-nucleic-acids-for-users-and-providers" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/uk-screening-guidance-on-synthetic-nucleic-acids/uk-screening-guidance-on-synthetic-nucleic-acids-for-users-and-providers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>screening guidance on synthetic nucleic acids for users and providers - GOV.UKOctober 8, 2024 — DEFINITIONS (KEYWORDS) Keyword | Definiti...</p></details>
    Published: October 8, 2024  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: While offering tremendous potential to fuel biologica  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9988571/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9988571/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by design: Biosafety and biosecurity in the age of synthetic genomics - PMCFebruary 10, 2023 — SUMMARY Technologies to profoundly enginee...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9988571/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9988571/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by design: Biosafety and biosecurity in the age of synthetic genomics - PMCFebruary 10, 2023 — SUMMARY Technologies to profoundly enginee...</p></details>
    Published: February 10, 2023  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: idtdna.com  
    Title: IDT DNAAI Biosecurity Challenges in Protein Engineering | IDT  
-   Link: <a href="https://www.idtdna.com/page/support-and-education/decoded-plus/biosecurity-challenges-in-the-age-of-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.idtdna.com/page/support-and-education/decoded-plus/biosecurity-challenges-in-the-age-of-ai</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Biosecurity Challenges in Protein Engineering | IDTMarch 17, 2025 — Trends &amp; Insights BIOSECURITY CHALLENGES IN THE AGE OF AI Inside t...</p></details>
+   Link:<a href="https://www.idtdna.com/page/support-and-education/decoded-plus/biosecurity-challenges-in-the-age-of-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.idtdna.com/page/support-and-education/decoded-plus/biosecurity-challenges-in-the-age-of-ai</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Biosecurity Challenges in Protein Engineering | IDTMarch 17, 2025 — Trends &amp; Insights BIOSECURITY CHALLENGES IN THE AGE OF AI Inside t...</p></details>
    Published: March 17, 2025  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ncbi.nlm.nih.gov  
    Title: In particular, the volunta  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK535887/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK535887/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>for Mitigating Concerns - Biodefense in the Age of Synthetic Biology - NCBI BookshelfJune 19, 2018 — PITFALLS OF LIST-BASED SCREENING Adv...</p></details>
+   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK535887/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK535887/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>for Mitigating Concerns - Biodefense in the Age of Synthetic Biology - NCBI BookshelfJune 19, 2018 — PITFALLS OF LIST-BASED SCREENING Adv...</p></details>
    Published: June 19, 2018  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/28861521/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/28861521/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2017 Aug 23;2(4):e00319-17. doi: 10.1128/mSphere.00319-17. eCollection 2017 Jul-Aug. OPTIONS FOR SYNTHETIC DNA ORDER SCREENING, REVISITED...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/28861521/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/28861521/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2017 Aug 23;2(4):e00319-17. doi: 10.1128/mSphere.00319-17. eCollection 2017 Jul-Aug. OPTIONS FOR SYNTHETIC DNA ORDER SCREENING, REVISITED...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Why Bioweapons and AI Scare Nuclear Proliferation Experts  
-   Link: <a href="https://www.youtube.com/watch?v=A0jsbl-92v0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=A0jsbl-92v0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-enhanced biodesign, DNA synthesis and risk mitigation | Nicole Wheeler | EAG London is a highly relevant video detailing the structura...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=A0jsbl-92v0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=A0jsbl-92v0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI-enhanced biodesign, DNA synthesis and risk mitigation | Nicole Wheeler | EAG London is a highly relevant video detailing the structura...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=rrz3ZXWZYss" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rrz3ZXWZYss</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Bioinfohazards: Jassi Pannu on Controlling Dangerous Data from which AI Models Learn...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rrz3ZXWZYss" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rrz3ZXWZYss</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 Bioinfohazards: Jassi Pannu on Controlling Dangerous Data from which AI Models Learn...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Oy-oyODkTuY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Oy-oyODkTuY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Why Bioweapons and AI Scare Nuclear Proliferation Experts...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Oy-oyODkTuY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Oy-oyODkTuY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Why Bioweapons and AI Scare Nuclear Proliferation Experts...</p></details>

@@ -308,237 +308,237 @@ This perspective feeds into broader debates about how to balance concern with ca
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343_current_model_21cdbd-Illustration-3-dark.svg" | relative_url }}" alt="Current Models illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343_current_model_21cdbd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343_current_model_21cdbd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Do today&#x27;s AI failures weaken doom fears?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Do today&#x27;s AI failures weaken doom fears?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8vm0DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Jonathan Russell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8vm0DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
+</h4>
+<p class="fr-book-author">By Stuart Jonathan Russell</p>
         
-        <p class="fr-book-desc">Provides balanced discussion of current and future risks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides balanced discussion of current and future risks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rebooting+AI+by+Gary+Marcus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rebooting AI on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OmeEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Rebooting AI" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rebooting+AI+by+Gary+Marcus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rebooting AI">Rebooting AI</a>
-        </h4>
-        <p class="fr-book-author">By Gary Marcus, Ernest Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Rebooting+AI+by+Gary+Marcus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rebooting AI on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OmeEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Rebooting AI" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Rebooting+AI+by+Gary+Marcus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rebooting AI">Rebooting AI</a>
+</h4>
+<p class="fr-book-author">By Gary Marcus, Ernest Davis</p>
         
-        <p class="fr-book-desc">Emphasises limitations of current AI systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rebooting+AI+by+Gary+Marcus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasises limitations of current AI systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Rebooting+AI+by+Gary+Marcus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
-        </h4>
-        <p class="fr-book-author">By Brian Christian</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
+</h4>
+<p class="fr-book-author">By Brian Christian</p>
         
-        <p class="fr-book-desc">Explains what current AI evidence does and does not show.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains what current AI evidence does and does not show.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=AI+2041+by+Kai-Fu+Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AI 2041 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cw0PEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for AI 2041" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=AI+2041+by+Kai-Fu+Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="AI 2041">AI 2041</a>
-        </h4>
-        <p class="fr-book-author">By Kai-Fu Lee, Chen Qiufan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=AI+2041+by+Kai-Fu+Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AI 2041 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cw0PEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for AI 2041" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=AI+2041+by+Kai-Fu+Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="AI 2041">AI 2041</a>
+</h4>
+<p class="fr-book-author">By Kai-Fu Lee, Chen Qiufan</p>
         
-        <p class="fr-book-desc">Provides grounded perspective on likely developments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=AI+2041+by+Kai-Fu+Lee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides grounded perspective on likely developments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=AI+2041+by+Kai-Fu+Lee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Rebooting+AI&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rebooting AI</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Rebooting+AI&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rebooting AI</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Matserpi Robotic Arm Car Kit for Raspberry Pi - AI Vision, 5DOF, Educational Rob"><img src="{{ '/assets/images/marketplace-covers/51354845bd593a6ad015.jpg' | relative_url }}" alt="Listing image for Matserpi Robotic Arm Car Kit for Raspberry Pi - AI Vision, 5DOF, Educational Rob" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Matserpi Robotic Arm Car Kit for Raspberry Pi - AI Vision, 5DOF, Educational Rob</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI robot kit">Search <span data-ebay-domain-label>eBay.com</span>: AI robot kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-robot-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Matserpi Robotic Arm Car Kit for Raspberry Pi - AI Vision, 5DOF, Educational Rob"><img src="{{ '/assets/images/marketplace-covers/51354845bd593a6ad015.jpg' | relative_url }}" alt="Listing image for Matserpi Robotic Arm Car Kit for Raspberry Pi - AI Vision, 5DOF, Educational Rob" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Matserpi Robotic Arm Car Kit for Raspberry Pi - AI Vision, 5DOF, Educational Rob</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI robot kit">Search<span data-ebay-domain-label>eBay.com</span>: AI robot kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-robot-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DOFBOT 6DOF Robot Arm Kit Mechanical Arm AI Visual Recognition for Nvidia Jetson"><img src="{{ '/assets/images/marketplace-covers/72b5e0256a0224d63a3f.jpg' | relative_url }}" alt="Listing image for DOFBOT 6DOF Robot Arm Kit Mechanical Arm AI Visual Recognition for Nvidia Jetson" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">DOFBOT 6DOF Robot Arm Kit Mechanical Arm AI Visual Recognition for Nvidia Jetson</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI robot kit">Search <span data-ebay-domain-label>eBay.com</span>: AI robot kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-robot-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DOFBOT 6DOF Robot Arm Kit Mechanical Arm AI Visual Recognition for Nvidia Jetson"><img src="{{ '/assets/images/marketplace-covers/72b5e0256a0224d63a3f.jpg' | relative_url }}" alt="Listing image for DOFBOT 6DOF Robot Arm Kit Mechanical Arm AI Visual Recognition for Nvidia Jetson" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">DOFBOT 6DOF Robot Arm Kit Mechanical Arm AI Visual Recognition for Nvidia Jetson</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI robot kit">Search<span data-ebay-domain-label>eBay.com</span>: AI robot kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-robot-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UGV Beast PI4B AI Kit Opensource Off-Road Tracked AI Robot PC Vision"><img src="{{ '/assets/images/marketplace-covers/a4dd91f6bceeae51707e.jpg' | relative_url }}" alt="Listing image for UGV Beast PI4B AI Kit Opensource Off-Road Tracked AI Robot PC Vision" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UGV Beast PI4B AI Kit Opensource Off-Road Tracked AI Robot PC Vision</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI robot kit">Search <span data-ebay-domain-label>eBay.com</span>: AI robot kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-robot-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UGV Beast PI4B AI Kit Opensource Off-Road Tracked AI Robot PC Vision"><img src="{{ '/assets/images/marketplace-covers/a4dd91f6bceeae51707e.jpg' | relative_url }}" alt="Listing image for UGV Beast PI4B AI Kit Opensource Off-Road Tracked AI Robot PC Vision" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UGV Beast PI4B AI Kit Opensource Off-Road Tracked AI Robot PC Vision</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI robot kit">Search<span data-ebay-domain-label>eBay.com</span>: AI robot kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-robot-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TurboPi Smart Robot Car Kit Vision AI Robot-Hiwonder 2DOF HD Cam for Raspberry"><img src="{{ '/assets/images/marketplace-covers/6febc37663a27a71e69e.jpg' | relative_url }}" alt="Listing image for TurboPi Smart Robot Car Kit Vision AI Robot-Hiwonder 2DOF HD Cam for Raspberry" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TurboPi Smart Robot Car Kit Vision AI Robot-Hiwonder 2DOF HD Cam for Raspberry</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI robot kit">Search <span data-ebay-domain-label>eBay.com</span>: AI robot kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-robot-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TurboPi Smart Robot Car Kit Vision AI Robot-Hiwonder 2DOF HD Cam for Raspberry"><img src="{{ '/assets/images/marketplace-covers/6febc37663a27a71e69e.jpg' | relative_url }}" alt="Listing image for TurboPi Smart Robot Car Kit Vision AI Robot-Hiwonder 2DOF HD Cam for Raspberry" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TurboPi Smart Robot Car Kit Vision AI Robot-Hiwonder 2DOF HD Cam for Raspberry</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI robot kit">Search<span data-ebay-domain-label>eBay.com</span>: AI robot kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-robot-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI ARTIFICIAL INTELLIGENCE . 2001 ORIGINAL MOVIE POSTER vintage 24 YEARS OLD"><img src="{{ '/assets/images/marketplace-covers/5af1ce80d93e60e8d871.jpg' | relative_url }}" alt="Listing image for AI ARTIFICIAL INTELLIGENCE . 2001 ORIGINAL MOVIE POSTER vintage 24 YEARS OLD" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">AI ARTIFICIAL INTELLIGENCE . 2001 ORIGINAL MOVIE POSTER vintage 24 YEARS OLD</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: AI poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI ARTIFICIAL INTELLIGENCE . 2001 ORIGINAL MOVIE POSTER vintage 24 YEARS OLD"><img src="{{ '/assets/images/marketplace-covers/5af1ce80d93e60e8d871.jpg' | relative_url }}" alt="Listing image for AI ARTIFICIAL INTELLIGENCE . 2001 ORIGINAL MOVIE POSTER vintage 24 YEARS OLD" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">AI ARTIFICIAL INTELLIGENCE . 2001 ORIGINAL MOVIE POSTER vintage 24 YEARS OLD</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: AI poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray"><img src="{{ '/assets/images/marketplace-covers/3c3ecd285cbeae3cd708.jpg' | relative_url }}" alt="Listing image for AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: AI poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray"><img src="{{ '/assets/images/marketplace-covers/3c3ecd285cbeae3cd708.jpg' | relative_url }}" alt="Listing image for AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: AI poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=current-models-do-today-s-ai-failures-weaken-doom-fears-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -554,7 +554,7 @@ This perspective feeds into broader debates about how to balance concern with ca
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -574,7 +574,7 @@ This perspective feeds into broader debates about how to balance concern with ca
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -606,7 +606,7 @@ This perspective feeds into broader debates about how to balance concern with ca
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -636,7 +636,7 @@ This perspective feeds into broader debates about how to balance concern with ca
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -700,132 +700,132 @@ For deeper exploration of these issues, see related discussions on the *instrume
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aisi.gov.uk  
-   Link: <a href="https://www.aisi.gov.uk/research/understanding-ai-trajectories-mapping-the-limitations-of-current-ai-systems" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/research/understanding-ai-trajectories-mapping-the-limitations-of-current-ai-systems</a>  
+   Link:<a href="https://www.aisi.gov.uk/research/understanding-ai-trajectories-mapping-the-limitations-of-current-ai-systems" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/research/understanding-ai-trajectories-mapping-the-limitations-of-current-ai-systems</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2310.18244" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2310.18244</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Review of the Evidence for Existential Risk from AI via Misaligned Power-SeekingOctober 27, 2023...</p></details>
+   Link:<a href="https://arxiv.org/abs/2310.18244" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2310.18244</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Review of the Evidence for Existential Risk from AI via Misaligned Power-SeekingOctober 27, 2023...</p></details>
    Published: October 27, 2023  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: catalyzex.com  
-   Link: <a href="https://www.catalyzex.com/paper/a-review-of-the-evidence-for-existential-risk" target="_blank" rel="noopener noreferrer nofollow">https://www.catalyzex.com/paper/a-review-of-the-evidence-for-existential-risk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Review of the Evidence for Existential Risk from AI via Misaligned Power-SeekingOctober 27, 2023...</p></details>
+   Link:<a href="https://www.catalyzex.com/paper/a-review-of-the-evidence-for-existential-risk" target="_blank" rel="noopener noreferrer nofollow">https://www.catalyzex.com/paper/a-review-of-the-evidence-for-existential-risk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Review of the Evidence for Existential Risk from AI via Misaligned Power-SeekingOctober 27, 2023...</p></details>
    Published: October 27, 2023  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: vox.com  
    Title: How can you know if an AI is plotting against you?  
-   Link: <a href="https://www.vox.com/future-perfect/420755/ai-scheming-deception-lessons-from-a-chimp" target="_blank" rel="noopener noreferrer nofollow">https://www.vox.com/future-perfect/420755/ai-scheming-deception-lessons-from-a-chimp</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A team led by Oxford neuroscientist Christopher Summerfield draws parallels with 20th-century ape language studies, where scientists misi...</p></details>
+   Link:<a href="https://www.vox.com/future-perfect/420755/ai-scheming-deception-lessons-from-a-chimp" target="_blank" rel="noopener noreferrer nofollow">https://www.vox.com/future-perfect/420755/ai-scheming-deception-lessons-from-a-chimp</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A team led by Oxford neuroscientist Christopher Summerfield draws parallels with 20th-century ape language studies, where scientists misi...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/6786058.pdf?abstractid=6786058&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/6786058.pdf?abstractid=6786058&amp;mirid=1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing the Empirical Evidence for Loss of Control from Agentic General-Purpose AI by Risto Uuk, Santeri Koivula, Lorenzo Pacchiard...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/Delivery.cfm/6786058.pdf?abstractid=6786058&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/6786058.pdf?abstractid=6786058&amp;mirid=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing the Empirical Evidence for Loss of Control from Agentic General-Purpose AI by Risto Uuk, Santeri Koivula, Lorenzo Pacchiard...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>28, 2025...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>28, 2025...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai/international-scientific-report-on-the-safety-of-advanced-ai-interim-report" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai/international-scientific-report-on-the-safety-of-advanced-ai-interim-report</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LOSS OF CONTROL KEY INFORMATION * Ongoing AI (artificial intelligence) research is seeking to develop more capable ‘general-purpose AI (a...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai/international-scientific-report-on-the-safety-of-advanced-ai-interim-report" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai/international-scientific-report-on-the-safety-of-advanced-ai-interim-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LOSS OF CONTROL KEY INFORMATION * Ongoing AI (artificial intelligence) research is seeking to develop more capable ‘general-purpose AI (a...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: GOV.UK  
    Title: Use of capabilities: Would some AI systems actual  
-   Link: <a href="https://www.gov.uk/government/publications/international-ai-safety-report-2025/international-ai-safety-report-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/international-ai-safety-report-2025/international-ai-safety-report-2025</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>www.gov.uk[Withdrawn] International AI Safety Report 2025 - GOV.UKFebruary 18, 2025 — (Note that the minimum capabilities needed would pa...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/international-ai-safety-report-2025/international-ai-safety-report-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/international-ai-safety-report-2025/international-ai-safety-report-2025</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>www.gov.uk[Withdrawn] International AI Safety Report 2025 - GOV.UKFebruary 18, 2025 — (Note that the minimum capabilities needed would pa...</p></details>
    Published: February 18, 2025  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: longtermwiki.com  
    Title: Longterm Wiki Instrumental Convergence | Longterm Wiki  
-   Link: <a href="https://www.longtermwiki.com/knowledge-base/risks/instrumental-convergence/" target="_blank" rel="noopener noreferrer nofollow">https://www.longtermwiki.com/knowledge-base/risks/instrumental-convergence/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Longterm WikiInstrumental Convergence | Longterm WikiJanuary 29, 2026...</p></details>
+   Link:<a href="https://www.longtermwiki.com/knowledge-base/risks/instrumental-convergence/" target="_blank" rel="noopener noreferrer nofollow">https://www.longtermwiki.com/knowledge-base/risks/instrumental-convergence/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Longterm WikiInstrumental Convergence | Longterm WikiJanuary 29, 2026...</p></details>
    Published: January 29, 2026  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aiwiki.ai  
    Title: AI Wiki Existential risk from AI | AI Wiki  
-   Link: <a href="https://aiwiki.ai/wiki/ai_existential_risk" target="_blank" rel="noopener noreferrer nofollow">https://aiwiki.ai/wiki/ai_existential_risk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI WikiExistential risk from AI | AI WikiMarch 25, 2026...</p></details>
+   Link:<a href="https://aiwiki.ai/wiki/ai_existential_risk" target="_blank" rel="noopener noreferrer nofollow">https://aiwiki.ai/wiki/ai_existential_risk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI WikiExistential risk from AI | AI WikiMarch 25, 2026...</p></details>
    Published: March 25, 2026  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: longtermwiki.com  
    Title: Model Organisms of Misalignment | Longterm Wiki  
-   Link: <a href="https://www.longtermwiki.com/wiki/E419" target="_blank" rel="noopener noreferrer nofollow">https://www.longtermwiki.com/wiki/E419</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 1, 2026 — CRITICISMS AND CONCERNS METHODOLOGICAL LIMITATIONS Critics raise several concerns about the validity and informativene...</p></details>
+   Link:<a href="https://www.longtermwiki.com/wiki/E419" target="_blank" rel="noopener noreferrer nofollow">https://www.longtermwiki.com/wiki/E419</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 1, 2026 — CRITICISMS AND CONCERNS METHODOLOGICAL LIMITATIONS Critics raise several concerns about the validity and informativene...</p></details>
    Published: February 1, 2026  
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: decrypt.co  
-   Link: <a href="https://decrypt.co/341978/ai-study-chatbots-strategically-lie-current-safety-tools-cant-catch-them?amp=1" target="_blank" rel="noopener noreferrer nofollow">https://decrypt.co/341978/ai-study-chatbots-strategically-lie-current-safety-tools-cant-catch-them?amp=1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Study Finds Chatbots Can Strategically Lie—And Current Safety Tools Can&#x27;t Catch Them - DecryptSeptember 29, 2025 — AI STUDY FINDS CHAT...</p></details>
+   Link:<a href="https://decrypt.co/341978/ai-study-chatbots-strategically-lie-current-safety-tools-cant-catch-them?amp=1" target="_blank" rel="noopener noreferrer nofollow">https://decrypt.co/341978/ai-study-chatbots-strategically-lie-current-safety-tools-cant-catch-them?amp=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Study Finds Chatbots Can Strategically Lie—And Current Safety Tools Can&#x27;t Catch Them - DecryptSeptember 29, 2025 — AI STUDY FINDS CHAT...</p></details>
    Published: September 29, 2025  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: scientificamerican.com  
-   Link: <a href="https://www.scientificamerican.com/article/ai-is-too-unpredictable-to-behave-according-to-human-goals/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/ai-is-too-unpredictable-to-behave-according-to-human-goals/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Is Too Unpredictable to Behave According to Human Goals | Scientific AmericanJanuary 27, 2025 — January 27, 2025 AI Is Too Unpredictab...</p></details>
+   Link:<a href="https://www.scientificamerican.com/article/ai-is-too-unpredictable-to-behave-according-to-human-goals/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/ai-is-too-unpredictable-to-behave-according-to-human-goals/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Is Too Unpredictable to Behave According to Human Goals | Scientific AmericanJanuary 27, 2025 — January 27, 2025 AI Is Too Unpredictab...</p></details>
    Published: January 27, 2025  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cris.fau.de  
    Title: de Current cases of AI misalignment and their implications for future risks  
-   Link: <a href="https://cris.fau.de/publications/313453060/" target="_blank" rel="noopener noreferrer nofollow">https://cris.fau.de/publications/313453060/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>cases of AI misalignment and their implications for future risks - FAU CRISCURRENT CASES OF AI MISALIGNMENT AND THEIR IMPLICATIONS FOR FU...</p></details>
+   Link:<a href="https://cris.fau.de/publications/313453060/" target="_blank" rel="noopener noreferrer nofollow">https://cris.fau.de/publications/313453060/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cases of AI misalignment and their implications for future risks - FAU CRISCURRENT CASES OF AI MISALIGNMENT AND THEIR IMPLICATIONS FOR FU...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: brookings.edu  
    Title: Are AI existential risks real—and what should we do about them?  
-   Link: <a href="https://www.brookings.edu/articles/are-ai-existential-risks-real-and-what-should-we-do-about-them/" target="_blank" rel="noopener noreferrer nofollow">https://www.brookings.edu/articles/are-ai-existential-risks-real-and-what-should-we-do-about-them/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BrookingsJuly 11, 2025 — AI firms are not very close to developing an AI system with capabilities that could threaten us. This assertio...</p></details>
+   Link:<a href="https://www.brookings.edu/articles/are-ai-existential-risks-real-and-what-should-we-do-about-them/" target="_blank" rel="noopener noreferrer nofollow">https://www.brookings.edu/articles/are-ai-existential-risks-real-and-what-should-we-do-about-them/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BrookingsJuly 11, 2025 — AI firms are not very close to developing an AI system with capabilities that could threaten us. This assertio...</p></details>
    Published: July 11, 2025  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Jake Tapper: “You’ve spoken out s  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11117051/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11117051/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>deception: A survey of examples, risks, and potential solutions - PMCMay 10, 2024 — INTRODUCTION In a recent interview with CNN journalis...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11117051/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11117051/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>deception: A survey of examples, risks, and potential solutions - PMCMay 10, 2024 — INTRODUCTION In a recent interview with CNN journalis...</p></details>
    Published: May 10, 2024  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: koncentrik.co  
    Title: Why Simulating Strategy Is Not Intelligence  
-   Link: <a href="https://www.koncentrik.co/p/why-simulating-strategy-is-not-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.koncentrik.co/p/why-simulating-strategy-is-not-intelligence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 21, 2025 — WHY SIMULATING STRATEGY IS NOT INTELLIGENCE WHAT THE LATEST RESEARCH ON GAME THEORY AND LLMS REVEALS ABOUT TRUE MACHINE R...</p></details>
+   Link:<a href="https://www.koncentrik.co/p/why-simulating-strategy-is-not-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.koncentrik.co/p/why-simulating-strategy-is-not-intelligence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 21, 2025 — WHY SIMULATING STRATEGY IS NOT INTELLIGENCE WHAT THE LATEST RESEARCH ON GAME THEORY AND LLMS REVEALS ABOUT TRUE MACHINE R...</p></details>
    Published: July 21, 2025  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: sciencedirect.com  
    Title: Beyond Intentions: A Critical Survey of Misalignment in LLMs  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1546221825007982" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1546221825007982</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Outer Alignment concerns whether the goal functions (e.g., reward functions) we set for the...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1546221825007982" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1546221825007982</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Outer Alignment concerns whether the goal functions (e.g., reward functions) we set for the...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: citedrive.com  
    Title: Baum Show PDF Cite  
-   Link: <a href="https://www.citedrive.com/en/discovery/assessing-the-risk-of-takeover-catastrophe-from-large-language-models/" target="_blank" rel="noopener noreferrer nofollow">https://www.citedrive.com/en/discovery/assessing-the-risk-of-takeover-catastrophe-from-large-language-models/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[PDF] Assessing the risk of takeover catastrophe from large language models | CiteDriveOUTLINE * Abstract DOI: 10.1111/risa.14353 ISSN: 0...</p></details>
+   Link:<a href="https://www.citedrive.com/en/discovery/assessing-the-risk-of-takeover-catastrophe-from-large-language-models/" target="_blank" rel="noopener noreferrer nofollow">https://www.citedrive.com/en/discovery/assessing-the-risk-of-takeover-catastrophe-from-large-language-models/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[PDF] Assessing the risk of takeover catastrophe from large language models | CiteDriveOUTLINE * Abstract DOI: 10.1111/risa.14353 ISSN: 0...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Francois Chollet — Why the biggest AI models can't solve simple puzzles  
-   Link: <a href="https://www.youtube.com/watch?v=UakqL6Pj9xo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UakqL6Pj9xo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Melanie Mitchell - Existential risk from AI: A skeptical perspective...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UakqL6Pj9xo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UakqL6Pj9xo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Melanie Mitchell - Existential risk from AI: A skeptical perspective...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: metr.org  
    Title: 2026 05 19 frontier risk report  
-   Link: <a href="https://metr.org/blog/2026-05-19-frontier-risk-report/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/blog/2026-05-19-frontier-risk-report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>As we explain below, METR’s core concern is tracking the risk of scenarios in which powerful AI a...</p></details>
+   Link:<a href="https://metr.org/blog/2026-05-19-frontier-risk-report/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/blog/2026-05-19-frontier-risk-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>As we explain below, METR’s core concern is tracking the risk of scenarios in which powerful AI a...</p></details>

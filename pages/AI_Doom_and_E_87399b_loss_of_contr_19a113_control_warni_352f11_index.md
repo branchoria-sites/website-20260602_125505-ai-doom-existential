@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-loss-of-contr/
 description: Focused pages that expand on Warning signs.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_loss_of_contr_19a113_control_warni_352f11
 parent_title: Warning signs
@@ -16,7 +16,7 @@ parent_permalink: /warning-signs/
 
 # Explore Topics in Warning signs
 
-The following pages expand on the main **[Warning signs]({{ '/warning-signs/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Warning signs]({{ '/warning-signs/' | relative_url }})** page and cover its key branches in.
 
 - [Hidden Reasoning]({{ '/hidden-reasoning/' | relative_url }})
 - [Weak Checks]({{ '/weak-checks/' | relative_url }})

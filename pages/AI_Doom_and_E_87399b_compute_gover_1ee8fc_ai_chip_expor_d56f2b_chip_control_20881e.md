@@ -284,11 +284,11 @@ As a result, the debate has increasingly shifted from whether [chip controls]({{
 
 One of the most discussed loopholes is remote access to controlled hardware.
 
-Traditional export controls were designed around physical goods crossing borders. AI development complicates this model because a company does not necessarily need to own a chip to use it. Instead, it can rent computing power from cloud providers operating large data centres. Researchers and policymakers have repeatedly noted that access to advanced AI chips through cloud services can partially bypass restrictions aimed at physical exports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cset.georgetown.edu/article/controlling-access-to-advanced-compute-via-the-cloud/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cset.georgetown.edu">[CSET]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cset.georgetown.edu</span><span class="citation-popover-title">CSETControlling Access to Advanced Compute via the Cloud</span><span class="citation-popover-snippet">May 15, 2023 — 15 May 2023 — This post identifies situations where it appears US export controls can be used to restrict cloud computing...</span><span class="citation-popover-meta">Published: May 15, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.governance.ai/Accessing_Controlled_AI_Chips_via_Infrastructure-as-a-Service.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.governance.ai">[Governance AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.governance.ai</span><span class="citation-popover-title">Accessing Controlled AI Chips via Infrastructure as a Service</span><span class="citation-popover-snippet">Governance AIAccessing Controlled AI Chips via Infrastructure-as-a-...15 Dec 2023 — Compared to physical chips, access to compute throug...</span></span></span>
+Traditional export controls were designed around physical goods crossing borders. AI development complicates this model because a company does not necessarily need to own a chip to use it. Instead, it can rent computing power from cloud providers operating large data centres. Researchers and policymakers have repeatedly noted that access to advanced AI chips through cloud services can partially bypass restrictions aimed at physical exports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cset.georgetown.edu/article/controlling-access-to-advanced-compute-via-the-cloud/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cset.georgetown.edu">[CSET]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cset.georgetown.edu</span><span class="citation-popover-title">CSETControlling Access to Advanced Compute via the Cloud</span><span class="citation-popover-snippet">May 15, 2023 — 15 May 2023 — This post identifies situations where it appears US export controls can be used to restrict cloud computing...</span><span class="citation-popover-meta">Published: May 15, 2023</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.governance.ai/Accessing_Controlled_AI_Chips_via_Infrastructure-as-a-Service.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.governance.ai">[Governance AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.governance.ai</span><span class="citation-popover-title">Accessing Controlled AI Chips via Infrastructure as a Service</span><span class="citation-popover-snippet">Governance AIAccessing Controlled AI Chips via Infrastructure-as-a-...15 Dec 2023 — Compared to physical chips, access to compute throug...</span></span></span>
 
-This issue became widely known as the "cloud loophole". Under earlier rules, an organisation could potentially access computing resources hosted outside a restricted country even if it could not legally import the underlying hardware. Policymakers have proposed new reporting and licensing requirements specifically because cloud access creates a route around traditional export controls. <span class="citation-chip-wrap"><a class="citation-chip" href="https://exportcompliancemanager.com/articles/will-the-remote-access-security-act-close-the-cloud-loophole-in-the-us-export-administration-regulations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exportcompliancemanager.com">[exportcompliancemanager.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exportcompliancemanager.com</span><span class="citation-popover-snippet">Chinese companies can train their AI models by remotely accessing the US cloud...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://introl.com/blog/remote-access-security-act-cloud-loophole-export-controls-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: introl.com">[introl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">introl.com</span><span class="citation-popover-title">remote access security act cloud loophole export controls 2026</span><span class="citation-popover-snippet">Remote Access Security Act &#124; Introl Blog23 Jan 2026 — Current export controls prohibit selling advanced AI chips directly to China...</span></span></span> For AI existential-risk discussions, this matters because many proposed compute-[governance]({{ 'governance/' | relative_url }}) systems assume that access to frontier-scale computing can be monitored. If large training runs can simply move to rented infrastructure, enforcement becomes significantly harder.
+This issue became widely known as the "cloud loophole". Under earlier rules, an organisation could potentially access computing resources hosted outside a restricted country even if it could not legally import the underlying hardware. Policymakers have proposed new reporting and licensing requirements specifically because cloud access creates a route around traditional export controls.<span class="citation-chip-wrap"><a class="citation-chip" href="https://exportcompliancemanager.com/articles/will-the-remote-access-security-act-close-the-cloud-loophole-in-the-us-export-administration-regulations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exportcompliancemanager.com">[exportcompliancemanager.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exportcompliancemanager.com</span><span class="citation-popover-snippet">Chinese companies can train their AI models by remotely accessing the US cloud...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://introl.com/blog/remote-access-security-act-cloud-loophole-export-controls-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: introl.com">[introl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">introl.com</span><span class="citation-popover-title">remote access security act cloud loophole export controls 2026</span><span class="citation-popover-snippet">Remote Access Security Act &#124; Introl Blog23 Jan 2026 — Current export controls prohibit selling advanced AI chips directly to China...</span></span></span> For AI existential-risk discussions, this matters because many proposed compute-[governance]({{ 'governance/' | relative_url }}) systems assume that access to frontier-scale computing can be monitored. If large training runs can simply move to rented infrastructure, enforcement becomes significantly harder.
 
-A related challenge involves overseas subsidiaries and affiliated companies. Recent US guidance was introduced partly to address concerns that Chinese-headquartered firms could obtain advanced AI chips through foreign subsidiaries operating outside mainland China. Regulators concluded that existing controls were vulnerable to this route and moved to clarify that licensing requirements apply to covered entities regardless of where particular subsidiaries are located. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/china/us-takes-step-halt-nvidia-ai-chip-shipments-chinese-firms-outside-china-2026-05-31/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Department of Commerce announced new guidance aimed at closing a loophole that potentially allowed subsidiaries of Chinese companies outs...</span></span></span>
+A related challenge involves overseas subsidiaries and affiliated companies. Recent US guidance was introduced partly to address concerns that Chinese-headquartered firms could obtain advanced AI chips through foreign subsidiaries operating outside mainland China. Regulators concluded that existing controls were vulnerable to this route and moved to clarify that licensing requirements apply to covered entities regardless of where particular subsidiaries are located.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/china/us-takes-step-halt-nvidia-ai-chip-shipments-chinese-firms-outside-china-2026-05-31/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Department of Commerce announced new guidance aimed at closing a loophole that potentially allowed subsidiaries of Chinese companies outs...</span></span></span>
 
 The broader lesson is that modern corporate structures often cross many jurisdictions. Determining who ultimately controls a company, data centre, or training project can be much harder than determining where a shipment is physically delivered.
 
@@ -298,7 +298,7 @@ The broader lesson is that modern corporate structures often cross many jurisdic
 
 Physical smuggling remains another major enforcement challenge.
 
-Several investigations and prosecutions have revealed attempts to move restricted AI hardware through intermediaries, shell companies, false documentation, relabelling schemes, and third-country transit routes. Recent cases have involved alleged shipments routed through jurisdictions such as Hong Kong, Japan, Malaysia, Singapore, and other intermediary locations before reaching intended end users. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tomshardware.com/tech-industry/artificial-intelligence/taiwan-authorities-arrest-three-on-suspicion-of-smuggling-nvidia-chips-to-china-operation-allegedly-used-japan-as-transshipment-point-before-forwarding-banned-supermicro-servers-to-hong-kong" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tomshardware.com">[Tom&#x27;s Hardware]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tomshardware.com</span><span class="citation-popover-snippet">efforts to curb AI chip transfers. Prosecutors reported seizing 50 Super Micro servers with falsified documents, intended for Hong Kong v...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/china/us-takes-step-halt-nvidia-ai-chip-shipments-chinese-firms-outside-china-2026-05-31/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters From an AI-risk perspective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Department of Commerce announced new guidance aimed at closing a loophole that potentially allowed subsidiaries of Chinese companies outs...</span></span></span>, the significance is not that every restricted chip can be smuggled. Rather, even modest leakage may matter if the goal is to limit access to the largest training clusters.
+Several investigations and prosecutions have revealed attempts to move restricted AI hardware through intermediaries, shell companies, false documentation, relabelling schemes, and third-country transit routes. Recent cases have involved alleged shipments routed through jurisdictions such as Hong Kong, Japan, Malaysia, Singapore, and other intermediary locations before reaching intended end users.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tomshardware.com/tech-industry/artificial-intelligence/taiwan-authorities-arrest-three-on-suspicion-of-smuggling-nvidia-chips-to-china-operation-allegedly-used-japan-as-transshipment-point-before-forwarding-banned-supermicro-servers-to-hong-kong" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tomshardware.com">[Tom&#x27;s Hardware]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tomshardware.com</span><span class="citation-popover-snippet">efforts to curb AI chip transfers. Prosecutors reported seizing 50 Super Micro servers with falsified documents, intended for Hong Kong v...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/china/us-takes-step-halt-nvidia-ai-chip-shipments-chinese-firms-outside-china-2026-05-31/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters From an AI-risk perspective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Department of Commerce announced new guidance aimed at closing a loophole that potentially allowed subsidiaries of Chinese companies outs...</span></span></span>, the significance is not that every restricted chip can be smuggled. Rather, even modest leakage may matter if the goal is to limit access to the largest training clusters.
 
 Several recurring patterns appear in enforcement cases:
 
@@ -306,9 +306,9 @@ Several recurring patterns appear in enforcement cases:
 * **False end-user declarations** claiming hardware is intended for permitted uses.
 * **Transshipment through third countries** before final delivery.
 * **Relabelling or misclassification** of hardware and servers.
-* **Grey-market resale networks** that move hardware after the initial sale. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://bisi.org.uk/reports/ai-chip-smuggling-the-limits-of-us-export-controls" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bisi.org.uk">[BISI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bisi.org.uk</span><span class="citation-popover-title">BISIAI Chip Smuggling: The Limits of US Export Controls</span><span class="citation-popover-snippet">April 6, 2026 — 6 Apr 2026 — The cases demonstrate that restricting chip exports does not prevent actors from obtaining US hardware throu...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/china/us-justice-department-accuses-two-chinese-men-trying-smuggle-nvidia-chips-2025-12-09/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Justice Department has charged two Chinese men, Fanyue Gong and Benlin Yuan, with attempting to illegally smuggle Nvidia&#x27;s advanced H100...</span></span></span>
+* **Grey-market resale networks** that move hardware after the initial sale.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://bisi.org.uk/reports/ai-chip-smuggling-the-limits-of-us-export-controls" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bisi.org.uk">[BISI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bisi.org.uk</span><span class="citation-popover-title">BISIAI Chip Smuggling: The Limits of US Export Controls</span><span class="citation-popover-snippet">April 6, 2026 — 6 Apr 2026 — The cases demonstrate that restricting chip exports does not prevent actors from obtaining US hardware throu...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/china/us-justice-department-accuses-two-chinese-men-trying-smuggle-nvidia-chips-2025-12-09/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Justice Department has charged two Chinese men, Fanyue Gong and Benlin Yuan, with attempting to illegally smuggle Nvidia&#x27;s advanced H100...</span></span></span>
 
-Analysts studying export-control evasion argue that sophisticated procurement networks can exploit gaps between customs systems, corporate registries, and compliance processes. The challenge becomes especially difficult when hardware passes through multiple countries before reaching its final destination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://csis-website-prod.s3.amazonaws.com/s3fs-public/2024-04/240409_Harithas_Chip_Smuggling.pdf?VersionId=894hzMieB.qJHkVVH2HS7g2m49.a92KR" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csis-website-prod.s3.amazonaws.com">[CSIS Website]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csis-website-prod.s3.amazonaws.com</span><span class="citation-popover-title">CSIS Website Mapping the Chip Smuggling Pipeline and Improving</span><span class="citation-popover-snippet">CSIS WebsiteMapping the Chip Smuggling Pipeline and Improving...April 9, 2024 — This will be implemented through a series of policies th...</span><span class="citation-popover-meta">Published: April 9, 2024</span></span></span>
+Analysts studying export-control evasion argue that sophisticated procurement networks can exploit gaps between customs systems, corporate registries, and compliance processes. The challenge becomes especially difficult when hardware passes through multiple countries before reaching its final destination.<span class="citation-chip-wrap"><a class="citation-chip" href="https://csis-website-prod.s3.amazonaws.com/s3fs-public/2024-04/240409_Harithas_Chip_Smuggling.pdf?VersionId=894hzMieB.qJHkVVH2HS7g2m49.a92KR" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csis-website-prod.s3.amazonaws.com">[CSIS Website]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csis-website-prod.s3.amazonaws.com</span><span class="citation-popover-title">CSIS Website Mapping the Chip Smuggling Pipeline and Improving</span><span class="citation-popover-snippet">CSIS WebsiteMapping the Chip Smuggling Pipeline and Improving...April 9, 2024 — This will be implemented through a series of policies th...</span><span class="citation-popover-meta">Published: April 9, 2024</span></span></span>
 
 This does not mean controls are useless. Smuggling raises costs, increases [uncertainty]({{ 'uncertainty/' | relative_url }}), and limits scale. But it does mean that enforcement success should not be measured as a simple binary of "chips exported" versus "chips blocked". The practical question is how much compute capacity ultimately reaches restricted actors and at what cost.
 
@@ -321,9 +321,9 @@ Some AI doom researchers view chip controls primarily as a delaying mechanism. U
 
 However, other theories of risk depend on much stronger enforcement.
 
-For example, proposals involving compute thresholds, mandatory reporting of large training runs, or international monitoring of frontier AI development assume that governments can identify where the largest concentrations of compute exist. If organisations can easily distribute training across multiple jurisdictions or obtain compute through opaque intermediaries, those governance systems become harder to implement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.governance.ai/Accessing_Controlled_AI_Chips_via_Infrastructure-as-a-Service.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.governance.ai">[Governance AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.governance.ai</span><span class="citation-popover-title">Accessing Controlled AI Chips via Infrastructure as a Service</span><span class="citation-popover-snippet">Governance AIAccessing Controlled AI Chips via Infrastructure-as-a-...15 Dec 2023 — Compared to physical chips, access to compute throug...</span></span></span>
+For example, proposals involving compute thresholds, mandatory reporting of large training runs, or international monitoring of frontier AI development assume that governments can identify where the largest concentrations of compute exist. If organisations can easily distribute training across multiple jurisdictions or obtain compute through opaque intermediaries, those governance systems become harder to implement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.governance.ai/Accessing_Controlled_AI_Chips_via_Infrastructure-as-a-Service.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.governance.ai">[Governance AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.governance.ai</span><span class="citation-popover-title">Accessing Controlled AI Chips via Infrastructure as a Service</span><span class="citation-popover-snippet">Governance AIAccessing Controlled AI Chips via Infrastructure-as-a-...15 Dec 2023 — Compared to physical chips, access to compute throug...</span></span></span>
 
-Critics of hardware-focused approaches also argue that software improvements can reduce dependence on the most advanced chips. If algorithmic efficiency improves quickly enough, organisations may be able to achieve important capability gains using less restricted hardware. That possibility could weaken the long-term impact of chip controls even if enforcement is relatively effective. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2604.04712" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Critics of hardware-focused approaches also argue that software improvements can reduce dependence on the most advanced chips. If algorithmic efficiency improves quickly enough, organisations may be able to achieve important capability gains using less restricted hardware. That possibility could weaken the long-term impact of chip controls even if enforcement is relatively effective.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2604.04712" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/234cxadMBSI" title="U.S.-China AI Race + Chip Bans Aren’t Working + A Lesson From Nuclear Proliferation | The Spillover" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=234cxadMBSI" target="_blank" rel="noopener noreferrer">U.S.-China AI Race + Chip Bans Aren’t Working + A Lesson From Nuclear Proliferation | The Spillover</a></p><p class="youtube-embed-meta">Channel: Council on Foreign Relations &middot; Views: 3.2K &middot; Uploaded: March 2026 &middot; Length: 58 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=234cxadMBSI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=234cxadMBSI">Open on YouTube</a></p></div></div></div>
 
@@ -338,9 +338,9 @@ Common suggestions include:
 * International cooperation on customs enforcement.
 * Monitoring of unusually large compute purchases.
 * Hardware security features that make chips easier to track or audit.
-* Licensing systems tied to the activation or operation of advanced chips. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2604.04712" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.governance.ai/Accessing_Controlled_AI_Chips_via_Infrastructure-as-a-Service.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.governance.ai">[Governance AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.governance.ai</span><span class="citation-popover-title">Accessing Controlled AI Chips via Infrastructure as a Service</span><span class="citation-popover-snippet">Governance AIAccessing Controlled AI Chips via Infrastructure-as-a-...15 Dec 2023 — Compared to physical chips, access to compute throug...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://csis-website-prod.s3.amazonaws.com/s3fs-public/2024-04/240409_Harithas_Chip_Smuggling.pdf?VersionId=894hzMieB.qJHkVVH2HS7g2m49.a92KR" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csis-website-prod.s3.amazonaws.com">[CSIS Website]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csis-website-prod.s3.amazonaws.com</span><span class="citation-popover-title">CSIS Website Mapping the Chip Smuggling Pipeline and Improving</span><span class="citation-popover-snippet">CSIS WebsiteMapping the Chip Smuggling Pipeline and Improving...April 9, 2024 — This will be implemented through a series of policies th...</span><span class="citation-popover-meta">Published: April 9, 2024</span></span></span>
+* Licensing systems tied to the activation or operation of advanced chips.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2604.04712" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.governance.ai/Accessing_Controlled_AI_Chips_via_Infrastructure-as-a-Service.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.governance.ai">[Governance AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.governance.ai</span><span class="citation-popover-title">Accessing Controlled AI Chips via Infrastructure as a Service</span><span class="citation-popover-snippet">Governance AIAccessing Controlled AI Chips via Infrastructure-as-a-...15 Dec 2023 — Compared to physical chips, access to compute throug...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://csis-website-prod.s3.amazonaws.com/s3fs-public/2024-04/240409_Harithas_Chip_Smuggling.pdf?VersionId=894hzMieB.qJHkVVH2HS7g2m49.a92KR" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csis-website-prod.s3.amazonaws.com">[CSIS Website]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csis-website-prod.s3.amazonaws.com</span><span class="citation-popover-title">CSIS Website Mapping the Chip Smuggling Pipeline and Improving</span><span class="citation-popover-snippet">CSIS WebsiteMapping the Chip Smuggling Pipeline and Improving...April 9, 2024 — This will be implemented through a series of policies th...</span><span class="citation-popover-meta">Published: April 9, 2024</span></span></span>
 
-Some researchers have proposed hardware-level governance systems, such as on-chip monitoring, cryptographic verification, or licensing mechanisms that could make unauthorised use easier to detect. Yet many of these ideas remain technically immature and face significant implementation challenges. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2604.04712" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Some researchers have proposed hardware-level governance systems, such as on-chip monitoring, cryptographic verification, or licensing mechanisms that could make unauthorised use easier to detect. Yet many of these ideas remain technically immature and face significant implementation challenges.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2604.04712" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Even the strongest enforcement regime would not solve every problem. Export controls cannot directly prevent algorithmic breakthroughs, open publication of techniques, domestic chip development, or the emergence of alternative computing architectures. They mainly target one bottleneck: access to large amounts of advanced compute.
 
@@ -349,199 +349,199 @@ That limitation is important for existential-risk analysis. If AI doom scenarios
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_ai_chip_expor_d56f2b_chip_control_20881e-Illustration-3-dark.svg" | relative_url }}" alt="Loopholes illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_ai_chip_expor_d56f2b_chip_control_20881e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_ai_chip_expor_d56f2b_chip_control_20881e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The bottom line
 
-The effectiveness of AI chip export controls depends at least as much on enforcement as on the formal rules themselves. Cloud computing, overseas subsidiaries, intermediary firms, smuggling networks, and grey markets all create routes through which access to advanced compute can leak. <span class="citation-chip-wrap"><a class="citation-chip" href="https://exportcompliancemanager.com/articles/will-the-remote-access-security-act-close-the-cloud-loophole-in-the-us-export-administration-regulations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exportcompliancemanager.com">[exportcompliancemanager.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exportcompliancemanager.com</span><span class="citation-popover-snippet">Chinese companies can train their AI models by remotely accessing the US cloud...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/china/us-takes-step-halt-nvidia-ai-chip-shipments-chinese-firms-outside-china-2026-05-31/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters For advocates of compute governance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Department of Commerce announced new guidance aimed at closing a loophole that potentially allowed subsidiaries of Chinese companies outs...</span></span></span>, these loopholes are not a side issue but the central implementation challenge. Export controls may still slow capability growth, raise costs, and buy time for safety work even when enforcement is imperfect. But their value for reducing AI existential risk ultimately depends on whether governments can meaningfully constrain access to the largest concentrations of frontier computing power rather than merely redirect how that access is obtained. <span class="citation-chip-wrap"><a class="citation-chip" href="https://csis-website-prod.s3.amazonaws.com/s3fs-public/2024-04/240409_Harithas_Chip_Smuggling.pdf?VersionId=894hzMieB.qJHkVVH2HS7g2m49.a92KR" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csis-website-prod.s3.amazonaws.com">[CSIS Website]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csis-website-prod.s3.amazonaws.com</span><span class="citation-popover-title">CSIS Website Mapping the Chip Smuggling Pipeline and Improving</span><span class="citation-popover-snippet">CSIS WebsiteMapping the Chip Smuggling Pipeline and Improving...April 9, 2024 — This will be implemented through a series of policies th...</span><span class="citation-popover-meta">Published: April 9, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.governance.ai/Accessing_Controlled_AI_Chips_via_Infrastructure-as-a-Service.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.governance.ai">[Governance AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.governance.ai</span><span class="citation-popover-title">Accessing Controlled AI Chips via Infrastructure as a Service</span><span class="citation-popover-snippet">Governance AIAccessing Controlled AI Chips via Infrastructure-as-a-...15 Dec 2023 — Compared to physical chips, access to compute throug...</span></span></span>
+The effectiveness of AI chip export controls depends at least as much on enforcement as on the formal rules themselves. Cloud computing, overseas subsidiaries, intermediary firms, smuggling networks, and grey markets all create routes through which access to advanced compute can leak.<span class="citation-chip-wrap"><a class="citation-chip" href="https://exportcompliancemanager.com/articles/will-the-remote-access-security-act-close-the-cloud-loophole-in-the-us-export-administration-regulations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exportcompliancemanager.com">[exportcompliancemanager.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exportcompliancemanager.com</span><span class="citation-popover-snippet">Chinese companies can train their AI models by remotely accessing the US cloud...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/china/us-takes-step-halt-nvidia-ai-chip-shipments-chinese-firms-outside-china-2026-05-31/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters For advocates of compute governance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Department of Commerce announced new guidance aimed at closing a loophole that potentially allowed subsidiaries of Chinese companies outs...</span></span></span>, these loopholes are not a side issue but the central implementation challenge. Export controls may still slow capability growth, raise costs, and buy time for safety work even when enforcement is imperfect. But their value for reducing AI existential risk ultimately depends on whether governments can meaningfully constrain access to the largest concentrations of frontier computing power rather than merely redirect how that access is obtained.<span class="citation-chip-wrap"><a class="citation-chip" href="https://csis-website-prod.s3.amazonaws.com/s3fs-public/2024-04/240409_Harithas_Chip_Smuggling.pdf?VersionId=894hzMieB.qJHkVVH2HS7g2m49.a92KR" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csis-website-prod.s3.amazonaws.com">[CSIS Website]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csis-website-prod.s3.amazonaws.com</span><span class="citation-popover-title">CSIS Website Mapping the Chip Smuggling Pipeline and Improving</span><span class="citation-popover-snippet">CSIS WebsiteMapping the Chip Smuggling Pipeline and Improving...April 9, 2024 — This will be implemented through a series of policies th...</span><span class="citation-popover-meta">Published: April 9, 2024</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.governance.ai/Accessing_Controlled_AI_Chips_via_Infrastructure-as-a-Service.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.governance.ai">[Governance AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.governance.ai</span><span class="citation-popover-title">Accessing Controlled AI Chips via Infrastructure as a Service</span><span class="citation-popover-snippet">Governance AIAccessing Controlled AI Chips via Infrastructure-as-a-...15 Dec 2023 — Compared to physical chips, access to compute throug...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Zs4aEEHAvHY" title="Three Investigated for Illegally Selling AI Chips to China | TaiwanPlus News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Zs4aEEHAvHY" target="_blank" rel="noopener noreferrer">Three Investigated for Illegally Selling AI Chips to China | TaiwanPlus News</a></p><p class="youtube-embed-meta">Channel: TaiwanPlus News &middot; Views: 280 &middot; Uploaded: May 2026 &middot; Length: 35 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Zs4aEEHAvHY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Zs4aEEHAvHY">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Where AI chip controls can leak. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Where AI chip controls can leak. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Chip+War+by+Chris+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chip War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fUVdEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Chip War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Chip+War+by+Chris+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chip War">Chip War</a>
-        </h4>
-        <p class="fr-book-author">By Chris Miller</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Chip+War+by+Chris+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chip War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fUVdEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Chip War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Chip+War+by+Chris+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chip War">Chip War</a>
+</h4>
+<p class="fr-book-author">By Chris Miller</p>
         
-        <p class="fr-book-desc">Essential background for export controls, supply chains, and enforcement loopholes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Chip+War+by+Chris+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Essential background for export controls, supply chains, and enforcement loopholes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Chip+War+by+Chris+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
-        </h4>
-        <p class="fr-book-author">By Mustafa Suleyman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
+</h4>
+<p class="fr-book-author">By Mustafa Suleyman</p>
         
-        <p class="fr-book-desc">Discusses compute governance and containment of advanced AI.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses compute governance and containment of advanced AI.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+New+Map+by+Daniel+Yergin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The New Map on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y5QFEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The New Map" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+New+Map+by+Daniel+Yergin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The New Map">The New Map</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Yergin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+New+Map+by+Daniel+Yergin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The New Map on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y5QFEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The New Map" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+New+Map+by+Daniel+Yergin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The New Map">The New Map</a>
+</h4>
+<p class="fr-book-author">By Daniel Yergin</p>
         
-        <p class="fr-book-desc">Helps explain strategic competition behind technology controls.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+New+Map+by+Daniel+Yergin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain strategic competition behind technology controls.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+New+Map+by+Daniel+Yergin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
-        </h4>
-        <p class="fr-book-author">By Christian Brose</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
+</h4>
+<p class="fr-book-author">By Christian Brose</p>
         
-        <p class="fr-book-desc">Covers strategic implications of advanced technologies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers strategic implications of advanced technologies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Chip+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Chip War</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+New+Map&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The New Map</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Chip+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Chip War</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+New+Map&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The New Map</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-ai-chip-controls-can-leak-computer-chip-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip model" data-ebay-reference="where-ai-chip-controls-can-leak-computer-chip-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ✅ Motherboard Commodore 64 C64 Model 250469 / 252311 REV B ⭐ 3 Chips Missing ⚡️"><img src="https://i.ebayimg.com/images/g/yewAAeSwgsVqD01q/s-l225.jpg" alt="Listing image for ✅ Motherboard Commodore 64 C64 Model 250469 / 252311 REV B ⭐ 3 Chips Missing ⚡️" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-ai-chip-controls-can-leak-computer-chip-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip model" data-ebay-reference="where-ai-chip-controls-can-leak-computer-chip-model" target="_blank" rel="sponsored noopener noreferrer">✅ Motherboard Commodore 64 C64 Model 250469 / 252311 REV B ⭐ 3 Chips Missing ⚡️</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-ai-chip-controls-can-leak-computer-chip-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip model" data-ebay-reference="where-ai-chip-controls-can-leak-computer-chip-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip model">Search <span data-ebay-domain-label>eBay.co.uk</span>: computer chip model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-ai-chip-controls-can-leak-computer-chip-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip model" data-ebay-reference="where-ai-chip-controls-can-leak-computer-chip-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-ai-chip-controls-can-leak-computer-chip-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip model" data-ebay-reference="where-ai-chip-controls-can-leak-computer-chip-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ✅ Motherboard Commodore 64 C64 Model 250469 / 252311 REV B ⭐ 3 Chips Missing ⚡️"><img src="https://i.ebayimg.com/images/g/yewAAeSwgsVqD01q/s-l225.jpg" alt="Listing image for ✅ Motherboard Commodore 64 C64 Model 250469 / 252311 REV B ⭐ 3 Chips Missing ⚡️" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-ai-chip-controls-can-leak-computer-chip-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip model" data-ebay-reference="where-ai-chip-controls-can-leak-computer-chip-model" target="_blank" rel="sponsored noopener noreferrer">✅ Motherboard Commodore 64 C64 Model 250469 / 252311 REV B ⭐ 3 Chips Missing ⚡️</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-ai-chip-controls-can-leak-computer-chip-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip model" data-ebay-reference="where-ai-chip-controls-can-leak-computer-chip-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip model">Search<span data-ebay-domain-label>eBay.co.uk</span>: computer chip model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-ai-chip-controls-can-leak-computer-chip-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip model" data-ebay-reference="where-ai-chip-controls-can-leak-computer-chip-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-ai-chip-controls-can-leak-computer-chip-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip model" data-ebay-reference="where-ai-chip-controls-can-leak-computer-chip-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MacBook Air 13&quot; 2024 M4 chip model - EMPTY BOX Only, A3240"><img src="https://i.ebayimg.com/images/g/s8wAAeSwUCNpVmn4/s-l225.jpg" alt="Listing image for MacBook Air 13&quot; 2024 M4 chip model - EMPTY BOX Only, A3240" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-ai-chip-controls-can-leak-computer-chip-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip model" data-ebay-reference="where-ai-chip-controls-can-leak-computer-chip-model" target="_blank" rel="sponsored noopener noreferrer">MacBook Air 13&quot; 2024 M4 chip model - EMPTY BOX Only, A3240</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-ai-chip-controls-can-leak-computer-chip-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip model" data-ebay-reference="where-ai-chip-controls-can-leak-computer-chip-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip model">Search <span data-ebay-domain-label>eBay.co.uk</span>: computer chip model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-ai-chip-controls-can-leak-computer-chip-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip model" data-ebay-reference="where-ai-chip-controls-can-leak-computer-chip-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-ai-chip-controls-can-leak-computer-chip-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip model" data-ebay-reference="where-ai-chip-controls-can-leak-computer-chip-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MacBook Air 13&quot; 2024 M4 chip model - EMPTY BOX Only, A3240"><img src="https://i.ebayimg.com/images/g/s8wAAeSwUCNpVmn4/s-l225.jpg" alt="Listing image for MacBook Air 13&quot; 2024 M4 chip model - EMPTY BOX Only, A3240" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-ai-chip-controls-can-leak-computer-chip-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip model" data-ebay-reference="where-ai-chip-controls-can-leak-computer-chip-model" target="_blank" rel="sponsored noopener noreferrer">MacBook Air 13&quot; 2024 M4 chip model - EMPTY BOX Only, A3240</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-ai-chip-controls-can-leak-computer-chip-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip model" data-ebay-reference="where-ai-chip-controls-can-leak-computer-chip-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip model">Search<span data-ebay-domain-label>eBay.co.uk</span>: computer chip model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-ai-chip-controls-can-leak-computer-chip-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip model" data-ebay-reference="where-ai-chip-controls-can-leak-computer-chip-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-ai-chip-controls-can-leak-computer-chip-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip model" data-ebay-reference="where-ai-chip-controls-can-leak-computer-chip-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRS-80 Model I Character Generator ROM Z29 Motorola SCM37530P TANDY 8046673 IC"><img src="https://i.ebayimg.com/images/g/rocAAOSwDKdltGkJ/s-l225.jpg" alt="Listing image for TRS-80 Model I Character Generator ROM Z29 Motorola SCM37530P TANDY 8046673 IC" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-ai-chip-controls-can-leak-computer-chip-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip model" data-ebay-reference="where-ai-chip-controls-can-leak-computer-chip-model" target="_blank" rel="sponsored noopener noreferrer">TRS-80 Model I Character Generator ROM Z29 Motorola SCM37530P TANDY 8046673 IC</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-ai-chip-controls-can-leak-computer-chip-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip model" data-ebay-reference="where-ai-chip-controls-can-leak-computer-chip-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip model">Search <span data-ebay-domain-label>eBay.co.uk</span>: computer chip model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-ai-chip-controls-can-leak-computer-chip-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip model" data-ebay-reference="where-ai-chip-controls-can-leak-computer-chip-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-ai-chip-controls-can-leak-computer-chip-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip model" data-ebay-reference="where-ai-chip-controls-can-leak-computer-chip-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRS-80 Model I Character Generator ROM Z29 Motorola SCM37530P TANDY 8046673 IC"><img src="https://i.ebayimg.com/images/g/rocAAOSwDKdltGkJ/s-l225.jpg" alt="Listing image for TRS-80 Model I Character Generator ROM Z29 Motorola SCM37530P TANDY 8046673 IC" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-ai-chip-controls-can-leak-computer-chip-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip model" data-ebay-reference="where-ai-chip-controls-can-leak-computer-chip-model" target="_blank" rel="sponsored noopener noreferrer">TRS-80 Model I Character Generator ROM Z29 Motorola SCM37530P TANDY 8046673 IC</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-ai-chip-controls-can-leak-computer-chip-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip model" data-ebay-reference="where-ai-chip-controls-can-leak-computer-chip-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip model">Search<span data-ebay-domain-label>eBay.co.uk</span>: computer chip model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-ai-chip-controls-can-leak-computer-chip-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip model" data-ebay-reference="where-ai-chip-controls-can-leak-computer-chip-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-ai-chip-controls-can-leak-computer-chip-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip model" data-ebay-reference="where-ai-chip-controls-can-leak-computer-chip-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ✅ Motherboard Commodore 64 C64 Model 250469 / 252311 REV B ⭐ 3 Chips Missing ⚡️"><img src="https://i.ebayimg.com/images/g/CuwAAeSw8fBp65mL/s-l225.jpg" alt="Listing image for ✅ Motherboard Commodore 64 C64 Model 250469 / 252311 REV B ⭐ 3 Chips Missing ⚡️" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-ai-chip-controls-can-leak-computer-chip-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip model" data-ebay-reference="where-ai-chip-controls-can-leak-computer-chip-model" target="_blank" rel="sponsored noopener noreferrer">✅ Motherboard Commodore 64 C64 Model 250469 / 252311 REV B ⭐ 3 Chips Missing ⚡️</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-ai-chip-controls-can-leak-computer-chip-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip model" data-ebay-reference="where-ai-chip-controls-can-leak-computer-chip-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip model">Search <span data-ebay-domain-label>eBay.co.uk</span>: computer chip model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-ai-chip-controls-can-leak-computer-chip-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip model" data-ebay-reference="where-ai-chip-controls-can-leak-computer-chip-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-ai-chip-controls-can-leak-computer-chip-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip model" data-ebay-reference="where-ai-chip-controls-can-leak-computer-chip-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-ai-chip-controls-can-leak-computer-chip-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip model" data-ebay-reference="where-ai-chip-controls-can-leak-computer-chip-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ✅ Motherboard Commodore 64 C64 Model 250469 / 252311 REV B ⭐ 3 Chips Missing ⚡️"><img src="https://i.ebayimg.com/images/g/CuwAAeSw8fBp65mL/s-l225.jpg" alt="Listing image for ✅ Motherboard Commodore 64 C64 Model 250469 / 252311 REV B ⭐ 3 Chips Missing ⚡️" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-ai-chip-controls-can-leak-computer-chip-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip model" data-ebay-reference="where-ai-chip-controls-can-leak-computer-chip-model" target="_blank" rel="sponsored noopener noreferrer">✅ Motherboard Commodore 64 C64 Model 250469 / 252311 REV B ⭐ 3 Chips Missing ⚡️</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-ai-chip-controls-can-leak-computer-chip-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip model" data-ebay-reference="where-ai-chip-controls-can-leak-computer-chip-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip model">Search<span data-ebay-domain-label>eBay.co.uk</span>: computer chip model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-ai-chip-controls-can-leak-computer-chip-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip model" data-ebay-reference="where-ai-chip-controls-can-leak-computer-chip-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+chip+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-ai-chip-controls-can-leak-computer-chip-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer chip model" data-ebay-reference="where-ai-chip-controls-can-leak-computer-chip-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -557,7 +557,7 @@ The effectiveness of AI chip export controls depends at least as much on enforce
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -577,7 +577,7 @@ The effectiveness of AI chip export controls depends at least as much on enforce
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -609,7 +609,7 @@ The effectiveness of AI chip export controls depends at least as much on enforce
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -661,7 +661,7 @@ The effectiveness of AI chip export controls depends at least as much on enforce
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -706,7 +706,7 @@ The effectiveness of AI chip export controls depends at least as much on enforce
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -747,126 +747,126 @@ The effectiveness of AI chip export controls depends at least as much on enforce
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cset.georgetown.edu  
    Title: CSETControlling Access to Advanced Compute via the Cloud  
-   Link: <a href="https://cset.georgetown.edu/article/controlling-access-to-advanced-compute-via-the-cloud/" target="_blank" rel="noopener noreferrer nofollow">https://cset.georgetown.edu/article/controlling-access-to-advanced-compute-via-the-cloud/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 15, 2023 — 15 May 2023 — This post identifies situations where it appears US export controls can be used to restrict cloud computing...</p></details>
+   Link:<a href="https://cset.georgetown.edu/article/controlling-access-to-advanced-compute-via-the-cloud/" target="_blank" rel="noopener noreferrer nofollow">https://cset.georgetown.edu/article/controlling-access-to-advanced-compute-via-the-cloud/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 15, 2023 — 15 May 2023 — This post identifies situations where it appears US export controls can be used to restrict cloud computing...</p></details>
    Published: May 15, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cdn.governance.ai  
    Title: Accessing Controlled AI Chips via Infrastructure as a Service  
-   Link: <a href="https://cdn.governance.ai/Accessing_Controlled_AI_Chips_via_Infrastructure-as-a-Service.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.governance.ai/Accessing_Controlled_AI_Chips_via_Infrastructure-as-a-Service.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Governance AIAccessing Controlled AI Chips via Infrastructure-as-a-...15 Dec 2023 — Compared to physical chips, access to compute throug...</p></details>
+   Link:<a href="https://cdn.governance.ai/Accessing_Controlled_AI_Chips_via_Infrastructure-as-a-Service.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.governance.ai/Accessing_Controlled_AI_Chips_via_Infrastructure-as-a-Service.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Governance AIAccessing Controlled AI Chips via Infrastructure-as-a-...15 Dec 2023 — Compared to physical chips, access to compute throug...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: exportcompliancemanager.com  
-   Link: <a href="https://exportcompliancemanager.com/articles/will-the-remote-access-security-act-close-the-cloud-loophole-in-the-us-export-administration-regulations/" target="_blank" rel="noopener noreferrer nofollow">https://exportcompliancemanager.com/articles/will-the-remote-access-security-act-close-the-cloud-loophole-in-the-us-export-administration-regulations/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chinese companies can train their AI models by remotely accessing the US cloud...Read more...</p></details>
+   Link:<a href="https://exportcompliancemanager.com/articles/will-the-remote-access-security-act-close-the-cloud-loophole-in-the-us-export-administration-regulations/" target="_blank" rel="noopener noreferrer nofollow">https://exportcompliancemanager.com/articles/will-the-remote-access-security-act-close-the-cloud-loophole-in-the-us-export-administration-regulations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chinese companies can train their AI models by remotely accessing the US cloud...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: introl.com  
    Title: remote access security act cloud loophole export controls 2026  
-   Link: <a href="https://introl.com/blog/remote-access-security-act-cloud-loophole-export-controls-2026" target="_blank" rel="noopener noreferrer nofollow">https://introl.com/blog/remote-access-security-act-cloud-loophole-export-controls-2026</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Remote Access Security Act | Introl Blog23 Jan 2026 — Current export controls prohibit selling advanced AI chips directly to China...</p></details>
+   Link:<a href="https://introl.com/blog/remote-access-security-act-cloud-loophole-export-controls-2026" target="_blank" rel="noopener noreferrer nofollow">https://introl.com/blog/remote-access-security-act-cloud-loophole-export-controls-2026</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Remote Access Security Act | Introl Blog23 Jan 2026 — Current export controls prohibit selling advanced AI chips directly to China...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/world/china/us-takes-step-halt-nvidia-ai-chip-shipments-chinese-firms-outside-china-2026-05-31/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/china/us-takes-step-halt-nvidia-ai-chip-shipments-chinese-firms-outside-china-2026-05-31/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Commerce announced new guidance aimed at closing a loophole that potentially allowed subsidiaries of Chinese companies outs...</p></details>
+   Link:<a href="https://www.reuters.com/world/china/us-takes-step-halt-nvidia-ai-chip-shipments-chinese-firms-outside-china-2026-05-31/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/china/us-takes-step-halt-nvidia-ai-chip-shipments-chinese-firms-outside-china-2026-05-31/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Commerce announced new guidance aimed at closing a loophole that potentially allowed subsidiaries of Chinese companies outs...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/world/china/us-justice-department-accuses-two-chinese-men-trying-smuggle-nvidia-chips-2025-12-09/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/china/us-justice-department-accuses-two-chinese-men-trying-smuggle-nvidia-chips-2025-12-09/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Justice Department has charged two Chinese men, Fanyue Gong and Benlin Yuan, with attempting to illegally smuggle Nvidia&#x27;s advanced H100...</p></details>
+   Link:<a href="https://www.reuters.com/world/china/us-justice-department-accuses-two-chinese-men-trying-smuggle-nvidia-chips-2025-12-09/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/china/us-justice-department-accuses-two-chinese-men-trying-smuggle-nvidia-chips-2025-12-09/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Justice Department has charged two Chinese men, Fanyue Gong and Benlin Yuan, with attempting to illegally smuggle Nvidia&#x27;s advanced H100...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2604.04712" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.04712</a>  
+   Link:<a href="https://arxiv.org/abs/2604.04712" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.04712</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
    Title: arXiv Whack-a-Chip: The Futility of Hardware-Centric Export Controls  
-   Link: <a href="https://arxiv.org/abs/2411.14425" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.14425</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Whack-a-Chip: The Futility of Hardware-Centric Export ControlsNovember 21, 2024...</p></details>
+   Link:<a href="https://arxiv.org/abs/2411.14425" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.14425</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Whack-a-Chip: The Futility of Hardware-Centric Export ControlsNovember 21, 2024...</p></details>
    Published: November 21, 2024  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2404.18308" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2404.18308</a>  
+   Link:<a href="https://arxiv.org/abs/2404.18308" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2404.18308</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: csis.org  
    Title: Understanding U.S  
-   Link: <a href="https://www.csis.org/analysis/understanding-us-allies-current-legal-authority-implement-ai-and-semiconductor-export" target="_blank" rel="noopener noreferrer nofollow">https://www.csis.org/analysis/understanding-us-allies-current-legal-authority-implement-ai-and-semiconductor-export</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Allies&#x27; Current Legal Authority to...14 Mar 2025 — This paper provides an in-depth analysis of US allies&#x27; export control authorities rel...</p></details>
+   Link:<a href="https://www.csis.org/analysis/understanding-us-allies-current-legal-authority-implement-ai-and-semiconductor-export" target="_blank" rel="noopener noreferrer nofollow">https://www.csis.org/analysis/understanding-us-allies-current-legal-authority-implement-ai-and-semiconductor-export</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Allies&#x27; Current Legal Authority to...14 Mar 2025 — This paper provides an in-depth analysis of US allies&#x27; export control authorities rel...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: tomshardware.com  
-   Link: <a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/taiwan-authorities-arrest-three-on-suspicion-of-smuggling-nvidia-chips-to-china-operation-allegedly-used-japan-as-transshipment-point-before-forwarding-banned-supermicro-servers-to-hong-kong" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/artificial-intelligence/taiwan-authorities-arrest-three-on-suspicion-of-smuggling-nvidia-chips-to-china-operation-allegedly-used-japan-as-transshipment-point-before-forwarding-banned-supermicro-servers-to-hong-kong</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>efforts to curb AI chip transfers. Prosecutors reported seizing 50 Super Micro servers with falsified documents, intended for Hong Kong v...</p></details>
+   Link:<a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/taiwan-authorities-arrest-three-on-suspicion-of-smuggling-nvidia-chips-to-china-operation-allegedly-used-japan-as-transshipment-point-before-forwarding-banned-supermicro-servers-to-hong-kong" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/artificial-intelligence/taiwan-authorities-arrest-three-on-suspicion-of-smuggling-nvidia-chips-to-china-operation-allegedly-used-japan-as-transshipment-point-before-forwarding-banned-supermicro-servers-to-hong-kong</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>efforts to curb AI chip transfers. Prosecutors reported seizing 50 Super Micro servers with falsified documents, intended for Hong Kong v...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: csis-website-prod.s3.amazonaws.com  
    Title: CSIS Website Mapping the Chip Smuggling Pipeline and Improving  
-   Link: <a href="https://csis-website-prod.s3.amazonaws.com/s3fs-public/2024-04/240409_Harithas_Chip_Smuggling.pdf?VersionId=894hzMieB.qJHkVVH2HS7g2m49.a92KR" target="_blank" rel="noopener noreferrer nofollow">https://csis-website-prod.s3.amazonaws.com/s3fs-public/2024-04/240409_Harithas_Chip_Smuggling.pdf?VersionId=894hzMieB.qJHkVVH2HS7g2m49.a92KR</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CSIS WebsiteMapping the Chip Smuggling Pipeline and Improving...April 9, 2024 — This will be implemented through a series of policies th...</p></details>
+   Link:<a href="https://csis-website-prod.s3.amazonaws.com/s3fs-public/2024-04/240409_Harithas_Chip_Smuggling.pdf?VersionId=894hzMieB.qJHkVVH2HS7g2m49.a92KR" target="_blank" rel="noopener noreferrer nofollow">https://csis-website-prod.s3.amazonaws.com/s3fs-public/2024-04/240409_Harithas_Chip_Smuggling.pdf?VersionId=894hzMieB.qJHkVVH2HS7g2m49.a92KR</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CSIS WebsiteMapping the Chip Smuggling Pipeline and Improving...April 9, 2024 — This will be implemented through a series of policies th...</p></details>
    Published: April 9, 2024  
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: businessinsider.com  
-   Link: <a href="https://www.businessinsider.com/nvidia-gpu-smuggling-operation-china-doj-arrests-2025-12" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/nvidia-gpu-smuggling-operation-china-doj-arrests-2025-12</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>authorities have dismantled a sophisticated chip-smuggling network that illegally exported Nvidia’s top-tier AI GPUs to China and Hong Ko...</p></details>
+   Link:<a href="https://www.businessinsider.com/nvidia-gpu-smuggling-operation-china-doj-arrests" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/nvidia-gpu-smuggling-operation-china-doj-arrests</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>authorities have dismantled a sophisticated chip-smuggling network that illegally exported Nvidia’s top-tier AI GPUs to China and Hong Ko...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cnas.org  
-   Link: <a href="https://www.cnas.org/publications/commentary/chinese-firms-are-evading-chip-controls" target="_blank" rel="noopener noreferrer nofollow">https://www.cnas.org/publications/commentary/chinese-firms-are-evading-chip-controls</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chinese Firms Are Evading Chip ControlsThe chip-specific controls attempted to ban Chinese entities from procuring advanced AI chips base...</p></details>
+   Link:<a href="https://www.cnas.org/publications/commentary/chinese-firms-are-evading-chip-controls" target="_blank" rel="noopener noreferrer nofollow">https://www.cnas.org/publications/commentary/chinese-firms-are-evading-chip-controls</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chinese Firms Are Evading Chip ControlsThe chip-specific controls attempted to ban Chinese entities from procuring advanced AI chips base...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: iaps.ai  
-   Link: <a href="https://www.iaps.ai/research/tag/Compute%2Bgovernance" target="_blank" rel="noopener noreferrer nofollow">https://www.iaps.ai/research/tag/Compute%2Bgovernance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Compute governance — ResearchAdding location verification features to AI chips could unlock new governance mechanisms for regulators, hel...</p></details>
+   Link:<a href="https://www.iaps.ai/research/tag/Compute%2Bgovernance" target="_blank" rel="noopener noreferrer nofollow">https://www.iaps.ai/research/tag/Compute%2Bgovernance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Compute governance — ResearchAdding location verification features to AI chips could unlock new governance mechanisms for regulators, hel...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: rebuilding.tech  
-   Link: <a href="https://www.rebuilding.tech/posts/conditional-export-controls-on-ai-chips" target="_blank" rel="noopener noreferrer nofollow">https://www.rebuilding.tech/posts/conditional-export-controls-on-ai-chips</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Techno-Industrial Policy PlaybookConditional Export Controls on AI ChipsThis approach allows BIS to specify the conditions under which ex...</p></details>
+   Link:<a href="https://www.rebuilding.tech/posts/conditional-export-controls-on-ai-chips" target="_blank" rel="noopener noreferrer nofollow">https://www.rebuilding.tech/posts/conditional-export-controls-on-ai-chips</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Techno-Industrial Policy PlaybookConditional Export Controls on AI ChipsThis approach allows BIS to specify the conditions under which ex...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: astutegroup.com  
-   Link: <a href="https://www.astutegroup.com/news/general/headline-us-crackdown-on-nvidia-chip-smuggling-tightens-supply-scrutiny-as-china-localisation-accelerates/" target="_blank" rel="noopener noreferrer nofollow">https://www.astutegroup.com/news/general/headline-us-crackdown-on-nvidia-chip-smuggling-tightens-supply-scrutiny-as-china-localisation-accelerates/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US crackdown on Nvidia chip smuggling tightens supply...US prosecutors have charged technology executives with illegally shipping advanc...</p></details>
+   Link:<a href="https://www.astutegroup.com/news/general/headline-us-crackdown-on-nvidia-chip-smuggling-tightens-supply-scrutiny-as-china-localisation-accelerates/" target="_blank" rel="noopener noreferrer nofollow">https://www.astutegroup.com/news/general/headline-us-crackdown-on-nvidia-chip-smuggling-tightens-supply-scrutiny-as-china-localisation-accelerates/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US crackdown on Nvidia chip smuggling tightens supply...US prosecutors have charged technology executives with illegally shipping advanc...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: eenewseurope.com  
    Title: ee News Europe AI chip export controls: House targets cloud GPU rentals  
-   Link: <a href="https://www.eenewseurope.com/en/ai-chip-export-controls-cloud-remote-access-security-act/" target="_blank" rel="noopener noreferrer nofollow">https://www.eenewseurope.com/en/ai-chip-export-controls-cloud-remote-access-security-act/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>13 Jan 2026 — The US House of Representatives has passed a bipartisan bill intended to close what lawmakers see as a “cloud loophole” in...</p></details>
+   Link:<a href="https://www.eenewseurope.com/en/ai-chip-export-controls-cloud-remote-access-security-act/" target="_blank" rel="noopener noreferrer nofollow">https://www.eenewseurope.com/en/ai-chip-export-controls-cloud-remote-access-security-act/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>13 Jan 2026 — The US House of Representatives has passed a bipartisan bill intended to close what lawmakers see as a “cloud loophole” in...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: kharon.com  
    Title: managing export controls compliance across advanced technology sectors  
-   Link: <a href="https://www.kharon.com/resources/article/export-controls/managing-export-controls-compliance-across-advanced-technology-sectors" target="_blank" rel="noopener noreferrer nofollow">https://www.kharon.com/resources/article/export-controls/managing-export-controls-compliance-across-advanced-technology-sectors</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI &amp; Semiconductor Export Controls Compliance12 Feb 2026 — Stay ahead of fast-changing AI and semiconductor export controls. Learn how Kh...</p></details>
+   Link:<a href="https://www.kharon.com/resources/article/export-controls/managing-export-controls-compliance-across-advanced-technology-sectors" target="_blank" rel="noopener noreferrer nofollow">https://www.kharon.com/resources/article/export-controls/managing-export-controls-compliance-across-advanced-technology-sectors</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI &amp; Semiconductor Export Controls Compliance12 Feb 2026 — Stay ahead of fast-changing AI and semiconductor export controls. Learn how Kh...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: laweconcenter.org  
    Title: us export controls on ai and semiconductors two divergent visions  
-   Link: <a href="https://laweconcenter.org/resources/us-export-controls-on-ai-and-semiconductors-two-divergent-visions/" target="_blank" rel="noopener noreferrer nofollow">https://laweconcenter.org/resources/us-export-controls-on-ai-and-semiconductors-two-divergent-visions/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US Export Controls on AI and Semiconductors24 Mar 2025 — The United States currently stands at a critical strategic crossroads regarding...</p></details>
+   Link:<a href="https://laweconcenter.org/resources/us-export-controls-on-ai-and-semiconductors-two-divergent-visions/" target="_blank" rel="noopener noreferrer nofollow">https://laweconcenter.org/resources/us-export-controls-on-ai-and-semiconductors-two-divergent-visions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US Export Controls on AI and Semiconductors24 Mar 2025 — The United States currently stands at a critical strategic crossroads regarding...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: economist.com  
    Title: a new case of chip smuggling shows the limits of export controls  
-   Link: <a href="https://www.economist.com/business/2026/03/26/a-new-case-of-chip-smuggling-shows-the-limits-of-export-controls" target="_blank" rel="noopener noreferrer nofollow">https://www.economist.com/business/2026/03/26/a-new-case-of-chip-smuggling-shows-the-limits-of-export-controls</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A new case of chip smuggling shows the limits of export...26 Mar 2026 — Federal prosecutors charged Supermicro&#x27;s co-founder with smuggli...</p></details>
+   Link:<a href="https://www.economist.com/business/2026/03/26/a-new-case-of-chip-smuggling-shows-the-limits-of-export-controls" target="_blank" rel="noopener noreferrer nofollow">https://www.economist.com/business/2026/03/26/a-new-case-of-chip-smuggling-shows-the-limits-of-export-controls</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A new case of chip smuggling shows the limits of export...26 Mar 2026 — Federal prosecutors charged Supermicro&#x27;s co-founder with smuggli...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: mofo.com  
    Title: 260209 managing export control risks in the ai chip ecosystem  
-   Link: <a href="https://www.mofo.com/resources/insights/260209-managing-export-control-risks-in-the-ai-chip-ecosystem" target="_blank" rel="noopener noreferrer nofollow">https://www.mofo.com/resources/insights/260209-managing-export-control-risks-in-the-ai-chip-ecosystem</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Managing Export Control Risks in the AI Chip Ecosystem9 Feb 2026 — This article summarizes recent policy developments and key enforcement...</p></details>
+   Link:<a href="https://www.mofo.com/resources/insights/260209-managing-export-control-risks-in-the-ai-chip-ecosystem" target="_blank" rel="noopener noreferrer nofollow">https://www.mofo.com/resources/insights/260209-managing-export-control-risks-in-the-ai-chip-ecosystem</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Managing Export Control Risks in the AI Chip Ecosystem9 Feb 2026 — This article summarizes recent policy developments and key enforcement...</p></details>

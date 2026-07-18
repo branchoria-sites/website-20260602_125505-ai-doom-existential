@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-ai-race-dynam/
 description: Focused pages that expand on Shared Rules.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_ai_race_dynam_a5d049_shared_rules_1a74cf
 parent_title: Shared Rules
@@ -16,7 +16,7 @@ parent_permalink: /shared-rules/
 
 # Explore Topics in Shared Rules
 
-The following pages expand on the main **[Shared Rules]({{ '/shared-rules/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Shared Rules]({{ '/shared-rules/' | relative_url }})** page and cover its key branches in.
 
 - [Thresholds]({{ '/thresholds-ed4586/' | relative_url }})
 - [Seoul pledges]({{ '/seoul-pledges/' | relative_url }})

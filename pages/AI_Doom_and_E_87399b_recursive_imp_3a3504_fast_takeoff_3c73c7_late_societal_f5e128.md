@@ -275,16 +275,16 @@ image: /assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c7
 
 ## Introduction
 
-One of the central claims in hard-takeoff or FOOM (fast intelligence explosion) arguments is that the most obvious signs of disruption may not be the most useful warnings. Stock-market turmoil, mass unemployment, political instability, or dramatic social change would certainly attract public attention. The concern is that these events might occur only after the crucial transition has already happened: the point at which AI systems become capable enough to accelerate their own development, evade effective oversight, or gain decisive strategic advantages. <span class="citation-chip-wrap"><a class="citation-chip" href="https://intelligence.org/ai-foom-debate/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intelligence.org">[Machine Intelligence Research Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intelligence.org</span><span class="citation-popover-snippet">Machine Intelligence Research InstituteThe Hanson-Yudkowsky AI-Foom Debate eBookNovember 6, 2024 — In late 2008, economist Robin Hanson a...</span><span class="citation-popover-meta">Published: November 6, 2024</span></span></span>
+One of the central claims in hard-takeoff or FOOM (fast intelligence explosion) arguments is that the most obvious signs of disruption may not be the most useful warnings. Stock-market turmoil, mass unemployment, political instability, or dramatic social change would certainly attract public attention. The concern is that these events might occur only after the crucial transition has already happened: the point at which AI systems become capable enough to accelerate their own development, evade effective oversight, or gain decisive strategic advantages.<span class="citation-chip-wrap"><a class="citation-chip" href="https://intelligence.org/ai-foom-debate/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intelligence.org">[Machine Intelligence Research Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intelligence.org</span><span class="citation-popover-snippet">Machine Intelligence Research InstituteThe Hanson-Yudkowsky AI-Foom Debate eBookNovember 6, 2024 — In late 2008, economist Robin Hanson a...</span><span class="citation-popover-meta">Published: November 6, 2024</span></span></span>
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_late_societal_f5e128-Illustration-1-dark.svg" | relative_url }}" alt="Late alarms illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_late_societal_f5e128-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_late_societal_f5e128-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This creates an uncomfortable possibility for AI doom scenarios. A world waiting for visible social disruption before treating advanced AI as an existential risk could be looking at lagging indicators rather than leading ones. By the time ordinary institutions recognise that something extraordinary is happening, the underlying capability jump may already be well underway or complete. <span class="citation-chip-wrap"><a class="citation-chip" href="https://intelligence.org/ai-foom-debate/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intelligence.org">[Machine Intelligence Research Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intelligence.org</span><span class="citation-popover-snippet">Machine Intelligence Research InstituteThe Hanson-Yudkowsky AI-Foom Debate eBookNovember 6, 2024 — In late 2008, economist Robin Hanson a...</span><span class="citation-popover-meta">Published: November 6, 2024</span></span></span>
+This creates an uncomfortable possibility for AI doom scenarios. A world waiting for visible social disruption before treating advanced AI as an existential risk could be looking at lagging indicators rather than leading ones. By the time ordinary institutions recognise that something extraordinary is happening, the underlying capability jump may already be well underway or complete.<span class="citation-chip-wrap"><a class="citation-chip" href="https://intelligence.org/ai-foom-debate/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intelligence.org">[Machine Intelligence Research Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intelligence.org</span><span class="citation-popover-snippet">Machine Intelligence Research InstituteThe Hanson-Yudkowsky AI-Foom Debate eBookNovember 6, 2024 — In late 2008, economist Robin Hanson a...</span><span class="citation-popover-meta">Published: November 6, 2024</span></span></span>
 
 ## Why public signals lag technical capability
 
 Most social and economic indicators measure effects rather than causes. Unemployment rises after firms change their hiring behaviour. Political systems react after economic incentives shift. Financial markets often respond only once participants recognise that a technological change is commercially important.
 
-Hard-takeoff advocates argue that a decisive AI capability transition could occur upstream of all these visible effects. The first systems capable of accelerating AI research might exist inside a small number of laboratories, data centres, government programmes, or corporate environments long before the wider public experiences major disruption. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alignmentforum.org/posts/hRohhttbtpY3SHmmD/takeoff-speeds-have-a-huge-effect-on-what-it-means-to-work-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alignmentforum.org">[AI Alignment Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alignmentforum.org</span><span class="citation-popover-title">takeoff speeds have a huge effect on what it means to work 1</span><span class="citation-popover-snippet">Whether AI is a...</span></span></span>
+Hard-takeoff advocates argue that a decisive AI capability transition could occur upstream of all these visible effects. The first systems capable of accelerating AI research might exist inside a small number of laboratories, data centres, government programmes, or corporate environments long before the wider public experiences major disruption.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alignmentforum.org/posts/hRohhttbtpY3SHmmD/takeoff-speeds-have-a-huge-effect-on-what-it-means-to-work-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alignmentforum.org">[AI Alignment Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alignmentforum.org</span><span class="citation-popover-title">takeoff speeds have a huge effect on what it means to work 1</span><span class="citation-popover-snippet">Whether AI is a...</span></span></span>
 
 In this view, the sequence is not:
 
@@ -302,11 +302,11 @@ Instead, the sequence could be:
 1. AI becomes extremely effective at research, engineering, planning, or persuasion.
 2. Organisations using it gain large advantages.
 3. Capabilities continue to compound.
-4. Only later do economic and political consequences become obvious. <span class="citation-chip-wrap"><a class="citation-chip" href="https://intelligence.org/ai-foom-debate/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intelligence.org">[Machine Intelligence Research Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intelligence.org</span><span class="citation-popover-snippet">Machine Intelligence Research InstituteThe Hanson-Yudkowsky AI-Foom Debate eBookNovember 6, 2024 — In late 2008, economist Robin Hanson a...</span><span class="citation-popover-meta">Published: November 6, 2024</span></span></span>
+4. Only later do economic and political consequences become obvious.<span class="citation-chip-wrap"><a class="citation-chip" href="https://intelligence.org/ai-foom-debate/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intelligence.org">[Machine Intelligence Research Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intelligence.org</span><span class="citation-popover-snippet">Machine Intelligence Research InstituteThe Hanson-Yudkowsky AI-Foom Debate eBookNovember 6, 2024 — In late 2008, economist Robin Hanson a...</span><span class="citation-popover-meta">Published: November 6, 2024</span></span></span>
 
 </div>
 
-A useful comparison is financial crises. Many crises appear sudden to the public, but the underlying vulnerabilities often accumulated for years. By the time markets visibly collapse, the decisive events have already occurred. FOOM proponents argue that advanced AI could create an even larger gap between underlying reality and public perception. <span class="citation-chip-wrap"><a class="citation-chip" href="https://intelligence.org/ai-foom-debate/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intelligence.org">[Machine Intelligence Research Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intelligence.org</span><span class="citation-popover-snippet">Machine Intelligence Research InstituteThe Hanson-Yudkowsky AI-Foom Debate eBookNovember 6, 2024 — In late 2008, economist Robin Hanson a...</span><span class="citation-popover-meta">Published: November 6, 2024</span></span></span>
+A useful comparison is financial crises. Many crises appear sudden to the public, but the underlying vulnerabilities often accumulated for years. By the time markets visibly collapse, the decisive events have already occurred. FOOM proponents argue that advanced AI could create an even larger gap between underlying reality and public perception.<span class="citation-chip-wrap"><a class="citation-chip" href="https://intelligence.org/ai-foom-debate/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intelligence.org">[Machine Intelligence Research Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intelligence.org</span><span class="citation-popover-snippet">Machine Intelligence Research InstituteThe Hanson-Yudkowsky AI-Foom Debate eBookNovember 6, 2024 — In late 2008, economist Robin Hanson a...</span><span class="citation-popover-meta">Published: November 6, 2024</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RljBVCnt9AQ" title="We&#x27;re Entering The Most Dangerous Phase Of AI Yet | AI Architects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RljBVCnt9AQ" target="_blank" rel="noopener noreferrer">We&#x27;re Entering The Most Dangerous Phase Of AI Yet | AI Architects</a></p><p class="youtube-embed-meta">Channel: Business Insider &middot; Views: 677.8K &middot; Uploaded: April 2026 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RljBVCnt9AQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RljBVCnt9AQ">Open on YouTube</a></p></div></div></div>
 
@@ -314,15 +314,15 @@ A useful comparison is financial crises. Many crises appear sudden to the public
 
 A major source of disagreement in AI-risk debates concerns whether future AI development will resemble previous technological revolutions.
 
-In a gradual-transition model, society receives repeated warnings. AI systems steadily automate more jobs, businesses adapt over time, regulators respond, and the public becomes familiar with increasingly capable systems. By the time transformative AI arrives, institutions have already had years to learn from earlier deployments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alignmentforum.org/posts/hRohhttbtpY3SHmmD/takeoff-speeds-have-a-huge-effect-on-what-it-means-to-work-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alignmentforum.org">[AI Alignment Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alignmentforum.org</span><span class="citation-popover-title">takeoff speeds have a huge effect on what it means to work 1</span><span class="citation-popover-snippet">Whether AI is a...</span></span></span>
+In a gradual-transition model, society receives repeated warnings. AI systems steadily automate more jobs, businesses adapt over time, regulators respond, and the public becomes familiar with increasingly capable systems. By the time transformative AI arrives, institutions have already had years to learn from earlier deployments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alignmentforum.org/posts/hRohhttbtpY3SHmmD/takeoff-speeds-have-a-huge-effect-on-what-it-means-to-work-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alignmentforum.org">[AI Alignment Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alignmentforum.org</span><span class="citation-popover-title">takeoff speeds have a huge effect on what it means to work 1</span><span class="citation-popover-snippet">Whether AI is a...</span></span></span>
 
 Hard-takeoff arguments reject the assumption that future capability growth must resemble past technological diffusion. They focus on a specific mechanism: AI systems helping to build better AI systems.
 
-If AI becomes a major contributor to AI research itself, then capability improvements could arrive faster than social adaptation mechanisms. Researchers sometimes describe this as recursive self-improvement, though modern discussions often focus less on dramatic self-rewriting and more on AI accelerating the entire research and development cycle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://intelligence.org/ai-foom-debate/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intelligence.org">[Machine Intelligence Research Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intelligence.org</span><span class="citation-popover-snippet">Machine Intelligence Research InstituteThe Hanson-Yudkowsky AI-Foom Debate eBookNovember 6, 2024 — In late 2008, economist Robin Hanson a...</span><span class="citation-popover-meta">Published: November 6, 2024</span></span></span>
+If AI becomes a major contributor to AI research itself, then capability improvements could arrive faster than social adaptation mechanisms. Researchers sometimes describe this as recursive self-improvement, though modern discussions often focus less on dramatic self-rewriting and more on AI accelerating the entire research and development cycle.<span class="citation-chip-wrap"><a class="citation-chip" href="https://intelligence.org/ai-foom-debate/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intelligence.org">[Machine Intelligence Research Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intelligence.org</span><span class="citation-popover-snippet">Machine Intelligence Research InstituteThe Hanson-Yudkowsky AI-Foom Debate eBookNovember 6, 2024 — In late 2008, economist Robin Hanson a...</span><span class="citation-popover-meta">Published: November 6, 2024</span></span></span>
 
-Under this model, the critical period is not when AI replaces large numbers of workers. The critical period is when AI starts substantially shortening the time required for major advances in algorithms, training methods, engineering, or scientific discovery. Economic disruption may appear only after those capability gains have already accumulated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://intelligence.org/ai-foom-debate/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intelligence.org">[Machine Intelligence Research Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intelligence.org</span><span class="citation-popover-snippet">Machine Intelligence Research InstituteThe Hanson-Yudkowsky AI-Foom Debate eBookNovember 6, 2024 — In late 2008, economist Robin Hanson a...</span><span class="citation-popover-meta">Published: November 6, 2024</span></span></span>
+Under this model, the critical period is not when AI replaces large numbers of workers. The critical period is when AI starts substantially shortening the time required for major advances in algorithms, training methods, engineering, or scientific discovery. Economic disruption may appear only after those capability gains have already accumulated.<span class="citation-chip-wrap"><a class="citation-chip" href="https://intelligence.org/ai-foom-debate/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intelligence.org">[Machine Intelligence Research Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intelligence.org</span><span class="citation-popover-snippet">Machine Intelligence Research InstituteThe Hanson-Yudkowsky AI-Foom Debate eBookNovember 6, 2024 — In late 2008, economist Robin Hanson a...</span><span class="citation-popover-meta">Published: November 6, 2024</span></span></span>
 
-This is why some FOOM discussions place more weight on indicators such as AI-assisted AI research, autonomous scientific work, rapid capability jumps between model generations, and shrinking intervals between breakthroughs than on conventional economic statistics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alignmentforum.org/posts/hRohhttbtpY3SHmmD/takeoff-speeds-have-a-huge-effect-on-what-it-means-to-work-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alignmentforum.org">[AI Alignment Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alignmentforum.org</span><span class="citation-popover-title">takeoff speeds have a huge effect on what it means to work 1</span><span class="citation-popover-snippet">Whether AI is a...</span></span></span>
+This is why some FOOM discussions place more weight on indicators such as AI-assisted AI research, autonomous scientific work, rapid capability jumps between model generations, and shrinking intervals between breakthroughs than on conventional economic statistics.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alignmentforum.org/posts/hRohhttbtpY3SHmmD/takeoff-speeds-have-a-huge-effect-on-what-it-means-to-work-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alignmentforum.org">[AI Alignment Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alignmentforum.org</span><span class="citation-popover-title">takeoff speeds have a huge effect on what it means to work 1</span><span class="citation-popover-snippet">Whether AI is a...</span></span></span>
 
 ## What forecasters could miss before a hard takeoff
 
@@ -333,13 +333,13 @@ A common assumption in public discussion is that transformative AI would announc
 
 Advanced capabilities can emerge inside relatively small technical communities. A model that dramatically improves cybersecurity, scientific research, software engineering, or strategic planning may initially be used by only a handful of organisations.
 
-The wider public might see only incremental product improvements while the most important capabilities remain confined to specialised settings. By the time those capabilities diffuse into the broader economy, they may already have advanced significantly further. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alignmentforum.org/posts/hRohhttbtpY3SHmmD/takeoff-speeds-have-a-huge-effect-on-what-it-means-to-work-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alignmentforum.org">[AI Alignment Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alignmentforum.org</span><span class="citation-popover-title">takeoff speeds have a huge effect on what it means to work 1</span><span class="citation-popover-snippet">Whether AI is a...</span></span></span>
+The wider public might see only incremental product improvements while the most important capabilities remain confined to specialised settings. By the time those capabilities diffuse into the broader economy, they may already have advanced significantly further.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alignmentforum.org/posts/hRohhttbtpY3SHmmD/takeoff-speeds-have-a-huge-effect-on-what-it-means-to-work-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alignmentforum.org">[AI Alignment Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alignmentforum.org</span><span class="citation-popover-title">takeoff speeds have a huge effect on what it means to work 1</span><span class="citation-popover-snippet">Whether AI is a...</span></span></span>
 
 ### Physical reality can lag behind digital capability
 
 Even if an AI system becomes dramatically more capable, factories, supply chains, infrastructure projects, and labour markets still take time to change.
 
-This means the physical world can appear relatively normal while digital systems experience much faster improvement. A capability explosion in software, research, planning, or cyber operations could precede visible economic transformation by months or years. Critics of hard-takeoff scenarios often emphasise these physical bottlenecks, but FOOM advocates respond that existential risk may depend more on [loss of control]({{ 'loss-of-control/' | relative_url }}) than on immediate physical transformation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://scottaaronson.blog/?p=6821" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scottaaronson.blog">[Shtetl-Optimized]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scottaaronson.blog</span><span class="citation-popover-title">Shtetl-Optimized Reform AI Alignment</span><span class="citation-popover-snippet">Shtetl-OptimizedReform AI AlignmentNovember 20, 2022 — 20 Nov 2022 — We Reform AI-riskers believe that, here just like in high school, th...</span><span class="citation-popover-meta">Published: November 20, 2022</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://marginalrevolution.com/marginalrevolution/2025/02/why-i-think-ai-take-off-is-relatively-slow.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marginalrevolution.com">[Marginal REVOLUTION]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marginalrevolution.com</span><span class="citation-popover-snippet">ome a larger share of the economy over time.Read more...</span></span></span>
+This means the physical world can appear relatively normal while digital systems experience much faster improvement. A capability explosion in software, research, planning, or cyber operations could precede visible economic transformation by months or years. Critics of hard-takeoff scenarios often emphasise these physical bottlenecks, but FOOM advocates respond that existential risk may depend more on [loss of control]({{ 'loss-of-control/' | relative_url }}) than on immediate physical transformation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://scottaaronson.blog/?p=6821" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scottaaronson.blog">[Shtetl-Optimized]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scottaaronson.blog</span><span class="citation-popover-title">Shtetl-Optimized Reform AI Alignment</span><span class="citation-popover-snippet">Shtetl-OptimizedReform AI AlignmentNovember 20, 2022 — 20 Nov 2022 — We Reform AI-riskers believe that, here just like in high school, th...</span><span class="citation-popover-meta">Published: November 20, 2022</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://marginalrevolution.com/marginalrevolution/2025/02/why-i-think-ai-take-off-is-relatively-slow.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marginalrevolution.com">[Marginal REVOLUTION]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marginalrevolution.com</span><span class="citation-popover-snippet">ome a larger share of the economy over time.Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/28Y0v5epLE4" title="Why Eliezer Yudkowsky is Wrong with Robin Hanson" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=28Y0v5epLE4" target="_blank" rel="noopener noreferrer">Why Eliezer Yudkowsky is Wrong with Robin Hanson</a></p><p class="youtube-embed-meta">Channel: Bankless &middot; Views: 47.1K &middot; Uploaded: April 2023 &middot; Length: 1 hour 45 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=28Y0v5epLE4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=28Y0v5epLE4">Open on YouTube</a></p></div></div></div>
 
@@ -347,7 +347,7 @@ This means the physical world can appear relatively normal while digital systems
 
 Human organisations are accustomed to gradual technological change. If capability gains arrive faster than expected, decision-makers may repeatedly classify [warning signs]({{ 'warning-signs/' | relative_url }}) as temporary anomalies.
 
-A sudden jump in research productivity might be attributed to better tools. Rapid scientific breakthroughs might be treated as ordinary progress. Economic advantages gained by AI-heavy organisations might initially appear as normal competitive success. In a fast-takeoff scenario, these interpretations could delay recognition of what is actually happening. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forethought.org/research/preparing-for-the-intelligence-explosion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forethought.org">[Forethought]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forethought.org</span><span class="citation-popover-snippet">Preparing for the Intelligence Explosion - Forethoughtby W MacAskill · Cited by 22 — The challenge of harnessing AI&#x27;s ability...</span></span></span>
+A sudden jump in research productivity might be attributed to better tools. Rapid scientific breakthroughs might be treated as ordinary progress. Economic advantages gained by AI-heavy organisations might initially appear as normal competitive success. In a fast-takeoff scenario, these interpretations could delay recognition of what is actually happening.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forethought.org/research/preparing-for-the-intelligence-explosion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forethought.org">[Forethought]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forethought.org</span><span class="citation-popover-snippet">Preparing for the Intelligence Explosion - Forethoughtby W MacAskill · Cited by 22 — The challenge of harnessing AI&#x27;s ability...</span></span></span>
 
 ## Why this matters for AI doom arguments
 
@@ -355,293 +355,293 @@ The claim that societal disruption may be a late alarm is not merely a forecasti
 
 If major public disruption occurs before existential danger emerges, then societies retain opportunities to react. Governments can regulate, companies can slow deployment, researchers can improve safety methods, and international coordination remains possible.
 
-If, however, the most visible disruptions arrive after the decisive capability transition, then waiting for obvious evidence becomes much less attractive as a risk-management strategy. In that world, warning systems need to focus on technical indicators closer to the source of capability growth rather than on downstream social consequences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://intelligence.org/ai-foom-debate/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intelligence.org">[Machine Intelligence Research Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intelligence.org</span><span class="citation-popover-snippet">Machine Intelligence Research InstituteThe Hanson-Yudkowsky AI-Foom Debate eBookNovember 6, 2024 — In late 2008, economist Robin Hanson a...</span><span class="citation-popover-meta">Published: November 6, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/AI_alignment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[AI Alignment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">AI alignment</span></span></span>
+If, however, the most visible disruptions arrive after the decisive capability transition, then waiting for obvious evidence becomes much less attractive as a risk-management strategy. In that world, warning systems need to focus on technical indicators closer to the source of capability growth rather than on downstream social consequences.<span class="citation-chip-wrap"><a class="citation-chip" href="https://intelligence.org/ai-foom-debate/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intelligence.org">[Machine Intelligence Research Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intelligence.org</span><span class="citation-popover-snippet">Machine Intelligence Research InstituteThe Hanson-Yudkowsky AI-Foom Debate eBookNovember 6, 2024 — In late 2008, economist Robin Hanson a...</span><span class="citation-popover-meta">Published: November 6, 2024</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/AI_alignment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[AI Alignment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">AI alignment</span></span></span>
 
-This logic helps explain why many AI safety researchers place unusual emphasis on [evaluations]({{ 'evaluations/' | relative_url }}), [interpretability]({{ 'interpretability/' | relative_url }}) research, monitoring frontier systems, tracking AI-assisted AI development, and understanding emerging autonomous capabilities. The goal is to detect important changes before they appear in unemployment statistics, election outcomes, GDP figures, or financial markets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forethought.org/research/preparing-for-the-intelligence-explosion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forethought.org">[Forethought]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forethought.org</span><span class="citation-popover-snippet">Preparing for the Intelligence Explosion - Forethoughtby W MacAskill · Cited by 22 — The challenge of harnessing AI&#x27;s ability...</span></span></span>
+This logic helps explain why many AI safety researchers place unusual emphasis on [evaluations]({{ 'evaluations/' | relative_url }}), [interpretability]({{ 'interpretability/' | relative_url }}) research, monitoring frontier systems, tracking AI-assisted AI development, and understanding emerging autonomous capabilities. The goal is to detect important changes before they appear in unemployment statistics, election outcomes, GDP figures, or financial markets.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forethought.org/research/preparing-for-the-intelligence-explosion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forethought.org">[Forethought]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forethought.org</span><span class="citation-popover-snippet">Preparing for the Intelligence Explosion - Forethoughtby W MacAskill · Cited by 22 — The challenge of harnessing AI&#x27;s ability...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_late_societal_f5e128-Illustration-3-dark.svg" | relative_url }}" alt="Late alarms illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_late_societal_f5e128-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_late_societal_f5e128-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The strongest objection: maybe disruption comes first
 
 The most important criticism of the late-alarm view is that transformative technologies have historically produced visible economic effects before creating existential dangers.
 
-Sceptics argue that a genuinely transformative AI system would need extensive deployment, infrastructure, capital investment, and organisational integration. These processes would likely generate years of observable disruption, providing ample warning. They point to adoption bottlenecks, regulatory friction, physical constraints, and the slow pace of institutional change as reasons to expect a more gradual transition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://marginalrevolution.com/marginalrevolution/2025/02/why-i-think-ai-take-off-is-relatively-slow.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marginalrevolution.com">[Marginal REVOLUTION]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marginalrevolution.com</span><span class="citation-popover-snippet">ome a larger share of the economy over time.Read more...</span></span></span>
+Sceptics argue that a genuinely transformative AI system would need extensive deployment, infrastructure, capital investment, and organisational integration. These processes would likely generate years of observable disruption, providing ample warning. They point to adoption bottlenecks, regulatory friction, physical constraints, and the slow pace of institutional change as reasons to expect a more gradual transition.<span class="citation-chip-wrap"><a class="citation-chip" href="https://marginalrevolution.com/marginalrevolution/2025/02/why-i-think-ai-take-off-is-relatively-slow.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marginalrevolution.com">[Marginal REVOLUTION]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marginalrevolution.com</span><span class="citation-popover-snippet">ome a larger share of the economy over time.Read more...</span></span></span>
 
 From this perspective, claims that society could look normal until immediately before a decisive AI transition underestimate how difficult it is to convert intelligence into real-world power.
 
-The disagreement remains unresolved because it depends on uncertain empirical questions: how much AI can accelerate AI research, how quickly capabilities compound, how important physical bottlenecks become, and whether strategic advantages can accumulate faster than institutions can respond. <span class="citation-chip-wrap"><a class="citation-chip" href="https://intelligence.org/ai-foom-debate/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intelligence.org">[Machine Intelligence Research Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intelligence.org</span><span class="citation-popover-snippet">Machine Intelligence Research InstituteThe Hanson-Yudkowsky AI-Foom Debate eBookNovember 6, 2024 — In late 2008, economist Robin Hanson a...</span><span class="citation-popover-meta">Published: November 6, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/AI_alignment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[AI Alignment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">AI alignment</span></span></span>
+The disagreement remains unresolved because it depends on uncertain empirical questions: how much AI can accelerate AI research, how quickly capabilities compound, how important physical bottlenecks become, and whether strategic advantages can accumulate faster than institutions can respond.<span class="citation-chip-wrap"><a class="citation-chip" href="https://intelligence.org/ai-foom-debate/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intelligence.org">[Machine Intelligence Research Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intelligence.org</span><span class="citation-popover-snippet">Machine Intelligence Research InstituteThe Hanson-Yudkowsky AI-Foom Debate eBookNovember 6, 2024 — In late 2008, economist Robin Hanson a...</span><span class="citation-popover-meta">Published: November 6, 2024</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/AI_alignment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[AI Alignment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">AI alignment</span></span></span>
 
 ## The practical takeaway
 
 For people concerned about AI doom, the key lesson is that dramatic social disruption is not necessarily an early warning signal. Mass unemployment, market upheaval, or political instability could be highly visible indicators, yet still arrive after the most important capability transition has already occurred.
 
-The late-alarm argument does not prove that a FOOM will happen. Nor does it show that a hard takeoff is more likely than a gradual transition. What it does suggest is that forecasting based solely on public economic and social signals may be insufficient. If a [fast takeoff]({{ 'fast-takeoff/' | relative_url }}) is possible, the most informative warnings may appear first in technical capability trends, AI-assisted research progress, and the shrinking gap between one frontier generation and the next, rather than in the headlines that eventually dominate public debate. AI Alignment Forum <span class="citation-chip-wrap"><a class="citation-chip" href="https://intelligence.org/ai-foom-debate/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intelligence.org">[Machine Intelligence Research Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intelligence.org</span><span class="citation-popover-snippet">Machine Intelligence Research InstituteThe Hanson-Yudkowsky AI-Foom Debate eBookNovember 6, 2024 — In late 2008, economist Robin Hanson a...</span><span class="citation-popover-meta">Published: November 6, 2024</span></span></span>
+The late-alarm argument does not prove that a FOOM will happen. Nor does it show that a hard takeoff is more likely than a gradual transition. What it does suggest is that forecasting based solely on public economic and social signals may be insufficient. If a [fast takeoff]({{ 'fast-takeoff/' | relative_url }}) is possible, the most informative warnings may appear first in technical capability trends, AI-assisted research progress, and the shrinking gap between one frontier generation and the next, rather than in the headlines that eventually dominate public debate. AI Alignment Forum<span class="citation-chip-wrap"><a class="citation-chip" href="https://intelligence.org/ai-foom-debate/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intelligence.org">[Machine Intelligence Research Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intelligence.org</span><span class="citation-popover-snippet">Machine Intelligence Research InstituteThe Hanson-Yudkowsky AI-Foom Debate eBookNovember 6, 2024 — In late 2008, economist Robin Hanson a...</span><span class="citation-popover-meta">Published: November 6, 2024</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1aKeVNNmI34" title="The Intelligence Explosion Is Coming Faster Than You Think" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1aKeVNNmI34" target="_blank" rel="noopener noreferrer">The Intelligence Explosion Is Coming Faster Than You Think</a></p><p class="youtube-embed-meta">Channel: Mo Gawdat &middot; Views: 14.5K &middot; Uploaded: January 2026 &middot; Length: 3 minutes 31 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1aKeVNNmI34" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1aKeVNNmI34">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why obvious AI disruption may come too late. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why obvious AI disruption may come too late. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Russell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
+</h4>
+<p class="fr-book-author">By Stuart Russell</p>
         
-        <p class="fr-book-desc">Addresses the challenges of responding to increasingly capable AI systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses the challenges of responding to increasingly capable AI systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superintelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7_H8AwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superintelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superintelligence">Superintelligence</a>
-        </h4>
-        <p class="fr-book-author">By Nick Bostrom</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superintelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7_H8AwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superintelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superintelligence">Superintelligence</a>
+</h4>
+<p class="fr-book-author">By Nick Bostrom</p>
         
-        <p class="fr-book-desc">Examines why visible societal effects may lag underlying capability advances.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines why visible societal effects may lag underlying capability advances.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
-        </h4>
-        <p class="fr-book-author">By Mustafa Suleyman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
+</h4>
+<p class="fr-book-author">By Mustafa Suleyman</p>
         
-        <p class="fr-book-desc">Directly addresses how society may react too slowly to rapidly advancing technologies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses how society may react too slowly to rapidly advancing technologies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Life 3.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3_otDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Life 3.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Life 3.0">Life 3.0</a>
-        </h4>
-        <p class="fr-book-author">By Max Tegmark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Life 3.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3_otDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Life 3.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Life 3.0">Life 3.0</a>
+</h4>
+<p class="fr-book-author">By Max Tegmark</p>
         
-        <p class="fr-book-desc">Explores scenarios where transformative AI arrives before institutions adapt.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores scenarios where transformative AI arrives before institutions adapt.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superintelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superintelligence</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Superintelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superintelligence</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 12-in-1 STEM Robot Kit Toys for Kids 8-12 12-16, DIY Robot Building Educational"><img src="{{ '/assets/images/marketplace-covers/4170d4e3fe572772efdd.jpg' | relative_url }}" alt="Listing image for 12-in-1 STEM Robot Kit Toys for Kids 8-12 12-16, DIY Robot Building Educational" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">12-in-1 STEM Robot Kit Toys for Kids 8-12 12-16, DIY Robot Building Educational</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.com</span>: robotics kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-robotics-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 12-in-1 STEM Robot Kit Toys for Kids 8-12 12-16, DIY Robot Building Educational"><img src="{{ '/assets/images/marketplace-covers/4170d4e3fe572772efdd.jpg' | relative_url }}" alt="Listing image for 12-in-1 STEM Robot Kit Toys for Kids 8-12 12-16, DIY Robot Building Educational" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">12-in-1 STEM Robot Kit Toys for Kids 8-12 12-16, DIY Robot Building Educational</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search<span data-ebay-domain-label>eBay.com</span>: robotics kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-robotics-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Smart Robot Platform DIY Chassis Kit Crawler Tank Motors for Pi Arduino Maker"><img src="{{ '/assets/images/marketplace-covers/903db1ed07f40bd10314.jpg' | relative_url }}" alt="Listing image for Smart Robot Platform DIY Chassis Kit Crawler Tank Motors for Pi Arduino Maker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Smart Robot Platform DIY Chassis Kit Crawler Tank Motors for Pi Arduino Maker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.com</span>: robotics kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-robotics-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Smart Robot Platform DIY Chassis Kit Crawler Tank Motors for Pi Arduino Maker"><img src="{{ '/assets/images/marketplace-covers/903db1ed07f40bd10314.jpg' | relative_url }}" alt="Listing image for Smart Robot Platform DIY Chassis Kit Crawler Tank Motors for Pi Arduino Maker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Smart Robot Platform DIY Chassis Kit Crawler Tank Motors for Pi Arduino Maker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search<span data-ebay-domain-label>eBay.com</span>: robotics kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-robotics-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Solar Robot Kit DIY Toys Kids Ages 8+ STEM Educational 12-in-1 Kit"><img src="{{ '/assets/images/marketplace-covers/f9020407c9a29348dad4.jpg' | relative_url }}" alt="Listing image for Solar Robot Kit DIY Toys Kids Ages 8+ STEM Educational 12-in-1 Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Solar Robot Kit DIY Toys Kids Ages 8+ STEM Educational 12-in-1 Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.com</span>: robotics kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-robotics-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Solar Robot Kit DIY Toys Kids Ages 8+ STEM Educational 12-in-1 Kit"><img src="{{ '/assets/images/marketplace-covers/f9020407c9a29348dad4.jpg' | relative_url }}" alt="Listing image for Solar Robot Kit DIY Toys Kids Ages 8+ STEM Educational 12-in-1 Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Solar Robot Kit DIY Toys Kids Ages 8+ STEM Educational 12-in-1 Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search<span data-ebay-domain-label>eBay.com</span>: robotics kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-robotics-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BeAndge STEM Kits for Kids Crafts 6-8 8-12 Boys Gifts Idea Robotics Science Kits"><img src="{{ '/assets/images/marketplace-covers/08ddfdc8d3d6ad4cc2f8.jpg' | relative_url }}" alt="Listing image for BeAndge STEM Kits for Kids Crafts 6-8 8-12 Boys Gifts Idea Robotics Science Kits" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">BeAndge STEM Kits for Kids Crafts 6-8 8-12 Boys Gifts Idea Robotics Science Kits</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.com</span>: robotics kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-robotics-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BeAndge STEM Kits for Kids Crafts 6-8 8-12 Boys Gifts Idea Robotics Science Kits"><img src="{{ '/assets/images/marketplace-covers/08ddfdc8d3d6ad4cc2f8.jpg' | relative_url }}" alt="Listing image for BeAndge STEM Kits for Kids Crafts 6-8 8-12 Boys Gifts Idea Robotics Science Kits" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">BeAndge STEM Kits for Kids Crafts 6-8 8-12 Boys Gifts Idea Robotics Science Kits</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search<span data-ebay-domain-label>eBay.com</span>: robotics kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-robotics-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A. I. Artificial Intelligence. Jude Law. Original UK Video Poster."><img src="{{ '/assets/images/marketplace-covers/2a668d45483ac31aaf6d.jpg' | relative_url }}" alt="Listing image for A. I. Artificial Intelligence. Jude Law. Original UK Video Poster." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A. I. Artificial Intelligence. Jude Law. Original UK Video Poster.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A. I. Artificial Intelligence. Jude Law. Original UK Video Poster."><img src="{{ '/assets/images/marketplace-covers/2a668d45483ac31aaf6d.jpg' | relative_url }}" alt="Listing image for A. I. Artificial Intelligence. Jude Law. Original UK Video Poster." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A. I. Artificial Intelligence. Jude Law. Original UK Video Poster.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. Artificial Intelligence Movie Film Poster Art Print"><img src="{{ '/assets/images/marketplace-covers/fb76514b204d73a37317.jpg' | relative_url }}" alt="Listing image for A.I. Artificial Intelligence Movie Film Poster Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A.I. Artificial Intelligence Movie Film Poster Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. Artificial Intelligence Movie Film Poster Art Print"><img src="{{ '/assets/images/marketplace-covers/fb76514b204d73a37317.jpg' | relative_url }}" alt="Listing image for A.I. Artificial Intelligence Movie Film Poster Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A.I. Artificial Intelligence Movie Film Poster Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery"><img src="{{ '/assets/images/marketplace-covers/fe6f721a300e36459934.jpg' | relative_url }}" alt="Listing image for A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery"><img src="{{ '/assets/images/marketplace-covers/fe6f721a300e36459934.jpg' | relative_url }}" alt="Listing image for A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ccd8b5ee633357b5409d.jpg' | relative_url }}" alt="Listing image for Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ccd8b5ee633357b5409d.jpg' | relative_url }}" alt="Listing image for Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-alarms-why-obvious-ai-disruption-may-come-too-late-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -657,7 +657,7 @@ The late-alarm argument does not prove that a FOOM will happen. Nor does it show
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -677,7 +677,7 @@ The late-alarm argument does not prove that a FOOM will happen. Nor does it show
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -709,7 +709,7 @@ The late-alarm argument does not prove that a FOOM will happen. Nor does it show
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -739,7 +739,7 @@ The late-alarm argument does not prove that a FOOM will happen. Nor does it show
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -797,94 +797,94 @@ The late-alarm argument does not prove that a FOOM will happen. Nor does it show
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: intelligence.org  
-   Link: <a href="https://intelligence.org/ai-foom-debate/" target="_blank" rel="noopener noreferrer nofollow">https://intelligence.org/ai-foom-debate/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Machine Intelligence Research InstituteThe Hanson-Yudkowsky AI-Foom Debate eBookNovember 6, 2024 — In late 2008, economist Robin Hanson a...</p></details>
+   Link:<a href="https://intelligence.org/ai-foom-debate/" target="_blank" rel="noopener noreferrer nofollow">https://intelligence.org/ai-foom-debate/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Machine Intelligence Research InstituteThe Hanson-Yudkowsky AI-Foom Debate eBookNovember 6, 2024 — In late 2008, economist Robin Hanson a...</p></details>
    Published: November 6, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: marginalrevolution.com  
-   Link: <a href="https://marginalrevolution.com/marginalrevolution/2025/02/why-i-think-ai-take-off-is-relatively-slow.html" target="_blank" rel="noopener noreferrer nofollow">https://marginalrevolution.com/marginalrevolution/2025/02/why-i-think-ai-take-off-is-relatively-slow.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ome a larger share of the economy over time.Read more...</p></details>
+   Link:<a href="https://marginalrevolution.com/marginalrevolution/2025/02/why-i-think-ai-take-off-is-relatively-slow.html" target="_blank" rel="noopener noreferrer nofollow">https://marginalrevolution.com/marginalrevolution/2025/02/why-i-think-ai-take-off-is-relatively-slow.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ome a larger share of the economy over time.Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: forethought.org  
-   Link: <a href="https://www.forethought.org/research/preparing-for-the-intelligence-explosion" target="_blank" rel="noopener noreferrer nofollow">https://www.forethought.org/research/preparing-for-the-intelligence-explosion</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Preparing for the Intelligence Explosion - Forethoughtby W MacAskill · Cited by 22 — The challenge of harnessing AI&#x27;s ability...</p></details>
+   Link:<a href="https://www.forethought.org/research/preparing-for-the-intelligence-explosion" target="_blank" rel="noopener noreferrer nofollow">https://www.forethought.org/research/preparing-for-the-intelligence-explosion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Preparing for the Intelligence Explosion - Forethoughtby W MacAskill · Cited by 22 — The challenge of harnessing AI&#x27;s ability...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: alignmentforum.org  
    Title: takeoff speeds have a huge effect on what it means to work 1  
-   Link: <a href="https://www.alignmentforum.org/posts/hRohhttbtpY3SHmmD/takeoff-speeds-have-a-huge-effect-on-what-it-means-to-work-1" target="_blank" rel="noopener noreferrer nofollow">https://www.alignmentforum.org/posts/hRohhttbtpY3SHmmD/takeoff-speeds-have-a-huge-effect-on-what-it-means-to-work-1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Whether AI is a...</p></details>
+   Link:<a href="https://www.alignmentforum.org/posts/hRohhttbtpY3SHmmD/takeoff-speeds-have-a-huge-effect-on-what-it-means-to-work-1" target="_blank" rel="noopener noreferrer nofollow">https://www.alignmentforum.org/posts/hRohhttbtpY3SHmmD/takeoff-speeds-have-a-huge-effect-on-what-it-means-to-work-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Whether AI is a...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: alignmentforum.org  
-   Link: <a href="https://www.alignmentforum.org/posts/zkF9PNSyDKusoyLkP/investigating-ai-takeover-scenarios" target="_blank" rel="noopener noreferrer nofollow">https://www.alignmentforum.org/posts/zkF9PNSyDKusoyLkP/investigating-ai-takeover-scenarios</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Alignment ForumInvestigating AI Takeover Scenarios17 Sept 2021 — Here, we discuss variable social, economic and technological characte...</p></details>
+   Link:<a href="https://www.alignmentforum.org/posts/zkF9PNSyDKusoyLkP/investigating-ai-takeover-scenarios" target="_blank" rel="noopener noreferrer nofollow">https://www.alignmentforum.org/posts/zkF9PNSyDKusoyLkP/investigating-ai-takeover-scenarios</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Alignment ForumInvestigating AI Takeover Scenarios17 Sept 2021 — Here, we discuss variable social, economic and technological characte...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: scottaaronson.blog  
    Title: Shtetl-Optimized Reform AI Alignment  
-   Link: <a href="https://scottaaronson.blog/?p=6821" target="_blank" rel="noopener noreferrer nofollow">https://scottaaronson.blog/?p=6821</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Shtetl-OptimizedReform AI AlignmentNovember 20, 2022 — 20 Nov 2022 — We Reform AI-riskers believe that, here just like in high school, th...</p></details>
+   Link:<a href="https://scottaaronson.blog/?p=6821" target="_blank" rel="noopener noreferrer nofollow">https://scottaaronson.blog/?p=6821</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shtetl-OptimizedReform AI AlignmentNovember 20, 2022 — 20 Nov 2022 — We Reform AI-riskers believe that, here just like in high school, th...</p></details>
    Published: November 20, 2022  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: AI alignment  
-   Link: <a href="https://en.wikipedia.org/wiki/AI_alignment" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/AI_alignment</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/AI_alignment" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/AI_alignment</a>  
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/388459864_Gradual_Disempowerment_Systemic_Existential_Risks_from_Incremental_AI_Development" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388459864_Gradual_Disempowerment_Systemic_Existential_Risks_from_Incremental_AI_Development</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Systemic Existential Risks from Incremental AI Development10 Jan 2025 — This paper examines the systemic risks posed by incremental advan...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/388459864_Gradual_Disempowerment_Systemic_Existential_Risks_from_Incremental_AI_Development" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388459864_Gradual_Disempowerment_Systemic_Existential_Risks_from_Incremental_AI_Development</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Systemic Existential Risks from Incremental AI Development10 Jan 2025 — This paper examines the systemic risks posed by incremental advan...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: davidmanheim.medium.com  
-   Link: <a href="https://davidmanheim.medium.com/a-tentative-typology-of-ai-foom-scenarios-54ff20c906c3" target="_blank" rel="noopener noreferrer nofollow">https://davidmanheim.medium.com/a-tentative-typology-of-ai-foom-scenarios-54ff20c906c3</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tentative Typology of AI-Foom Scenarios | by David ManheimA foom-like explosion can quickly make a once-small system more powerful than t...</p></details>
+   Link:<a href="https://davidmanheim.medium.com/a-tentative-typology-of-ai-foom-scenarios-54ff20c906c3" target="_blank" rel="noopener noreferrer nofollow">https://davidmanheim.medium.com/a-tentative-typology-of-ai-foom-scenarios-54ff20c906c3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tentative Typology of AI-Foom Scenarios | by David ManheimA foom-like explosion can quickly make a once-small system more powerful than t...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/aisafetyopen/posts/1159381928098165/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/aisafetyopen/posts/1159381928098165/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced AI alignment steps to reduce dangerIn it, I break down the basic case into 5 points: 1) Advanced AI is possible 2) Advanced AI m...</p></details>
+   Link:<a href="https://www.facebook.com/groups/aisafetyopen/posts/1159381928098165/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/aisafetyopen/posts/1159381928098165/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced AI alignment steps to reduce dangerIn it, I break down the basic case into 5 points: 1) Advanced AI is possible 2) Advanced AI m...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ea-crux-project.vercel.app  
-   Link: <a href="https://ea-crux-project.vercel.app/ai-transition-model/gradual/" target="_blank" rel="noopener noreferrer nofollow">https://ea-crux-project.vercel.app/ai-transition-model/gradual/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gradual AI TakeoverCausal factors driving gradual loss of human control. Based on Christiano&#x27;s two-part failure model: proxy optimization...</p></details>
+   Link:<a href="https://ea-crux-project.vercel.app/ai-transition-model/gradual/" target="_blank" rel="noopener noreferrer nofollow">https://ea-crux-project.vercel.app/ai-transition-model/gradual/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gradual AI TakeoverCausal factors driving gradual loss of human control. Based on Christiano&#x27;s two-part failure model: proxy optimization...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/singularity/comments/1rwoy0/intelligence_explosion_aigofoom/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/singularity/comments/1rwoy0/intelligence_explosion_aigofoom/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence Explosion: &quot;AI-go-FOOM&quot;: r/singularityI found this text in &#x27;Intelligence Explosion Microeconomics&#x27;, written by Eliezer Yudk...</p></details>
+   Link:<a href="https://www.reddit.com/r/singularity/comments/1rwoy0/intelligence_explosion_aigofoom/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/singularity/comments/1rwoy0/intelligence_explosion_aigofoom/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence Explosion: &quot;AI-go-FOOM&quot;: r/singularityI found this text in &#x27;Intelligence Explosion Microeconomics&#x27;, written by Eliezer Yudk...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cnn/posts/tech-ceo-and-co-founder-of-othersideai-matt-shumer-said-in-a-now-viral-article-p/1284670926858889/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnn/posts/tech-ceo-and-co-founder-of-othersideai-matt-shumer-said-in-a-now-viral-article-p/1284670926858889/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tech CEO and co-founder of OthersideAI Matt Shumer said...As Trump signs executive order on artificial intelligence, tech giants warn of...</p></details>
+   Link:<a href="https://www.facebook.com/cnn/posts/tech-ceo-and-co-founder-of-othersideai-matt-shumer-said-in-a-now-viral-article-p/1284670926858889/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnn/posts/tech-ceo-and-co-founder-of-othersideai-matt-shumer-said-in-a-now-viral-article-p/1284670926858889/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tech CEO and co-founder of OthersideAI Matt Shumer said...As Trump signs executive order on artificial intelligence, tech giants warn of...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: podimo.com  
-   Link: <a href="https://podimo.com/es/shows/the-nonlinear-library-alignment-forum-top-posts/episode/6e332718-a938-4c85-91d8-e5fe0e933b09" target="_blank" rel="noopener noreferrer nofollow">https://podimo.com/es/shows/the-nonlinear-library-alignment-forum-top-posts/episode/6e332718-a938-4c85-91d8-e5fe0e933b09</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What failure looks like by Paul ChristianoThe stereotyped image of AI catastrophe is a powerful, malicious AI system that takes its creat...</p></details>
+   Link:<a href="https://podimo.com/es/shows/the-nonlinear-library-alignment-forum-top-posts/episode/6e332718-a938-4c85-91d8-e5fe0e933b09" target="_blank" rel="noopener noreferrer nofollow">https://podimo.com/es/shows/the-nonlinear-library-alignment-forum-top-posts/episode/6e332718-a938-4c85-91d8-e5fe0e933b09</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What failure looks like by Paul ChristianoThe stereotyped image of AI catastrophe is a powerful, malicious AI system that takes its creat...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: blog.biocomm.ai  
    Title: foom warning ai intelligence explosion nearly here in our environment  
-   Link: <a href="https://blog.biocomm.ai/2024/11/23/foom-warning-ai-intelligence-explosion-nearly-here-in-our-environment/" target="_blank" rel="noopener noreferrer nofollow">https://blog.biocomm.ai/2024/11/23/foom-warning-ai-intelligence-explosion-nearly-here-in-our-environment/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>biocomm.aiFOOM! WARNING. AI INTELLIGENCE EXPLOSION...24 Nov 2024 — “There are no hard problems, only problems that are hard to a certain...</p></details>
+   Link:<a href="https://blog.biocomm.ai/2024/11/23/foom-warning-ai-intelligence-explosion-nearly-here-in-our-environment/" target="_blank" rel="noopener noreferrer nofollow">https://blog.biocomm.ai/2024/11/23/foom-warning-ai-intelligence-explosion-nearly-here-in-our-environment/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>biocomm.aiFOOM! WARNING. AI INTELLIGENCE EXPLOSION...24 Nov 2024 — “There are no hard problems, only problems that are hard to a certain...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: responsible.com  
-   Link: <a href="https://responsible.com/web-news/what-failure-looks-like-ai-alignment-forum/" target="_blank" rel="noopener noreferrer nofollow">https://responsible.com/web-news/what-failure-looks-like-ai-alignment-forum/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The stereotyped image of AI catastrophe is a powerful, malicious AI...Read more...</p></details>
+   Link:<a href="https://responsible.com/web-news/what-failure-looks-like-ai-alignment-forum/" target="_blank" rel="noopener noreferrer nofollow">https://responsible.com/web-news/what-failure-looks-like-ai-alignment-forum/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The stereotyped image of AI catastrophe is a powerful, malicious AI...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: x.com  
-   Link: <a href="https://x.com/DavidDuvenaud/status/1885009790436352122" target="_blank" rel="noopener noreferrer nofollow">https://x.com/DavidDuvenaud/status/1885009790436352122</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>g, not with sudden violent takeover, but through a gradual loss of...Read more...</p></details>
+   Link:<a href="https://x.com/DavidDuvenaud/status/1885009790436352122" target="_blank" rel="noopener noreferrer nofollow">https://x.com/DavidDuvenaud/status/1885009790436352122</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>g, not with sudden violent takeover, but through a gradual loss of...Read more...</p></details>

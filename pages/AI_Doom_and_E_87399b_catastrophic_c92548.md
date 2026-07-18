@@ -379,269 +379,269 @@ By centring on the *human dimensions* of misuse — decisions, incentives, and i
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548-Illustration-3-dark.svg" | relative_url }}" alt="Misuse illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Could People Misuse Advanced AI?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Could People Misuse Advanced AI?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8vm0DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Jonathan Russell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8vm0DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
+</h4>
+<p class="fr-book-author">By Stuart Jonathan Russell</p>
         
-        <p class="fr-book-desc">Examines dangerous outcomes from advanced AI systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines dangerous outcomes from advanced AI systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superintelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7_H8AwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superintelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superintelligence">Superintelligence</a>
-        </h4>
-        <p class="fr-book-author">By Nick Bostrom</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superintelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7_H8AwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superintelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superintelligence">Superintelligence</a>
+</h4>
+<p class="fr-book-author">By Nick Bostrom</p>
         
-        <p class="fr-book-desc">Explores ways advanced AI could be used or become dangerous.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores ways advanced AI could be used or become dangerous.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
-        </h4>
-        <p class="fr-book-author">By Mustafa Suleyman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
+</h4>
+<p class="fr-book-author">By Mustafa Suleyman</p>
         
-        <p class="fr-book-desc">Directly addresses misuse pathways and containment challenges.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses misuse pathways and containment challenges.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Precipice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=iaejzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Precipice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Precipice">The Precipice</a>
-        </h4>
-        <p class="fr-book-author">By Toby Ord</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Precipice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=iaejzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Precipice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Precipice">The Precipice</a>
+</h4>
+<p class="fr-book-author">By Toby Ord</p>
         
-        <p class="fr-book-desc">Discusses catastrophic threats including advanced technologies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses catastrophic threats including advanced technologies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superintelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superintelligence</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Superintelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superintelligence</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. ARTIFICIAL INTELLIGENCE Original One Sheet Movie Poster - 2001 - SPIELBERG"><img src="{{ '/assets/images/marketplace-covers/196ffedb43a9555ec05d.jpg' | relative_url }}" alt="Listing image for A.I. ARTIFICIAL INTELLIGENCE Original One Sheet Movie Poster - 2001 - SPIELBERG" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A.I. ARTIFICIAL INTELLIGENCE Original One Sheet Movie Poster - 2001 - SPIELBERG</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.com</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. ARTIFICIAL INTELLIGENCE Original One Sheet Movie Poster - 2001 - SPIELBERG"><img src="{{ '/assets/images/marketplace-covers/196ffedb43a9555ec05d.jpg' | relative_url }}" alt="Listing image for A.I. ARTIFICIAL INTELLIGENCE Original One Sheet Movie Poster - 2001 - SPIELBERG" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A.I. ARTIFICIAL INTELLIGENCE Original One Sheet Movie Poster - 2001 - SPIELBERG</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.com</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2001 AI Artificial Intelligence Double Sided 27&quot; x 41&quot; Theatrical Movie Poster"><img src="{{ '/assets/images/marketplace-covers/93c153cc5f9346af0cb8.jpg' | relative_url }}" alt="Listing image for 2001 AI Artificial Intelligence Double Sided 27&quot; x 41&quot; Theatrical Movie Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">2001 AI Artificial Intelligence Double Sided 27&quot; x 41&quot; Theatrical Movie Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.com</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2001 AI Artificial Intelligence Double Sided 27&quot; x 41&quot; Theatrical Movie Poster"><img src="{{ '/assets/images/marketplace-covers/93c153cc5f9346af0cb8.jpg' | relative_url }}" alt="Listing image for 2001 AI Artificial Intelligence Double Sided 27&quot; x 41&quot; Theatrical Movie Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">2001 AI Artificial Intelligence Double Sided 27&quot; x 41&quot; Theatrical Movie Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.com</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI Artificial Intelligence Original 2001 Movie Poster 27x40 DS"><img src="{{ '/assets/images/marketplace-covers/ee2480d2e31d09060c16.jpg' | relative_url }}" alt="Listing image for AI Artificial Intelligence Original 2001 Movie Poster 27x40 DS" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">AI Artificial Intelligence Original 2001 Movie Poster 27x40 DS</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.com</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI Artificial Intelligence Original 2001 Movie Poster 27x40 DS"><img src="{{ '/assets/images/marketplace-covers/ee2480d2e31d09060c16.jpg' | relative_url }}" alt="Listing image for AI Artificial Intelligence Original 2001 Movie Poster 27x40 DS" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">AI Artificial Intelligence Original 2001 Movie Poster 27x40 DS</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.com</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HALEY JOEL OSMENT SIGNED ARTIFICIAL INTELLIGENCE AI 12X18 MOVIE POSTER PHOTO BAS"><img src="{{ '/assets/images/marketplace-covers/3d12bbcc085ead81e29b.jpg' | relative_url }}" alt="Listing image for HALEY JOEL OSMENT SIGNED ARTIFICIAL INTELLIGENCE AI 12X18 MOVIE POSTER PHOTO BAS" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">HALEY JOEL OSMENT SIGNED ARTIFICIAL INTELLIGENCE AI 12X18 MOVIE POSTER PHOTO BAS</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.com</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HALEY JOEL OSMENT SIGNED ARTIFICIAL INTELLIGENCE AI 12X18 MOVIE POSTER PHOTO BAS"><img src="{{ '/assets/images/marketplace-covers/3d12bbcc085ead81e29b.jpg' | relative_url }}" alt="Listing image for HALEY JOEL OSMENT SIGNED ARTIFICIAL INTELLIGENCE AI 12X18 MOVIE POSTER PHOTO BAS" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">HALEY JOEL OSMENT SIGNED ARTIFICIAL INTELLIGENCE AI 12X18 MOVIE POSTER PHOTO BAS</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.com</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-artificial-intelligence-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cybersecurity Matrix Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f8dbdcfcf526296a12d7.jpg' | relative_url }}" alt="Listing image for Cybersecurity Matrix Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Cybersecurity Matrix Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cybersecurity Matrix Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f8dbdcfcf526296a12d7.jpg' | relative_url }}" alt="Listing image for Cybersecurity Matrix Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Cybersecurity Matrix Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cybersecurity Interface Of The Futu Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e1cb703d87663d99f96e.jpg' | relative_url }}" alt="Listing image for Cybersecurity Interface Of The Futu Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Cybersecurity Interface Of The Futu Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cybersecurity Interface Of The Futu Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e1cb703d87663d99f96e.jpg' | relative_url }}" alt="Listing image for Cybersecurity Interface Of The Futu Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Cybersecurity Interface Of The Futu Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for cybersecurity beware session cookie Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/0a0d82cd852bae70b3ee.jpg' | relative_url }}" alt="Listing image for cybersecurity beware session cookie Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">cybersecurity beware session cookie Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for cybersecurity beware session cookie Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/0a0d82cd852bae70b3ee.jpg' | relative_url }}" alt="Listing image for cybersecurity beware session cookie Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">cybersecurity beware session cookie Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cybersecurity Flowchart Solution Fr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/afd1854bdddcb175a25e.jpg' | relative_url }}" alt="Listing image for Cybersecurity Flowchart Solution Fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Cybersecurity Flowchart Solution Fr Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cybersecurity Flowchart Solution Fr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/afd1854bdddcb175a25e.jpg' | relative_url }}" alt="Listing image for Cybersecurity Flowchart Solution Fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Cybersecurity Flowchart Solution Fr Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misuse-how-could-people-misuse-advanced-ai-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -657,7 +657,7 @@ By centring on the *human dimensions* of misuse — decisions, incentives, and i
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -677,7 +677,7 @@ By centring on the *human dimensions* of misuse — decisions, incentives, and i
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -709,7 +709,7 @@ By centring on the *human dimensions* of misuse — decisions, incentives, and i
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -739,7 +739,7 @@ By centring on the *human dimensions* of misuse — decisions, incentives, and i
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -797,148 +797,148 @@ By centring on the *human dimensions* of misuse — decisions, incentives, and i
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
    Title: International scientific report on the safety of advanced AI: interim report  
-   Link: <a href="https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai/international-scientific-report-on-the-safety-of-advanced-ai-interim-report" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai/international-scientific-report-on-the-safety-of-advanced-ai-interim-report</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>22, 2025...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai/international-scientific-report-on-the-safety-of-advanced-ai-interim-report" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai/international-scientific-report-on-the-safety-of-advanced-ai-interim-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>22, 2025...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: GOV.UK  
    Title: Frontier AI: capabilities and risks – discussion paper  
-   Link: <a href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper</a>  
+   Link:<a href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: journals.plos.org  
-   Link: <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1012975" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1012975</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dual-use capabilities of concern of biological AI models | PLOS Computational BiologyMay 8, 2025...</p></details>
+   Link:<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1012975" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1012975</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dual-use capabilities of concern of biological AI models | PLOS Computational BiologyMay 8, 2025...</p></details>
    Published: May 8, 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Toward Quantitative Modeling of Cybersecurity Risks Due to AI Misuse  
-   Link: <a href="https://arxiv.org/abs/2512.08864" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2512.08864</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Toward Quantitative Modeling of Cybersecurity Risks Due to AI MisuseDecember 9, 2025...</p></details>
+   Link:<a href="https://arxiv.org/abs/2512.08864" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2512.08864</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Toward Quantitative Modeling of Cybersecurity Risks Due to AI MisuseDecember 9, 2025...</p></details>
    Published: December 9, 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
    Title: The cybersecurity risks of AI-created exploits: Google Zero Day Exploits  
-   Link: <a href="https://www.reddit.com/r/Technology_Law/comments/1tcae7l/the_cybersecurity_risks_of_aicreated_exploits/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Technology_Law/comments/1tcae7l/the_cybersecurity_risks_of_aicreated_exploits/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The cybersecurity risks of AI-created exploits: Google Zero Day Exploits.May 13, 2026...</p></details>
+   Link:<a href="https://www.reddit.com/r/Technology_Law/comments/1tcae7l/the_cybersecurity_risks_of_aicreated_exploits/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Technology_Law/comments/1tcae7l/the_cybersecurity_risks_of_aicreated_exploits/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The cybersecurity risks of AI-created exploits: Google Zero Day Exploits.May 13, 2026...</p></details>
    Published: May 13, 2026  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/journals/cambridge-forum-on-ai-law-and-governance/article/integrators-at-war-mediating-in-aiassisted-resorttoforce-decisions/D176832403A3BE49069FD0E86038D989" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/cambridge-forum-on-ai-law-and-governance/article/integrators-at-war-mediating-in-aiassisted-resorttoforce-decisions/D176832403A3BE49069FD0E86038D989</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentIntegrators at war: Mediating in AI-assisted resort-to-force decisions | Cambridge Forum on AI: La...</p></details>
+   Link:<a href="https://www.cambridge.org/core/journals/cambridge-forum-on-ai-law-and-governance/article/integrators-at-war-mediating-in-aiassisted-resorttoforce-decisions/D176832403A3BE49069FD0E86038D989" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/cambridge-forum-on-ai-law-and-governance/article/integrators-at-war-mediating-in-aiassisted-resorttoforce-decisions/D176832403A3BE49069FD0E86038D989</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentIntegrators at war: Mediating in AI-assisted resort-to-force decisions | Cambridge Forum on AI: La...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4136610_code2918001.pdf?abstractid=4115010" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4136610_code2918001.pdf?abstractid=4115010</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Military Artificial Intelligence as Contributor to Global Catastrophic Risk by Matthijs M. Maas, Kayla Matteucci, Di Cooke:: SSRNMay...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4136610_code2918001.pdf?abstractid=4115010" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4136610_code2918001.pdf?abstractid=4115010</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Military Artificial Intelligence as Contributor to Global Catastrophic Risk by Matthijs M. Maas, Kayla Matteucci, Di Cooke:: SSRNMay...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchtrend.ai  
-   Link: <a href="https://researchtrend.ai/papers/2508.13700" target="_blank" rel="noopener noreferrer nofollow">https://researchtrend.ai/papers/2508.13700</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The AI Risk Spectrum: From Dangerous Capabilities to Existential Threats | ResearchTrend.AIAugust 19, 2025...</p></details>
+   Link:<a href="https://researchtrend.ai/papers/2508.13700" target="_blank" rel="noopener noreferrer nofollow">https://researchtrend.ai/papers/2508.13700</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The AI Risk Spectrum: From Dangerous Capabilities to Existential Threats | ResearchTrend.AIAugust 19, 2025...</p></details>
    Published: August 19, 2025  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: axios.com  
    Title: AI firms flunk existential risk planning, new report finds  
-   Link: <a href="https://www.axios.com/2025/12/03/ai-risks-agi-anthropic-google-openai" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2025/12/03/ai-risks-agi-anthropic-google-openai</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite public statements by many AI company leaders acknowledging the importance of mitigating such risks, none of the firms were found...</p></details>
+   Link:<a href="https://www.axios.com/2025/12/03/ai-risks-agi-anthropic-google-openai" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2025/12/03/ai-risks-agi-anthropic-google-openai</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Despite public statements by many AI company leaders acknowledging the importance of mitigating such risks, none of the firms were found...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Executive summary 2. Context 3. Current Frontier AI capabilities 4. Future Frontier AI capabilities 5. Other critical uncert...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Executive summary 2. Context 3. Current Frontier AI capabilities 4. Future Frontier AI capabilities 5. Other critical uncert...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/journals/european-journal-of-international-security/article/inadvertent-escalation-in-the-age-of-intelligence-machines-a-new-model-for-nuclear-risk-in-the-digital-age/D1F1FC47D12FA4DCB12D1648412B696B" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/european-journal-of-international-security/article/inadvertent-escalation-in-the-age-of-intelligence-machines-a-new-model-for-nuclear-risk-in-the-digital-age/D1F1FC47D12FA4DCB12D1648412B696B</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tional Security | Cambridge CoreOctober 15, 2021 — INADVERTENT ESCALATION IN THE AGE OF INTELLIGENCE MACHINES: A NEW MODEL FOR NUCLEAR RI...</p></details>
+   Link:<a href="https://www.cambridge.org/core/journals/european-journal-of-international-security/article/inadvertent-escalation-in-the-age-of-intelligence-machines-a-new-model-for-nuclear-risk-in-the-digital-age/D1F1FC47D12FA4DCB12D1648412B696B" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/european-journal-of-international-security/article/inadvertent-escalation-in-the-age-of-intelligence-machines-a-new-model-for-nuclear-risk-in-the-digital-age/D1F1FC47D12FA4DCB12D1648412B696B</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tional Security | Cambridge CoreOctober 15, 2021 — INADVERTENT ESCALATION IN THE AGE OF INTELLIGENCE MACHINES: A NEW MODEL FOR NUCLEAR RI...</p></details>
    Published: October 15, 2021  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/articles/10.3389/frai.2024.1382356/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/articles/10.3389/frai.2024.1382356/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersFrontiers | Artificial intelligence challenges in the face of biological threats: emerging catastrophic risks for public healthM...</p></details>
+   Link:<a href="https://www.frontiersin.org/articles/10.3389/frai.2024.1382356/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/articles/10.3389/frai.2024.1382356/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersFrontiers | Artificial intelligence challenges in the face of biological threats: emerging catastrophic risks for public healthM...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: papers.cool  
-   Link: <a href="https://papers.cool/arxiv/2508.13700" target="_blank" rel="noopener noreferrer nofollow">https://papers.cool/arxiv/2508.13700</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Immersive Paper DiscoveryAugust 19, 2025 — 2508.13700 Total: 1 #1 THE AI RISK SPECTRUM: FROM DANGEROUS CAPABILITIES TO EXISTENTIAL THREAT...</p></details>
+   Link:<a href="https://papers.cool/arxiv/2508.13700" target="_blank" rel="noopener noreferrer nofollow">https://papers.cool/arxiv/2508.13700</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Immersive Paper DiscoveryAugust 19, 2025 — 2508.13700 Total: 1 #1 THE AI RISK SPECTRUM: FROM DANGEROUS CAPABILITIES TO EXISTENTIAL THREAT...</p></details>
    Published: August 19, 2025  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: journals.ub.uni-koeln.de  
-   Link: <a href="https://journals.ub.uni-koeln.de/index.php/phai/article/view/2801" target="_blank" rel="noopener noreferrer nofollow">https://journals.ub.uni-koeln.de/index.php/phai/article/view/2801</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Survival Stories: a Taxonomic Analysis of AI Existential Risk | Philosophy of AIJune 20, 2025 — AI SURVIVAL STORIES: A TAXONOMIC ANALYSIS...</p></details>
+   Link:<a href="https://journals.ub.uni-koeln.de/index.php/phai/article/view/2801" target="_blank" rel="noopener noreferrer nofollow">https://journals.ub.uni-koeln.de/index.php/phai/article/view/2801</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Survival Stories: a Taxonomic Analysis of AI Existential Risk | Philosophy of AIJune 20, 2025 — AI SURVIVAL STORIES: A TAXONOMIC ANALYSIS...</p></details>
    Published: June 20, 2025  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ai-safety-atlas.com  
-   Link: <a href="https://ai-safety-atlas.com/chapters/v1/risks/misuse-risks/" target="_blank" rel="noopener noreferrer nofollow">https://ai-safety-atlas.com/chapters/v1/risks/misuse-risks/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misuse Risks - Chapter 2 - AI Safety AtlasEven when systems nominally keep humans in control, combat conditions can make this control mor...</p></details>
+   Link:<a href="https://ai-safety-atlas.com/chapters/v1/risks/misuse-risks/" target="_blank" rel="noopener noreferrer nofollow">https://ai-safety-atlas.com/chapters/v1/risks/misuse-risks/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misuse Risks - Chapter 2 - AI Safety AtlasEven when systems nominally keep humans in control, combat conditions can make this control mor...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/23738871.2019.1701693" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/23738871.2019.1701693</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>r 9, 2019 — 3,168 Views 34 CrossRef citations to date 0 Altmetric Articles THE AI-CYBER NEXUS: IMPLICATIONS FOR MILITARY ESCALATION, DETE...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/abs/10.1080/23738871.2019.1701693" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/23738871.2019.1701693</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r 9, 2019 — 3,168 Views 34 CrossRef citations to date 0 Altmetric Articles THE AI-CYBER NEXUS: IMPLICATIONS FOR MILITARY ESCALATION, DETE...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cris.technion.ac.il  
-   Link: <a href="https://cris.technion.ac.il/en/publications/understanding-the-theoretical-limits-of-ai-enabled-pathogen-desig" target="_blank" rel="noopener noreferrer nofollow">https://cris.technion.ac.il/en/publications/understanding-the-theoretical-limits-of-ai-enabled-pathogen-desig</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Theoretical Limits of AI-Enabled Pathogen Design: Insights from a Delphi Study - Technion - Israel Institute of TechnologyUNDERSTANDI...</p></details>
+   Link:<a href="https://cris.technion.ac.il/en/publications/understanding-the-theoretical-limits-of-ai-enabled-pathogen-desig" target="_blank" rel="noopener noreferrer nofollow">https://cris.technion.ac.il/en/publications/understanding-the-theoretical-limits-of-ai-enabled-pathogen-desig</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Theoretical Limits of AI-Enabled Pathogen Design: Insights from a Delphi Study - Technion - Israel Institute of TechnologyUNDERSTANDI...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: abdn.elsevierpure.com  
    Title: the ai cyber nexus implications for military escalation deterrenc  
-   Link: <a href="https://abdn.elsevierpure.com/en/publications/the-ai-cyber-nexus-implications-for-military-escalation-deterrenc" target="_blank" rel="noopener noreferrer nofollow">https://abdn.elsevierpure.com/en/publications/the-ai-cyber-nexus-implications-for-military-escalation-deterrenc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-cyber nexus: implications for military escalation, deterrence, &amp; strategic stability - The University of Aberdeen Research PortalDecem...</p></details>
+   Link:<a href="https://abdn.elsevierpure.com/en/publications/the-ai-cyber-nexus-implications-for-military-escalation-deterrenc" target="_blank" rel="noopener noreferrer nofollow">https://abdn.elsevierpure.com/en/publications/the-ai-cyber-nexus-implications-for-military-escalation-deterrenc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI-cyber nexus: implications for military escalation, deterrence, &amp; strategic stability - The University of Aberdeen Research PortalDecem...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: globalsecurity.org  
-   Link: <a href="https://www.globalsecurity.org/military/systems/ai-risks.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.globalsecurity.org/military/systems/ai-risks.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ters strategic stability by compressing decision timelines, potentially undermining nuclear de...</p></details>
+   Link:<a href="https://www.globalsecurity.org/military/systems/ai-risks.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.globalsecurity.org/military/systems/ai-risks.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ters strategic stability by compressing decision timelines, potentially undermining nuclear de...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: forethought.org  
    Title: The biggest risks come from the le  
-   Link: <a href="https://www.forethought.org/research/ai-enabled-coups-how-a-small-group-could-use-ai-to-seize-power" target="_blank" rel="noopener noreferrer nofollow">https://www.forethought.org/research/ai-enabled-coups-how-a-small-group-could-use-ai-to-seize-power</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-Enabled Coups: How a Small Group Could Use AI to Seize PowerApril 15, 2025 — 1 INTRODUCTION This report assesses the risk that a small...</p></details>
+   Link:<a href="https://www.forethought.org/research/ai-enabled-coups-how-a-small-group-could-use-ai-to-seize-power" target="_blank" rel="noopener noreferrer nofollow">https://www.forethought.org/research/ai-enabled-coups-how-a-small-group-could-use-ai-to-seize-power</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI-Enabled Coups: How a Small Group Could Use AI to Seize PowerApril 15, 2025 — 1 INTRODUCTION This report assesses the risk that a small...</p></details>
    Published: April 15, 2025  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: longtermrisk.org  
    Title: Discussions of the existential r  
-   Link: <a href="https://longtermrisk.org/overview-of-transformative-ai-misuse-risks-what-could-go-wrong-beyond-misalignment/" target="_blank" rel="noopener noreferrer nofollow">https://longtermrisk.org/overview-of-transformative-ai-misuse-risks-what-could-go-wrong-beyond-misalignment/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Overview of Transformative AI Misuse Risks: What Could Go Wrong Beyond Misalignment – Center on Long-Term RiskDecember 9, 2024 — OVERVIEW...</p></details>
+   Link:<a href="https://longtermrisk.org/overview-of-transformative-ai-misuse-risks-what-could-go-wrong-beyond-misalignment/" target="_blank" rel="noopener noreferrer nofollow">https://longtermrisk.org/overview-of-transformative-ai-misuse-risks-what-could-go-wrong-beyond-misalignment/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Overview of Transformative AI Misuse Risks: What Could Go Wrong Beyond Misalignment – Center on Long-Term RiskDecember 9, 2024 — OVERVIEW...</p></details>
    Published: December 9, 2024  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=jAQKdpwXFzs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jAQKdpwXFzs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 AI Gets Military Secrets - What Could Go Wrong? | Warning Shots #40...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jAQKdpwXFzs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jAQKdpwXFzs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 AI Gets Military Secrets - What Could Go Wrong? | Warning Shots #40...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=kgHwrOhwe04" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kgHwrOhwe04</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Existential risk: Is artificial intelligence a threat that will end humanity...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kgHwrOhwe04" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kgHwrOhwe04</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Existential risk: Is artificial intelligence a threat that will end humanity...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: safer-ai.org  
    Title: a short overview of ai related biorisks  
-   Link: <a href="https://www.safer-ai.org/a-short-overview-of-ai-related-biorisks" target="_blank" rel="noopener noreferrer nofollow">https://www.safer-ai.org/a-short-overview-of-ai-related-biorisks</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A short overview of AI-related biorisks – SaferAIApril 21, 2024 — Image A SHORT OVERVIEW OF AI-RELATED BIORISKS PUBLICATION DATE April 21...</p></details>
+   Link:<a href="https://www.safer-ai.org/a-short-overview-of-ai-related-biorisks" target="_blank" rel="noopener noreferrer nofollow">https://www.safer-ai.org/a-short-overview-of-ai-related-biorisks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A short overview of AI-related biorisks – SaferAIApril 21, 2024 — Image A SHORT OVERVIEW OF AI-RELATED BIORISKS PUBLICATION DATE April 21...</p></details>
    Published: April 21, 2024  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: How the Mythos AI Breached Military-Grade Defenses in 18 Seconds  
-   Link: <a href="https://www.youtube.com/watch?v=gjpxQeN4iM8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gjpxQeN4iM8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Studies reveal risks of relying on AI systems for military combat | Generation AI...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=gjpxQeN4iM8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gjpxQeN4iM8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 Studies reveal risks of relying on AI systems for military combat | Generation AI...</p></details>

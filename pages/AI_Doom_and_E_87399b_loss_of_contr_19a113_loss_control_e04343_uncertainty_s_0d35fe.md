@@ -269,10 +269,10 @@ image: /assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04
 
 ## Introduction
 
-One reason p(doom) estimates differ so dramatically is that people often disagree less about the final catastrophe than about the chain of assumptions required to reach it. P(doom) is an informal estimate of the probability that advanced AI causes an existential catastrophe such as human extinction or permanent loss of humanity's ability to shape its future. It is not a measured statistic but a judgement under profound uncertainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ai-safety-atlas.com/chapters/v1/risks/appendix-quantifying-existential-risks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ai-safety-atlas.com">[ai-safety-atlas.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ai-safety-atlas.com</span><span class="citation-popover-title">The term has evolved</span><span class="citation-popover-snippet">Appendix: Quantifying Existential Risks - Chapter 2P(doom) represents the subjective probability that artificial intelligence will cause...</span></span></span>
+One reason p(doom) estimates differ so dramatically is that people often disagree less about the final catastrophe than about the chain of assumptions required to reach it. P(doom) is an informal estimate of the probability that advanced AI causes an existential catastrophe such as human extinction or permanent loss of humanity's ability to shape its future. It is not a measured statistic but a judgement under profound uncertainty.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ai-safety-atlas.com/chapters/v1/risks/appendix-quantifying-existential-risks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ai-safety-atlas.com">[ai-safety-atlas.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ai-safety-atlas.com</span><span class="citation-popover-title">The term has evolved</span><span class="citation-popover-snippet">Appendix: Quantifying Existential Risks - Chapter 2P(doom) represents the subjective probability that artificial intelligence will cause...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343_uncertainty_s_0d35fe-Illustration-1-dark.svg" | relative_url }}" alt="Uncertainty illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343_uncertainty_s_0d35fe-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343_uncertainty_s_0d35fe-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-In debates about AI [loss of control]({{ 'loss-of-control/' | relative_url }}), doom-focused researchers frequently describe a sequence of events: highly capable AI is developed, alignment fails, the system becomes strategically dangerous, humans lose control, and that loss of control leads to irreversible catastrophe. Critics often accept that each step is possible while arguing that uncertainty accumulates at every stage. When many uncertain claims are linked together, the resulting probability can become much smaller than any individual step initially appears. This process is often called uncertainty stacking. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.13353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Is Power-Seeking AI an Existential Risk?</span><span class="citation-popover-snippet">Is Power-Seeking AI an Existential Risk?June 16, 2022...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
+In debates about AI [loss of control]({{ 'loss-of-control/' | relative_url }}), doom-focused researchers frequently describe a sequence of events: highly capable AI is developed, alignment fails, the system becomes strategically dangerous, humans lose control, and that loss of control leads to irreversible catastrophe. Critics often accept that each step is possible while arguing that uncertainty accumulates at every stage. When many uncertain claims are linked together, the resulting probability can become much smaller than any individual step initially appears. This process is often called uncertainty stacking.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.13353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Is Power-Seeking AI an Existential Risk?</span><span class="citation-popover-snippet">Is Power-Seeking AI an Existential Risk?June 16, 2022...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
 
 ## The chain of assumptions in takeover scenarios
 
@@ -292,7 +292,7 @@ A simplified takeover pathway might look like this:
 
 </div>
 
-Researchers who are concerned about existential risk often view several of these steps as plausible enough that the combined risk remains substantial. Critics focus on the fact that each step introduces another layer of uncertainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.13353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Is Power-Seeking AI an Existential Risk?</span><span class="citation-popover-snippet">Is Power-Seeking AI an Existential Risk?June 16, 2022...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
+Researchers who are concerned about existential risk often view several of these steps as plausible enough that the combined risk remains substantial. Critics focus on the fact that each step introduces another layer of uncertainty.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.13353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Is Power-Seeking AI an Existential Risk?</span><span class="citation-popover-snippet">Is Power-Seeking AI an Existential Risk?June 16, 2022...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
 
 This matters because the probability of a whole chain occurring depends on the probability of every major link. Even if no single step seems especially unlikely, the combined probability can fall quickly once multiple uncertain assumptions are multiplied together.
 
@@ -312,17 +312,17 @@ Suppose someone assigns:
 
 Multiplying those probabilities yields roughly 2.1%, not 70%.
 
-The numbers themselves are arbitrary, but the example illustrates why sceptics often ask doom advocates to specify the individual assumptions hidden inside a headline p(doom) estimate. A disagreement that appears to be about one number may actually be a disagreement about several different links in the chain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.13353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Is Power-Seeking AI an Existential Risk?</span><span class="citation-popover-snippet">Is Power-Seeking AI an Existential Risk?June 16, 2022...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
+The numbers themselves are arbitrary, but the example illustrates why sceptics often ask doom advocates to specify the individual assumptions hidden inside a headline p(doom) estimate. A disagreement that appears to be about one number may actually be a disagreement about several different links in the chain.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.13353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Is Power-Seeking AI an Existential Risk?</span><span class="citation-popover-snippet">Is Power-Seeking AI an Existential Risk?June 16, 2022...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
 
 ## Why multiplying uncertainty matters
 
 The strongest versions of AI doom arguments often rely on events that have never yet been observed directly.
 
-There is evidence for some precursor phenomena. Researchers have documented specification gaming, reward hacking, goal misgeneralisation and other cases where AI systems pursue unintended strategies. However, there is currently no public example of an AI system carrying out the kind of large-scale autonomous power-seeking envisioned in classic takeover scenarios. Reviews of the evidence therefore tend to conclude that the risk is concerning but not decisively established. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.13353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Is Power-Seeking AI an Existential Risk?</span><span class="citation-popover-snippet">Is Power-Seeking AI an Existential Risk?June 16, 2022...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
+There is evidence for some precursor phenomena. Researchers have documented specification gaming, reward hacking, goal misgeneralisation and other cases where AI systems pursue unintended strategies. However, there is currently no public example of an AI system carrying out the kind of large-scale autonomous power-seeking envisioned in classic takeover scenarios. Reviews of the evidence therefore tend to conclude that the risk is concerning but not decisively established.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.13353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Is Power-Seeking AI an Existential Risk?</span><span class="citation-popover-snippet">Is Power-Seeking AI an Existential Risk?June 16, 2022...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
 
-For sceptics, this creates an important distinction. Evidence that a system exploits a training loophole is not the same as evidence that a future system will conceal long-term goals, strategically deceive operators, seize critical infrastructure and permanently disempower humanity. Each transition requires additional inference. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.13353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Is Power-Seeking AI an Existential Risk?</span><span class="citation-popover-snippet">Is Power-Seeking AI an Existential Risk?June 16, 2022...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
+For sceptics, this creates an important distinction. Evidence that a system exploits a training loophole is not the same as evidence that a future system will conceal long-term goals, strategically deceive operators, seize critical infrastructure and permanently disempower humanity. Each transition requires additional inference.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.13353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Is Power-Seeking AI an Existential Risk?</span><span class="citation-popover-snippet">Is Power-Seeking AI an Existential Risk?June 16, 2022...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
 
-This is where uncertainty stacking becomes central. If confidence falls slightly at every inferential step, overall p(doom) estimates can shrink dramatically. Critics argue that some discussions implicitly treat a long sequence of speculative assumptions as though it were a single prediction. When the assumptions are unpacked, the final probability often looks much smaller. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.13353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Is Power-Seeking AI an Existential Risk?</span><span class="citation-popover-snippet">Is Power-Seeking AI an Existential Risk?June 16, 2022...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
+This is where uncertainty stacking becomes central. If confidence falls slightly at every inferential step, overall p(doom) estimates can shrink dramatically. Critics argue that some discussions implicitly treat a long sequence of speculative assumptions as though it were a single prediction. When the assumptions are unpacked, the final probability often looks much smaller.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.13353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Is Power-Seeking AI an Existential Risk?</span><span class="citation-popover-snippet">Is Power-Seeking AI an Existential Risk?June 16, 2022...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
 
 ## How sceptics and doomers read the same gaps
 
@@ -333,7 +333,7 @@ One of the most interesting features of the AI-risk debate is that both sides of
 
 People with relatively high p(doom) estimates tend to argue that uncertainty should not automatically reduce concern.
 
-Their reasoning is often that humanity has never before attempted to build systems that could potentially exceed human cognitive capabilities across many domains. The absence of direct evidence may therefore be exactly what one would expect before such systems exist. Waiting for decisive proof could mean waiting until the danger has already materialised. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.planned-obsolescence.org/p/science-and-speculation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: planned-obsolescence.org">[planned-obsolescence.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">planned-obsolescence.org</span><span class="citation-popover-title">Science and speculation</span><span class="citation-popover-snippet">by Ajeya CotraMay 1, 2026 — 1 May 2026 — We almost certainly won&#x27;t be able to develop an evidence base about AI risks anywhere near as ro...</span><span class="citation-popover-meta">Published: May 1, 2026</span></span></span>
+Their reasoning is often that humanity has never before attempted to build systems that could potentially exceed human cognitive capabilities across many domains. The absence of direct evidence may therefore be exactly what one would expect before such systems exist. Waiting for decisive proof could mean waiting until the danger has already materialised.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.planned-obsolescence.org/p/science-and-speculation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: planned-obsolescence.org">[planned-obsolescence.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">planned-obsolescence.org</span><span class="citation-popover-title">Science and speculation</span><span class="citation-popover-snippet">by Ajeya CotraMay 1, 2026 — 1 May 2026 — We almost certainly won&#x27;t be able to develop an evidence base about AI risks anywhere near as ro...</span><span class="citation-popover-meta">Published: May 1, 2026</span></span></span>
 
 From this perspective, uncertainty does not necessarily imply safety. Instead, uncertainty may be a warning sign that society is entering poorly understood territory.
 
@@ -341,7 +341,7 @@ From this perspective, uncertainty does not necessarily imply safety. Instead, u
 
 Critics usually agree that future AI could become extremely capable. Their objection is that uncertainty cuts both ways.
 
-If there is little direct evidence for strategic deception, recursive self-improvement, durable power-seeking or irreversible takeover, then confidence in those outcomes should remain limited. Many sceptics argue that doom narratives often combine several speculative claims and then discuss the resulting scenario as though it were a single forecast. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.13353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Is Power-Seeking AI an Existential Risk?</span><span class="citation-popover-snippet">Is Power-Seeking AI an Existential Risk?June 16, 2022...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
+If there is little direct evidence for strategic deception, recursive self-improvement, durable power-seeking or irreversible takeover, then confidence in those outcomes should remain limited. Many sceptics argue that doom narratives often combine several speculative claims and then discuss the resulting scenario as though it were a single forecast.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.13353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Is Power-Seeking AI an Existential Risk?</span><span class="citation-popover-snippet">Is Power-Seeking AI an Existential Risk?June 16, 2022...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
 
 Under this view, uncertainty stacking is not a minor technical adjustment. It is one of the strongest reasons to resist very high p(doom) estimates.
 
@@ -359,16 +359,16 @@ Two researchers might agree on most facts yet differ sharply on a few key condit
 * How effective will [monitoring]({{ 'monitoring/' | relative_url }}) and control methods become?
 * How capable will governments and organisations be at intervention?
 
-Small differences at each stage can produce enormous differences in final estimates. Someone assigning relatively optimistic probabilities to five uncertain links may arrive at a p(doom) below 1%. Someone assigning moderately pessimistic probabilities to the same links may reach 20%, 30% or higher. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.13353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Is Power-Seeking AI an Existential Risk?</span><span class="citation-popover-snippet">Is Power-Seeking AI an Existential Risk?June 16, 2022...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
+Small differences at each stage can produce enormous differences in final estimates. Someone assigning relatively optimistic probabilities to five uncertain links may arrive at a p(doom) below 1%. Someone assigning moderately pessimistic probabilities to the same links may reach 20%, 30% or higher.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.13353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Is Power-Seeking AI an Existential Risk?</span><span class="citation-popover-snippet">Is Power-Seeking AI an Existential Risk?June 16, 2022...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
 
-This helps explain why p(doom) figures often appear unstable or highly subjective. Researchers are not usually disagreeing about a single observable fact. They are disagreeing about a nested structure of forecasts, assumptions and unknowns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cset.georgetown.edu/publication/beyond-pdoom-for-ai-risk-quantifying-uncertainty-without-probability/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cset.georgetown.edu">[CSET]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cset.georgetown.edu</span><span class="citation-popover-snippet">Beyond P(doom) for AI Risk: Quantifying Uncertainty...This issue brief explains why analysts and decision-makers need alternatives t...</span></span></span>
+This helps explain why p(doom) figures often appear unstable or highly subjective. Researchers are not usually disagreeing about a single observable fact. They are disagreeing about a nested structure of forecasts, assumptions and unknowns.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cset.georgetown.edu/publication/beyond-pdoom-for-ai-risk-quantifying-uncertainty-without-probability/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cset.georgetown.edu">[CSET]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cset.georgetown.edu</span><span class="citation-popover-snippet">Beyond P(doom) for AI Risk: Quantifying Uncertainty...This issue brief explains why analysts and decision-makers need alternatives t...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343_uncertainty_s_0d35fe-Illustration-3-dark.svg" | relative_url }}" alt="Uncertainty illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343_uncertainty_s_0d35fe-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_loss_control_e04343_uncertainty_s_0d35fe-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The deeper disagreement: probability versus deep uncertainty
 
 A further complication is that some analysts question whether a single probability is even the right tool.
 
-The future of advanced AI may involve what economists and decision theorists call deep or Knightian uncertainty: situations where there is no reliable historical data from which to derive probabilities. Several researchers have argued that expressing beliefs solely through a single p(doom) number can create a misleading impression of precision. Alternative approaches focus on ranges of possibilities, conditional scenarios, or measures of confidence rather than point estimates alone. CSET <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lesswrong.com/posts/tG9BLyBEiLeRJZvX6/communicating-effectively-under-knightian-norms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lesswrong.com">[2lesswrong.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lesswrong.com</span><span class="citation-popover-title">communicating effectively under knightian norms</span><span class="citation-popover-snippet">3 Apr 2023 — When Scott Alexander says &quot;33% risk of AI doom&quot; or Eliezer puts it at 90%, they are making estimates, and that is clearly a...</span></span></span>
+The future of advanced AI may involve what economists and decision theorists call deep or Knightian uncertainty: situations where there is no reliable historical data from which to derive probabilities. Several researchers have argued that expressing beliefs solely through a single p(doom) number can create a misleading impression of precision. Alternative approaches focus on ranges of possibilities, conditional scenarios, or measures of confidence rather than point estimates alone. CSET<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lesswrong.com/posts/tG9BLyBEiLeRJZvX6/communicating-effectively-under-knightian-norms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lesswrong.com">[2lesswrong.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lesswrong.com</span><span class="citation-popover-title">communicating effectively under knightian norms</span><span class="citation-popover-snippet">3 Apr 2023 — When Scott Alexander says &quot;33% risk of AI doom&quot; or Eliezer puts it at 90%, they are making estimates, and that is clearly a...</span></span></span>
 
 This criticism does not necessarily imply that existential risk is low. Instead, it argues that uncertainty itself is part of the story. A claim that there is a 30% chance of doom may sound precise, but the uncertainty surrounding that estimate may be almost as important as the estimate itself.
 
@@ -378,274 +378,274 @@ Uncertainty stacking does not prove that AI doom is unlikely. Nor does it prove 
 
 What it does show is why debates about AI existential risk often become debates about intermediate assumptions rather than final outcomes. A takeover scenario may sound plausible when described as a narrative. But when broken into individual claims, each link must earn its own credibility.
 
-For sceptics, this is one of the strongest [objections]({{ 'objections/' | relative_url }}) to loss-of-control fears: many takeover stories require a long sequence of uncertain events, and multiplying those uncertainties can drive overall risk estimates down sharply. For doom advocates, the reply is that several links may be more likely than critics assume, and that even a relatively small probability of irreversible catastrophe deserves serious attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.13353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Is Power-Seeking AI an Existential Risk?</span><span class="citation-popover-snippet">Is Power-Seeking AI an Existential Risk?June 16, 2022...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
+For sceptics, this is one of the strongest [objections]({{ 'objections/' | relative_url }}) to loss-of-control fears: many takeover stories require a long sequence of uncertain events, and multiplying those uncertainties can drive overall risk estimates down sharply. For doom advocates, the reply is that several links may be more likely than critics assume, and that even a relatively small probability of irreversible catastrophe deserves serious attention.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.13353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Is Power-Seeking AI an Existential Risk?</span><span class="citation-popover-snippet">Is Power-Seeking AI an Existential Risk?June 16, 2022...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
 
 The result is not merely a disagreement about one number. It is a disagreement about how to reason when evidence is incomplete, unprecedented technologies are advancing rapidly, and every major step in the argument contains uncertainty of its own.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why p(doom) estimates diverge so sharply. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why p(doom) estimates diverge so sharply. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8vm0DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Jonathan Russell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8vm0DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
+</h4>
+<p class="fr-book-author">By Stuart Jonathan Russell</p>
         
-        <p class="fr-book-desc">Directly addresses AI control problems, uncertainty, and competing views about existential risk.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses AI control problems, uncertainty, and competing views about existential risk.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
-        </h4>
-        <p class="fr-book-author">By Brian Christian</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
+</h4>
+<p class="fr-book-author">By Brian Christian</p>
         
-        <p class="fr-book-desc">Examines how different assumptions about alignment produce different risk assessments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how different assumptions about alignment produce different risk assessments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superintelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7_H8AwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superintelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superintelligence">Superintelligence</a>
-        </h4>
-        <p class="fr-book-author">By Nick Bostrom</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superintelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7_H8AwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superintelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superintelligence">Superintelligence</a>
+</h4>
+<p class="fr-book-author">By Nick Bostrom</p>
         
-        <p class="fr-book-desc">Explores chains of assumptions leading from advanced AI to catastrophic outcomes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores chains of assumptions leading from advanced AI to catastrophic outcomes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Life 3.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3_otDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Life 3.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Life 3.0">Life 3.0</a>
-        </h4>
-        <p class="fr-book-author">By Max Tegmark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Life 3.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3_otDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Life 3.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Life 3.0">Life 3.0</a>
+</h4>
+<p class="fr-book-author">By Max Tegmark</p>
         
-        <p class="fr-book-desc">Surveys possible AI futures and the uncertainty surrounding long-term outcomes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Surveys possible AI futures and the uncertainty surrounding long-term outcomes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superintelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superintelligence</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Superintelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superintelligence</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Matserpi Robotic Arm Car Kit for Raspberry Pi - AI Vision, 5DOF, Educational Rob"><img src="{{ '/assets/images/marketplace-covers/51354845bd593a6ad015.jpg' | relative_url }}" alt="Listing image for Matserpi Robotic Arm Car Kit for Raspberry Pi - AI Vision, 5DOF, Educational Rob" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Matserpi Robotic Arm Car Kit for Raspberry Pi - AI Vision, 5DOF, Educational Rob</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI robot kit">Search <span data-ebay-domain-label>eBay.com</span>: AI robot kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-ai-robot-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Matserpi Robotic Arm Car Kit for Raspberry Pi - AI Vision, 5DOF, Educational Rob"><img src="{{ '/assets/images/marketplace-covers/51354845bd593a6ad015.jpg' | relative_url }}" alt="Listing image for Matserpi Robotic Arm Car Kit for Raspberry Pi - AI Vision, 5DOF, Educational Rob" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Matserpi Robotic Arm Car Kit for Raspberry Pi - AI Vision, 5DOF, Educational Rob</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI robot kit">Search<span data-ebay-domain-label>eBay.com</span>: AI robot kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-ai-robot-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TurboPi Smart Robot Car Kit Vision AI Robot-Hiwonder 2DOF HD Cam for Raspberry"><img src="{{ '/assets/images/marketplace-covers/6febc37663a27a71e69e.jpg' | relative_url }}" alt="Listing image for TurboPi Smart Robot Car Kit Vision AI Robot-Hiwonder 2DOF HD Cam for Raspberry" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TurboPi Smart Robot Car Kit Vision AI Robot-Hiwonder 2DOF HD Cam for Raspberry</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI robot kit">Search <span data-ebay-domain-label>eBay.com</span>: AI robot kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-ai-robot-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TurboPi Smart Robot Car Kit Vision AI Robot-Hiwonder 2DOF HD Cam for Raspberry"><img src="{{ '/assets/images/marketplace-covers/6febc37663a27a71e69e.jpg' | relative_url }}" alt="Listing image for TurboPi Smart Robot Car Kit Vision AI Robot-Hiwonder 2DOF HD Cam for Raspberry" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TurboPi Smart Robot Car Kit Vision AI Robot-Hiwonder 2DOF HD Cam for Raspberry</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI robot kit">Search<span data-ebay-domain-label>eBay.com</span>: AI robot kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-ai-robot-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Freenove Robot Dog Kit for Raspberry Pi FNK0050 New Open Box Complete STEM AI"><img src="{{ '/assets/images/marketplace-covers/2cbc756cb2d52391f0e4.jpg' | relative_url }}" alt="Listing image for Freenove Robot Dog Kit for Raspberry Pi FNK0050 New Open Box Complete STEM AI" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Freenove Robot Dog Kit for Raspberry Pi FNK0050 New Open Box Complete STEM AI</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI robot kit">Search <span data-ebay-domain-label>eBay.com</span>: AI robot kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-ai-robot-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Freenove Robot Dog Kit for Raspberry Pi FNK0050 New Open Box Complete STEM AI"><img src="{{ '/assets/images/marketplace-covers/2cbc756cb2d52391f0e4.jpg' | relative_url }}" alt="Listing image for Freenove Robot Dog Kit for Raspberry Pi FNK0050 New Open Box Complete STEM AI" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Freenove Robot Dog Kit for Raspberry Pi FNK0050 New Open Box Complete STEM AI</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI robot kit">Search<span data-ebay-domain-label>eBay.com</span>: AI robot kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-ai-robot-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UGV Beast PI4B AI Kit Opensource Off-Road Tracked AI Robot PC Vision"><img src="{{ '/assets/images/marketplace-covers/a4dd91f6bceeae51707e.jpg' | relative_url }}" alt="Listing image for UGV Beast PI4B AI Kit Opensource Off-Road Tracked AI Robot PC Vision" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UGV Beast PI4B AI Kit Opensource Off-Road Tracked AI Robot PC Vision</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI robot kit">Search <span data-ebay-domain-label>eBay.com</span>: AI robot kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-ai-robot-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UGV Beast PI4B AI Kit Opensource Off-Road Tracked AI Robot PC Vision"><img src="{{ '/assets/images/marketplace-covers/a4dd91f6bceeae51707e.jpg' | relative_url }}" alt="Listing image for UGV Beast PI4B AI Kit Opensource Off-Road Tracked AI Robot PC Vision" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UGV Beast PI4B AI Kit Opensource Off-Road Tracked AI Robot PC Vision</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI robot kit">Search<span data-ebay-domain-label>eBay.com</span>: AI robot kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-ai-robot-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster"><img src="{{ '/assets/images/marketplace-covers/000874dca6d2fcc04da4.jpg' | relative_url }}" alt="Listing image for A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster"><img src="{{ '/assets/images/marketplace-covers/000874dca6d2fcc04da4.jpg' | relative_url }}" alt="Listing image for A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery"><img src="{{ '/assets/images/marketplace-covers/fe6f721a300e36459934.jpg' | relative_url }}" alt="Listing image for A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery"><img src="{{ '/assets/images/marketplace-covers/fe6f721a300e36459934.jpg' | relative_url }}" alt="Listing image for A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A. I. Artificial Intelligence. Jude Law. Original UK Video Poster."><img src="{{ '/assets/images/marketplace-covers/2a668d45483ac31aaf6d.jpg' | relative_url }}" alt="Listing image for A. I. Artificial Intelligence. Jude Law. Original UK Video Poster." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A. I. Artificial Intelligence. Jude Law. Original UK Video Poster.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A. I. Artificial Intelligence. Jude Law. Original UK Video Poster."><img src="{{ '/assets/images/marketplace-covers/2a668d45483ac31aaf6d.jpg' | relative_url }}" alt="Listing image for A. I. Artificial Intelligence. Jude Law. Original UK Video Poster." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A. I. Artificial Intelligence. Jude Law. Original UK Video Poster.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray"><img src="{{ '/assets/images/marketplace-covers/3c3ecd285cbeae3cd708.jpg' | relative_url }}" alt="Listing image for AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray"><img src="{{ '/assets/images/marketplace-covers/3c3ecd285cbeae3cd708.jpg' | relative_url }}" alt="Listing image for AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-p-doom-estimates-diverge-so-sharply-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -661,7 +661,7 @@ The result is not merely a disagreement about one number. It is a disagreement a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -681,7 +681,7 @@ The result is not merely a disagreement about one number. It is a disagreement a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -713,7 +713,7 @@ The result is not merely a disagreement about one number. It is a disagreement a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -743,7 +743,7 @@ The result is not merely a disagreement about one number. It is a disagreement a
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -801,126 +801,126 @@ The result is not merely a disagreement about one number. It is a disagreement a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ai-safety-atlas.com  
    Title: The term has evolved  
-   Link: <a href="https://ai-safety-atlas.com/chapters/v1/risks/appendix-quantifying-existential-risks/" target="_blank" rel="noopener noreferrer nofollow">https://ai-safety-atlas.com/chapters/v1/risks/appendix-quantifying-existential-risks/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Appendix: Quantifying Existential Risks - Chapter 2P(doom) represents the subjective probability that artificial intelligence will cause...</p></details>
+   Link:<a href="https://ai-safety-atlas.com/chapters/v1/risks/appendix-quantifying-existential-risks/" target="_blank" rel="noopener noreferrer nofollow">https://ai-safety-atlas.com/chapters/v1/risks/appendix-quantifying-existential-risks/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Appendix: Quantifying Existential Risks - Chapter 2P(doom) represents the subjective probability that artificial intelligence will cause...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
    Title: arXiv Is Power-Seeking AI an Existential Risk?  
-   Link: <a href="https://arxiv.org/abs/2206.13353" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2206.13353</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is Power-Seeking AI an Existential Risk?June 16, 2022...</p></details>
+   Link:<a href="https://arxiv.org/abs/2206.13353" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2206.13353</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is Power-Seeking AI an Existential Risk?June 16, 2022...</p></details>
    Published: June 16, 2022  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2310.18244" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2310.18244</a>  
+   Link:<a href="https://arxiv.org/abs/2310.18244" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2310.18244</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: planned-obsolescence.org  
    Title: Science and speculation  
-   Link: <a href="https://www.planned-obsolescence.org/p/science-and-speculation" target="_blank" rel="noopener noreferrer nofollow">https://www.planned-obsolescence.org/p/science-and-speculation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by Ajeya CotraMay 1, 2026 — 1 May 2026 — We almost certainly won&#x27;t be able to develop an evidence base about AI risks anywhere near as ro...</p></details>
+   Link:<a href="https://www.planned-obsolescence.org/p/science-and-speculation" target="_blank" rel="noopener noreferrer nofollow">https://www.planned-obsolescence.org/p/science-and-speculation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by Ajeya CotraMay 1, 2026 — 1 May 2026 — We almost certainly won&#x27;t be able to develop an evidence base about AI risks anywhere near as ro...</p></details>
    Published: May 1, 2026  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2512.04119" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2512.04119</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Humanity in the Age of AI: Reassessing 2025&#x27;s Existential-Risk NarrativesDecember 1, 2025...</p></details>
+   Link:<a href="https://arxiv.org/abs/2512.04119" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2512.04119</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Humanity in the Age of AI: Reassessing 2025&#x27;s Existential-Risk NarrativesDecember 1, 2025...</p></details>
    Published: December 1, 2025  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cset.georgetown.edu  
-   Link: <a href="https://cset.georgetown.edu/publication/beyond-pdoom-for-ai-risk-quantifying-uncertainty-without-probability/" target="_blank" rel="noopener noreferrer nofollow">https://cset.georgetown.edu/publication/beyond-pdoom-for-ai-risk-quantifying-uncertainty-without-probability/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond P(doom) for AI Risk: Quantifying Uncertainty...This issue brief explains why analysts and decision-makers need alternatives t...</p></details>
+   Link:<a href="https://cset.georgetown.edu/publication/beyond-pdoom-for-ai-risk-quantifying-uncertainty-without-probability/" target="_blank" rel="noopener noreferrer nofollow">https://cset.georgetown.edu/publication/beyond-pdoom-for-ai-risk-quantifying-uncertainty-without-probability/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond P(doom) for AI Risk: Quantifying Uncertainty...This issue brief explains why analysts and decision-makers need alternatives t...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: lesswrong.com  
    Title: communicating effectively under knightian norms  
-   Link: <a href="https://www.lesswrong.com/posts/tG9BLyBEiLeRJZvX6/communicating-effectively-under-knightian-norms" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/posts/tG9BLyBEiLeRJZvX6/communicating-effectively-under-knightian-norms</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Apr 2023 — When Scott Alexander says &quot;33% risk of AI doom&quot; or Eliezer puts it at 90%, they are making estimates, and that is clearly a...</p></details>
+   Link:<a href="https://www.lesswrong.com/posts/tG9BLyBEiLeRJZvX6/communicating-effectively-under-knightian-norms" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/posts/tG9BLyBEiLeRJZvX6/communicating-effectively-under-knightian-norms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 Apr 2023 — When Scott Alexander says &quot;33% risk of AI doom&quot; or Eliezer puts it at 90%, they are making estimates, and that is clearly a...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2503.07341" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2503.07341</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Economics of p(doom): Scenarios of Existential Risk...by J Growiec · 2025 · Cited by 10 — By contrast, the probability of AI doom—hu...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2503.07341" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2503.07341</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Economics of p(doom): Scenarios of Existential Risk...by J Growiec · 2025 · Cited by 10 — By contrast, the probability of AI doom—hu...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
    Title: What are the odds?  
-   Link: <a href="https://arxiv.org/html/2510.23453v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2510.23453v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Risk and uncertainty about AI...27 Oct 2025 — This work is a commentary of the article AI Survival Stories: a Taxonomic Analysis of AI E...</p></details>
+   Link:<a href="https://arxiv.org/html/2510.23453v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2510.23453v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Risk and uncertainty about AI...27 Oct 2025 — This work is a commentary of the article AI Survival Stories: a Taxonomic Analysis of AI E...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2505.04592v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2505.04592v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI [Governance](&amp;#123;&amp;#123; &#x27;governance/&#x27; | relative_url &amp;#125;&amp;#125;) to Avoid Extinction: The Strategic...Risks come from failure to control powerful AI systems, [misuse](&amp;#123;&amp;#123; &#x27;misuse/&#x27; | relative_url &amp;#125;&amp;#125;) of AI by ma...</p></details>
+   Link:<a href="https://arxiv.org/html/2505.04592v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2505.04592v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI [Governance](&amp;#123;&amp;#123; &#x27;governance/&#x27; | relative_url &amp;#125;&amp;#125;) to Avoid Extinction: The Strategic...Risks come from failure to control powerful AI systems, [misuse](&amp;#123;&amp;#123; &#x27;misuse/&#x27; | relative_url &amp;#125;&amp;#125;) of AI by ma...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/P%28doom%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/P%28doom%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>P(doom)In AI safety, P(doom) is the probability of existentially [catastrophic](&amp;#123;&amp;#123; &#x27;misuse/&#x27; | relative_url &amp;#125;&amp;#125;) outcomes (so-called &quot;doomsday scenarios&quot;) as a result of...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/P%28doom%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/P%28doom%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>P(doom)In AI safety, P(doom) is the probability of existentially [catastrophic](&amp;#123;&amp;#123; &#x27;misuse/&#x27; | relative_url &amp;#125;&amp;#125;) outcomes (so-called &quot;doomsday scenarios&quot;) as a result of...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: garymarcus.substack.com  
-   Link: <a href="https://garymarcus.substack.com/p/d28/comments" target="_blank" rel="noopener noreferrer nofollow">https://garymarcus.substack.com/p/d28/comments</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>p(doom) - by Gary Marcus - Marcus on AI27 Aug 2023 — The author does provide quantitative estimates for p(doom): &quot;My best guess is that h...</p></details>
+   Link:<a href="https://garymarcus.substack.com/p/d28/comments" target="_blank" rel="noopener noreferrer nofollow">https://garymarcus.substack.com/p/d28/comments</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>p(doom) - by Gary Marcus - Marcus on AI27 Aug 2023 — The author does provide quantitative estimates for p(doom): &quot;My best guess is that h...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/garykucher_ai-aisafety-aialignment-activity-7438995662379130880-cFCS" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/garykucher_ai-aisafety-aialignment-activity-7438995662379130880-cFCS</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Existential Risk: Understanding p(Doom) EstimatesP(Doom) is shorthand for “probability of doom,” meaning the estimated chance that adv...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/garykucher_ai-aisafety-aialignment-activity-7438995662379130880-cFCS" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/garykucher_ai-aisafety-aialignment-activity-7438995662379130880-cFCS</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Existential Risk: Understanding p(Doom) EstimatesP(Doom) is shorthand for “probability of doom,” meaning the estimated chance that adv...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: x.com  
-   Link: <a href="https://x.com/ajeya_cotra/status/1655243379637391360" target="_blank" rel="noopener noreferrer nofollow">https://x.com/ajeya_cotra/status/1655243379637391360</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ajeya CotraAjeya Cotra (@ajeya_cotra). 162 likes 9 replies. A common criticism of people who are trying to stop existential risk from pow...</p></details>
+   Link:<a href="https://x.com/ajeya_cotra/status/1655243379637391360" target="_blank" rel="noopener noreferrer nofollow">https://x.com/ajeya_cotra/status/1655243379637391360</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ajeya CotraAjeya Cotra (@ajeya_cotra). 162 likes 9 replies. A common criticism of people who are trying to stop existential risk from pow...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/anlohn_beyond-pdoom-for-ai-risk-quantifying-uncertainty-activity-7457825915650203649-oKH8" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/anlohn_beyond-pdoom-for-ai-risk-quantifying-uncertainty-activity-7457825915650203649-oKH8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alternative to Probability in AI Risk AssessmentThis was an excellent paper by Drew and CSET. I have similarly been frustrated with how p...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/anlohn_beyond-pdoom-for-ai-risk-quantifying-uncertainty-activity-7457825915650203649-oKH8" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/anlohn_beyond-pdoom-for-ai-risk-quantifying-uncertainty-activity-7457825915650203649-oKH8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alternative to Probability in AI Risk AssessmentThis was an excellent paper by Drew and CSET. I have similarly been frustrated with how p...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: abundance.institute  
-   Link: <a href="https://abundance.institute/our-work/the-ai-technopanic-and-its-effects" target="_blank" rel="noopener noreferrer nofollow">https://abundance.institute/our-work/the-ai-technopanic-and-its-effects</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The AI Technopanic and Its EffectsThe essay by Ajeya Cotra, who oversee Open Philanthropy&#x27;s “Potential risks from advanced artificial int...</p></details>
+   Link:<a href="https://abundance.institute/our-work/the-ai-technopanic-and-its-effects" target="_blank" rel="noopener noreferrer nofollow">https://abundance.institute/our-work/the-ai-technopanic-and-its-effects</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The AI Technopanic and Its EffectsThe essay by Ajeya Cotra, who oversee Open Philanthropy&#x27;s “Potential risks from advanced artificial int...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: psc-consultant.com  
    Title: ai 2027 a wake up call on advanced ai and existential risk  
-   Link: <a href="https://www.psc-consultant.com/post/ai-2027-a-wake-up-call-on-advanced-ai-and-existential-risk" target="_blank" rel="noopener noreferrer nofollow">https://www.psc-consultant.com/post/ai-2027-a-wake-up-call-on-advanced-ai-and-existential-risk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-2027: A Wake-Up Call on Advanced AI and Existential...20 Oct 2025 — Explore AI-2027, a deeply researched scenario forecasting the ris...</p></details>
+   Link:<a href="https://www.psc-consultant.com/post/ai-2027-a-wake-up-call-on-advanced-ai-and-existential-risk" target="_blank" rel="noopener noreferrer nofollow">https://www.psc-consultant.com/post/ai-2027-a-wake-up-call-on-advanced-ai-and-existential-risk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI-2027: A Wake-Up Call on Advanced AI and Existential...20 Oct 2025 — Explore AI-2027, a deeply researched scenario forecasting the ris...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: forum.effectivealtruism.org  
    Title: draft report on existential risk from power seeking ai  
-   Link: <a href="https://forum.effectivealtruism.org/posts/78NoGoRitPzeT8nga/draft-report-on-existential-risk-from-power-seeking-ai" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/78NoGoRitPzeT8nga/draft-report-on-existential-risk-from-power-seeking-ai</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>report on existential risk from power-seeking AI28 Apr 2021 — I&#x27;ve written a draft report evaluating a version of the overall case for ex...</p></details>
+   Link:<a href="https://forum.effectivealtruism.org/posts/78NoGoRitPzeT8nga/draft-report-on-existential-risk-from-power-seeking-ai" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/78NoGoRitPzeT8nga/draft-report-on-existential-risk-from-power-seeking-ai</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>report on existential risk from power-seeking AI28 Apr 2021 — I&#x27;ve written a draft report evaluating a version of the overall case for ex...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: abc.net.au  
    Title: whats your pdoom ai researchers worry catastrophe  
-   Link: <a href="https://www.abc.net.au/news/2023-07-15/whats-your-pdoom-ai-researchers-worry-catastrophe/102591340" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2023-07-15/whats-your-pdoom-ai-researchers-worry-catastrophe/102591340</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;What&#x27;s your p(doom)?&#x27;: How AI could be learning a...14 Jul 2023 — If a sophisticated AI was then motivated to defend itself, Ms Cotra a...</p></details>
+   Link:<a href="https://www.abc.net.au/news/2023-07-15/whats-your-pdoom-ai-researchers-worry-catastrophe/102591340" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2023-07-15/whats-your-pdoom-ai-researchers-worry-catastrophe/102591340</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;What&#x27;s your p(doom)?&#x27;: How AI could be learning a...14 Jul 2023 — If a sophisticated AI was then motivated to defend itself, Ms Cotra a...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: alignmentforum.org  
-   Link: <a href="https://www.alignmentforum.org/posts/pRkFkzwKZ2zfa3R6H/without-specific-countermeasures-the-easiest-path-to" target="_blank" rel="noopener noreferrer nofollow">https://www.alignmentforum.org/posts/pRkFkzwKZ2zfa3R6H/without-specific-countermeasures-the-easiest-path-to</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>most concrete, detailed, clear, and comprehensive) story of existential risk from AI I know of (IMO). I expect I&#x27;ll...Read more...</p></details>
+   Link:<a href="https://www.alignmentforum.org/posts/pRkFkzwKZ2zfa3R6H/without-specific-countermeasures-the-easiest-path-to" target="_blank" rel="noopener noreferrer nofollow">https://www.alignmentforum.org/posts/pRkFkzwKZ2zfa3R6H/without-specific-countermeasures-the-easiest-path-to</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>most concrete, detailed, clear, and comprehensive) story of existential risk from AI I know of (IMO). I expect I&#x27;ll...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
    Title: ai 2027 is the most realistic and terrifying  
-   Link: <a href="https://www.reddit.com/r/collapse/comments/1kzqh53/ai_2027_is_the_most_realistic_and_terrifying/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/collapse/comments/1kzqh53/ai_2027_is_the_most_realistic_and_terrifying/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2027, humanity is basically sidelined. AI systems are so advanced and complex that even their creators don&#x27;t fully underst...</p></details>
+   Link:<a href="https://www.reddit.com/r/collapse/comments/1kzqh53/ai_2027_is_the_most_realistic_and_terrifying/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/collapse/comments/1kzqh53/ai_2027_is_the_most_realistic_and_terrifying/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2027, humanity is basically sidelined. AI systems are so advanced and complex that even their creators don&#x27;t fully underst...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: thebulletin.org  
    Title: stopping the clock on catastrophic ai risk  
-   Link: <a href="https://thebulletin.org/premium/2025-12/stopping-the-clock-on-catastrophic-ai-risk/" target="_blank" rel="noopener noreferrer nofollow">https://thebulletin.org/premium/2025-12/stopping-the-clock-on-catastrophic-ai-risk/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Dec 2025 — AI is already sufficiently robust that it introduces new global risks and exacerbates existing threats. Its development is...</p></details>
+   Link:<a href="https://thebulletin.org/premium/2025-12/stopping-the-clock-on-catastrophic-ai-risk/" target="_blank" rel="noopener noreferrer nofollow">https://thebulletin.org/premium/2025-12/stopping-the-clock-on-catastrophic-ai-risk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 Dec 2025 — AI is already sufficiently robust that it introduces new global risks and exacerbates existing threats. Its development is...</p></details>

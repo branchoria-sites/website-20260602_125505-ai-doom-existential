@@ -278,11 +278,11 @@ image: /assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56
 Do AI race simulations show real doom risk? The short answer is: they provide evidence that competitive pressures can push organisations towards faster and potentially less safe AI deployment, but they do not directly prove that an AI-caused existential catastrophe will occur.
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_ai_race_model_76d082-Illustration-1-dark.svg" | relative_url }}" alt="Race evidence illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_ai_race_model_76d082-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_ai_race_model_76d082-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction matters. In debates about AI doom, race dynamics are often presented as a key mechanism through which otherwise cautious organisations could end up taking dangerous risks. Simulation games, economic models, and strategic exercises are attempts to study that mechanism before real-world events unfold. They can reveal recurring incentives, coordination failures, and decision-making patterns. What they cannot do is demonstrate that advanced AI will become uncontrollable, nor can they reliably estimate a precise probability of extinction. The evidence is therefore indirect but potentially important: it bears on whether the conditions associated with higher-risk futures are likely to emerge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0016328725000254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Author links... full-scale wargames. The first of these is the shortest and simplest...Read more...</span></span></span>
+This distinction matters. In debates about AI doom, race dynamics are often presented as a key mechanism through which otherwise cautious organisations could end up taking dangerous risks. Simulation games, economic models, and strategic exercises are attempts to study that mechanism before real-world events unfold. They can reveal recurring incentives, coordination failures, and decision-making patterns. What they cannot do is demonstrate that advanced AI will become uncontrollable, nor can they reliably estimate a precise probability of extinction. The evidence is therefore indirect but potentially important: it bears on whether the conditions associated with higher-risk futures are likely to emerge.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0016328725000254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Author links... full-scale wargames. The first of these is the shortest and simplest...Read more...</span></span></span>
 
 ## What simulation games reveal about safety failures
 
-One of the most discussed examples is *Intelligence Rising*, a multi-year scenario exercise designed to explore future AI race dynamics. Researchers analysed dozens of game runs involving participants navigating competition between firms and states under conditions of rapid AI progress. Across many iterations, facilitators observed recurring patterns: intense pressure to maintain leadership, difficulties sustaining cooperation agreements, and incentives to prioritise strategic advantage over caution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2410.03092" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Strategic Insights from Simulation Gaming of AI Race Dynamics</span><span class="citation-popover-snippet">arXiv Strategic Insights from Simulation Gaming of AI Race Dynamics</span></span></span>
+One of the most discussed examples is *Intelligence Rising*, a multi-year scenario exercise designed to explore future AI race dynamics. Researchers analysed dozens of game runs involving participants navigating competition between firms and states under conditions of rapid AI progress. Across many iterations, facilitators observed recurring patterns: intense pressure to maintain leadership, difficulties sustaining cooperation agreements, and incentives to prioritise strategic advantage over caution.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2410.03092" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Strategic Insights from Simulation Gaming of AI Race Dynamics</span><span class="citation-popover-snippet">arXiv Strategic Insights from Simulation Gaming of AI Race Dynamics</span></span></span>
 
 The value of these exercises is not that they predict the future. Rather, they expose how people behave when confronted with plausible strategic pressures. Several recurring themes appeared repeatedly:
 
@@ -292,11 +292,11 @@ The value of these exercises is not that they predict the future. Rather, they e
 * International agreements were frequently proposed but often proved fragile.
 * Safety concerns were commonly acknowledged but struggled to survive sustained competitive pressure.
 * Unexpected crises tended to increase urgency rather than caution.
-* Cybersecurity and information asymmetries often became central strategic concerns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2410.03092" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Strategic Insights from Simulation Gaming of AI Race Dynamics</span><span class="citation-popover-snippet">arXiv Strategic Insights from Simulation Gaming of AI Race Dynamics</span></span></span>
+* Cybersecurity and information asymmetries often became central strategic concerns.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2410.03092" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Strategic Insights from Simulation Gaming of AI Race Dynamics</span><span class="citation-popover-snippet">arXiv Strategic Insights from Simulation Gaming of AI Race Dynamics</span></span></span>
 
 </div>
 
-For AI doom advocates, these findings matter because many existential-risk scenarios assume exactly this kind of environment: actors understand that safety is important, yet still move quickly because they fear being overtaken. The simulations suggest that such behaviour is plausible rather than purely theoretical. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0016328725000254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Author links... full-scale wargames. The first of these is the shortest and simplest...Read more...</span></span></span>
+For AI doom advocates, these findings matter because many existential-risk scenarios assume exactly this kind of environment: actors understand that safety is important, yet still move quickly because they fear being overtaken. The simulations suggest that such behaviour is plausible rather than purely theoretical.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0016328725000254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Author links... full-scale wargames. The first of these is the shortest and simplest...Read more...</span></span></span>
 
 However, simulation games have obvious limitations. Participants know they are in a game. The scenarios embed assumptions chosen by designers. The outcomes may reveal human incentives under [uncertainty]({{ 'uncertainty/' | relative_url }}) without accurately representing future AI capabilities. A simulation showing a race to deploy is therefore evidence about strategic behaviour, not evidence that a loss-of-control event will actually happen.
 
@@ -322,7 +322,7 @@ These models are useful because they make assumptions explicit. Researchers can 
 
 By adjusting these assumptions, analysts can identify which conditions generate the strongest racing pressures.
 
-For readers interested in AI doom arguments, the key finding is not that catastrophe becomes inevitable. Rather, many models suggest that competition systematically shifts decisions towards earlier deployment and lower margins of safety than would occur under coordinated decision-making. This supports the broader claim that race dynamics could increase existential risk if highly capable AI systems eventually prove dangerous. It does not establish that such systems will in fact become dangerous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0016328725000254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Author links... full-scale wargames. The first of these is the shortest and simplest...Read more...</span></span></span>
+For readers interested in AI doom arguments, the key finding is not that catastrophe becomes inevitable. Rather, many models suggest that competition systematically shifts decisions towards earlier deployment and lower margins of safety than would occur under coordinated decision-making. This supports the broader claim that race dynamics could increase existential risk if highly capable AI systems eventually prove dangerous. It does not establish that such systems will in fact become dangerous.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0016328725000254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Author links... full-scale wargames. The first of these is the shortest and simplest...Read more...</span></span></span>
 
 ## Why doomers take these models seriously
 
@@ -330,9 +330,9 @@ People who assign substantial p(doom)—the probability that advanced AI causes 
 
 A frequent sceptical response to AI doom is that developers would simply stop if systems became obviously dangerous. Race models challenge that assumption. They suggest that even well-intentioned actors may struggle to pause if competitors continue advancing.
 
-The concern is not primarily about recklessness. It is about incentives. If one organisation delays deployment to improve safety while another deploys immediately, the faster actor may gain economic, military, political, or technological advantages. In some models and simulations, this pressure becomes strong enough that nearly everyone accelerates despite recognising the risks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0016328725000254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Author links... full-scale wargames. The first of these is the shortest and simplest...Read more...</span></span></span>
+The concern is not primarily about recklessness. It is about incentives. If one organisation delays deployment to improve safety while another deploys immediately, the faster actor may gain economic, military, political, or technological advantages. In some models and simulations, this pressure becomes strong enough that nearly everyone accelerates despite recognising the risks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0016328725000254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Author links... full-scale wargames. The first of these is the shortest and simplest...Read more...</span></span></span>
 
-Recent public debates over frontier-model safety policies have often been interpreted through this lens. Some observers argue that increasing competition among leading AI developers has made voluntary restraint harder to sustain, while others argue that competition can also drive safety improvements and better testing. The disagreement itself reflects the central question raised by race models: whether competition ultimately strengthens or weakens caution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2026/03/03/ai-race-safety-guardrail" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Safety guardrails loosen as AI rivalries grows</span><span class="citation-popover-snippet">Even traditionally cautious firms, like Anthropic, have recently revised their internal guidelines, narrowing criteria for delaying risky...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/anthropic-changing-safety-policy-2026-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-title">anthropic changing safety policy 2026 2</span><span class="citation-popover-snippet">The company will no longer unilaterally pause or delay new AI model deployments when safety mechanisms lag, citing increased competition...</span></span></span>
+Recent public debates over frontier-model safety policies have often been interpreted through this lens. Some observers argue that increasing competition among leading AI developers has made voluntary restraint harder to sustain, while others argue that competition can also drive safety improvements and better testing. The disagreement itself reflects the central question raised by race models: whether competition ultimately strengthens or weakens caution.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2026/03/03/ai-race-safety-guardrail" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Safety guardrails loosen as AI rivalries grows</span><span class="citation-popover-snippet">Even traditionally cautious firms, like Anthropic, have recently revised their internal guidelines, narrowing criteria for delaying risky...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/anthropic-changing-safety-policy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-title">anthropic changing safety policy</span><span class="citation-popover-snippet">The company will no longer unilaterally pause or delay new AI model deployments when safety mechanisms lag, citing increased competition...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_ai_race_model_76d082-Illustration-2-dark.svg" | relative_url }}" alt="Race evidence illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_ai_race_model_76d082-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_ai_race_model_76d082-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The strongest objections to race-based evidence
@@ -373,7 +373,7 @@ They cannot directly establish:
 * That advanced AI will become misaligned.
 * That AI systems will seek power or evade control.
 * That civilisation-ending failures are likely.
-* That any particular p(doom) estimate is correct. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0016328725000254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Author links... full-scale wargames. The first of these is the shortest and simplest...Read more...</span></span></span> 2arXiv
+* That any particular p(doom) estimate is correct.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0016328725000254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Author links... full-scale wargames. The first of these is the shortest and simplest...Read more...</span></span></span> 2arXiv
 
 </div>
 
@@ -382,278 +382,278 @@ This distinction is crucial. In the AI doom debate, race simulations are best un
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_ai_race_model_76d082-Illustration-3-dark.svg" | relative_url }}" alt="Race evidence illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_ai_race_model_76d082-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_first_mover_p_56bf6c_ai_race_model_76d082-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the evidence means for AI doom
 
-Taken together, simulation games and economic models provide meaningful evidence that AI competition can create incentives to move faster than safety-focused observers would prefer. They strengthen the case that first-mover advantages and strategic rivalry are real concerns rather than purely speculative worries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0016328725000254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Author links... full-scale wargames. The first of these is the shortest and simplest...Read more...</span></span></span> 2arXiv
+Taken together, simulation games and economic models provide meaningful evidence that AI competition can create incentives to move faster than safety-focused observers would prefer. They strengthen the case that first-mover advantages and strategic rivalry are real concerns rather than purely speculative worries.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0016328725000254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Author links... full-scale wargames. The first of these is the shortest and simplest...Read more...</span></span></span> 2arXiv
 
 At the same time, they fall well short of proving doom. Their strongest contribution is showing that if highly capable AI systems eventually pose serious dangers, competitive pressures could make those dangers harder to manage. They illuminate one possible pathway to increased risk, not the final probability of catastrophe.
 
-For that reason, race simulations are often treated as supporting evidence in AI doom arguments rather than decisive evidence. They make concerns about premature deployment more plausible, but the overall existential-risk debate still depends on many additional questions about AI capabilities, alignment, control, [governance]({{ 'governance/' | relative_url }}), and human decision-making that no simulation game can settle on its own. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0016328725000254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Author links... full-scale wargames. The first of these is the shortest and simplest...Read more...</span></span></span> 2arXiv
+For that reason, race simulations are often treated as supporting evidence in AI doom arguments rather than decisive evidence. They make concerns about premature deployment more plausible, but the overall existential-risk debate still depends on many additional questions about AI capabilities, alignment, control, [governance]({{ 'governance/' | relative_url }}), and human decision-making that no simulation game can settle on its own.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0016328725000254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Author links... full-scale wargames. The first of these is the shortest and simplest...Read more...</span></span></span> 2arXiv
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O9P-fjSzJzs" title="Mutually Assured AI Malfunction | Robert Wright &amp; Dan Hendrycks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O9P-fjSzJzs" target="_blank" rel="noopener noreferrer">Mutually Assured AI Malfunction | Robert Wright &amp; Dan Hendrycks</a></p><p class="youtube-embed-meta">Channel: Nonzero &middot; Views: 2.9K &middot; Uploaded: March 2025 &middot; Length: 1 hour 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O9P-fjSzJzs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O9P-fjSzJzs">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What AI race models can and cannot prove. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What AI race models can and cannot prove. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Russell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
+</h4>
+<p class="fr-book-author">By Stuart Russell</p>
         
-        <p class="fr-book-desc">Explains why incentives matter in AI deployment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why incentives matter in AI deployment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
-        </h4>
-        <p class="fr-book-author">By Brian Christian</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
+</h4>
+<p class="fr-book-author">By Brian Christian</p>
         
-        <p class="fr-book-desc">Examines evidence, modeling and limits of prediction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines evidence, modeling and limits of prediction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
-        </h4>
-        <p class="fr-book-author">By Mustafa Suleyman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
+</h4>
+<p class="fr-book-author">By Mustafa Suleyman</p>
         
-        <p class="fr-book-desc">Directly addresses incentives, races and containment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses incentives, races and containment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hype+Machine+by+Sinan+Aral&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hype Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tNjKzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hype Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hype+Machine+by+Sinan+Aral&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hype Machine">The Hype Machine</a>
-        </h4>
-        <p class="fr-book-author">By Sinan Aral</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hype+Machine+by+Sinan+Aral&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hype Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tNjKzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hype Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hype+Machine+by+Sinan+Aral&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hype Machine">The Hype Machine</a>
+</h4>
+<p class="fr-book-author">By Sinan Aral</p>
         
-        <p class="fr-book-desc">Shows how models and simulations illuminate technology incentives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hype+Machine+by+Sinan+Aral&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how models and simulations illuminate technology incentives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hype+Machine+by+Sinan+Aral&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 500PCS Science Chemistry Stickers Rolls – Lab Experiment Cartoon Reward Labels"><img src="{{ '/assets/images/marketplace-covers/1ece629a145f826eb9e1.jpg' | relative_url }}" alt="Listing image for 500PCS Science Chemistry Stickers Rolls – Lab Experiment Cartoon Reward Labels" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">500PCS Science Chemistry Stickers Rolls – Lab Experiment Cartoon Reward Labels</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science sticker">Search <span data-ebay-domain-label>eBay.com</span>: science sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-science-sticker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 500PCS Science Chemistry Stickers Rolls – Lab Experiment Cartoon Reward Labels"><img src="{{ '/assets/images/marketplace-covers/1ece629a145f826eb9e1.jpg' | relative_url }}" alt="Listing image for 500PCS Science Chemistry Stickers Rolls – Lab Experiment Cartoon Reward Labels" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">500PCS Science Chemistry Stickers Rolls – Lab Experiment Cartoon Reward Labels</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science sticker">Search<span data-ebay-domain-label>eBay.com</span>: science sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-science-sticker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 10 Random Science Education Themed Stickers Decals Laptop Yeti Car Free Shipping"><img src="{{ '/assets/images/marketplace-covers/46b8553cc16c55a738c0.jpg' | relative_url }}" alt="Listing image for 10 Random Science Education Themed Stickers Decals Laptop Yeti Car Free Shipping" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">10 Random Science Education Themed Stickers Decals Laptop Yeti Car Free Shipping</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science sticker">Search <span data-ebay-domain-label>eBay.com</span>: science sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-science-sticker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 10 Random Science Education Themed Stickers Decals Laptop Yeti Car Free Shipping"><img src="{{ '/assets/images/marketplace-covers/46b8553cc16c55a738c0.jpg' | relative_url }}" alt="Listing image for 10 Random Science Education Themed Stickers Decals Laptop Yeti Car Free Shipping" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">10 Random Science Education Themed Stickers Decals Laptop Yeti Car Free Shipping</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science sticker">Search<span data-ebay-domain-label>eBay.com</span>: science sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-science-sticker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Science Sticker. Laptop Decal. Dishwasher Safe Water Bottle Decor."><img src="{{ '/assets/images/marketplace-covers/da5dbecd222b6a120913.jpg' | relative_url }}" alt="Listing image for Funny Science Sticker. Laptop Decal. Dishwasher Safe Water Bottle Decor." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Funny Science Sticker. Laptop Decal. Dishwasher Safe Water Bottle Decor.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science sticker">Search <span data-ebay-domain-label>eBay.com</span>: science sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-science-sticker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Science Sticker. Laptop Decal. Dishwasher Safe Water Bottle Decor."><img src="{{ '/assets/images/marketplace-covers/da5dbecd222b6a120913.jpg' | relative_url }}" alt="Listing image for Funny Science Sticker. Laptop Decal. Dishwasher Safe Water Bottle Decor." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Funny Science Sticker. Laptop Decal. Dishwasher Safe Water Bottle Decor.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science sticker">Search<span data-ebay-domain-label>eBay.com</span>: science sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-science-sticker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Vinyl Sticker Its Like Magic But Real Perfect for Science #790260"><img src="{{ '/assets/images/marketplace-covers/9770068d609e4c87b390.jpg' | relative_url }}" alt="Listing image for Science Vinyl Sticker Its Like Magic But Real Perfect for Science #790260" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Science Vinyl Sticker Its Like Magic But Real Perfect for Science #790260</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science sticker">Search <span data-ebay-domain-label>eBay.com</span>: science sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-science-sticker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Vinyl Sticker Its Like Magic But Real Perfect for Science #790260"><img src="{{ '/assets/images/marketplace-covers/9770068d609e4c87b390.jpg' | relative_url }}" alt="Listing image for Science Vinyl Sticker Its Like Magic But Real Perfect for Science #790260" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Science Vinyl Sticker Its Like Magic But Real Perfect for Science #790260</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science sticker">Search<span data-ebay-domain-label>eBay.com</span>: science sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-science-sticker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-artificial-intelligence-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Artificial intelligence Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ef0b901774b30471e70e.jpg' | relative_url }}" alt="Listing image for Artificial intelligence Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-artificial-intelligence-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Artificial intelligence Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-artificial-intelligence-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-artificial-intelligence-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-artificial-intelligence-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Artificial intelligence Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ef0b901774b30471e70e.jpg' | relative_url }}" alt="Listing image for Artificial intelligence Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-artificial-intelligence-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Artificial intelligence Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-artificial-intelligence-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-artificial-intelligence-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-artificial-intelligence-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Copy of Artificial Intelligence Fra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4005a7e4762a7f9a9c1b.jpg' | relative_url }}" alt="Listing image for Copy of Artificial Intelligence Fra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-artificial-intelligence-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Copy of Artificial Intelligence Fra Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-artificial-intelligence-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-artificial-intelligence-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-artificial-intelligence-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Copy of Artificial Intelligence Fra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4005a7e4762a7f9a9c1b.jpg' | relative_url }}" alt="Listing image for Copy of Artificial Intelligence Fra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-artificial-intelligence-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Copy of Artificial Intelligence Fra Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-artificial-intelligence-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-artificial-intelligence-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-artificial-intelligence-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Artificial intelligence Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/33583e663e35cb3a42ce.jpg' | relative_url }}" alt="Listing image for Artificial intelligence Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-artificial-intelligence-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Artificial intelligence Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-artificial-intelligence-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-artificial-intelligence-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-artificial-intelligence-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Artificial intelligence Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/33583e663e35cb3a42ce.jpg' | relative_url }}" alt="Listing image for Artificial intelligence Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-artificial-intelligence-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Artificial intelligence Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-artificial-intelligence-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-artificial-intelligence-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-artificial-intelligence-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for artificial intelligence Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1f4270a2c28b4260afd8.jpg' | relative_url }}" alt="Listing image for artificial intelligence Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-artificial-intelligence-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">artificial intelligence Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-artificial-intelligence-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-artificial-intelligence-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-artificial-intelligence-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-artificial-intelligence-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for artificial intelligence Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1f4270a2c28b4260afd8.jpg' | relative_url }}" alt="Listing image for artificial intelligence Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-artificial-intelligence-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">artificial intelligence Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-artificial-intelligence-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-artificial-intelligence-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-evidence-what-ai-race-models-can-and-cannot-prove-ai-doom-and-artificial-intelligence-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -669,7 +669,7 @@ For that reason, race simulations are often treated as supporting evidence in AI
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -689,7 +689,7 @@ For that reason, race simulations are often treated as supporting evidence in AI
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -721,7 +721,7 @@ For that reason, race simulations are often treated as supporting evidence in AI
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -751,7 +751,7 @@ For that reason, race simulations are often treated as supporting evidence in AI
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -809,108 +809,108 @@ For that reason, race simulations are often treated as supporting evidence in AI
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0016328725000254" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0016328725000254</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Author links... full-scale wargames. The first of these is the shortest and simplest...Read more...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0016328725000254" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0016328725000254</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Author links... full-scale wargames. The first of these is the shortest and simplest...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
    Title: arXiv Strategic Insights from Simulation Gaming of AI Race Dynamics  
-   Link: <a href="https://arxiv.org/abs/2410.03092" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2410.03092</a>  
+   Link:<a href="https://arxiv.org/abs/2410.03092" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2410.03092</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: axios.com  
    Title: Safety guardrails loosen as AI rivalries grows  
-   Link: <a href="https://www.axios.com/2026/03/03/ai-race-safety-guardrail" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2026/03/03/ai-race-safety-guardrail</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Even traditionally cautious firms, like Anthropic, have recently revised their internal guidelines, narrowing criteria for delaying risky...</p></details>
+   Link:<a href="https://www.axios.com/2026/03/03/ai-race-safety-guardrail" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2026/03/03/ai-race-safety-guardrail</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Even traditionally cautious firms, like Anthropic, have recently revised their internal guidelines, narrowing criteria for delaying risky...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: time.com  
    Title: exclusive anthropic drops flagship safety pledge  
-   Link: <a href="https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This pledge had promised to halt training of AI models unless safety measures could be ensured in advance. The company now believes such...</p></details>
+   Link:<a href="https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This pledge had promised to halt training of AI models unless safety measures could be ensured in advance. The company now believes such...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv How should AI Safety Benchmarks Benchmark Safety?  
-   Link: <a href="https://arxiv.org/abs/2601.23112" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2601.23112</a>  
+   Link:<a href="https://arxiv.org/abs/2601.23112" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2601.23112</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: themoonlight.io  
-   Link: <a href="https://www.themoonlight.io/en/review/strategic-insights-from-simulation-gaming-of-ai-race-dynamics" target="_blank" rel="noopener noreferrer nofollow">https://www.themoonlight.io/en/review/strategic-insights-from-simulation-gaming-of-ai-race-dynamics</a>  
+   Link:<a href="https://www.themoonlight.io/en/review/strategic-insights-from-simulation-gaming-of-ai-race-dynamics" target="_blank" rel="noopener noreferrer nofollow">https://www.themoonlight.io/en/review/strategic-insights-from-simulation-gaming-of-ai-race-dynamics</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/journal/futures/vol/167/suppl/C" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/journal/futures/vol/167/suppl/C</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Futures | Vol 167, March 2025Strategic insights from simulation gaming of AI race dynamics. Ross Gruetzemacher, Shahar Avin, James Fox, A...</p></details>
+   Link:<a href="https://www.sciencedirect.com/journal/futures/vol/167/suppl/C" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/journal/futures/vol/167/suppl/C</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Futures | Vol 167, March 2025Strategic insights from simulation gaming of AI race dynamics. Ross Gruetzemacher, Shahar Avin, James Fox, A...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2451958824000472" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2451958824000472</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-enabled prediction of sim racing performance using...by F Hojaji · 2024 · Cited by 16 — In this paper, we demonstrate how the applica...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2451958824000472" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2451958824000472</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI-enabled prediction of sim racing performance using...by F Hojaji · 2024 · Cited by 16 — In this paper, we demonstrate how the applica...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/list/cs/2024-10?show=1000&amp;skip=1465" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/list/cs/2024-10?show=1000&amp;skip=1465</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Computer Science Oct 2024Title: Strategic Insights from Simulation Gaming of AI Race Dynamics. Ross Gruetzemacher, Shahar Avin, James Fox...</p></details>
+   Link:<a href="https://arxiv.org/list/cs/2024-10?show=1000&amp;skip=1465" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/list/cs/2024-10?show=1000&amp;skip=1465</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Computer Science Oct 2024Title: Strategic Insights from Simulation Gaming of AI Race Dynamics. Ross Gruetzemacher, Shahar Avin, James Fox...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: businessinsider.com  
    Title: anthropic changing safety policy 2026 2  
-   Link: <a href="https://www.businessinsider.com/anthropic-changing-safety-policy-2026-2" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/anthropic-changing-safety-policy-2026-2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The company will no longer unilaterally pause or delay new AI model deployments when safety mechanisms lag, citing increased competition...</p></details>
+   Link:<a href="https://www.businessinsider.com/anthropic-changing-safety-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/anthropic-changing-safety-policy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The company will no longer unilaterally pause or delay new AI model deployments when safety mechanisms lag, citing increased competition...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: quillbot.com  
-   Link: <a href="https://quillbot.com/ai-chat" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/ai-chat</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI ChatUnlock your potential with Quillbot&#x27;s free AI chat! Brainstorm, draft content, get instant research &amp; overcome writer&#x27;s block. Try...</p></details>
+   Link:<a href="https://quillbot.com/ai-chat" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/ai-chat</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI ChatUnlock your potential with Quillbot&#x27;s free AI chat! Brainstorm, draft content, get instant research &amp; overcome writer&#x27;s block. Try...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sas.com  
-   Link: <a href="https://www.sas.com/en_gb/insights/analytics/what-is-artificial-intelligence.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sas.com/en_gb/insights/analytics/what-is-artificial-intelligence.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial Intelligence (AI): What it is and why it mattersArtificial intelligence (AI) makes it possible for machines to learn from expe...</p></details>
+   Link:<a href="https://www.sas.com/en_gb/insights/analytics/what-is-artificial-intelligence.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sas.com/en_gb/insights/analytics/what-is-artificial-intelligence.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial Intelligence (AI): What it is and why it mattersArtificial intelligence (AI) makes it possible for machines to learn from expe...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: intelligencerising.org  
-   Link: <a href="https://www.intelligencerising.org/insights-and-resources-2-2" target="_blank" rel="noopener noreferrer nofollow">https://www.intelligencerising.org/insights-and-resources-2-2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Our publicationsOur team&#x27;s research continues to pursue knowledge and inspire safe directions in the field. Strategic Insights from Simul...</p></details>
+   Link:<a href="https://www.intelligencerising.org/insights-and-resources" target="_blank" rel="noopener noreferrer nofollow">https://www.intelligencerising.org/insights-and-resources</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Our publicationsOur team&#x27;s research continues to pursue knowledge and inspire safe directions in the field. Strategic Insights from Simul...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: helpdesk.loucoll.ac.uk  
-   Link: <a href="https://helpdesk.loucoll.ac.uk/knowledgebase/what-is-ai/" target="_blank" rel="noopener noreferrer nofollow">https://helpdesk.loucoll.ac.uk/knowledgebase/what-is-ai/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>is AI? – HelpdeskAccording to the Oxford Dictionary AI is: “The capacity of computers or other machines to exhibit or simulate intelligen...</p></details>
+   Link:<a href="https://helpdesk.loucoll.ac.uk/knowledgebase/what-is-ai/" target="_blank" rel="noopener noreferrer nofollow">https://helpdesk.loucoll.ac.uk/knowledgebase/what-is-ai/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>is AI? – HelpdeskAccording to the Oxford Dictionary AI is: “The capacity of computers or other machines to exhibit or simulate intelligen...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/384680786_Strategic_Insights_from_Simulation_Gaming_of_AI_Race_Dynamics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/384680786_Strategic_Insights_from_Simulation_Gaming_of_AI_Race_Dynamics</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 2024. DOI:10.48550/arXiv.2410.03092. Authors: Richard Ross Gruetzemacher at Wichita...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/384680786_Strategic_Insights_from_Simulation_Gaming_of_AI_Race_Dynamics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/384680786_Strategic_Insights_from_Simulation_Gaming_of_AI_Race_Dynamics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 2024. DOI:10.48550/arXiv.2410.03092. Authors: Richard Ross Gruetzemacher at Wichita...Read more...</p></details>
    Published: October 2024  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/389032252_Strategic_Insights_from_Simulation_Gaming_of_AI_Race_Dynamics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389032252_Strategic_Insights_from_Simulation_Gaming_of_AI_Race_Dynamics</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lable · Citations (9) · References (92) · Recommended publications · Looking for the...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/389032252_Strategic_Insights_from_Simulation_Gaming_of_AI_Race_Dynamics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389032252_Strategic_Insights_from_Simulation_Gaming_of_AI_Race_Dynamics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lable · Citations (9) · References (92) · Recommended publications · Looking for the...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ibm.com  
-   Link: <a href="https://www.ibm.com/think/topics/artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.ibm.com/think/topics/artificial-intelligence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lem solving, decision making, creativity and [autonomy](&amp;#123;&amp;#123; &#x27;autonomy/&#x27; | relative_url &amp;#125;&amp;#125;). Read more...</p></details>
+   Link:<a href="https://www.ibm.com/think/topics/artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.ibm.com/think/topics/artificial-intelligence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lem solving, decision making, creativity and [autonomy](&amp;#123;&amp;#123; &#x27;autonomy/&#x27; | relative_url &amp;#125;&amp;#125;). Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: importai.substack.com  
-   Link: <a href="https://importai.substack.com/p/import-ai-388-simulating-ai-policy" target="_blank" rel="noopener noreferrer nofollow">https://importai.substack.com/p/import-ai-388-simulating-ai-policy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI policy; omni math; consciousness levels - Import AIRead more: Strategic Insights from Simulation Gaming of AI Race Dynamics (arXiv)...</p></details>
+   Link:<a href="https://importai.substack.com/p/import-ai-388-simulating-ai-policy" target="_blank" rel="noopener noreferrer nofollow">https://importai.substack.com/p/import-ai-388-simulating-ai-policy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI policy; omni math; consciousness levels - Import AIRead more: Strategic Insights from Simulation Gaming of AI Race Dynamics (arXiv)...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Artificial intelligence  
-   Link: <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Artificial_intelligence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligenceArtificial intelligence (AI) is the capability of computational systems to perform tasks typically associated w...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Artificial_intelligence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligenceArtificial intelligence (AI) is the capability of computational systems to perform tasks typically associated w...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: paxsims.wordpress.com  
-   Link: <a href="https://paxsims.wordpress.com/2024/12/" target="_blank" rel="noopener noreferrer nofollow">https://paxsims.wordpress.com/2024/12/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2024 | PAXsims - WordPress.comDec 31, 2024 — Ross Gruetzemacher, Shahar Avin, James Fox, Alexander K Saeri, “Strategic Insights from Si...</p></details>
+   Link:<a href="https://paxsims.wordpress.com/2024/12/" target="_blank" rel="noopener noreferrer nofollow">https://paxsims.wordpress.com/2024/12/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2024 | PAXsims - WordPress.comDec 31, 2024 — Ross Gruetzemacher, Shahar Avin, James Fox, Alexander K Saeri, “Strategic Insights from Si...</p></details>

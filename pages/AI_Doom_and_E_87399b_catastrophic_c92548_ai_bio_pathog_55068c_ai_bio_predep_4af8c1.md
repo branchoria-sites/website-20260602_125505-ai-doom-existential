@@ -305,7 +305,7 @@ The **UK AI Safety Institute (AISI)** has published one of the first *formalised
 
 * Models exceeding defined [capability thresholds]({{ 'capability-thresholds/' | relative_url }}) (e.g. high cumulative compute or broad functional ability) must undergo specific evaluations before they can be deployed in the UK market.
 * These evaluations are not just internal checklists; they include defined methodologies for assessing “dangerous capabilities”, including dual‑use biological tasks, and explicitly *binding criteria* that can delay or prevent release if concerns are found.
-* This kind of regime goes beyond voluntary industry commitments by giving a government‑linked body authority to *block or delay deployment* pending safety review. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zephtech.net/feed/2026-02-06-uk-aisi-mandatory-pre-deployment-testing-frontier.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zephtech.net">[Zeph Tech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zephtech.net</span><span class="citation-popover-title">Zeph Tech UK AI Safety Institute Publishes First Mandatory… — Zeph Tech</span><span class="citation-popover-snippet">Zeph TechUK AI Safety Institute Publishes First Mandatory… — Zeph TechFebruary 6, 2026...</span><span class="citation-popover-meta">Published: February 6, 2026</span></span></span>
+* This kind of regime goes beyond voluntary industry commitments by giving a government‑linked body authority to *block or delay deployment* pending safety review.<span class="citation-chip-wrap"><a class="citation-chip" href="https://zephtech.net/feed/2026-02-06-uk-aisi-mandatory-pre-deployment-testing-frontier.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zephtech.net">[Zeph Tech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zephtech.net</span><span class="citation-popover-title">Zeph Tech UK AI Safety Institute Publishes First Mandatory… — Zeph Tech</span><span class="citation-popover-snippet">Zeph TechUK AI Safety Institute Publishes First Mandatory… — Zeph TechFebruary 6, 2026...</span><span class="citation-popover-meta">Published: February 6, 2026</span></span></span>
 
 By anchoring evaluation in a formal institutional process rather than voluntary corporate practice, the UK AISI framework represents a concrete policy tool that could serve as a template for other jurisdictions.
 
@@ -317,7 +317,7 @@ Many proposals, including industry and think‑tank commentaries, argue for **pr
 
 * Developers should assess whether a model’s capabilities cross into high‑risk territory that could meaningfully enable misuse or harmful outcomes.
 * These risk assessments should be *structured*, documented, and repeatable, not informal judgements, and should account both for current behaviours and plausible near‑term escalations.
-* Such assessments can incorporate existing standards, such as the **NIST AI Risk Management Framework**, to provide consistency with broader AI governance ecosystems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnas.org/publications/commentary/ostp-national-priorities-for-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnas.org">[CNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnas.org</span><span class="citation-popover-title">ostp national priorities for artificial intelligence</span><span class="citation-popover-snippet">Response to OSTP “National Priorities for Artificial Intelligence Request for Information” &#124; CNASJuly 20, 2023...</span><span class="citation-popover-meta">Published: July 20, 2023</span></span></span>
+* Such assessments can incorporate existing standards, such as the **NIST AI Risk Management Framework**, to provide consistency with broader AI governance ecosystems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnas.org/publications/commentary/ostp-national-priorities-for-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnas.org">[CNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnas.org</span><span class="citation-popover-title">ostp national priorities for artificial intelligence</span><span class="citation-popover-snippet">Response to OSTP “National Priorities for Artificial Intelligence Request for Information” &#124; CNASJuly 20, 2023...</span><span class="citation-popover-meta">Published: July 20, 2023</span></span></span>
 
 Linking evaluations to capability thresholds — for example, a metric of model size, compute used, or performance in biological reasoning tasks — is intended to make the process predictable and transparent rather than discretionary.
 
@@ -329,7 +329,7 @@ One recurring policy idea is **externally conducted evaluations**, separate from
 
 * Policy documents recommend allowing qualified external experts to conduct or oversee assessments, especially at the *pre‑deployment phase*, where irreversible decisions about release are made.
 * This requires legal and procedural scaffolding — e.g. confidentiality agreements and secure access — but is seen as key to accountability.
-* At its core, external evaluation mirrors established practices in other high‑risk industries, such as medical device review, where independent bodies verify safety evidence before approval. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Emerging processes for frontier AI safety</span><span class="citation-popover-snippet">27, 2023...</span></span></span>
+* At its core, external evaluation mirrors established practices in other high‑risk industries, such as medical device review, where independent bodies verify safety evidence before approval.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Emerging processes for frontier AI safety</span><span class="citation-popover-snippet">27, 2023...</span></span></span>
 
 </div>
 
@@ -338,11 +338,11 @@ Such external checks are especially important for biological AI, given that unde
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_bio_predep_4af8c1-Illustration-2-dark.svg" | relative_url }}" alt="Pre Deployment Policy illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_bio_predep_4af8c1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_bio_pathog_55068c_ai_bio_predep_4af8c1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Red Teaming and Capability Benchmarking
 
-A set of evaluation techniques are now common in frontier AI risk thinking: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.convergenceanalysis.org/ai-regulatory-landscape/ai-evaluation-and-risk-assessments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: convergenceanalysis.org">[convergenceanalysis.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">convergenceanalysis.org</span><span class="citation-popover-title">A I Evaluation &amp; Risk Assessments &#124; Convergence Analysis</span><span class="citation-popover-snippet">AI Evaluation &amp; Risk Assessments &#124; Convergence AnalysisMay 4, 2024 — CHINA China’s Interim Measures for the Management of Generative AI S...</span><span class="citation-popover-meta">Published: May 4, 2024</span></span></span>
+A set of evaluation techniques are now common in frontier AI risk thinking:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.convergenceanalysis.org/ai-regulatory-landscape/ai-evaluation-and-risk-assessments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: convergenceanalysis.org">[convergenceanalysis.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">convergenceanalysis.org</span><span class="citation-popover-title">A I Evaluation &amp; Risk Assessments &#124; Convergence Analysis</span><span class="citation-popover-snippet">AI Evaluation &amp; Risk Assessments &#124; Convergence AnalysisMay 4, 2024 — CHINA China’s Interim Measures for the Management of Generative AI S...</span><span class="citation-popover-meta">Published: May 4, 2024</span></span></span>
 
 * **[Red teaming]({{ 'red-teaming/' | relative_url }})** — adversarial testing designed to explore how a system could be *misused* or coaxed into responses that reveal dangerous capabilities.
 * **Benchmark evaluations** — systematic testing against standardised tasks to measure performance and compare across models.
-* Emerging taxonomies for frontier AI evaluations highlight that both approaches are essential: benchmarks flag baseline capabilities, while red teaming simulates adversarial misuse paths. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/updates/issue-brief-preliminary-taxonomy-of-pre-deployment-frontier-ai-safety-evaluations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-snippet">Frontier Model ForumIssue Brief: Preliminary Taxonomy of Pre-Deployment Frontier AI Safety Evaluations - Frontier Model ForumDecember 20...</span></span></span>
+* Emerging taxonomies for frontier AI evaluations highlight that both approaches are essential: benchmarks flag baseline capabilities, while red teaming simulates adversarial misuse paths.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/updates/issue-brief-preliminary-taxonomy-of-pre-deployment-frontier-ai-safety-evaluations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-snippet">Frontier Model ForumIssue Brief: Preliminary Taxonomy of Pre-Deployment Frontier AI Safety Evaluations - Frontier Model ForumDecember 20...</span></span></span>
 
 For bio‑AI, these techniques might mean testing how models respond to prompts about biomolecular design, pathogen engineering pathways, or debugging of biological protocols — seeking to measure potential to assist harmful tasks *versus* legitimate scientific utility.
 
@@ -412,253 +412,253 @@ In summary, policy approaches to **pre‑deployment evaluation of bio‑AI** are
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ib9FECi5TWU" title="Open AI Shipped Their Most Dangerous Model But Anthropic Refused" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ib9FECi5TWU" target="_blank" rel="noopener noreferrer">Open AI Shipped Their Most Dangerous Model But Anthropic Refused</a></p><p class="youtube-embed-meta">Channel: Gcore &middot; Views: 1.2K &middot; Uploaded: May 2026 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ib9FECi5TWU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ib9FECi5TWU">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Evaluating High Risk AI Biological Models Before Release. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Evaluating High Risk AI Biological Models Before Release. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Russell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
+</h4>
+<p class="fr-book-author">By Stuart Russell</p>
         
-        <p class="fr-book-desc">Useful for understanding pre-deployment evaluation logic in AI systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding pre-deployment evaluation logic in AI systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
-        </h4>
-        <p class="fr-book-author">By Brian Christian</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
+</h4>
+<p class="fr-book-author">By Brian Christian</p>
         
-        <p class="fr-book-desc">Explains evaluation frameworks relevant to high-risk AI applications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains evaluation frameworks relevant to high-risk AI applications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Genesis+Machine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Genesis Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B1QyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Genesis Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Genesis+Machine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Genesis Machine">The Genesis Machine</a>
-        </h4>
-        <p class="fr-book-author">By Amy Webb, Andrew Hessel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Genesis+Machine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Genesis Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B1QyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Genesis Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Genesis+Machine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Genesis Machine">The Genesis Machine</a>
+</h4>
+<p class="fr-book-author">By Amy Webb, Andrew Hessel</p>
         
-        <p class="fr-book-desc">Explores powerful biological engineering technologies and governance concerns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Genesis+Machine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores powerful biological engineering technologies and governance concerns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Genesis+Machine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Genesis+Machine+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Genesis Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14687174-M.jpg" alt="Cover for Genesis Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Genesis+Machine+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Genesis Machine">Genesis Machine</a>
-        </h4>
-        <p class="fr-book-author">By Amy Webb, Andrew Hessel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Genesis+Machine+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Genesis Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14687174-M.jpg" alt="Cover for Genesis Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Genesis+Machine+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Genesis Machine">Genesis Machine</a>
+</h4>
+<p class="fr-book-author">By Amy Webb, Andrew Hessel</p>
         
-        <p class="fr-book-desc">First published 2022. Subjects: Long Now Manual for Civilization.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Genesis+Machine+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2022. Subjects: Long Now Manual for Civilization.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Genesis+Machine+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Genesis+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Genesis Machine</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Genesis+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Genesis Machine</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-technology-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SEMICON SEMI Semiconductors 1984 San Mateo Technology Tech Computers Art Poster"><img src="{{ '/assets/images/marketplace-covers/323cf92db1248088a9ea.jpg' | relative_url }}" alt="Listing image for SEMICON SEMI Semiconductors 1984 San Mateo Technology Tech Computers Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-technology-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SEMICON SEMI Semiconductors 1984 San Mateo Technology Tech Computers Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-technology-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology poster">Search <span data-ebay-domain-label>eBay.com</span>: technology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-technology-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-technology-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SEMICON SEMI Semiconductors 1984 San Mateo Technology Tech Computers Art Poster"><img src="{{ '/assets/images/marketplace-covers/323cf92db1248088a9ea.jpg' | relative_url }}" alt="Listing image for SEMICON SEMI Semiconductors 1984 San Mateo Technology Tech Computers Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-technology-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SEMICON SEMI Semiconductors 1984 San Mateo Technology Tech Computers Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-technology-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology poster">Search<span data-ebay-domain-label>eBay.com</span>: technology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-technology-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-technology-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 🗽 New Jersey Institute of Technology Poster - Modern Architecture 24x36”"><img src="{{ '/assets/images/marketplace-covers/ac1b47773731146dc4ea.jpg' | relative_url }}" alt="Listing image for 🗽 New Jersey Institute of Technology Poster - Modern Architecture 24x36”" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-technology-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">🗽 New Jersey Institute of Technology Poster - Modern Architecture 24x36”</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-technology-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology poster">Search <span data-ebay-domain-label>eBay.com</span>: technology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-technology-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-technology-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 🗽 New Jersey Institute of Technology Poster - Modern Architecture 24x36”"><img src="{{ '/assets/images/marketplace-covers/ac1b47773731146dc4ea.jpg' | relative_url }}" alt="Listing image for 🗽 New Jersey Institute of Technology Poster - Modern Architecture 24x36”" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-technology-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">🗽 New Jersey Institute of Technology Poster - Modern Architecture 24x36”</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-technology-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology poster">Search<span data-ebay-domain-label>eBay.com</span>: technology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-technology-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-technology-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for IBM Poster Vintage Tech Travelling with Information Technology UK Computer 1980s"><img src="{{ '/assets/images/marketplace-covers/06796b33099a13eab103.jpg' | relative_url }}" alt="Listing image for IBM Poster Vintage Tech Travelling with Information Technology UK Computer 1980s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-technology-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">IBM Poster Vintage Tech Travelling with Information Technology UK Computer 1980s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-technology-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology poster">Search <span data-ebay-domain-label>eBay.com</span>: technology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-technology-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-technology-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-technology-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for IBM Poster Vintage Tech Travelling with Information Technology UK Computer 1980s"><img src="{{ '/assets/images/marketplace-covers/06796b33099a13eab103.jpg' | relative_url }}" alt="Listing image for IBM Poster Vintage Tech Travelling with Information Technology UK Computer 1980s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-technology-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">IBM Poster Vintage Tech Travelling with Information Technology UK Computer 1980s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-technology-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology poster">Search<span data-ebay-domain-label>eBay.com</span>: technology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-technology-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-technology-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DNA Model Double Helix: Molecular Model Kit for Science Education &amp; Teaching"><img src="{{ '/assets/images/marketplace-covers/e770fc0872346c67ae9e.jpg' | relative_url }}" alt="Listing image for DNA Model Double Helix: Molecular Model Kit for Science Education &amp; Teaching" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">DNA Model Double Helix: Molecular Model Kit for Science Education &amp; Teaching</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for DNA model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: DNA model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-dna-model-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DNA Model Double Helix: Molecular Model Kit for Science Education &amp; Teaching"><img src="{{ '/assets/images/marketplace-covers/e770fc0872346c67ae9e.jpg' | relative_url }}" alt="Listing image for DNA Model Double Helix: Molecular Model Kit for Science Education &amp; Teaching" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">DNA Model Double Helix: Molecular Model Kit for Science Education &amp; Teaching</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for DNA model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: DNA model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-dna-model-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DNA Model Double Helix Model DNA Molecular Model Kit Science Educational"><img src="{{ '/assets/images/marketplace-covers/8064eef587961adc7fac.jpg' | relative_url }}" alt="Listing image for DNA Model Double Helix Model DNA Molecular Model Kit Science Educational" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">DNA Model Double Helix Model DNA Molecular Model Kit Science Educational</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for DNA model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: DNA model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-dna-model-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DNA Model Double Helix Model DNA Molecular Model Kit Science Educational"><img src="{{ '/assets/images/marketplace-covers/8064eef587961adc7fac.jpg' | relative_url }}" alt="Listing image for DNA Model Double Helix Model DNA Molecular Model Kit Science Educational" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">DNA Model Double Helix Model DNA Molecular Model Kit Science Educational</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for DNA model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: DNA model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-dna-model-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Colorful Double Spiral DNA Model Kit Improve Interest For Kids Plastic Exce AM9"><img src="{{ '/assets/images/marketplace-covers/488eb84ff271c2223aa0.jpg' | relative_url }}" alt="Listing image for Colorful Double Spiral DNA Model Kit Improve Interest For Kids Plastic Exce AM9" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Colorful Double Spiral DNA Model Kit Improve Interest For Kids Plastic Exce AM9</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for DNA model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: DNA model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-dna-model-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Colorful Double Spiral DNA Model Kit Improve Interest For Kids Plastic Exce AM9"><img src="{{ '/assets/images/marketplace-covers/488eb84ff271c2223aa0.jpg' | relative_url }}" alt="Listing image for Colorful Double Spiral DNA Model Kit Improve Interest For Kids Plastic Exce AM9" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Colorful Double Spiral DNA Model Kit Improve Interest For Kids Plastic Exce AM9</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for DNA model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: DNA model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-dna-model-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dna Models Classroom Human Dna Model Protein Model Kit Dna Molecule Model"><img src="{{ '/assets/images/marketplace-covers/d566da5114811fa689e2.jpg' | relative_url }}" alt="Listing image for Dna Models Classroom Human Dna Model Protein Model Kit Dna Molecule Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Dna Models Classroom Human Dna Model Protein Model Kit Dna Molecule Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for DNA model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: DNA model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-dna-model-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dna Models Classroom Human Dna Model Protein Model Kit Dna Molecule Model"><img src="{{ '/assets/images/marketplace-covers/d566da5114811fa689e2.jpg' | relative_url }}" alt="Listing image for Dna Models Classroom Human Dna Model Protein Model Kit Dna Molecule Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Dna Models Classroom Human Dna Model Protein Model Kit Dna Molecule Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for DNA model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: DNA model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-dna-model-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=DNA+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-deployment-policy-evaluating-high-risk-ai-biological-models-before-release-ai-doom-and-dna-model-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -674,7 +674,7 @@ In summary, policy approaches to **pre‑deployment evaluation of bio‑AI** are
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -694,7 +694,7 @@ In summary, policy approaches to **pre‑deployment evaluation of bio‑AI** are
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -726,7 +726,7 @@ In summary, policy approaches to **pre‑deployment evaluation of bio‑AI** are
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -756,7 +756,7 @@ In summary, policy approaches to **pre‑deployment evaluation of bio‑AI** are
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -814,133 +814,133 @@ In summary, policy approaches to **pre‑deployment evaluation of bio‑AI** are
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cnas.org  
    Title: ostp national priorities for artificial intelligence  
-   Link: <a href="https://www.cnas.org/publications/commentary/ostp-national-priorities-for-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.cnas.org/publications/commentary/ostp-national-priorities-for-artificial-intelligence</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Response to OSTP “National Priorities for Artificial Intelligence Request for Information” | CNASJuly 20, 2023...</p></details>
+   Link:<a href="https://www.cnas.org/publications/commentary/ostp-national-priorities-for-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.cnas.org/publications/commentary/ostp-national-priorities-for-artificial-intelligence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Response to OSTP “National Priorities for Artificial Intelligence Request for Information” | CNASJuly 20, 2023...</p></details>
    Published: July 20, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: GOV.UK  
    Title: Emerging processes for frontier AI safety  
-   Link: <a href="https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>27, 2023...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>27, 2023...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: GOV.UK  
    Title: Many AI systems work in complex and unpredictable enviro  
-   Link: <a href="https://www.gov.uk/government/publications/data-ethics-framework/data-and-ai-ethics-framework" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/data-ethics-framework/data-and-ai-ethics-framework</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and AI Ethics Framework - GOV.UKDecember 18, 2025 — BUILDING SAFE AI SYSTEMS AI systems can behave in unexpected ways, especially if they...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/data-ethics-framework/data-and-ai-ethics-framework" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/data-ethics-framework/data-and-ai-ethics-framework</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and AI Ethics Framework - GOV.UKDecember 18, 2025 — BUILDING SAFE AI SYSTEMS AI systems can behave in unexpected ways, especially if they...</p></details>
    Published: December 18, 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: GOV.UK  
    Title: www.gov.uk Code of Practice for the Cyber Security of AI  
-   Link: <a href="https://www.gov.uk/government/publications/ai-cyber-security-code-of-practice/code-of-practice-for-the-cyber-security-of-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-cyber-security-code-of-practice/code-of-practice-for-the-cyber-security-of-ai</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of Practice for the Cyber Security of AI - GOV.UKJanuary 31, 2025 — STRUCTURE OF THE VOLUNTARY CODE OF PRACTICE Principle 1: Raise awaren...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/ai-cyber-security-code-of-practice/code-of-practice-for-the-cyber-security-of-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-cyber-security-code-of-practice/code-of-practice-for-the-cyber-security-of-ai</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Practice for the Cyber Security of AI - GOV.UKJanuary 31, 2025 — STRUCTURE OF THE VOLUNTARY CODE OF PRACTICE Principle 1: Raise awaren...</p></details>
    Published: January 31, 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: GOV.UK  
    Title: www.gov.uk A I Safety Institute approach to evaluations  
-   Link: <a href="https://www.gov.uk/government/publications/ai-safety-institute-approach-to-evaluations/ai-safety-institute-approach-to-evaluations" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-safety-institute-approach-to-evaluations/ai-safety-institute-approach-to-evaluations</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Safety Institute approach to evaluations - GOV.UKFebruary 9, 2024 — AISI (AI SAFETY INSTITUTE)’S APPROACH TO EVALUATIONS AISI (AI Safety...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/ai-safety-institute-approach-to-evaluations/ai-safety-institute-approach-to-evaluations" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-safety-institute-approach-to-evaluations/ai-safety-institute-approach-to-evaluations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Safety Institute approach to evaluations - GOV.UKFebruary 9, 2024 — AISI (AI SAFETY INSTITUTE)’S APPROACH TO EVALUATIONS AISI (AI Safety...</p></details>
    Published: February 9, 2024  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aisi.gov.uk  
    Title: A I Safety Institute approach to evaluations  
-   Link: <a href="https://www.aisi.gov.uk/blog/our-approach-to-evaluations" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/blog/our-approach-to-evaluations</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Safety Institute approach to evaluations - GOV.UKFebruary 9, 2024 — AISI (AI SAFETY INSTITUTE)’S APPROACH TO EVALUATIONS AISI (AI Safe...</p></details>
+   Link:<a href="https://www.aisi.gov.uk/blog/our-approach-to-evaluations" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/blog/our-approach-to-evaluations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Safety Institute approach to evaluations - GOV.UKFebruary 9, 2024 — AISI (AI SAFETY INSTITUTE)’S APPROACH TO EVALUATIONS AISI (AI Safe...</p></details>
    Published: February 9, 2024  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: zephtech.net  
    Title: Zeph Tech UK AI Safety Institute Publishes First Mandatory… — Zeph Tech  
-   Link: <a href="https://zephtech.net/feed/2026-02-06-uk-aisi-mandatory-pre-deployment-testing-frontier.html" target="_blank" rel="noopener noreferrer nofollow">https://zephtech.net/feed/2026-02-06-uk-aisi-mandatory-pre-deployment-testing-frontier.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Zeph TechUK AI Safety Institute Publishes First Mandatory… — Zeph TechFebruary 6, 2026...</p></details>
+   Link:<a href="https://zephtech.net/feed/2026-02-06-uk-aisi-mandatory-pre-deployment-testing-frontier.html" target="_blank" rel="noopener noreferrer nofollow">https://zephtech.net/feed/2026-02-06-uk-aisi-mandatory-pre-deployment-testing-frontier.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Zeph TechUK AI Safety Institute Publishes First Mandatory… — Zeph TechFebruary 6, 2026...</p></details>
    Published: February 6, 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: frontiermodelforum.org  
-   Link: <a href="https://www.frontiermodelforum.org/updates/issue-brief-preliminary-taxonomy-of-pre-deployment-frontier-ai-safety-evaluations/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/updates/issue-brief-preliminary-taxonomy-of-pre-deployment-frontier-ai-safety-evaluations/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Model ForumIssue Brief: Preliminary Taxonomy of Pre-Deployment Frontier AI Safety Evaluations - Frontier Model ForumDecember 20...</p></details>
+   Link:<a href="https://www.frontiermodelforum.org/updates/issue-brief-preliminary-taxonomy-of-pre-deployment-frontier-ai-safety-evaluations/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/updates/issue-brief-preliminary-taxonomy-of-pre-deployment-frontier-ai-safety-evaluations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Model ForumIssue Brief: Preliminary Taxonomy of Pre-Deployment Frontier AI Safety Evaluations - Frontier Model ForumDecember 20...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: convergenceanalysis.org  
    Title: A I Evaluation & Risk Assessments | Convergence Analysis  
-   Link: <a href="https://www.convergenceanalysis.org/ai-regulatory-landscape/ai-evaluation-and-risk-assessments" target="_blank" rel="noopener noreferrer nofollow">https://www.convergenceanalysis.org/ai-regulatory-landscape/ai-evaluation-and-risk-assessments</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Evaluation &amp; Risk Assessments | Convergence AnalysisMay 4, 2024 — CHINA China’s Interim Measures for the Management of Generative AI S...</p></details>
+   Link:<a href="https://www.convergenceanalysis.org/ai-regulatory-landscape/ai-evaluation-and-risk-assessments" target="_blank" rel="noopener noreferrer nofollow">https://www.convergenceanalysis.org/ai-regulatory-landscape/ai-evaluation-and-risk-assessments</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Evaluation &amp; Risk Assessments | Convergence AnalysisMay 4, 2024 — CHINA China’s Interim Measures for the Management of Generative AI S...</p></details>
    Published: May 4, 2024  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cltc.berkeley.edu  
-   Link: <a href="https://cltc.berkeley.edu/policy" target="_blank" rel="noopener noreferrer nofollow">https://cltc.berkeley.edu/policy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ENSURE THAT DEVELOPERS OF GPAIS, FOUNDATION MODELS, AND GENERATIVE AI ADHERE TO APPROPRIATE AI RISK MANAGEMENT STANDARDS AND GUIDANCE The...</p></details>
+   Link:<a href="https://cltc.berkeley.edu/policy" target="_blank" rel="noopener noreferrer nofollow">https://cltc.berkeley.edu/policy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ENSURE THAT DEVELOPERS OF GPAIS, FOUNDATION MODELS, AND GENERATIVE AI ADHERE TO APPROPRIATE AI RISK MANAGEMENT STANDARDS AND GUIDANCE The...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: zephtech.net  
-   Link: <a href="https://zephtech.net/policy/" target="_blank" rel="noopener noreferrer nofollow">https://zephtech.net/policy/</a>  
+   Link:<a href="https://zephtech.net/policy/" target="_blank" rel="noopener noreferrer nofollow">https://zephtech.net/policy/</a>  
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: iaps.ai  
-   Link: <a href="https://www.iaps.ai/research/deployment-corrections" target="_blank" rel="noopener noreferrer nofollow">https://www.iaps.ai/research/deployment-corrections</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deployment Corrections: An Incident Response Framework for Frontier AI Models — Institute for AI Policy and StrategyDEPLOYMENT CORRECTION...</p></details>
+   Link:<a href="https://www.iaps.ai/research/deployment-corrections" target="_blank" rel="noopener noreferrer nofollow">https://www.iaps.ai/research/deployment-corrections</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deployment Corrections: An Incident Response Framework for Frontier AI Models — Institute for AI Policy and StrategyDEPLOYMENT CORRECTION...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: faf.ae  
-   Link: <a href="https://www.faf.ae/home/2026/5/5/governing-the-convergence-google-deepmind-the-nuclear-threat-initiative-dna-synthesis-screening-and-the-architecture-of-ai-biosecurity-part-iii" target="_blank" rel="noopener noreferrer nofollow">https://www.faf.ae/home/2026/5/5/governing-the-convergence-google-deepmind-the-nuclear-threat-initiative-dna-synthesis-screening-and-the-architecture-of-ai-biosecurity-part-iii</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Governing the Convergence: Google DeepMind, the Nuclear Threat Initiative, DNA Synthesis Screening, and the Architecture of AI Biosecurit...</p></details>
+   Link:<a href="https://www.faf.ae/home/2026/5/5/governing-the-convergence-google-deepmind-the-nuclear-threat-initiative-dna-synthesis-screening-and-the-architecture-of-ai-biosecurity-part-iii" target="_blank" rel="noopener noreferrer nofollow">https://www.faf.ae/home/2026/5/5/governing-the-convergence-google-deepmind-the-nuclear-threat-initiative-dna-synthesis-screening-and-the-architecture-of-ai-biosecurity-part-iii</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Governing the Convergence: Google DeepMind, the Nuclear Threat Initiative, DNA Synthesis Screening, and the Architecture of AI Biosecurit...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: montrealethics.ai  
-   Link: <a href="https://montrealethics.ai/deployment-corrections-an-incident-response-framework-for-frontier-ai-models/" target="_blank" rel="noopener noreferrer nofollow">https://montrealethics.ai/deployment-corrections-an-incident-response-framework-for-frontier-ai-models/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 25, 2024 — DEPLOYMENT CORRECTIONS: AN INCIDENT RESPONSE FRAMEWORK FOR FRONTIER AI MODELS January 25, 2024 Image Image 🔬 Research...</p></details>
+   Link:<a href="https://montrealethics.ai/deployment-corrections-an-incident-response-framework-for-frontier-ai-models/" target="_blank" rel="noopener noreferrer nofollow">https://montrealethics.ai/deployment-corrections-an-incident-response-framework-for-frontier-ai-models/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 25, 2024 — DEPLOYMENT CORRECTIONS: AN INCIDENT RESPONSE FRAMEWORK FOR FRONTIER AI MODELS January 25, 2024 Image Image 🔬 Research...</p></details>
    Published: January 25, 2024  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: centeraipolicy.org  
-   Link: <a href="https://www.centeraipolicy.org/work/bio-risks-and-broken-guardrails-what-the-aisi-report-tells-us-about-ai-safety-standards" target="_blank" rel="noopener noreferrer nofollow">https://www.centeraipolicy.org/work/bio-risks-and-broken-guardrails-what-the-aisi-report-tells-us-about-ai-safety-standards</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bio Risks and Broken Guardrails: What the AISI Report Tells Us About AI Safety Standards | Center for AI Policy | CAIPNovember 20, 2024 —...</p></details>
+   Link:<a href="https://www.centeraipolicy.org/work/bio-risks-and-broken-guardrails-what-the-aisi-report-tells-us-about-ai-safety-standards" target="_blank" rel="noopener noreferrer nofollow">https://www.centeraipolicy.org/work/bio-risks-and-broken-guardrails-what-the-aisi-report-tells-us-about-ai-safety-standards</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bio Risks and Broken Guardrails: What the AISI Report Tells Us About AI Safety Standards | Center for AI Policy | CAIPNovember 20, 2024 —...</p></details>
    Published: November 20, 2024  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: longtermresilience.org  
-   Link: <a href="https://www.longtermresilience.org/reports/why-we-recommend-risk-assessments-over-evaluations-for-ai-enabled-biological-tools-bts/" target="_blank" rel="noopener noreferrer nofollow">https://www.longtermresilience.org/reports/why-we-recommend-risk-assessments-over-evaluations-for-ai-enabled-biological-tools-bts/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Risk assessments for AI-enabled biological tools (BTs) | CLTRMarch 27, 2024 — WHY WE RECOMMEND RISK ASSESSMENTS OVER EVALUATIONS FOR AI-E...</p></details>
+   Link:<a href="https://www.longtermresilience.org/reports/why-we-recommend-risk-assessments-over-evaluations-for-ai-enabled-biological-tools-bts/" target="_blank" rel="noopener noreferrer nofollow">https://www.longtermresilience.org/reports/why-we-recommend-risk-assessments-over-evaluations-for-ai-enabled-biological-tools-bts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Risk assessments for AI-enabled biological tools (BTs) | CLTRMarch 27, 2024 — WHY WE RECOMMEND RISK ASSESSMENTS OVER EVALUATIONS FOR AI-E...</p></details>
    Published: March 27, 2024  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: eurekalert.org  
    Title: Governance needed to ensure biosecurity of biological AI models | Eurek Alert!  
-   Link: <a href="https://www.eurekalert.org/news-releases/1054902" target="_blank" rel="noopener noreferrer nofollow">https://www.eurekalert.org/news-releases/1054902</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Governance needed to ensure biosecurity of biological AI models | EurekAlert!August 22, 2024 — News Release 22-Aug-2024 GOVERNANCE NEEDED...</p></details>
+   Link:<a href="https://www.eurekalert.org/news-releases/1054902" target="_blank" rel="noopener noreferrer nofollow">https://www.eurekalert.org/news-releases/1054902</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Governance needed to ensure biosecurity of biological AI models | EurekAlert!August 22, 2024 — News Release 22-Aug-2024 GOVERNANCE NEEDED...</p></details>
    Published: August 22, 2024  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: bankofengland.co.uk  
    Title: For example: * pre-deployment: how should the quality of train  
-   Link: <a href="https://www.bankofengland.co.uk/prudential-regulation/publication/2022/october/artificial-intelligence%C2%A0" target="_blank" rel="noopener noreferrer nofollow">https://www.bankofengland.co.uk/prudential-regulation/publication/2022/october/artificial-intelligence%C2%A0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DP5/22 - Artificial Intelligence and Machine Learning | Bank of EnglandOctober 11, 2022 — AI LIFECYCLE 4.59 One useful approach to unders...</p></details>
+   Link:<a href="https://www.bankofengland.co.uk/prudential-regulation/publication/2022/october/artificial-intelligence%C2%A0" target="_blank" rel="noopener noreferrer nofollow">https://www.bankofengland.co.uk/prudential-regulation/publication/2022/october/artificial-intelligence%C2%A0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DP5/22 - Artificial Intelligence and Machine Learning | Bank of EnglandOctober 11, 2022 — AI LIFECYCLE 4.59 One useful approach to unders...</p></details>
    Published: October 11, 2022  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: epoch.ai  
    Title: expanding our analysis of biological ai models  
-   Link: <a href="https://epoch.ai/blog/expanding-our-analysis-of-biological-ai-models" target="_blank" rel="noopener noreferrer nofollow">https://epoch.ai/blog/expanding-our-analysis-of-biological-ai-models</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>20, 2026 EXPANDING OUR ANALYSIS OF BIOLOGICAL AI MODELS We release a database of over 1,100 biological AI models across nine categories...</p></details>
+   Link:<a href="https://epoch.ai/blog/expanding-our-analysis-of-biological-ai-models" target="_blank" rel="noopener noreferrer nofollow">https://epoch.ai/blog/expanding-our-analysis-of-biological-ai-models</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>20, 2026 EXPANDING OUR ANALYSIS OF BIOLOGICAL AI MODELS We release a database of over 1,100 biological AI models across nine categories...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: datafield.dev  
    Title: Once an AI system is deployed at sca  
-   Link: <a href="https://datafield.dev/ai-ethics/ch19-auditing-ai-systems/" target="_blank" rel="noopener noreferrer nofollow">https://datafield.dev/ai-ethics/ch19-auditing-ai-systems/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 19: Auditing AI Systems | AI Ethics | DataField.DevSECTION 19.3: PRE-DEPLOYMENT AUDITING — ALGORITHMIC IMPACT ASSESSMENTS THE CON...</p></details>
+   Link:<a href="https://datafield.dev/ai-ethics/ch19-auditing-ai-systems/" target="_blank" rel="noopener noreferrer nofollow">https://datafield.dev/ai-ethics/ch19-auditing-ai-systems/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 19: Auditing AI Systems | AI Ethics | DataField.DevSECTION 19.3: PRE-DEPLOYMENT AUDITING — ALGORITHMIC IMPACT ASSESSMENTS THE CON...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12061118/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12061118/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govDual-use capabilities of concern of biological AI models - PMCMay 8, 2025 — POLICYMAKER GUIDANCE FOR HAZARDOUS BIOLOGICAL AI CAPAB...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12061118/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12061118/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govDual-use capabilities of concern of biological AI models - PMCMay 8, 2025 — POLICYMAKER GUIDANCE FOR HAZARDOUS BIOLOGICAL AI CAPAB...</p></details>
    Published: May 8, 2025

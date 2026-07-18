@@ -274,17 +274,17 @@ Mechanistic [interpretability]({{ 'interpretability/' | relative_url }}) is the 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e_mechanistic_i_d561dd-Illustration-1-dark.svg" | relative_url }}" alt="Model Circuits illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e_mechanistic_i_d561dd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e_mechanistic_i_d561dd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For people concerned about AI doom, alignment failures, or [loss of control]({{ 'loss-of-control/' | relative_url }}) over advanced systems, mechanistic interpretability is attractive because it promises something stronger than behavioural testing. In principle, if researchers could understand a frontier model's internal reasoning, they might detect dangerous goals, deceptive strategies, or other [warning signs]({{ 'warning-signs/' | relative_url }}) before those behaviours appear openly.
 
-The difficulty is that the approach becomes harder as models become more capable. Some recent work has shown that researchers can identify meaningful internal features and circuits in large language models, but the same research has also highlighted how enormous the scaling challenge remains. The central question is no longer whether mechanistic interpretability can work in small cases. It is whether it can keep pace with frontier models whose internal computations may be vastly more complex than anything humans can inspect directly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/research/mapping-mind-language-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-title">Mapping the Mind of a Large Language Model</span><span class="citation-popover-snippet">Mapping the Mind of a Large Language ModelMay 21, 2024 — We have identified how millions of concepts are represented inside Clau...</span><span class="citation-popover-meta">Published: May 21, 2024</span></span></span>
+The difficulty is that the approach becomes harder as models become more capable. Some recent work has shown that researchers can identify meaningful internal features and circuits in large language models, but the same research has also highlighted how enormous the scaling challenge remains. The central question is no longer whether mechanistic interpretability can work in small cases. It is whether it can keep pace with frontier models whose internal computations may be vastly more complex than anything humans can inspect directly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/research/mapping-mind-language-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-title">Mapping the Mind of a Large Language Model</span><span class="citation-popover-snippet">Mapping the Mind of a Large Language ModelMay 21, 2024 — We have identified how millions of concepts are represented inside Clau...</span><span class="citation-popover-meta">Published: May 21, 2024</span></span></span>
 
 ## How distributed representations resist human interpretation
 
 One of the biggest obstacles is that modern neural networks do not usually store concepts in neat, isolated locations.
 
-A common intuition is that a neuron might represent a single idea such as "dog", "Paris", or "danger". In practice, researchers repeatedly find that many neurons respond to mixtures of unrelated concepts. This phenomenon is often called *polysemanticity*. A single neuron may participate in multiple computations depending on context, making it difficult to assign a simple human-readable meaning to it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/research/towards-monosemanticity-decomposing-language-models-with-dictionary-learning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-title">towards monosemanticity decomposing language models with dictionary learning</span><span class="citation-popover-snippet">Decomposing Language Models With Dictionary Learning5 Oct 2023 — In our latest paper, Towards Monosemanticity: Decomposing Langu...</span></span></span>
+A common intuition is that a neuron might represent a single idea such as "dog", "Paris", or "danger". In practice, researchers repeatedly find that many neurons respond to mixtures of unrelated concepts. This phenomenon is often called *polysemanticity*. A single neuron may participate in multiple computations depending on context, making it difficult to assign a simple human-readable meaning to it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/research/towards-monosemanticity-decomposing-language-models-with-dictionary-learning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-title">towards monosemanticity decomposing language models with dictionary learning</span><span class="citation-popover-snippet">Decomposing Language Models With Dictionary Learning5 Oct 2023 — In our latest paper, Towards Monosemanticity: Decomposing Langu...</span></span></span>
 
-The deeper problem is that models often use what researchers call *superposition*. Instead of allocating separate internal resources to separate concepts, a network can compress many features into the same representational space. Anthropic's work on toy models and later interpretability research argues that neural networks frequently represent more features than they have obvious dimensions available, causing concepts to overlap and interfere with one another. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://transformer-circuits.pub/2024/scaling-monosemanticity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: transformer-circuits.pub">[transformer-circuits.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">transformer-circuits.pub</span><span class="citation-popover-title">scaling monosemanticity</span><span class="citation-popover-snippet">Extracting Interpretable Features from Claude 3 Sonnet21 May 2024 — Eight months ago, we demonstrated that sparse autoencoders could reco...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+The deeper problem is that models often use what researchers call *superposition*. Instead of allocating separate internal resources to separate concepts, a network can compress many features into the same representational space. Anthropic's work on toy models and later interpretability research argues that neural networks frequently represent more features than they have obvious dimensions available, causing concepts to overlap and interfere with one another.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://transformer-circuits.pub/2024/scaling-monosemanticity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: transformer-circuits.pub">[transformer-circuits.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">transformer-circuits.pub</span><span class="citation-popover-title">scaling monosemanticity</span><span class="citation-popover-snippet">Extracting Interpretable Features from Claude 3 Sonnet21 May 2024 — Eight months ago, we demonstrated that sparse autoencoders could reco...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
-This creates a scaling problem for interpretability: <span class="citation-chip-wrap"><a class="citation-chip" href="https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openaipublic.blob.core.windows.net">[openaipublic.blob.core.windows.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openaipublic.blob.core.windows.net</span><span class="citation-popover-snippet">Language models can explain neurons in language models9 May 2023 — This paper applies automation to the problem of scaling an interpretab...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+This creates a scaling problem for interpretability:<span class="citation-chip-wrap"><a class="citation-chip" href="https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openaipublic.blob.core.windows.net">[openaipublic.blob.core.windows.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openaipublic.blob.core.windows.net</span><span class="citation-popover-snippet">Language models can explain neurons in language models9 May 2023 — This paper applies automation to the problem of scaling an interpretab...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -295,19 +295,19 @@ This creates a scaling problem for interpretability: <span class="citation-chip-
 
 </div>
 
-Researchers have therefore increasingly shifted from studying individual neurons to studying higher-level features extracted using tools such as sparse autoencoders. This has produced important progress, but it also reveals the sheer number of features involved. Anthropic's work on Claude 3 Sonnet reported evidence for millions of internal features, illustrating both the promise and the scale of the challenge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/research/superposition-memorization-and-double-descent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-title">superposition memorization and double descent</span><span class="citation-popover-snippet">Superposition, Memorization, and Double Descent5 Jan 2023 — In a recent paper, we found that simple neural networks trained on toy tasks...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://transformer-circuits.pub/2022/toy_model/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: transformer-circuits.pub">[transformer-circuits.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">transformer-circuits.pub</span><span class="citation-popover-snippet">Toy Models of SuperpositionSep 14, 2022 — In this paper, we use toy models — small ReLU networks trained on synthetic data with sparse in...</span></span></span>
+Researchers have therefore increasingly shifted from studying individual neurons to studying higher-level features extracted using tools such as sparse autoencoders. This has produced important progress, but it also reveals the sheer number of features involved. Anthropic's work on Claude 3 Sonnet reported evidence for millions of internal features, illustrating both the promise and the scale of the challenge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/research/superposition-memorization-and-double-descent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-title">superposition memorization and double descent</span><span class="citation-popover-snippet">Superposition, Memorization, and Double Descent5 Jan 2023 — In a recent paper, we found that simple neural networks trained on toy tasks...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://transformer-circuits.pub/2022/toy_model/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: transformer-circuits.pub">[transformer-circuits.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">transformer-circuits.pub</span><span class="citation-popover-snippet">Toy Models of SuperpositionSep 14, 2022 — In this paper, we use toy models — small ReLU networks trained on synthetic data with sparse in...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Mhp8vpOksWw" title="Reading AI&#x27;s Mind - Mechanistic Interpretability Explained [Anthropic Research]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Mhp8vpOksWw" target="_blank" rel="noopener noreferrer">Reading AI&#x27;s Mind - Mechanistic Interpretability Explained [Anthropic Research]</a></p><p class="youtube-embed-meta">Channel: bycloud &middot; Views: 21.2K &middot; Uploaded: November 2023 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Mhp8vpOksWw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Mhp8vpOksWw">Open on YouTube</a></p></div></div></div>
 
 ## Why finding one circuit does not reveal the whole mechanism
 
-Early mechanistic interpretability successes often focused on relatively narrow tasks. Researchers identified specific circuits responsible for behaviours such as indirect object identification, token prediction patterns, or simple reasoning steps. These results demonstrated that meaningful internal structure exists and can sometimes be mapped. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://transformer-circuits.pub/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: transformer-circuits.pub">[transformer-circuits.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">transformer-circuits.pub</span><span class="citation-popover-snippet">Transformer Circuits ThreadAnthropic&#x27;s Interpretability Research. A surprising fact about modern large language models is that nobody rea...</span></span></span>
+Early mechanistic interpretability successes often focused on relatively narrow tasks. Researchers identified specific circuits responsible for behaviours such as indirect object identification, token prediction patterns, or simple reasoning steps. These results demonstrated that meaningful internal structure exists and can sometimes be mapped.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://transformer-circuits.pub/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: transformer-circuits.pub">[transformer-circuits.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">transformer-circuits.pub</span><span class="citation-popover-snippet">Transformer Circuits ThreadAnthropic&#x27;s Interpretability Research. A surprising fact about modern large language models is that nobody rea...</span></span></span>
 
 However, frontier models appear to rely on many overlapping mechanisms rather than single clean pathways.
 
 A useful analogy is biological brains. Finding one neural pathway involved in vision does not mean vision depends entirely on that pathway. Multiple subsystems often contribute simultaneously, providing redundancy and robustness.
 
-Large language models appear to exhibit something similar. A circuit discovered in one setting may not be the only route through which the model can achieve a task. Alternative pathways may exist, and the model may switch strategies depending on context. As model size increases, the number of potential interactions grows dramatically. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2407.02646v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Practical Review of Mechanistic Interpretability for...10 Mar 2025 — Our survey brings a unique perspective of task-centric surve...</span></span></span>
+Large language models appear to exhibit something similar. A circuit discovered in one setting may not be the only route through which the model can achieve a task. Alternative pathways may exist, and the model may switch strategies depending on context. As model size increases, the number of potential interactions grows dramatically.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2407.02646v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Practical Review of Mechanistic Interpretability for...10 Mar 2025 — Our survey brings a unique perspective of task-centric surve...</span></span></span>
 
 This matters for AI safety because researchers are often interested in rare but dangerous behaviours. Suppose a safety team identifies one circuit associated with deceptive reasoning and modifies it. If the model can achieve the same outcome through several other circuits, the intervention may provide only limited assurance.
 
@@ -340,7 +340,7 @@ These concerns are especially relevant in discussions of deceptive alignment and
 
 A common argument is that larger models may become easier to understand because they often develop more structured internal representations.
 
-There is some evidence supporting this idea. Anthropic's work on monosemantic features suggests that meaningful, relatively interpretable features can be extracted from large models using sparse autoencoders. Researchers have successfully identified features corresponding to concepts ranging from geographic locations to coding patterns and linguistic structures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://transformer-circuits.pub/2023/monosemantic-features" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: transformer-circuits.pub">[transformer-circuits.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">transformer-circuits.pub</span><span class="citation-popover-title">monosemantic features</span><span class="citation-popover-snippet">Decomposing Language Models With Dictionary Learning4 Oct 2023 — In this paper, we use a weak dictionary learning algorithm called a spar...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/research/engineering-challenges-interpretability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-title">engineering challenges interpretability</span><span class="citation-popover-snippet">The engineering challenges of scaling interpretabilityJun 13, 2024 — Our Sparse Autoencoders—the tools we use to investigate “features”—a...</span></span></span>
+There is some evidence supporting this idea. Anthropic's work on monosemantic features suggests that meaningful, relatively interpretable features can be extracted from large models using sparse autoencoders. Researchers have successfully identified features corresponding to concepts ranging from geographic locations to coding patterns and linguistic structures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://transformer-circuits.pub/2023/monosemantic-features" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: transformer-circuits.pub">[transformer-circuits.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">transformer-circuits.pub</span><span class="citation-popover-title">monosemantic features</span><span class="citation-popover-snippet">Decomposing Language Models With Dictionary Learning4 Oct 2023 — In this paper, we use a weak dictionary learning algorithm called a spar...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/research/engineering-challenges-interpretability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-title">engineering challenges interpretability</span><span class="citation-popover-snippet">The engineering challenges of scaling interpretabilityJun 13, 2024 — Our Sparse Autoencoders—the tools we use to investigate “features”—a...</span></span></span>
 
 Yet these successes do not imply that frontier systems become transparent.
 
@@ -348,7 +348,7 @@ Several scaling pressures push in the opposite direction:
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
-* Larger models contain vastly more features. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.anthropic.com/research/toy-models-of-superposition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[anthropic.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-title">toy models of superposition</span><span class="citation-popover-snippet">14 Sept 2022 — In this paper, we use toy models — small ReLU networks trained on synthetic data with sparse input features — to investiga...</span></span></span>
+* Larger models contain vastly more features.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.anthropic.com/research/toy-models-of-superposition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[anthropic.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-title">toy models of superposition</span><span class="citation-popover-snippet">14 Sept 2022 — In this paper, we use toy models — small ReLU networks trained on synthetic data with sparse input features — to investiga...</span></span></span>
 * More features create more potential interactions.
 * More capabilities create more complex circuits.
 * New behaviours can emerge that were absent in smaller systems.
@@ -367,9 +367,9 @@ This distinction is crucial in AI doom debates. The question is not whether some
 
 Recognising that humans cannot manually inspect billions of parameters, researchers have increasingly explored automated interpretability.
 
-OpenAI demonstrated one version of this approach by using GPT-4 to generate explanations for neurons in GPT-2. The broader goal is to create systems that help explain other systems, allowing interpretability research to scale beyond manual investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openai.com/index/language-models-can-explain-neurons-in-language-models/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: OpenAI">[OpenAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">OpenAI</span><span class="citation-popover-title">language models can explain neurons in language models</span><span class="citation-popover-snippet">Language models can explain neurons in...9 May 2023 — We use GPT-4 to automatically write explanations for the behavior of neurons in la...</span><span class="citation-popover-meta">Published: May 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openaipublic.blob.core.windows.net">[2openaipublic.blob.core.windows.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openaipublic.blob.core.windows.net</span><span class="citation-popover-snippet">Language models can explain neurons in language models9 May 2023 — This paper applies automation to the problem of scaling an interpretab...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+OpenAI demonstrated one version of this approach by using GPT-4 to generate explanations for neurons in GPT-2. The broader goal is to create systems that help explain other systems, allowing interpretability research to scale beyond manual investigation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://openai.com/index/language-models-can-explain-neurons-in-language-models/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: OpenAI">[OpenAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">OpenAI</span><span class="citation-popover-title">language models can explain neurons in language models</span><span class="citation-popover-snippet">Language models can explain neurons in...9 May 2023 — We use GPT-4 to automatically write explanations for the behavior of neurons in la...</span><span class="citation-popover-meta">Published: May 2023</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openaipublic.blob.core.windows.net">[2openaipublic.blob.core.windows.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openaipublic.blob.core.windows.net</span><span class="citation-popover-snippet">Language models can explain neurons in language models9 May 2023 — This paper applies automation to the problem of scaling an interpretab...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
-Automated circuit-discovery methods have also improved substantially. New techniques can identify candidate circuits far faster than earlier approaches, making larger-scale investigations more practical. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2407.02646v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Practical Review of Mechanistic Interpretability for...10 Mar 2025 — Our survey brings a unique perspective of task-centric surve...</span></span></span>
+Automated circuit-discovery methods have also improved substantially. New techniques can identify candidate circuits far faster than earlier approaches, making larger-scale investigations more practical.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2407.02646v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Practical Review of Mechanistic Interpretability for...10 Mar 2025 — Our survey brings a unique perspective of task-centric surve...</span></span></span>
 
 However, automation introduces its own questions:
 
@@ -389,244 +389,244 @@ In effect, automation may help address the labour problem without fully solving 
 
 Mechanistic interpretability occupies a distinctive place in existential-risk debates because it targets a specific concern: humans may lose the ability to understand what increasingly capable systems are doing internally.
 
-Supporters argue that interpretability could eventually provide an "AI MRI" capable of revealing [hidden goals]({{ 'hidden-goals/' | relative_url }}), deceptive planning, or dangerous reasoning before catastrophe occurs. Progress on sparse autoencoders, feature discovery, and circuit analysis is often cited as evidence that the field is moving in that direction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://transformer-circuits.pub/2024/july-update/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: transformer-circuits.pub">[transformer-circuits.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">transformer-circuits.pub</span><span class="citation-popover-title">Circuits Updates</span><span class="citation-popover-snippet">In a linear representation, each feature f i f_i...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/research/team/interpretability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-snippet">Interpretability ResearchThe mission of the Interpretability team is to discover and understand how large language models work internally...</span></span></span>
+Supporters argue that interpretability could eventually provide an "AI MRI" capable of revealing [hidden goals]({{ 'hidden-goals/' | relative_url }}), deceptive planning, or dangerous reasoning before catastrophe occurs. Progress on sparse autoencoders, feature discovery, and circuit analysis is often cited as evidence that the field is moving in that direction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://transformer-circuits.pub/2024/july-update/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: transformer-circuits.pub">[transformer-circuits.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">transformer-circuits.pub</span><span class="citation-popover-title">Circuits Updates</span><span class="citation-popover-snippet">In a linear representation, each feature f i f_i...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/research/team/interpretability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-snippet">Interpretability ResearchThe mission of the Interpretability team is to discover and understand how large language models work internally...</span></span></span>
 
-Sceptics do not necessarily deny the value of interpretability. Instead, many question whether it can scale quickly enough. Frontier models already contain enormous numbers of interacting features, and future systems may be substantially more complex still. Even optimistic researchers frequently describe interpretability as being in an early stage relative to the scale of the systems being studied. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://transformer-circuits.pub/2024/scaling-monosemanticity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: transformer-circuits.pub">[transformer-circuits.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">transformer-circuits.pub</span><span class="citation-popover-title">scaling monosemanticity</span><span class="citation-popover-snippet">Extracting Interpretable Features from Claude 3 Sonnet21 May 2024 — Eight months ago, we demonstrated that sparse autoencoders could reco...</span><span class="citation-popover-meta">Published: May 2024</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/research/toy-models-of-superposition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-title">toy models of superposition</span><span class="citation-popover-snippet">14 Sept 2022 — In this paper, we use toy models — small ReLU networks trained on synthetic data with sparse input features — to investiga...</span></span></span>
+Sceptics do not necessarily deny the value of interpretability. Instead, many question whether it can scale quickly enough. Frontier models already contain enormous numbers of interacting features, and future systems may be substantially more complex still. Even optimistic researchers frequently describe interpretability as being in an early stage relative to the scale of the systems being studied.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://transformer-circuits.pub/2024/scaling-monosemanticity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: transformer-circuits.pub">[transformer-circuits.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">transformer-circuits.pub</span><span class="citation-popover-title">scaling monosemanticity</span><span class="citation-popover-snippet">Extracting Interpretable Features from Claude 3 Sonnet21 May 2024 — Eight months ago, we demonstrated that sparse autoencoders could reco...</span><span class="citation-popover-meta">Published: May 2024</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/research/toy-models-of-superposition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-title">toy models of superposition</span><span class="citation-popover-snippet">14 Sept 2022 — In this paper, we use toy models — small ReLU networks trained on synthetic data with sparse input features — to investiga...</span></span></span>
 
 For AI doom discussions, this creates an uncomfortable possibility. If mechanistic interpretability scales more slowly than capabilities, society could face increasingly powerful systems before it possesses reliable tools for understanding their internal decision-making. Whether that gap remains manageable or becomes a serious alignment problem is one of the central unresolved questions in contemporary AI safety research.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why mapping AI internals gets harder with scale. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why mapping AI internals gets harder with scale. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
-        </h4>
-        <p class="fr-book-author">By Brian Christian</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
+</h4>
+<p class="fr-book-author">By Brian Christian</p>
         
-        <p class="fr-book-desc">Explains interpretability, alignment and why understanding model internals is difficult.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains interpretability, alignment and why understanding model internals is difficult.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8vm0DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Jonathan Russell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8vm0DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
+</h4>
+<p class="fr-book-author">By Stuart Jonathan Russell</p>
         
-        <p class="fr-book-desc">Connects transparency and control challenges to advanced AI systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects transparency and control challenges to advanced AI systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Architects+of+Intelligence+by+Martin+Ford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Architects of Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e4d7DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Architects of Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Architects+of+Intelligence+by+Martin+Ford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Architects of Intelligence">Architects of Intelligence</a>
-        </h4>
-        <p class="fr-book-author">By Martin Ford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Architects+of+Intelligence+by+Martin+Ford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Architects of Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e4d7DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Architects of Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Architects+of+Intelligence+by+Martin+Ford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Architects of Intelligence">Architects of Intelligence</a>
+</h4>
+<p class="fr-book-author">By Martin Ford</p>
         
-        <p class="fr-book-desc">Provides context on scaling, deep learning and future AI capabilities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Architects+of+Intelligence+by+Martin+Ford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on scaling, deep learning and future AI capabilities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Architects+of+Intelligence+by+Martin+Ford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Learning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Np9SDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Learning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Learning">Deep Learning</a>
-        </h4>
-        <p class="fr-book-author">By Ian Goodfellow, Yoshua Bengio et al.</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 6 Google Books ratings</p>
-        <p class="fr-book-desc">Helps readers understand distributed representations and neural network structure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Learning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Np9SDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Learning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Learning">Deep Learning</a>
+</h4>
+<p class="fr-book-author">By Ian Goodfellow, Yoshua Bengio et al.</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 6 Google Books ratings</p>
+<p class="fr-book-desc">Helps readers understand distributed representations and neural network structure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Architects+of+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Architects of Intelligence</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Architects+of+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Architects of Intelligence</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DENSO Industrial Robot Arm Model 1:6 Scale Manipulator Simulation Display Gift"><img src="{{ '/assets/images/marketplace-covers/65d51f66075c4571a747.jpg' | relative_url }}" alt="Listing image for DENSO Industrial Robot Arm Model 1:6 Scale Manipulator Simulation Display Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">DENSO Industrial Robot Arm Model 1:6 Scale Manipulator Simulation Display Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search <span data-ebay-domain-label>eBay.com</span>: robot display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-robot-display-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DENSO Industrial Robot Arm Model 1:6 Scale Manipulator Simulation Display Gift"><img src="{{ '/assets/images/marketplace-covers/65d51f66075c4571a747.jpg' | relative_url }}" alt="Listing image for DENSO Industrial Robot Arm Model 1:6 Scale Manipulator Simulation Display Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">DENSO Industrial Robot Arm Model 1:6 Scale Manipulator Simulation Display Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search<span data-ebay-domain-label>eBay.com</span>: robot display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-robot-display-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lost In Space YM-3 Robot Mini Display Model in Retro TV 17RMB03"><img src="{{ '/assets/images/marketplace-covers/52a95005f7f5389649de.jpg' | relative_url }}" alt="Listing image for Lost In Space YM-3 Robot Mini Display Model in Retro TV 17RMB03" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Lost In Space YM-3 Robot Mini Display Model in Retro TV 17RMB03</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search <span data-ebay-domain-label>eBay.com</span>: robot display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-robot-display-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lost In Space YM-3 Robot Mini Display Model in Retro TV 17RMB03"><img src="{{ '/assets/images/marketplace-covers/52a95005f7f5389649de.jpg' | relative_url }}" alt="Listing image for Lost In Space YM-3 Robot Mini Display Model in Retro TV 17RMB03" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Lost In Space YM-3 Robot Mini Display Model in Retro TV 17RMB03</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search<span data-ebay-domain-label>eBay.com</span>: robot display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-robot-display-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kaiyodo Grendizer Cold Cast Figure with Base Super Robot Display Model New"><img src="{{ '/assets/images/marketplace-covers/53d929fffd3f45df8d8c.jpg' | relative_url }}" alt="Listing image for Kaiyodo Grendizer Cold Cast Figure with Base Super Robot Display Model New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Kaiyodo Grendizer Cold Cast Figure with Base Super Robot Display Model New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search <span data-ebay-domain-label>eBay.com</span>: robot display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-robot-display-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kaiyodo Grendizer Cold Cast Figure with Base Super Robot Display Model New"><img src="{{ '/assets/images/marketplace-covers/53d929fffd3f45df8d8c.jpg' | relative_url }}" alt="Listing image for Kaiyodo Grendizer Cold Cast Figure with Base Super Robot Display Model New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Kaiyodo Grendizer Cold Cast Figure with Base Super Robot Display Model New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search<span data-ebay-domain-label>eBay.com</span>: robot display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-robot-display-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3D Printed Robot Anatomy Head Bust 6.1in Sci-Fi Display Model Art Figure"><img src="{{ '/assets/images/marketplace-covers/99673181cf01409c6bee.jpg' | relative_url }}" alt="Listing image for 3D Printed Robot Anatomy Head Bust 6.1in Sci-Fi Display Model Art Figure" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">3D Printed Robot Anatomy Head Bust 6.1in Sci-Fi Display Model Art Figure</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search <span data-ebay-domain-label>eBay.com</span>: robot display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-robot-display-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3D Printed Robot Anatomy Head Bust 6.1in Sci-Fi Display Model Art Figure"><img src="{{ '/assets/images/marketplace-covers/99673181cf01409c6bee.jpg' | relative_url }}" alt="Listing image for 3D Printed Robot Anatomy Head Bust 6.1in Sci-Fi Display Model Art Figure" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">3D Printed Robot Anatomy Head Bust 6.1in Sci-Fi Display Model Art Figure</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search<span data-ebay-domain-label>eBay.com</span>: robot display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-robot-display-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI ARTIFICIAL INTELLIGENCE . 2001 ORIGINAL MOVIE POSTER vintage 24 YEARS OLD"><img src="{{ '/assets/images/marketplace-covers/5af1ce80d93e60e8d871.jpg' | relative_url }}" alt="Listing image for AI ARTIFICIAL INTELLIGENCE . 2001 ORIGINAL MOVIE POSTER vintage 24 YEARS OLD" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">AI ARTIFICIAL INTELLIGENCE . 2001 ORIGINAL MOVIE POSTER vintage 24 YEARS OLD</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: AI poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-ai-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI ARTIFICIAL INTELLIGENCE . 2001 ORIGINAL MOVIE POSTER vintage 24 YEARS OLD"><img src="{{ '/assets/images/marketplace-covers/5af1ce80d93e60e8d871.jpg' | relative_url }}" alt="Listing image for AI ARTIFICIAL INTELLIGENCE . 2001 ORIGINAL MOVIE POSTER vintage 24 YEARS OLD" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">AI ARTIFICIAL INTELLIGENCE . 2001 ORIGINAL MOVIE POSTER vintage 24 YEARS OLD</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: AI poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-ai-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray"><img src="{{ '/assets/images/marketplace-covers/3c3ecd285cbeae3cd708.jpg' | relative_url }}" alt="Listing image for AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: AI poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-ai-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray"><img src="{{ '/assets/images/marketplace-covers/3c3ecd285cbeae3cd708.jpg' | relative_url }}" alt="Listing image for AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: AI poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-ai-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-circuits-why-mapping-ai-internals-gets-harder-with-scale-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -642,7 +642,7 @@ For AI doom discussions, this creates an uncomfortable possibility. If mechanist
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -662,7 +662,7 @@ For AI doom discussions, this creates an uncomfortable possibility. If mechanist
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -694,7 +694,7 @@ For AI doom discussions, this creates an uncomfortable possibility. If mechanist
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -724,7 +724,7 @@ For AI doom discussions, this creates an uncomfortable possibility. If mechanist
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -782,217 +782,217 @@ For AI doom discussions, this creates an uncomfortable possibility. If mechanist
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: anthropic.com  
    Title: Mapping the Mind of a Large Language Model  
-   Link: <a href="https://www.anthropic.com/research/mapping-mind-language-model" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/research/mapping-mind-language-model</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mapping the Mind of a Large Language ModelMay 21, 2024 — We have identified how millions of concepts are represented inside Clau...</p></details>
+   Link:<a href="https://www.anthropic.com/research/mapping-mind-language-model" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/research/mapping-mind-language-model</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mapping the Mind of a Large Language ModelMay 21, 2024 — We have identified how millions of concepts are represented inside Clau...</p></details>
    Published: May 21, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: transformer-circuits.pub  
    Title: scaling monosemanticity  
-   Link: <a href="https://transformer-circuits.pub/2024/scaling-monosemanticity/" target="_blank" rel="noopener noreferrer nofollow">https://transformer-circuits.pub/2024/scaling-monosemanticity/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Extracting Interpretable Features from Claude 3 Sonnet21 May 2024 — Eight months ago, we demonstrated that sparse autoencoders could reco...</p></details>
+   Link:<a href="https://transformer-circuits.pub/2024/scaling-monosemanticity/" target="_blank" rel="noopener noreferrer nofollow">https://transformer-circuits.pub/2024/scaling-monosemanticity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Extracting Interpretable Features from Claude 3 Sonnet21 May 2024 — Eight months ago, we demonstrated that sparse autoencoders could reco...</p></details>
    Published: May 2024  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: anthropic.com  
    Title: towards monosemanticity decomposing language models with dictionary learning  
-   Link: <a href="https://www.anthropic.com/research/towards-monosemanticity-decomposing-language-models-with-dictionary-learning" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/research/towards-monosemanticity-decomposing-language-models-with-dictionary-learning</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Decomposing Language Models With Dictionary Learning5 Oct 2023 — In our latest paper, Towards Monosemanticity: Decomposing Langu...</p></details>
+   Link:<a href="https://www.anthropic.com/research/towards-monosemanticity-decomposing-language-models-with-dictionary-learning" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/research/towards-monosemanticity-decomposing-language-models-with-dictionary-learning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Decomposing Language Models With Dictionary Learning5 Oct 2023 — In our latest paper, Towards Monosemanticity: Decomposing Langu...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2407.02646v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2407.02646v2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Practical Review of Mechanistic Interpretability for...10 Mar 2025 — Our survey brings a unique perspective of task-centric surve...</p></details>
+   Link:<a href="https://arxiv.org/html/2407.02646v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2407.02646v2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Practical Review of Mechanistic Interpretability for...10 Mar 2025 — Our survey brings a unique perspective of task-centric surve...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: transformer-circuits.pub  
-   Link: <a href="https://transformer-circuits.pub/2022/toy_model/index.html" target="_blank" rel="noopener noreferrer nofollow">https://transformer-circuits.pub/2022/toy_model/index.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Toy Models of SuperpositionSep 14, 2022 — In this paper, we use toy models — small ReLU networks trained on [synthetic data](&amp;#123;&amp;#123; &#x27;synthetic-data/&#x27; | relative_url &amp;#125;&amp;#125;) with sparse in...</p></details>
+   Link:<a href="https://transformer-circuits.pub/2022/toy_model/index.html" target="_blank" rel="noopener noreferrer nofollow">https://transformer-circuits.pub/2022/toy_model/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Toy Models of SuperpositionSep 14, 2022 — In this paper, we use toy models — small ReLU networks trained on [synthetic data](&amp;#123;&amp;#123; &#x27;synthetic-data/&#x27; | relative_url &amp;#125;&amp;#125;) with sparse in...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: anthropic.com  
    Title: superposition memorization and double descent  
-   Link: <a href="https://www.anthropic.com/research/superposition-memorization-and-double-descent" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/research/superposition-memorization-and-double-descent</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Superposition, Memorization, and Double Descent5 Jan 2023 — In a recent paper, we found that simple neural networks trained on toy tasks...</p></details>
+   Link:<a href="https://www.anthropic.com/research/superposition-memorization-and-double-descent" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/research/superposition-memorization-and-double-descent</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Superposition, Memorization, and Double Descent5 Jan 2023 — In a recent paper, we found that simple neural networks trained on toy tasks...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2309.08600" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2309.08600</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sparse Autoencoders Find Highly Interpretable Features in...by H Cunningham · 2023 · Cited by 1050 — These autoencoders learn sets...</p></details>
+   Link:<a href="https://arxiv.org/abs/2309.08600" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2309.08600</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sparse Autoencoders Find Highly Interpretable Features in...by H Cunningham · 2023 · Cited by 1050 — These autoencoders learn sets...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: transformer-circuits.pub  
-   Link: <a href="https://transformer-circuits.pub/" target="_blank" rel="noopener noreferrer nofollow">https://transformer-circuits.pub/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Transformer Circuits ThreadAnthropic&#x27;s Interpretability Research. A surprising fact about modern large language models is that nobody rea...</p></details>
+   Link:<a href="https://transformer-circuits.pub/" target="_blank" rel="noopener noreferrer nofollow">https://transformer-circuits.pub/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Transformer Circuits ThreadAnthropic&#x27;s Interpretability Research. A surprising fact about modern large language models is that nobody rea...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2407.00886" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2407.00886</a>  
+   Link:<a href="https://arxiv.org/abs/2407.00886" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2407.00886</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: OpenAI  
    Title: language models can explain neurons in language models  
-   Link: <a href="https://openai.com/index/language-models-can-explain-neurons-in-language-models/" target="_blank" rel="noopener noreferrer nofollow">https://openai.com/index/language-models-can-explain-neurons-in-language-models/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Language models can explain neurons in...9 May 2023 — We use GPT-4 to automatically write explanations for the behavior of neurons in la...</p></details>
+   Link:<a href="https://openai.com/index/language-models-can-explain-neurons-in-language-models/" target="_blank" rel="noopener noreferrer nofollow">https://openai.com/index/language-models-can-explain-neurons-in-language-models/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Language models can explain neurons in...9 May 2023 — We use GPT-4 to automatically write explanations for the behavior of neurons in la...</p></details>
    Published: May 2023  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: openaipublic.blob.core.windows.net  
-   Link: <a href="https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html" target="_blank" rel="noopener noreferrer nofollow">https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Language models can explain neurons in language models9 May 2023 — This paper applies automation to the problem of scaling an interpretab...</p></details>
+   Link:<a href="https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html" target="_blank" rel="noopener noreferrer nofollow">https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Language models can explain neurons in language models9 May 2023 — This paper applies automation to the problem of scaling an interpretab...</p></details>
    Published: May 2023  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: anthropic.com  
    Title: engineering challenges interpretability  
-   Link: <a href="https://www.anthropic.com/research/engineering-challenges-interpretability" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/research/engineering-challenges-interpretability</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The engineering challenges of scaling interpretabilityJun 13, 2024 — Our Sparse Autoencoders—the tools we use to investigate “features”—a...</p></details>
+   Link:<a href="https://www.anthropic.com/research/engineering-challenges-interpretability" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/research/engineering-challenges-interpretability</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The engineering challenges of scaling interpretabilityJun 13, 2024 — Our Sparse Autoencoders—the tools we use to investigate “features”—a...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2602.11180" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2602.11180</a>  
+   Link:<a href="https://arxiv.org/abs/2602.11180" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2602.11180</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: transformer-circuits.pub  
    Title: monosemantic features  
-   Link: <a href="https://transformer-circuits.pub/2023/monosemantic-features" target="_blank" rel="noopener noreferrer nofollow">https://transformer-circuits.pub/2023/monosemantic-features</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Decomposing Language Models With Dictionary Learning4 Oct 2023 — In this paper, we use a weak dictionary learning algorithm called a spar...</p></details>
+   Link:<a href="https://transformer-circuits.pub/2023/monosemantic-features" target="_blank" rel="noopener noreferrer nofollow">https://transformer-circuits.pub/2023/monosemantic-features</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Decomposing Language Models With Dictionary Learning4 Oct 2023 — In this paper, we use a weak dictionary learning algorithm called a spar...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: transformer-circuits.pub  
    Title: Circuits Updates  
-   Link: <a href="https://transformer-circuits.pub/2024/july-update/index.html" target="_blank" rel="noopener noreferrer nofollow">https://transformer-circuits.pub/2024/july-update/index.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In a linear representation, each feature f i f_i...Read more...</p></details>
+   Link:<a href="https://transformer-circuits.pub/2024/july-update/index.html" target="_blank" rel="noopener noreferrer nofollow">https://transformer-circuits.pub/2024/july-update/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In a linear representation, each feature f i f_i...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: anthropic.com  
-   Link: <a href="https://www.anthropic.com/research/team/interpretability" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/research/team/interpretability</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Interpretability ResearchThe mission of the Interpretability team is to discover and understand how large language models work internally...</p></details>
+   Link:<a href="https://www.anthropic.com/research/team/interpretability" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/research/team/interpretability</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Interpretability ResearchThe mission of the Interpretability team is to discover and understand how large language models work internally...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: anthropic.com  
    Title: toy models of superposition  
-   Link: <a href="https://www.anthropic.com/research/toy-models-of-superposition" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/research/toy-models-of-superposition</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>14 Sept 2022 — In this paper, we use toy models — small ReLU networks trained on synthetic data with sparse input features — to investiga...</p></details>
+   Link:<a href="https://www.anthropic.com/research/toy-models-of-superposition" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/research/toy-models-of-superposition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>14 Sept 2022 — In this paper, we use toy models — small ReLU networks trained on synthetic data with sparse input features — to investiga...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: anthropic.com  
-   Link: <a href="https://www.anthropic.com/research/decomposing-language-models-into-understandable-components" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/research/decomposing-language-models-into-understandable-components</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Decomposing Language Models Into Understandable...Oct 5, 2023 — This work is a result of Anthropic&#x27;s investment in Mechanistic Interpret...</p></details>
+   Link:<a href="https://www.anthropic.com/research/decomposing-language-models-into-understandable-components" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/research/decomposing-language-models-into-understandable-components</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Decomposing Language Models Into Understandable...Oct 5, 2023 — This work is a result of Anthropic&#x27;s investment in Mechanistic Interpret...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: arxiv.org  
    Title: features in large language models via sparse autoencoders.Read more  
-   Link: <a href="https://arxiv.org/html/2503.05613v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2503.05613v3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Survey on Sparse Autoencoders: Interpreting the Internal...23 Sept 2025 — Towards monosemanticity: Decomposing language models with di...</p></details>
+   Link:<a href="https://arxiv.org/html/2503.05613v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2503.05613v3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Survey on Sparse Autoencoders: Interpreting the Internal...23 Sept 2025 — Towards monosemanticity: Decomposing language models with di...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2310.06200v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2310.06200v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Importance of Prompt Tuning for Automated Neuron...In bills2023language, the team from OpenAI showcases that GPT-4 can be useful in...</p></details>
+   Link:<a href="https://arxiv.org/html/2310.06200v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2310.06200v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Importance of Prompt Tuning for Automated Neuron...In bills2023language, the team from OpenAI showcases that GPT-4 can be useful in...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: github.com  
-   Link: <a href="https://github.com/openai/automated-interpretability" target="_blank" rel="noopener noreferrer nofollow">https://github.com/openai/automated-interpretability</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>openai/automated-interpretabilityThis repository contains code and tools associated with the Language models can explain neurons in langu...</p></details>
+   Link:<a href="https://github.com/openai/automated-interpretability" target="_blank" rel="noopener noreferrer nofollow">https://github.com/openai/automated-interpretability</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>openai/automated-interpretabilityThis repository contains code and tools associated with the Language models can explain neurons in langu...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: galileo.ai  
    Title: anthropic ai interpretability breakthrough  
-   Link: <a href="https://galileo.ai/blog/anthropic-ai-interpretability-breakthrough" target="_blank" rel="noopener noreferrer nofollow">https://galileo.ai/blog/anthropic-ai-interpretability-breakthrough</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Anthropic Made AI 70% More Interpretable1 Aug 2025 — Discover Anthropic&#x27;s breakthrough: sparse autoencoders make AI 70% interpretable...</p></details>
+   Link:<a href="https://galileo.ai/blog/anthropic-ai-interpretability-breakthrough" target="_blank" rel="noopener noreferrer nofollow">https://galileo.ai/blog/anthropic-ai-interpretability-breakthrough</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Anthropic Made AI 70% More Interpretable1 Aug 2025 — Discover Anthropic&#x27;s breakthrough: sparse autoencoders make AI 70% interpretable...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Anthropic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anthropic</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AnthropicAnthropic is an American artificial intelligence (AI) company headquartered in San Francisco. It has developed a range of lar...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Anthropic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anthropic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AnthropicAnthropic is an American artificial intelligence (AI) company headquartered in San Francisco. It has developed a range of lar...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: strikingloo.github.io  
-   Link: <a href="https://strikingloo.github.io/wiki/monosemanticity" target="_blank" rel="noopener noreferrer nofollow">https://strikingloo.github.io/wiki/monosemanticity</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Towards MonosemanticityOct 5, 2023 — In this paper, we use a weak dictionary learning algorithm called a sparse autoencoder to generate l...</p></details>
+   Link:<a href="https://strikingloo.github.io/wiki/monosemanticity" target="_blank" rel="noopener noreferrer nofollow">https://strikingloo.github.io/wiki/monosemanticity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Towards MonosemanticityOct 5, 2023 — In this paper, we use a weak dictionary learning algorithm called a sparse autoencoder to generate l...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/warren-wong-code_ai-machinelearning-interpretability-activity-7341814151171723264-1VN9" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/warren-wong-code_ai-machinelearning-interpretability-activity-7341814151171723264-1VN9</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OpenAI&#x27;s Automated Interpretability: Explaining Neurons in...Jun 20, 2025 — OpenAI&#x27;s 2023 paper, &quot;Language Models Can Explain Neurons in...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/warren-wong-code_ai-machinelearning-interpretability-activity-7341814151171723264-1VN9" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/warren-wong-code_ai-machinelearning-interpretability-activity-7341814151171723264-1VN9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OpenAI&#x27;s Automated Interpretability: Explaining Neurons in...Jun 20, 2025 — OpenAI&#x27;s 2023 paper, &quot;Language Models Can Explain Neurons in...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: techcrunch.com  
-   Link: <a href="https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/" target="_blank" rel="noopener noreferrer nofollow">https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/</a>  
+   Link:<a href="https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/" target="_blank" rel="noopener noreferrer nofollow">https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: theorempath.com  
    Title: mechanistic interpretability  
-   Link: <a href="https://theorempath.com/topics/mechanistic-interpretability" target="_blank" rel="noopener noreferrer nofollow">https://theorempath.com/topics/mechanistic-interpretability</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Features, Circuits, SAEsby R Sneiderman · 2026 — Mechanistic interpretability for transformers: superposition, sparse autoencoders, the l...</p></details>
+   Link:<a href="https://theorempath.com/topics/mechanistic-interpretability" target="_blank" rel="noopener noreferrer nofollow">https://theorempath.com/topics/mechanistic-interpretability</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Features, Circuits, SAEsby R Sneiderman · 2026 — Mechanistic interpretability for transformers: superposition, sparse autoencoders, the l...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/datasciencedojo/posts/-openai-just-released-a-groundbreaking-paper-that-pushes-mechanistic-interpretab/860302616519891/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/datasciencedojo/posts/-openai-just-released-a-groundbreaking-paper-that-pushes-mechanistic-interpretab/860302616519891/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OpenAI just released a groundbreaking paper that pushes...Language models can explain neurons in language models use GPT-4 to automatica...</p></details>
+   Link:<a href="https://www.facebook.com/datasciencedojo/posts/-openai-just-released-a-groundbreaking-paper-that-pushes-mechanistic-interpretab/860302616519891/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/datasciencedojo/posts/-openai-just-released-a-groundbreaking-paper-that-pushes-mechanistic-interpretab/860302616519891/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OpenAI just released a groundbreaking paper that pushes...Language models can explain neurons in language models use GPT-4 to automatica...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: simonwillison.net  
-   Link: <a href="https://simonwillison.net/2023/May/9/explain-neurons/" target="_blank" rel="noopener noreferrer nofollow">https://simonwillison.net/2023/May/9/explain-neurons/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 9, 2023 — “We generated cluster labels by embedding each neuron explanation using the OpenAI Embeddings API, then clustering them and...</p></details>
+   Link:<a href="https://simonwillison.net/2023/May/9/explain-neurons/" target="_blank" rel="noopener noreferrer nofollow">https://simonwillison.net/2023/May/9/explain-neurons/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 9, 2023 — “We generated cluster labels by embedding each neuron explanation using the OpenAI Embeddings API, then clustering them and...</p></details>
    Published: May 9, 2023  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: aarnphm.xyz  
    Title: mechanistic interpretability  
-   Link: <a href="https://aarnphm.xyz/thoughts/mechanistic-interpretability" target="_blank" rel="noopener noreferrer nofollow">https://aarnphm.xyz/thoughts/mechanistic-interpretability</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aaron&#x27;s notesJan 6, 2026 — This greatly simplifies resulting circuits by: Handling cross-layer superposition directly; Allowing features...</p></details>
+   Link:<a href="https://aarnphm.xyz/thoughts/mechanistic-interpretability" target="_blank" rel="noopener noreferrer nofollow">https://aarnphm.xyz/thoughts/mechanistic-interpretability</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aaron&#x27;s notesJan 6, 2026 — This greatly simplifies resulting circuits by: Handling cross-layer superposition directly; Allowing features...</p></details>
 
 ### Additional References
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: github.com  
-   Link: <a href="https://github.com/zepingyu0512/awesome-llm-understanding-mechanism" target="_blank" rel="noopener noreferrer nofollow">https://github.com/zepingyu0512/awesome-llm-understanding-mechanism</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Awesome Papers for Understanding LLM MechanismThis list focuses on understanding the internal mechanism of large language models (LLM). W...</p></details>
+   Link:<a href="https://github.com/zepingyu0512/awesome-llm-understanding-mechanism" target="_blank" rel="noopener noreferrer nofollow">https://github.com/zepingyu0512/awesome-llm-understanding-mechanism</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Awesome Papers for Understanding LLM MechanismThis list focuses on understanding the internal mechanism of large language models (LLM). W...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: tryalign.ai  
-   Link: <a href="https://tryalign.ai/resources/blog/scaling-monosemanticity-extracting-interpretable-features-from-claude-3-sonnet" target="_blank" rel="noopener noreferrer nofollow">https://tryalign.ai/resources/blog/scaling-monosemanticity-extracting-interpretable-features-from-claude-3-sonnet</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Extracting Interpretable Features from Claude 3 SonnetThe Anthropic research team managed to extract interpretable features from the acti...</p></details>
+   Link:<a href="https://tryalign.ai/resources/blog/scaling-monosemanticity-extracting-interpretable-features-from-claude-3-sonnet" target="_blank" rel="noopener noreferrer nofollow">https://tryalign.ai/resources/blog/scaling-monosemanticity-extracting-interpretable-features-from-claude-3-sonnet</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Extracting Interpretable Features from Claude 3 SonnetThe Anthropic research team managed to extract interpretable features from the acti...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Futurology/comments/13d8m62/language_models_can_explain_neurons_in_language/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/13d8m62/language_models_can_explain_neurons_in_language/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Language models can explain neurons in language modelsWe propose an automated process that uses GPT-4 to produce and score natural langua...</p></details>
+   Link:<a href="https://www.reddit.com/r/Futurology/comments/13d8m62/language_models_can_explain_neurons_in_language/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/13d8m62/language_models_can_explain_neurons_in_language/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Language models can explain neurons in language modelsWe propose an automated process that uses GPT-4 to produce and score natural langua...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: krmopuri.github.io  
-   Link: <a href="https://krmopuri.github.io/xml/static_files/presentations/MI-Pranav.pdf" target="_blank" rel="noopener noreferrer nofollow">https://krmopuri.github.io/xml/static_files/presentations/MI-Pranav.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanistic InterpretabilityGPT circuits are understood as compositions of two “atomic” circuits, the “query-key” and. “output-value” cir...</p></details>
+   Link:<a href="https://krmopuri.github.io/xml/static_files/presentations/MI-Pranav.pdf" target="_blank" rel="noopener noreferrer nofollow">https://krmopuri.github.io/xml/static_files/presentations/MI-Pranav.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanistic InterpretabilityGPT circuits are understood as compositions of two “atomic” circuits, the “query-key” and. “output-value” cir...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/thedeephub/understanding-the-scaling-of-monosemanticity-in-ai-models-a-comprehensive-analysis-f72818fa44ca" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/thedeephub/understanding-the-scaling-of-monosemanticity-in-ai-models-a-comprehensive-analysis-f72818fa44ca</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the “Scaling of Monosemanticity” in AI ModelsA particular aspect of AI is called monosemanticity, where parts of an AI syst...</p></details>
+   Link:<a href="https://medium.com/thedeephub/understanding-the-scaling-of-monosemanticity-in-ai-models-a-comprehensive-analysis-f72818fa44ca" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/thedeephub/understanding-the-scaling-of-monosemanticity-in-ai-models-a-comprehensive-analysis-f72818fa44ca</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the “Scaling of Monosemanticity” in AI ModelsA particular aspect of AI is called monosemanticity, where parts of an AI syst...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: lsd-project.jp  
-   Link: <a href="https://lsd-project.jp/weblsd/o/begin/mechanistic" target="_blank" rel="noopener noreferrer nofollow">https://lsd-project.jp/weblsd/o/begin/mechanistic</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ライフサイエンス辞書: mechanistic機構 の, メカニズム の, 機構的 な. 【類義語】machinery, mechanism, mechanistically, organization. mechanistic insight *** コーパス PubMe...</p></details>
+   Link:<a href="https://lsd-project.jp/weblsd/o/begin/mechanistic" target="_blank" rel="noopener noreferrer nofollow">https://lsd-project.jp/weblsd/o/begin/mechanistic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ライフサイエンス辞書: mechanistic機構 の, メカニズム の, 機構的 な. 【類義語】machinery, mechanism, mechanistically, organization. mechanistic insight *** コーパス PubMe...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/programming/comments/185gcbc/god_help_us_lets_try_to_understand_ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/programming/comments/185gcbc/god_help_us_lets_try_to_understand_ai/</a>  
+   Link:<a href="https://www.reddit.com/r/programming/comments/185gcbc/god_help_us_lets_try_to_understand_ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/programming/comments/185gcbc/god_help_us_lets_try_to_understand_ai/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=XrCq3pQJS6w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XrCq3pQJS6w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ACM AI | Reading Group W24W5 | Mechanistic Interpretability...This week, with William Zhou, we take a deep dive into mechanistic intepre...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=XrCq3pQJS6w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XrCq3pQJS6w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ACM AI | Reading Group W24W5 | Mechanistic Interpretability...This week, with William Zhou, we take a deep dive into mechanistic intepre...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=vFdVrX503W0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vFdVrX503W0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Language Models Can Explain Neurons in Language ModelsIn this paper reading we discuss OpenAI&#x27;s paper &quot;Language Models Can Explain Neuron...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vFdVrX503W0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vFdVrX503W0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Language Models Can Explain Neurons in Language ModelsIn this paper reading we discuss OpenAI&#x27;s paper &quot;Language Models Can Explain Neuron...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=qMBWbJQ3b2g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qMBWbJQ3b2g</a>
+   Link:<a href="https://www.youtube.com/watch?v=qMBWbJQ3b2g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qMBWbJQ3b2g</a>

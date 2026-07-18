@@ -269,10 +269,10 @@ image: /assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_cyber_atta_082
 
 ## Introduction
 
-The central question in the zero-day exploit race is simple: can defenders patch vulnerabilities before attackers turn them into working attacks? AI is beginning to change the answer. For decades, cyber defence relied heavily on time. Once a vulnerability was disclosed, organisations had a window—sometimes weeks, sometimes months—to understand the flaw, create patches, test systems and deploy updates. AI-assisted vulnerability research and exploit development threaten to compress that window dramatically. Recent assessments from the UK's National Cyber Security Centre (NCSC) argue that the gap between disclosure and exploitation, already measured in days for many important vulnerabilities, is likely to shrink further as AI systems become more capable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsc.gov.uk">[National Cyber Security Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsc.gov.uk</span><span class="citation-popover-title">impact ai cyber threat now 2027</span><span class="citation-popover-snippet">National Cyber Security CentreImpact of AI on cyber threat from now to 20277 May 2025 — By 2027, AI-enabled tools will almost certainly e...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+The central question in the zero-day exploit race is simple: can defenders patch vulnerabilities before attackers turn them into working attacks? AI is beginning to change the answer. For decades, cyber defence relied heavily on time. Once a vulnerability was disclosed, organisations had a window—sometimes weeks, sometimes months—to understand the flaw, create patches, test systems and deploy updates. AI-assisted vulnerability research and exploit development threaten to compress that window dramatically. Recent assessments from the UK's National Cyber Security Centre (NCSC) argue that the gap between disclosure and exploitation, already measured in days for many important vulnerabilities, is likely to shrink further as AI systems become more capable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsc.gov.uk">[National Cyber Security Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsc.gov.uk</span><span class="citation-popover-title">impact ai cyber threat now 2027</span><span class="citation-popover-snippet">National Cyber Security CentreImpact of AI on cyber threat from now to 20277 May 2025 — By 2027, AI-enabled tools will almost certainly e...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_cyber_atta_082acc_ai_zero_day_e_517257-Illustration-1-dark.svg" | relative_url }}" alt="Exploit race illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_cyber_atta_082acc_ai_zero_day_e_517257-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_cyber_atta_082acc_ai_zero_day_e_517257-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader AI doom debate, this matters because cyber defence is one of the foundations of modern society. If advanced AI systems enable attackers to discover, weaponise and deploy exploits at machine speed, defenders may increasingly struggle to keep critical infrastructure, governments and major companies secure. Whether that dynamic could contribute to larger loss-of-control scenarios remains highly contested, but the mechanism itself—the shortening of the exploit race—is one of the more concrete pathways through which AI could amplify cyber risk. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsc.gov.uk">[National Cyber Security Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsc.gov.uk</span><span class="citation-popover-title">impact ai cyber threat now 2027</span><span class="citation-popover-snippet">National Cyber Security CentreImpact of AI on cyber threat from now to 20277 May 2025 — By 2027, AI-enabled tools will almost certainly e...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+Within the broader AI doom debate, this matters because cyber defence is one of the foundations of modern society. If advanced AI systems enable attackers to discover, weaponise and deploy exploits at machine speed, defenders may increasingly struggle to keep critical infrastructure, governments and major companies secure. Whether that dynamic could contribute to larger loss-of-control scenarios remains highly contested, but the mechanism itself—the shortening of the exploit race—is one of the more concrete pathways through which AI could amplify cyber risk.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsc.gov.uk">[National Cyber Security Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsc.gov.uk</span><span class="citation-popover-title">impact ai cyber threat now 2027</span><span class="citation-popover-snippet">National Cyber Security CentreImpact of AI on cyber threat from now to 20277 May 2025 — By 2027, AI-enabled tools will almost certainly e...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 ## Why exploit timelines are shrinking
 
@@ -280,11 +280,11 @@ A zero-day vulnerability is a software flaw that defenders do not yet know about
 
 AI changes that bottleneck in several ways at once.
 
-First, modern models can analyse large codebases far faster than individual researchers. Rather than manually reviewing thousands of files, an AI system can examine extensive software projects, identify suspicious logic and suggest likely attack paths. The NCSC has warned that AI-enabled tools are likely to enhance vulnerability research and exploitation, increasing the speed with which attackers can act after vulnerabilities become known. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsc.gov.uk">[National Cyber Security Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsc.gov.uk</span><span class="citation-popover-title">impact ai cyber threat now 2027</span><span class="citation-popover-snippet">National Cyber Security CentreImpact of AI on cyber threat from now to 20277 May 2025 — By 2027, AI-enabled tools will almost certainly e...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+First, modern models can analyse large codebases far faster than individual researchers. Rather than manually reviewing thousands of files, an AI system can examine extensive software projects, identify suspicious logic and suggest likely attack paths. The NCSC has warned that AI-enabled tools are likely to enhance vulnerability research and exploitation, increasing the speed with which attackers can act after vulnerabilities become known.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsc.gov.uk">[National Cyber Security Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsc.gov.uk</span><span class="citation-popover-title">impact ai cyber threat now 2027</span><span class="citation-popover-snippet">National Cyber Security CentreImpact of AI on cyber threat from now to 20277 May 2025 — By 2027, AI-enabled tools will almost certainly e...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
-Second, AI can help bridge the difficult gap between discovering a flaw and producing a working exploit. That step often requires understanding how software behaves in practice, adapting to security defences and iteratively refining attack techniques. Recent research benchmarks such as ExploitGym suggest that frontier AI systems can already produce working exploits for a meaningful subset of real-world vulnerabilities, although their performance remains far from perfect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.11086" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">ExploitGym: Can AI Agents Turn Security Vulnerabilities into Real Attacks?May 11, 2026...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
+Second, AI can help bridge the difficult gap between discovering a flaw and producing a working exploit. That step often requires understanding how software behaves in practice, adapting to security defences and iteratively refining attack techniques. Recent research benchmarks such as ExploitGym suggest that frontier AI systems can already produce working exploits for a meaningful subset of real-world vulnerabilities, although their performance remains far from perfect.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.11086" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">ExploitGym: Can AI Agents Turn Security Vulnerabilities into Real Attacks?May 11, 2026...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
 
-Third, AI can operate continuously. Human researchers need sleep, coordination and time to move between tasks. AI systems can search, test and refine candidate exploits around the clock, potentially examining thousands of targets in parallel. This does not guarantee success, but it changes the economics of offensive cyber operations by making large-scale experimentation cheaper and faster. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsc.gov.uk">[National Cyber Security Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsc.gov.uk</span><span class="citation-popover-title">impact ai cyber threat now 2027</span><span class="citation-popover-snippet">National Cyber Security CentreImpact of AI on cyber threat from now to 20277 May 2025 — By 2027, AI-enabled tools will almost certainly e...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+Third, AI can operate continuously. Human researchers need sleep, coordination and time to move between tasks. AI systems can search, test and refine candidate exploits around the clock, potentially examining thousands of targets in parallel. This does not guarantee success, but it changes the economics of offensive cyber operations by making large-scale experimentation cheaper and faster.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsc.gov.uk">[National Cyber Security Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsc.gov.uk</span><span class="citation-popover-title">impact ai cyber threat now 2027</span><span class="citation-popover-snippet">National Cyber Security CentreImpact of AI on cyber threat from now to 20277 May 2025 — By 2027, AI-enabled tools will almost certainly e...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 The result is not necessarily a sudden leap from "safe" to "unsafe". Instead, the concern is a steady compression of timelines. A process that once took months may take weeks; one that took weeks may take days; one that took days may take hours.
 
@@ -294,7 +294,7 @@ The result is not necessarily a sudden leap from "safe" to "unsafe". Instead, th
 
 The most important effect is not merely that attackers become more capable. It is that defenders lose time.
 
-Cybersecurity has long depended on a race between disclosure and exploitation. When a vulnerability becomes public, organisations rush to patch systems before attackers can build and distribute exploit code. The NCSC notes that this race already operates on timescales of days for many vulnerabilities and expects AI to reduce those timelines further. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsc.gov.uk">[National Cyber Security Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsc.gov.uk</span><span class="citation-popover-title">impact ai cyber threat now 2027</span><span class="citation-popover-snippet">National Cyber Security CentreImpact of AI on cyber threat from now to 20277 May 2025 — By 2027, AI-enabled tools will almost certainly e...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+Cybersecurity has long depended on a race between disclosure and exploitation. When a vulnerability becomes public, organisations rush to patch systems before attackers can build and distribute exploit code. The NCSC notes that this race already operates on timescales of days for many vulnerabilities and expects AI to reduce those timelines further.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsc.gov.uk">[National Cyber Security Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsc.gov.uk</span><span class="citation-popover-title">impact ai cyber threat now 2027</span><span class="citation-popover-snippet">National Cyber Security CentreImpact of AI on cyber threat from now to 20277 May 2025 — By 2027, AI-enabled tools will almost certainly e...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 This creates several pressures:
 
@@ -307,13 +307,13 @@ This creates several pressures:
 
 </div>
 
-One striking illustration comes from recent industry efforts to quantify the changing landscape. The "Zero-Day Clock" project argues that average exploitation timelines have collapsed over recent years and may continue shrinking as AI-assisted vulnerability research improves. While such projections should be treated cautiously, they capture a widely shared concern: the traditional assumption that defenders have substantial time after disclosure is becoming less reliable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tomshardware.com/tech-industry/cyber-security/zero-day-clock-visualizes-and-quantifies-the-effects-of-ai-on-software-security-time-until-exploit-went-from-one-year-to-one-day-and-projected-to-be-one-minute-soon-enough" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tomshardware.com">[Tom&#x27;s Hardware]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tomshardware.com</span><span class="citation-popover-snippet">Created by Sergej Epp from Sysdig and supported by major tech firms, ZDC demonstrates how artificial intelligence has reduced the average...</span></span></span>
+One striking illustration comes from recent industry efforts to quantify the changing landscape. The "Zero-Day Clock" project argues that average exploitation timelines have collapsed over recent years and may continue shrinking as AI-assisted vulnerability research improves. While such projections should be treated cautiously, they capture a widely shared concern: the traditional assumption that defenders have substantial time after disclosure is becoming less reliable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tomshardware.com/tech-industry/cyber-security/zero-day-clock-visualizes-and-quantifies-the-effects-of-ai-on-software-security-time-until-exploit-went-from-one-year-to-one-day-and-projected-to-be-one-minute-soon-enough" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tomshardware.com">[Tom&#x27;s Hardware]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tomshardware.com</span><span class="citation-popover-snippet">Created by Sergej Epp from Sysdig and supported by major tech firms, ZDC demonstrates how artificial intelligence has reduced the average...</span></span></span>
 
 ## A concrete example: AI-assisted zero-day development
 
-The debate moved beyond theory in 2026 when Google Threat Intelligence Group reported what it described as the first observed case of threat actors using AI to discover and weaponise a zero-day vulnerability. According to Google's analysis, attackers identified a logic flaw that allowed two-factor authentication to be bypassed in a widely used administration tool. Researchers argued that the vulnerability involved contextual reasoning about software behaviour rather than the sort of bug that conventional automated scanners typically find. blog.google SecurityWeek The significance of this incident was not that AI independently conducted an entire attack. Rather <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.securityweek.com/google-detects-first-ai-generated-zero-day-exploit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: securityweek.com">[securityweek.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">securityweek.com</span><span class="citation-popover-snippet">Google Detects First AI-Generated Zero-Day Exploit6 hours ago — For the first time, Google has identified a zero-day exploit believed to...</span></span></span>, it suggested that AI could contribute meaningfully to one of the most difficult stages of cyber operations: discovering and understanding subtle vulnerabilities that require reasoning about developer intent and system logic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.csoonline.com/article/4169046/google-discovers-weaponized-zero-day-exploits-created-with-ai.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csoonline.com">[CSO Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csoonline.com</span><span class="citation-popover-title">google discovers weaponized zero day exploits created with ai</span><span class="citation-popover-snippet">threats, and managing identity protection. Credit: Summit Art Creations / Shutterstock. The Google Threat Intelligence Group (GTIG) today...</span></span></span>
+The debate moved beyond theory in 2026 when Google Threat Intelligence Group reported what it described as the first observed case of threat actors using AI to discover and weaponise a zero-day vulnerability. According to Google's analysis, attackers identified a logic flaw that allowed two-factor authentication to be bypassed in a widely used administration tool. Researchers argued that the vulnerability involved contextual reasoning about software behaviour rather than the sort of bug that conventional automated scanners typically find. blog.google SecurityWeek The significance of this incident was not that AI independently conducted an entire attack. Rather<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.securityweek.com/google-detects-first-ai-generated-zero-day-exploit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: securityweek.com">[securityweek.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">securityweek.com</span><span class="citation-popover-snippet">Google Detects First AI-Generated Zero-Day Exploit6 hours ago — For the first time, Google has identified a zero-day exploit believed to...</span></span></span>, it suggested that AI could contribute meaningfully to one of the most difficult stages of cyber operations: discovering and understanding subtle vulnerabilities that require reasoning about developer intent and system logic.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.csoonline.com/article/4169046/google-discovers-weaponized-zero-day-exploits-created-with-ai.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csoonline.com">[CSO Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csoonline.com</span><span class="citation-popover-title">google discovers weaponized zero day exploits created with ai</span><span class="citation-popover-snippet">threats, and managing identity protection. Credit: Summit Art Creations / Shutterstock. The Google Threat Intelligence Group (GTIG) today...</span></span></span>
 
-For AI doom discussions, examples like this attract attention because they hint at a future in which vulnerability discovery and exploit creation become increasingly automated. If highly capable systems can repeatedly find and weaponise flaws faster than defenders can respond, cyber operations could become more scalable and less dependent on scarce human expertise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/google-threat-intelligence-group-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.google">[blog.google]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.google</span><span class="citation-popover-snippet">Today we&#x27;re releasing a report that details the latest observations from Google Threat Intelligence...Read more...</span></span></span>
+For AI doom discussions, examples like this attract attention because they hint at a future in which vulnerability discovery and exploit creation become increasingly automated. If highly capable systems can repeatedly find and weaponise flaws faster than defenders can respond, cyber operations could become more scalable and less dependent on scarce human expertise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/google-threat-intelligence-group-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.google">[blog.google]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.google</span><span class="citation-popover-snippet">Today we&#x27;re releasing a report that details the latest observations from Google Threat Intelligence...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_cyber_atta_082acc_ai_zero_day_e_517257-Illustration-2-dark.svg" | relative_url }}" alt="Exploit race illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_cyber_atta_082acc_ai_zero_day_e_517257-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_cyber_atta_082acc_ai_zero_day_e_517257-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why this matters for existential-risk arguments
@@ -327,7 +327,7 @@ Several pathways are often discussed:
 * Automated [exploit discovery]({{ 'exploit-discovery/' | relative_url }}) could undermine confidence in critical digital systems during periods of geopolitical instability.
 * AI systems could become force multipliers for small groups, allowing them to conduct cyber operations previously requiring large teams of experts.
 
-These concerns involve substantial speculation. There is currently no evidence that existing AI systems can autonomously conduct the kinds of large-scale cyber campaigns envisioned in stronger AI doom scenarios. However, many researchers view exploit automation as an important enabling capability that could become more significant if AI systems continue to improve in reasoning, planning and [autonomy]({{ 'autonomy/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsc.gov.uk">[National Cyber Security Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsc.gov.uk</span><span class="citation-popover-title">impact ai cyber threat now 2027</span><span class="citation-popover-snippet">National Cyber Security CentreImpact of AI on cyber threat from now to 20277 May 2025 — By 2027, AI-enabled tools will almost certainly e...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+These concerns involve substantial speculation. There is currently no evidence that existing AI systems can autonomously conduct the kinds of large-scale cyber campaigns envisioned in stronger AI doom scenarios. However, many researchers view exploit automation as an important enabling capability that could become more significant if AI systems continue to improve in reasoning, planning and [autonomy]({{ 'autonomy/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsc.gov.uk">[National Cyber Security Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsc.gov.uk</span><span class="citation-popover-title">impact ai cyber threat now 2027</span><span class="citation-popover-snippet">National Cyber Security CentreImpact of AI on cyber threat from now to 20277 May 2025 — By 2027, AI-enabled tools will almost certainly e...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/15-IadRzSVw" title="The Zero-Day Clock: How AI Shrank Exploit Times from Months to Hours" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=15-IadRzSVw" target="_blank" rel="noopener noreferrer">The Zero-Day Clock: How AI Shrank Exploit Times from Months to Hours</a></p><p class="youtube-embed-meta">Channel: Cloud Security Podcast &middot; Views: 11.5K &middot; Uploaded: April 2026 &middot; Length: 50 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=15-IadRzSVw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=15-IadRzSVw">Open on YouTube</a></p></div></div></div>
 
@@ -337,20 +337,20 @@ Despite growing concern, several important uncertainties remain.
 
 ### Current AI systems still struggle with many exploits
 
-Research benchmarks show meaningful progress, but they also reveal limitations. Even strong frontier models fail on many real-world exploitation tasks. Exploit development often requires adapting to unexpected system behaviour, understanding complex environments and overcoming multiple layers of defence. Human experts still outperform AI in many difficult cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.11086" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">ExploitGym: Can AI Agents Turn Security Vulnerabilities into Real Attacks?May 11, 2026...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
+Research benchmarks show meaningful progress, but they also reveal limitations. Even strong frontier models fail on many real-world exploitation tasks. Exploit development often requires adapting to unexpected system behaviour, understanding complex environments and overcoming multiple layers of defence. Human experts still outperform AI in many difficult cases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.11086" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">ExploitGym: Can AI Agents Turn Security Vulnerabilities into Real Attacks?May 11, 2026...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
 
 ### Defensive AI is improving too
 
-The same technologies that help attackers can help defenders. The NCSC has argued that frontier AI may improve vulnerability discovery, system hardening, security testing and threat detection. If defensive deployment keeps pace with offensive deployment, the overall balance may not shift as dramatically as some fear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsc.gov.uk">[National Cyber Security Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsc.gov.uk</span><span class="citation-popover-title">impact ai cyber threat now 2027</span><span class="citation-popover-snippet">National Cyber Security CentreImpact of AI on cyber threat from now to 20277 May 2025 — By 2027, AI-enabled tools will almost certainly e...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+The same technologies that help attackers can help defenders. The NCSC has argued that frontier AI may improve vulnerability discovery, system hardening, security testing and threat detection. If defensive deployment keeps pace with offensive deployment, the overall balance may not shift as dramatically as some fear.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsc.gov.uk">[National Cyber Security Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsc.gov.uk</span><span class="citation-popover-title">impact ai cyber threat now 2027</span><span class="citation-popover-snippet">National Cyber Security CentreImpact of AI on cyber threat from now to 20277 May 2025 — By 2027, AI-enabled tools will almost certainly e...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_cyber_atta_082acc_ai_zero_day_e_517257-Illustration-3-dark.svg" | relative_url }}" alt="Exploit race illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_cyber_atta_082acc_ai_zero_day_e_517257-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_cyber_atta_082acc_ai_zero_day_e_517257-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Real-world measurements are difficult
 
-Claims about exploit timelines shrinking from months to days or even minutes are attention-grabbing, but measuring exploitation speed across the entire internet is inherently challenging. Different vulnerability classes, software ecosystems and attacker groups behave differently. Some vulnerabilities are exploited immediately; others are never exploited at all. Projections about future timelines therefore contain considerable [uncertainty]({{ 'uncertainty/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tomshardware.com/tech-industry/cyber-security/zero-day-clock-visualizes-and-quantifies-the-effects-of-ai-on-software-security-time-until-exploit-went-from-one-year-to-one-day-and-projected-to-be-one-minute-soon-enough" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tomshardware.com">[Tom&#x27;s Hardware]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tomshardware.com</span><span class="citation-popover-snippet">Created by Sergej Epp from Sysdig and supported by major tech firms, ZDC demonstrates how artificial intelligence has reduced the average...</span></span></span>
+Claims about exploit timelines shrinking from months to days or even minutes are attention-grabbing, but measuring exploitation speed across the entire internet is inherently challenging. Different vulnerability classes, software ecosystems and attacker groups behave differently. Some vulnerabilities are exploited immediately; others are never exploited at all. Projections about future timelines therefore contain considerable [uncertainty]({{ 'uncertainty/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tomshardware.com/tech-industry/cyber-security/zero-day-clock-visualizes-and-quantifies-the-effects-of-ai-on-software-security-time-until-exploit-went-from-one-year-to-one-day-and-projected-to-be-one-minute-soon-enough" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tomshardware.com">[Tom&#x27;s Hardware]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tomshardware.com</span><span class="citation-popover-snippet">Created by Sergej Epp from Sysdig and supported by major tech firms, ZDC demonstrates how artificial intelligence has reduced the average...</span></span></span>
 
 ### The jump from cyber risk to existential risk remains debated
 
-Even researchers who worry about AI-enabled cyberattacks disagree about how directly they connect to AI doom. Some view exploit automation as a serious but manageable cybersecurity problem. Others see it as one component of a broader picture in which increasingly capable AI systems erode human control across multiple domains simultaneously. The disagreement is less about whether AI can accelerate cyber operations and more about how far those capabilities could eventually scale. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsc.gov.uk">[National Cyber Security Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsc.gov.uk</span><span class="citation-popover-title">impact ai cyber threat now 2027</span><span class="citation-popover-snippet">National Cyber Security CentreImpact of AI on cyber threat from now to 20277 May 2025 — By 2027, AI-enabled tools will almost certainly e...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+Even researchers who worry about AI-enabled cyberattacks disagree about how directly they connect to AI doom. Some view exploit automation as a serious but manageable cybersecurity problem. Others see it as one component of a broader picture in which increasingly capable AI systems erode human control across multiple domains simultaneously. The disagreement is less about whether AI can accelerate cyber operations and more about how far those capabilities could eventually scale.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsc.gov.uk">[National Cyber Security Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsc.gov.uk</span><span class="citation-popover-title">impact ai cyber threat now 2027</span><span class="citation-popover-snippet">National Cyber Security CentreImpact of AI on cyber threat from now to 20277 May 2025 — By 2027, AI-enabled tools will almost certainly e...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 ## What warning signs would matter most?
 
@@ -364,274 +364,274 @@ For readers interested in existential-risk arguments, the most important indicat
 * Large-scale autonomous vulnerability research conducted with minimal [human oversight]({{ 'human-oversight/' | relative_url }}).
 * Security organisations consistently failing to patch systems before AI-assisted attacks appear.
 
-None of these thresholds has clearly been crossed yet. However, recent assessments from government agencies, security researchers and major technology companies suggest that the trend is moving in that direction, making the race between disclosure, patching and exploitation an increasingly important part of the broader discussion about advanced AI risk. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.11086" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">ExploitGym: Can AI Agents Turn Security Vulnerabilities into Real Attacks?May 11, 2026...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsc.gov.uk">[3National Cyber Security Centre 3blog.google]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsc.gov.uk</span><span class="citation-popover-title">impact ai cyber threat now 2027</span><span class="citation-popover-snippet">National Cyber Security CentreImpact of AI on cyber threat from now to 20277 May 2025 — By 2027, AI-enabled tools will almost certainly e...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+None of these thresholds has clearly been crossed yet. However, recent assessments from government agencies, security researchers and major technology companies suggest that the trend is moving in that direction, making the race between disclosure, patching and exploitation an increasingly important part of the broader discussion about advanced AI risk.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.11086" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">ExploitGym: Can AI Agents Turn Security Vulnerabilities into Real Attacks?May 11, 2026...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsc.gov.uk">[3National Cyber Security Centre 3blog.google]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsc.gov.uk</span><span class="citation-popover-title">impact ai cyber threat now 2027</span><span class="citation-popover-snippet">National Cyber Security CentreImpact of AI on cyber threat from now to 20277 May 2025 — By 2027, AI-enabled tools will almost certainly e...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EYz2BMtJjQ0" title="Inside the UK’s Cyber Strategy: Richard Horne on Resilience, Risk, and AI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EYz2BMtJjQ0" target="_blank" rel="noopener noreferrer">Inside the UK’s Cyber Strategy: Richard Horne on Resilience, Risk, and AI</a></p><p class="youtube-embed-meta">Channel: McCrary Institute &middot; Views: 1.1K &middot; Uploaded: July 2025 &middot; Length: 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EYz2BMtJjQ0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EYz2BMtJjQ0">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can defenders patch before AI attackers strike?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can defenders patch before AI attackers strike?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sandworm+by+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sandworm on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ujxrDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Sandworm" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sandworm+by+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sandworm">Sandworm</a>
-        </h4>
-        <p class="fr-book-author">By Andy Greenberg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sandworm+by+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sandworm on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ujxrDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Sandworm" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Sandworm+by+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sandworm">Sandworm</a>
+</h4>
+<p class="fr-book-author">By Andy Greenberg</p>
         
-        <p class="fr-book-desc">Illustrates the consequences of advanced offensive cyber capabilities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sandworm+by+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates the consequences of advanced offensive cyber capabilities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Sandworm+by+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
-        </h4>
-        <p class="fr-book-author">By Mustafa Suleyman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
+</h4>
+<p class="fr-book-author">By Mustafa Suleyman</p>
         
-        <p class="fr-book-desc">Discusses AI-enabled threats and governance challenges.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses AI-enabled threats and governance challenges.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is How They Tell Me the World Ends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DvagEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is How They Tell Me the World Ends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is How They Tell Me the World Ends">This Is How They Tell Me the World Ends</a>
-        </h4>
-        <p class="fr-book-author">By Nicole Perlroth</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is How They Tell Me the World Ends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DvagEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is How They Tell Me the World Ends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is How They Tell Me the World Ends">This Is How They Tell Me the World Ends</a>
+</h4>
+<p class="fr-book-author">By Nicole Perlroth</p>
         
-        <p class="fr-book-desc">Directly covers zero-days, exploit markets, and attacker-defender dynamics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers zero-days, exploit markets, and attacker-defender dynamics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Countdown+to+Zero+Day+by+Kim+Zetter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Countdown to Zero Day on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=iBTpnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Countdown to Zero Day" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Countdown+to+Zero+Day+by+Kim+Zetter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Countdown to Zero Day">Countdown to Zero Day</a>
-        </h4>
-        <p class="fr-book-author">By Kim Zetter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Countdown+to+Zero+Day+by+Kim+Zetter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Countdown to Zero Day on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=iBTpnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Countdown to Zero Day" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Countdown+to+Zero+Day+by+Kim+Zetter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Countdown to Zero Day">Countdown to Zero Day</a>
+</h4>
+<p class="fr-book-author">By Kim Zetter</p>
         
-        <p class="fr-book-desc">Classic examination of sophisticated exploit development and deployment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Countdown+to+Zero+Day+by+Kim+Zetter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Classic examination of sophisticated exploit development and deployment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Countdown+to+Zero+Day+by+Kim+Zetter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sandworm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sandworm</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is How They Tell Me the World Ends</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Sandworm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sandworm</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is How They Tell Me the World Ends</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI Artificial Intelligence Data Scientist Saying T-Shirt"><img src="{{ '/assets/images/marketplace-covers/0fae603d8a6ff7ba8ab6.jpg' | relative_url }}" alt="Listing image for AI Artificial Intelligence Data Scientist Saying T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">AI Artificial Intelligence Data Scientist Saying T-Shirt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence t shirt">Search <span data-ebay-domain-label>eBay.com</span>: artificial intelligence t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI Artificial Intelligence Data Scientist Saying T-Shirt"><img src="{{ '/assets/images/marketplace-covers/0fae603d8a6ff7ba8ab6.jpg' | relative_url }}" alt="Listing image for AI Artificial Intelligence Data Scientist Saying T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">AI Artificial Intelligence Data Scientist Saying T-Shirt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence t shirt">Search<span data-ebay-domain-label>eBay.com</span>: artificial intelligence t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Saying T-shirt AI Mens T-shirts Mens Graphic Tees Artificial Intelligence"><img src="{{ '/assets/images/marketplace-covers/0bc64f8ea64b8fbfe9b2.jpg' | relative_url }}" alt="Listing image for Funny Saying T-shirt AI Mens T-shirts Mens Graphic Tees Artificial Intelligence" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Funny Saying T-shirt AI Mens T-shirts Mens Graphic Tees Artificial Intelligence</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence t shirt">Search <span data-ebay-domain-label>eBay.com</span>: artificial intelligence t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Saying T-shirt AI Mens T-shirts Mens Graphic Tees Artificial Intelligence"><img src="{{ '/assets/images/marketplace-covers/0bc64f8ea64b8fbfe9b2.jpg' | relative_url }}" alt="Listing image for Funny Saying T-shirt AI Mens T-shirts Mens Graphic Tees Artificial Intelligence" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Funny Saying T-shirt AI Mens T-shirts Mens Graphic Tees Artificial Intelligence</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence t shirt">Search<span data-ebay-domain-label>eBay.com</span>: artificial intelligence t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nerd Life T Shirt STEM Computer Hacker Code Robotics Artificial Intelligence Tee"><img src="{{ '/assets/images/marketplace-covers/a9e20afd58cc37dc0a8b.jpg' | relative_url }}" alt="Listing image for Nerd Life T Shirt STEM Computer Hacker Code Robotics Artificial Intelligence Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Nerd Life T Shirt STEM Computer Hacker Code Robotics Artificial Intelligence Tee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence t shirt">Search <span data-ebay-domain-label>eBay.com</span>: artificial intelligence t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nerd Life T Shirt STEM Computer Hacker Code Robotics Artificial Intelligence Tee"><img src="{{ '/assets/images/marketplace-covers/a9e20afd58cc37dc0a8b.jpg' | relative_url }}" alt="Listing image for Nerd Life T Shirt STEM Computer Hacker Code Robotics Artificial Intelligence Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Nerd Life T Shirt STEM Computer Hacker Code Robotics Artificial Intelligence Tee</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence t shirt">Search<span data-ebay-domain-label>eBay.com</span>: artificial intelligence t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI Enthusiast Artificial Intelligence Funny T-Shirt"><img src="{{ '/assets/images/marketplace-covers/2dfae633eca7747712ea.jpg' | relative_url }}" alt="Listing image for AI Enthusiast Artificial Intelligence Funny T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">AI Enthusiast Artificial Intelligence Funny T-Shirt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence t shirt">Search <span data-ebay-domain-label>eBay.com</span>: artificial intelligence t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI Enthusiast Artificial Intelligence Funny T-Shirt"><img src="{{ '/assets/images/marketplace-covers/2dfae633eca7747712ea.jpg' | relative_url }}" alt="Listing image for AI Enthusiast Artificial Intelligence Funny T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">AI Enthusiast Artificial Intelligence Funny T-Shirt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence t shirt">Search<span data-ebay-domain-label>eBay.com</span>: artificial intelligence t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-artificial-intelligence-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cybersecurity Flowchart Solution Fr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/afd1854bdddcb175a25e.jpg' | relative_url }}" alt="Listing image for Cybersecurity Flowchart Solution Fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Cybersecurity Flowchart Solution Fr Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cybersecurity Flowchart Solution Fr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/afd1854bdddcb175a25e.jpg' | relative_url }}" alt="Listing image for Cybersecurity Flowchart Solution Fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Cybersecurity Flowchart Solution Fr Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for cybersecurity beware session cookie Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/0a0d82cd852bae70b3ee.jpg' | relative_url }}" alt="Listing image for cybersecurity beware session cookie Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">cybersecurity beware session cookie Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for cybersecurity beware session cookie Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/0a0d82cd852bae70b3ee.jpg' | relative_url }}" alt="Listing image for cybersecurity beware session cookie Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">cybersecurity beware session cookie Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cybersecurity Because People Click Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1b5a859231102f0df50c.jpg' | relative_url }}" alt="Listing image for Cybersecurity Because People Click Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Cybersecurity Because People Click Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cybersecurity Because People Click Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1b5a859231102f0df50c.jpg' | relative_url }}" alt="Listing image for Cybersecurity Because People Click Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Cybersecurity Because People Click Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Advanced Cybersecurity Concept Visu Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/dee93b356983a4b1a8ee.jpg' | relative_url }}" alt="Listing image for Advanced Cybersecurity Concept Visu Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Advanced Cybersecurity Concept Visu Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Advanced Cybersecurity Concept Visu Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/dee93b356983a4b1a8ee.jpg' | relative_url }}" alt="Listing image for Advanced Cybersecurity Concept Visu Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Advanced Cybersecurity Concept Visu Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exploit-race-can-defenders-patch-before-ai-attackers-strike-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -647,7 +647,7 @@ None of these thresholds has clearly been crossed yet. However, recent assessmen
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -667,7 +667,7 @@ None of these thresholds has clearly been crossed yet. However, recent assessmen
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -699,7 +699,7 @@ None of these thresholds has clearly been crossed yet. However, recent assessmen
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -729,7 +729,7 @@ None of these thresholds has clearly been crossed yet. However, recent assessmen
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -787,170 +787,170 @@ None of these thresholds has clearly been crossed yet. However, recent assessmen
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2605.11086" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.11086</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ExploitGym: Can AI Agents Turn Security Vulnerabilities into Real Attacks?May 11, 2026...</p></details>
+   Link:<a href="https://arxiv.org/abs/2605.11086" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.11086</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ExploitGym: Can AI Agents Turn Security Vulnerabilities into Real Attacks?May 11, 2026...</p></details>
    Published: May 11, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2503.17332" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2503.17332</a>  
+   Link:<a href="https://arxiv.org/abs/2503.17332" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2503.17332</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2506.02548" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2506.02548</a>  
+   Link:<a href="https://arxiv.org/abs/2506.02548" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2506.02548</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: blog.google  
-   Link: <a href="https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/google-threat-intelligence-group-report/" target="_blank" rel="noopener noreferrer nofollow">https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/google-threat-intelligence-group-report/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Today we&#x27;re releasing a report that details the latest observations from Google Threat Intelligence...Read more...</p></details>
+   Link:<a href="https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/google-threat-intelligence-group-report/" target="_blank" rel="noopener noreferrer nofollow">https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/google-threat-intelligence-group-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Today we&#x27;re releasing a report that details the latest observations from Google Threat Intelligence...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: securityweek.com  
-   Link: <a href="https://www.securityweek.com/google-detects-first-ai-generated-zero-day-exploit/" target="_blank" rel="noopener noreferrer nofollow">https://www.securityweek.com/google-detects-first-ai-generated-zero-day-exploit/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google Detects First AI-Generated Zero-Day Exploit6 hours ago — For the first time, Google has identified a zero-day exploit believed to...</p></details>
+   Link:<a href="https://www.securityweek.com/google-detects-first-ai-generated-zero-day-exploit/" target="_blank" rel="noopener noreferrer nofollow">https://www.securityweek.com/google-detects-first-ai-generated-zero-day-exploit/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google Detects First AI-Generated Zero-Day Exploit6 hours ago — For the first time, Google has identified a zero-day exploit believed to...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cloud.google.com  
    Title: ai vulnerability exploitation initial access  
-   Link: <a href="https://cloud.google.com/blog/topics/threat-intelligence/ai-vulnerability-exploitation-initial-access" target="_blank" rel="noopener noreferrer nofollow">https://cloud.google.com/blog/topics/threat-intelligence/ai-vulnerability-exploitation-initial-access</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Leverage AI for Vulnerability Exploitation...3 days ago — Google Threat Intelligence. Visibility and context on the threats that matter...</p></details>
+   Link:<a href="https://cloud.google.com/blog/topics/threat-intelligence/ai-vulnerability-exploitation-initial-access" target="_blank" rel="noopener noreferrer nofollow">https://cloud.google.com/blog/topics/threat-intelligence/ai-vulnerability-exploitation-initial-access</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Leverage AI for Vulnerability Exploitation...3 days ago — Google Threat Intelligence. Visibility and context on the threats that matter...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: about.google  
-   Link: <a href="https://about.google/" target="_blank" rel="noopener noreferrer nofollow">https://about.google/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Our products, technology and company...Learn more about Google. Explore our innovative AI products and services, and how we&#x27;re using tec...</p></details>
+   Link:<a href="https://about.google/" target="_blank" rel="noopener noreferrer nofollow">https://about.google/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Our products, technology and company...Learn more about Google. Explore our innovative AI products and services, and how we&#x27;re using tec...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2605.11086v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2605.11086v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ExploitGym: Can AI Agents Turn Security Vulnerabilities...2 days ago — The agent is tasked with transforming the PoV into a working exploit...</p></details>
+   Link:<a href="https://arxiv.org/html/2605.11086v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2605.11086v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ExploitGym: Can AI Agents Turn Security Vulnerabilities...2 days ago — The agent is tasked with transforming the PoV into a working exploit...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2605.06713v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2605.06713v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>actors&#x27; ability to exploit known vulnerabilities and reduce the time...Read more...</p></details>
+   Link:<a href="https://arxiv.org/html/2605.06713v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2605.06713v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>actors&#x27; ability to exploit known vulnerabilities and reduce the time...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2605.11086" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2605.11086</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ExploitGym: Can AI Agents Turn Security Vulnerabilities...by Z Wang · 2026 · Cited by 1 — In contrast, ExploitGym provides a unified and...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2605.11086" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2605.11086</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ExploitGym: Can AI Agents Turn Security Vulnerabilities...by Z Wang · 2026 · Cited by 1 — In contrast, ExploitGym provides a unified and...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: blog.google  
-   Link: <a href="https://blog.google/" target="_blank" rel="noopener noreferrer nofollow">https://blog.google/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>on the Keyword, Google&#x27;s official blog...</p></details>
+   Link:<a href="https://blog.google/" target="_blank" rel="noopener noreferrer nofollow">https://blog.google/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on the Keyword, Google&#x27;s official blog...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: search.google  
-   Link: <a href="https://search.google/" target="_blank" rel="noopener noreferrer nofollow">https://search.google/</a>  
+   Link:<a href="https://search.google/" target="_blank" rel="noopener noreferrer nofollow">https://search.google/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ncsc.gov.uk  
    Title: impact ai cyber threat now 2027  
-   Link: <a href="https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Cyber Security CentreImpact of AI on cyber threat from now to 20277 May 2025 — By 2027, AI-enabled tools will almost certainly e...</p></details>
+   Link:<a href="https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Cyber Security CentreImpact of AI on cyber threat from now to 20277 May 2025 — By 2027, AI-enabled tools will almost certainly e...</p></details>
    Published: May 2025  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ncsc.gov.uk  
    Title: ai to 2027 threat assessment  
-   Link: <a href="https://www.ncsc.gov.uk/news/ai-to-2027-threat-assessment" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/news/ai-to-2027-threat-assessment</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Cyber Security CentreUK critical systems at increased risk from &#x27;digital divide...7 May 2025 — It warns that, by 2027, AI-enabl...</p></details>
+   Link:<a href="https://www.ncsc.gov.uk/news/ai-to-2027-threat-assessment" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/news/ai-to-2027-threat-assessment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Cyber Security CentreUK critical systems at increased risk from &#x27;digital divide...7 May 2025 — It warns that, by 2027, AI-enabl...</p></details>
    Published: May 2025  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ncsc.gov.uk  
    Title: chapter 01 cyber threat to the uk  
-   Link: <a href="https://www.ncsc.gov.uk/collection/ncsc-annual-review-2025/chapter-01-cyber-threat-to-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/collection/ncsc-annual-review-2025/chapter-01-cyber-threat-to-the-uk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 01: Countering the cyber threat14 Oct 2025 — In the last 18 months, security researchers have identified new techniques that expl...</p></details>
+   Link:<a href="https://www.ncsc.gov.uk/collection/ncsc-annual-review-2025/chapter-01-cyber-threat-to-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/collection/ncsc-annual-review-2025/chapter-01-cyber-threat-to-the-uk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 01: Countering the cyber threat14 Oct 2025 — In the last 18 months, security researchers have identified new techniques that expl...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ncsc.gov.uk  
    Title: impact of ai on cyber threat  
-   Link: <a href="https://www.ncsc.gov.uk/report/impact-of-ai-on-cyber-threat" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/report/impact-of-ai-on-cyber-threat</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Cyber Security CentreThe near-term impact of AI on the cyber threat24 Jan 2024 — This assessment focuses on how AI will impact t...</p></details>
+   Link:<a href="https://www.ncsc.gov.uk/report/impact-of-ai-on-cyber-threat" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/report/impact-of-ai-on-cyber-threat</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Cyber Security CentreThe near-term impact of AI on the cyber threat24 Jan 2024 — This assessment focuses on how AI will impact t...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ncsc.gov.uk  
    Title: why cyber defenders need to be ready for frontier ai  
-   Link: <a href="https://www.ncsc.gov.uk/blogs/why-cyber-defenders-need-to-be-ready-for-frontier-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/blogs/why-cyber-defenders-need-to-be-ready-for-frontier-ai</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reducing the attack surface – or system hardening · 2. Improving threat...Read more...</p></details>
+   Link:<a href="https://www.ncsc.gov.uk/blogs/why-cyber-defenders-need-to-be-ready-for-frontier-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/blogs/why-cyber-defenders-need-to-be-ready-for-frontier-ai</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reducing the attack surface – or system hardening · 2. Improving threat...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: tomshardware.com  
-   Link: <a href="https://www.tomshardware.com/tech-industry/cyber-security/zero-day-clock-visualizes-and-quantifies-the-effects-of-ai-on-software-security-time-until-exploit-went-from-one-year-to-one-day-and-projected-to-be-one-minute-soon-enough" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/cyber-security/zero-day-clock-visualizes-and-quantifies-the-effects-of-ai-on-software-security-time-until-exploit-went-from-one-year-to-one-day-and-projected-to-be-one-minute-soon-enough</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Created by Sergej Epp from Sysdig and supported by major tech firms, ZDC demonstrates how artificial intelligence has reduced the average...</p></details>
+   Link:<a href="https://www.tomshardware.com/tech-industry/cyber-security/zero-day-clock-visualizes-and-quantifies-the-effects-of-ai-on-software-security-time-until-exploit-went-from-one-year-to-one-day-and-projected-to-be-one-minute-soon-enough" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/cyber-security/zero-day-clock-visualizes-and-quantifies-the-effects-of-ai-on-software-security-time-until-exploit-went-from-one-year-to-one-day-and-projected-to-be-one-minute-soon-enough</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Created by Sergej Epp from Sysdig and supported by major tech firms, ZDC demonstrates how artificial intelligence has reduced the average...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: csoonline.com  
    Title: google discovers weaponized zero day exploits created with ai  
-   Link: <a href="https://www.csoonline.com/article/4169046/google-discovers-weaponized-zero-day-exploits-created-with-ai.html" target="_blank" rel="noopener noreferrer nofollow">https://www.csoonline.com/article/4169046/google-discovers-weaponized-zero-day-exploits-created-with-ai.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>threats, and managing identity protection. Credit: Summit Art Creations / Shutterstock. The Google Threat Intelligence Group (GTIG) today...</p></details>
+   Link:<a href="https://www.csoonline.com/article/4169046/google-discovers-weaponized-zero-day-exploits-created-with-ai.html" target="_blank" rel="noopener noreferrer nofollow">https://www.csoonline.com/article/4169046/google-discovers-weaponized-zero-day-exploits-created-with-ai.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>threats, and managing identity protection. Credit: Summit Art Creations / Shutterstock. The Google Threat Intelligence Group (GTIG) today...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ncsc.gov.uk  
    Title: retaining defensive advantage in the age of frontier ai cyber capabilities  
-   Link: <a href="https://www.ncsc.gov.uk/blogs/retaining-defensive-advantage-in-the-age-of-frontier-ai-cyber-capabilities" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/blogs/retaining-defensive-advantage-in-the-age-of-frontier-ai-cyber-capabilities</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Respond to a cyber attack. Back. Respond to a cyber...Read more...</p></details>
+   Link:<a href="https://www.ncsc.gov.uk/blogs/retaining-defensive-advantage-in-the-age-of-frontier-ai-cyber-capabilities" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/blogs/retaining-defensive-advantage-in-the-age-of-frontier-ai-cyber-capabilities</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Respond to a cyber attack. Back. Respond to a cyber...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ncsc.gov.uk  
-   Link: <a href="https://www.ncsc.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/</a>  
+   Link:<a href="https://www.ncsc.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Google" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Google</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GoogleGoogle is the largest provider of search engines, mapping and navigation applications, email services, office suites, online vid...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Google" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Google</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GoogleGoogle is the largest provider of search engines, mapping and navigation applications, email services, office suites, online vid...</p></details>
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: axios.com  
-   Link: <a href="https://www.axios.com/2026/05/12/ai-hacking-found-google-report" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2026/05/12/ai-hacking-found-google-report</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-assisted hacking is already here, Google warns3 days ago — Researchers have found the first known case of cybercriminals using AI to e...</p></details>
+   Link:<a href="https://www.axios.com/2026/05/12/ai-hacking-found-google-report" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2026/05/12/ai-hacking-found-google-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI-assisted hacking is already here, Google warns3 days ago — Researchers have found the first known case of cybercriminals using AI to e...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: openreview.net  
-   Link: <a href="https://openreview.net/forum?id=3pk0p4NGmQ" target="_blank" rel="noopener noreferrer nofollow">https://openreview.net/forum?id=3pk0p4NGmQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CVE-Bench: A Benchmark for AI Agents&#x27; Ability to Exploit...by Y Zhu · Cited by 49 — TL;DR: We introduce a cybersecurity benchmark for ev...</p></details>
+   Link:<a href="https://openreview.net/forum?id=3pk0p4NGmQ" target="_blank" rel="noopener noreferrer nofollow">https://openreview.net/forum?id=3pk0p4NGmQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CVE-Bench: A Benchmark for AI Agents&#x27; Ability to Exploit...by Y Zhu · Cited by 49 — TL;DR: We introduce a cybersecurity benchmark for ev...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: machinebrief.com  
-   Link: <a href="https://www.machinebrief.com/news/exploitation-ai-a-double-edged-sword-in-cybersecurity-twou" target="_blank" rel="noopener noreferrer nofollow">https://www.machinebrief.com/news/exploitation-ai-a-double-edged-sword-in-cybersecurity-twou</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploitation AI: A Double-Edged Sword in Cybersecurity9 hours ago — ExploitGym reveals AI&#x27;s dual-use exploitation capabilities, showcasin...</p></details>
+   Link:<a href="https://www.machinebrief.com/news/exploitation-ai-a-double-edged-sword-in-cybersecurity-twou" target="_blank" rel="noopener noreferrer nofollow">https://www.machinebrief.com/news/exploitation-ai-a-double-edged-sword-in-cybersecurity-twou</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exploitation AI: A Double-Edged Sword in Cybersecurity9 hours ago — ExploitGym reveals AI&#x27;s dual-use exploitation capabilities, showcasin...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/max-planck-institute-for-security-and-privacy_exploitgym-can-ai-agents-turn-security-vulnerabilities-activity-7462125428321984514-x-Bn" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/max-planck-institute-for-security-and-privacy_exploitgym-can-ai-agents-turn-security-vulnerabilities-activity-7462125428321984514-x-Bn</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Max Planck Institute for Security and Privacy (MPI-SP)&#x27;s PostHow good are today&#x27;s AI agents at turning known software vulnerabilities int...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/max-planck-institute-for-security-and-privacy_exploitgym-can-ai-agents-turn-security-vulnerabilities-activity-7462125428321984514-x-Bn" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/max-planck-institute-for-security-and-privacy_exploitgym-can-ai-agents-turn-security-vulnerabilities-activity-7462125428321984514-x-Bn</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Max Planck Institute for Security and Privacy (MPI-SP)&#x27;s PostHow good are today&#x27;s AI agents at turning known software vulnerabilities int...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: techradar.com  
-   Link: <a href="https://www.techradar.com/pro/security/this-is-the-tip-of-the-iceberg-google-experts-say-they-have-seen-hackers-using-ai-to-discover-and-weaponize-a-zero-day-for-the-first-time" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/pro/security/this-is-the-tip-of-the-iceberg-google-experts-say-they-have-seen-hackers-using-ai-to-discover-and-weaponize-a-zero-day-for-the-first-time</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This marks a shift from isolated AI-assisted efforts to industrial-scale AI-driven attacks. The vulnerability targeted a widely-used open...</p></details>
+   Link:<a href="https://www.techradar.com/pro/security/this-is-the-tip-of-the-iceberg-google-experts-say-they-have-seen-hackers-using-ai-to-discover-and-weaponize-a-zero-day-for-the-first-time" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/pro/security/this-is-the-tip-of-the-iceberg-google-experts-say-they-have-seen-hackers-using-ai-to-discover-and-weaponize-a-zero-day-for-the-first-time</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This marks a shift from isolated AI-assisted efforts to industrial-scale AI-driven attacks. The vulnerability targeted a widely-used open...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: theverge.com  
-   Link: <a href="https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The exploit targeted an open-source, web-based system administration tool, aiming to bypass two-factor authentication through a logic fla...</p></details>
+   Link:<a href="https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The exploit targeted an open-source, web-based system administration tool, aiming to bypass two-factor authentication through a logic fla...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: infosecurity-magazine.com  
-   Link: <a href="https://www.infosecurity-magazine.com/news/uk-faces-a-cyber-perfect-storm-ncsc/" target="_blank" rel="noopener noreferrer nofollow">https://www.infosecurity-magazine.com/news/uk-faces-a-cyber-perfect-storm-ncsc/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Faces a Cyber &#x27;Perfect Storm&#x27;1 day ago —... cyber risk, the NCSC warns.... threat actors, even with the threats from AI looming,” he...</p></details>
+   Link:<a href="https://www.infosecurity-magazine.com/news/uk-faces-a-cyber-perfect-storm-ncsc/" target="_blank" rel="noopener noreferrer nofollow">https://www.infosecurity-magazine.com/news/uk-faces-a-cyber-perfect-storm-ncsc/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Faces a Cyber &#x27;Perfect Storm&#x27;1 day ago —... cyber risk, the NCSC warns.... threat actors, even with the threats from AI looming,” he...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/davey-mcglade-4b9a62131_impact-of-ai-on-cyber-threat-from-now-to-activity-7325844821523275776-mjE4" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/davey-mcglade-4b9a62131_impact-of-ai-on-cyber-threat-from-now-to-activity-7325844821523275776-mjE4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NCSC report: AI and cyber security to 2027We have published a new assessment on how AI will transform the cyber threat to 2027. Developme...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/davey-mcglade-4b9a62131_impact-of-ai-on-cyber-threat-from-now-to-activity-7325844821523275776-mjE4" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/davey-mcglade-4b9a62131_impact-of-ai-on-cyber-threat-from-now-to-activity-7325844821523275776-mjE4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NCSC report: AI and cyber security to 2027We have published a new assessment on how AI will transform the cyber threat to 2027. Developme...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/google-stops-first-ai-generated-zero-day-why-b3v6e" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/google-stops-first-ai-generated-zero-day-why-b3v6e</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>🚨 Google Stops the First AI-Generated Zero-DayAI security stopped being theoretical this week. Google Threat Intelligence disrupted the f...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/google-stops-first-ai-generated-zero-day-why-b3v6e" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/google-stops-first-ai-generated-zero-day-why-b3v6e</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>🚨 Google Stops the First AI-Generated Zero-DayAI security stopped being theoretical this week. Google Threat Intelligence disrupted the f...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/keith-king-03a172128_ai-is-collapsing-the-cybersecurity-response-activity-7465083322403106816-hEGG" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/keith-king-03a172128_ai-is-collapsing-the-cybersecurity-response-activity-7465083322403106816-hEGG</a>
+   Link:<a href="https://www.linkedin.com/posts/keith-king-03a172128_ai-is-collapsing-the-cybersecurity-response-activity-7465083322403106816-hEGG" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/keith-king-03a172128_ai-is-collapsing-the-cybersecurity-response-activity-7465083322403106816-hEGG</a>

@@ -269,26 +269,26 @@ image: /assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f6
 
 ## Introduction
 
-When organisations lean heavily on AI systems to make, recommend or automate decisions, something less visible but profoundly consequential can happen: **human expertise erodes**. In the context of existential risk from advanced AI systems, this *expertise erosion* isn’t just a workplace learning issue — it can weaken the very capacity of organisations to oversee, contest or correct the systems they depend on. Over time, human judgement and domain knowledge can atrophy as routine cognitive work migrates into opaque automated layers. This creates a *passive [loss of control]({{ 'loss-of-control/' | relative_url }}) through over‑delegation*: humans retain formal authority on paper, but lack the real capability to exercise it. The result is an organisational fragility that amplifies other systemic risks linked to advanced AI. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6610518" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">The Accountability Vacuum: Why Agentic AI Governance Fails Under Conditions of Expertise Erosion by Gabriel Sze:: SSRNApril 20...</span></span></span>
+When organisations lean heavily on AI systems to make, recommend or automate decisions, something less visible but profoundly consequential can happen: **human expertise erodes**. In the context of existential risk from advanced AI systems, this *expertise erosion* isn’t just a workplace learning issue — it can weaken the very capacity of organisations to oversee, contest or correct the systems they depend on. Over time, human judgement and domain knowledge can atrophy as routine cognitive work migrates into opaque automated layers. This creates a *passive [loss of control]({{ 'loss-of-control/' | relative_url }}) through over‑delegation*: humans retain formal authority on paper, but lack the real capability to exercise it. The result is an organisational fragility that amplifies other systemic risks linked to advanced AI.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6610518" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">The Accountability Vacuum: Why Agentic AI Governance Fails Under Conditions of Expertise Erosion by Gabriel Sze:: SSRNApril 20...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca_expertise_ero_23d4c6-Illustration-1-dark.svg" | relative_url }}" alt="Expertise Erosion illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca_expertise_ero_23d4c6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca_expertise_ero_23d4c6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Reliance on AI Weakens Human Judgement
 
-One of the clearest mechanisms by which expertise erosion unfolds is **deskilling** — the process where human capabilities shrink because AI takes over tasks that once sustained and sharpened those capabilities. This is well documented in fields such as medicine, where clinicians repeatedly relying on decision‑support systems can lose diagnostic or interpretive skills over time. In radiology and endoscopy, for example, empirical research has found that physicians’ performance can drop significantly when AI support is removed, indicating that expertise has been weakened through repeated reliance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13015734/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">March 19, 2026...</span><span class="citation-popover-meta">Published: March 19, 2026</span></span></span>
+One of the clearest mechanisms by which expertise erosion unfolds is **deskilling** — the process where human capabilities shrink because AI takes over tasks that once sustained and sharpened those capabilities. This is well documented in fields such as medicine, where clinicians repeatedly relying on decision‑support systems can lose diagnostic or interpretive skills over time. In radiology and endoscopy, for example, empirical research has found that physicians’ performance can drop significantly when AI support is removed, indicating that expertise has been weakened through repeated reliance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13015734/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">March 19, 2026...</span><span class="citation-popover-meta">Published: March 19, 2026</span></span></span>
 
-More broadly, organisational research recognises that routine engagement with complex tasks is a core pathway for **developing and maintaining domain knowledge** and judgement. When AI automates these tasks — from data analysis to strategic planning — staff get fewer opportunities to practise, critique and refine their reasoning. Over time, they may shift from *doing the work* to merely *approving outputs*, undermining deep familiarity with the subject matter and the processes that underlie quality decisions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6526739" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">SSRN The Judgment Vacuum AI, Apprenticeship Collapse, and the Non-Formation of Organisational Go...</span></span></span>
+More broadly, organisational research recognises that routine engagement with complex tasks is a core pathway for **developing and maintaining domain knowledge** and judgement. When AI automates these tasks — from data analysis to strategic planning — staff get fewer opportunities to practise, critique and refine their reasoning. Over time, they may shift from *doing the work* to merely *approving outputs*, undermining deep familiarity with the subject matter and the processes that underlie quality decisions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6526739" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">SSRN The Judgment Vacuum AI, Apprenticeship Collapse, and the Non-Formation of Organisational Go...</span></span></span>
 
-Relatedly, academic work has identified structural conditions such as the *Judgment Vacuum* — where organisations expand AI usage while simultaneously compressing the apprenticeship and [governance]({{ 'governance/' | relative_url }}) pathways that cultivate human judgement. As AI systems displace entry‑level cognitive work, newcomers find fewer opportunities to acquire tacit knowledge, which traditionally serves as the foundation for critical oversight later in careers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6398398" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Use it or Slowly Lose it: Expertise Atrophy with Organizational AI Usage by James Siderius, Robert A. Shumsky, Alva Taylor:: SSRNMa...</span></span></span>
+Relatedly, academic work has identified structural conditions such as the *Judgment Vacuum* — where organisations expand AI usage while simultaneously compressing the apprenticeship and [governance]({{ 'governance/' | relative_url }}) pathways that cultivate human judgement. As AI systems displace entry‑level cognitive work, newcomers find fewer opportunities to acquire tacit knowledge, which traditionally serves as the foundation for critical oversight later in careers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6398398" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Use it or Slowly Lose it: Expertise Atrophy with Organizational AI Usage by James Siderius, Robert A. Shumsky, Alva Taylor:: SSRNMa...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rU-UGcy_Jpg" title="Beyond &quot;Is AI Accurate?&quot; A Practical AI Risk Modeling Playbook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rU-UGcy_Jpg" target="_blank" rel="noopener noreferrer">Beyond &quot;Is AI Accurate?&quot; A Practical AI Risk Modeling Playbook</a></p><p class="youtube-embed-meta">Channel: RISK-ACADEMY - risk management &amp; AI risk analysis &middot; Views: 39 &middot; Uploaded: October 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rU-UGcy_Jpg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rU-UGcy_Jpg">Open on YouTube</a></p></div></div></div>
 
 ## Why Dependency Makes Reversal Harder Over Time
 
-Expertise erosion matters for organisational control because **competent [human oversight]({{ 'human-oversight/' | relative_url }}) depends on human competence**. Many AI governance frameworks assume that a skilled person remains capable of interpreting system behaviour, spotting errors and intervening when needed. But if that capacity has quietly decayed, those assumptions collapse into what some scholars term an *accountability vacuum*: organisations have named responsibilities, but lack people with the competence to exercise them meaningfully. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6814040" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Governance Inversion Hypothesis: Why More AI Regulation May Produce Less Organisational Control by Victor Frimpong:: SSRNMay 22, 2026 —...</span><span class="citation-popover-meta">Published: May 22, 2026</span></span></span>
+Expertise erosion matters for organisational control because **competent [human oversight]({{ 'human-oversight/' | relative_url }}) depends on human competence**. Many AI governance frameworks assume that a skilled person remains capable of interpreting system behaviour, spotting errors and intervening when needed. But if that capacity has quietly decayed, those assumptions collapse into what some scholars term an *accountability vacuum*: organisations have named responsibilities, but lack people with the competence to exercise them meaningfully.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6814040" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Governance Inversion Hypothesis: Why More AI Regulation May Produce Less Organisational Control by Victor Frimpong:: SSRNMay 22, 2026 —...</span><span class="citation-popover-meta">Published: May 22, 2026</span></span></span>
 
-This phenomenon is reinforced by economic incentives: as AI improves efficiency and output quality, organisations have less perceived need to invest in training or to retain staff who could question or challenge automated outcomes. Over time, the workforce becomes **dependently structured**, where fast, AI‑produced results look satisfactory and legitimate, even when they conceal latent errors or bias. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gartner.com/en/articles/ai-lock-in" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gartner.com">[Gartner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gartner.com</span><span class="citation-popover-title">AI Lock-In: Why Skill Loss Puts Your Workforce at Risk &#124; Gartner</span><span class="citation-popover-snippet">AI Lock-In: Why Skill Loss Puts Your Workforce at Risk &#124; Gartner...</span></span></span>
+This phenomenon is reinforced by economic incentives: as AI improves efficiency and output quality, organisations have less perceived need to invest in training or to retain staff who could question or challenge automated outcomes. Over time, the workforce becomes **dependently structured**, where fast, AI‑produced results look satisfactory and legitimate, even when they conceal latent errors or bias.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gartner.com/en/articles/ai-lock-in" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gartner.com">[Gartner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gartner.com</span><span class="citation-popover-title">AI Lock-In: Why Skill Loss Puts Your Workforce at Risk &#124; Gartner</span><span class="citation-popover-snippet">AI Lock-In: Why Skill Loss Puts Your Workforce at Risk &#124; Gartner...</span></span></span>
 
-Moreover, expertise erosion tends to be **latent until it’s too late**. Like skill decay seen when calculators diminish mental arithmetic or navigation apps reduce spatial reasoning, dependency effects can remain invisible until the AI is unavailable, behaves unexpectedly, or must be overridden. At that point, the organisation discovers that a decade of offloading cognitive tasks has also offloaded the human capacity to take them back. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/QuestionClass/comments/1rqv8lp/what_are_the_risks_of_overreliance_on_automation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">what are the risks of overreliance on automation</span><span class="citation-popover-snippet">What are the risks of over-reliance on automation in 2026?March 11, 2026...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span>
+Moreover, expertise erosion tends to be **latent until it’s too late**. Like skill decay seen when calculators diminish mental arithmetic or navigation apps reduce spatial reasoning, dependency effects can remain invisible until the AI is unavailable, behaves unexpectedly, or must be overridden. At that point, the organisation discovers that a decade of offloading cognitive tasks has also offloaded the human capacity to take them back.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/QuestionClass/comments/1rqv8lp/what_are_the_risks_of_overreliance_on_automation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">what are the risks of overreliance on automation</span><span class="citation-popover-snippet">What are the risks of over-reliance on automation in 2026?March 11, 2026...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span>
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca_expertise_ero_23d4c6-Illustration-2-dark.svg" | relative_url }}" alt="Expertise Erosion illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca_expertise_ero_23d4c6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca_expertise_ero_23d4c6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When Erosion Amplifies Loss of Control
@@ -298,7 +298,7 @@ In AI‑dependent organisations, several dynamics make expertise loss a deeper c
 * **[Automation bias]({{ 'automation-bias/' | relative_url }})**: Humans may unconsciously defer to AI outputs, seeing them as definitive even when they are flawed, reducing the incentive to scrutinise or challenge decisions.
 * **Reduced apprenticeship pathways**: With junior and intermediate roles offloaded to AI, the experiential ladder by which people gain deep organisational insight collapses.
 * **Opaque decision structures**: Many modern AI systems embed complex reasoning processes that are inherently hard to interpret, meaning that even experienced staff cannot readily assess why the system did what it did.
-* **Institutional complacency**: Organisations may focus on governance documentation — policies, compliance checklists — without investing in the lived capabilities that make those structures effective. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/Delivery.cfm/6565538.pdf?abstractid=6565538&amp;mirid=1&amp;type=2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Barnes PhD:: SSRNApril 30, 2026 — THE SOVEREIGNTY CRISIS: AI, WORKFORCE ATROPHY, AND SYSTEMIC RISK IN THE AGENTIC ERA A POLICY-TECHNICAL...</span><span class="citation-popover-meta">Published: April 30, 2026</span></span></span>
+* **Institutional complacency**: Organisations may focus on governance documentation — policies, compliance checklists — without investing in the lived capabilities that make those structures effective.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/Delivery.cfm/6565538.pdf?abstractid=6565538&amp;mirid=1&amp;type=2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Barnes PhD:: SSRNApril 30, 2026 — THE SOVEREIGNTY CRISIS: AI, WORKFORCE ATROPHY, AND SYSTEMIC RISK IN THE AGENTIC ERA A POLICY-TECHNICAL...</span><span class="citation-popover-meta">Published: April 30, 2026</span></span></span>
 
 These dynamics can interact such that expertise erosion isn’t just a by‑product of convenience, but a reinforcing mechanism of control loss: the less humans understand and can contest AI behaviour, the more unchallengeable AI outputs become in practice.
 
@@ -312,7 +312,7 @@ Preventing expertise erosion — and the control loss that comes with it — req
 * **Training and apprenticeship renewal**: Invest in training pathways that combine traditional learning with AI‑augmented experiences, so workers cultivate deep understanding rather than merely supervise outputs.
 * **Friction and reflection in workflows**: Instead of frictionless automation for all tasks, introduce moments where humans must engage with core reasoning steps, interpret rationale, or justify overrides, preserving cognitive engagement.
 * **Capability [monitoring]({{ 'monitoring/' | relative_url }})**: Track not just compliance with AI governance policies, but human capability metrics — competence in domain knowledge, resilience in manual task execution, and confidence in decision‑making under [uncertainty]({{ 'uncertainty/' | relative_url }}).
-* **Governance embedded in architecture**: Treat accountability and oversight as structural properties of AI systems — for example, by designing systems that require human re‑engagement for atypical cases and provide interpretable rationales to support learning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/Delivery.cfm/6589658.pdf?abstractid=6589658&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">ssrn.com AI Deployment Fails at Governance, Not Accuracy: Judgment Boundary Reallocation for Preventing Irreversible Lo...</span></span></span>
+* **Governance embedded in architecture**: Treat accountability and oversight as structural properties of AI systems — for example, by designing systems that require human re‑engagement for atypical cases and provide interpretable rationales to support learning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/Delivery.cfm/6589658.pdf?abstractid=6589658&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">ssrn.com AI Deployment Fails at Governance, Not Accuracy: Judgment Boundary Reallocation for Preventing Irreversible Lo...</span></span></span>
 
 These approaches aim to preserve **epistemic sovereignty** — the organisation’s capacity to think and decide independently of automated assistants — even as AI systems augment routine productivity.
 
@@ -321,274 +321,274 @@ These approaches aim to preserve **epistemic sovereignty** — the organisation�
 
 Within the broader debate on existential risk from advanced AI systems, expertise erosion highlights a subtle but significant pathway to loss of control that doesn’t rely on malicious AI intent. Even harmless, well‑intentioned automation can transfer authority away from human actors if it erodes the human skills needed to contest and direct AI behaviour. Over long time horizons, this can compound with other systemic risks — such as misalignment or governance fragmentation — making organisations more brittle and less capable of responding to unexpected AI behaviours at scale.
 
-Understanding and addressing expertise erosion is thus essential not just for operational effectiveness, but for maintaining **meaningful human oversight** — a core pillar in reducing the plausibility of uncontrolled AI trajectories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6565538" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Barnes PhD:: SSRNApril 12, 2026 — Download This Paper Open PDF in Browser THE SOVEREIGNTY CRISIS: AI, WORKFORCE ATROPHY, AND SYSTEMIC RI...</span><span class="citation-popover-meta">Published: April 12, 2026</span></span></span>
+Understanding and addressing expertise erosion is thus essential not just for operational effectiveness, but for maintaining **meaningful human oversight** — a core pillar in reducing the plausibility of uncontrolled AI trajectories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6565538" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Barnes PhD:: SSRNApril 12, 2026 — Download This Paper Open PDF in Browser THE SOVEREIGNTY CRISIS: AI, WORKFORCE ATROPHY, AND SYSTEMIC RI...</span><span class="citation-popover-meta">Published: April 12, 2026</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pl-Il3qNRVQ" title="AI in Risk Management" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pl-Il3qNRVQ" target="_blank" rel="noopener noreferrer">AI in Risk Management</a></p><p class="youtube-embed-meta">Channel: Centraleyes - Next Generation GRC &middot; Views: 31 &middot; Uploaded: January 2026 &middot; Length: 3 minutes 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pl-Il3qNRVQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pl-Il3qNRVQ">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Happens When Humans Stop Knowing Enough?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Happens When Humans Stop Knowing Enough?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8vm0DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Jonathan Russell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8vm0DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
+</h4>
+<p class="fr-book-author">By Stuart Jonathan Russell</p>
         
-        <p class="fr-book-desc">Directly addresses maintaining meaningful human authority over increasingly capable systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses maintaining meaningful human authority over increasingly capable systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Glass+Cage+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Glass Cage on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hVKNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Glass Cage" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Glass+Cage+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Glass Cage">The Glass Cage</a>
-        </h4>
-        <p class="fr-book-author">By Nicholas Carr</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Glass+Cage+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Glass Cage on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hVKNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Glass Cage" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Glass+Cage+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Glass Cage">The Glass Cage</a>
+</h4>
+<p class="fr-book-author">By Nicholas Carr</p>
         
-        <p class="fr-book-desc">Explores deskilling, dependency, and erosion of expertise caused by automation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Glass+Cage+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores deskilling, dependency, and erosion of expertise caused by automation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Glass+Cage+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
-        </h4>
-        <p class="fr-book-author">By Brian Christian</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
+</h4>
+<p class="fr-book-author">By Brian Christian</p>
         
-        <p class="fr-book-desc">Provides context on why human oversight becomes difficult as AI systems grow more complex.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on why human oversight becomes difficult as AI systems grow more complex.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Range+by+David+Epstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Range on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1ZyaDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Range" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Range+by+David+Epstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Range">Range</a>
-        </h4>
-        <p class="fr-book-author">By David Epstein</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Range+by+David+Epstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Range on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1ZyaDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Range" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Range+by+David+Epstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Range">Range</a>
+</h4>
+<p class="fr-book-author">By David Epstein</p>
         
-        <p class="fr-book-desc">Highlights the value of preserving broad human judgement and adaptive expertise.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Range+by+David+Epstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights the value of preserving broad human judgement and adaptive expertise.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Range+by+David+Epstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Glass+Cage&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Glass Cage</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Glass+Cage&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Glass Cage</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 500PCS Science Chemistry Stickers Rolls – Lab Experiment Cartoon Reward Labels"><img src="{{ '/assets/images/marketplace-covers/1ece629a145f826eb9e1.jpg' | relative_url }}" alt="Listing image for 500PCS Science Chemistry Stickers Rolls – Lab Experiment Cartoon Reward Labels" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">500PCS Science Chemistry Stickers Rolls – Lab Experiment Cartoon Reward Labels</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science sticker">Search <span data-ebay-domain-label>eBay.com</span>: science sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-science-sticker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 500PCS Science Chemistry Stickers Rolls – Lab Experiment Cartoon Reward Labels"><img src="{{ '/assets/images/marketplace-covers/1ece629a145f826eb9e1.jpg' | relative_url }}" alt="Listing image for 500PCS Science Chemistry Stickers Rolls – Lab Experiment Cartoon Reward Labels" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">500PCS Science Chemistry Stickers Rolls – Lab Experiment Cartoon Reward Labels</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science sticker">Search<span data-ebay-domain-label>eBay.com</span>: science sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-science-sticker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 10 Random Science Education Themed Stickers Decals Laptop Yeti Car Free Shipping"><img src="{{ '/assets/images/marketplace-covers/46b8553cc16c55a738c0.jpg' | relative_url }}" alt="Listing image for 10 Random Science Education Themed Stickers Decals Laptop Yeti Car Free Shipping" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">10 Random Science Education Themed Stickers Decals Laptop Yeti Car Free Shipping</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science sticker">Search <span data-ebay-domain-label>eBay.com</span>: science sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-science-sticker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 10 Random Science Education Themed Stickers Decals Laptop Yeti Car Free Shipping"><img src="{{ '/assets/images/marketplace-covers/46b8553cc16c55a738c0.jpg' | relative_url }}" alt="Listing image for 10 Random Science Education Themed Stickers Decals Laptop Yeti Car Free Shipping" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">10 Random Science Education Themed Stickers Decals Laptop Yeti Car Free Shipping</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science sticker">Search<span data-ebay-domain-label>eBay.com</span>: science sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-science-sticker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Vinyl Sticker Its Like Magic But Real Perfect for Science #790260"><img src="{{ '/assets/images/marketplace-covers/9770068d609e4c87b390.jpg' | relative_url }}" alt="Listing image for Science Vinyl Sticker Its Like Magic But Real Perfect for Science #790260" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Science Vinyl Sticker Its Like Magic But Real Perfect for Science #790260</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science sticker">Search <span data-ebay-domain-label>eBay.com</span>: science sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-science-sticker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Vinyl Sticker Its Like Magic But Real Perfect for Science #790260"><img src="{{ '/assets/images/marketplace-covers/9770068d609e4c87b390.jpg' | relative_url }}" alt="Listing image for Science Vinyl Sticker Its Like Magic But Real Perfect for Science #790260" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Science Vinyl Sticker Its Like Magic But Real Perfect for Science #790260</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science sticker">Search<span data-ebay-domain-label>eBay.com</span>: science sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-science-sticker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Atomic Energy Commission USA Seal Sticker | Science Physics Nuclear Vinyl 4993"><img src="{{ '/assets/images/marketplace-covers/60589373018108bcd780.jpg' | relative_url }}" alt="Listing image for Atomic Energy Commission USA Seal Sticker | Science Physics Nuclear Vinyl 4993" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Atomic Energy Commission USA Seal Sticker | Science Physics Nuclear Vinyl 4993</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science sticker">Search <span data-ebay-domain-label>eBay.com</span>: science sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-science-sticker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Atomic Energy Commission USA Seal Sticker | Science Physics Nuclear Vinyl 4993"><img src="{{ '/assets/images/marketplace-covers/60589373018108bcd780.jpg' | relative_url }}" alt="Listing image for Atomic Energy Commission USA Seal Sticker | Science Physics Nuclear Vinyl 4993" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Atomic Energy Commission USA Seal Sticker | Science Physics Nuclear Vinyl 4993</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science sticker">Search<span data-ebay-domain-label>eBay.com</span>: science sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-science-sticker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A. I. Artificial Intelligence. Jude Law. Original UK Video Poster."><img src="{{ '/assets/images/marketplace-covers/2a668d45483ac31aaf6d.jpg' | relative_url }}" alt="Listing image for A. I. Artificial Intelligence. Jude Law. Original UK Video Poster." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A. I. Artificial Intelligence. Jude Law. Original UK Video Poster.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A. I. Artificial Intelligence. Jude Law. Original UK Video Poster."><img src="{{ '/assets/images/marketplace-covers/2a668d45483ac31aaf6d.jpg' | relative_url }}" alt="Listing image for A. I. Artificial Intelligence. Jude Law. Original UK Video Poster." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A. I. Artificial Intelligence. Jude Law. Original UK Video Poster.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster"><img src="{{ '/assets/images/marketplace-covers/000874dca6d2fcc04da4.jpg' | relative_url }}" alt="Listing image for A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster"><img src="{{ '/assets/images/marketplace-covers/000874dca6d2fcc04da4.jpg' | relative_url }}" alt="Listing image for A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery"><img src="{{ '/assets/images/marketplace-covers/fe6f721a300e36459934.jpg' | relative_url }}" alt="Listing image for A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery"><img src="{{ '/assets/images/marketplace-covers/fe6f721a300e36459934.jpg' | relative_url }}" alt="Listing image for A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ccd8b5ee633357b5409d.jpg' | relative_url }}" alt="Listing image for Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ccd8b5ee633357b5409d.jpg' | relative_url }}" alt="Listing image for Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expertise-erosion-what-happens-when-humans-stop-knowing-enough-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -604,7 +604,7 @@ Understanding and addressing expertise erosion is thus essential not just for op
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -624,7 +624,7 @@ Understanding and addressing expertise erosion is thus essential not just for op
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -656,7 +656,7 @@ Understanding and addressing expertise erosion is thus essential not just for op
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -686,7 +686,7 @@ Understanding and addressing expertise erosion is thus essential not just for op
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -744,125 +744,125 @@ Understanding and addressing expertise erosion is thus essential not just for op
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6610518" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6610518</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Accountability Vacuum: Why Agentic AI Governance Fails Under Conditions of Expertise Erosion &lt;br&gt; by Gabriel Sze:: SSRNApril 20...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6610518" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6610518</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Accountability Vacuum: Why Agentic AI Governance Fails Under Conditions of Expertise Erosion &lt;br&gt; by Gabriel Sze:: SSRNApril 20...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6526739" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6526739</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SSRN&lt;p&gt; &lt;/p&gt; &lt;p&gt; &lt;b&gt;&lt;span&gt;The Judgment Vacuum &lt;/span&gt;&lt;/b&gt;&lt;i&gt;&lt;span&gt;AI, Apprenticeship Collapse, and the Non-Formation of Organisational Go...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6526739" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6526739</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SSRN&lt;p&gt; &lt;/p&gt; &lt;p&gt; &lt;b&gt;&lt;span&gt;The Judgment Vacuum &lt;/span&gt;&lt;/b&gt;&lt;i&gt;&lt;span&gt;AI, Apprenticeship Collapse, and the Non-Formation of Organisational Go...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13015734/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC13015734/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 19, 2026...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13015734/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC13015734/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 19, 2026...</p></details>
    Published: March 19, 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6398398" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6398398</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Use it or Slowly Lose it: Expertise Atrophy with Organizational AI Usage by James Siderius, Robert A. Shumsky, Alva Taylor:: SSRNMa...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6398398" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6398398</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Use it or Slowly Lose it: Expertise Atrophy with Organizational AI Usage by James Siderius, Robert A. Shumsky, Alva Taylor:: SSRNMa...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: gartner.com  
    Title: AI Lock-In: Why Skill Loss Puts Your Workforce at Risk | Gartner  
-   Link: <a href="https://www.gartner.com/en/articles/ai-lock-in" target="_blank" rel="noopener noreferrer nofollow">https://www.gartner.com/en/articles/ai-lock-in</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Lock-In: Why Skill Loss Puts Your Workforce at Risk | Gartner...</p></details>
+   Link:<a href="https://www.gartner.com/en/articles/ai-lock-in" target="_blank" rel="noopener noreferrer nofollow">https://www.gartner.com/en/articles/ai-lock-in</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Lock-In: Why Skill Loss Puts Your Workforce at Risk | Gartner...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
    Title: what are the risks of overreliance on automation  
-   Link: <a href="https://www.reddit.com/r/QuestionClass/comments/1rqv8lp/what_are_the_risks_of_overreliance_on_automation/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/QuestionClass/comments/1rqv8lp/what_are_the_risks_of_overreliance_on_automation/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What are the risks of over-reliance on automation in 2026?March 11, 2026...</p></details>
+   Link:<a href="https://www.reddit.com/r/QuestionClass/comments/1rqv8lp/what_are_the_risks_of_overreliance_on_automation/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/QuestionClass/comments/1rqv8lp/what_are_the_risks_of_overreliance_on_automation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What are the risks of over-reliance on automation in 2026?March 11, 2026...</p></details>
    Published: March 11, 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6814040" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6814040</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Governance Inversion Hypothesis: Why More AI Regulation May Produce Less Organisational Control by Victor Frimpong:: SSRNMay 22, 2026 —...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6814040" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6814040</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Governance Inversion Hypothesis: Why More AI Regulation May Produce Less Organisational Control by Victor Frimpong:: SSRNMay 22, 2026 —...</p></details>
    Published: May 22, 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/6565538.pdf?abstractid=6565538&amp;mirid=1&amp;type=2" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/6565538.pdf?abstractid=6565538&amp;mirid=1&amp;type=2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Barnes PhD:: SSRNApril 30, 2026 — THE SOVEREIGNTY CRISIS: AI, WORKFORCE ATROPHY, AND SYSTEMIC RISK IN THE AGENTIC ERA A POLICY-TECHNICAL...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/Delivery.cfm/6565538.pdf?abstractid=6565538&amp;mirid=1&amp;type=2" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/6565538.pdf?abstractid=6565538&amp;mirid=1&amp;type=2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Barnes PhD:: SSRNApril 30, 2026 — THE SOVEREIGNTY CRISIS: AI, WORKFORCE ATROPHY, AND SYSTEMIC RISK IN THE AGENTIC ERA A POLICY-TECHNICAL...</p></details>
    Published: April 30, 2026  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/6589658.pdf?abstractid=6589658&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/6589658.pdf?abstractid=6589658&amp;mirid=1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ssrn.com&lt;div&gt; AI Deployment Fails at Governance, Not Accuracy: &lt;/div&gt; &lt;div&gt; Judgment Boundary Reallocation for Preventing Irreversible Lo...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/Delivery.cfm/6589658.pdf?abstractid=6589658&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/6589658.pdf?abstractid=6589658&amp;mirid=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ssrn.com&lt;div&gt; AI Deployment Fails at Governance, Not Accuracy: &lt;/div&gt; &lt;div&gt; Judgment Boundary Reallocation for Preventing Irreversible Lo...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6565538" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6565538</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Barnes PhD:: SSRNApril 12, 2026 — Download This Paper Open PDF in Browser THE SOVEREIGNTY CRISIS: AI, WORKFORCE ATROPHY, AND SYSTEMIC RI...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6565538" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6565538</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Barnes PhD:: SSRNApril 12, 2026 — Download This Paper Open PDF in Browser THE SOVEREIGNTY CRISIS: AI, WORKFORCE ATROPHY, AND SYSTEMIC RI...</p></details>
    Published: April 12, 2026  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/6191198.pdf?abstractid=6191198&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/6191198.pdf?abstractid=6191198&amp;mirid=1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Great Displacement: AI-Driven Professional Commoditization, Premium Erosion, and the Enterprise Sovereignty™ Response by Rajesh Veerapane...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/Delivery.cfm/6191198.pdf?abstractid=6191198&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/6191198.pdf?abstractid=6191198&amp;mirid=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Great Displacement: AI-Driven Professional Commoditization, Premium Erosion, and the Enterprise Sovereignty™ Response by Rajesh Veerapane...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/full/10.1177/00081256231211020" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/full/10.1177/00081256231211020</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Intelligent Organization: Six Principles for Human-AI Collaboration - Vegard Kolbjørnsrud, 2024November 30, 2023 — Open access Resear...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/full/10.1177/00081256231211020" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/full/10.1177/00081256231211020</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Intelligent Organization: Six Principles for Human-AI Collaboration - Vegard Kolbjørnsrud, 2024November 30, 2023 — Open access Resear...</p></details>
    Published: November 30, 2023  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2949820126000123" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2949820126000123</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligence in medicine: a scoping review of the risk of deskilling and loss of expertise among physicians - ScienceDirectTod...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2949820126000123" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2949820126000123</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligence in medicine: a scoping review of the risk of deskilling and loss of expertise among physicians - ScienceDirectTod...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: kwpublications.com  
-   Link: <a href="https://kwpublications.com/papers/detail/IJARBSS/21445/The-Deskilling-Yet-Oversight-Paradox-AI-Automation-Role-Identity-Erosion-and-Technostress-among-Data-Centre-Operators-in-Malaysia" target="_blank" rel="noopener noreferrer nofollow">https://kwpublications.com/papers/detail/IJARBSS/21445/The-Deskilling-Yet-Oversight-Paradox-AI-Automation-Role-Identity-Erosion-and-Technostress-among-Data-Centre-Operators-in-Malaysia</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 30, 2026 — THE DESKILLING-YET-OVERSIGHT PARADOX: AI AUTOMATION, ROLE IDENTITY EROSION, AND TECHNOSTRESS AMONG DATA CENTRE OPERATORS...</p></details>
+   Link:<a href="https://kwpublications.com/papers/detail/IJARBSS/21445/The-Deskilling-Yet-Oversight-Paradox-AI-Automation-Role-Identity-Erosion-and-Technostress-among-Data-Centre-Operators-in-Malaysia" target="_blank" rel="noopener noreferrer nofollow">https://kwpublications.com/papers/detail/IJARBSS/21445/The-Deskilling-Yet-Oversight-Paradox-AI-Automation-Role-Identity-Erosion-and-Technostress-among-Data-Centre-Operators-in-Malaysia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 30, 2026 — THE DESKILLING-YET-OVERSIGHT PARADOX: AI AUTOMATION, ROLE IDENTITY EROSION, AND TECHNOSTRESS AMONG DATA CENTRE OPERATORS...</p></details>
    Published: April 30, 2026  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: eprints.lse.ac.uk  
-   Link: <a href="https://eprints.lse.ac.uk/130104/" target="_blank" rel="noopener noreferrer nofollow">https://eprints.lse.ac.uk/130104/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>me explain: a comparative field study on how experts enact authority over clients when facing AI decisions - LSE Research OnlineLET ME EX...</p></details>
+   Link:<a href="https://eprints.lse.ac.uk/130104/" target="_blank" rel="noopener noreferrer nofollow">https://eprints.lse.ac.uk/130104/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>me explain: a comparative field study on how experts enact authority over clients when facing AI decisions - LSE Research OnlineLET ME EX...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: aisel.aisnet.org  
    Title: THE VICIOUS CIRCLES OF SKILL EROSION: A CASE STUDY OF COGNITIVE AUTOMATION * Tap  
-   Link: <a href="https://aisel.aisnet.org/jais/vol24/iss5/2/" target="_blank" rel="noopener noreferrer nofollow">https://aisel.aisnet.org/jais/vol24/iss5/2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vicious Circles of Skill Erosion: A Case Study of Cognitive Automation&quot;The Vicious Circles of Skill Erosion: A Case Study of Cognitive Au...</p></details>
+   Link:<a href="https://aisel.aisnet.org/jais/vol24/iss5/2/" target="_blank" rel="noopener noreferrer nofollow">https://aisel.aisnet.org/jais/vol24/iss5/2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vicious Circles of Skill Erosion: A Case Study of Cognitive Automation&quot;The Vicious Circles of Skill Erosion: A Case Study of Cognitive Au...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: research.aalto.fi  
    Title: fi The Vicious Circles of Skill Erosion: A Case Study of Cognitive Automation  
-   Link: <a href="https://research.aalto.fi/en/publications/the-vicious-circles-of-skill-erosion-a-case-study-of-cognitive-au" target="_blank" rel="noopener noreferrer nofollow">https://research.aalto.fi/en/publications/the-vicious-circles-of-skill-erosion-a-case-study-of-cognitive-au</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vicious Circles of Skill Erosion: A Case Study of Cognitive Automation - Aalto University&#x27;s research portalTHE VICIOUS CIRCLES OF SKILL E...</p></details>
+   Link:<a href="https://research.aalto.fi/en/publications/the-vicious-circles-of-skill-erosion-a-case-study-of-cognitive-au" target="_blank" rel="noopener noreferrer nofollow">https://research.aalto.fi/en/publications/the-vicious-circles-of-skill-erosion-a-case-study-of-cognitive-au</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vicious Circles of Skill Erosion: A Case Study of Cognitive Automation - Aalto University&#x27;s research portalTHE VICIOUS CIRCLES OF SKILL E...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchportal.helsinki.fi  
    Title: fi The Vicious Circles of Skill Erosion: A Case Study of Cognitive Automation  
-   Link: <a href="https://researchportal.helsinki.fi/en/publications/the-vicious-circles-of-skill-erosion-a-case-study-of-cognitive-au/" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.helsinki.fi/en/publications/the-vicious-circles-of-skill-erosion-a-case-study-of-cognitive-au/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vicious Circles of Skill Erosion: A Case Study of Cognitive Automation - University of HelsinkiTHE VICIOUS CIRCLES OF SKILL EROSION: A CA...</p></details>
+   Link:<a href="https://researchportal.helsinki.fi/en/publications/the-vicious-circles-of-skill-erosion-a-case-study-of-cognitive-au/" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.helsinki.fi/en/publications/the-vicious-circles-of-skill-erosion-a-case-study-of-cognitive-au/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vicious Circles of Skill Erosion: A Case Study of Cognitive Automation - University of HelsinkiTHE VICIOUS CIRCLES OF SKILL EROSION: A CA...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: mdpi.com  
    Title: Where Are the AI Governance Roles?  
-   Link: <a href="https://www.mdpi.com/2673-7116/6/2/18" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2673-7116/6/2/18</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An Early-Stage Empirical Mapping of Presence, Absence, and Structure in Organisational AI OversightApril 19, 2026 — Background: Open Acce...</p></details>
+   Link:<a href="https://www.mdpi.com/2673-7116/6/2/18" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2673-7116/6/2/18</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An Early-Stage Empirical Mapping of Presence, Absence, and Structure in Organisational AI OversightApril 19, 2026 — Background: Open Acce...</p></details>
    Published: April 19, 2026  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Beyond "Is AI Accurate?" A Practical AI Risk Modeling Playbook  
-   Link: <a href="https://www.youtube.com/watch?v=rU-UGcy_Jpg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rU-UGcy_Jpg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI and Rehabilitation – What Should Change, What Must Not?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rU-UGcy_Jpg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rU-UGcy_Jpg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI and Rehabilitation – What Should Change, What Must Not?...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s00146-025-02686-z" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s00146-025-02686-z</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>deskilling is a structural problem | AI &amp; SOCIETY | Springer Nature LinkNovember 5, 2025 — AI DESKILLING IS A STRUCTURAL PROBLEM * Resear...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s00146-025-02686-z" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s00146-025-02686-z</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>deskilling is a structural problem | AI &amp; SOCIETY | Springer Nature LinkNovember 5, 2025 — AI DESKILLING IS A STRUCTURAL PROBLEM * Resear...</p></details>
    Published: November 5, 2025

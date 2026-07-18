@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-loss-of-contr/
 description: Focused pages that expand on Loss of Control.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_loss_of_contr_19a113
 parent_title: Loss of Control
@@ -16,7 +16,7 @@ parent_permalink: /loss-of-control/
 
 # Explore Topics in Loss of Control
 
-The following pages expand on the main **[Loss of Control]({{ '/loss-of-control/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Loss of Control]({{ '/loss-of-control/' | relative_url }})** page and cover its key branches in.
 
 - [Warning signs]({{ '/warning-signs/' | relative_url }})
 - [Objections]({{ '/objections/' | relative_url }})

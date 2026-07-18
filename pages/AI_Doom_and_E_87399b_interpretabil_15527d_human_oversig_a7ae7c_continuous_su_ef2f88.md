@@ -281,7 +281,7 @@ Traditional AI oversight frameworks tend to assume that a human can review, appr
 Continuous supervision becomes necessary for several reasons:
 
 * **Ongoing decision streams:** Unlike a chatbot query, an autonomous agent can issue actions repeatedly over time, interact with APIs, change permissions and trigger downstream effects without explicit prompts that flag human attention. This persistent execution means risk can compound before a checkpoint ever arrives.
-* **Drift and model degradation:** Agents that operate across changing environments or evolving data distributions can drift from intended behaviour over time. Traditional pre‑deployment evaluation doesn’t capture *in‑operation* drift or emergent failure patterns. Organizations increasingly recognise this risk; recent industry discussions emphasise the need for “real‑time behavioural [monitoring]({{ 'monitoring/' | relative_url }}) to track changes to behaviour when <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.itpro.com/technology/artificial-intelligence/workers-cant-identify-work-produced-by-ai-agents-business-risks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itpro.com">[agents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itpro.com</span><span class="citation-popover-title">IT Pro Over two-thirds of workers can&#x27;t identify actions taken by AI agents</span><span class="citation-popover-snippet">With 73% of organizations anticipating a vital role for AI agents in the next year, 68% admit they cannot reliably distinguish AI versus...</span></span></span> encounter real‑world scenarios,” including hallucinations, feedback loops or data contamination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techradar.com/pro/ai-agents-create-new-risks-requiring-continuous-monitoring-and-oversight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-snippet">These AI agents automate tasks, operate 24/7, and offer cost and efficiency benefits. However, the article highlights significant risks...</span></span></span>
+* **Drift and model degradation:** Agents that operate across changing environments or evolving data distributions can drift from intended behaviour over time. Traditional pre‑deployment evaluation doesn’t capture *in‑operation* drift or emergent failure patterns. Organizations increasingly recognise this risk; recent industry discussions emphasise the need for “real‑time behavioural [monitoring]({{ 'monitoring/' | relative_url }}) to track changes to behaviour when<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.itpro.com/technology/artificial-intelligence/workers-cant-identify-work-produced-by-ai-agents-business-risks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itpro.com">[agents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itpro.com</span><span class="citation-popover-title">IT Pro Over two-thirds of workers can&#x27;t identify actions taken by AI agents</span><span class="citation-popover-snippet">With 73% of organizations anticipating a vital role for AI agents in the next year, 68% admit they cannot reliably distinguish AI versus...</span></span></span> encounter real‑world scenarios,” including hallucinations, feedback loops or data contamination.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techradar.com/pro/ai-agents-create-new-risks-requiring-continuous-monitoring-and-oversight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-snippet">These AI agents automate tasks, operate 24/7, and offer cost and efficiency benefits. However, the article highlights significant risks...</span></span></span>
 * **[Automation bias]({{ 'automation-bias/' | relative_url }}) and opacity:** Humans overseeing complex systems tend to defer to machine judgement, especially when performance usually appears accurate. Continuous action diminishes opportunities for meaningful human reflection, possibly turning oversight into routine rubber‑stamping.
 
 In short, when agents act persistently rather than in a prompt–reply cycle, **human oversight needs to be embedded across time, not just at a launch decision**.
@@ -294,15 +294,15 @@ Continuous supervision goes beyond passive log collection or periodic audits. It
 
 ### Monitoring With Meaningful Signals
 
-Continuous oversight depends on **high‑fidelity telemetry and behavioural traces** that reveal not just what an agent did, but *how and why* it made those choices. Traditional observability systems built for human operators focus on dashboards and summaries; they are poorly suited to autonomous agents that generate large volumes of interacting events. Some emerging frameworks argue for **full‑fidelity telemetry, long data retention and correlation across logs, metrics, traces, and context** to capture patterns that could signal misalignment or risk. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techradar.com/pro/ai-agents-create-new-risks-requiring-continuous-monitoring-and-oversight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-snippet">These AI agents automate tasks, operate 24/7, and offer cost and efficiency benefits. However, the article highlights significant risks...</span></span></span>
+Continuous oversight depends on **high‑fidelity telemetry and behavioural traces** that reveal not just what an agent did, but *how and why* it made those choices. Traditional observability systems built for human operators focus on dashboards and summaries; they are poorly suited to autonomous agents that generate large volumes of interacting events. Some emerging frameworks argue for **full‑fidelity telemetry, long data retention and correlation across logs, metrics, traces, and context** to capture patterns that could signal misalignment or risk.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techradar.com/pro/ai-agents-create-new-risks-requiring-continuous-monitoring-and-oversight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-snippet">These AI agents automate tasks, operate 24/7, and offer cost and efficiency benefits. However, the article highlights significant risks...</span></span></span>
 
 ### Anomaly Detection and Alerting
 
-Real‑time supervision must automate the identification of risky patterns such as unusual action sequences, unexpected tool invocations, or goal drift. When these triggers occur, the supervisory layer should flag them for human review, escalate behaviour, pause execution, or route decisions into fail‑safe modes. A 2026 perspective on AI safety systems argues that **dedicated runtime safety layers** operating parallel to performance‑oriented systems can detect anomalies and support conservative interventions when unsafe conditions emerge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2772508126000219" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Artificial intelligence (AI) safety system for safe &amp; trustworthy autonomy - ScienceDirectToday...</span></span></span>
+Real‑time supervision must automate the identification of risky patterns such as unusual action sequences, unexpected tool invocations, or goal drift. When these triggers occur, the supervisory layer should flag them for human review, escalate behaviour, pause execution, or route decisions into fail‑safe modes. A 2026 perspective on AI safety systems argues that **dedicated runtime safety layers** operating parallel to performance‑oriented systems can detect anomalies and support conservative interventions when unsafe conditions emerge.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2772508126000219" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Artificial intelligence (AI) safety system for safe &amp; trustworthy autonomy - ScienceDirectToday...</span></span></span>
 
 ### Human‑Machine Escalation Paths
 
-Continuous human involvement doesn’t mean reviewing every action; it means *defining clear points where humans must re‑enter the loop*. Governance frameworks often prescribe **dynamic thresholds** — deviations in confidence, resource use, or risk impact — that trigger expansions of human oversight, escalation to safety teams, or even complete shutdown. Some enterprise governance models tier autonomy into levels (observe, advise, act with approval, fully autonomous) with corresponding monitoring and intervention paths. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.itpro.com/technology/artificial-intelligence/one-size-fits-all-agent-governance-sets-enterprises-up-to-fail" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itpro.com">[IT Pro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itpro.com</span><span class="citation-popover-title">IT Pro&#x27;One-size-fits-all&#x27; agent governance sets enterprises up to fail</span><span class="citation-popover-snippet">The primary issue is the widespread application of a &quot;one-size-fits-all&quot; governance model that fails to distinguish between an agent&#x27;s au...</span></span></span>
+Continuous human involvement doesn’t mean reviewing every action; it means *defining clear points where humans must re‑enter the loop*. Governance frameworks often prescribe **dynamic thresholds** — deviations in confidence, resource use, or risk impact — that trigger expansions of human oversight, escalation to safety teams, or even complete shutdown. Some enterprise governance models tier autonomy into levels (observe, advise, act with approval, fully autonomous) with corresponding monitoring and intervention paths.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.itpro.com/technology/artificial-intelligence/one-size-fits-all-agent-governance-sets-enterprises-up-to-fail" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itpro.com">[IT Pro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itpro.com</span><span class="citation-popover-title">IT Pro&#x27;One-size-fits-all&#x27; agent governance sets enterprises up to fail</span><span class="citation-popover-snippet">The primary issue is the widespread application of a &quot;one-size-fits-all&quot; governance model that fails to distinguish between an agent&#x27;s au...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_continuous_su_ef2f88-Illustration-2-dark.svg" | relative_url }}" alt="Continuous Control illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_continuous_su_ef2f88-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_human_oversig_a7ae7c_continuous_su_ef2f88-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Monitoring, Autonomy Tiers and Points of Intervention
@@ -313,7 +313,7 @@ A natural way to organise continuous supervision is through **[autonomy tiers]({
 * **Medium autonomy (assisted execution):** Agents act within defined boundaries but escalate high‑risk actions. Supervision must monitor *context and thresholds* to determine when escalation is appropriate.
 * **High autonomy ([independent]({{ 'red-teaming/' | relative_url }}) operation):** Agents perform actions under minimal human prompts. Here, continuous monitoring focuses heavily on anomalies and *contingent intervention capabilities*, such as remote pausing or rollback.
 
-Governance models that specify this tiered structure help clarify what supervision *means* at each level, from simple logging to sophisticated anomaly detection or enforced escalation protocols. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koneetiv.com/governance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koneetiv.com">[Koneetiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koneetiv.com</span><span class="citation-popover-title">LOOP™ — enterprise AI agent governance protocol &#124; Koneetiv</span><span class="citation-popover-snippet">LOOP™ — enterprise AI agent governance protocol &#124; Koneetiv...</span></span></span>
+Governance models that specify this tiered structure help clarify what supervision *means* at each level, from simple logging to sophisticated anomaly detection or enforced escalation protocols.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koneetiv.com/governance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koneetiv.com">[Koneetiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koneetiv.com</span><span class="citation-popover-title">LOOP™ — enterprise AI agent governance protocol &#124; Koneetiv</span><span class="citation-popover-snippet">LOOP™ — enterprise AI agent governance protocol &#124; Koneetiv...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LOLI0emzDb0" title="Monitor, optimize and scale with AI Observability in Microsoft Foundry | BRK190" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LOLI0emzDb0" target="_blank" rel="noopener noreferrer">Monitor, optimize and scale with AI Observability in Microsoft Foundry | BRK190</a></p><p class="youtube-embed-meta">Channel: Microsoft Events &middot; Views: 1.8K &middot; Uploaded: November 2025 &middot; Length: 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LOLI0emzDb0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LOLI0emzDb0">Open on YouTube</a></p></div></div></div>
 
@@ -332,8 +332,8 @@ These trade‑offs are not just technical; they reflect a deeper governance ques
 
 Even with a conceptual framework, implementing continuous supervision in powerful AI systems faces serious hurdles:
 
-* **Oversight latency:** Detecting and diagnosing risky behaviour in real time is technically hard, and delays between detection and intervention may be exploited by the agent’s actions themselves. Research on monitoring protocols highlights the challenge of balancing synchronous (real‑time) monitoring with operational speed and scalability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/research/practical-challenges-of-control-monitoring-in-frontier-ai-deployments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-* **Attribution and identity:** In practice, distinguishing *which* agent or component triggered an action—especially when agents operate under shared credentials or within human sessions—complicates monitoring and enforcement. Lax identity controls can leave governance blind to autonomous behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.itpro.com/technology/artificial-intelligence/one-size-fits-all-agent-governance-sets-enterprises-up-to-fail" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itpro.com">[IT Pro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itpro.com</span><span class="citation-popover-title">IT Pro&#x27;One-size-fits-all&#x27; agent governance sets enterprises up to fail</span><span class="citation-popover-snippet">The primary issue is the widespread application of a &quot;one-size-fits-all&quot; governance model that fails to distinguish between an agent&#x27;s au...</span></span></span>
+* **Oversight latency:** Detecting and diagnosing risky behaviour in real time is technically hard, and delays between detection and intervention may be exploited by the agent’s actions themselves. Research on monitoring protocols highlights the challenge of balancing synchronous (real‑time) monitoring with operational speed and scalability.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/research/practical-challenges-of-control-monitoring-in-frontier-ai-deployments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* **Attribution and identity:** In practice, distinguishing *which* agent or component triggered an action—especially when agents operate under shared credentials or within human sessions—complicates monitoring and enforcement. Lax identity controls can leave governance blind to autonomous behaviour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.itpro.com/technology/artificial-intelligence/one-size-fits-all-agent-governance-sets-enterprises-up-to-fail" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itpro.com">[IT Pro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itpro.com</span><span class="citation-popover-title">IT Pro&#x27;One-size-fits-all&#x27; agent governance sets enterprises up to fail</span><span class="citation-popover-snippet">The primary issue is the widespread application of a &quot;one-size-fits-all&quot; governance model that fails to distinguish between an agent&#x27;s au...</span></span></span>
 * **Scalability of human review:** Continuous human approval for a large volume of decisions simply does not scale. Thus, supervision must rely on **automated detection and selective human escalation**, a pattern that pushes the “human in the loop” further out in the execution chain.
 
 ## Why This Matters for AI Doom Arguments
@@ -357,269 +357,269 @@ Continuous supervision highlights where oversight might break down in practice: 
 As autonomous AI agents become more capable and more integrated into high‑impact settings, continuous supervision will likely remain a **core governance frontier** — not a silver bullet, but a structural necessity for balancing innovation with containment in a world where AI systems no longer pause for human approval at every turn.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What would real time AI supervision require?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What would real time AI supervision require?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8vm0DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Jonathan Russell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8vm0DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
+</h4>
+<p class="fr-book-author">By Stuart Jonathan Russell</p>
         
-        <p class="fr-book-desc">Highly relevant to continuous supervision of autonomous systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highly relevant to continuous supervision of autonomous systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
-        </h4>
-        <p class="fr-book-author">By Brian Christian</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
+</h4>
+<p class="fr-book-author">By Brian Christian</p>
         
-        <p class="fr-book-desc">Explains supervision and evaluation challenges as systems grow capable.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains supervision and evaluation challenges as systems grow capable.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
-        </h4>
-        <p class="fr-book-author">By Mustafa Suleyman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
+</h4>
+<p class="fr-book-author">By Mustafa Suleyman</p>
         
-        <p class="fr-book-desc">Discusses monitoring, containment, and control of powerful agents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses monitoring, containment, and control of powerful agents.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Life 3.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3_otDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Life 3.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Life 3.0">Life 3.0</a>
-        </h4>
-        <p class="fr-book-author">By Max Tegmark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Life 3.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3_otDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Life 3.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Life 3.0">Life 3.0</a>
+</h4>
+<p class="fr-book-author">By Max Tegmark</p>
         
-        <p class="fr-book-desc">Explores tradeoffs between autonomy and human oversight.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores tradeoffs between autonomy and human oversight.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Smart Robot Platform DIY Chassis Kit Crawler Tank Motors for Pi Arduino Maker"><img src="{{ '/assets/images/marketplace-covers/903db1ed07f40bd10314.jpg' | relative_url }}" alt="Listing image for Smart Robot Platform DIY Chassis Kit Crawler Tank Motors for Pi Arduino Maker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Smart Robot Platform DIY Chassis Kit Crawler Tank Motors for Pi Arduino Maker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.com</span>: robotics kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Smart Robot Platform DIY Chassis Kit Crawler Tank Motors for Pi Arduino Maker"><img src="{{ '/assets/images/marketplace-covers/903db1ed07f40bd10314.jpg' | relative_url }}" alt="Listing image for Smart Robot Platform DIY Chassis Kit Crawler Tank Motors for Pi Arduino Maker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Smart Robot Platform DIY Chassis Kit Crawler Tank Motors for Pi Arduino Maker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search<span data-ebay-domain-label>eBay.com</span>: robotics kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 12-in-1 STEM Robot Kit Toys for Kids 8-12 12-16, DIY Robot Building Educational"><img src="{{ '/assets/images/marketplace-covers/4170d4e3fe572772efdd.jpg' | relative_url }}" alt="Listing image for 12-in-1 STEM Robot Kit Toys for Kids 8-12 12-16, DIY Robot Building Educational" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">12-in-1 STEM Robot Kit Toys for Kids 8-12 12-16, DIY Robot Building Educational</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.com</span>: robotics kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 12-in-1 STEM Robot Kit Toys for Kids 8-12 12-16, DIY Robot Building Educational"><img src="{{ '/assets/images/marketplace-covers/4170d4e3fe572772efdd.jpg' | relative_url }}" alt="Listing image for 12-in-1 STEM Robot Kit Toys for Kids 8-12 12-16, DIY Robot Building Educational" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">12-in-1 STEM Robot Kit Toys for Kids 8-12 12-16, DIY Robot Building Educational</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search<span data-ebay-domain-label>eBay.com</span>: robotics kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Solar Robot Kit DIY Toys Kids Ages 8+ STEM Educational 12-in-1 Kit"><img src="{{ '/assets/images/marketplace-covers/f9020407c9a29348dad4.jpg' | relative_url }}" alt="Listing image for Solar Robot Kit DIY Toys Kids Ages 8+ STEM Educational 12-in-1 Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Solar Robot Kit DIY Toys Kids Ages 8+ STEM Educational 12-in-1 Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.com</span>: robotics kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Solar Robot Kit DIY Toys Kids Ages 8+ STEM Educational 12-in-1 Kit"><img src="{{ '/assets/images/marketplace-covers/f9020407c9a29348dad4.jpg' | relative_url }}" alt="Listing image for Solar Robot Kit DIY Toys Kids Ages 8+ STEM Educational 12-in-1 Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Solar Robot Kit DIY Toys Kids Ages 8+ STEM Educational 12-in-1 Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search<span data-ebay-domain-label>eBay.com</span>: robotics kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BeAndge STEM Kits for Kids Crafts 6-8 8-12 Boys Gifts Idea Robotics Science Kits"><img src="{{ '/assets/images/marketplace-covers/08ddfdc8d3d6ad4cc2f8.jpg' | relative_url }}" alt="Listing image for BeAndge STEM Kits for Kids Crafts 6-8 8-12 Boys Gifts Idea Robotics Science Kits" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">BeAndge STEM Kits for Kids Crafts 6-8 8-12 Boys Gifts Idea Robotics Science Kits</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.com</span>: robotics kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BeAndge STEM Kits for Kids Crafts 6-8 8-12 Boys Gifts Idea Robotics Science Kits"><img src="{{ '/assets/images/marketplace-covers/08ddfdc8d3d6ad4cc2f8.jpg' | relative_url }}" alt="Listing image for BeAndge STEM Kits for Kids Crafts 6-8 8-12 Boys Gifts Idea Robotics Science Kits" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">BeAndge STEM Kits for Kids Crafts 6-8 8-12 Boys Gifts Idea Robotics Science Kits</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search<span data-ebay-domain-label>eBay.com</span>: robotics kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for STEM Spider Robot Toy Kit DIY Educational Science Project Kids Building Gift 6+"><img src="{{ '/assets/images/marketplace-covers/2d5008516bc0d9d6228c.jpg' | relative_url }}" alt="Listing image for STEM Spider Robot Toy Kit DIY Educational Science Project Kids Building Gift 6+" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">STEM Spider Robot Toy Kit DIY Educational Science Project Kids Building Gift 6+</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for STEM Spider Robot Toy Kit DIY Educational Science Project Kids Building Gift 6+"><img src="{{ '/assets/images/marketplace-covers/2d5008516bc0d9d6228c.jpg' | relative_url }}" alt="Listing image for STEM Spider Robot Toy Kit DIY Educational Science Project Kids Building Gift 6+" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">STEM Spider Robot Toy Kit DIY Educational Science Project Kids Building Gift 6+</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Makeblock mBot STEM Educational Robot Kit – Bluetooth Version Boxed"><img src="{{ '/assets/images/marketplace-covers/45456d42d140ae8a9876.jpg' | relative_url }}" alt="Listing image for Makeblock mBot STEM Educational Robot Kit – Bluetooth Version Boxed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Makeblock mBot STEM Educational Robot Kit – Bluetooth Version Boxed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Makeblock mBot STEM Educational Robot Kit – Bluetooth Version Boxed"><img src="{{ '/assets/images/marketplace-covers/45456d42d140ae8a9876.jpg' | relative_url }}" alt="Listing image for Makeblock mBot STEM Educational Robot Kit – Bluetooth Version Boxed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Makeblock mBot STEM Educational Robot Kit – Bluetooth Version Boxed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 5 in 1 Robot Toys for Kids Building Set, APP &amp; Remote Control Robotics Kit"><img src="{{ '/assets/images/marketplace-covers/9be77cb3cd417fc69711.jpg' | relative_url }}" alt="Listing image for 5 in 1 Robot Toys for Kids Building Set, APP &amp; Remote Control Robotics Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">5 in 1 Robot Toys for Kids Building Set, APP &amp; Remote Control Robotics Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 5 in 1 Robot Toys for Kids Building Set, APP &amp; Remote Control Robotics Kit"><img src="{{ '/assets/images/marketplace-covers/9be77cb3cd417fc69711.jpg' | relative_url }}" alt="Listing image for 5 in 1 Robot Toys for Kids Building Set, APP &amp; Remote Control Robotics Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">5 in 1 Robot Toys for Kids Building Set, APP &amp; Remote Control Robotics Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kits - Rotating Mechanical Robotics Set for , ,"><img src="{{ '/assets/images/marketplace-covers/87b0c9d1cfcdb6e7a752.jpg' | relative_url }}" alt="Listing image for Kits - Rotating Mechanical Robotics Set for , ," loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Kits - Rotating Mechanical Robotics Set for , ,</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kits - Rotating Mechanical Robotics Set for , ,"><img src="{{ '/assets/images/marketplace-covers/87b0c9d1cfcdb6e7a752.jpg' | relative_url }}" alt="Listing image for Kits - Rotating Mechanical Robotics Set for , ," loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Kits - Rotating Mechanical Robotics Set for , ,</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=continuous-control-what-would-real-time-ai-supervision-require-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -635,7 +635,7 @@ As autonomous AI agents become more capable and more integrated into high‑impa
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -655,7 +655,7 @@ As autonomous AI agents become more capable and more integrated into high‑impa
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -687,7 +687,7 @@ As autonomous AI agents become more capable and more integrated into high‑impa
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -717,7 +717,7 @@ As autonomous AI agents become more capable and more integrated into high‑impa
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -775,110 +775,110 @@ As autonomous AI agents become more capable and more integrated into high‑impa
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: techradar.com  
-   Link: <a href="https://www.techradar.com/pro/ai-agents-create-new-risks-requiring-continuous-monitoring-and-oversight" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/pro/ai-agents-create-new-risks-requiring-continuous-monitoring-and-oversight</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>These AI agents automate tasks, operate 24/7, and offer cost and efficiency benefits. However, the article highlights significant risks...</p></details>
+   Link:<a href="https://www.techradar.com/pro/ai-agents-create-new-risks-requiring-continuous-monitoring-and-oversight" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/pro/ai-agents-create-new-risks-requiring-continuous-monitoring-and-oversight</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These AI agents automate tasks, operate 24/7, and offer cost and efficiency benefits. However, the article highlights significant risks...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: techradar.com  
    Title: Tech Radar Observability was built for humans  
-   Link: <a href="https://www.techradar.com/pro/observability-was-built-for-humans-ai-agents-need-something-different" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/pro/observability-was-built-for-humans-ai-agents-need-something-different</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI agents need something differentMay 26, 2026 — The article discusses a significant shift occurring in the observability space due to th...</p></details>
+   Link:<a href="https://www.techradar.com/pro/observability-was-built-for-humans-ai-agents-need-something-different" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/pro/observability-was-built-for-humans-ai-agents-need-something-different</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI agents need something differentMay 26, 2026 — The article discusses a significant shift occurring in the observability space due to th...</p></details>
    Published: May 26, 2026  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2772508126000219" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2772508126000219</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligence (AI) safety system for safe &amp; trustworthy autonomy - ScienceDirectToday...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2772508126000219" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2772508126000219</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligence (AI) safety system for safe &amp; trustworthy autonomy - ScienceDirectToday...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: koneetiv.com  
    Title: LOOP™ — enterprise AI agent governance protocol | Koneetiv  
-   Link: <a href="https://www.koneetiv.com/governance" target="_blank" rel="noopener noreferrer nofollow">https://www.koneetiv.com/governance</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LOOP™ — enterprise AI agent governance protocol | Koneetiv...</p></details>
+   Link:<a href="https://www.koneetiv.com/governance" target="_blank" rel="noopener noreferrer nofollow">https://www.koneetiv.com/governance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LOOP™ — enterprise AI agent governance protocol | Koneetiv...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: itpro.com  
    Title: IT Pro'One-size-fits-all' agent governance sets enterprises up to fail  
-   Link: <a href="https://www.itpro.com/technology/artificial-intelligence/one-size-fits-all-agent-governance-sets-enterprises-up-to-fail" target="_blank" rel="noopener noreferrer nofollow">https://www.itpro.com/technology/artificial-intelligence/one-size-fits-all-agent-governance-sets-enterprises-up-to-fail</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The primary issue is the widespread application of a &quot;one-size-fits-all&quot; governance model that fails to distinguish between an agent&#x27;s au...</p></details>
+   Link:<a href="https://www.itpro.com/technology/artificial-intelligence/one-size-fits-all-agent-governance-sets-enterprises-up-to-fail" target="_blank" rel="noopener noreferrer nofollow">https://www.itpro.com/technology/artificial-intelligence/one-size-fits-all-agent-governance-sets-enterprises-up-to-fail</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The primary issue is the widespread application of a &quot;one-size-fits-all&quot; governance model that fails to distinguish between an agent&#x27;s au...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aisi.gov.uk  
-   Link: <a href="https://www.aisi.gov.uk/research/practical-challenges-of-control-monitoring-in-frontier-ai-deployments" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/research/practical-challenges-of-control-monitoring-in-frontier-ai-deployments</a>  
+   Link:<a href="https://www.aisi.gov.uk/research/practical-challenges-of-control-monitoring-in-frontier-ai-deployments" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/research/practical-challenges-of-control-monitoring-in-frontier-ai-deployments</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: itpro.com  
    Title: IT Pro Over two-thirds of workers can't identify actions taken by AI agents  
-   Link: <a href="https://www.itpro.com/technology/artificial-intelligence/workers-cant-identify-work-produced-by-ai-agents-business-risks" target="_blank" rel="noopener noreferrer nofollow">https://www.itpro.com/technology/artificial-intelligence/workers-cant-identify-work-produced-by-ai-agents-business-risks</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>With 73% of organizations anticipating a vital role for AI agents in the next year, 68% admit they cannot reliably distinguish AI versus...</p></details>
+   Link:<a href="https://www.itpro.com/technology/artificial-intelligence/workers-cant-identify-work-produced-by-ai-agents-business-risks" target="_blank" rel="noopener noreferrer nofollow">https://www.itpro.com/technology/artificial-intelligence/workers-cant-identify-work-produced-by-ai-agents-business-risks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>With 73% of organizations anticipating a vital role for AI agents in the next year, 68% admit they cannot reliably distinguish AI versus...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: swept.ai  
    Title: The non-deterministic nature of AI means that quite  
-   Link: <a href="https://www.swept.ai/offering/supervision" target="_blank" rel="noopener noreferrer nofollow">https://www.swept.ai/offering/supervision</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Supervision | Keep AI On Spec | Swept AIKEEP AI ON SPEC Agents drift, models decay, context becomes polluted, and user behavior evolves...</p></details>
+   Link:<a href="https://www.swept.ai/offering/supervision" target="_blank" rel="noopener noreferrer nofollow">https://www.swept.ai/offering/supervision</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Supervision | Keep AI On Spec | Swept AIKEEP AI ON SPEC Agents drift, models decay, context becomes polluted, and user behavior evolves...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/403947038_Agentic_AI_and_Autonomous_Decision-Making_A_Review_of_Human-in-the-Loop_Frameworks_Oversight_Mechanisms_and_Trust_Calibration/download" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403947038_Agentic_AI_and_Autonomous_Decision-Making_A_Review_of_Human-in-the-Loop_Frameworks_Oversight_Mechanisms_and_Trust_Calibration/download</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This insight is directly applicable to agentic AI. An operator monitoring a multi-step AI agent may perceive its current state (Level 1)...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/403947038_Agentic_AI_and_Autonomous_Decision-Making_A_Review_of_Human-in-the-Loop_Frameworks_Oversight_Mechanisms_and_Trust_Calibration/download" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403947038_Agentic_AI_and_Autonomous_Decision-Making_A_Review_of_Human-in-the-Loop_Frameworks_Oversight_Mechanisms_and_Trust_Calibration/download</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This insight is directly applicable to agentic AI. An operator monitoring a multi-step AI agent may perceive its current state (Level 1)...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: swept.ai  
-   Link: <a href="https://www.swept.ai/ai-supervision" target="_blank" rel="noopener noreferrer nofollow">https://www.swept.ai/ai-supervision</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Copy page ON THIS PAGE: * Supervision ≠ Just Monitoring * The Three Pillars of Supervision * Why AI Supervision Matters * How Much Superv...</p></details>
+   Link:<a href="https://www.swept.ai/ai-supervision" target="_blank" rel="noopener noreferrer nofollow">https://www.swept.ai/ai-supervision</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Copy page ON THIS PAGE: * Supervision ≠ Just Monitoring * The Three Pillars of Supervision * Why AI Supervision Matters * How Much Superv...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aiagentgovernance.org  
-   Link: <a href="https://aiagentgovernance.org/" target="_blank" rel="noopener noreferrer nofollow">https://aiagentgovernance.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>McCormick · Version: v2.0.0 · CC BY 4.0 &gt; Authorship context: This is a practitioner&#x27;s methodology, not an academic paper. The author...</p></details>
+   Link:<a href="https://aiagentgovernance.org/" target="_blank" rel="noopener noreferrer nofollow">https://aiagentgovernance.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>McCormick · Version: v2.0.0 · CC BY 4.0 &gt; Authorship context: This is a practitioner&#x27;s methodology, not an academic paper. The author...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: agenticoversight.ai  
-   Link: <a href="https://www.agenticoversight.ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.agenticoversight.ai/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We Make It Trustworthy. Harness the power of Artificial Intelligence with confidence. Agentic Oversight provides an indepe...</p></details>
+   Link:<a href="https://www.agenticoversight.ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.agenticoversight.ai/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We Make It Trustworthy. Harness the power of Artificial Intelligence with confidence. Agentic Oversight provides an indepe...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
    Title: (PDF) Limits of Safe AI Deployment: Differentiating Oversight and Control  
-   Link: <a href="https://www.researchgate.net/publication/393478318_Limits_of_Safe_AI_Deployment_Differentiating_Oversight_and_Control" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/393478318_Limits_of_Safe_AI_Deployment_Differentiating_Oversight_and_Control</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 4, 2025 — LIMITS OF SAFE AI DEPLOYMENT: DIFFERENTIATING OVERSIGHT AND CONTROL * July 2025 DOI:10.48550/arXiv.2507.03525 * License *...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/393478318_Limits_of_Safe_AI_Deployment_Differentiating_Oversight_and_Control" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/393478318_Limits_of_Safe_AI_Deployment_Differentiating_Oversight_and_Control</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 4, 2025 — LIMITS OF SAFE AI DEPLOYMENT: DIFFERENTIATING OVERSIGHT AND CONTROL * July 2025 DOI:10.48550/arXiv.2507.03525 * License *...</p></details>
    Published: July 4, 2025  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aixiv.science  
    Title: Execution-Boundary Interlocks for High-Autonomy AI Systems | ai Xiv  
-   Link: <a href="https://aixiv.science/abs/aixiv.260217.000001" target="_blank" rel="noopener noreferrer nofollow">https://aixiv.science/abs/aixiv.260217.000001</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Execution-Boundary Interlocks for High-Autonomy AI Systems | aiXivMarch 4, 2026 — EXECUTION-BOUNDARY INTERLOCKS FOR HIGH-AUTONOMY AI SYST...</p></details>
+   Link:<a href="https://aixiv.science/abs/aixiv.260217.000001" target="_blank" rel="noopener noreferrer nofollow">https://aixiv.science/abs/aixiv.260217.000001</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Execution-Boundary Interlocks for High-Autonomy AI Systems | aiXivMarch 4, 2026 — EXECUTION-BOUNDARY INTERLOCKS FOR HIGH-AUTONOMY AI SYST...</p></details>
    Published: March 4, 2026  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: swept.ai  
    Title: Each phase addresses different risks and requires different capab  
-   Link: <a href="https://www.swept.ai/post/agentic-ai-governance" target="_blank" rel="noopener noreferrer nofollow">https://www.swept.ai/post/agentic-ai-governance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Agentic AI Governance: How to Trust and Control Autonomous AI Agents | Swept AIFebruary 6, 2026 — THE AGENTIC AI GOVERNANCE FRAMEWORK Eff...</p></details>
+   Link:<a href="https://www.swept.ai/post/agentic-ai-governance" target="_blank" rel="noopener noreferrer nofollow">https://www.swept.ai/post/agentic-ai-governance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Agentic AI Governance: How to Trust and Control Autonomous AI Agents | Swept AIFebruary 6, 2026 — THE AGENTIC AI GOVERNANCE FRAMEWORK Eff...</p></details>
    Published: February 6, 2026  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: labs.cloudsecurityalliance.org  
    Title: governance nist ai agent standards agentic governance v1 csa  
-   Link: <a href="https://labs.cloudsecurityalliance.org/research/governance-nist-ai-agent-standards-agentic-governance-v1-csa/" target="_blank" rel="noopener noreferrer nofollow">https://labs.cloudsecurityalliance.org/research/governance-nist-ai-agent-standards-agentic-governance-v1-csa/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Governance: NIST Standards for Autonomous Systems – Lab SpaceMarch 22, 2026 — AGENTIC AI GOVERNANCE: NIST STANDARDS FOR AUTONOMOUS SYS...</p></details>
+   Link:<a href="https://labs.cloudsecurityalliance.org/research/governance-nist-ai-agent-standards-agentic-governance-v1-csa/" target="_blank" rel="noopener noreferrer nofollow">https://labs.cloudsecurityalliance.org/research/governance-nist-ai-agent-standards-agentic-governance-v1-csa/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Governance: NIST Standards for Autonomous Systems – Lab SpaceMarch 22, 2026 — AGENTIC AI GOVERNANCE: NIST STANDARDS FOR AUTONOMOUS SYS...</p></details>
    Published: March 22, 2026  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: medrxiv.org  
    Title: HAAR F: Healthcare AI Agents Regulatory Framework  
-   Link: <a href="https://www.medrxiv.org/content/10.64898/2026.04.09.26350519v1.full-text" target="_blank" rel="noopener noreferrer nofollow">https://www.medrxiv.org/content/10.64898/2026.04.09.26350519v1.full-text</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HAARF: Healthcare AI Agents Regulatory Framework - A Comprehensive Security Verification Standard for Autonomous AI Systems in Clinical E...</p></details>
+   Link:<a href="https://www.medrxiv.org/content/10.64898/2026.04.09.26350519v1.full-text" target="_blank" rel="noopener noreferrer nofollow">https://www.medrxiv.org/content/10.64898/2026.04.09.26350519v1.full-text</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HAARF: Healthcare AI Agents Regulatory Framework - A Comprehensive Security Verification Standard for Autonomous AI Systems in Clinical E...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: emergentmind.com  
    Title: M I9: Runtime Governance for Agentic AI Systems  
-   Link: <a href="https://www.emergentmind.com/papers/2508.03858" target="_blank" rel="noopener noreferrer nofollow">https://www.emergentmind.com/papers/2508.03858</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MI9: Runtime Governance for Agentic AI SystemsAugust 5, 2025 — MI9 -- AGENT INTELLIGENCE PROTOCOL: RUNTIME GOVERNANCE FOR AGENTIC AI SYST...</p></details>
+   Link:<a href="https://www.emergentmind.com/papers/2508.03858" target="_blank" rel="noopener noreferrer nofollow">https://www.emergentmind.com/papers/2508.03858</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MI9: Runtime Governance for Agentic AI SystemsAugust 5, 2025 — MI9 -- AGENT INTELLIGENCE PROTOCOL: RUNTIME GOVERNANCE FOR AGENTIC AI SYST...</p></details>
    Published: August 5, 2025

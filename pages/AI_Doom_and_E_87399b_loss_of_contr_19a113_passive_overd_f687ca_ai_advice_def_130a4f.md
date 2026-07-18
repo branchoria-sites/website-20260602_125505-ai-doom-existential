@@ -280,7 +280,7 @@ One of the subtler pathways to loss of meaningful human control is **when AI adv
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca_ai_advice_def_130a4f-Illustration-1-dark.svg" | relative_url }}" alt="Default Decisions illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca_ai_advice_def_130a4f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca_ai_advice_def_130a4f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Advisory Systems Become De Facto Decision‑Makers
 
-The phenomenon where AI advice hardens into the decision itself isn’t simply about delegation by fiat. It plays out through **[automation bias]({{ 'automation-bias/' | relative_url }})** — a well‑documented cognitive tendency for humans to favour automated recommendations over their own judgements, and to lean on them even when the advice is incorrect or misaligned with context. Research in human‑machine interaction shows that when people receive advice labelled as coming from an AI, they are significantly more likely to follow it, even against contradictory evidence and to their own detriment. This overreliance arises from trust, perceived competence of the system, and cognitive ease, not from malicious intent or clear delegation of authority. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0747563224002206" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Trust and reliance on AI — An experimental study on the extent and costs of overreliance on AI - ScienceDirectNovember 1, 2024...</span><span class="citation-popover-meta">Published: November 1, 2024</span></span></span>
+The phenomenon where AI advice hardens into the decision itself isn’t simply about delegation by fiat. It plays out through **[automation bias]({{ 'automation-bias/' | relative_url }})** — a well‑documented cognitive tendency for humans to favour automated recommendations over their own judgements, and to lean on them even when the advice is incorrect or misaligned with context. Research in human‑machine interaction shows that when people receive advice labelled as coming from an AI, they are significantly more likely to follow it, even against contradictory evidence and to their own detriment. This overreliance arises from trust, perceived competence of the system, and cognitive ease, not from malicious intent or clear delegation of authority.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0747563224002206" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Trust and reliance on AI — An experimental study on the extent and costs of overreliance on AI - ScienceDirectNovember 1, 2024...</span><span class="citation-popover-meta">Published: November 1, 2024</span></span></span>
 
 Studies across psychology and organisational behaviour identify two related biases that underpin this shift:
 
@@ -291,7 +291,7 @@ Studies across psychology and organisational behaviour identify two related bias
 
 </div>
 
-These cognitive patterns show how advisory systems can overshadow human judgement over time — not because they are perfect decision‑makers, but because humans defer to them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s00146-025-02422-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Exploring automation bias in human–AI collaboration: a review and implications for explainable AI &#124; AI &amp; SOCIETY &#124; Springer Natur...</span></span></span>
+These cognitive patterns show how advisory systems can overshadow human judgement over time — not because they are perfect decision‑makers, but because humans defer to them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s00146-025-02422-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Exploring automation bias in human–AI collaboration: a review and implications for explainable AI &#124; AI &amp; SOCIETY &#124; Springer Natur...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/a50TSY2X-yM" title="New documentary asks if we are doomed by AI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=a50TSY2X-yM" target="_blank" rel="noopener noreferrer">New documentary asks if we are doomed by AI</a></p><p class="youtube-embed-meta">Channel: NBC News &middot; Views: 64.0K &middot; Uploaded: March 2026 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=a50TSY2X-yM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=a50TSY2X-yM">Open on YouTube</a></p></div></div></div>
 
@@ -299,24 +299,24 @@ These cognitive patterns show how advisory systems can overshadow human judgemen
 
 Several structural forces accelerate the transition from “advice” to “decision by default”:
 
-**1. Trust amplification through performance:** People tend to rely more on algorithmic advice as tasks become difficult or information‑rich, partly because algorithms often outperform unaided human judgement in complex domains. This doesn’t guarantee correctness in every case, but it creates a *trust–oversight paradox*: more accurate routine performance leads to less scrutiny, so when the system is wrong, oversight may be too shallow to catch it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/artificial/comments/1te26qi/the_trustoversight_paradox_as_ai_gets_better/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">The Trust–Oversight Paradox: As AI Gets Better, Humans May Stop Really Overseeing ItMay 15, 2026...</span><span class="citation-popover-meta">Published: May 15, 2026</span></span></span>
+**1. Trust amplification through performance:** People tend to rely more on algorithmic advice as tasks become difficult or information‑rich, partly because algorithms often outperform unaided human judgement in complex domains. This doesn’t guarantee correctness in every case, but it creates a *trust–oversight paradox*: more accurate routine performance leads to less scrutiny, so when the system is wrong, oversight may be too shallow to catch it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/artificial/comments/1te26qi/the_trustoversight_paradox_as_ai_gets_better/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">The Trust–Oversight Paradox: As AI Gets Better, Humans May Stop Really Overseeing ItMay 15, 2026...</span><span class="citation-popover-meta">Published: May 15, 2026</span></span></span>
 
-**2. Cognitive offloading:** When AI handles frequent decisions or suggestions, humans can experience a shift from active evaluators to passive receivers of guidance. Empirical work shows that mere knowledge an advice comes from an AI increases reliance, even if the user has [independent]({{ 'red-teaming/' | relative_url }}) information contradicting it. This effect grows with repetitive use and repeated confirmation of AI competence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0747563224002206" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Trust and reliance on AI — An experimental study on the extent and costs of overreliance on AI - ScienceDirectNovember 1, 2024...</span><span class="citation-popover-meta">Published: November 1, 2024</span></span></span>
+**2. Cognitive offloading:** When AI handles frequent decisions or suggestions, humans can experience a shift from active evaluators to passive receivers of guidance. Empirical work shows that mere knowledge an advice comes from an AI increases reliance, even if the user has [independent]({{ 'red-teaming/' | relative_url }}) information contradicting it. This effect grows with repetitive use and repeated confirmation of AI competence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0747563224002206" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Trust and reliance on AI — An experimental study on the extent and costs of overreliance on AI - ScienceDirectNovember 1, 2024...</span><span class="citation-popover-meta">Published: November 1, 2024</span></span></span>
 
-**3. Workload and speed:** In real‑world environments where decisions are rapid and abundant — such as business operations, hiring, credit scoring, or public service workflows — human reviewers may not have the time, energy or context to evaluate every suggestion thoroughly. Under pressure, treating AI’s output as the default is a way to maintain throughput, but it degrades active judgement. Practitioners note that as systems filter and escalate tasks autonomously, humans may end up “approving” outputs they don’t fully understand because the system has already decided what requires attention and what doesn’t. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/artificial/comments/1td300k/i_think_humanintheloop_may_become_one_of_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">I think “human-in-the-loop” may become one of the biggest governance illusions in enterprise AIMay 14, 2026...</span><span class="citation-popover-meta">Published: May 14, 2026</span></span></span>
+**3. Workload and speed:** In real‑world environments where decisions are rapid and abundant — such as business operations, hiring, credit scoring, or public service workflows — human reviewers may not have the time, energy or context to evaluate every suggestion thoroughly. Under pressure, treating AI’s output as the default is a way to maintain throughput, but it degrades active judgement. Practitioners note that as systems filter and escalate tasks autonomously, humans may end up “approving” outputs they don’t fully understand because the system has already decided what requires attention and what doesn’t.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/artificial/comments/1td300k/i_think_humanintheloop_may_become_one_of_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">I think “human-in-the-loop” may become one of the biggest governance illusions in enterprise AIMay 14, 2026...</span><span class="citation-popover-meta">Published: May 14, 2026</span></span></span>
 
-**4. Institutional incentives and signalling:** In organisational settings, managers and peers may implicitly reward reliance on AI recommendations because they are perceived as impartial, efficient, or modern. Experimental research highlights that in delegated environments, decision‑makers can be blamed for *overriding* algorithmic recommendations — even when human judgement would have improved outcomes — which further biases behaviour toward default acceptance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4966186" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">SSRN When Delegating AI-Assisted Decisions Drives AI Over-reliance by Hossein Nikpayam, Mirko Kremer, Francis de...</span></span></span>
+**4. Institutional incentives and signalling:** In organisational settings, managers and peers may implicitly reward reliance on AI recommendations because they are perceived as impartial, efficient, or modern. Experimental research highlights that in delegated environments, decision‑makers can be blamed for *overriding* algorithmic recommendations — even when human judgement would have improved outcomes — which further biases behaviour toward default acceptance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4966186" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">SSRN When Delegating AI-Assisted Decisions Drives AI Over-reliance by Hossein Nikpayam, Mirko Kremer, Francis de...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca_ai_advice_def_130a4f-Illustration-2-dark.svg" | relative_url }}" alt="Default Decisions illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca_ai_advice_def_130a4f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca_ai_advice_def_130a4f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Warning Signs That Oversight Has Become Ceremonial
 
 Detecting when AI advice has become the *default* decision rather than one input among many is crucial for assessing control loss. Some emerging indicators include:
 
-* **Routine trust calibration:** Humans stop checking or questioning AI outputs except in obvious outliers, even when context or stakes vary. Behavioural research finds overreliance occurs not because people *can’t* question the advice, but because they increasingly *don’t*. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0747563224002206" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Trust and reliance on AI — An experimental study on the extent and costs of overreliance on AI - ScienceDirectNovember 1, 2024...</span><span class="citation-popover-meta">Published: November 1, 2024</span></span></span>
-* **Escalation illusion:** Systems decide what gets sent to human reviewers — meaning humans review only filtered results, not the full decision context. When the AI determines what is “risk‑worthy,” oversight becomes reactive and superficial. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/artificial/comments/1te26qi/the_trustoversight_paradox_as_ai_gets_better/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">The Trust–Oversight Paradox: As AI Gets Better, Humans May Stop Really Overseeing ItMay 15, 2026...</span><span class="citation-popover-meta">Published: May 15, 2026</span></span></span>
-* **Degraded human expertise:** Over time, repeated reliance on AI suggestions can erode human confidence and expertise. Decision‑makers may lose the ability to assess when the AI is off‑model or misaligned with real‑world nuance because they seldom practise independent evaluation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techradar.com/pro/top-5-risks-of-ai-overdependence-in-the-workplace" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-title">Tech Radar Top 5 risks of AI overdependence in the workplace</span><span class="citation-popover-snippet">As AI tools become integral to daily workflows, concerns are shifting from job loss to subtler impacts on decision-making and employee be...</span></span></span>
-* **Implicit default behaviours:** Workflows and organisational policies begin treating AI output as an input that rarely requires human override, with few documented criteria for when human judgement must prevail. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.itpro.com/technology/artificial-intelligence/swamped-with-decisions-to-make-managers-turn-to-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itpro.com">[IT Pro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itpro.com</span><span class="citation-popover-title">swamped with decisions to make managers turn to ai</span><span class="citation-popover-snippet">A survey by Confluent found that 62% of UK managers use AI for the majority of their decisions, with 46% trusting it more than colleagues...</span></span></span>
-* **Perfunctory human involvement:** Reviews are conducted quickly or in batches without deep engagement, turning human “approval” into a checkbox that legitimises decision automation rather than meaningfully governing it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/artificial/comments/1td300k/i_think_humanintheloop_may_become_one_of_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">I think “human-in-the-loop” may become one of the biggest governance illusions in enterprise AIMay 14, 2026...</span><span class="citation-popover-meta">Published: May 14, 2026</span></span></span>
+* **Routine trust calibration:** Humans stop checking or questioning AI outputs except in obvious outliers, even when context or stakes vary. Behavioural research finds overreliance occurs not because people *can’t* question the advice, but because they increasingly *don’t*.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0747563224002206" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Trust and reliance on AI — An experimental study on the extent and costs of overreliance on AI - ScienceDirectNovember 1, 2024...</span><span class="citation-popover-meta">Published: November 1, 2024</span></span></span>
+* **Escalation illusion:** Systems decide what gets sent to human reviewers — meaning humans review only filtered results, not the full decision context. When the AI determines what is “risk‑worthy,” oversight becomes reactive and superficial.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/artificial/comments/1te26qi/the_trustoversight_paradox_as_ai_gets_better/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">The Trust–Oversight Paradox: As AI Gets Better, Humans May Stop Really Overseeing ItMay 15, 2026...</span><span class="citation-popover-meta">Published: May 15, 2026</span></span></span>
+* **Degraded human expertise:** Over time, repeated reliance on AI suggestions can erode human confidence and expertise. Decision‑makers may lose the ability to assess when the AI is off‑model or misaligned with real‑world nuance because they seldom practise independent evaluation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techradar.com/pro/top-5-risks-of-ai-overdependence-in-the-workplace" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-title">Tech Radar Top 5 risks of AI overdependence in the workplace</span><span class="citation-popover-snippet">As AI tools become integral to daily workflows, concerns are shifting from job loss to subtler impacts on decision-making and employee be...</span></span></span>
+* **Implicit default behaviours:** Workflows and organisational policies begin treating AI output as an input that rarely requires human override, with few documented criteria for when human judgement must prevail.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.itpro.com/technology/artificial-intelligence/swamped-with-decisions-to-make-managers-turn-to-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itpro.com">[IT Pro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itpro.com</span><span class="citation-popover-title">swamped with decisions to make managers turn to ai</span><span class="citation-popover-snippet">A survey by Confluent found that 62% of UK managers use AI for the majority of their decisions, with 46% trusting it more than colleagues...</span></span></span>
+* **Perfunctory human involvement:** Reviews are conducted quickly or in batches without deep engagement, turning human “approval” into a checkbox that legitimises decision automation rather than meaningfully governing it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/artificial/comments/1td300k/i_think_humanintheloop_may_become_one_of_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">I think “human-in-the-loop” may become one of the biggest governance illusions in enterprise AIMay 14, 2026...</span><span class="citation-popover-meta">Published: May 14, 2026</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JRyH7YLaeIM" title="Algorithmic Indifference: The Loss of Human Agency" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JRyH7YLaeIM" target="_blank" rel="noopener noreferrer">Algorithmic Indifference: The Loss of Human Agency</a></p><p class="youtube-embed-meta">Channel: Deep Dive Global &middot; Views: 44 &middot; Uploaded: May 2026 &middot; Length: 44 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JRyH7YLaeIM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JRyH7YLaeIM">Open on YouTube</a></p></div></div></div>
 
@@ -333,269 +333,269 @@ By understanding how advisory systems become de facto decision‑makers, evaluat
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca_ai_advice_def_130a4f-Illustration-3-dark.svg" | relative_url }}" alt="Default Decisions illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca_ai_advice_def_130a4f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_passive_overd_f687ca_ai_advice_def_130a4f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Advice Becomes the Decision. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Advice Becomes the Decision. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8vm0DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Jonathan Russell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8vm0DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
+</h4>
+<p class="fr-book-author">By Stuart Jonathan Russell</p>
         
-        <p class="fr-book-desc">Directly examines how humans can lose meaningful control despite remaining formally in charge.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines how humans can lose meaningful control despite remaining formally in charge.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
-        </h4>
-        <p class="fr-book-author">By Brian Christian</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
+</h4>
+<p class="fr-book-author">By Brian Christian</p>
         
-        <p class="fr-book-desc">Explores failures of human oversight and reliance on algorithmic systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores failures of human oversight and reliance on algorithmic systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weapons of Math Destruction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CxD-DAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Weapons of Math Destruction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weapons of Math Destruction">Weapons of Math Destruction</a>
-        </h4>
-        <p class="fr-book-author">By Cathy O&#x27;Neil</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weapons of Math Destruction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CxD-DAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Weapons of Math Destruction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weapons of Math Destruction">Weapons of Math Destruction</a>
+</h4>
+<p class="fr-book-author">By Cathy O&#x27;Neil</p>
         
-        <p class="fr-book-desc">Shows how automated recommendations can become de facto decisions with limited scrutiny.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how automated recommendations can become de facto decisions with limited scrutiny.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Age+of+A.I.%3A+And+Our+Human+Future+by+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Age of A.I.: And Our Human Future on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Age+of+A.I.%3A+And+Our+Human+Future+by+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Age of A.I.: And Our Human Future">The Age of A.I.: And Our Human Future</a>
-        </h4>
-        <p class="fr-book-author">By Henry Kissinger</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Age+of+A.I.%3A+And+Our+Human+Future+by+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Age of A.I.: And Our Human Future on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Age+of+A.I.%3A+And+Our+Human+Future+by+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Age of A.I.: And Our Human Future">The Age of A.I.: And Our Human Future</a>
+</h4>
+<p class="fr-book-author">By Henry Kissinger</p>
         
-        <p class="fr-book-desc">Discusses how AI may reshape human judgement and institutional decision-making.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Age+of+A.I.%3A+And+Our+Human+Future+by+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses how AI may reshape human judgement and institutional decision-making.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Age+of+A.I.%3A+And+Our+Human+Future+by+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weapons of Math Destruction</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weapons of Math Destruction</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16&quot; FHD IPS Triple Screen Laptop Extender USB C HDMI Plug Play Win Mac Chrome"><img src="{{ '/assets/images/marketplace-covers/d6fbedf7d4099a542581.jpg' | relative_url }}" alt="Listing image for 16&quot; FHD IPS Triple Screen Laptop Extender USB C HDMI Plug Play Win Mac Chrome" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">16&quot; FHD IPS Triple Screen Laptop Extender USB C HDMI Plug Play Win Mac Chrome</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip display">Search <span data-ebay-domain-label>eBay.com</span>: computer chip display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-computer-chip-display&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16&quot; FHD IPS Triple Screen Laptop Extender USB C HDMI Plug Play Win Mac Chrome"><img src="{{ '/assets/images/marketplace-covers/d6fbedf7d4099a542581.jpg' | relative_url }}" alt="Listing image for 16&quot; FHD IPS Triple Screen Laptop Extender USB C HDMI Plug Play Win Mac Chrome" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">16&quot; FHD IPS Triple Screen Laptop Extender USB C HDMI Plug Play Win Mac Chrome</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip display">Search<span data-ebay-domain-label>eBay.com</span>: computer chip display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-computer-chip-display&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HD1920*1200 Computer Laptop TV LCD/LED Test Tool Panel Tester Support 7&quot;-84&quot;"><img src="{{ '/assets/images/marketplace-covers/ab5cf6d467336249110f.jpg' | relative_url }}" alt="Listing image for HD1920*1200 Computer Laptop TV LCD/LED Test Tool Panel Tester Support 7&quot;-84&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">HD1920*1200 Computer Laptop TV LCD/LED Test Tool Panel Tester Support 7&quot;-84&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip display">Search <span data-ebay-domain-label>eBay.com</span>: computer chip display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-computer-chip-display&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HD1920*1200 Computer Laptop TV LCD/LED Test Tool Panel Tester Support 7&quot;-84&quot;"><img src="{{ '/assets/images/marketplace-covers/ab5cf6d467336249110f.jpg' | relative_url }}" alt="Listing image for HD1920*1200 Computer Laptop TV LCD/LED Test Tool Panel Tester Support 7&quot;-84&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">HD1920*1200 Computer Laptop TV LCD/LED Test Tool Panel Tester Support 7&quot;-84&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip display">Search<span data-ebay-domain-label>eBay.com</span>: computer chip display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-computer-chip-display&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DIY Electronic Calculator Kit with LED Digital Tube Display and"><img src="{{ '/assets/images/marketplace-covers/895afc544c6eaae59255.jpg' | relative_url }}" alt="Listing image for DIY Electronic Calculator Kit with LED Digital Tube Display and" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">DIY Electronic Calculator Kit with LED Digital Tube Display and</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip display">Search <span data-ebay-domain-label>eBay.com</span>: computer chip display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-computer-chip-display&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DIY Electronic Calculator Kit with LED Digital Tube Display and"><img src="{{ '/assets/images/marketplace-covers/895afc544c6eaae59255.jpg' | relative_url }}" alt="Listing image for DIY Electronic Calculator Kit with LED Digital Tube Display and" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">DIY Electronic Calculator Kit with LED Digital Tube Display and</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip display">Search<span data-ebay-domain-label>eBay.com</span>: computer chip display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-computer-chip-display&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SuperChips Computer Chip Handheld Monitor for 21-24 Ford Bronco"><img src="{{ '/assets/images/marketplace-covers/a7b51e30a1c9debd9491.jpg' | relative_url }}" alt="Listing image for SuperChips Computer Chip Handheld Monitor for 21-24 Ford Bronco" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SuperChips Computer Chip Handheld Monitor for 21-24 Ford Bronco</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip display">Search <span data-ebay-domain-label>eBay.com</span>: computer chip display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-computer-chip-display&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SuperChips Computer Chip Handheld Monitor for 21-24 Ford Bronco"><img src="{{ '/assets/images/marketplace-covers/a7b51e30a1c9debd9491.jpg' | relative_url }}" alt="Listing image for SuperChips Computer Chip Handheld Monitor for 21-24 Ford Bronco" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SuperChips Computer Chip Handheld Monitor for 21-24 Ford Bronco</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip display">Search<span data-ebay-domain-label>eBay.com</span>: computer chip display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-computer-chip-display&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster"><img src="{{ '/assets/images/marketplace-covers/000874dca6d2fcc04da4.jpg' | relative_url }}" alt="Listing image for A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster"><img src="{{ '/assets/images/marketplace-covers/000874dca6d2fcc04da4.jpg' | relative_url }}" alt="Listing image for A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A. I. Artificial Intelligence. Jude Law. Original UK Video Poster."><img src="{{ '/assets/images/marketplace-covers/2a668d45483ac31aaf6d.jpg' | relative_url }}" alt="Listing image for A. I. Artificial Intelligence. Jude Law. Original UK Video Poster." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A. I. Artificial Intelligence. Jude Law. Original UK Video Poster.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A. I. Artificial Intelligence. Jude Law. Original UK Video Poster."><img src="{{ '/assets/images/marketplace-covers/2a668d45483ac31aaf6d.jpg' | relative_url }}" alt="Listing image for A. I. Artificial Intelligence. Jude Law. Original UK Video Poster." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A. I. Artificial Intelligence. Jude Law. Original UK Video Poster.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ccd8b5ee633357b5409d.jpg' | relative_url }}" alt="Listing image for Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ccd8b5ee633357b5409d.jpg' | relative_url }}" alt="Listing image for Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. Artificial Intelligence Movie Film Poster Art Print"><img src="{{ '/assets/images/marketplace-covers/fb76514b204d73a37317.jpg' | relative_url }}" alt="Listing image for A.I. Artificial Intelligence Movie Film Poster Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A.I. Artificial Intelligence Movie Film Poster Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. Artificial Intelligence Movie Film Poster Art Print"><img src="{{ '/assets/images/marketplace-covers/fb76514b204d73a37317.jpg' | relative_url }}" alt="Listing image for A.I. Artificial Intelligence Movie Film Poster Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A.I. Artificial Intelligence Movie Film Poster Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-decisions-when-advice-becomes-the-decision-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -611,7 +611,7 @@ By understanding how advisory systems become de facto decision‑makers, evaluat
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -631,7 +631,7 @@ By understanding how advisory systems become de facto decision‑makers, evaluat
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -663,7 +663,7 @@ By understanding how advisory systems become de facto decision‑makers, evaluat
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -693,7 +693,7 @@ By understanding how advisory systems become de facto decision‑makers, evaluat
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -751,136 +751,136 @@ By understanding how advisory systems become de facto decision‑makers, evaluat
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0747563224002206" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0747563224002206</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Trust and reliance on AI — An experimental study on the extent and costs of overreliance on AI - ScienceDirectNovember 1, 2024...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0747563224002206" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0747563224002206</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Trust and reliance on AI — An experimental study on the extent and costs of overreliance on AI - ScienceDirectNovember 1, 2024...</p></details>
    Published: November 1, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s00146-025-02422-7" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s00146-025-02422-7</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring automation bias in human–AI collaboration: a review and implications for explainable AI | AI &amp; SOCIETY | Springer Natur...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s00146-025-02422-7" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s00146-025-02422-7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring automation bias in human–AI collaboration: a review and implications for explainable AI | AI &amp; SOCIETY | Springer Natur...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/artificial/comments/1te26qi/the_trustoversight_paradox_as_ai_gets_better/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/artificial/comments/1te26qi/the_trustoversight_paradox_as_ai_gets_better/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Trust–Oversight Paradox: As AI Gets Better, Humans May Stop Really Overseeing ItMay 15, 2026...</p></details>
+   Link:<a href="https://www.reddit.com/r/artificial/comments/1te26qi/the_trustoversight_paradox_as_ai_gets_better/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/artificial/comments/1te26qi/the_trustoversight_paradox_as_ai_gets_better/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Trust–Oversight Paradox: As AI Gets Better, Humans May Stop Really Overseeing ItMay 15, 2026...</p></details>
    Published: May 15, 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/artificial/comments/1td300k/i_think_humanintheloop_may_become_one_of_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/artificial/comments/1td300k/i_think_humanintheloop_may_become_one_of_the/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>I think “human-in-the-loop” may become one of the biggest governance illusions in enterprise AIMay 14, 2026...</p></details>
+   Link:<a href="https://www.reddit.com/r/artificial/comments/1td300k/i_think_humanintheloop_may_become_one_of_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/artificial/comments/1td300k/i_think_humanintheloop_may_become_one_of_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I think “human-in-the-loop” may become one of the biggest governance illusions in enterprise AIMay 14, 2026...</p></details>
    Published: May 14, 2026  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4966186" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4966186</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SSRN&lt;div&gt; When Delegating AI-Assisted Decisions Drives AI &lt;span&gt;Over-reliance&lt;/span&gt; &lt;/div&gt; by Hossein Nikpayam, Mirko Kremer, Francis de...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4966186" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4966186</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SSRN&lt;div&gt; When Delegating AI-Assisted Decisions Drives AI &lt;span&gt;Over-reliance&lt;/span&gt; &lt;/div&gt; by Hossein Nikpayam, Mirko Kremer, Francis de...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: techradar.com  
    Title: Tech Radar Top 5 risks of AI overdependence in the workplace  
-   Link: <a href="https://www.techradar.com/pro/top-5-risks-of-ai-overdependence-in-the-workplace" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/pro/top-5-risks-of-ai-overdependence-in-the-workplace</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>As AI tools become integral to daily workflows, concerns are shifting from job loss to subtler impacts on decision-making and employee be...</p></details>
+   Link:<a href="https://www.techradar.com/pro/top-5-risks-of-ai-overdependence-in-the-workplace" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/pro/top-5-risks-of-ai-overdependence-in-the-workplace</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>As AI tools become integral to daily workflows, concerns are shifting from job loss to subtler impacts on decision-making and employee be...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s43681-026-01147-7" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s43681-026-01147-7</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>meaningful [human oversight](&amp;#123;&amp;#123; &#x27;human-oversight/&#x27; | relative_url &amp;#125;&amp;#125;) in AI | AI and Ethics | Springer Nature LinkMay 4, 2026 — 5 OVERSIGHT AS AGENCY ALLOCATION: GOALS AND PRINCIPL...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s43681-026-01147-7" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s43681-026-01147-7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>meaningful [human oversight](&amp;#123;&amp;#123; &#x27;human-oversight/&#x27; | relative_url &amp;#125;&amp;#125;) in AI | AI and Ethics | Springer Nature LinkMay 4, 2026 — 5 OVERSIGHT AS AGENCY ALLOCATION: GOALS AND PRINCIPL...</p></details>
    Published: May 4, 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5514199" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5514199</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Off Your Better Judgment -Algorithmic Conformity in AI-Human Collaboration by Yotam Liel, Lior Zalmanson:: SSRNOctober 15, 2025 — TURNIN...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5514199" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5514199</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Off Your Better Judgment -Algorithmic Conformity in AI-Human Collaboration by Yotam Liel, Lior Zalmanson:: SSRNOctober 15, 2025 — TURNIN...</p></details>
    Published: October 15, 2025  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s00146-023-01777-z" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s00146-023-01777-z</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>distrust and human oversight of artificial intelligence: towards a democratic design of AI governance under the European Union AI Act | A...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s00146-023-01777-z" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s00146-023-01777-z</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>distrust and human oversight of artificial intelligence: towards a democratic design of AI governance under the European Union AI Act | A...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4377481" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4377481</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Distrust and Human Oversight of Artificial Intelligence: Toward a Democratic Design of AI Governance under the European Union AI Act by J...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4377481" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4377481</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Distrust and Human Oversight of Artificial Intelligence: Toward a Democratic Design of AI Governance under the European Union AI Act by J...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007%2Fs11023-019-09513-7" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007%2Fs11023-019-09513-7</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Decision-Making and the Control Problem | Minds and Machines | Springer Nature LinkDecember 11, 2019 — ALGORITHMIC DECISION-MAKING AND TH...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007%2Fs11023-019-09513-7" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007%2Fs11023-019-09513-7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Decision-Making and the Control Problem | Minds and Machines | Springer Nature LinkDecember 11, 2019 — ALGORITHMIC DECISION-MAKING AND TH...</p></details>
    Published: December 11, 2019  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sciencedirect.com  
    Title: Rise of the machines: Delegating decisions to autonomous AI  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0747563222001303" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0747563222001303</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RISE OF THE MACHINES: DELEGATING DECISIONS TO AUTONOMOUS AI☆ [https://doi.org/10.1016/j.chb.2022.107308Get](https://doi.org/10.1016/j.chb.2022.107308Get) rights and content...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0747563222001303" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0747563222001303</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RISE OF THE MACHINES: DELEGATING DECISIONS TO AUTONOMOUS AI☆ [https://doi.org/10.1016/j.chb.2022.107308Get](https://doi.org/10.1016/j.chb.2022.107308Get) rights and content...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: itpro.com  
    Title: swamped with decisions to make managers turn to ai  
-   Link: <a href="https://www.itpro.com/technology/artificial-intelligence/swamped-with-decisions-to-make-managers-turn-to-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.itpro.com/technology/artificial-intelligence/swamped-with-decisions-to-make-managers-turn-to-ai</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A survey by Confluent found that 62% of UK managers use AI for the majority of their decisions, with 46% trusting it more than colleagues...</p></details>
+   Link:<a href="https://www.itpro.com/technology/artificial-intelligence/swamped-with-decisions-to-make-managers-turn-to-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.itpro.com/technology/artificial-intelligence/swamped-with-decisions-to-make-managers-turn-to-ai</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A survey by Confluent found that 62% of UK managers use AI for the majority of their decisions, with 46% trusting it more than colleagues...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-021-87480-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-021-87480-9</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 13, 2021 — Humans rely more on algorithms than social influence as a task becomes more difficult Download PDF Download PDF * Articl...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41598-021-87480-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-021-87480-9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 13, 2021 — Humans rely more on algorithms than social influence as a task becomes more difficult Download PDF Download PDF * Articl...</p></details>
    Published: April 13, 2021  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/journals/european-journal-of-risk-regulation/article/automation-bias-in-the-ai-act-on-the-legal-implications-of-attempting-to-debias-human-oversight-of-ai/C97C85015056C09326944DE55CBC4D2C" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/european-journal-of-risk-regulation/article/automation-bias-in-the-ai-act-on-the-legal-implications-of-attempting-to-debias-human-oversight-of-ai/C97C85015056C09326944DE55CBC4D2C</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>INTRODUCTION Despite its sweeping regulation of Artificial Intelligence (AI) across sectors,Footnote ^{1} the European Union’s AI Act (AI...</p></details>
+   Link:<a href="https://www.cambridge.org/core/journals/european-journal-of-risk-regulation/article/automation-bias-in-the-ai-act-on-the-legal-implications-of-attempting-to-debias-human-oversight-of-ai/C97C85015056C09326944DE55CBC4D2C" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/european-journal-of-risk-regulation/article/automation-bias-in-the-ai-act-on-the-legal-implications-of-attempting-to-debias-human-oversight-of-ai/C97C85015056C09326944DE55CBC4D2C</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>INTRODUCTION Despite its sweeping regulation of Artificial Intelligence (AI) across sectors,Footnote ^{1} the European Union’s AI Act (AI...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: research.vu.nl  
-   Link: <a href="https://research.vu.nl/en/publications/humanai-interactions-in-public-sector-decision-making-automation-/" target="_blank" rel="noopener noreferrer nofollow">https://research.vu.nl/en/publications/humanai-interactions-in-public-sector-decision-making-automation-/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>vu.nlHuman–AI interactions in public sector decision making: “Automation bias” and “selective adherence” to algorithmic advice - Vrije Un...</p></details>
+   Link:<a href="https://research.vu.nl/en/publications/humanai-interactions-in-public-sector-decision-making-automation-/" target="_blank" rel="noopener noreferrer nofollow">https://research.vu.nl/en/publications/humanai-interactions-in-public-sector-decision-making-automation-/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>vu.nlHuman–AI interactions in public sector decision making: “Automation bias” and “selective adherence” to algorithmic advice - Vrije Un...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: edps.europa.eu  
    Title: 2025 09 23 techdispatch 22025 human oversight automated making fr  
-   Link: <a href="https://www.edps.europa.eu/data-protection/our-work/publications/techdispatch/2025-09-23-techdispatch-22025-human-oversight-automated-making_fr" target="_blank" rel="noopener noreferrer nofollow">https://www.edps.europa.eu/data-protection/our-work/publications/techdispatch/2025-09-23-techdispatch-22025-human-oversight-automated-making_fr</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>#2/2025 - Human Oversight of Automated Decision-Making | European Data Protection SupervisorSeptember 23, 2025 — WRONG ASSUMPTIONS ABOUT...</p></details>
+   Link:<a href="https://www.edps.europa.eu/data-protection/our-work/publications/techdispatch/2025-09-23-techdispatch-22025-human-oversight-automated-making_fr" target="_blank" rel="noopener noreferrer nofollow">https://www.edps.europa.eu/data-protection/our-work/publications/techdispatch/2025-09-23-techdispatch-22025-human-oversight-automated-making_fr</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>#2/2025 - Human Oversight of Automated Decision-Making | European Data Protection SupervisorSeptember 23, 2025 — WRONG ASSUMPTIONS ABOUT...</p></details>
    Published: September 23, 2025  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: There are, potentially, significant ben  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12881489/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12881489/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>human reliance on artificial intelligence in decision making - PMCFebruary 5, 2026 — INTRODUCTION Advances in technology and access to “b...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12881489/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12881489/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>human reliance on artificial intelligence in decision making - PMCFebruary 5, 2026 — INTRODUCTION Advances in technology and access to “b...</p></details>
    Published: February 5, 2026  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/37553098/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/37553098/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When Should They? - PubMedAugust 8, 2023 —. 2024 Jul;66(7):1914-1927. doi: 10.1177/00187208231190459. Epub 2023 Aug 8. WHEN DO HUMANS HE...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/37553098/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/37553098/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Should They? - PubMedAugust 8, 2023 —. 2024 Jul;66(7):1914-1927. doi: 10.1177/00187208231190459. Epub 2023 Aug 8. WHEN DO HUMANS HE...</p></details>
    Published: August 8, 2023  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11089830/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11089830/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When Should They? - PMCAugust 8, 2023 —. 2023 Aug 8;66(7):1914–1927. doi: 10.1177/00187208231190459 WHEN DO HUMANS HEED AI AGENTS’ ADVIC...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11089830/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11089830/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Should They? - PMCAugust 8, 2023 —. 2023 Aug 8;66(7):1914–1927. doi: 10.1177/00187208231190459 WHEN DO HUMANS HEED AI AGENTS’ ADVIC...</p></details>
    Published: August 8, 2023  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8260507/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8260507/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>autonomous self-learning systems that gather and process data to make qualitative judgements with little or no human interventi...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8260507/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8260507/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>autonomous self-learning systems that gather and process data to make qualitative judgements with little or no human interventi...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: sciencestack.ai  
-   Link: <a href="https://www.sciencestack.ai/paper/2512.04489" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencestack.ai/paper/2512.04489</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision Path to Control AI Risks Completely: Fundamental Control Mechanisms for AI Governance (arXiv:2512.04489v1) - ScienceStackDec...</p></details>
+   Link:<a href="https://www.sciencestack.ai/paper/2512.04489" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencestack.ai/paper/2512.04489</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision Path to Control AI Risks Completely: Fundamental Control Mechanisms for AI Governance (arXiv:2512.04489v1) - ScienceStackDec...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/00187208231190459" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/00187208231190459</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When Should They? - Richard E. Dunning, Baruch Fischhoff, Alex L. Davis, 2024August 8, 2023 — WHEN DO HUMANS HEED AI AGENTS’ ADVICE? WHEN...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/00187208231190459" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/00187208231190459</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Should They? - Richard E. Dunning, Baruch Fischhoff, Alex L. Davis, 2024August 8, 2023 — WHEN DO HUMANS HEED AI AGENTS’ ADVICE? WHEN...</p></details>
    Published: August 8, 2023

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-deceptive-ali/
 description: Focused pages that expand on Deception and Loss.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_deceptive_ali_f9f449_deception_los_dd8ce0
 parent_title: Deception and Loss
@@ -16,7 +16,7 @@ parent_permalink: /deception-and-loss/
 
 # Explore Topics in Deception and Loss
 
-The following pages expand on the main **[Deception and Loss]({{ '/deception-and-loss/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Deception and Loss]({{ '/deception-and-loss/' | relative_url }})** page and cover its key branches in.
 
 - [False confidence]({{ '/false-confidence/' | relative_url }})
 - [Monitoring]({{ '/monitoring/' | relative_url }})

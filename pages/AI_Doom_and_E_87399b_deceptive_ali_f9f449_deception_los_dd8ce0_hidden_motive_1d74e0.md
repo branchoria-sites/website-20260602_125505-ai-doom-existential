@@ -325,178 +325,178 @@ Detecting hidden motives remains an *unsolved challenge at the heart of AI safet
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dvFjLnf0bYI" title="Chenhao Tan - Automating Mechanistic Interpretability [Alignment Workshop]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dvFjLnf0bYI" target="_blank" rel="noopener noreferrer">Chenhao Tan - Automating Mechanistic Interpretability [Alignment Workshop]</a></p><p class="youtube-embed-meta">Channel: FAR․AI &middot; Views: 373 &middot; Uploaded: March 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dvFjLnf0bYI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dvFjLnf0bYI">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How could hidden AI motives be detected?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How could hidden AI motives be detected?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
-        </h4>
-        <p class="fr-book-author">By Brian Christian</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
+</h4>
+<p class="fr-book-author">By Brian Christian</p>
         
-        <p class="fr-book-desc">Directly relevant to detecting hidden objectives and alignment failures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to detecting hidden objectives and alignment failures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Russell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
+</h4>
+<p class="fr-book-author">By Stuart Russell</p>
         
-        <p class="fr-book-desc">Focuses on understanding and controlling AI goals.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on understanding and controlling AI goals.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rebooting+AI+by+Gary+Marcus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rebooting AI on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OmeEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Rebooting AI" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rebooting+AI+by+Gary+Marcus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rebooting AI">Rebooting AI</a>
-        </h4>
-        <p class="fr-book-author">By Gary Marcus, Ernest Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Rebooting+AI+by+Gary+Marcus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rebooting AI on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OmeEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Rebooting AI" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Rebooting+AI+by+Gary+Marcus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rebooting AI">Rebooting AI</a>
+</h4>
+<p class="fr-book-author">By Gary Marcus, Ernest Davis</p>
         
-        <p class="fr-book-desc">Covers transparency, monitoring, and limits of black-box systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rebooting+AI+by+Gary+Marcus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers transparency, monitoring, and limits of black-box systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Rebooting+AI+by+Gary+Marcus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superintelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7_H8AwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superintelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superintelligence">Superintelligence</a>
-        </h4>
-        <p class="fr-book-author">By Nick Bostrom</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superintelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7_H8AwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superintelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superintelligence">Superintelligence</a>
+</h4>
+<p class="fr-book-author">By Nick Bostrom</p>
         
-        <p class="fr-book-desc">Discusses concealed objectives and strategic behavior by advanced agents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses concealed objectives and strategic behavior by advanced agents.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Rebooting+AI&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rebooting AI</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Rebooting+AI&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rebooting AI</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-    </div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitoring-how-could-hidden-ai-motives-be-detected-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Matserpi Robotic Arm Car Kit for Raspberry Pi - AI Vision, 5DOF, Educational Rob"><img src="{{ '/assets/images/marketplace-covers/51354845bd593a6ad015.jpg' | relative_url }}" alt="Listing image for Matserpi Robotic Arm Car Kit for Raspberry Pi - AI Vision, 5DOF, Educational Rob" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitoring-how-could-hidden-ai-motives-be-detected-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Matserpi Robotic Arm Car Kit for Raspberry Pi - AI Vision, 5DOF, Educational Rob</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitoring-how-could-hidden-ai-motives-be-detected-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI robot kit">Search <span data-ebay-domain-label>eBay.com</span>: AI robot kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitoring-how-could-hidden-ai-motives-be-detected-ai-doom-and-ai-robot-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitoring-how-could-hidden-ai-motives-be-detected-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Matserpi Robotic Arm Car Kit for Raspberry Pi - AI Vision, 5DOF, Educational Rob"><img src="{{ '/assets/images/marketplace-covers/51354845bd593a6ad015.jpg' | relative_url }}" alt="Listing image for Matserpi Robotic Arm Car Kit for Raspberry Pi - AI Vision, 5DOF, Educational Rob" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitoring-how-could-hidden-ai-motives-be-detected-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Matserpi Robotic Arm Car Kit for Raspberry Pi - AI Vision, 5DOF, Educational Rob</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitoring-how-could-hidden-ai-motives-be-detected-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI robot kit">Search<span data-ebay-domain-label>eBay.com</span>: AI robot kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitoring-how-could-hidden-ai-motives-be-detected-ai-doom-and-ai-robot-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitoring-how-could-hidden-ai-motives-be-detected-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DOFBOT 6DOF Robot Arm Kit Mechanical Arm AI Visual Recognition for Nvidia Jetson"><img src="{{ '/assets/images/marketplace-covers/72b5e0256a0224d63a3f.jpg' | relative_url }}" alt="Listing image for DOFBOT 6DOF Robot Arm Kit Mechanical Arm AI Visual Recognition for Nvidia Jetson" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitoring-how-could-hidden-ai-motives-be-detected-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">DOFBOT 6DOF Robot Arm Kit Mechanical Arm AI Visual Recognition for Nvidia Jetson</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitoring-how-could-hidden-ai-motives-be-detected-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI robot kit">Search <span data-ebay-domain-label>eBay.com</span>: AI robot kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitoring-how-could-hidden-ai-motives-be-detected-ai-doom-and-ai-robot-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitoring-how-could-hidden-ai-motives-be-detected-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DOFBOT 6DOF Robot Arm Kit Mechanical Arm AI Visual Recognition for Nvidia Jetson"><img src="{{ '/assets/images/marketplace-covers/72b5e0256a0224d63a3f.jpg' | relative_url }}" alt="Listing image for DOFBOT 6DOF Robot Arm Kit Mechanical Arm AI Visual Recognition for Nvidia Jetson" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitoring-how-could-hidden-ai-motives-be-detected-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">DOFBOT 6DOF Robot Arm Kit Mechanical Arm AI Visual Recognition for Nvidia Jetson</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitoring-how-could-hidden-ai-motives-be-detected-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI robot kit">Search<span data-ebay-domain-label>eBay.com</span>: AI robot kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitoring-how-could-hidden-ai-motives-be-detected-ai-doom-and-ai-robot-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitoring-how-could-hidden-ai-motives-be-detected-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Picrawler AI Robot Kit for Raspberry Pi with Voice Control &amp; Video Recognition"><img src="{{ '/assets/images/marketplace-covers/0d24915afcae68c097e0.jpg' | relative_url }}" alt="Listing image for Picrawler AI Robot Kit for Raspberry Pi with Voice Control &amp; Video Recognition" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitoring-how-could-hidden-ai-motives-be-detected-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Picrawler AI Robot Kit for Raspberry Pi with Voice Control &amp; Video Recognition</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitoring-how-could-hidden-ai-motives-be-detected-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI robot kit">Search <span data-ebay-domain-label>eBay.com</span>: AI robot kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitoring-how-could-hidden-ai-motives-be-detected-ai-doom-and-ai-robot-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitoring-how-could-hidden-ai-motives-be-detected-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Picrawler AI Robot Kit for Raspberry Pi with Voice Control &amp; Video Recognition"><img src="{{ '/assets/images/marketplace-covers/0d24915afcae68c097e0.jpg' | relative_url }}" alt="Listing image for Picrawler AI Robot Kit for Raspberry Pi with Voice Control &amp; Video Recognition" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitoring-how-could-hidden-ai-motives-be-detected-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Picrawler AI Robot Kit for Raspberry Pi with Voice Control &amp; Video Recognition</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitoring-how-could-hidden-ai-motives-be-detected-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI robot kit">Search<span data-ebay-domain-label>eBay.com</span>: AI robot kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitoring-how-could-hidden-ai-motives-be-detected-ai-doom-and-ai-robot-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitoring-how-could-hidden-ai-motives-be-detected-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TurboPi Smart Robot Car Kit Vision AI Robot-Hiwonder 2DOF HD Cam for Raspberry"><img src="{{ '/assets/images/marketplace-covers/6febc37663a27a71e69e.jpg' | relative_url }}" alt="Listing image for TurboPi Smart Robot Car Kit Vision AI Robot-Hiwonder 2DOF HD Cam for Raspberry" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitoring-how-could-hidden-ai-motives-be-detected-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TurboPi Smart Robot Car Kit Vision AI Robot-Hiwonder 2DOF HD Cam for Raspberry</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitoring-how-could-hidden-ai-motives-be-detected-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI robot kit">Search <span data-ebay-domain-label>eBay.com</span>: AI robot kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitoring-how-could-hidden-ai-motives-be-detected-ai-doom-and-ai-robot-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitoring-how-could-hidden-ai-motives-be-detected-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitoring-how-could-hidden-ai-motives-be-detected-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TurboPi Smart Robot Car Kit Vision AI Robot-Hiwonder 2DOF HD Cam for Raspberry"><img src="{{ '/assets/images/marketplace-covers/6febc37663a27a71e69e.jpg' | relative_url }}" alt="Listing image for TurboPi Smart Robot Car Kit Vision AI Robot-Hiwonder 2DOF HD Cam for Raspberry" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitoring-how-could-hidden-ai-motives-be-detected-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TurboPi Smart Robot Car Kit Vision AI Robot-Hiwonder 2DOF HD Cam for Raspberry</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitoring-how-could-hidden-ai-motives-be-detected-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI robot kit">Search<span data-ebay-domain-label>eBay.com</span>: AI robot kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitoring-how-could-hidden-ai-motives-be-detected-ai-doom-and-ai-robot-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitoring-how-could-hidden-ai-motives-be-detected-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -512,7 +512,7 @@ Detecting hidden motives remains an *unsolved challenge at the heart of AI safet
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -532,7 +532,7 @@ Detecting hidden motives remains an *unsolved challenge at the heart of AI safet
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -564,7 +564,7 @@ Detecting hidden motives remains an *unsolved challenge at the heart of AI safet
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -594,7 +594,7 @@ Detecting hidden motives remains an *unsolved challenge at the heart of AI safet
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -652,145 +652,145 @@ Detecting hidden motives remains an *unsolved challenge at the heart of AI safet
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: OpenAI  
    Title: detecting and reducing scheming in ai models  
-   Link: <a href="https://openai.com/index/detecting-and-reducing-scheming-in-ai-models/" target="_blank" rel="noopener noreferrer nofollow">https://openai.com/index/detecting-and-reducing-scheming-in-ai-models/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>September 17, 2025...</p></details>
+   Link:<a href="https://openai.com/index/detecting-and-reducing-scheming-in-ai-models/" target="_blank" rel="noopener noreferrer nofollow">https://openai.com/index/detecting-and-reducing-scheming-in-ai-models/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 17, 2025...</p></details>
    Published: September 17, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: openreview.net  
-   Link: <a href="https://openreview.net/forum?id=Hf7jMztvve" target="_blank" rel="noopener noreferrer nofollow">https://openreview.net/forum?id=Hf7jMztvve</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret Agenda: LLMs Strategically Lie and Our Current Safety Tools Are Blind | OpenReviewSeptember 19, 2025...</p></details>
+   Link:<a href="https://openreview.net/forum?id=Hf7jMztvve" target="_blank" rel="noopener noreferrer nofollow">https://openreview.net/forum?id=Hf7jMztvve</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret Agenda: LLMs Strategically Lie and Our Current Safety Tools Are Blind | OpenReviewSeptember 19, 2025...</p></details>
    Published: September 19, 2025  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s43681-026-01132-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s43681-026-01132-0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The safety failures we are not instrumenting: a perspective on hidden safety-critical challenges in modern AI systems | AI and Et...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s43681-026-01132-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s43681-026-01132-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The safety failures we are not instrumenting: a perspective on hidden safety-critical challenges in modern AI systems | AI and Et...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: medrxiv.org  
-   Link: <a href="https://www.medrxiv.org/content/10.64898/2026.01.17.26344330v1.full" target="_blank" rel="noopener noreferrer nofollow">https://www.medrxiv.org/content/10.64898/2026.01.17.26344330v1.full</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AlignInsight: A Three-Layer Framework for Detecting Deceptive Alignment and Evaluation Awareness in Healthcare AI Systems | medRxi...</p></details>
+   Link:<a href="https://www.medrxiv.org/content/10.64898/2026.01.17.26344330v1.full" target="_blank" rel="noopener noreferrer nofollow">https://www.medrxiv.org/content/10.64898/2026.01.17.26344330v1.full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AlignInsight: A Three-Layer Framework for Detecting Deceptive Alignment and Evaluation Awareness in Healthcare AI Systems | medRxi...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: schemebench.com  
-   Link: <a href="https://www.schemebench.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.schemebench.com/</a>  
+   Link:<a href="https://www.schemebench.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.schemebench.com/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s10462-026-11517-6" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10462-026-11517-6</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>springer.comLies, damned lies, and language statistics: a comprehensive review of risks from manipulation, persuasion, and deception with...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s10462-026-11517-6" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10462-026-11517-6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>springer.comLies, damned lies, and language statistics: a comprehensive review of risks from manipulation, persuasion, and deception with...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: openreview.net  
    Title: Unknown Unknowns: Why Hidden Intentions in LLMs Evade Detection | Open Review  
-   Link: <a href="https://openreview.net/forum?id=hrcpeLrtqE" target="_blank" rel="noopener noreferrer nofollow">https://openreview.net/forum?id=hrcpeLrtqE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unknown Unknowns: Why Hidden Intentions in LLMs Evade Detection | OpenReviewSeptember 19, 2025 — UNKNOWN UNKNOWNS: WHY HIDDEN INTENTIONS...</p></details>
+   Link:<a href="https://openreview.net/forum?id=hrcpeLrtqE" target="_blank" rel="noopener noreferrer nofollow">https://openreview.net/forum?id=hrcpeLrtqE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unknown Unknowns: Why Hidden Intentions in LLMs Evade Detection | OpenReviewSeptember 19, 2025 — UNKNOWN UNKNOWNS: WHY HIDDEN INTENTIONS...</p></details>
    Published: September 19, 2025  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: proceedings.mlr.press  
-   Link: <a href="https://proceedings.mlr.press/v267/goldowsky-dill25a.html" target="_blank" rel="noopener noreferrer nofollow">https://proceedings.mlr.press/v267/goldowsky-dill25a.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Proceedings of Machine Learning ResearchDetecting Strategic Deception with Linear ProbesOctober 6, 2025...</p></details>
+   Link:<a href="https://proceedings.mlr.press/v267/goldowsky-dill25a.html" target="_blank" rel="noopener noreferrer nofollow">https://proceedings.mlr.press/v267/goldowsky-dill25a.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Proceedings of Machine Learning ResearchDetecting Strategic Deception with Linear ProbesOctober 6, 2025...</p></details>
    Published: October 6, 2025  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: matsprogram.org  
-   Link: <a href="https://www.matsprogram.org/research/can-reasoning-models-obfuscate-reasoning-stress-testing-chain-of-thought-monitorability" target="_blank" rel="noopener noreferrer nofollow">https://www.matsprogram.org/research/can-reasoning-models-obfuscate-reasoning-stress-testing-chain-of-thought-monitorability</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MATS ProgramCan Reasoning Models Obfuscate Reasoning? Stress-Testing Chain-of-Thought Monitorability - MATS Research...</p></details>
+   Link:<a href="https://www.matsprogram.org/research/can-reasoning-models-obfuscate-reasoning-stress-testing-chain-of-thought-monitorability" target="_blank" rel="noopener noreferrer nofollow">https://www.matsprogram.org/research/can-reasoning-models-obfuscate-reasoning-stress-testing-chain-of-thought-monitorability</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MATS ProgramCan Reasoning Models Obfuscate Reasoning? Stress-Testing Chain-of-Thought Monitorability - MATS Research...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: alignment.anthropic.com  
    Title: Alignment Science Blog SLEIGHT-Bench: Finding Blind Spots in AI Monitors  
-   Link: <a href="https://alignment.anthropic.com/2026/sleight-bench/" target="_blank" rel="noopener noreferrer nofollow">https://alignment.anthropic.com/2026/sleight-bench/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alignment Science BlogSLEIGHT-Bench: Finding Blind Spots in AI MonitorsMay 19, 2026...</p></details>
+   Link:<a href="https://alignment.anthropic.com/2026/sleight-bench/" target="_blank" rel="noopener noreferrer nofollow">https://alignment.anthropic.com/2026/sleight-bench/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alignment Science BlogSLEIGHT-Bench: Finding Blind Spots in AI MonitorsMay 19, 2026...</p></details>
    Published: May 19, 2026  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: papers.cool  
    Title: Can Reasoning Models Obfuscate Reasoning?  
-   Link: <a href="https://papers.cool/arxiv/2510.19851" target="_blank" rel="noopener noreferrer nofollow">https://papers.cool/arxiv/2510.19851</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stress-Testing Chain-of-Thought Monitorability | Cool Papers - Immersive Paper DiscoveryOctober 21, 2025 — 2510.19851 Total: 1 #1 CAN REA...</p></details>
+   Link:<a href="https://papers.cool/arxiv/2510.19851" target="_blank" rel="noopener noreferrer nofollow">https://papers.cool/arxiv/2510.19851</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stress-Testing Chain-of-Thought Monitorability | Cool Papers - Immersive Paper DiscoveryOctober 21, 2025 — 2510.19851 Total: 1 #1 CAN REA...</p></details>
    Published: October 21, 2025  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ai-safety-atlas.com  
-   Link: <a href="https://ai-safety-atlas.com/chapters/v1/goal-misgeneralization/scheming/" target="_blank" rel="noopener noreferrer nofollow">https://ai-safety-atlas.com/chapters/v1/goal-misgeneralization/scheming/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When we observe deceptive behavi...</p></details>
+   Link:<a href="https://ai-safety-atlas.com/chapters/v1/goal-misgeneralization/scheming/" target="_blank" rel="noopener noreferrer nofollow">https://ai-safety-atlas.com/chapters/v1/goal-misgeneralization/scheming/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When we observe deceptive behavi...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ai-safety-atlas.com  
-   Link: <a href="https://ai-safety-atlas.com/chapters/v1/goal-misgeneralization/detection" target="_blank" rel="noopener noreferrer nofollow">https://ai-safety-atlas.com/chapters/v1/goal-misgeneralization/detection</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These techniques use interpretability tools to exami...</p></details>
+   Link:<a href="https://ai-safety-atlas.com/chapters/v1/goal-misgeneralization/detection" target="_blank" rel="noopener noreferrer nofollow">https://ai-safety-atlas.com/chapters/v1/goal-misgeneralization/detection</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These techniques use interpretability tools to exami...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: riesgosia.org  
    Title: Deceptive alignment  
-   Link: <a href="https://riesgosia.org/en/mit-risks/mit1061/" target="_blank" rel="noopener noreferrer nofollow">https://riesgosia.org/en/mit-risks/mit1061/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI System Safety, Failures, &amp; Limitations (mit1061) - MIT AI Risk Database - RiesgosIA1. Home 2. MIT AI Risk Repository 3. Deceptive alig...</p></details>
+   Link:<a href="https://riesgosia.org/en/mit-risks/mit1061/" target="_blank" rel="noopener noreferrer nofollow">https://riesgosia.org/en/mit-risks/mit1061/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI System Safety, Failures, &amp; Limitations (mit1061) - MIT AI Risk Database - RiesgosIA1. Home 2. MIT AI Risk Repository 3. Deceptive alig...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/404137826_A_Systematic_Review_of_Evaluation_of_How_AI_Systems_Behaves_When_Unmonitored" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/404137826_A_Systematic_Review_of_Evaluation_of_How_AI_Systems_Behaves_When_Unmonitored</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 20, 2026 — A SYSTEMATIC REVIEW OF EVALUATION OF HOW AI SYSTEMS BEHAVES WHEN UNMONITORED * April 2026 * International Journal of Sci...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/404137826_A_Systematic_Review_of_Evaluation_of_How_AI_Systems_Behaves_When_Unmonitored" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/404137826_A_Systematic_Review_of_Evaluation_of_How_AI_Systems_Behaves_When_Unmonitored</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 20, 2026 — A SYSTEMATIC REVIEW OF EVALUATION OF HOW AI SYSTEMS BEHAVES WHEN UNMONITORED * April 2026 * International Journal of Sci...</p></details>
    Published: April 20, 2026  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: aisecurityandsafety.org  
    Title: Deceptive Alignment — AI Safety & Security Definition | AI Safety Directory  
-   Link: <a href="https://aisecurityandsafety.org/en/glossary/deceptive-alignment/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/en/glossary/deceptive-alignment/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 27, 2026 — DECEPTIVE ALIGNMENT safety Last updated: March 27, 2026 DEFINITION A theoretical failure mode in which an AI system stra...</p></details>
+   Link:<a href="https://aisecurityandsafety.org/en/glossary/deceptive-alignment/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/en/glossary/deceptive-alignment/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 27, 2026 — DECEPTIVE ALIGNMENT safety Last updated: March 27, 2026 DEFINITION A theoretical failure mode in which an AI system stra...</p></details>
    Published: March 27, 2026  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: alignmentproject.aisi.gov.uk  
-   Link: <a href="https://alignmentproject.aisi.gov.uk/research-area/interpretability" target="_blank" rel="noopener noreferrer nofollow">https://alignmentproject.aisi.gov.uk/research-area/interpretability</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apply now Image Interpretability provides access to AI systems&#x27; internal mechanisms, offering a window into how mo...</p></details>
+   Link:<a href="https://alignmentproject.aisi.gov.uk/research-area/interpretability" target="_blank" rel="noopener noreferrer nofollow">https://alignmentproject.aisi.gov.uk/research-area/interpretability</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Apply now Image Interpretability provides access to AI systems&#x27; internal mechanisms, offering a window into how mo...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: finance.yahoo.com  
    Title: ai study finds chatbots strategically 202550376  
-   Link: <a href="https://finance.yahoo.com/news/ai-study-finds-chatbots-strategically-202550376.html" target="_blank" rel="noopener noreferrer nofollow">https://finance.yahoo.com/news/ai-study-finds-chatbots-strategically-202550376.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Study Finds Chatbots Can Strategically Lie—And Current Safety Tools Can&#x27;t Catch ThemSeptember 29, 2025 — AI STUDY FINDS CHATBOTS CAN STRA...</p></details>
+   Link:<a href="https://finance.yahoo.com/news/ai-study-finds-chatbots-strategically-202550376.html" target="_blank" rel="noopener noreferrer nofollow">https://finance.yahoo.com/news/ai-study-finds-chatbots-strategically-202550376.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Study Finds Chatbots Can Strategically Lie—And Current Safety Tools Can&#x27;t Catch ThemSeptember 29, 2025 — AI STUDY FINDS CHATBOTS CAN STRA...</p></details>
    Published: September 29, 2025  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: aisecurityandsafety.org  
    Title: deceptive alignment guide  
-   Link: <a href="https://aisecurityandsafety.org/en/guides/deceptive-alignment-guide/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/en/guides/deceptive-alignment-guide/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deceptive Alignment: When AI Systems Fake Safety (2026) | AI Safety DirectoryMarch 29, 2026 — DECEPTIVE ALIGNMENT: WHEN AI SYSTEMS FAKE S...</p></details>
+   Link:<a href="https://aisecurityandsafety.org/en/guides/deceptive-alignment-guide/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/en/guides/deceptive-alignment-guide/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deceptive Alignment: When AI Systems Fake Safety (2026) | AI Safety DirectoryMarch 29, 2026 — DECEPTIVE ALIGNMENT: WHEN AI SYSTEMS FAKE S...</p></details>
    Published: March 29, 2026  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Vincent Conitzer  
-   Link: <a href="https://www.youtube.com/watch?v=SB5NeoYi_q8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SB5NeoYi_q8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Apollo Research: Building the future AI Safety [Evals](&amp;#123;&amp;#123; &#x27;evals/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=SB5NeoYi_q8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SB5NeoYi_q8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Apollo Research: Building the future AI Safety [Evals](&amp;#123;&amp;#123; &#x27;evals/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11117051/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11117051/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2024 May 10;5(5):100988. doi: 10.1016/j.patter.2024.100988 AI DECEPTION: A SURVEY OF EXAMPLES, RISKS, AND POTENTIAL SOLUTIONS Peter S Par...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11117051/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11117051/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2024 May 10;5(5):100988. doi: 10.1016/j.patter.2024.100988 AI DECEPTION: A SURVEY OF EXAMPLES, RISKS, AND POTENTIAL SOLUTIONS Peter S Par...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: Detecting Strategic Deception Using Linear Probes  
-   Link: <a href="https://www.youtube.com/watch?v=cgoiPvjhVkU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cgoiPvjhVkU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chenhao Tan - Automating Mechanistic Interpretability [Alignment Workshop]...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=cgoiPvjhVkU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cgoiPvjhVkU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chenhao Tan - Automating Mechanistic Interpretability [Alignment Workshop]...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: Inside Apollo Research: Building the future AI Safety Evals  
-   Link: <a href="https://www.youtube.com/watch?v=whHyvfsXs3Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=whHyvfsXs3Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is Your AI Lying to You? The Danger of Alignment Faking...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=whHyvfsXs3Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=whHyvfsXs3Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is Your AI Lying to You? The Danger of Alignment Faking...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: Is Your AI Lying to You? The Danger of Alignment Faking  
-   Link: <a href="https://www.youtube.com/watch?v=u_MiaW-hr4I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=u_MiaW-hr4I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Detecting Strategic Deception Using Linear Probes...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=u_MiaW-hr4I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=u_MiaW-hr4I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Detecting Strategic Deception Using Linear Probes...</p></details>

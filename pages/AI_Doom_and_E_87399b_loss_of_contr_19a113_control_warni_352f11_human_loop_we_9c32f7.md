@@ -269,7 +269,7 @@ image: /assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_control_warni_35
 
 ## Introduction
 
-As AI systems become more capable and are deployed in high‑impact settings, many organisations rely on **human‑in‑the‑loop (HITL)** mechanisms — checkpoints where a person reviews and approves AI outputs — as a primary safeguard. Yet a growing body of research and practical experience shows that **these checkpoints can stop working in practice**, not because of a lack of policy, but because the design, context and incentives around them degrade real oversight into a symbolic gesture. This failure mode is critical as part of the broader cluster of *[warning signs]({{ 'warning-signs/' | relative_url }}) that AI oversight is failing*, because it can lull developers, regulators and the public into believing that humans still control an AI’s behaviour when they do not. The risk here isn’t solely near‑term errors, it is *systematically weakening human control* in systems whose capability and [autonomy]({{ 'autonomy/' | relative_url }}) may grow faster than our ability to supervise them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s43681-026-01147-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Designing meaningful human oversight in AI &#124; AI and Ethics &#124; Springer Nature LinkMay 4, 2026...</span><span class="citation-popover-meta">Published: May 4, 2026</span></span></span>
+As AI systems become more capable and are deployed in high‑impact settings, many organisations rely on **human‑in‑the‑loop (HITL)** mechanisms — checkpoints where a person reviews and approves AI outputs — as a primary safeguard. Yet a growing body of research and practical experience shows that **these checkpoints can stop working in practice**, not because of a lack of policy, but because the design, context and incentives around them degrade real oversight into a symbolic gesture. This failure mode is critical as part of the broader cluster of *[warning signs]({{ 'warning-signs/' | relative_url }}) that AI oversight is failing*, because it can lull developers, regulators and the public into believing that humans still control an AI’s behaviour when they do not. The risk here isn’t solely near‑term errors, it is *systematically weakening human control* in systems whose capability and [autonomy]({{ 'autonomy/' | relative_url }}) may grow faster than our ability to supervise them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s43681-026-01147-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Designing meaningful human oversight in AI &#124; AI and Ethics &#124; Springer Nature LinkMay 4, 2026...</span><span class="citation-popover-meta">Published: May 4, 2026</span></span></span>
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_control_warni_352f11_human_loop_we_9c32f7-Illustration-1-dark.svg" | relative_url }}" alt="Weak Checks illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_control_warni_352f11_human_loop_we_9c32f7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_control_warni_352f11_human_loop_we_9c32f7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What “Human‑in‑the‑Loop” Really Requires
@@ -281,9 +281,9 @@ At its best, human‑in‑the‑loop oversight means more than simply putting a 
 * **Authority:** the practical ability to override or halt the AI’s recommendation where there is risk or [uncertainty]({{ 'uncertainty/' | relative_url }}).
 * **Contextual judgement:** understanding of operational context and downstream consequences.
 
-Researchers distinguish **operative agency** (the AI’s ability to generate solutions) from **evaluative agency** (the human’s capacity to assess and influence those solutions) — and oversight only works when both are present in balanced form. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s43681-026-01137-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Reframing the AI alignment problem: insights from business applications &#124; AI and Ethics &#124; Springer Nature LinkApril 27, 2026...</span><span class="citation-popover-meta">Published: April 27, 2026</span></span></span>
+Researchers distinguish **operative agency** (the AI’s ability to generate solutions) from **evaluative agency** (the human’s capacity to assess and influence those solutions) — and oversight only works when both are present in balanced form.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s43681-026-01137-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Reframing the AI alignment problem: insights from business applications &#124; AI and Ethics &#124; Springer Nature LinkApril 27, 2026...</span><span class="citation-popover-meta">Published: April 27, 2026</span></span></span>
 
-However, across many current AI applications, human involvement is *superficial*. Humans may be present in workflows, but they often lack the authority, context or information needed to influence outcomes in a meaningful way. This produces what some scholars call *“rubber‑stamp risk”* — a nominal human checkpoint that does little more than approve outputs it does not understand. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/Delivery.cfm/6552159.pdf?abstractid=6552159&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Human-in-the-loop Isn&#x27;t a Checkbox: Designing Meaningful Intervention in Automated AI Decisions by Sue Eze:: SSRN...</span></span></span>
+However, across many current AI applications, human involvement is *superficial*. Humans may be present in workflows, but they often lack the authority, context or information needed to influence outcomes in a meaningful way. This produces what some scholars call *“rubber‑stamp risk”* — a nominal human checkpoint that does little more than approve outputs it does not understand.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/Delivery.cfm/6552159.pdf?abstractid=6552159&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Human-in-the-loop Isn&#x27;t a Checkbox: Designing Meaningful Intervention in Automated AI Decisions by Sue Eze:: SSRN...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/U3eDmVolcyA" title="Taming AI - Matt Jones" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=U3eDmVolcyA" target="_blank" rel="noopener noreferrer">Taming AI - Matt Jones</a></p><p class="youtube-embed-meta">Channel: Gresham College &middot; Views: 37.3K &middot; Uploaded: May 2026 &middot; Length: 53 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=U3eDmVolcyA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=U3eDmVolcyA">Open on YouTube</a></p></div></div></div>
 
@@ -291,22 +291,22 @@ However, across many current AI applications, human involvement is *superficial*
 
 ### 1. Cognitive Limitations and Automation Bias
 
-For many tasks, especially high‑volume or real‑time outputs, human attention degrades quickly. Psychologists and AI ethicists note a well‑documented **vigilance decrement**: when reviewing outputs that are mostly correct, humans become less attentive to rare but important errors. That effect is aggravated when humans overly trust AI recommendations rather than independently verify them — a phenomenon known as *[automation bias]({{ 'automation-bias/' | relative_url }})*. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s43681-026-01147-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Designing meaningful human oversight in AI &#124; AI and Ethics &#124; Springer Nature LinkMay 4, 2026...</span><span class="citation-popover-meta">Published: May 4, 2026</span></span></span>
+For many tasks, especially high‑volume or real‑time outputs, human attention degrades quickly. Psychologists and AI ethicists note a well‑documented **vigilance decrement**: when reviewing outputs that are mostly correct, humans become less attentive to rare but important errors. That effect is aggravated when humans overly trust AI recommendations rather than independently verify them — a phenomenon known as *[automation bias]({{ 'automation-bias/' | relative_url }})*.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s43681-026-01147-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Designing meaningful human oversight in AI &#124; AI and Ethics &#124; Springer Nature LinkMay 4, 2026...</span><span class="citation-popover-meta">Published: May 4, 2026</span></span></span>
 
-This dynamic means that humans reviewing AI outputs can miss subtle failures or dangerous edge cases precisely because those errors are rare, and because reviewers begin to *expect the AI to be right*. In extreme cases, approval becomes a reflexive click rather than a deliberative decision, undermining the very oversight it was designed to provide. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s43681-026-01137-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Reframing the AI alignment problem: insights from business applications &#124; AI and Ethics &#124; Springer Nature LinkApril 27, 2026...</span><span class="citation-popover-meta">Published: April 27, 2026</span></span></span>
+This dynamic means that humans reviewing AI outputs can miss subtle failures or dangerous edge cases precisely because those errors are rare, and because reviewers begin to *expect the AI to be right*. In extreme cases, approval becomes a reflexive click rather than a deliberative decision, undermining the very oversight it was designed to provide.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s43681-026-01137-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Reframing the AI alignment problem: insights from business applications &#124; AI and Ethics &#124; Springer Nature LinkApril 27, 2026...</span><span class="citation-popover-meta">Published: April 27, 2026</span></span></span>
 
 ### 2. Mismatched Speed and Complexity
 
-Many agentic AI systems operate at speeds and scales that far exceed human cognitive processing. Research into “high‑velocity” autonomous systems shows that HITL fails structurally when the pace of decisions outstrips human capacity to review them in real time. In such contexts, humans cannot keep up with the volume or complexity of the system’s outputs, creating a superficial compliance loop rather than genuine governance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6725983" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Why Human-in-the-Loop Requirements Fail in High-Velocity Agentic Systems and What Governance Must Do Instead by Albert Adusei Brobbey...</span></span></span>
+Many agentic AI systems operate at speeds and scales that far exceed human cognitive processing. Research into “high‑velocity” autonomous systems shows that HITL fails structurally when the pace of decisions outstrips human capacity to review them in real time. In such contexts, humans cannot keep up with the volume or complexity of the system’s outputs, creating a superficial compliance loop rather than genuine governance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6725983" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Why Human-in-the-Loop Requirements Fail in High-Velocity Agentic Systems and What Governance Must Do Instead by Albert Adusei Brobbey...</span></span></span>
 
-This mismatch is especially salient in organisational environments where decisions may be made continuously and automatically, effectively decoupling human approval from the system’s decision stream. As a result, documented human review becomes more of a compliance artifact than a source of actual accountability — what some observers call **oversight theatre**. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/Delivery.cfm/6725983.pdf?abstractid=6725983&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Human-in-the-Loop Requirements Fail in High-Velocity Agentic Systems and What Governance Must Do Instead by Albert Adusei Brobbey:: SSRN...</span></span></span>
+This mismatch is especially salient in organisational environments where decisions may be made continuously and automatically, effectively decoupling human approval from the system’s decision stream. As a result, documented human review becomes more of a compliance artifact than a source of actual accountability — what some observers call **oversight theatre**.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/Delivery.cfm/6725983.pdf?abstractid=6725983&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Human-in-the-Loop Requirements Fail in High-Velocity Agentic Systems and What Governance Must Do Instead by Albert Adusei Brobbey:: SSRN...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_control_warni_352f11_human_loop_we_9c32f7-Illustration-2-dark.svg" | relative_url }}" alt="Weak Checks illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_control_warni_352f11_human_loop_we_9c32f7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_control_warni_352f11_human_loop_we_9c32f7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### 3. Structural and Organisational Incentives
 
-Beyond individual cognitive limits, organisations often design workflows where human checkpoints carry little real authority. When a human’s job is simply to confirm what the AI has already decided, their role becomes a procedural tick‑box rather than a control point. Without authority to *override, escalate or contextualise*, the presence of a human reviewer does not add real control. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s43681-026-01137-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Reframing the AI alignment problem: insights from business applications &#124; AI and Ethics &#124; Springer Nature LinkApril 27, 2026...</span><span class="citation-popover-meta">Published: April 27, 2026</span></span></span>
+Beyond individual cognitive limits, organisations often design workflows where human checkpoints carry little real authority. When a human’s job is simply to confirm what the AI has already decided, their role becomes a procedural tick‑box rather than a control point. Without authority to *override, escalate or contextualise*, the presence of a human reviewer does not add real control.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s43681-026-01137-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Reframing the AI alignment problem: insights from business applications &#124; AI and Ethics &#124; Springer Nature LinkApril 27, 2026...</span><span class="citation-popover-meta">Published: April 27, 2026</span></span></span>
 
-In high‑stakes domains like healthcare, this can turn clinicians into what sociotechnical researchers describe as **“moral crumple zones”** — individuals who absorb the professional and legal fallout of system failures while lacking access to model internals or performance data that would enable meaningful scrutiny. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13140781/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCClinician in the loop: a flawed solution for AI oversight</span><span class="citation-popover-snippet">May 5, 2026...</span><span class="citation-popover-meta">Published: May 5, 2026</span></span></span>
+In high‑stakes domains like healthcare, this can turn clinicians into what sociotechnical researchers describe as **“moral crumple zones”** — individuals who absorb the professional and legal fallout of system failures while lacking access to model internals or performance data that would enable meaningful scrutiny.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13140781/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCClinician in the loop: a flawed solution for AI oversight</span><span class="citation-popover-snippet">May 5, 2026...</span><span class="citation-popover-meta">Published: May 5, 2026</span></span></span>
 
 ## How Organisations Can Test Oversight Capacity
 
@@ -317,7 +317,7 @@ Because the risk isn’t nominal human presence but **meaningful human control**
 * **Escalation Workflows:** Are there structured routes for escalating ambiguous or high‑risk cases before action becomes irreversible?
 * **Performance Drift [Monitoring]({{ 'monitoring/' | relative_url }}):** Is there auditing not just of decisions humans reviewed, but also of cases *not flagged* for review, to catch failures in what gets surfaced?
 
-Designing oversight around these enforceable controls — not just around the idea of review — helps ensure that humans are *effectively empowered* rather than merely symbolically present. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6552159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Open source on ssrn.com.</span></span></span>
+Designing oversight around these enforceable controls — not just around the idea of review — helps ensure that humans are *effectively empowered* rather than merely symbolically present.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6552159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Open source on ssrn.com.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XfC4WzSeZt0" title="Mastering Human AI Collaboration - Strategies for Success!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XfC4WzSeZt0" target="_blank" rel="noopener noreferrer">Mastering Human AI Collaboration - Strategies for Success!</a></p><p class="youtube-embed-meta">Channel: Human Capital Innovations &middot; Views: 4 &middot; Uploaded: May 2026 &middot; Length: 4 minutes 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XfC4WzSeZt0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XfC4WzSeZt0">Open on YouTube</a></p></div></div></div>
 
@@ -334,160 +334,160 @@ Some practical indicators that HITL checkpoints are losing their protective valu
 
 </div>
 
-These patterns can be subtle but are important warning signs; oversight doesn’t have to disappear entirely to be ineffective. Even when humans remain nominally in the loop, the *real locus of governance* can drift into the AI’s internal logic and escalation heuristics — which the AI itself controls. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/artificial/comments/1td300k/i_think_humanintheloop_may_become_one_of_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">I think “human-in-the-loop” may become one of the biggest governance illusions in enterprise AIMay 14, 2026...</span><span class="citation-popover-meta">Published: May 14, 2026</span></span></span>
+These patterns can be subtle but are important warning signs; oversight doesn’t have to disappear entirely to be ineffective. Even when humans remain nominally in the loop, the *real locus of governance* can drift into the AI’s internal logic and escalation heuristics — which the AI itself controls.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/artificial/comments/1td300k/i_think_humanintheloop_may_become_one_of_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">I think “human-in-the-loop” may become one of the biggest governance illusions in enterprise AIMay 14, 2026...</span><span class="citation-popover-meta">Published: May 14, 2026</span></span></span>
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_control_warni_352f11_human_loop_we_9c32f7-Illustration-3-dark.svg" | relative_url }}" alt="Weak Checks illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_control_warni_352f11_human_loop_we_9c32f7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_loss_of_contr_19a113_control_warni_352f11_human_loop_we_9c32f7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why This Matters for AI Doom Risk
 
-Within the broader context of [loss of control]({{ 'loss-of-control/' | relative_url }}) and existential risk, ineffective human oversight matters because it erodes a core assumption of many current governance and safety frameworks: that humans can intervene when things go wrong. If oversight mechanisms become *rubber stamps*, then growing system autonomy and capability may proceed without any effective brake on misaligned or unsafe behaviour. Unlike simple software bugs, malfunctions or misjudgements in advanced systems with strategic behaviour, hidden state representations or capacity for self‑directed planning could evade human supervision altogether. This amplifies long‑standing concerns in alignment research that the *illusion of control* can precede genuine inability to correct or interrupt an AI’s trajectory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s43681-026-01137-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Reframing the AI alignment problem: insights from business applications &#124; AI and Ethics &#124; Springer Nature LinkApril 27, 2026...</span><span class="citation-popover-meta">Published: April 27, 2026</span></span></span>
+Within the broader context of [loss of control]({{ 'loss-of-control/' | relative_url }}) and existential risk, ineffective human oversight matters because it erodes a core assumption of many current governance and safety frameworks: that humans can intervene when things go wrong. If oversight mechanisms become *rubber stamps*, then growing system autonomy and capability may proceed without any effective brake on misaligned or unsafe behaviour. Unlike simple software bugs, malfunctions or misjudgements in advanced systems with strategic behaviour, hidden state representations or capacity for self‑directed planning could evade human supervision altogether. This amplifies long‑standing concerns in alignment research that the *illusion of control* can precede genuine inability to correct or interrupt an AI’s trajectory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s43681-026-01137-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Reframing the AI alignment problem: insights from business applications &#124; AI and Ethics &#124; Springer Nature LinkApril 27, 2026...</span><span class="citation-popover-meta">Published: April 27, 2026</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/s52161ErFuA" title="#29 Human-in-the-Loop: The Difference Between a Great Decision and a Complete Disaster w/ Prof. Fink" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=s52161ErFuA" target="_blank" rel="noopener noreferrer">#29 Human-in-the-Loop: The Difference Between a Great Decision and a Complete Disaster w/ Prof. Fink</a></p><p class="youtube-embed-meta">Channel: The Binary Agora &middot; Views: 55 &middot; Uploaded: May 2026 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=s52161ErFuA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=s52161ErFuA">Open on YouTube</a></p></div></div></div>
 
 ## Summary
 
-Human‑in‑the‑loop is a widely cited safeguard against misaligned or harmful AI. But without genuine authority, information, time and workflow integration, these checkpoints can degrade into symbolic or perfunctory approval steps. This “rubber stamp” oversight creates an illusion of control that can mask deeper governance failures and weaken our ability to spot emerging misalignment before it escalates. Meaningful oversight — where humans influence outcomes in real time and are empowered to override when necessary — is essential to maintaining control as AI systems scale in capability, complexity and impact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5501939" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">ssrn.com Designing Meaningful Human Oversight in AI by Liming Zhu, Qinghua Lu, Ding Ming, Sung Une Lee, Chen Wang:: SSRNSept...</span></span></span>
+Human‑in‑the‑loop is a widely cited safeguard against misaligned or harmful AI. But without genuine authority, information, time and workflow integration, these checkpoints can degrade into symbolic or perfunctory approval steps. This “rubber stamp” oversight creates an illusion of control that can mask deeper governance failures and weaken our ability to spot emerging misalignment before it escalates. Meaningful oversight — where humans influence outcomes in real time and are empowered to override when necessary — is essential to maintaining control as AI systems scale in capability, complexity and impact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5501939" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">ssrn.com Designing Meaningful Human Oversight in AI by Liming Zhu, Qinghua Lu, Ding Ming, Sung Une Lee, Chen Wang:: SSRNSept...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When human oversight becomes a rubber stamp. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When human oversight becomes a rubber stamp. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8vm0DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Jonathan Russell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8vm0DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
+</h4>
+<p class="fr-book-author">By Stuart Jonathan Russell</p>
         
-        <p class="fr-book-desc">Directly addresses maintaining meaningful human control.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses maintaining meaningful human control.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
-        </h4>
-        <p class="fr-book-author">By Brian Christian</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
+</h4>
+<p class="fr-book-author">By Brian Christian</p>
         
-        <p class="fr-book-desc">Explores oversight and human-value alignment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores oversight and human-value alignment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Life 3.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3_otDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Life 3.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Life 3.0">Life 3.0</a>
-        </h4>
-        <p class="fr-book-author">By Max Tegmark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Life 3.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3_otDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Life 3.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Life 3.0">Life 3.0</a>
+</h4>
+<p class="fr-book-author">By Max Tegmark</p>
         
-        <p class="fr-book-desc">Discusses governance and human oversight.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses governance and human oversight.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Human+Use+of+Human+Beings+by+Norbert+Wiener&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Human Use of Human Beings on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SZiaAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Human Use of Human Beings" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Human+Use+of+Human+Beings+by+Norbert+Wiener&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Human Use of Human Beings">The Human Use of Human Beings</a>
-        </h4>
-        <p class="fr-book-author">By Norbert Wiener</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Human+Use+of+Human+Beings+by+Norbert+Wiener&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Human Use of Human Beings on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SZiaAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Human Use of Human Beings" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Human+Use+of+Human+Beings+by+Norbert+Wiener&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Human Use of Human Beings">The Human Use of Human Beings</a>
+</h4>
+<p class="fr-book-author">By Norbert Wiener</p>
         
-        <p class="fr-book-desc">Examines human-machine control relationships.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Human+Use+of+Human+Beings+by+Norbert+Wiener&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines human-machine control relationships.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Human+Use+of+Human+Beings+by+Norbert+Wiener&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Life+3.0&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Life 3.0</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Life+3.0&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Life 3.0</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-    </div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-checks-when-human-oversight-becomes-a-rubber-stamp-ai-doom-and-artificial-intelligence-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &quot;Artificial Intelligence, Natural Disappointment&quot; Funny 15oz Ceramic Coffee Mug"><img src="{{ '/assets/images/marketplace-covers/cf26db9ed597a4fb2c64.jpg' | relative_url }}" alt="Listing image for &quot;Artificial Intelligence, Natural Disappointment&quot; Funny 15oz Ceramic Coffee Mug" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-checks-when-human-oversight-becomes-a-rubber-stamp-ai-doom-and-artificial-intelligence-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">&quot;Artificial Intelligence, Natural Disappointment&quot; Funny 15oz Ceramic Coffee Mug</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-checks-when-human-oversight-becomes-a-rubber-stamp-ai-doom-and-artificial-intelligence-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence mug">Search <span data-ebay-domain-label>eBay.com</span>: artificial intelligence mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-checks-when-human-oversight-becomes-a-rubber-stamp-ai-doom-and-artificial-intelligence-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-checks-when-human-oversight-becomes-a-rubber-stamp-ai-doom-and-artificial-intelligence-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &quot;Artificial Intelligence, Natural Disappointment&quot; Funny 15oz Ceramic Coffee Mug"><img src="{{ '/assets/images/marketplace-covers/cf26db9ed597a4fb2c64.jpg' | relative_url }}" alt="Listing image for &quot;Artificial Intelligence, Natural Disappointment&quot; Funny 15oz Ceramic Coffee Mug" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-checks-when-human-oversight-becomes-a-rubber-stamp-ai-doom-and-artificial-intelligence-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">&quot;Artificial Intelligence, Natural Disappointment&quot; Funny 15oz Ceramic Coffee Mug</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-checks-when-human-oversight-becomes-a-rubber-stamp-ai-doom-and-artificial-intelligence-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence mug">Search<span data-ebay-domain-label>eBay.com</span>: artificial intelligence mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-checks-when-human-oversight-becomes-a-rubber-stamp-ai-doom-and-artificial-intelligence-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-checks-when-human-oversight-becomes-a-rubber-stamp-ai-doom-and-artificial-intelligence-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I fear human stupidity more than artificial intelligence - Black Glossy Mug"><img src="{{ '/assets/images/marketplace-covers/52595bd15c672bf8b55a.jpg' | relative_url }}" alt="Listing image for I fear human stupidity more than artificial intelligence - Black Glossy Mug" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-checks-when-human-oversight-becomes-a-rubber-stamp-ai-doom-and-artificial-intelligence-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I fear human stupidity more than artificial intelligence - Black Glossy Mug</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-checks-when-human-oversight-becomes-a-rubber-stamp-ai-doom-and-artificial-intelligence-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence mug">Search <span data-ebay-domain-label>eBay.com</span>: artificial intelligence mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-checks-when-human-oversight-becomes-a-rubber-stamp-ai-doom-and-artificial-intelligence-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-checks-when-human-oversight-becomes-a-rubber-stamp-ai-doom-and-artificial-intelligence-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-checks-when-human-oversight-becomes-a-rubber-stamp-ai-doom-and-artificial-intelligence-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I fear human stupidity more than artificial intelligence - Black Glossy Mug"><img src="{{ '/assets/images/marketplace-covers/52595bd15c672bf8b55a.jpg' | relative_url }}" alt="Listing image for I fear human stupidity more than artificial intelligence - Black Glossy Mug" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-checks-when-human-oversight-becomes-a-rubber-stamp-ai-doom-and-artificial-intelligence-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I fear human stupidity more than artificial intelligence - Black Glossy Mug</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-checks-when-human-oversight-becomes-a-rubber-stamp-ai-doom-and-artificial-intelligence-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence mug">Search<span data-ebay-domain-label>eBay.com</span>: artificial intelligence mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-checks-when-human-oversight-becomes-a-rubber-stamp-ai-doom-and-artificial-intelligence-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-checks-when-human-oversight-becomes-a-rubber-stamp-ai-doom-and-artificial-intelligence-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -503,7 +503,7 @@ Human‑in‑the‑loop is a widely cited safeguard against misaligned or harmfu
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -523,7 +523,7 @@ Human‑in‑the‑loop is a widely cited safeguard against misaligned or harmfu
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -555,7 +555,7 @@ Human‑in‑the‑loop is a widely cited safeguard against misaligned or harmfu
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -585,7 +585,7 @@ Human‑in‑the‑loop is a widely cited safeguard against misaligned or harmfu
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -643,117 +643,117 @@ Human‑in‑the‑loop is a widely cited safeguard against misaligned or harmfu
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s43681-026-01147-7" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s43681-026-01147-7</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Designing meaningful human oversight in AI | AI and Ethics | Springer Nature LinkMay 4, 2026...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s43681-026-01147-7" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s43681-026-01147-7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Designing meaningful human oversight in AI | AI and Ethics | Springer Nature LinkMay 4, 2026...</p></details>
    Published: May 4, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/6552159.pdf?abstractid=6552159&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/6552159.pdf?abstractid=6552159&amp;mirid=1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Human-in-the-loop Isn&#x27;t a Checkbox: Designing Meaningful Intervention in Automated AI Decisions by Sue Eze:: SSRN...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/Delivery.cfm/6552159.pdf?abstractid=6552159&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/6552159.pdf?abstractid=6552159&amp;mirid=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Human-in-the-loop Isn&#x27;t a Checkbox: Designing Meaningful Intervention in Automated AI Decisions by Sue Eze:: SSRN...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s43681-026-01137-9" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s43681-026-01137-9</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reframing the AI alignment problem: insights from business applications | AI and Ethics | Springer Nature LinkApril 27, 2026...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s43681-026-01137-9" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s43681-026-01137-9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reframing the AI alignment problem: insights from business applications | AI and Ethics | Springer Nature LinkApril 27, 2026...</p></details>
    Published: April 27, 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6725983" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6725983</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Human-in-the-Loop Requirements Fail in High-Velocity Agentic Systems and What Governance Must Do Instead by Albert Adusei Brobbey...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6725983" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6725983</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Human-in-the-Loop Requirements Fail in High-Velocity Agentic Systems and What Governance Must Do Instead by Albert Adusei Brobbey...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCClinician in the loop: a flawed solution for AI oversight  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13140781/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC13140781/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 5, 2026...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13140781/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC13140781/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 5, 2026...</p></details>
    Published: May 5, 2026  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/artificial/comments/1td300k/i_think_humanintheloop_may_become_one_of_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/artificial/comments/1td300k/i_think_humanintheloop_may_become_one_of_the/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>I think “human-in-the-loop” may become one of the biggest governance illusions in enterprise AIMay 14, 2026...</p></details>
+   Link:<a href="https://www.reddit.com/r/artificial/comments/1td300k/i_think_humanintheloop_may_become_one_of_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/artificial/comments/1td300k/i_think_humanintheloop_may_become_one_of_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I think “human-in-the-loop” may become one of the biggest governance illusions in enterprise AIMay 14, 2026...</p></details>
    Published: May 14, 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/6725983.pdf?abstractid=6725983&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/6725983.pdf?abstractid=6725983&amp;mirid=1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Human-in-the-Loop Requirements Fail in High-Velocity Agentic Systems and What Governance Must Do Instead by Albert Adusei Brobbey:: SSRN...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/Delivery.cfm/6725983.pdf?abstractid=6725983&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/6725983.pdf?abstractid=6725983&amp;mirid=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Human-in-the-Loop Requirements Fail in High-Velocity Agentic Systems and What Governance Must Do Instead by Albert Adusei Brobbey:: SSRN...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6552159" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6552159</a>  
+   Link:<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6552159" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6552159</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5501939" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5501939</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ssrn.com&lt;span&gt;Designing Meaningful Human Oversight in AI&lt;/span&gt; by Liming Zhu, Qinghua Lu, Ding Ming, Sung Une Lee, Chen Wang:: SSRNSept...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5501939" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5501939</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ssrn.com&lt;span&gt;Designing Meaningful Human Oversight in AI&lt;/span&gt; by Liming Zhu, Qinghua Lu, Ding Ming, Sung Une Lee, Chen Wang:: SSRNSept...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: engineersofai.com  
-   Link: <a href="https://engineersofai.com/docs/agentic-ai/agent-safety/Human-Oversight-Mechanisms" target="_blank" rel="noopener noreferrer nofollow">https://engineersofai.com/docs/agentic-ai/agent-safety/Human-Oversight-Mechanisms</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Human Oversight Mechanisms | EngineersOfAI — Technical Education for AI EngineersHUMAN OVERSIGHT MECHANISMS Reading time: 28 min | Releva...</p></details>
+   Link:<a href="https://engineersofai.com/docs/agentic-ai/agent-safety/Human-Oversight-Mechanisms" target="_blank" rel="noopener noreferrer nofollow">https://engineersofai.com/docs/agentic-ai/agent-safety/Human-Oversight-Mechanisms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Human Oversight Mechanisms | EngineersOfAI — Technical Education for AI EngineersHUMAN OVERSIGHT MECHANISMS Reading time: 28 min | Releva...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: philpapers.org  
-   Link: <a href="https://philpapers.org/rec/JOVWHF" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/JOVWHF</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WHEN HUMAN-IN-THE-LOOP FAILS: AN ANSWERABILITY TEST FOR DEPLOYED AI SYSTEMS Vladisav Jovanovic ABSTRACT This paper argues that...</p></details>
+   Link:<a href="https://philpapers.org/rec/JOVWHF" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/JOVWHF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WHEN HUMAN-IN-THE-LOOP FAILS: AN ANSWERABILITY TEST FOR DEPLOYED AI SYSTEMS Vladisav Jovanovic ABSTRACT This paper argues that...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ai.wharton.upenn.edu  
    Title: AI systems handle scale and speed, while humans provide judgment, overs  
-   Link: <a href="https://ai.wharton.upenn.edu/updates/when-better-ai-makes-oversight-harder/" target="_blank" rel="noopener noreferrer nofollow">https://ai.wharton.upenn.edu/updates/when-better-ai-makes-oversight-harder/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Better AI Makes Oversight Harder - Wharton Human-AI ResearchFebruary 12, 2026 — WHEN BETTER AI MAKES OVERSIGHT HARDER Human-AI collaborat...</p></details>
+   Link:<a href="https://ai.wharton.upenn.edu/updates/when-better-ai-makes-oversight-harder/" target="_blank" rel="noopener noreferrer nofollow">https://ai.wharton.upenn.edu/updates/when-better-ai-makes-oversight-harder/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Better AI Makes Oversight Harder - Wharton Human-AI ResearchFebruary 12, 2026 — WHEN BETTER AI MAKES OVERSIGHT HARDER Human-AI collaborat...</p></details>
    Published: February 12, 2026  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sciety.org  
-   Link: <a href="https://sciety.org/articles/activity/10.31234/osf.io/9ecms_v3" target="_blank" rel="noopener noreferrer nofollow">https://sciety.org/articles/activity/10.31234/osf.io/9ecms_v3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Terence Daniel Dores Cruz 2. Christopher Starke 3. Tim Katzke 4. Emmanuel Müller 5. Marta Kwiatkowska 6. Orly Lobel 7. Ni...</p></details>
+   Link:<a href="https://sciety.org/articles/activity/10.31234/osf.io/9ecms_v3" target="_blank" rel="noopener noreferrer nofollow">https://sciety.org/articles/activity/10.31234/osf.io/9ecms_v3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Terence Daniel Dores Cruz 2. Christopher Starke 3. Tim Katzke 4. Emmanuel Müller 5. Marta Kwiatkowska 6. Orly Lobel 7. Ni...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cybermaniacs.com  
    Title: Rubber Stamp Risk: Why "Human Oversight" Can Become [False Confidence](&#123;&#123; 'false-confidence/' | relative_url &#125;&#125;)  
-   Link: <a href="https://cybermaniacs.com/cm-blog/rubber-stamp-risk-why-human-oversight-can-become-false-confidence" target="_blank" rel="noopener noreferrer nofollow">https://cybermaniacs.com/cm-blog/rubber-stamp-risk-why-human-oversight-can-become-false-confidence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 22, 2025 — ARTICLE Human Risk Management RUBBER STAMP RISK: WHY &quot;HUMAN OVERSIGHT&quot; CAN BECOME FALSE CONFIDENCE What You&#x27;ll Learn...</p></details>
+   Link:<a href="https://cybermaniacs.com/cm-blog/rubber-stamp-risk-why-human-oversight-can-become-false-confidence" target="_blank" rel="noopener noreferrer nofollow">https://cybermaniacs.com/cm-blog/rubber-stamp-risk-why-human-oversight-can-become-false-confidence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 22, 2025 — ARTICLE Human Risk Management RUBBER STAMP RISK: WHY &quot;HUMAN OVERSIGHT&quot; CAN BECOME FALSE CONFIDENCE What You&#x27;ll Learn...</p></details>
    Published: October 22, 2025  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aipmo.co  
    Title: When a system is usually right, people stop questioning it. They  
-   Link: <a href="https://aipmo.co/human-oversight-ai/" target="_blank" rel="noopener noreferrer nofollow">https://aipmo.co/human-oversight-ai/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Human Oversight in AI Systems: Designing for ControlJanuary 29, 2026 — THE AUTOMATION BIAS PROBLEM Automation bias is the primary way hum...</p></details>
+   Link:<a href="https://aipmo.co/human-oversight-ai/" target="_blank" rel="noopener noreferrer nofollow">https://aipmo.co/human-oversight-ai/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Human Oversight in AI Systems: Designing for ControlJanuary 29, 2026 — THE AUTOMATION BIAS PROBLEM Automation bias is the primary way hum...</p></details>
    Published: January 29, 2026  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: stevenwensley.com  
    Title: Most organizations interpret this as "have a human  
-   Link: <a href="https://stevenwensley.com/insights/human-oversight-not-rubber-stamp.html" target="_blank" rel="noopener noreferrer nofollow">https://stevenwensley.com/insights/human-oversight-not-rubber-stamp.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Human Oversight: Not a Rubber Stamp | Steven WensleyMarch 3, 2026 — EU AI Act 3 Mar 2026 7 min read HUMAN OVERSIGHT: NOT A RUBBER STAMP A...</p></details>
+   Link:<a href="https://stevenwensley.com/insights/human-oversight-not-rubber-stamp.html" target="_blank" rel="noopener noreferrer nofollow">https://stevenwensley.com/insights/human-oversight-not-rubber-stamp.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Human Oversight: Not a Rubber Stamp | Steven WensleyMarch 3, 2026 — EU AI Act 3 Mar 2026 7 min read HUMAN OVERSIGHT: NOT A RUBBER STAMP A...</p></details>
    Published: March 3, 2026  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: sciencedirect.com  
    Title: Is human oversight to AI systems still possible?  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1871678424005636" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1871678424005636</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 25, 2025 — NEW BIOTECHNOLOGY Volume 85, 25 March 2025, Pages 59-62 Editorial Is human oversight to AI systems still po...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1871678424005636" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1871678424005636</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 25, 2025 — NEW BIOTECHNOLOGY Volume 85, 25 March 2025, Pages 59-62 Editorial Is human oversight to AI systems still po...</p></details>
    Published: March 25, 2025  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: raktimsingh.com  
    Title: If humans are inserted everywhere  
-   Link: <a href="https://www.raktimsingh.com/the-governance-illusion-human-oversight-autonomous-ai-systems/" target="_blank" rel="noopener noreferrer nofollow">https://www.raktimsingh.com/the-governance-illusion-human-oversight-autonomous-ai-systems/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Governance Illusion: Why Human Oversight Fails in Autonomous AI SystemsMay 13, 2026 — FAILURE 2: HUMANS BECOME [RUBBER STAMPS](&amp;#123;&amp;#123; &#x27;rubber-stamps/&#x27; | relative_url &amp;#125;&amp;#125;) Image: F...</p></details>
+   Link:<a href="https://www.raktimsingh.com/the-governance-illusion-human-oversight-autonomous-ai-systems/" target="_blank" rel="noopener noreferrer nofollow">https://www.raktimsingh.com/the-governance-illusion-human-oversight-autonomous-ai-systems/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Governance Illusion: Why Human Oversight Fails in Autonomous AI SystemsMay 13, 2026 — FAILURE 2: HUMANS BECOME [RUBBER STAMPS](&amp;#123;&amp;#123; &#x27;rubber-stamps/&#x27; | relative_url &amp;#125;&amp;#125;) Image: F...</p></details>
    Published: May 13, 2026  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: sciencedirect.com  
    Title: Who's really in the loop?  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0140673626002047" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0140673626002047</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rethinking oversight in AI-assisted health care - ScienceDirectApril 30, 2026 — THE LANCET Available online 30 April 2026 In Press, Corre...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0140673626002047" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0140673626002047</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rethinking oversight in AI-assisted health care - ScienceDirectApril 30, 2026 — THE LANCET Available online 30 April 2026 In Press, Corre...</p></details>
    Published: April 30, 2026

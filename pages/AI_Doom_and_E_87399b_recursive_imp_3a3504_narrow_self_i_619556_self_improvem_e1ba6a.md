@@ -338,178 +338,178 @@ In short, AlphaZero and AutoML offer **important insights into self‑improvemen
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XJF44ddRFLA" title="Recursive AI Self-Improvement is Here, Today" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XJF44ddRFLA" target="_blank" rel="noopener noreferrer">Recursive AI Self-Improvement is Here, Today</a></p><p class="youtube-embed-meta">Channel: Jeffrey Emanuel &middot; Views: 2.4K &middot; Uploaded: January 2026 &middot; Length: 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XJF44ddRFLA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XJF44ddRFLA">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What AlphaZero and AutoML Reveal About Limits of AI Self Improvement. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What AlphaZero and AutoML Reveal About Limits of AI Self Improvement. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8vm0DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Jonathan Russell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8vm0DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
+</h4>
+<p class="fr-book-author">By Stuart Jonathan Russell</p>
         
-        <p class="fr-book-desc">Directly addresses advanced AI systems, control problems, and limits of current AI approaches.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses advanced AI systems, control problems, and limits of current AI approaches.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Life 3.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YHxnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Life 3.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Life 3.0">Life 3.0</a>
-        </h4>
-        <p class="fr-book-author">By Max Tegmark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Life 3.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YHxnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Life 3.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Life 3.0">Life 3.0</a>
+</h4>
+<p class="fr-book-author">By Max Tegmark</p>
         
-        <p class="fr-book-desc">Examines intelligence explosion scenarios and the evidence for and against transformative AI trajectories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines intelligence explosion scenarios and the evidence for and against transformative AI trajectories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Artificial Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8jZBksh-bUMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Artificial Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Artificial Intelligence">Artificial Intelligence</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Jonathan Russell, Peter Norvig et al.</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 10 Google Books ratings</p>
-        <p class="fr-book-desc">Provides technical grounding for self-play, AutoML and AI capabilities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Artificial Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8jZBksh-bUMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Artificial Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Artificial Intelligence">Artificial Intelligence</a>
+</h4>
+<p class="fr-book-author">By Stuart Jonathan Russell, Peter Norvig et al.</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 10 Google Books ratings</p>
+<p class="fr-book-desc">Provides technical grounding for self-play, AutoML and AI capabilities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superintelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7_H8AwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superintelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superintelligence">Superintelligence</a>
-        </h4>
-        <p class="fr-book-author">By Nick Bostrom</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superintelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7_H8AwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superintelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superintelligence">Superintelligence</a>
+</h4>
+<p class="fr-book-author">By Nick Bostrom</p>
         
-        <p class="fr-book-desc">Directly analyzes recursive self-improvement and superintelligence arguments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly analyzes recursive self-improvement and superintelligence arguments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Life+3.0&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Life 3.0</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Artificial+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Artificial Intelligence</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Life+3.0&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Life 3.0</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Artificial+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Artificial Intelligence</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-    </div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recursion-evidence-what-alphazero-and-automl-reveal-about-limits-of-ai-self-improvement-ai-doom-artificial-intelligence&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI Artificial Intelligence Original 2001 Movie Poster 27x40 DS"><img src="{{ '/assets/images/marketplace-covers/ee2480d2e31d09060c16.jpg' | relative_url }}" alt="Listing image for AI Artificial Intelligence Original 2001 Movie Poster 27x40 DS" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recursion-evidence-what-alphazero-and-automl-reveal-about-limits-of-ai-self-improvement-ai-doom-artificial-intelligence&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">AI Artificial Intelligence Original 2001 Movie Poster 27x40 DS</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recursion-evidence-what-alphazero-and-automl-reveal-about-limits-of-ai-self-improvement-ai-doom-artificial-intelligence&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.com</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recursion-evidence-what-alphazero-and-automl-reveal-about-limits-of-ai-self-improvement-ai-doom-artificial-intelligence&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recursion-evidence-what-alphazero-and-automl-reveal-about-limits-of-ai-self-improvement-ai-doom-artificial-intelligence&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI Artificial Intelligence Original 2001 Movie Poster 27x40 DS"><img src="{{ '/assets/images/marketplace-covers/ee2480d2e31d09060c16.jpg' | relative_url }}" alt="Listing image for AI Artificial Intelligence Original 2001 Movie Poster 27x40 DS" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recursion-evidence-what-alphazero-and-automl-reveal-about-limits-of-ai-self-improvement-ai-doom-artificial-intelligence&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">AI Artificial Intelligence Original 2001 Movie Poster 27x40 DS</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recursion-evidence-what-alphazero-and-automl-reveal-about-limits-of-ai-self-improvement-ai-doom-artificial-intelligence&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.com</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recursion-evidence-what-alphazero-and-automl-reveal-about-limits-of-ai-self-improvement-ai-doom-artificial-intelligence&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recursion-evidence-what-alphazero-and-automl-reveal-about-limits-of-ai-self-improvement-ai-doom-artificial-intelligence&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Companion - Artificial Intelligence Dark Comedy Cinema Film - POSTER 20&quot;x30&quot;"><img src="{{ '/assets/images/marketplace-covers/23a7b1724046ba6c1026.jpg' | relative_url }}" alt="Listing image for Companion - Artificial Intelligence Dark Comedy Cinema Film - POSTER 20&quot;x30&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recursion-evidence-what-alphazero-and-automl-reveal-about-limits-of-ai-self-improvement-ai-doom-artificial-intelligence&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Companion - Artificial Intelligence Dark Comedy Cinema Film - POSTER 20&quot;x30&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recursion-evidence-what-alphazero-and-automl-reveal-about-limits-of-ai-self-improvement-ai-doom-artificial-intelligence&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.com</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recursion-evidence-what-alphazero-and-automl-reveal-about-limits-of-ai-self-improvement-ai-doom-artificial-intelligence&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recursion-evidence-what-alphazero-and-automl-reveal-about-limits-of-ai-self-improvement-ai-doom-artificial-intelligence&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Companion - Artificial Intelligence Dark Comedy Cinema Film - POSTER 20&quot;x30&quot;"><img src="{{ '/assets/images/marketplace-covers/23a7b1724046ba6c1026.jpg' | relative_url }}" alt="Listing image for Companion - Artificial Intelligence Dark Comedy Cinema Film - POSTER 20&quot;x30&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recursion-evidence-what-alphazero-and-automl-reveal-about-limits-of-ai-self-improvement-ai-doom-artificial-intelligence&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Companion - Artificial Intelligence Dark Comedy Cinema Film - POSTER 20&quot;x30&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recursion-evidence-what-alphazero-and-automl-reveal-about-limits-of-ai-self-improvement-ai-doom-artificial-intelligence&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.com</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recursion-evidence-what-alphazero-and-automl-reveal-about-limits-of-ai-self-improvement-ai-doom-artificial-intelligence&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recursion-evidence-what-alphazero-and-automl-reveal-about-limits-of-ai-self-improvement-ai-doom-artificial-intelligence&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. ARTIFICIAL INTELLIGENCE Original One Sheet Movie Poster - 2001 - SPIELBERG"><img src="{{ '/assets/images/marketplace-covers/196ffedb43a9555ec05d.jpg' | relative_url }}" alt="Listing image for A.I. ARTIFICIAL INTELLIGENCE Original One Sheet Movie Poster - 2001 - SPIELBERG" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recursion-evidence-what-alphazero-and-automl-reveal-about-limits-of-ai-self-improvement-ai-doom-artificial-intelligence&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A.I. ARTIFICIAL INTELLIGENCE Original One Sheet Movie Poster - 2001 - SPIELBERG</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recursion-evidence-what-alphazero-and-automl-reveal-about-limits-of-ai-self-improvement-ai-doom-artificial-intelligence&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.com</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recursion-evidence-what-alphazero-and-automl-reveal-about-limits-of-ai-self-improvement-ai-doom-artificial-intelligence&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recursion-evidence-what-alphazero-and-automl-reveal-about-limits-of-ai-self-improvement-ai-doom-artificial-intelligence&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. ARTIFICIAL INTELLIGENCE Original One Sheet Movie Poster - 2001 - SPIELBERG"><img src="{{ '/assets/images/marketplace-covers/196ffedb43a9555ec05d.jpg' | relative_url }}" alt="Listing image for A.I. ARTIFICIAL INTELLIGENCE Original One Sheet Movie Poster - 2001 - SPIELBERG" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recursion-evidence-what-alphazero-and-automl-reveal-about-limits-of-ai-self-improvement-ai-doom-artificial-intelligence&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A.I. ARTIFICIAL INTELLIGENCE Original One Sheet Movie Poster - 2001 - SPIELBERG</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recursion-evidence-what-alphazero-and-automl-reveal-about-limits-of-ai-self-improvement-ai-doom-artificial-intelligence&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.com</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recursion-evidence-what-alphazero-and-automl-reveal-about-limits-of-ai-self-improvement-ai-doom-artificial-intelligence&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recursion-evidence-what-alphazero-and-automl-reveal-about-limits-of-ai-self-improvement-ai-doom-artificial-intelligence&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2001 AI Artificial Intelligence Double Sided 27&quot; x 41&quot; Theatrical Movie Poster"><img src="{{ '/assets/images/marketplace-covers/93c153cc5f9346af0cb8.jpg' | relative_url }}" alt="Listing image for 2001 AI Artificial Intelligence Double Sided 27&quot; x 41&quot; Theatrical Movie Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recursion-evidence-what-alphazero-and-automl-reveal-about-limits-of-ai-self-improvement-ai-doom-artificial-intelligence&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">2001 AI Artificial Intelligence Double Sided 27&quot; x 41&quot; Theatrical Movie Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recursion-evidence-what-alphazero-and-automl-reveal-about-limits-of-ai-self-improvement-ai-doom-artificial-intelligence&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.com</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recursion-evidence-what-alphazero-and-automl-reveal-about-limits-of-ai-self-improvement-ai-doom-artificial-intelligence&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recursion-evidence-what-alphazero-and-automl-reveal-about-limits-of-ai-self-improvement-ai-doom-artificial-intelligence&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recursion-evidence-what-alphazero-and-automl-reveal-about-limits-of-ai-self-improvement-ai-doom-artificial-intelligence&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2001 AI Artificial Intelligence Double Sided 27&quot; x 41&quot; Theatrical Movie Poster"><img src="{{ '/assets/images/marketplace-covers/93c153cc5f9346af0cb8.jpg' | relative_url }}" alt="Listing image for 2001 AI Artificial Intelligence Double Sided 27&quot; x 41&quot; Theatrical Movie Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recursion-evidence-what-alphazero-and-automl-reveal-about-limits-of-ai-self-improvement-ai-doom-artificial-intelligence&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">2001 AI Artificial Intelligence Double Sided 27&quot; x 41&quot; Theatrical Movie Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recursion-evidence-what-alphazero-and-automl-reveal-about-limits-of-ai-self-improvement-ai-doom-artificial-intelligence&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.com</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recursion-evidence-what-alphazero-and-automl-reveal-about-limits-of-ai-self-improvement-ai-doom-artificial-intelligence&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recursion-evidence-what-alphazero-and-automl-reveal-about-limits-of-ai-self-improvement-ai-doom-artificial-intelligence&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -525,7 +525,7 @@ In short, AlphaZero and AutoML offer **important insights into self‑improvemen
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -545,7 +545,7 @@ In short, AlphaZero and AutoML offer **important insights into self‑improvemen
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -577,7 +577,7 @@ In short, AlphaZero and AutoML offer **important insights into self‑improvemen
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -607,7 +607,7 @@ In short, AlphaZero and AutoML offer **important insights into self‑improvemen
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -665,108 +665,108 @@ In short, AlphaZero and AutoML offer **important insights into self‑improvemen
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: informatica.si  
    Title: Alpha Zero – What’s Missing? | Informatica  
-   Link: <a href="https://www.informatica.si/index.php/informatica/article/view/2226" target="_blank" rel="noopener noreferrer nofollow">https://www.informatica.si/index.php/informatica/article/view/2226</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AlphaZero – What’s Missing? | InformaticaMarch 26, 2018...</p></details>
+   Link:<a href="https://www.informatica.si/index.php/informatica/article/view/2226" target="_blank" rel="noopener noreferrer nofollow">https://www.informatica.si/index.php/informatica/article/view/2226</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AlphaZero – What’s Missing? | InformaticaMarch 26, 2018...</p></details>
    Published: March 26, 2018  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: spectrum.ieee.org  
    Title: Spectrum Recursive Self-Improvement Edges Closer In AI Labs  
-   Link: <a href="https://spectrum.ieee.org/recursive-self-improvement" target="_blank" rel="noopener noreferrer nofollow">https://spectrum.ieee.org/recursive-self-improvement</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IEEE SpectrumRecursive Self-Improvement Edges Closer In AI Labs - IEEE SpectrumMay 7, 2026...</p></details>
+   Link:<a href="https://spectrum.ieee.org/recursive-self-improvement" target="_blank" rel="noopener noreferrer nofollow">https://spectrum.ieee.org/recursive-self-improvement</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IEEE SpectrumRecursive Self-Improvement Edges Closer In AI Labs - IEEE SpectrumMay 7, 2026...</p></details>
    Published: May 7, 2026  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ithy.com  
    Title: ai self improvement limitations explained la6n25p1  
-   Link: <a href="https://ithy.com/article/ai-self-improvement-limitations-explained-la6n25p1" target="_blank" rel="noopener noreferrer nofollow">https://ithy.com/article/ai-self-improvement-limitations-explained-la6n25p1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why AI Can&#x27;t Self-Improve Yet: A Technical Deep DiveJanuary 1, 2025...</p></details>
+   Link:<a href="https://ithy.com/article/ai-self-improvement-limitations-explained-la6n25p1" target="_blank" rel="noopener noreferrer nofollow">https://ithy.com/article/ai-self-improvement-limitations-explained-la6n25p1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why AI Can&#x27;t Self-Improve Yet: A Technical Deep DiveJanuary 1, 2025...</p></details>
    Published: January 1, 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2601.05280" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2601.05280</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>On the Limits of Self-Improving in LLMs and Why AGI, ASI and the Singularity Are Not Near Without Symbolic Model SynthesisJanuary 5...</p></details>
+   Link:<a href="https://arxiv.org/abs/2601.05280" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2601.05280</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On the Limits of Self-Improving in LLMs and Why AGI, ASI and the Singularity Are Not Near Without Symbolic Model SynthesisJanuary 5...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aisafety.info  
    Title: Is recursive self-improvement possible?  
-   Link: <a href="https://aisafety.info/questions/8AEL/Is-recursive-self-improvement-possible" target="_blank" rel="noopener noreferrer nofollow">https://aisafety.info/questions/8AEL/Is-recursive-self-improvement-possible</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is recursive self-improvement possible?...</p></details>
+   Link:<a href="https://aisafety.info/questions/8AEL/Is-recursive-self-improvement-possible" target="_blank" rel="noopener noreferrer nofollow">https://aisafety.info/questions/8AEL/Is-recursive-self-improvement-possible</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is recursive self-improvement possible?...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: mdpi.com  
    Title: An Empirical Review of Automated Machine Learning  
-   Link: <a href="https://www.mdpi.com/2073-431X/10/1/11" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2073-431X/10/1/11</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An Empirical Review of Automated Machine LearningJanuary 13, 2021...</p></details>
+   Link:<a href="https://www.mdpi.com/2073-431X/10/1/11" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2073-431X/10/1/11</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An Empirical Review of Automated Machine LearningJanuary 13, 2021...</p></details>
    Published: January 13, 2021  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: informatica.si  
    Title: Alpha Zero – What’s Missing?  
-   Link: <a href="https://www.informatica.si/index.php/informatica/article/view/2226%3E/0" target="_blank" rel="noopener noreferrer nofollow">https://www.informatica.si/index.php/informatica/article/view/2226%3E/0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bratko | InformaticaAbout The Author Ivan Bratko University of Ljubljana, Faculty of Computer and Information Science Slovenia Support...</p></details>
+   Link:<a href="https://www.informatica.si/index.php/informatica/article/view/2226%3E/0" target="_blank" rel="noopener noreferrer nofollow">https://www.informatica.si/index.php/informatica/article/view/2226%3E/0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bratko | InformaticaAbout The Author Ivan Bratko University of Ljubljana, Faculty of Computer and Information Science Slovenia Support...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aiwiki.ai  
    Title: AI Wiki Recursive self-improvement  
-   Link: <a href="https://www.aiwiki.ai/wiki/Recursive_self-improvement" target="_blank" rel="noopener noreferrer nofollow">https://www.aiwiki.ai/wiki/Recursive_self-improvement</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI WikiRecursive self-improvement - AI Wiki - Artificial Intelligence Wiki...</p></details>
+   Link:<a href="https://www.aiwiki.ai/wiki/Recursive_self-improvement" target="_blank" rel="noopener noreferrer nofollow">https://www.aiwiki.ai/wiki/Recursive_self-improvement</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI WikiRecursive self-improvement - AI Wiki - Artificial Intelligence Wiki...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: papers.cool  
-   Link: <a href="https://papers.cool/arxiv/2601.05280" target="_blank" rel="noopener noreferrer nofollow">https://papers.cool/arxiv/2601.05280</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Immersive Paper DiscoveryJanuary 5, 2026 — #1 ON THE LIMITS OF SELF-IMPROVING IN LLMS AND WHY AGI, ASI AND THE SINGULARITY ARE NOT NEAR W...</p></details>
+   Link:<a href="https://papers.cool/arxiv/2601.05280" target="_blank" rel="noopener noreferrer nofollow">https://papers.cool/arxiv/2601.05280</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Immersive Paper DiscoveryJanuary 5, 2026 — #1 ON THE LIMITS OF SELF-IMPROVING IN LLMS AND WHY AGI, ASI AND THE SINGULARITY ARE NOT NEAR W...</p></details>
    Published: January 5, 2026  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: s-rsa.com  
-   Link: <a href="https://s-rsa.com/index.php/agi/article/view/17159" target="_blank" rel="noopener noreferrer nofollow">https://s-rsa.com/index.php/agi/article/view/17159</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On the Limits of Self-Improving in LLMs and Why AGI, ASI and the Singularity Are Not Near Without Symbolic Model Synthesis | SuperIntelli...</p></details>
+   Link:<a href="https://s-rsa.com/index.php/agi/article/view/17159" target="_blank" rel="noopener noreferrer nofollow">https://s-rsa.com/index.php/agi/article/view/17159</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On the Limits of Self-Improving in LLMs and Why AGI, ASI and the Singularity Are Not Near Without Symbolic Model Synthesis | SuperIntelli...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchtrend.ai  
-   Link: <a href="https://researchtrend.ai/papers/2601.05280" target="_blank" rel="noopener noreferrer nofollow">https://researchtrend.ai/papers/2601.05280</a>  
+   Link:<a href="https://researchtrend.ai/papers/2601.05280" target="_blank" rel="noopener noreferrer nofollow">https://researchtrend.ai/papers/2601.05280</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: alphaxiv.org  
-   Link: <a href="https://www.alphaxiv.org/audio/2601.05280v2" target="_blank" rel="noopener noreferrer nofollow">https://www.alphaxiv.org/audio/2601.05280v2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On the Limits of Self-Improving in Large Language Models: The Singularity Is Not Near Without Symbolic Model Synthesis | alphaXivON THE L...</p></details>
+   Link:<a href="https://www.alphaxiv.org/audio/2601.05280v2" target="_blank" rel="noopener noreferrer nofollow">https://www.alphaxiv.org/audio/2601.05280v2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On the Limits of Self-Improving in Large Language Models: The Singularity Is Not Near Without Symbolic Model Synthesis | alphaXivON THE L...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/368829510_Targeted_Search_Control_in_AlphaZero_for_Effective_Policy_Improvement" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/368829510_Targeted_Search_Control_in_AlphaZero_for_Effective_Policy_Improvement</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Targeted Search Control in AlphaZero for Effective Policy ImprovementPreprint PDF Available TARGETED SEARCH CONTROL IN ALPHAZERO FO...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/368829510_Targeted_Search_Control_in_AlphaZero_for_Effective_Policy_Improvement" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/368829510_Targeted_Search_Control_in_AlphaZero_for_Effective_Policy_Improvement</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Targeted Search Control in AlphaZero for Effective Policy ImprovementPreprint PDF Available TARGETED SEARCH CONTROL IN ALPHAZERO FO...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: milvus.io  
-   Link: <a href="https://milvus.io/ai-quick-reference/can-ai-reasoning-models-selfimprove" target="_blank" rel="noopener noreferrer nofollow">https://milvus.io/ai-quick-reference/can-ai-reasoning-models-selfimprove</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Copy page CAN AI REASONING MODELS SELF-IMPROVE? AI reasoning models can achieve limited forms of self-improvement under specific condi...</p></details>
+   Link:<a href="https://milvus.io/ai-quick-reference/can-ai-reasoning-models-selfimprove" target="_blank" rel="noopener noreferrer nofollow">https://milvus.io/ai-quick-reference/can-ai-reasoning-models-selfimprove</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Copy page CAN AI REASONING MODELS SELF-IMPROVE? AI reasoning models can achieve limited forms of self-improvement under specific condi...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: papers.cool  
    Title: Self-Improving AI Agents through Self-Play | Cool Papers  
-   Link: <a href="https://papers.cool/arxiv/2512.02731" target="_blank" rel="noopener noreferrer nofollow">https://papers.cool/arxiv/2512.02731</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Immersive Paper DiscoveryDecember 2, 2025 — 2512.02731 Total: 1 #1 SELF-IMPROVING AI AGENTS THROUGH SELF-PLAY [PDF^{3}] [COPY] [KIMI^{8}]...</p></details>
+   Link:<a href="https://papers.cool/arxiv/2512.02731" target="_blank" rel="noopener noreferrer nofollow">https://papers.cool/arxiv/2512.02731</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Immersive Paper DiscoveryDecember 2, 2025 — 2512.02731 Total: 1 #1 SELF-IMPROVING AI AGENTS THROUGH SELF-PLAY [PDF^{3}] [COPY] [KIMI^{8}]...</p></details>
    Published: December 2, 2025  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: gpuinsights.net  
    Title: Recursive Self-Improvement GPU Limits — Next-Gen Design  
-   Link: <a href="https://gpuinsights.net/recursive-self-improvement-gpu-limits-2026/" target="_blank" rel="noopener noreferrer nofollow">https://gpuinsights.net/recursive-self-improvement-gpu-limits-2026/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 27, 2026 — THEORETICAL LIMITS OF RECURSIVE SELF-IMPROVEMENT: IMPLICATIONS FOR NEXT-GEN GPU DESIGN May 27, 2026 by Iovanny Olguín Ávil...</p></details>
+   Link:<a href="https://gpuinsights.net/recursive-self-improvement-gpu-limits-2026/" target="_blank" rel="noopener noreferrer nofollow">https://gpuinsights.net/recursive-self-improvement-gpu-limits-2026/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 27, 2026 — THEORETICAL LIMITS OF RECURSIVE SELF-IMPROVEMENT: IMPLICATIONS FOR NEXT-GEN GPU DESIGN May 27, 2026 by Iovanny Olguín Ávil...</p></details>
    Published: May 27, 2026  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=MrJVgw8dBhw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MrJVgw8dBhw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Recursive Self-Improvement, Risks &amp; Rewards - The AI Show w/ Paul Roetzer &amp; Mike Kaput...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MrJVgw8dBhw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MrJVgw8dBhw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Recursive Self-Improvement, Risks &amp; Rewards - The AI Show w/ Paul Roetzer &amp; Mike Kaput...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Understanding Recursive Self-Improvement, Risks & Rewards  
-   Link: <a href="https://www.youtube.com/watch?v=nJnc_1dHHMI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nJnc_1dHHMI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Taught Optimizer (STOP): Recursively Self-Improving Code Generation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nJnc_1dHHMI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nJnc_1dHHMI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Taught Optimizer (STOP): Recursively Self-Improving Code Generation...</p></details>

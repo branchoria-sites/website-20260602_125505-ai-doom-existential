@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-doom-and-e-87399b-compute-gover/
 description: Focused pages that expand on Governance.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: AI_Doom_and_E_87399b_compute_gover_1ee8fc
 parent_title: Governance
@@ -16,7 +16,7 @@ parent_permalink: /governance/
 
 # Explore Topics in Governance
 
-The following pages expand on the main **[Governance]({{ '/governance/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Governance]({{ '/governance/' | relative_url }})** page and cover its key branches in.
 
 - [Chip Controls]({{ '/chip-controls/' | relative_url }})
 - [Cloud Oversight]({{ '/cloud-oversight/' | relative_url }})

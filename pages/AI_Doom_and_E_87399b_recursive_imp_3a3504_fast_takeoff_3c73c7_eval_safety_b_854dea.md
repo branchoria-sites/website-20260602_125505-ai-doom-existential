@@ -276,11 +276,11 @@ The problem is that evaluations only help if there is a safety buffer between th
 
 ## What dangerous capability evaluations try to catch
 
-Frontier AI evaluations are designed to identify abilities that could substantially increase catastrophic risk. Rather than measuring general intelligence alone, they look for specific capabilities associated with loss-of-control scenarios, dangerous misuse, or strategic autonomy. Current evaluation programmes focus on areas such as cyber offence, deception and persuasion, autonomous replication, sabotage, situational awareness, and the ability to evade oversight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.13793" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Our evaluations cover four areas...</span></span></span>
+Frontier AI evaluations are designed to identify abilities that could substantially increase catastrophic risk. Rather than measuring general intelligence alone, they look for specific capabilities associated with loss-of-control scenarios, dangerous misuse, or strategic autonomy. Current evaluation programmes focus on areas such as cyber offence, deception and persuasion, autonomous replication, sabotage, situational awareness, and the ability to evade oversight.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.13793" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Our evaluations cover four areas...</span></span></span>
 
-Researchers at Google DeepMind's dangerous capability evaluation programme explicitly describe these tests as a way to identify emerging warning signs before models become highly dangerous. Their early experiments found no strong evidence of extreme dangerous capabilities in the tested models, but they did report signals that could function as advance indicators for future systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.13793" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Our evaluations cover four areas...</span></span></span>
+Researchers at Google DeepMind's dangerous capability evaluation programme explicitly describe these tests as a way to identify emerging warning signs before models become highly dangerous. Their early experiments found no strong evidence of extreme dangerous capabilities in the tested models, but they did report signals that could function as advance indicators for future systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.13793" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Our evaluations cover four areas...</span></span></span>
 
-The UK AI Security Institute similarly evaluates frontier models in domains linked to public safety and national-security risks, attempting to track how capabilities change as models become more powerful. The underlying idea is that capability growth can be monitored rather than discovered only after deployment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)The UK AI Security Institute (AISI) has conducted evalu...</span></span></span>
+The UK AI Security Institute similarly evaluates frontier models in domains linked to public safety and national-security risks, attempting to track how capabilities change as models become more powerful. The underlying idea is that capability growth can be monitored rather than discovered only after deployment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)The UK AI Security Institute (AISI) has conducted evalu...</span></span></span>
 
 For AI doom arguments, the crucial question is not whether evaluations can detect today's risks. It is whether they can reliably identify tomorrow's risks before those risks become difficult or impossible to manage.
 
@@ -293,9 +293,9 @@ A safety buffer is the gap between two moments:
 1. The point at which evaluations begin showing concerning results.
 2. The point at which the system becomes genuinely dangerous.
 
-The entire logic of capability thresholds and responsible scaling policies depends on such a gap existing. Many proposed governance frameworks assume that warning signs will appear early enough for developers to increase security, restrict deployment, improve monitoring, or pause development if necessary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/news/anthropics-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-title">s responsible scaling policy</span><span class="citation-popover-snippet">Anthropic&#x27;s Responsible Scaling PolicySep 19, 2023 — Our RSP defines a framework called AI Safety Levels (ASL) for addressing ca...</span></span></span>
+The entire logic of capability thresholds and responsible scaling policies depends on such a gap existing. Many proposed governance frameworks assume that warning signs will appear early enough for developers to increase security, restrict deployment, improve monitoring, or pause development if necessary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/news/anthropics-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-title">s responsible scaling policy</span><span class="citation-popover-snippet">Anthropic&#x27;s Responsible Scaling PolicySep 19, 2023 — Our RSP defines a framework called AI Safety Levels (ASL) for addressing ca...</span></span></span>
 
-Anthropic's Responsible Scaling Policy provides a concrete example. The framework defines capability thresholds intended to trigger stronger safety requirements before risk becomes unacceptable. The policy's stated aim is to gather evidence and deploy mitigations ahead of dangerous capability levels rather than after them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/news/responsible-scaling-policy-v3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-title">responsible scaling policy v3</span><span class="citation-popover-snippet">Responsible Scaling Policy Version 3.024 Feb 2026 — We viewed the capability thresholds as potentially important moments for the...</span></span></span>
+Anthropic's Responsible Scaling Policy provides a concrete example. The framework defines capability thresholds intended to trigger stronger safety requirements before risk becomes unacceptable. The policy's stated aim is to gather evidence and deploy mitigations ahead of dangerous capability levels rather than after them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/news/responsible-scaling-policy-v3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-title">responsible scaling policy v3</span><span class="citation-popover-snippet">Responsible Scaling Policy Version 3.024 Feb 2026 — We viewed the capability thresholds as potentially important moments for the...</span></span></span>
 
 In practice, the safety-buffer model assumes several things are true:
 
@@ -319,13 +319,13 @@ Many AI safety researchers are not expecting a sudden jump from harmless chatbot
 
 For example, before a model could realistically execute a sophisticated takeover strategy, it might first demonstrate:
 
-* Advanced cyber intrusion skills. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/technical-reports/managing-advanced-cyber-risks-in-frontier-ai-frameworks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[frontiermodelforum.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">managing advanced cyber risks in frontier ai frameworks</span><span class="citation-popover-snippet">13 Feb 2026 — Frontier capability assessments are procedures conducted on frontier AI models to gather evidence of whether they have capa...</span></span></span>
+* Advanced cyber intrusion skills.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/technical-reports/managing-advanced-cyber-risks-in-frontier-ai-frameworks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[frontiermodelforum.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">managing advanced cyber risks in frontier ai frameworks</span><span class="citation-popover-snippet">13 Feb 2026 — Frontier capability assessments are procedures conducted on frontier AI models to gather evidence of whether they have capa...</span></span></span>
 * Long-horizon autonomous planning.
 * The ability to conceal information from evaluators.
 * Situational [awareness]({{ 'awareness/' | relative_url }}) about its deployment environment.
 * The ability to coordinate complex tasks with minimal supervision.
 
-This reasoning motivates evaluations of sabotage, stealth, situational awareness, and oversight circumvention. Researchers view these capabilities as prerequisites for more serious loss-of-control scenarios. A system that cannot reliably reason about its environment or evade monitoring is unlikely to execute a sophisticated takeover strategy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.13793" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Our evaluations cover four areas...</span></span></span>
+This reasoning motivates evaluations of sabotage, stealth, situational awareness, and oversight circumvention. Researchers view these capabilities as prerequisites for more serious loss-of-control scenarios. A system that cannot reliably reason about its environment or evade monitoring is unlikely to execute a sophisticated takeover strategy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.13793" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Our evaluations cover four areas...</span></span></span>
 
 This creates a hopeful picture. If dangerous systems require multiple precursor capabilities, then each capability may provide advance warning. The resulting chain of signals could create a substantial safety buffer before catastrophe becomes plausible.
 
@@ -337,7 +337,7 @@ In a fast-takeoff scenario, capability gains could become compressed into a shor
 
 Imagine an evaluation showing that a model is approaching dangerous autonomy. If the next training run produces a system that is several times more capable, organisations may have little opportunity to adapt. The warning would be real, but the response window might be too short to matter.
 
-This concern appears in many discussions of recursive improvement. If AI systems increasingly contribute to AI research itself, capability growth could become faster than institutional response cycles. Governments often require months or years to create regulations. Large organisations may need weeks or months to redesign infrastructure or security systems. A rapidly advancing model could move through several capability thresholds before external oversight mechanisms react. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-snippet">Open source on anthropic.com.</span></span></span>
+This concern appears in many discussions of recursive improvement. If AI systems increasingly contribute to AI research itself, capability growth could become faster than institutional response cycles. Governments often require months or years to create regulations. Large organisations may need weeks or months to redesign infrastructure or security systems. A rapidly advancing model could move through several capability thresholds before external oversight mechanisms react.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-snippet">Open source on anthropic.com.</span></span></span>
 
 From a doom perspective, the danger is not merely that evaluations fail. It is that evaluations succeed technically while failing strategically because the warning arrives too late.
 
@@ -360,9 +360,9 @@ A warning must be:
 
 Each stage introduces delay.
 
-Recent discussions of frontier-risk governance have highlighted this problem. Pre-deployment evaluations often occur close to release schedules, leaving limited time for [independent]({{ 'red-teaming/' | relative_url }}) review or deeper investigation. Some analysts argue that evaluation systems need to be embedded throughout development rather than treated as a final checkpoint immediately before deployment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://metr.org/blog/2026-05-19-frontier-risk-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[Metr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-title">2026 05 19 frontier risk report</span><span class="citation-popover-snippet">Frontier Risk Report (February to March 2026)May 19, 2026 — 19 May 2026 — To date, third-party evaluations of frontier AI have largel...</span><span class="citation-popover-meta">Published: May 19, 2026</span></span></span>
+Recent discussions of frontier-risk governance have highlighted this problem. Pre-deployment evaluations often occur close to release schedules, leaving limited time for [independent]({{ 'red-teaming/' | relative_url }}) review or deeper investigation. Some analysts argue that evaluation systems need to be embedded throughout development rather than treated as a final checkpoint immediately before deployment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://metr.org/blog/2026-05-19-frontier-risk-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[Metr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-title">2026 05 19 frontier risk report</span><span class="citation-popover-snippet">Frontier Risk Report (February to March 2026)May 19, 2026 — 19 May 2026 — To date, third-party evaluations of frontier AI have largel...</span><span class="citation-popover-meta">Published: May 19, 2026</span></span></span>
 
-The UK's AI Security Institute also faces a related limitation. Although it can evaluate models and identify concerns, it generally lacks direct authority to compel companies to alter development plans. This means that warning signals do not automatically translate into protective action. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/7204670/uk-ai-safety-institute/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">uk ai safety institute</span><span class="citation-popover-snippet">This led to the establishment of the UK&#x27;s AI Safety Institute (AISI) in November 2023, with a mandate to evaluate the risks of new AI mod...</span><span class="citation-popover-meta">Published: November 2023</span></span></span>
+The UK's AI Security Institute also faces a related limitation. Although it can evaluate models and identify concerns, it generally lacks direct authority to compel companies to alter development plans. This means that warning signals do not automatically translate into protective action.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/7204670/uk-ai-safety-institute/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">uk ai safety institute</span><span class="citation-popover-snippet">This led to the establishment of the UK&#x27;s AI Safety Institute (AISI) in November 2023, with a mandate to evaluate the risks of new AI mod...</span><span class="citation-popover-meta">Published: November 2023</span></span></span>
 
 In other words, the practical safety buffer is often smaller than the technical safety buffer. A model may generate warning signs months before catastrophe becomes plausible, but bureaucratic, commercial, or political delays can consume much of that time.
 
@@ -374,9 +374,9 @@ A further complication is deciding where warnings should occur.
 
 If thresholds are set too low, organisations face constant false alarms. If thresholds are set too high, the warning may arrive after dangerous capabilities have already emerged.
 
-This is why many frontier-safety frameworks use capability thresholds as proxies for underlying risk. The goal is to identify capabilities that are likely to precede severe danger, even if the danger itself cannot yet be measured directly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.13793" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Our evaluations cover four areas...</span></span></span>
+This is why many frontier-safety frameworks use capability thresholds as proxies for underlying risk. The goal is to identify capabilities that are likely to precede severe danger, even if the danger itself cannot yet be measured directly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.13793" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Our evaluations cover four areas...</span></span></span>
 
-Critics argue that this approach depends on assumptions about future capability development that may turn out to be wrong. Some have warned that threshold definitions can become vague or subjective, making it difficult to know whether a genuine warning has occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iaps.ai/research/responsible-scaling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iaps.ai">[Institute for AI Policy and Strategy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iaps.ai</span><span class="citation-popover-title">responsible scaling</span><span class="citation-popover-snippet">Institute for AI Policy and StrategyResponsible Scaling: Comparing Government Guidance...Mar 11, 2024 — Anthropic and other AI companies...</span></span></span>
+Critics argue that this approach depends on assumptions about future capability development that may turn out to be wrong. Some have warned that threshold definitions can become vague or subjective, making it difficult to know whether a genuine warning has occurred.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iaps.ai/research/responsible-scaling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iaps.ai">[Institute for AI Policy and Strategy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iaps.ai</span><span class="citation-popover-title">responsible scaling</span><span class="citation-popover-snippet">Institute for AI Policy and StrategyResponsible Scaling: Comparing Government Guidance...Mar 11, 2024 — Anthropic and other AI companies...</span></span></span>
 
 The deeper issue is that no one yet knows how smoothly dangerous capabilities scale. If capability growth follows predictable trends, thresholds may provide substantial warning. If important abilities emerge abruptly, the safety buffer may be much smaller than expected.
 
@@ -395,285 +395,285 @@ Researchers increasingly look for:
 
 </div>
 
-Some responsible-scaling approaches explicitly depend on the belief that dangerous capabilities develop gradually enough to forecast in advance. Their aim is to identify important thresholds before crossing them and prepare safeguards ahead of time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lesswrong.com/posts/vAopGQhFPdjcA8CEh/anthropic-reflections-on-our-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lesswrong.com">[LessWrong]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lesswrong.com</span><span class="citation-popover-snippet">Anthropic: Reflections on our Responsible Scaling PolicyMay 19, 2024 — We aim to collect evidence about model risk and prepare s...</span><span class="citation-popover-meta">Published: May 19, 2024</span></span></span>
+Some responsible-scaling approaches explicitly depend on the belief that dangerous capabilities develop gradually enough to forecast in advance. Their aim is to identify important thresholds before crossing them and prepare safeguards ahead of time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lesswrong.com/posts/vAopGQhFPdjcA8CEh/anthropic-reflections-on-our-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lesswrong.com">[LessWrong]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lesswrong.com</span><span class="citation-popover-snippet">Anthropic: Reflections on our Responsible Scaling PolicyMay 19, 2024 — We aim to collect evidence about model risk and prepare s...</span><span class="citation-popover-meta">Published: May 19, 2024</span></span></span>
 
-At present, however, the evidence remains limited. Frontier models have improved rapidly, but humanity has not yet observed systems with the extreme capabilities envisioned in AI takeover scenarios. As a result, nobody can directly measure how much warning would precede such systems. Current evaluation programmes are partly an attempt to learn that answer before it becomes urgent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)The UK AI Security Institute (AISI) has conducted evalu...</span></span></span>
+At present, however, the evidence remains limited. Frontier models have improved rapidly, but humanity has not yet observed systems with the extreme capabilities envisioned in AI takeover scenarios. As a result, nobody can directly measure how much warning would precede such systems. Current evaluation programmes are partly an attempt to learn that answer before it becomes urgent.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)The UK AI Security Institute (AISI) has conducted evalu...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_eval_safety_b_854dea-Illustration-3-dark.svg" | relative_url }}" alt="Safety buffers illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_eval_safety_b_854dea-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_fast_takeoff_3c73c7_eval_safety_b_854dea-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The central disagreement
 
 The debate over safety buffers is ultimately a debate about timing.
 
-Researchers who are relatively optimistic about evaluations tend to believe that dangerous capabilities will emerge progressively, generating detectable warning signs and leaving enough time for coordinated responses. They see evaluations, capability thresholds, and responsible-scaling frameworks as practical tools for navigating [uncertainty]({{ 'uncertainty/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/technical-reports/frontier-capability-assessments/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">frontier capability assessments</span><span class="citation-popover-snippet">Frontier Model ForumFrontier Capability Assessments22 Apr 2025 — Frontier Capability Assessments are procedures conducted on frontier mod...</span></span></span>
+Researchers who are relatively optimistic about evaluations tend to believe that dangerous capabilities will emerge progressively, generating detectable warning signs and leaving enough time for coordinated responses. They see evaluations, capability thresholds, and responsible-scaling frameworks as practical tools for navigating [uncertainty]({{ 'uncertainty/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/technical-reports/frontier-capability-assessments/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">frontier capability assessments</span><span class="citation-popover-snippet">Frontier Model ForumFrontier Capability Assessments22 Apr 2025 — Frontier Capability Assessments are procedures conducted on frontier mod...</span></span></span>
 
 More pessimistic AI doom advocates worry that capability gains could outpace both evaluation science and institutional decision-making. In their view, a sufficiently fast takeoff could compress the interval between warning and danger until it becomes operationally meaningless. Evaluations might still detect risk, but only after the last realistic opportunity to intervene has passed.
 
 That disagreement sits at the heart of the wider debate over fast takeoff warning signs. The usefulness of frontier-model evaluations depends not only on whether they can spot danger, but on whether the future provides enough time between the first warning and the moment when human control becomes genuinely uncertain.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Will AI warning tests arrive in time?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Will AI warning tests arrive in time?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Russell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
+</h4>
+<p class="fr-book-author">By Stuart Russell</p>
         
-        <p class="fr-book-desc">Highly relevant to evaluation, control, warning signs and safety mechanisms.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highly relevant to evaluation, control, warning signs and safety mechanisms.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
-        </h4>
-        <p class="fr-book-author">By Brian Christian</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
+</h4>
+<p class="fr-book-author">By Brian Christian</p>
         
-        <p class="fr-book-desc">Explores how researchers identify and measure harmful AI behaviours.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how researchers identify and measure harmful AI behaviours.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rebooting+AI+by+Gary+Marcus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rebooting AI on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OmeEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Rebooting AI" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rebooting+AI+by+Gary+Marcus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rebooting AI">Rebooting AI</a>
-        </h4>
-        <p class="fr-book-author">By Gary Marcus, Ernest Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Rebooting+AI+by+Gary+Marcus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rebooting AI on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OmeEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Rebooting AI" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Rebooting+AI+by+Gary+Marcus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rebooting AI">Rebooting AI</a>
+</h4>
+<p class="fr-book-author">By Gary Marcus, Ernest Davis</p>
         
-        <p class="fr-book-desc">Focuses on reliability, testing and trustworthy AI systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rebooting+AI+by+Gary+Marcus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on reliability, testing and trustworthy AI systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Rebooting+AI+by+Gary+Marcus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superintelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7_H8AwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superintelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superintelligence">Superintelligence</a>
-        </h4>
-        <p class="fr-book-author">By Nick Bostrom</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superintelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7_H8AwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superintelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superintelligence">Superintelligence</a>
+</h4>
+<p class="fr-book-author">By Nick Bostrom</p>
         
-        <p class="fr-book-desc">Frames why warning systems may struggle if capability growth becomes very rapid.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Frames why warning systems may struggle if capability growth becomes very rapid.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Rebooting+AI&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rebooting AI</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Rebooting+AI&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rebooting AI</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PRINCESS 24&quot;X36&quot; CANVAS/PAPER POSTER NSFW CUSTOMIZABLE QUALITY ART PRINTS"><img src="{{ '/assets/images/marketplace-covers/607b3e7eda16944efdf2.jpg' | relative_url }}" alt="Listing image for PRINCESS 24&quot;X36&quot; CANVAS/PAPER POSTER NSFW CUSTOMIZABLE QUALITY ART PRINTS" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">PRINCESS 24&quot;X36&quot; CANVAS/PAPER POSTER NSFW CUSTOMIZABLE QUALITY ART PRINTS</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search <span data-ebay-domain-label>eBay.com</span>: AI poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-ai-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PRINCESS 24&quot;X36&quot; CANVAS/PAPER POSTER NSFW CUSTOMIZABLE QUALITY ART PRINTS"><img src="{{ '/assets/images/marketplace-covers/607b3e7eda16944efdf2.jpg' | relative_url }}" alt="Listing image for PRINCESS 24&quot;X36&quot; CANVAS/PAPER POSTER NSFW CUSTOMIZABLE QUALITY ART PRINTS" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">PRINCESS 24&quot;X36&quot; CANVAS/PAPER POSTER NSFW CUSTOMIZABLE QUALITY ART PRINTS</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search<span data-ebay-domain-label>eBay.com</span>: AI poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-ai-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Allen Iverson Ai Poster or Canvas - Allen Iverson Wall Art Decor"><img src="{{ '/assets/images/marketplace-covers/7bb936127fcca8b5cc60.jpg' | relative_url }}" alt="Listing image for Allen Iverson Ai Poster or Canvas - Allen Iverson Wall Art Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Allen Iverson Ai Poster or Canvas - Allen Iverson Wall Art Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search <span data-ebay-domain-label>eBay.com</span>: AI poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-ai-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Allen Iverson Ai Poster or Canvas - Allen Iverson Wall Art Decor"><img src="{{ '/assets/images/marketplace-covers/7bb936127fcca8b5cc60.jpg' | relative_url }}" alt="Listing image for Allen Iverson Ai Poster or Canvas - Allen Iverson Wall Art Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Allen Iverson Ai Poster or Canvas - Allen Iverson Wall Art Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search<span data-ebay-domain-label>eBay.com</span>: AI poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-ai-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SMILING 24&quot;X36&quot; CANVAS/PAPER POSTER NSFW CUSTOMIZABLE QUALITY ART PRINTS"><img src="{{ '/assets/images/marketplace-covers/648fc4371c6f7c873f5c.jpg' | relative_url }}" alt="Listing image for SMILING 24&quot;X36&quot; CANVAS/PAPER POSTER NSFW CUSTOMIZABLE QUALITY ART PRINTS" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SMILING 24&quot;X36&quot; CANVAS/PAPER POSTER NSFW CUSTOMIZABLE QUALITY ART PRINTS</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search <span data-ebay-domain-label>eBay.com</span>: AI poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-ai-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SMILING 24&quot;X36&quot; CANVAS/PAPER POSTER NSFW CUSTOMIZABLE QUALITY ART PRINTS"><img src="{{ '/assets/images/marketplace-covers/648fc4371c6f7c873f5c.jpg' | relative_url }}" alt="Listing image for SMILING 24&quot;X36&quot; CANVAS/PAPER POSTER NSFW CUSTOMIZABLE QUALITY ART PRINTS" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SMILING 24&quot;X36&quot; CANVAS/PAPER POSTER NSFW CUSTOMIZABLE QUALITY ART PRINTS</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search<span data-ebay-domain-label>eBay.com</span>: AI poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-ai-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dolly Parton AI Art 11 x 14&quot; Photo Print"><img src="{{ '/assets/images/marketplace-covers/c946da3aa28e19846af8.jpg' | relative_url }}" alt="Listing image for Dolly Parton AI Art 11 x 14&quot; Photo Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Dolly Parton AI Art 11 x 14&quot; Photo Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search <span data-ebay-domain-label>eBay.com</span>: AI poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-ai-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dolly Parton AI Art 11 x 14&quot; Photo Print"><img src="{{ '/assets/images/marketplace-covers/c946da3aa28e19846af8.jpg' | relative_url }}" alt="Listing image for Dolly Parton AI Art 11 x 14&quot; Photo Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Dolly Parton AI Art 11 x 14&quot; Photo Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search<span data-ebay-domain-label>eBay.com</span>: AI poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-ai-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mengshan 1/144 Mecha Robot Assembly Model Kit Collectible Display Toy"><img src="{{ '/assets/images/marketplace-covers/b30325d85176fb1bdbd6.jpg' | relative_url }}" alt="Listing image for Mengshan 1/144 Mecha Robot Assembly Model Kit Collectible Display Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Mengshan 1/144 Mecha Robot Assembly Model Kit Collectible Display Toy</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-robot-display-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mengshan 1/144 Mecha Robot Assembly Model Kit Collectible Display Toy"><img src="{{ '/assets/images/marketplace-covers/b30325d85176fb1bdbd6.jpg' | relative_url }}" alt="Listing image for Mengshan 1/144 Mecha Robot Assembly Model Kit Collectible Display Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Mengshan 1/144 Mecha Robot Assembly Model Kit Collectible Display Toy</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: robot display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-robot-display-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Steampunk Robot Bust 3D Printed Display Model"><img src="{{ '/assets/images/marketplace-covers/75925c1d8aadd01dbb15.jpg' | relative_url }}" alt="Listing image for Steampunk Robot Bust 3D Printed Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Steampunk Robot Bust 3D Printed Display Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-robot-display-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Steampunk Robot Bust 3D Printed Display Model"><img src="{{ '/assets/images/marketplace-covers/75925c1d8aadd01dbb15.jpg' | relative_url }}" alt="Listing image for Steampunk Robot Bust 3D Printed Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Steampunk Robot Bust 3D Printed Display Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: robot display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-robot-display-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mengshan 1/144 Mecha Robot Assembly Model Kit Collectible Display Toy"><img src="{{ '/assets/images/marketplace-covers/3c7f3f7475affbd6fb3e.jpg' | relative_url }}" alt="Listing image for Mengshan 1/144 Mecha Robot Assembly Model Kit Collectible Display Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Mengshan 1/144 Mecha Robot Assembly Model Kit Collectible Display Toy</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-robot-display-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mengshan 1/144 Mecha Robot Assembly Model Kit Collectible Display Toy"><img src="{{ '/assets/images/marketplace-covers/3c7f3f7475affbd6fb3e.jpg' | relative_url }}" alt="Listing image for Mengshan 1/144 Mecha Robot Assembly Model Kit Collectible Display Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Mengshan 1/144 Mecha Robot Assembly Model Kit Collectible Display Toy</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: robot display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-robot-display-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DR Who - The Mind Robber - White Robot - 28mm + display model sci-fi retro TV"><img src="{{ '/assets/images/marketplace-covers/cfeded4642e2e7e555e7.jpg' | relative_url }}" alt="Listing image for DR Who - The Mind Robber - White Robot - 28mm + display model sci-fi retro TV" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">DR Who - The Mind Robber - White Robot - 28mm + display model sci-fi retro TV</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-robot-display-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DR Who - The Mind Robber - White Robot - 28mm + display model sci-fi retro TV"><img src="{{ '/assets/images/marketplace-covers/cfeded4642e2e7e555e7.jpg' | relative_url }}" alt="Listing image for DR Who - The Mind Robber - White Robot - 28mm + display model sci-fi retro TV" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">DR Who - The Mind Robber - White Robot - 28mm + display model sci-fi retro TV</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: robot display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-robot-display-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-buffers-will-ai-warning-tests-arrive-in-time-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -689,7 +689,7 @@ That disagreement sits at the heart of the wider debate over fast takeoff warnin
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -709,7 +709,7 @@ That disagreement sits at the heart of the wider debate over fast takeoff warnin
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -741,7 +741,7 @@ That disagreement sits at the heart of the wider debate over fast takeoff warnin
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -771,7 +771,7 @@ That disagreement sits at the heart of the wider debate over fast takeoff warnin
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -829,246 +829,246 @@ That disagreement sits at the heart of the wider debate over fast takeoff warnin
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2403.13793" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.13793</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Our evaluations cover four areas...</p></details>
+   Link:<a href="https://arxiv.org/abs/2403.13793" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.13793</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Our evaluations cover four areas...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: time.com  
    Title: uk ai safety institute  
-   Link: <a href="https://time.com/7204670/uk-ai-safety-institute/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/7204670/uk-ai-safety-institute/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This led to the establishment of the UK&#x27;s AI Safety Institute (AISI) in November 2023, with a mandate to evaluate the risks of new AI mod...</p></details>
+   Link:<a href="https://time.com/7204670/uk-ai-safety-institute/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/7204670/uk-ai-safety-institute/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This led to the establishment of the UK&#x27;s AI Safety Institute (AISI) in November 2023, with a mandate to evaluate the risks of new AI mod...</p></details>
    Published: November 2023  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: anthropic.com  
    Title: s responsible scaling policy  
-   Link: <a href="https://www.anthropic.com/news/anthropics-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/news/anthropics-responsible-scaling-policy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic&#x27;s Responsible Scaling PolicySep 19, 2023 — Our RSP defines a framework called AI Safety Levels (ASL) for addressing ca...</p></details>
+   Link:<a href="https://www.anthropic.com/news/anthropics-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/news/anthropics-responsible-scaling-policy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic&#x27;s Responsible Scaling PolicySep 19, 2023 — Our RSP defines a framework called AI Safety Levels (ASL) for addressing ca...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: lesswrong.com  
-   Link: <a href="https://www.lesswrong.com/posts/vAopGQhFPdjcA8CEh/anthropic-reflections-on-our-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/posts/vAopGQhFPdjcA8CEh/anthropic-reflections-on-our-responsible-scaling-policy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic: Reflections on our Responsible Scaling PolicyMay 19, 2024 — We aim to collect evidence about model risk and prepare s...</p></details>
+   Link:<a href="https://www.lesswrong.com/posts/vAopGQhFPdjcA8CEh/anthropic-reflections-on-our-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/posts/vAopGQhFPdjcA8CEh/anthropic-reflections-on-our-responsible-scaling-policy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic: Reflections on our Responsible Scaling PolicyMay 19, 2024 — We aim to collect evidence about model risk and prepare s...</p></details>
    Published: May 19, 2024  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv Sabotage Evaluations for Frontier Models  
-   Link: <a href="https://arxiv.org/abs/2410.21514" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2410.21514</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sabotage Evaluations for Frontier ModelsOctober 28, 2024...</p></details>
+   Link:<a href="https://arxiv.org/abs/2410.21514" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2410.21514</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sabotage Evaluations for Frontier ModelsOctober 28, 2024...</p></details>
    Published: October 28, 2024  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv Evaluating Frontier Models for Stealth and Situational Awareness  
-   Link: <a href="https://arxiv.org/abs/2505.01420" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.01420</a>  
+   Link:<a href="https://arxiv.org/abs/2505.01420" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.01420</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: anthropic.com  
    Title: responsible scaling policy v3  
-   Link: <a href="https://www.anthropic.com/news/responsible-scaling-policy-v3" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/news/responsible-scaling-policy-v3</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Responsible Scaling Policy Version 3.024 Feb 2026 — We viewed the capability thresholds as potentially important moments for the...</p></details>
+   Link:<a href="https://www.anthropic.com/news/responsible-scaling-policy-v3" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/news/responsible-scaling-policy-v3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Responsible Scaling Policy Version 3.024 Feb 2026 — We viewed the capability thresholds as potentially important moments for the...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: metr.org  
    Title: 2026 05 19 frontier risk report  
-   Link: <a href="https://metr.org/blog/2026-05-19-frontier-risk-report/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/blog/2026-05-19-frontier-risk-report/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Risk Report (February to March 2026)May 19, 2026 — 19 May 2026 — To date, third-party evaluations of frontier AI have largel...</p></details>
+   Link:<a href="https://metr.org/blog/2026-05-19-frontier-risk-report/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/blog/2026-05-19-frontier-risk-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Risk Report (February to March 2026)May 19, 2026 — 19 May 2026 — To date, third-party evaluations of frontier AI have largel...</p></details>
    Published: May 19, 2026  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2406.14713" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2406.14713</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Risk thresholds for frontier AIJune 20, 2024...</p></details>
+   Link:<a href="https://arxiv.org/abs/2406.14713" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2406.14713</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Risk thresholds for frontier AIJune 20, 2024...</p></details>
    Published: June 20, 2024  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: anthropic.com  
-   Link: <a href="https://www.anthropic.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/</a>  
+   Link:<a href="https://www.anthropic.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: assets.anthropic.com  
    Title: method of informing safety and risk cases profiling sources of danger  
-   Link: <a href="https://assets.anthropic.com/m/377027d5b36ac1eb/original/Sabotage-Evaluations-for-Frontier-Models.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.anthropic.com/m/377027d5b36ac1eb/original/Sabotage-Evaluations-for-Frontier-Models.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluations for Frontier Modelsby J Benton · Cited by 41 — are screened by another model to detect [misuse](&amp;#123;&amp;#123; &#x27;misuse/&#x27; | relative_url &amp;#125;&amp;#125;), and dangerous-capability evalu...</p></details>
+   Link:<a href="https://assets.anthropic.com/m/377027d5b36ac1eb/original/Sabotage-Evaluations-for-Frontier-Models.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.anthropic.com/m/377027d5b36ac1eb/original/Sabotage-Evaluations-for-Frontier-Models.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluations for Frontier Modelsby J Benton · Cited by 41 — are screened by another model to detect [misuse](&amp;#123;&amp;#123; &#x27;misuse/&#x27; | relative_url &amp;#125;&amp;#125;), and dangerous-capability evalu...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: anthropic.com  
    Title: acquires Stainless  
-   Link: <a href="https://anthropic.com/news/anthropic-acquires-stainless" target="_blank" rel="noopener noreferrer nofollow">https://anthropic.com/news/anthropic-acquires-stainless</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic acquires Stainless...</p></details>
+   Link:<a href="https://anthropic.com/news/anthropic-acquires-stainless" target="_blank" rel="noopener noreferrer nofollow">https://anthropic.com/news/anthropic-acquires-stainless</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic acquires Stainless...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2512.01166v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2512.01166v3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI model will not cause harm, even when the model has dangerous capabilities. They can be thought of as safeguards against misuse, or...</p></details>
+   Link:<a href="https://arxiv.org/html/2512.01166v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2512.01166v3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI model will not cause harm, even when the model has dangerous capabilities. They can be thought of as safeguards against misuse, or...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: time.com  
    Title: exclusive anthropic drops flagship safety pledge  
-   Link: <a href="https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exclusive: Anthropic Drops Flagship Safety Pledge24 Feb 2026 — In 2023, Anthropic committed to never train an AI system unless it could g...</p></details>
+   Link:<a href="https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exclusive: Anthropic Drops Flagship Safety Pledge24 Feb 2026 — In 2023, Anthropic committed to never train an AI system unless it could g...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: deepmind.google  
-   Link: <a href="https://deepmind.google/research/publications/78150/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/research/publications/78150/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating Frontier Models for Dangerous Capabilities21 Mar 2024 — We introduce a programme of new &quot;dangerous capability&quot; evaluations and...</p></details>
+   Link:<a href="https://deepmind.google/research/publications/78150/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/research/publications/78150/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating Frontier Models for Dangerous Capabilities21 Mar 2024 — We introduce a programme of new &quot;dangerous capability&quot; evaluations and...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: governance.ai  
    Title: ‍.Read more  
-   Link: <a href="https://www.governance.ai/analysis/anthropics-rsp-v3-0-how-it-works-whats-changed-and-some-reflections" target="_blank" rel="noopener noreferrer nofollow">https://www.governance.ai/analysis/anthropics-rsp-v3-0-how-it-works-whats-changed-and-some-reflections</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic&#x27;s RSP v3.0: How it Works, What&#x27;s Changed, and...Mar 17, 2026 — Anthropic&#x27;s Responsible Scaling Policy (RSP) – its framework fo...</p></details>
+   Link:<a href="https://www.governance.ai/analysis/anthropics-rsp-v3-0-how-it-works-whats-changed-and-some-reflections" target="_blank" rel="noopener noreferrer nofollow">https://www.governance.ai/analysis/anthropics-rsp-v3-0-how-it-works-whats-changed-and-some-reflections</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic&#x27;s RSP v3.0: How it Works, What&#x27;s Changed, and...Mar 17, 2026 — Anthropic&#x27;s Responsible Scaling Policy (RSP) – its framework fo...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: frontiermodelforum.org  
    Title: frontier capability assessments  
-   Link: <a href="https://www.frontiermodelforum.org/technical-reports/frontier-capability-assessments/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/technical-reports/frontier-capability-assessments/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Model ForumFrontier Capability Assessments22 Apr 2025 — Frontier Capability Assessments are procedures conducted on frontier mod...</p></details>
+   Link:<a href="https://www.frontiermodelforum.org/technical-reports/frontier-capability-assessments/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/technical-reports/frontier-capability-assessments/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Model ForumFrontier Capability Assessments22 Apr 2025 — Frontier Capability Assessments are procedures conducted on frontier mod...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: aisi.gov.uk  
-   Link: <a href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/frontier-ai-trends-report</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)The UK AI Security Institute (AISI) has conducted evalu...</p></details>
+   Link:<a href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/frontier-ai-trends-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)The UK AI Security Institute (AISI) has conducted evalu...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: iaps.ai  
    Title: responsible scaling  
-   Link: <a href="https://www.iaps.ai/research/responsible-scaling" target="_blank" rel="noopener noreferrer nofollow">https://www.iaps.ai/research/responsible-scaling</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Institute for AI Policy and StrategyResponsible Scaling: Comparing Government Guidance...Mar 11, 2024 — Anthropic and other AI companies...</p></details>
+   Link:<a href="https://www.iaps.ai/research/responsible-scaling" target="_blank" rel="noopener noreferrer nofollow">https://www.iaps.ai/research/responsible-scaling</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Institute for AI Policy and StrategyResponsible Scaling: Comparing Government Guidance...Mar 11, 2024 — Anthropic and other AI companies...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: safer-ai.org  
    Title: anthropics responsible scaling policy update makes a step backwards  
-   Link: <a href="https://www.safer-ai.org/anthropics-responsible-scaling-policy-update-makes-a-step-backwards" target="_blank" rel="noopener noreferrer nofollow">https://www.safer-ai.org/anthropics-responsible-scaling-policy-update-makes-a-step-backwards</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The new policy adopts...</p></details>
+   Link:<a href="https://www.safer-ai.org/anthropics-responsible-scaling-policy-update-makes-a-step-backwards" target="_blank" rel="noopener noreferrer nofollow">https://www.safer-ai.org/anthropics-responsible-scaling-policy-update-makes-a-step-backwards</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The new policy adopts...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Anthropic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anthropic</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AnthropicAnthropic is an American artificial intelligence (AI) company headquartered in San Francisco. It has developed a series of la...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Anthropic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anthropic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AnthropicAnthropic is an American artificial intelligence (AI) company headquartered in San Francisco. It has developed a series of la...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: verifywise.ai  
-   Link: <a href="https://verifywise.ai/de/ai-governance-library/policies-and-internal-governance/anthropic-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow">https://verifywise.ai/de/ai-governance-library/policies-and-internal-governance/anthropic-responsible-scaling-policy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It establishes commitments for...</p></details>
+   Link:<a href="https://verifywise.ai/de/ai-governance-library/policies-and-internal-governance/anthropic-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow">https://verifywise.ai/de/ai-governance-library/policies-and-internal-governance/anthropic-responsible-scaling-policy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It establishes commitments for...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: verifywise.ai  
-   Link: <a href="https://verifywise.ai/ai-governance-library/policies-and-internal-governance/anthropic-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow">https://verifywise.ai/ai-governance-library/policies-and-internal-governance/anthropic-responsible-scaling-policy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic Responsible Scaling PolicyAnthropic&#x27;s Responsible Scaling Policy defines AI Safety Levels (ASL) based on model capabilities and...</p></details>
+   Link:<a href="https://verifywise.ai/ai-governance-library/policies-and-internal-governance/anthropic-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow">https://verifywise.ai/ai-governance-library/policies-and-internal-governance/anthropic-responsible-scaling-policy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic Responsible Scaling PolicyAnthropic&#x27;s Responsible Scaling Policy defines AI Safety Levels (ASL) based on model capabilities and...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: frontiermodelforum.org  
-   Link: <a href="https://www.frontiermodelforum.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Model ForumThe Frontier Model Forum is an industry-supported non-profit focused on addressing significant risks to public safety...</p></details>
+   Link:<a href="https://www.frontiermodelforum.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Model ForumThe Frontier Model Forum is an industry-supported non-profit focused on addressing significant risks to public safety...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: frontiermodelforum.org  
    Title: managing advanced cyber risks in frontier ai frameworks  
-   Link: <a href="https://www.frontiermodelforum.org/technical-reports/managing-advanced-cyber-risks-in-frontier-ai-frameworks/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/technical-reports/managing-advanced-cyber-risks-in-frontier-ai-frameworks/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>13 Feb 2026 — Frontier capability assessments are procedures conducted on frontier AI models to gather evidence of whether they have capa...</p></details>
+   Link:<a href="https://www.frontiermodelforum.org/technical-reports/managing-advanced-cyber-risks-in-frontier-ai-frameworks/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/technical-reports/managing-advanced-cyber-risks-in-frontier-ai-frameworks/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>13 Feb 2026 — Frontier capability assessments are procedures conducted on frontier AI models to gather evidence of whether they have capa...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ts2.tech  
    Title: Anthropic Brings on Open AI Co-Founder Andrej Karpathy  
-   Link: <a href="https://ts2.tech/en/anthropic-just-hired-openai-co-founder-andrej-karpathy-rivals-will-notice/" target="_blank" rel="noopener noreferrer nofollow">https://ts2.tech/en/anthropic-just-hired-openai-co-founder-andrej-karpathy-rivals-will-notice/</a>  
+   Link:<a href="https://ts2.tech/en/anthropic-just-hired-openai-co-founder-andrej-karpathy-rivals-will-notice/" target="_blank" rel="noopener noreferrer nofollow">https://ts2.tech/en/anthropic-just-hired-openai-co-founder-andrej-karpathy-rivals-will-notice/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/miclchen_anthropics-responsible-scaling-policy-version-activity-7432196983748206592-ItDB" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/miclchen_anthropics-responsible-scaling-policy-version-activity-7432196983748206592-ItDB</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>No more implication of unilateral commitment to pause AI...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/miclchen_anthropics-responsible-scaling-policy-version-activity-7432196983748206592-ItDB" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/miclchen_anthropics-responsible-scaling-policy-version-activity-7432196983748206592-ItDB</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No more implication of unilateral commitment to pause AI...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/company/anthropicresearch" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/company/anthropicresearch</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AnthropicWe&#x27;re an AI research company that builds reliable, interpretable, and steerable AI systems. Our first product is Claude, an AI a...</p></details>
+   Link:<a href="https://www.linkedin.com/company/anthropicresearch" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/company/anthropicresearch</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AnthropicWe&#x27;re an AI research company that builds reliable, interpretable, and steerable AI systems. Our first product is Claude, an AI a...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: ai-safety-atlas.com  
    Title: Dangerous Capability Evaluations  
-   Link: <a href="https://ai-safety-atlas.com/chapters/v1/evaluations/dangerous-capability-evaluations/" target="_blank" rel="noopener noreferrer nofollow">https://ai-safety-atlas.com/chapters/v1/evaluations/dangerous-capability-evaluations/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 5Dangerous capability evaluations specifically probe for these potentially harmful abilities, helping identify systems that might...</p></details>
+   Link:<a href="https://ai-safety-atlas.com/chapters/v1/evaluations/dangerous-capability-evaluations/" target="_blank" rel="noopener noreferrer nofollow">https://ai-safety-atlas.com/chapters/v1/evaluations/dangerous-capability-evaluations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 5Dangerous capability evaluations specifically probe for these potentially harmful abilities, helping identify systems that might...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: forum.effectivealtruism.org  
    Title: anthropic announcing our updated responsible scaling policy  
-   Link: <a href="https://forum.effectivealtruism.org/posts/JoJwBsGJFWtq72omp/anthropic-announcing-our-updated-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/JoJwBsGJFWtq72omp/anthropic-announcing-our-updated-responsible-scaling-policy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rewrote its RSP16 Oct 2024 — New RSP introduces more flexible risk assessment but weakens some previous commitments, like evaluation freq...</p></details>
+   Link:<a href="https://forum.effectivealtruism.org/posts/JoJwBsGJFWtq72omp/anthropic-announcing-our-updated-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/JoJwBsGJFWtq72omp/anthropic-announcing-our-updated-responsible-scaling-policy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rewrote its RSP16 Oct 2024 — New RSP introduces more flexible risk assessment but weakens some previous commitments, like evaluation freq...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: aisecurityandsafety.org  
    Title: anthropic rsp  
-   Link: <a href="https://aisecurityandsafety.org/de/frameworks/anthropic-rsp/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/de/frameworks/anthropic-rsp/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wichtige Anforderungen. Assess AI...Read more...</p></details>
+   Link:<a href="https://aisecurityandsafety.org/de/frameworks/anthropic-rsp/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/de/frameworks/anthropic-rsp/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wichtige Anforderungen. Assess AI...Read more...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/singularity/comments/1g4a1mm/anthropic_announcing_our_updated_responsible/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/singularity/comments/1g4a1mm/anthropic_announcing_our_updated_responsible/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>easures for Claude 4 Opus &quot;to limit risk of users developing...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/singularity/comments/1g4a1mm/anthropic_announcing_our_updated_responsible/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/singularity/comments/1g4a1mm/anthropic_announcing_our_updated_responsible/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>easures for Claude 4 Opus &quot;to limit risk of users developing...Read more...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/%40anthropic-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/%40anthropic-ai</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AnthropicWe&#x27;re an AI safety and research company. Talk to our AI assistant Claude on claude.com. Download Claude on desktop, iOS, or Andr...</p></details>
+   Link:<a href="https://www.youtube.com/%40anthropic-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/%40anthropic-ai</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AnthropicWe&#x27;re an AI safety and research company. Talk to our AI assistant Claude on claude.com. Download Claude on desktop, iOS, or Andr...</p></details>
 
 ### Additional References
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/tesssbuckley_today-uks-ai-security-institute-of-department-activity-7407352566029828097-ZTJf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/tesssbuckley_today-uks-ai-security-institute-of-department-activity-7407352566029828097-ZTJf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK AI Security Institute Publishes Frontier AI Trends ReportAs the first public analysis of trends by AISI it draws on two years&#x27; worth o...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/tesssbuckley_today-uks-ai-security-institute-of-department-activity-7407352566029828097-ZTJf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/tesssbuckley_today-uks-ai-security-institute-of-department-activity-7407352566029828097-ZTJf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK AI Security Institute Publishes Frontier AI Trends ReportAs the first public analysis of trends by AISI it draws on two years&#x27; worth o...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: sebastianfarquhar.com  
-   Link: <a href="https://sebastianfarquhar.com/assets/papers/phuongEvaluating2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sebastianfarquhar.com/assets/papers/phuongEvaluating2024.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating Frontier Models for Dangerous Capabilitiesby M Phuong · 2024 · Cited by 145 — Our evaluations cover four areas: (1) persuasion...</p></details>
+   Link:<a href="https://sebastianfarquhar.com/assets/papers/phuongEvaluating2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sebastianfarquhar.com/assets/papers/phuongEvaluating2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating Frontier Models for Dangerous Capabilitiesby M Phuong · 2024 · Cited by 145 — Our evaluations cover four areas: (1) persuasion...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: rand.org  
-   Link: <a href="https://www.rand.org/content/dam/rand/pubs/conf_proceedings/CFA3400/CFA3429-1/RAND_CFA3429-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/content/dam/rand/pubs/conf_proceedings/CFA3400/CFA3429-1/RAND_CFA3429-1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ty, and identifying warning signs of evaluation problems, this initiative aims...Read more...</p></details>
+   Link:<a href="https://www.rand.org/content/dam/rand/pubs/conf_proceedings/CFA3400/CFA3429-1/RAND_CFA3429-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/content/dam/rand/pubs/conf_proceedings/CFA3400/CFA3429-1/RAND_CFA3429-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ty, and identifying warning signs of evaluation problems, this initiative aims...Read more...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: aisi.gov.uk  
    Title: early lessons from evaluating frontier ai systems  
-   Link: <a href="https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>model complies with explicitly harmful requests.... For example, directly exploring the capability to cause large-scale harm would be da...</p></details>
+   Link:<a href="https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/blog/early-lessons-from-evaluating-frontier-ai-systems</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>model complies with explicitly harmful requests.... For example, directly exploring the capability to cause large-scale harm would be da...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: agora.eto.tech  
    Title: Agora Anthropic Responsible Scaling Policy  
-   Link: <a href="https://agora.eto.tech/instrument/768" target="_blank" rel="noopener noreferrer nofollow">https://agora.eto.tech/instrument/768</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ETO AgoraAnthropic Responsible Scaling Policy - ETO AGORAA Capability Threshold is a prespeciﬁed level of AI capability that, if reached...</p></details>
+   Link:<a href="https://agora.eto.tech/instrument/768" target="_blank" rel="noopener noreferrer nofollow">https://agora.eto.tech/instrument/768</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ETO AgoraAnthropic Responsible Scaling Policy - ETO AGORAA Capability Threshold is a prespeciﬁed level of AI capability that, if reached...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: GOV.UK  
    Title: emerging processes for frontier ai safety  
-   Link: <a href="https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>processes for frontier AI safety27 Oct 2023 — This document contains the world&#x27;s first overview of emerging safety processes focused on f...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>processes for frontier AI safety27 Oct 2023 — This document contains the world&#x27;s first overview of emerging safety processes focused on f...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: richardmoulange.substack.com  
    Title: deep dive how the uk can enhance  
-   Link: <a href="https://richardmoulange.substack.com/p/deep-dive-how-the-uk-can-enhance" target="_blank" rel="noopener noreferrer nofollow">https://richardmoulange.substack.com/p/deep-dive-how-the-uk-can-enhance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>substack.comDeep-dive: how the UK can enhance strategic advantage...... models for dangerous capabilities. This enables rapid warning wh...</p></details>
+   Link:<a href="https://richardmoulange.substack.com/p/deep-dive-how-the-uk-can-enhance" target="_blank" rel="noopener noreferrer nofollow">https://richardmoulange.substack.com/p/deep-dive-how-the-uk-can-enhance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>substack.comDeep-dive: how the UK can enhance strategic advantage...... models for dangerous capabilities. This enables rapid warning wh...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: forum.effectivealtruism.org  
    Title: responsible scaling policy v3 1  
-   Link: <a href="https://forum.effectivealtruism.org/posts/DGZNAGL2FNJfftwgE/responsible-scaling-policy-v3-1" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/DGZNAGL2FNJfftwgE/responsible-scaling-policy-v3-1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scaling Policy v3Feb 24, 2026 — The idea was: if a company has a policy saying it isn&#x27;t safe to train an AI model with X level of capabil...</p></details>
+   Link:<a href="https://forum.effectivealtruism.org/posts/DGZNAGL2FNJfftwgE/responsible-scaling-policy-v3-1" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/DGZNAGL2FNJfftwgE/responsible-scaling-policy-v3-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scaling Policy v3Feb 24, 2026 — The idea was: if a company has a policy saying it isn&#x27;t safe to train an AI model with X level of capabil...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
    Title: Mary Phuong – Dangerous Capability [Evals](&#123;&#123; 'evals/' | relative_url &#125;&#125;): Basis for Frontier Safety  
-   Link: <a href="https://www.youtube.com/watch?v=pO8IcIqhHuk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pO8IcIqhHuk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vincent Conitzer - AI Testing Should Account for Sophisticated Strategic Behaviour [Alignment Worksh...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=pO8IcIqhHuk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pO8IcIqhHuk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vincent Conitzer - AI Testing Should Account for Sophisticated Strategic Behaviour [Alignment Worksh...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: youtube.com  
    Title: Vincent Conitzer  
-   Link: <a href="https://www.youtube.com/watch?v=SB5NeoYi_q8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SB5NeoYi_q8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UK Tested Mythos AI&#x27;s Cyber Skills. Here&#x27;s What It Found...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=SB5NeoYi_q8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SB5NeoYi_q8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UK Tested Mythos AI&#x27;s Cyber Skills. Here&#x27;s What It Found...</p></details>

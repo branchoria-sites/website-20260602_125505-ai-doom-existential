@@ -332,237 +332,237 @@ Recognising both the mechanisms and the limitations of short‑timeline reasonin
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HfuFcTzNQoY" title="AI FUTURE THAT CAN DESTROY US | Superintelligence Is Getting Closer — Nick Bostrom × Jonas von Essen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HfuFcTzNQoY" target="_blank" rel="noopener noreferrer">AI FUTURE THAT CAN DESTROY US | Superintelligence Is Getting Closer — Nick Bostrom × Jonas von Essen</a></p><p class="youtube-embed-meta">Channel: memoryOS &middot; Views: 124.9K &middot; Uploaded: October 2025 &middot; Length: 1 hour 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HfuFcTzNQoY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HfuFcTzNQoY">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why shorter AI timelines feel more dangerous. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why shorter AI timelines feel more dangerous. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Russell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
+</h4>
+<p class="fr-book-author">By Stuart Russell</p>
         
-        <p class="fr-book-desc">Highlights urgency around control problems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights urgency around control problems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
-        </h4>
-        <p class="fr-book-author">By Mustafa Suleyman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
+</h4>
+<p class="fr-book-author">By Mustafa Suleyman</p>
         
-        <p class="fr-book-desc">Explores risks from rapid technological progress.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores risks from rapid technological progress.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Life 3.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3_otDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Life 3.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Life 3.0">Life 3.0</a>
-        </h4>
-        <p class="fr-book-author">By Max Tegmark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Life 3.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3_otDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Life 3.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Life 3.0">Life 3.0</a>
+</h4>
+<p class="fr-book-author">By Max Tegmark</p>
         
-        <p class="fr-book-desc">Discusses fast AI development scenarios.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses fast AI development scenarios.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Precipice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=iaejzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Precipice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Precipice">The Precipice</a>
-        </h4>
-        <p class="fr-book-author">By Toby Ord</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Precipice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=iaejzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Precipice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Precipice">The Precipice</a>
+</h4>
+<p class="fr-book-author">By Toby Ord</p>
         
-        <p class="fr-book-desc">Examines compressed timelines and preparedness challenges.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines compressed timelines and preparedness challenges.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Life+3.0&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Life 3.0</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Life+3.0&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Life 3.0</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-science-print&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Evolutionary Tree of Life Infographic Science Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/70b3e174813140595cd6.jpg' | relative_url }}" alt="Listing image for Evolutionary Tree of Life Infographic Science Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-science-print&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Evolutionary Tree of Life Infographic Science Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-science-print&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science print">Search <span data-ebay-domain-label>eBay.com</span>: science print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-science-print&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-science-print&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Evolutionary Tree of Life Infographic Science Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/70b3e174813140595cd6.jpg' | relative_url }}" alt="Listing image for Evolutionary Tree of Life Infographic Science Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-science-print&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Evolutionary Tree of Life Infographic Science Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-science-print&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science print">Search<span data-ebay-domain-label>eBay.com</span>: science print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-science-print&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-science-print&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Periodic Table of the Elements Educational Science Poster"><img src="{{ '/assets/images/marketplace-covers/e66a974b13cb7e6320c9.jpg' | relative_url }}" alt="Listing image for Vintage Periodic Table of the Elements Educational Science Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-science-print&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Periodic Table of the Elements Educational Science Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-science-print&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science print">Search <span data-ebay-domain-label>eBay.com</span>: science print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-science-print&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-science-print&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-science-print&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Periodic Table of the Elements Educational Science Poster"><img src="{{ '/assets/images/marketplace-covers/e66a974b13cb7e6320c9.jpg' | relative_url }}" alt="Listing image for Vintage Periodic Table of the Elements Educational Science Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-science-print&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Periodic Table of the Elements Educational Science Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-science-print&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science print">Search<span data-ebay-domain-label>eBay.com</span>: science print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-science-print&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-science-print&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-robot-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Interstellar TARS Robot Collectible Figure Durable Plastic With Metallic Finish"><img src="{{ '/assets/images/marketplace-covers/2de07f038a749cdd0ffc.jpg' | relative_url }}" alt="Listing image for Interstellar TARS Robot Collectible Figure Durable Plastic With Metallic Finish" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-robot-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Interstellar TARS Robot Collectible Figure Durable Plastic With Metallic Finish</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-robot-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-robot-collectible-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-robot-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Interstellar TARS Robot Collectible Figure Durable Plastic With Metallic Finish"><img src="{{ '/assets/images/marketplace-covers/2de07f038a749cdd0ffc.jpg' | relative_url }}" alt="Listing image for Interstellar TARS Robot Collectible Figure Durable Plastic With Metallic Finish" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-robot-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Interstellar TARS Robot Collectible Figure Durable Plastic With Metallic Finish</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-robot-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: robot collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-robot-collectible-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-robot-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Interstellar Tars Robot Collectible Figure Durable Plastic Model with Metallic F"><img src="{{ '/assets/images/marketplace-covers/628fc201f74bb9e5976e.jpg' | relative_url }}" alt="Listing image for Interstellar Tars Robot Collectible Figure Durable Plastic Model with Metallic F" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-robot-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Interstellar Tars Robot Collectible Figure Durable Plastic Model with Metallic F</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-robot-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-robot-collectible-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-robot-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Interstellar Tars Robot Collectible Figure Durable Plastic Model with Metallic F"><img src="{{ '/assets/images/marketplace-covers/628fc201f74bb9e5976e.jpg' | relative_url }}" alt="Listing image for Interstellar Tars Robot Collectible Figure Durable Plastic Model with Metallic F" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-robot-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Interstellar Tars Robot Collectible Figure Durable Plastic Model with Metallic F</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-robot-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: robot collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-robot-collectible-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-robot-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Brian the Robot Collectible Confused.com Brand, Boxed"><img src="{{ '/assets/images/marketplace-covers/23fa36aa3d5e7deb4b91.jpg' | relative_url }}" alt="Listing image for Brian the Robot Collectible Confused.com Brand, Boxed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-robot-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Brian the Robot Collectible Confused.com Brand, Boxed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-robot-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-robot-collectible-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-robot-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Brian the Robot Collectible Confused.com Brand, Boxed"><img src="{{ '/assets/images/marketplace-covers/23fa36aa3d5e7deb4b91.jpg' | relative_url }}" alt="Listing image for Brian the Robot Collectible Confused.com Brand, Boxed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-robot-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Brian the Robot Collectible Confused.com Brand, Boxed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-robot-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: robot collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-robot-collectible-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-robot-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TARS Robot Collectible Figure Interstellar TARS Robot Collectible Figure - Durab"><img src="{{ '/assets/images/marketplace-covers/62b7220474af9ee43bb9.jpg' | relative_url }}" alt="Listing image for TARS Robot Collectible Figure Interstellar TARS Robot Collectible Figure - Durab" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-robot-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TARS Robot Collectible Figure Interstellar TARS Robot Collectible Figure - Durab</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-robot-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-robot-collectible-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-robot-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-robot-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TARS Robot Collectible Figure Interstellar TARS Robot Collectible Figure - Durab"><img src="{{ '/assets/images/marketplace-covers/62b7220474af9ee43bb9.jpg' | relative_url }}" alt="Listing image for TARS Robot Collectible Figure Interstellar TARS Robot Collectible Figure - Durab" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-robot-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TARS Robot Collectible Figure Interstellar TARS Robot Collectible Figure - Durab</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-robot-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: robot collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-robot-collectible-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-timelines-why-shorter-ai-timelines-feel-more-dangerous-ai-doom-and-robot-collectible-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -578,7 +578,7 @@ Recognising both the mechanisms and the limitations of short‑timeline reasonin
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -598,7 +598,7 @@ Recognising both the mechanisms and the limitations of short‑timeline reasonin
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -630,7 +630,7 @@ Recognising both the mechanisms and the limitations of short‑timeline reasonin
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -660,7 +660,7 @@ Recognising both the mechanisms and the limitations of short‑timeline reasonin
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -718,120 +718,120 @@ Recognising both the mechanisms and the limitations of short‑timeline reasonin
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/P%28doom%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/P%28doom%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/P%28doom%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/P%28doom%29</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: forethought.org  
    Title: Broad AI Timelines: Planning Under Uncertainty  
-   Link: <a href="https://www.forethought.org/research/broad-timelines" target="_blank" rel="noopener noreferrer nofollow">https://www.forethought.org/research/broad-timelines</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Broad AI Timelines: Planning Under UncertaintyMarch 16, 2026...</p></details>
+   Link:<a href="https://www.forethought.org/research/broad-timelines" target="_blank" rel="noopener noreferrer nofollow">https://www.forethought.org/research/broad-timelines</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Broad AI Timelines: Planning Under UncertaintyMarch 16, 2026...</p></details>
    Published: March 16, 2026  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: forethought.org  
    Title: Short AI Timelines Aren’t Always Higher-Leverage  
-   Link: <a href="https://www.forethought.org/research/short-timelines-arent-obviously-higher-leverage" target="_blank" rel="noopener noreferrer nofollow">https://www.forethought.org/research/short-timelines-arent-obviously-higher-leverage</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>January 22, 2026 — SHORT TIMELINES AREN&#x27;T OBVIOUSLY HIGHER-LEVERAGE William MacAskillMia Taylor Cite CITATIONS PDF Contact 22nd January 2...</p></details>
+   Link:<a href="https://www.forethought.org/research/short-timelines-arent-obviously-higher-leverage" target="_blank" rel="noopener noreferrer nofollow">https://www.forethought.org/research/short-timelines-arent-obviously-higher-leverage</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 22, 2026 — SHORT TIMELINES AREN&#x27;T OBVIOUSLY HIGHER-LEVERAGE William MacAskillMia Taylor Cite CITATIONS PDF Contact 22nd January 2...</p></details>
    Published: January 22, 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: newsletter.forethought.org  
    Title: THE DEFAULT VALUE OF THE FUTURE IS HIGHER ON MEDIUM TIME  
-   Link: <a href="https://newsletter.forethought.org/p/are-short-ai-timelines-really-higher" target="_blank" rel="noopener noreferrer nofollow">https://newsletter.forethought.org/p/are-short-ai-timelines-really-higher</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Short AI Timelines Really Higher-Leverage?January 20, 2026 — TAKEOVER IMPACT In this section, we’ll survey some key considerations for wh...</p></details>
+   Link:<a href="https://newsletter.forethought.org/p/are-short-ai-timelines-really-higher" target="_blank" rel="noopener noreferrer nofollow">https://newsletter.forethought.org/p/are-short-ai-timelines-really-higher</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Short AI Timelines Really Higher-Leverage?January 20, 2026 — TAKEOVER IMPACT In this section, we’ll survey some key considerations for wh...</p></details>
    Published: January 20, 2026  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: intelligence.org  
    Title: I also think converging on tim  
-   Link: <a href="https://intelligence.org/2023/04/21/the-basic-reasons-i-expect-agi-ruin/" target="_blank" rel="noopener noreferrer nofollow">https://intelligence.org/2023/04/21/the-basic-reasons-i-expect-agi-ruin/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The basic reasons I expect AGI ruin - Machine Intelligence Research InstituteApril 21, 2023 — I think timing tech is very difficult (and...</p></details>
+   Link:<a href="https://intelligence.org/2023/04/21/the-basic-reasons-i-expect-agi-ruin/" target="_blank" rel="noopener noreferrer nofollow">https://intelligence.org/2023/04/21/the-basic-reasons-i-expect-agi-ruin/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The basic reasons I expect AGI ruin - Machine Intelligence Research InstituteApril 21, 2023 — I think timing tech is very difficult (and...</p></details>
    Published: April 21, 2023  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aiwiki.ai  
    Title: AI Wiki Existential risk from AI | AI Wiki  
-   Link: <a href="https://aiwiki.ai/wiki/ai_existential_risk" target="_blank" rel="noopener noreferrer nofollow">https://aiwiki.ai/wiki/ai_existential_risk</a>  
+   Link:<a href="https://aiwiki.ai/wiki/ai_existential_risk" target="_blank" rel="noopener noreferrer nofollow">https://aiwiki.ai/wiki/ai_existential_risk</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aimodels.org  
    Title: Open Source AI Models How Do AI Timelines Affect Existential Risk?  
-   Link: <a href="https://aimodels.org/ai-governance-organizations/papers/do-ai-timelines-affect-existential-risk/" target="_blank" rel="noopener noreferrer nofollow">https://aimodels.org/ai-governance-organizations/papers/do-ai-timelines-affect-existential-risk/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Open Source AI ModelsHow Do AI Timelines Affect Existential Risk? - AI Models...</p></details>
+   Link:<a href="https://aimodels.org/ai-governance-organizations/papers/do-ai-timelines-affect-existential-risk/" target="_blank" rel="noopener noreferrer nofollow">https://aimodels.org/ai-governance-organizations/papers/do-ai-timelines-affect-existential-risk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Open Source AI ModelsHow Do AI Timelines Affect Existential Risk? - AI Models...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aiwiki.ai  
    Title: Existential risk from AI | AI Wiki  
-   Link: <a href="https://aiwiki.ai/wiki/existential_risk" target="_blank" rel="noopener noreferrer nofollow">https://aiwiki.ai/wiki/existential_risk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 26, 2026 — THE CAIS STATEMENT On May 30, 2023, the Center for AI Safety (CAIS) published a one-sentence statement: &quot;Mitigating the...</p></details>
+   Link:<a href="https://aiwiki.ai/wiki/existential_risk" target="_blank" rel="noopener noreferrer nofollow">https://aiwiki.ai/wiki/existential_risk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 26, 2026 — THE CAIS STATEMENT On May 30, 2023, the Center for AI Safety (CAIS) published a one-sentence statement: &quot;Mitigating the...</p></details>
    Published: April 26, 2026  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: envisioning.com  
    Title: P(Doom) | Envisioning Vocab1  
-   Link: <a href="https://www.envisioning.com/vocab/pdoom" target="_blank" rel="noopener noreferrer nofollow">https://www.envisioning.com/vocab/pdoom</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Home 2. Vocab 3. P(Doom) Image Image P(DOOM) An estimated probability that advanced AI will cause civilizational or existential catastrop...</p></details>
+   Link:<a href="https://www.envisioning.com/vocab/pdoom" target="_blank" rel="noopener noreferrer nofollow">https://www.envisioning.com/vocab/pdoom</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Home 2. Vocab 3. P(Doom) Image Image P(DOOM) An estimated probability that advanced AI will cause civilizational or existential catastrop...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/product/3E75AC1B06FF6438A8D92C181C09D1E8" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/product/3E75AC1B06FF6438A8D92C181C09D1E8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ALIGNMENT FOR AGI AND SUPERINTELLIGENCE When considering the long-term future—the possibility of AGI (AI with human-level cognitive abili...</p></details>
+   Link:<a href="https://www.cambridge.org/core/product/3E75AC1B06FF6438A8D92C181C09D1E8" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/product/3E75AC1B06FF6438A8D92C181C09D1E8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ALIGNMENT FOR AGI AND SUPERINTELLIGENCE When considering the long-term future—the possibility of AGI (AI with human-level cognitive abili...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: s-rsa.com  
-   Link: <a href="https://s-rsa.com/index.php/agi/article/view/13603" target="_blank" rel="noopener noreferrer nofollow">https://s-rsa.com/index.php/agi/article/view/13603</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pathways to Short Transformative AI Timelines: Chapter 3: Short TAI timeline scenarios | SuperIntelligence - Robotics - Safety &amp; Alignmen...</p></details>
+   Link:<a href="https://s-rsa.com/index.php/agi/article/view/13603" target="_blank" rel="noopener noreferrer nofollow">https://s-rsa.com/index.php/agi/article/view/13603</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pathways to Short Transformative AI Timelines: Chapter 3: Short TAI timeline scenarios | SuperIntelligence - Robotics - Safety &amp; Alignmen...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: windowscentral.com  
-   Link: <a href="https://www.windowscentral.com/software-apps/will-ai-end-humanity-the-pdoom-scales-of-an-openai-insider-and-ai-researcher-are-alarmingly-high-peaking-at-a-999-probability" target="_blank" rel="noopener noreferrer nofollow">https://www.windowscentral.com/software-apps/will-ai-end-humanity-the-pdoom-scales-of-an-openai-insider-and-ai-researcher-are-alarmingly-high-peaking-at-a-999-probability</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE P(DOOM) SCALES OF AN OPENAI INSIDER AND AI RESEARCHER ARE ALARMINGLY HIGH, PEAKING AT A 99.9% PROBABILITY News By Kevin Okemwa publis...</p></details>
+   Link:<a href="https://www.windowscentral.com/software-apps/will-ai-end-humanity-the-pdoom-scales-of-an-openai-insider-and-ai-researcher-are-alarmingly-high-peaking-at-a-999-probability" target="_blank" rel="noopener noreferrer nofollow">https://www.windowscentral.com/software-apps/will-ai-end-humanity-the-pdoom-scales-of-an-openai-insider-and-ai-researcher-are-alarmingly-high-peaking-at-a-999-probability</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE P(DOOM) SCALES OF AN OPENAI INSIDER AND AI RESEARCHER ARE ALARMINGLY HIGH, PEAKING AT A 99.9% PROBABILITY News By Kevin Okemwa publis...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: alignmentforum.org  
-   Link: <a href="https://www.alignmentforum.org/posts/neTbrpBziAsTH5Bn7/ai-companies-are-unlikely-to-make-high-assurance-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.alignmentforum.org/posts/neTbrpBziAsTH5Bn7/ai-companies-are-unlikely-to-make-high-assurance-safety</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI companies are unlikely to make high-assurance safety cases if timelines are short — AI Alignment ForumJanuary 23, 2025 — AI COMPANIES...</p></details>
+   Link:<a href="https://www.alignmentforum.org/posts/neTbrpBziAsTH5Bn7/ai-companies-are-unlikely-to-make-high-assurance-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.alignmentforum.org/posts/neTbrpBziAsTH5Bn7/ai-companies-are-unlikely-to-make-high-assurance-safety</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI companies are unlikely to make high-assurance safety cases if timelines are short — AI Alignment ForumJanuary 23, 2025 — AI COMPANIES...</p></details>
    Published: January 23, 2025  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s43681-024-00475-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s43681-024-00475-w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>approaches for reducing catastrophic risks from AI | AI and Ethics | Springer Nature LinkApril 8, 2024 — 3.2 AI TIMELINES RESEARCH The go...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s43681-024-00475-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s43681-024-00475-w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>approaches for reducing catastrophic risks from AI | AI and Ethics | Springer Nature LinkApril 8, 2024 — 3.2 AI TIMELINES RESEARCH The go...</p></details>
    Published: April 8, 2024  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ourworldindata.org  
    Title: A I timelines: What do experts in artificial intelligence expect for the future?  
-   Link: <a href="https://ourworldindata.org/ai-timelines" target="_blank" rel="noopener noreferrer nofollow">https://ourworldindata.org/ai-timelines</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Our World in DataFebruary 7, 2023 — AI TIMELINES: WHAT DO EXPERTS IN ARTIFICIAL INTELLIGENCE EXPECT FOR THE FUTURE? MANY AI EXPERTS BELIE...</p></details>
+   Link:<a href="https://ourworldindata.org/ai-timelines" target="_blank" rel="noopener noreferrer nofollow">https://ourworldindata.org/ai-timelines</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Our World in DataFebruary 7, 2023 — AI TIMELINES: WHAT DO EXPERTS IN ARTIFICIAL INTELLIGENCE EXPECT FOR THE FUTURE? MANY AI EXPERTS BELIE...</p></details>
    Published: February 7, 2023  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pauseai.se  
-   Link: <a href="https://pauseai.se/pdoom" target="_blank" rel="noopener noreferrer nofollow">https://pauseai.se/pdoom</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>human extinction) as a result of AI. This most often refers to the likelihood of AI taking over from humanity, but differ...</p></details>
+   Link:<a href="https://pauseai.se/pdoom" target="_blank" rel="noopener noreferrer nofollow">https://pauseai.se/pdoom</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>human extinction) as a result of AI. This most often refers to the likelihood of AI taking over from humanity, but differ...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: link.springer.com  
    Title: The basic concern is this: If AI is not aligned with the goals of its d  
-   Link: <a href="https://link.springer.com/article/10.1007/s11229-023-04367-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11229-023-04367-0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>cases of AI misalignment and their implications for future risks | Synthese | Springer Nature LinkOctober 26, 2023 — 2.2 RISKS FROM MISAL...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s11229-023-04367-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11229-023-04367-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cases of AI misalignment and their implications for future risks | Synthese | Springer Nature LinkOctober 26, 2023 — 2.2 RISKS FROM MISAL...</p></details>
    Published: October 26, 2023  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: sciencedirect.com  
    Title: Assessing the future plausibility of catastrophically dangerous AI  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0016328718301319" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0016328718301319</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 1, 2019 — FUTURES Volume 107, March 2019, Pages 45-58 ASSESSING THE FUTURE PLAUSIBILITY OF CATASTROPHICALLY DANGEROUS...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0016328718301319" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0016328718301319</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 1, 2019 — FUTURES Volume 107, March 2019, Pages 45-58 ASSESSING THE FUTURE PLAUSIBILITY OF CATASTROPHICALLY DANGEROUS...</p></details>
    Published: March 1, 2019  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: lesswrong.com  
    Title: Are Short AI Timelines Really Higher-Leverage?  
-   Link: <a href="https://www.lesswrong.com/posts/AhXonGLfYEwSwpEhW/are-short-ai-timelines-really-higher-leverage" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/posts/AhXonGLfYEwSwpEhW/are-short-ai-timelines-really-higher-leverage</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LessWrongJanuary 23, 2026 — Are Short AI Timelines Really Higher-Leverage? 17 min read • Summary • Timelines scenarios and why they’re...</p></details>
+   Link:<a href="https://www.lesswrong.com/posts/AhXonGLfYEwSwpEhW/are-short-ai-timelines-really-higher-leverage" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/posts/AhXonGLfYEwSwpEhW/are-short-ai-timelines-really-higher-leverage</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LessWrongJanuary 23, 2026 — Are Short AI Timelines Really Higher-Leverage? 17 min read • Summary • Timelines scenarios and why they’re...</p></details>
    Published: January 23, 2026

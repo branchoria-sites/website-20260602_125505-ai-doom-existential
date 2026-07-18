@@ -269,19 +269,19 @@ image: /assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4a
 
 ## Introduction
 
-Current large‑language‑model (LLM) agents often perform impressively on short problems — answer a question, fix a tiny bug, or write a paragraph. But when researchers ask whether these systems can sustain multi‑step work over hours or dozens of interdependent actions, a very different picture emerges. [Independent]({{ 'red-teaming/' | relative_url }}) long‑horizon benchmarks — datasets and evaluation suites designed to measure *how reliably* an AI agent can complete extended tasks — consistently show that performance falls off sharply as task chains lengthen, error modes compound, and context maintenance becomes critical. These results matter for debates about AI risk because many loss‑of‑control and dangerous autonomy scenarios assume an AI would need to carry out sustained work without frequent [human oversight]({{ 'human-oversight/' | relative_url }}). Long‑horizon benchmarks like **task‑completion time horizons**, **LongCLI‑Bench**, and **LongDS‑Bench** provide real, quantifiable evidence of where contemporary systems break, and how dramatically performance degrades beyond short, isolated tasks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://metr.org/time-horizons/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[METR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-snippet">Task-Completion Time Horizons of Frontier AI ModelsThe task-completion time horizon is the task duration (measured by human expert co...</span></span></span>
+Current large‑language‑model (LLM) agents often perform impressively on short problems — answer a question, fix a tiny bug, or write a paragraph. But when researchers ask whether these systems can sustain multi‑step work over hours or dozens of interdependent actions, a very different picture emerges. [Independent]({{ 'red-teaming/' | relative_url }}) long‑horizon benchmarks — datasets and evaluation suites designed to measure *how reliably* an AI agent can complete extended tasks — consistently show that performance falls off sharply as task chains lengthen, error modes compound, and context maintenance becomes critical. These results matter for debates about AI risk because many loss‑of‑control and dangerous autonomy scenarios assume an AI would need to carry out sustained work without frequent [human oversight]({{ 'human-oversight/' | relative_url }}). Long‑horizon benchmarks like **task‑completion time horizons**, **LongCLI‑Bench**, and **LongDS‑Bench** provide real, quantifiable evidence of where contemporary systems break, and how dramatically performance degrades beyond short, isolated tasks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://metr.org/time-horizons/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[METR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-snippet">Task-Completion Time Horizons of Frontier AI ModelsThe task-completion time horizon is the task duration (measured by human expert co...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_long_horizon_5d3d50-Illustration-1-dark.svg" | relative_url }}" alt="Benchmark Evidence illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_long_horizon_5d3d50-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_long_horizon_5d3d50-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Time‑Horizon Metrics Like METR Reveal — and What They Don’t
 
-One influential effort to quantify long‑task ability is the **task‑completion time horizon** metric developed by the research outfit METR (Model Evaluation and Threat Research). Instead of simple single‑turn accuracy, this metric estimates the *duration of a task (as measured by how long a human expert would take)* that an agent can complete with a given level of reliability, for example with roughly 50 % chance of success under automated evaluation. METR’s latest published numbers show a progression from seconds‑long tasks in early models to tasks measured in hours for recent frontier systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/?_bhlid=eb9ba26f893982d302f59d4adee697067ed90a41" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[METR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-title">We show that this metric has been consistently exponentially i</span><span class="citation-popover-snippet">Measuring AI Ability to Complete Long Tasks - METRMarch 19, 2025 — Measuring AI Ability to Complete Long Tasks We propose measuring AI pe...</span><span class="citation-popover-meta">Published: March 19, 2025</span></span></span>
+One influential effort to quantify long‑task ability is the **task‑completion time horizon** metric developed by the research outfit METR (Model Evaluation and Threat Research). Instead of simple single‑turn accuracy, this metric estimates the *duration of a task (as measured by how long a human expert would take)* that an agent can complete with a given level of reliability, for example with roughly 50 % chance of success under automated evaluation. METR’s latest published numbers show a progression from seconds‑long tasks in early models to tasks measured in hours for recent frontier systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/?_bhlid=eb9ba26f893982d302f59d4adee697067ed90a41" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[METR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-title">We show that this metric has been consistently exponentially i</span><span class="citation-popover-snippet">Measuring AI Ability to Complete Long Tasks - METRMarch 19, 2025 — Measuring AI Ability to Complete Long Tasks We propose measuring AI pe...</span><span class="citation-popover-meta">Published: March 19, 2025</span></span></span>
 
 The headline interpretation many safety and capability watchers place on this is that agents are extending their effective autonomous horizon — roughly doubling how long a problem they can reliably complete over time. But two important caveats emerge from both METR’s own documentation and independent analyses:
 
-* **Internal [uncertainty]({{ 'uncertainty/' | relative_url }}) is high.** METR’s confidence intervals around time‑horizon estimates are often very wide — for example, a reported ~12‑hour horizon for a leading system might be statistically compatible with much lower or higher values depending on task sampling — and the group itself cautions that measurements above 16 hours are unreliable with the current task suite. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://metr.org/notes/2026-01-22-time-horizon-limitations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[METR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-title">2026 01 22 time horizon limitations</span><span class="citation-popover-snippet">Clarifying limitations of time horizon22 Jan 2026 — METR Logo. METR researches, develops, and evaluates frontier AI systems to measure ho...</span></span></span>
-* **Benchmark construction shapes interpretation.** Critics and technical reviewers point out that the available METR tasks are self‑contained software problems with clear success criteria, not necessarily representative of broader long‑horizon reasoning in changing environments. Fitting logistic curves across a relatively small set of tasks (e.g., ~14 tasks in some ranges) can magnify measurement noise and make headline figures fragile. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/%40AIchats/are-ai-time-horizons-still-doubling-every-7-months-6262ed2bcc6a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">Are AI time-horizons (still) doubling every 7 months?</span><span class="citation-popover-snippet">Are AI time-horizons (still) doubling every 7 months?March 11, 2026 — A critical review of METR&#x27;s &#x27;Task-Completion Time Horizons of...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span>
+* **Internal [uncertainty]({{ 'uncertainty/' | relative_url }}) is high.** METR’s confidence intervals around time‑horizon estimates are often very wide — for example, a reported ~12‑hour horizon for a leading system might be statistically compatible with much lower or higher values depending on task sampling — and the group itself cautions that measurements above 16 hours are unreliable with the current task suite.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://metr.org/notes/2026-01-22-time-horizon-limitations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[METR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-title">2026 01 22 time horizon limitations</span><span class="citation-popover-snippet">Clarifying limitations of time horizon22 Jan 2026 — METR Logo. METR researches, develops, and evaluates frontier AI systems to measure ho...</span></span></span>
+* **Benchmark construction shapes interpretation.** Critics and technical reviewers point out that the available METR tasks are self‑contained software problems with clear success criteria, not necessarily representative of broader long‑horizon reasoning in changing environments. Fitting logistic curves across a relatively small set of tasks (e.g., ~14 tasks in some ranges) can magnify measurement noise and make headline figures fragile.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/%40AIchats/are-ai-time-horizons-still-doubling-every-7-months-6262ed2bcc6a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">Are AI time-horizons (still) doubling every 7 months?</span><span class="citation-popover-snippet">Are AI time-horizons (still) doubling every 7 months?March 11, 2026 — A critical review of METR&#x27;s &#x27;Task-Completion Time Horizons of...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span>
 
-In other words, while time‑horizon metrics sketch a direction — that models are extending how long a problem they *can sometimes* sustain — they do **not** show robust, general, or reliably high performance on genuinely long, interdependent tasks. They instead highlight how rapidly success probability declines as task complexity and duration increase beyond the single‑turn regime. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://metr.org/time-horizons/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[METR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-snippet">Task-Completion Time Horizons of Frontier AI ModelsThe task-completion time horizon is the task duration (measured by human expert co...</span></span></span>
+In other words, while time‑horizon metrics sketch a direction — that models are extending how long a problem they *can sometimes* sustain — they do **not** show robust, general, or reliably high performance on genuinely long, interdependent tasks. They instead highlight how rapidly success probability declines as task complexity and duration increase beyond the single‑turn regime.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://metr.org/time-horizons/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[METR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-snippet">Task-Completion Time Horizons of Frontier AI ModelsThe task-completion time horizon is the task duration (measured by human expert co...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8mvLIGrPI74" title="The 35-Minute Cliff: Why AI Agents Fail at Long Tasks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8mvLIGrPI74" target="_blank" rel="noopener noreferrer">The 35-Minute Cliff: Why AI Agents Fail at Long Tasks</a></p><p class="youtube-embed-meta">Channel: Working Theory &middot; Views: 3 &middot; Uploaded: May 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8mvLIGrPI74" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8mvLIGrPI74">Open on YouTube</a></p></div></div></div>
 
@@ -291,21 +291,21 @@ Where time‑horizon curves provide a broad view of trends, specialised long‑h
 
 ### LongCLI‑Bench: Complex, Multi‑Step Engineering Tasks
 
-The **LongCLI‑Bench** benchmark was created to test AI agents on real‑world, extended software engineering workflows through command‑line interfaces. Rather than single edits or tiny patches, LongCLI tasks involve sequences of operations — from building a project from scratch, to adding features, to fixing bugs and performing refactorings — each requiring planning, multiple tool invocations, and context tracking. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.30434" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Long DS-Bench: On the Failure of Long-Horizon Agentic Data Analysis</span><span class="citation-popover-snippet">arXiv Long DS-Bench: On the Failure of Long-Horizon Agentic Data Analysis</span></span></span>
+The **LongCLI‑Bench** benchmark was created to test AI agents on real‑world, extended software engineering workflows through command‑line interfaces. Rather than single edits or tiny patches, LongCLI tasks involve sequences of operations — from building a project from scratch, to adding features, to fixing bugs and performing refactorings — each requiring planning, multiple tool invocations, and context tracking.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.30434" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Long DS-Bench: On the Failure of Long-Horizon Agentic Data Analysis</span><span class="citation-popover-snippet">arXiv Long DS-Bench: On the Failure of Long-Horizon Agentic Data Analysis</span></span></span>
 
-When researchers ran a suite of state‑of‑the‑art agents against LongCLI‑Bench, the **overall pass rates were very low**: even the best‑performing commercial combinations rarely exceeded ~16.7 % on the full task suite, and most attempts *stalled before completing even a third of the required steps*. <span class="citation-chip-wrap"><a class="citation-chip" href="https://app.argminai.com/arxiv-dashboard/papers/2602.14337v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: app.argminai.com">[app.argminai.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">app.argminai.com</span><span class="citation-popover-snippet">LongCLI-Bench: a 20-task CLI benchmark showing state-of-the-art agents pass &lt;20% on long-horizon engineering tasks &#124; Argmin AIFebruary 15...</span></span></span> The benchmark also records step‑level scores that reveal where failures happen: many agents fail not because of a single off‑by‑one error, but because of basic planning or coordination breakdowns early in the workflow that cascade into complete task abandonment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hyper.ai/en/papers/2602.14337" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hyper.ai">[HyperAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hyper.ai</span><span class="citation-popover-snippet">AILongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces &#124; Papers &#124; HyperAI...</span></span></span>
+When researchers ran a suite of state‑of‑the‑art agents against LongCLI‑Bench, the **overall pass rates were very low**: even the best‑performing commercial combinations rarely exceeded ~16.7 % on the full task suite, and most attempts *stalled before completing even a third of the required steps*.<span class="citation-chip-wrap"><a class="citation-chip" href="https://app.argminai.com/arxiv-dashboard/papers/2602.14337v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: app.argminai.com">[app.argminai.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">app.argminai.com</span><span class="citation-popover-snippet">LongCLI-Bench: a 20-task CLI benchmark showing state-of-the-art agents pass &lt;20% on long-horizon engineering tasks &#124; Argmin AIFebruary 15...</span></span></span> The benchmark also records step‑level scores that reveal where failures happen: many agents fail not because of a single off‑by‑one error, but because of basic planning or coordination breakdowns early in the workflow that cascade into complete task abandonment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hyper.ai/en/papers/2602.14337" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hyper.ai">[HyperAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hyper.ai</span><span class="citation-popover-snippet">AILongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces &#124; Papers &#124; HyperAI...</span></span></span>
 
 These results underline two points that simple pass/fail metrics obscure:
 
 * Agents often cannot *initiate and sustain* the correct sequence of actions even when each individual action seems straightforward; and
-* When agents do proceed, many regressions or unintended side‑effects occur because they fail to balance new requirements with preserving existing functionality. [Liner](#endnote-6 "Snippet: LinerLongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces <span class="citation-chip-wrap"><a class="citation-chip" href="https://liner.com/review/longclibench-preliminary-benchmark-and-study-for-longhorizon-agentic-programming-in" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: liner.com">[Quick Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">liner.com</span><span class="citation-popover-snippet">LongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces [Quick Review]Febru...</span></span></span> Febru...")
+* When agents do proceed, many regressions or unintended side‑effects occur because they fail to balance new requirements with preserving existing functionality. [Liner](#endnote-6 "Snippet: LinerLongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces<span class="citation-chip-wrap"><a class="citation-chip" href="https://liner.com/review/longclibench-preliminary-benchmark-and-study-for-longhorizon-agentic-programming-in" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: liner.com">[Quick Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">liner.com</span><span class="citation-popover-snippet">LongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces [Quick Review]Febru...</span></span></span> Febru...")
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_long_horizon_5d3d50-Illustration-2-dark.svg" | relative_url }}" alt="Benchmark Evidence illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_long_horizon_5d3d50-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_long_horizon_5d3d50-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### LongDS‑Bench: Evolving Context and State in Data Analysis
 
-Another benchmark, **LongDS‑Bench**, focuses on long‑horizon data‑analysis tasks drawn from real Kaggle notebooks and similar workflows. These tasks require an agent to *maintain, update, restore, and compose evolving analytical state* across more than two thousand interactive turns — far beyond static or short prompting scenarios. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.30434" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Long DS-Bench: On the Failure of Long-Horizon Agentic Data Analysis</span><span class="citation-popover-snippet">arXiv Long DS-Bench: On the Failure of Long-Horizon Agentic Data Analysis</span></span></span>
+Another benchmark, **LongDS‑Bench**, focuses on long‑horizon data‑analysis tasks drawn from real Kaggle notebooks and similar workflows. These tasks require an agent to *maintain, update, restore, and compose evolving analytical state* across more than two thousand interactive turns — far beyond static or short prompting scenarios.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.30434" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Long DS-Bench: On the Failure of Long-Horizon Agentic Data Analysis</span><span class="citation-popover-snippet">arXiv Long DS-Bench: On the Failure of Long-Horizon Agentic Data Analysis</span></span></span>
 
-On this benchmark, even the strongest models achieve only **~48 % average accuracy**, and performance *drops roughly 47 percentage points between early and late stages of an episode*. Crucially, long‑horizon errors — mistakes tied to failure to track previous state or correct intermediate results — account for more than half of all failures, suggesting that the key bottleneck isn’t just “not enough steps” but **an inability to maintain a coherent evolving representation of the task over time**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.30434" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Long DS-Bench: On the Failure of Long-Horizon Agentic Data Analysis</span><span class="citation-popover-snippet">arXiv Long DS-Bench: On the Failure of Long-Horizon Agentic Data Analysis</span></span></span>
+On this benchmark, even the strongest models achieve only **~48 % average accuracy**, and performance *drops roughly 47 percentage points between early and late stages of an episode*. Crucially, long‑horizon errors — mistakes tied to failure to track previous state or correct intermediate results — account for more than half of all failures, suggesting that the key bottleneck isn’t just “not enough steps” but **an inability to maintain a coherent evolving representation of the task over time**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.30434" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Long DS-Bench: On the Failure of Long-Horizon Agentic Data Analysis</span><span class="citation-popover-snippet">arXiv Long DS-Bench: On the Failure of Long-Horizon Agentic Data Analysis</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Hx5dIJ3H8p4" title="Understanding the Most Viral Chart in Artificial Intelligence | Odd Lots" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Hx5dIJ3H8p4" target="_blank" rel="noopener noreferrer">Understanding the Most Viral Chart in Artificial Intelligence | Odd Lots</a></p><p class="youtube-embed-meta">Channel: Bloomberg Podcasts &middot; Views: 5.5K &middot; Uploaded: April 2026 &middot; Length: 1 hour 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Hx5dIJ3H8p4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Hx5dIJ3H8p4">Open on YouTube</a></p></div></div></div>
 
@@ -313,9 +313,9 @@ On this benchmark, even the strongest models achieve only **~48 % average accu
 
 Across these benchmarks, a clear and consistent pattern emerges: as the *effective horizon* — whether measured in turns, actions, or contextual dependencies — grows, agent performance degrades markedly and nonlinearly. Short‑horizon metrics that look at isolated problems or single pass/fail outcomes mask these structural patterns of degradation. Metrics designed to capture *reliability over extended sequences* consistently show that:
 
-* **Success probability declines across steps.** Where early actions might be handled competently, later actions accumulate residual mistakes or lose context, leading to systematic drop‑offs in reliability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.30434" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Long DS-Bench: On the Failure of Long-Horizon Agentic Data Analysis</span><span class="citation-popover-snippet">arXiv Long DS-Bench: On the Failure of Long-Horizon Agentic Data Analysis</span></span></span>
-* **Agents struggle with planning vs execution.** Failures often trace back to poor initial planning, incorrect assumptions about intermediate states, or lack of recovery mechanisms when paths diverge from what was expected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://app.argminai.com/arxiv-dashboard/papers/2602.14337v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: app.argminai.com">[app.argminai.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">app.argminai.com</span><span class="citation-popover-snippet">LongCLI-Bench: a 20-task CLI benchmark showing state-of-the-art agents pass &lt;20% on long-horizon engineering tasks &#124; Argmin AIFebruary 15...</span></span></span>
-* **Human collaboration currently improves outcomes.** In LongCLI‑Bench, incorporating human guidance or structured plans raises success rates compared with purely autonomous runs, suggesting that hybrid workflows remain more effective than standalone agents for complex, extended tasks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hyper.ai/en/papers/2602.14337" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hyper.ai">[HyperAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hyper.ai</span><span class="citation-popover-snippet">AILongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces &#124; Papers &#124; HyperAI...</span></span></span>
+* **Success probability declines across steps.** Where early actions might be handled competently, later actions accumulate residual mistakes or lose context, leading to systematic drop‑offs in reliability.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.30434" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Long DS-Bench: On the Failure of Long-Horizon Agentic Data Analysis</span><span class="citation-popover-snippet">arXiv Long DS-Bench: On the Failure of Long-Horizon Agentic Data Analysis</span></span></span>
+* **Agents struggle with planning vs execution.** Failures often trace back to poor initial planning, incorrect assumptions about intermediate states, or lack of recovery mechanisms when paths diverge from what was expected.<span class="citation-chip-wrap"><a class="citation-chip" href="https://app.argminai.com/arxiv-dashboard/papers/2602.14337v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: app.argminai.com">[app.argminai.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">app.argminai.com</span><span class="citation-popover-snippet">LongCLI-Bench: a 20-task CLI benchmark showing state-of-the-art agents pass &lt;20% on long-horizon engineering tasks &#124; Argmin AIFebruary 15...</span></span></span>
+* **Human collaboration currently improves outcomes.** In LongCLI‑Bench, incorporating human guidance or structured plans raises success rates compared with purely autonomous runs, suggesting that hybrid workflows remain more effective than standalone agents for complex, extended tasks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hyper.ai/en/papers/2602.14337" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hyper.ai">[HyperAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hyper.ai</span><span class="citation-popover-snippet">AILongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces &#124; Papers &#124; HyperAI...</span></span></span>
 
 These trends hold across engineering, analysis, and heuristic diagnostic tasks: no current benchmark shows robust, high‑reliability performance on tasks that genuinely require extended, interdependent action sequences with stateful reasoning.
 
@@ -325,278 +325,278 @@ These trends hold across engineering, analysis, and heuristic diagnostic tasks: 
 
 For lay readers and people thinking about advanced AI risk, this evidence from long‑horizon benchmarks serves three key clarifications:
 
-1. **Capability on short tasks is a poor predictor of long‑horizon reliability.** Systems that look strong on single‑turn [evaluations]({{ 'evaluations/' | relative_url }}) can still fail consistently when subtle dependencies stretch over dozens or hundreds of steps. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tianpan.co/blog/2026-04-10-long-horizon-evaluation-gap-agent-benchmarks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tianpan.co">[TianPan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tianpan.co</span><span class="citation-popover-title">2026 04 10 long horizon evaluation gap agent benchmarks</span><span class="citation-popover-snippet">The Long-Horizon Evaluation Gap: Why Your Agent...10 Apr 2026 — Single-turn benchmarks give a false sense of security for product...</span></span></span>
-2. **State drift, error accumulation, and planning deficits are real mechanisms of failure.** These aren’t artefacts of one benchmark; they show up across domains (software, data analysis) and across multiple measurement frameworks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.30434" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Long DS-Bench: On the Failure of Long-Horizon Agentic Data Analysis</span><span class="citation-popover-snippet">arXiv Long DS-Bench: On the Failure of Long-Horizon Agentic Data Analysis</span></span></span>
-3. **Current agents are far from being reliably autonomous in extended real‑world settings.** Even with state‑of‑the‑art models and careful benchmark design, performance on long‑horizon tasks often hovers at rates well below what humans would consider “dependable,” especially without human guidance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://app.argminai.com/arxiv-dashboard/papers/2602.14337v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: app.argminai.com">[app.argminai.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">app.argminai.com</span><span class="citation-popover-snippet">LongCLI-Bench: a 20-task CLI benchmark showing state-of-the-art agents pass &lt;20% on long-horizon engineering tasks &#124; Argmin AIFebruary 15...</span></span></span>
+1. **Capability on short tasks is a poor predictor of long‑horizon reliability.** Systems that look strong on single‑turn [evaluations]({{ 'evaluations/' | relative_url }}) can still fail consistently when subtle dependencies stretch over dozens or hundreds of steps.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tianpan.co/blog/2026-04-10-long-horizon-evaluation-gap-agent-benchmarks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tianpan.co">[TianPan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tianpan.co</span><span class="citation-popover-title">2026 04 10 long horizon evaluation gap agent benchmarks</span><span class="citation-popover-snippet">The Long-Horizon Evaluation Gap: Why Your Agent...10 Apr 2026 — Single-turn benchmarks give a false sense of security for product...</span></span></span>
+2. **State drift, error accumulation, and planning deficits are real mechanisms of failure.** These aren’t artefacts of one benchmark; they show up across domains (software, data analysis) and across multiple measurement frameworks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.30434" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Long DS-Bench: On the Failure of Long-Horizon Agentic Data Analysis</span><span class="citation-popover-snippet">arXiv Long DS-Bench: On the Failure of Long-Horizon Agentic Data Analysis</span></span></span>
+3. **Current agents are far from being reliably autonomous in extended real‑world settings.** Even with state‑of‑the‑art models and careful benchmark design, performance on long‑horizon tasks often hovers at rates well below what humans would consider “dependable,” especially without human guidance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://app.argminai.com/arxiv-dashboard/papers/2602.14337v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: app.argminai.com">[app.argminai.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">app.argminai.com</span><span class="citation-popover-snippet">LongCLI-Bench: a 20-task CLI benchmark showing state-of-the-art agents pass &lt;20% on long-horizon engineering tasks &#124; Argmin AIFebruary 15...</span></span></span>
 
-In short, the best available empirical evidence suggests that as we *lengthen the horizon* — the number of steps, dependencies, and interlinked decisions an agent must make — **AI task failure becomes the norm rather than the exception**. For researchers and policymakers thinking seriously about high‑impact risks, those failure patterns matter more than headline short‑task performance scores. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tianpan.co/blog/2026-04-10-long-horizon-evaluation-gap-agent-benchmarks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tianpan.co">[TianPan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tianpan.co</span><span class="citation-popover-title">2026 04 10 long horizon evaluation gap agent benchmarks</span><span class="citation-popover-snippet">The Long-Horizon Evaluation Gap: Why Your Agent...10 Apr 2026 — Single-turn benchmarks give a false sense of security for product...</span></span></span>
+In short, the best available empirical evidence suggests that as we *lengthen the horizon* — the number of steps, dependencies, and interlinked decisions an agent must make — **AI task failure becomes the norm rather than the exception**. For researchers and policymakers thinking seriously about high‑impact risks, those failure patterns matter more than headline short‑task performance scores.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tianpan.co/blog/2026-04-10-long-horizon-evaluation-gap-agent-benchmarks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tianpan.co">[TianPan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tianpan.co</span><span class="citation-popover-title">2026 04 10 long horizon evaluation gap agent benchmarks</span><span class="citation-popover-snippet">The Long-Horizon Evaluation Gap: Why Your Agent...10 Apr 2026 — Single-turn benchmarks give a false sense of security for product...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_long_horizon_5d3d50-Illustration-3-dark.svg" | relative_url }}" alt="Benchmark Evidence illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_long_horizon_5d3d50-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_long_horizon_5d3d50-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Long Horizon Benchmarks Reveal About AI Reliability. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Long Horizon Benchmarks Reveal About AI Reliability. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
-        </h4>
-        <p class="fr-book-author">By Brian Christian</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
+</h4>
+<p class="fr-book-author">By Brian Christian</p>
         
-        <p class="fr-book-desc">Discusses practical shortcomings of machine-learning systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses practical shortcomings of machine-learning systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Russell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
+</h4>
+<p class="fr-book-author">By Stuart Russell</p>
         
-        <p class="fr-book-desc">Frames the significance of reliability for advanced AI systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Frames the significance of reliability for advanced AI systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rebooting+AI+by+Gary+Marcus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rebooting AI on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OmeEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Rebooting AI" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rebooting+AI+by+Gary+Marcus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rebooting AI">Rebooting AI</a>
-        </h4>
-        <p class="fr-book-author">By Gary Marcus, Ernest Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Rebooting+AI+by+Gary+Marcus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rebooting AI on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OmeEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Rebooting AI" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Rebooting+AI+by+Gary+Marcus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rebooting AI">Rebooting AI</a>
+</h4>
+<p class="fr-book-author">By Gary Marcus, Ernest Davis</p>
         
-        <p class="fr-book-desc">Strong match for reliability limits and long-horizon performance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rebooting+AI+by+Gary+Marcus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong match for reliability limits and long-horizon performance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Rebooting+AI+by+Gary+Marcus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Melanie+Mitchell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Artificial Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=65iEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Artificial Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Melanie+Mitchell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Artificial Intelligence">Artificial Intelligence</a>
-        </h4>
-        <p class="fr-book-author">By Melanie Mitchell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Melanie+Mitchell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Artificial Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=65iEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Artificial Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Melanie+Mitchell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Artificial Intelligence">Artificial Intelligence</a>
+</h4>
+<p class="fr-book-author">By Melanie Mitchell</p>
         
-        <p class="fr-book-desc">Explains where current systems succeed and fail.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Melanie+Mitchell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains where current systems succeed and fail.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Melanie+Mitchell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Rebooting+AI&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rebooting AI</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Rebooting+AI&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rebooting AI</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ohms Law Poster Electrical Formula Chart Engineering Study Wall Art Decor"><img src="{{ '/assets/images/marketplace-covers/cbcccf7137a502b0bc18.jpg' | relative_url }}" alt="Listing image for Ohms Law Poster Electrical Formula Chart Engineering Study Wall Art Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ohms Law Poster Electrical Formula Chart Engineering Study Wall Art Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology wall art">Search <span data-ebay-domain-label>eBay.com</span>: technology wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ohms Law Poster Electrical Formula Chart Engineering Study Wall Art Decor"><img src="{{ '/assets/images/marketplace-covers/cbcccf7137a502b0bc18.jpg' | relative_url }}" alt="Listing image for Ohms Law Poster Electrical Formula Chart Engineering Study Wall Art Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ohms Law Poster Electrical Formula Chart Engineering Study Wall Art Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology wall art">Search<span data-ebay-domain-label>eBay.com</span>: technology wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3pcs Colorful Abstract Painting Of Technology Wall Art Canvas Unframed/Framed"><img src="{{ '/assets/images/marketplace-covers/d8abf3bfabb930eafc9c.jpg' | relative_url }}" alt="Listing image for 3pcs Colorful Abstract Painting Of Technology Wall Art Canvas Unframed/Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">3pcs Colorful Abstract Painting Of Technology Wall Art Canvas Unframed/Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology wall art">Search <span data-ebay-domain-label>eBay.com</span>: technology wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3pcs Colorful Abstract Painting Of Technology Wall Art Canvas Unframed/Framed"><img src="{{ '/assets/images/marketplace-covers/d8abf3bfabb930eafc9c.jpg' | relative_url }}" alt="Listing image for 3pcs Colorful Abstract Painting Of Technology Wall Art Canvas Unframed/Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">3pcs Colorful Abstract Painting Of Technology Wall Art Canvas Unframed/Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology wall art">Search<span data-ebay-domain-label>eBay.com</span>: technology wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Computer Programming Code Funny Science Technology Print Wall Art - POSTER 20x30"><img src="{{ '/assets/images/marketplace-covers/8261c42f2444d719b3d0.jpg' | relative_url }}" alt="Listing image for Computer Programming Code Funny Science Technology Print Wall Art - POSTER 20x30" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Computer Programming Code Funny Science Technology Print Wall Art - POSTER 20x30</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology wall art">Search <span data-ebay-domain-label>eBay.com</span>: technology wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Computer Programming Code Funny Science Technology Print Wall Art - POSTER 20x30"><img src="{{ '/assets/images/marketplace-covers/8261c42f2444d719b3d0.jpg' | relative_url }}" alt="Listing image for Computer Programming Code Funny Science Technology Print Wall Art - POSTER 20x30" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Computer Programming Code Funny Science Technology Print Wall Art - POSTER 20x30</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology wall art">Search<span data-ebay-domain-label>eBay.com</span>: technology wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Technology Classroom Decor Computer Science Poster For Lab Decorations Wall Art"><img src="{{ '/assets/images/marketplace-covers/ffc94eda45a7bf896b04.jpg' | relative_url }}" alt="Listing image for Technology Classroom Decor Computer Science Poster For Lab Decorations Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Technology Classroom Decor Computer Science Poster For Lab Decorations Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology wall art">Search <span data-ebay-domain-label>eBay.com</span>: technology wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Technology Classroom Decor Computer Science Poster For Lab Decorations Wall Art"><img src="{{ '/assets/images/marketplace-covers/ffc94eda45a7bf896b04.jpg' | relative_url }}" alt="Listing image for Technology Classroom Decor Computer Science Poster For Lab Decorations Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Technology Classroom Decor Computer Science Poster For Lab Decorations Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology wall art">Search<span data-ebay-domain-label>eBay.com</span>: technology wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-print-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Technology Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9e5e14d28187b4342672.jpg' | relative_url }}" alt="Listing image for Technology Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-print-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Technology Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-print-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology print">Search <span data-ebay-domain-label>eBay.co.uk</span>: technology print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-print-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-print-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Technology Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9e5e14d28187b4342672.jpg' | relative_url }}" alt="Listing image for Technology Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-print-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Technology Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-print-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology print">Search<span data-ebay-domain-label>eBay.co.uk</span>: technology print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-print-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-print-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ahead Of Technology Framed Art Prin Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/093a4c63ea1fa007c8e7.jpg' | relative_url }}" alt="Listing image for Ahead Of Technology Framed Art Prin Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-print-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ahead Of Technology Framed Art Prin Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-print-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology print">Search <span data-ebay-domain-label>eBay.co.uk</span>: technology print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-print-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-print-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ahead Of Technology Framed Art Prin Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/093a4c63ea1fa007c8e7.jpg' | relative_url }}" alt="Listing image for Ahead Of Technology Framed Art Prin Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-print-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ahead Of Technology Framed Art Prin Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-print-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology print">Search<span data-ebay-domain-label>eBay.co.uk</span>: technology print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-print-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-print-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Co Print Multi-Filament Module for 3D Printers Multi Printing Technology"><img src="{{ '/assets/images/marketplace-covers/5f66c29ec735983efb34.jpg' | relative_url }}" alt="Listing image for Co Print Multi-Filament Module for 3D Printers Multi Printing Technology" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-print-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Co Print Multi-Filament Module for 3D Printers Multi Printing Technology</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-print-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology print">Search <span data-ebay-domain-label>eBay.co.uk</span>: technology print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-print-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-print-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Co Print Multi-Filament Module for 3D Printers Multi Printing Technology"><img src="{{ '/assets/images/marketplace-covers/5f66c29ec735983efb34.jpg' | relative_url }}" alt="Listing image for Co Print Multi-Filament Module for 3D Printers Multi Printing Technology" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-print-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Co Print Multi-Filament Module for 3D Printers Multi Printing Technology</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-print-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology print">Search<span data-ebay-domain-label>eBay.co.uk</span>: technology print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-print-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-print-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RETRO TECHNOLOGY Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/52587c8494bbf9efb04f.jpg' | relative_url }}" alt="Listing image for RETRO TECHNOLOGY Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-print-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">RETRO TECHNOLOGY Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-print-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology print">Search <span data-ebay-domain-label>eBay.co.uk</span>: technology print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-print-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-print-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-print-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RETRO TECHNOLOGY Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/52587c8494bbf9efb04f.jpg' | relative_url }}" alt="Listing image for RETRO TECHNOLOGY Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-print-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">RETRO TECHNOLOGY Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-print-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology print">Search<span data-ebay-domain-label>eBay.co.uk</span>: technology print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-print-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-evidence-what-long-horizon-benchmarks-reveal-about-ai-reliability-ai-doom-and-technology-print-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -612,7 +612,7 @@ In short, the best available empirical evidence suggests that as we *lengthen th
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -632,7 +632,7 @@ In short, the best available empirical evidence suggests that as we *lengthen th
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -664,7 +664,7 @@ In short, the best available empirical evidence suggests that as we *lengthen th
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -694,7 +694,7 @@ In short, the best available empirical evidence suggests that as we *lengthen th
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -752,141 +752,141 @@ In short, the best available empirical evidence suggests that as we *lengthen th
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: metr.org  
-   Link: <a href="https://metr.org/time-horizons/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/time-horizons/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Task-Completion Time Horizons of Frontier AI ModelsThe task-completion time horizon is the task duration (measured by human expert co...</p></details>
+   Link:<a href="https://metr.org/time-horizons/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/time-horizons/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Task-Completion Time Horizons of Frontier AI ModelsThe task-completion time horizon is the task duration (measured by human expert co...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
    Title: arXiv Long DS-Bench: On the Failure of Long-Horizon Agentic Data Analysis  
-   Link: <a href="https://arxiv.org/abs/2605.30434" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.30434</a>  
+   Link:<a href="https://arxiv.org/abs/2605.30434" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.30434</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: medium.com  
    Title: Are AI time-horizons (still) doubling every 7 months?  
-   Link: <a href="https://medium.com/%40AIchats/are-ai-time-horizons-still-doubling-every-7-months-6262ed2bcc6a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40AIchats/are-ai-time-horizons-still-doubling-every-7-months-6262ed2bcc6a</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Are AI time-horizons (still) doubling every 7 months?March 11, 2026 — A critical review of METR&#x27;s &#x27;Task-Completion Time Horizons of...</p></details>
+   Link:<a href="https://medium.com/%40AIchats/are-ai-time-horizons-still-doubling-every-7-months-6262ed2bcc6a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40AIchats/are-ai-time-horizons-still-doubling-every-7-months-6262ed2bcc6a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Are AI time-horizons (still) doubling every 7 months?March 11, 2026 — A critical review of METR&#x27;s &#x27;Task-Completion Time Horizons of...</p></details>
    Published: March 11, 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2602.14337" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2602.14337</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line InterfacesFebruary 15, 2026...</p></details>
+   Link:<a href="https://arxiv.org/abs/2602.14337" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2602.14337</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line InterfacesFebruary 15, 2026...</p></details>
    Published: February 15, 2026  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: app.argminai.com  
-   Link: <a href="https://app.argminai.com/arxiv-dashboard/papers/2602.14337v2" target="_blank" rel="noopener noreferrer nofollow">https://app.argminai.com/arxiv-dashboard/papers/2602.14337v2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LongCLI-Bench: a 20-task CLI benchmark showing state-of-the-art agents pass &lt;20% on long-horizon engineering tasks | Argmin AIFebruary 15...</p></details>
+   Link:<a href="https://app.argminai.com/arxiv-dashboard/papers/2602.14337v2" target="_blank" rel="noopener noreferrer nofollow">https://app.argminai.com/arxiv-dashboard/papers/2602.14337v2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LongCLI-Bench: a 20-task CLI benchmark showing state-of-the-art agents pass &lt;20% on long-horizon engineering tasks | Argmin AIFebruary 15...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: liner.com  
-   Link: <a href="https://liner.com/review/longclibench-preliminary-benchmark-and-study-for-longhorizon-agentic-programming-in" target="_blank" rel="noopener noreferrer nofollow">https://liner.com/review/longclibench-preliminary-benchmark-and-study-for-longhorizon-agentic-programming-in</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces [Quick Review]Febru...</p></details>
+   Link:<a href="https://liner.com/review/longclibench-preliminary-benchmark-and-study-for-longhorizon-agentic-programming-in" target="_blank" rel="noopener noreferrer nofollow">https://liner.com/review/longclibench-preliminary-benchmark-and-study-for-longhorizon-agentic-programming-in</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces [Quick Review]Febru...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: tianpan.co  
    Title: 2026 04 10 long horizon evaluation gap agent benchmarks  
-   Link: <a href="https://tianpan.co/blog/2026-04-10-long-horizon-evaluation-gap-agent-benchmarks" target="_blank" rel="noopener noreferrer nofollow">https://tianpan.co/blog/2026-04-10-long-horizon-evaluation-gap-agent-benchmarks</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Long-Horizon Evaluation Gap: Why Your Agent...10 Apr 2026 — Single-turn benchmarks give a false sense of security for product...</p></details>
+   Link:<a href="https://tianpan.co/blog/2026-04-10-long-horizon-evaluation-gap-agent-benchmarks" target="_blank" rel="noopener noreferrer nofollow">https://tianpan.co/blog/2026-04-10-long-horizon-evaluation-gap-agent-benchmarks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Long-Horizon Evaluation Gap: Why Your Agent...10 Apr 2026 — Single-turn benchmarks give a false sense of security for product...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: metr.org  
    Title: We show that this metric has been consistently exponentially i  
-   Link: <a href="https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/?_bhlid=eb9ba26f893982d302f59d4adee697067ed90a41" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/?_bhlid=eb9ba26f893982d302f59d4adee697067ed90a41</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring AI Ability to Complete Long Tasks - METRMarch 19, 2025 — Measuring AI Ability to Complete Long Tasks We propose measuring AI pe...</p></details>
+   Link:<a href="https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/?_bhlid=eb9ba26f893982d302f59d4adee697067ed90a41" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/?_bhlid=eb9ba26f893982d302f59d4adee697067ed90a41</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring AI Ability to Complete Long Tasks - METRMarch 19, 2025 — Measuring AI Ability to Complete Long Tasks We propose measuring AI pe...</p></details>
    Published: March 19, 2025  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
    Title: The Long-Horizon Task Mirage?  
-   Link: <a href="https://arxiv.org/html/2604.11978v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2604.11978v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Diagnosing Where and...13 Apr 2026 — Our findings offer an initial methodological step toward systematic, cross-domain analysis of long...</p></details>
+   Link:<a href="https://arxiv.org/html/2604.11978v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2604.11978v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Diagnosing Where and...13 Apr 2026 — Our findings offer an initial methodological step toward systematic, cross-domain analysis of long...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: metr.org  
    Title: 2026 01 22 time horizon limitations  
-   Link: <a href="https://metr.org/notes/2026-01-22-time-horizon-limitations/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/notes/2026-01-22-time-horizon-limitations/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Clarifying limitations of time horizon22 Jan 2026 — METR Logo. METR researches, develops, and evaluates frontier AI systems to measure ho...</p></details>
+   Link:<a href="https://metr.org/notes/2026-01-22-time-horizon-limitations/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/notes/2026-01-22-time-horizon-limitations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Clarifying limitations of time horizon22 Jan 2026 — METR Logo. METR researches, develops, and evaluates frontier AI systems to measure ho...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/agentic-builders/5-agent-design-patterns-for-long-running-ai-agents-423ff3f73850" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/agentic-builders/5-agent-design-patterns-for-long-running-ai-agents-423ff3f73850</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ion patterns from Google&#x27;s Agent Runtime that demos never...</p></details>
+   Link:<a href="https://medium.com/agentic-builders/5-agent-design-patterns-for-long-running-ai-agents-423ff3f73850" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/agentic-builders/5-agent-design-patterns-for-long-running-ai-agents-423ff3f73850</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ion patterns from Google&#x27;s Agent Runtime that demos never...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: hyper.ai  
-   Link: <a href="https://hyper.ai/en/papers/2602.14337" target="_blank" rel="noopener noreferrer nofollow">https://hyper.ai/en/papers/2602.14337</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AILongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces | Papers | HyperAI...</p></details>
+   Link:<a href="https://hyper.ai/en/papers/2602.14337" target="_blank" rel="noopener noreferrer nofollow">https://hyper.ai/en/papers/2602.14337</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AILongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces | Papers | HyperAI...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: papers.cool  
-   Link: <a href="https://papers.cool/arxiv/2604.16788" target="_blank" rel="noopener noreferrer nofollow">https://papers.cool/arxiv/2604.16788</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LongBench: Evaluating Robotic Manipulation Policies on Real-World Long-Horizon Tasks | Cool Papers - Immersive Paper DiscoveryApril 18, 2...</p></details>
+   Link:<a href="https://papers.cool/arxiv/2604.16788" target="_blank" rel="noopener noreferrer nofollow">https://papers.cool/arxiv/2604.16788</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LongBench: Evaluating Robotic Manipulation Policies on Real-World Long-Horizon Tasks | Cool Papers - Immersive Paper DiscoveryApril 18, 2...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: papers.cool  
-   Link: <a href="https://papers.cool/arxiv/2602.14337" target="_blank" rel="noopener noreferrer nofollow">https://papers.cool/arxiv/2602.14337</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces | Cool Papers - Immersiv...</p></details>
+   Link:<a href="https://papers.cool/arxiv/2602.14337" target="_blank" rel="noopener noreferrer nofollow">https://papers.cool/arxiv/2602.14337</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces | Cool Papers - Immersiv...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: hyper.ai  
-   Link: <a href="https://hyper.ai/fr/papers/2602.14337" target="_blank" rel="noopener noreferrer nofollow">https://hyper.ai/fr/papers/2602.14337</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LongCLI-Bench: Un benchmark préliminaire et une étude sur la programmation agente à horizon long dans les interfaces en ligne de command...</p></details>
+   Link:<a href="https://hyper.ai/fr/papers/2602.14337" target="_blank" rel="noopener noreferrer nofollow">https://hyper.ai/fr/papers/2602.14337</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LongCLI-Bench: Un benchmark préliminaire et une étude sur la programmation agente à horizon long dans les interfaces en ligne de command...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchtrend.ai  
-   Link: <a href="https://researchtrend.ai/papers/2603.29231" target="_blank" rel="noopener noreferrer nofollow">https://researchtrend.ai/papers/2603.29231</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond pass@1: A Reliability Science Framework for Long-Horizon LLM Agents | ResearchTrend.AIMarch 31, 2026 — BEYOND PASS@1: A RELIABILIT...</p></details>
+   Link:<a href="https://researchtrend.ai/papers/2603.29231" target="_blank" rel="noopener noreferrer nofollow">https://researchtrend.ai/papers/2603.29231</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond pass@1: A Reliability Science Framework for Long-Horizon LLM Agents | ResearchTrend.AIMarch 31, 2026 — BEYOND PASS@1: A RELIABILIT...</p></details>
    Published: March 31, 2026  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: xwang2775.github.io  
-   Link: <a href="https://xwang2775.github.io/horizon-leaderboard/" target="_blank" rel="noopener noreferrer nofollow">https://xwang2775.github.io/horizon-leaderboard/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HORIZON Leaderboard — Long-Horizon Agent EvaluationAn initial diagnostic benchmark for systematically constructing tasks and characterizi...</p></details>
+   Link:<a href="https://xwang2775.github.io/horizon-leaderboard/" target="_blank" rel="noopener noreferrer nofollow">https://xwang2775.github.io/horizon-leaderboard/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HORIZON Leaderboard — Long-Horizon Agent EvaluationAn initial diagnostic benchmark for systematically constructing tasks and characterizi...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ai-search.io  
-   Link: <a href="https://ai-search.io/papers/longcli-bench-a-preliminary-benchmark-and-study-for-long-horizon-agentic-programming-in-command-line-interfaces" target="_blank" rel="noopener noreferrer nofollow">https://ai-search.io/papers/longcli-bench-a-preliminary-benchmark-and-study-for-long-horizon-agentic-programming-in-command-line-interfaces</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces - AI for Dummies - Under...</p></details>
+   Link:<a href="https://ai-search.io/papers/longcli-bench-a-preliminary-benchmark-and-study-for-long-horizon-agentic-programming-in-command-line-interfaces" target="_blank" rel="noopener noreferrer nofollow">https://ai-search.io/papers/longcli-bench-a-preliminary-benchmark-and-study-for-long-horizon-agentic-programming-in-command-line-interfaces</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces - AI for Dummies - Under...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: gist.science  
-   Link: <a href="https://gist.science/paper/2602.14337" target="_blank" rel="noopener noreferrer nofollow">https://gist.science/paper/2602.14337</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces | Gist.ScienceFebruary 2...</p></details>
+   Link:<a href="https://gist.science/paper/2602.14337" target="_blank" rel="noopener noreferrer nofollow">https://gist.science/paper/2602.14337</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces | Gist.ScienceFebruary 2...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: epoch.ai  
-   Link: <a href="https://epoch.ai/benchmarks/metr-time-horizons" target="_blank" rel="noopener noreferrer nofollow">https://epoch.ai/benchmarks/metr-time-horizons</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>METR Time HorizonsThis metric represents the estimated time (in minutes or hours) that a human expert would typically take to complete ta...</p></details>
+   Link:<a href="https://epoch.ai/benchmarks/metr-time-horizons" target="_blank" rel="noopener noreferrer nofollow">https://epoch.ai/benchmarks/metr-time-horizons</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>METR Time HorizonsThis metric represents the estimated time (in minutes or hours) that a human expert would typically take to complete ta...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/singularity/comments/1qyx3k3/oai_researcher_noam_brown_responds_to_question/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/singularity/comments/1qyx3k3/oai_researcher_noam_brown_responds_to_question/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OAI researcher Noam Brown responds to question about...OAI researcher Noam Brown responds to question about absurd METR pace saying it w...</p></details>
+   Link:<a href="https://www.reddit.com/r/singularity/comments/1qyx3k3/oai_researcher_noam_brown_responds_to_question/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/singularity/comments/1qyx3k3/oai_researcher_noam_brown_responds_to_question/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OAI researcher Noam Brown responds to question about...OAI researcher Noam Brown responds to question about absurd METR pace saying it w...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: tldr.takara.ai  
-   Link: <a href="https://tldr.takara.ai/p/2603.29231" target="_blank" rel="noopener noreferrer nofollow">https://tldr.takara.ai/p/2603.29231</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>pass@1: A Reliability Science Framework for Long-Horizon LLM Agents | Takara TLDRImage: DS1 spectrogram: Beyond pass@1: A Reliability Sci...</p></details>
+   Link:<a href="https://tldr.takara.ai/p/2603.29231" target="_blank" rel="noopener noreferrer nofollow">https://tldr.takara.ai/p/2603.29231</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>pass@1: A Reliability Science Framework for Long-Horizon LLM Agents | Takara TLDRImage: DS1 spectrogram: Beyond pass@1: A Reliability Sci...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: tldr.takara.ai  
-   Link: <a href="https://tldr.takara.ai/p/2602.14337" target="_blank" rel="noopener noreferrer nofollow">https://tldr.takara.ai/p/2602.14337</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>takara.aiLongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces | Takara TLDRIm...</p></details>
+   Link:<a href="https://tldr.takara.ai/p/2602.14337" target="_blank" rel="noopener noreferrer nofollow">https://tldr.takara.ai/p/2602.14337</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>takara.aiLongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces | Takara TLDRIm...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/404021178_LongBench_Evaluating_Robotic_Manipulation_Policies_on_Real-World_Long-Horizon_Tasks" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/404021178_LongBench_Evaluating_Robotic_Manipulation_Policies_on_Real-World_Long-Horizon_Tasks</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) LongBench: Evaluating Robotic Manipulation Policies on Real-World Long-Horizon TasksApril 18, 2026 — LONGBENCH: EVALUATING ROBOTIC...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/404021178_LongBench_Evaluating_Robotic_Manipulation_Policies_on_Real-World_Long-Horizon_Tasks" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/404021178_LongBench_Evaluating_Robotic_Manipulation_Policies_on_Real-World_Long-Horizon_Tasks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) LongBench: Evaluating Robotic Manipulation Policies on Real-World Long-Horizon TasksApril 18, 2026 — LONGBENCH: EVALUATING ROBOTIC...</p></details>
    Published: April 18, 2026  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: theregister.com  
    Title: microsoft researchers find ai models and agents cant handle long running tasks  
-   Link: <a href="https://www.theregister.com/ai-ml/2026/05/11/microsoft-researchers-find-ai-models-and-agents-cant-handle-long-running-tasks/5238263" target="_blank" rel="noopener noreferrer nofollow">https://www.theregister.com/ai-ml/2026/05/11/microsoft-researchers-find-ai-models-and-agents-cant-handle-long-running-tasks/5238263</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Microsoft researchers find AI models and agents can&#x27;t...11 May 2026 — &quot;Our findings show that current LLMs introduce substantial errors...</p></details>
+   Link:<a href="https://www.theregister.com/ai-ml/2026/05/11/microsoft-researchers-find-ai-models-and-agents-cant-handle-long-running-tasks/5238263" target="_blank" rel="noopener noreferrer nofollow">https://www.theregister.com/ai-ml/2026/05/11/microsoft-researchers-find-ai-models-and-agents-cant-handle-long-running-tasks/5238263</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Microsoft researchers find AI models and agents can&#x27;t...11 May 2026 — &quot;Our findings show that current LLMs introduce substantial errors...</p></details>
    Published: May 2026

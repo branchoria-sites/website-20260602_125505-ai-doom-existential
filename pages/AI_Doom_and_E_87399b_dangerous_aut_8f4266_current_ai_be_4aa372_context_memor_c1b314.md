@@ -273,15 +273,15 @@ image: /assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4a
 
 ## Introduction
 
-When people imagine future autonomous AI systems tackling multi‑stage real‑world projects — writing a book, managing research, or running a business process with minimal supervision — one practical question dominates the empirical debate: can today’s agents *keep track of what they’re doing over long sequences of steps*? Current research suggests they struggle not because they lack intelligence in individual steps, but because they consistently lose **context and memory** as tasks unfold. In benchmarks designed to stress these capabilities, performance drops markedly as sessions grow longer and internal state becomes harder to manage. These limitations are central to understanding how far current systems are from robust long‑horizon [autonomy]({{ 'autonomy/' | relative_url }}) — and why many scenarios of future AI risk assume *much stronger* memory and planning than today’s models actually exhibit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.30434" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+When people imagine future autonomous AI systems tackling multi‑stage real‑world projects — writing a book, managing research, or running a business process with minimal supervision — one practical question dominates the empirical debate: can today’s agents *keep track of what they’re doing over long sequences of steps*? Current research suggests they struggle not because they lack intelligence in individual steps, but because they consistently lose **context and memory** as tasks unfold. In benchmarks designed to stress these capabilities, performance drops markedly as sessions grow longer and internal state becomes harder to manage. These limitations are central to understanding how far current systems are from robust long‑horizon [autonomy]({{ 'autonomy/' | relative_url }}) — and why many scenarios of future AI risk assume *much stronger* memory and planning than today’s models actually exhibit.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.30434" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_context_memor_c1b314-Illustration-1-dark.svg" | relative_url }}" alt="Context &amp; Memory illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_context_memor_c1b314-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_context_memor_c1b314-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Where Context and Memory Break Down in Long Tasks
 
 Research benchmarks created in 2026 reveal a consistent pattern: as a task stretches beyond a dozen or dozens of steps, agents fail not because they cannot reason per step, but because they *fail to maintain a coherent evolving state*. Two recent pieces of empirical work make this clear:
 
-* **LongDS‑Bench**, a multi‑turn *data‑analysis benchmark*, shows that even the best [current models]({{ 'current-models/' | relative_url }}) drop from around ~48 % accuracy early in a workflow to far lower rates later, with long‑horizon errors accounting for the majority of failures. Crucially, adding more agent interaction steps *doesn’t improve outcomes* if the agent hasn’t maintained an accurate analytical state. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.30434" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-* **LongMINT** evaluates memory under repeated updates and interference across evolving contexts. Here, systems — including memory‑augmented frameworks — achieve low average accuracy (~28 %) when tasks demand retrieving and aggregating information spread across huge contexts (up to 1.8 million tokens). Performance deteriorates as intervening updates interfere with earlier facts, not merely because of context window size but because **the memory mechanisms themselves struggle to recall and piece together past information properly.** <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.30434" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* **LongDS‑Bench**, a multi‑turn *data‑analysis benchmark*, shows that even the best [current models]({{ 'current-models/' | relative_url }}) drop from around ~48 % accuracy early in a workflow to far lower rates later, with long‑horizon errors accounting for the majority of failures. Crucially, adding more agent interaction steps *doesn’t improve outcomes* if the agent hasn’t maintained an accurate analytical state.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.30434" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* **LongMINT** evaluates memory under repeated updates and interference across evolving contexts. Here, systems — including memory‑augmented frameworks — achieve low average accuracy (~28 %) when tasks demand retrieving and aggregating information spread across huge contexts (up to 1.8 million tokens). Performance deteriorates as intervening updates interfere with earlier facts, not merely because of context window size but because **the memory mechanisms themselves struggle to recall and piece together past information properly.**<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.30434" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 These empirical results support a broader pattern identified in research and engineering discussions: long tasks expose *amplifying state loss and compounding errors*, not isolated reasoning errors at single steps.
 
@@ -301,7 +301,7 @@ Most large language models operate with a **fixed context window** — a sliding
 
 </div>
 
-This structural issue isn’t solved merely by expanding the window; it explains why researchers explore **state models** and memory layers that can summarise or selectively recall past information instead of just accumulating it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zylos.ai/research/2026-04-03-goal-persistence-drift-long-horizon-ai-agents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zylos.ai">[Zylos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zylos.ai</span><span class="citation-popover-title">Goal Persistence and Goal Drift in Long-Horizon AI Agents &#124; Zylos Research</span><span class="citation-popover-snippet">Goal Persistence and Goal Drift in Long-Horizon AI Agents &#124; Zylos ResearchApril 3, 2026...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
+This structural issue isn’t solved merely by expanding the window; it explains why researchers explore **state models** and memory layers that can summarise or selectively recall past information instead of just accumulating it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zylos.ai/research/2026-04-03-goal-persistence-drift-long-horizon-ai-agents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zylos.ai">[Zylos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zylos.ai</span><span class="citation-popover-title">Goal Persistence and Goal Drift in Long-Horizon AI Agents &#124; Zylos Research</span><span class="citation-popover-snippet">Goal Persistence and Goal Drift in Long-Horizon AI Agents &#124; Zylos ResearchApril 3, 2026...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4ZPr2hkV63k" title="NEW Self-Improving Memory For AI (Forget Memory.md)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4ZPr2hkV63k" target="_blank" rel="noopener noreferrer">NEW Self-Improving Memory For AI (Forget Memory.md)</a></p><p class="youtube-embed-meta">Channel: Discover AI &middot; Views: 12.6K &middot; Uploaded: May 2026 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4ZPr2hkV63k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4ZPr2hkV63k">Open on YouTube</a></p></div></div></div>
 
@@ -317,7 +317,7 @@ In benchmarks like LongMINT, information updates can *interfere* with earlier co
 
 </div>
 
-This suggests that even advanced memory constructs (retrieval augmented, vector search, compressed storage) struggle when the task demands *both* deep recall and sophisticated integration over many items. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.30434" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This suggests that even advanced memory constructs (retrieval augmented, vector search, compressed storage) struggle when the task demands *both* deep recall and sophisticated integration over many items.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.30434" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ### Goal Drift and Context Degradation Over Time
 
@@ -325,7 +325,7 @@ Beyond remembering facts, agents also often fail to keep *objectives* coherent:
 
 * As agents break tasks into subtasks or handle interruptions, their internal representation of the *original goal* can shift subtly — a phenomenon called **goal drift**.
 * Without a stable anchoring mechanism, the agent’s trajectory gradually changes to optimise for local, recent coherence rather than the overall objective.
-* Multi‑session interruptions — common in realistic long‑horizon work — give repeated opportunities for context decay and drift. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zylos.ai/research/2026-05-14-long-horizon-planning-goal-decomposition-ai-agents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zylos.ai">[Zylos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zylos.ai</span><span class="citation-popover-title">Long-Horizon Planning and Goal Decomposition in AI Agents &#124; Zylos Research</span><span class="citation-popover-snippet">Long-Horizon Planning and Goal Decomposition in AI Agents &#124; Zylos ResearchMay 14, 2026...</span><span class="citation-popover-meta">Published: May 14, 2026</span></span></span>
+* Multi‑session interruptions — common in realistic long‑horizon work — give repeated opportunities for context decay and drift.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zylos.ai/research/2026-05-14-long-horizon-planning-goal-decomposition-ai-agents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zylos.ai">[Zylos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zylos.ai</span><span class="citation-popover-title">Long-Horizon Planning and Goal Decomposition in AI Agents &#124; Zylos Research</span><span class="citation-popover-snippet">Long-Horizon Planning and Goal Decomposition in AI Agents &#124; Zylos ResearchMay 14, 2026...</span><span class="citation-popover-meta">Published: May 14, 2026</span></span></span>
 
 This isn’t merely about storage — it’s about maintaining semantic *meaning* over time, which current architectures handle poorly compared to humans or even classical software systems.
 
@@ -334,8 +334,8 @@ This isn’t merely about storage — it’s about maintaining semantic *meaning
 
 While many benchmarks exist, a few illustrate the scale and nature of these failures:
 
-* **LongCLI‑Bench**, focused on command‑line programming tasks, reports pass rates below 20 % for agent workflows designed to mirror real engineering tasks. Most agents fail early and never recover, indicating that *planning execution and sustained memory* are core bottlenecks even in structured workflows. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hyper.ai/en/papers/2602.14337" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hyper.ai">[HyperAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hyper.ai</span><span class="citation-popover-snippet">AILongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces &#124; Papers &#124; HyperAI...</span></span></span>
-* Other long‑horizon plans — such as simulated research tasks, strategic planning benchmarks, and interactive environment rollouts — consistently show fragmentation of context, contradictory decisions, and stalls where agents cannot reconcile earlier decisions with later requirements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://huggingface.co/papers/2601.20730" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huggingface.co">[Hugging Face]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huggingface.co</span><span class="citation-popover-title">Hugging Face Paper page</span><span class="citation-popover-snippet">Hugging FacePaper page - AgentLongBench: A Controllable Long Benchmark For Long-Contexts Agents via Environment RolloutsJanuary 28, 2026...</span><span class="citation-popover-meta">Published: January 28, 2026</span></span></span>
+* **LongCLI‑Bench**, focused on command‑line programming tasks, reports pass rates below 20 % for agent workflows designed to mirror real engineering tasks. Most agents fail early and never recover, indicating that *planning execution and sustained memory* are core bottlenecks even in structured workflows.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hyper.ai/en/papers/2602.14337" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hyper.ai">[HyperAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hyper.ai</span><span class="citation-popover-snippet">AILongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces &#124; Papers &#124; HyperAI...</span></span></span>
+* Other long‑horizon plans — such as simulated research tasks, strategic planning benchmarks, and interactive environment rollouts — consistently show fragmentation of context, contradictory decisions, and stalls where agents cannot reconcile earlier decisions with later requirements.<span class="citation-chip-wrap"><a class="citation-chip" href="https://huggingface.co/papers/2601.20730" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huggingface.co">[Hugging Face]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huggingface.co</span><span class="citation-popover-title">Hugging Face Paper page</span><span class="citation-popover-snippet">Hugging FacePaper page - AgentLongBench: A Controllable Long Benchmark For Long-Contexts Agents via Environment RolloutsJanuary 28, 2026...</span><span class="citation-popover-meta">Published: January 28, 2026</span></span></span>
 
 These concrete examples underscore a recurrent point: as workload complexity and horizon length increase, *small memory or context lapses compound* into large failures.
 
@@ -355,9 +355,9 @@ In this sense, context and memory limitations are not minor engineering quirks b
 
 To overcome these bottlenecks, ongoing work points in several directions:
 
-* **Structured memory architectures** that segment, summarise and selectively retrieve information more intelligently than raw token windows. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.cool/arxiv/2603.13644" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.cool">[Cool Papers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.cool</span><span class="citation-popover-snippet">Cool PapersStatePlane: A Cognitive State Plane for Long-Horizon AI Systems Under Bounded Context &#124; Cool Papers - Immersive Paper Discover...</span></span></span>
-* **Hierarchical planning and goal decomposition** that make tasks into smaller chunks while preserving global alignment, helping mitigate drift. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zylos.ai/en/research/2026-04-21-agent-context-compaction-long-running-sessions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zylos.ai">[Zylos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zylos.ai</span><span class="citation-popover-snippet">April 21, 2026 — 2026-04-21 AGENT CONTEXT COMPACTION FOR LONG-RUNNING SESSIONS: TECHNIQUES AND TRADEOFFS ai-agents context-engineering co...</span><span class="citation-popover-meta">Published: April 21, 2026</span></span></span>
-* **Verification loops and explicit state tracking**, where agents reevaluate earlier decisions or use checkpoints to avoid accumulating silent errors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/AISystemsEngineering/comments/1sevnbt/why_do_longrunning_agents_degrade_even_if_memory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Why do long-running agents degrade even if memory is well structured?</span><span class="citation-popover-snippet">Why do long-running agents degrade even if memory is well structured?April 7, 2026...</span><span class="citation-popover-meta">Published: April 7, 2026</span></span></span>
+* **Structured memory architectures** that segment, summarise and selectively retrieve information more intelligently than raw token windows.<span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.cool/arxiv/2603.13644" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.cool">[Cool Papers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.cool</span><span class="citation-popover-snippet">Cool PapersStatePlane: A Cognitive State Plane for Long-Horizon AI Systems Under Bounded Context &#124; Cool Papers - Immersive Paper Discover...</span></span></span>
+* **Hierarchical planning and goal decomposition** that make tasks into smaller chunks while preserving global alignment, helping mitigate drift.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zylos.ai/en/research/2026-04-21-agent-context-compaction-long-running-sessions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zylos.ai">[Zylos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zylos.ai</span><span class="citation-popover-snippet">April 21, 2026 — 2026-04-21 AGENT CONTEXT COMPACTION FOR LONG-RUNNING SESSIONS: TECHNIQUES AND TRADEOFFS ai-agents context-engineering co...</span><span class="citation-popover-meta">Published: April 21, 2026</span></span></span>
+* **Verification loops and explicit state tracking**, where agents reevaluate earlier decisions or use checkpoints to avoid accumulating silent errors.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/AISystemsEngineering/comments/1sevnbt/why_do_longrunning_agents_degrade_even_if_memory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Why do long-running agents degrade even if memory is well structured?</span><span class="citation-popover-snippet">Why do long-running agents degrade even if memory is well structured?April 7, 2026...</span><span class="citation-popover-meta">Published: April 7, 2026</span></span></span>
 
 None of these are complete solutions, but they reflect active recognition that context and memory are *design constraints*, not peripheral details.
 
@@ -376,276 +376,276 @@ In practical terms, context and memory failures impose a clear horizon beyond wh
 
 </div>
 
-are precisely where agents fail most often today. This suggests that, while individual reasoning steps may be strong, the *network of states and goals over time* is the true limiting factor for long‑horizon autonomy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.30434" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+are precisely where agents fail most often today. This suggests that, while individual reasoning steps may be strong, the *network of states and goals over time* is the true limiting factor for long‑horizon autonomy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.30434" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-By concentrating on the mechanisms by which state and memory falter over long sequences, researchers sharpen both empirical understanding and engineering priorities. For those assessing the pace of AI capability — and the distance to genuinely autonomous systems — context and memory limitations remain essential empirical constraints, not merely theoretical footnotes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.30434" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+By concentrating on the mechanisms by which state and memory falter over long sequences, researchers sharpen both empirical understanding and engineering priorities. For those assessing the pace of AI capability — and the distance to genuinely autonomous systems — context and memory limitations remain essential empirical constraints, not merely theoretical footnotes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.30434" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_context_memor_c1b314-Illustration-3-dark.svg" | relative_url }}" alt="Context &amp; Memory illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_context_memor_c1b314-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_dangerous_aut_8f4266_current_ai_be_4aa372_context_memor_c1b314-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why AI Agents Struggle to Keep Track Over Long Tasks. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why AI Agents Struggle to Keep Track Over Long Tasks. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
-        </h4>
-        <p class="fr-book-author">By Brian Christian</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
+</h4>
+<p class="fr-book-author">By Brian Christian</p>
         
-        <p class="fr-book-desc">Explains practical limitations and failures of machine-learning systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains practical limitations and failures of machine-learning systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Russell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
+</h4>
+<p class="fr-book-author">By Stuart Russell</p>
         
-        <p class="fr-book-desc">Provides context for why robust memory and reasoning matter.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for why robust memory and reasoning matter.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rebooting+AI+by+Gary+Marcus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rebooting AI on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OmeEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Rebooting AI" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rebooting+AI+by+Gary+Marcus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rebooting AI">Rebooting AI</a>
-        </h4>
-        <p class="fr-book-author">By Gary Marcus, Ernest Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Rebooting+AI+by+Gary+Marcus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rebooting AI on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OmeEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Rebooting AI" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Rebooting+AI+by+Gary+Marcus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rebooting AI">Rebooting AI</a>
+</h4>
+<p class="fr-book-author">By Gary Marcus, Ernest Davis</p>
         
-        <p class="fr-book-desc">Directly discusses weaknesses in memory, reasoning, and robustness.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rebooting+AI+by+Gary+Marcus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly discusses weaknesses in memory, reasoning, and robustness.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Rebooting+AI+by+Gary+Marcus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Master+Algorithm+by+Pedro+Domingos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Master Algorithm on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WpTSDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Master Algorithm" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Master+Algorithm+by+Pedro+Domingos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Master Algorithm">The Master Algorithm</a>
-        </h4>
-        <p class="fr-book-author">By Pedro Domingos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Master+Algorithm+by+Pedro+Domingos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Master Algorithm on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WpTSDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Master Algorithm" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Master+Algorithm+by+Pedro+Domingos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Master Algorithm">The Master Algorithm</a>
+</h4>
+<p class="fr-book-author">By Pedro Domingos</p>
         
-        <p class="fr-book-desc">Helps readers understand the foundations of learning systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Master+Algorithm+by+Pedro+Domingos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand the foundations of learning systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Master+Algorithm+by+Pedro+Domingos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Rebooting+AI&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rebooting AI</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Rebooting+AI&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rebooting AI</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DIY Electronic Calculator Kit with LED Digital Tube Display and"><img src="{{ '/assets/images/marketplace-covers/895afc544c6eaae59255.jpg' | relative_url }}" alt="Listing image for DIY Electronic Calculator Kit with LED Digital Tube Display and" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">DIY Electronic Calculator Kit with LED Digital Tube Display and</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip display">Search <span data-ebay-domain-label>eBay.com</span>: computer chip display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-computer-chip-display&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DIY Electronic Calculator Kit with LED Digital Tube Display and"><img src="{{ '/assets/images/marketplace-covers/895afc544c6eaae59255.jpg' | relative_url }}" alt="Listing image for DIY Electronic Calculator Kit with LED Digital Tube Display and" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">DIY Electronic Calculator Kit with LED Digital Tube Display and</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip display">Search<span data-ebay-domain-label>eBay.com</span>: computer chip display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-computer-chip-display&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SuperChips Computer Chip Handheld Monitor for Silverado Sierra Gas 2547"><img src="{{ '/assets/images/marketplace-covers/41158b1c41c78a270211.jpg' | relative_url }}" alt="Listing image for SuperChips Computer Chip Handheld Monitor for Silverado Sierra Gas 2547" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SuperChips Computer Chip Handheld Monitor for Silverado Sierra Gas 2547</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip display">Search <span data-ebay-domain-label>eBay.com</span>: computer chip display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-computer-chip-display&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SuperChips Computer Chip Handheld Monitor for Silverado Sierra Gas 2547"><img src="{{ '/assets/images/marketplace-covers/41158b1c41c78a270211.jpg' | relative_url }}" alt="Listing image for SuperChips Computer Chip Handheld Monitor for Silverado Sierra Gas 2547" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SuperChips Computer Chip Handheld Monitor for Silverado Sierra Gas 2547</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip display">Search<span data-ebay-domain-label>eBay.com</span>: computer chip display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-computer-chip-display&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SuperChips Computer Chip Handheld Monitor for 21-24 Ford Bronco"><img src="{{ '/assets/images/marketplace-covers/a7b51e30a1c9debd9491.jpg' | relative_url }}" alt="Listing image for SuperChips Computer Chip Handheld Monitor for 21-24 Ford Bronco" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SuperChips Computer Chip Handheld Monitor for 21-24 Ford Bronco</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip display">Search <span data-ebay-domain-label>eBay.com</span>: computer chip display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-computer-chip-display&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SuperChips Computer Chip Handheld Monitor for 21-24 Ford Bronco"><img src="{{ '/assets/images/marketplace-covers/a7b51e30a1c9debd9491.jpg' | relative_url }}" alt="Listing image for SuperChips Computer Chip Handheld Monitor for 21-24 Ford Bronco" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SuperChips Computer Chip Handheld Monitor for 21-24 Ford Bronco</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip display">Search<span data-ebay-domain-label>eBay.com</span>: computer chip display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-computer-chip-display&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Intel 4004 CPU Resin Display, 50th Anniversary Tech Art, Retro Computer Gift"><img src="{{ '/assets/images/marketplace-covers/2e028fad25634e001434.jpg' | relative_url }}" alt="Listing image for Intel 4004 CPU Resin Display, 50th Anniversary Tech Art, Retro Computer Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Intel 4004 CPU Resin Display, 50th Anniversary Tech Art, Retro Computer Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip display">Search <span data-ebay-domain-label>eBay.com</span>: computer chip display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-computer-chip-display&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Intel 4004 CPU Resin Display, 50th Anniversary Tech Art, Retro Computer Gift"><img src="{{ '/assets/images/marketplace-covers/2e028fad25634e001434.jpg' | relative_url }}" alt="Listing image for Intel 4004 CPU Resin Display, 50th Anniversary Tech Art, Retro Computer Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Intel 4004 CPU Resin Display, 50th Anniversary Tech Art, Retro Computer Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip display">Search<span data-ebay-domain-label>eBay.com</span>: computer chip display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-computer-chip-display&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI SEXY GIRL POSTER FANTASY CYBERPUNK EROTIC KINKY ANIME ART SIZE A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/e149beb7600cb60ca1fd.jpg' | relative_url }}" alt="Listing image for AI SEXY GIRL POSTER FANTASY CYBERPUNK EROTIC KINKY ANIME ART SIZE A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">AI SEXY GIRL POSTER FANTASY CYBERPUNK EROTIC KINKY ANIME ART SIZE A4 A3 A2 A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: AI poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-ai-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI SEXY GIRL POSTER FANTASY CYBERPUNK EROTIC KINKY ANIME ART SIZE A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/e149beb7600cb60ca1fd.jpg' | relative_url }}" alt="Listing image for AI SEXY GIRL POSTER FANTASY CYBERPUNK EROTIC KINKY ANIME ART SIZE A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">AI SEXY GIRL POSTER FANTASY CYBERPUNK EROTIC KINKY ANIME ART SIZE A4 A3 A2 A1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: AI poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-ai-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SEXY CYBERPUNK GIRL POSTER PRINT AI ANIME FUTURISTIC WALL ART A4 A3 A2 A1 SIZE"><img src="{{ '/assets/images/marketplace-covers/7381f41dceae3f4a0a1d.jpg' | relative_url }}" alt="Listing image for SEXY CYBERPUNK GIRL POSTER PRINT AI ANIME FUTURISTIC WALL ART A4 A3 A2 A1 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SEXY CYBERPUNK GIRL POSTER PRINT AI ANIME FUTURISTIC WALL ART A4 A3 A2 A1 SIZE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: AI poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-ai-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SEXY CYBERPUNK GIRL POSTER PRINT AI ANIME FUTURISTIC WALL ART A4 A3 A2 A1 SIZE"><img src="{{ '/assets/images/marketplace-covers/7381f41dceae3f4a0a1d.jpg' | relative_url }}" alt="Listing image for SEXY CYBERPUNK GIRL POSTER PRINT AI ANIME FUTURISTIC WALL ART A4 A3 A2 A1 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SEXY CYBERPUNK GIRL POSTER PRINT AI ANIME FUTURISTIC WALL ART A4 A3 A2 A1 SIZE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: AI poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-ai-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SEXY AI CYBORG GIRLS ANIME POSTER FANTASY ART ADULT EROTIC CYBERPUNK A2 A1 SIZE"><img src="{{ '/assets/images/marketplace-covers/fdf731ad3ca17d0500d3.jpg' | relative_url }}" alt="Listing image for SEXY AI CYBORG GIRLS ANIME POSTER FANTASY ART ADULT EROTIC CYBERPUNK A2 A1 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SEXY AI CYBORG GIRLS ANIME POSTER FANTASY ART ADULT EROTIC CYBERPUNK A2 A1 SIZE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: AI poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-ai-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SEXY AI CYBORG GIRLS ANIME POSTER FANTASY ART ADULT EROTIC CYBERPUNK A2 A1 SIZE"><img src="{{ '/assets/images/marketplace-covers/fdf731ad3ca17d0500d3.jpg' | relative_url }}" alt="Listing image for SEXY AI CYBORG GIRLS ANIME POSTER FANTASY ART ADULT EROTIC CYBERPUNK A2 A1 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SEXY AI CYBORG GIRLS ANIME POSTER FANTASY ART ADULT EROTIC CYBERPUNK A2 A1 SIZE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: AI poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-ai-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SEXY GIRL POSTER PRINT AI ANIME CYBERPUNK EROTIC WALL ART A4 A3 A2 A1 SIZE"><img src="{{ '/assets/images/marketplace-covers/9e1b70ea03c19a00c75a.jpg' | relative_url }}" alt="Listing image for SEXY GIRL POSTER PRINT AI ANIME CYBERPUNK EROTIC WALL ART A4 A3 A2 A1 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SEXY GIRL POSTER PRINT AI ANIME CYBERPUNK EROTIC WALL ART A4 A3 A2 A1 SIZE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: AI poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-ai-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SEXY GIRL POSTER PRINT AI ANIME CYBERPUNK EROTIC WALL ART A4 A3 A2 A1 SIZE"><img src="{{ '/assets/images/marketplace-covers/9e1b70ea03c19a00c75a.jpg' | relative_url }}" alt="Listing image for SEXY GIRL POSTER PRINT AI ANIME CYBERPUNK EROTIC WALL ART A4 A3 A2 A1 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SEXY GIRL POSTER PRINT AI ANIME CYBERPUNK EROTIC WALL ART A4 A3 A2 A1 SIZE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: AI poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-ai-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=context-memory-why-ai-agents-struggle-to-keep-track-over-long-tasks-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -661,7 +661,7 @@ By concentrating on the mechanisms by which state and memory falter over long se
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -681,7 +681,7 @@ By concentrating on the mechanisms by which state and memory falter over long se
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -713,7 +713,7 @@ By concentrating on the mechanisms by which state and memory falter over long se
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -743,7 +743,7 @@ By concentrating on the mechanisms by which state and memory falter over long se
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -801,142 +801,142 @@ By concentrating on the mechanisms by which state and memory falter over long se
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2605.30434" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.30434</a>  
+   Link:<a href="https://arxiv.org/abs/2605.30434" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.30434</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2605.18565" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.18565</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LongMINT: Evaluating Memory under Multi-Target Interference in Long-Horizon Agent SystemsMay 18, 2026...</p></details>
+   Link:<a href="https://arxiv.org/abs/2605.18565" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.18565</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LongMINT: Evaluating Memory under Multi-Target Interference in Long-Horizon Agent SystemsMay 18, 2026...</p></details>
    Published: May 18, 2026  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: zylos.ai  
    Title: Goal Persistence and Goal Drift in Long-Horizon AI Agents | Zylos Research  
-   Link: <a href="https://zylos.ai/research/2026-04-03-goal-persistence-drift-long-horizon-ai-agents" target="_blank" rel="noopener noreferrer nofollow">https://zylos.ai/research/2026-04-03-goal-persistence-drift-long-horizon-ai-agents</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Goal Persistence and Goal Drift in Long-Horizon AI Agents | Zylos ResearchApril 3, 2026...</p></details>
+   Link:<a href="https://zylos.ai/research/2026-04-03-goal-persistence-drift-long-horizon-ai-agents" target="_blank" rel="noopener noreferrer nofollow">https://zylos.ai/research/2026-04-03-goal-persistence-drift-long-horizon-ai-agents</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goal Persistence and Goal Drift in Long-Horizon AI Agents | Zylos ResearchApril 3, 2026...</p></details>
    Published: April 3, 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: papers.cool  
-   Link: <a href="https://papers.cool/arxiv/2603.13644" target="_blank" rel="noopener noreferrer nofollow">https://papers.cool/arxiv/2603.13644</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cool PapersStatePlane: A Cognitive State Plane for Long-Horizon AI Systems Under Bounded Context | Cool Papers - Immersive Paper Discover...</p></details>
+   Link:<a href="https://papers.cool/arxiv/2603.13644" target="_blank" rel="noopener noreferrer nofollow">https://papers.cool/arxiv/2603.13644</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cool PapersStatePlane: A Cognitive State Plane for Long-Horizon AI Systems Under Bounded Context | Cool Papers - Immersive Paper Discover...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: zylos.ai  
    Title: Long-Horizon Planning and Goal Decomposition in AI Agents | Zylos Research  
-   Link: <a href="https://zylos.ai/research/2026-05-14-long-horizon-planning-goal-decomposition-ai-agents" target="_blank" rel="noopener noreferrer nofollow">https://zylos.ai/research/2026-05-14-long-horizon-planning-goal-decomposition-ai-agents</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Long-Horizon Planning and Goal Decomposition in AI Agents | Zylos ResearchMay 14, 2026...</p></details>
+   Link:<a href="https://zylos.ai/research/2026-05-14-long-horizon-planning-goal-decomposition-ai-agents" target="_blank" rel="noopener noreferrer nofollow">https://zylos.ai/research/2026-05-14-long-horizon-planning-goal-decomposition-ai-agents</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Long-Horizon Planning and Goal Decomposition in AI Agents | Zylos ResearchMay 14, 2026...</p></details>
    Published: May 14, 2026  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
    Title: Why do long-running agents degrade even if memory is well structured?  
-   Link: <a href="https://www.reddit.com/r/AISystemsEngineering/comments/1sevnbt/why_do_longrunning_agents_degrade_even_if_memory/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AISystemsEngineering/comments/1sevnbt/why_do_longrunning_agents_degrade_even_if_memory/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why do long-running agents degrade even if memory is well structured?April 7, 2026...</p></details>
+   Link:<a href="https://www.reddit.com/r/AISystemsEngineering/comments/1sevnbt/why_do_longrunning_agents_degrade_even_if_memory/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AISystemsEngineering/comments/1sevnbt/why_do_longrunning_agents_degrade_even_if_memory/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why do long-running agents degrade even if memory is well structured?April 7, 2026...</p></details>
    Published: April 7, 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: papers.cool  
-   Link: <a href="https://papers.cool/arxiv/2605.18565" target="_blank" rel="noopener noreferrer nofollow">https://papers.cool/arxiv/2605.18565</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LongMINT: Evaluating Memory under Multi-Target Interference in Long-Horizon Agent Systems | Cool Papers - Immersive Paper DiscoveryMay 18...</p></details>
+   Link:<a href="https://papers.cool/arxiv/2605.18565" target="_blank" rel="noopener noreferrer nofollow">https://papers.cool/arxiv/2605.18565</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LongMINT: Evaluating Memory under Multi-Target Interference in Long-Horizon Agent Systems | Cool Papers - Immersive Paper DiscoveryMay 18...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: zylos.ai  
-   Link: <a href="https://zylos.ai/en/research/2026-04-21-agent-context-compaction-long-running-sessions" target="_blank" rel="noopener noreferrer nofollow">https://zylos.ai/en/research/2026-04-21-agent-context-compaction-long-running-sessions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 21, 2026 — 2026-04-21 AGENT CONTEXT COMPACTION FOR LONG-RUNNING SESSIONS: TECHNIQUES AND TRADEOFFS ai-agents context-engineering co...</p></details>
+   Link:<a href="https://zylos.ai/en/research/2026-04-21-agent-context-compaction-long-running-sessions" target="_blank" rel="noopener noreferrer nofollow">https://zylos.ai/en/research/2026-04-21-agent-context-compaction-long-running-sessions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 21, 2026 — 2026-04-21 AGENT CONTEXT COMPACTION FOR LONG-RUNNING SESSIONS: TECHNIQUES AND TRADEOFFS ai-agents context-engineering co...</p></details>
    Published: April 21, 2026  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: hyper.ai  
-   Link: <a href="https://hyper.ai/en/papers/2602.14337" target="_blank" rel="noopener noreferrer nofollow">https://hyper.ai/en/papers/2602.14337</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AILongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces | Papers | HyperAI...</p></details>
+   Link:<a href="https://hyper.ai/en/papers/2602.14337" target="_blank" rel="noopener noreferrer nofollow">https://hyper.ai/en/papers/2602.14337</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AILongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces | Papers | HyperAI...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: huggingface.co  
    Title: Hugging Face Paper page  
-   Link: <a href="https://huggingface.co/papers/2601.20730" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/papers/2601.20730</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hugging FacePaper page - AgentLongBench: A Controllable Long Benchmark For Long-Contexts Agents via Environment RolloutsJanuary 28, 2026...</p></details>
+   Link:<a href="https://huggingface.co/papers/2601.20730" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/papers/2601.20730</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hugging FacePaper page - AgentLongBench: A Controllable Long Benchmark For Long-Contexts Agents via Environment RolloutsJanuary 28, 2026...</p></details>
    Published: January 28, 2026  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: huggingface.co  
    Title: Paper page  
-   Link: <a href="https://huggingface.co/papers/2602.14337" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/papers/2602.14337</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line InterfacesFebruary 15, 2026 — arxiv...</p></details>
+   Link:<a href="https://huggingface.co/papers/2602.14337" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/papers/2602.14337</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line InterfacesFebruary 15, 2026 — arxiv...</p></details>
    Published: February 15, 2026  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: huggingface.co  
    Title: Paper page  
-   Link: <a href="https://huggingface.co/papers/2601.22311" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/papers/2601.22311</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Reasoning Fails to Plan: A Planning-Centric Analysis of Long-Horizon Decision Making in LLM AgentsJanuary 29, 2026 — arxiv:2601.22311...</p></details>
+   Link:<a href="https://huggingface.co/papers/2601.22311" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/papers/2601.22311</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Reasoning Fails to Plan: A Planning-Centric Analysis of Long-Horizon Decision Making in LLM AgentsJanuary 29, 2026 — arxiv:2601.22311...</p></details>
    Published: January 29, 2026  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: huggingface.co  
    Title: Paper page  
-   Link: <a href="https://huggingface.co/papers/2509.09677" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/papers/2509.09677</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Illusion of Diminishing Returns: Measuring Long Horizon Execution in LLMsSeptember 11, 2025 — arxiv:2509.09677 Copy markdown THE ILLU...</p></details>
+   Link:<a href="https://huggingface.co/papers/2509.09677" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/papers/2509.09677</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Illusion of Diminishing Returns: Measuring Long Horizon Execution in LLMsSeptember 11, 2025 — arxiv:2509.09677 Copy markdown THE ILLU...</p></details>
    Published: September 11, 2025  
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/403912364_Temporal_Dynamics_of_LLM-Assisted_Decision-Making_How_Context_Window_Expansion_and_Long-Term_Memory_Mechanisms_Influence_Long-Horizon_Strategic_Choices" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403912364_Temporal_Dynamics_of_LLM-Assisted_Decision-Making_How_Context_Window_Expansion_and_Long-Term_Memory_Mechanisms_Influence_Long-Horizon_Strategic_Choices</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>zon Strategic ChoicesOctober 25, 2025 — Article PDF Available TEMPORAL DYNAMICS OF LLM-ASSISTED DECISION-MAKING: HOW CONTEXT WINDOW EXPAN...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/403912364_Temporal_Dynamics_of_LLM-Assisted_Decision-Making_How_Context_Window_Expansion_and_Long-Term_Memory_Mechanisms_Influence_Long-Horizon_Strategic_Choices" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403912364_Temporal_Dynamics_of_LLM-Assisted_Decision-Making_How_Context_Window_Expansion_and_Long-Term_Memory_Mechanisms_Influence_Long-Horizon_Strategic_Choices</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>zon Strategic ChoicesOctober 25, 2025 — Article PDF Available TEMPORAL DYNAMICS OF LLM-ASSISTED DECISION-MAKING: HOW CONTEXT WINDOW EXPAN...</p></details>
    Published: October 25, 2025  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: liner.com  
-   Link: <a href="https://liner.com/review/longclibench-preliminary-benchmark-and-study-for-longhorizon-agentic-programming-in" target="_blank" rel="noopener noreferrer nofollow">https://liner.com/review/longclibench-preliminary-benchmark-and-study-for-longhorizon-agentic-programming-in</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces [Quick Review]February 1...</p></details>
+   Link:<a href="https://liner.com/review/longclibench-preliminary-benchmark-and-study-for-longhorizon-agentic-programming-in" target="_blank" rel="noopener noreferrer nofollow">https://liner.com/review/longclibench-preliminary-benchmark-and-study-for-longhorizon-agentic-programming-in</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces [Quick Review]February 1...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: gist.science  
-   Link: <a href="https://gist.science/paper/2602.14337" target="_blank" rel="noopener noreferrer nofollow">https://gist.science/paper/2602.14337</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces | Gist.ScienceFebruary 2...</p></details>
+   Link:<a href="https://gist.science/paper/2602.14337" target="_blank" rel="noopener noreferrer nofollow">https://gist.science/paper/2602.14337</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces | Gist.ScienceFebruary 2...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: microsoft.com  
-   Link: <a href="https://www.microsoft.com/en-us/research/publication/on-training-large-language-models-for-long-horizon-tasks-an-empirical-study-of-horizon-length/" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/publication/on-training-large-language-models-for-long-horizon-tasks-an-empirical-study-of-horizon-length/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Microsoft ResearchON TRAINING LARGE LANGUAGE MODELS FOR LONG-HORIZON TASKS: AN EMPIRICAL STUDY OF HORIZON LENGTH * Sunghwan Kim, * Junhe...</p></details>
+   Link:<a href="https://www.microsoft.com/en-us/research/publication/on-training-large-language-models-for-long-horizon-tasks-an-empirical-study-of-horizon-length/" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/publication/on-training-large-language-models-for-long-horizon-tasks-an-empirical-study-of-horizon-length/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Microsoft ResearchON TRAINING LARGE LANGUAGE MODELS FOR LONG-HORIZON TASKS: AN EMPIRICAL STUDY OF HORIZON LENGTH * Sunghwan Kim, * Junhe...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/404021178_LongBench_Evaluating_Robotic_Manipulation_Policies_on_Real-World_Long-Horizon_Tasks" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/404021178_LongBench_Evaluating_Robotic_Manipulation_Policies_on_Real-World_Long-Horizon_Tasks</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) LongBench: Evaluating Robotic Manipulation Policies on Real-World Long-Horizon TasksApril 18, 2026 — LONGBENCH: EVALUATING ROBOTIC...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/404021178_LongBench_Evaluating_Robotic_Manipulation_Policies_on_Real-World_Long-Horizon_Tasks" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/404021178_LongBench_Evaluating_Robotic_Manipulation_Policies_on_Real-World_Long-Horizon_Tasks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) LongBench: Evaluating Robotic Manipulation Policies on Real-World Long-Horizon TasksApril 18, 2026 — LONGBENCH: EVALUATING ROBOTIC...</p></details>
    Published: April 18, 2026  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/401228854_Field-Theoretic_Memory_for_AI_Agents_Continuous_Dynamics_for_Context_Preservation/download" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/401228854_Field-Theoretic_Memory_for_AI_Agents_Continuous_Dynamics_for_Context_Preservation/download</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 31, 2026 — FIELD-THEORETIC MEMORY FOR AI AGENTS: CONTINUOUS DYNAMICS FOR CONTEXT PRESERVATION * January 2026 DOI:10.48550/arXiv.2...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/401228854_Field-Theoretic_Memory_for_AI_Agents_Continuous_Dynamics_for_Context_Preservation/download" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/401228854_Field-Theoretic_Memory_for_AI_Agents_Continuous_Dynamics_for_Context_Preservation/download</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 31, 2026 — FIELD-THEORETIC MEMORY FOR AI AGENTS: CONTINUOUS DYNAMICS FOR CONTEXT PRESERVATION * January 2026 DOI:10.48550/arXiv.2...</p></details>
    Published: January 31, 2026  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: aimodels.fyi  
    Title: Scaling Long-Horizon LLM Agent via Context-Folding | AI Research Paper Details  
-   Link: <a href="https://www.aimodels.fyi/papers/arxiv/scaling-long-horizon-llm-agent-via-context" target="_blank" rel="noopener noreferrer nofollow">https://www.aimodels.fyi/papers/arxiv/scaling-long-horizon-llm-agent-via-context</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SCALING LONG-HORIZON LLM AGENT VIA CONTEXT-FOLDING Published 10/15/2025 by Weiwei Sun, Miao Lu, Zhan Ling, Kang Liu, Xuesong Yao...</p></details>
+   Link:<a href="https://www.aimodels.fyi/papers/arxiv/scaling-long-horizon-llm-agent-via-context" target="_blank" rel="noopener noreferrer nofollow">https://www.aimodels.fyi/papers/arxiv/scaling-long-horizon-llm-agent-via-context</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SCALING LONG-HORIZON LLM AGENT VIA CONTEXT-FOLDING Published 10/15/2025 by Weiwei Sun, Miao Lu, Zhan Ling, Kang Liu, Xuesong Yao...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: aimodels.fyi  
-   Link: <a href="https://www.aimodels.fyi/papers/arxiv/lost-maze-overcoming-context-limitations-long-horizon" target="_blank" rel="noopener noreferrer nofollow">https://www.aimodels.fyi/papers/arxiv/lost-maze-overcoming-context-limitations-long-horizon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SEE HOW SLIM CONQUERS LONG-HORIZON SEARCH.? LOST IN THE MAZE: OVERCOMING CONTEXT LIMITATIONS IN LONG-HORIZON AGENTIC SEARCH Published 10/...</p></details>
+   Link:<a href="https://www.aimodels.fyi/papers/arxiv/lost-maze-overcoming-context-limitations-long-horizon" target="_blank" rel="noopener noreferrer nofollow">https://www.aimodels.fyi/papers/arxiv/lost-maze-overcoming-context-limitations-long-horizon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SEE HOW SLIM CONQUERS LONG-HORIZON SEARCH.? LOST IN THE MAZE: OVERCOMING CONTEXT LIMITATIONS IN LONG-HORIZON AGENTIC SEARCH Published 10/...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: redis.io  
    Title: Long-Horizon AI Agents: Memory & State Infrastructure  
-   Link: <a href="https://redis.io/blog/long-horizon-ai-agents-memory-state-infrastructure/" target="_blank" rel="noopener noreferrer nofollow">https://redis.io/blog/long-horizon-ai-agents-memory-state-infrastructure/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 21, 2026 — LONG-HORIZON TASKS: BUILDING AGENTS THAT WORK OVER HOURS &amp; DAYS May 21, 2026 9 minute read Image: Image Jim Allen Wallace...</p></details>
+   Link:<a href="https://redis.io/blog/long-horizon-ai-agents-memory-state-infrastructure/" target="_blank" rel="noopener noreferrer nofollow">https://redis.io/blog/long-horizon-ai-agents-memory-state-infrastructure/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 21, 2026 — LONG-HORIZON TASKS: BUILDING AGENTS THAT WORK OVER HOURS &amp; DAYS May 21, 2026 9 minute read Image: Image Jim Allen Wallace...</p></details>
    Published: May 21, 2026  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: ai.riera.co.uk  
    Title: riera.co.uk Long CL I-Bench  
-   Link: <a href="https://ai.riera.co.uk/tools/benchmarking/longcli-bench/" target="_blank" rel="noopener noreferrer nofollow">https://ai.riera.co.uk/tools/benchmarking/longcli-bench/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>riera.co.ukLongCLI-Bench - Home-Office Automation &amp; AI HubMarch 1, 2026 — Home-Office Automation &amp; AI Hub LongCLI-Bench * [Input] LongCLI...</p></details>
+   Link:<a href="https://ai.riera.co.uk/tools/benchmarking/longcli-bench/" target="_blank" rel="noopener noreferrer nofollow">https://ai.riera.co.uk/tools/benchmarking/longcli-bench/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>riera.co.ukLongCLI-Bench - Home-Office Automation &amp; AI HubMarch 1, 2026 — Home-Office Automation &amp; AI Hub LongCLI-Bench * [Input] LongCLI...</p></details>
    Published: March 1, 2026

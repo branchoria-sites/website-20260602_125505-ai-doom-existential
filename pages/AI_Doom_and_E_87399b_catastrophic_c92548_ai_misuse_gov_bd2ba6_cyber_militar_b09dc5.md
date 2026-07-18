@@ -267,7 +267,7 @@ image: /assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2
 
 ## Introduction
 
-One of the least discussed [governance]({{ 'governance/' | relative_url }}) gaps in the AI doom debate sits at the intersection of cybersecurity, military systems and national security law. While governments increasingly regulate civilian AI, many of the most powerful AI-enabled cyber capabilities fall partly or entirely outside those frameworks. Defence systems, intelligence programmes, cyber operations and dual-use security tools are often subject to separate rules, classified oversight or explicit legal exemptions. The result is a regulatory blind spot: some of the AI systems most relevant to strategic instability, autonomous cyber conflict and loss-of-control concerns receive less public scrutiny than consumer-facing applications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://verfassungsblog.de/the-ai-act-national-security-exception/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verfassungsblog.de">[Verfassungsblog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verfassungsblog.de</span><span class="citation-popover-title">the ai act national security exception</span><span class="citation-popover-snippet">The AI Act National Security Exceptionby P Vogiatzoglou · 2024 · Cited by 4 — AI systems are not subject to the AI Act whe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cetas.turing.ac.uk/publications/eu-ai-act-national-security-implications" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cetas.turing.ac.uk">[TechSec Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cetas.turing.ac.uk</span><span class="citation-popover-snippet">TechSec CenterThe EU AI Act: National Security Implications31 Jul 2024 — This exclusion applies to both public and private entities devel...</span></span></span>
+One of the least discussed [governance]({{ 'governance/' | relative_url }}) gaps in the AI doom debate sits at the intersection of cybersecurity, military systems and national security law. While governments increasingly regulate civilian AI, many of the most powerful AI-enabled cyber capabilities fall partly or entirely outside those frameworks. Defence systems, intelligence programmes, cyber operations and dual-use security tools are often subject to separate rules, classified oversight or explicit legal exemptions. The result is a regulatory blind spot: some of the AI systems most relevant to strategic instability, autonomous cyber conflict and loss-of-control concerns receive less public scrutiny than consumer-facing applications.<span class="citation-chip-wrap"><a class="citation-chip" href="https://verfassungsblog.de/the-ai-act-national-security-exception/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verfassungsblog.de">[Verfassungsblog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verfassungsblog.de</span><span class="citation-popover-title">the ai act national security exception</span><span class="citation-popover-snippet">The AI Act National Security Exceptionby P Vogiatzoglou · 2024 · Cited by 4 — AI systems are not subject to the AI Act whe...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://cetas.turing.ac.uk/publications/eu-ai-act-national-security-implications" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cetas.turing.ac.uk">[TechSec Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cetas.turing.ac.uk</span><span class="citation-popover-snippet">TechSec CenterThe EU AI Act: National Security Implications31 Jul 2024 — This exclusion applies to both public and private entities devel...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6_cyber_militar_b09dc5-Illustration-1-dark.svg" | relative_url }}" alt="Cyber &amp; Defense illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6_cyber_militar_b09dc5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_catastrophic_c92548_ai_misuse_gov_bd2ba6_cyber_militar_b09dc5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For people worried about AI doom or broader existential risk, this matters because advanced cyber capabilities are one of the most plausible routes through which powerful AI systems could gain strategic influence. An AI able to discover software vulnerabilities, conduct large-scale cyber operations, automate defence penetration or manipulate digital infrastructure could become relevant not just to ordinary cybercrime but to military escalation, critical infrastructure disruption and state-level competition. The governance question is therefore not simply whether AI can be used in cybersecurity. It is whether the systems operating in these domains are subject to oversight strong enough to detect dangerous failures before they become systemic.
@@ -276,11 +276,11 @@ For people worried about AI doom or broader existential risk, this matters becau
 
 A recurring pattern in AI governance is that the strongest regulations often apply to civilian systems, while national security and military uses receive exemptions.
 
-The European Union's AI Act is one of the clearest examples. AI systems used exclusively for military, defence or national security purposes are excluded from the regulation's scope. The rationale is that national security remains primarily the responsibility of member states rather than EU institutions. However, this creates an unusual situation in which some of the highest-stakes AI systems can sit outside the framework that governs many commercial applications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://verfassungsblog.de/the-ai-act-national-security-exception/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verfassungsblog.de">[Verfassungsblog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verfassungsblog.de</span><span class="citation-popover-title">the ai act national security exception</span><span class="citation-popover-snippet">The AI Act National Security Exceptionby P Vogiatzoglou · 2024 · Cited by 4 — AI systems are not subject to the AI Act whe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cetas.turing.ac.uk/publications/eu-ai-act-national-security-implications" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cetas.turing.ac.uk">[TechSec Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cetas.turing.ac.uk</span><span class="citation-popover-snippet">TechSec CenterThe EU AI Act: National Security Implications31 Jul 2024 — This exclusion applies to both public and private entities devel...</span></span></span>
+The European Union's AI Act is one of the clearest examples. AI systems used exclusively for military, defence or national security purposes are excluded from the regulation's scope. The rationale is that national security remains primarily the responsibility of member states rather than EU institutions. However, this creates an unusual situation in which some of the highest-stakes AI systems can sit outside the framework that governs many commercial applications.<span class="citation-chip-wrap"><a class="citation-chip" href="https://verfassungsblog.de/the-ai-act-national-security-exception/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verfassungsblog.de">[Verfassungsblog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verfassungsblog.de</span><span class="citation-popover-title">the ai act national security exception</span><span class="citation-popover-snippet">The AI Act National Security Exceptionby P Vogiatzoglou · 2024 · Cited by 4 — AI systems are not subject to the AI Act whe...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://cetas.turing.ac.uk/publications/eu-ai-act-national-security-implications" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cetas.turing.ac.uk">[TechSec Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cetas.turing.ac.uk</span><span class="citation-popover-snippet">TechSec CenterThe EU AI Act: National Security Implications31 Jul 2024 — This exclusion applies to both public and private entities devel...</span></span></span>
 
-Critics do not generally argue that military systems should be regulated exactly like consumer software. The concern is that exclusion creates accountability gaps. Advanced cyber-defence agents, military decision-support systems and offensive cyber tools may operate under classified procedures that are difficult for external regulators, researchers or the public to examine. [Independent]({{ 'red-teaming/' | relative_url }}) auditing becomes harder, and incidents may never become publicly visible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rsis.edu.sg/rsis-publication/idss/ip24054-military-ai-governance-moving-beyond-autonomous-weapon-systems/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rsis.edu.sg">[@RSIS_NTU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rsis.edu.sg</span><span class="citation-popover-title">ip24054 military ai governance moving beyond autonomous weapon systems</span><span class="citation-popover-snippet">@RSIS_NTUIP24054 &#124; Military AI Governance: Moving Beyond...24 Jun 2024 — Governance of artificial intelligence in the military domain ha...</span></span></span>
+Critics do not generally argue that military systems should be regulated exactly like consumer software. The concern is that exclusion creates accountability gaps. Advanced cyber-defence agents, military decision-support systems and offensive cyber tools may operate under classified procedures that are difficult for external regulators, researchers or the public to examine. [Independent]({{ 'red-teaming/' | relative_url }}) auditing becomes harder, and incidents may never become publicly visible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://rsis.edu.sg/rsis-publication/idss/ip24054-military-ai-governance-moving-beyond-autonomous-weapon-systems/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rsis.edu.sg">[@RSIS_NTU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rsis.edu.sg</span><span class="citation-popover-title">ip24054 military ai governance moving beyond autonomous weapon systems</span><span class="citation-popover-snippet">@RSIS_NTUIP24054 &#124; Military AI Governance: Moving Beyond...24 Jun 2024 — Governance of artificial intelligence in the military domain ha...</span></span></span>
 
-The practical picture is more complicated than a simple exemption. Many defence companies build systems that serve both military and civilian customers. European legal analysis has repeatedly noted that mixed-use systems can fall back within regulatory scope, particularly when military technologies migrate into civilian environments. Yet determining where military use ends and civilian use begins is often difficult in cybersecurity, where the same software may be used by armed forces, intelligence agencies, critical infrastructure operators and commercial security teams. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.modulos.ai/industries/defense/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: modulos.ai">[Modulos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">modulos.ai</span><span class="citation-popover-snippet">AI Governance for Defense &amp; EU AI Act &#124; ModulosArticle 2(3) excludes AI systems placed on the market, put into service, or used ex...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lutzabel.com/en/article/it-related-legal-challenges-for-defense-companies-with-dual-use-products/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lutzabel.com">[3LUTZ &#124; ABEL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lutzabel.com</span><span class="citation-popover-title">This article explains when the AI Act, CRA, and NIS2 apply despite military use</span><span class="citation-popover-snippet">LUTZ &#124; ABELDual-Use &amp; Defense: The Underestimated Risks of the AI...Many defense companies overestimate the scope of regulatory exemptions...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Artificial_Intelligence_Act" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Artificial Intelligence Act]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Artificial Intelligence ActIn particular, the Regulation does not apply where AI systems are used exclusively for military, defence or...</span></span></span>
+The practical picture is more complicated than a simple exemption. Many defence companies build systems that serve both military and civilian customers. European legal analysis has repeatedly noted that mixed-use systems can fall back within regulatory scope, particularly when military technologies migrate into civilian environments. Yet determining where military use ends and civilian use begins is often difficult in cybersecurity, where the same software may be used by armed forces, intelligence agencies, critical infrastructure operators and commercial security teams.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.modulos.ai/industries/defense/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: modulos.ai">[Modulos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">modulos.ai</span><span class="citation-popover-snippet">AI Governance for Defense &amp; EU AI Act &#124; ModulosArticle 2(3) excludes AI systems placed on the market, put into service, or used ex...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lutzabel.com/en/article/it-related-legal-challenges-for-defense-companies-with-dual-use-products/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lutzabel.com">[3LUTZ &#124; ABEL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lutzabel.com</span><span class="citation-popover-title">This article explains when the AI Act, CRA, and NIS2 apply despite military use</span><span class="citation-popover-snippet">LUTZ &#124; ABELDual-Use &amp; Defense: The Underestimated Risks of the AI...Many defense companies overestimate the scope of regulatory exemptions...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Artificial_Intelligence_Act" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Artificial Intelligence Act]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Artificial Intelligence ActIn particular, the Regulation does not apply where AI systems are used exclusively for military, defence or...</span></span></span>
 
 For AI-risk analysts, this ambiguity matters because powerful cyber capabilities rarely remain confined to a single domain. Techniques developed for military resilience may eventually appear in civilian infrastructure. Conversely, commercial AI systems may later become embedded in national-security operations.
 
@@ -290,7 +290,7 @@ Cybersecurity is a classic dual-use field. A capability that helps defenders ide
 
 This creates a governance challenge that differs from traditional weapons regulation. Governments can regulate missiles, aircraft or explosives as distinct military technologies. AI-enabled cyber systems are often software models, data pipelines or autonomous agents that can perform both defensive and offensive functions depending on who operates them and under what instructions.
 
-Several NATO-related research programmes illustrate this dual-use problem. NATO researchers have spent years exploring Autonomous Intelligent Cyber Defence Agents (AICAs), software agents designed to detect, respond to and counter cyber attacks in contested military environments. The stated goal is defensive: protecting military networks and battlefield systems when human operators cannot respond quickly enough. Yet the same [autonomy]({{ 'autonomy/' | relative_url }}), adaptability and network access that make such systems useful for defence could also make them powerful instruments if repurposed for offensive activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1806.08657" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Towards an Active, Autonomous and Intelligent Cyber Defense of Military Systems: the NATO AICA Reference ArchitectureJune 7, 2018...</span><span class="citation-popover-meta">Published: June 7, 2018</span></span></span>
+Several NATO-related research programmes illustrate this dual-use problem. NATO researchers have spent years exploring Autonomous Intelligent Cyber Defence Agents (AICAs), software agents designed to detect, respond to and counter cyber attacks in contested military environments. The stated goal is defensive: protecting military networks and battlefield systems when human operators cannot respond quickly enough. Yet the same [autonomy]({{ 'autonomy/' | relative_url }}), adaptability and network access that make such systems useful for defence could also make them powerful instruments if repurposed for offensive activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1806.08657" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Towards an Active, Autonomous and Intelligent Cyber Defense of Military Systems: the NATO AICA Reference ArchitectureJune 7, 2018...</span><span class="citation-popover-meta">Published: June 7, 2018</span></span></span>
 
 This does not mean NATO or similar organisations are secretly building uncontrolled cyber weapons. Rather, it highlights a broader governance problem. The technical distinction between offensive and defensive cyber AI is often weaker than the legal distinction. A vulnerability-discovery system, autonomous network agent or model capable of identifying attack paths may support both security testing and cyber operations.
 
@@ -305,7 +305,7 @@ Many AI governance proposals assume that defensive cybersecurity applications ar
 Defensive AI can include:
 
 * Automated vulnerability detection.
-* Intrusion detection and response. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.idr.ro/publicatii/Codreanu-NATO-cyber_1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: idr.ro">[idr.ro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">idr.ro</span><span class="citation-popover-title">Codreanu NATO cyber 1</span><span class="citation-popover-snippet">NATO adopted an Emerging and Disruptive Technology Implementation Roadmap in 2019, which tends to developments in AI software, autonomous...</span></span></span>
+* Intrusion detection and response.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.idr.ro/publicatii/Codreanu-NATO-cyber_1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: idr.ro">[idr.ro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">idr.ro</span><span class="citation-popover-title">Codreanu NATO cyber 1</span><span class="citation-popover-snippet">NATO adopted an Emerging and Disruptive Technology Implementation Roadmap in 2019, which tends to developments in AI software, autonomous...</span></span></span>
 * Threat intelligence analysis.
 * Network [monitoring]({{ 'monitoring/' | relative_url }}).
 * Incident-response automation.
@@ -340,7 +340,7 @@ Neither approach is inherently wrong. Defence systems contain information that g
 
 If a military AI system exhibits dangerous behaviour, external researchers may never learn enough to evaluate the risk. Independent verification becomes difficult. Academic scrutiny declines. Failures may be visible only to a small group of officials with limited technical expertise or competing institutional incentives.
 
-This issue extends beyond autonomous weapons. Analysts of military AI governance increasingly argue that public debate focuses heavily on lethal autonomous weapons while giving less attention to AI decision-support systems, intelligence analysis tools and cyber operations platforms. Yet these systems may become more widely deployed and more strategically consequential than fully autonomous weapons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rsis.edu.sg/rsis-publication/idss/ip24054-military-ai-governance-moving-beyond-autonomous-weapon-systems/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rsis.edu.sg">[@RSIS_NTU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rsis.edu.sg</span><span class="citation-popover-title">ip24054 military ai governance moving beyond autonomous weapon systems</span><span class="citation-popover-snippet">@RSIS_NTUIP24054 &#124; Military AI Governance: Moving Beyond...24 Jun 2024 — Governance of artificial intelligence in the military domain ha...</span></span></span>
+This issue extends beyond autonomous weapons. Analysts of military AI governance increasingly argue that public debate focuses heavily on lethal autonomous weapons while giving less attention to AI decision-support systems, intelligence analysis tools and cyber operations platforms. Yet these systems may become more widely deployed and more strategically consequential than fully autonomous weapons.<span class="citation-chip-wrap"><a class="citation-chip" href="https://rsis.edu.sg/rsis-publication/idss/ip24054-military-ai-governance-moving-beyond-autonomous-weapon-systems/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rsis.edu.sg">[@RSIS_NTU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rsis.edu.sg</span><span class="citation-popover-title">ip24054 military ai governance moving beyond autonomous weapon systems</span><span class="citation-popover-snippet">@RSIS_NTUIP24054 &#124; Military AI Governance: Moving Beyond...24 Jun 2024 — Governance of artificial intelligence in the military domain ha...</span></span></span>
 
 For existential-risk discussions, this creates an information problem. If [warning signs]({{ 'warning-signs/' | relative_url }}) of dangerous autonomy or loss of human control emerge first inside classified cyber or defence systems, the wider research community may receive little advance notice.
 
@@ -351,9 +351,9 @@ Not every AI-risk argument depends on cybersecurity. However, cyber capability a
 
 One concern is recursive capability growth. If a sufficiently capable AI system could automate vulnerability discovery, software engineering and infrastructure acquisition, it might help accelerate its own development or expand access to computing resources.
 
-Another concern is strategic instability. States competing for military AI advantages may feel pressure to deploy systems before they are fully understood. Similar dynamics already exist in cybersecurity, where defenders often fear falling behind adversaries. Combining AI competition with cyber competition could create incentives to reduce testing, transparency or safety precautions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atlanticcouncil.org/in-depth-research-reports/report/how-nato-can-integrate-ai-to-prevail-in-future-algorithmic-warfare/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlanticcouncil.org">[Atlantic Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlanticcouncil.org</span><span class="citation-popover-snippet">Atlantic CouncilHow NATO can integrate AI to prevail in future algorithmic warfareMarch 30, 2026 — This report argues that integrating AI...</span><span class="citation-popover-meta">Published: March 30, 2026</span></span></span>
+Another concern is strategic instability. States competing for military AI advantages may feel pressure to deploy systems before they are fully understood. Similar dynamics already exist in cybersecurity, where defenders often fear falling behind adversaries. Combining AI competition with cyber competition could create incentives to reduce testing, transparency or safety precautions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atlanticcouncil.org/in-depth-research-reports/report/how-nato-can-integrate-ai-to-prevail-in-future-algorithmic-warfare/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlanticcouncil.org">[Atlantic Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlanticcouncil.org</span><span class="citation-popover-snippet">Atlantic CouncilHow NATO can integrate AI to prevail in future algorithmic warfareMarch 30, 2026 — This report argues that integrating AI...</span><span class="citation-popover-meta">Published: March 30, 2026</span></span></span>
 
-NATO's own strategy documents acknowledge that adversaries may attempt to manipulate, interfere with or sabotage AI-enabled systems. They also recognise the importance of protecting AI applications from cyber compromise. This reflects a growing understanding that AI safety and cybersecurity cannot be treated as separate fields. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-IST-210/MP-IST-210-3.02.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.sto.nato.int">[NATO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.sto.nato.int</span><span class="citation-popover-snippet">Autonomous AI Systems Face to Face with the Law of...by A Guarino — Furthermore, AI systems used in military operations must be resilien...</span></span></span>
+NATO's own strategy documents acknowledge that adversaries may attempt to manipulate, interfere with or sabotage AI-enabled systems. They also recognise the importance of protecting AI applications from cyber compromise. This reflects a growing understanding that AI safety and cybersecurity cannot be treated as separate fields.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-IST-210/MP-IST-210-3.02.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.sto.nato.int">[NATO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.sto.nato.int</span><span class="citation-popover-snippet">Autonomous AI Systems Face to Face with the Law of...by A Guarino — Furthermore, AI systems used in military operations must be resilien...</span></span></span>
 
 From a doom perspective, the concern is not merely that cyber attacks become more common. It is that increasingly autonomous systems could become central to military command, intelligence, infrastructure management and strategic decision-making. Cyber compromise of such systems could have effects far beyond ordinary network breaches.
 
@@ -379,7 +379,7 @@ Each institution tends to focus on its own mandate. As a result, no single autho
 
 The problem becomes more acute when systems cross boundaries. A model trained by a commercial company may later support defence applications. A military cybersecurity capability may be adapted for civilian infrastructure. An intelligence agency may rely on technologies originally built for commercial markets.
 
-Legal analysts examining the EU AI Act have repeatedly highlighted this difficulty. The law's military and national-security exclusions coexist with other frameworks such as cybersecurity regulations and critical-infrastructure requirements, creating overlapping but incomplete oversight structures. Determining who is responsible for evaluating risk can become surprisingly difficult. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lutzabel.com/en/article/it-related-legal-challenges-for-defense-companies-with-dual-use-products/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lutzabel.com">[LUTZ &#124; ABEL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lutzabel.com</span><span class="citation-popover-title">This article explains when the AI Act, CRA, and NIS2 apply despite military use</span><span class="citation-popover-snippet">LUTZ &#124; ABELDual-Use &amp; Defense: The Underestimated Risks of the AI...Many defense companies overestimate the scope of regulatory exemptions...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cetas.turing.ac.uk/publications/eu-ai-act-national-security-implications" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cetas.turing.ac.uk">[TechSec Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cetas.turing.ac.uk</span><span class="citation-popover-snippet">TechSec CenterThe EU AI Act: National Security Implications31 Jul 2024 — This exclusion applies to both public and private entities devel...</span></span></span>
+Legal analysts examining the EU AI Act have repeatedly highlighted this difficulty. The law's military and national-security exclusions coexist with other frameworks such as cybersecurity regulations and critical-infrastructure requirements, creating overlapping but incomplete oversight structures. Determining who is responsible for evaluating risk can become surprisingly difficult.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lutzabel.com/en/article/it-related-legal-challenges-for-defense-companies-with-dual-use-products/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lutzabel.com">[LUTZ &#124; ABEL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lutzabel.com</span><span class="citation-popover-title">This article explains when the AI Act, CRA, and NIS2 apply despite military use</span><span class="citation-popover-snippet">LUTZ &#124; ABELDual-Use &amp; Defense: The Underestimated Risks of the AI...Many defense companies overestimate the scope of regulatory exemptions...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://cetas.turing.ac.uk/publications/eu-ai-act-national-security-implications" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cetas.turing.ac.uk">[TechSec Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cetas.turing.ac.uk</span><span class="citation-popover-snippet">TechSec CenterThe EU AI Act: National Security Implications31 Jul 2024 — This exclusion applies to both public and private entities devel...</span></span></span>
 
 This coordination problem is especially relevant to [catastrophic]({{ 'misuse/' | relative_url }})-risk discussions because existential risks are often cross-sector by nature. A failure that begins in one domain may rapidly spread into others.
 
@@ -390,7 +390,7 @@ There is no consensus solution to these governance gaps, but several proposals a
 
 ### Extending oversight beyond civilian systems
 
-Many researchers argue that high-risk military and cyber AI should not be entirely exempt from scrutiny, even if full public transparency is impossible. Independent review bodies, specialised inspectors or security-cleared auditors are frequently proposed as middle-ground approaches. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cetas.turing.ac.uk/publications/eu-ai-act-national-security-implications" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cetas.turing.ac.uk">[TechSec Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cetas.turing.ac.uk</span><span class="citation-popover-snippet">TechSec CenterThe EU AI Act: National Security Implications31 Jul 2024 — This exclusion applies to both public and private entities devel...</span></span></span>
+Many researchers argue that high-risk military and cyber AI should not be entirely exempt from scrutiny, even if full public transparency is impossible. Independent review bodies, specialised inspectors or security-cleared auditors are frequently proposed as middle-ground approaches.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cetas.turing.ac.uk/publications/eu-ai-act-national-security-implications" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cetas.turing.ac.uk">[TechSec Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cetas.turing.ac.uk</span><span class="citation-popover-snippet">TechSec CenterThe EU AI Act: National Security Implications31 Jul 2024 — This exclusion applies to both public and private entities devel...</span></span></span>
 
 ### Focusing on capability thresholds
 
@@ -404,7 +404,7 @@ Traditional cybersecurity reviews focus on vulnerabilities, access controls and 
 
 ### International coordination
 
-Military AI development is increasingly multinational. NATO, allied governments and defence contractors all participate in shared ecosystems. Governance mechanisms that operate only at national level may struggle to track technologies moving across alliances and supply chains. NATO's responsible-use principles for AI represent one attempt to create common expectations, although critics argue that principles alone do not solve enforcement problems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cigionline.org/publications/advancing-responsible-ai-across-nato-innovation-and-interoperability/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cigionline.org">[CIGI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cigionline.org</span><span class="citation-popover-snippet">April 20, 2026 — NATO&#x27;s first AI strategy from 2021 outlines six guiding principles: lawfulness, responsibility and accountability, expla...</span><span class="citation-popover-meta">Published: April 20, 2026</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2021/10/22/summary-of-the-nato-artificial-intelligence-strategy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nato.int">[NATO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nato.int</span><span class="citation-popover-snippet">Summary of the NATO Artificial Intelligence StrategyOct 22, 2021 — Allies and NATO must strive to protect the use of AI from such int...</span></span></span>
+Military AI development is increasingly multinational. NATO, allied governments and defence contractors all participate in shared ecosystems. Governance mechanisms that operate only at national level may struggle to track technologies moving across alliances and supply chains. NATO's responsible-use principles for AI represent one attempt to create common expectations, although critics argue that principles alone do not solve enforcement problems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cigionline.org/publications/advancing-responsible-ai-across-nato-innovation-and-interoperability/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cigionline.org">[CIGI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cigionline.org</span><span class="citation-popover-snippet">April 20, 2026 — NATO&#x27;s first AI strategy from 2021 outlines six guiding principles: lawfulness, responsibility and accountability, expla...</span><span class="citation-popover-meta">Published: April 20, 2026</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2021/10/22/summary-of-the-nato-artificial-intelligence-strategy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nato.int">[NATO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nato.int</span><span class="citation-popover-snippet">Summary of the NATO Artificial Intelligence StrategyOct 22, 2021 — Allies and NATO must strive to protect the use of AI from such int...</span></span></span>
 
 ## The Unresolved Question
 
@@ -415,253 +415,253 @@ Some observers argue that military organisations already manage dangerous techno
 For the broader AI doom debate, this [uncertainty]({{ 'uncertainty/' | relative_url }}) is itself significant. Cybersecurity is one of the main pathways through which advanced AI could acquire strategic influence, yet military and intelligence applications frequently sit at the edge of existing regulatory frameworks. Whether future AI systems remain controllable may depend not only on technical alignment research but also on whether societies can build credible oversight for the sectors where transparency is hardest and the stakes are highest.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Where Cybersecurity AI Escapes Regulation. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Where Cybersecurity AI Escapes Regulation. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is How They Tell Me the World Ends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DvagEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is How They Tell Me the World Ends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is How They Tell Me the World Ends">This Is How They Tell Me the World Ends</a>
-        </h4>
-        <p class="fr-book-author">By Nicole Perlroth</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is How They Tell Me the World Ends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DvagEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is How They Tell Me the World Ends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is How They Tell Me the World Ends">This Is How They Tell Me the World Ends</a>
+</h4>
+<p class="fr-book-author">By Nicole Perlroth</p>
         
-        <p class="fr-book-desc">Explains offensive cyber capabilities, state competition, and security risks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains offensive cyber capabilities, state competition, and security risks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
-        </h4>
-        <p class="fr-book-author">By Mustafa Suleyman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
+</h4>
+<p class="fr-book-author">By Mustafa Suleyman</p>
         
-        <p class="fr-book-desc">Discusses AI, security, and strategic instability.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses AI, security, and strategic instability.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cyber+War+Will+Not+Take+Place+by+Thomas+Rid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cyber War Will Not Take Place on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RZaJAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Cyber War Will Not Take Place" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cyber+War+Will+Not+Take+Place+by+Thomas+Rid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cyber War Will Not Take Place">Cyber War Will Not Take Place</a>
-        </h4>
-        <p class="fr-book-author">By Thomas Rid</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cyber+War+Will+Not+Take+Place+by+Thomas+Rid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cyber War Will Not Take Place on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RZaJAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Cyber War Will Not Take Place" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cyber+War+Will+Not+Take+Place+by+Thomas+Rid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cyber War Will Not Take Place">Cyber War Will Not Take Place</a>
+</h4>
+<p class="fr-book-author">By Thomas Rid</p>
         
-        <p class="fr-book-desc">Provides context on cyber operations and state behavior.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cyber+War+Will+Not+Take+Place+by+Thomas+Rid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on cyber operations and state behavior.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cyber+War+Will+Not+Take+Place+by+Thomas+Rid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Likewar on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=URFxDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Likewar" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Likewar">Likewar</a>
-        </h4>
-        <p class="fr-book-author">By Peter Warren Singer, Emerson T. Brooking</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Likewar on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=URFxDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Likewar" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Likewar">Likewar</a>
+</h4>
+<p class="fr-book-author">By Peter Warren Singer, Emerson T. Brooking</p>
         
-        <p class="fr-book-desc">Examines technology, influence operations, and digital conflict.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines technology, influence operations, and digital conflict.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is How They Tell Me the World Ends</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cyber+War+Will+Not+Take+Place&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cyber War Will Not Take Place</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is How They Tell Me the World Ends</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cyber+War+Will+Not+Take+Place&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cyber War Will Not Take Place</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-technology-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SEMICON SEMI Semiconductors 1984 San Mateo Technology Tech Computers Art Poster"><img src="{{ '/assets/images/marketplace-covers/323cf92db1248088a9ea.jpg' | relative_url }}" alt="Listing image for SEMICON SEMI Semiconductors 1984 San Mateo Technology Tech Computers Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-technology-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SEMICON SEMI Semiconductors 1984 San Mateo Technology Tech Computers Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-technology-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology poster">Search <span data-ebay-domain-label>eBay.com</span>: technology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-technology-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-technology-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SEMICON SEMI Semiconductors 1984 San Mateo Technology Tech Computers Art Poster"><img src="{{ '/assets/images/marketplace-covers/323cf92db1248088a9ea.jpg' | relative_url }}" alt="Listing image for SEMICON SEMI Semiconductors 1984 San Mateo Technology Tech Computers Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-technology-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SEMICON SEMI Semiconductors 1984 San Mateo Technology Tech Computers Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-technology-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology poster">Search<span data-ebay-domain-label>eBay.com</span>: technology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-technology-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-technology-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 🗽 New Jersey Institute of Technology Poster - Modern Architecture 24x36”"><img src="{{ '/assets/images/marketplace-covers/ac1b47773731146dc4ea.jpg' | relative_url }}" alt="Listing image for 🗽 New Jersey Institute of Technology Poster - Modern Architecture 24x36”" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-technology-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">🗽 New Jersey Institute of Technology Poster - Modern Architecture 24x36”</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-technology-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology poster">Search <span data-ebay-domain-label>eBay.com</span>: technology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-technology-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-technology-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 🗽 New Jersey Institute of Technology Poster - Modern Architecture 24x36”"><img src="{{ '/assets/images/marketplace-covers/ac1b47773731146dc4ea.jpg' | relative_url }}" alt="Listing image for 🗽 New Jersey Institute of Technology Poster - Modern Architecture 24x36”" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-technology-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">🗽 New Jersey Institute of Technology Poster - Modern Architecture 24x36”</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-technology-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology poster">Search<span data-ebay-domain-label>eBay.com</span>: technology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-technology-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-technology-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for IBM Poster Vintage Tech Travelling with Information Technology UK Computer 1980s"><img src="{{ '/assets/images/marketplace-covers/06796b33099a13eab103.jpg' | relative_url }}" alt="Listing image for IBM Poster Vintage Tech Travelling with Information Technology UK Computer 1980s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-technology-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">IBM Poster Vintage Tech Travelling with Information Technology UK Computer 1980s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-technology-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology poster">Search <span data-ebay-domain-label>eBay.com</span>: technology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-technology-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-technology-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-technology-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for IBM Poster Vintage Tech Travelling with Information Technology UK Computer 1980s"><img src="{{ '/assets/images/marketplace-covers/06796b33099a13eab103.jpg' | relative_url }}" alt="Listing image for IBM Poster Vintage Tech Travelling with Information Technology UK Computer 1980s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-technology-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">IBM Poster Vintage Tech Travelling with Information Technology UK Computer 1980s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-technology-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology poster">Search<span data-ebay-domain-label>eBay.com</span>: technology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-technology-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-technology-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Advanced Cybersecurity Concept Visu Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/dee93b356983a4b1a8ee.jpg' | relative_url }}" alt="Listing image for Advanced Cybersecurity Concept Visu Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Advanced Cybersecurity Concept Visu Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Advanced Cybersecurity Concept Visu Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/dee93b356983a4b1a8ee.jpg' | relative_url }}" alt="Listing image for Advanced Cybersecurity Concept Visu Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Advanced Cybersecurity Concept Visu Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for cybersecurity beware session cookie Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/0a0d82cd852bae70b3ee.jpg' | relative_url }}" alt="Listing image for cybersecurity beware session cookie Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">cybersecurity beware session cookie Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for cybersecurity beware session cookie Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/0a0d82cd852bae70b3ee.jpg' | relative_url }}" alt="Listing image for cybersecurity beware session cookie Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">cybersecurity beware session cookie Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cybersecurity Matrix Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f8dbdcfcf526296a12d7.jpg' | relative_url }}" alt="Listing image for Cybersecurity Matrix Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Cybersecurity Matrix Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cybersecurity Matrix Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f8dbdcfcf526296a12d7.jpg' | relative_url }}" alt="Listing image for Cybersecurity Matrix Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Cybersecurity Matrix Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cybersecurity Because People Click Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1b5a859231102f0df50c.jpg' | relative_url }}" alt="Listing image for Cybersecurity Because People Click Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Cybersecurity Because People Click Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cybersecurity Because People Click Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1b5a859231102f0df50c.jpg' | relative_url }}" alt="Listing image for Cybersecurity Because People Click Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Cybersecurity Because People Click Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyber-defense-where-cybersecurity-ai-escapes-regulation-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -677,7 +677,7 @@ For the broader AI doom debate, this [uncertainty]({{ 'uncertainty/' | relative_
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -697,7 +697,7 @@ For the broader AI doom debate, this [uncertainty]({{ 'uncertainty/' | relative_
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -729,7 +729,7 @@ For the broader AI doom debate, this [uncertainty]({{ 'uncertainty/' | relative_
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -759,7 +759,7 @@ For the broader AI doom debate, this [uncertainty]({{ 'uncertainty/' | relative_
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -817,180 +817,180 @@ For the broader AI doom debate, this [uncertainty]({{ 'uncertainty/' | relative_
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: verfassungsblog.de  
    Title: the ai act national security exception  
-   Link: <a href="https://verfassungsblog.de/the-ai-act-national-security-exception/" target="_blank" rel="noopener noreferrer nofollow">https://verfassungsblog.de/the-ai-act-national-security-exception/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The AI Act National Security Exceptionby P Vogiatzoglou · 2024 · Cited by 4 — AI systems are not subject to the AI Act whe...</p></details>
+   Link:<a href="https://verfassungsblog.de/the-ai-act-national-security-exception/" target="_blank" rel="noopener noreferrer nofollow">https://verfassungsblog.de/the-ai-act-national-security-exception/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The AI Act National Security Exceptionby P Vogiatzoglou · 2024 · Cited by 4 — AI systems are not subject to the AI Act whe...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: publications.sto.nato.int  
-   Link: <a href="https://publications.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-IST-210/MP-IST-210-3.02.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-IST-210/MP-IST-210-3.02.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous AI Systems Face to Face with the Law of...by A Guarino — Furthermore, AI systems used in military operations must be resilien...</p></details>
+   Link:<a href="https://publications.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-IST-210/MP-IST-210-3.02.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-IST-210/MP-IST-210-3.02.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous AI Systems Face to Face with the Law of...by A Guarino — Furthermore, AI systems used in military operations must be resilien...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: lutzabel.com  
    Title: This article explains when the AI Act, CRA, and NIS2 apply despite military use  
-   Link: <a href="https://www.lutzabel.com/en/article/it-related-legal-challenges-for-defense-companies-with-dual-use-products/" target="_blank" rel="noopener noreferrer nofollow">https://www.lutzabel.com/en/article/it-related-legal-challenges-for-defense-companies-with-dual-use-products/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LUTZ | ABELDual-Use &amp; Defense: The Underestimated Risks of the AI...Many defense companies overestimate the scope of regulatory exemptions...</p></details>
+   Link:<a href="https://www.lutzabel.com/en/article/it-related-legal-challenges-for-defense-companies-with-dual-use-products/" target="_blank" rel="noopener noreferrer nofollow">https://www.lutzabel.com/en/article/it-related-legal-challenges-for-defense-companies-with-dual-use-products/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LUTZ | ABELDual-Use &amp; Defense: The Underestimated Risks of the AI...Many defense companies overestimate the scope of regulatory exemptions...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: modulos.ai  
-   Link: <a href="https://www.modulos.ai/industries/defense/" target="_blank" rel="noopener noreferrer nofollow">https://www.modulos.ai/industries/defense/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Governance for Defense &amp; EU AI Act | ModulosArticle 2(3) excludes AI systems placed on the market, put into service, or used ex...</p></details>
+   Link:<a href="https://www.modulos.ai/industries/defense/" target="_blank" rel="noopener noreferrer nofollow">https://www.modulos.ai/industries/defense/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Governance for Defense &amp; EU AI Act | ModulosArticle 2(3) excludes AI systems placed on the market, put into service, or used ex...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1806.08657" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1806.08657</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Towards an Active, Autonomous and Intelligent Cyber Defense of Military Systems: the NATO AICA Reference ArchitectureJune 7, 2018...</p></details>
+   Link:<a href="https://arxiv.org/abs/1806.08657" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1806.08657</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Towards an Active, Autonomous and Intelligent Cyber Defense of Military Systems: the NATO AICA Reference ArchitectureJune 7, 2018...</p></details>
    Published: June 7, 2018  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1803.10664" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1803.10664</a>  
+   Link:<a href="https://arxiv.org/abs/1803.10664" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1803.10664</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nato.int  
-   Link: <a href="https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2021/10/22/summary-of-the-nato-artificial-intelligence-strategy" target="_blank" rel="noopener noreferrer nofollow">https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2021/10/22/summary-of-the-nato-artificial-intelligence-strategy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Summary of the NATO Artificial Intelligence StrategyOct 22, 2021 — Allies and NATO must strive to protect the use of AI from such int...</p></details>
+   Link:<a href="https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2021/10/22/summary-of-the-nato-artificial-intelligence-strategy" target="_blank" rel="noopener noreferrer nofollow">https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2021/10/22/summary-of-the-nato-artificial-intelligence-strategy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Summary of the NATO Artificial Intelligence StrategyOct 22, 2021 — Allies and NATO must strive to protect the use of AI from such int...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nato.int  
-   Link: <a href="https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2024/07/10/summary-of-natos-revised-artificial-intelligence-ai-strategy" target="_blank" rel="noopener noreferrer nofollow">https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2024/07/10/summary-of-natos-revised-artificial-intelligence-ai-strategy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Summary of NATO&#x27;s revised Artificial Intelligence (AI) strategy10 Jul 2024 — Within the AI Strategy, Allies endorsed six Principles o...</p></details>
+   Link:<a href="https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2024/07/10/summary-of-natos-revised-artificial-intelligence-ai-strategy" target="_blank" rel="noopener noreferrer nofollow">https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2024/07/10/summary-of-natos-revised-artificial-intelligence-ai-strategy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Summary of NATO&#x27;s revised Artificial Intelligence (AI) strategy10 Jul 2024 — Within the AI Strategy, Allies endorsed six Principles o...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cigionline.org  
-   Link: <a href="https://www.cigionline.org/publications/advancing-responsible-ai-across-nato-innovation-and-interoperability/" target="_blank" rel="noopener noreferrer nofollow">https://www.cigionline.org/publications/advancing-responsible-ai-across-nato-innovation-and-interoperability/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 20, 2026 — NATO&#x27;s first AI strategy from 2021 outlines six guiding principles: lawfulness, responsibility and accountability, expla...</p></details>
+   Link:<a href="https://www.cigionline.org/publications/advancing-responsible-ai-across-nato-innovation-and-interoperability/" target="_blank" rel="noopener noreferrer nofollow">https://www.cigionline.org/publications/advancing-responsible-ai-across-nato-innovation-and-interoperability/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 20, 2026 — NATO&#x27;s first AI strategy from 2021 outlines six guiding principles: lawfulness, responsibility and accountability, expla...</p></details>
    Published: April 20, 2026  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: regulations.ai  
    Title: NAT O Principles for Responsible Use of AI in Defence  
-   Link: <a href="https://regulations.ai/regulations/RAI-X6-GO-RESPONS-2024" target="_blank" rel="noopener noreferrer nofollow">https://regulations.ai/regulations/RAI-X6-GO-RESPONS-2024</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NATO Principles for Responsible Use of AI in Defence - Regulations.aiJanuary 8, 2026 — NATO&#x27;s Responsible AI Principles guide the ethical...</p></details>
+   Link:<a href="https://regulations.ai/regulations/RAI-X6-GO-RESPONS-2024" target="_blank" rel="noopener noreferrer nofollow">https://regulations.ai/regulations/RAI-X6-GO-RESPONS-2024</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NATO Principles for Responsible Use of AI in Defence - Regulations.aiJanuary 8, 2026 — NATO&#x27;s Responsible AI Principles guide the ethical...</p></details>
    Published: January 8, 2026  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nato.int  
-   Link: <a href="https://www.nato.int/en" target="_blank" rel="noopener noreferrer nofollow">https://www.nato.int/en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>North Atlantic Treaty OrganizationNATO is a defensive alliance of 32 countries from Europe and North America. Its mission is to def...</p></details>
+   Link:<a href="https://www.nato.int/en" target="_blank" rel="noopener noreferrer nofollow">https://www.nato.int/en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>North Atlantic Treaty OrganizationNATO is a defensive alliance of 32 countries from Europe and North America. Its mission is to def...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: history.state.gov  
-   Link: <a href="https://history.state.gov/milestones/1945-1952/nato" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/milestones/1945-1952/nato</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Atlantic Treaty Organization (NATO), 1949The North Atlantic Treaty Organization was created in 1949 by the United States, Canada, and sev...</p></details>
+   Link:<a href="https://history.state.gov/milestones/1945-1952/nato" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/milestones/1945-1952/nato</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Atlantic Treaty Organization (NATO), 1949The North Atlantic Treaty Organization was created in 1949 by the United States, Canada, and sev...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cetas.turing.ac.uk  
-   Link: <a href="https://cetas.turing.ac.uk/publications/eu-ai-act-national-security-implications" target="_blank" rel="noopener noreferrer nofollow">https://cetas.turing.ac.uk/publications/eu-ai-act-national-security-implications</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TechSec CenterThe EU AI Act: National Security Implications31 Jul 2024 — This exclusion applies to both public and private entities devel...</p></details>
+   Link:<a href="https://cetas.turing.ac.uk/publications/eu-ai-act-national-security-implications" target="_blank" rel="noopener noreferrer nofollow">https://cetas.turing.ac.uk/publications/eu-ai-act-national-security-implications</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TechSec CenterThe EU AI Act: National Security Implications31 Jul 2024 — This exclusion applies to both public and private entities devel...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: rsis.edu.sg  
    Title: ip24054 military ai governance moving beyond autonomous weapon systems  
-   Link: <a href="https://rsis.edu.sg/rsis-publication/idss/ip24054-military-ai-governance-moving-beyond-autonomous-weapon-systems/" target="_blank" rel="noopener noreferrer nofollow">https://rsis.edu.sg/rsis-publication/idss/ip24054-military-ai-governance-moving-beyond-autonomous-weapon-systems/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>@RSIS_NTUIP24054 | Military AI Governance: Moving Beyond...24 Jun 2024 — Governance of artificial intelligence in the military domain ha...</p></details>
+   Link:<a href="https://rsis.edu.sg/rsis-publication/idss/ip24054-military-ai-governance-moving-beyond-autonomous-weapon-systems/" target="_blank" rel="noopener noreferrer nofollow">https://rsis.edu.sg/rsis-publication/idss/ip24054-military-ai-governance-moving-beyond-autonomous-weapon-systems/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>@RSIS_NTUIP24054 | Military AI Governance: Moving Beyond...24 Jun 2024 — Governance of artificial intelligence in the military domain ha...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: artificialintelligenceact.eu  
-   Link: <a href="https://artificialintelligenceact.eu/recital/24/" target="_blank" rel="noopener noreferrer nofollow">https://artificialintelligenceact.eu/recital/24/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Recital 24 | EU Artificial Intelligence ActAI systems placed on the market or put into service for an excluded purpose, namely military...</p></details>
+   Link:<a href="https://artificialintelligenceact.eu/recital/24/" target="_blank" rel="noopener noreferrer nofollow">https://artificialintelligenceact.eu/recital/24/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Recital 24 | EU Artificial Intelligence ActAI systems placed on the market or put into service for an excluded purpose, namely military...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: atlanticcouncil.org  
-   Link: <a href="https://www.atlanticcouncil.org/in-depth-research-reports/report/how-nato-can-integrate-ai-to-prevail-in-future-algorithmic-warfare/" target="_blank" rel="noopener noreferrer nofollow">https://www.atlanticcouncil.org/in-depth-research-reports/report/how-nato-can-integrate-ai-to-prevail-in-future-algorithmic-warfare/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Atlantic CouncilHow NATO can integrate AI to prevail in future algorithmic warfareMarch 30, 2026 — This report argues that integrating AI...</p></details>
+   Link:<a href="https://www.atlanticcouncil.org/in-depth-research-reports/report/how-nato-can-integrate-ai-to-prevail-in-future-algorithmic-warfare/" target="_blank" rel="noopener noreferrer nofollow">https://www.atlanticcouncil.org/in-depth-research-reports/report/how-nato-can-integrate-ai-to-prevail-in-future-algorithmic-warfare/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Atlantic CouncilHow NATO can integrate AI to prevail in future algorithmic warfareMarch 30, 2026 — This report argues that integrating AI...</p></details>
    Published: March 30, 2026  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: European Union  
-   Link: <a href="https://en.wikipedia.org/wiki/European_Union" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/European_Union</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>European UnionThe European Union (EU) is a political and economic union of 27 member states that are located primarily in Europe. A su...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/European_Union" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/European_Union</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>European UnionThe European Union (EU) is a political and economic union of 27 member states that are located primarily in Europe. A su...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/NATO" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NATO</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NATOThe North Atlantic Treaty Organization (NATO) is an intergovernmental military alliance between 32 member states—30 in Europe and...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/NATO" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NATO</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NATOThe North Atlantic Treaty Organization (NATO) is an intergovernmental military alliance between 32 member states—30 in Europe and...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Artificial Intelligence Act  
-   Link: <a href="https://en.wikipedia.org/wiki/Artificial_Intelligence_Act" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Artificial_Intelligence_Act</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial Intelligence ActIn particular, the Regulation does not apply where AI systems are used exclusively for military, defence or...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Artificial_Intelligence_Act" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Artificial_Intelligence_Act</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial Intelligence ActIn particular, the Regulation does not apply where AI systems are used exclusively for military, defence or...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: idr.ro  
    Title: Codreanu NATO cyber 1  
-   Link: <a href="https://www.idr.ro/publicatii/Codreanu-NATO-cyber_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.idr.ro/publicatii/Codreanu-NATO-cyber_1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NATO adopted an Emerging and Disruptive Technology Implementation Roadmap in 2019, which tends to developments in AI software, autonomous...</p></details>
+   Link:<a href="https://www.idr.ro/publicatii/Codreanu-NATO-cyber_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.idr.ro/publicatii/Codreanu-NATO-cyber_1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NATO adopted an Emerging and Disruptive Technology Implementation Roadmap in 2019, which tends to developments in AI software, autonomous...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: digital-strategy.ec.europa.eu  
    Title: eu A I Act | Shaping Europe's digital future  
-   Link: <a href="https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Act | Shaping Europe&#x27;s digital future - European UnionThe AI Act is the first-ever legal framework on AI, which addresses the risks of AI...</p></details>
+   Link:<a href="https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Act | Shaping Europe&#x27;s digital future - European UnionThe AI Act is the first-ever legal framework on AI, which addresses the risks of AI...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: pure.uva.nl  
    Title: verfassungsblog.de The AI Act National Security Exception  
-   Link: <a href="https://pure.uva.nl/ws/files/277168848/verfassungsblog.de-The_AI_Act_National_Security_Exception.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.uva.nl/ws/files/277168848/verfassungsblog.de-The_AI_Act_National_Security_Exception.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Act National Security Exception9 Dec 2024 — AI systems are not subject to the AI Act when put in the EU market or service exclusively...</p></details>
+   Link:<a href="https://pure.uva.nl/ws/files/277168848/verfassungsblog.de-The_AI_Act_National_Security_Exception.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.uva.nl/ws/files/277168848/verfassungsblog.de-The_AI_Act_National_Security_Exception.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Act National Security Exception9 Dec 2024 — AI systems are not subject to the AI Act when put in the EU market or service exclusively...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NATO/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NATO/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BrusselsNATO, Brussels. 2430882 likes · 65741 talking about this · 27835 were here. Official Facebook page of NATO - the North Atlantic T...</p></details>
+   Link:<a href="https://www.facebook.com/NATO/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NATO/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BrusselsNATO, Brussels. 2430882 likes · 65741 talking about this · 27835 were here. Official Facebook page of NATO - the North Atlantic T...</p></details>
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/ai-act-defence-true-exemption-emanuele-gambula-bdvyf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/ai-act-defence-true-exemption-emanuele-gambula-bdvyf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI ACT IN DEFENCE: A TRUE EXEMPTION?Apparently, the regulation does not apply where AI systems are placed on the market, put into service...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/ai-act-defence-true-exemption-emanuele-gambula-bdvyf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/ai-act-defence-true-exemption-emanuele-gambula-bdvyf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI ACT IN DEFENCE: A TRUE EXEMPTION?Apparently, the regulation does not apply where AI systems are placed on the market, put into service...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: globsec.org  
-   Link: <a href="https://www.globsec.org/sites/default/files/2025-02/Leveraging%20Artificial%20Intelligence%20for%20NATO%27s%20cyber%20resilience%20-%20Preliminary%20perspectives_web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.globsec.org/sites/default/files/2025-02/Leveraging%20Artificial%20Intelligence%20for%20NATO%27s%20cyber%20resilience%20-%20Preliminary%20perspectives_web.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Leveraging Artificial Intelligence for NATO&#x27;s cyber resilienceThis brief is part of a new research series exploring NATO&#x27;s potential in u...</p></details>
+   Link:<a href="https://www.globsec.org/sites/default/files/2025-02/Leveraging%20Artificial%20Intelligence%20for%20NATO%27s%20cyber%20resilience%20-%20Preliminary%20perspectives_web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.globsec.org/sites/default/files/2025-02/Leveraging%20Artificial%20Intelligence%20for%20NATO%27s%20cyber%20resilience%20-%20Preliminary%20perspectives_web.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Leveraging Artificial Intelligence for NATO&#x27;s cyber resilienceThis brief is part of a new research series exploring NATO&#x27;s potential in u...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ccdcoe.org  
-   Link: <a href="https://ccdcoe.org/uploads/2018/11/Towards_NATO_AICA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ccdcoe.org/uploads/2018/11/Towards_NATO_AICA.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The NATO AICA reference architectureTo fight cyber-attacks that may target this last class of military systems, we expect that NATO needs...</p></details>
+   Link:<a href="https://ccdcoe.org/uploads/2018/11/Towards_NATO_AICA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ccdcoe.org/uploads/2018/11/Towards_NATO_AICA.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The NATO AICA reference architectureTo fight cyber-attacks that may target this last class of military systems, we expect that NATO needs...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: edri.org  
-   Link: <a href="https://edri.org/our-work/eu-ai-act-needs-clear-safeguards-for-ai-systems-for-military-and-national-security-purposes/" target="_blank" rel="noopener noreferrer nofollow">https://edri.org/our-work/eu-ai-act-needs-clear-safeguards-for-ai-systems-for-military-and-national-security-purposes/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EU AI Act needs clear safeguards for AI systems for military...Mar 23, 2022 — The proposed AIA excludes AI systems developed or used exc...</p></details>
+   Link:<a href="https://edri.org/our-work/eu-ai-act-needs-clear-safeguards-for-ai-systems-for-military-and-national-security-purposes/" target="_blank" rel="noopener noreferrer nofollow">https://edri.org/our-work/eu-ai-act-needs-clear-safeguards-for-ai-systems-for-military-and-national-security-purposes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EU AI Act needs clear safeguards for AI systems for military...Mar 23, 2022 — The proposed AIA excludes AI systems developed or used exc...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: defencefinancemonitor.com  
-   Link: <a href="https://www.defencefinancemonitor.com/p/eu-ai-act-defence-exemption-boundary" target="_blank" rel="noopener noreferrer nofollow">https://www.defencefinancemonitor.com/p/eu-ai-act-defence-exemption-boundary</a>  
+   Link:<a href="https://www.defencefinancemonitor.com/p/eu-ai-act-defence-exemption-boundary" target="_blank" rel="noopener noreferrer nofollow">https://www.defencefinancemonitor.com/p/eu-ai-act-defence-exemption-boundary</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/cigionline_nato-has-an-ai-strategy-but-without-operationalization-activity-7451996936594907136-Hrtz" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/cigionline_nato-has-an-ai-strategy-but-without-operationalization-activity-7451996936594907136-Hrtz</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Centre for International Governance Innovation (CIGI)&#x27;s PostNATO&#x27;s AI strategy from 2021 outlines six principles of responsible use...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/cigionline_nato-has-an-ai-strategy-but-without-operationalization-activity-7451996936594907136-Hrtz" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/cigionline_nato-has-an-ai-strategy-but-without-operationalization-activity-7451996936594907136-Hrtz</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Centre for International Governance Innovation (CIGI)&#x27;s PostNATO&#x27;s AI strategy from 2021 outlines six principles of responsible use...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: revista.unap.ro  
-   Link: <a href="https://revista.unap.ro/index.php/XXI_FSA/article/download/1274/1237/4470" target="_blank" rel="noopener noreferrer nofollow">https://revista.unap.ro/index.php/XXI_FSA/article/download/1274/1237/4470</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>unap.roNATO&#x27;S ENCOUNTERS IN THE CYBER DOMAINby DM Păunescu · Cited by 2 — By adapting its posture in the cyber domain, refining doctrine...</p></details>
+   Link:<a href="https://revista.unap.ro/index.php/XXI_FSA/article/download/1274/1237/4470" target="_blank" rel="noopener noreferrer nofollow">https://revista.unap.ro/index.php/XXI_FSA/article/download/1274/1237/4470</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>unap.roNATO&#x27;S ENCOUNTERS IN THE CYBER DOMAINby DM Păunescu · Cited by 2 — By adapting its posture in the cyber domain, refining doctrine...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: techradar.com  
-   Link: <a href="https://www.techradar.com/pro/the-eu-ai-act-what-it-means-and-how-to-comply" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/pro/the-eu-ai-act-what-it-means-and-how-to-comply</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It mandates technical protections against threats like data poisoning, adversarial attacks, and model vulnerabilities, requiring continuo...</p></details>
+   Link:<a href="https://www.techradar.com/pro/the-eu-ai-act-what-it-means-and-how-to-comply" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/pro/the-eu-ai-act-what-it-means-and-how-to-comply</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It mandates technical protections against threats like data poisoning, adversarial attacks, and model vulnerabilities, requiring continuo...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: c2coe.org  
-   Link: <a href="https://c2coe.org/download/human-oversight-in-ai-driven-defence-at-what-positions-do-we-need-the-human-in-the-loop/" target="_blank" rel="noopener noreferrer nofollow">https://c2coe.org/download/human-oversight-in-ai-driven-defence-at-what-positions-do-we-need-the-human-in-the-loop/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Human Oversight](&amp;#123;&amp;#123; &#x27;human-oversight/&#x27; | relative_url &amp;#125;&amp;#125;) in AI-Driven Defence – at what positions...4 Aug 2025 — When an AI highlights a potential threat in a busy area, a human...</p></details>
+   Link:<a href="https://c2coe.org/download/human-oversight-in-ai-driven-defence-at-what-positions-do-we-need-the-human-in-the-loop/" target="_blank" rel="noopener noreferrer nofollow">https://c2coe.org/download/human-oversight-in-ai-driven-defence-at-what-positions-do-we-need-the-human-in-the-loop/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Human Oversight](&amp;#123;&amp;#123; &#x27;human-oversight/&#x27; | relative_url &amp;#125;&amp;#125;) in AI-Driven Defence – at what positions...4 Aug 2025 — When an AI highlights a potential threat in a busy area, a human...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: edri.org  
-   Link: <a href="https://edri.org/our-work/the-ai-act-isnt-enough-closing-the-dangerous-loopholes-that-enable-rights-violations/" target="_blank" rel="noopener noreferrer nofollow">https://edri.org/our-work/the-ai-act-isnt-enough-closing-the-dangerous-loopholes-that-enable-rights-violations/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The AI Act isn&#x27;t enough13 Nov 2025 — While the EU&#x27;s AI Act aims to regulate high-risk AI systems, it is undermined by major loopholes tha...</p></details>
+   Link:<a href="https://edri.org/our-work/the-ai-act-isnt-enough-closing-the-dangerous-loopholes-that-enable-rights-violations/" target="_blank" rel="noopener noreferrer nofollow">https://edri.org/our-work/the-ai-act-isnt-enough-closing-the-dangerous-loopholes-that-enable-rights-violations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The AI Act isn&#x27;t enough13 Nov 2025 — While the EU&#x27;s AI Act aims to regulate high-risk AI systems, it is undermined by major loopholes tha...</p></details>

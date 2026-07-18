@@ -282,15 +282,15 @@ image: /assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40
 
 ## Introduction
 
-Efforts to make powerful artificial intelligence **interpretable** — that is, to understand *how* and *why* an AI system reaches certain decisions — seem crucial if humans are to retain **meaningful oversight** over future advanced systems. [Interpretability]({{ 'interpretability/' | relative_url }}) methods range from simple explanations of outputs to deep mechanistic reverse‑engineering of internal computations. But as AI has surged from small research models to huge “frontier” systems with billions of parameters, a fundamental question has emerged: **will interpretability scale?** Put another way, can the techniques we have today — even the more advanced research ones — realistically provide real transparency into the inner workings of next‑generation AI? Many researchers argue that interpretability may stall or even *collapse* as models become more complex, for reasons that matter deeply in debates about alignment and existential risk. This page explains the core limitations researchers and practitioners are confronting, the reasons why they may not scale to frontier AI, and what that means for our ability to control advanced systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Frontier AI: capabilities and risks – discussion paper</span><span class="citation-popover-snippet">28, 2025...</span></span></span>
+Efforts to make powerful artificial intelligence **interpretable** — that is, to understand *how* and *why* an AI system reaches certain decisions — seem crucial if humans are to retain **meaningful oversight** over future advanced systems. [Interpretability]({{ 'interpretability/' | relative_url }}) methods range from simple explanations of outputs to deep mechanistic reverse‑engineering of internal computations. But as AI has surged from small research models to huge “frontier” systems with billions of parameters, a fundamental question has emerged: **will interpretability scale?** Put another way, can the techniques we have today — even the more advanced research ones — realistically provide real transparency into the inner workings of next‑generation AI? Many researchers argue that interpretability may stall or even *collapse* as models become more complex, for reasons that matter deeply in debates about alignment and existential risk. This page explains the core limitations researchers and practitioners are confronting, the reasons why they may not scale to frontier AI, and what that means for our ability to control advanced systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Frontier AI: capabilities and risks – discussion paper</span><span class="citation-popover-snippet">28, 2025...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e-Illustration-1-dark.svg" | relative_url }}" alt="Scaling Limits illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Interpretability Techniques Do — and Why They Struggle with Scale
 
 Interpretability is not one monolithic technique but a family of approaches:
 
-* **Post‑hoc explanations** provide explanations after the fact — for example, heatmaps showing which parts of input data were “important” for a decision. These methods do not access the internal logic but infer influence from behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s44230-023-00038-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Survey on Explainable AI: From Approaches, Limitations and Applications Aspects &#124; Human-Centric Intelligent Systems &#124; Springer Na...</span></span></span>
-* **Mechanistic interpretability** tries to map internal computations — neural activations, circuits, feature representations — into human‑understandable causal structure. This is the more ambitious approach touted by many in the AI safety community. <span class="citation-chip-wrap"><a class="citation-chip" href="https://intuitionlabs.ai/articles/mechanistic-interpretability-ai-llms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intuitionlabs.ai">[IntuitionLabs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intuitionlabs.ai</span><span class="citation-popover-snippet">Understanding Mechanistic Interpretability in AI Models &#124; IntuitionLabsFebruary 15, 2026...</span><span class="citation-popover-meta">Published: February 15, 2026</span></span></span>
+* **Post‑hoc explanations** provide explanations after the fact — for example, heatmaps showing which parts of input data were “important” for a decision. These methods do not access the internal logic but infer influence from behaviour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s44230-023-00038-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Survey on Explainable AI: From Approaches, Limitations and Applications Aspects &#124; Human-Centric Intelligent Systems &#124; Springer Na...</span></span></span>
+* **Mechanistic interpretability** tries to map internal computations — neural activations, circuits, feature representations — into human‑understandable causal structure. This is the more ambitious approach touted by many in the AI safety community.<span class="citation-chip-wrap"><a class="citation-chip" href="https://intuitionlabs.ai/articles/mechanistic-interpretability-ai-llms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intuitionlabs.ai">[IntuitionLabs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intuitionlabs.ai</span><span class="citation-popover-snippet">Understanding Mechanistic Interpretability in AI Models &#124; IntuitionLabsFebruary 15, 2026...</span><span class="citation-popover-meta">Published: February 15, 2026</span></span></span>
 
 Both face serious challenges when a model’s size, architecture and learned complexity grow.
 
@@ -300,9 +300,9 @@ Post‑hoc tools like saliency maps, LIME, SHAP and feature attributions were de
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
-* **Computational cost explodes**. Certain methods require extensive simulation or sampling that becomes infeasible on high‑dimensional data or layers with hundreds of millions of parameters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/1999-4893/18/9/556" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">A Review of Explainable Artificial Intelligence from the Perspectives of Challenges and Opportunities...</span></span></span>
-* **Explanations may detach from real internal processes**. These techniques reveal correlations rather than causal chains within the model’s computations, so in large models they can produce plausible but misleading narratives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lexsi.ai/resources/research-papers/interpretability-as-alignment-making-internal-understanding-a-design-principle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lexsi.ai">[lexsi.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lexsi.ai</span><span class="citation-popover-snippet">September 10, 2025...</span><span class="citation-popover-meta">Published: September 10, 2025</span></span></span>
-* **Stability issues emerge**. Tiny changes in input or random seeds can yield very different explanations. That instability is more pronounced in complex models with “polysemantic” representations — where hidden units mix multiple concepts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lexsi.ai/resources/research-papers/interpretability-as-alignment-making-internal-understanding-a-design-principle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lexsi.ai">[lexsi.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lexsi.ai</span><span class="citation-popover-snippet">September 10, 2025...</span><span class="citation-popover-meta">Published: September 10, 2025</span></span></span>
+* **Computational cost explodes**. Certain methods require extensive simulation or sampling that becomes infeasible on high‑dimensional data or layers with hundreds of millions of parameters.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/1999-4893/18/9/556" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">A Review of Explainable Artificial Intelligence from the Perspectives of Challenges and Opportunities...</span></span></span>
+* **Explanations may detach from real internal processes**. These techniques reveal correlations rather than causal chains within the model’s computations, so in large models they can produce plausible but misleading narratives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://lexsi.ai/resources/research-papers/interpretability-as-alignment-making-internal-understanding-a-design-principle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lexsi.ai">[lexsi.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lexsi.ai</span><span class="citation-popover-snippet">September 10, 2025...</span><span class="citation-popover-meta">Published: September 10, 2025</span></span></span>
+* **Stability issues emerge**. Tiny changes in input or random seeds can yield very different explanations. That instability is more pronounced in complex models with “polysemantic” representations — where hidden units mix multiple concepts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://lexsi.ai/resources/research-papers/interpretability-as-alignment-making-internal-understanding-a-design-principle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lexsi.ai">[lexsi.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lexsi.ai</span><span class="citation-popover-snippet">September 10, 2025...</span><span class="citation-popover-meta">Published: September 10, 2025</span></span></span>
 
 </div>
 
@@ -314,9 +314,9 @@ In other words, as models scale, the kind of surface‑level explanations these 
 
 Mechanistic interpretability aims to map the internal computations into something humans can grasp. In small systems this can work for narrow behaviours, but large systems pose systematic barriers:
 
-* **Immense parameter counts** make exhaustive mapping almost impossible. A frontier model with tens or hundreds of billions of parameters contains orders of magnitude more patterns than earlier neural nets; manually or even semi‑automatically analysing all relevant circuits is daunting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://intuitionlabs.ai/articles/mechanistic-interpretability-ai-llms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intuitionlabs.ai">[IntuitionLabs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intuitionlabs.ai</span><span class="citation-popover-snippet">Understanding Mechanistic Interpretability in AI Models &#124; IntuitionLabsFebruary 15, 2026...</span><span class="citation-popover-meta">Published: February 15, 2026</span></span></span>
-* **Behavioural redundancy and backup strategies** are common. Some research found that even when a candidate circuit was identified for a given task, the model had additional strategies that kick in when data distributions shift, limiting the usefulness of any single explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://intuitionlabs.ai/articles/mechanistic-interpretability-ai-llms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intuitionlabs.ai">[IntuitionLabs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intuitionlabs.ai</span><span class="citation-popover-snippet">Understanding Mechanistic Interpretability in AI Models &#124; IntuitionLabsFebruary 15, 2026...</span><span class="citation-popover-meta">Published: February 15, 2026</span></span></span>
-* **Interpretability does not automatically improve with scale.** Controlled experiments in vision models found that newer, larger networks were *not* easier to interpret than older, smaller ones, suggesting that sheer size doesn’t make internal structure more understandable — and may even make it less so. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2307.05471" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Scale Alone Does not Improve Mechanistic Interpretability in Vision Models</span><span class="citation-popover-snippet">Scale Alone Does not Improve Mechanistic Interpretability in Vision ModelsJuly 11, 2023...</span><span class="citation-popover-meta">Published: July 11, 2023</span></span></span>
+* **Immense parameter counts** make exhaustive mapping almost impossible. A frontier model with tens or hundreds of billions of parameters contains orders of magnitude more patterns than earlier neural nets; manually or even semi‑automatically analysing all relevant circuits is daunting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://intuitionlabs.ai/articles/mechanistic-interpretability-ai-llms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intuitionlabs.ai">[IntuitionLabs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intuitionlabs.ai</span><span class="citation-popover-snippet">Understanding Mechanistic Interpretability in AI Models &#124; IntuitionLabsFebruary 15, 2026...</span><span class="citation-popover-meta">Published: February 15, 2026</span></span></span>
+* **Behavioural redundancy and backup strategies** are common. Some research found that even when a candidate circuit was identified for a given task, the model had additional strategies that kick in when data distributions shift, limiting the usefulness of any single explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://intuitionlabs.ai/articles/mechanistic-interpretability-ai-llms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intuitionlabs.ai">[IntuitionLabs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intuitionlabs.ai</span><span class="citation-popover-snippet">Understanding Mechanistic Interpretability in AI Models &#124; IntuitionLabsFebruary 15, 2026...</span><span class="citation-popover-meta">Published: February 15, 2026</span></span></span>
+* **Interpretability does not automatically improve with scale.** Controlled experiments in vision models found that newer, larger networks were *not* easier to interpret than older, smaller ones, suggesting that sheer size doesn’t make internal structure more understandable — and may even make it less so.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2307.05471" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Scale Alone Does not Improve Mechanistic Interpretability in Vision Models</span><span class="citation-popover-snippet">Scale Alone Does not Improve Mechanistic Interpretability in Vision ModelsJuly 11, 2023...</span><span class="citation-popover-meta">Published: July 11, 2023</span></span></span>
 
 These challenges are not just theoretical: they span from the practical limits of existing tools to deeper questions about what it means to “understand” a computation that has been distilled into statistical patterns rather than human‑legible rules.
 
@@ -326,20 +326,20 @@ Several fundamental factors suggest why interpretability may not scale smoothly 
 
 ### 1. **Sheer Architectural Complexity**
 
-Modern foundation models are trained via optimisation over data rather than programmed with explicit structure. Their learned representations are complex, distributed and often lack direct mapping to human concepts. Even the developers themselves often cannot articulate how specific behaviours emerge from internal parameters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">Executive summary 2. Context 3. Current Frontier AI capabilities 4. Future Frontier AI capabilities 5. Other critical uncert...</span></span></span>
+Modern foundation models are trained via optimisation over data rather than programmed with explicit structure. Their learned representations are complex, distributed and often lack direct mapping to human concepts. Even the developers themselves often cannot articulate how specific behaviours emerge from internal parameters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">Executive summary 2. Context 3. Current Frontier AI capabilities 4. Future Frontier AI capabilities 5. Other critical uncert...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e-Illustration-2-dark.svg" | relative_url }}" alt="Scaling Limits illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_interpretabil_15527d_interpretabil_40ad6e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### 2. **Trade‑offs Between Performance and Transparency**
 
-Highly capable models tend to prioritise predictive performance, often at the expense of transparency. Research reviews suggest an inherent tension: the most accurate architectures — deep multi‑layer networks with attention mechanisms and emergent dynamics — are also the most opaque, while simpler models with clearer logic tend to perform worse on complex tasks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/s42467-026-00018-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">The paradox of explainability vs</span><span class="citation-popover-snippet">performance in high-stakes autonomous AI systems: a systematic review of trade-offs, regulatory gaps, and emerging solutions &#124; AI Perspec...</span></span></span>
+Highly capable models tend to prioritise predictive performance, often at the expense of transparency. Research reviews suggest an inherent tension: the most accurate architectures — deep multi‑layer networks with attention mechanisms and emergent dynamics — are also the most opaque, while simpler models with clearer logic tend to perform worse on complex tasks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/s42467-026-00018-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">The paradox of explainability vs</span><span class="citation-popover-snippet">performance in high-stakes autonomous AI systems: a systematic review of trade-offs, regulatory gaps, and emerging solutions &#124; AI Perspec...</span></span></span>
 
 ### 3. **Limits of Human Cognitive Bandwidth**
 
-Even if parts of a model can be mapped out, the sheer volume of interactions makes full comprehension unlikely. A mechanistic map with thousands of interacting parts is not much more useful than a black box if humans cannot effectively reason about it. This cognitive limit matters especially in high‑stakes settings where humans must trust and act on the insights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/1999-4893/18/9/556" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">A Review of Explainable Artificial Intelligence from the Perspectives of Challenges and Opportunities...</span></span></span>
+Even if parts of a model can be mapped out, the sheer volume of interactions makes full comprehension unlikely. A mechanistic map with thousands of interacting parts is not much more useful than a black box if humans cannot effectively reason about it. This cognitive limit matters especially in high‑stakes settings where humans must trust and act on the insights.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/1999-4893/18/9/556" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">A Review of Explainable Artificial Intelligence from the Perspectives of Challenges and Opportunities...</span></span></span>
 
 ### 4. **Post‑hoc Explanations Lack Causal Guarantees**
 
-Many popular interpretability approaches are inherently post‑hoc: they fit surrogate explanations to observed behaviour rather than tracing actual causal mechanisms. In large models with vast parameter interactions, correlations can masquerade as explanations, leading to misinterpretation or confidence in flawed reasoning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lexsi.ai/resources/research-papers/interpretability-as-alignment-making-internal-understanding-a-design-principle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lexsi.ai">[lexsi.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lexsi.ai</span><span class="citation-popover-snippet">September 10, 2025...</span><span class="citation-popover-meta">Published: September 10, 2025</span></span></span>
+Many popular interpretability approaches are inherently post‑hoc: they fit surrogate explanations to observed behaviour rather than tracing actual causal mechanisms. In large models with vast parameter interactions, correlations can masquerade as explanations, leading to misinterpretation or confidence in flawed reasoning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://lexsi.ai/resources/research-papers/interpretability-as-alignment-making-internal-understanding-a-design-principle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lexsi.ai">[lexsi.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lexsi.ai</span><span class="citation-popover-snippet">September 10, 2025...</span><span class="citation-popover-meta">Published: September 10, 2025</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1_0ttM8zp9o" title="Mechanistic Interpretability and How LLMs Understand" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1_0ttM8zp9o" target="_blank" rel="noopener noreferrer">Mechanistic Interpretability and How LLMs Understand</a></p><p class="youtube-embed-meta">Channel: Rahul Sam &middot; Views: 1.1K &middot; Uploaded: January 2026 &middot; Length: 1 hour 57 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1_0ttM8zp9o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1_0ttM8zp9o">Open on YouTube</a></p></div></div></div>
 
@@ -347,9 +347,9 @@ Many popular interpretability approaches are inherently post‑hoc: they fit sur
 
 Empirical research and safety reports reinforce these concerns:
 
-* Government and [independent]({{ 'red-teaming/' | relative_url }}) assessments of frontier AI note that developers cannot reliably interpret systems with hundreds of billions of parameters; today’s “black boxes” are effectively inscrutable to their own designers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.publishing.service.gov.uk/media/65395abae6c968000daa9b25/frontier-ai-capabilities-risks-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[UK Government Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">frontier ai capabilities risks report</span><span class="citation-popover-snippet">UK Government PublicationsCapabilities and risks from frontier AIOctober 25, 2023...</span><span class="citation-popover-meta">Published: October 25, 2023</span></span></span>
-* Psychophysical experiments in vision models indicate that even state‑of‑the‑art models aren’t easier to interpret than older ones, suggesting that increased scale has not bought deeper transparency. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2307.05471" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Scale Alone Does not Improve Mechanistic Interpretability in Vision Models</span><span class="citation-popover-snippet">Scale Alone Does not Improve Mechanistic Interpretability in Vision ModelsJuly 11, 2023...</span><span class="citation-popover-meta">Published: July 11, 2023</span></span></span>
-* Scalability remains a practical bottleneck: explanation methods that work in lab settings or for small datasets face computational challenges in real‑time, large‑scale environments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/1999-4893/18/9/556" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">A Review of Explainable Artificial Intelligence from the Perspectives of Challenges and Opportunities...</span></span></span>
+* Government and [independent]({{ 'red-teaming/' | relative_url }}) assessments of frontier AI note that developers cannot reliably interpret systems with hundreds of billions of parameters; today’s “black boxes” are effectively inscrutable to their own designers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.publishing.service.gov.uk/media/65395abae6c968000daa9b25/frontier-ai-capabilities-risks-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[UK Government Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">frontier ai capabilities risks report</span><span class="citation-popover-snippet">UK Government PublicationsCapabilities and risks from frontier AIOctober 25, 2023...</span><span class="citation-popover-meta">Published: October 25, 2023</span></span></span>
+* Psychophysical experiments in vision models indicate that even state‑of‑the‑art models aren’t easier to interpret than older ones, suggesting that increased scale has not bought deeper transparency.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2307.05471" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Scale Alone Does not Improve Mechanistic Interpretability in Vision Models</span><span class="citation-popover-snippet">Scale Alone Does not Improve Mechanistic Interpretability in Vision ModelsJuly 11, 2023...</span><span class="citation-popover-meta">Published: July 11, 2023</span></span></span>
+* Scalability remains a practical bottleneck: explanation methods that work in lab settings or for small datasets face computational challenges in real‑time, large‑scale environments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/1999-4893/18/9/556" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">A Review of Explainable Artificial Intelligence from the Perspectives of Challenges and Opportunities...</span></span></span>
 
 These lines of evidence indicate that interpretability does not naturally scale with more data and larger nets alone — and may require new methods or architectural redesigns to make progress.
 
@@ -373,272 +373,272 @@ Not all researchers agree on the end of the road for interpretability:
 * Some argue that better tools, automation and new formalisms could push interpretability further than current techniques allow.
 * Others emphasise that interpretability needs a clearer theoretical foundation — including better definitions of what counts as “understanding” — before progress can be meaningfully measured.
 
-However, the preview of frontier systems suggests that **neither current post‑hoc methods nor even the most ambitious mechanistic approaches have yet shown they will scale to the complexity and opacity of future AI models**. That remains a deep research and safety challenge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://intuitionlabs.ai/articles/mechanistic-interpretability-ai-llms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intuitionlabs.ai">[IntuitionLabs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intuitionlabs.ai</span><span class="citation-popover-snippet">Understanding Mechanistic Interpretability in AI Models &#124; IntuitionLabsFebruary 15, 2026...</span><span class="citation-popover-meta">Published: February 15, 2026</span></span></span>
+However, the preview of frontier systems suggests that **neither current post‑hoc methods nor even the most ambitious mechanistic approaches have yet shown they will scale to the complexity and opacity of future AI models**. That remains a deep research and safety challenge.<span class="citation-chip-wrap"><a class="citation-chip" href="https://intuitionlabs.ai/articles/mechanistic-interpretability-ai-llms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intuitionlabs.ai">[IntuitionLabs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intuitionlabs.ai</span><span class="citation-popover-snippet">Understanding Mechanistic Interpretability in AI Models &#124; IntuitionLabsFebruary 15, 2026...</span><span class="citation-popover-meta">Published: February 15, 2026</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Bigger AI Models May Resist Human Understanding. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Bigger AI Models May Resist Human Understanding. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
-        </h4>
-        <p class="fr-book-author">By Brian Christian</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
+</h4>
+<p class="fr-book-author">By Brian Christian</p>
         
-        <p class="fr-book-desc">Explains transparency, understanding and alignment challenges in machine learning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains transparency, understanding and alignment challenges in machine learning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8vm0DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Jonathan Russell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8vm0DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
+</h4>
+<p class="fr-book-author">By Stuart Jonathan Russell</p>
         
-        <p class="fr-book-desc">Discusses why understanding advanced systems is critical for control.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses why understanding advanced systems is critical for control.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superintelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7_H8AwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superintelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superintelligence">Superintelligence</a>
-        </h4>
-        <p class="fr-book-author">By Nick Bostrom</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superintelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7_H8AwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superintelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superintelligence">Superintelligence</a>
+</h4>
+<p class="fr-book-author">By Nick Bostrom</p>
         
-        <p class="fr-book-desc">Addresses opacity and unpredictability in highly advanced systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses opacity and unpredictability in highly advanced systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Learning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Np9SDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Learning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Learning">Deep Learning</a>
-        </h4>
-        <p class="fr-book-author">By Ian Goodfellow, Yoshua Bengio et al.</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 6 Google Books ratings</p>
-        <p class="fr-book-desc">Provides technical foundations behind interpretability challenges.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Learning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Np9SDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Learning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Learning">Deep Learning</a>
+</h4>
+<p class="fr-book-author">By Ian Goodfellow, Yoshua Bengio et al.</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 6 Google Books ratings</p>
+<p class="fr-book-desc">Provides technical foundations behind interpretability challenges.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superintelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superintelligence</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Superintelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superintelligence</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HD1920*1200 Computer Laptop TV LCD/LED Test Tool Panel Tester Support 7&quot;-84&quot;"><img src="{{ '/assets/images/marketplace-covers/ab5cf6d467336249110f.jpg' | relative_url }}" alt="Listing image for HD1920*1200 Computer Laptop TV LCD/LED Test Tool Panel Tester Support 7&quot;-84&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">HD1920*1200 Computer Laptop TV LCD/LED Test Tool Panel Tester Support 7&quot;-84&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip display">Search <span data-ebay-domain-label>eBay.com</span>: computer chip display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-computer-chip-display&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HD1920*1200 Computer Laptop TV LCD/LED Test Tool Panel Tester Support 7&quot;-84&quot;"><img src="{{ '/assets/images/marketplace-covers/ab5cf6d467336249110f.jpg' | relative_url }}" alt="Listing image for HD1920*1200 Computer Laptop TV LCD/LED Test Tool Panel Tester Support 7&quot;-84&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">HD1920*1200 Computer Laptop TV LCD/LED Test Tool Panel Tester Support 7&quot;-84&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip display">Search<span data-ebay-domain-label>eBay.com</span>: computer chip display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-computer-chip-display&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Intel 4004 CPU Resin Display, 50th Anniversary Tech Art, Retro Computer Gift"><img src="{{ '/assets/images/marketplace-covers/2e028fad25634e001434.jpg' | relative_url }}" alt="Listing image for Intel 4004 CPU Resin Display, 50th Anniversary Tech Art, Retro Computer Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Intel 4004 CPU Resin Display, 50th Anniversary Tech Art, Retro Computer Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip display">Search <span data-ebay-domain-label>eBay.com</span>: computer chip display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-computer-chip-display&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Intel 4004 CPU Resin Display, 50th Anniversary Tech Art, Retro Computer Gift"><img src="{{ '/assets/images/marketplace-covers/2e028fad25634e001434.jpg' | relative_url }}" alt="Listing image for Intel 4004 CPU Resin Display, 50th Anniversary Tech Art, Retro Computer Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Intel 4004 CPU Resin Display, 50th Anniversary Tech Art, Retro Computer Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip display">Search<span data-ebay-domain-label>eBay.com</span>: computer chip display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-computer-chip-display&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SuperChips Computer Chip Handheld Monitor for Silverado Sierra Gas 2547"><img src="{{ '/assets/images/marketplace-covers/41158b1c41c78a270211.jpg' | relative_url }}" alt="Listing image for SuperChips Computer Chip Handheld Monitor for Silverado Sierra Gas 2547" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SuperChips Computer Chip Handheld Monitor for Silverado Sierra Gas 2547</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip display">Search <span data-ebay-domain-label>eBay.com</span>: computer chip display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-computer-chip-display&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SuperChips Computer Chip Handheld Monitor for Silverado Sierra Gas 2547"><img src="{{ '/assets/images/marketplace-covers/41158b1c41c78a270211.jpg' | relative_url }}" alt="Listing image for SuperChips Computer Chip Handheld Monitor for Silverado Sierra Gas 2547" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SuperChips Computer Chip Handheld Monitor for Silverado Sierra Gas 2547</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip display">Search<span data-ebay-domain-label>eBay.com</span>: computer chip display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-computer-chip-display&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SuperChips Computer Chip Handheld Monitor for 21-24 Ford Bronco"><img src="{{ '/assets/images/marketplace-covers/a7b51e30a1c9debd9491.jpg' | relative_url }}" alt="Listing image for SuperChips Computer Chip Handheld Monitor for 21-24 Ford Bronco" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SuperChips Computer Chip Handheld Monitor for 21-24 Ford Bronco</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip display">Search <span data-ebay-domain-label>eBay.com</span>: computer chip display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-computer-chip-display&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SuperChips Computer Chip Handheld Monitor for 21-24 Ford Bronco"><img src="{{ '/assets/images/marketplace-covers/a7b51e30a1c9debd9491.jpg' | relative_url }}" alt="Listing image for SuperChips Computer Chip Handheld Monitor for 21-24 Ford Bronco" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SuperChips Computer Chip Handheld Monitor for 21-24 Ford Bronco</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer chip display">Search<span data-ebay-domain-label>eBay.com</span>: computer chip display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-computer-chip-display&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=computer+chip+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-computer-chip-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neural+network+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-neural-network-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neural Network Watercolor Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/0897eded9b536f769450.jpg' | relative_url }}" alt="Listing image for Neural Network Watercolor Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neural+network+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-neural-network-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Neural Network Watercolor Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neural+network+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-neural-network-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neural network poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: neural network poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neural+network+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-neural-network-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neural+network+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-neural-network-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neural Network Watercolor Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/0897eded9b536f769450.jpg' | relative_url }}" alt="Listing image for Neural Network Watercolor Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neural+network+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-neural-network-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Neural Network Watercolor Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neural+network+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-neural-network-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neural network poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: neural network poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neural+network+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-neural-network-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neural+network+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-neural-network-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Modern Abstract Neural Network Wall Art Poster Premium Quality"><img src="{{ '/assets/images/marketplace-covers/d097810744d910ec68de.jpg' | relative_url }}" alt="Listing image for Modern Abstract Neural Network Wall Art Poster Premium Quality" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neural+network+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-neural-network-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Modern Abstract Neural Network Wall Art Poster Premium Quality</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neural+network+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-neural-network-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neural network poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: neural network poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neural+network+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-neural-network-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neural+network+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-neural-network-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Modern Abstract Neural Network Wall Art Poster Premium Quality"><img src="{{ '/assets/images/marketplace-covers/d097810744d910ec68de.jpg' | relative_url }}" alt="Listing image for Modern Abstract Neural Network Wall Art Poster Premium Quality" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neural+network+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-neural-network-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Modern Abstract Neural Network Wall Art Poster Premium Quality</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neural+network+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-neural-network-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neural network poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: neural network poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neural+network+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-neural-network-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neural+network+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-neural-network-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neural network Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/733ab76412f032036068.jpg' | relative_url }}" alt="Listing image for Neural network Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neural+network+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-neural-network-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Neural network Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neural+network+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-neural-network-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neural network poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: neural network poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neural+network+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-neural-network-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neural+network+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-neural-network-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neural network Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/733ab76412f032036068.jpg' | relative_url }}" alt="Listing image for Neural network Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neural+network+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-neural-network-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Neural network Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neural+network+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-neural-network-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neural network poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: neural network poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neural+network+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-neural-network-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neural+network+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-neural-network-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neural network Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/22eaff69e11ddba5db95.jpg' | relative_url }}" alt="Listing image for Neural network Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neural+network+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-neural-network-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Neural network Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neural+network+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-neural-network-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neural network poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: neural network poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neural+network+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-neural-network-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=neural+network+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-neural-network-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neural+network+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-neural-network-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neural network Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/22eaff69e11ddba5db95.jpg' | relative_url }}" alt="Listing image for Neural network Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neural+network+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-neural-network-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Neural network Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neural+network+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-neural-network-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neural network poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: neural network poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neural+network+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-neural-network-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=neural+network+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scaling-limits-why-bigger-ai-models-may-resist-human-understanding-ai-doom-and-neural-network-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -654,7 +654,7 @@ However, the preview of frontier systems suggests that **neither current post‑
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -674,7 +674,7 @@ However, the preview of frontier systems suggests that **neither current post‑
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -706,7 +706,7 @@ However, the preview of frontier systems suggests that **neither current post‑
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -736,7 +736,7 @@ However, the preview of frontier systems suggests that **neither current post‑
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -794,131 +794,131 @@ However, the preview of frontier systems suggests that **neither current post‑
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
    Title: Frontier AI: capabilities and risks – discussion paper  
-   Link: <a href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>28, 2025...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>28, 2025...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/1999-4893/18/9/556" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1999-4893/18/9/556</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Review of Explainable Artificial Intelligence from the Perspectives of Challenges and Opportunities...</p></details>
+   Link:<a href="https://www.mdpi.com/1999-4893/18/9/556" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1999-4893/18/9/556</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Review of Explainable Artificial Intelligence from the Perspectives of Challenges and Opportunities...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s44230-023-00038-y" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s44230-023-00038-y</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Survey on Explainable AI: From Approaches, Limitations and Applications Aspects | Human-Centric Intelligent Systems | Springer Na...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s44230-023-00038-y" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s44230-023-00038-y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Survey on Explainable AI: From Approaches, Limitations and Applications Aspects | Human-Centric Intelligent Systems | Springer Na...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: intuitionlabs.ai  
-   Link: <a href="https://intuitionlabs.ai/articles/mechanistic-interpretability-ai-llms" target="_blank" rel="noopener noreferrer nofollow">https://intuitionlabs.ai/articles/mechanistic-interpretability-ai-llms</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Mechanistic Interpretability in AI Models | IntuitionLabsFebruary 15, 2026...</p></details>
+   Link:<a href="https://intuitionlabs.ai/articles/mechanistic-interpretability-ai-llms" target="_blank" rel="noopener noreferrer nofollow">https://intuitionlabs.ai/articles/mechanistic-interpretability-ai-llms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Mechanistic Interpretability in AI Models | IntuitionLabsFebruary 15, 2026...</p></details>
    Published: February 15, 2026  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: lexsi.ai  
-   Link: <a href="https://lexsi.ai/resources/research-papers/interpretability-as-alignment-making-internal-understanding-a-design-principle" target="_blank" rel="noopener noreferrer nofollow">https://lexsi.ai/resources/research-papers/interpretability-as-alignment-making-internal-understanding-a-design-principle</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>September 10, 2025...</p></details>
+   Link:<a href="https://lexsi.ai/resources/research-papers/interpretability-as-alignment-making-internal-understanding-a-design-principle" target="_blank" rel="noopener noreferrer nofollow">https://lexsi.ai/resources/research-papers/interpretability-as-alignment-making-internal-understanding-a-design-principle</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 10, 2025...</p></details>
    Published: September 10, 2025  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv Scale Alone Does not Improve Mechanistic Interpretability in Vision Models  
-   Link: <a href="https://arxiv.org/abs/2307.05471" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2307.05471</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scale Alone Does not Improve Mechanistic Interpretability in Vision ModelsJuly 11, 2023...</p></details>
+   Link:<a href="https://arxiv.org/abs/2307.05471" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2307.05471</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scale Alone Does not Improve Mechanistic Interpretability in Vision ModelsJuly 11, 2023...</p></details>
    Published: July 11, 2023  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: link.springer.com  
    Title: The paradox of explainability vs  
-   Link: <a href="https://link.springer.com/article/10.1186/s42467-026-00018-5" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s42467-026-00018-5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>performance in high-stakes autonomous AI systems: a systematic review of trade-offs, regulatory gaps, and emerging solutions | AI Perspec...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1186/s42467-026-00018-5" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s42467-026-00018-5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>performance in high-stakes autonomous AI systems: a systematic review of trade-offs, regulatory gaps, and emerging solutions | AI Perspec...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: assets.publishing.service.gov.uk  
    Title: frontier ai capabilities risks report  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/65395abae6c968000daa9b25/frontier-ai-capabilities-risks-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/65395abae6c968000daa9b25/frontier-ai-capabilities-risks-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Government PublicationsCapabilities and risks from frontier AIOctober 25, 2023...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/65395abae6c968000daa9b25/frontier-ai-capabilities-risks-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/65395abae6c968000daa9b25/frontier-ai-capabilities-risks-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Government PublicationsCapabilities and risks from frontier AIOctober 25, 2023...</p></details>
    Published: October 25, 2023  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Executive summary 2. Context 3. Current Frontier AI capabilities 4. Future Frontier AI capabilities 5. Other critical uncert...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Executive summary 2. Context 3. Current Frontier AI capabilities 4. Future Frontier AI capabilities 5. Other critical uncert...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: GOV.UK  
    Title: www.gov.uk Emerging processes for frontier AI safety  
-   Link: <a href="https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Specific technical terms are described within their relevant section. AI (Artificial Intelligence) or AI (Artificia...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Specific technical terms are described within their relevant section. AI (Artificial Intelligence) or AI (Artificia...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s13347-019-00372-9" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s13347-019-00372-9</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Interpretability: a Critical Examination of the Interpretability Problem in Machine Learning | Philosophy &amp; Technology | Springer Nature...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s13347-019-00372-9" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s13347-019-00372-9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Interpretability: a Critical Examination of the Interpretability Problem in Machine Learning | Philosophy &amp; Technology | Springer Nature...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231226008957" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0925231226008957</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 14, 2026 — NEUROCOMPUTING Volume 682, 14 June 2026, 133498 FUNDAMENTAL LIMITS OF NEURAL NETWORK SPARSIFICATION: EVIDENC...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231226008957" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0925231226008957</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 14, 2026 — NEUROCOMPUTING Volume 682, 14 June 2026, 133498 FUNDAMENTAL LIMITS OF NEURAL NETWORK SPARSIFICATION: EVIDENC...</p></details>
    Published: June 14, 2026  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: preprints.org  
-   Link: <a href="https://www.preprints.org/manuscript/202602.0128" target="_blank" rel="noopener noreferrer nofollow">https://www.preprints.org/manuscript/202602.0128</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FUNDAMENTAL CHALLENGES 5.1. SUPERPOSITION AND POLYSEMANTICITY The superposition hypothesis posits that networks represent more features t...</p></details>
+   Link:<a href="https://www.preprints.org/manuscript/202602.0128" target="_blank" rel="noopener noreferrer nofollow">https://www.preprints.org/manuscript/202602.0128</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FUNDAMENTAL CHALLENGES 5.1. SUPERPOSITION AND POLYSEMANTICITY The superposition hypothesis posits that networks represent more features t...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: blog.ml.cmu.edu  
-   Link: <a href="https://blog.ml.cmu.edu/2020/08/31/6-interpretability/" target="_blank" rel="noopener noreferrer nofollow">https://blog.ml.cmu.edu/2020/08/31/6-interpretability/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>cmu.edu6 – Interpretability – Machine Learning Blog | ML@CMU | Carnegie Mellon UniversityAugust 31, 2020 — 6 – INTERPRETABILITY AUTHORS A...</p></details>
+   Link:<a href="https://blog.ml.cmu.edu/2020/08/31/6-interpretability/" target="_blank" rel="noopener noreferrer nofollow">https://blog.ml.cmu.edu/2020/08/31/6-interpretability/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cmu.edu6 – Interpretability – Machine Learning Blog | ML@CMU | Carnegie Mellon UniversityAugust 31, 2020 — 6 – INTERPRETABILITY AUTHORS A...</p></details>
    Published: August 31, 2020  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: francescatabor.com  
    Title: explainable ai model interpretability and the risks of modern language models  
-   Link: <a href="https://www.francescatabor.com/articles/2026/2/4/explainable-ai-model-interpretability-and-the-risks-of-modern-language-models" target="_blank" rel="noopener noreferrer nofollow">https://www.francescatabor.com/articles/2026/2/4/explainable-ai-model-interpretability-and-the-risks-of-modern-language-models</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Explainable AI, Model Interpretability, and the Risks of Modern Language Models — FRANKI TFebruary 4, 2026 — EXPLAINABLE AI, MODEL INTERP...</p></details>
+   Link:<a href="https://www.francescatabor.com/articles/2026/2/4/explainable-ai-model-interpretability-and-the-risks-of-modern-language-models" target="_blank" rel="noopener noreferrer nofollow">https://www.francescatabor.com/articles/2026/2/4/explainable-ai-model-interpretability-and-the-risks-of-modern-language-models</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Explainable AI, Model Interpretability, and the Risks of Modern Language Models — FRANKI TFebruary 4, 2026 — EXPLAINABLE AI, MODEL INTERP...</p></details>
    Published: February 4, 2026  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: frontiersin.org  
    Title: Frontiers | No silver bullet: interpretable ML models must be explained  
-   Link: <a href="https://www.frontiersin.org/articles/10.3389/frai.2023.1128212" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/articles/10.3389/frai.2023.1128212</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Artif. Intell., 24 April 2023 Sec. Machine Learning and Artificial Intelligence Volume 6 - 2023 | [https://doi.org/10.3389/frai.2023.11282...&quot;](https://doi.org/10.3389/frai.2023.11282...&quot;)...</p></details>
+   Link:<a href="https://www.frontiersin.org/articles/10.3389/frai.2023.1128212" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/articles/10.3389/frai.2023.1128212</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Artif. Intell., 24 April 2023 Sec. Machine Learning and Artificial Intelligence Volume 6 - 2023 | [https://doi.org/10.3389/frai.2023.11282...&quot;](https://doi.org/10.3389/frai.2023.11282...&quot;)...</p></details>
    Published: April 2023  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: research.monash.edu  
    Title: no silver bullet interpretable ml models must be explained  
-   Link: <a href="https://research.monash.edu/en/publications/no-silver-bullet-interpretable-ml-models-must-be-explained/" target="_blank" rel="noopener noreferrer nofollow">https://research.monash.edu/en/publications/no-silver-bullet-interpretable-ml-models-must-be-explained/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>silver bullet: interpretable ML models must be explained - Monash UniversityApril 24, 2023 — NO SILVER BULLET: INTERPRETABLE ML MODELS MU...</p></details>
+   Link:<a href="https://research.monash.edu/en/publications/no-silver-bullet-interpretable-ml-models-must-be-explained/" target="_blank" rel="noopener noreferrer nofollow">https://research.monash.edu/en/publications/no-silver-bullet-interpretable-ml-models-must-be-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>silver bullet: interpretable ML models must be explained - Monash UniversityApril 24, 2023 — NO SILVER BULLET: INTERPRETABLE ML MODELS MU...</p></details>
    Published: April 24, 2023  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: sciencedirect.com  
    Title: M L interpretability: Simple isn't easy  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0039368123001723" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0039368123001723</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ML interpretability: Simple isn&#x27;t easy - ScienceDirectSTUDIES IN HISTORY AND PHILOSOPHY OF SCIENCE Volume 103, February 2024, Pages 159-1...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0039368123001723" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0039368123001723</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ML interpretability: Simple isn&#x27;t easy - ScienceDirectSTUDIES IN HISTORY AND PHILOSOPHY OF SCIENCE Volume 103, February 2024, Pages 159-1...</p></details>
    Published: February 2024  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: donets.org  
    Title: Lack of Explainability in Advanced AI Models | Donets | Nikolay Donets  
-   Link: <a href="https://donets.org/risks/lack-of-explainability-in-advanced-ai-models" target="_blank" rel="noopener noreferrer nofollow">https://donets.org/risks/lack-of-explainability-in-advanced-ai-models</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 25, 2025 — LACK OF EXPLAINABILITY IN ADVANCED AI MODELS...</p></details>
+   Link:<a href="https://donets.org/risks/lack-of-explainability-in-advanced-ai-models" target="_blank" rel="noopener noreferrer nofollow">https://donets.org/risks/lack-of-explainability-in-advanced-ai-models</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 25, 2025 — LACK OF EXPLAINABILITY IN ADVANCED AI MODELS...</p></details>
    Published: June 25, 2025  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Deep Tech Briefing #122 — [Mechanistic Interpretability & Readable Mind of AI]  
-   Link: <a href="https://www.youtube.com/watch?v=qYWR2K2rJT4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qYWR2K2rJT4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Neel Nanda on the race to read AI minds (part 1) | 80,000 Hours...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qYWR2K2rJT4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qYWR2K2rJT4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Neel Nanda on the race to read AI minds (part 1) | 80,000 Hours...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9105427/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9105427/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WHAT DOES INTERPRETABILITY MEAN? Although the word “interpretability” is frequently used, people do not reach a consensus on the exact me...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9105427/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9105427/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WHAT DOES INTERPRETABILITY MEAN? Although the word “interpretability” is frequently used, people do not reach a consensus on the exact me...</p></details>

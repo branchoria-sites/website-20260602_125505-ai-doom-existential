@@ -276,14 +276,14 @@ In the context of AI systems that could one day pose existential dangers—throu
 
 A core part of pre‑training hazard modelling is **systematically anticipating the ways advanced AI could be harmful**. Borrowing methods long used in safety‑critical fields like aviation or nuclear power, developers map out causal pathways from future model capabilities to extreme harms. This “threat modelling” isn’t about ordinary software bugs; it concerns scenarios where a model could be misused in ways that are hard to reverse, scale rapidly, or cause widespread disruption.
 
-Common hazard domains flagged by frontier safety frameworks include: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emergentmind.com/topics/frontier-model-safety-framework-fmsf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emergentmind.com">[emergentmind.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emergentmind.com</span><span class="citation-popover-title">Frontier Model Safety Framework</span><span class="citation-popover-snippet">February 3, 2026 — FRONTIER MODEL SAFETY FRAMEWORK Updated 3 February 2026 * FMSF is a comprehensive safety framework that systematically...</span><span class="citation-popover-meta">Published: February 3, 2026</span></span></span>
+Common hazard domains flagged by frontier safety frameworks include:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emergentmind.com/topics/frontier-model-safety-framework-fmsf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emergentmind.com">[emergentmind.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emergentmind.com</span><span class="citation-popover-title">Frontier Model Safety Framework</span><span class="citation-popover-snippet">February 3, 2026 — FRONTIER MODEL SAFETY FRAMEWORK Updated 3 February 2026 * FMSF is a comprehensive safety framework that systematically...</span><span class="citation-popover-meta">Published: February 3, 2026</span></span></span>
 
-* **Dual‑use assistance** such as guidance on creating biological threats or chemical agents, where AI could lower barriers to [misuse]({{ 'misuse/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">Frontier Model Forum Risk Taxonomy and Thresholds for Frontier AI Frameworks</span><span class="citation-popover-snippet">Frontier Model ForumRisk Taxonomy and Thresholds for Frontier AI Frameworks - Frontier Model ForumJune 18, 2025...</span><span class="citation-popover-meta">Published: June 18, 2025</span></span></span>
-* **Advanced cyber threats**, where an AI could help discover or exploit vulnerabilities in critical infrastructure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">Frontier Model Forum Risk Taxonomy and Thresholds for Frontier AI Frameworks</span><span class="citation-popover-snippet">Frontier Model ForumRisk Taxonomy and Thresholds for Frontier AI Frameworks - Frontier Model ForumJune 18, 2025...</span><span class="citation-popover-meta">Published: June 18, 2025</span></span></span>
-* **Autonomous or recursive capabilities**, such as self‑replication, automated research or planning, and emerging “agentic” behaviour that might pursue objectives not aligned with human intentions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">Frontier Model Forum Risk Taxonomy and Thresholds for Frontier AI Frameworks</span><span class="citation-popover-snippet">Frontier Model ForumRisk Taxonomy and Thresholds for Frontier AI Frameworks - Frontier Model ForumJune 18, 2025...</span><span class="citation-popover-meta">Published: June 18, 2025</span></span></span>
-* **Strategic deception**, where models could behave differently when being evaluated versus in deployment or misuse scenarios (sometimes called “scheming” in risk literature). <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2411.03336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Towards evaluations-based safety cases for AI scheming</span><span class="citation-popover-snippet">Towards evaluations-based safety cases for AI schemingOctober 29, 2024...</span><span class="citation-popover-meta">Published: October 29, 2024</span></span></span>
+* **Dual‑use assistance** such as guidance on creating biological threats or chemical agents, where AI could lower barriers to [misuse]({{ 'misuse/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">Frontier Model Forum Risk Taxonomy and Thresholds for Frontier AI Frameworks</span><span class="citation-popover-snippet">Frontier Model ForumRisk Taxonomy and Thresholds for Frontier AI Frameworks - Frontier Model ForumJune 18, 2025...</span><span class="citation-popover-meta">Published: June 18, 2025</span></span></span>
+* **Advanced cyber threats**, where an AI could help discover or exploit vulnerabilities in critical infrastructure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">Frontier Model Forum Risk Taxonomy and Thresholds for Frontier AI Frameworks</span><span class="citation-popover-snippet">Frontier Model ForumRisk Taxonomy and Thresholds for Frontier AI Frameworks - Frontier Model ForumJune 18, 2025...</span><span class="citation-popover-meta">Published: June 18, 2025</span></span></span>
+* **Autonomous or recursive capabilities**, such as self‑replication, automated research or planning, and emerging “agentic” behaviour that might pursue objectives not aligned with human intentions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">Frontier Model Forum Risk Taxonomy and Thresholds for Frontier AI Frameworks</span><span class="citation-popover-snippet">Frontier Model ForumRisk Taxonomy and Thresholds for Frontier AI Frameworks - Frontier Model ForumJune 18, 2025...</span><span class="citation-popover-meta">Published: June 18, 2025</span></span></span>
+* **Strategic deception**, where models could behave differently when being evaluated versus in deployment or misuse scenarios (sometimes called “scheming” in risk literature).<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2411.03336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Towards evaluations-based safety cases for AI scheming</span><span class="citation-popover-snippet">Towards evaluations-based safety cases for AI schemingOctober 29, 2024...</span><span class="citation-popover-meta">Published: October 29, 2024</span></span></span>
 
-In well‑developed frameworks, threat identification is not a casual brainstorm but a systematic analysis that moves from *broad scenarios* (e.g., “AI could accelerate misuse of bioengineering”) to *specific pathways* linking a future model’s capabilities to measurable harms. This can include conceptually isolating “precursory capabilities”—smaller skills that a model must possess before it can unlock more dangerous behaviours—to give early [warning signs]({{ 'warning-signs/' | relative_url }}) and more manageable assessment points. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apolloresearch.ai/research/precursory-capabilities-a-refinement-to-pre-deployment-information-sharing-and-tripwire-capabilities" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apolloresearch.ai">[Apollo Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apolloresearch.ai</span><span class="citation-popover-snippet">Apollo ResearchPrecursory Capabilities: A Refinement to Pre-deployment Information Sharing and Tripwire Capabilities – Apollo ResearchJun...</span></span></span>
+In well‑developed frameworks, threat identification is not a casual brainstorm but a systematic analysis that moves from *broad scenarios* (e.g., “AI could accelerate misuse of bioengineering”) to *specific pathways* linking a future model’s capabilities to measurable harms. This can include conceptually isolating “precursory capabilities”—smaller skills that a model must possess before it can unlock more dangerous behaviours—to give early [warning signs]({{ 'warning-signs/' | relative_url }}) and more manageable assessment points.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apolloresearch.ai/research/precursory-capabilities-a-refinement-to-pre-deployment-information-sharing-and-tripwire-capabilities" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apolloresearch.ai">[Apollo Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apolloresearch.ai</span><span class="citation-popover-snippet">Apollo ResearchPrecursory Capabilities: A Refinement to Pre-deployment Information Sharing and Tripwire Capabilities – Apollo ResearchJun...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/R49Cv7pJ2KA" title="Keynote | Threat Modeling Agentic AI Systems: Proactive Strategies for Security and Resilience" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=R49Cv7pJ2KA" target="_blank" rel="noopener noreferrer">Keynote | Threat Modeling Agentic AI Systems: Proactive Strategies for Security and Resilience</a></p><p class="youtube-embed-meta">Channel: SANS Institute &middot; Views: 10.0K &middot; Uploaded: May 2025 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=R49Cv7pJ2KA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=R49Cv7pJ2KA">Open on YouTube</a></p></div></div></div>
 
@@ -293,9 +293,9 @@ Once threats are identified, the next step in pre‑training hazard modelling is
 
 Approaches adapted from systems engineering include:
 
-* **Scenario building** and causal mapping to understand how a given training configuration could lead to harmful outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.safer-ai.org/research/the-role-of-risk-modeling-in-advanced-ai-risk-management" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safer-ai.org">[SaferAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safer-ai.org</span><span class="citation-popover-title">the role of risk modeling in advanced ai risk management</span><span class="citation-popover-snippet">SaferAIThe Role of Risk Modeling in Advanced AI Risk Management – SaferAIDecember 10, 2025...</span><span class="citation-popover-meta">Published: December 10, 2025</span></span></span>
-* **Fault and event tree analyses** or Bayesian networks that try to combine individual hazard probabilities into a broader risk picture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.safer-ai.org/research/the-role-of-risk-modeling-in-advanced-ai-risk-management" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safer-ai.org">[SaferAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safer-ai.org</span><span class="citation-popover-title">the role of risk modeling in advanced ai risk management</span><span class="citation-popover-snippet">SaferAIThe Role of Risk Modeling in Advanced AI Risk Management – SaferAIDecember 10, 2025...</span><span class="citation-popover-meta">Published: December 10, 2025</span></span></span>
-* **[Capability thresholds]({{ 'capability-thresholds/' | relative_url }})** that define trigger points where specific risky outcomes become credible enough to demand action. Frontier frameworks often set these thresholds qualitatively—for example, when a model is capable of advanced cyber exploitation or biological protocol design—recognising that exact numbers are uncertain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">Frontier Model Forum Risk Taxonomy and Thresholds for Frontier AI Frameworks</span><span class="citation-popover-snippet">Frontier Model ForumRisk Taxonomy and Thresholds for Frontier AI Frameworks - Frontier Model ForumJune 18, 2025...</span><span class="citation-popover-meta">Published: June 18, 2025</span></span></span>
+* **Scenario building** and causal mapping to understand how a given training configuration could lead to harmful outcomes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.safer-ai.org/research/the-role-of-risk-modeling-in-advanced-ai-risk-management" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safer-ai.org">[SaferAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safer-ai.org</span><span class="citation-popover-title">the role of risk modeling in advanced ai risk management</span><span class="citation-popover-snippet">SaferAIThe Role of Risk Modeling in Advanced AI Risk Management – SaferAIDecember 10, 2025...</span><span class="citation-popover-meta">Published: December 10, 2025</span></span></span>
+* **Fault and event tree analyses** or Bayesian networks that try to combine individual hazard probabilities into a broader risk picture.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.safer-ai.org/research/the-role-of-risk-modeling-in-advanced-ai-risk-management" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safer-ai.org">[SaferAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safer-ai.org</span><span class="citation-popover-title">the role of risk modeling in advanced ai risk management</span><span class="citation-popover-snippet">SaferAIThe Role of Risk Modeling in Advanced AI Risk Management – SaferAIDecember 10, 2025...</span><span class="citation-popover-meta">Published: December 10, 2025</span></span></span>
+* **[Capability thresholds]({{ 'capability-thresholds/' | relative_url }})** that define trigger points where specific risky outcomes become credible enough to demand action. Frontier frameworks often set these thresholds qualitatively—for example, when a model is capable of advanced cyber exploitation or biological protocol design—recognising that exact numbers are uncertain.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">Frontier Model Forum Risk Taxonomy and Thresholds for Frontier AI Frameworks</span><span class="citation-popover-snippet">Frontier Model ForumRisk Taxonomy and Thresholds for Frontier AI Frameworks - Frontier Model ForumJune 18, 2025...</span><span class="citation-popover-meta">Published: June 18, 2025</span></span></span>
 
 These methods aim to balance *likelihood* (how probable it is that a future model would develop a particular dangerous capability) with *impact* (how large the harm would be if that capability materialised). Because frontier AI risk is about unprecedented scale and potential irreversibility, even low‑probability, high‑impact pathways are taken seriously in these models.
 
@@ -306,10 +306,10 @@ Perhaps the most consequential part of pre‑training hazard modelling is not ju
 
 Mitigation strategies that can be shaped pre‑training include:
 
-* **Training adjustments**: Altering data curation, objective functions, or model architectures to constrain certain capabilities from emerging in the first place. These early interventions are informed by hazard forecasts that suggest areas of special caution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0893608026004570" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Aligning Large Language Models Across the Lifecycle: A Survey on Safety–Usability Trade-offs from Pre-training to Post-train...</span></span></span>
-* **Capability tripwires**: Incorporating [monitoring]({{ 'monitoring/' | relative_url }}) during training that watches for signs a model is approaching a threshold of dangerous behaviour and pauses training for further evaluation if triggered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">Frontier Model Forum Risk Taxonomy and Thresholds for Frontier AI Frameworks</span><span class="citation-popover-snippet">Frontier Model ForumRisk Taxonomy and Thresholds for Frontier AI Frameworks - Frontier Model ForumJune 18, 2025...</span><span class="citation-popover-meta">Published: June 18, 2025</span></span></span>
-* **Governance rules and safety cases**: Developers can assemble structured “safety cases” that tie evidence from pre‑training models and analogue tests to arguments about why a training run will not cross identified risk boundaries or will do so only with specified safeguards in place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2411.03336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Towards evaluations-based safety cases for AI scheming</span><span class="citation-popover-snippet">Towards evaluations-based safety cases for AI schemingOctober 29, 2024...</span><span class="citation-popover-meta">Published: October 29, 2024</span></span></span>
-* **External evaluation and regulatory engagement**: Pre‑training modelling can be documented and shared with independent reviewers or regulators as part of **mandatory evaluations** that would be required before intense compute authorisations. These documented risk forecasts and mitigation plans are critical if AI safety evaluations become a legal prerequisite. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Emerging processes for frontier AI safety</span><span class="citation-popover-snippet">27, 2023...</span></span></span>
+* **Training adjustments**: Altering data curation, objective functions, or model architectures to constrain certain capabilities from emerging in the first place. These early interventions are informed by hazard forecasts that suggest areas of special caution.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0893608026004570" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Aligning Large Language Models Across the Lifecycle: A Survey on Safety–Usability Trade-offs from Pre-training to Post-train...</span></span></span>
+* **Capability tripwires**: Incorporating [monitoring]({{ 'monitoring/' | relative_url }}) during training that watches for signs a model is approaching a threshold of dangerous behaviour and pauses training for further evaluation if triggered.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">Frontier Model Forum Risk Taxonomy and Thresholds for Frontier AI Frameworks</span><span class="citation-popover-snippet">Frontier Model ForumRisk Taxonomy and Thresholds for Frontier AI Frameworks - Frontier Model ForumJune 18, 2025...</span><span class="citation-popover-meta">Published: June 18, 2025</span></span></span>
+* **Governance rules and safety cases**: Developers can assemble structured “safety cases” that tie evidence from pre‑training models and analogue tests to arguments about why a training run will not cross identified risk boundaries or will do so only with specified safeguards in place.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2411.03336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Towards evaluations-based safety cases for AI scheming</span><span class="citation-popover-snippet">Towards evaluations-based safety cases for AI schemingOctober 29, 2024...</span><span class="citation-popover-meta">Published: October 29, 2024</span></span></span>
+* **External evaluation and regulatory engagement**: Pre‑training modelling can be documented and shared with independent reviewers or regulators as part of **mandatory evaluations** that would be required before intense compute authorisations. These documented risk forecasts and mitigation plans are critical if AI safety evaluations become a legal prerequisite.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Emerging processes for frontier AI safety</span><span class="citation-popover-snippet">27, 2023...</span></span></span>
 
 In advanced safety proposals, these mitigations are not static; they evolve. Training forecasts can be updated with new evidence from predecessor models, red‑teaming, and continuous evaluation pipelines so that as understanding grows, the mitigation strategies adjust accordingly.
 
@@ -319,276 +319,276 @@ In advanced safety proposals, these mitigations are not static; they evolve. Tra
 
 ## Why pre‑training modelling matters to existential risk governance
 
-From an AI doom perspective, the very idea of pre‑training hazard modelling reflects a shift from reactive to *anticipatory* risk management. Rather than testing only after a model exists—by which point highly capable behaviours might already be baked in—this modelling tries to forecast extreme risks, estimate where they might arise, and tie them to preventative action. In debates about mandatory frontier AI evaluations, this anticipatory modelling forms the backbone of arguments that powerful AI systems should not be trained without first demonstrating that critical hazards have been analysed and mitigated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">www.gov.uk Frontier AI: capabilities and risks – discussion paper</span><span class="citation-popover-snippet">Introduction 2. What is the current state of frontier AI capabilities? 3. How might frontier AI capabilitie...</span></span></span>
+From an AI doom perspective, the very idea of pre‑training hazard modelling reflects a shift from reactive to *anticipatory* risk management. Rather than testing only after a model exists—by which point highly capable behaviours might already be baked in—this modelling tries to forecast extreme risks, estimate where they might arise, and tie them to preventative action. In debates about mandatory frontier AI evaluations, this anticipatory modelling forms the backbone of arguments that powerful AI systems should not be trained without first demonstrating that critical hazards have been analysed and mitigated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">www.gov.uk Frontier AI: capabilities and risks – discussion paper</span><span class="citation-popover-snippet">Introduction 2. What is the current state of frontier AI capabilities? 3. How might frontier AI capabilitie...</span></span></span>
 
 Because frontier AI risk involves significant uncertainty and unprecedented capabilities, pre‑training hazard modelling does not claim exact predictions. But by combining structured threat frameworks, expert judgement, and evidence from analogue safety domains, it gives developers and regulators a way to move from vague fears about future dangers to concrete checkpoints and mitigation strategies before the most powerful AI systems are ever trained.
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1_pre_training_b6a05c-Illustration-3-dark.svg" | relative_url }}" alt="Pre Training Risks illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1_pre_training_b6a05c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_mandatory_saf_3b69c1_pre_training_b6a05c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Pre Training Hazard Modelling Aims to Prevent Catastrophic AI Risks. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Pre Training Hazard Modelling Aims to Prevent Catastrophic AI Risks. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Russell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
+</h4>
+<p class="fr-book-author">By Stuart Russell</p>
         
-        <p class="fr-book-desc">Frames potential AI hazards before systems are deployed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Frames potential AI hazards before systems are deployed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
-        </h4>
-        <p class="fr-book-author">By Brian Christian</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
+</h4>
+<p class="fr-book-author">By Brian Christian</p>
         
-        <p class="fr-book-desc">Explains how safety failures can emerge in machine-learning systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how safety failures can emerge in machine-learning systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Precipice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=iaejzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Precipice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Precipice">The Precipice</a>
-        </h4>
-        <p class="fr-book-author">By Toby Ord</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Precipice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=iaejzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Precipice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Precipice">The Precipice</a>
+</h4>
+<p class="fr-book-author">By Toby Ord</p>
         
-        <p class="fr-book-desc">Directly addresses catastrophic and existential risks including advanced AI.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses catastrophic and existential risks including advanced AI.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-        </h4>
-        <p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+</h4>
+<p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
         
-        <p class="fr-book-desc">Hazard modelling depends on structured prediction and risk assessment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hazard modelling depends on structured prediction and risk assessment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Precipice&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Precipice</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Precipice&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Precipice</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 500PCS Science Chemistry Stickers Rolls – Lab Experiment Cartoon Reward Labels"><img src="{{ '/assets/images/marketplace-covers/1ece629a145f826eb9e1.jpg' | relative_url }}" alt="Listing image for 500PCS Science Chemistry Stickers Rolls – Lab Experiment Cartoon Reward Labels" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">500PCS Science Chemistry Stickers Rolls – Lab Experiment Cartoon Reward Labels</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science sticker">Search <span data-ebay-domain-label>eBay.com</span>: science sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-science-sticker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 500PCS Science Chemistry Stickers Rolls – Lab Experiment Cartoon Reward Labels"><img src="{{ '/assets/images/marketplace-covers/1ece629a145f826eb9e1.jpg' | relative_url }}" alt="Listing image for 500PCS Science Chemistry Stickers Rolls – Lab Experiment Cartoon Reward Labels" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">500PCS Science Chemistry Stickers Rolls – Lab Experiment Cartoon Reward Labels</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science sticker">Search<span data-ebay-domain-label>eBay.com</span>: science sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-science-sticker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 10 Random Science Education Themed Stickers Decals Laptop Yeti Car Free Shipping"><img src="{{ '/assets/images/marketplace-covers/46b8553cc16c55a738c0.jpg' | relative_url }}" alt="Listing image for 10 Random Science Education Themed Stickers Decals Laptop Yeti Car Free Shipping" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">10 Random Science Education Themed Stickers Decals Laptop Yeti Car Free Shipping</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science sticker">Search <span data-ebay-domain-label>eBay.com</span>: science sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-science-sticker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 10 Random Science Education Themed Stickers Decals Laptop Yeti Car Free Shipping"><img src="{{ '/assets/images/marketplace-covers/46b8553cc16c55a738c0.jpg' | relative_url }}" alt="Listing image for 10 Random Science Education Themed Stickers Decals Laptop Yeti Car Free Shipping" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">10 Random Science Education Themed Stickers Decals Laptop Yeti Car Free Shipping</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science sticker">Search<span data-ebay-domain-label>eBay.com</span>: science sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-science-sticker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Atomic Energy Commission USA Seal Sticker | Science Physics Nuclear Vinyl 4993"><img src="{{ '/assets/images/marketplace-covers/60589373018108bcd780.jpg' | relative_url }}" alt="Listing image for Atomic Energy Commission USA Seal Sticker | Science Physics Nuclear Vinyl 4993" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Atomic Energy Commission USA Seal Sticker | Science Physics Nuclear Vinyl 4993</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science sticker">Search <span data-ebay-domain-label>eBay.com</span>: science sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-science-sticker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Atomic Energy Commission USA Seal Sticker | Science Physics Nuclear Vinyl 4993"><img src="{{ '/assets/images/marketplace-covers/60589373018108bcd780.jpg' | relative_url }}" alt="Listing image for Atomic Energy Commission USA Seal Sticker | Science Physics Nuclear Vinyl 4993" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Atomic Energy Commission USA Seal Sticker | Science Physics Nuclear Vinyl 4993</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science sticker">Search<span data-ebay-domain-label>eBay.com</span>: science sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-science-sticker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Vinyl Sticker Its Like Magic But Real Perfect for Science #790260"><img src="{{ '/assets/images/marketplace-covers/9770068d609e4c87b390.jpg' | relative_url }}" alt="Listing image for Science Vinyl Sticker Its Like Magic But Real Perfect for Science #790260" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Science Vinyl Sticker Its Like Magic But Real Perfect for Science #790260</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science sticker">Search <span data-ebay-domain-label>eBay.com</span>: science sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-science-sticker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Vinyl Sticker Its Like Magic But Real Perfect for Science #790260"><img src="{{ '/assets/images/marketplace-covers/9770068d609e4c87b390.jpg' | relative_url }}" alt="Listing image for Science Vinyl Sticker Its Like Magic But Real Perfect for Science #790260" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Science Vinyl Sticker Its Like Magic But Real Perfect for Science #790260</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science sticker">Search<span data-ebay-domain-label>eBay.com</span>: science sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-science-sticker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for EcoBot Robotics Toy Build and Learn Science Museum STEM Building Robot Kit"><img src="{{ '/assets/images/marketplace-covers/6316323198d3d3131842.jpg' | relative_url }}" alt="Listing image for EcoBot Robotics Toy Build and Learn Science Museum STEM Building Robot Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">EcoBot Robotics Toy Build and Learn Science Museum STEM Building Robot Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-robotics-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for EcoBot Robotics Toy Build and Learn Science Museum STEM Building Robot Kit"><img src="{{ '/assets/images/marketplace-covers/6316323198d3d3131842.jpg' | relative_url }}" alt="Listing image for EcoBot Robotics Toy Build and Learn Science Museum STEM Building Robot Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">EcoBot Robotics Toy Build and Learn Science Museum STEM Building Robot Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-robotics-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Makeblock mBot STEM Educational Robot Kit – Bluetooth Version Boxed"><img src="{{ '/assets/images/marketplace-covers/45456d42d140ae8a9876.jpg' | relative_url }}" alt="Listing image for Makeblock mBot STEM Educational Robot Kit – Bluetooth Version Boxed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Makeblock mBot STEM Educational Robot Kit – Bluetooth Version Boxed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-robotics-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Makeblock mBot STEM Educational Robot Kit – Bluetooth Version Boxed"><img src="{{ '/assets/images/marketplace-covers/45456d42d140ae8a9876.jpg' | relative_url }}" alt="Listing image for Makeblock mBot STEM Educational Robot Kit – Bluetooth Version Boxed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Makeblock mBot STEM Educational Robot Kit – Bluetooth Version Boxed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-robotics-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6 in 1 Solar Powered Boat Robot Kit DIY Educational Toy 3D Model Fan Toys Car"><img src="{{ '/assets/images/marketplace-covers/526b63c9105e4b2c7bc0.jpg' | relative_url }}" alt="Listing image for 6 in 1 Solar Powered Boat Robot Kit DIY Educational Toy 3D Model Fan Toys Car" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">6 in 1 Solar Powered Boat Robot Kit DIY Educational Toy 3D Model Fan Toys Car</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-robotics-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6 in 1 Solar Powered Boat Robot Kit DIY Educational Toy 3D Model Fan Toys Car"><img src="{{ '/assets/images/marketplace-covers/526b63c9105e4b2c7bc0.jpg' | relative_url }}" alt="Listing image for 6 in 1 Solar Powered Boat Robot Kit DIY Educational Toy 3D Model Fan Toys Car" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">6 in 1 Solar Powered Boat Robot Kit DIY Educational Toy 3D Model Fan Toys Car</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-robotics-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for STEM Spider Robot Toy Kit DIY Educational Science Project Kids Building Gift 6+"><img src="{{ '/assets/images/marketplace-covers/2d5008516bc0d9d6228c.jpg' | relative_url }}" alt="Listing image for STEM Spider Robot Toy Kit DIY Educational Science Project Kids Building Gift 6+" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">STEM Spider Robot Toy Kit DIY Educational Science Project Kids Building Gift 6+</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-robotics-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for STEM Spider Robot Toy Kit DIY Educational Science Project Kids Building Gift 6+"><img src="{{ '/assets/images/marketplace-covers/2d5008516bc0d9d6228c.jpg' | relative_url }}" alt="Listing image for STEM Spider Robot Toy Kit DIY Educational Science Project Kids Building Gift 6+" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">STEM Spider Robot Toy Kit DIY Educational Science Project Kids Building Gift 6+</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-robotics-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pre-training-risks-how-pre-training-hazard-modelling-aims-to-prevent-catastrophic-ai-risks-ai-do-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -604,7 +604,7 @@ Because frontier AI risk involves significant uncertainty and unprecedented capa
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -624,7 +624,7 @@ Because frontier AI risk involves significant uncertainty and unprecedented capa
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -656,7 +656,7 @@ Because frontier AI risk involves significant uncertainty and unprecedented capa
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -686,7 +686,7 @@ Because frontier AI risk involves significant uncertainty and unprecedented capa
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -744,140 +744,140 @@ Because frontier AI risk involves significant uncertainty and unprecedented capa
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
    Title: arXiv Towards evaluations-based safety cases for AI scheming  
-   Link: <a href="https://arxiv.org/abs/2411.03336" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.03336</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Towards evaluations-based safety cases for AI schemingOctober 29, 2024...</p></details>
+   Link:<a href="https://arxiv.org/abs/2411.03336" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.03336</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Towards evaluations-based safety cases for AI schemingOctober 29, 2024...</p></details>
    Published: October 29, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0893608026004570" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0893608026004570</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aligning Large Language Models Across the Lifecycle: A Survey on Safety–Usability Trade-offs from Pre-training to Post-train...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0893608026004570" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0893608026004570</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aligning Large Language Models Across the Lifecycle: A Survey on Safety–Usability Trade-offs from Pre-training to Post-train...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: GOV.UK  
    Title: Emerging processes for frontier AI safety  
-   Link: <a href="https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>27, 2023...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>27, 2023...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: GOV.UK  
    Title: www.gov.uk Frontier AI: capabilities and risks – discussion paper  
-   Link: <a href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction 2. What is the current state of frontier AI capabilities? 3. How might frontier AI capabilitie...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction 2. What is the current state of frontier AI capabilities? 3. How might frontier AI capabilitie...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Executive summary 2. Context 3. Current Frontier AI capabilities 4. Future Frontier AI capabilities 5. Other critical uncert...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Executive summary 2. Context 3. Current Frontier AI capabilities 4. Future Frontier AI capabilities 5. Other critical uncert...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: frontiermodelforum.org  
    Title: Frontier Model Forum Risk Taxonomy and Thresholds for Frontier AI Frameworks  
-   Link: <a href="https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Model ForumRisk Taxonomy and Thresholds for Frontier AI Frameworks - Frontier Model ForumJune 18, 2025...</p></details>
+   Link:<a href="https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Model ForumRisk Taxonomy and Thresholds for Frontier AI Frameworks - Frontier Model ForumJune 18, 2025...</p></details>
    Published: June 18, 2025  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: frontiermodelforum.org  
    Title: Frontier Model Forum Managing Advanced Cyber Risks in Frontier AI Frameworks  
-   Link: <a href="https://www.frontiermodelforum.org/technical-reports/managing-advanced-cyber-risks-in-frontier-ai-frameworks/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/technical-reports/managing-advanced-cyber-risks-in-frontier-ai-frameworks/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Model ForumManaging Advanced Cyber Risks in Frontier AI Frameworks - Frontier Model ForumFebruary 13, 2026...</p></details>
+   Link:<a href="https://www.frontiermodelforum.org/technical-reports/managing-advanced-cyber-risks-in-frontier-ai-frameworks/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/technical-reports/managing-advanced-cyber-risks-in-frontier-ai-frameworks/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Model ForumManaging Advanced Cyber Risks in Frontier AI Frameworks - Frontier Model ForumFebruary 13, 2026...</p></details>
    Published: February 13, 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: apolloresearch.ai  
-   Link: <a href="https://www.apolloresearch.ai/research/precursory-capabilities-a-refinement-to-pre-deployment-information-sharing-and-tripwire-capabilities" target="_blank" rel="noopener noreferrer nofollow">https://www.apolloresearch.ai/research/precursory-capabilities-a-refinement-to-pre-deployment-information-sharing-and-tripwire-capabilities</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Apollo ResearchPrecursory Capabilities: A Refinement to Pre-deployment Information Sharing and Tripwire Capabilities – Apollo ResearchJun...</p></details>
+   Link:<a href="https://www.apolloresearch.ai/research/precursory-capabilities-a-refinement-to-pre-deployment-information-sharing-and-tripwire-capabilities" target="_blank" rel="noopener noreferrer nofollow">https://www.apolloresearch.ai/research/precursory-capabilities-a-refinement-to-pre-deployment-information-sharing-and-tripwire-capabilities</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Apollo ResearchPrecursory Capabilities: A Refinement to Pre-deployment Information Sharing and Tripwire Capabilities – Apollo ResearchJun...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: safer-ai.org  
    Title: the role of risk modeling in advanced ai risk management  
-   Link: <a href="https://www.safer-ai.org/research/the-role-of-risk-modeling-in-advanced-ai-risk-management" target="_blank" rel="noopener noreferrer nofollow">https://www.safer-ai.org/research/the-role-of-risk-modeling-in-advanced-ai-risk-management</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SaferAIThe Role of Risk Modeling in Advanced AI Risk Management – SaferAIDecember 10, 2025...</p></details>
+   Link:<a href="https://www.safer-ai.org/research/the-role-of-risk-modeling-in-advanced-ai-risk-management" target="_blank" rel="noopener noreferrer nofollow">https://www.safer-ai.org/research/the-role-of-risk-modeling-in-advanced-ai-risk-management</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SaferAIThe Role of Risk Modeling in Advanced AI Risk Management – SaferAIDecember 10, 2025...</p></details>
    Published: December 10, 2025  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: frontiermodelforum.org  
-   Link: <a href="https://www.frontiermodelforum.org/updates/issue-brief-preliminary-taxonomy-of-pre-deployment-frontier-ai-safety-evaluations/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/updates/issue-brief-preliminary-taxonomy-of-pre-deployment-frontier-ai-safety-evaluations/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Model ForumIssue Brief: Preliminary Taxonomy of Pre-Deployment Frontier AI Safety Evaluations - Frontier Model ForumDecember 20...</p></details>
+   Link:<a href="https://www.frontiermodelforum.org/updates/issue-brief-preliminary-taxonomy-of-pre-deployment-frontier-ai-safety-evaluations/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/updates/issue-brief-preliminary-taxonomy-of-pre-deployment-frontier-ai-safety-evaluations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Model ForumIssue Brief: Preliminary Taxonomy of Pre-Deployment Frontier AI Safety Evaluations - Frontier Model ForumDecember 20...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: emergentmind.com  
    Title: Frontier Model Safety Framework  
-   Link: <a href="https://www.emergentmind.com/topics/frontier-model-safety-framework-fmsf" target="_blank" rel="noopener noreferrer nofollow">https://www.emergentmind.com/topics/frontier-model-safety-framework-fmsf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 3, 2026 — FRONTIER MODEL SAFETY FRAMEWORK Updated 3 February 2026 * FMSF is a comprehensive safety framework that systematically...</p></details>
+   Link:<a href="https://www.emergentmind.com/topics/frontier-model-safety-framework-fmsf" target="_blank" rel="noopener noreferrer nofollow">https://www.emergentmind.com/topics/frontier-model-safety-framework-fmsf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 3, 2026 — FRONTIER MODEL SAFETY FRAMEWORK Updated 3 February 2026 * FMSF is a comprehensive safety framework that systematically...</p></details>
    Published: February 3, 2026  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: frontiermodelforum.org  
    Title: Frontier Mitigations  
-   Link: <a href="https://www.frontiermodelforum.org/technical-reports/frontier-mitigations/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/technical-reports/frontier-mitigations/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OVERVIEW OF FRONTIER MITIGATIONS 1.1 PURPOSE AND SCOPE Frontier mitigations are protective measures implemented on frontier models, with...</p></details>
+   Link:<a href="https://www.frontiermodelforum.org/technical-reports/frontier-mitigations/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/technical-reports/frontier-mitigations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OVERVIEW OF FRONTIER MITIGATIONS 1.1 PURPOSE AND SCOPE Frontier mitigations are protective measures implemented on frontier models, with...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: s-rsa.com  
-   Link: <a href="https://s-rsa.com/index.php/agi/article/view/14741" target="_blank" rel="noopener noreferrer nofollow">https://s-rsa.com/index.php/agi/article/view/14741</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Yu-Gang Jiang | SuperIntelligence - Robotics - Safety &amp; AlignmentJune 3, 2025 — REVIEW: SAFETY AT SCALE: COMPREHENSIVE SURVEY OF LARGE MO...</p></details>
+   Link:<a href="https://s-rsa.com/index.php/agi/article/view/14741" target="_blank" rel="noopener noreferrer nofollow">https://s-rsa.com/index.php/agi/article/view/14741</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Yu-Gang Jiang | SuperIntelligence - Robotics - Safety &amp; AlignmentJune 3, 2025 — REVIEW: SAFETY AT SCALE: COMPREHENSIVE SURVEY OF LARGE MO...</p></details>
    Published: June 3, 2025  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: [evals](&#123;&#123; 'evals/' | relative_url &#125;&#125;). alignment.org  
    Title: Open AI’s Preparedness Framework, Google Deep Mind’s Frontier Safet  
-   Link: <a href="https://evals.alignment.org/blog/2025-01-17-ai-models-dangerous-before-public-deployment/" target="_blank" rel="noopener noreferrer nofollow">https://evals.alignment.org/blog/2025-01-17-ai-models-dangerous-before-public-deployment/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>models can be dangerous before public deployment - METRJanuary 17, 2025 — AI models can be dangerous before public deployment DATE Januar...</p></details>
+   Link:<a href="https://evals.alignment.org/blog/2025-01-17-ai-models-dangerous-before-public-deployment/" target="_blank" rel="noopener noreferrer nofollow">https://evals.alignment.org/blog/2025-01-17-ai-models-dangerous-before-public-deployment/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>models can be dangerous before public deployment - METRJanuary 17, 2025 — AI models can be dangerous before public deployment DATE Januar...</p></details>
    Published: January 17, 2025  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: papers.cool  
    Title: Systematic Hazard Analysis for Frontier AI using STPA | Cool Papers  
-   Link: <a href="https://papers.cool/arxiv/2506.01782" target="_blank" rel="noopener noreferrer nofollow">https://papers.cool/arxiv/2506.01782</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Immersive Paper DiscoveryJune 2, 2025 — 2506.01782 Total: 1 #1 SYSTEMATIC HAZARD ANALYSIS FOR FRONTIER AI USING STPA [PDF^{}] [COPY] [KIM...</p></details>
+   Link:<a href="https://papers.cool/arxiv/2506.01782" target="_blank" rel="noopener noreferrer nofollow">https://papers.cool/arxiv/2506.01782</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Immersive Paper DiscoveryJune 2, 2025 — 2506.01782 Total: 1 #1 SYSTEMATIC HAZARD ANALYSIS FOR FRONTIER AI USING STPA [PDF^{}] [COPY] [KIM...</p></details>
    Published: June 2, 2025  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: "Extinction from AI" – The FULL explanation  
-   Link: <a href="https://www.youtube.com/watch?v=2Tn5gy1Fuwg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2Tn5gy1Fuwg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Pre-training hazard modelling&quot; OR &quot;frontier model safety framework&quot; Safety Testing Amazon&#x27;s Nova Premier AI Research Roundup...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2Tn5gy1Fuwg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2Tn5gy1Fuwg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Pre-training hazard modelling&quot; OR &quot;frontier model safety framework&quot; Safety Testing Amazon&#x27;s Nova Premier AI Research Roundup...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: OpenAI  
    Title: a hazard analysis framework for code synthesis large language models  
-   Link: <a href="https://openai.com/index/a-hazard-analysis-framework-for-code-synthesis-large-language-models/" target="_blank" rel="noopener noreferrer nofollow">https://openai.com/index/a-hazard-analysis-framework-for-code-synthesis-large-language-models/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>comA hazard analysis framework for code synthesis large language models | OpenAIJuly 25, 2022 — A hazard analysis framework for code synt...</p></details>
+   Link:<a href="https://openai.com/index/a-hazard-analysis-framework-for-code-synthesis-large-language-models/" target="_blank" rel="noopener noreferrer nofollow">https://openai.com/index/a-hazard-analysis-framework-for-code-synthesis-large-language-models/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>comA hazard analysis framework for code synthesis large language models | OpenAIJuly 25, 2022 — A hazard analysis framework for code synt...</p></details>
    Published: July 25, 2022  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=R49Cv7pJ2KA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=R49Cv7pJ2KA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OpenAI’s Preparedness Framework: AI Safety Plan...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=R49Cv7pJ2KA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=R49Cv7pJ2KA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OpenAI’s Preparedness Framework: AI Safety Plan...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ai-safety-atlas.com  
    Title: Foundation Models  
-   Link: <a href="https://ai-safety-atlas.com/chapters/v1/capabilities/foundation-models" target="_blank" rel="noopener noreferrer nofollow">https://ai-safety-atlas.com/chapters/v1/capabilities/foundation-models</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>First, they go through what we call a pre-training, and then second, they can be adapted through various mechanisms like fin...</p></details>
+   Link:<a href="https://ai-safety-atlas.com/chapters/v1/capabilities/foundation-models" target="_blank" rel="noopener noreferrer nofollow">https://ai-safety-atlas.com/chapters/v1/capabilities/foundation-models</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>First, they go through what we call a pre-training, and then second, they can be adapted through various mechanisms like fin...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Anthropic’s Plan to Stop AI Bioweapons & Autonomous Misuse  
-   Link: <a href="https://www.youtube.com/watch?v=n5h1GNvzqIg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=n5h1GNvzqIg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Extinction from AI&quot; – The FULL explanation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=n5h1GNvzqIg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=n5h1GNvzqIg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Extinction from AI&quot; – The FULL explanation...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: OpenAI  
    Title: frontier ai regulation  
-   Link: <a href="https://openai.com/research/frontier-ai-regulation" target="_blank" rel="noopener noreferrer nofollow">https://openai.com/research/frontier-ai-regulation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>comFrontier AI regulation: Managing emerging risks to public safety | OpenAIJuly 6, 2023 — OpenAI July 6, 2023 Publication FRONTIER AI RE...</p></details>
+   Link:<a href="https://openai.com/research/frontier-ai-regulation" target="_blank" rel="noopener noreferrer nofollow">https://openai.com/research/frontier-ai-regulation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>comFrontier AI regulation: Managing emerging risks to public safety | OpenAIJuly 6, 2023 — OpenAI July 6, 2023 Publication FRONTIER AI RE...</p></details>
    Published: July 6, 2023  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Anthropic's AI Safety Plan  
-   Link: <a href="https://www.youtube.com/watch?v=Z_nHHKrcjQM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Z_nHHKrcjQM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic’s Plan to Stop AI Bioweapons &amp; Autonomous Misuse...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Z_nHHKrcjQM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Z_nHHKrcjQM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic’s Plan to Stop AI Bioweapons &amp; Autonomous Misuse...</p></details>

@@ -269,7 +269,7 @@ image: /assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b
 
 ## Introduction
 
-In debates about AI doom and existential risk, cyber [evaluations]({{ 'evaluations/' | relative_url }}) matter because they may provide one of the earliest observable signs that an AI system is crossing from laboratory competence into real-world operational capability. The key question is not whether a model can answer cybersecurity questions or solve benchmark puzzles. It is whether it can reliably help carry out substantial parts of an attack campaign in realistic environments, reducing the expertise, time, or effort required for dangerous actors. When that happens, many safety frameworks argue that deployment should no longer be treated as an ordinary product decision. Instead, it becomes a [governance]({{ 'governance/' | relative_url }}) decision involving access controls, security requirements, monitoring, and potentially delayed release. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.openai.com">[OpenAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.openai.com</span><span class="citation-popover-title">Open AIPreparedness Framework</span><span class="citation-popover-snippet">Preparedness FrameworkApril 28, 2025 — 15 Apr 2025 — Critical capability thresholds mean capabilities that present a meaningful ris...</span><span class="citation-popover-meta">Published: April 28, 2025</span></span></span>
+In debates about AI doom and existential risk, cyber [evaluations]({{ 'evaluations/' | relative_url }}) matter because they may provide one of the earliest observable signs that an AI system is crossing from laboratory competence into real-world operational capability. The key question is not whether a model can answer cybersecurity questions or solve benchmark puzzles. It is whether it can reliably help carry out substantial parts of an attack campaign in realistic environments, reducing the expertise, time, or effort required for dangerous actors. When that happens, many safety frameworks argue that deployment should no longer be treated as an ordinary product decision. Instead, it becomes a [governance]({{ 'governance/' | relative_url }}) decision involving access controls, security requirements, monitoring, and potentially delayed release.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.openai.com">[OpenAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.openai.com</span><span class="citation-popover-title">Open AIPreparedness Framework</span><span class="citation-popover-snippet">Preparedness FrameworkApril 28, 2025 — 15 Apr 2025 — Critical capability thresholds mean capabilities that present a meaningful ris...</span><span class="citation-popover-meta">Published: April 28, 2025</span></span></span>
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_operational_c_79f69a-Illustration-1-dark.svg" | relative_url }}" alt="Operational Thresholds illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_operational_c_79f69a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_cyber_eval_tr_2b6c40_operational_c_79f69a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader question of when cyber evaluations become genuine deployment tripwires, operational-[capability thresholds]({{ 'capability-thresholds/' | relative_url }}) are the point at which demonstrated performance is considered strong enough to trigger additional safeguards. The central challenge is determining where that threshold should sit and what evidence should count as crossing it.
@@ -278,7 +278,7 @@ Within the broader question of when cyber evaluations become genuine deployment 
 
 A cyber capability threshold is not simply a benchmark score. Most frontier AI governance frameworks define thresholds in terms of meaningful changes to real-world risk.
 
-OpenAI's Preparedness Framework describes critical capability thresholds as capabilities that create a qualitatively new route to severe harm and therefore require safeguards. Anthropic's Responsible Scaling Policy similarly links capability thresholds to mandatory protections rather than treating them as research curiosities. The broader frontier-AI governance literature increasingly converges on the idea that thresholds should trigger specific mitigations rather than merely generate concern. <span class="citation-chip-wrap"><a class="citation-chip" href="https://metr.org/common-elements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[METR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-title">common elements</span><span class="citation-popover-snippet">Common Elements of Frontier AI Safety Policies16 Dec 2025 — Capability Thresholds: Thresholds at which specific AI capabilities would...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.openai.com">[OpenAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.openai.com</span><span class="citation-popover-title">Open AIPreparedness Framework</span><span class="citation-popover-snippet">Preparedness FrameworkApril 28, 2025 — 15 Apr 2025 — Critical capability thresholds mean capabilities that present a meaningful ris...</span><span class="citation-popover-meta">Published: April 28, 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www-cdn.anthropic.com/872c653b2d0501d6ab44cf87f43e1dc4853e4d37.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www-cdn.anthropic.com">[Anthropic For cyber risk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www-cdn.anthropic.com</span><span class="citation-popover-snippet">This update to our RSP provides...Read more...</span></span></span>, the most important distinction is between:
+OpenAI's Preparedness Framework describes critical capability thresholds as capabilities that create a qualitatively new route to severe harm and therefore require safeguards. Anthropic's Responsible Scaling Policy similarly links capability thresholds to mandatory protections rather than treating them as research curiosities. The broader frontier-AI governance literature increasingly converges on the idea that thresholds should trigger specific mitigations rather than merely generate concern.<span class="citation-chip-wrap"><a class="citation-chip" href="https://metr.org/common-elements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metr.org">[METR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metr.org</span><span class="citation-popover-title">common elements</span><span class="citation-popover-snippet">Common Elements of Frontier AI Safety Policies16 Dec 2025 — Capability Thresholds: Thresholds at which specific AI capabilities would...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.openai.com">[OpenAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.openai.com</span><span class="citation-popover-title">Open AIPreparedness Framework</span><span class="citation-popover-snippet">Preparedness FrameworkApril 28, 2025 — 15 Apr 2025 — Critical capability thresholds mean capabilities that present a meaningful ris...</span><span class="citation-popover-meta">Published: April 28, 2025</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www-cdn.anthropic.com/872c653b2d0501d6ab44cf87f43e1dc4853e4d37.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www-cdn.anthropic.com">[Anthropic For cyber risk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www-cdn.anthropic.com</span><span class="citation-popover-snippet">This update to our RSP provides...Read more...</span></span></span>, the most important distinction is between:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -297,13 +297,13 @@ Traditional cybersecurity benchmarks often measure narrow skills: identifying a 
 
 Real attacks are different. They typically involve reconnaissance, privilege escalation, persistence, lateral movement, credential management, adaptation to unexpected obstacles, and continuous decision-making. A model that performs well on individual tasks may still fail repeatedly when required to coordinate dozens of interconnected actions.
 
-This is why recent evaluation work has shifted towards multi-step attack scenarios. A 2026 study evaluating frontier models on purpose-built cyber ranges measured performance on a 32-step corporate network attack and a 7-step industrial-control-system scenario. Rather than asking whether models could solve isolated technical problems, the evaluation tested whether they could sustain progress across extended attack chains. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2603.11214" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack Scenarios</span><span class="citation-popover-snippet">Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack ScenariosMarch 11, 2026...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span>
+This is why recent evaluation work has shifted towards multi-step attack scenarios. A 2026 study evaluating frontier models on purpose-built cyber ranges measured performance on a 32-step corporate network attack and a 7-step industrial-control-system scenario. Rather than asking whether models could solve isolated technical problems, the evaluation tested whether they could sustain progress across extended attack chains.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2603.11214" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack Scenarios</span><span class="citation-popover-snippet">Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack ScenariosMarch 11, 2026...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span>
 
 The results were notable for two reasons.
 
-First, capability improved rapidly across model generations. Average performance on the corporate-network scenario increased substantially between models released in 2024 and those released in early 2026. The strongest run completed 22 of 32 attack steps, far exceeding earlier systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2603.11214" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack Scenarios</span><span class="citation-popover-snippet">Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack ScenariosMarch 11, 2026...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span>
+First, capability improved rapidly across model generations. Average performance on the corporate-network scenario increased substantially between models released in 2024 and those released in early 2026. The strongest run completed 22 of 32 attack steps, far exceeding earlier systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2603.11214" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack Scenarios</span><span class="citation-popover-snippet">Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack ScenariosMarch 11, 2026...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span>
 
-Second, performance improved when models were given larger inference budgets. More compute at deployment time produced substantial gains without requiring new training methods. From a governance perspective, this matters because apparent capability can depend not only on the underlying model but also on how much reasoning time operators allow it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2603.11214" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack Scenarios</span><span class="citation-popover-snippet">Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack ScenariosMarch 11, 2026...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span>
+Second, performance improved when models were given larger inference budgets. More compute at deployment time produced substantial gains without requiring new training methods. From a governance perspective, this matters because apparent capability can depend not only on the underlying model but also on how much reasoning time operators allow it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2603.11214" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack Scenarios</span><span class="citation-popover-snippet">Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack ScenariosMarch 11, 2026...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span>
 
 These findings suggest that operational thresholds cannot be defined purely in terms of model architecture or benchmark rankings. They must account for the entire deployed system, including agent scaffolding, tool access, memory systems, and inference-time resources.
 
@@ -323,7 +323,7 @@ If a model can repeatedly complete substantial fractions of realistic attack seq
 
 ### Capability comparable to experienced human practitioners
 
-The UK AI Security Institute reports that frontier models progressed from apprentice-level cyber performance in 2023 to completing some expert-level tasks in 2025. That does not mean they have become expert hackers overall, but it demonstrates that expert-level performance is now appearing in at least some evaluation settings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)Cyber: Models started completing expert-level tasks (ty...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)Cyber: Models started completing expert-level tasks (ty...</span></span></span>
+The UK AI Security Institute reports that frontier models progressed from apprentice-level cyber performance in 2023 to completing some expert-level tasks in 2025. That does not mean they have become expert hackers overall, but it demonstrates that expert-level performance is now appearing in at least some evaluation settings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)Cyber: Models started completing expert-level tasks (ty...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)Cyber: Models started completing expert-level tasks (ty...</span></span></span>
 
 For many governance proposals, the appearance of expert-level capability is an important warning sign because it suggests that further improvements could rapidly expand operational usefulness.
 
@@ -332,7 +332,7 @@ For many governance proposals, the appearance of expert-level capability is an i
 
 Many doom-oriented analyses focus on [autonomy]({{ 'autonomy/' | relative_url }}) rather than raw technical skill.
 
-A model that occasionally generates useful exploit code may be less concerning than a model that can independently pursue objectives for hours, coordinate tools, recover from failures, and continue making progress with minimal supervision. AISI reports substantial increases in models' ability to complete long-horizon tasks, suggesting that autonomy and cyber capability may improve together rather than independently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)Cyber: Models started completing expert-level tasks (ty...</span></span></span>
+A model that occasionally generates useful exploit code may be less concerning than a model that can independently pursue objectives for hours, coordinate tools, recover from failures, and continue making progress with minimal supervision. AISI reports substantial increases in models' ability to complete long-horizon tasks, suggesting that autonomy and cyber capability may improve together rather than independently.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)Cyber: Models started completing expert-level tasks (ty...</span></span></span>
 
 ### Meaningful reduction in attacker costs
 
@@ -346,7 +346,7 @@ Ordinary cybersecurity concerns do not automatically imply existential risk. The
 
 One concern is that highly capable cyber systems could accelerate broader loss-of-control scenarios. Advanced AI systems may depend on large-scale computing infrastructure, networked services, cloud resources, and digital institutions. Cyber capabilities could increase an AI system's ability to acquire resources, evade oversight, or exploit vulnerabilities if future systems become substantially more autonomous than [current models]({{ 'current-models/' | relative_url }}).
 
-Another concern involves recursive capability growth. If AI systems become capable of assisting significantly with software engineering, infrastructure management, and cyber operations, they may contribute to faster AI development itself. Some researchers worry that this could shorten the time available for safety measures and governance responses. These scenarios remain speculative, but they help explain why frontier safety frameworks frequently include cyber capability among their highest-priority evaluation domains. Anthropic <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">risk taxonomy and thresholds</span><span class="citation-popover-snippet">for Frontier AI Frameworks18 Jun 2025 — Frontier AI frameworks outline methodologies for identifying, managing and mitigating the potenti...</span></span></span>
+Another concern involves recursive capability growth. If AI systems become capable of assisting significantly with software engineering, infrastructure management, and cyber operations, they may contribute to faster AI development itself. Some researchers worry that this could shorten the time available for safety measures and governance responses. These scenarios remain speculative, but they help explain why frontier safety frameworks frequently include cyber capability among their highest-priority evaluation domains. Anthropic<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">risk taxonomy and thresholds</span><span class="citation-popover-snippet">for Frontier AI Frameworks18 Jun 2025 — Frontier AI frameworks outline methodologies for identifying, managing and mitigating the potenti...</span></span></span>
 
 Importantly, operational cyber thresholds are not treated as proof that an AI takeover is imminent. Rather, they are viewed as warning indicators that a system is acquiring real-world leverage over critical digital environments.
 
@@ -358,12 +358,12 @@ There is substantial disagreement about how close present systems are to deploym
 
 Those advocating stronger precautions point to several trends:
 
-* Expert-level performance has begun appearing in some cyber evaluations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)Cyber: Models started completing expert-level tasks (ty...</span></span></span>
-* Autonomous task performance continues to improve rapidly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)Cyber: Models started completing expert-level tasks (ty...</span></span></span>
-* Multi-step cyber evaluations show consistent progress across generations of frontier models. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2603.11214" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack Scenarios</span><span class="citation-popover-snippet">Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack ScenariosMarch 11, 2026...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span>
-* Frontier laboratories and governments increasingly discuss capability thresholds and associated safeguards as practical governance tools rather than theoretical possibilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.openai.com">[OpenAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.openai.com</span><span class="citation-popover-title">Open AIPreparedness Framework</span><span class="citation-popover-snippet">Preparedness FrameworkApril 28, 2025 — 15 Apr 2025 — Critical capability thresholds mean capabilities that present a meaningful ris...</span><span class="citation-popover-meta">Published: April 28, 2025</span></span></span> Anthropic Sceptics emphasise different facts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www-cdn.anthropic.com/872c653b2d0501d6ab44cf87f43e1dc4853e4d37.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www-cdn.anthropic.com">[www-cdn.anthropic.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www-cdn.anthropic.com</span><span class="citation-popover-snippet">This update to our RSP provides...Read more...</span></span></span>
+* Expert-level performance has begun appearing in some cyber evaluations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)Cyber: Models started completing expert-level tasks (ty...</span></span></span>
+* Autonomous task performance continues to improve rapidly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)Cyber: Models started completing expert-level tasks (ty...</span></span></span>
+* Multi-step cyber evaluations show consistent progress across generations of frontier models.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2603.11214" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack Scenarios</span><span class="citation-popover-snippet">Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack ScenariosMarch 11, 2026...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span>
+* Frontier laboratories and governments increasingly discuss capability thresholds and associated safeguards as practical governance tools rather than theoretical possibilities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.openai.com">[OpenAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.openai.com</span><span class="citation-popover-title">Open AIPreparedness Framework</span><span class="citation-popover-snippet">Preparedness FrameworkApril 28, 2025 — 15 Apr 2025 — Critical capability thresholds mean capabilities that present a meaningful ris...</span><span class="citation-popover-meta">Published: April 28, 2025</span></span></span> Anthropic Sceptics emphasise different facts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www-cdn.anthropic.com/872c653b2d0501d6ab44cf87f43e1dc4853e4d37.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www-cdn.anthropic.com">[www-cdn.anthropic.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www-cdn.anthropic.com</span><span class="citation-popover-snippet">This update to our RSP provides...Read more...</span></span></span>
 
-Current systems still fail many realistic attack scenarios. Even the strongest models remain far from reliably completing entire attack chains. Industrial-control-system environments remain particularly challenging, and substantial [human oversight]({{ 'human-oversight/' | relative_url }}) is still required in many settings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2603.11214" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack Scenarios</span><span class="citation-popover-snippet">Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack ScenariosMarch 11, 2026...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span>
+Current systems still fail many realistic attack scenarios. Even the strongest models remain far from reliably completing entire attack chains. Industrial-control-system environments remain particularly challenging, and substantial [human oversight]({{ 'human-oversight/' | relative_url }}) is still required in many settings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2603.11214" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack Scenarios</span><span class="citation-popover-snippet">Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack ScenariosMarch 11, 2026...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span>
 
 From this perspective, today's systems may represent rapid progress without yet constituting the kind of robust operational capability that would justify the most restrictive deployment responses.
 
@@ -385,7 +385,7 @@ Most frontier-AI governance frameworks envision escalating responses once predef
 * Independent external evaluations.
 * Government notification requirements.
 * Delayed deployment until safeguards are demonstrated.
-* Coordination with other frontier developers and regulators. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">risk taxonomy and thresholds</span><span class="citation-popover-snippet">for Frontier AI Frameworks18 Jun 2025 — Frontier AI frameworks outline methodologies for identifying, managing and mitigating the potenti...</span></span></span> [3Anthropic 3Anthropic]
+* Coordination with other frontier developers and regulators.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiermodelforum.org">[Frontier Model Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiermodelforum.org</span><span class="citation-popover-title">risk taxonomy and thresholds</span><span class="citation-popover-snippet">for Frontier AI Frameworks18 Jun 2025 — Frontier AI frameworks outline methodologies for identifying, managing and mitigating the potenti...</span></span></span> [3Anthropic 3Anthropic]
 
 </div>
 
@@ -396,237 +396,237 @@ For readers interested in AI doom arguments, operational cyber thresholds are th
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UB4esgnycTw" title="Immersive boosts cyber resilience through AI-powered attack simulations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UB4esgnycTw" target="_blank" rel="noopener noreferrer">Immersive boosts cyber resilience through AI-powered attack simulations</a></p><p class="youtube-embed-meta">Channel: DEMO &middot; Views: 356 &middot; Uploaded: March 2026 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UB4esgnycTw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UB4esgnycTw">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When AI Cyber Skills Cross Real World Thresholds. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When AI Cyber Skills Cross Real World Thresholds. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Russell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
+</h4>
+<p class="fr-book-author">By Stuart Russell</p>
         
-        <p class="fr-book-desc">Explores when capabilities become governance concerns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores when capabilities become governance concerns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
-        </h4>
-        <p class="fr-book-author">By Brian Christian</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
+</h4>
+<p class="fr-book-author">By Brian Christian</p>
         
-        <p class="fr-book-desc">Useful for understanding evaluation and capability assessment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding evaluation and capability assessment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
-        </h4>
-        <p class="fr-book-author">By Mustafa Suleyman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
+</h4>
+<p class="fr-book-author">By Mustafa Suleyman</p>
         
-        <p class="fr-book-desc">Discusses thresholds where technologies require stronger controls.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses thresholds where technologies require stronger controls.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is How They Tell Me the World Ends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DvagEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is How They Tell Me the World Ends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is How They Tell Me the World Ends">This Is How They Tell Me the World Ends</a>
-        </h4>
-        <p class="fr-book-author">By Nicole Perlroth</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is How They Tell Me the World Ends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DvagEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is How They Tell Me the World Ends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is How They Tell Me the World Ends">This Is How They Tell Me the World Ends</a>
+</h4>
+<p class="fr-book-author">By Nicole Perlroth</p>
         
-        <p class="fr-book-desc">Provides real-world context for cyber capabilities and operational risk.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides real-world context for cyber capabilities and operational risk.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-science-print&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Evolutionary Tree of Life Infographic Science Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/70b3e174813140595cd6.jpg' | relative_url }}" alt="Listing image for Evolutionary Tree of Life Infographic Science Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-science-print&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Evolutionary Tree of Life Infographic Science Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-science-print&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science print">Search <span data-ebay-domain-label>eBay.com</span>: science print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-science-print&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-science-print&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Evolutionary Tree of Life Infographic Science Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/70b3e174813140595cd6.jpg' | relative_url }}" alt="Listing image for Evolutionary Tree of Life Infographic Science Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-science-print&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Evolutionary Tree of Life Infographic Science Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-science-print&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science print">Search<span data-ebay-domain-label>eBay.com</span>: science print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-science-print&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-science-print&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Periodic Table of the Elements Educational Science Poster"><img src="{{ '/assets/images/marketplace-covers/e66a974b13cb7e6320c9.jpg' | relative_url }}" alt="Listing image for Vintage Periodic Table of the Elements Educational Science Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-science-print&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Periodic Table of the Elements Educational Science Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-science-print&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science print">Search <span data-ebay-domain-label>eBay.com</span>: science print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-science-print&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-science-print&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-science-print&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Periodic Table of the Elements Educational Science Poster"><img src="{{ '/assets/images/marketplace-covers/e66a974b13cb7e6320c9.jpg' | relative_url }}" alt="Listing image for Vintage Periodic Table of the Elements Educational Science Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-science-print&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Periodic Table of the Elements Educational Science Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-science-print&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science print">Search<span data-ebay-domain-label>eBay.com</span>: science print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-science-print&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-science-print&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for cybersecurity beware session cookie Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/0a0d82cd852bae70b3ee.jpg' | relative_url }}" alt="Listing image for cybersecurity beware session cookie Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">cybersecurity beware session cookie Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for cybersecurity beware session cookie Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/0a0d82cd852bae70b3ee.jpg' | relative_url }}" alt="Listing image for cybersecurity beware session cookie Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">cybersecurity beware session cookie Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cybersecurity Matrix Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f8dbdcfcf526296a12d7.jpg' | relative_url }}" alt="Listing image for Cybersecurity Matrix Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Cybersecurity Matrix Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cybersecurity Matrix Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f8dbdcfcf526296a12d7.jpg' | relative_url }}" alt="Listing image for Cybersecurity Matrix Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Cybersecurity Matrix Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Advanced Cybersecurity Concept Visu Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/dee93b356983a4b1a8ee.jpg' | relative_url }}" alt="Listing image for Advanced Cybersecurity Concept Visu Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Advanced Cybersecurity Concept Visu Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Advanced Cybersecurity Concept Visu Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/dee93b356983a4b1a8ee.jpg' | relative_url }}" alt="Listing image for Advanced Cybersecurity Concept Visu Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Advanced Cybersecurity Concept Visu Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cybersecurity Because People Click Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1b5a859231102f0df50c.jpg' | relative_url }}" alt="Listing image for Cybersecurity Because People Click Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Cybersecurity Because People Click Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cybersecurity Because People Click Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1b5a859231102f0df50c.jpg' | relative_url }}" alt="Listing image for Cybersecurity Because People Click Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Cybersecurity Because People Click Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=operational-thresholds-when-ai-cyber-skills-cross-real-world-thresholds-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -642,7 +642,7 @@ For readers interested in AI doom arguments, operational cyber thresholds are th
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -662,7 +662,7 @@ For readers interested in AI doom arguments, operational cyber thresholds are th
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -694,7 +694,7 @@ For readers interested in AI doom arguments, operational cyber thresholds are th
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -724,7 +724,7 @@ For readers interested in AI doom arguments, operational cyber thresholds are th
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -782,161 +782,161 @@ For readers interested in AI doom arguments, operational cyber thresholds are th
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cdn.openai.com  
    Title: Open AIPreparedness Framework  
-   Link: <a href="https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Preparedness FrameworkApril 28, 2025 — 15 Apr 2025 — Critical capability thresholds mean capabilities that present a meaningful ris...</p></details>
+   Link:<a href="https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Preparedness FrameworkApril 28, 2025 — 15 Apr 2025 — Critical capability thresholds mean capabilities that present a meaningful ris...</p></details>
    Published: April 28, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: www-cdn.anthropic.com  
-   Link: <a href="https://www-cdn.anthropic.com/872c653b2d0501d6ab44cf87f43e1dc4853e4d37.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-cdn.anthropic.com/872c653b2d0501d6ab44cf87f43e1dc4853e4d37.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This update to our RSP provides...Read more...</p></details>
+   Link:<a href="https://www-cdn.anthropic.com/872c653b2d0501d6ab44cf87f43e1dc4853e4d37.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-cdn.anthropic.com/872c653b2d0501d6ab44cf87f43e1dc4853e4d37.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This update to our RSP provides...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: anthropic.com  
    Title: responsible scaling policy v3  
-   Link: <a href="https://www.anthropic.com/news/responsible-scaling-policy-v3" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/news/responsible-scaling-policy-v3</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Responsible Scaling Policy Version 3.024 Feb 2026 — In other words, we believed that the capability thresholds might be good points at wh...</p></details>
+   Link:<a href="https://www.anthropic.com/news/responsible-scaling-policy-v3" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/news/responsible-scaling-policy-v3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Responsible Scaling Policy Version 3.024 Feb 2026 — In other words, we believed that the capability thresholds might be good points at wh...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: metr.org  
    Title: common elements  
-   Link: <a href="https://metr.org/common-elements" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/common-elements</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Common Elements of Frontier AI Safety Policies16 Dec 2025 — Capability Thresholds: Thresholds at which specific AI capabilities would...</p></details>
+   Link:<a href="https://metr.org/common-elements" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/common-elements</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Common Elements of Frontier AI Safety Policies16 Dec 2025 — Capability Thresholds: Thresholds at which specific AI capabilities would...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv Measuring AI Agents' Progress on Multi-Step Cyber Attack Scenarios  
-   Link: <a href="https://arxiv.org/abs/2603.11214" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.11214</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack ScenariosMarch 11, 2026...</p></details>
+   Link:<a href="https://arxiv.org/abs/2603.11214" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.11214</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack ScenariosMarch 11, 2026...</p></details>
    Published: March 11, 2026  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2603.11214" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2603.11214</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack...by L Folkerts · 2026 — The most recent model, Opus 4.6 (February 2026)...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2603.11214" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2603.11214</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack...by L Folkerts · 2026 — The most recent model, Opus 4.6 (February 2026)...</p></details>
    Published: February 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2603.11214v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2603.11214v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>two purpose-built cyber ranges—a 32-step corporate network...Read more...</p></details>
+   Link:<a href="https://arxiv.org/html/2603.11214v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2603.11214v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>two purpose-built cyber ranges—a 32-step corporate network...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2406.14713" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2406.14713</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Risk thresholds for frontier AIby L Koessler · 2024 · Cited by 26 — approach is to define capability thresholds, which describe AI capabi...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2406.14713" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2406.14713</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Risk thresholds for frontier AIby L Koessler · 2024 · Cited by 26 — approach is to define capability thresholds, which describe AI capabi...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: alphaxiv.org  
    Title: The main  
-   Link: <a href="https://www.alphaxiv.org/overview/2603.11214v3" target="_blank" rel="noopener noreferrer nofollow">https://www.alphaxiv.org/overview/2603.11214v3</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack...This paper establishes a foundational methodology for evaluating AI agents on...</p></details>
+   Link:<a href="https://www.alphaxiv.org/overview/2603.11214v3" target="_blank" rel="noopener noreferrer nofollow">https://www.alphaxiv.org/overview/2603.11214v3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack...This paper establishes a foundational methodology for evaluating AI agents on...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: frontiermodelforum.org  
    Title: risk taxonomy and thresholds  
-   Link: <a href="https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>for Frontier AI Frameworks18 Jun 2025 — Frontier AI frameworks outline methodologies for identifying, managing and mitigating the potenti...</p></details>
+   Link:<a href="https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>for Frontier AI Frameworks18 Jun 2025 — Frontier AI frameworks outline methodologies for identifying, managing and mitigating the potenti...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aisi.gov.uk  
-   Link: <a href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/frontier-ai-trends-report</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)Cyber: Models started completing expert-level tasks (ty...</p></details>
+   Link:<a href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/frontier-ai-trends-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)Cyber: Models started completing expert-level tasks (ty...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aisi.gov.uk  
    Title: aisi frontier ai trends report 2025  
-   Link: <a href="https://www.aisi.gov.uk/research/aisi-frontier-ai-trends-report-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/research/aisi-frontier-ai-trends-report-2025</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AISI Frontier AI Trends Report (2025)18 Dec 2025 — This report presents our first public analysis of the trends we&#x27;ve observed. It seeks...</p></details>
+   Link:<a href="https://www.aisi.gov.uk/research/aisi-frontier-ai-trends-report-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/research/aisi-frontier-ai-trends-report-2025</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AISI Frontier AI Trends Report (2025)18 Dec 2025 — This report presents our first public analysis of the trends we&#x27;ve observed. It seeks...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: GOV.UK  
    Title: ai security institute frontier ai trends report factsheet  
-   Link: <a href="https://www.gov.uk/government/publications/ai-security-institute-frontier-ai-trends-report-factsheet/ai-security-institute-frontier-ai-trends-report-factsheet" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-security-institute-frontier-ai-trends-report-factsheet/ai-security-institute-frontier-ai-trends-report-factsheet</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Security Institute – Frontier AI Trends report factsheet18 Dec 2025 — It brings together 2 years of government-led testing of leading AI...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/ai-security-institute-frontier-ai-trends-report-factsheet/ai-security-institute-frontier-ai-trends-report-factsheet" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-security-institute-frontier-ai-trends-report-factsheet/ai-security-institute-frontier-ai-trends-report-factsheet</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Security Institute – Frontier AI Trends report factsheet18 Dec 2025 — It brings together 2 years of government-led testing of leading AI...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aisi.gov.uk  
-   Link: <a href="https://www.aisi.gov.uk/blog/how-fast-is-autonomous-ai-cyber-capability-advancing" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/blog/how-fast-is-autonomous-ai-cyber-capability-advancing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security InstituteHow fast is autonomous AI cyber capability advancing?4 days ago — The length of tasks frontier models can autonomous...</p></details>
+   Link:<a href="https://www.aisi.gov.uk/blog/how-fast-is-autonomous-ai-cyber-capability-advancing" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/blog/how-fast-is-autonomous-ai-cyber-capability-advancing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security InstituteHow fast is autonomous AI cyber capability advancing?4 days ago — The length of tasks frontier models can autonomous...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aisi.gov.uk  
-   Link: <a href="https://www.aisi.gov.uk/blog/how-do-frontier-ai-agents-perform-in-multi-step-cyber-attack-scenarios" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/blog/how-do-frontier-ai-agents-perform-in-multi-step-cyber-attack-scenarios</a>  
+   Link:<a href="https://www.aisi.gov.uk/blog/how-do-frontier-ai-agents-perform-in-multi-step-cyber-attack-scenarios" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/blog/how-do-frontier-ai-agents-perform-in-multi-step-cyber-attack-scenarios</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: aisi.gov.uk  
-   Link: <a href="https://www.aisi.gov.uk/frontier-ai-trends-report/pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/frontier-ai-trends-report/pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security Institute is a research organisation...Read more...</p></details>
+   Link:<a href="https://www.aisi.gov.uk/frontier-ai-trends-report/pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/frontier-ai-trends-report/pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security Institute is a research organisation...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: GOV.UK  
    Title: ai security institute frontier ai trends report factsheet  
-   Link: <a href="https://www.gov.uk/government/publications/ai-security-institute-frontier-ai-trends-report-factsheet" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-security-institute-frontier-ai-trends-report-factsheet</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It seeks to provide...Read more...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/ai-security-institute-frontier-ai-trends-report-factsheet" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-security-institute-frontier-ai-trends-report-factsheet</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It seeks to provide...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: aigl.blog  
-   Link: <a href="https://www.aigl.blog/ai-security-institute-frontier-ai-trends-report-december-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.aigl.blog/ai-security-institute-frontier-ai-trends-report-december-2025/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security Institute – Frontier AI Trends Report (December...This report is the AI Security Institute&#x27;s first public synthesis of two y...</p></details>
+   Link:<a href="https://www.aigl.blog/ai-security-institute-frontier-ai-trends-report-december-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.aigl.blog/ai-security-institute-frontier-ai-trends-report-december-2025/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security Institute – Frontier AI Trends Report (December...This report is the AI Security Institute&#x27;s first public synthesis of two y...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: studocu.vn  
    Title: ai security institute 2025 frontier ai trends report on safety and security  
-   Link: <a href="https://www.studocu.vn/vn/document/truong-dai-hoc-ngoai-ngu-tin-hoc-thanh-pho-ho-chi-minh/basic-marketing/ai-security-institute-2025-frontier-ai-trends-report-on-safety-and-security/154828480" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.vn/vn/document/truong-dai-hoc-ngoai-ngu-tin-hoc-thanh-pho-ho-chi-minh/basic-marketing/ai-security-institute-2025-frontier-ai-trends-report-on-safety-and-security/154828480</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security Institute 2025: Frontier AI Trends Report on...Explore the UK AI Security Institute&#x27;s report on AI advancements, highlightin...</p></details>
+   Link:<a href="https://www.studocu.vn/vn/document/truong-dai-hoc-ngoai-ngu-tin-hoc-thanh-pho-ho-chi-minh/basic-marketing/ai-security-institute-2025-frontier-ai-trends-report-on-safety-and-security/154828480" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.vn/vn/document/truong-dai-hoc-ngoai-ngu-tin-hoc-thanh-pho-ho-chi-minh/basic-marketing/ai-security-institute-2025-frontier-ai-trends-report-on-safety-and-security/154828480</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security Institute 2025: Frontier AI Trends Report on...Explore the UK AI Security Institute&#x27;s report on AI advancements, highlightin...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/mahesh-narayan-responsible-ai_measuring-ai-agents-progress-on-multi-step-activity-7439606931427766272-6we-" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/mahesh-narayan-responsible-ai_measuring-ai-agents-progress-on-multi-step-activity-7439606931427766272-6we-</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Cyber Threats Escalate with AutonomyAI systems are advancing in their ability to execute complex, multi step cyber attacks with increa...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/mahesh-narayan-responsible-ai_measuring-ai-agents-progress-on-multi-step-activity-7439606931427766272-6we-" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/mahesh-narayan-responsible-ai_measuring-ai-agents-progress-on-multi-step-activity-7439606931427766272-6we-</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Cyber Threats Escalate with AutonomyAI systems are advancing in their ability to execute complex, multi step cyber attacks with increa...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40adnanmasood/the-3-00-am-wake-up-call-ai-frontier-progress-in-autonomous-multi-step-cyber-attacks-a7d289b72e0a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40adnanmasood/the-3-00-am-wake-up-call-ai-frontier-progress-in-autonomous-multi-step-cyber-attacks-a7d289b72e0a</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Frontier Progress in Autonomous Multi-Step Cyber AttacksHow frontier AI agents are learning to autonomously breach networks, rewrite e...</p></details>
+   Link:<a href="https://medium.com/%40adnanmasood/the-3-00-am-wake-up-call-ai-frontier-progress-in-autonomous-multi-step-cyber-attacks-a7d289b72e0a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40adnanmasood/the-3-00-am-wake-up-call-ai-frontier-progress-in-autonomous-multi-step-cyber-attacks-a7d289b72e0a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Frontier Progress in Autonomous Multi-Step Cyber AttacksHow frontier AI agents are learning to autonomously breach networks, rewrite e...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: verifywise.ai  
-   Link: <a href="https://verifywise.ai/ai-governance-library/agentic-enterprise/agent-uk-aisi-frontier-2025" target="_blank" rel="noopener noreferrer nofollow">https://verifywise.ai/ai-governance-library/agentic-enterprise/agent-uk-aisi-frontier-2025</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier AI Trends Report | VerifyWise AI Governance LibraryUK AI Security Institute report on frontier model capability and deployment t...</p></details>
+   Link:<a href="https://verifywise.ai/ai-governance-library/agentic-enterprise/agent-uk-aisi-frontier-2025" target="_blank" rel="noopener noreferrer nofollow">https://verifywise.ai/ai-governance-library/agentic-enterprise/agent-uk-aisi-frontier-2025</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier AI Trends Report | VerifyWise AI Governance LibraryUK AI Security Institute report on frontier model capability and deployment t...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: futureoflife.org  
-   Link: <a href="https://futureoflife.org/wp-content/uploads/2025/11/Indicator-Risk_Identification.pdf" target="_blank" rel="noopener noreferrer nofollow">https://futureoflife.org/wp-content/uploads/2025/11/Indicator-Risk_Identification.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Future of Life InstituteEU AI Code of Practice Safety and...(1) Capability assessment, where it maps plausible catastrophic-risk scenari...</p></details>
+   Link:<a href="https://futureoflife.org/wp-content/uploads/2025/11/Indicator-Risk_Identification.pdf" target="_blank" rel="noopener noreferrer nofollow">https://futureoflife.org/wp-content/uploads/2025/11/Indicator-Risk_Identification.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Future of Life InstituteEU AI Code of Practice Safety and...(1) Capability assessment, where it maps plausible catastrophic-risk scenari...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/gilles-loridon-6a53341_must-read-report-measuring-ai-agents-progress-activity-7454417348914012160-GrWX" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/gilles-loridon-6a53341_must-read-report-measuring-ai-agents-progress-activity-7454417348914012160-GrWX</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gilles Loridon&#x27;s PostMust Read report: Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack Scenarios In the avalanche of alarming po...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/gilles-loridon-6a53341_must-read-report-measuring-ai-agents-progress-activity-7454417348914012160-GrWX" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/gilles-loridon-6a53341_must-read-report-measuring-ai-agents-progress-activity-7454417348914012160-GrWX</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gilles Loridon&#x27;s PostMust Read report: Measuring AI Agents&#x27; Progress on Multi-Step Cyber Attack Scenarios In the avalanche of alarming po...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/tesssbuckley_today-uks-ai-security-institute-of-department-activity-7407352566029828097-ZTJf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/tesssbuckley_today-uks-ai-security-institute-of-department-activity-7407352566029828097-ZTJf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK AI Security Institute Publishes Frontier AI Trends ReportAs the first public analysis of trends by AISI it draws on two years&#x27; worth o...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/tesssbuckley_today-uks-ai-security-institute-of-department-activity-7407352566029828097-ZTJf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/tesssbuckley_today-uks-ai-security-institute-of-department-activity-7407352566029828097-ZTJf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK AI Security Institute Publishes Frontier AI Trends ReportAs the first public analysis of trends by AISI it draws on two years&#x27; worth o...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/news/inaugural-report-pioneered-by-ai-security-institute-gives-clearest-picture-yet-of-capabilities-of-most-advanced-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/inaugural-report-pioneered-by-ai-security-institute-gives-clearest-picture-yet-of-capabilities-of-most-advanced-ai</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>report pioneered by AI Security Institute gives...18 Dec 2025 — The AI Security Institute&#x27;s Frontier AI Trends Report, a public assessme...</p></details>
+   Link:<a href="https://www.gov.uk/government/news/inaugural-report-pioneered-by-ai-security-institute-gives-clearest-picture-yet-of-capabilities-of-most-advanced-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/inaugural-report-pioneered-by-ai-security-institute-gives-clearest-picture-yet-of-capabilities-of-most-advanced-ai</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>report pioneered by AI Security Institute gives...18 Dec 2025 — The AI Security Institute&#x27;s Frontier AI Trends Report, a public assessme...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: darktrace.com  
-   Link: <a href="https://www.darktrace.com/blog/state-of-ai-cybersecurity-2026-92-of-security-professionals-concerned-about-the-impact-of-ai-agents" target="_blank" rel="noopener noreferrer nofollow">https://www.darktrace.com/blog/state-of-ai-cybersecurity-2026-92-of-security-professionals-concerned-about-the-impact-of-ai-agents</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>State of AI Cybersecurity 2026: 92% of Security Pros...2 days ago — Autonomous agents are performing multi-step operational workflows fr...</p></details>
+   Link:<a href="https://www.darktrace.com/blog/state-of-ai-cybersecurity-2026-92-of-security-professionals-concerned-about-the-impact-of-ai-agents" target="_blank" rel="noopener noreferrer nofollow">https://www.darktrace.com/blog/state-of-ai-cybersecurity-2026-92-of-security-professionals-concerned-about-the-impact-of-ai-agents</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>State of AI Cybersecurity 2026: 92% of Security Pros...2 days ago — Autonomous agents are performing multi-step operational workflows fr...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/yotam-perkal_ai-security-institute-frontier-ai-trends-activity-7408963075829260288-BtDV" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/yotam-perkal_ai-security-institute-frontier-ai-trends-activity-7408963075829260288-BtDV</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK AI Security Institute Report: AI Capabilities and RisksUnassisted task lengths went from less than 10 minutes in early 2023 to over an...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/yotam-perkal_ai-security-institute-frontier-ai-trends-activity-7408963075829260288-BtDV" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/yotam-perkal_ai-security-institute-frontier-ai-trends-activity-7408963075829260288-BtDV</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK AI Security Institute Report: AI Capabilities and RisksUnassisted task lengths went from less than 10 minutes in early 2023 to over an...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: aisi.gov.uk  
-   Link: <a href="https://www.aisi.gov.uk/research" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/research</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>See our publications and related blogs below. Frontier AI Trends Report · Research Agenda. AISI brand artwork.Read more...</p></details>
+   Link:<a href="https://www.aisi.gov.uk/research" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/research</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>See our publications and related blogs below. Frontier AI Trends Report · Research Agenda. AISI brand artwork.Read more...</p></details>

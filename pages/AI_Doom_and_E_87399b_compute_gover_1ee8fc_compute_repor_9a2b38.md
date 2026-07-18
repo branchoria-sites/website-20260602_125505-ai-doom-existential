@@ -282,27 +282,27 @@ image: /assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a
 
 ## Introduction
 
-One of the most widely discussed ideas in compute [governance]({{ 'governance/' | relative_url }}) is the use of **training-compute thresholds** as a trigger for oversight. Instead of waiting until an AI system demonstrates dangerous capabilities, regulators would require organisations to report, document, or review training runs once they exceed a specified level of computational power. The underlying logic is simple: if the most capable frontier systems require unusually large amounts of compute to train, then compute can serve as an early warning signal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://law-ai.org/the-role-of-compute-thresholds-for-ai-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law-ai.org">[Institute for Law &amp; AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law-ai.org</span><span class="citation-popover-title">Institute for Law &amp; AIThe Role of Compute Thresholds for AI Governance</span><span class="citation-popover-snippet">February 20, 2025 — This article discusses the role of training compute thresholds, which use training compute to determine which potenti...</span><span class="citation-popover-meta">Published: February 20, 2025</span></span></span>
+One of the most widely discussed ideas in compute [governance]({{ 'governance/' | relative_url }}) is the use of **training-compute thresholds** as a trigger for oversight. Instead of waiting until an AI system demonstrates dangerous capabilities, regulators would require organisations to report, document, or review training runs once they exceed a specified level of computational power. The underlying logic is simple: if the most capable frontier systems require unusually large amounts of compute to train, then compute can serve as an early warning signal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://law-ai.org/the-role-of-compute-thresholds-for-ai-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law-ai.org">[Institute for Law &amp; AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law-ai.org</span><span class="citation-popover-title">Institute for Law &amp; AIThe Role of Compute Thresholds for AI Governance</span><span class="citation-popover-snippet">February 20, 2025 — This article discusses the role of training compute thresholds, which use training compute to determine which potenti...</span><span class="citation-popover-meta">Published: February 20, 2025</span></span></span>
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38-Illustration-1-dark.svg" | relative_url }}" alt="Thresholds illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within debates about AI doom and existential risk, these thresholds matter because they are intended to identify projects that might eventually create systems capable of large-scale [misuse]({{ 'misuse/' | relative_url }}), dangerous [autonomy]({{ 'autonomy/' | relative_url }}), or loss-of-control scenarios. Yet there is no consensus on where the thresholds should be set, how often they should be updated, or whether sophisticated developers could eventually bypass them. The debate is not about whether compute can be measured; it is about whether a measurable quantity is a sufficiently reliable proxy for future danger. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2405.10799" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Training Compute Thresholds: Features and Functions in AI Regulation</span><span class="citation-popover-snippet">arXiv Training Compute Thresholds: Features and Functions in AI Regulation</span></span></span>
+Within debates about AI doom and existential risk, these thresholds matter because they are intended to identify projects that might eventually create systems capable of large-scale [misuse]({{ 'misuse/' | relative_url }}), dangerous [autonomy]({{ 'autonomy/' | relative_url }}), or loss-of-control scenarios. Yet there is no consensus on where the thresholds should be set, how often they should be updated, or whether sophisticated developers could eventually bypass them. The debate is not about whether compute can be measured; it is about whether a measurable quantity is a sufficiently reliable proxy for future danger.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2405.10799" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Training Compute Thresholds: Features and Functions in AI Regulation</span><span class="citation-popover-snippet">arXiv Training Compute Thresholds: Features and Functions in AI Regulation</span></span></span>
 
 ## How Compute Thresholds Are Defined
 
-Most proposals define thresholds using the total number of computational operations used during training, typically measured in floating-point operations (FLOPs). Training runs above a specified FLOP level would automatically trigger additional obligations such as government notification, [independent]({{ 'red-teaming/' | relative_url }}) review, safety [evaluations]({{ 'evaluations/' | relative_url }}), or auditing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://law-ai.org/frontier-model-definitions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law-ai.org">[Institute for Law &amp; AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law-ai.org</span><span class="citation-popover-title">Institute for Law &amp; AILegal Considerations for Defining “Frontier Model”</span><span class="citation-popover-snippet">September 30, 2024 — 9 Sept 2024 — This was, at least in part, the reason for the inclusion of training compute thresholds of 1026 FLOP i...</span><span class="citation-popover-meta">Published: September 30, 2024</span></span></span>
+Most proposals define thresholds using the total number of computational operations used during training, typically measured in floating-point operations (FLOPs). Training runs above a specified FLOP level would automatically trigger additional obligations such as government notification, [independent]({{ 'red-teaming/' | relative_url }}) review, safety [evaluations]({{ 'evaluations/' | relative_url }}), or auditing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://law-ai.org/frontier-model-definitions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law-ai.org">[Institute for Law &amp; AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law-ai.org</span><span class="citation-popover-title">Institute for Law &amp; AILegal Considerations for Defining “Frontier Model”</span><span class="citation-popover-snippet">September 30, 2024 — 9 Sept 2024 — This was, at least in part, the reason for the inclusion of training compute thresholds of 1026 FLOP i...</span><span class="citation-popover-meta">Published: September 30, 2024</span></span></span>
 
-The most influential threshold to date emerged from the United States government's 2023 AI Executive Order. It established reporting requirements for certain models trained using more than 10^26 floating-point or integer operations. A lower threshold of 10^23 operations was applied to some biological-sequence models because of concerns about biotechnology-related risks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.federalregister.gov/documents/2023/11/01/2023-24283/safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: federalregister.gov">[Federal Register]</a><span class="citation-popover" role="note"><span class="citation-popover-source">federalregister.gov</span><span class="citation-popover-snippet">Federal RegisterSafe, Secure, and Trustworthy Development and Use of...November 1, 2023 — 1 Nov 2023 — Such reports shall include, at a...</span><span class="citation-popover-meta">Published: November 1, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mofo.com/resources/insights/231107-the-ai-executive-order-presidential-authority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mofo.com">[Morrison Foerster]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mofo.com</span><span class="citation-popover-title">231107 the ai executive order presidential authority</span><span class="citation-popover-snippet">Morrison FoersterThe AI Executive Order: Presidential Authority for...7 Nov 2023 — Any AI model that was trained: using a quantity of co...</span></span></span>
+The most influential threshold to date emerged from the United States government's 2023 AI Executive Order. It established reporting requirements for certain models trained using more than 10^26 floating-point or integer operations. A lower threshold of 10^23 operations was applied to some biological-sequence models because of concerns about biotechnology-related risks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.federalregister.gov/documents/2023/11/01/2023-24283/safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: federalregister.gov">[Federal Register]</a><span class="citation-popover" role="note"><span class="citation-popover-source">federalregister.gov</span><span class="citation-popover-snippet">Federal RegisterSafe, Secure, and Trustworthy Development and Use of...November 1, 2023 — 1 Nov 2023 — Such reports shall include, at a...</span><span class="citation-popover-meta">Published: November 1, 2023</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mofo.com/resources/insights/231107-the-ai-executive-order-presidential-authority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mofo.com">[Morrison Foerster]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mofo.com</span><span class="citation-popover-title">231107 the ai executive order presidential authority</span><span class="citation-popover-snippet">Morrison FoersterThe AI Executive Order: Presidential Authority for...7 Nov 2023 — Any AI model that was trained: using a quantity of co...</span></span></span>
 
-The same 10^26 FLOP benchmark later appeared in several frontier-model policy proposals, including California's SB 1047. In these frameworks, crossing the threshold did not automatically imply that a model was dangerous. Instead, it created a presumption that the model was advanced enough to justify closer scrutiny. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.morganlewis.com/pubs/2024/08/californias-sb-1047-would-impose-new-safety-requirements-for-developers-of-large-scale-ai-models" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: morganlewis.com">[Morgan Lewis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">morganlewis.com</span><span class="citation-popover-snippet">computing power of three times 10^25 integer or FLOP costing over $10 million.[1] This is the same computing threshold as set in the Bide...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.orrick.com/en/Insights/2024/07/California-Looks-to-Regulate-Cutting-Edge-Frontier-AI-Models-5-Things-to-Know-About-SB1047" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orrick.com">[2orrick.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orrick.com</span><span class="citation-popover-snippet">models under SB-1047 sets a high threshold for regulation.Read more...</span></span></span>
+The same 10^26 FLOP benchmark later appeared in several frontier-model policy proposals, including California's SB 1047. In these frameworks, crossing the threshold did not automatically imply that a model was dangerous. Instead, it created a presumption that the model was advanced enough to justify closer scrutiny.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.morganlewis.com/pubs/2024/08/californias-sb-1047-would-impose-new-safety-requirements-for-developers-of-large-scale-ai-models" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: morganlewis.com">[Morgan Lewis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">morganlewis.com</span><span class="citation-popover-snippet">computing power of three times 10^25 integer or FLOP costing over $10 million.[1] This is the same computing threshold as set in the Bide...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.orrick.com/en/Insights/2024/07/California-Looks-to-Regulate-Cutting-Edge-Frontier-AI-Models-5-Things-to-Know-About-SB1047" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orrick.com">[2orrick.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orrick.com</span><span class="citation-popover-snippet">models under SB-1047 sets a high threshold for regulation.Read more...</span></span></span>
 
-Supporters of compute thresholds often point to several practical advantages: <span class="citation-chip-wrap"><a class="citation-chip" href="https://epoch.ai/publications/model-counts-compute-thresholds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epoch.ai">[epoch.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epoch.ai</span><span class="citation-popover-title">model counts compute thresholds</span><span class="citation-popover-snippet">How many AI models will exceed compute thresholds?30 May 2025 — We project how many notable AI models will exceed training compute thresh...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+Supporters of compute thresholds often point to several practical advantages:<span class="citation-chip-wrap"><a class="citation-chip" href="https://epoch.ai/publications/model-counts-compute-thresholds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epoch.ai">[epoch.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epoch.ai</span><span class="citation-popover-title">model counts compute thresholds</span><span class="citation-popover-snippet">How many AI models will exceed compute thresholds?30 May 2025 — We project how many notable AI models will exceed training compute thresh...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 * Compute is measurable and can be estimated relatively consistently.
 * Training compute can be assessed before deployment, allowing earlier intervention.
 * Large training runs generally require specialised hardware, making them harder to hide than software development alone.
-* Training compute has historically correlated with frontier-level capability growth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2405.10799" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Training Compute Thresholds: Features and Functions in AI Regulation</span><span class="citation-popover-snippet">arXiv Training Compute Thresholds: Features and Functions in AI Regulation</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://law-ai.org/the-role-of-compute-thresholds-for-ai-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law-ai.org">[Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law-ai.org</span><span class="citation-popover-title">Institute for Law &amp; AIThe Role of Compute Thresholds for AI Governance</span><span class="citation-popover-snippet">February 20, 2025 — This article discusses the role of training compute thresholds, which use training compute to determine which potenti...</span><span class="citation-popover-meta">Published: February 20, 2025</span></span></span> for Law & AI
+* Training compute has historically correlated with frontier-level capability growth.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2405.10799" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Training Compute Thresholds: Features and Functions in AI Regulation</span><span class="citation-popover-snippet">arXiv Training Compute Thresholds: Features and Functions in AI Regulation</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://law-ai.org/the-role-of-compute-thresholds-for-ai-governance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law-ai.org">[Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law-ai.org</span><span class="citation-popover-title">Institute for Law &amp; AIThe Role of Compute Thresholds for AI Governance</span><span class="citation-popover-snippet">February 20, 2025 — This article discusses the role of training compute thresholds, which use training compute to determine which potenti...</span><span class="citation-popover-meta">Published: February 20, 2025</span></span></span> for Law & AI
 
-This does not mean compute perfectly predicts capability. Rather, advocates view it as a screening tool that identifies projects deserving additional attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2405.10799" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Training Compute Thresholds: Features and Functions in AI Regulation</span><span class="citation-popover-snippet">arXiv Training Compute Thresholds: Features and Functions in AI Regulation</span></span></span>
+This does not mean compute perfectly predicts capability. Rather, advocates view it as a screening tool that identifies projects deserving additional attention.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2405.10799" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Training Compute Thresholds: Features and Functions in AI Regulation</span><span class="citation-popover-snippet">arXiv Training Compute Thresholds: Features and Functions in AI Regulation</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dBZp47999Ko" title="Why US AI Act Compute Thresholds Are Misguided..." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dBZp47999Ko" target="_blank" rel="noopener noreferrer">Why US AI Act Compute Thresholds Are Misguided...</a></p><p class="youtube-embed-meta">Channel: Machine Learning Street Talk &middot; Views: 18.2K &middot; Uploaded: July 2024 &middot; Length: 1 hour 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dBZp47999Ko" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dBZp47999Ko">Open on YouTube</a></p></div></div></div>
 
@@ -310,11 +310,11 @@ This does not mean compute perfectly predicts capability. Rather, advocates view
 
 For people concerned about existential risk, the appeal of compute thresholds is that they operate **upstream** of dangerous outcomes.
 
-A central concern in many AI doom scenarios is that by the time a system clearly demonstrates dangerous capabilities, it may already be deeply integrated into critical infrastructure, military systems, scientific research, or economic decision-making. Oversight triggered during training could create opportunities for evaluations and safety testing before deployment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://law-ai.org/frontier-model-definitions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law-ai.org">[Institute for Law &amp; AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law-ai.org</span><span class="citation-popover-title">Institute for Law &amp; AILegal Considerations for Defining “Frontier Model”</span><span class="citation-popover-snippet">September 30, 2024 — 9 Sept 2024 — This was, at least in part, the reason for the inclusion of training compute thresholds of 1026 FLOP i...</span><span class="citation-popover-meta">Published: September 30, 2024</span></span></span>
+A central concern in many AI doom scenarios is that by the time a system clearly demonstrates dangerous capabilities, it may already be deeply integrated into critical infrastructure, military systems, scientific research, or economic decision-making. Oversight triggered during training could create opportunities for evaluations and safety testing before deployment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://law-ai.org/frontier-model-definitions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law-ai.org">[Institute for Law &amp; AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law-ai.org</span><span class="citation-popover-title">Institute for Law &amp; AILegal Considerations for Defining “Frontier Model”</span><span class="citation-popover-snippet">September 30, 2024 — 9 Sept 2024 — This was, at least in part, the reason for the inclusion of training compute thresholds of 1026 FLOP i...</span><span class="citation-popover-meta">Published: September 30, 2024</span></span></span>
 
-The argument is partly strategic. Governments may struggle to define "dangerous AI" in advance because capabilities can emerge unexpectedly. Compute, by contrast, is a concrete quantity that can be monitored. As a result, some governance researchers argue that thresholds provide a practical mechanism for identifying frontier projects even when policymakers cannot accurately predict which specific capabilities will emerge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://law-ai.org/frontier-model-definitions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law-ai.org">[Institute for Law &amp; AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law-ai.org</span><span class="citation-popover-title">Institute for Law &amp; AILegal Considerations for Defining “Frontier Model”</span><span class="citation-popover-snippet">September 30, 2024 — 9 Sept 2024 — This was, at least in part, the reason for the inclusion of training compute thresholds of 1026 FLOP i...</span><span class="citation-popover-meta">Published: September 30, 2024</span></span></span>
+The argument is partly strategic. Governments may struggle to define "dangerous AI" in advance because capabilities can emerge unexpectedly. Compute, by contrast, is a concrete quantity that can be monitored. As a result, some governance researchers argue that thresholds provide a practical mechanism for identifying frontier projects even when policymakers cannot accurately predict which specific capabilities will emerge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://law-ai.org/frontier-model-definitions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law-ai.org">[Institute for Law &amp; AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law-ai.org</span><span class="citation-popover-title">Institute for Law &amp; AILegal Considerations for Defining “Frontier Model”</span><span class="citation-popover-snippet">September 30, 2024 — 9 Sept 2024 — This was, at least in part, the reason for the inclusion of training compute thresholds of 1026 FLOP i...</span><span class="citation-popover-meta">Published: September 30, 2024</span></span></span>
 
-Critics respond that the relationship between training scale and existential risk is much less certain than proponents sometimes imply. A model trained with somewhat less compute could still prove dangerous, while a model trained with enormous compute might not create the feared risks. The connection between compute and catastrophe remains inferential rather than directly demonstrated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2405.10799" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Training Compute Thresholds: Features and Functions in AI Regulation</span><span class="citation-popover-snippet">arXiv Training Compute Thresholds: Features and Functions in AI Regulation</span></span></span>
+Critics respond that the relationship between training scale and existential risk is much less certain than proponents sometimes imply. A model trained with somewhat less compute could still prove dangerous, while a model trained with enormous compute might not create the feared risks. The connection between compute and catastrophe remains inferential rather than directly demonstrated.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2405.10799" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Training Compute Thresholds: Features and Functions in AI Regulation</span><span class="citation-popover-snippet">arXiv Training Compute Thresholds: Features and Functions in AI Regulation</span></span></span>
 
 ## Reporting Requirements and Audits
 
@@ -326,24 +326,24 @@ Common proposals include:
 * **Safety evaluations** designed to test for dangerous capabilities.
 * **Risk assessments** documenting foreseeable [catastrophic]({{ 'misuse/' | relative_url }})-use concerns.
 * **Incident reporting** if significant safety failures are discovered.
-* **Independent auditing** of compute records and training procedures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aigi.ox.ac.uk/wp-content/uploads/2025/08/Survey_on_thresholds_for_advanced_AI_systems_1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aigi.ox.ac.uk">[Oxford Martin AIGI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aigi.ox.ac.uk</span><span class="citation-popover-title">Survey on thresholds for advanced AI systems 1</span><span class="citation-popover-snippet">ford Martin AIGISURVEY ON THRESHOLDS FOR ADVANCED AI SYSTEMSAugust 29, 2025 — by J Schuett · 2025 · Cited by 3 — “If training compute t...</span><span class="citation-popover-meta">Published: August 29, 2025</span></span></span> 2arXiv
+* **Independent auditing** of compute records and training procedures.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aigi.ox.ac.uk/wp-content/uploads/2025/08/Survey_on_thresholds_for_advanced_AI_systems_1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aigi.ox.ac.uk">[Oxford Martin AIGI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aigi.ox.ac.uk</span><span class="citation-popover-title">Survey on thresholds for advanced AI systems 1</span><span class="citation-popover-snippet">ford Martin AIGISURVEY ON THRESHOLDS FOR ADVANCED AI SYSTEMSAugust 29, 2025 — by J Schuett · 2025 · Cited by 3 — “If training compute t...</span><span class="citation-popover-meta">Published: August 29, 2025</span></span></span> 2arXiv
 
-This distinction is important. The strongest advocates of compute governance often present thresholds as a trigger rather than a final decision rule. Crossing the threshold does not automatically prove a model is dangerous; it merely initiates a review process. The subsequent evaluations are intended to determine whether additional safeguards are warranted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2405.10799" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Training Compute Thresholds: Features and Functions in AI Regulation</span><span class="citation-popover-snippet">arXiv Training Compute Thresholds: Features and Functions in AI Regulation</span></span></span>
+This distinction is important. The strongest advocates of compute governance often present thresholds as a trigger rather than a final decision rule. Crossing the threshold does not automatically prove a model is dangerous; it merely initiates a review process. The subsequent evaluations are intended to determine whether additional safeguards are warranted.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2405.10799" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Training Compute Thresholds: Features and Functions in AI Regulation</span><span class="citation-popover-snippet">arXiv Training Compute Thresholds: Features and Functions in AI Regulation</span></span></span>
 
-This approach attempts to solve a practical governance problem. Regulators may lack the capacity to examine every AI project. Thresholds provide a filtering mechanism that concentrates attention on a relatively small number of unusually large training efforts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://law-ai.org/frontier-model-definitions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law-ai.org">[Institute for Law &amp; AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law-ai.org</span><span class="citation-popover-title">Institute for Law &amp; AILegal Considerations for Defining “Frontier Model”</span><span class="citation-popover-snippet">September 30, 2024 — 9 Sept 2024 — This was, at least in part, the reason for the inclusion of training compute thresholds of 1026 FLOP i...</span><span class="citation-popover-meta">Published: September 30, 2024</span></span></span>
+This approach attempts to solve a practical governance problem. Regulators may lack the capacity to examine every AI project. Thresholds provide a filtering mechanism that concentrates attention on a relatively small number of unusually large training efforts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://law-ai.org/frontier-model-definitions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law-ai.org">[Institute for Law &amp; AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law-ai.org</span><span class="citation-popover-title">Institute for Law &amp; AILegal Considerations for Defining “Frontier Model”</span><span class="citation-popover-snippet">September 30, 2024 — 9 Sept 2024 — This was, at least in part, the reason for the inclusion of training compute thresholds of 1026 FLOP i...</span><span class="citation-popover-meta">Published: September 30, 2024</span></span></span>
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38-Illustration-2-dark.svg" | relative_url }}" alt="Thresholds illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where Should the Threshold Be Set?
 
 The hardest policy question is not whether thresholds are useful, but where they should sit.
 
-If thresholds are set too low, regulators may become overwhelmed with notifications and audits. Oversight resources could be spread across many systems that pose little existential concern. If thresholds are set too high, potentially important frontier projects may escape scrutiny altogether. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.ca.gov/wp-content/uploads/2025/06/June-17-2025-%E2%80%93-The-California-Report-on-Frontier-AI-Policy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.ca.gov">[Governor of California]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.ca.gov</span><span class="citation-popover-title">June 17 2025 – The California Report on Frontier AI Policy</span><span class="citation-popover-snippet">ernor of CaliforniaTHE CALIFORNIA REPORT ON FRONTIER AI POLICYJune 17, 2025 — 17 Jun 2025 — Noteworthy examples of compute thresholds...</span><span class="citation-popover-meta">Published: June 17, 2025</span></span></span>
+If thresholds are set too low, regulators may become overwhelmed with notifications and audits. Oversight resources could be spread across many systems that pose little existential concern. If thresholds are set too high, potentially important frontier projects may escape scrutiny altogether.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.ca.gov/wp-content/uploads/2025/06/June-17-2025-%E2%80%93-The-California-Report-on-Frontier-AI-Policy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.ca.gov">[Governor of California]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.ca.gov</span><span class="citation-popover-title">June 17 2025 – The California Report on Frontier AI Policy</span><span class="citation-popover-snippet">ernor of CaliforniaTHE CALIFORNIA REPORT ON FRONTIER AI POLICYJune 17, 2025 — 17 Jun 2025 — Noteworthy examples of compute thresholds...</span><span class="citation-popover-meta">Published: June 17, 2025</span></span></span>
 
-The 10^26 FLOP benchmark was partly chosen because it was above the training compute used by many leading models when the rule was designed. Policymakers hoped it would focus attention on systems pushing beyond the existing frontier. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://law-ai.org/frontier-model-definitions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law-ai.org">[Institute for Law &amp; AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law-ai.org</span><span class="citation-popover-title">Institute for Law &amp; AILegal Considerations for Defining “Frontier Model”</span><span class="citation-popover-snippet">September 30, 2024 — 9 Sept 2024 — This was, at least in part, the reason for the inclusion of training compute thresholds of 1026 FLOP i...</span><span class="citation-popover-meta">Published: September 30, 2024</span></span></span>
+The 10^26 FLOP benchmark was partly chosen because it was above the training compute used by many leading models when the rule was designed. Policymakers hoped it would focus attention on systems pushing beyond the existing frontier.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://law-ai.org/frontier-model-definitions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law-ai.org">[Institute for Law &amp; AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law-ai.org</span><span class="citation-popover-title">Institute for Law &amp; AILegal Considerations for Defining “Frontier Model”</span><span class="citation-popover-snippet">September 30, 2024 — 9 Sept 2024 — This was, at least in part, the reason for the inclusion of training compute thresholds of 1026 FLOP i...</span><span class="citation-popover-meta">Published: September 30, 2024</span></span></span>
 
-However, technological progress quickly creates pressure on any fixed threshold. Models that seem exceptional today may become routine within a few years. Research forecasting published by Epoch AI projects that the number of notable models exceeding 10^26 FLOPs could rise dramatically over the second half of the decade, potentially transforming what was once a rare threshold into a relatively common one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://epoch.ai/publications/model-counts-compute-thresholds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epoch.ai">[Epoch AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epoch.ai</span><span class="citation-popover-title">model counts compute thresholds</span><span class="citation-popover-snippet">How many AI models will exceed compute thresholds?30 May 2025 — We project how many notable AI models will exceed training compute thresh...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+However, technological progress quickly creates pressure on any fixed threshold. Models that seem exceptional today may become routine within a few years. Research forecasting published by Epoch AI projects that the number of notable models exceeding 10^26 FLOPs could rise dramatically over the second half of the decade, potentially transforming what was once a rare threshold into a relatively common one.<span class="citation-chip-wrap"><a class="citation-chip" href="https://epoch.ai/publications/model-counts-compute-thresholds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epoch.ai">[Epoch AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epoch.ai</span><span class="citation-popover-title">model counts compute thresholds</span><span class="citation-popover-snippet">How many AI models will exceed compute thresholds?30 May 2025 — We project how many notable AI models will exceed training compute thresh...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
-This creates a moving-target problem. A threshold that is effective in one year may become obsolete in the next. Many analysts therefore argue that thresholds should be regularly updated rather than permanently fixed in law. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.ca.gov/wp-content/uploads/2025/06/June-17-2025-%E2%80%93-The-California-Report-on-Frontier-AI-Policy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.ca.gov">[Governor of California]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.ca.gov</span><span class="citation-popover-title">June 17 2025 – The California Report on Frontier AI Policy</span><span class="citation-popover-snippet">ernor of CaliforniaTHE CALIFORNIA REPORT ON FRONTIER AI POLICYJune 17, 2025 — 17 Jun 2025 — Noteworthy examples of compute thresholds...</span><span class="citation-popover-meta">Published: June 17, 2025</span></span></span>
+This creates a moving-target problem. A threshold that is effective in one year may become obsolete in the next. Many analysts therefore argue that thresholds should be regularly updated rather than permanently fixed in law.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.ca.gov/wp-content/uploads/2025/06/June-17-2025-%E2%80%93-The-California-Report-on-Frontier-AI-Policy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.ca.gov">[Governor of California]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.ca.gov</span><span class="citation-popover-title">June 17 2025 – The California Report on Frontier AI Policy</span><span class="citation-popover-snippet">ernor of CaliforniaTHE CALIFORNIA REPORT ON FRONTIER AI POLICYJune 17, 2025 — 17 Jun 2025 — Noteworthy examples of compute thresholds...</span><span class="citation-popover-meta">Published: June 17, 2025</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1CB9dgUlNpg" title="Sara Hooker on compute thresholds for AI; CrowdStrike breaks the internet | Safe Mode" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1CB9dgUlNpg" target="_blank" rel="noopener noreferrer">Sara Hooker on compute thresholds for AI; CrowdStrike breaks the internet | Safe Mode</a></p><p class="youtube-embed-meta">Channel: CyberScoop &middot; Views: 279 &middot; Uploaded: July 2024 &middot; Length: 46 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1CB9dgUlNpg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1CB9dgUlNpg">Open on YouTube</a></p></div></div></div>
 
@@ -351,257 +351,257 @@ This creates a moving-target problem. A threshold that is effective in one year 
 
 The most significant criticism of compute thresholds is that they may become easier to evade over time.
 
-AI researchers continuously discover techniques that improve capability without proportionally increasing training compute. Better algorithms, model reuse, fine-tuning methods, [synthetic data]({{ 'synthetic-data/' | relative_url }}) generation, and inference-time techniques can all produce stronger systems while reducing the amount of compute needed during training. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2405.10799" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Training Compute Thresholds: Features and Functions in AI Regulation</span><span class="citation-popover-snippet">arXiv Training Compute Thresholds: Features and Functions in AI Regulation</span></span></span>
+AI researchers continuously discover techniques that improve capability without proportionally increasing training compute. Better algorithms, model reuse, fine-tuning methods, [synthetic data]({{ 'synthetic-data/' | relative_url }}) generation, and inference-time techniques can all produce stronger systems while reducing the amount of compute needed during training.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2405.10799" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Training Compute Thresholds: Features and Functions in AI Regulation</span><span class="citation-popover-snippet">arXiv Training Compute Thresholds: Features and Functions in AI Regulation</span></span></span>
 
-This raises a challenge for threshold-based regulation. If policymakers assume that high capability always requires high training compute, developers may eventually find ways to remain below regulatory thresholds while still producing highly capable systems. Researchers have explicitly identified fine-tuning, model expansion, and reuse of existing frontier models as potential loopholes in threshold-based frameworks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2405.10799" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Training Compute Thresholds: Features and Functions in AI Regulation</span><span class="citation-popover-snippet">arXiv Training Compute Thresholds: Features and Functions in AI Regulation</span></span></span>
+This raises a challenge for threshold-based regulation. If policymakers assume that high capability always requires high training compute, developers may eventually find ways to remain below regulatory thresholds while still producing highly capable systems. Researchers have explicitly identified fine-tuning, model expansion, and reuse of existing frontier models as potential loopholes in threshold-based frameworks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2405.10799" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Training Compute Thresholds: Features and Functions in AI Regulation</span><span class="citation-popover-snippet">arXiv Training Compute Thresholds: Features and Functions in AI Regulation</span></span></span>
 
-Another concern is that thresholds create artificial boundaries. Risk generally changes gradually, but regulation often creates a sharp distinction between systems just below and just above a numerical cutoff. A model trained at 9.9 × 10^25 FLOPs may not be meaningfully different from one trained at 1.01 × 10^26 FLOPs, yet one might trigger extensive requirements while the other does not. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.ca.gov/wp-content/uploads/2025/06/June-17-2025-%E2%80%93-The-California-Report-on-Frontier-AI-Policy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.ca.gov">[Governor of California]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.ca.gov</span><span class="citation-popover-title">June 17 2025 – The California Report on Frontier AI Policy</span><span class="citation-popover-snippet">ernor of CaliforniaTHE CALIFORNIA REPORT ON FRONTIER AI POLICYJune 17, 2025 — 17 Jun 2025 — Noteworthy examples of compute thresholds...</span><span class="citation-popover-meta">Published: June 17, 2025</span></span></span>
+Another concern is that thresholds create artificial boundaries. Risk generally changes gradually, but regulation often creates a sharp distinction between systems just below and just above a numerical cutoff. A model trained at 9.9 × 10^25 FLOPs may not be meaningfully different from one trained at 1.01 × 10^26 FLOPs, yet one might trigger extensive requirements while the other does not.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.ca.gov/wp-content/uploads/2025/06/June-17-2025-%E2%80%93-The-California-Report-on-Frontier-AI-Policy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.ca.gov">[Governor of California]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.ca.gov</span><span class="citation-popover-title">June 17 2025 – The California Report on Frontier AI Policy</span><span class="citation-popover-snippet">ernor of CaliforniaTHE CALIFORNIA REPORT ON FRONTIER AI POLICYJune 17, 2025 — 17 Jun 2025 — Noteworthy examples of compute thresholds...</span><span class="citation-popover-meta">Published: June 17, 2025</span></span></span>
 
-Supporters respond that every regulatory system requires practical thresholds somewhere. The relevant question is not whether thresholds are perfect, but whether they are more workable than alternatives. Compared with vague capability-based definitions, compute remains relatively objective, measurable, and auditable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2405.10799" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Training Compute Thresholds: Features and Functions in AI Regulation</span><span class="citation-popover-snippet">arXiv Training Compute Thresholds: Features and Functions in AI Regulation</span></span></span>
+Supporters respond that every regulatory system requires practical thresholds somewhere. The relevant question is not whether thresholds are perfect, but whether they are more workable than alternatives. Compared with vague capability-based definitions, compute remains relatively objective, measurable, and auditable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2405.10799" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Training Compute Thresholds: Features and Functions in AI Regulation</span><span class="citation-popover-snippet">arXiv Training Compute Thresholds: Features and Functions in AI Regulation</span></span></span>
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38-Illustration-3-dark.svg" | relative_url }}" alt="Thresholds illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_compute_repor_9a2b38-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Thresholds Can and Cannot Do
 
-The strongest case for compute reporting thresholds is not that they solve AI doom risk on their own. Rather, they provide an administrative mechanism for identifying frontier projects before deployment and directing limited oversight resources toward the systems most likely to deserve attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2405.10799" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Training Compute Thresholds: Features and Functions in AI Regulation</span><span class="citation-popover-snippet">arXiv Training Compute Thresholds: Features and Functions in AI Regulation</span></span></span>
+The strongest case for compute reporting thresholds is not that they solve AI doom risk on their own. Rather, they provide an administrative mechanism for identifying frontier projects before deployment and directing limited oversight resources toward the systems most likely to deserve attention.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2405.10799" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Training Compute Thresholds: Features and Functions in AI Regulation</span><span class="citation-popover-snippet">arXiv Training Compute Thresholds: Features and Functions in AI Regulation</span></span></span>
 
-The strongest criticism is that compute is only a proxy. Future breakthroughs could weaken the link between training compute and capability, while legal thresholds may struggle to keep pace with changing technology. A threshold can identify some frontier systems, but it cannot reliably determine whether a particular model is aligned, controllable, deceptive, or existentially dangerous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2405.10799" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Training Compute Thresholds: Features and Functions in AI Regulation</span><span class="citation-popover-snippet">arXiv Training Compute Thresholds: Features and Functions in AI Regulation</span></span></span>
+The strongest criticism is that compute is only a proxy. Future breakthroughs could weaken the link between training compute and capability, while legal thresholds may struggle to keep pace with changing technology. A threshold can identify some frontier systems, but it cannot reliably determine whether a particular model is aligned, controllable, deceptive, or existentially dangerous.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2405.10799" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Training Compute Thresholds: Features and Functions in AI Regulation</span><span class="citation-popover-snippet">arXiv Training Compute Thresholds: Features and Functions in AI Regulation</span></span></span>
 
-As a result, a growing consensus among governance researchers is that compute thresholds are most useful as **safety triggers** rather than as complete safety standards. Their role is to determine when reporting, auditing, evaluation, and scrutiny should begin. The more difficult question—whether a given system actually poses catastrophic or existential risk—still requires direct assessment of capabilities and behaviour rather than reliance on compute alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2405.10799" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Training Compute Thresholds: Features and Functions in AI Regulation</span><span class="citation-popover-snippet">arXiv Training Compute Thresholds: Features and Functions in AI Regulation</span></span></span>
+As a result, a growing consensus among governance researchers is that compute thresholds are most useful as **safety triggers** rather than as complete safety standards. Their role is to determine when reporting, auditing, evaluation, and scrutiny should begin. The more difficult question—whether a given system actually poses catastrophic or existential risk—still requires direct assessment of capabilities and behaviour rather than reliance on compute alone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2405.10799" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Training Compute Thresholds: Features and Functions in AI Regulation</span><span class="citation-popover-snippet">arXiv Training Compute Thresholds: Features and Functions in AI Regulation</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yK5odT1jz-U" title="#007 - AI compute governance with Lennart Heim" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yK5odT1jz-U" target="_blank" rel="noopener noreferrer">#007 - AI compute governance with Lennart Heim</a></p><p class="youtube-embed-meta">Channel: Engineered for Impact &middot; Views: 190 &middot; Uploaded: July 2023 &middot; Length: 1 hour 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yK5odT1jz-U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yK5odT1jz-U">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Should AI Training Runs Trigger Oversight?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Should AI Training Runs Trigger Oversight?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
-        </h4>
-        <p class="fr-book-author">By Brian Christian</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
+</h4>
+<p class="fr-book-author">By Brian Christian</p>
         
-        <p class="fr-book-desc">Covers measurement, evaluation, and governance challenges surrounding advanced machine learning systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers measurement, evaluation, and governance challenges surrounding advanced machine learning systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8vm0DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Jonathan Russell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8vm0DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
+</h4>
+<p class="fr-book-author">By Stuart Jonathan Russell</p>
         
-        <p class="fr-book-desc">Explores why advanced AI systems may require governance, monitoring, and safety constraints.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores why advanced AI systems may require governance, monitoring, and safety constraints.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superintelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7_H8AwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superintelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superintelligence">Superintelligence</a>
-        </h4>
-        <p class="fr-book-author">By Nick Bostrom</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superintelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7_H8AwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superintelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superintelligence">Superintelligence</a>
+</h4>
+<p class="fr-book-author">By Nick Bostrom</p>
         
-        <p class="fr-book-desc">Provides foundational arguments motivating oversight of increasingly capable AI development.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides foundational arguments motivating oversight of increasingly capable AI development.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
-        </h4>
-        <p class="fr-book-author">By Mustafa Suleyman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
+</h4>
+<p class="fr-book-author">By Mustafa Suleyman</p>
         
-        <p class="fr-book-desc">Directly discusses oversight mechanisms for powerful AI systems and governance responses to frontier model development.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly discusses oversight mechanisms for powerful AI systems and governance responses to frontier model development.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superintelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superintelligence</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Superintelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superintelligence</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BeAndge STEM Kits for Kids Crafts 6-8 8-12 Boys Gifts Idea Robotics Science Kits"><img src="{{ '/assets/images/marketplace-covers/08ddfdc8d3d6ad4cc2f8.jpg' | relative_url }}" alt="Listing image for BeAndge STEM Kits for Kids Crafts 6-8 8-12 Boys Gifts Idea Robotics Science Kits" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">BeAndge STEM Kits for Kids Crafts 6-8 8-12 Boys Gifts Idea Robotics Science Kits</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.com</span>: robotics kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-robotics-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BeAndge STEM Kits for Kids Crafts 6-8 8-12 Boys Gifts Idea Robotics Science Kits"><img src="{{ '/assets/images/marketplace-covers/08ddfdc8d3d6ad4cc2f8.jpg' | relative_url }}" alt="Listing image for BeAndge STEM Kits for Kids Crafts 6-8 8-12 Boys Gifts Idea Robotics Science Kits" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">BeAndge STEM Kits for Kids Crafts 6-8 8-12 Boys Gifts Idea Robotics Science Kits</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search<span data-ebay-domain-label>eBay.com</span>: robotics kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-robotics-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Animatronic Eyes DIY kit for Arduino Bionic robot SG90 servo Joystick control"><img src="{{ '/assets/images/marketplace-covers/edc3f7369c3207898159.jpg' | relative_url }}" alt="Listing image for Animatronic Eyes DIY kit for Arduino Bionic robot SG90 servo Joystick control" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Animatronic Eyes DIY kit for Arduino Bionic robot SG90 servo Joystick control</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.com</span>: robotics kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-robotics-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Animatronic Eyes DIY kit for Arduino Bionic robot SG90 servo Joystick control"><img src="{{ '/assets/images/marketplace-covers/edc3f7369c3207898159.jpg' | relative_url }}" alt="Listing image for Animatronic Eyes DIY kit for Arduino Bionic robot SG90 servo Joystick control" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Animatronic Eyes DIY kit for Arduino Bionic robot SG90 servo Joystick control</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search<span data-ebay-domain-label>eBay.com</span>: robotics kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-robotics-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Smart Robot Platform DIY Chassis Kit Crawler Tank Motors for Pi Arduino Maker"><img src="{{ '/assets/images/marketplace-covers/903db1ed07f40bd10314.jpg' | relative_url }}" alt="Listing image for Smart Robot Platform DIY Chassis Kit Crawler Tank Motors for Pi Arduino Maker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Smart Robot Platform DIY Chassis Kit Crawler Tank Motors for Pi Arduino Maker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.com</span>: robotics kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-robotics-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Smart Robot Platform DIY Chassis Kit Crawler Tank Motors for Pi Arduino Maker"><img src="{{ '/assets/images/marketplace-covers/903db1ed07f40bd10314.jpg' | relative_url }}" alt="Listing image for Smart Robot Platform DIY Chassis Kit Crawler Tank Motors for Pi Arduino Maker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Smart Robot Platform DIY Chassis Kit Crawler Tank Motors for Pi Arduino Maker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search<span data-ebay-domain-label>eBay.com</span>: robotics kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-robotics-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Solar Robot Kit DIY Toys Kids Ages 8+ STEM Educational 12-in-1 Kit"><img src="{{ '/assets/images/marketplace-covers/f9020407c9a29348dad4.jpg' | relative_url }}" alt="Listing image for Solar Robot Kit DIY Toys Kids Ages 8+ STEM Educational 12-in-1 Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Solar Robot Kit DIY Toys Kids Ages 8+ STEM Educational 12-in-1 Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.com</span>: robotics kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-robotics-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Solar Robot Kit DIY Toys Kids Ages 8+ STEM Educational 12-in-1 Kit"><img src="{{ '/assets/images/marketplace-covers/f9020407c9a29348dad4.jpg' | relative_url }}" alt="Listing image for Solar Robot Kit DIY Toys Kids Ages 8+ STEM Educational 12-in-1 Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Solar Robot Kit DIY Toys Kids Ages 8+ STEM Educational 12-in-1 Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search<span data-ebay-domain-label>eBay.com</span>: robotics kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-robotics-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI ARTIFICIAL INTELLIGENCE . 2001 ORIGINAL MOVIE POSTER vintage 24 YEARS OLD"><img src="{{ '/assets/images/marketplace-covers/5af1ce80d93e60e8d871.jpg' | relative_url }}" alt="Listing image for AI ARTIFICIAL INTELLIGENCE . 2001 ORIGINAL MOVIE POSTER vintage 24 YEARS OLD" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">AI ARTIFICIAL INTELLIGENCE . 2001 ORIGINAL MOVIE POSTER vintage 24 YEARS OLD</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: AI poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-ai-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI ARTIFICIAL INTELLIGENCE . 2001 ORIGINAL MOVIE POSTER vintage 24 YEARS OLD"><img src="{{ '/assets/images/marketplace-covers/5af1ce80d93e60e8d871.jpg' | relative_url }}" alt="Listing image for AI ARTIFICIAL INTELLIGENCE . 2001 ORIGINAL MOVIE POSTER vintage 24 YEARS OLD" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">AI ARTIFICIAL INTELLIGENCE . 2001 ORIGINAL MOVIE POSTER vintage 24 YEARS OLD</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: AI poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-ai-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray"><img src="{{ '/assets/images/marketplace-covers/3c3ecd285cbeae3cd708.jpg' | relative_url }}" alt="Listing image for AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: AI poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-ai-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray"><img src="{{ '/assets/images/marketplace-covers/3c3ecd285cbeae3cd708.jpg' | relative_url }}" alt="Listing image for AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: AI poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-ai-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-when-should-ai-training-runs-trigger-oversight-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -617,7 +617,7 @@ As a result, a growing consensus among governance researchers is that compute th
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -637,7 +637,7 @@ As a result, a growing consensus among governance researchers is that compute th
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -669,7 +669,7 @@ As a result, a growing consensus among governance researchers is that compute th
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -699,7 +699,7 @@ As a result, a growing consensus among governance researchers is that compute th
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -757,156 +757,156 @@ As a result, a growing consensus among governance researchers is that compute th
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: law-ai.org  
    Title: Institute for Law & AIThe Role of Compute Thresholds for AI Governance  
-   Link: <a href="https://law-ai.org/the-role-of-compute-thresholds-for-ai-governance/" target="_blank" rel="noopener noreferrer nofollow">https://law-ai.org/the-role-of-compute-thresholds-for-ai-governance/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>February 20, 2025 — This article discusses the role of training compute thresholds, which use training compute to determine which potenti...</p></details>
+   Link:<a href="https://law-ai.org/the-role-of-compute-thresholds-for-ai-governance/" target="_blank" rel="noopener noreferrer nofollow">https://law-ai.org/the-role-of-compute-thresholds-for-ai-governance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 20, 2025 — This article discusses the role of training compute thresholds, which use training compute to determine which potenti...</p></details>
    Published: February 20, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
    Title: arXiv Training Compute Thresholds: Features and Functions in AI Regulation  
-   Link: <a href="https://arxiv.org/abs/2405.10799" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.10799</a>  
+   Link:<a href="https://arxiv.org/abs/2405.10799" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.10799</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv On the Limitations of Compute Thresholds as a Governance Strategy  
-   Link: <a href="https://arxiv.org/abs/2407.05694" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2407.05694</a>  
+   Link:<a href="https://arxiv.org/abs/2407.05694" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2407.05694</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: orrick.com  
-   Link: <a href="https://www.orrick.com/en/Insights/2024/07/California-Looks-to-Regulate-Cutting-Edge-Frontier-AI-Models-5-Things-to-Know-About-SB1047" target="_blank" rel="noopener noreferrer nofollow">https://www.orrick.com/en/Insights/2024/07/California-Looks-to-Regulate-Cutting-Edge-Frontier-AI-Models-5-Things-to-Know-About-SB1047</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>models under SB-1047 sets a high threshold for regulation.Read more...</p></details>
+   Link:<a href="https://www.orrick.com/en/Insights/2024/07/California-Looks-to-Regulate-Cutting-Edge-Frontier-AI-Models-5-Things-to-Know-About-SB1047" target="_blank" rel="noopener noreferrer nofollow">https://www.orrick.com/en/Insights/2024/07/California-Looks-to-Regulate-Cutting-Edge-Frontier-AI-Models-5-Things-to-Know-About-SB1047</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>models under SB-1047 sets a high threshold for regulation.Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cdn.governance.ai  
    Title: Computing Power and the Governance of AI  
-   Link: <a href="https://cdn.governance.ai/Computing_Power_and_the_Governance_of_AI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.governance.ai/Computing_Power_and_the_Governance_of_AI.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Computing Power and the Governance of Artificial...14 Feb 2024 — Computing power, or &quot;compute,&quot; is crucial for the development and deplo...</p></details>
+   Link:<a href="https://cdn.governance.ai/Computing_Power_and_the_Governance_of_AI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.governance.ai/Computing_Power_and_the_Governance_of_AI.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Computing Power and the Governance of Artificial...14 Feb 2024 — Computing power, or &quot;compute,&quot; is crucial for the development and deplo...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: law-ai.org  
    Title: Institute for Law & AILegal Considerations for Defining “Frontier Model”  
-   Link: <a href="https://law-ai.org/frontier-model-definitions/" target="_blank" rel="noopener noreferrer nofollow">https://law-ai.org/frontier-model-definitions/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>September 30, 2024 — 9 Sept 2024 — This was, at least in part, the reason for the inclusion of training compute thresholds of 1026 FLOP i...</p></details>
+   Link:<a href="https://law-ai.org/frontier-model-definitions/" target="_blank" rel="noopener noreferrer nofollow">https://law-ai.org/frontier-model-definitions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 30, 2024 — 9 Sept 2024 — This was, at least in part, the reason for the inclusion of training compute thresholds of 1026 FLOP i...</p></details>
    Published: September 30, 2024  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: epoch.ai  
    Title: model counts compute thresholds  
-   Link: <a href="https://epoch.ai/publications/model-counts-compute-thresholds" target="_blank" rel="noopener noreferrer nofollow">https://epoch.ai/publications/model-counts-compute-thresholds</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How many AI models will exceed compute thresholds?30 May 2025 — We project how many notable AI models will exceed training compute thresh...</p></details>
+   Link:<a href="https://epoch.ai/publications/model-counts-compute-thresholds" target="_blank" rel="noopener noreferrer nofollow">https://epoch.ai/publications/model-counts-compute-thresholds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How many AI models will exceed compute thresholds?30 May 2025 — We project how many notable AI models will exceed training compute thresh...</p></details>
    Published: May 2025  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
    Title: arXiv Defending Compute Thresholds Against Legal Loopholes  
-   Link: <a href="https://arxiv.org/abs/2502.00003" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.00003</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Defending Compute Thresholds Against Legal LoopholesJanuary 3, 2025...</p></details>
+   Link:<a href="https://arxiv.org/abs/2502.00003" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.00003</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defending Compute Thresholds Against Legal LoopholesJanuary 3, 2025...</p></details>
    Published: January 3, 2025  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2405.10799v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2405.10799v2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Training Compute Thresholds: Features and Functions in...6 Aug 2024 — We argue that training compute currently is the most suitable metr...</p></details>
+   Link:<a href="https://arxiv.org/html/2405.10799v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2405.10799v2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Training Compute Thresholds: Features and Functions in...6 Aug 2024 — We argue that training compute currently is the most suitable metr...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2502.00003" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2502.00003</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Under the vetoed California Senate Bill 1047, the definition of &#x27;covered model&#x27; would have included AI models...Read more...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2502.00003" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2502.00003</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Under the vetoed California Senate Bill 1047, the definition of &#x27;covered model&#x27; would have included AI models...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: federalregister.gov  
-   Link: <a href="https://www.federalregister.gov/documents/2023/11/01/2023-24283/safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2023/11/01/2023-24283/safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal RegisterSafe, Secure, and Trustworthy Development and Use of...November 1, 2023 — 1 Nov 2023 — Such reports shall include, at a...</p></details>
+   Link:<a href="https://www.federalregister.gov/documents/2023/11/01/2023-24283/safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2023/11/01/2023-24283/safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal RegisterSafe, Secure, and Trustworthy Development and Use of...November 1, 2023 — 1 Nov 2023 — Such reports shall include, at a...</p></details>
    Published: November 1, 2023  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: mofo.com  
    Title: 231107 the ai executive order presidential authority  
-   Link: <a href="https://www.mofo.com/resources/insights/231107-the-ai-executive-order-presidential-authority" target="_blank" rel="noopener noreferrer nofollow">https://www.mofo.com/resources/insights/231107-the-ai-executive-order-presidential-authority</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Morrison FoersterThe AI Executive Order: Presidential Authority for...7 Nov 2023 — Any AI model that was trained: using a quantity of co...</p></details>
+   Link:<a href="https://www.mofo.com/resources/insights/231107-the-ai-executive-order-presidential-authority" target="_blank" rel="noopener noreferrer nofollow">https://www.mofo.com/resources/insights/231107-the-ai-executive-order-presidential-authority</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Morrison FoersterThe AI Executive Order: Presidential Authority for...7 Nov 2023 — Any AI model that was trained: using a quantity of co...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: morganlewis.com  
-   Link: <a href="https://www.morganlewis.com/pubs/2024/08/californias-sb-1047-would-impose-new-safety-requirements-for-developers-of-large-scale-ai-models" target="_blank" rel="noopener noreferrer nofollow">https://www.morganlewis.com/pubs/2024/08/californias-sb-1047-would-impose-new-safety-requirements-for-developers-of-large-scale-ai-models</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>computing power of three times 10^25 integer or FLOP costing over $10 million.[1] This is the same computing threshold as set in the Bide...</p></details>
+   Link:<a href="https://www.morganlewis.com/pubs/2024/08/californias-sb-1047-would-impose-new-safety-requirements-for-developers-of-large-scale-ai-models" target="_blank" rel="noopener noreferrer nofollow">https://www.morganlewis.com/pubs/2024/08/californias-sb-1047-would-impose-new-safety-requirements-for-developers-of-large-scale-ai-models</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>computing power of three times 10^25 integer or FLOP costing over $10 million.[1] This is the same computing threshold as set in the Bide...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aigi.ox.ac.uk  
    Title: Survey on thresholds for advanced AI systems 1  
-   Link: <a href="https://aigi.ox.ac.uk/wp-content/uploads/2025/08/Survey_on_thresholds_for_advanced_AI_systems_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aigi.ox.ac.uk/wp-content/uploads/2025/08/Survey_on_thresholds_for_advanced_AI_systems_1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ford Martin AIGISURVEY ON THRESHOLDS FOR ADVANCED AI SYSTEMSAugust 29, 2025 — by J Schuett · 2025 · Cited by 3 — “If training compute t...</p></details>
+   Link:<a href="https://aigi.ox.ac.uk/wp-content/uploads/2025/08/Survey_on_thresholds_for_advanced_AI_systems_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aigi.ox.ac.uk/wp-content/uploads/2025/08/Survey_on_thresholds_for_advanced_AI_systems_1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ford Martin AIGISURVEY ON THRESHOLDS FOR ADVANCED AI SYSTEMSAugust 29, 2025 — by J Schuett · 2025 · Cited by 3 — “If training compute t...</p></details>
    Published: August 29, 2025  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: gov.ca.gov  
    Title: June 17 2025 – The California Report on Frontier AI Policy  
-   Link: <a href="https://www.gov.ca.gov/wp-content/uploads/2025/06/June-17-2025-%E2%80%93-The-California-Report-on-Frontier-AI-Policy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.ca.gov/wp-content/uploads/2025/06/June-17-2025-%E2%80%93-The-California-Report-on-Frontier-AI-Policy.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ernor of CaliforniaTHE CALIFORNIA REPORT ON FRONTIER AI POLICYJune 17, 2025 — 17 Jun 2025 — Noteworthy examples of compute thresholds...</p></details>
+   Link:<a href="https://www.gov.ca.gov/wp-content/uploads/2025/06/June-17-2025-%E2%80%93-The-California-Report-on-Frontier-AI-Policy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.ca.gov/wp-content/uploads/2025/06/June-17-2025-%E2%80%93-The-California-Report-on-Frontier-AI-Policy.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ernor of CaliforniaTHE CALIFORNIA REPORT ON FRONTIER AI POLICYJune 17, 2025 — 17 Jun 2025 — Noteworthy examples of compute thresholds...</p></details>
    Published: June 17, 2025  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: aws.amazon.com  
-   Link: <a href="https://aws.amazon.com/what-is/compute/" target="_blank" rel="noopener noreferrer nofollow">https://aws.amazon.com/what-is/compute/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enterprise Cloud Computing ExplainedIt is a generic term used to reference processing power, memory, networking, storage, and other resou...</p></details>
+   Link:<a href="https://aws.amazon.com/what-is/compute/" target="_blank" rel="noopener noreferrer nofollow">https://aws.amazon.com/what-is/compute/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enterprise Cloud Computing ExplainedIt is a generic term used to reference processing power, memory, networking, storage, and other resou...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: hpe.com  
-   Link: <a href="https://www.hpe.com/uk/en/what-is/compute.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hpe.com/uk/en/what-is/compute.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Compute? | Glossary31 Oct 2025 — Compute refers to the ability of a computer system to process and execute tasks, calculations, a...</p></details>
+   Link:<a href="https://www.hpe.com/uk/en/what-is/compute.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hpe.com/uk/en/what-is/compute.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is Compute? | Glossary31 Oct 2025 — Compute refers to the ability of a computer system to process and execute tasks, calculations, a...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/compute" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/compute</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>COMPUTE Definition &amp; Meaning1. to make calculation: reckon They compute by weight in selling grain. 2. to use a computer 3. informal: t...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/compute" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/compute</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>COMPUTE Definition &amp; Meaning1. to make calculation: reckon They compute by weight in selling grain. 2. to use a computer 3. informal: t...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/explainlikeimfive/comments/hiqdpx/eli5_what_exactly_is_compute/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/hiqdpx/eli5_what_exactly_is_compute/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>eli5: What exactly is compute?: r/explainlikeimfiveI am curious to understand more what compute means in reference to AWS services. What...</p></details>
+   Link:<a href="https://www.reddit.com/r/explainlikeimfive/comments/hiqdpx/eli5_what_exactly_is_compute/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/hiqdpx/eli5_what_exactly_is_compute/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>eli5: What exactly is compute?: r/explainlikeimfiveI am curious to understand more what compute means in reference to AWS services. What...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: mayerbrown.com  
-   Link: <a href="https://www.mayerbrown.com/en/insights/publications/2024/09/us-department-of-commerce-issues-proposal-to-require-reporting-development-of-advanced-ai-models-and-computer-clusters" target="_blank" rel="noopener noreferrer nofollow">https://www.mayerbrown.com/en/insights/publications/2024/09/us-department-of-commerce-issues-proposal-to-require-reporting-development-of-advanced-ai-models-and-computer-clusters</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US Department of Commerce Issues Proposal to Require...17 Sept 2024 — “Conducting any AI model training run using more than 10^26 comput...</p></details>
+   Link:<a href="https://www.mayerbrown.com/en/insights/publications/2024/09/us-department-of-commerce-issues-proposal-to-require-reporting-development-of-advanced-ai-models-and-computer-clusters" target="_blank" rel="noopener noreferrer nofollow">https://www.mayerbrown.com/en/insights/publications/2024/09/us-department-of-commerce-issues-proposal-to-require-reporting-development-of-advanced-ai-models-and-computer-clusters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US Department of Commerce Issues Proposal to Require...17 Sept 2024 — “Conducting any AI model training run using more than 10^26 comput...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/publications/ai-safety-institute-overview/introducing-the-ai-safety-institute" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-safety-institute-overview/introducing-the-ai-safety-institute</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the AI Safety InstituteThe government is committed to supporting a thriving compute environment that maintains the UK&#x27;s position as a lea...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/ai-safety-institute-overview/introducing-the-ai-safety-institute" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-safety-institute-overview/introducing-the-ai-safety-institute</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the AI Safety InstituteThe government is committed to supporting a thriving compute environment that maintains the UK&#x27;s position as a lea...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/LocalLLaMA/comments/17k7obo/biden_executive_order_regulates_very_large_models/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/LocalLLaMA/comments/17k7obo/biden_executive_order_regulates_very_large_models/</a>  
+   Link:<a href="https://www.reddit.com/r/LocalLLaMA/comments/17k7obo/biden_executive_order_regulates_very_large_models/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/LocalLLaMA/comments/17k7obo/biden_executive_order_regulates_very_large_models/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: paulweiss.com  
-   Link: <a href="https://www.paulweiss.com/insights/client-memos/commerce-proposes-rule-to-collect-frontier-ai-and-computing-cluster-data-for-national-security-purposes" target="_blank" rel="noopener noreferrer nofollow">https://www.paulweiss.com/insights/client-memos/commerce-proposes-rule-to-collect-frontier-ai-and-computing-cluster-data-for-national-security-purposes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Commerce Proposes Rule to Collect Frontier AI and...13 Sept 2024 — [7] Models trained on primarily biological sequence data, but at the...</p></details>
+   Link:<a href="https://www.paulweiss.com/insights/client-memos/commerce-proposes-rule-to-collect-frontier-ai-and-computing-cluster-data-for-national-security-purposes" target="_blank" rel="noopener noreferrer nofollow">https://www.paulweiss.com/insights/client-memos/commerce-proposes-rule-to-collect-frontier-ai-and-computing-cluster-data-for-national-security-purposes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Commerce Proposes Rule to Collect Frontier AI and...13 Sept 2024 — [7] Models trained on primarily biological sequence data, but at the...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: lw.com  
-   Link: <a href="https://www.lw.com/admin/upload/SiteAttachments/President-Bidens-Executive-Order-on-AI-Initial-Analysis-of-Private-Sector-Implications.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lw.com/admin/upload/SiteAttachments/President-Bidens-Executive-Order-on-AI-Initial-Analysis-of-Private-Sector-Implications.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>President Biden&#x27;s Executive Order on Artificial Intelligence30 Oct 2023 — Until then, a model shall be considered to have potential for s...</p></details>
+   Link:<a href="https://www.lw.com/admin/upload/SiteAttachments/President-Bidens-Executive-Order-on-AI-Initial-Analysis-of-Private-Sector-Implications.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lw.com/admin/upload/SiteAttachments/President-Bidens-Executive-Order-on-AI-Initial-Analysis-of-Private-Sector-Implications.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>President Biden&#x27;s Executive Order on Artificial Intelligence30 Oct 2023 — Until then, a model shall be considered to have potential for s...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: santafe.edu  
    Title: what does it mean to compute new paper by sfi researchers points to an answer  
-   Link: <a href="https://www.santafe.edu/news-center/news/what-does-it-mean-to-compute-new-paper-by-sfi-researchers-points-to-an-answer" target="_blank" rel="noopener noreferrer nofollow">https://www.santafe.edu/news-center/news/what-does-it-mean-to-compute-new-paper-by-sfi-researchers-points-to-an-answer</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What does it mean to compute?25 Feb 2026 — It also provides a way to define computation specifically. “We can say that some system can co...</p></details>
+   Link:<a href="https://www.santafe.edu/news-center/news/what-does-it-mean-to-compute-new-paper-by-sfi-researchers-points-to-an-answer" target="_blank" rel="noopener noreferrer nofollow">https://www.santafe.edu/news-center/news/what-does-it-mean-to-compute-new-paper-by-sfi-researchers-points-to-an-answer</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What does it mean to compute?25 Feb 2026 — It also provides a way to define computation specifically. “We can say that some system can co...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: engineadvocacyfoundation.medium.com  
    Title: ai essentials what is compute and how is it measured 36951f78485a  
-   Link: <a href="https://engineadvocacyfoundation.medium.com/ai-essentials-what-is-compute-and-how-is-it-measured-36951f78485a" target="_blank" rel="noopener noreferrer nofollow">https://engineadvocacyfoundation.medium.com/ai-essentials-what-is-compute-and-how-is-it-measured-36951f78485a</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Essentials: What is compute and how is it measured?Compute refers to the hardware resources that make AI models work, allowing them to tr...</p></details>
+   Link:<a href="https://engineadvocacyfoundation.medium.com/ai-essentials-what-is-compute-and-how-is-it-measured-36951f78485a" target="_blank" rel="noopener noreferrer nofollow">https://engineadvocacyfoundation.medium.com/ai-essentials-what-is-compute-and-how-is-it-measured-36951f78485a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Essentials: What is compute and how is it measured?Compute refers to the hardware resources that make AI models work, allowing them to tr...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: fenwick.com  
    Title: interesting developments for regulatory thresholds of [ai compute](&#123;&#123; 'compute-kyc/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.fenwick.com/insights/publications/interesting-developments-for-regulatory-thresholds-of-ai-compute" target="_blank" rel="noopener noreferrer nofollow">https://www.fenwick.com/insights/publications/interesting-developments-for-regulatory-thresholds-of-ai-compute</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Technological Challenges for Regulatory Thresholds of AI…20 Jun 2024 — This comports with California&#x27;s proposed SB 1047, which asserts th...</p></details>
+   Link:<a href="https://www.fenwick.com/insights/publications/interesting-developments-for-regulatory-thresholds-of-ai-compute" target="_blank" rel="noopener noreferrer nofollow">https://www.fenwick.com/insights/publications/interesting-developments-for-regulatory-thresholds-of-ai-compute</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Technological Challenges for Regulatory Thresholds of AI…20 Jun 2024 — This comports with California&#x27;s proposed SB 1047, which asserts th...</p></details>

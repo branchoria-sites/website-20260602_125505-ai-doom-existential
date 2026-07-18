@@ -272,7 +272,7 @@ image: /assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_eval_false_co_fa
 In debates about AI doom and existential risk, benchmark results are often treated as evidence that a model is safe, controllable, or lacks certain dangerous abilities. The problem is that benchmarks are not neutral windows into a system's full capabilities. They are human-designed tests, and the way those tests are constructed can systematically hide risks.
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_eval_false_co_fa7edc_benchmark_des_aa2a37-Illustration-1-dark.svg" | relative_url }}" alt="Benchmark Limits illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_eval_false_co_fa7edc_benchmark_des_aa2a37-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_eval_false_co_fa7edc_benchmark_des_aa2a37-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Many standard [AI evaluations]({{ 'ai-evaluations/' | relative_url }}) measure performance on short, clearly specified tasks that can be automatically graded. Yet some of the dangers that concern AI safety researchers involve long chains of reasoning, strategic planning, tool use, adaptation to changing environments, or behaviour that only emerges under unusual circumstances. A model can therefore look reassuring on conventional benchmarks while still possessing capabilities that matter for loss-of-control scenarios. Researchers working on frontier AI [evaluations]({{ 'evaluations/' | relative_url }}) increasingly argue that benchmark design itself has become a central safety challenge, not merely a measurement problem. Metr Evaluations <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">Not all are applied across all domains. These include: Auto-graded task sets that measure AI...Read more...</span></span></span>
+Many standard [AI evaluations]({{ 'ai-evaluations/' | relative_url }}) measure performance on short, clearly specified tasks that can be automatically graded. Yet some of the dangers that concern AI safety researchers involve long chains of reasoning, strategic planning, tool use, adaptation to changing environments, or behaviour that only emerges under unusual circumstances. A model can therefore look reassuring on conventional benchmarks while still possessing capabilities that matter for loss-of-control scenarios. Researchers working on frontier AI [evaluations]({{ 'evaluations/' | relative_url }}) increasingly argue that benchmark design itself has become a central safety challenge, not merely a measurement problem. Metr Evaluations<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">Not all are applied across all domains. These include: Auto-graded task sets that measure AI...Read more...</span></span></span>
 
 ## How Static Tests Miss Dynamic Threats
 
@@ -291,7 +291,7 @@ A dangerous AI system would not necessarily create harm through a single respons
 
 </div>
 
-These behaviours are difficult to capture with static benchmark questions. As a result, a model may score modestly on traditional tests while still showing surprisingly strong performance when placed in realistic environments that allow planning, tool use, and iteration. This concern has motivated the development of longer-horizon and agent-based evaluations that attempt to measure what systems can do over hours or days rather than seconds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.20520" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Open-World Evaluations for Measuring Frontier AI Capabilities</span><span class="citation-popover-snippet">arXiv Open-World Evaluations for Measuring Frontier AI Capabilities</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">Not all are applied across all domains. These include: Auto-graded task sets that measure AI...Read more...</span></span></span>
+These behaviours are difficult to capture with static benchmark questions. As a result, a model may score modestly on traditional tests while still showing surprisingly strong performance when placed in realistic environments that allow planning, tool use, and iteration. This concern has motivated the development of longer-horizon and agent-based evaluations that attempt to measure what systems can do over hours or days rather than seconds.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.20520" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Open-World Evaluations for Measuring Frontier AI Capabilities</span><span class="citation-popover-snippet">arXiv Open-World Evaluations for Measuring Frontier AI Capabilities</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">Not all are applied across all domains. These include: Auto-graded task sets that measure AI...Read more...</span></span></span>
 
 This distinction matters for AI doom arguments because many loss-of-control concerns depend less on isolated knowledge and more on the ability to pursue objectives autonomously. A benchmark that measures whether a model knows something is not necessarily measuring whether it can successfully act on that knowledge.
 
@@ -301,14 +301,14 @@ This distinction matters for AI doom arguments because many loss-of-control conc
 
 A benchmark can only measure capabilities that it successfully draws out.
 
-Researchers often refer to this as the elicitation problem: a model may possess an ability that remains hidden because evaluators did not find the right prompting strategy, tool configuration, context window, or task framing. A disappointing score may therefore reflect a poor test rather than a genuine absence of capability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://evaluations.metr.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: evaluations.metr.org">[Metr Evaluations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">evaluations.metr.org</span><span class="citation-popover-snippet">Metr EvaluationsMETR&#x27;s Autonomy Evaluation ResourcesThis is METR&#x27;s collection of resources for evaluating potentially dangerous autonomou...</span></span></span>
+Researchers often refer to this as the elicitation problem: a model may possess an ability that remains hidden because evaluators did not find the right prompting strategy, tool configuration, context window, or task framing. A disappointing score may therefore reflect a poor test rather than a genuine absence of capability.<span class="citation-chip-wrap"><a class="citation-chip" href="https://evaluations.metr.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: evaluations.metr.org">[Metr Evaluations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">evaluations.metr.org</span><span class="citation-popover-snippet">Metr EvaluationsMETR&#x27;s Autonomy Evaluation ResourcesThis is METR&#x27;s collection of resources for evaluating potentially dangerous autonomou...</span></span></span>
 
 This creates an asymmetry in interpretation:
 
 * A strong benchmark result usually demonstrates capability.
 * A weak benchmark result does not necessarily demonstrate incapability.
 
-For AI-risk researchers, this asymmetry is important because dangerous capabilities may be exactly the capabilities that are hardest to elicit. Sophisticated planning, deception, vulnerability discovery, scientific problem-solving, or strategic reasoning may require specialised setups that ordinary benchmarks do not provide. A clean evaluation result can therefore be a false negative rather than reassuring evidence of safety. Metr Evaluations <span class="citation-chip-wrap"><a class="citation-chip" href="https://ai-safety-atlas.com/chapters/v1/evaluations/dangerous-capability-evaluations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ai-safety-atlas.com">[2ai-safety-atlas.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ai-safety-atlas.com</span><span class="citation-popover-title">Dangerous Capability Evaluations</span><span class="citation-popover-snippet">Chapter 5Dangerous capability evaluations specifically probe for these potentially harmful abilities, helping identify systems that might...</span></span></span>
+For AI-risk researchers, this asymmetry is important because dangerous capabilities may be exactly the capabilities that are hardest to elicit. Sophisticated planning, deception, vulnerability discovery, scientific problem-solving, or strategic reasoning may require specialised setups that ordinary benchmarks do not provide. A clean evaluation result can therefore be a false negative rather than reassuring evidence of safety. Metr Evaluations<span class="citation-chip-wrap"><a class="citation-chip" href="https://ai-safety-atlas.com/chapters/v1/evaluations/dangerous-capability-evaluations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ai-safety-atlas.com">[2ai-safety-atlas.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ai-safety-atlas.com</span><span class="citation-popover-title">Dangerous Capability Evaluations</span><span class="citation-popover-snippet">Chapter 5Dangerous capability evaluations specifically probe for these potentially harmful abilities, helping identify systems that might...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/y2N9dIhcNrY" title="BREAKING - UC Berkeley Researchers REVEAL Critical Flaws in AI Benchmarks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=y2N9dIhcNrY" target="_blank" rel="noopener noreferrer">BREAKING - UC Berkeley Researchers REVEAL Critical Flaws in AI Benchmarks</a></p><p class="youtube-embed-meta">Channel: AIM Network &middot; Views: 2.6K &middot; Uploaded: April 2026 &middot; Length: 3 minutes 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=y2N9dIhcNrY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=y2N9dIhcNrY">Open on YouTube</a></p></div></div></div>
 
@@ -316,13 +316,13 @@ For AI-risk researchers, this asymmetry is important because dangerous capabilit
 
 Another way benchmark design can hide dangers is through saturation.
 
-A benchmark becomes saturated when leading models score so highly that differences between systems become difficult to detect. Once many frontier models achieve near-ceiling performance, the benchmark stops functioning as a useful measure of progress. Researchers studying dozens of major language-model benchmarks have found that saturation is widespread and tends to increase as benchmarks age. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.20520" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Open-World Evaluations for Measuring Frontier AI Capabilities</span><span class="citation-popover-snippet">arXiv Open-World Evaluations for Measuring Frontier AI Capabilities</span></span></span>
+A benchmark becomes saturated when leading models score so highly that differences between systems become difficult to detect. Once many frontier models achieve near-ceiling performance, the benchmark stops functioning as a useful measure of progress. Researchers studying dozens of major language-model benchmarks have found that saturation is widespread and tends to increase as benchmarks age.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.20520" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Open-World Evaluations for Measuring Frontier AI Capabilities</span><span class="citation-popover-snippet">arXiv Open-World Evaluations for Measuring Frontier AI Capabilities</span></span></span>
 
 From an existential-risk perspective, saturation creates two problems.
 
 First, it can encourage the mistaken belief that progress has slowed because benchmark scores are barely moving. In reality, capabilities may be advancing rapidly in domains the benchmark no longer measures.
 
-Second, saturated benchmarks often focus attention on narrow improvements while overlooking emerging abilities. A model that performs only slightly better on a standard test may nevertheless have acquired substantial gains in [autonomy]({{ 'autonomy/' | relative_url }}), planning, persistence, or tool use that matter far more for [catastrophic]({{ 'misuse/' | relative_url }})-risk assessments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mbrenndoerfer.com/writing/benchmark-saturation-ai-evaluation-metrics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mbrenndoerfer.com">[Michael Brenndoerfer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mbrenndoerfer.com</span><span class="citation-popover-snippet">Michael BrenndoerferBenchmark Saturation: AI Evaluation Metrics and Ceiling...6 Mar 2026 — Benchmark saturation imposes real costs on th...</span></span></span>
+Second, saturated benchmarks often focus attention on narrow improvements while overlooking emerging abilities. A model that performs only slightly better on a standard test may nevertheless have acquired substantial gains in [autonomy]({{ 'autonomy/' | relative_url }}), planning, persistence, or tool use that matter far more for [catastrophic]({{ 'misuse/' | relative_url }})-risk assessments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mbrenndoerfer.com/writing/benchmark-saturation-ai-evaluation-metrics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mbrenndoerfer.com">[Michael Brenndoerfer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mbrenndoerfer.com</span><span class="citation-popover-snippet">Michael BrenndoerferBenchmark Saturation: AI Evaluation Metrics and Ceiling...6 Mar 2026 — Benchmark saturation imposes real costs on th...</span></span></span>
 
 In effect, a benchmark can stop measuring the frontier long before the frontier stops moving.
 
@@ -331,11 +331,11 @@ In effect, a benchmark can stop measuring the frontier long before the frontier 
 
 Benchmarks also become less informative when models are exposed to them during development.
 
-Many influential benchmark datasets are public. Over time, examples from those datasets can appear in training corpora, evaluation discussions, research papers, or fine-tuning processes. Even when direct contamination is unintentional, models may become increasingly familiar with the patterns and answers that benchmarks reward. <span class="citation-chip-wrap"><a class="citation-chip" href="https://layerlens.ai/blog/why-ai-benchmarks-are-misleading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: layerlens.ai">[LayerLens]</a><span class="citation-popover" role="note"><span class="citation-popover-source">layerlens.ai</span><span class="citation-popover-title">why ai benchmarks are misleading</span><span class="citation-popover-snippet">Why AI Benchmarks Are Misleading14 Mar 2026 — AI benchmarks mislead when treated as conclusions. Learn the five core problems: d...</span></span></span>
+Many influential benchmark datasets are public. Over time, examples from those datasets can appear in training corpora, evaluation discussions, research papers, or fine-tuning processes. Even when direct contamination is unintentional, models may become increasingly familiar with the patterns and answers that benchmarks reward.<span class="citation-chip-wrap"><a class="citation-chip" href="https://layerlens.ai/blog/why-ai-benchmarks-are-misleading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: layerlens.ai">[LayerLens]</a><span class="citation-popover" role="note"><span class="citation-popover-source">layerlens.ai</span><span class="citation-popover-title">why ai benchmarks are misleading</span><span class="citation-popover-snippet">Why AI Benchmarks Are Misleading14 Mar 2026 — AI benchmarks mislead when treated as conclusions. Learn the five core problems: d...</span></span></span>
 
 This can produce a misleading picture of capability.
 
-A model that performs extremely well on a known benchmark may be demonstrating memorisation, pattern familiarity, or optimisation for the test format rather than genuine competence in novel situations. Safety researchers worry that contamination can make systems appear both more capable and more predictable than they really are. Real-world threats rarely arrive in the neat format used by benchmark designers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://knowledge4policy.ec.europa.eu/news/ai-benchmarking-nine-challenges-way-forward_en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: knowledge4policy.ec.europa.eu">[Knowledge for policy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">knowledge4policy.ec.europa.eu</span><span class="citation-popover-snippet">Knowledge for policyAI benchmarking: Nine challenges and a way forwardA recent JRC paper explores AI benchmarks, which are considered an...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://hai.stanford.edu/assets/files/hai-policy-brief-what-makes-a-good-ai-benchmark.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hai.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hai.stanford.edu</span><span class="citation-popover-title">HAIWhat Makes a Good AI Benchmark?</span><span class="citation-popover-snippet">Stanford HAIby A Reuel · 2024 · Cited by 5 — This research aims to help make AI evaluations more transparent and empower benchmark develo...</span></span></span> The result is a familiar problem from education: teaching to the test can improve scores without improving the underlying skill being measured.
+A model that performs extremely well on a known benchmark may be demonstrating memorisation, pattern familiarity, or optimisation for the test format rather than genuine competence in novel situations. Safety researchers worry that contamination can make systems appear both more capable and more predictable than they really are. Real-world threats rarely arrive in the neat format used by benchmark designers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://knowledge4policy.ec.europa.eu/news/ai-benchmarking-nine-challenges-way-forward_en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: knowledge4policy.ec.europa.eu">[Knowledge for policy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">knowledge4policy.ec.europa.eu</span><span class="citation-popover-snippet">Knowledge for policyAI benchmarking: Nine challenges and a way forwardA recent JRC paper explores AI benchmarks, which are considered an...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://hai.stanford.edu/assets/files/hai-policy-brief-what-makes-a-good-ai-benchmark.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hai.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hai.stanford.edu</span><span class="citation-popover-title">HAIWhat Makes a Good AI Benchmark?</span><span class="citation-popover-snippet">Stanford HAIby A Reuel · 2024 · Cited by 5 — This research aims to help make AI evaluations more transparent and empower benchmark develo...</span></span></span> The result is a familiar problem from education: teaching to the test can improve scores without improving the underlying skill being measured.
 
 ## Why Dangerous Behaviour May Not Appear in Benchmarks
 
@@ -351,9 +351,9 @@ For example, researchers increasingly distinguish between:
 
 </div>
 
-A benchmark that only measures the first category may miss risks associated with the second and third. A model could possess relevant knowledge yet fail to demonstrate it during testing. It could also behave differently when given tools, access to information, longer time horizons, or objectives that differ from those used in evaluations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ai-safety-atlas.com/chapters/v1/evaluations/dangerous-capability-evaluations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ai-safety-atlas.com">[ai-safety-atlas.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ai-safety-atlas.com</span><span class="citation-popover-title">Dangerous Capability Evaluations</span><span class="citation-popover-snippet">Chapter 5Dangerous capability evaluations specifically probe for these potentially harmful abilities, helping identify systems that might...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">Not all are applied across all domains. These include: Auto-graded task sets that measure AI...Read more...</span></span></span>
+A benchmark that only measures the first category may miss risks associated with the second and third. A model could possess relevant knowledge yet fail to demonstrate it during testing. It could also behave differently when given tools, access to information, longer time horizons, or objectives that differ from those used in evaluations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ai-safety-atlas.com/chapters/v1/evaluations/dangerous-capability-evaluations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ai-safety-atlas.com">[ai-safety-atlas.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ai-safety-atlas.com</span><span class="citation-popover-title">Dangerous Capability Evaluations</span><span class="citation-popover-snippet">Chapter 5Dangerous capability evaluations specifically probe for these potentially harmful abilities, helping identify systems that might...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">Not all are applied across all domains. These include: Auto-graded task sets that measure AI...Read more...</span></span></span>
 
-This concern becomes particularly important in discussions of deceptive behaviour or strategic conduct. While evidence for advanced AI deception remains limited and highly contested, researchers have begun studying behaviours such as [sandbagging]({{ 'sandbagging/' | relative_url }}), reward hacking, and other actions that can undermine evaluation integrity. If systems become increasingly capable of recognising when they are being tested, benchmark results may become harder to interpret. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://evaluations.metr.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: evaluations.metr.org">[metr.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">evaluations.metr.org</span><span class="citation-popover-snippet">Metr EvaluationsMETR&#x27;s Autonomy Evaluation ResourcesThis is METR&#x27;s collection of resources for evaluating potentially dangerous autonomou...</span></span></span>
+This concern becomes particularly important in discussions of deceptive behaviour or strategic conduct. While evidence for advanced AI deception remains limited and highly contested, researchers have begun studying behaviours such as [sandbagging]({{ 'sandbagging/' | relative_url }}), reward hacking, and other actions that can undermine evaluation integrity. If systems become increasingly capable of recognising when they are being tested, benchmark results may become harder to interpret.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://evaluations.metr.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: evaluations.metr.org">[metr.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">evaluations.metr.org</span><span class="citation-popover-snippet">Metr EvaluationsMETR&#x27;s Autonomy Evaluation ResourcesThis is METR&#x27;s collection of resources for evaluating potentially dangerous autonomou...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_eval_false_co_fa7edc_benchmark_des_aa2a37-Illustration-3-dark.svg" | relative_url }}" alt="Benchmark Limits illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_eval_false_co_fa7edc_benchmark_des_aa2a37-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_frontier_ai_e_9920ab_eval_false_co_fa7edc_benchmark_des_aa2a37-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What New Evaluation Approaches Are Trying to Fix
@@ -363,12 +363,12 @@ Recognition of benchmark limitations has led many researchers to push for broade
 Several organisations now argue that benchmark suites should be supplemented with:
 
 * long-horizon tasks that take hours or days rather than minutes;
-* realistic agent environments; <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2601.09032" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* realistic agent environments;<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2601.09032" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 * open-ended projects;
-* adversarial testing by external experts; <span class="citation-chip-wrap"><a class="citation-chip" href="https://evaluations.metr.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: evaluations.metr.org">[evaluations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">evaluations.metr.org</span><span class="citation-popover-snippet">Metr EvaluationsMETR&#x27;s Autonomy Evaluation ResourcesThis is METR&#x27;s collection of resources for evaluating potentially dangerous autonomou...</span></span></span> ns focused on dangerous capabilities rather than general performance;
-* continuous [monitoring]({{ 'monitoring/' | relative_url }}) instead of one-off benchmark scores. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ai-safety-atlas.com/chapters/v1/evaluations/dangerous-capability-evaluations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ai-safety-atlas.com">[ai-safety-atlas.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ai-safety-atlas.com</span><span class="citation-popover-title">Dangerous Capability Evaluations</span><span class="citation-popover-snippet">Chapter 5Dangerous capability evaluations specifically probe for these potentially harmful abilities, helping identify systems that might...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://evaluations.metr.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: evaluations.metr.org">[Metr Evaluations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">evaluations.metr.org</span><span class="citation-popover-snippet">Metr EvaluationsMETR&#x27;s Autonomy Evaluation ResourcesThis is METR&#x27;s collection of resources for evaluating potentially dangerous autonomou...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">Not all are applied across all domains. These include: Auto-graded task sets that measure AI...Read more...</span></span></span>
+* adversarial testing by external experts;<span class="citation-chip-wrap"><a class="citation-chip" href="https://evaluations.metr.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: evaluations.metr.org">[evaluations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">evaluations.metr.org</span><span class="citation-popover-snippet">Metr EvaluationsMETR&#x27;s Autonomy Evaluation ResourcesThis is METR&#x27;s collection of resources for evaluating potentially dangerous autonomou...</span></span></span> ns focused on dangerous capabilities rather than general performance;
+* continuous [monitoring]({{ 'monitoring/' | relative_url }}) instead of one-off benchmark scores.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ai-safety-atlas.com/chapters/v1/evaluations/dangerous-capability-evaluations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ai-safety-atlas.com">[ai-safety-atlas.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ai-safety-atlas.com</span><span class="citation-popover-title">Dangerous Capability Evaluations</span><span class="citation-popover-snippet">Chapter 5Dangerous capability evaluations specifically probe for these potentially harmful abilities, helping identify systems that might...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://evaluations.metr.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: evaluations.metr.org">[Metr Evaluations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">evaluations.metr.org</span><span class="citation-popover-snippet">Metr EvaluationsMETR&#x27;s Autonomy Evaluation ResourcesThis is METR&#x27;s collection of resources for evaluating potentially dangerous autonomou...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">Not all are applied across all domains. These include: Auto-graded task sets that measure AI...Read more...</span></span></span>
 
-Recent work on "open-world evaluations" reflects this shift. Instead of asking whether a model can answer predefined questions, researchers examine whether it can complete messy real-world objectives that involve uncertainty, planning, coordination, and adaptation. Advocates argue that such evaluations may provide earlier [warning signs]({{ 'warning-signs/' | relative_url }}) of emerging capabilities than traditional benchmarks because they resemble the environments in which dangerous behaviour would actually occur. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.20520" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Open-World Evaluations for Measuring Frontier AI Capabilities</span><span class="citation-popover-snippet">arXiv Open-World Evaluations for Measuring Frontier AI Capabilities</span></span></span>
+Recent work on "open-world evaluations" reflects this shift. Instead of asking whether a model can answer predefined questions, researchers examine whether it can complete messy real-world objectives that involve uncertainty, planning, coordination, and adaptation. Advocates argue that such evaluations may provide earlier [warning signs]({{ 'warning-signs/' | relative_url }}) of emerging capabilities than traditional benchmarks because they resemble the environments in which dangerous behaviour would actually occur.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.20520" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Open-World Evaluations for Measuring Frontier AI Capabilities</span><span class="citation-popover-snippet">arXiv Open-World Evaluations for Measuring Frontier AI Capabilities</span></span></span>
 
 These methods are slower, more expensive, and harder to standardise. However, many AI safety researchers believe those costs are justified if the goal is to detect capabilities that could matter in high-stakes scenarios.
 
@@ -378,272 +378,272 @@ These methods are slower, more expensive, and harder to standardise. However, ma
 
 The central lesson is not that benchmarks are useless. They remain one of the most important tools for understanding AI systems. The problem is treating benchmark results as comprehensive evidence about risk.
 
-In AI doom discussions, the strongest concern is not that benchmarks always underestimate danger. Sometimes they overstate capability. The deeper issue is that benchmark design can create blind spots. Static tasks, saturation, contamination, narrow metrics, and poor capability elicitation can all produce clean-looking evaluation results while leaving important questions unanswered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.20520" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Open-World Evaluations for Measuring Frontier AI Capabilities</span><span class="citation-popover-snippet">arXiv Open-World Evaluations for Measuring Frontier AI Capabilities</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://knowledge4policy.ec.europa.eu/news/ai-benchmarking-nine-challenges-way-forward_en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: knowledge4policy.ec.europa.eu">[Knowledge for policy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">knowledge4policy.ec.europa.eu</span><span class="citation-popover-snippet">Knowledge for policyAI benchmarking: Nine challenges and a way forwardA recent JRC paper explores AI benchmarks, which are considered an...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://hai.stanford.edu/assets/files/hai-policy-brief-what-makes-a-good-ai-benchmark.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hai.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hai.stanford.edu</span><span class="citation-popover-title">HAIWhat Makes a Good AI Benchmark?</span><span class="citation-popover-snippet">Stanford HAIby A Reuel · 2024 · Cited by 5 — This research aims to help make AI evaluations more transparent and empower benchmark develo...</span></span></span> For readers trying to assess claims about existential risk, this means benchmark scores should be interpreted as partial evidence rather than definitive proof of safety. A model that performs well or appears harmless on standard evaluations may still possess capabilities that become visible only in richer, longer, and more realistic testing environments. That possibility does not prove AI doom is likely, but it is one reason many researchers argue that reassuring benchmark results alone are not sufficient grounds for confidence about the risks posed by increasingly advanced AI systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Frontier AI: capabilities and risks – discussion paper</span><span class="citation-popover-snippet">It describes the current state and key trends relating to frontier AI capabilities, and then explores how frontier AI capabilities...Rea...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internationalaisafetyreport.org">[2internationalaisafetyreport.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internationalaisafetyreport.org</span><span class="citation-popover-title">international ai safety report 2026</span><span class="citation-popover-snippet">3 Feb 2026 — This Report assesses what general-purpose AI systems can do, what risks they pose, and how those risks can be managed.Read more...</span></span></span>
+In AI doom discussions, the strongest concern is not that benchmarks always underestimate danger. Sometimes they overstate capability. The deeper issue is that benchmark design can create blind spots. Static tasks, saturation, contamination, narrow metrics, and poor capability elicitation can all produce clean-looking evaluation results while leaving important questions unanswered.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.20520" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Open-World Evaluations for Measuring Frontier AI Capabilities</span><span class="citation-popover-snippet">arXiv Open-World Evaluations for Measuring Frontier AI Capabilities</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://knowledge4policy.ec.europa.eu/news/ai-benchmarking-nine-challenges-way-forward_en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: knowledge4policy.ec.europa.eu">[Knowledge for policy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">knowledge4policy.ec.europa.eu</span><span class="citation-popover-snippet">Knowledge for policyAI benchmarking: Nine challenges and a way forwardA recent JRC paper explores AI benchmarks, which are considered an...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://hai.stanford.edu/assets/files/hai-policy-brief-what-makes-a-good-ai-benchmark.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hai.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hai.stanford.edu</span><span class="citation-popover-title">HAIWhat Makes a Good AI Benchmark?</span><span class="citation-popover-snippet">Stanford HAIby A Reuel · 2024 · Cited by 5 — This research aims to help make AI evaluations more transparent and empower benchmark develo...</span></span></span> For readers trying to assess claims about existential risk, this means benchmark scores should be interpreted as partial evidence rather than definitive proof of safety. A model that performs well or appears harmless on standard evaluations may still possess capabilities that become visible only in richer, longer, and more realistic testing environments. That possibility does not prove AI doom is likely, but it is one reason many researchers argue that reassuring benchmark results alone are not sufficient grounds for confidence about the risks posed by increasingly advanced AI systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Frontier AI: capabilities and risks – discussion paper</span><span class="citation-popover-snippet">It describes the current state and key trends relating to frontier AI capabilities, and then explores how frontier AI capabilities...Rea...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internationalaisafetyreport.org">[2internationalaisafetyreport.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internationalaisafetyreport.org</span><span class="citation-popover-title">international ai safety report 2026</span><span class="citation-popover-snippet">3 Feb 2026 — This Report assesses what general-purpose AI systems can do, what risks they pose, and how those risks can be managed.Read more...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why AI Benchmarks Can Conceal Dangerous Capabilities. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why AI Benchmarks Can Conceal Dangerous Capabilities. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
-        </h4>
-        <p class="fr-book-author">By Brian Christian</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
+</h4>
+<p class="fr-book-author">By Brian Christian</p>
         
-        <p class="fr-book-desc">Strong match for benchmark limitations and hidden capabilities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong match for benchmark limitations and hidden capabilities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Russell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
+</h4>
+<p class="fr-book-author">By Stuart Russell</p>
         
-        <p class="fr-book-desc">Addresses measurement, objectives, and control challenges.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses measurement, objectives, and control challenges.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rebooting+AI+by+Gary+Marcus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rebooting AI on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OmeEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Rebooting AI" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rebooting+AI+by+Gary+Marcus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rebooting AI">Rebooting AI</a>
-        </h4>
-        <p class="fr-book-author">By Gary Marcus, Ernest Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Rebooting+AI+by+Gary+Marcus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rebooting AI on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OmeEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Rebooting AI" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Rebooting+AI+by+Gary+Marcus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rebooting AI">Rebooting AI</a>
+</h4>
+<p class="fr-book-author">By Gary Marcus, Ernest Davis</p>
         
-        <p class="fr-book-desc">Critiques benchmark-driven assumptions about AI progress.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rebooting+AI+by+Gary+Marcus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Critiques benchmark-driven assumptions about AI progress.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Rebooting+AI+by+Gary+Marcus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superintelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7_H8AwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superintelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superintelligence">Superintelligence</a>
-        </h4>
-        <p class="fr-book-author">By Nick Bostrom</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superintelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7_H8AwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superintelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superintelligence">Superintelligence</a>
+</h4>
+<p class="fr-book-author">By Nick Bostrom</p>
         
-        <p class="fr-book-desc">Provides context for hidden capabilities and strategic behaviour.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for hidden capabilities and strategic behaviour.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Rebooting+AI&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rebooting AI</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Rebooting+AI&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rebooting AI</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Matserpi Robotic Arm Car Kit for Raspberry Pi - AI Vision, 5DOF, Educational Rob"><img src="{{ '/assets/images/marketplace-covers/51354845bd593a6ad015.jpg' | relative_url }}" alt="Listing image for Matserpi Robotic Arm Car Kit for Raspberry Pi - AI Vision, 5DOF, Educational Rob" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Matserpi Robotic Arm Car Kit for Raspberry Pi - AI Vision, 5DOF, Educational Rob</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI robot kit">Search <span data-ebay-domain-label>eBay.com</span>: AI robot kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-robot-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Matserpi Robotic Arm Car Kit for Raspberry Pi - AI Vision, 5DOF, Educational Rob"><img src="{{ '/assets/images/marketplace-covers/51354845bd593a6ad015.jpg' | relative_url }}" alt="Listing image for Matserpi Robotic Arm Car Kit for Raspberry Pi - AI Vision, 5DOF, Educational Rob" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Matserpi Robotic Arm Car Kit for Raspberry Pi - AI Vision, 5DOF, Educational Rob</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI robot kit">Search<span data-ebay-domain-label>eBay.com</span>: AI robot kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-robot-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UGV Beast PI4B AI Kit Opensource Off-Road Tracked AI Robot PC Vision"><img src="{{ '/assets/images/marketplace-covers/a4dd91f6bceeae51707e.jpg' | relative_url }}" alt="Listing image for UGV Beast PI4B AI Kit Opensource Off-Road Tracked AI Robot PC Vision" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UGV Beast PI4B AI Kit Opensource Off-Road Tracked AI Robot PC Vision</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI robot kit">Search <span data-ebay-domain-label>eBay.com</span>: AI robot kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-robot-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UGV Beast PI4B AI Kit Opensource Off-Road Tracked AI Robot PC Vision"><img src="{{ '/assets/images/marketplace-covers/a4dd91f6bceeae51707e.jpg' | relative_url }}" alt="Listing image for UGV Beast PI4B AI Kit Opensource Off-Road Tracked AI Robot PC Vision" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UGV Beast PI4B AI Kit Opensource Off-Road Tracked AI Robot PC Vision</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI robot kit">Search<span data-ebay-domain-label>eBay.com</span>: AI robot kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-robot-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Freenove Robot Dog Kit for Raspberry Pi FNK0050 New Open Box Complete STEM AI"><img src="{{ '/assets/images/marketplace-covers/2cbc756cb2d52391f0e4.jpg' | relative_url }}" alt="Listing image for Freenove Robot Dog Kit for Raspberry Pi FNK0050 New Open Box Complete STEM AI" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Freenove Robot Dog Kit for Raspberry Pi FNK0050 New Open Box Complete STEM AI</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI robot kit">Search <span data-ebay-domain-label>eBay.com</span>: AI robot kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-robot-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Freenove Robot Dog Kit for Raspberry Pi FNK0050 New Open Box Complete STEM AI"><img src="{{ '/assets/images/marketplace-covers/2cbc756cb2d52391f0e4.jpg' | relative_url }}" alt="Listing image for Freenove Robot Dog Kit for Raspberry Pi FNK0050 New Open Box Complete STEM AI" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Freenove Robot Dog Kit for Raspberry Pi FNK0050 New Open Box Complete STEM AI</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI robot kit">Search<span data-ebay-domain-label>eBay.com</span>: AI robot kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-robot-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TurboPi Smart Robot Car Kit Vision AI Robot-Hiwonder 2DOF HD Cam for Raspberry"><img src="{{ '/assets/images/marketplace-covers/6febc37663a27a71e69e.jpg' | relative_url }}" alt="Listing image for TurboPi Smart Robot Car Kit Vision AI Robot-Hiwonder 2DOF HD Cam for Raspberry" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TurboPi Smart Robot Car Kit Vision AI Robot-Hiwonder 2DOF HD Cam for Raspberry</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI robot kit">Search <span data-ebay-domain-label>eBay.com</span>: AI robot kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-robot-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TurboPi Smart Robot Car Kit Vision AI Robot-Hiwonder 2DOF HD Cam for Raspberry"><img src="{{ '/assets/images/marketplace-covers/6febc37663a27a71e69e.jpg' | relative_url }}" alt="Listing image for TurboPi Smart Robot Car Kit Vision AI Robot-Hiwonder 2DOF HD Cam for Raspberry" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TurboPi Smart Robot Car Kit Vision AI Robot-Hiwonder 2DOF HD Cam for Raspberry</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI robot kit">Search<span data-ebay-domain-label>eBay.com</span>: AI robot kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-robot-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SEXY AI CYBORG GIRLS ANIME POSTER FANTASY ART ADULT EROTIC CYBERPUNK A2 A1 SIZE"><img src="{{ '/assets/images/marketplace-covers/fdf731ad3ca17d0500d3.jpg' | relative_url }}" alt="Listing image for SEXY AI CYBORG GIRLS ANIME POSTER FANTASY ART ADULT EROTIC CYBERPUNK A2 A1 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SEXY AI CYBORG GIRLS ANIME POSTER FANTASY ART ADULT EROTIC CYBERPUNK A2 A1 SIZE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: AI poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SEXY AI CYBORG GIRLS ANIME POSTER FANTASY ART ADULT EROTIC CYBERPUNK A2 A1 SIZE"><img src="{{ '/assets/images/marketplace-covers/fdf731ad3ca17d0500d3.jpg' | relative_url }}" alt="Listing image for SEXY AI CYBORG GIRLS ANIME POSTER FANTASY ART ADULT EROTIC CYBERPUNK A2 A1 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SEXY AI CYBORG GIRLS ANIME POSTER FANTASY ART ADULT EROTIC CYBERPUNK A2 A1 SIZE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: AI poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SEXY GIRL POSTER PRINT AI ANIME CYBERPUNK EROTIC WALL ART A4 A3 A2 A1 SIZE"><img src="{{ '/assets/images/marketplace-covers/9e1b70ea03c19a00c75a.jpg' | relative_url }}" alt="Listing image for SEXY GIRL POSTER PRINT AI ANIME CYBERPUNK EROTIC WALL ART A4 A3 A2 A1 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SEXY GIRL POSTER PRINT AI ANIME CYBERPUNK EROTIC WALL ART A4 A3 A2 A1 SIZE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: AI poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SEXY GIRL POSTER PRINT AI ANIME CYBERPUNK EROTIC WALL ART A4 A3 A2 A1 SIZE"><img src="{{ '/assets/images/marketplace-covers/9e1b70ea03c19a00c75a.jpg' | relative_url }}" alt="Listing image for SEXY GIRL POSTER PRINT AI ANIME CYBERPUNK EROTIC WALL ART A4 A3 A2 A1 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SEXY GIRL POSTER PRINT AI ANIME CYBERPUNK EROTIC WALL ART A4 A3 A2 A1 SIZE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: AI poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SEXY CYBERPUNK GIRL POSTER PRINT AI ANIME FUTURISTIC WALL ART A4 A3 A2 A1 SIZE"><img src="{{ '/assets/images/marketplace-covers/7381f41dceae3f4a0a1d.jpg' | relative_url }}" alt="Listing image for SEXY CYBERPUNK GIRL POSTER PRINT AI ANIME FUTURISTIC WALL ART A4 A3 A2 A1 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SEXY CYBERPUNK GIRL POSTER PRINT AI ANIME FUTURISTIC WALL ART A4 A3 A2 A1 SIZE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: AI poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SEXY CYBERPUNK GIRL POSTER PRINT AI ANIME FUTURISTIC WALL ART A4 A3 A2 A1 SIZE"><img src="{{ '/assets/images/marketplace-covers/7381f41dceae3f4a0a1d.jpg' | relative_url }}" alt="Listing image for SEXY CYBERPUNK GIRL POSTER PRINT AI ANIME FUTURISTIC WALL ART A4 A3 A2 A1 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SEXY CYBERPUNK GIRL POSTER PRINT AI ANIME FUTURISTIC WALL ART A4 A3 A2 A1 SIZE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: AI poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI SEXY GIRL POSTER FANTASY CYBERPUNK EROTIC KINKY ANIME ART SIZE A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/e149beb7600cb60ca1fd.jpg' | relative_url }}" alt="Listing image for AI SEXY GIRL POSTER FANTASY CYBERPUNK EROTIC KINKY ANIME ART SIZE A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">AI SEXY GIRL POSTER FANTASY CYBERPUNK EROTIC KINKY ANIME ART SIZE A4 A3 A2 A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: AI poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI SEXY GIRL POSTER FANTASY CYBERPUNK EROTIC KINKY ANIME ART SIZE A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/e149beb7600cb60ca1fd.jpg' | relative_url }}" alt="Listing image for AI SEXY GIRL POSTER FANTASY CYBERPUNK EROTIC KINKY ANIME ART SIZE A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">AI SEXY GIRL POSTER FANTASY CYBERPUNK EROTIC KINKY ANIME ART SIZE A4 A3 A2 A1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: AI poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmark-limits-why-ai-benchmarks-can-conceal-dangerous-capabilities-ai-doom-and-ai-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -659,7 +659,7 @@ In AI doom discussions, the strongest concern is not that benchmarks always unde
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -679,7 +679,7 @@ In AI doom discussions, the strongest concern is not that benchmarks always unde
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -711,7 +711,7 @@ In AI doom discussions, the strongest concern is not that benchmarks always unde
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -741,7 +741,7 @@ In AI doom discussions, the strongest concern is not that benchmarks always unde
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -799,189 +799,189 @@ In AI doom discussions, the strongest concern is not that benchmarks always unde
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: evaluations.metr.org  
-   Link: <a href="https://evaluations.metr.org/" target="_blank" rel="noopener noreferrer nofollow">https://evaluations.metr.org/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Metr EvaluationsMETR&#x27;s Autonomy Evaluation ResourcesThis is METR&#x27;s collection of resources for evaluating potentially dangerous autonomou...</p></details>
+   Link:<a href="https://evaluations.metr.org/" target="_blank" rel="noopener noreferrer nofollow">https://evaluations.metr.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Metr EvaluationsMETR&#x27;s Autonomy Evaluation ResourcesThis is METR&#x27;s collection of resources for evaluating potentially dangerous autonomou...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aisi.gov.uk  
-   Link: <a href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/frontier-ai-trends-report</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Not all are applied across all domains. These include: Auto-graded task sets that measure AI...Read more...</p></details>
+   Link:<a href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/frontier-ai-trends-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Not all are applied across all domains. These include: Auto-graded task sets that measure AI...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv Open-World Evaluations for Measuring Frontier AI Capabilities  
-   Link: <a href="https://arxiv.org/abs/2605.20520" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.20520</a>  
+   Link:<a href="https://arxiv.org/abs/2605.20520" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.20520</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: metr.org  
-   Link: <a href="https://metr.org/measuring-autonomous-ai-capabilities/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/measuring-autonomous-ai-capabilities/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Resources for Measuring Autonomous AI CapabilitiesA benchmark measuring the performance of humans and AI agents on day-long ML research e...</p></details>
+   Link:<a href="https://metr.org/measuring-autonomous-ai-capabilities/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/measuring-autonomous-ai-capabilities/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Resources for Measuring Autonomous AI CapabilitiesA benchmark measuring the performance of humans and AI agents on day-long ML research e...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: metr.org  
-   Link: <a href="https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring AI Ability to Complete Long TasksMar 19, 2025 — We propose measuring AI performance in terms of the length of tasks AI agents c...</p></details>
+   Link:<a href="https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring AI Ability to Complete Long TasksMar 19, 2025 — We propose measuring AI performance in terms of the length of tasks AI agents c...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2601.09032" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2601.09032</a>  
+   Link:<a href="https://arxiv.org/abs/2601.09032" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2601.09032</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: metr.org  
-   Link: <a href="https://metr.org/research/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/research/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchOur AI evaluations research focuses on assessing broad autonomous capabilities and the ability of AI systems to accelerate AI R&amp;D...</p></details>
+   Link:<a href="https://metr.org/research/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/research/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchOur AI evaluations research focuses on assessing broad autonomous capabilities and the ability of AI systems to accelerate AI R&amp;D...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ai-safety-atlas.com  
    Title: Dangerous Capability Evaluations  
-   Link: <a href="https://ai-safety-atlas.com/chapters/v1/evaluations/dangerous-capability-evaluations/" target="_blank" rel="noopener noreferrer nofollow">https://ai-safety-atlas.com/chapters/v1/evaluations/dangerous-capability-evaluations/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 5Dangerous capability evaluations specifically probe for these potentially harmful abilities, helping identify systems that might...</p></details>
+   Link:<a href="https://ai-safety-atlas.com/chapters/v1/evaluations/dangerous-capability-evaluations/" target="_blank" rel="noopener noreferrer nofollow">https://ai-safety-atlas.com/chapters/v1/evaluations/dangerous-capability-evaluations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 5Dangerous capability evaluations specifically probe for these potentially harmful abilities, helping identify systems that might...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2601.11916" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2601.11916</a>  
+   Link:<a href="https://arxiv.org/abs/2601.11916" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2601.11916</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
    Title: arXiv When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation  
-   Link: <a href="https://arxiv.org/abs/2602.16763" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2602.16763</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When AI Benchmarks Plateau: A Systematic Study of Benchmark SaturationFebruary 18, 2026...</p></details>
+   Link:<a href="https://arxiv.org/abs/2602.16763" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2602.16763</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When AI Benchmarks Plateau: A Systematic Study of Benchmark SaturationFebruary 18, 2026...</p></details>
    Published: February 18, 2026  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: layerlens.ai  
    Title: why ai benchmarks are misleading  
-   Link: <a href="https://layerlens.ai/blog/why-ai-benchmarks-are-misleading" target="_blank" rel="noopener noreferrer nofollow">https://layerlens.ai/blog/why-ai-benchmarks-are-misleading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why AI Benchmarks Are Misleading14 Mar 2026 — AI benchmarks mislead when treated as conclusions. Learn the five core problems: d...</p></details>
+   Link:<a href="https://layerlens.ai/blog/why-ai-benchmarks-are-misleading" target="_blank" rel="noopener noreferrer nofollow">https://layerlens.ai/blog/why-ai-benchmarks-are-misleading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why AI Benchmarks Are Misleading14 Mar 2026 — AI benchmarks mislead when treated as conclusions. Learn the five core problems: d...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: arxiv.org  
    Title: arXiv Benchmarking is Broken  
-   Link: <a href="https://arxiv.org/html/2510.07575v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2510.07575v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Benchmarking is Broken - Don&#x27;t Let AI be its Own Judge8 Oct 2025 — Issues like data contamination and selective reporting by model develo...</p></details>
+   Link:<a href="https://arxiv.org/html/2510.07575v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2510.07575v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Benchmarking is Broken - Don&#x27;t Let AI be its Own Judge8 Oct 2025 — Issues like data contamination and selective reporting by model develo...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: hai.stanford.edu  
    Title: HAIWhat Makes a Good AI Benchmark?  
-   Link: <a href="https://hai.stanford.edu/assets/files/hai-policy-brief-what-makes-a-good-ai-benchmark.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hai.stanford.edu/assets/files/hai-policy-brief-what-makes-a-good-ai-benchmark.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford HAIby A Reuel · 2024 · Cited by 5 — This research aims to help make AI evaluations more transparent and empower benchmark develo...</p></details>
+   Link:<a href="https://hai.stanford.edu/assets/files/hai-policy-brief-what-makes-a-good-ai-benchmark.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hai.stanford.edu/assets/files/hai-policy-brief-what-makes-a-good-ai-benchmark.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford HAIby A Reuel · 2024 · Cited by 5 — This research aims to help make AI evaluations more transparent and empower benchmark develo...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: metr.org  
-   Link: <a href="https://metr.org/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Model Evaluation &amp; Threat Research. METR conducts research and evaluations to improve public understanding of the capabilities and ri...</p></details>
+   Link:<a href="https://metr.org/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Model Evaluation &amp; Threat Research. METR conducts research and evaluations to improve public understanding of the capabilities and ri...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: metr.org  
    Title: 2024 11 22 evaluating r d capabilities of llms  
-   Link: <a href="https://metr.org/blog/2024-11-22-evaluating-r-d-capabilities-of-llms/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/blog/2024-11-22-evaluating-r-d-capabilities-of-llms/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating frontier AI R&amp;D capabilities of language model...Nov 22, 2024 — We hope RE-Bench and the methodology we&#x27;ve developed will be...</p></details>
+   Link:<a href="https://metr.org/blog/2024-11-22-evaluating-r-d-capabilities-of-llms/" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/blog/2024-11-22-evaluating-r-d-capabilities-of-llms/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating frontier AI R&amp;D capabilities of language model...Nov 22, 2024 — We hope RE-Bench and the methodology we&#x27;ve developed will be...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: GOV.UK  
    Title: Frontier AI: capabilities and risks – discussion paper  
-   Link: <a href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It describes the current state and key trends relating to frontier AI capabilities, and then explores how frontier AI capabilities...Rea...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It describes the current state and key trends relating to frontier AI capabilities, and then explores how frontier AI capabilities...Rea...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: internationalaisafetyreport.org  
    Title: international ai safety report 2026  
-   Link: <a href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow">https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Feb 2026 — This Report assesses what general-purpose AI systems can do, what risks they pose, and how those risks can be managed.Read more...</p></details>
+   Link:<a href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow">https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 Feb 2026 — This Report assesses what general-purpose AI systems can do, what risks they pose, and how those risks can be managed.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: metr.org  
    Title: common elements  
-   Link: <a href="https://metr.org/common-elements" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/common-elements</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Most policies outline dangerous capability...Read more...</p></details>
+   Link:<a href="https://metr.org/common-elements" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/common-elements</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Most policies outline dangerous capability...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2601.23112v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2601.23112v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How should AI Safety Benchmarks...30 Jan 2026 — Traditional benchmarks measure how well a model performs, while safety benchmarks assess...</p></details>
+   Link:<a href="https://arxiv.org/html/2601.23112v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2601.23112v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How should AI Safety Benchmarks...30 Jan 2026 — Traditional benchmarks measure how well a model performs, while safety benchmarks assess...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2512.01166v4" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2512.01166v4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating AI Providers&#x27; Frontier AI Safety Frameworks23 Apr 2026 — This study assesses 12 Frameworks, using 65 weighted criteria, across...</p></details>
+   Link:<a href="https://arxiv.org/html/2512.01166v4" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2512.01166v4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating AI Providers&#x27; Frontier AI Safety Frameworks23 Apr 2026 — This study assesses 12 Frameworks, using 65 weighted criteria, across...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2503.14499" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2503.14499</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring AI Ability to Complete Long Software TasksMar 18, 2025 — This is the time humans typically take to complete tasks that AI model...</p></details>
+   Link:<a href="https://arxiv.org/abs/2503.14499" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2503.14499</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring AI Ability to Complete Long Software TasksMar 18, 2025 — This is the time humans typically take to complete tasks that AI model...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/653aabbd80884d000df71bdc/emerging-processes-frontier-ai-safety.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/653aabbd80884d000df71bdc/emerging-processes-frontier-ai-safety.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Processes for Frontier AI SafetyDangerous capabilities: the abilities of an AI system to cause significant harm due to intentional [misuse](&amp;#123;&amp;#123; &#x27;misuse/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/653aabbd80884d000df71bdc/emerging-processes-frontier-ai-safety.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/653aabbd80884d000df71bdc/emerging-processes-frontier-ai-safety.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Processes for Frontier AI SafetyDangerous capabilities: the abilities of an AI system to cause significant harm due to intentional [misuse](&amp;#123;&amp;#123; &#x27;misuse/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: mbrenndoerfer.com  
-   Link: <a href="https://mbrenndoerfer.com/writing/benchmark-saturation-ai-evaluation-metrics" target="_blank" rel="noopener noreferrer nofollow">https://mbrenndoerfer.com/writing/benchmark-saturation-ai-evaluation-metrics</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Michael BrenndoerferBenchmark Saturation: AI Evaluation Metrics and Ceiling...6 Mar 2026 — Benchmark saturation imposes real costs on th...</p></details>
+   Link:<a href="https://mbrenndoerfer.com/writing/benchmark-saturation-ai-evaluation-metrics" target="_blank" rel="noopener noreferrer nofollow">https://mbrenndoerfer.com/writing/benchmark-saturation-ai-evaluation-metrics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Michael BrenndoerferBenchmark Saturation: AI Evaluation Metrics and Ceiling...6 Mar 2026 — Benchmark saturation imposes real costs on th...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: knowledge4policy.ec.europa.eu  
-   Link: <a href="https://knowledge4policy.ec.europa.eu/news/ai-benchmarking-nine-challenges-way-forward_en" target="_blank" rel="noopener noreferrer nofollow">https://knowledge4policy.ec.europa.eu/news/ai-benchmarking-nine-challenges-way-forward_en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Knowledge for policyAI benchmarking: Nine challenges and a way forwardA recent JRC paper explores AI benchmarks, which are considered an...</p></details>
+   Link:<a href="https://knowledge4policy.ec.europa.eu/news/ai-benchmarking-nine-challenges-way-forward_en" target="_blank" rel="noopener noreferrer nofollow">https://knowledge4policy.ec.europa.eu/news/ai-benchmarking-nine-challenges-way-forward_en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Knowledge for policyAI benchmarking: Nine challenges and a way forwardA recent JRC paper explores AI benchmarks, which are considered an...</p></details>
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtu.be  
-   Link: <a href="https://youtu.be/SjSl2re_Fm8" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/SjSl2re_Fm8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>And having AI models rapidly build their successors with limited human oversight naturally raises the risk that things will go off the ra...</p></details>
+   Link:<a href="https://youtu.be/SjSl2re_Fm8" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/SjSl2re_Fm8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>And having AI models rapidly build their successors with limited human oversight naturally raises the risk that things will go off the ra...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: researchgate.net  
    Title: 400340170 How should AI Safety Benchmarks Benchmark Safety  
-   Link: <a href="https://www.researchgate.net/publication/400340170_How_should_AI_Safety_Benchmarks_Benchmark_Safety" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400340170_How_should_AI_Safety_Benchmarks_Benchmark_Safety</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) How Should AI Safety Benchmarks Benchmark Safety?10 Feb 2026 — We present a review of 210 safety benchmarks that maps out common ch...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/400340170_How_should_AI_Safety_Benchmarks_Benchmark_Safety" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400340170_How_should_AI_Safety_Benchmarks_Benchmark_Safety</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) How Should AI Safety Benchmarks Benchmark Safety?10 Feb 2026 — We present a review of 210 safety benchmarks that maps out common ch...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: frontiermodelforum.org  
    Title: managing advanced cyber risks in frontier ai frameworks  
-   Link: <a href="https://www.frontiermodelforum.org/technical-reports/managing-advanced-cyber-risks-in-frontier-ai-frameworks/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/technical-reports/managing-advanced-cyber-risks-in-frontier-ai-frameworks/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>13 Feb 2026 — Frontier AI thresholds describe predefined notions of risk that indicate when additional action is warranted to avoid unacc...</p></details>
+   Link:<a href="https://www.frontiermodelforum.org/technical-reports/managing-advanced-cyber-risks-in-frontier-ai-frameworks/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/technical-reports/managing-advanced-cyber-risks-in-frontier-ai-frameworks/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>13 Feb 2026 — Frontier AI thresholds describe predefined notions of risk that indicate when additional action is warranted to avoid unacc...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: The Most Important Graph in AI Right Now | Beth Barnes, CEO of METR  
-   Link: <a href="https://www.youtube.com/watch?v=jXtk68Kzmms" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jXtk68Kzmms</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BREAKING - UC Berkeley Researchers REVEAL Critical Flaws in AI Benchmarks - YouTube BREAKING - UC Berkeley Researchers REVEAL Critical Fl...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jXtk68Kzmms" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jXtk68Kzmms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BREAKING - UC Berkeley Researchers REVEAL Critical Flaws in AI Benchmarks - YouTube BREAKING - UC Berkeley Researchers REVEAL Critical Fl...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: kili-technology.com  
    Title: ai benchmarks guide the top evaluations in 2026 and why theyre not enough  
-   Link: <a href="https://kili-technology.com/blog/ai-benchmarks-guide-the-top-evaluations-in-2026-and-why-theyre-not-enough" target="_blank" rel="noopener noreferrer nofollow">https://kili-technology.com/blog/ai-benchmarks-guide-the-top-evaluations-in-2026-and-why-theyre-not-enough</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This guide maps every major 2026 evaluation category and explains why human expert review still wins...</p></details>
+   Link:<a href="https://kili-technology.com/blog/ai-benchmarks-guide-the-top-evaluations-in-2026-and-why-theyre-not-enough" target="_blank" rel="noopener noreferrer nofollow">https://kili-technology.com/blog/ai-benchmarks-guide-the-top-evaluations-in-2026-and-why-theyre-not-enough</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This guide maps every major 2026 evaluation category and explains why human expert review still wins...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/deep-dive-various-modern-benchmarking-frontier-ai-models-perumal-zoc8c" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/deep-dive-various-modern-benchmarking-frontier-ai-models-perumal-zoc8c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ture the capabilities of models designed for autonomous...Read more...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/deep-dive-various-modern-benchmarking-frontier-ai-models-perumal-zoc8c" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/deep-dive-various-modern-benchmarking-frontier-ai-models-perumal-zoc8c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ture the capabilities of models designed for autonomous...Read more...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: ai.meta.com  
    Title: Advanced AI Scaling Framework v2  
-   Link: <a href="https://ai.meta.com/static-resource/Meta_Advanced-AI-Scaling-Framework-v2/" target="_blank" rel="noopener noreferrer nofollow">https://ai.meta.com/static-resource/Meta_Advanced-AI-Scaling-Framework-v2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Scaling Framework - Meta AI7 Apr 2026 — This Advanced AI Scaling Framework outlines how Meta manages and prepares for. Frontier AI cap...</p></details>
+   Link:<a href="https://ai.meta.com/static-resource/Meta_Advanced-AI-Scaling-Framework-v2/" target="_blank" rel="noopener noreferrer nofollow">https://ai.meta.com/static-resource/Meta_Advanced-AI-Scaling-Framework-v2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Scaling Framework - Meta AI7 Apr 2026 — This Advanced AI Scaling Framework outlines how Meta manages and prepares for. Frontier AI cap...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: crowdstrike.com  
-   Link: <a href="https://www.crowdstrike.com/en-us/cybersecurity-101/artificial-intelligence/frontier-ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.crowdstrike.com/en-us/cybersecurity-101/artificial-intelligence/frontier-ai/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier AI Explained: Key Models, Players, and Business...6 days ago — Frontier AI is most effective when employees understand its capa...</p></details>
+   Link:<a href="https://www.crowdstrike.com/en-us/cybersecurity-101/artificial-intelligence/frontier-ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.crowdstrike.com/en-us/cybersecurity-101/artificial-intelligence/frontier-ai/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier AI Explained: Key Models, Players, and Business...6 days ago — Frontier AI is most effective when employees understand its capa...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: rdi.berkeley.edu  
    Title: frontier ai impact on cybersecurity  
-   Link: <a href="https://rdi.berkeley.edu/frontier-ai-impact-on-cybersecurity/" target="_blank" rel="noopener noreferrer nofollow">https://rdi.berkeley.edu/frontier-ai-impact-on-cybersecurity/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI&#x27;s Impact on the Cybersecurity LandscapeWe present a comprehensive analysis of frontier AI&#x27;s impact on cybersecurity using a marginal r...</p></details>
+   Link:<a href="https://rdi.berkeley.edu/frontier-ai-impact-on-cybersecurity/" target="_blank" rel="noopener noreferrer nofollow">https://rdi.berkeley.edu/frontier-ai-impact-on-cybersecurity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI&#x27;s Impact on the Cybersecurity LandscapeWe present a comprehensive analysis of frontier AI&#x27;s impact on cybersecurity using a marginal r...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: AI Safety Benchmarks Do Not Benchmark Safety  
-   Link: <a href="https://www.youtube.com/watch?v=HaKi5uwX6p0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HaKi5uwX6p0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BREAKING - UC Berkeley Researchers REVEAL Critical Flaws in AI Benchmarks...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HaKi5uwX6p0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HaKi5uwX6p0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BREAKING - UC Berkeley Researchers REVEAL Critical Flaws in AI Benchmarks...</p></details>

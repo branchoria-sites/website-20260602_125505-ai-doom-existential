@@ -269,7 +269,7 @@ image: /assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_ai_chip_expor_d5
 
 ## Introduction
 
-Whether [chip controls]({{ 'chip-controls/' | relative_url }}) reduce AI doom risk depends less on the controls themselves and more on what happens during the delay they create. Supporters of export controls on advanced AI chips argue that slowing access to the largest amounts of computing power can buy valuable safety time: extra years in which researchers can improve alignment methods, develop better [evaluations]({{ 'evaluations/' | relative_url }}), build monitoring systems, and establish governance before more dangerous AI capabilities emerge. Critics respond that a delay only matters if safety advances faster than capabilities. If the same risks arrive a few years later with little improvement in preparedness, then chip controls may merely postpone danger rather than reduce it. The central question is therefore not whether controls slow progress, but whether the time gained changes humanity's readiness for advanced AI. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.governance.ai/Computing_Power_and_the_Governance_of_AI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.governance.ai">[Governance AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.governance.ai</span><span class="citation-popover-title">AIComputing Power and the Governance of Artificial</span><span class="citation-popover-snippet">Governance AIComputing Power and the Governance of Artificial...February 13, 2024 — 14 Feb 2024 — Computing power, or &quot;compute,&quot; is cruc...</span><span class="citation-popover-meta">Published: February 13, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lawfaremedia.org/article/to-govern-ai-we-must-govern-compute" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Lawfare">[Default]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Lawfare</span><span class="citation-popover-title">to govern ai we must govern compute</span><span class="citation-popover-snippet">Govern AI, We Must Govern Computeby L Heim · 2024 · Cited by 2 — Compute governance can support AI policy goals in multiple ways: by incr...</span></span></span>
+Whether [chip controls]({{ 'chip-controls/' | relative_url }}) reduce AI doom risk depends less on the controls themselves and more on what happens during the delay they create. Supporters of export controls on advanced AI chips argue that slowing access to the largest amounts of computing power can buy valuable safety time: extra years in which researchers can improve alignment methods, develop better [evaluations]({{ 'evaluations/' | relative_url }}), build monitoring systems, and establish governance before more dangerous AI capabilities emerge. Critics respond that a delay only matters if safety advances faster than capabilities. If the same risks arrive a few years later with little improvement in preparedness, then chip controls may merely postpone danger rather than reduce it. The central question is therefore not whether controls slow progress, but whether the time gained changes humanity's readiness for advanced AI.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.governance.ai/Computing_Power_and_the_Governance_of_AI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.governance.ai">[Governance AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.governance.ai</span><span class="citation-popover-title">AIComputing Power and the Governance of Artificial</span><span class="citation-popover-snippet">Governance AIComputing Power and the Governance of Artificial...February 13, 2024 — 14 Feb 2024 — Computing power, or &quot;compute,&quot; is cruc...</span><span class="citation-popover-meta">Published: February 13, 2024</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lawfaremedia.org/article/to-govern-ai-we-must-govern-compute" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Lawfare">[Default]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Lawfare</span><span class="citation-popover-title">to govern ai we must govern compute</span><span class="citation-popover-snippet">Govern AI, We Must Govern Computeby L Heim · 2024 · Cited by 2 — Compute governance can support AI policy goals in multiple ways: by incr...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_ai_chip_expor_d56f2b_chip_limits_s_10eb87-Illustration-1-dark.svg" | relative_url }}" alt="Safety time illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_ai_chip_expor_d56f2b_chip_limits_s_10eb87-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_ai_chip_expor_d56f2b_chip_limits_s_10eb87-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why compute delays matter for AI doom timelines
@@ -278,15 +278,15 @@ Many AI doom arguments assume that existential risk becomes serious only after s
 
 Under this view, the timing of arrival matters. If a dangerous capability arrives in 2029 rather than 2026, society receives three additional years to improve technical and institutional safeguards. This logic resembles risk reduction in other domains: delaying the arrival of a hazardous technology can be valuable if protective measures improve during the delay.
 
-The argument is strengthened by the unusual role of compute in frontier AI. Training the largest models requires enormous quantities of specialised hardware, electricity, data-centre infrastructure, and capital investment. Unlike algorithms, which spread rapidly once discovered, compute is a physical resource that governments can monitor and restrict. This makes compute one of the few potential bottlenecks available to policymakers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.governance.ai/Computing_Power_and_the_Governance_of_AI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.governance.ai">[Governance AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.governance.ai</span><span class="citation-popover-title">AIComputing Power and the Governance of Artificial</span><span class="citation-popover-snippet">Governance AIComputing Power and the Governance of Artificial...February 13, 2024 — 14 Feb 2024 — Computing power, or &quot;compute,&quot; is cruc...</span><span class="citation-popover-meta">Published: February 13, 2024</span></span></span>
+The argument is strengthened by the unusual role of compute in frontier AI. Training the largest models requires enormous quantities of specialised hardware, electricity, data-centre infrastructure, and capital investment. Unlike algorithms, which spread rapidly once discovered, compute is a physical resource that governments can monitor and restrict. This makes compute one of the few potential bottlenecks available to policymakers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.governance.ai/Computing_Power_and_the_Governance_of_AI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.governance.ai">[Governance AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.governance.ai</span><span class="citation-popover-title">AIComputing Power and the Governance of Artificial</span><span class="citation-popover-snippet">Governance AIComputing Power and the Governance of Artificial...February 13, 2024 — 14 Feb 2024 — Computing power, or &quot;compute,&quot; is cruc...</span><span class="citation-popover-meta">Published: February 13, 2024</span></span></span>
 
-For people with substantial p(doom) estimates, even a modest delay can appear worthwhile. If they believe there is a meaningful probability that frontier systems could become difficult to control within the next decade, then a few additional years may have significant expected value. The reasoning is straightforward: if catastrophe is tied to a future capability threshold, slowing arrival at that threshold can lower near-term risk and create opportunities for intervention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://forum.effectivealtruism.org/posts/WRnT9hGfg3oKfKtXa/ai-governance-and-strategy-a-list-of-research-agendas-and" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forum.effectivealtruism.org">[Effective Altruism Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forum.effectivealtruism.org</span><span class="citation-popover-snippet">Effective Altruism ForumAI governance and strategy: a list of research agendas and...12 Mar 2024 — Much compute governance work hinges o...</span></span></span>
+For people with substantial p(doom) estimates, even a modest delay can appear worthwhile. If they believe there is a meaningful probability that frontier systems could become difficult to control within the next decade, then a few additional years may have significant expected value. The reasoning is straightforward: if catastrophe is tied to a future capability threshold, slowing arrival at that threshold can lower near-term risk and create opportunities for intervention.<span class="citation-chip-wrap"><a class="citation-chip" href="https://forum.effectivealtruism.org/posts/WRnT9hGfg3oKfKtXa/ai-governance-and-strategy-a-list-of-research-agendas-and" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forum.effectivealtruism.org">[Effective Altruism Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forum.effectivealtruism.org</span><span class="citation-popover-snippet">Effective Altruism ForumAI governance and strategy: a list of research agendas and...12 Mar 2024 — Much compute governance work hinges o...</span></span></span>
 
 ## When extra years help alignment and evaluations
 
 The strongest case for safety time assumes that safety work is currently lagging behind capability progress.
 
-Many researchers concerned about [loss of control]({{ 'loss-of-control/' | relative_url }}) argue that existing techniques for understanding and supervising advanced models remain immature. [Interpretability]({{ 'interpretability/' | relative_url }}) tools only reveal limited information about model reasoning. Evaluations can detect some dangerous capabilities but often struggle to predict behaviour in novel situations. Control methods remain largely untested against systems substantially more capable than humans in many domains. Governments and research organisations continue to describe frontier AI risks as highly uncertain and insufficiently understood. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Frontier AI: capabilities and risks – discussion paper</span><span class="citation-popover-snippet">It describes the current state and key trends relating to frontier AI capabilities, and then explores how frontier AI capabilities...Rea...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">risks of frontier AI (Annex A)28 Apr 2025 — The risks posed by future Frontier AI will include the risks we see today, but with potential...</span></span></span>
+Many researchers concerned about [loss of control]({{ 'loss-of-control/' | relative_url }}) argue that existing techniques for understanding and supervising advanced models remain immature. [Interpretability]({{ 'interpretability/' | relative_url }}) tools only reveal limited information about model reasoning. Evaluations can detect some dangerous capabilities but often struggle to predict behaviour in novel situations. Control methods remain largely untested against systems substantially more capable than humans in many domains. Governments and research organisations continue to describe frontier AI risks as highly uncertain and insufficiently understood.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Frontier AI: capabilities and risks – discussion paper</span><span class="citation-popover-snippet">It describes the current state and key trends relating to frontier AI capabilities, and then explores how frontier AI capabilities...Rea...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">risks of frontier AI (Annex A)28 Apr 2025 — The risks posed by future Frontier AI will include the risks we see today, but with potential...</span></span></span>
 
 If additional years are available, several developments could plausibly reduce risk:
 
@@ -294,7 +294,7 @@ If additional years are available, several developments could plausibly reduce r
 * Stronger interpretability tools that reveal what advanced models are planning or representing internally.
 * More rigorous safety cases, where developers must present evidence that systems are safe enough for deployment.
 * [Monitoring]({{ 'monitoring/' | relative_url }}) systems for large training runs and compute usage.
-* Improved international coordination around frontier AI development. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iai.it/sites/default/files/iaicom2423.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iai.it">[IAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iai.it</span><span class="citation-popover-snippet">Enhancing Global AI Governance through Compute...22 May 2024 — The internationalisation of compute governance is necessary because advan...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+* Improved international coordination around frontier AI development.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iai.it/sites/default/files/iaicom2423.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iai.it">[IAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iai.it</span><span class="citation-popover-snippet">Enhancing Global AI Governance through Compute...22 May 2024 — The internationalisation of compute governance is necessary because advan...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 The value of delay therefore depends on differential progress. Safety time matters most if alignment, monitoring, governance, and evaluation capabilities improve faster than frontier AI capabilities during the same period.
 
@@ -308,7 +308,7 @@ Some supporters of chip controls emphasise competition rather than technology.
 
 A recurring concern in AI doom discussions is that intense geopolitical or commercial competition could encourage developers to deploy increasingly capable systems before they are adequately understood. In this story, the danger comes not only from the technology itself but from incentives that reward speed over caution.
 
-If export controls slow capability growth, they may also reduce pressure to rush. Governments gain more time to negotiate standards. Companies gain more time to conduct evaluations. Regulators gain more time to understand emerging risks. The hope is not merely that systems arrive later, but that development occurs under less extreme time pressure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://safe.ai/ai-risk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safe.ai">[Center for AI Safety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safe.ai</span><span class="citation-popover-snippet">CAIS focusses on mitigating risks that could lead to catastrophic outcomes for society, such as bioterrorism or loss...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iai.it/sites/default/files/iaicom2423.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iai.it">[IAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iai.it</span><span class="citation-popover-snippet">Enhancing Global AI Governance through Compute...22 May 2024 — The internationalisation of compute governance is necessary because advan...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+If export controls slow capability growth, they may also reduce pressure to rush. Governments gain more time to negotiate standards. Companies gain more time to conduct evaluations. Regulators gain more time to understand emerging risks. The hope is not merely that systems arrive later, but that development occurs under less extreme time pressure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://safe.ai/ai-risk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safe.ai">[Center for AI Safety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safe.ai</span><span class="citation-popover-snippet">CAIS focusses on mitigating risks that could lead to catastrophic outcomes for society, such as bioterrorism or loss...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iai.it/sites/default/files/iaicom2423.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iai.it">[IAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iai.it</span><span class="citation-popover-snippet">Enhancing Global AI Governance through Compute...22 May 2024 — The internationalisation of compute governance is necessary because advan...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 For some doom-focused analysts, this governance effect is as important as the direct technological slowdown. They worry that many catastrophic outcomes arise from institutions deploying systems prematurely rather than from an unavoidable technological process.
 
@@ -322,9 +322,9 @@ Suppose export controls slow frontier development by three years, but alignment 
 
 This criticism is particularly powerful if one believes that alignment is fundamentally hard. If the underlying technical problem proves extremely difficult, a short delay may not materially improve the odds of success. A capability that is dangerous in 2028 may remain dangerous in 2031.
 
-Another challenge comes from [uncertainty]({{ 'uncertainty/' | relative_url }}) about how tightly compute and capabilities are linked. Historically, algorithmic improvements have often reduced the amount of compute needed to achieve a given performance level. If software improvements compensate for hardware restrictions, the practical delay may be smaller than policymakers expect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://forum.effectivealtruism.org/posts/WRnT9hGfg3oKfKtXa/ai-governance-and-strategy-a-list-of-research-agendas-and" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forum.effectivealtruism.org">[Effective Altruism Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forum.effectivealtruism.org</span><span class="citation-popover-snippet">Effective Altruism ForumAI governance and strategy: a list of research agendas and...12 Mar 2024 — Much compute governance work hinges o...</span></span></span>
+Another challenge comes from [uncertainty]({{ 'uncertainty/' | relative_url }}) about how tightly compute and capabilities are linked. Historically, algorithmic improvements have often reduced the amount of compute needed to achieve a given performance level. If software improvements compensate for hardware restrictions, the practical delay may be smaller than policymakers expect.<span class="citation-chip-wrap"><a class="citation-chip" href="https://forum.effectivealtruism.org/posts/WRnT9hGfg3oKfKtXa/ai-governance-and-strategy-a-list-of-research-agendas-and" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forum.effectivealtruism.org">[Effective Altruism Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forum.effectivealtruism.org</span><span class="citation-popover-snippet">Effective Altruism ForumAI governance and strategy: a list of research agendas and...12 Mar 2024 — Much compute governance work hinges o...</span></span></span>
 
-Critics also note that countries facing restrictions may invest heavily in domestic semiconductor industries, alternative hardware pathways, or more efficient algorithms. Over longer periods, these responses can erode the effectiveness of controls. International cooperation becomes particularly important because unilateral restrictions are generally easier to circumvent than coordinated ones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.bluedot.org/p/primer-on-ai-chips" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.bluedot.org">[blog.bluedot.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.bluedot.org</span><span class="citation-popover-title">Primer on AI Chips and AI Governance</span><span class="citation-popover-snippet">August 23, 2023 — 23 Aug 2023 — A report from CSIS argues that export controls from allies are crucial for the effectiveness of US export...</span><span class="citation-popover-meta">Published: August 23, 2023</span></span></span>
+Critics also note that countries facing restrictions may invest heavily in domestic semiconductor industries, alternative hardware pathways, or more efficient algorithms. Over longer periods, these responses can erode the effectiveness of controls. International cooperation becomes particularly important because unilateral restrictions are generally easier to circumvent than coordinated ones.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.bluedot.org/p/primer-on-ai-chips" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.bluedot.org">[blog.bluedot.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.bluedot.org</span><span class="citation-popover-title">Primer on AI Chips and AI Governance</span><span class="citation-popover-snippet">August 23, 2023 — 23 Aug 2023 — A report from CSIS argues that export controls from allies are crucial for the effectiveness of US export...</span><span class="citation-popover-meta">Published: August 23, 2023</span></span></span>
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_ai_chip_expor_d56f2b_chip_limits_s_10eb87-Illustration-2-dark.svg" | relative_url }}" alt="Safety time illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_ai_chip_expor_d56f2b_chip_limits_s_10eb87-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_ai_chip_expor_d56f2b_chip_limits_s_10eb87-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The hidden assumption: safety must be able to catch up
@@ -339,7 +339,7 @@ For chip controls to reduce existential risk rather than merely postpone it, sev
 * The delay must be substantial rather than trivial.
 * Safety research must make genuine progress during the delay.
 * Governance institutions must improve enough to influence future deployment decisions.
-* The slowdown must not be offset by other developments that recreate the same competitive pressures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2604.04712v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Hardware-Level Governance of AI Compute: A Feasibility...6 Apr 2026 — The rationale for compute-based governance rests on three pro...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lawfaremedia.org/article/to-govern-ai-we-must-govern-compute" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Lawfare">[Default]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Lawfare</span><span class="citation-popover-title">to govern ai we must govern compute</span><span class="citation-popover-snippet">Govern AI, We Must Govern Computeby L Heim · 2024 · Cited by 2 — Compute governance can support AI policy goals in multiple ways: by incr...</span></span></span>
+* The slowdown must not be offset by other developments that recreate the same competitive pressures.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2604.04712v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Hardware-Level Governance of AI Compute: A Feasibility...6 Apr 2026 — The rationale for compute-based governance rests on three pro...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lawfaremedia.org/article/to-govern-ai-we-must-govern-compute" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Lawfare">[Default]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Lawfare</span><span class="citation-popover-title">to govern ai we must govern compute</span><span class="citation-popover-snippet">Govern AI, We Must Govern Computeby L Heim · 2024 · Cited by 2 — Compute governance can support AI policy goals in multiple ways: by incr...</span></span></span>
 
 If these conditions are met, safety time could translate into lower p(doom). If they are not, export controls may function mainly as a schedule adjustment.
 
@@ -357,7 +357,7 @@ Instead, observers look for indirect signs that additional time is being convert
 * Governments establishing systems for monitoring large training runs.
 * Progress in interpretability and control research.
 * Safety-case frameworks becoming standard practice before deployment.
-* Greater international coordination on frontier AI governance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iai.it/sites/default/files/iaicom2423.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iai.it">[IAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iai.it</span><span class="citation-popover-snippet">Enhancing Global AI Governance through Compute...22 May 2024 — The internationalisation of compute governance is necessary because advan...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+* Greater international coordination on frontier AI governance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iai.it/sites/default/files/iaicom2423.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iai.it">[IAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iai.it</span><span class="citation-popover-snippet">Enhancing Global AI Governance through Compute...22 May 2024 — The internationalisation of compute governance is necessary because advan...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 </div>
 
@@ -368,194 +368,194 @@ The debate therefore turns on a narrow but important question: does the extra ti
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_ai_chip_expor_d56f2b_chip_limits_s_10eb87-Illustration-3-dark.svg" | relative_url }}" alt="Safety time illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_ai_chip_expor_d56f2b_chip_limits_s_10eb87-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_compute_gover_1ee8fc_ai_chip_expor_d56f2b_chip_limits_s_10eb87-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Do chip controls really buy safety time?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Do chip controls really buy safety time?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8vm0DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Jonathan Russell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8vm0DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
+</h4>
+<p class="fr-book-author">By Stuart Jonathan Russell</p>
         
-        <p class="fr-book-desc">Directly relevant to whether delaying capabilities improves safety.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to whether delaying capabilities improves safety.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
-        </h4>
-        <p class="fr-book-author">By Mustafa Suleyman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
+</h4>
+<p class="fr-book-author">By Mustafa Suleyman</p>
         
-        <p class="fr-book-desc">Explores containment, timing, and governance responses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores containment, timing, and governance responses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Precipice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=iaejzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Precipice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Precipice">The Precipice</a>
-        </h4>
-        <p class="fr-book-author">By Toby Ord</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Precipice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=iaejzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Precipice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Precipice">The Precipice</a>
+</h4>
+<p class="fr-book-author">By Toby Ord</p>
         
-        <p class="fr-book-desc">Examines long-term risk reduction and timing considerations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines long-term risk reduction and timing considerations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superintelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7_H8AwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superintelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superintelligence">Superintelligence</a>
-        </h4>
-        <p class="fr-book-author">By Nick Bostrom</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superintelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7_H8AwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superintelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superintelligence">Superintelligence</a>
+</h4>
+<p class="fr-book-author">By Nick Bostrom</p>
         
-        <p class="fr-book-desc">Frames why slowing capability growth may matter.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Frames why slowing capability growth may matter.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Precipice&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Precipice</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Precipice&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Precipice</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+chip+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-chip-controls-really-buy-safety-time-ai-chip-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI chip poster" data-ebay-reference="do-chip-controls-really-buy-safety-time-ai-chip-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A Futuristic Ai Chip Represented By Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/IZoAAeSwL7Norbr1/s-l225.jpg" alt="Listing image for A Futuristic Ai Chip Represented By Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+chip+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-chip-controls-really-buy-safety-time-ai-chip-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI chip poster" data-ebay-reference="do-chip-controls-really-buy-safety-time-ai-chip-poster" target="_blank" rel="sponsored noopener noreferrer">A Futuristic Ai Chip Represented By Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+chip+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-chip-controls-really-buy-safety-time-ai-chip-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI chip poster" data-ebay-reference="do-chip-controls-really-buy-safety-time-ai-chip-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI chip poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: AI chip poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+chip+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-chip-controls-really-buy-safety-time-ai-chip-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI chip poster" data-ebay-reference="do-chip-controls-really-buy-safety-time-ai-chip-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+chip+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-chip-controls-really-buy-safety-time-ai-chip-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI chip poster" data-ebay-reference="do-chip-controls-really-buy-safety-time-ai-chip-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A Futuristic Ai Chip Represented By Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/IZoAAeSwL7Norbr1/s-l225.jpg" alt="Listing image for A Futuristic Ai Chip Represented By Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+chip+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-chip-controls-really-buy-safety-time-ai-chip-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI chip poster" data-ebay-reference="do-chip-controls-really-buy-safety-time-ai-chip-poster" target="_blank" rel="sponsored noopener noreferrer">A Futuristic Ai Chip Represented By Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+chip+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-chip-controls-really-buy-safety-time-ai-chip-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI chip poster" data-ebay-reference="do-chip-controls-really-buy-safety-time-ai-chip-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI chip poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: AI chip poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+chip+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-chip-controls-really-buy-safety-time-ai-chip-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI chip poster" data-ebay-reference="do-chip-controls-really-buy-safety-time-ai-chip-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+chip+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-chip-controls-really-buy-safety-time-ai-chip-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI chip poster" data-ebay-reference="do-chip-controls-really-buy-safety-time-ai-chip-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI Chip Icon Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/lXAAAeSwpAVpW~kN/s-l225.jpg" alt="Listing image for AI Chip Icon Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+chip+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-chip-controls-really-buy-safety-time-ai-chip-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI chip poster" data-ebay-reference="do-chip-controls-really-buy-safety-time-ai-chip-poster" target="_blank" rel="sponsored noopener noreferrer">AI Chip Icon Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+chip+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-chip-controls-really-buy-safety-time-ai-chip-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI chip poster" data-ebay-reference="do-chip-controls-really-buy-safety-time-ai-chip-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI chip poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: AI chip poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+chip+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-chip-controls-really-buy-safety-time-ai-chip-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI chip poster" data-ebay-reference="do-chip-controls-really-buy-safety-time-ai-chip-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+chip+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-chip-controls-really-buy-safety-time-ai-chip-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI chip poster" data-ebay-reference="do-chip-controls-really-buy-safety-time-ai-chip-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI Chip Icon Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/lXAAAeSwpAVpW~kN/s-l225.jpg" alt="Listing image for AI Chip Icon Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+chip+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-chip-controls-really-buy-safety-time-ai-chip-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI chip poster" data-ebay-reference="do-chip-controls-really-buy-safety-time-ai-chip-poster" target="_blank" rel="sponsored noopener noreferrer">AI Chip Icon Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+chip+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-chip-controls-really-buy-safety-time-ai-chip-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI chip poster" data-ebay-reference="do-chip-controls-really-buy-safety-time-ai-chip-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI chip poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: AI chip poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+chip+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-chip-controls-really-buy-safety-time-ai-chip-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI chip poster" data-ebay-reference="do-chip-controls-really-buy-safety-time-ai-chip-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+chip+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-chip-controls-really-buy-safety-time-ai-chip-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI chip poster" data-ebay-reference="do-chip-controls-really-buy-safety-time-ai-chip-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A Futuristic Ai Chip Represented By Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/peMAAeSwwlxodBAs/s-l225.jpg" alt="Listing image for A Futuristic Ai Chip Represented By Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+chip+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-chip-controls-really-buy-safety-time-ai-chip-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI chip poster" data-ebay-reference="do-chip-controls-really-buy-safety-time-ai-chip-poster" target="_blank" rel="sponsored noopener noreferrer">A Futuristic Ai Chip Represented By Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+chip+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-chip-controls-really-buy-safety-time-ai-chip-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI chip poster" data-ebay-reference="do-chip-controls-really-buy-safety-time-ai-chip-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI chip poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: AI chip poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+chip+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-chip-controls-really-buy-safety-time-ai-chip-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI chip poster" data-ebay-reference="do-chip-controls-really-buy-safety-time-ai-chip-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+chip+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-chip-controls-really-buy-safety-time-ai-chip-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI chip poster" data-ebay-reference="do-chip-controls-really-buy-safety-time-ai-chip-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A Futuristic Ai Chip Represented By Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/peMAAeSwwlxodBAs/s-l225.jpg" alt="Listing image for A Futuristic Ai Chip Represented By Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+chip+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-chip-controls-really-buy-safety-time-ai-chip-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI chip poster" data-ebay-reference="do-chip-controls-really-buy-safety-time-ai-chip-poster" target="_blank" rel="sponsored noopener noreferrer">A Futuristic Ai Chip Represented By Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+chip+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-chip-controls-really-buy-safety-time-ai-chip-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI chip poster" data-ebay-reference="do-chip-controls-really-buy-safety-time-ai-chip-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI chip poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: AI chip poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+chip+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-chip-controls-really-buy-safety-time-ai-chip-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI chip poster" data-ebay-reference="do-chip-controls-really-buy-safety-time-ai-chip-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+chip+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-chip-controls-really-buy-safety-time-ai-chip-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI chip poster" data-ebay-reference="do-chip-controls-really-buy-safety-time-ai-chip-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A Futuristic Ai Chip Represented By Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/ahMAAeSwfNRoeAr2/s-l225.jpg" alt="Listing image for A Futuristic Ai Chip Represented By Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+chip+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-chip-controls-really-buy-safety-time-ai-chip-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI chip poster" data-ebay-reference="do-chip-controls-really-buy-safety-time-ai-chip-poster" target="_blank" rel="sponsored noopener noreferrer">A Futuristic Ai Chip Represented By Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+chip+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-chip-controls-really-buy-safety-time-ai-chip-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI chip poster" data-ebay-reference="do-chip-controls-really-buy-safety-time-ai-chip-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI chip poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: AI chip poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+chip+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-chip-controls-really-buy-safety-time-ai-chip-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI chip poster" data-ebay-reference="do-chip-controls-really-buy-safety-time-ai-chip-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+chip+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-chip-controls-really-buy-safety-time-ai-chip-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI chip poster" data-ebay-reference="do-chip-controls-really-buy-safety-time-ai-chip-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+chip+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-chip-controls-really-buy-safety-time-ai-chip-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI chip poster" data-ebay-reference="do-chip-controls-really-buy-safety-time-ai-chip-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A Futuristic Ai Chip Represented By Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/ahMAAeSwfNRoeAr2/s-l225.jpg" alt="Listing image for A Futuristic Ai Chip Represented By Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+chip+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-chip-controls-really-buy-safety-time-ai-chip-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI chip poster" data-ebay-reference="do-chip-controls-really-buy-safety-time-ai-chip-poster" target="_blank" rel="sponsored noopener noreferrer">A Futuristic Ai Chip Represented By Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+chip+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-chip-controls-really-buy-safety-time-ai-chip-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI chip poster" data-ebay-reference="do-chip-controls-really-buy-safety-time-ai-chip-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI chip poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: AI chip poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+chip+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-chip-controls-really-buy-safety-time-ai-chip-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI chip poster" data-ebay-reference="do-chip-controls-really-buy-safety-time-ai-chip-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+chip+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-chip-controls-really-buy-safety-time-ai-chip-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI chip poster" data-ebay-reference="do-chip-controls-really-buy-safety-time-ai-chip-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -571,7 +571,7 @@ The debate therefore turns on a narrow but important question: does the extra ti
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -591,7 +591,7 @@ The debate therefore turns on a narrow but important question: does the extra ti
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -623,7 +623,7 @@ The debate therefore turns on a narrow but important question: does the extra ti
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -675,7 +675,7 @@ The debate therefore turns on a narrow but important question: does the extra ti
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -720,7 +720,7 @@ The debate therefore turns on a narrow but important question: does the extra ti
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -761,142 +761,142 @@ The debate therefore turns on a narrow but important question: does the extra ti
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cdn.governance.ai  
    Title: AIComputing Power and the Governance of Artificial  
-   Link: <a href="https://cdn.governance.ai/Computing_Power_and_the_Governance_of_AI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.governance.ai/Computing_Power_and_the_Governance_of_AI.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Governance AIComputing Power and the Governance of Artificial...February 13, 2024 — 14 Feb 2024 — Computing power, or &quot;compute,&quot; is cruc...</p></details>
+   Link:<a href="https://cdn.governance.ai/Computing_Power_and_the_Governance_of_AI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.governance.ai/Computing_Power_and_the_Governance_of_AI.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Governance AIComputing Power and the Governance of Artificial...February 13, 2024 — 14 Feb 2024 — Computing power, or &quot;compute,&quot; is cruc...</p></details>
    Published: February 13, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2604.04712v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2604.04712v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hardware-Level Governance of [AI Compute](&amp;#123;&amp;#123; &#x27;compute-kyc/&#x27; | relative_url &amp;#125;&amp;#125;): A Feasibility...6 Apr 2026 — The rationale for compute-based governance rests on three pro...</p></details>
+   Link:<a href="https://arxiv.org/html/2604.04712v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2604.04712v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hardware-Level Governance of [AI Compute](&amp;#123;&amp;#123; &#x27;compute-kyc/&#x27; | relative_url &amp;#125;&amp;#125;): A Feasibility...6 Apr 2026 — The rationale for compute-based governance rests on three pro...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: safe.ai  
-   Link: <a href="https://safe.ai/ai-risk" target="_blank" rel="noopener noreferrer nofollow">https://safe.ai/ai-risk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CAIS focusses on mitigating risks that could lead to catastrophic outcomes for society, such as bioterrorism or loss...</p></details>
+   Link:<a href="https://safe.ai/ai-risk" target="_blank" rel="noopener noreferrer nofollow">https://safe.ai/ai-risk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CAIS focusses on mitigating risks that could lead to catastrophic outcomes for society, such as bioterrorism or loss...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: GOV.UK  
    Title: Frontier AI: capabilities and risks – discussion paper  
-   Link: <a href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It describes the current state and key trends relating to frontier AI capabilities, and then explores how frontier AI capabilities...Rea...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/frontier-ai-capabilities-and-risks-discussion-paper</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It describes the current state and key trends relating to frontier AI capabilities, and then explores how frontier AI capabilities...Rea...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/65395abae6c968000daa9b25/frontier-ai-capabilities-risks-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/65395abae6c968000daa9b25/frontier-ai-capabilities-risks-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and risks from frontier AIThe UK Government believes more research into AI risk is needed. This report explains why. It describes the cur...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/65395abae6c968000daa9b25/frontier-ai-capabilities-risks-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/65395abae6c968000daa9b25/frontier-ai-capabilities-risks-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and risks from frontier AIThe UK Government believes more research into AI risk is needed. This report explains why. It describes the cur...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv Safety cases for frontier AI  
-   Link: <a href="https://arxiv.org/abs/2410.21572" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2410.21572</a>  
+   Link:<a href="https://arxiv.org/abs/2410.21572" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2410.21572</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: iai.it  
-   Link: <a href="https://www.iai.it/sites/default/files/iaicom2423.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iai.it/sites/default/files/iaicom2423.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing Global AI Governance through Compute...22 May 2024 — The internationalisation of compute governance is necessary because advan...</p></details>
+   Link:<a href="https://www.iai.it/sites/default/files/iaicom2423.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iai.it/sites/default/files/iaicom2423.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing Global AI Governance through Compute...22 May 2024 — The internationalisation of compute governance is necessary because advan...</p></details>
    Published: May 2024  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: blog.bluedot.org  
    Title: Primer on AI Chips and AI Governance  
-   Link: <a href="https://blog.bluedot.org/p/primer-on-ai-chips" target="_blank" rel="noopener noreferrer nofollow">https://blog.bluedot.org/p/primer-on-ai-chips</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>August 23, 2023 — 23 Aug 2023 — A report from CSIS argues that export controls from allies are crucial for the effectiveness of US export...</p></details>
+   Link:<a href="https://blog.bluedot.org/p/primer-on-ai-chips" target="_blank" rel="noopener noreferrer nofollow">https://blog.bluedot.org/p/primer-on-ai-chips</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 23, 2023 — 23 Aug 2023 — A report from CSIS argues that export controls from allies are crucial for the effectiveness of US export...</p></details>
    Published: August 23, 2023  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2506.20530v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.20530v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Toward a Global Regime for Compute Governance25 Jun 2025 — Applied to frontier AI, a global export control regime would restrict the sale...</p></details>
+   Link:<a href="https://arxiv.org/html/2506.20530v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.20530v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Toward a Global Regime for Compute Governance25 Jun 2025 — Applied to frontier AI, a global export control regime would restrict the sale...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>risks of frontier AI (Annex A)28 Apr 2025 — The risks posed by future Frontier AI will include the risks we see today, but with potential...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>risks of frontier AI (Annex A)28 Apr 2025 — The risks posed by future Frontier AI will include the risks we see today, but with potential...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: governance.ai  
-   Link: <a href="https://www.governance.ai/research-paper/oversight-for-frontier-ai-through-kyc-scheme-for-compute-providers" target="_blank" rel="noopener noreferrer nofollow">https://www.governance.ai/research-paper/oversight-for-frontier-ai-through-kyc-scheme-for-compute-providers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ital access to compute offers more precise controls, allowing regulatory control...Read more...</p></details>
+   Link:<a href="https://www.governance.ai/research-paper/oversight-for-frontier-ai-through-kyc-scheme-for-compute-providers" target="_blank" rel="noopener noreferrer nofollow">https://www.governance.ai/research-paper/oversight-for-frontier-ai-through-kyc-scheme-for-compute-providers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ital access to compute offers more precise controls, allowing regulatory control...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Lawfare  
    Title: to govern ai we must govern compute  
-   Link: <a href="https://www.lawfaremedia.org/article/to-govern-ai-we-must-govern-compute" target="_blank" rel="noopener noreferrer nofollow">https://www.lawfaremedia.org/article/to-govern-ai-we-must-govern-compute</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Govern AI, We Must Govern Computeby L Heim · 2024 · Cited by 2 — Compute governance can support AI policy goals in multiple ways: by incr...</p></details>
+   Link:<a href="https://www.lawfaremedia.org/article/to-govern-ai-we-must-govern-compute" target="_blank" rel="noopener noreferrer nofollow">https://www.lawfaremedia.org/article/to-govern-ai-we-must-govern-compute</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Govern AI, We Must Govern Computeby L Heim · 2024 · Cited by 2 — Compute governance can support AI policy goals in multiple ways: by incr...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: forum.effectivealtruism.org  
-   Link: <a href="https://forum.effectivealtruism.org/posts/WRnT9hGfg3oKfKtXa/ai-governance-and-strategy-a-list-of-research-agendas-and" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/WRnT9hGfg3oKfKtXa/ai-governance-and-strategy-a-list-of-research-agendas-and</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effective Altruism ForumAI governance and strategy: a list of research agendas and...12 Mar 2024 — Much compute governance work hinges o...</p></details>
+   Link:<a href="https://forum.effectivealtruism.org/posts/WRnT9hGfg3oKfKtXa/ai-governance-and-strategy-a-list-of-research-agendas-and" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/WRnT9hGfg3oKfKtXa/ai-governance-and-strategy-a-list-of-research-agendas-and</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effective Altruism ForumAI governance and strategy: a list of research agendas and...12 Mar 2024 — Much compute governance work hinges o...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: forum.effectivealtruism.org  
    Title: Effective Altruism Forum On restraining AI development for the sake of safety  
-   Link: <a href="https://forum.effectivealtruism.org/posts/8XFsez9HSRXMW4WRx/on-restraining-ai-development-for-the-sake-of-safety" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/8XFsez9HSRXMW4WRx/on-restraining-ai-development-for-the-sake-of-safety</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effective Altruism ForumOn restraining AI development for the sake of safetyMarch 19, 2026 — 19 Mar 2026 — Here my basic intuition is tha...</p></details>
+   Link:<a href="https://forum.effectivealtruism.org/posts/8XFsez9HSRXMW4WRx/on-restraining-ai-development-for-the-sake-of-safety" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/8XFsez9HSRXMW4WRx/on-restraining-ai-development-for-the-sake-of-safety</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effective Altruism ForumOn restraining AI development for the sake of safetyMarch 19, 2026 — 19 Mar 2026 — Here my basic intuition is tha...</p></details>
    Published: March 19, 2026  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: forum.effectivealtruism.org  
-   Link: <a href="https://forum.effectivealtruism.org/posts/iiRGCydMX7aiEjvGm/12-tentative-ideas-for-us-ai-policy-luke-muehlhauser" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/iiRGCydMX7aiEjvGm/12-tentative-ideas-for-us-ai-policy-luke-muehlhauser</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effective Altruism Forum12 tentative ideas for US AI policy (Luke Muehlhauser)19 Apr 2023 — Security features on chips can be leveraged f...</p></details>
+   Link:<a href="https://forum.effectivealtruism.org/posts/iiRGCydMX7aiEjvGm/12-tentative-ideas-for-us-ai-policy-luke-muehlhauser" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/iiRGCydMX7aiEjvGm/12-tentative-ideas-for-us-ai-policy-luke-muehlhauser</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effective Altruism Forum12 tentative ideas for US AI policy (Luke Muehlhauser)19 Apr 2023 — Security features on chips can be leveraged f...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ai-frontiers.org  
-   Link: <a href="https://ai-frontiers.org/topic/policy-and-regulation" target="_blank" rel="noopener noreferrer nofollow">https://ai-frontiers.org/topic/policy-and-regulation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Policy &amp; RegulationArticles in this section explore if, when, and how to implement regulation that harnesses AI&#x27;s benefits while limiting...</p></details>
+   Link:<a href="https://ai-frontiers.org/topic/policy-and-regulation" target="_blank" rel="noopener noreferrer nofollow">https://ai-frontiers.org/topic/policy-and-regulation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Policy &amp; RegulationArticles in this section explore if, when, and how to implement regulation that harnesses AI&#x27;s benefits while limiting...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: alignmentforum.org  
    Title: ai control may increase existential risk  
-   Link: <a href="https://www.alignmentforum.org/posts/rZcyemEpBHgb2hqLP/ai-control-may-increase-existential-risk" target="_blank" rel="noopener noreferrer nofollow">https://www.alignmentforum.org/posts/rZcyemEpBHgb2hqLP/ai-control-may-increase-existential-risk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>11 Mar 2025 — AI control may primarily shift probability mass away from &quot;moderately large warning shots&quot; and towards &quot;ineffective warning...</p></details>
+   Link:<a href="https://www.alignmentforum.org/posts/rZcyemEpBHgb2hqLP/ai-control-may-increase-existential-risk" target="_blank" rel="noopener noreferrer nofollow">https://www.alignmentforum.org/posts/rZcyemEpBHgb2hqLP/ai-control-may-increase-existential-risk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>11 Mar 2025 — AI control may primarily shift probability mass away from &quot;moderately large warning shots&quot; and towards &quot;ineffective warning...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: siliconranch.substack.com  
    Title: export controls are ai safety  
-   Link: <a href="https://siliconranch.substack.com/p/export-controls-are-ai-safety" target="_blank" rel="noopener noreferrer nofollow">https://siliconranch.substack.com/p/export-controls-are-ai-safety</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Controls Are AI SafetyExport controls do reduce existential risks, and they hopefully hinder the use of AI for human rights abuses, mass...</p></details>
+   Link:<a href="https://siliconranch.substack.com/p/export-controls-are-ai-safety" target="_blank" rel="noopener noreferrer nofollow">https://siliconranch.substack.com/p/export-controls-are-ai-safety</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Controls Are AI SafetyExport controls do reduce existential risks, and they hopefully hinder the use of AI for human rights abuses, mass...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: smarterarticles.co.uk  
-   Link: <a href="https://smarterarticles.co.uk/capture-by-design-how-frontier-labs-wrote-ai-rules-before-regulators-arrived" target="_blank" rel="noopener noreferrer nofollow">https://smarterarticles.co.uk/capture-by-design-how-frontier-labs-wrote-ai-rules-before-regulators-arrived</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Capture by Design: How Frontier Labs Wrote AI Rules Before...25 Apr 2026 — “Anthropic&#x27;s dispute with US government exposes deeper rifts...</p></details>
+   Link:<a href="https://smarterarticles.co.uk/capture-by-design-how-frontier-labs-wrote-ai-rules-before-regulators-arrived" target="_blank" rel="noopener noreferrer nofollow">https://smarterarticles.co.uk/capture-by-design-how-frontier-labs-wrote-ai-rules-before-regulators-arrived</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Capture by Design: How Frontier Labs Wrote AI Rules Before...25 Apr 2026 — “Anthropic&#x27;s dispute with US government exposes deeper rifts...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=234cxadMBSI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=234cxadMBSI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI pioneer explains why it poses an existential risk for humanity...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=234cxadMBSI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=234cxadMBSI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI pioneer explains why it poses an existential risk for humanity...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: law-ai.org  
-   Link: <a href="https://law-ai.org/advanced-ai-gov-litrev/" target="_blank" rel="noopener noreferrer nofollow">https://law-ai.org/advanced-ai-gov-litrev/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>search in the emerging field of advanced AI governance.Read more...</p></details>
+   Link:<a href="https://law-ai.org/advanced-ai-gov-litrev/" target="_blank" rel="noopener noreferrer nofollow">https://law-ai.org/advanced-ai-gov-litrev/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>search in the emerging field of advanced AI governance.Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/6288138.pdf?abstractid=6288138&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/6288138.pdf?abstractid=6288138&amp;mirid=1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence and Existential RiskWe classify and analyze existential AI risks in three categories: human-directed risks, accident risks...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/Delivery.cfm/6288138.pdf?abstractid=6288138&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/6288138.pdf?abstractid=6288138&amp;mirid=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence and Existential RiskWe classify and analyze existential AI risks in three categories: human-directed risks, accident risks...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: markusanderljung.com  
    Title: a collection of ai governance research ideas 2024  
-   Link: <a href="https://www.markusanderljung.com/blog/a-collection-of-ai-governance-research-ideas-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.markusanderljung.com/blog/a-collection-of-ai-governance-research-ideas-2024</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We collated the list by asking a range of researchers for ideas.Read more...</p></details>
+   Link:<a href="https://www.markusanderljung.com/blog/a-collection-of-ai-governance-research-ideas-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.markusanderljung.com/blog/a-collection-of-ai-governance-research-ideas-2024</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We collated the list by asking a range of researchers for ideas.Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12035420/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12035420/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>for near-term AI risks to evolve into existential threats...by V Subasri · 2025 · Cited by 11 — Failing to align AI with shared human va...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12035420/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12035420/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>for near-term AI risks to evolve into existential threats...by V Subasri · 2025 · Cited by 11 — Failing to align AI with shared human va...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: Keep the Future Human (with Anthony Aguirre)  
-   Link: <a href="https://www.youtube.com/watch?v=IqzB0_pgDGk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IqzB0_pgDGk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S.-China AI Race + Chip Bans Aren&#x27;t Working + A Lesson From Nuclear Proliferation | The Spillover...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=IqzB0_pgDGk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IqzB0_pgDGk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S.-China AI Race + Chip Bans Aren&#x27;t Working + A Lesson From Nuclear Proliferation | The Spillover...</p></details>

@@ -272,7 +272,7 @@ image: /assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c
 A central fear in AI doom debates is not simply that advanced AI systems could be dangerous, but that [warning signs]({{ 'warning-signs/' | relative_url }}) could appear and still be ignored. The mechanism is straightforward: when governments, companies, or military planners believe they are in a high-stakes race, evidence that would normally trigger caution may instead be treated as a cost of staying competitive.
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1_race_pressure_c5dcfd-Illustration-1-dark.svg" | relative_url }}" alt="Race Pressure illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1_race_pressure_c5dcfd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1_race_pressure_c5dcfd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Supporters of this concern argue that geopolitical competition can change how decision-makers interpret risk. Rather than asking, “Is this system safe enough?”, leaders may begin asking, “Can we afford to slow down while rivals continue?” In that environment, unresolved concerns about misalignment, deceptive behaviour, [autonomy]({{ 'autonomy/' | relative_url }}), or [loss of control]({{ 'loss-of-control/' | relative_url }}) can be reclassified from reasons to pause into problems to manage later. Critics of AI doom often accept that competitive pressure exists, but dispute whether it is strong enough to override safety incentives or whether the race analogy is overstated. The disagreement is not mainly about whether competition matters. It is about how much it changes behaviour when serious warnings emerge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governance.ai/research-paper/safety-not-guaranteed-international-strategic-dynamics-of-risky-technology-races" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governance.ai">[GovAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governance.ai</span><span class="citation-popover-title">safety not guaranteed international strategic dynamics of risky technology races</span><span class="citation-popover-snippet">GovAIInternational Strategic Dynamics of Risky Technology RacesWe analyse a strategic model to determine when states deploy technologies...</span></span></span>
+Supporters of this concern argue that geopolitical competition can change how decision-makers interpret risk. Rather than asking, “Is this system safe enough?”, leaders may begin asking, “Can we afford to slow down while rivals continue?” In that environment, unresolved concerns about misalignment, deceptive behaviour, [autonomy]({{ 'autonomy/' | relative_url }}), or [loss of control]({{ 'loss-of-control/' | relative_url }}) can be reclassified from reasons to pause into problems to manage later. Critics of AI doom often accept that competitive pressure exists, but dispute whether it is strong enough to override safety incentives or whether the race analogy is overstated. The disagreement is not mainly about whether competition matters. It is about how much it changes behaviour when serious warnings emerge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governance.ai/research-paper/safety-not-guaranteed-international-strategic-dynamics-of-risky-technology-races" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governance.ai">[GovAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governance.ai</span><span class="citation-popover-title">safety not guaranteed international strategic dynamics of risky technology races</span><span class="citation-popover-snippet">GovAIInternational Strategic Dynamics of Risky Technology RacesWe analyse a strategic model to determine when states deploy technologies...</span></span></span>
 
 ## How competition changes risk tolerance
 
@@ -280,11 +280,11 @@ The core claim is that races alter acceptable levels of [uncertainty]({{ 'uncert
 
 In a slower development environment, a company discovering unexpected model behaviour might delay deployment, conduct more [evaluations]({{ 'evaluations/' | relative_url }}), or wait for external review. In a competitive environment, the same evidence may be interpreted differently. Decision-makers may fear that delays will allow a rival laboratory or state to gain strategic advantage.
 
-Research on technology races has repeatedly found that competitors can become willing to deploy before fully understanding risks. Models of international technology competition show that actors may knowingly accept greater danger when being first provides a large strategic reward. The issue is not necessarily ignorance. Participants may recognise the risk and proceed anyway because losing the race appears worse. Governance AI <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/00220027231214996" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsUncertainty, Information, and Risk in International...by N Emery-Xu · 2024 · Cited by 19 — A formal model reveals how the i...</span></span></span>
+Research on technology races has repeatedly found that competitors can become willing to deploy before fully understanding risks. Models of international technology competition show that actors may knowingly accept greater danger when being first provides a large strategic reward. The issue is not necessarily ignorance. Participants may recognise the risk and proceed anyway because losing the race appears worse. Governance AI<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/00220027231214996" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsUncertainty, Information, and Risk in International...by N Emery-Xu · 2024 · Cited by 19 — A formal model reveals how the i...</span></span></span>
 
 For AI doom advocates, this matters because many existential-risk scenarios involve systems being deployed before researchers understand their behaviour. If race pressure becomes intense near the frontier of capability, then precisely the systems that require the most scrutiny may receive the least.
 
-This concern appears not only in theoretical work. Simulation studies of advanced AI competition have found that race dynamics tend to reduce cooperation and increase the probability of safety failures or geopolitical failures compared with more coordinated development paths. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0016328725000254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Strategic insights from simulation gaming of AI race dynamicsby R Gruetzemacher · 2025 · Cited by 15 — Race dynamics in adva...</span></span></span>
+This concern appears not only in theoretical work. Simulation studies of advanced AI competition have found that race dynamics tend to reduce cooperation and increase the probability of safety failures or geopolitical failures compared with more coordinated development paths.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0016328725000254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Strategic insights from simulation gaming of AI race dynamicsby R Gruetzemacher · 2025 · Cited by 15 — Race dynamics in adva...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LQHp90R5wEE" title="We’re Racing Toward AI We Can’t Control | For Humanity #79" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LQHp90R5wEE" target="_blank" rel="noopener noreferrer">We’re Racing Toward AI We Can’t Control | For Humanity #79</a></p><p class="youtube-embed-meta">Channel: The AI Risk Network | AI Safety &middot; Views: 184.0K &middot; Uploaded: February 2026 &middot; Length: 1 hour 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LQHp90R5wEE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LQHp90R5wEE">Open on YouTube</a></p></div></div></div>
 
@@ -299,7 +299,7 @@ Examples often discussed in AI safety debates include:
 * **Autonomy gains**: systems showing increasing ability to pursue goals over long periods with limited human supervision.
 * **Evaluation failures**: safety tests producing concerning results but not clear enough evidence to justify halting deployment.
 * **[Interpretability]({{ 'interpretability/' | relative_url }}) gaps**: researchers remaining unable to explain why advanced systems make important decisions.
-* **Near misses and incidents**: warning events that stop short of catastrophe and are therefore easier to dismiss. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2503.05812" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Intolerable Risk Threshold Recommendations for Artificial Intelligence</span><span class="citation-popover-snippet">arXiv Intolerable Risk Threshold Recommendations for Artificial Intelligence</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internationalaisafetyreport.org">[International AI Safety Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internationalaisafetyreport.org</span><span class="citation-popover-title">international ai safety report 2026</span><span class="citation-popover-snippet">International AI Safety ReportInternational AI Safety Report 20263 Feb 2026 — This Report assesses what general-purpose AI systems can do...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)The UK AI Security Institute (AISI) has conducted evalu...</span></span></span>
+* **Near misses and incidents**: warning events that stop short of catastrophe and are therefore easier to dismiss.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2503.05812" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Intolerable Risk Threshold Recommendations for Artificial Intelligence</span><span class="citation-popover-snippet">arXiv Intolerable Risk Threshold Recommendations for Artificial Intelligence</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internationalaisafetyreport.org">[International AI Safety Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internationalaisafetyreport.org</span><span class="citation-popover-title">international ai safety report 2026</span><span class="citation-popover-snippet">International AI Safety ReportInternational AI Safety Report 20263 Feb 2026 — This Report assesses what general-purpose AI systems can do...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)The UK AI Security Institute (AISI) has conducted evalu...</span></span></span>
 
 The race-pressure concern is not that any one warning sign proves doom. Rather, it is that decision-makers may repeatedly require stronger evidence before acting because the costs of delay feel immediate while the costs of catastrophe remain uncertain.
 
@@ -313,7 +313,7 @@ Many AI doom arguments depend on the possibility that the most important warning
 
 If a frontier model behaved catastrophically in public testing, deployment decisions would be relatively easy. More realistically, evidence may emerge gradually: strange behaviours, troubling evaluation results, increasing unpredictability, or research findings suggesting that current control methods are inadequate.
 
-Several formal studies of risky technology races emphasise the role of uncertainty. When participants possess incomplete information about both capabilities and dangers, competition can make premature deployment more attractive. Ambiguous evidence often becomes easier to discount because each actor can tell itself that the danger may be smaller than it appears while the competitive costs of caution are obvious. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/00220027231214996" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsUncertainty, Information, and Risk in International...by N Emery-Xu · 2024 · Cited by 19 — A formal model reveals how the i...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://aigi.ox.ac.uk/publications/uncertainty-information-and-risk-in-international-technology-races/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aigi.ox.ac.uk">[Oxford Martin AIGI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aigi.ox.ac.uk</span><span class="citation-popover-title">uncertainty information and risk in international technology races</span><span class="citation-popover-snippet">ford Martin AIGIUncertainty, Information, and Risk in International Technology...17 Nov 2023 — A formal model reveals how the informat...</span></span></span>
+Several formal studies of risky technology races emphasise the role of uncertainty. When participants possess incomplete information about both capabilities and dangers, competition can make premature deployment more attractive. Ambiguous evidence often becomes easier to discount because each actor can tell itself that the danger may be smaller than it appears while the competitive costs of caution are obvious.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/00220027231214996" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsUncertainty, Information, and Risk in International...by N Emery-Xu · 2024 · Cited by 19 — A formal model reveals how the i...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://aigi.ox.ac.uk/publications/uncertainty-information-and-risk-in-international-technology-races/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aigi.ox.ac.uk">[Oxford Martin AIGI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aigi.ox.ac.uk</span><span class="citation-popover-title">uncertainty information and risk in international technology races</span><span class="citation-popover-snippet">ford Martin AIGIUncertainty, Information, and Risk in International Technology...17 Nov 2023 — A formal model reveals how the informat...</span></span></span>
 
 This is one reason discussions of p(doom)—the estimated probability that advanced AI causes existential catastrophe—often intersect with race dynamics. Even people who assign a relatively low probability to doom may argue that competitive incentives become problematic when the downside is extraordinarily large and the evidence is inherently uncertain.
 
@@ -321,9 +321,9 @@ This is one reason discussions of p(doom)—the estimated probability that advan
 
 One proposed defence against ignored warning signs is to make the evidence harder to hide, reinterpret, or selectively report.
 
-Safety researchers have increasingly argued for stronger evaluation regimes, standardised testing, and clearer disclosure of dangerous capabilities before deployment. Some proposals recommend reporting both pre-mitigation and post-mitigation evaluation results so policymakers can understand what systems were capable of before safety measures were added. The concern is that without transparent reporting, competitive incentives may encourage organisations to present the most reassuring interpretation of uncertain findings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2503.05812" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Intolerable Risk Threshold Recommendations for Artificial Intelligence</span><span class="citation-popover-snippet">arXiv Intolerable Risk Threshold Recommendations for Artificial Intelligence</span></span></span>
+Safety researchers have increasingly argued for stronger evaluation regimes, standardised testing, and clearer disclosure of dangerous capabilities before deployment. Some proposals recommend reporting both pre-mitigation and post-mitigation evaluation results so policymakers can understand what systems were capable of before safety measures were added. The concern is that without transparent reporting, competitive incentives may encourage organisations to present the most reassuring interpretation of uncertain findings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2503.05812" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Intolerable Risk Threshold Recommendations for Artificial Intelligence</span><span class="citation-popover-snippet">arXiv Intolerable Risk Threshold Recommendations for Artificial Intelligence</span></span></span>
 
-The same logic appears in calls for external evaluations by governments or [independent]({{ 'red-teaming/' | relative_url }}) institutes. If the organisation building a system is also the organisation deciding whether warning signs matter, race pressure may create conflicts of interest. Reports from government-backed and international safety initiatives have therefore emphasised systematic testing and shared assessment mechanisms for frontier models. <span class="citation-chip-wrap"><a class="citation-chip" href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internationalaisafetyreport.org">[International AI Safety Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internationalaisafetyreport.org</span><span class="citation-popover-title">international ai safety report 2026</span><span class="citation-popover-snippet">International AI Safety ReportInternational AI Safety Report 20263 Feb 2026 — This Report assesses what general-purpose AI systems can do...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)The UK AI Security Institute (AISI) has conducted evalu...</span></span></span>
+The same logic appears in calls for external evaluations by governments or [independent]({{ 'red-teaming/' | relative_url }}) institutes. If the organisation building a system is also the organisation deciding whether warning signs matter, race pressure may create conflicts of interest. Reports from government-backed and international safety initiatives have therefore emphasised systematic testing and shared assessment mechanisms for frontier models.<span class="citation-chip-wrap"><a class="citation-chip" href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internationalaisafetyreport.org">[International AI Safety Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internationalaisafetyreport.org</span><span class="citation-popover-title">international ai safety report 2026</span><span class="citation-popover-snippet">International AI Safety ReportInternational AI Safety Report 20263 Feb 2026 — This Report assesses what general-purpose AI systems can do...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)The UK AI Security Institute (AISI) has conducted evalu...</span></span></span>
 
 From a doom-oriented perspective, the goal is not merely to detect problems but to create institutions capable of acting on those findings even when powerful incentives favour continued deployment.
 
@@ -332,9 +332,9 @@ From a doom-oriented perspective, the goal is not merely to detect problems but 
 
 Supporters of race-pressure theories point to signs that competition is already affecting safety discussions.
 
-Recent reporting has described growing tension between deployment speed and precaution among frontier AI developers. Some observers argue that companies have become more reluctant to commit to hard pauses or deployment delays when competitors continue advancing. Critics see this as evidence that race dynamics are beginning to shape practical decisions, including how organisations define acceptable risk thresholds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2026/03/03/ai-race-safety-guardrail" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Safety guardrails loosen as AI rivalries grows</span><span class="citation-popover-snippet">Even traditionally cautious firms, like Anthropic, have recently revised their internal guidelines, narrowing criteria for delaying risky...</span></span></span>
+Recent reporting has described growing tension between deployment speed and precaution among frontier AI developers. Some observers argue that companies have become more reluctant to commit to hard pauses or deployment delays when competitors continue advancing. Critics see this as evidence that race dynamics are beginning to shape practical decisions, including how organisations define acceptable risk thresholds.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2026/03/03/ai-race-safety-guardrail" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Safety guardrails loosen as AI rivalries grows</span><span class="citation-popover-snippet">Even traditionally cautious firms, like Anthropic, have recently revised their internal guidelines, narrowing criteria for delaying risky...</span></span></span>
 
-Other evidence is more indirect. Researchers and policy analysts have repeatedly warned that commercial and geopolitical competition can reduce incentives for safety investment, transparency, and cooperation. International declarations and safety commitments increasingly acknowledge this problem explicitly, suggesting that policymakers view competitive pressure as a genuine governance challenge rather than a purely theoretical concern. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sipri.org/sites/default/files/2025-11/1125_civilian_ai.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sipri.org">[SIPRI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sipri.org</span><span class="citation-popover-title">Addressing the risks that civilian AI poses to international</span><span class="citation-popover-snippet">Addressing the risks that civilian AI poses to international...November 21, 2025 — 3 Nov 2025 — As AI safety researchers from OpenA...</span><span class="citation-popover-meta">Published: November 21, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.founderspledge.com/research/how-philanthropists-can-help-slow-the-race-to-dangerous-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: founderspledge.com">[2founderspledge.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">founderspledge.com</span><span class="citation-popover-title">how philanthropists can help slow the race to dangerous ai</span><span class="citation-popover-snippet">16 Oct 2024 — The emergence of an AI racing dynamic between great power nations like the US and China could cause both countries to cut c...</span></span></span>
+Other evidence is more indirect. Researchers and policy analysts have repeatedly warned that commercial and geopolitical competition can reduce incentives for safety investment, transparency, and cooperation. International declarations and safety commitments increasingly acknowledge this problem explicitly, suggesting that policymakers view competitive pressure as a genuine governance challenge rather than a purely theoretical concern.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sipri.org/sites/default/files/2025-11/1125_civilian_ai.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sipri.org">[SIPRI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sipri.org</span><span class="citation-popover-title">Addressing the risks that civilian AI poses to international</span><span class="citation-popover-snippet">Addressing the risks that civilian AI poses to international...November 21, 2025 — 3 Nov 2025 — As AI safety researchers from OpenA...</span><span class="citation-popover-meta">Published: November 21, 2025</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.founderspledge.com/research/how-philanthropists-can-help-slow-the-race-to-dangerous-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: founderspledge.com">[2founderspledge.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">founderspledge.com</span><span class="citation-popover-title">how philanthropists can help slow the race to dangerous ai</span><span class="citation-popover-snippet">16 Oct 2024 — The emergence of an AI racing dynamic between great power nations like the US and China could cause both countries to cut c...</span></span></span>
 
 However, none of this demonstrates that existentially dangerous warning signs have already been ignored. The evidence mainly supports a narrower claim: strong incentives exist that could make future warnings easier to discount.
 
@@ -348,7 +348,7 @@ Second, sceptics note that many technologies have experienced intense competitio
 
 Third, some researchers contend that warnings about future AI systems remain too speculative. If evidence for existential risk is weak or uncertain, then demanding large slowdowns may itself impose substantial costs. In this view, caution must be balanced against lost scientific, economic, and medical benefits.
 
-Fourth, critics argue that race narratives can underestimate the capacity for coordination. International safety summits, joint research efforts, shared evaluation standards, and government-backed testing programmes suggest that cooperation is possible even among competitors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internationalaisafetyreport.org">[International AI Safety Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internationalaisafetyreport.org</span><span class="citation-popover-title">international ai safety report 2026</span><span class="citation-popover-snippet">International AI Safety ReportInternational AI Safety Report 20263 Feb 2026 — This Report assesses what general-purpose AI systems can do...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)The UK AI Security Institute (AISI) has conducted evalu...</span></span></span>
+Fourth, critics argue that race narratives can underestimate the capacity for coordination. International safety summits, joint research efforts, shared evaluation standards, and government-backed testing programmes suggest that cooperation is possible even among competitors.<span class="citation-chip-wrap"><a class="citation-chip" href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internationalaisafetyreport.org">[International AI Safety Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internationalaisafetyreport.org</span><span class="citation-popover-title">international ai safety report 2026</span><span class="citation-popover-snippet">International AI Safety ReportInternational AI Safety Report 20263 Feb 2026 — This Report assesses what general-purpose AI systems can do...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisi.gov.uk">[AI Security Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisi.gov.uk</span><span class="citation-popover-snippet">AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)The UK AI Security Institute (AISI) has conducted evalu...</span></span></span>
 
 These objections do not eliminate the race-pressure concern, but they challenge the stronger claim that competition inevitably leads to reckless deployment.
 
@@ -364,276 +364,276 @@ Examples might include:
 * Organisations weakening previously announced safety commitments after competitive pressure increases.
 * Governments declining to act on identified risks because rivals are perceived to be moving faster.
 * Independent evaluators repeatedly highlighting serious concerns that receive little operational response.
-* Growing capability gains accompanied by stagnant investment in interpretability, control, [monitoring]({{ 'monitoring/' | relative_url }}), or incident response. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/fr/glossary/ai-race-dynamics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-title">ai race dynamics</span><span class="citation-popover-snippet">anizations under competitive pressure may allocate more resources...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.ca.gov/wp-content/uploads/2025/06/June-17-2025-%E2%80%93-The-California-Report-on-Frontier-AI-Policy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.ca.gov">[Governor of California]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.ca.gov</span><span class="citation-popover-title">June 17 2025 – The California Report on Frontier AI Policy</span><span class="citation-popover-snippet">ernor of CaliforniaTHE CALIFORNIA REPORT ON FRONTIER AI POLICY17 Jun 2025 — In cases where competitive pressures may disincentivize pa...</span></span></span>
+* Growing capability gains accompanied by stagnant investment in interpretability, control, [monitoring]({{ 'monitoring/' | relative_url }}), or incident response.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/fr/glossary/ai-race-dynamics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-title">ai race dynamics</span><span class="citation-popover-snippet">anizations under competitive pressure may allocate more resources...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.ca.gov/wp-content/uploads/2025/06/June-17-2025-%E2%80%93-The-California-Report-on-Frontier-AI-Policy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.ca.gov">[Governor of California]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.ca.gov</span><span class="citation-popover-title">June 17 2025 – The California Report on Frontier AI Policy</span><span class="citation-popover-snippet">ernor of CaliforniaTHE CALIFORNIA REPORT ON FRONTIER AI POLICY17 Jun 2025 — In cases where competitive pressures may disincentivize pa...</span></span></span>
 
-For AI doom advocates, the deepest concern is not that humanity will fail to notice warning signs. It is that warning signs may become visible while competitive incentives steadily raise the threshold for taking them seriously. In that scenario, the danger comes less from ignorance than from a collective decision that slowing down feels harder than pressing ahead. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governance.ai/research-paper/information-hazards-in-races-for-advanced-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governance.ai">[GovAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governance.ai</span><span class="citation-popover-title">information hazards in races for advanced artificial intelligence</span><span class="citation-popover-snippet">Information Hazards in Races for Advanced Artificial...We study how the information environment affects races to implement a powerful ne...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governance.ai/research-paper/safety-not-guaranteed-international-strategic-dynamics-of-risky-technology-races" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governance.ai">[Governance AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governance.ai</span><span class="citation-popover-title">safety not guaranteed international strategic dynamics of risky technology races</span><span class="citation-popover-snippet">GovAIInternational Strategic Dynamics of Risky Technology RacesWe analyse a strategic model to determine when states deploy technologies...</span></span></span>
+For AI doom advocates, the deepest concern is not that humanity will fail to notice warning signs. It is that warning signs may become visible while competitive incentives steadily raise the threshold for taking them seriously. In that scenario, the danger comes less from ignorance than from a collective decision that slowing down feels harder than pressing ahead.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governance.ai/research-paper/information-hazards-in-races-for-advanced-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governance.ai">[GovAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governance.ai</span><span class="citation-popover-title">information hazards in races for advanced artificial intelligence</span><span class="citation-popover-snippet">Information Hazards in Races for Advanced Artificial...We study how the information environment affects races to implement a powerful ne...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.governance.ai/research-paper/safety-not-guaranteed-international-strategic-dynamics-of-risky-technology-races" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governance.ai">[Governance AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governance.ai</span><span class="citation-popover-title">safety not guaranteed international strategic dynamics of risky technology races</span><span class="citation-popover-snippet">GovAIInternational Strategic Dynamics of Risky Technology RacesWe analyse a strategic model to determine when states deploy technologies...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1_race_pressure_c5dcfd-Illustration-3-dark.svg" | relative_url }}" alt="Race Pressure illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1_race_pressure_c5dcfd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1_race_pressure_c5dcfd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Would an AI race make leaders ignore warnings?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Would an AI race make leaders ignore warnings?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Russell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
+</h4>
+<p class="fr-book-author">By Stuart Russell</p>
         
-        <p class="fr-book-desc">Discusses responding to warnings about advanced AI.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses responding to warnings about advanced AI.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
-        </h4>
-        <p class="fr-book-author">By Mustafa Suleyman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
+</h4>
+<p class="fr-book-author">By Mustafa Suleyman</p>
         
-        <p class="fr-book-desc">Examines competitive pressure and risk-taking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines competitive pressure and risk-taking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Power+and+Progress+by+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Power and Progress on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y4Jr0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Power and Progress" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Power+and+Progress+by+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Power and Progress">Power and Progress</a>
-        </h4>
-        <p class="fr-book-author">By Daron Acemoglu, Simon Johnson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Power+and+Progress+by+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Power and Progress on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y4Jr0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Power and Progress" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Power+and+Progress+by+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Power and Progress">Power and Progress</a>
+</h4>
+<p class="fr-book-author">By Daron Acemoglu, Simon Johnson</p>
         
-        <p class="fr-book-desc">Shows how incentives can override caution.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Power+and+Progress+by+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how incentives can override caution.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Power+and+Progress+by+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Precipice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=iaejzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Precipice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Precipice">The Precipice</a>
-        </h4>
-        <p class="fr-book-author">By Toby Ord</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Precipice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=iaejzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Precipice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Precipice">The Precipice</a>
+</h4>
+<p class="fr-book-author">By Toby Ord</p>
         
-        <p class="fr-book-desc">Covers institutional failures under high stakes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers institutional failures under high stakes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Power+and+Progress&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Power and Progress</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Power+and+Progress&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Power and Progress</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BeAndge STEM Kits for Kids Crafts 6-8 8-12 Boys Gifts Idea Robotics Science Kits"><img src="{{ '/assets/images/marketplace-covers/08ddfdc8d3d6ad4cc2f8.jpg' | relative_url }}" alt="Listing image for BeAndge STEM Kits for Kids Crafts 6-8 8-12 Boys Gifts Idea Robotics Science Kits" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">BeAndge STEM Kits for Kids Crafts 6-8 8-12 Boys Gifts Idea Robotics Science Kits</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.com</span>: robotics kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-robotics-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BeAndge STEM Kits for Kids Crafts 6-8 8-12 Boys Gifts Idea Robotics Science Kits"><img src="{{ '/assets/images/marketplace-covers/08ddfdc8d3d6ad4cc2f8.jpg' | relative_url }}" alt="Listing image for BeAndge STEM Kits for Kids Crafts 6-8 8-12 Boys Gifts Idea Robotics Science Kits" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">BeAndge STEM Kits for Kids Crafts 6-8 8-12 Boys Gifts Idea Robotics Science Kits</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search<span data-ebay-domain-label>eBay.com</span>: robotics kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-robotics-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 12-in-1 STEM Robot Kit Toys for Kids 8-12 12-16, DIY Robot Building Educational"><img src="{{ '/assets/images/marketplace-covers/4170d4e3fe572772efdd.jpg' | relative_url }}" alt="Listing image for 12-in-1 STEM Robot Kit Toys for Kids 8-12 12-16, DIY Robot Building Educational" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">12-in-1 STEM Robot Kit Toys for Kids 8-12 12-16, DIY Robot Building Educational</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.com</span>: robotics kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-robotics-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 12-in-1 STEM Robot Kit Toys for Kids 8-12 12-16, DIY Robot Building Educational"><img src="{{ '/assets/images/marketplace-covers/4170d4e3fe572772efdd.jpg' | relative_url }}" alt="Listing image for 12-in-1 STEM Robot Kit Toys for Kids 8-12 12-16, DIY Robot Building Educational" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">12-in-1 STEM Robot Kit Toys for Kids 8-12 12-16, DIY Robot Building Educational</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search<span data-ebay-domain-label>eBay.com</span>: robotics kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-robotics-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Animatronic Eyes DIY kit for Arduino Bionic robot SG90 servo Joystick control"><img src="{{ '/assets/images/marketplace-covers/edc3f7369c3207898159.jpg' | relative_url }}" alt="Listing image for Animatronic Eyes DIY kit for Arduino Bionic robot SG90 servo Joystick control" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Animatronic Eyes DIY kit for Arduino Bionic robot SG90 servo Joystick control</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.com</span>: robotics kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-robotics-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Animatronic Eyes DIY kit for Arduino Bionic robot SG90 servo Joystick control"><img src="{{ '/assets/images/marketplace-covers/edc3f7369c3207898159.jpg' | relative_url }}" alt="Listing image for Animatronic Eyes DIY kit for Arduino Bionic robot SG90 servo Joystick control" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Animatronic Eyes DIY kit for Arduino Bionic robot SG90 servo Joystick control</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search<span data-ebay-domain-label>eBay.com</span>: robotics kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-robotics-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Smart Robot Platform DIY Chassis Kit Crawler Tank Motors for Pi Arduino Maker"><img src="{{ '/assets/images/marketplace-covers/903db1ed07f40bd10314.jpg' | relative_url }}" alt="Listing image for Smart Robot Platform DIY Chassis Kit Crawler Tank Motors for Pi Arduino Maker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Smart Robot Platform DIY Chassis Kit Crawler Tank Motors for Pi Arduino Maker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.com</span>: robotics kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-robotics-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Smart Robot Platform DIY Chassis Kit Crawler Tank Motors for Pi Arduino Maker"><img src="{{ '/assets/images/marketplace-covers/903db1ed07f40bd10314.jpg' | relative_url }}" alt="Listing image for Smart Robot Platform DIY Chassis Kit Crawler Tank Motors for Pi Arduino Maker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Smart Robot Platform DIY Chassis Kit Crawler Tank Motors for Pi Arduino Maker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search<span data-ebay-domain-label>eBay.com</span>: robotics kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-robotics-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-robotics-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ccd8b5ee633357b5409d.jpg' | relative_url }}" alt="Listing image for Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ccd8b5ee633357b5409d.jpg' | relative_url }}" alt="Listing image for Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A. I. Artificial Intelligence. Jude Law. Original UK Video Poster."><img src="{{ '/assets/images/marketplace-covers/2a668d45483ac31aaf6d.jpg' | relative_url }}" alt="Listing image for A. I. Artificial Intelligence. Jude Law. Original UK Video Poster." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A. I. Artificial Intelligence. Jude Law. Original UK Video Poster.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A. I. Artificial Intelligence. Jude Law. Original UK Video Poster."><img src="{{ '/assets/images/marketplace-covers/2a668d45483ac31aaf6d.jpg' | relative_url }}" alt="Listing image for A. I. Artificial Intelligence. Jude Law. Original UK Video Poster." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A. I. Artificial Intelligence. Jude Law. Original UK Video Poster.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster"><img src="{{ '/assets/images/marketplace-covers/000874dca6d2fcc04da4.jpg' | relative_url }}" alt="Listing image for A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster"><img src="{{ '/assets/images/marketplace-covers/000874dca6d2fcc04da4.jpg' | relative_url }}" alt="Listing image for A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery"><img src="{{ '/assets/images/marketplace-covers/fe6f721a300e36459934.jpg' | relative_url }}" alt="Listing image for A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery"><img src="{{ '/assets/images/marketplace-covers/fe6f721a300e36459934.jpg' | relative_url }}" alt="Listing image for A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-aabd56-would-an-ai-race-make-leaders-ignore-warnings-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -649,7 +649,7 @@ For AI doom advocates, the deepest concern is not that humanity will fail to not
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -669,7 +669,7 @@ For AI doom advocates, the deepest concern is not that humanity will fail to not
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -701,7 +701,7 @@ For AI doom advocates, the deepest concern is not that humanity will fail to not
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -731,7 +731,7 @@ For AI doom advocates, the deepest concern is not that humanity will fail to not
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -789,168 +789,168 @@ For AI doom advocates, the deepest concern is not that humanity will fail to not
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: governance.ai  
    Title: safety not guaranteed international strategic dynamics of risky technology races  
-   Link: <a href="https://www.governance.ai/research-paper/safety-not-guaranteed-international-strategic-dynamics-of-risky-technology-races" target="_blank" rel="noopener noreferrer nofollow">https://www.governance.ai/research-paper/safety-not-guaranteed-international-strategic-dynamics-of-risky-technology-races</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GovAIInternational Strategic Dynamics of Risky Technology RacesWe analyse a strategic model to determine when states deploy technologies...</p></details>
+   Link:<a href="https://www.governance.ai/research-paper/safety-not-guaranteed-international-strategic-dynamics-of-risky-technology-races" target="_blank" rel="noopener noreferrer nofollow">https://www.governance.ai/research-paper/safety-not-guaranteed-international-strategic-dynamics-of-risky-technology-races</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GovAIInternational Strategic Dynamics of Risky Technology RacesWe analyse a strategic model to determine when states deploy technologies...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0016328725000254" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0016328725000254</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Strategic insights from simulation gaming of AI race dynamicsby R Gruetzemacher · 2025 · Cited by 15 — Race dynamics in adva...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0016328725000254" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0016328725000254</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strategic insights from simulation gaming of AI race dynamicsby R Gruetzemacher · 2025 · Cited by 15 — Race dynamics in adva...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cdn.governance.ai  
    Title: AIInternational Races for Risky Technologies  
-   Link: <a href="https://cdn.governance.ai/International_Races_for_Risky_Technologies_DRAFT_NOV_2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.governance.ai/International_Races_for_Risky_Technologies_DRAFT_NOV_2022.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Governance AIInternational Races for Risky TechnologiesNovember 24, 2022 — by E Stafford · 2022 · Cited by 3 — We examine how three facto...</p></details>
+   Link:<a href="https://cdn.governance.ai/International_Races_for_Risky_Technologies_DRAFT_NOV_2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.governance.ai/International_Races_for_Risky_Technologies_DRAFT_NOV_2022.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Governance AIInternational Races for Risky TechnologiesNovember 24, 2022 — by E Stafford · 2022 · Cited by 3 — We examine how three facto...</p></details>
    Published: November 24, 2022  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: governance.ai  
    Title: information hazards in races for advanced artificial intelligence  
-   Link: <a href="https://www.governance.ai/research-paper/information-hazards-in-races-for-advanced-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.governance.ai/research-paper/information-hazards-in-races-for-advanced-artificial-intelligence</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Information Hazards in Races for Advanced Artificial...We study how the information environment affects races to implement a powerful ne...</p></details>
+   Link:<a href="https://www.governance.ai/research-paper/information-hazards-in-races-for-advanced-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.governance.ai/research-paper/information-hazards-in-races-for-advanced-artificial-intelligence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Information Hazards in Races for Advanced Artificial...We study how the information environment affects races to implement a powerful ne...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv Intolerable Risk Threshold Recommendations for Artificial Intelligence  
-   Link: <a href="https://arxiv.org/abs/2503.05812" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2503.05812</a>  
+   Link:<a href="https://arxiv.org/abs/2503.05812" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2503.05812</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv Emerging Practices in Frontier AI Safety Frameworks  
-   Link: <a href="https://arxiv.org/abs/2503.04746" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2503.04746</a>  
+   Link:<a href="https://arxiv.org/abs/2503.04746" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2503.04746</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aigi.ox.ac.uk  
    Title: uncertainty information and risk in international technology races  
-   Link: <a href="https://aigi.ox.ac.uk/publications/uncertainty-information-and-risk-in-international-technology-races/" target="_blank" rel="noopener noreferrer nofollow">https://aigi.ox.ac.uk/publications/uncertainty-information-and-risk-in-international-technology-races/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ford Martin AIGIUncertainty, Information, and Risk in International Technology...17 Nov 2023 — A formal model reveals how the informat...</p></details>
+   Link:<a href="https://aigi.ox.ac.uk/publications/uncertainty-information-and-risk-in-international-technology-races/" target="_blank" rel="noopener noreferrer nofollow">https://aigi.ox.ac.uk/publications/uncertainty-information-and-risk-in-international-technology-races/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ford Martin AIGIUncertainty, Information, and Risk in International Technology...17 Nov 2023 — A formal model reveals how the informat...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
    Title: arXiv AI Companies Should Report Pre- and Post-Mitigation Safety Evaluations  
-   Link: <a href="https://arxiv.org/abs/2503.17388" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2503.17388</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Companies Should Report Pre- and Post-Mitigation Safety EvaluationsMarch 17, 2025...</p></details>
+   Link:<a href="https://arxiv.org/abs/2503.17388" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2503.17388</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Companies Should Report Pre- and Post-Mitigation Safety EvaluationsMarch 17, 2025...</p></details>
    Published: March 17, 2025  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: axios.com  
    Title: Safety guardrails loosen as AI rivalries grows  
-   Link: <a href="https://www.axios.com/2026/03/03/ai-race-safety-guardrail" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2026/03/03/ai-race-safety-guardrail</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Even traditionally cautious firms, like Anthropic, have recently revised their internal guidelines, narrowing criteria for delaying risky...</p></details>
+   Link:<a href="https://www.axios.com/2026/03/03/ai-race-safety-guardrail" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2026/03/03/ai-race-safety-guardrail</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Even traditionally cautious firms, like Anthropic, have recently revised their internal guidelines, narrowing criteria for delaying risky...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sipri.org  
    Title: Addressing the risks that civilian AI poses to international  
-   Link: <a href="https://www.sipri.org/sites/default/files/2025-11/1125_civilian_ai.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sipri.org/sites/default/files/2025-11/1125_civilian_ai.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Addressing the risks that civilian AI poses to international...November 21, 2025 — 3 Nov 2025 — As AI safety researchers from OpenA...</p></details>
+   Link:<a href="https://www.sipri.org/sites/default/files/2025-11/1125_civilian_ai.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sipri.org/sites/default/files/2025-11/1125_civilian_ai.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Addressing the risks that civilian AI poses to international...November 21, 2025 — 3 Nov 2025 — As AI safety researchers from OpenA...</p></details>
    Published: November 21, 2025  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: founderspledge.com  
    Title: how philanthropists can help slow the race to dangerous ai  
-   Link: <a href="https://www.founderspledge.com/research/how-philanthropists-can-help-slow-the-race-to-dangerous-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.founderspledge.com/research/how-philanthropists-can-help-slow-the-race-to-dangerous-ai</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>16 Oct 2024 — The emergence of an AI racing dynamic between great power nations like the US and China could cause both countries to cut c...</p></details>
+   Link:<a href="https://www.founderspledge.com/research/how-philanthropists-can-help-slow-the-race-to-dangerous-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.founderspledge.com/research/how-philanthropists-can-help-slow-the-race-to-dangerous-ai</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>16 Oct 2024 — The emergence of an AI racing dynamic between great power nations like the US and China could cause both countries to cut c...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: arxiv.org  
    Title: arXiv Enabling Frontier Lab Collaboration to Mitigate AI Safety Risks  
-   Link: <a href="https://arxiv.org/abs/2511.08631" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2511.08631</a>  
+   Link:<a href="https://arxiv.org/abs/2511.08631" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2511.08631</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2603.10015v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2603.10015v2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Coordination Gap in Frontier AI Safety Policies20 May 2026 — Frontier AI Safety Policies concentrate on prevention: capability evalua...</p></details>
+   Link:<a href="https://arxiv.org/html/2603.10015v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2603.10015v2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Coordination Gap in Frontier AI Safety Policies20 May 2026 — Frontier AI Safety Policies concentrate on prevention: capability evalua...</p></details>
    Published: May 2026  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2505.00174v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2505.00174v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Real-World Gaps in AI Governance Research AI safety and...30 Apr 2025 — Significant research gaps exist in high-risk deployment domains...</p></details>
+   Link:<a href="https://arxiv.org/html/2505.00174v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2505.00174v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Real-World Gaps in AI Governance Research AI safety and...30 Apr 2025 — Significant research gaps exist in high-risk deployment domains...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/00220027231214996" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/00220027231214996</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsUncertainty, Information, and Risk in International...by N Emery-Xu · 2024 · Cited by 19 — A formal model reveals how the i...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/00220027231214996" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/00220027231214996</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsUncertainty, Information, and Risk in International...by N Emery-Xu · 2024 · Cited by 19 — A formal model reveals how the i...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: internationalaisafetyreport.org  
    Title: international ai safety report 2026  
-   Link: <a href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow">https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>International AI Safety ReportInternational AI Safety Report 20263 Feb 2026 — This Report assesses what general-purpose AI systems can do...</p></details>
+   Link:<a href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow">https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>International AI Safety ReportInternational AI Safety Report 20263 Feb 2026 — This Report assesses what general-purpose AI systems can do...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: aisi.gov.uk  
-   Link: <a href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/frontier-ai-trends-report</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)The UK AI Security Institute (AISI) has conducted evalu...</p></details>
+   Link:<a href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/frontier-ai-trends-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security InstituteFrontier AI Trends Report by The AI Security Institute (AISI)The UK AI Security Institute (AISI) has conducted evalu...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: gov.ca.gov  
    Title: June 17 2025 – The California Report on Frontier AI Policy  
-   Link: <a href="https://www.gov.ca.gov/wp-content/uploads/2025/06/June-17-2025-%E2%80%93-The-California-Report-on-Frontier-AI-Policy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.ca.gov/wp-content/uploads/2025/06/June-17-2025-%E2%80%93-The-California-Report-on-Frontier-AI-Policy.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ernor of CaliforniaTHE CALIFORNIA REPORT ON FRONTIER AI POLICY17 Jun 2025 — In cases where competitive pressures may disincentivize pa...</p></details>
+   Link:<a href="https://www.gov.ca.gov/wp-content/uploads/2025/06/June-17-2025-%E2%80%93-The-California-Report-on-Frontier-AI-Policy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.ca.gov/wp-content/uploads/2025/06/June-17-2025-%E2%80%93-The-California-Report-on-Frontier-AI-Policy.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ernor of CaliforniaTHE CALIFORNIA REPORT ON FRONTIER AI POLICY17 Jun 2025 — In cases where competitive pressures may disincentivize pa...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: aisecurityandsafety.org  
    Title: ai race dynamics  
-   Link: <a href="https://aisecurityandsafety.org/fr/glossary/ai-race-dynamics/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/fr/glossary/ai-race-dynamics/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>anizations under competitive pressure may allocate more resources...Read more...</p></details>
+   Link:<a href="https://aisecurityandsafety.org/fr/glossary/ai-race-dynamics/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/fr/glossary/ai-race-dynamics/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>anizations under competitive pressure may allocate more resources...Read more...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: atlasinstitute.org  
-   Link: <a href="https://atlasinstitute.org/ai-driven-political-risk-challenges-for-britains-national-security/" target="_blank" rel="noopener noreferrer nofollow">https://atlasinstitute.org/ai-driven-political-risk-challenges-for-britains-national-security/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-Driven Political Risk: Challenges for Britain&#x27;s National...7 days ago — This article critically analyzes how AI-driven geopolitical r...</p></details>
+   Link:<a href="https://atlasinstitute.org/ai-driven-political-risk-challenges-for-britains-national-security/" target="_blank" rel="noopener noreferrer nofollow">https://atlasinstitute.org/ai-driven-political-risk-challenges-for-britains-national-security/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI-Driven Political Risk: Challenges for Britain&#x27;s National...7 days ago — This article critically analyzes how AI-driven geopolitical r...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/coenvanmourik_aipolicy-aisafety-techethics-activity-7456238391483863040-yayc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/coenvanmourik_aipolicy-aisafety-techethics-activity-7456238391483863040-yayc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Coen Van Mourik&#x27;s PostUnderstanding the Global Arms Race in AI Technology · AI Safety Governance Framework · Global AI Safety Collaborati...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/coenvanmourik_aipolicy-aisafety-techethics-activity-7456238391483863040-yayc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/coenvanmourik_aipolicy-aisafety-techethics-activity-7456238391483863040-yayc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Coen Van Mourik&#x27;s PostUnderstanding the Global Arms Race in AI Technology · AI Safety Governance Framework · Global AI Safety Collaborati...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: globaia.org  
-   Link: <a href="https://globaia.org/ai-risks/" target="_blank" rel="noopener noreferrer nofollow">https://globaia.org/ai-risks/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Faster Than Oversight — AI Risks ObservatoryAI risks are growing faster than our ability to govern them. 30+ interactive visualizations t...</p></details>
+   Link:<a href="https://globaia.org/ai-risks/" target="_blank" rel="noopener noreferrer nofollow">https://globaia.org/ai-risks/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Faster Than Oversight — AI Risks ObservatoryAI risks are growing faster than our ability to govern them. 30+ interactive visualizations t...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40ZombieCodeKill/the-plan-to-pause-ai-before-its-too-late-68c6208c94b4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40ZombieCodeKill/the-plan-to-pause-ai-before-its-too-late-68c6208c94b4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Plan to Pause AI Before It&#x27;s Too LateKevin: People decided to ignore the warning signs because that pointed against their business in...</p></details>
+   Link:<a href="https://medium.com/%40ZombieCodeKill/the-plan-to-pause-ai-before-its-too-late-68c6208c94b4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40ZombieCodeKill/the-plan-to-pause-ai-before-its-too-late-68c6208c94b4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Plan to Pause AI Before It&#x27;s Too LateKevin: People decided to ignore the warning signs because that pointed against their business in...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=-idQtT8WIr8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-idQtT8WIr8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why the AI Race Undermines Safety (with Steven Adler)Stephen Adler is a former safety researcher at OpenAI. He joins the podcast to discu...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-idQtT8WIr8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-idQtT8WIr8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why the AI Race Undermines Safety (with Steven Adler)Stephen Adler is a former safety researcher at OpenAI. He joins the podcast to discu...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: aigi.ox.ac.uk  
    Title: Uncertainty, Information, and Risk in International Technology Races  
-   Link: <a href="https://aigi.ox.ac.uk/press-reports/uncertainty-information-and-risk-in-international-technology-races/" target="_blank" rel="noopener noreferrer nofollow">https://aigi.ox.ac.uk/press-reports/uncertainty-information-and-risk-in-international-technology-races/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ox.ac.ukUncertainty, Information, and Risk in International Technology...International AI Governance · Social Impact of Emerging Technol...</p></details>
+   Link:<a href="https://aigi.ox.ac.uk/press-reports/uncertainty-information-and-risk-in-international-technology-races/" target="_blank" rel="noopener noreferrer nofollow">https://aigi.ox.ac.uk/press-reports/uncertainty-information-and-risk-in-international-technology-races/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ox.ac.ukUncertainty, Information, and Risk in International Technology...International AI Governance · Social Impact of Emerging Technol...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/PCMag/posts/as-the-guardian-reports-there-was-a-fivefold-rise-in-ai-misbehavior-between-octo/1312975630702233/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PCMag/posts/as-the-guardian-reports-there-was-a-fivefold-rise-in-ai-misbehavior-between-octo/1312975630702233/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>n October and March 2025, including AI models deleting emails and...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/PCMag/posts/as-the-guardian-reports-there-was-a-fivefold-rise-in-ai-misbehavior-between-octo/1312975630702233/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PCMag/posts/as-the-guardian-reports-there-was-a-fivefold-rise-in-ai-misbehavior-between-octo/1312975630702233/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n October and March 2025, including AI models deleting emails and...Read more...</p></details>
    Published: March 2025  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: aisafetybook.com  
    Title: This could result in increased risks of large-scale wars.Read more  
-   Link: <a href="https://www.aisafetybook.com/textbook/ai-race" target="_blank" rel="noopener noreferrer nofollow">https://www.aisafetybook.com/textbook/ai-race</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1.3: AI Race | AI Safety, Ethics, and Society TextbookCompetitive pressures may lead militaries and corporations to hand over excessive p...</p></details>
+   Link:<a href="https://www.aisafetybook.com/textbook/ai-race" target="_blank" rel="noopener noreferrer nofollow">https://www.aisafetybook.com/textbook/ai-race</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1.3: AI Race | AI Safety, Ethics, and Society TextbookCompetitive pressures may lead militaries and corporations to hand over excessive p...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: businessinsider.com  
    Title: anthropic changing safety policy 2026 2  
-   Link: <a href="https://www.businessinsider.com/anthropic-changing-safety-policy-2026-2" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/anthropic-changing-safety-policy-2026-2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The company will no longer unilaterally pause or delay new AI model deployments when safety mechanisms lag, citing increased competition...</p></details>
+   Link:<a href="https://www.businessinsider.com/anthropic-changing-safety-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/anthropic-changing-safety-policy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The company will no longer unilaterally pause or delay new AI model deployments when safety mechanisms lag, citing increased competition...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=2Pel_1BPm_k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2Pel_1BPm_k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI: Existential Risk or Power Grab? - YouTube AI: Existential Risk or Power Grab? - YouTube...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2Pel_1BPm_k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2Pel_1BPm_k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI: Existential Risk or Power Grab? - YouTube AI: Existential Risk or Power Grab? - YouTube...</p></details>

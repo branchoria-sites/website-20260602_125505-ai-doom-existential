@@ -365,269 +365,269 @@ AI race dynamics describe how competitive pressures — among companies and betw
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049-Illustration-3-dark.svg" | relative_url }}" alt="Race Pressure illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why AI Races Can Make Safety Harder. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why AI Races Can Make Safety Harder. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8vm0DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Jonathan Russell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8vm0DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
+</h4>
+<p class="fr-book-author">By Stuart Jonathan Russell</p>
         
-        <p class="fr-book-desc">Directly addresses AI control, incentives, and safety challenges.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses AI control, incentives, and safety challenges.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superintelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7_H8AwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superintelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superintelligence">Superintelligence</a>
-        </h4>
-        <p class="fr-book-author">By Nick Bostrom</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superintelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7_H8AwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superintelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superintelligence">Superintelligence</a>
+</h4>
+<p class="fr-book-author">By Nick Bostrom</p>
         
-        <p class="fr-book-desc">Discusses strategic competition and risks from advanced AI development.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses strategic competition and risks from advanced AI development.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
-        </h4>
-        <p class="fr-book-author">By Brian Christian</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
+</h4>
+<p class="fr-book-author">By Brian Christian</p>
         
-        <p class="fr-book-desc">Covers technical and institutional difficulties in aligning AI systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers technical and institutional difficulties in aligning AI systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Precipice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=iaejzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Precipice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Precipice">The Precipice</a>
-        </h4>
-        <p class="fr-book-author">By Toby Ord</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Precipice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=iaejzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Precipice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Precipice">The Precipice</a>
+</h4>
+<p class="fr-book-author">By Toby Ord</p>
         
-        <p class="fr-book-desc">Explains global catastrophic risks, coordination failures, and why competitive dynamics matter.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains global catastrophic risks, coordination failures, and why competitive dynamics matter.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superintelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superintelligence</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Superintelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superintelligence</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kaiyodo Grendizer Cold Cast Figure with Base Super Robot Display Model New"><img src="{{ '/assets/images/marketplace-covers/53d929fffd3f45df8d8c.jpg' | relative_url }}" alt="Listing image for Kaiyodo Grendizer Cold Cast Figure with Base Super Robot Display Model New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Kaiyodo Grendizer Cold Cast Figure with Base Super Robot Display Model New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search <span data-ebay-domain-label>eBay.com</span>: robot display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-robot-display-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kaiyodo Grendizer Cold Cast Figure with Base Super Robot Display Model New"><img src="{{ '/assets/images/marketplace-covers/53d929fffd3f45df8d8c.jpg' | relative_url }}" alt="Listing image for Kaiyodo Grendizer Cold Cast Figure with Base Super Robot Display Model New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Kaiyodo Grendizer Cold Cast Figure with Base Super Robot Display Model New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search<span data-ebay-domain-label>eBay.com</span>: robot display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-robot-display-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DENSO Industrial Robot Arm Model 1:6 Scale Manipulator Simulation Display Gift"><img src="{{ '/assets/images/marketplace-covers/65d51f66075c4571a747.jpg' | relative_url }}" alt="Listing image for DENSO Industrial Robot Arm Model 1:6 Scale Manipulator Simulation Display Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">DENSO Industrial Robot Arm Model 1:6 Scale Manipulator Simulation Display Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search <span data-ebay-domain-label>eBay.com</span>: robot display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-robot-display-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DENSO Industrial Robot Arm Model 1:6 Scale Manipulator Simulation Display Gift"><img src="{{ '/assets/images/marketplace-covers/65d51f66075c4571a747.jpg' | relative_url }}" alt="Listing image for DENSO Industrial Robot Arm Model 1:6 Scale Manipulator Simulation Display Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">DENSO Industrial Robot Arm Model 1:6 Scale Manipulator Simulation Display Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search<span data-ebay-domain-label>eBay.com</span>: robot display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-robot-display-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lost In Space YM-3 Robot Mini Display Model in Retro TV 17RMB03"><img src="{{ '/assets/images/marketplace-covers/52a95005f7f5389649de.jpg' | relative_url }}" alt="Listing image for Lost In Space YM-3 Robot Mini Display Model in Retro TV 17RMB03" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Lost In Space YM-3 Robot Mini Display Model in Retro TV 17RMB03</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search <span data-ebay-domain-label>eBay.com</span>: robot display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-robot-display-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lost In Space YM-3 Robot Mini Display Model in Retro TV 17RMB03"><img src="{{ '/assets/images/marketplace-covers/52a95005f7f5389649de.jpg' | relative_url }}" alt="Listing image for Lost In Space YM-3 Robot Mini Display Model in Retro TV 17RMB03" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Lost In Space YM-3 Robot Mini Display Model in Retro TV 17RMB03</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search<span data-ebay-domain-label>eBay.com</span>: robot display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-robot-display-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Toy Story Mr. Robot with Lights 3D Print Model For display Only, Not a toy"><img src="{{ '/assets/images/marketplace-covers/64cc1c96018c3c374a54.jpg' | relative_url }}" alt="Listing image for Toy Story Mr. Robot with Lights 3D Print Model For display Only, Not a toy" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Toy Story Mr. Robot with Lights 3D Print Model For display Only, Not a toy</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search <span data-ebay-domain-label>eBay.com</span>: robot display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-robot-display-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Toy Story Mr. Robot with Lights 3D Print Model For display Only, Not a toy"><img src="{{ '/assets/images/marketplace-covers/64cc1c96018c3c374a54.jpg' | relative_url }}" alt="Listing image for Toy Story Mr. Robot with Lights 3D Print Model For display Only, Not a toy" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Toy Story Mr. Robot with Lights 3D Print Model For display Only, Not a toy</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot display model">Search<span data-ebay-domain-label>eBay.com</span>: robot display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-robot-display-model&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=robot+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-robot-display-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A. I. Artificial Intelligence. Jude Law. Original UK Video Poster."><img src="{{ '/assets/images/marketplace-covers/2a668d45483ac31aaf6d.jpg' | relative_url }}" alt="Listing image for A. I. Artificial Intelligence. Jude Law. Original UK Video Poster." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A. I. Artificial Intelligence. Jude Law. Original UK Video Poster.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A. I. Artificial Intelligence. Jude Law. Original UK Video Poster."><img src="{{ '/assets/images/marketplace-covers/2a668d45483ac31aaf6d.jpg' | relative_url }}" alt="Listing image for A. I. Artificial Intelligence. Jude Law. Original UK Video Poster." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A. I. Artificial Intelligence. Jude Law. Original UK Video Poster.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster"><img src="{{ '/assets/images/marketplace-covers/000874dca6d2fcc04da4.jpg' | relative_url }}" alt="Listing image for A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster"><img src="{{ '/assets/images/marketplace-covers/000874dca6d2fcc04da4.jpg' | relative_url }}" alt="Listing image for A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray"><img src="{{ '/assets/images/marketplace-covers/3c3ecd285cbeae3cd708.jpg' | relative_url }}" alt="Listing image for AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray"><img src="{{ '/assets/images/marketplace-covers/3c3ecd285cbeae3cd708.jpg' | relative_url }}" alt="Listing image for AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. Artificial Intelligence Movie Film Poster Art Print"><img src="{{ '/assets/images/marketplace-covers/fb76514b204d73a37317.jpg' | relative_url }}" alt="Listing image for A.I. Artificial Intelligence Movie Film Poster Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A.I. Artificial Intelligence Movie Film Poster Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. Artificial Intelligence Movie Film Poster Art Print"><img src="{{ '/assets/images/marketplace-covers/fb76514b204d73a37317.jpg' | relative_url }}" alt="Listing image for A.I. Artificial Intelligence Movie Film Poster Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A.I. Artificial Intelligence Movie Film Poster Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=race-pressure-why-ai-races-can-make-safety-harder-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -643,7 +643,7 @@ AI race dynamics describe how competitive pressures — among companies and betw
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -663,7 +663,7 @@ AI race dynamics describe how competitive pressures — among companies and betw
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -695,7 +695,7 @@ AI race dynamics describe how competitive pressures — among companies and betw
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -725,7 +725,7 @@ AI race dynamics describe how competitive pressures — among companies and betw
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -783,129 +783,129 @@ AI race dynamics describe how competitive pressures — among companies and betw
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: kraft.id  
    Title: IDHow Frontier AI Competition Drives Risk  
-   Link: <a href="https://kraft.id/frontier-ai-competition-risky-behavior/" target="_blank" rel="noopener noreferrer nofollow">https://kraft.id/frontier-ai-competition-risky-behavior/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IDHow Frontier AI Competition Drives RiskDecember 6, 2025...</p></details>
+   Link:<a href="https://kraft.id/frontier-ai-competition-risky-behavior/" target="_blank" rel="noopener noreferrer nofollow">https://kraft.id/frontier-ai-competition-risky-behavior/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IDHow Frontier AI Competition Drives RiskDecember 6, 2025...</p></details>
    Published: December 6, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: iiss.org  
    Title: International competition over artificial intelligence  
-   Link: <a href="https://www.iiss.org/publications/strategic-comments/2022/international-competition-over-artificial-intelligence/" target="_blank" rel="noopener noreferrer nofollow">https://www.iiss.org/publications/strategic-comments/2022/international-competition-over-artificial-intelligence/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>International competition over artificial intelligence...</p></details>
+   Link:<a href="https://www.iiss.org/publications/strategic-comments/2022/international-competition-over-artificial-intelligence/" target="_blank" rel="noopener noreferrer nofollow">https://www.iiss.org/publications/strategic-comments/2022/international-competition-over-artificial-intelligence/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>International competition over artificial intelligence...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6839098" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6839098</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The AGI Race and Existential Risk by Ethan Bueno de Mesquita, Wioletta Dziuda, Mattias Polborn:: SSRNMay 28, 2026...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6839098" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6839098</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The AGI Race and Existential Risk by Ethan Bueno de Mesquita, Wioletta Dziuda, Mattias Polborn:: SSRNMay 28, 2026...</p></details>
    Published: May 28, 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: homo-deus.com  
-   Link: <a href="https://homo-deus.com/lab/ai-risk/ai-governance-race/" target="_blank" rel="noopener noreferrer nofollow">https://homo-deus.com/lab/ai-risk/ai-governance-race/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Homo Deus LabAI Race Dynamics: Modeling Governance and [Catastrophic](&amp;#123;&amp;#123; &#x27;misuse/&#x27; | relative_url &amp;#125;&amp;#125;) Risk — Homo Deus LabMarch 19, 2026...</p></details>
+   Link:<a href="https://homo-deus.com/lab/ai-risk/ai-governance-race/" target="_blank" rel="noopener noreferrer nofollow">https://homo-deus.com/lab/ai-risk/ai-governance-race/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Homo Deus LabAI Race Dynamics: Modeling Governance and [Catastrophic](&amp;#123;&amp;#123; &#x27;misuse/&#x27; | relative_url &amp;#125;&amp;#125;) Risk — Homo Deus LabMarch 19, 2026...</p></details>
    Published: March 19, 2026  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: s-rsa.com  
-   Link: <a href="https://s-rsa.com/index.php/agi/article/view/16439" target="_blank" rel="noopener noreferrer nofollow">https://s-rsa.com/index.php/agi/article/view/16439</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enabling Frontier Lab Collaboration to Mitigate AI Safety Risks | SuperIntelligence - Robotics - Safety &amp; AlignmentDecember 28, 2025...</p></details>
+   Link:<a href="https://s-rsa.com/index.php/agi/article/view/16439" target="_blank" rel="noopener noreferrer nofollow">https://s-rsa.com/index.php/agi/article/view/16439</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enabling Frontier Lab Collaboration to Mitigate AI Safety Risks | SuperIntelligence - Robotics - Safety &amp; AlignmentDecember 28, 2025...</p></details>
    Published: December 28, 2025  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aisecurityandsafety.org  
-   Link: <a href="https://aisecurityandsafety.org/en/glossary/ai-race-dynamics/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/en/glossary/ai-race-dynamics/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security &amp; Safety DirectoryAI Race Dynamics — AI Governance Definition &amp; Guide | AI Safety DirectoryMarch 27, 2026...</p></details>
+   Link:<a href="https://aisecurityandsafety.org/en/glossary/ai-race-dynamics/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/en/glossary/ai-race-dynamics/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security &amp; Safety DirectoryAI Race Dynamics — AI Governance Definition &amp; Guide | AI Safety DirectoryMarch 27, 2026...</p></details>
    Published: March 27, 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: theeditorial.news  
-   Link: <a href="https://theeditorial.news/technology/inside-the-ai-arms-race-how-openai-anthropic-and-google-are-racing-past-safety-research" target="_blank" rel="noopener noreferrer nofollow">https://theeditorial.news/technology/inside-the-ai-arms-race-how-openai-anthropic-and-google-are-racing-past-safety-research</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The EditorialAI Safety Crisis at OpenAI Anthropic Google 2026 | The EditorialMarch 29, 2026...</p></details>
+   Link:<a href="https://theeditorial.news/technology/inside-the-ai-arms-race-how-openai-anthropic-and-google-are-racing-past-safety-research" target="_blank" rel="noopener noreferrer nofollow">https://theeditorial.news/technology/inside-the-ai-arms-race-how-openai-anthropic-and-google-are-racing-past-safety-research</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The EditorialAI Safety Crisis at OpenAI Anthropic Google 2026 | The EditorialMarch 29, 2026...</p></details>
    Published: March 29, 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aisecurityandsafety.org  
    Title: A I Race Dynamics — AI Governance Definition & Guide | AI Safety Directory  
-   Link: <a href="https://aisecurityandsafety.org/es/glossary/ai-race-dynamics/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/es/glossary/ai-race-dynamics/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Race Dynamics — AI Governance Definition &amp; Guide | AI Safety DirectoryMarch 27, 2026 — AI RACE DYNAMICS governance Última actualizació...</p></details>
+   Link:<a href="https://aisecurityandsafety.org/es/glossary/ai-race-dynamics/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/es/glossary/ai-race-dynamics/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Race Dynamics — AI Governance Definition &amp; Guide | AI Safety DirectoryMarch 27, 2026 — AI RACE DYNAMICS governance Última actualizació...</p></details>
    Published: March 27, 2026  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aimodels.fyi  
-   Link: <a href="https://www.aimodels.fyi/papers/arxiv/enabling-frontier-lab-collaboration-mitigate-ai-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.aimodels.fyi/papers/arxiv/enabling-frontier-lab-collaboration-mitigate-ai-safety</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ENABLING FRONTIER LAB COLLABORATION TO MITIGATE AI SAFETY RISKS Published 11/13/2025 by Nicholas Felstead OVERVIEW * AI safety risks increas...</p></details>
+   Link:<a href="https://www.aimodels.fyi/papers/arxiv/enabling-frontier-lab-collaboration-mitigate-ai-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.aimodels.fyi/papers/arxiv/enabling-frontier-lab-collaboration-mitigate-ai-safety</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ENABLING FRONTIER LAB COLLABORATION TO MITIGATE AI SAFETY RISKS Published 11/13/2025 by Nicholas Felstead OVERVIEW * AI safety risks increas...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: intelligence.org  
    Title: New Paper: "Racing to the Precipice"  
-   Link: <a href="https://intelligence.org/2013/11/27/new-paper-racing-to-the-precipice/" target="_blank" rel="noopener noreferrer nofollow">https://intelligence.org/2013/11/27/new-paper-racing-to-the-precipice/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Machine Intelligence Research InstituteNovember 27, 2013 — NEW PAPER: “RACING TO THE PRECIPICE” * November 27, 2013 * Luke Muehlhauser Du...</p></details>
+   Link:<a href="https://intelligence.org/2013/11/27/new-paper-racing-to-the-precipice/" target="_blank" rel="noopener noreferrer nofollow">https://intelligence.org/2013/11/27/new-paper-racing-to-the-precipice/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Machine Intelligence Research InstituteNovember 27, 2013 — NEW PAPER: “RACING TO THE PRECIPICE” * November 27, 2013 * Luke Muehlhauser Du...</p></details>
    Published: November 27, 2013  
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: forethought.org  
    Title: how can ai labs incorporate risks from ai accelerating ai progress into  
-   Link: <a href="https://www.forethought.org/research/how-can-ai-labs-incorporate-risks-from-ai-accelerating-ai-progress-into" target="_blank" rel="noopener noreferrer nofollow">https://www.forethought.org/research/how-can-ai-labs-incorporate-risks-from-ai-accelerating-ai-progress-into</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Their Responsible Scaling Policies?March 24, 2025 — HOW CAN AI LABS INCORPORATE RISKS FROM AI ACCELERATING AI PROGRESS INTO THEIR RESPONS...</p></details>
+   Link:<a href="https://www.forethought.org/research/how-can-ai-labs-incorporate-risks-from-ai-accelerating-ai-progress-into" target="_blank" rel="noopener noreferrer nofollow">https://www.forethought.org/research/how-can-ai-labs-incorporate-risks-from-ai-accelerating-ai-progress-into</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Their Responsible Scaling Policies?March 24, 2025 — HOW CAN AI LABS INCORPORATE RISKS FROM AI ACCELERATING AI PROGRESS INTO THEIR RESPONS...</p></details>
    Published: March 24, 2025  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sciencedirect.com  
    Title: Strategic insights from simulation gaming of AI race dynamics  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0016328725000254" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0016328725000254</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;ScienceDirectMarch 1, 2025 — STRATEGIC INSIGHTS FROM SIMULATION GAMING OF AI RACE DYNAMICS [https://doi.org/10.1016/j.futures.2025.103563G...&quot;](https://doi.org/10.1016/j.futures.2025.103563G...&quot;)...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0016328725000254" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0016328725000254</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;ScienceDirectMarch 1, 2025 — STRATEGIC INSIGHTS FROM SIMULATION GAMING OF AI RACE DYNAMICS [https://doi.org/10.1016/j.futures.2025.103563G...&quot;](https://doi.org/10.1016/j.futures.2025.103563G...&quot;)...</p></details>
    Published: March 1, 2025  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: longtermwiki.com  
    Title: Multipolar Trap (AI Development) | Longterm Wiki  
-   Link: <a href="https://www.longtermwiki.com/wiki/multipolar-trap" target="_blank" rel="noopener noreferrer nofollow">https://www.longtermwiki.com/wiki/multipolar-trap</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 30, 2026 — MULTIPOLAR TRAP (AI DEVELOPMENT) Risk MULTIPOLAR TRAP (AI DEVELOPMENT) Part of Structural Risks (Overview) Analysis of...</p></details>
+   Link:<a href="https://www.longtermwiki.com/wiki/multipolar-trap" target="_blank" rel="noopener noreferrer nofollow">https://www.longtermwiki.com/wiki/multipolar-trap</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 30, 2026 — MULTIPOLAR TRAP (AI DEVELOPMENT) Risk MULTIPOLAR TRAP (AI DEVELOPMENT) Part of Structural Risks (Overview) Analysis of...</p></details>
    Published: January 30, 2026  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: research.tees.ac.uk  
    Title: tees.ac.uk Multi-Agent Risks from Advanced AI  
-   Link: <a href="https://research.tees.ac.uk/en/publications/multi-agent-risks-from-advanced-ai" target="_blank" rel="noopener noreferrer nofollow">https://research.tees.ac.uk/en/publications/multi-agent-risks-from-advanced-ai</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tees.ac.ukMulti-Agent Risks from Advanced AI - Teesside University&#x27;s Research PortalFebruary 19, 2025 — MULTI-AGENT RISKS FROM ADVANCED A...</p></details>
+   Link:<a href="https://research.tees.ac.uk/en/publications/multi-agent-risks-from-advanced-ai" target="_blank" rel="noopener noreferrer nofollow">https://research.tees.ac.uk/en/publications/multi-agent-risks-from-advanced-ai</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tees.ac.ukMulti-Agent Risks from Advanced AI - Teesside University&#x27;s Research PortalFebruary 19, 2025 — MULTI-AGENT RISKS FROM ADVANCED A...</p></details>
    Published: February 19, 2025  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=qRLrE2tkr2Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qRLrE2tkr2Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Humane Technology Co-Founders Tristan Harris and Aza Raskin discuss The AI Dilemma...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qRLrE2tkr2Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qRLrE2tkr2Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Humane Technology Co-Founders Tristan Harris and Aza Raskin discuss The AI Dilemma...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=XVIc2fE3UzM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XVIc2fE3UzM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI &#x27;race to recklessness&#x27; could have dire consequences, tech experts warn in new interview...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=XVIc2fE3UzM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XVIc2fE3UzM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI &#x27;race to recklessness&#x27; could have dire consequences, tech experts warn in new interview...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: tse-fr.eu  
    Title: ai safety and competition 0  
-   Link: <a href="https://www.tse-fr.eu/fr/publications/ai-safety-and-competition-0" target="_blank" rel="noopener noreferrer nofollow">https://www.tse-fr.eu/fr/publications/ai-safety-and-competition-0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Safety and Competition | TSEMay 7, 2026 — Document de travail AI SAFETY AND COMPETITION Jay Pil Choi, Doh-Shin Jeon et Domenico Menicu...</p></details>
+   Link:<a href="https://www.tse-fr.eu/fr/publications/ai-safety-and-competition-0" target="_blank" rel="noopener noreferrer nofollow">https://www.tse-fr.eu/fr/publications/ai-safety-and-competition-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Safety and Competition | TSEMay 7, 2026 — Document de travail AI SAFETY AND COMPETITION Jay Pil Choi, Doh-Shin Jeon et Domenico Menicu...</p></details>
    Published: May 7, 2026  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: axios.com  
    Title: ai race safety guardrail  
-   Link: <a href="https://www.axios.com/2026/03/03/ai-race-safety-guardrail/" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2026/03/03/ai-race-safety-guardrail/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic, OpenAI, Google battle threatens safe AIMarch 3, 2026 — Mar 3, 2026 - Technology SAFETY GUARDRAILS LOOSEN AS AI RIVALRIES GROWS...</p></details>
+   Link:<a href="https://www.axios.com/2026/03/03/ai-race-safety-guardrail/" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2026/03/03/ai-race-safety-guardrail/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic, OpenAI, Google battle threatens safe AIMarch 3, 2026 — Mar 3, 2026 - Technology SAFETY GUARDRAILS LOOSEN AS AI RIVALRIES GROWS...</p></details>
    Published: March 3, 2026  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=cB0_-qKbal4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cB0_-qKbal4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI &#x27;arms race&#x27; risks human extinction, warns top computing expert...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=cB0_-qKbal4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cB0_-qKbal4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI &#x27;arms race&#x27; risks human extinction, warns top computing expert...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: AI 'arms race' risks human extinction, warns top computing expert  
-   Link: <a href="https://www.youtube.com/watch?v=oqjy9roufKc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oqjy9roufKc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>America and China Are Racing to Different AI Futures...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oqjy9roufKc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oqjy9roufKc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>America and China Are Racing to Different AI Futures...</p></details>

@@ -269,7 +269,7 @@ image: /assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db
 
 ## Introduction
 
-When people see a headline claiming that AI researchers assign a 5%, 10%, or 20% chance to human extinction from advanced AI, it is easy to assume those numbers represent a stable expert consensus. In practice, p(doom) survey results are highly sensitive to how questions are asked. Small changes in wording, time horizon, definitions of catastrophe, or assumptions about AI control can shift responses substantially. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wiki.aiimpacts.org">[AI Impacts Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wiki.aiimpacts.org</span><span class="citation-popover-title">2023 expert survey on progress in ai</span><span class="citation-popover-snippet">AI Impacts Wiki2023 Expert Survey on Progress in AI17 Aug 2023 — “What probability do you put on human inability to control future advanc...</span></span></span>
+When people see a headline claiming that AI researchers assign a 5%, 10%, or 20% chance to human extinction from advanced AI, it is easy to assume those numbers represent a stable expert consensus. In practice, p(doom) survey results are highly sensitive to how questions are asked. Small changes in wording, time horizon, definitions of catastrophe, or assumptions about AI control can shift responses substantially.<span class="citation-chip-wrap"><a class="citation-chip" href="https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wiki.aiimpacts.org">[AI Impacts Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wiki.aiimpacts.org</span><span class="citation-popover-title">2023 expert survey on progress in ai</span><span class="citation-popover-snippet">AI Impacts Wiki2023 Expert Survey on Progress in AI17 Aug 2023 — “What probability do you put on human inability to control future advanc...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264_survey_framin_0cae06-Illustration-1-dark.svg" | relative_url }}" alt="Survey Framing illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264_survey_framin_0cae06-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264_survey_framin_0cae06-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This does not mean the surveys are meaningless. Rather, it means they are measuring a difficult and uncertain belief space. Researchers are asking experts to estimate unprecedented events involving future technologies, unclear timelines, and contested theories of AI alignment. The resulting numbers depend not only on what respondents believe, but also on how they interpret the survey itself. Understanding these framing effects is essential for interpreting expert forecasts about AI doom and existential risk.
@@ -278,9 +278,9 @@ This does not mean the surveys are meaningless. Rather, it means they are measur
 
 One of the most important design choices in AI risk surveys is defining the outcome being measured.
 
-Some surveys ask directly about **human extinction**, while others ask about broader outcomes such as “human extinction or similarly permanent and severe disempowerment of the human species”. That second formulation captures scenarios where humans survive biologically but permanently lose control over civilisation, political authority, economic power, or humanity's long-term future. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lesswrong.com/posts/RkegCmCgjGhskiFvm/ai-impacts-2023-expert-survey-on-progress-in-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lesswrong.com">[AI Impacts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lesswrong.com</span><span class="citation-popover-title">ai impacts 2023 expert survey on progress in ai</span><span class="citation-popover-snippet">AI Impacts 2023 Expert Survey on Progress in AI5 Jan 2024 — We asked about the likelihood that AI will cause human extinction us...</span></span></span>
+Some surveys ask directly about **human extinction**, while others ask about broader outcomes such as “human extinction or similarly permanent and severe disempowerment of the human species”. That second formulation captures scenarios where humans survive biologically but permanently lose control over civilisation, political authority, economic power, or humanity's long-term future.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lesswrong.com/posts/RkegCmCgjGhskiFvm/ai-impacts-2023-expert-survey-on-progress-in-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lesswrong.com">[AI Impacts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lesswrong.com</span><span class="citation-popover-title">ai impacts 2023 expert survey on progress in ai</span><span class="citation-popover-snippet">AI Impacts 2023 Expert Survey on Progress in AI5 Jan 2024 — We asked about the likelihood that AI will cause human extinction us...</span></span></span>
 
-This distinction matters because many AI safety researchers do not view extinction as the only existentially [catastrophic]({{ 'misuse/' | relative_url }}) outcome. A future in which highly capable AI systems permanently dominate human decision-making may be considered an existential loss even if humans remain alive. When surveys broaden the definition in this way, respondents may include a wider range of failure scenarios in their estimates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lesswrong.com/posts/RkegCmCgjGhskiFvm/ai-impacts-2023-expert-survey-on-progress-in-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lesswrong.com">[AI Impacts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lesswrong.com</span><span class="citation-popover-title">ai impacts 2023 expert survey on progress in ai</span><span class="citation-popover-snippet">AI Impacts 2023 Expert Survey on Progress in AI5 Jan 2024 — We asked about the likelihood that AI will cause human extinction us...</span></span></span>
+This distinction matters because many AI safety researchers do not view extinction as the only existentially [catastrophic]({{ 'misuse/' | relative_url }}) outcome. A future in which highly capable AI systems permanently dominate human decision-making may be considered an existential loss even if humans remain alive. When surveys broaden the definition in this way, respondents may include a wider range of failure scenarios in their estimates.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lesswrong.com/posts/RkegCmCgjGhskiFvm/ai-impacts-2023-expert-survey-on-progress-in-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lesswrong.com">[AI Impacts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lesswrong.com</span><span class="citation-popover-title">ai impacts 2023 expert survey on progress in ai</span><span class="citation-popover-snippet">AI Impacts 2023 Expert Survey on Progress in AI5 Jan 2024 — We asked about the likelihood that AI will cause human extinction us...</span></span></span>
 
 The wording also affects how respondents mentally construct examples:
 
@@ -306,7 +306,7 @@ A second version asked:
 
 > What probability do you put on human inability to control future advanced AI systems causing human extinction or similarly permanent and severe disempowerment?
 
-The results shifted noticeably. The first wording produced a median estimate of 5% and a mean estimate of 16.2%. The second wording produced a median estimate of 10% and a mean estimate of 19.4%. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wiki.aiimpacts.org">[AI Impacts Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wiki.aiimpacts.org</span><span class="citation-popover-title">2023 expert survey on progress in ai</span><span class="citation-popover-snippet">AI Impacts Wiki2023 Expert Survey on Progress in AI17 Aug 2023 — “What probability do you put on human inability to control future advanc...</span></span></span>
+The results shifted noticeably. The first wording produced a median estimate of 5% and a mean estimate of 16.2%. The second wording produced a median estimate of 10% and a mean estimate of 19.4%.<span class="citation-chip-wrap"><a class="citation-chip" href="https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wiki.aiimpacts.org">[AI Impacts Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wiki.aiimpacts.org</span><span class="citation-popover-title">2023 expert survey on progress in ai</span><span class="citation-popover-snippet">AI Impacts Wiki2023 Expert Survey on Progress in AI17 Aug 2023 — “What probability do you put on human inability to control future advanc...</span></span></span>
 
 The underlying event is similar, but the second question explicitly highlights **[loss of control]({{ 'loss-of-control/' | relative_url }})**. That wording directs respondents toward one of the central concerns in AI doom arguments: the possibility that advanced systems become difficult or impossible to supervise effectively.
 
@@ -325,7 +325,7 @@ The AI Impacts survey included versions that specified a 100-year horizon and ve
 1. Whether extremely powerful AI will ever be developed.
 2. Whether such systems would be catastrophically dangerous.
 
-Someone who expects transformative AI in the next decade may give a relatively high near-term risk estimate. Someone who expects such systems centuries from now may assign a much lower probability over the next hundred years while still believing eventual risks are serious. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wiki.aiimpacts.org">[AI Impacts Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wiki.aiimpacts.org</span><span class="citation-popover-title">2023 expert survey on progress in ai</span><span class="citation-popover-snippet">AI Impacts Wiki2023 Expert Survey on Progress in AI17 Aug 2023 — “What probability do you put on human inability to control future advanc...</span></span></span>
+Someone who expects transformative AI in the next decade may give a relatively high near-term risk estimate. Someone who expects such systems centuries from now may assign a much lower probability over the next hundred years while still believing eventual risks are serious.<span class="citation-chip-wrap"><a class="citation-chip" href="https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wiki.aiimpacts.org">[AI Impacts Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wiki.aiimpacts.org</span><span class="citation-popover-title">2023 expert survey on progress in ai</span><span class="citation-popover-snippet">AI Impacts Wiki2023 Expert Survey on Progress in AI17 Aug 2023 — “What probability do you put on human inability to control future advanc...</span></span></span>
 
 Time horizons also interact with forecasting psychology. Longer periods naturally accumulate more opportunities for failure. A respondent who thinks there is a small annual chance of catastrophe may report a much larger cumulative probability over a century than over a decade.
 
@@ -354,7 +354,7 @@ Several assumptions can alter responses:
 
 </div>
 
-The 2025 survey on expert disagreement over AI existential risk found that experts often diverge because they start from different conceptual models of AI itself. Some view advanced AI primarily as a controllable tool. Others view it as a potentially autonomous agent that could pursue goals independently of human intentions. These underlying models influence risk estimates before any numerical forecasting begins. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2502.14870v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Why do Experts Disagree on Existential Risk and P(doom)...23 Feb 2025 — I surveyed 111 AI experts on their familiarity with AI safe...</span></span></span>
+The 2025 survey on expert disagreement over AI existential risk found that experts often diverge because they start from different conceptual models of AI itself. Some view advanced AI primarily as a controllable tool. Others view it as a potentially autonomous agent that could pursue goals independently of human intentions. These underlying models influence risk estimates before any numerical forecasting begins.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2502.14870v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Why do Experts Disagree on Existential Risk and P(doom)...23 Feb 2025 — I surveyed 111 AI experts on their familiarity with AI safe...</span></span></span>
 
 A survey question that implicitly points respondents toward one model or the other can therefore shift aggregate results.
 
@@ -376,7 +376,7 @@ A general question about AI causing extinction can include many pathways:
 
 </div>
 
-A question specifically about **human inability to control advanced AI systems** narrows attention to alignment and [control failures]({{ 'control-failures/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wiki.aiimpacts.org">[AI Impacts Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wiki.aiimpacts.org</span><span class="citation-popover-title">2023 expert survey on progress in ai</span><span class="citation-popover-snippet">AI Impacts Wiki2023 Expert Survey on Progress in AI17 Aug 2023 — “What probability do you put on human inability to control future advanc...</span></span></span>
+A question specifically about **human inability to control advanced AI systems** narrows attention to alignment and [control failures]({{ 'control-failures/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wiki.aiimpacts.org">[AI Impacts Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wiki.aiimpacts.org</span><span class="citation-popover-title">2023 expert survey on progress in ai</span><span class="citation-popover-snippet">AI Impacts Wiki2023 Expert Survey on Progress in AI17 Aug 2023 — “What probability do you put on human inability to control future advanc...</span></span></span>
 
 This distinction matters because different experts find different pathways more plausible.
 
@@ -394,7 +394,7 @@ AI doom surveys often contain extremely skewed distributions. Many respondents g
 
 This means the **median** and **mean** can tell different stories.
 
-In the 2023 AI researcher survey, median responses around 5–10% coexisted with substantially higher mean values. A reader shown only the median might conclude that concern is modest. A reader shown only the mean might conclude that concern is widespread and severe. Both descriptions capture part of the same dataset. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wiki.aiimpacts.org">[AI Impacts Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wiki.aiimpacts.org</span><span class="citation-popover-title">2023 expert survey on progress in ai</span><span class="citation-popover-snippet">AI Impacts Wiki2023 Expert Survey on Progress in AI17 Aug 2023 — “What probability do you put on human inability to control future advanc...</span></span></span>
+In the 2023 AI researcher survey, median responses around 5–10% coexisted with substantially higher mean values. A reader shown only the median might conclude that concern is modest. A reader shown only the mean might conclude that concern is widespread and severe. Both descriptions capture part of the same dataset.<span class="citation-chip-wrap"><a class="citation-chip" href="https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wiki.aiimpacts.org">[AI Impacts Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wiki.aiimpacts.org</span><span class="citation-popover-title">2023 expert survey on progress in ai</span><span class="citation-popover-snippet">AI Impacts Wiki2023 Expert Survey on Progress in AI17 Aug 2023 — “What probability do you put on human inability to control future advanc...</span></span></span>
 
 Presentation choices therefore become a secondary framing effect. Media reports often emphasise whichever statistic produces a more striking headline.
 
@@ -409,15 +409,15 @@ Multiple-question designs help reveal:
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * Whether respondents are sensitive to control-focused language.
-* Whether extinction-only definitions differ from broader existential-risk definitions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.normaltech.ai/p/ai-existential-risk-probabilities" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: normaltech.ai">[normaltech.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">normaltech.ai</span><span class="citation-popover-title">ai existential risk probabilities</span><span class="citation-popover-snippet">are too unreliable to inform policy26 Jul 2024 — On the one hand, existential risks (x-risks) are necessarily somewhat speculative: by th...</span></span></span>
+* Whether extinction-only definitions differ from broader existential-risk definitions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.normaltech.ai/p/ai-existential-risk-probabilities" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: normaltech.ai">[normaltech.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">normaltech.ai</span><span class="citation-popover-title">ai existential risk probabilities</span><span class="citation-popover-snippet">are too unreliable to inform policy26 Jul 2024 — On the one hand, existential risks (x-risks) are necessarily somewhat speculative: by th...</span></span></span>
 * Whether time horizons drive large changes in estimates.
 * Whether respondents interpret key concepts consistently.
 
 </div>
 
-The AI Impacts surveys are notable partly because they expose these framing effects rather than hiding them. By publishing multiple variants, they show how much [uncertainty]({{ 'uncertainty/' | relative_url }}) exists in the measurement process itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lesswrong.com/posts/RkegCmCgjGhskiFvm/ai-impacts-2023-expert-survey-on-progress-in-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lesswrong.com">[LessWrong]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lesswrong.com</span><span class="citation-popover-title">ai impacts 2023 expert survey on progress in ai</span><span class="citation-popover-snippet">AI Impacts 2023 Expert Survey on Progress in AI5 Jan 2024 — We asked about the likelihood that AI will cause human extinction us...</span></span></span>
+The AI Impacts surveys are notable partly because they expose these framing effects rather than hiding them. By publishing multiple variants, they show how much [uncertainty]({{ 'uncertainty/' | relative_url }}) exists in the measurement process itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lesswrong.com/posts/RkegCmCgjGhskiFvm/ai-impacts-2023-expert-survey-on-progress-in-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lesswrong.com">[LessWrong]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lesswrong.com</span><span class="citation-popover-title">ai impacts 2023 expert survey on progress in ai</span><span class="citation-popover-snippet">AI Impacts 2023 Expert Survey on Progress in AI5 Jan 2024 — We asked about the likelihood that AI will cause human extinction us...</span></span></span>
 
-For readers, this is often more informative than a single headline number. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2401.02843v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">More than half...Read more...</span></span></span>
+For readers, this is often more informative than a single headline number.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2401.02843v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">More than half...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264_survey_framin_0cae06-Illustration-3-dark.svg" | relative_url }}" alt="Survey Framing illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264_survey_framin_0cae06-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_p_doom_estima_72d1f2_expert_survey_db7264_survey_framin_0cae06-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Does Framing Mean the Surveys Are Unreliable?
@@ -444,281 +444,281 @@ They are structured judgements produced under uncertainty. The exact number depe
 * Which scenarios are included.
 * Whether control failures are emphasised.
 * What timeframe is specified.
-* Which experts are surveyed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2502.14870v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Why do Experts Disagree on Existential Risk and P(doom)...23 Feb 2025 — I surveyed 111 AI experts on their familiarity with AI safe...</span></span></span>
+* Which experts are surveyed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2502.14870v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Why do Experts Disagree on Existential Risk and P(doom)...23 Feb 2025 — I surveyed 111 AI experts on their familiarity with AI safe...</span></span></span>
 * How results are summarised and reported.
 
 </div>
 
-When one survey reports a median p(doom) of 5% and another reports 10% or higher, that does not necessarily indicate a dramatic shift in expert opinion. Sometimes it reflects a different question being asked. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wiki.aiimpacts.org">[AI Impacts Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wiki.aiimpacts.org</span><span class="citation-popover-title">2023 expert survey on progress in ai</span><span class="citation-popover-snippet">AI Impacts Wiki2023 Expert Survey on Progress in AI17 Aug 2023 — “What probability do you put on human inability to control future advanc...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wiki.aiimpacts.org">[AI Impacts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wiki.aiimpacts.org</span><span class="citation-popover-title">2023 expert survey on progress in ai</span><span class="citation-popover-snippet">AI Impacts Wiki2023 Expert Survey on Progress in AI17 Aug 2023 — “What probability do you put on human inability to control future advanc...</span></span></span>
+When one survey reports a median p(doom) of 5% and another reports 10% or higher, that does not necessarily indicate a dramatic shift in expert opinion. Sometimes it reflects a different question being asked.<span class="citation-chip-wrap"><a class="citation-chip" href="https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wiki.aiimpacts.org">[AI Impacts Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wiki.aiimpacts.org</span><span class="citation-popover-title">2023 expert survey on progress in ai</span><span class="citation-popover-snippet">AI Impacts Wiki2023 Expert Survey on Progress in AI17 Aug 2023 — “What probability do you put on human inability to control future advanc...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wiki.aiimpacts.org">[AI Impacts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wiki.aiimpacts.org</span><span class="citation-popover-title">2023 expert survey on progress in ai</span><span class="citation-popover-snippet">AI Impacts Wiki2023 Expert Survey on Progress in AI17 Aug 2023 — “What probability do you put on human inability to control future advanc...</span></span></span>
 
 For discussions of AI doom, the most informative takeaway is often not the precise percentage. It is the fact that substantial numbers of AI researchers assign non-trivial probabilities to catastrophic outcomes across a range of survey framings, while also disagreeing sharply about which assumptions justify those estimates. The wording of the question does not create that disagreement, but it often reveals where the deepest uncertainties lie.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GWT1IXVu6rA" title="AI Risk Forecasting in Plain English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GWT1IXVu6rA" target="_blank" rel="noopener noreferrer">AI Risk Forecasting in Plain English</a></p><p class="youtube-embed-meta">Channel: StratEngine AI &middot; Uploaded: May 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GWT1IXVu6rA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GWT1IXVu6rA">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Survey Design Shapes AI Doom Predictions. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Survey Design Shapes AI Doom Predictions. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains framing effects and biases relevant to survey design.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains framing effects and biases relevant to survey design.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-        </h4>
-        <p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+</h4>
+<p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
         
-        <p class="fr-book-desc">Relevant to probability elicitation and survey interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to probability elicitation and survey interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4qWFDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Statistics">The Art of Statistics</a>
-        </h4>
-        <p class="fr-book-author">By David Spiegelhalter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4qWFDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Statistics">The Art of Statistics</a>
+</h4>
+<p class="fr-book-author">By David Spiegelhalter</p>
         
-        <p class="fr-book-desc">Helps readers understand uncertainty and interpretation of survey results.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand uncertainty and interpretation of survey results.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Noise+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_KujzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Noise+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Noise">Noise</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman, Olivier Sibony et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Noise+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_KujzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Noise+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Noise">Noise</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman, Olivier Sibony et al.</p>
         
-        <p class="fr-book-desc">Examines variation in judgments caused by framing and context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Noise+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines variation in judgments caused by framing and context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Noise+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Statistics</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Statistics</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Computer SYMBOLICS LISP machine AI 3D dolphin 1987 1980s 1990s poster"><img src="{{ '/assets/images/marketplace-covers/79dbace2673a2ff1be66.jpg' | relative_url }}" alt="Listing image for Vintage Computer SYMBOLICS LISP machine AI 3D dolphin 1987 1980s 1990s poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Computer SYMBOLICS LISP machine AI 3D dolphin 1987 1980s 1990s poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search <span data-ebay-domain-label>eBay.com</span>: AI poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-ai-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Computer SYMBOLICS LISP machine AI 3D dolphin 1987 1980s 1990s poster"><img src="{{ '/assets/images/marketplace-covers/79dbace2673a2ff1be66.jpg' | relative_url }}" alt="Listing image for Vintage Computer SYMBOLICS LISP machine AI 3D dolphin 1987 1980s 1990s poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Computer SYMBOLICS LISP machine AI 3D dolphin 1987 1980s 1990s poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search<span data-ebay-domain-label>eBay.com</span>: AI poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-ai-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Allen Iverson Ai Poster or Canvas - Allen Iverson Wall Art Decor"><img src="{{ '/assets/images/marketplace-covers/7bb936127fcca8b5cc60.jpg' | relative_url }}" alt="Listing image for Allen Iverson Ai Poster or Canvas - Allen Iverson Wall Art Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Allen Iverson Ai Poster or Canvas - Allen Iverson Wall Art Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search <span data-ebay-domain-label>eBay.com</span>: AI poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-ai-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Allen Iverson Ai Poster or Canvas - Allen Iverson Wall Art Decor"><img src="{{ '/assets/images/marketplace-covers/7bb936127fcca8b5cc60.jpg' | relative_url }}" alt="Listing image for Allen Iverson Ai Poster or Canvas - Allen Iverson Wall Art Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Allen Iverson Ai Poster or Canvas - Allen Iverson Wall Art Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search<span data-ebay-domain-label>eBay.com</span>: AI poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-ai-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PRINCESS 24&quot;X36&quot; CANVAS/PAPER POSTER NSFW CUSTOMIZABLE QUALITY ART PRINTS"><img src="{{ '/assets/images/marketplace-covers/607b3e7eda16944efdf2.jpg' | relative_url }}" alt="Listing image for PRINCESS 24&quot;X36&quot; CANVAS/PAPER POSTER NSFW CUSTOMIZABLE QUALITY ART PRINTS" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">PRINCESS 24&quot;X36&quot; CANVAS/PAPER POSTER NSFW CUSTOMIZABLE QUALITY ART PRINTS</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search <span data-ebay-domain-label>eBay.com</span>: AI poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-ai-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PRINCESS 24&quot;X36&quot; CANVAS/PAPER POSTER NSFW CUSTOMIZABLE QUALITY ART PRINTS"><img src="{{ '/assets/images/marketplace-covers/607b3e7eda16944efdf2.jpg' | relative_url }}" alt="Listing image for PRINCESS 24&quot;X36&quot; CANVAS/PAPER POSTER NSFW CUSTOMIZABLE QUALITY ART PRINTS" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">PRINCESS 24&quot;X36&quot; CANVAS/PAPER POSTER NSFW CUSTOMIZABLE QUALITY ART PRINTS</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search<span data-ebay-domain-label>eBay.com</span>: AI poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-ai-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dolly Parton AI Art 11 x 14&quot; Photo Print"><img src="{{ '/assets/images/marketplace-covers/c946da3aa28e19846af8.jpg' | relative_url }}" alt="Listing image for Dolly Parton AI Art 11 x 14&quot; Photo Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Dolly Parton AI Art 11 x 14&quot; Photo Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search <span data-ebay-domain-label>eBay.com</span>: AI poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-ai-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dolly Parton AI Art 11 x 14&quot; Photo Print"><img src="{{ '/assets/images/marketplace-covers/c946da3aa28e19846af8.jpg' | relative_url }}" alt="Listing image for Dolly Parton AI Art 11 x 14&quot; Photo Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Dolly Parton AI Art 11 x 14&quot; Photo Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search<span data-ebay-domain-label>eBay.com</span>: AI poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-ai-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery"><img src="{{ '/assets/images/marketplace-covers/fe6f721a300e36459934.jpg' | relative_url }}" alt="Listing image for A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery"><img src="{{ '/assets/images/marketplace-covers/fe6f721a300e36459934.jpg' | relative_url }}" alt="Listing image for A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. Artificial Intelligence Movie Film Poster Art Print"><img src="{{ '/assets/images/marketplace-covers/fb76514b204d73a37317.jpg' | relative_url }}" alt="Listing image for A.I. Artificial Intelligence Movie Film Poster Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A.I. Artificial Intelligence Movie Film Poster Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. Artificial Intelligence Movie Film Poster Art Print"><img src="{{ '/assets/images/marketplace-covers/fb76514b204d73a37317.jpg' | relative_url }}" alt="Listing image for A.I. Artificial Intelligence Movie Film Poster Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A.I. Artificial Intelligence Movie Film Poster Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster"><img src="{{ '/assets/images/marketplace-covers/000874dca6d2fcc04da4.jpg' | relative_url }}" alt="Listing image for A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster"><img src="{{ '/assets/images/marketplace-covers/000874dca6d2fcc04da4.jpg' | relative_url }}" alt="Listing image for A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray"><img src="{{ '/assets/images/marketplace-covers/3c3ecd285cbeae3cd708.jpg' | relative_url }}" alt="Listing image for AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray"><img src="{{ '/assets/images/marketplace-covers/3c3ecd285cbeae3cd708.jpg' | relative_url }}" alt="Listing image for AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-framing-how-survey-design-shapes-ai-doom-predictions-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -734,7 +734,7 @@ For discussions of AI doom, the most informative takeaway is often not the preci
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -754,7 +754,7 @@ For discussions of AI doom, the most informative takeaway is often not the preci
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -786,7 +786,7 @@ For discussions of AI doom, the most informative takeaway is often not the preci
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -816,7 +816,7 @@ For discussions of AI doom, the most informative takeaway is often not the preci
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -874,148 +874,148 @@ For discussions of AI doom, the most informative takeaway is often not the preci
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2502.14870v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.14870v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why do Experts Disagree on Existential Risk and P(doom)...23 Feb 2025 — I surveyed 111 AI experts on their familiarity with AI safe...</p></details>
+   Link:<a href="https://arxiv.org/html/2502.14870v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.14870v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why do Experts Disagree on Existential Risk and P(doom)...23 Feb 2025 — I surveyed 111 AI experts on their familiarity with AI safe...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2502.14870" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.14870</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why do Experts Disagree on Existential Risk and P(doom)...by S Field · 2025 · Cited by 8 — I surveyed 111 AI experts on their familiarit...</p></details>
+   Link:<a href="https://arxiv.org/abs/2502.14870" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.14870</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why do Experts Disagree on Existential Risk and P(doom)...by S Field · 2025 · Cited by 8 — I surveyed 111 AI experts on their familiarit...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: lesswrong.com  
    Title: ai impacts 2023 expert survey on progress in ai  
-   Link: <a href="https://www.lesswrong.com/posts/RkegCmCgjGhskiFvm/ai-impacts-2023-expert-survey-on-progress-in-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/posts/RkegCmCgjGhskiFvm/ai-impacts-2023-expert-survey-on-progress-in-ai</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Impacts 2023 Expert Survey on Progress in AI5 Jan 2024 — We asked about the likelihood that AI will cause human extinction us...</p></details>
+   Link:<a href="https://www.lesswrong.com/posts/RkegCmCgjGhskiFvm/ai-impacts-2023-expert-survey-on-progress-in-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/posts/RkegCmCgjGhskiFvm/ai-impacts-2023-expert-survey-on-progress-in-ai</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Impacts 2023 Expert Survey on Progress in AI5 Jan 2024 — We asked about the likelihood that AI will cause human extinction us...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2401.02843v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2401.02843v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>More than half...Read more...</p></details>
+   Link:<a href="https://arxiv.org/html/2401.02843v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2401.02843v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>More than half...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: lesswrong.com  
    Title: ai impacts survey december 2023 edition  
-   Link: <a href="https://www.lesswrong.com/posts/NfPxAp5uwgZugwovY/ai-impacts-survey-december-2023-edition" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/posts/NfPxAp5uwgZugwovY/ai-impacts-survey-december-2023-edition</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Impacts Survey: December 2023 Edition5 Jan 2024 — In Figure 13&#x27;s question 3, we have 14.4% mean chance of either human extinction or s...</p></details>
+   Link:<a href="https://www.lesswrong.com/posts/NfPxAp5uwgZugwovY/ai-impacts-survey-december-2023-edition" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/posts/NfPxAp5uwgZugwovY/ai-impacts-survey-december-2023-edition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Impacts Survey: December 2023 Edition5 Jan 2024 — In Figure 13&#x27;s question 3, we have 14.4% mean chance of either human extinction or s...</p></details>
    Published: december 2023  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: wiki.aiimpacts.org  
    Title: 2023 expert survey on progress in ai  
-   Link: <a href="https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai" target="_blank" rel="noopener noreferrer nofollow">https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Impacts Wiki2023 Expert Survey on Progress in AI17 Aug 2023 — “What probability do you put on human inability to control future advanc...</p></details>
+   Link:<a href="https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai" target="_blank" rel="noopener noreferrer nofollow">https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Impacts Wiki2023 Expert Survey on Progress in AI17 Aug 2023 — “What probability do you put on human inability to control future advanc...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: blog.aiimpacts.org  
-   Link: <a href="https://blog.aiimpacts.org/p/faq-expert-survey-on-progress-in" target="_blank" rel="noopener noreferrer nofollow">https://blog.aiimpacts.org/p/faq-expert-survey-on-progress-in</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Impacts BlogFAQ: Expert Survey on Progress in AI methodology31 Oct 2025 — What probability do you put on future AI advances causing hu...</p></details>
+   Link:<a href="https://blog.aiimpacts.org/p/faq-expert-survey-on-progress-in" target="_blank" rel="noopener noreferrer nofollow">https://blog.aiimpacts.org/p/faq-expert-survey-on-progress-in</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Impacts BlogFAQ: Expert Survey on Progress in AI methodology31 Oct 2025 — What probability do you put on future AI advances causing hu...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aiimpacts.org  
    Title: Thousands of AI authors on the future of AI  
-   Link: <a href="https://aiimpacts.org/wp-content/uploads/2023/04/Thousands_of_AI_authors_on_the_future_of_AI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiimpacts.org/wp-content/uploads/2023/04/Thousands_of_AI_authors_on_the_future_of_AI.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI ImpactsTHOUSANDS OF AI AUTHORS ON THE FUTURE OF AIby K Grace · 2024 · Cited by 208 — Question 1: What probability do you put on future...</p></details>
+   Link:<a href="https://aiimpacts.org/wp-content/uploads/2023/04/Thousands_of_AI_authors_on_the_future_of_AI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiimpacts.org/wp-content/uploads/2023/04/Thousands_of_AI_authors_on_the_future_of_AI.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI ImpactsTHOUSANDS OF AI AUTHORS ON THE FUTURE OF AIby K Grace · 2024 · Cited by 208 — Question 1: What probability do you put on future...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aiimpacts.org  
    Title: how bad a future do ml researchers expect  
-   Link: <a href="https://aiimpacts.org/how-bad-a-future-do-ml-researchers-expect/" target="_blank" rel="noopener noreferrer nofollow">https://aiimpacts.org/how-bad-a-future-do-ml-researchers-expect/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>?8 Mar 2023 — To check, we added two more questions in 2022 explicitly about &#x27;human extinction or similarly permanent and severe disempow...</p></details>
+   Link:<a href="https://aiimpacts.org/how-bad-a-future-do-ml-researchers-expect/" target="_blank" rel="noopener noreferrer nofollow">https://aiimpacts.org/how-bad-a-future-do-ml-researchers-expect/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?8 Mar 2023 — To check, we added two more questions in 2022 explicitly about &#x27;human extinction or similarly permanent and severe disempow...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aiimpacts.org  
    Title: what do ml researchers think about ai in 2022  
-   Link: <a href="https://aiimpacts.org/what-do-ml-researchers-think-about-ai-in-2022/" target="_blank" rel="noopener noreferrer nofollow">https://aiimpacts.org/what-do-ml-researchers-think-about-ai-in-2022/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>?4 Aug 2022 — The median respondent&#x27;s probability of x-risk from humans failing to control AI was 10%, weirdly more than median chance of...</p></details>
+   Link:<a href="https://aiimpacts.org/what-do-ml-researchers-think-about-ai-in-2022/" target="_blank" rel="noopener noreferrer nofollow">https://aiimpacts.org/what-do-ml-researchers-think-about-ai-in-2022/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?4 Aug 2022 — The median respondent&#x27;s probability of x-risk from humans failing to control AI was 10%, weirdly more than median chance of...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: blog.aiimpacts.org  
    Title: how bad a future do ml researchers  
-   Link: <a href="https://blog.aiimpacts.org/p/how-bad-a-future-do-ml-researchers" target="_blank" rel="noopener noreferrer nofollow">https://blog.aiimpacts.org/p/how-bad-a-future-do-ml-researchers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>bad a future do ML researchers expect?10 May 2023 — To check, we added two more questions in 2022 explicitly about &#x27;human extinction or s...</p></details>
+   Link:<a href="https://blog.aiimpacts.org/p/how-bad-a-future-do-ml-researchers" target="_blank" rel="noopener noreferrer nofollow">https://blog.aiimpacts.org/p/how-bad-a-future-do-ml-researchers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>bad a future do ML researchers expect?10 May 2023 — To check, we added two more questions in 2022 explicitly about &#x27;human extinction or s...</p></details>
    Published: May 2023  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: thezvi.substack.com  
    Title: ai impacts survey december 2023 edition  
-   Link: <a href="https://thezvi.substack.com/p/ai-impacts-survey-december-2023-edition" target="_blank" rel="noopener noreferrer nofollow">https://thezvi.substack.com/p/ai-impacts-survey-december-2023-edition</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Impacts Survey: December 2023 Edition - Zvi MowshowitzIn Figure 13&#x27;s question 3, we have 14.4% mean chance of either human extinction or...</p></details>
+   Link:<a href="https://thezvi.substack.com/p/ai-impacts-survey-december-2023-edition" target="_blank" rel="noopener noreferrer nofollow">https://thezvi.substack.com/p/ai-impacts-survey-december-2023-edition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Impacts Survey: December 2023 Edition - Zvi MowshowitzIn Figure 13&#x27;s question 3, we have 14.4% mean chance of either human extinction or...</p></details>
    Published: december 2023  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/P%28doom%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/P%28doom%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>P(doom)In a 2023 survey, AI researchers were asked to estimate the probability that future AI advancements could lead to human extinct...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/P%28doom%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/P%28doom%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>P(doom)In a 2023 survey, AI researchers were asked to estimate the probability that future AI advancements could lead to human extinct...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: blog.biocomm.ai  
-   Link: <a href="https://blog.biocomm.ai/2024/02/25/ai-impacts-report-thousands-of-ai-authors-on-the-future-of-ai-38participants-put-at-least-a-10-chance-on-extremely-bad-outcomes-e-g-human-extinction-january-2024/" target="_blank" rel="noopener noreferrer nofollow">https://blog.biocomm.ai/2024/02/25/ai-impacts-report-thousands-of-ai-authors-on-the-future-of-ai-38participants-put-at-least-a-10-chance-on-extremely-bad-outcomes-e-g-human-extinction-january-2024/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>biocomm.ai38% of participants put at least a 10% chance on extremely...25 Feb 2024 — AI Impacts Report January 2024 · THOUSANDS OF AI AU...</p></details>
+   Link:<a href="https://blog.biocomm.ai/2024/02/25/ai-impacts-report-thousands-of-ai-authors-on-the-future-of-ai-38participants-put-at-least-a-10-chance-on-extremely-bad-outcomes-e-g-human-extinction-january-2024/" target="_blank" rel="noopener noreferrer nofollow">https://blog.biocomm.ai/2024/02/25/ai-impacts-report-thousands-of-ai-authors-on-the-future-of-ai-38participants-put-at-least-a-10-chance-on-extremely-bad-outcomes-e-g-human-extinction-january-2024/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>biocomm.ai38% of participants put at least a 10% chance on extremely...25 Feb 2024 — AI Impacts Report January 2024 · THOUSANDS OF AI AU...</p></details>
    Published: January 2024  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: normaltech.ai  
    Title: ai existential risk probabilities  
-   Link: <a href="https://www.normaltech.ai/p/ai-existential-risk-probabilities" target="_blank" rel="noopener noreferrer nofollow">https://www.normaltech.ai/p/ai-existential-risk-probabilities</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>are too unreliable to inform policy26 Jul 2024 — On the one hand, existential risks (x-risks) are necessarily somewhat speculative: by th...</p></details>
+   Link:<a href="https://www.normaltech.ai/p/ai-existential-risk-probabilities" target="_blank" rel="noopener noreferrer nofollow">https://www.normaltech.ai/p/ai-existential-risk-probabilities</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>are too unreliable to inform policy26 Jul 2024 — On the one hand, existential risks (x-risks) are necessarily somewhat speculative: by th...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/thesaurus/impact" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/thesaurus/impact</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IMPACT Synonyms: 193 Similar and Opposite WordsSynonyms for IMPACT: effect, influence, consequence, repercussion, sway, importance, signi...</p></details>
+   Link:<a href="https://www.merriam-webster.com/thesaurus/impact" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/thesaurus/impact</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IMPACT Synonyms: 193 Similar and Opposite WordsSynonyms for IMPACT: effect, influence, consequence, repercussion, sway, importance, signi...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: impact.org.uk  
-   Link: <a href="https://impact.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://impact.org.uk/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Improving health, preventing disabilityIMPACT&#x27;s partners around the world take action to prevent and treat needless disability a...</p></details>
+   Link:<a href="https://impact.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://impact.org.uk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Improving health, preventing disabilityIMPACT&#x27;s partners around the world take action to prevent and treat needless disability a...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: collinsdictionary.com  
-   Link: <a href="https://www.collinsdictionary.com/dictionary/english/impact" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/impact</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the striking of one thing against another; forceful contact; collision · 2. an impinging · 3. influence; effect · 4. an...Read more...</p></details>
+   Link:<a href="https://www.collinsdictionary.com/dictionary/english/impact" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/impact</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the striking of one thing against another; forceful contact; collision · 2. an impinging · 3. influence; effect · 4. an...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: forum.effectivealtruism.org  
    Title: the argument for near term human disempowerment through ai  
-   Link: <a href="https://forum.effectivealtruism.org/posts/CcAuHCXDLjCH4bGyD/the-argument-for-near-term-human-disempowerment-through-ai" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/CcAuHCXDLjCH4bGyD/the-argument-for-near-term-human-disempowerment-through-ai</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>argument for near-term human disempowerment...16 Apr 2024 — This paper provides an argument that AI will lead to the permanent disempowe...</p></details>
+   Link:<a href="https://forum.effectivealtruism.org/posts/CcAuHCXDLjCH4bGyD/the-argument-for-near-term-human-disempowerment-through-ai" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/CcAuHCXDLjCH4bGyD/the-argument-for-near-term-human-disempowerment-through-ai</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>argument for near-term human disempowerment...16 Apr 2024 — This paper provides an argument that AI will lead to the permanent disempowe...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
    Title: 396256646 Thousands of AI Authors on the Future of AI  
-   Link: <a href="https://www.researchgate.net/publication/396256646_Thousands_of_AI_Authors_on_the_Future_of_AI" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396256646_Thousands_of_AI_Authors_on_the_Future_of_AI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI advances. causing human extinction or similarly permanent and severe. disempowerment of the human species? Question 2: What probabilit...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/396256646_Thousands_of_AI_Authors_on_the_Future_of_AI" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396256646_Thousands_of_AI_Authors_on_the_Future_of_AI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI advances. causing human extinction or similarly permanent and severe. disempowerment of the human species? Question 2: What probabilit...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/spoiler-only-5-chance-human-extinction-because-ai-other-stave-phd-ppmee" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/spoiler-only-5-chance-human-extinction-because-ai-other-stave-phd-ppmee</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>cal guardrails, and fostering international cooperation to prevent...Read more...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/spoiler-only-5-chance-human-extinction-because-ai-other-stave-phd-ppmee" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/spoiler-only-5-chance-human-extinction-because-ai-other-stave-phd-ppmee</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cal guardrails, and fostering international cooperation to prevent...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: forum.effectivealtruism.org  
    Title: survey of 2 778 ai authors six parts in pictures  
-   Link: <a href="https://forum.effectivealtruism.org/posts/M9MSe4KHNv4HNf44f/survey-of-2-778-ai-authors-six-parts-in-pictures" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/M9MSe4KHNv4HNf44f/survey-of-2-778-ai-authors-six-parts-in-pictures</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Median respondents put 5% or more on advanced AI leading to human extinction or similar, and a third to a half of participants gave 10% o...</p></details>
+   Link:<a href="https://forum.effectivealtruism.org/posts/M9MSe4KHNv4HNf44f/survey-of-2-778-ai-authors-six-parts-in-pictures" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/M9MSe4KHNv4HNf44f/survey-of-2-778-ai-authors-six-parts-in-pictures</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Median respondents put 5% or more on advanced AI leading to human extinction or similar, and a third to a half of participants gave 10% o...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: researchgate.net  
    Title: Why do experts disagree on existential risk?  
-   Link: <a href="https://www.researchgate.net/publication/392941122_Why_do_experts_disagree_on_existential_risk_A_survey_of_AI_experts" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392941122_Why_do_experts_disagree_on_existential_risk_A_survey_of_AI_experts</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A survey of AI...23 Jun 2025 — Leading AI labs and scientists have called for the global prioritization of AI safety, citing existential...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/392941122_Why_do_experts_disagree_on_existential_risk_A_survey_of_AI_experts" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392941122_Why_do_experts_disagree_on_existential_risk_A_survey_of_AI_experts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A survey of AI...23 Jun 2025 — Leading AI labs and scientists have called for the global prioritization of AI safety, citing existential...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: asterisk.dynevor.org  
    Title: Asterisk Risk from artificial intelligence  
-   Link: <a href="https://asterisk.dynevor.org/risk-from-artificial-intelligence.html" target="_blank" rel="noopener noreferrer nofollow">https://asterisk.dynevor.org/risk-from-artificial-intelligence.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>from artificial intelligence - Asterisk - Matthew Brett1 May 2023 — 50% gave a 10% chance or higher of “human inability to control future...</p></details>
+   Link:<a href="https://asterisk.dynevor.org/risk-from-artificial-intelligence.html" target="_blank" rel="noopener noreferrer nofollow">https://asterisk.dynevor.org/risk-from-artificial-intelligence.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>from artificial intelligence - Asterisk - Matthew Brett1 May 2023 — 50% gave a 10% chance or higher of “human inability to control future...</p></details>
    Published: May 2023  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/Why-do-Experts-Disagree-on-Existential-Risk-and-A-Field/38f774f51534dd13cea1137c4a347b046f741b66" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Why-do-Experts-Disagree-on-Existential-Risk-and-A-Field/38f774f51534dd13cea1137c4a347b046f741b66</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s · 7 Citations · 29 References.Read more...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/Why-do-Experts-Disagree-on-Existential-Risk-and-A-Field/38f774f51534dd13cea1137c4a347b046f741b66" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Why-do-Experts-Disagree-on-Existential-Risk-and-A-Field/38f774f51534dd13cea1137c4a347b046f741b66</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s · 7 Citations · 29 References.Read more...</p></details>

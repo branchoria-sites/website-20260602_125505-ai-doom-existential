@@ -330,269 +330,269 @@ Capability thresholds have emerged as one of the **most tractable governance too
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Z19UEZHJzAg" title="By 2050 we could get &quot;10,000 years of technological progress&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Z19UEZHJzAg" target="_blank" rel="noopener noreferrer">By 2050 we could get &quot;10,000 years of technological progress&quot;</a></p><p class="youtube-embed-meta">Channel: 80,000 Hours &middot; Views: 39.9K &middot; Uploaded: February 2026 &middot; Length: 2 hours 57 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Z19UEZHJzAg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Z19UEZHJzAg">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When should AI labs be forced to pause?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When should AI labs be forced to pause?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Russell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
+</h4>
+<p class="fr-book-author">By Stuart Russell</p>
         
-        <p class="fr-book-desc">Explores when advanced capabilities require stronger safeguards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores when advanced capabilities require stronger safeguards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
-        </h4>
-        <p class="fr-book-author">By Brian Christian</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
+</h4>
+<p class="fr-book-author">By Brian Christian</p>
         
-        <p class="fr-book-desc">Explains measurement and evaluation challenges around dangerous capabilities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains measurement and evaluation challenges around dangerous capabilities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superintelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7_H8AwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superintelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superintelligence">Superintelligence</a>
-        </h4>
-        <p class="fr-book-author">By Nick Bostrom</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superintelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7_H8AwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superintelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superintelligence">Superintelligence</a>
+</h4>
+<p class="fr-book-author">By Nick Bostrom</p>
         
-        <p class="fr-book-desc">Examines capability milestones that could justify intervention or pauses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines capability milestones that could justify intervention or pauses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
-        </h4>
-        <p class="fr-book-author">By Mustafa Suleyman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
+</h4>
+<p class="fr-book-author">By Mustafa Suleyman</p>
         
-        <p class="fr-book-desc">Discusses thresholds, containment, and when intervention becomes necessary.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses thresholds, containment, and when intervention becomes necessary.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superintelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superintelligence</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Superintelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superintelligence</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Matserpi Robotic Arm Car Kit for Raspberry Pi - AI Vision, 5DOF, Educational Rob"><img src="{{ '/assets/images/marketplace-covers/51354845bd593a6ad015.jpg' | relative_url }}" alt="Listing image for Matserpi Robotic Arm Car Kit for Raspberry Pi - AI Vision, 5DOF, Educational Rob" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Matserpi Robotic Arm Car Kit for Raspberry Pi - AI Vision, 5DOF, Educational Rob</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI robot kit">Search <span data-ebay-domain-label>eBay.com</span>: AI robot kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-ai-robot-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Matserpi Robotic Arm Car Kit for Raspberry Pi - AI Vision, 5DOF, Educational Rob"><img src="{{ '/assets/images/marketplace-covers/51354845bd593a6ad015.jpg' | relative_url }}" alt="Listing image for Matserpi Robotic Arm Car Kit for Raspberry Pi - AI Vision, 5DOF, Educational Rob" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Matserpi Robotic Arm Car Kit for Raspberry Pi - AI Vision, 5DOF, Educational Rob</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI robot kit">Search<span data-ebay-domain-label>eBay.com</span>: AI robot kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-ai-robot-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Picrawler AI Robot Kit for Raspberry Pi with Voice Control &amp; Video Recognition"><img src="{{ '/assets/images/marketplace-covers/0d24915afcae68c097e0.jpg' | relative_url }}" alt="Listing image for Picrawler AI Robot Kit for Raspberry Pi with Voice Control &amp; Video Recognition" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Picrawler AI Robot Kit for Raspberry Pi with Voice Control &amp; Video Recognition</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI robot kit">Search <span data-ebay-domain-label>eBay.com</span>: AI robot kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-ai-robot-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Picrawler AI Robot Kit for Raspberry Pi with Voice Control &amp; Video Recognition"><img src="{{ '/assets/images/marketplace-covers/0d24915afcae68c097e0.jpg' | relative_url }}" alt="Listing image for Picrawler AI Robot Kit for Raspberry Pi with Voice Control &amp; Video Recognition" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Picrawler AI Robot Kit for Raspberry Pi with Voice Control &amp; Video Recognition</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI robot kit">Search<span data-ebay-domain-label>eBay.com</span>: AI robot kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-ai-robot-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UGV Beast PI4B AI Kit Opensource Off-Road Tracked AI Robot PC Vision"><img src="{{ '/assets/images/marketplace-covers/a4dd91f6bceeae51707e.jpg' | relative_url }}" alt="Listing image for UGV Beast PI4B AI Kit Opensource Off-Road Tracked AI Robot PC Vision" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UGV Beast PI4B AI Kit Opensource Off-Road Tracked AI Robot PC Vision</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI robot kit">Search <span data-ebay-domain-label>eBay.com</span>: AI robot kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-ai-robot-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UGV Beast PI4B AI Kit Opensource Off-Road Tracked AI Robot PC Vision"><img src="{{ '/assets/images/marketplace-covers/a4dd91f6bceeae51707e.jpg' | relative_url }}" alt="Listing image for UGV Beast PI4B AI Kit Opensource Off-Road Tracked AI Robot PC Vision" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UGV Beast PI4B AI Kit Opensource Off-Road Tracked AI Robot PC Vision</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI robot kit">Search<span data-ebay-domain-label>eBay.com</span>: AI robot kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-ai-robot-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TurboPi Smart Robot Car Kit Vision AI Robot-Hiwonder 2DOF HD Cam for Raspberry"><img src="{{ '/assets/images/marketplace-covers/6febc37663a27a71e69e.jpg' | relative_url }}" alt="Listing image for TurboPi Smart Robot Car Kit Vision AI Robot-Hiwonder 2DOF HD Cam for Raspberry" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TurboPi Smart Robot Car Kit Vision AI Robot-Hiwonder 2DOF HD Cam for Raspberry</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI robot kit">Search <span data-ebay-domain-label>eBay.com</span>: AI robot kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-ai-robot-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TurboPi Smart Robot Car Kit Vision AI Robot-Hiwonder 2DOF HD Cam for Raspberry"><img src="{{ '/assets/images/marketplace-covers/6febc37663a27a71e69e.jpg' | relative_url }}" alt="Listing image for TurboPi Smart Robot Car Kit Vision AI Robot-Hiwonder 2DOF HD Cam for Raspberry" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TurboPi Smart Robot Car Kit Vision AI Robot-Hiwonder 2DOF HD Cam for Raspberry</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI robot kit">Search<span data-ebay-domain-label>eBay.com</span>: AI robot kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-ai-robot-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-artificial-intelligence-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for No AI 3D Print Pin Badge Gift Anti Artificial Intelligence Artist Maker UK Made"><img src="{{ '/assets/images/marketplace-covers/4880f5c67c92b4c3ea15.jpg' | relative_url }}" alt="Listing image for No AI 3D Print Pin Badge Gift Anti Artificial Intelligence Artist Maker UK Made" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-artificial-intelligence-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">No AI 3D Print Pin Badge Gift Anti Artificial Intelligence Artist Maker UK Made</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-artificial-intelligence-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-artificial-intelligence-pin&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-artificial-intelligence-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for No AI 3D Print Pin Badge Gift Anti Artificial Intelligence Artist Maker UK Made"><img src="{{ '/assets/images/marketplace-covers/4880f5c67c92b4c3ea15.jpg' | relative_url }}" alt="Listing image for No AI 3D Print Pin Badge Gift Anti Artificial Intelligence Artist Maker UK Made" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-artificial-intelligence-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">No AI 3D Print Pin Badge Gift Anti Artificial Intelligence Artist Maker UK Made</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-artificial-intelligence-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-artificial-intelligence-pin&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-artificial-intelligence-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Beware of AI Artificial Intelligence Pinback Button Badge 25mm, 32mm, 58mm"><img src="{{ '/assets/images/marketplace-covers/8f97ef2670b0a047cbab.jpg' | relative_url }}" alt="Listing image for Beware of AI Artificial Intelligence Pinback Button Badge 25mm, 32mm, 58mm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-artificial-intelligence-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Beware of AI Artificial Intelligence Pinback Button Badge 25mm, 32mm, 58mm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-artificial-intelligence-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-artificial-intelligence-pin&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-artificial-intelligence-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Beware of AI Artificial Intelligence Pinback Button Badge 25mm, 32mm, 58mm"><img src="{{ '/assets/images/marketplace-covers/8f97ef2670b0a047cbab.jpg' | relative_url }}" alt="Listing image for Beware of AI Artificial Intelligence Pinback Button Badge 25mm, 32mm, 58mm" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-artificial-intelligence-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Beware of AI Artificial Intelligence Pinback Button Badge 25mm, 32mm, 58mm</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-artificial-intelligence-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-artificial-intelligence-pin&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-artificial-intelligence-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wholesale Lot 10 Unused PINS 2001 A.I. ARTIFICIAL INTELLIGENCE Jude Law CM397"><img src="{{ '/assets/images/marketplace-covers/9784ade5b986277fc969.jpg' | relative_url }}" alt="Listing image for Wholesale Lot 10 Unused PINS 2001 A.I. ARTIFICIAL INTELLIGENCE Jude Law CM397" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-artificial-intelligence-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Wholesale Lot 10 Unused PINS 2001 A.I. ARTIFICIAL INTELLIGENCE Jude Law CM397</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-artificial-intelligence-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-artificial-intelligence-pin&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-artificial-intelligence-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wholesale Lot 10 Unused PINS 2001 A.I. ARTIFICIAL INTELLIGENCE Jude Law CM397"><img src="{{ '/assets/images/marketplace-covers/9784ade5b986277fc969.jpg' | relative_url }}" alt="Listing image for Wholesale Lot 10 Unused PINS 2001 A.I. ARTIFICIAL INTELLIGENCE Jude Law CM397" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-artificial-intelligence-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Wholesale Lot 10 Unused PINS 2001 A.I. ARTIFICIAL INTELLIGENCE Jude Law CM397</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-artificial-intelligence-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-artificial-intelligence-pin&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-artificial-intelligence-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Copilot is my Jesus Large 2.25” Button AI Religion Artificial Intelligence God"><img src="{{ '/assets/images/marketplace-covers/0fef4c3fda4f5d21bd5e.jpg' | relative_url }}" alt="Listing image for Copilot is my Jesus Large 2.25” Button AI Religion Artificial Intelligence God" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-artificial-intelligence-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Copilot is my Jesus Large 2.25” Button AI Religion Artificial Intelligence God</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-artificial-intelligence-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-artificial-intelligence-pin&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-artificial-intelligence-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-artificial-intelligence-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Copilot is my Jesus Large 2.25” Button AI Religion Artificial Intelligence God"><img src="{{ '/assets/images/marketplace-covers/0fef4c3fda4f5d21bd5e.jpg' | relative_url }}" alt="Listing image for Copilot is my Jesus Large 2.25” Button AI Religion Artificial Intelligence God" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-artificial-intelligence-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Copilot is my Jesus Large 2.25” Button AI Religion Artificial Intelligence God</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-artificial-intelligence-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-artificial-intelligence-pin&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thresholds-ed4586-when-should-ai-labs-be-forced-to-pause-ai-doom-and-artificial-intelligence-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -608,7 +608,7 @@ Capability thresholds have emerged as one of the **most tractable governance too
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -628,7 +628,7 @@ Capability thresholds have emerged as one of the **most tractable governance too
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -660,7 +660,7 @@ Capability thresholds have emerged as one of the **most tractable governance too
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -690,7 +690,7 @@ Capability thresholds have emerged as one of the **most tractable governance too
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -748,151 +748,151 @@ Capability thresholds have emerged as one of the **most tractable governance too
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: metr.org  
    Title: Common Elements of Frontier AI Safety Policies  
-   Link: <a href="https://metr.org/common-elements" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/common-elements</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Common Elements of Frontier AI Safety Policies - METRDecember 16, 2025...</p></details>
+   Link:<a href="https://metr.org/common-elements" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/common-elements</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Common Elements of Frontier AI Safety Policies - METRDecember 16, 2025...</p></details>
    Published: December 16, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: governance.ai  
    Title: risk thresholds for frontier ai  
-   Link: <a href="https://www.governance.ai/research-paper/risk-thresholds-for-frontier-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.governance.ai/research-paper/risk-thresholds-for-frontier-ai</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GovAIRisk Thresholds for Frontier AI | GovAIJune 20, 2024...</p></details>
+   Link:<a href="https://www.governance.ai/research-paper/risk-thresholds-for-frontier-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.governance.ai/research-paper/risk-thresholds-for-frontier-ai</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GovAIRisk Thresholds for Frontier AI | GovAIJune 20, 2024...</p></details>
    Published: June 20, 2024  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: GOV.UK  
    Title: Emerging processes for frontier AI safety  
-   Link: <a href="https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>27, 2023...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/emerging-processes-for-frontier-ai-safety/emerging-processes-for-frontier-ai-safety</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>27, 2023...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: governance.ai  
    Title: coordinated pausing evaluation based scheme  
-   Link: <a href="https://www.governance.ai/research-paper/coordinated-pausing-evaluation-based-scheme" target="_blank" rel="noopener noreferrer nofollow">https://www.governance.ai/research-paper/coordinated-pausing-evaluation-based-scheme</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Coordinated Pausing: An Evaluation-Based Coordination Scheme for Frontier AI Developers | GovAISeptember 30, 2023 — COORDINATED PAUSING...</p></details>
+   Link:<a href="https://www.governance.ai/research-paper/coordinated-pausing-evaluation-based-scheme" target="_blank" rel="noopener noreferrer nofollow">https://www.governance.ai/research-paper/coordinated-pausing-evaluation-based-scheme</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Coordinated Pausing: An Evaluation-Based Coordination Scheme for Frontier AI Developers | GovAISeptember 30, 2023 — COORDINATED PAUSING...</p></details>
    Published: September 30, 2023  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: frontiermodelforum.org  
    Title: Frontier Model Forum Risk Taxonomy and Thresholds for Frontier AI Frameworks  
-   Link: <a href="https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Model ForumRisk Taxonomy and Thresholds for Frontier AI Frameworks - Frontier Model Forum...</p></details>
+   Link:<a href="https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/technical-reports/risk-taxonomy-and-thresholds/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Model ForumRisk Taxonomy and Thresholds for Frontier AI Frameworks - Frontier Model Forum...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: juncturepolicy.org  
    Title: Juncture Policy Capability Threshold  
-   Link: <a href="https://juncturepolicy.org/glossary/terms-c/capability-threshold/" target="_blank" rel="noopener noreferrer nofollow">https://juncturepolicy.org/glossary/terms-c/capability-threshold/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Juncture PolicyCapability Threshold - Juncture Policy...</p></details>
+   Link:<a href="https://juncturepolicy.org/glossary/terms-c/capability-threshold/" target="_blank" rel="noopener noreferrer nofollow">https://juncturepolicy.org/glossary/terms-c/capability-threshold/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Juncture PolicyCapability Threshold - Juncture Policy...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: frontiermodelforum.org  
    Title: Frontier Model Forum Frontier AI Biosafety Thresholds  
-   Link: <a href="https://www.frontiermodelforum.org/issue-briefs/frontier-ai-biosafety-thresholds/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/issue-briefs/frontier-ai-biosafety-thresholds/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier AI Biosafety Thresholds - Frontier Model ForumMay 12, 2025 — ISSUE BRIEF FRONTIER AI BIOSAFETY THRESHOLDS Posted on: 12th May 20...</p></details>
+   Link:<a href="https://www.frontiermodelforum.org/issue-briefs/frontier-ai-biosafety-thresholds/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/issue-briefs/frontier-ai-biosafety-thresholds/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier AI Biosafety Thresholds - Frontier Model ForumMay 12, 2025 — ISSUE BRIEF FRONTIER AI BIOSAFETY THRESHOLDS Posted on: 12th May 20...</p></details>
    Published: May 12, 2025  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: frontiermodelforum.org  
    Title: Frontier Model Forum Issue Brief: Thresholds for Frontier AI Safety Frameworks  
-   Link: <a href="https://www.frontiermodelforum.org/updates/issue-brief-thresholds-for-frontier-ai-safety-frameworks/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/updates/issue-brief-thresholds-for-frontier-ai-safety-frameworks/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Model ForumIssue Brief: Thresholds for Frontier AI Safety Frameworks - Frontier Model ForumFebruary 7, 2025...</p></details>
+   Link:<a href="https://www.frontiermodelforum.org/updates/issue-brief-thresholds-for-frontier-ai-safety-frameworks/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/updates/issue-brief-thresholds-for-frontier-ai-safety-frameworks/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Model ForumIssue Brief: Thresholds for Frontier AI Safety Frameworks - Frontier Model ForumFebruary 7, 2025...</p></details>
    Published: February 7, 2025  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pcgamer.com  
-   Link: <a href="https://www.pcgamer.com/software/ai/anthropic-ditches-its-defining-safety-promise-to-pause-dangerous-ai-development-because-its-basically-pointless-when-everybody-else-is-blazing-ahead/" target="_blank" rel="noopener noreferrer nofollow">https://www.pcgamer.com/software/ai/anthropic-ditches-its-defining-safety-promise-to-pause-dangerous-ai-development-because-its-basically-pointless-when-everybody-else-is-blazing-ahead/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Previously, under its Responsible Scaling Policy (RSP), Anthropic pledged to halt AI development should new systems reach dangerous capab...</p></details>
+   Link:<a href="https://www.pcgamer.com/software/ai/anthropic-ditches-its-defining-safety-promise-to-pause-dangerous-ai-development-because-its-basically-pointless-when-everybody-else-is-blazing-ahead/" target="_blank" rel="noopener noreferrer nofollow">https://www.pcgamer.com/software/ai/anthropic-ditches-its-defining-safety-promise-to-pause-dangerous-ai-development-because-its-basically-pointless-when-everybody-else-is-blazing-ahead/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Previously, under its Responsible Scaling Policy (RSP), Anthropic pledged to halt AI development should new systems reach dangerous capab...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aisecurityandsafety.org  
-   Link: <a href="https://aisecurityandsafety.org/en/glossary/frontier-ai-safety-framework/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/en/glossary/frontier-ai-safety-framework/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security &amp; Safety DirectoryFrontier AI Safety Framework — AI Governance Definition &amp; Guide | AI Safety DirectoryMarch 27, 2026...</p></details>
+   Link:<a href="https://aisecurityandsafety.org/en/glossary/frontier-ai-safety-framework/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/en/glossary/frontier-ai-safety-framework/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security &amp; Safety DirectoryFrontier AI Safety Framework — AI Governance Definition &amp; Guide | AI Safety DirectoryMarch 27, 2026...</p></details>
    Published: March 27, 2026  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aiwiki.ai  
    Title: Responsible Scaling Policy | AI Wiki  
-   Link: <a href="https://aiwiki.ai/wiki/responsible_scaling_policy" target="_blank" rel="noopener noreferrer nofollow">https://aiwiki.ai/wiki/responsible_scaling_policy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 7, 2026 — Responsible Scaling Policy RESPONSIBLE SCALING POLICY AI GovernanceAI PolicyAI SafetyFrontier AI 39 min read Updated May 7...</p></details>
+   Link:<a href="https://aiwiki.ai/wiki/responsible_scaling_policy" target="_blank" rel="noopener noreferrer nofollow">https://aiwiki.ai/wiki/responsible_scaling_policy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 7, 2026 — Responsible Scaling Policy RESPONSIBLE SCALING POLICY AI GovernanceAI PolicyAI SafetyFrontier AI 39 min read Updated May 7...</p></details>
    Published: May 7, 2026  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: comparativeai.org  
    Title: safety framework  
-   Link: <a href="https://comparativeai.org/en/companies/openai/safety-framework/" target="_blank" rel="noopener noreferrer nofollow">https://comparativeai.org/en/companies/openai/safety-framework/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Comparative AIApril 25, 2026 — SAFETY FRAMEWORK &gt; Snapshot: based on the Preparedness Framework v2.0 (15 April 2025), 2025–2026 blog upda...</p></details>
+   Link:<a href="https://comparativeai.org/en/companies/openai/safety-framework/" target="_blank" rel="noopener noreferrer nofollow">https://comparativeai.org/en/companies/openai/safety-framework/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Comparative AIApril 25, 2026 — SAFETY FRAMEWORK &gt; Snapshot: based on the Preparedness Framework v2.0 (15 April 2025), 2025–2026 blog upda...</p></details>
    Published: April 25, 2026  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: frontiermodelforum.org  
    Title: Managing Advanced Cyber Risks in Frontier AI Frameworks  
-   Link: <a href="https://www.frontiermodelforum.org/technical-reports/managing-advanced-cyber-risks-in-frontier-ai-frameworks/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/technical-reports/managing-advanced-cyber-risks-in-frontier-ai-frameworks/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Model ForumFebruary 13, 2026 — 1.3 CURRENT CONSENSUS ON CYBER THRESHOLDS Frontier AI frameworks use thresholds to help determine...</p></details>
+   Link:<a href="https://www.frontiermodelforum.org/technical-reports/managing-advanced-cyber-risks-in-frontier-ai-frameworks/" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiermodelforum.org/technical-reports/managing-advanced-cyber-risks-in-frontier-ai-frameworks/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier Model ForumFebruary 13, 2026 — 1.3 CURRENT CONSENSUS ON CYBER THRESHOLDS Frontier AI frameworks use thresholds to help determine...</p></details>
    Published: February 13, 2026  
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pattrndata.io  
-   Link: <a href="https://www.pattrndata.io/blog/ai-governance-committee-decision-rights-charter-approve-pause-terminate" target="_blank" rel="noopener noreferrer nofollow">https://www.pattrndata.io/blog/ai-governance-committee-decision-rights-charter-approve-pause-terminate</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Governance Questions | Pattrn DataMarch 16, 2026 — WHAT DECISION RIGHTS AND CHARTER SHOULD AN AI GOVERNANCE COMMITTEE HAVE TO APPROV...</p></details>
+   Link:<a href="https://www.pattrndata.io/blog/ai-governance-committee-decision-rights-charter-approve-pause-terminate" target="_blank" rel="noopener noreferrer nofollow">https://www.pattrndata.io/blog/ai-governance-committee-decision-rights-charter-approve-pause-terminate</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Governance Questions | Pattrn DataMarch 16, 2026 — WHAT DECISION RIGHTS AND CHARTER SHOULD AN AI GOVERNANCE COMMITTEE HAVE TO APPROV...</p></details>
    Published: March 16, 2026  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: oecd.ai  
    Title: Risk thresholds for frontier AI: Insights from the AI Action Summit  
-   Link: <a href="https://oecd.ai/en/wonk/risk-thresholds-for-frontier-ai-insights-from-the-ai-action-summit" target="_blank" rel="noopener noreferrer nofollow">https://oecd.ai/en/wonk/risk-thresholds-for-frontier-ai-insights-from-the-ai-action-summit</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5, 2025 — RISK THRESHOLDS FOR FRONTIER AI: INSIGHTS FROM THE AI ACTION SUMMIT Eunseo Dana Choi, Dylan Rogers March 5, 2025 — Image: clock...</p></details>
+   Link:<a href="https://oecd.ai/en/wonk/risk-thresholds-for-frontier-ai-insights-from-the-ai-action-summit" target="_blank" rel="noopener noreferrer nofollow">https://oecd.ai/en/wonk/risk-thresholds-for-frontier-ai-insights-from-the-ai-action-summit</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5, 2025 — RISK THRESHOLDS FOR FRONTIER AI: INSIGHTS FROM THE AI ACTION SUMMIT Eunseo Dana Choi, Dylan Rogers March 5, 2025 — Image: clock...</p></details>
    Published: March 5, 2025  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: aigi.ox.ac.uk  
    Title: ox.ac.uk Survey on thresholds for advanced AI systems  
-   Link: <a href="https://aigi.ox.ac.uk/publications/survey-on-thresholds-for-advanced-ai-systems/" target="_blank" rel="noopener noreferrer nofollow">https://aigi.ox.ac.uk/publications/survey-on-thresholds-for-advanced-ai-systems/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>on thresholds for advanced AI systems - Oxford Martin AIGIAugust 29, 2025 — Image: Survey on thresholds for advanced AI systems SURVEY ON...</p></details>
+   Link:<a href="https://aigi.ox.ac.uk/publications/survey-on-thresholds-for-advanced-ai-systems/" target="_blank" rel="noopener noreferrer nofollow">https://aigi.ox.ac.uk/publications/survey-on-thresholds-for-advanced-ai-systems/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on thresholds for advanced AI systems - Oxford Martin AIGIAugust 29, 2025 — Image: Survey on thresholds for advanced AI systems SURVEY ON...</p></details>
    Published: August 29, 2025  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: emergentmind.com  
    Title: risk thresholds for frontier ai  
-   Link: <a href="https://www.emergentmind.com/topics/risk-thresholds-for-frontier-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.emergentmind.com/topics/risk-thresholds-for-frontier-ai</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 11, 2026 — RISK THRESHOLDS FOR FRONTIER AI Updated 11 January 2026 * Risk Thresholds for Frontier AI are quantitatively defined l...</p></details>
+   Link:<a href="https://www.emergentmind.com/topics/risk-thresholds-for-frontier-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.emergentmind.com/topics/risk-thresholds-for-frontier-ai</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 11, 2026 — RISK THRESHOLDS FOR FRONTIER AI Updated 11 January 2026 * Risk Thresholds for Frontier AI are quantitatively defined l...</p></details>
    Published: January 11, 2026  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: emergentmind.com  
    Title: Frontier AI Regulation  
-   Link: <a href="https://www.emergentmind.com/topics/frontier-ai-regulation" target="_blank" rel="noopener noreferrer nofollow">https://www.emergentmind.com/topics/frontier-ai-regulation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THRESHOLDS: RISK, CAPABILITY, AND COMPUTE Threshold-based regulation is a core strategy for scalable oversight (Koessler et al., 2024, Ra...</p></details>
+   Link:<a href="https://www.emergentmind.com/topics/frontier-ai-regulation" target="_blank" rel="noopener noreferrer nofollow">https://www.emergentmind.com/topics/frontier-ai-regulation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THRESHOLDS: RISK, CAPABILITY, AND COMPUTE Threshold-based regulation is a core strategy for scalable oversight (Koessler et al., 2024, Ra...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Christopher Painter  
-   Link: <a href="https://www.youtube.com/watch?v=0lWXXJ5CY4Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0lWXXJ5CY4Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Important Graph in AI Right Now | Beth Barnes, CEO of METR...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0lWXXJ5CY4Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0lWXXJ5CY4Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Important Graph in AI Right Now | Beth Barnes, CEO of METR...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: The Most Important Graph in AI Right Now | Beth Barnes, CEO of METR  
-   Link: <a href="https://www.youtube.com/watch?v=jXtk68Kzmms" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jXtk68Kzmms</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pattern Nobody&#x27;s Talking About | AI Safety Collapse...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jXtk68Kzmms" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jXtk68Kzmms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Pattern Nobody&#x27;s Talking About | AI Safety Collapse...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Z19UEZHJzAg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Z19UEZHJzAg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sovereign AI Stacks: The New Strategic National Resource...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Z19UEZHJzAg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Z19UEZHJzAg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sovereign AI Stacks: The New Strategic National Resource...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: The Pattern Nobody's Talking About | AI Safety Collapse  
-   Link: <a href="https://www.youtube.com/watch?v=c5Yw4qMgj3s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=c5Yw4qMgj3s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>By 2050 we could get &quot;10,000 years of technological progress&quot;...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=c5Yw4qMgj3s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=c5Yw4qMgj3s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>By 2050 we could get &quot;10,000 years of technological progress&quot;...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5908745" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5908745</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thresholds for Managing Frontier AI Risks by Freeman Jackson:: SSRNDecember 11, 2025 — Download This Paper Open PDF in Browser Add Paper...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5908745" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5908745</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thresholds for Managing Frontier AI Risks by Freeman Jackson:: SSRNDecember 11, 2025 — Download This Paper Open PDF in Browser Add Paper...</p></details>
    Published: December 11, 2025

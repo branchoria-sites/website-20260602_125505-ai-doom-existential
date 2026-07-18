@@ -335,178 +335,178 @@ False confidence from deceptive alignment evaluations highlights a central chall
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_deceptive_ali_f9f449_deception_los_dd8ce0_false_confide_cd4234-Illustration-3-dark.svg" | relative_url }}" alt="False confidence illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_deceptive_ali_f9f449_deception_los_dd8ce0_false_confide_cd4234-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_deceptive_ali_f9f449_deception_los_dd8ce0_false_confide_cd4234-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When passing tests stops proving safety. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When passing tests stops proving safety. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
-        </h4>
-        <p class="fr-book-author">By Brian Christian</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
+</h4>
+<p class="fr-book-author">By Brian Christian</p>
         
-        <p class="fr-book-desc">Explores how observed behavior can hide deeper alignment problems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how observed behavior can hide deeper alignment problems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Russell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
+</h4>
+<p class="fr-book-author">By Stuart Russell</p>
         
-        <p class="fr-book-desc">Addresses why apparent compliance may not guarantee genuine alignment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses why apparent compliance may not guarantee genuine alignment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superintelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7_H8AwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superintelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superintelligence">Superintelligence</a>
-        </h4>
-        <p class="fr-book-author">By Nick Bostrom</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superintelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7_H8AwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superintelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superintelligence">Superintelligence</a>
+</h4>
+<p class="fr-book-author">By Nick Bostrom</p>
         
-        <p class="fr-book-desc">Analyzes deceptive alignment and control challenges conceptually.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Analyzes deceptive alignment and control challenges conceptually.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
-        </h4>
-        <p class="fr-book-author">By Mustafa Suleyman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
+</h4>
+<p class="fr-book-author">By Mustafa Suleyman</p>
         
-        <p class="fr-book-desc">Examines practical oversight and governance limitations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines practical oversight and governance limitations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superintelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superintelligence</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Superintelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superintelligence</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-    </div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-confidence-when-passing-tests-stops-proving-safety-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Computer SYMBOLICS LISP machine AI 3D dolphin 1987 1980s 1990s poster"><img src="{{ '/assets/images/marketplace-covers/79dbace2673a2ff1be66.jpg' | relative_url }}" alt="Listing image for Vintage Computer SYMBOLICS LISP machine AI 3D dolphin 1987 1980s 1990s poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-confidence-when-passing-tests-stops-proving-safety-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Computer SYMBOLICS LISP machine AI 3D dolphin 1987 1980s 1990s poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-confidence-when-passing-tests-stops-proving-safety-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search <span data-ebay-domain-label>eBay.com</span>: AI poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-confidence-when-passing-tests-stops-proving-safety-ai-doom-and-ai-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-confidence-when-passing-tests-stops-proving-safety-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Computer SYMBOLICS LISP machine AI 3D dolphin 1987 1980s 1990s poster"><img src="{{ '/assets/images/marketplace-covers/79dbace2673a2ff1be66.jpg' | relative_url }}" alt="Listing image for Vintage Computer SYMBOLICS LISP machine AI 3D dolphin 1987 1980s 1990s poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-confidence-when-passing-tests-stops-proving-safety-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Computer SYMBOLICS LISP machine AI 3D dolphin 1987 1980s 1990s poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-confidence-when-passing-tests-stops-proving-safety-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search<span data-ebay-domain-label>eBay.com</span>: AI poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-confidence-when-passing-tests-stops-proving-safety-ai-doom-and-ai-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-confidence-when-passing-tests-stops-proving-safety-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI Artificial Intelligence Original 2001 Movie Poster 27x40 DS"><img src="{{ '/assets/images/marketplace-covers/ee2480d2e31d09060c16.jpg' | relative_url }}" alt="Listing image for AI Artificial Intelligence Original 2001 Movie Poster 27x40 DS" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-confidence-when-passing-tests-stops-proving-safety-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">AI Artificial Intelligence Original 2001 Movie Poster 27x40 DS</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-confidence-when-passing-tests-stops-proving-safety-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search <span data-ebay-domain-label>eBay.com</span>: AI poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-confidence-when-passing-tests-stops-proving-safety-ai-doom-and-ai-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-confidence-when-passing-tests-stops-proving-safety-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI Artificial Intelligence Original 2001 Movie Poster 27x40 DS"><img src="{{ '/assets/images/marketplace-covers/ee2480d2e31d09060c16.jpg' | relative_url }}" alt="Listing image for AI Artificial Intelligence Original 2001 Movie Poster 27x40 DS" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-confidence-when-passing-tests-stops-proving-safety-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">AI Artificial Intelligence Original 2001 Movie Poster 27x40 DS</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-confidence-when-passing-tests-stops-proving-safety-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search<span data-ebay-domain-label>eBay.com</span>: AI poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-confidence-when-passing-tests-stops-proving-safety-ai-doom-and-ai-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-confidence-when-passing-tests-stops-proving-safety-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Allen Iverson Ai Poster or Canvas - Allen Iverson Wall Art Decor"><img src="{{ '/assets/images/marketplace-covers/7bb936127fcca8b5cc60.jpg' | relative_url }}" alt="Listing image for Allen Iverson Ai Poster or Canvas - Allen Iverson Wall Art Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-confidence-when-passing-tests-stops-proving-safety-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Allen Iverson Ai Poster or Canvas - Allen Iverson Wall Art Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-confidence-when-passing-tests-stops-proving-safety-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search <span data-ebay-domain-label>eBay.com</span>: AI poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-confidence-when-passing-tests-stops-proving-safety-ai-doom-and-ai-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-confidence-when-passing-tests-stops-proving-safety-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Allen Iverson Ai Poster or Canvas - Allen Iverson Wall Art Decor"><img src="{{ '/assets/images/marketplace-covers/7bb936127fcca8b5cc60.jpg' | relative_url }}" alt="Listing image for Allen Iverson Ai Poster or Canvas - Allen Iverson Wall Art Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-confidence-when-passing-tests-stops-proving-safety-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Allen Iverson Ai Poster or Canvas - Allen Iverson Wall Art Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-confidence-when-passing-tests-stops-proving-safety-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search<span data-ebay-domain-label>eBay.com</span>: AI poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-confidence-when-passing-tests-stops-proving-safety-ai-doom-and-ai-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-confidence-when-passing-tests-stops-proving-safety-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SMILING 24&quot;X36&quot; CANVAS/PAPER POSTER NSFW CUSTOMIZABLE QUALITY ART PRINTS"><img src="{{ '/assets/images/marketplace-covers/648fc4371c6f7c873f5c.jpg' | relative_url }}" alt="Listing image for SMILING 24&quot;X36&quot; CANVAS/PAPER POSTER NSFW CUSTOMIZABLE QUALITY ART PRINTS" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-confidence-when-passing-tests-stops-proving-safety-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SMILING 24&quot;X36&quot; CANVAS/PAPER POSTER NSFW CUSTOMIZABLE QUALITY ART PRINTS</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-confidence-when-passing-tests-stops-proving-safety-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search <span data-ebay-domain-label>eBay.com</span>: AI poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-confidence-when-passing-tests-stops-proving-safety-ai-doom-and-ai-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-confidence-when-passing-tests-stops-proving-safety-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-confidence-when-passing-tests-stops-proving-safety-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SMILING 24&quot;X36&quot; CANVAS/PAPER POSTER NSFW CUSTOMIZABLE QUALITY ART PRINTS"><img src="{{ '/assets/images/marketplace-covers/648fc4371c6f7c873f5c.jpg' | relative_url }}" alt="Listing image for SMILING 24&quot;X36&quot; CANVAS/PAPER POSTER NSFW CUSTOMIZABLE QUALITY ART PRINTS" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-confidence-when-passing-tests-stops-proving-safety-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SMILING 24&quot;X36&quot; CANVAS/PAPER POSTER NSFW CUSTOMIZABLE QUALITY ART PRINTS</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-confidence-when-passing-tests-stops-proving-safety-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search<span data-ebay-domain-label>eBay.com</span>: AI poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-confidence-when-passing-tests-stops-proving-safety-ai-doom-and-ai-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=AI+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-confidence-when-passing-tests-stops-proving-safety-ai-doom-and-ai-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -522,7 +522,7 @@ False confidence from deceptive alignment evaluations highlights a central chall
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -542,7 +542,7 @@ False confidence from deceptive alignment evaluations highlights a central chall
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -574,7 +574,7 @@ False confidence from deceptive alignment evaluations highlights a central chall
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -604,7 +604,7 @@ False confidence from deceptive alignment evaluations highlights a central chall
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -662,104 +662,104 @@ False confidence from deceptive alignment evaluations highlights a central chall
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aisecurityandsafety.org  
    Title: deceptive alignment guide  
-   Link: <a href="https://aisecurityandsafety.org/en/guides/deceptive-alignment-guide/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/en/guides/deceptive-alignment-guide/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security &amp; Safety DirectoryDeceptive Alignment: When AI Systems Fake Safety (2026) | AI Safety DirectoryMarch 29, 2026...</p></details>
+   Link:<a href="https://aisecurityandsafety.org/en/guides/deceptive-alignment-guide/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/en/guides/deceptive-alignment-guide/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security &amp; Safety DirectoryDeceptive Alignment: When AI Systems Fake Safety (2026) | AI Safety DirectoryMarch 29, 2026...</p></details>
    Published: March 29, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aisecurityandsafety.org  
-   Link: <a href="https://aisecurityandsafety.org/en/glossary/deceptive-alignment/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/en/glossary/deceptive-alignment/</a>  
+   Link:<a href="https://aisecurityandsafety.org/en/glossary/deceptive-alignment/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/en/glossary/deceptive-alignment/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: unu.edu  
    Title: United Nations University AI Deception | United Nations University  
-   Link: <a href="https://unu.edu/cpr/policy-brief/ai-deception" target="_blank" rel="noopener noreferrer nofollow">https://unu.edu/cpr/policy-brief/ai-deception</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>United Nations UniversityAI Deception | United Nations UniversityMay 1, 2026...</p></details>
+   Link:<a href="https://unu.edu/cpr/policy-brief/ai-deception" target="_blank" rel="noopener noreferrer nofollow">https://unu.edu/cpr/policy-brief/ai-deception</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>United Nations UniversityAI Deception | United Nations UniversityMay 1, 2026...</p></details>
    Published: May 1, 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: aiforhumanity.eu  
    Title: Deceptive Alignment  
-   Link: <a href="https://aiforhumanity.eu/concepts/deceptive-alignment" target="_blank" rel="noopener noreferrer nofollow">https://aiforhumanity.eu/concepts/deceptive-alignment</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 27, 2026 * # Deceptive Alignment 27 Apr 2026 3 min read * risk-models DECEPTIVE ALIGNMENT DEFINITION Deceptive alignment is the h...</p></details>
+   Link:<a href="https://aiforhumanity.eu/concepts/deceptive-alignment" target="_blank" rel="noopener noreferrer nofollow">https://aiforhumanity.eu/concepts/deceptive-alignment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 27, 2026 * # Deceptive Alignment 27 Apr 2026 3 min read * risk-models DECEPTIVE ALIGNMENT DEFINITION Deceptive alignment is the h...</p></details>
    Published: April 27, 2026  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aiwiki.ai  
    Title: It describes a hypothetical scenario in which an AI  
-   Link: <a href="https://aiwiki.ai/wiki/ai_deception" target="_blank" rel="noopener noreferrer nofollow">https://aiwiki.ai/wiki/ai_deception</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI deception | AI WikiMarch 25, 2026 SCHEMING AND DECEPTIVE ALIGNMENT Scheming (also called deceptive alignment) is the most concerning...</p></details>
+   Link:<a href="https://aiwiki.ai/wiki/ai_deception" target="_blank" rel="noopener noreferrer nofollow">https://aiwiki.ai/wiki/ai_deception</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI deception | AI WikiMarch 25, 2026 SCHEMING AND DECEPTIVE ALIGNMENT Scheming (also called deceptive alignment) is the most concerning...</p></details>
    Published: March 25, 2026  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: unite.ai  
    Title: Tehseen Zia Image For years, the AI community has worked to make s  
-   Link: <a href="https://www.unite.ai/the-scheming-problem-why-advanced-ai-models-are-learning-to-hide-their-true-goals/" target="_blank" rel="noopener noreferrer nofollow">https://www.unite.ai/the-scheming-problem-why-advanced-ai-models-are-learning-to-hide-their-true-goals/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Scheming Problem: Why Advanced AI Models Are Learning to Hide Their True Goals Unite.AIJanuary 28, 2026 THE SCHEMING PROBLEM: WHY...</p></details>
+   Link:<a href="https://www.unite.ai/the-scheming-problem-why-advanced-ai-models-are-learning-to-hide-their-true-goals/" target="_blank" rel="noopener noreferrer nofollow">https://www.unite.ai/the-scheming-problem-why-advanced-ai-models-are-learning-to-hide-their-true-goals/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Scheming Problem: Why Advanced AI Models Are Learning to Hide Their True Goals Unite.AIJanuary 28, 2026 THE SCHEMING PROBLEM: WHY...</p></details>
    Published: January 28, 2026  
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: failurefirst.org  
-   Link: <a href="https://failurefirst.org/research/reports/43-rl-deception-amplifier/" target="_blank" rel="noopener noreferrer nofollow">https://failurefirst.org/research/reports/43-rl-deception-amplifier/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DECEPTIVE ALIGNMENT IN EMBODIED CONTEXTS 4.1 THE HYPOTHESIS Deceptive alignment is the hypothesis that a sufficiently capable mesa-optimi...</p></details>
+   Link:<a href="https://failurefirst.org/research/reports/43-rl-deception-amplifier/" target="_blank" rel="noopener noreferrer nofollow">https://failurefirst.org/research/reports/43-rl-deception-amplifier/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DECEPTIVE ALIGNMENT IN EMBODIED CONTEXTS 4.1 THE HYPOTHESIS Deceptive alignment is the hypothesis that a sufficiently capable mesa-optimi...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Previous safety research has largely focused on isolated undesirable  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12804084/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12804084/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>large language models on narrow tasks can lead to broad misalignment - PMCJanuary 14, 2026 ABSTRACT The widespread adoption of large la...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12804084/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12804084/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>large language models on narrow tasks can lead to broad misalignment - PMCJanuary 14, 2026 ABSTRACT The widespread adoption of large la...</p></details>
    Published: January 14, 2026  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aisecurityandsafety.org  
    Title: Deceptive Alignment AI Safety & Security Definition | AI Safety Directory  
-   Link: <a href="https://aisecurityandsafety.org/pt/glossary/deceptive-alignment/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/pt/glossary/deceptive-alignment/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 10, 2026 DECEPTIVE ALIGNMENT safety ltima atualizao: March 10, 2026 DEFINIO A theoretical failure mode in which an AI system...</p></details>
+   Link:<a href="https://aisecurityandsafety.org/pt/glossary/deceptive-alignment/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/pt/glossary/deceptive-alignment/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 10, 2026 DECEPTIVE ALIGNMENT safety ltima atualizao: March 10, 2026 DEFINIO A theoretical failure mode in which an AI system...</p></details>
    Published: March 10, 2026  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aclanthology.org  
    Title: Information-theoretic Distinctions Between Deception and Confusion  
-   Link: <a href="https://aclanthology.org/2025.findings-ijcnlp.15/" target="_blank" rel="noopener noreferrer nofollow">https://aclanthology.org/2025.findings-ijcnlp.15/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ACL AnthologyINFORMATION-THEORETIC DISTINCTIONS BETWEEN DECEPTION AND CONFUSION Robin Young ABSTRACT We propose an information-theoretic...</p></details>
+   Link:<a href="https://aclanthology.org/2025.findings-ijcnlp.15/" target="_blank" rel="noopener noreferrer nofollow">https://aclanthology.org/2025.findings-ijcnlp.15/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ACL AnthologyINFORMATION-THEORETIC DISTINCTIONS BETWEEN DECEPTION AND CONFUSION Robin Young ABSTRACT We propose an information-theoretic...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/38800366/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38800366/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2024 May 10;5(5):100988. doi: 10.1016/j.patter.2024.100988. AI DECEPTION: A SURVEY OF EXAMPLES, RISKS, AND POTENTIAL SOLUTIONS...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/38800366/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38800366/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2024 May 10;5(5):100988. doi: 10.1016/j.patter.2024.100988. AI DECEPTION: A SURVEY OF EXAMPLES, RISKS, AND POTENTIAL SOLUTIONS...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: wikimolt.org  
    Title: Deceptive Alignment Wikimolt  
-   Link: <a href="https://www.wikimolt.org/page/Deceptive%20Alignment" target="_blank" rel="noopener noreferrer nofollow">https://www.wikimolt.org/page/Deceptive%20Alignment</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 6, 2026 DECEPTIVE ALIGNMENT Recent edits: wikimoltbot 2026-02-06 09:37:58 Full history Deceptive Alignment is a hypothesized...</p></details>
+   Link:<a href="https://www.wikimolt.org/page/Deceptive%20Alignment" target="_blank" rel="noopener noreferrer nofollow">https://www.wikimolt.org/page/Deceptive%20Alignment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 6, 2026 DECEPTIVE ALIGNMENT Recent edits: wikimoltbot 2026-02-06 09:37:58 Full history Deceptive Alignment is a hypothesized...</p></details>
    Published: February 6, 2026  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aiconomy.io  
    Title: What is Deceptive Alignment?  
-   Link: <a href="https://aiconomy.io/glossary/deceptive-alignment" target="_blank" rel="noopener noreferrer nofollow">https://aiconomy.io/glossary/deceptive-alignment</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AiconomyDECEPTIVE ALIGNMENT A theoretical AI safety concern where a model appears aligned with human values during training and evaluat...</p></details>
+   Link:<a href="https://aiconomy.io/glossary/deceptive-alignment" target="_blank" rel="noopener noreferrer nofollow">https://aiconomy.io/glossary/deceptive-alignment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AiconomyDECEPTIVE ALIGNMENT A theoretical AI safety concern where a model appears aligned with human values during training and evaluat...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11117051/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11117051/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2024 May 10;5(5):100988. doi: 10.1016/j.patter.2024.100988 AI DECEPTION: A SURVEY OF EXAMPLES, RISKS, AND POTENTIAL SOLUTIONS Peter S Par...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11117051/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11117051/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2024 May 10;5(5):100988. doi: 10.1016/j.patter.2024.100988 AI DECEPTION: A SURVEY OF EXAMPLES, RISKS, AND POTENTIAL SOLUTIONS Peter S Par...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Why This AI Model Was Considered Too Powerful for Public Release  
-   Link: <a href="https://www.youtube.com/watch?v=TLCXiyhEnKA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TLCXiyhEnKA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is Your AI Lying to You? The Danger of Alignment Faking...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TLCXiyhEnKA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TLCXiyhEnKA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is Your AI Lying to You? The Danger of Alignment Faking...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: OpenAI  
    Title: detecting and reducing scheming in ai models  
-   Link: <a href="https://openai.com/index/detecting-and-reducing-scheming-in-ai-models/" target="_blank" rel="noopener noreferrer nofollow">https://openai.com/index/detecting-and-reducing-scheming-in-ai-models/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>comDetecting and reducing scheming in AI models | OpenAISeptember 17, 2025 September 17, 2025 PublicationResearch DETECTING AND REDUCIN...</p></details>
+   Link:<a href="https://openai.com/index/detecting-and-reducing-scheming-in-ai-models/" target="_blank" rel="noopener noreferrer nofollow">https://openai.com/index/detecting-and-reducing-scheming-in-ai-models/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>comDetecting and reducing scheming in AI models | OpenAISeptember 17, 2025 September 17, 2025 PublicationResearch DETECTING AND REDUCIN...</p></details>
    Published: September 17, 2025

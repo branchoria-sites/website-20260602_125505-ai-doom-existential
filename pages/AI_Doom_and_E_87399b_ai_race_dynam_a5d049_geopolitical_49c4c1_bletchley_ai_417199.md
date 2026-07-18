@@ -269,20 +269,20 @@ image: /assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c
 
 ## Introduction
 
-Did the Bletchley Declaration prove that geopolitical rivals can cooperate on AI safety? It provided some of the strongest evidence so far that they can, at least to a limited extent. In November 2023, governments including the United States, China, the United Kingdom, EU member states and many others jointly acknowledged that advanced “frontier AI” systems could create serious risks and that international cooperation was needed. For observers worried about AI doom, x-risk, or a loss-of-control scenario, that agreement mattered because it challenged the idea that major powers were completely incapable of coordinating on AI safety. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">The Bletchley Declaration by Countries Attending the AI...2 Nov 2023 — The Bletchley Declaration by Countries Attending the AI Safety Su...</span><span class="citation-popover-meta">Published: november 2023</span></span></span>
+Did the Bletchley Declaration prove that geopolitical rivals can cooperate on AI safety? It provided some of the strongest evidence so far that they can, at least to a limited extent. In November 2023, governments including the United States, China, the United Kingdom, EU member states and many others jointly acknowledged that advanced “frontier AI” systems could create serious risks and that international cooperation was needed. For observers worried about AI doom, x-risk, or a loss-of-control scenario, that agreement mattered because it challenged the idea that major powers were completely incapable of coordinating on AI safety.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">The Bletchley Declaration by Countries Attending the AI...2 Nov 2023 — The Bletchley Declaration by Countries Attending the AI Safety Su...</span><span class="citation-popover-meta">Published: november 2023</span></span></span>
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1_bletchley_ai_417199-Illustration-1-dark.svg" | relative_url }}" alt="Bletchley illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1_bletchley_ai_417199-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_ai_race_dynam_a5d049_geopolitical_49c4c1_bletchley_ai_417199-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 At the same time, the declaration did not commit countries to slowing AI development, imposing hard limits on frontier systems, or accepting binding enforcement mechanisms. As a result, it is best understood as evidence that cooperation is possible, not evidence that competitive pressures have been solved. The central question is not whether governments can agree that risks exist, but whether they can coordinate strongly enough to change behaviour when safety and strategic advantage appear to conflict.
 
 ## What governments agreed at Bletchley
 
-The Bletchley Declaration emerged from the UK's AI Safety Summit at Bletchley Park in November 2023. Twenty-eight countries and the European Union signed a common statement recognising both the benefits and the potential dangers of frontier AI systems. Signatories included countries that are often portrayed as strategic competitors, most notably the United States and China. <span class="citation-chip-wrap"><a class="citation-chip" href="https://datamatters.sidley.com/2023/12/07/world-first-agreement-on-ai-reached/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datamatters.sidley.com">[Data Matters Privacy Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datamatters.sidley.com</span><span class="citation-popover-title">Data Matters Privacy Blog&#x27;World-First&#x27; Agreement on AI Reached</span><span class="citation-popover-snippet">Data Matters - SidleyDec 7, 2023 — The “Bletchley Declaration” – described by the UK Government as a &#x27;world-first&#x27; agreement – was endors...</span></span></span>
+The Bletchley Declaration emerged from the UK's AI Safety Summit at Bletchley Park in November 2023. Twenty-eight countries and the European Union signed a common statement recognising both the benefits and the potential dangers of frontier AI systems. Signatories included countries that are often portrayed as strategic competitors, most notably the United States and China.<span class="citation-chip-wrap"><a class="citation-chip" href="https://datamatters.sidley.com/2023/12/07/world-first-agreement-on-ai-reached/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datamatters.sidley.com">[Data Matters Privacy Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datamatters.sidley.com</span><span class="citation-popover-title">Data Matters Privacy Blog&#x27;World-First&#x27; Agreement on AI Reached</span><span class="citation-popover-snippet">Data Matters - SidleyDec 7, 2023 — The “Bletchley Declaration” – described by the UK Government as a &#x27;world-first&#x27; agreement – was endors...</span></span></span>
 
-For readers interested in AI existential risk, the most important aspect was not the specific policy commitments but the shared recognition that highly capable AI systems could create severe harms. The declaration explicitly referred to risks arising from the most advanced models and called for international cooperation, scientific understanding, risk assessment and the development of appropriate [governance]({{ 'governance/' | relative_url }}) approaches. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/countries-agree-to-safe-and-responsible-development-of-frontier-ai-in-landmark-bletchley-declaration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">Countries agree to safe and responsible development of...1 Nov 2023 — Leading AI nations have reached a world-first agreement at Bletchl...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ai-safety-summit-2023-chairs-statement-state-of-the-science-2-november/state-of-the-science-report-to-understand-capabilities-and-risks-of-frontier-ai-statement-by-the-chair-2-november-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">State of the Science&#x27; Report to Understand Capabilities...Nov 2, 2023 — The intention of the &#x27;State of the Science&#x27; Report is to facili...</span><span class="citation-popover-meta">Published: november 2023</span></span></span>
+For readers interested in AI existential risk, the most important aspect was not the specific policy commitments but the shared recognition that highly capable AI systems could create severe harms. The declaration explicitly referred to risks arising from the most advanced models and called for international cooperation, scientific understanding, risk assessment and the development of appropriate [governance]({{ 'governance/' | relative_url }}) approaches.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/countries-agree-to-safe-and-responsible-development-of-frontier-ai-in-landmark-bletchley-declaration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">Countries agree to safe and responsible development of...1 Nov 2023 — Leading AI nations have reached a world-first agreement at Bletchl...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ai-safety-summit-2023-chairs-statement-state-of-the-science-2-november/state-of-the-science-report-to-understand-capabilities-and-risks-of-frontier-ai-statement-by-the-chair-2-november-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">State of the Science&#x27; Report to Understand Capabilities...Nov 2, 2023 — The intention of the &#x27;State of the Science&#x27; Report is to facili...</span><span class="citation-popover-meta">Published: november 2023</span></span></span>
 
-This was significant because many discussions of AI doom assume that governments will deny, ignore or downplay frontier AI risks until it is too late. Bletchley showed that leading governments were at least willing to publicly acknowledge such risks. It also established a common vocabulary around “frontier AI”, helping move discussion away from purely commercial questions and towards the possibility of large-scale or even [catastrophic]({{ 'misuse/' | relative_url }}) failures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/topical-events/ai-safety-summit-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ai safety summit 2023</span><span class="citation-popover-snippet">Safety Summit 2023The AI Safety Summit 2023 is a major global event that will take place on the 1 and 2 November at Bletchley Park, Bucki...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ai safety summit 2023 the bletchley declaration</span><span class="citation-popover-snippet">Safety Summit 2023: The Bletchley DeclarationNov 1, 2023 — The Bletchley Declaration on AI Safety announces a new global effort to unlock...</span></span></span>
+This was significant because many discussions of AI doom assume that governments will deny, ignore or downplay frontier AI risks until it is too late. Bletchley showed that leading governments were at least willing to publicly acknowledge such risks. It also established a common vocabulary around “frontier AI”, helping move discussion away from purely commercial questions and towards the possibility of large-scale or even [catastrophic]({{ 'misuse/' | relative_url }}) failures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/topical-events/ai-safety-summit-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ai safety summit 2023</span><span class="citation-popover-snippet">Safety Summit 2023The AI Safety Summit 2023 is a major global event that will take place on the 1 and 2 November at Bletchley Park, Bucki...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ai safety summit 2023 the bletchley declaration</span><span class="citation-popover-snippet">Safety Summit 2023: The Bletchley DeclarationNov 1, 2023 — The Bletchley Declaration on AI Safety announces a new global effort to unlock...</span></span></span>
 
-Another notable feature was China's participation. Many commentators had assumed that growing geopolitical tensions would make even symbolic agreement difficult. The fact that China joined the declaration alongside Western governments became one of the most frequently cited examples of international AI safety cooperation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/technology/britain-brings-together-political-tech-leaders-talk-ai-2023-11-01/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">britain brings together political tech leaders talk ai 2023 11 01</span><span class="citation-popover-snippet">AI Safety Summit: China, US and EU agree to work together1 Nov 2023 — China agreed to work with the United States, European Union...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.belganewsagency.eu/us-china-and-eu-sign-statement-on-artificial-intelligence-risks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: belganewsagency.eu">[2belganewsagency.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">belganewsagency.eu</span><span class="citation-popover-title">us china and eu sign statement on artificial intelligence risks</span><span class="citation-popover-snippet">US, China and EU sign statement on risks of artificial...1 Nov 2023 — China, the US, the EU and 25 other countries have signed the first...</span></span></span>
+Another notable feature was China's participation. Many commentators had assumed that growing geopolitical tensions would make even symbolic agreement difficult. The fact that China joined the declaration alongside Western governments became one of the most frequently cited examples of international AI safety cooperation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/technology/britain-brings-together-political-tech-leaders-talk-ai-2023-11-01/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">britain brings together political tech leaders talk ai</span><span class="citation-popover-snippet">AI Safety Summit: China, US and EU agree to work together1 Nov 2023 — China agreed to work with the United States, European Union...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.belganewsagency.eu/us-china-and-eu-sign-statement-on-artificial-intelligence-risks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: belganewsagency.eu">[2belganewsagency.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">belganewsagency.eu</span><span class="citation-popover-title">us china and eu sign statement on artificial intelligence risks</span><span class="citation-popover-snippet">US, China and EU sign statement on risks of artificial...1 Nov 2023 — China, the US, the EU and 25 other countries have signed the first...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iBcRWPkv-E0" title="Perspective - AI: The Road Ahead | 09 November, 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iBcRWPkv-E0" target="_blank" rel="noopener noreferrer">Perspective - AI: The Road Ahead | 09 November, 2023</a></p><p class="youtube-embed-meta">Channel: Sansad TV &middot; Views: 72.8K &middot; Uploaded: November 2023 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iBcRWPkv-E0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iBcRWPkv-E0">Open on YouTube</a></p></div></div></div>
 
@@ -292,11 +292,11 @@ The strongest objection to treating Bletchley as decisive evidence against AI-ra
 
 Countries can agree that a technology is dangerous while simultaneously competing to gain advantages from it. Nuclear weapons provide one historical example: rival states eventually developed treaties and communication channels, but intense competition continued throughout much of the nuclear age. AI could follow a similar pattern, where cooperation and competition coexist rather than one replacing the other.
 
-This tension was visible even at the time of the summit. Governments emphasised safety concerns, yet they also continued investing heavily in AI capabilities, infrastructure and strategic AI leadership. Analysts noted that the same countries discussing catastrophic risks were also seeking economic and national-security advantages from advanced AI systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/uk-ai-summit-declaration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">World Powers Say They Want to Contain AI</span><span class="citation-popover-snippet">They&#x27;re Also Racing to Advance ItNovember 2, 2023 — On November 1, 2023, twenty-eight countries, including the US, EU members, and China...</span><span class="citation-popover-meta">Published: November 2, 2023</span></span></span>
+This tension was visible even at the time of the summit. Governments emphasised safety concerns, yet they also continued investing heavily in AI capabilities, infrastructure and strategic AI leadership. Analysts noted that the same countries discussing catastrophic risks were also seeking economic and national-security advantages from advanced AI systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/uk-ai-summit-declaration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">World Powers Say They Want to Contain AI</span><span class="citation-popover-snippet">They&#x27;re Also Racing to Advance ItNovember 2, 2023 — On November 1, 2023, twenty-eight countries, including the US, EU members, and China...</span><span class="citation-popover-meta">Published: November 2, 2023</span></span></span>
 
 From an AI doom perspective, this matters because existential-risk concerns are often driven by timing. If advanced systems become extremely powerful before effective safeguards exist, then recognising the danger may not be enough. The crucial question is whether governments would accept meaningful slowdowns, restrictions or [monitoring]({{ 'monitoring/' | relative_url }}) requirements if these appeared to reduce their competitive position.
 
-The Bletchley Declaration did not answer that question. It created a framework for discussion and cooperation, but it did not require signatories to cap computing resources, pause development, restrict deployment or accept external verification. It was explicitly a political declaration rather than a binding treaty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://regulations.ai/regulations/RAI-GB-NA-BDO2AXX-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: regulations.ai">[Regulations.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">regulations.ai</span><span class="citation-popover-snippet">Bletchley Declaration (outcome of 2023 AI Safety Summit)6 Jan 2026 — It sets out a shared agenda to identify AI safety risks of common co...</span></span></span>
+The Bletchley Declaration did not answer that question. It created a framework for discussion and cooperation, but it did not require signatories to cap computing resources, pause development, restrict deployment or accept external verification. It was explicitly a political declaration rather than a binding treaty.<span class="citation-chip-wrap"><a class="citation-chip" href="https://regulations.ai/regulations/RAI-GB-NA-BDO2AXX-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: regulations.ai">[Regulations.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">regulations.ai</span><span class="citation-popover-snippet">Bletchley Declaration (outcome of 2023 AI Safety Summit)6 Jan 2026 — It sets out a shared agenda to identify AI safety risks of common co...</span></span></span>
 
 For that reason, sceptics of international coordination often describe Bletchley as evidence of diplomatic goodwill rather than evidence that an AI race has been avoided.
 
@@ -305,11 +305,11 @@ For that reason, sceptics of international coordination often describe Bletchley
 
 Although the declaration itself was non-binding, it helped launch several follow-on initiatives that supporters cite as evidence that cooperation was more than a photo opportunity.
 
-One example was the growth of AI Safety Institutes and international testing cooperation. The United Kingdom and United States later formalised collaboration on evaluating advanced models and sharing technical information about AI safety testing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/6962503/ai-artificial-intelligence-uk-us-safety/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">U.S., U.K</span><span class="citation-popover-snippet">Announce Partnership to Safety Test AI ModelsApril 2, 2024 — The U.S. and U.K. governments announced a partnership to collaborate on safe...</span><span class="citation-popover-meta">Published: April 2, 2024</span></span></span>
+One example was the growth of AI Safety Institutes and international testing cooperation. The United Kingdom and United States later formalised collaboration on evaluating advanced models and sharing technical information about AI safety testing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/6962503/ai-artificial-intelligence-uk-us-safety/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">U.S., U.K</span><span class="citation-popover-snippet">Announce Partnership to Safety Test AI ModelsApril 2, 2024 — The U.S. and U.K. governments announced a partnership to collaborate on safe...</span><span class="citation-popover-meta">Published: April 2, 2024</span></span></span>
 
-Another was the creation of international scientific assessment efforts. The International AI Safety Report, involving experts nominated by governments and international organisations, traces its origins to commitments made through the Bletchley process. The goal was to establish a shared evidence base about AI capabilities and risks rather than forcing countries to rely entirely on their own assessments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2501.17805" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv International AI Safety Report</span><span class="citation-popover-snippet">International AI Safety ReportJanuary 29, 2025...</span><span class="citation-popover-meta">Published: January 29, 2025</span></span></span>
+Another was the creation of international scientific assessment efforts. The International AI Safety Report, involving experts nominated by governments and international organisations, traces its origins to commitments made through the Bletchley process. The goal was to establish a shared evidence base about AI capabilities and risks rather than forcing countries to rely entirely on their own assessments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2501.17805" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv International AI Safety Report</span><span class="citation-popover-snippet">International AI Safety ReportJanuary 29, 2025...</span><span class="citation-popover-meta">Published: January 29, 2025</span></span></span>
 
-These developments are important because coordination problems often begin with disagreements about facts. If countries cannot even agree on what frontier systems are capable of or what risks they pose, cooperation becomes much harder. Bletchley helped create institutions aimed at producing a common understanding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">The Bletchley Declaration by Countries Attending the AI...2 Nov 2023 — The Bletchley Declaration by Countries Attending the AI Safety Su...</span><span class="citation-popover-meta">Published: november 2023</span></span></span>
+These developments are important because coordination problems often begin with disagreements about facts. If countries cannot even agree on what frontier systems are capable of or what risks they pose, cooperation becomes much harder. Bletchley helped create institutions aimed at producing a common understanding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">The Bletchley Declaration by Countries Attending the AI...2 Nov 2023 — The Bletchley Declaration by Countries Attending the AI Safety Su...</span><span class="citation-popover-meta">Published: november 2023</span></span></span>
 
 Still, these initiatives largely focused on information sharing, evaluation and research. They did not create strong mechanisms for limiting competitive deployment of advanced systems.
 
@@ -332,7 +332,7 @@ Stronger evidence would include measures such as:
 
 </div>
 
-Many proposed AI-governance frameworks focus on these kinds of measures because they move beyond statements of intent and create incentives that can survive periods of geopolitical tension. Some proposals even draw explicit comparisons with arms-control regimes, though AI presents different technical and political challenges. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2501.17805" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv International AI Safety Report</span><span class="citation-popover-snippet">International AI Safety ReportJanuary 29, 2025...</span><span class="citation-popover-meta">Published: January 29, 2025</span></span></span>
+Many proposed AI-governance frameworks focus on these kinds of measures because they move beyond statements of intent and create incentives that can survive periods of geopolitical tension. Some proposals even draw explicit comparisons with arms-control regimes, though AI presents different technical and political challenges.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2501.17805" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv International AI Safety Report</span><span class="citation-popover-snippet">International AI Safety ReportJanuary 29, 2025...</span><span class="citation-popover-meta">Published: January 29, 2025</span></span></span>
 
 From the perspective of AI doom debates, the strongest evidence against race-driven catastrophe would not be a declaration acknowledging risks. It would be proof that rival governments are willing to accept meaningful constraints on themselves.
 
@@ -341,278 +341,278 @@ From the perspective of AI doom debates, the strongest evidence against race-dri
 
 The Bletchley Declaration is best viewed as moderate evidence for cooperation and [weak evidence]({{ 'weak-evidence/' | relative_url }}) for restraint.
 
-It demonstrated that governments often portrayed as rivals can publicly recognise frontier AI risks, use common language about catastrophic harms, and create institutions for scientific collaboration. That outcome was more cooperative than many pessimists expected before the summit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/countries-agree-to-safe-and-responsible-development-of-frontier-ai-in-landmark-bletchley-declaration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">Countries agree to safe and responsible development of...1 Nov 2023 — Leading AI nations have reached a world-first agreement at Bletchl...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/technology/2023/nov/01/uk-us-eu-and-china-sign-declaration-of-ais-catastrophic-danger" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">Bletchley summit communique does not agree to set up testing hub in UK.Read more</span><span class="citation-popover-snippet">The GuardianUK, US, EU and China sign declaration of AI&#x27;s &#x27;catastrophic&#x27;...1 Nov 2023 — UK, US, EU and China sign declaration of AI&#x27;s &#x27;c...</span></span></span>
+It demonstrated that governments often portrayed as rivals can publicly recognise frontier AI risks, use common language about catastrophic harms, and create institutions for scientific collaboration. That outcome was more cooperative than many pessimists expected before the summit.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/countries-agree-to-safe-and-responsible-development-of-frontier-ai-in-landmark-bletchley-declaration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">Countries agree to safe and responsible development of...1 Nov 2023 — Leading AI nations have reached a world-first agreement at Bletchl...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/technology/2023/nov/01/uk-us-eu-and-china-sign-declaration-of-ais-catastrophic-danger" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">Bletchley summit communique does not agree to set up testing hub in UK.Read more</span><span class="citation-popover-snippet">The GuardianUK, US, EU and China sign declaration of AI&#x27;s &#x27;catastrophic&#x27;...1 Nov 2023 — UK, US, EU and China sign declaration of AI&#x27;s &#x27;c...</span></span></span>
 
-However, it did not resolve the central concern behind geopolitical AI-race arguments. Countries can agree that advanced AI might be dangerous while still competing intensely to develop it first. Subsequent disagreements at later international AI meetings and declarations have reinforced the point that cooperation remains fragile and politically contingent rather than settled. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/technology/2023/nov/01/uk-us-eu-and-china-sign-declaration-of-ais-catastrophic-danger" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">Bletchley summit communique does not agree to set up testing hub in UK.Read more</span><span class="citation-popover-snippet">The GuardianUK, US, EU and China sign declaration of AI&#x27;s &#x27;catastrophic&#x27;...1 Nov 2023 — UK, US, EU and China sign declaration of AI&#x27;s &#x27;c...</span></span></span>
+However, it did not resolve the central concern behind geopolitical AI-race arguments. Countries can agree that advanced AI might be dangerous while still competing intensely to develop it first. Subsequent disagreements at later international AI meetings and declarations have reinforced the point that cooperation remains fragile and politically contingent rather than settled.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/technology/2023/nov/01/uk-us-eu-and-china-sign-declaration-of-ais-catastrophic-danger" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">Bletchley summit communique does not agree to set up testing hub in UK.Read more</span><span class="citation-popover-snippet">The GuardianUK, US, EU and China sign declaration of AI&#x27;s &#x27;catastrophic&#x27;...1 Nov 2023 — UK, US, EU and China sign declaration of AI&#x27;s &#x27;c...</span></span></span>
 
 As evidence in the AI doom debate, Bletchley therefore occupies a middle position. It weakens claims that international cooperation is impossible. It does not yet demonstrate that cooperation is strong enough to prevent a race toward increasingly powerful systems if strategic incentives continue to favour acceleration.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ta1PKX4F1e0" title="UK AI safety summit: 28 countries sign up to the Bletchley declaration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ta1PKX4F1e0" target="_blank" rel="noopener noreferrer">UK AI safety summit: 28 countries sign up to the Bletchley declaration</a></p><p class="youtube-embed-meta">Channel: Al Jazeera English &middot; Views: 9.8K &middot; Uploaded: November 2023 &middot; Length: 1 minute 53 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ta1PKX4F1e0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ta1PKX4F1e0">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Bletchley prove AI rivals can cooperate?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Bletchley prove AI rivals can cooperate?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Russell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
+</h4>
+<p class="fr-book-author">By Stuart Russell</p>
         
-        <p class="fr-book-desc">Provides rationale for international AI governance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides rationale for international AI governance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
-        </h4>
-        <p class="fr-book-author">By Mustafa Suleyman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
+</h4>
+<p class="fr-book-author">By Mustafa Suleyman</p>
         
-        <p class="fr-book-desc">Examines international cooperation and containment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines international cooperation and containment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Precipice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=iaejzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Precipice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Precipice">The Precipice</a>
-        </h4>
-        <p class="fr-book-author">By Toby Ord</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Precipice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=iaejzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Precipice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Precipice">The Precipice</a>
+</h4>
+<p class="fr-book-author">By Toby Ord</p>
         
-        <p class="fr-book-desc">Discusses international coordination on global risks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses international coordination on global risks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=World+Order+by+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open World Order on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KyJBAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for World Order" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=World+Order+by+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="World Order">World Order</a>
-        </h4>
-        <p class="fr-book-author">By Henry Kissinger</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=World+Order+by+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open World Order on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KyJBAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for World Order" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=World+Order+by+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="World Order">World Order</a>
+</h4>
+<p class="fr-book-author">By Henry Kissinger</p>
         
-        <p class="fr-book-desc">Useful context for rival-state cooperation problems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=World+Order+by+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful context for rival-state cooperation problems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=World+Order+by+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Precipice&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Precipice</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Precipice&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Precipice</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 10 Random Science Education Themed Stickers Decals Laptop Yeti Car Free Shipping"><img src="{{ '/assets/images/marketplace-covers/46b8553cc16c55a738c0.jpg' | relative_url }}" alt="Listing image for 10 Random Science Education Themed Stickers Decals Laptop Yeti Car Free Shipping" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">10 Random Science Education Themed Stickers Decals Laptop Yeti Car Free Shipping</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science sticker">Search <span data-ebay-domain-label>eBay.com</span>: science sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-science-sticker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 10 Random Science Education Themed Stickers Decals Laptop Yeti Car Free Shipping"><img src="{{ '/assets/images/marketplace-covers/46b8553cc16c55a738c0.jpg' | relative_url }}" alt="Listing image for 10 Random Science Education Themed Stickers Decals Laptop Yeti Car Free Shipping" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">10 Random Science Education Themed Stickers Decals Laptop Yeti Car Free Shipping</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science sticker">Search<span data-ebay-domain-label>eBay.com</span>: science sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-science-sticker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 500PCS Science Chemistry Stickers Rolls – Lab Experiment Cartoon Reward Labels"><img src="{{ '/assets/images/marketplace-covers/1ece629a145f826eb9e1.jpg' | relative_url }}" alt="Listing image for 500PCS Science Chemistry Stickers Rolls – Lab Experiment Cartoon Reward Labels" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">500PCS Science Chemistry Stickers Rolls – Lab Experiment Cartoon Reward Labels</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science sticker">Search <span data-ebay-domain-label>eBay.com</span>: science sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-science-sticker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 500PCS Science Chemistry Stickers Rolls – Lab Experiment Cartoon Reward Labels"><img src="{{ '/assets/images/marketplace-covers/1ece629a145f826eb9e1.jpg' | relative_url }}" alt="Listing image for 500PCS Science Chemistry Stickers Rolls – Lab Experiment Cartoon Reward Labels" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">500PCS Science Chemistry Stickers Rolls – Lab Experiment Cartoon Reward Labels</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science sticker">Search<span data-ebay-domain-label>eBay.com</span>: science sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-science-sticker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Science Sticker. Laptop Decal. Dishwasher Safe Water Bottle Decor."><img src="{{ '/assets/images/marketplace-covers/da5dbecd222b6a120913.jpg' | relative_url }}" alt="Listing image for Funny Science Sticker. Laptop Decal. Dishwasher Safe Water Bottle Decor." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Funny Science Sticker. Laptop Decal. Dishwasher Safe Water Bottle Decor.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science sticker">Search <span data-ebay-domain-label>eBay.com</span>: science sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-science-sticker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Science Sticker. Laptop Decal. Dishwasher Safe Water Bottle Decor."><img src="{{ '/assets/images/marketplace-covers/da5dbecd222b6a120913.jpg' | relative_url }}" alt="Listing image for Funny Science Sticker. Laptop Decal. Dishwasher Safe Water Bottle Decor." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Funny Science Sticker. Laptop Decal. Dishwasher Safe Water Bottle Decor.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science sticker">Search<span data-ebay-domain-label>eBay.com</span>: science sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-science-sticker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Atomic Energy Commission USA Seal Sticker | Science Physics Nuclear Vinyl 4993"><img src="{{ '/assets/images/marketplace-covers/60589373018108bcd780.jpg' | relative_url }}" alt="Listing image for Atomic Energy Commission USA Seal Sticker | Science Physics Nuclear Vinyl 4993" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Atomic Energy Commission USA Seal Sticker | Science Physics Nuclear Vinyl 4993</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science sticker">Search <span data-ebay-domain-label>eBay.com</span>: science sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-science-sticker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Atomic Energy Commission USA Seal Sticker | Science Physics Nuclear Vinyl 4993"><img src="{{ '/assets/images/marketplace-covers/60589373018108bcd780.jpg' | relative_url }}" alt="Listing image for Atomic Energy Commission USA Seal Sticker | Science Physics Nuclear Vinyl 4993" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Atomic Energy Commission USA Seal Sticker | Science Physics Nuclear Vinyl 4993</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science sticker">Search<span data-ebay-domain-label>eBay.com</span>: science sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-science-sticker&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=science+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-science-sticker&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ccd8b5ee633357b5409d.jpg' | relative_url }}" alt="Listing image for Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ccd8b5ee633357b5409d.jpg' | relative_url }}" alt="Listing image for Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. Artificial Intelligence Movie Film Poster Art Print"><img src="{{ '/assets/images/marketplace-covers/fb76514b204d73a37317.jpg' | relative_url }}" alt="Listing image for A.I. Artificial Intelligence Movie Film Poster Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A.I. Artificial Intelligence Movie Film Poster Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. Artificial Intelligence Movie Film Poster Art Print"><img src="{{ '/assets/images/marketplace-covers/fb76514b204d73a37317.jpg' | relative_url }}" alt="Listing image for A.I. Artificial Intelligence Movie Film Poster Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A.I. Artificial Intelligence Movie Film Poster Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery"><img src="{{ '/assets/images/marketplace-covers/fe6f721a300e36459934.jpg' | relative_url }}" alt="Listing image for A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery"><img src="{{ '/assets/images/marketplace-covers/fe6f721a300e36459934.jpg' | relative_url }}" alt="Listing image for A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray"><img src="{{ '/assets/images/marketplace-covers/3c3ecd285cbeae3cd708.jpg' | relative_url }}" alt="Listing image for AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray"><img src="{{ '/assets/images/marketplace-covers/3c3ecd285cbeae3cd708.jpg' | relative_url }}" alt="Listing image for AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bletchley-did-bletchley-prove-ai-rivals-can-cooperate-ai-doom-and-artificial-intelligence-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -628,7 +628,7 @@ As evidence in the AI doom debate, Bletchley therefore occupies a middle positio
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -648,7 +648,7 @@ As evidence in the AI doom debate, Bletchley therefore occupies a middle positio
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -680,7 +680,7 @@ As evidence in the AI doom debate, Bletchley therefore occupies a middle positio
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -710,7 +710,7 @@ As evidence in the AI doom debate, Bletchley therefore occupies a middle positio
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -768,206 +768,206 @@ As evidence in the AI doom debate, Bletchley therefore occupies a middle positio
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Bletchley Declaration by Countries Attending the AI...2 Nov 2023 — The Bletchley Declaration by Countries Attending the AI Safety Su...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Bletchley Declaration by Countries Attending the AI...2 Nov 2023 — The Bletchley Declaration by Countries Attending the AI Safety Su...</p></details>
    Published: november 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/news/countries-agree-to-safe-and-responsible-development-of-frontier-ai-in-landmark-bletchley-declaration" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/countries-agree-to-safe-and-responsible-development-of-frontier-ai-in-landmark-bletchley-declaration</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Countries agree to safe and responsible development of...1 Nov 2023 — Leading AI nations have reached a world-first agreement at Bletchl...</p></details>
+   Link:<a href="https://www.gov.uk/government/news/countries-agree-to-safe-and-responsible-development-of-frontier-ai-in-landmark-bletchley-declaration" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/countries-agree-to-safe-and-responsible-development-of-frontier-ai-in-landmark-bletchley-declaration</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Countries agree to safe and responsible development of...1 Nov 2023 — Leading AI nations have reached a world-first agreement at Bletchl...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reuters.com  
    Title: britain brings together political tech leaders talk ai 2023 11 01  
-   Link: <a href="https://www.reuters.com/technology/britain-brings-together-political-tech-leaders-talk-ai-2023-11-01/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/britain-brings-together-political-tech-leaders-talk-ai-2023-11-01/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Safety Summit: China, US and EU agree to work together1 Nov 2023 — China agreed to work with the United States, European Union...</p></details>
+   Link:<a href="https://www.reuters.com/technology/britain-brings-together-political-tech-leaders-talk-ai-2023-11-01/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/britain-brings-together-political-tech-leaders-talk-ai-2023-11-01/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Safety Summit: China, US and EU agree to work together1 Nov 2023 — China agreed to work with the United States, European Union...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: industry.gov.au  
    Title: bletchley declaration countries attending ai safety summit 1 2 november 2023  
-   Link: <a href="https://www.industry.gov.au/publications/bletchley-declaration-countries-attending-ai-safety-summit-1-2-november-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.industry.gov.au/publications/bletchley-declaration-countries-attending-ai-safety-summit-1-2-november-2023</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Bletchley Declaration by Countries Attending the AI...2 Nov 2023 — The Bletchley Declaration establishes a shared understanding of t...</p></details>
+   Link:<a href="https://www.industry.gov.au/publications/bletchley-declaration-countries-attending-ai-safety-summit-1-2-november-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.industry.gov.au/publications/bletchley-declaration-countries-attending-ai-safety-summit-1-2-november-2023</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Bletchley Declaration by Countries Attending the AI...2 Nov 2023 — The Bletchley Declaration establishes a shared understanding of t...</p></details>
    Published: november 2023  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/publications/ai-safety-summit-2023-chairs-statement-state-of-the-science-2-november/state-of-the-science-report-to-understand-capabilities-and-risks-of-frontier-ai-statement-by-the-chair-2-november-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-safety-summit-2023-chairs-statement-state-of-the-science-2-november/state-of-the-science-report-to-understand-capabilities-and-risks-of-frontier-ai-statement-by-the-chair-2-november-2023</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;State of the Science&#x27; Report to Understand Capabilities...Nov 2, 2023 — The intention of the &#x27;State of the Science&#x27; Report is to facili...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/ai-safety-summit-2023-chairs-statement-state-of-the-science-2-november/state-of-the-science-report-to-understand-capabilities-and-risks-of-frontier-ai-statement-by-the-chair-2-november-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-safety-summit-2023-chairs-statement-state-of-the-science-2-november/state-of-the-science-report-to-understand-capabilities-and-risks-of-frontier-ai-statement-by-the-chair-2-november-2023</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;State of the Science&#x27; Report to Understand Capabilities...Nov 2, 2023 — The intention of the &#x27;State of the Science&#x27; Report is to facili...</p></details>
    Published: november 2023  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: belganewsagency.eu  
    Title: us china and eu sign statement on artificial intelligence risks  
-   Link: <a href="https://www.belganewsagency.eu/us-china-and-eu-sign-statement-on-artificial-intelligence-risks" target="_blank" rel="noopener noreferrer nofollow">https://www.belganewsagency.eu/us-china-and-eu-sign-statement-on-artificial-intelligence-risks</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>US, China and EU sign statement on risks of artificial...1 Nov 2023 — China, the US, the EU and 25 other countries have signed the first...</p></details>
+   Link:<a href="https://www.belganewsagency.eu/us-china-and-eu-sign-statement-on-artificial-intelligence-risks" target="_blank" rel="noopener noreferrer nofollow">https://www.belganewsagency.eu/us-china-and-eu-sign-statement-on-artificial-intelligence-risks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US, China and EU sign statement on risks of artificial...1 Nov 2023 — China, the US, the EU and 25 other countries have signed the first...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: wired.com  
    Title: World Powers Say They Want to Contain AI  
-   Link: <a href="https://www.wired.com/story/uk-ai-summit-declaration" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/uk-ai-summit-declaration</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>They&#x27;re Also Racing to Advance ItNovember 2, 2023 — On November 1, 2023, twenty-eight countries, including the US, EU members, and China...</p></details>
+   Link:<a href="https://www.wired.com/story/uk-ai-summit-declaration" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/uk-ai-summit-declaration</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>They&#x27;re Also Racing to Advance ItNovember 2, 2023 — On November 1, 2023, twenty-eight countries, including the US, EU members, and China...</p></details>
    Published: November 2, 2023  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: regulations.ai  
-   Link: <a href="https://regulations.ai/regulations/RAI-GB-NA-BDO2AXX-2023" target="_blank" rel="noopener noreferrer nofollow">https://regulations.ai/regulations/RAI-GB-NA-BDO2AXX-2023</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bletchley Declaration (outcome of 2023 AI Safety Summit)6 Jan 2026 — It sets out a shared agenda to identify AI safety risks of common co...</p></details>
+   Link:<a href="https://regulations.ai/regulations/RAI-GB-NA-BDO2AXX-2023" target="_blank" rel="noopener noreferrer nofollow">https://regulations.ai/regulations/RAI-GB-NA-BDO2AXX-2023</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bletchley Declaration (outcome of 2023 AI Safety Summit)6 Jan 2026 — It sets out a shared agenda to identify AI safety risks of common co...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: time.com  
    Title: U.S., U.K  
-   Link: <a href="https://time.com/6962503/ai-artificial-intelligence-uk-us-safety/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6962503/ai-artificial-intelligence-uk-us-safety/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Announce Partnership to Safety Test AI ModelsApril 2, 2024 — The U.S. and U.K. governments announced a partnership to collaborate on safe...</p></details>
+   Link:<a href="https://time.com/6962503/ai-artificial-intelligence-uk-us-safety/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6962503/ai-artificial-intelligence-uk-us-safety/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Announce Partnership to Safety Test AI ModelsApril 2, 2024 — The U.S. and U.K. governments announced a partnership to collaborate on safe...</p></details>
    Published: April 2, 2024  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
    Title: arXiv International AI Safety Report  
-   Link: <a href="https://arxiv.org/abs/2501.17805" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2501.17805</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>International AI Safety ReportJanuary 29, 2025...</p></details>
+   Link:<a href="https://arxiv.org/abs/2501.17805" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2501.17805</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>International AI Safety ReportJanuary 29, 2025...</p></details>
    Published: January 29, 2025  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2602.21012" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2602.21012</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>International AI Safety Report 2026...</p></details>
+   Link:<a href="https://arxiv.org/abs/2602.21012" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2602.21012</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>International AI Safety Report 2026...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2311.10748" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2311.10748</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An international treaty to implement a global compute cap for advanced artificial intelligenceNovember 1, 2023...</p></details>
+   Link:<a href="https://arxiv.org/abs/2311.10748" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2311.10748</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An international treaty to implement a global compute cap for advanced artificial intelligenceNovember 1, 2023...</p></details>
    Published: November 1, 2023  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: arxiv.org  
    Title: arXiv Frontier AI Regulation: Managing Emerging Risks to Public Safety  
-   Link: <a href="https://arxiv.org/abs/2307.03718" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2307.03718</a>  
+   Link:<a href="https://arxiv.org/abs/2307.03718" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2307.03718</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: minister.industry.gov.au  
    Title: australia signs bletchley declaration ai safety summit  
-   Link: <a href="https://www.minister.industry.gov.au/ministers/husic/media-releases/australia-signs-bletchley-declaration-ai-safety-summit" target="_blank" rel="noopener noreferrer nofollow">https://www.minister.industry.gov.au/ministers/husic/media-releases/australia-signs-bletchley-declaration-ai-safety-summit</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>artificial intelligence (AI). Australia, alongside the EU and 27 countries, including the US, UK and China, signed the Bletchley Declarat...</p></details>
+   Link:<a href="https://www.minister.industry.gov.au/ministers/husic/media-releases/australia-signs-bletchley-declaration-ai-safety-summit" target="_blank" rel="noopener noreferrer nofollow">https://www.minister.industry.gov.au/ministers/husic/media-releases/australia-signs-bletchley-declaration-ai-safety-summit</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>artificial intelligence (AI). Australia, alongside the EU and 27 countries, including the US, UK and China, signed the Bletchley Declarat...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: assets.publishing.service.gov.uk  
    Title: aiss statement state of science report  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/6543b759d36c910012935cad/aiss-statement-state-of-science-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6543b759d36c910012935cad/aiss-statement-state-of-science-report.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and risks of frontier AI. This comes as part of the commitment in the Bletchley Declaration.Read more...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/6543b759d36c910012935cad/aiss-statement-state-of-science-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6543b759d36c910012935cad/aiss-statement-state-of-science-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and risks of frontier AI. This comes as part of the commitment in the Bletchley Declaration.Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: assets.publishing.service.gov.uk  
    Title: publishing.service.gov.uk Chair's  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/6543e0b61f1a60000d360d2b/aiss-chair-statement.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6543e0b61f1a60000d360d2b/aiss-chair-statement.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>publishing.service.gov.ukChair&#x27;s Summary of the AI Safety Summit 2023, Bletchley...1 Nov 2023 — This Summit, the first of its kind, was...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/6543e0b61f1a60000d360d2b/aiss-chair-statement.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6543e0b61f1a60000d360d2b/aiss-chair-statement.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>publishing.service.gov.ukChair&#x27;s Summary of the AI Safety Summit 2023, Bletchley...1 Nov 2023 — This Summit, the first of its kind, was...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: GOV.UK  
    Title: ai safety summit 2023  
-   Link: <a href="https://www.gov.uk/government/topical-events/ai-safety-summit-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/topical-events/ai-safety-summit-2023</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Safety Summit 2023The AI Safety Summit 2023 is a major global event that will take place on the 1 and 2 November at Bletchley Park, Bucki...</p></details>
+   Link:<a href="https://www.gov.uk/government/topical-events/ai-safety-summit-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/topical-events/ai-safety-summit-2023</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Safety Summit 2023The AI Safety Summit 2023 is a major global event that will take place on the 1 and 2 November at Bletchley Park, Bucki...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: GOV.UK  
    Title: ai safety summit 2023 the bletchley declaration  
-   Link: <a href="https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Safety Summit 2023: The Bletchley DeclarationNov 1, 2023 — The Bletchley Declaration on AI Safety announces a new global effort to unlock...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Safety Summit 2023: The Bletchley DeclarationNov 1, 2023 — The Bletchley Declaration on AI Safety announces a new global effort to unlock...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: time.com  
    Title: us china ai safety summit  
-   Link: <a href="https://time.com/6331320/us-china-ai-safety-summit/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6331320/us-china-ai-safety-summit/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Safety Summit Puts U.S.-China Relations in the Spotlight3 Nov 2023 — The US and China were two of 29 countries to sign the Bletchley D...</p></details>
+   Link:<a href="https://time.com/6331320/us-china-ai-safety-summit/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6331320/us-china-ai-safety-summit/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Safety Summit Puts U.S.-China Relations in the Spotlight3 Nov 2023 — The US and China were two of 29 countries to sign the Bletchley D...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=kXjmMB9YbJY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kXjmMB9YbJY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Perspective - AI: The Road Ahead | 09 November, 2023...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kXjmMB9YbJY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kXjmMB9YbJY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Perspective - AI: The Road Ahead | 09 November, 2023...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=iBcRWPkv-E0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iBcRWPkv-E0</a>  
+   Link:<a href="https://www.youtube.com/watch?v=iBcRWPkv-E0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iBcRWPkv-E0</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: datamatters.sidley.com  
    Title: Data Matters Privacy Blog'World-First' Agreement on AI Reached  
-   Link: <a href="https://datamatters.sidley.com/2023/12/07/world-first-agreement-on-ai-reached/" target="_blank" rel="noopener noreferrer nofollow">https://datamatters.sidley.com/2023/12/07/world-first-agreement-on-ai-reached/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Matters - SidleyDec 7, 2023 — The “Bletchley Declaration” – described by the UK Government as a &#x27;world-first&#x27; agreement – was endors...</p></details>
+   Link:<a href="https://datamatters.sidley.com/2023/12/07/world-first-agreement-on-ai-reached/" target="_blank" rel="noopener noreferrer nofollow">https://datamatters.sidley.com/2023/12/07/world-first-agreement-on-ai-reached/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data Matters - SidleyDec 7, 2023 — The “Bletchley Declaration” – described by the UK Government as a &#x27;world-first&#x27; agreement – was endors...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: theguardian.com  
    Title: Bletchley summit communique does not agree to set up testing hub in UK.Read more  
-   Link: <a href="https://www.theguardian.com/technology/2023/nov/01/uk-us-eu-and-china-sign-declaration-of-ais-catastrophic-danger" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2023/nov/01/uk-us-eu-and-china-sign-declaration-of-ais-catastrophic-danger</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianUK, US, EU and China sign declaration of AI&#x27;s &#x27;catastrophic&#x27;...1 Nov 2023 — UK, US, EU and China sign declaration of AI&#x27;s &#x27;c...</p></details>
+   Link:<a href="https://www.theguardian.com/technology/2023/nov/01/uk-us-eu-and-china-sign-declaration-of-ais-catastrophic-danger" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2023/nov/01/uk-us-eu-and-china-sign-declaration-of-ais-catastrophic-danger</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianUK, US, EU and China sign declaration of AI&#x27;s &#x27;catastrophic&#x27;...1 Nov 2023 — UK, US, EU and China sign declaration of AI&#x27;s &#x27;c...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: theguardian.com  
    Title: us uk paris ai summit artificial intelligence declaration  
-   Link: <a href="https://www.theguardian.com/technology/2025/feb/11/us-uk-paris-ai-summit-artificial-intelligence-declaration" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2025/feb/11/us-uk-paris-ai-summit-artificial-intelligence-declaration</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The declaration emphasized the need for AI to be inclusive, ethical, safe, and sustainable. The UK cited insufficient clarity on global g...</p></details>
+   Link:<a href="https://www.theguardian.com/technology/2025/feb/11/us-uk-paris-ai-summit-artificial-intelligence-declaration" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2025/feb/11/us-uk-paris-ai-summit-artificial-intelligence-declaration</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The declaration emphasized the need for AI to be inclusive, ethical, safe, and sustainable. The UK cited insufficient clarity on global g...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Bletchley" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bletchley</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BletchleyBletchley is a constituent town of Milton Keynes, a city in Buckinghamshire, England. It gives its name to a larger census &quot;b...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Bletchley" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bletchley</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BletchleyBletchley is a constituent town of Milton Keynes, a city in Buckinghamshire, England. It gives its name to a larger census &quot;b...</p></details>
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: thetimes.co.uk  
-   Link: <a href="https://www.thetimes.co.uk/article/ai-summit-draft-declaration-criticised-for-lack-of-safety-progress-0kz6znrf5" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/ai-summit-draft-declaration-criticised-for-lack-of-safety-progress-0kz6znrf5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The summit, co-hosted by President Macron and Indian Prime Minister Narendra Modi, gathers world leaders and key AI company heads. Attend...</p></details>
+   Link:<a href="https://www.thetimes.co.uk/article/ai-summit-draft-declaration-criticised-for-lack-of-safety-progress-0kz6znrf5" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/ai-summit-draft-declaration-criticised-for-lack-of-safety-progress-0kz6znrf5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The summit, co-hosted by President Macron and Indian Prime Minister Narendra Modi, gathers world leaders and key AI company heads. Attend...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: brookings.edu  
-   Link: <a href="https://www.brookings.edu/articles/the-bletchley-park-process-could-be-a-building-block-for-global-cooperation-on-ai-safety/" target="_blank" rel="noopener noreferrer nofollow">https://www.brookings.edu/articles/the-bletchley-park-process-could-be-a-building-block-for-global-cooperation-on-ai-safety/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Bletchley Park process could be a building block for...4 Oct 2024 — The Bletchley Park AI Safety Summit last November was launched a...</p></details>
+   Link:<a href="https://www.brookings.edu/articles/the-bletchley-park-process-could-be-a-building-block-for-global-cooperation-on-ai-safety/" target="_blank" rel="noopener noreferrer nofollow">https://www.brookings.edu/articles/the-bletchley-park-process-could-be-a-building-block-for-global-cooperation-on-ai-safety/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Bletchley Park process could be a building block for...4 Oct 2024 — The Bletchley Park AI Safety Summit last November was launched a...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: silicon.co.uk  
    Title: ai safety summit 2023 uk us china eu sign declaration of ais danger 537097  
-   Link: <a href="https://www.silicon.co.uk/e-innovation/artificial-intelligence/ai-safety-summit-2023-uk-us-china-eu-sign-declaration-of-ais-danger-537097" target="_blank" rel="noopener noreferrer nofollow">https://www.silicon.co.uk/e-innovation/artificial-intelligence/ai-safety-summit-2023-uk-us-china-eu-sign-declaration-of-ais-danger-537097</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Safety Summit 2023: UK, US, China, EU Declaration2 Nov 2023 — Bletchley Declaration sees major nations all agreed that artificial inte...</p></details>
+   Link:<a href="https://www.silicon.co.uk/e-innovation/artificial-intelligence/ai-safety-summit-2023-uk-us-china-eu-sign-declaration-of-ais-danger-537097" target="_blank" rel="noopener noreferrer nofollow">https://www.silicon.co.uk/e-innovation/artificial-intelligence/ai-safety-summit-2023-uk-us-china-eu-sign-declaration-of-ais-danger-537097</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Safety Summit 2023: UK, US, China, EU Declaration2 Nov 2023 — Bletchley Declaration sees major nations all agreed that artificial inte...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: oxfordmartin.ox.ac.uk  
    Title: promising topics for us china dialogues on ai safety and governance  
-   Link: <a href="https://www.oxfordmartin.ox.ac.uk/publications/promising-topics-for-us-china-dialogues-on-ai-safety-and-governance" target="_blank" rel="noopener noreferrer nofollow">https://www.oxfordmartin.ox.ac.uk/publications/promising-topics-for-us-china-dialogues-on-ai-safety-and-governance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Topics for US–China Dialogues on AI… | Oxford...20 Jan 2025 — In 2023, both the US and China signed the Bletchley Declaration, acknowled...</p></details>
+   Link:<a href="https://www.oxfordmartin.ox.ac.uk/publications/promising-topics-for-us-china-dialogues-on-ai-safety-and-governance" target="_blank" rel="noopener noreferrer nofollow">https://www.oxfordmartin.ox.ac.uk/publications/promising-topics-for-us-china-dialogues-on-ai-safety-and-governance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Topics for US–China Dialogues on AI… | Oxford...20 Jan 2025 — In 2023, both the US and China signed the Bletchley Declaration, acknowled...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: bradley.com  
    Title: ai regulation efforts are picking up key takeaways for businesses  
-   Link: <a href="https://www.bradley.com/insights/publications/2023/11/ai-regulation-efforts-are-picking-up-key-takeaways-for-businesses" target="_blank" rel="noopener noreferrer nofollow">https://www.bradley.com/insights/publications/2023/11/ai-regulation-efforts-are-picking-up-key-takeaways-for-businesses</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Regulation Efforts Are Picking Up: Key Takeaways for...9 Nov 2023 — Meanwhile, the 2023 AI Safety Summit, a key initiative for global...</p></details>
+   Link:<a href="https://www.bradley.com/insights/publications/2023/11/ai-regulation-efforts-are-picking-up-key-takeaways-for-businesses" target="_blank" rel="noopener noreferrer nofollow">https://www.bradley.com/insights/publications/2023/11/ai-regulation-efforts-are-picking-up-key-takeaways-for-businesses</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Regulation Efforts Are Picking Up: Key Takeaways for...9 Nov 2023 — Meanwhile, the 2023 AI Safety Summit, a key initiative for global...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: twobirds.com  
    Title: global superpowers sign agreement on ai safety at bletchley park  
-   Link: <a href="https://www.twobirds.com/en/insights/2023/uk/global-superpowers-sign-agreement-on-ai-safety-at-bletchley-park" target="_blank" rel="noopener noreferrer nofollow">https://www.twobirds.com/en/insights/2023/uk/global-superpowers-sign-agreement-on-ai-safety-at-bletchley-park</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Global superpowers sign agreement on AI safety at...22 Nov 2023 — A significant aspect of the declaration is the focus on “frontier AI,”...</p></details>
+   Link:<a href="https://www.twobirds.com/en/insights/2023/uk/global-superpowers-sign-agreement-on-ai-safety-at-bletchley-park" target="_blank" rel="noopener noreferrer nofollow">https://www.twobirds.com/en/insights/2023/uk/global-superpowers-sign-agreement-on-ai-safety-at-bletchley-park</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Global superpowers sign agreement on AI safety at...22 Nov 2023 — A significant aspect of the declaration is the focus on “frontier AI,”...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: pinsentmasons.com  
    Title: global powers sign bletchley declaration on ai safety  
-   Link: <a href="https://www.pinsentmasons.com/out-law/news/global-powers-sign-bletchley-declaration-on-ai-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.pinsentmasons.com/out-law/news/global-powers-sign-bletchley-declaration-on-ai-safety</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Nov 2023 — The Bletchley declaration on AI safety shows Rishi Sunak has made his mark in establishing a global consensus on the opportu...</p></details>
+   Link:<a href="https://www.pinsentmasons.com/out-law/news/global-powers-sign-bletchley-declaration-on-ai-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.pinsentmasons.com/out-law/news/global-powers-sign-bletchley-declaration-on-ai-safety</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 Nov 2023 — The Bletchley declaration on AI safety shows Rishi Sunak has made his mark in establishing a global consensus on the opportu...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: burges-salmon.com  
    Title: bletchley declaration signed at uk ai safety summit  
-   Link: <a href="https://www.burges-salmon.com/articles/102iryj/bletchley-declaration-signed-at-uk-ai-safety-summit/" target="_blank" rel="noopener noreferrer nofollow">https://www.burges-salmon.com/articles/102iryj/bletchley-declaration-signed-at-uk-ai-safety-summit/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Declaration, signed at the AI Safety Summit 2023, aims to coordinate global cooperation on artificial intelligence (AI) safety.Read more...</p></details>
+   Link:<a href="https://www.burges-salmon.com/articles/102iryj/bletchley-declaration-signed-at-uk-ai-safety-summit/" target="_blank" rel="noopener noreferrer nofollow">https://www.burges-salmon.com/articles/102iryj/bletchley-declaration-signed-at-uk-ai-safety-summit/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Declaration, signed at the AI Safety Summit 2023, aims to coordinate global cooperation on artificial intelligence (AI) safety.Read more...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/bletchley-declaration-countries-attending-ai-safety-summit-1-2-jlhne" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/bletchley-declaration-countries-attending-ai-safety-summit-1-2-jlhne</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>, we resolve to intensify and sustain our cooperation, and broaden...Read more...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/bletchley-declaration-countries-attending-ai-safety-summit-1-2-jlhne" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/bletchley-declaration-countries-attending-ai-safety-summit-1-2-jlhne</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>, we resolve to intensify and sustain our cooperation, and broaden...Read more...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: verfassungsblog.de  
-   Link: <a href="https://verfassungsblog.de/biden-bletchley-and-the-emerging-international-law-of-ai/" target="_blank" rel="noopener noreferrer nofollow">https://verfassungsblog.de/biden-bletchley-and-the-emerging-international-law-of-ai/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Biden, Bletchley, and the emerging international law of AIby NA Smuha · 2023 · Cited by 7 — Biden&#x27;s Executive Order should hence be read...</p></details>
+   Link:<a href="https://verfassungsblog.de/biden-bletchley-and-the-emerging-international-law-of-ai/" target="_blank" rel="noopener noreferrer nofollow">https://verfassungsblog.de/biden-bletchley-and-the-emerging-international-law-of-ai/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Biden, Bletchley, and the emerging international law of AIby NA Smuha · 2023 · Cited by 7 — Biden&#x27;s Executive Order should hence be read...</p></details>

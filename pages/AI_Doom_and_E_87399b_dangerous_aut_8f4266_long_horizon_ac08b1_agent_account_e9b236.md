@@ -319,237 +319,237 @@ In short, **accountability trails are foundational to meaningful human oversight
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tiDTHaytcRQ" title="Audit Trails and AI Transparency - Regulatory Compliance under the EU AI Act" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tiDTHaytcRQ" target="_blank" rel="noopener noreferrer">Audit Trails and AI Transparency - Regulatory Compliance under the EU AI Act</a></p><p class="youtube-embed-meta">Channel: Lab ICT Heron &middot; Views: 224 &middot; Uploaded: March 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tiDTHaytcRQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tiDTHaytcRQ">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who is responsible when an agent goes wrong?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who is responsible when an agent goes wrong?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
-        </h4>
-        <p class="fr-book-author">By Brian Christian</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
+</h4>
+<p class="fr-book-author">By Brian Christian</p>
         
-        <p class="fr-book-desc">Explores responsibility, human oversight, and failures that emerge from machine-learning systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores responsibility, human oversight, and failures that emerge from machine-learning systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8vm0DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Jonathan Russell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8vm0DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
+</h4>
+<p class="fr-book-author">By Stuart Jonathan Russell</p>
         
-        <p class="fr-book-desc">Addresses human responsibility for controlling and supervising autonomous systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses human responsibility for controlling and supervising autonomous systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Oxford+Handbook+of+AI+Governance+by+Justin+B.+Bullock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oxford Handbook of AI Governance on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=k475EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Oxford Handbook of AI Governance" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Oxford+Handbook+of+AI+Governance+by+Justin+B.+Bullock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford Handbook of AI Governance">The Oxford Handbook of AI Governance</a>
-        </h4>
-        <p class="fr-book-author">By Justin B. Bullock, Yu-Che Chen et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Oxford+Handbook+of+AI+Governance+by+Justin+B.+Bullock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oxford Handbook of AI Governance on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=k475EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Oxford Handbook of AI Governance" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Oxford+Handbook+of+AI+Governance+by+Justin+B.+Bullock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford Handbook of AI Governance">The Oxford Handbook of AI Governance</a>
+</h4>
+<p class="fr-book-author">By Justin B. Bullock, Yu-Che Chen et al.</p>
         
-        <p class="fr-book-desc">Covers responsibility, regulation, and institutional accountability for AI systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Oxford+Handbook+of+AI+Governance+by+Justin+B.+Bullock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers responsibility, regulation, and institutional accountability for AI systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Oxford+Handbook+of+AI+Governance+by+Justin+B.+Bullock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Human+Algorithm+by+Flynn+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Human Algorithm on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ep2QEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A Human Algorithm" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Human+Algorithm+by+Flynn+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Human Algorithm">A Human Algorithm</a>
-        </h4>
-        <p class="fr-book-author">By Flynn Coleman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Human+Algorithm+by+Flynn+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Human Algorithm on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ep2QEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A Human Algorithm" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Human+Algorithm+by+Flynn+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Human Algorithm">A Human Algorithm</a>
+</h4>
+<p class="fr-book-author">By Flynn Coleman</p>
         
-        <p class="fr-book-desc">Examines governance, oversight, and accountability frameworks around AI deployment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Human+Algorithm+by+Flynn+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines governance, oversight, and accountability frameworks around AI deployment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Human+Algorithm+by+Flynn+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Oxford+of+AI+Governance+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Oxford of AI Governance books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Oxford+of+AI+Governance+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Oxford of AI Governance books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-science-print&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Periodic Table of the Elements Educational Science Poster"><img src="{{ '/assets/images/marketplace-covers/e66a974b13cb7e6320c9.jpg' | relative_url }}" alt="Listing image for Vintage Periodic Table of the Elements Educational Science Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-science-print&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Periodic Table of the Elements Educational Science Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-science-print&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science print">Search <span data-ebay-domain-label>eBay.com</span>: science print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-science-print&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-science-print&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Periodic Table of the Elements Educational Science Poster"><img src="{{ '/assets/images/marketplace-covers/e66a974b13cb7e6320c9.jpg' | relative_url }}" alt="Listing image for Vintage Periodic Table of the Elements Educational Science Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-science-print&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Periodic Table of the Elements Educational Science Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-science-print&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science print">Search<span data-ebay-domain-label>eBay.com</span>: science print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-science-print&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-science-print&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Evolutionary Tree of Life Infographic Science Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/70b3e174813140595cd6.jpg' | relative_url }}" alt="Listing image for Evolutionary Tree of Life Infographic Science Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-science-print&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Evolutionary Tree of Life Infographic Science Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-science-print&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science print">Search <span data-ebay-domain-label>eBay.com</span>: science print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-science-print&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-science-print&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-science-print&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Evolutionary Tree of Life Infographic Science Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/70b3e174813140595cd6.jpg' | relative_url }}" alt="Listing image for Evolutionary Tree of Life Infographic Science Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-science-print&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Evolutionary Tree of Life Infographic Science Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-science-print&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science print">Search<span data-ebay-domain-label>eBay.com</span>: science print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-science-print&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=science+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-science-print&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cybersecurity Matrix Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f8dbdcfcf526296a12d7.jpg' | relative_url }}" alt="Listing image for Cybersecurity Matrix Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Cybersecurity Matrix Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cybersecurity Matrix Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f8dbdcfcf526296a12d7.jpg' | relative_url }}" alt="Listing image for Cybersecurity Matrix Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Cybersecurity Matrix Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cybersecurity Flowchart Solution Fr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/afd1854bdddcb175a25e.jpg' | relative_url }}" alt="Listing image for Cybersecurity Flowchart Solution Fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Cybersecurity Flowchart Solution Fr Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cybersecurity Flowchart Solution Fr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/afd1854bdddcb175a25e.jpg' | relative_url }}" alt="Listing image for Cybersecurity Flowchart Solution Fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Cybersecurity Flowchart Solution Fr Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for cybersecurity beware session cookie Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/0a0d82cd852bae70b3ee.jpg' | relative_url }}" alt="Listing image for cybersecurity beware session cookie Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">cybersecurity beware session cookie Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for cybersecurity beware session cookie Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/0a0d82cd852bae70b3ee.jpg' | relative_url }}" alt="Listing image for cybersecurity beware session cookie Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">cybersecurity beware session cookie Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Advanced Cybersecurity Concept Visu Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/dee93b356983a4b1a8ee.jpg' | relative_url }}" alt="Listing image for Advanced Cybersecurity Concept Visu Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Advanced Cybersecurity Concept Visu Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Advanced Cybersecurity Concept Visu Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/dee93b356983a4b1a8ee.jpg' | relative_url }}" alt="Listing image for Advanced Cybersecurity Concept Visu Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Advanced Cybersecurity Concept Visu Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trails-who-is-responsible-when-an-agent-goes-wrong-ai-doom-and-cybersecurity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -565,7 +565,7 @@ In short, **accountability trails are foundational to meaningful human oversight
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -585,7 +585,7 @@ In short, **accountability trails are foundational to meaningful human oversight
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -617,7 +617,7 @@ In short, **accountability trails are foundational to meaningful human oversight
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -647,7 +647,7 @@ In short, **accountability trails are foundational to meaningful human oversight
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -705,151 +705,151 @@ In short, **accountability trails are foundational to meaningful human oversight
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ibm.com  
    Title: The accountability gap in autonomous AI | IBM  
-   Link: <a href="https://www.ibm.com/think/insights/accountability-gap-autonomous-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.ibm.com/think/insights/accountability-gap-autonomous-ai</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The accountability gap in autonomous AI | IBM...</p></details>
+   Link:<a href="https://www.ibm.com/think/insights/accountability-gap-autonomous-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.ibm.com/think/insights/accountability-gap-autonomous-ai</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The accountability gap in autonomous AI | IBM...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: papers.ssrn.com  
    Title: Transparent Real-Time Governance of Agentic AI Systems by Ryan Lavelle:: SSRN  
-   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/6315939.pdf?abstractid=6315939&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/6315939.pdf?abstractid=6315939&amp;mirid=1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Transparent Real-Time Governance of Agentic AI Systems by Ryan Lavelle:: SSRN...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/Delivery.cfm/6315939.pdf?abstractid=6315939&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/6315939.pdf?abstractid=6315939&amp;mirid=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Transparent Real-Time Governance of Agentic AI Systems by Ryan Lavelle:: SSRN...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s11229-022-04001-5" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11229-022-04001-5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The risks of autonomous machines: from responsibility gaps to control gaps | Synthese | Springer Nature LinkJanuary 7, 2023...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s11229-022-04001-5" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11229-022-04001-5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The risks of autonomous machines: from responsibility gaps to control gaps | Synthese | Springer Nature LinkJanuary 7, 2023...</p></details>
    Published: January 7, 2023  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: link.springer.com  
    Title: Responsibility of AI Systems | AI & SOCIETY | Springer Nature Link  
-   Link: <a href="https://link.springer.com/article/10.1007/s00146-022-01481-4" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s00146-022-01481-4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of AI Systems | AI &amp; SOCIETY | Springer Nature LinkJune 5, 2022 — RESPONSIBILITY OF AI SYSTEMS * Open Forum * Open access *...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s00146-022-01481-4" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s00146-022-01481-4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of AI Systems | AI &amp; SOCIETY | Springer Nature LinkJune 5, 2022 — RESPONSIBILITY OF AI SYSTEMS * Open Forum * Open access *...</p></details>
    Published: June 5, 2022  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5190797" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5190797</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Locating Fault for AI Harms: A Systems Theory of Foreseeability, Reasonable Care and Causal Responsibility in the AI Value Chain by H...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5190797" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5190797</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Locating Fault for AI Harms: A Systems Theory of Foreseeability, Reasonable Care and Causal Responsibility in the AI Value Chain by H...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
    Title: We log AI decisions. But we don’t prove them. Isn’t that the real problem?  
-   Link: <a href="https://www.reddit.com/r/AI_Governance/comments/1ryptcl/we_log_ai_decisions_but_we_dont_prove_them_isnt/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AI_Governance/comments/1ryptcl/we_log_ai_decisions_but_we_dont_prove_them_isnt/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>We log AI decisions. But we don’t prove them. Isn’t that the real problem?March 20, 2026...</p></details>
+   Link:<a href="https://www.reddit.com/r/AI_Governance/comments/1ryptcl/we_log_ai_decisions_but_we_dont_prove_them_isnt/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AI_Governance/comments/1ryptcl/we_log_ai_decisions_but_we_dont_prove_them_isnt/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We log AI decisions. But we don’t prove them. Isn’t that the real problem?March 20, 2026...</p></details>
    Published: March 20, 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/CyberIdentity_/comments/1t69kem/autonomous_agents_are_breaking_ai_governance_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/CyberIdentity_/comments/1t69kem/autonomous_agents_are_breaking_ai_governance_and/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous Agents Are Breaking AI Governance And Your Security Stack Can&#x27;t See ItMay 7, 2026...</p></details>
+   Link:<a href="https://www.reddit.com/r/CyberIdentity_/comments/1t69kem/autonomous_agents_are_breaking_ai_governance_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/CyberIdentity_/comments/1t69kem/autonomous_agents_are_breaking_ai_governance_and/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous Agents Are Breaking AI Governance And Your Security Stack Can&#x27;t See ItMay 7, 2026...</p></details>
    Published: May 7, 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5292184" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5292184</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SSRN&lt;span&gt;Artificial Intelligence on Trial: Who Is Responsible When Systems Fail? Toward a Framework for the Ultimate AI Accountability O...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5292184" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5292184</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SSRN&lt;span&gt;Artificial Intelligence on Trial: Who Is Responsible When Systems Fail? Toward a Framework for the Ultimate AI Accountability O...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6315939" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6315939</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Real-Time Governance of Agentic AI Systems by Ryan Lavelle:: SSRNMarch 10, 2026 — TRANSPARENT REAL-TIME GOVERNANCE OF AGENTIC AI SYSTEMS...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6315939" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6315939</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Real-Time Governance of Agentic AI Systems by Ryan Lavelle:: SSRNMarch 10, 2026 — TRANSPARENT REAL-TIME GOVERNANCE OF AGENTIC AI SYSTEMS...</p></details>
    Published: March 10, 2026  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s10676-025-09862-1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10676-025-09862-1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>human responsibility and accountability at early stages of the lifecycle for AI-based defence systems | Ethics and Information Technology...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s10676-025-09862-1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10676-025-09862-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>human responsibility and accountability at early stages of the lifecycle for AI-based defence systems | Ethics and Information Technology...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/5292184.pdf?abstractid=5292184&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/5292184.pdf?abstractid=5292184&amp;mirid=1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Toward a Framework for the Ultimate AI Accountability Owner&lt;/span&gt; by Victor Frimpong:: SSRNJune 13, 2025 — ARTIFICIAL INTELLIGENCE ON T...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/Delivery.cfm/5292184.pdf?abstractid=5292184&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/5292184.pdf?abstractid=5292184&amp;mirid=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Toward a Framework for the Ultimate AI Accountability Owner&lt;/span&gt; by Victor Frimpong:: SSRNJune 13, 2025 — ARTIFICIAL INTELLIGENCE ON T...</p></details>
    Published: June 13, 2025  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s00146-023-01635-y" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s00146-023-01635-y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in artificial intelligence: what it is and how it works | AI &amp; SOCIETY | Springer Nature LinkFebruary 7, 2023 — ACCOUNTABILITY IN ARTIFIC...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s00146-023-01635-y" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s00146-023-01635-y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in artificial intelligence: what it is and how it works | AI &amp; SOCIETY | Springer Nature LinkFebruary 7, 2023 — ACCOUNTABILITY IN ARTIFIC...</p></details>
    Published: February 7, 2023  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: taaic.org  
-   Link: <a href="https://taaic.org/" target="_blank" rel="noopener noreferrer nofollow">https://taaic.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Agentic AI ConstitutionThe Agentic AI Constitution — Voluntary Governance Framework for Autonomous AI SystemsApril 3, 2026...</p></details>
+   Link:<a href="https://taaic.org/" target="_blank" rel="noopener noreferrer nofollow">https://taaic.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Agentic AI ConstitutionThe Agentic AI Constitution — Voluntary Governance Framework for Autonomous AI SystemsApril 3, 2026...</p></details>
    Published: April 3, 2026  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: itpro.com  
    Title: IT Pro'One-size-fits-all' agent governance sets enterprises up to fail  
-   Link: <a href="https://www.itpro.com/technology/artificial-intelligence/one-size-fits-all-agent-governance-sets-enterprises-up-to-fail" target="_blank" rel="noopener noreferrer nofollow">https://www.itpro.com/technology/artificial-intelligence/one-size-fits-all-agent-governance-sets-enterprises-up-to-fail</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The primary issue is the widespread application of a &quot;one-size-fits-all&quot; governance model that fails to distinguish between an agent&#x27;s au...</p></details>
+   Link:<a href="https://www.itpro.com/technology/artificial-intelligence/one-size-fits-all-agent-governance-sets-enterprises-up-to-fail" target="_blank" rel="noopener noreferrer nofollow">https://www.itpro.com/technology/artificial-intelligence/one-size-fits-all-agent-governance-sets-enterprises-up-to-fail</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The primary issue is the widespread application of a &quot;one-size-fits-all&quot; governance model that fails to distinguish between an agent&#x27;s au...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: zylos.ai  
-   Link: <a href="https://zylos.ai/zh/research/2026-03-22-ai-agent-accountability-audit-trails-attribution-multi-agent-systems" target="_blank" rel="noopener noreferrer nofollow">https://zylos.ai/zh/research/2026-03-22-ai-agent-accountability-audit-trails-attribution-multi-agent-systems</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Agent Accountability: Audit Trails, Attribution, and Non-Repudiation in Multi-Agent Systems | Zylos ResearchMarch 22, 2026 — 2026-03-2...</p></details>
+   Link:<a href="https://zylos.ai/zh/research/2026-03-22-ai-agent-accountability-audit-trails-attribution-multi-agent-systems" target="_blank" rel="noopener noreferrer nofollow">https://zylos.ai/zh/research/2026-03-22-ai-agent-accountability-audit-trails-attribution-multi-agent-systems</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Agent Accountability: Audit Trails, Attribution, and Non-Repudiation in Multi-Agent Systems | Zylos ResearchMarch 22, 2026 — 2026-03-2...</p></details>
    Published: March 22, 2026  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: research.tue.nl  
-   Link: <a href="https://research.tue.nl/en/publications/accountability-and-control-over-autonomous-weapon-systems-a-frame" target="_blank" rel="noopener noreferrer nofollow">https://research.tue.nl/en/publications/accountability-and-control-over-autonomous-weapon-systems-a-frame</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Control Over Autonomous Weapon Systems: A Framework for Comprehensive Human Oversight - Research portal Eindhoven University of Techn...</p></details>
+   Link:<a href="https://research.tue.nl/en/publications/accountability-and-control-over-autonomous-weapon-systems-a-frame" target="_blank" rel="noopener noreferrer nofollow">https://research.tue.nl/en/publications/accountability-and-control-over-autonomous-weapon-systems-a-frame</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Control Over Autonomous Weapon Systems: A Framework for Comprehensive Human Oversight - Research portal Eindhoven University of Techn...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: exterro.com  
-   Link: <a href="https://www.exterro.com/news-press/whos-responsible-when-ai-acts-on-its-own" target="_blank" rel="noopener noreferrer nofollow">https://www.exterro.com/news-press/whos-responsible-when-ai-acts-on-its-own</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WHO’S RESPONSIBLE WHEN AI ACTS ON ITS OWN? When AI makes its own decisions, who’s liable - vendors, CIOs, or CISOs? Exterro CISO A...</p></details>
+   Link:<a href="https://www.exterro.com/news-press/whos-responsible-when-ai-acts-on-its-own" target="_blank" rel="noopener noreferrer nofollow">https://www.exterro.com/news-press/whos-responsible-when-ai-acts-on-its-own</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WHO’S RESPONSIBLE WHEN AI ACTS ON ITS OWN? When AI makes its own decisions, who’s liable - vendors, CIOs, or CISOs? Exterro CISO A...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: swept.ai  
    Title: They assume a human in the loop at every decision point, or at least at t  
-   Link: <a href="https://www.swept.ai/post/agentic-ai-governance" target="_blank" rel="noopener noreferrer nofollow">https://www.swept.ai/post/agentic-ai-governance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Agentic AI Governance: How to Trust and Control Autonomous AI Agents | Swept AIFebruary 6, 2026 — THE GOVERNANCE GAP: WHY TRADITIONAL FRA...</p></details>
+   Link:<a href="https://www.swept.ai/post/agentic-ai-governance" target="_blank" rel="noopener noreferrer nofollow">https://www.swept.ai/post/agentic-ai-governance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Agentic AI Governance: How to Trust and Control Autonomous AI Agents | Swept AIFebruary 6, 2026 — THE GOVERNANCE GAP: WHY TRADITIONAL FRA...</p></details>
    Published: February 6, 2026  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: lordslibrary.parliament.uk  
    Title: uk Potential future risks from autonomous AI systems  
-   Link: <a href="https://lordslibrary.parliament.uk/potential-future-risks-from-autonomous-ai-systems/" target="_blank" rel="noopener noreferrer nofollow">https://lordslibrary.parliament.uk/potential-future-risks-from-autonomous-ai-systems/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>future risks from autonomous AI systems - House of Lords LibraryJanuary 5, 2026 — POTENTIAL FUTURE RISKS FROM AUTONOMOUS AI SYSTEMS In Fo...</p></details>
+   Link:<a href="https://lordslibrary.parliament.uk/potential-future-risks-from-autonomous-ai-systems/" target="_blank" rel="noopener noreferrer nofollow">https://lordslibrary.parliament.uk/potential-future-risks-from-autonomous-ai-systems/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>future risks from autonomous AI systems - House of Lords LibraryJanuary 5, 2026 — POTENTIAL FUTURE RISKS FROM AUTONOMOUS AI SYSTEMS In Fo...</p></details>
    Published: January 5, 2026  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: beigemedia.org  
    Title: Auditing Standards for Autonomous AI Agent Swarms  
-   Link: <a href="https://www.beigemedia.org/article/ai-agent-swarm-audit-standards-stack" target="_blank" rel="noopener noreferrer nofollow">https://www.beigemedia.org/article/ai-agent-swarm-audit-standards-stack</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 28, 2026 — Saturday, February 28, 2026 STANDARDS STACK SECURES HUMAN OVERSIGHT OF AI AGENT SWARMS HOW RISK FRAMEWORKS, LOGGING M...</p></details>
+   Link:<a href="https://www.beigemedia.org/article/ai-agent-swarm-audit-standards-stack" target="_blank" rel="noopener noreferrer nofollow">https://www.beigemedia.org/article/ai-agent-swarm-audit-standards-stack</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 28, 2026 — Saturday, February 28, 2026 STANDARDS STACK SECURES HUMAN OVERSIGHT OF AI AGENT SWARMS HOW RISK FRAMEWORKS, LOGGING M...</p></details>
    Published: February 28, 2026  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: zylos.ai  
    Title: Financial services regulators (FINRA, SEC) requir  
-   Link: <a href="https://zylos.ai/en/research/2026-05-01-ai-agent-governance-compliance-2026" target="_blank" rel="noopener noreferrer nofollow">https://zylos.ai/en/research/2026-05-01-ai-agent-governance-compliance-2026</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Agent Governance and Compliance in 2026: Frameworks, Audit Trails, and the Regulatory Reckoning | Zylos ResearchMay 1, 2026 — AUDIT TR...</p></details>
+   Link:<a href="https://zylos.ai/en/research/2026-05-01-ai-agent-governance-compliance-2026" target="_blank" rel="noopener noreferrer nofollow">https://zylos.ai/en/research/2026-05-01-ai-agent-governance-compliance-2026</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Agent Governance and Compliance in 2026: Frameworks, Audit Trails, and the Regulatory Reckoning | Zylos ResearchMay 1, 2026 — AUDIT TR...</p></details>
    Published: May 1, 2026  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cio.com  
    Title: Who’s responsible when AI acts on its own?  
-   Link: <a href="https://www.cio.com/article/4080436/whos-responsible-when-ai-acts-on-its-own.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cio.com/article/4080436/whos-responsible-when-ai-acts-on-its-own.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CIOOctober 29, 2025 — Image: Anthony Diaz by Anthony Diaz Contributor WHO’S RESPONSIBLE WHEN AI ACTS ON ITS OWN? Opinion 2025.10.29 8 m...</p></details>
+   Link:<a href="https://www.cio.com/article/4080436/whos-responsible-when-ai-acts-on-its-own.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cio.com/article/4080436/whos-responsible-when-ai-acts-on-its-own.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CIOOctober 29, 2025 — Image: Anthony Diaz by Anthony Diaz Contributor WHO’S RESPONSIBLE WHEN AI ACTS ON ITS OWN? Opinion 2025.10.29 8 m...</p></details>
    Published: October 29, 2025  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: tandfonline.com  
    Title: Frasera ARC Centre of Excellence for Autom  
-   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/17579961.2025.2469345" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/17579961.2025.2469345</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Full article: Locating fault for AI harms: a systems theory of foreseeability, reasonable care and causal responsibility in the AI value...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/abs/10.1080/17579961.2025.2469345" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/17579961.2025.2469345</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full article: Locating fault for AI harms: a systems theory of foreseeability, reasonable care and causal responsibility in the AI value...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: researchgate.net  
    Title: (PDF) Computational Accountability  
-   Link: <a href="https://www.researchgate.net/publication/370625370_Computational_Accountability" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/370625370_Computational_Accountability</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 9, 2023 — Conference Paper PDF Available COMPUTATIONAL ACCOUNTABILITY * May 2023 DOI:10.1145/3594536.3595122 * License * CC BY 4.0 *...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/370625370_Computational_Accountability" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/370625370_Computational_Accountability</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 9, 2023 — Conference Paper PDF Available COMPUTATIONAL ACCOUNTABILITY * May 2023 DOI:10.1145/3594536.3595122 * License * CC BY 4.0 *...</p></details>
    Published: May 9, 2023

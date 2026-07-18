@@ -284,15 +284,15 @@ At its core, AutoML encompasses methods that automate parts of the machine‑lea
 
 However, the automation applies to optimisation within a predefined problem specification. The training objective, the data, the metric used to compare models, and the search space itself are all supplied by humans. AutoML systems search for good solutions within that space but do not invent new tasks, redefine what counts as success, or autonomously alter their own objectives. In other words, the “automation” pertains to exploration and evaluation in a bounded configuration space rather than open‑ended research or self‑generated goals.
 
-Recent literature on AutoML explicitly recognises these boundaries. Although advanced systems increasingly integrate meta‑learning and constraint handling, state‑of‑the‑art AutoML cannot adapt its own meta‑configuration — its own search heuristics or design space — without human guidance, nor can it reconcile competing high‑level goals unless those are encoded by the user in advance. For example, in constrained scenarios, AutoML cannot automatically incorporate novel application constraints beyond those it was programmed to consider without external input. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s00778-023-00820-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">AutoML in heavily constrained applications &#124; The VLDB Journal &#124; Springer Nature LinkNovember 17, 2023...</span><span class="citation-popover-meta">Published: November 17, 2023</span></span></span>
+Recent literature on AutoML explicitly recognises these boundaries. Although advanced systems increasingly integrate meta‑learning and constraint handling, state‑of‑the‑art AutoML cannot adapt its own meta‑configuration — its own search heuristics or design space — without human guidance, nor can it reconcile competing high‑level goals unless those are encoded by the user in advance. For example, in constrained scenarios, AutoML cannot automatically incorporate novel application constraints beyond those it was programmed to consider without external input.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s00778-023-00820-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">AutoML in heavily constrained applications &#124; The VLDB Journal &#124; Springer Nature LinkNovember 17, 2023...</span><span class="citation-popover-meta">Published: November 17, 2023</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cZeiNlIMoJ4" title="tinyML Summit 2022: Automated Machine Learning under model’s deployability on tiny devices" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cZeiNlIMoJ4" target="_blank" rel="noopener noreferrer">tinyML Summit 2022: Automated Machine Learning under model’s deployability on tiny devices</a></p><p class="youtube-embed-meta">Channel: EDGE AI FOUNDATION &middot; Views: 246 &middot; Uploaded: April 2022 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cZeiNlIMoJ4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cZeiNlIMoJ4">Open on YouTube</a></p></div></div></div>
 
 ## Role of human oversight and objective specification
 
-A recurring theme in research and practice is that AutoML tools augment rather than replace skilled human involvement. Reviews of industry AutoML tools find that they require domain knowledge to be effectively configured and interpreted, and that “human agency” remains central to successful application. Users often need to adjust settings, assess the meaningfulness of results, interpret outcomes in context, and decide how to handle trade‑offs such as performance versus explainability or fairness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0950584924002131" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A multivocal literature review on the benefits and limitations of industry-leading AutoML tools - ScienceDirectFebruary 1, 2025...</span><span class="citation-popover-meta">Published: February 1, 2025</span></span></span>
+A recurring theme in research and practice is that AutoML tools augment rather than replace skilled human involvement. Reviews of industry AutoML tools find that they require domain knowledge to be effectively configured and interpreted, and that “human agency” remains central to successful application. Users often need to adjust settings, assess the meaningfulness of results, interpret outcomes in context, and decide how to handle trade‑offs such as performance versus explainability or fairness.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0950584924002131" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A multivocal literature review on the benefits and limitations of industry-leading AutoML tools - ScienceDirectFebruary 1, 2025...</span><span class="citation-popover-meta">Published: February 1, 2025</span></span></span>
 
-Indeed, several authors argue for a “human‑centred” rather than purely “machine‑centred” AutoML paradigm, precisely because current systems lack the flexibility, context [awareness]({{ 'awareness/' | relative_url }}) and iterative interaction that expert human practitioners bring. Under this paradigm, humans remain responsible for specifying objectives, injecting domain knowledge, and steering optimisation according to broader organisational or ethical constraints, while the automated components handle well‑defined optimisation searches. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.automl.org/rethinking-automl-advancing-from-a-machine-centered-to-human-centered-paradigm/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: automl.org">[AutoML]</a><span class="citation-popover" role="note"><span class="citation-popover-source">automl.org</span><span class="citation-popover-snippet">AutoML &#124; Rethinking AutoML: Advancing from a Machine-Centered to Human-Centered ParadigmNovember 30, 2022...</span><span class="citation-popover-meta">Published: November 30, 2022</span></span></span>
+Indeed, several authors argue for a “human‑centred” rather than purely “machine‑centred” AutoML paradigm, precisely because current systems lack the flexibility, context [awareness]({{ 'awareness/' | relative_url }}) and iterative interaction that expert human practitioners bring. Under this paradigm, humans remain responsible for specifying objectives, injecting domain knowledge, and steering optimisation according to broader organisational or ethical constraints, while the automated components handle well‑defined optimisation searches.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.automl.org/rethinking-automl-advancing-from-a-machine-centered-to-human-centered-paradigm/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: automl.org">[AutoML]</a><span class="citation-popover" role="note"><span class="citation-popover-source">automl.org</span><span class="citation-popover-snippet">AutoML &#124; Rethinking AutoML: Advancing from a Machine-Centered to Human-Centered ParadigmNovember 30, 2022...</span><span class="citation-popover-meta">Published: November 30, 2022</span></span></span>
 
 This human‑in‑the‑loop requirement reflects a broader reality: automated procedures like hyperparameter tuning or NAS are essentially optimisation engines that explore a search space defined by engineers. They do not generate new research directions, conceptualise new types of problems to solve, or update their own objective functions based on autonomous reflection. Without explicit, human‑provided goals and evaluation metrics, AutoML has no innate basis for deciding what constitutes “improvement” or “desirable” change.
 
@@ -301,9 +301,9 @@ This human‑in‑the‑loop requirement reflects a broader reality: automated p
 
 Arguments about existential risk from recursive self‑improvement often hinge on the idea of systems that can autonomously bootstrap increasingly powerful versions of themselves. To substantiate that claim, one would need evidence that an AI can: (1) define new, higher‑level goals beyond immediate optimisation criteria, (2) restructure its own learning algorithms or objectives, and (3) identify and implement changes that meaningfully expand its capabilities across domains.
 
-Real‑world AutoML systems fall markedly short of these criteria. Their automation is confined to optimising within fixed problem formulations, and they rely on human engineers to set those formulations and interpret the results. An AutoML pipeline cannot decide to itself explore new areas of research — only an engineer with domain expertise can do that. Researchers have noted that while automation assists practitioners and can speed up routine optimisation, it does not replace the need for iterative human decisions and contextual understanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.snowflake.com/en/fundamentals/automl/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snowflake.com">[Snowflake]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snowflake.com</span><span class="citation-popover-title">What Is Auto ML? A Guide to Automated Machine Learning</span><span class="citation-popover-snippet">What Is AutoML? A Guide to Automated Machine Learning...</span></span></span>
+Real‑world AutoML systems fall markedly short of these criteria. Their automation is confined to optimising within fixed problem formulations, and they rely on human engineers to set those formulations and interpret the results. An AutoML pipeline cannot decide to itself explore new areas of research — only an engineer with domain expertise can do that. Researchers have noted that while automation assists practitioners and can speed up routine optimisation, it does not replace the need for iterative human decisions and contextual understanding.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.snowflake.com/en/fundamentals/automl/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snowflake.com">[Snowflake]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snowflake.com</span><span class="citation-popover-title">What Is Auto ML? A Guide to Automated Machine Learning</span><span class="citation-popover-snippet">What Is AutoML? A Guide to Automated Machine Learning...</span></span></span>
 
-In practical settings, moreover, users routinely exercise agency to cope with AutoML’s limitations. Studies of real‑world practitioners show that customisation, transparency and privacy concerns lead people to intervene, sometimes ceasing to use automated tools when their constraints or preferences are not adequately captured. <span class="citation-chip-wrap"><a class="citation-chip" href="https://researchconnect.suny.edu/en/publications/automl-in-the-wild-obstacles-workarounds-and-expectations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchconnect.suny.edu">[SUNY Research Connect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchconnect.suny.edu</span><span class="citation-popover-title">Research Connect Auto ML in The Wild: Obstacles, Workarounds, and Expectations</span><span class="citation-popover-snippet">SUNY Research ConnectAutoML in The Wild: Obstacles, Workarounds, and Expectations - SUNY Research Connect...</span></span></span>
+In practical settings, moreover, users routinely exercise agency to cope with AutoML’s limitations. Studies of real‑world practitioners show that customisation, transparency and privacy concerns lead people to intervene, sometimes ceasing to use automated tools when their constraints or preferences are not adequately captured.<span class="citation-chip-wrap"><a class="citation-chip" href="https://researchconnect.suny.edu/en/publications/automl-in-the-wild-obstacles-workarounds-and-expectations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchconnect.suny.edu">[SUNY Research Connect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchconnect.suny.edu</span><span class="citation-popover-title">Research Connect Auto ML in The Wild: Obstacles, Workarounds, and Expectations</span><span class="citation-popover-snippet">SUNY Research ConnectAutoML in The Wild: Obstacles, Workarounds, and Expectations - SUNY Research Connect...</span></span></span>
 
 Taken together, these patterns underscore a central limitation: AutoML assists within boundaries defined by human goals, and does not independently extend or redefine those goals. This makes it a weak form of machine self‑improvement relative to the open‑ended recursive loops posited in some risk scenarios. AutoML can automate discrete optimisation tasks in narrow domains, but it cannot autonomously set its own research agenda, establish new objectives, or drive broad, self‑directed capability increases.
 
@@ -320,253 +320,253 @@ Understanding these limits helps ground discussions about advanced AI and existe
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_automl_constr_fc237f-Illustration-3-dark.svg" | relative_url }}" alt="Auto ML Boundaries illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_automl_constr_fc237f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556_automl_constr_fc237f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why AutoML Cannot Independently Drive Machine Learning Research. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why AutoML Cannot Independently Drive Machine Learning Research. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hands-on+Machine+Learning+with+Scikit-Learn%2C+Keras%2C+and+TensorFlow+by+Aur%C3%A9lien+G%C3%A9ron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OCS1twEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hands-on+Machine+Learning+with+Scikit-Learn%2C+Keras%2C+and+TensorFlow+by+Aur%C3%A9lien+G%C3%A9ron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow">Hands-on Machine Learning with Scikit-Learn, Keras, and Tenso...</a>
-        </h4>
-        <p class="fr-book-author">By Aurélien Géron</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hands-on+Machine+Learning+with+Scikit-Learn%2C+Keras%2C+and+TensorFlow+by+Aur%C3%A9lien+G%C3%A9ron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OCS1twEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Hands-on+Machine+Learning+with+Scikit-Learn%2C+Keras%2C+and+TensorFlow+by+Aur%C3%A9lien+G%C3%A9ron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow">Hands-on Machine Learning with Scikit-Learn, Keras, and Tenso...</a>
+</h4>
+<p class="fr-book-author">By Aurélien Géron</p>
         
-        <p class="fr-book-desc">Explains model building, hyperparameter tuning, and the human-directed workflows that AutoML helps automate.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hands-on+Machine+Learning+with+Scikit-Learn%2C+Keras%2C+and+TensorFlow+by+Aur%C3%A9lien+G%C3%A9ron&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains model building, hyperparameter tuning, and the human-directed workflows that AutoML helps automate.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Hands-on+Machine+Learning+with+Scikit-Learn%2C+Keras%2C+and+TensorFlow+by+Aur%C3%A9lien+G%C3%A9ron&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hundred-page+Machine+Learning+Book+by+Andriy+Burkov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hundred-page Machine Learning Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0jbxwQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hundred-page Machine Learning Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hundred-page+Machine+Learning+Book+by+Andriy+Burkov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hundred-page Machine Learning Book">The Hundred-page Machine Learning Book</a>
-        </h4>
-        <p class="fr-book-author">By Andriy Burkov</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hundred-page+Machine+Learning+Book+by+Andriy+Burkov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hundred-page Machine Learning Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0jbxwQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hundred-page Machine Learning Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hundred-page+Machine+Learning+Book+by+Andriy+Burkov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hundred-page Machine Learning Book">The Hundred-page Machine Learning Book</a>
+</h4>
+<p class="fr-book-author">By Andriy Burkov</p>
         
-        <p class="fr-book-desc">Provides concise coverage of machine-learning methods that AutoML tools operate over.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hundred-page+Machine+Learning+Book+by+Andriy+Burkov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides concise coverage of machine-learning methods that AutoML tools operate over.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hundred-page+Machine+Learning+Book+by+Andriy+Burkov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Machine+Learning+Engineering+by+Andriy+Burkov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Machine Learning Engineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HeXizQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Machine Learning Engineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Machine+Learning+Engineering+by+Andriy+Burkov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Machine Learning Engineering">Machine Learning Engineering</a>
-        </h4>
-        <p class="fr-book-author">By Andriy Burkov</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Machine+Learning+Engineering+by+Andriy+Burkov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Machine Learning Engineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HeXizQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Machine Learning Engineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Machine+Learning+Engineering+by+Andriy+Burkov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Machine Learning Engineering">Machine Learning Engineering</a>
+</h4>
+<p class="fr-book-author">By Andriy Burkov</p>
         
-        <p class="fr-book-desc">Shows the broader engineering process that still requires human judgment beyond automated optimization.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Machine+Learning+Engineering+by+Andriy+Burkov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows the broader engineering process that still requires human judgment beyond automated optimization.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Machine+Learning+Engineering+by+Andriy+Burkov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Artificial Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8jZBksh-bUMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Artificial Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Artificial Intelligence">Artificial Intelligence</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Jonathan Russell, Peter Norvig et al.</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 10 Google Books ratings</p>
-        <p class="fr-book-desc">Provides technical grounding for self-play, AutoML and AI capabilities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Artificial Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8jZBksh-bUMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Artificial Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Artificial Intelligence">Artificial Intelligence</a>
+</h4>
+<p class="fr-book-author">By Stuart Jonathan Russell, Peter Norvig et al.</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 10 Google Books ratings</p>
+<p class="fr-book-desc">Provides technical grounding for self-play, AutoML and AI capabilities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hands+on+Machine+Learning+with+Scikit+Learn%2C+Keras%2C+and+TensorFlow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hands on Machine Learning with Scikit Learn, Keras, and TensorFlow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hundred+page+Machine+Learning+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hundred page Machine Learning Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Machine+Learning+Engineering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Machine Learning Engineering</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Hands+on+Machine+Learning+with+Scikit+Learn%2C+Keras%2C+and+TensorFlow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hands on Machine Learning with Scikit Learn, Keras, and TensorFlow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hundred+page+Machine+Learning+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hundred page Machine Learning Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Machine+Learning+Engineering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Machine Learning Engineering</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Matserpi Robotic Arm Car Kit for Raspberry Pi - AI Vision, 5DOF, Educational Rob"><img src="{{ '/assets/images/marketplace-covers/51354845bd593a6ad015.jpg' | relative_url }}" alt="Listing image for Matserpi Robotic Arm Car Kit for Raspberry Pi - AI Vision, 5DOF, Educational Rob" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Matserpi Robotic Arm Car Kit for Raspberry Pi - AI Vision, 5DOF, Educational Rob</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI robot kit">Search <span data-ebay-domain-label>eBay.com</span>: AI robot kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-ai-robot-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Matserpi Robotic Arm Car Kit for Raspberry Pi - AI Vision, 5DOF, Educational Rob"><img src="{{ '/assets/images/marketplace-covers/51354845bd593a6ad015.jpg' | relative_url }}" alt="Listing image for Matserpi Robotic Arm Car Kit for Raspberry Pi - AI Vision, 5DOF, Educational Rob" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Matserpi Robotic Arm Car Kit for Raspberry Pi - AI Vision, 5DOF, Educational Rob</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI robot kit">Search<span data-ebay-domain-label>eBay.com</span>: AI robot kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-ai-robot-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DOFBOT 6DOF Robot Arm Kit Mechanical Arm AI Visual Recognition for Nvidia Jetson"><img src="{{ '/assets/images/marketplace-covers/72b5e0256a0224d63a3f.jpg' | relative_url }}" alt="Listing image for DOFBOT 6DOF Robot Arm Kit Mechanical Arm AI Visual Recognition for Nvidia Jetson" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">DOFBOT 6DOF Robot Arm Kit Mechanical Arm AI Visual Recognition for Nvidia Jetson</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI robot kit">Search <span data-ebay-domain-label>eBay.com</span>: AI robot kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-ai-robot-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DOFBOT 6DOF Robot Arm Kit Mechanical Arm AI Visual Recognition for Nvidia Jetson"><img src="{{ '/assets/images/marketplace-covers/72b5e0256a0224d63a3f.jpg' | relative_url }}" alt="Listing image for DOFBOT 6DOF Robot Arm Kit Mechanical Arm AI Visual Recognition for Nvidia Jetson" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">DOFBOT 6DOF Robot Arm Kit Mechanical Arm AI Visual Recognition for Nvidia Jetson</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI robot kit">Search<span data-ebay-domain-label>eBay.com</span>: AI robot kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-ai-robot-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TurboPi Smart Robot Car Kit Vision AI Robot-Hiwonder 2DOF HD Cam for Raspberry"><img src="{{ '/assets/images/marketplace-covers/6febc37663a27a71e69e.jpg' | relative_url }}" alt="Listing image for TurboPi Smart Robot Car Kit Vision AI Robot-Hiwonder 2DOF HD Cam for Raspberry" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TurboPi Smart Robot Car Kit Vision AI Robot-Hiwonder 2DOF HD Cam for Raspberry</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI robot kit">Search <span data-ebay-domain-label>eBay.com</span>: AI robot kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-ai-robot-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TurboPi Smart Robot Car Kit Vision AI Robot-Hiwonder 2DOF HD Cam for Raspberry"><img src="{{ '/assets/images/marketplace-covers/6febc37663a27a71e69e.jpg' | relative_url }}" alt="Listing image for TurboPi Smart Robot Car Kit Vision AI Robot-Hiwonder 2DOF HD Cam for Raspberry" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TurboPi Smart Robot Car Kit Vision AI Robot-Hiwonder 2DOF HD Cam for Raspberry</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI robot kit">Search<span data-ebay-domain-label>eBay.com</span>: AI robot kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-ai-robot-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Freenove Robot Dog Kit for Raspberry Pi FNK0050 New Open Box Complete STEM AI"><img src="{{ '/assets/images/marketplace-covers/2cbc756cb2d52391f0e4.jpg' | relative_url }}" alt="Listing image for Freenove Robot Dog Kit for Raspberry Pi FNK0050 New Open Box Complete STEM AI" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Freenove Robot Dog Kit for Raspberry Pi FNK0050 New Open Box Complete STEM AI</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI robot kit">Search <span data-ebay-domain-label>eBay.com</span>: AI robot kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-ai-robot-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Freenove Robot Dog Kit for Raspberry Pi FNK0050 New Open Box Complete STEM AI"><img src="{{ '/assets/images/marketplace-covers/2cbc756cb2d52391f0e4.jpg' | relative_url }}" alt="Listing image for Freenove Robot Dog Kit for Raspberry Pi FNK0050 New Open Box Complete STEM AI" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Freenove Robot Dog Kit for Raspberry Pi FNK0050 New Open Box Complete STEM AI</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI robot kit">Search<span data-ebay-domain-label>eBay.com</span>: AI robot kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-ai-robot-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-ai-robot-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=electronics+project+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-electronics-project-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DIY Practice Soldering Kit - Electronics - Learning Teaching Project - UK Seller"><img src="{{ '/assets/images/marketplace-covers/d48ec317419af32bc3a4.jpg' | relative_url }}" alt="Listing image for DIY Practice Soldering Kit - Electronics - Learning Teaching Project - UK Seller" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=electronics+project+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-electronics-project-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">DIY Practice Soldering Kit - Electronics - Learning Teaching Project - UK Seller</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=electronics+project+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-electronics-project-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for electronics project kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: electronics project kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=electronics+project+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-electronics-project-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=electronics+project+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-electronics-project-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DIY Practice Soldering Kit - Electronics - Learning Teaching Project - UK Seller"><img src="{{ '/assets/images/marketplace-covers/d48ec317419af32bc3a4.jpg' | relative_url }}" alt="Listing image for DIY Practice Soldering Kit - Electronics - Learning Teaching Project - UK Seller" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=electronics+project+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-electronics-project-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">DIY Practice Soldering Kit - Electronics - Learning Teaching Project - UK Seller</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=electronics+project+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-electronics-project-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for electronics project kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: electronics project kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=electronics+project+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-electronics-project-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=electronics+project+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-electronics-project-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DIY Build it Yourself Electronic Gyro Kit - Soldering Project Teaching Learning"><img src="{{ '/assets/images/marketplace-covers/62b7fc8e85625a241635.jpg' | relative_url }}" alt="Listing image for DIY Build it Yourself Electronic Gyro Kit - Soldering Project Teaching Learning" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=electronics+project+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-electronics-project-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">DIY Build it Yourself Electronic Gyro Kit - Soldering Project Teaching Learning</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=electronics+project+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-electronics-project-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for electronics project kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: electronics project kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=electronics+project+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-electronics-project-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=electronics+project+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-electronics-project-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DIY Build it Yourself Electronic Gyro Kit - Soldering Project Teaching Learning"><img src="{{ '/assets/images/marketplace-covers/62b7fc8e85625a241635.jpg' | relative_url }}" alt="Listing image for DIY Build it Yourself Electronic Gyro Kit - Soldering Project Teaching Learning" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=electronics+project+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-electronics-project-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">DIY Build it Yourself Electronic Gyro Kit - Soldering Project Teaching Learning</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=electronics+project+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-electronics-project-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for electronics project kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: electronics project kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=electronics+project+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-electronics-project-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=electronics+project+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-electronics-project-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Practice Soldering Learning Electronics Kit Smart Car Soldering Project Kits Lin"><img src="{{ '/assets/images/marketplace-covers/fde3e5cc886053a2b87c.jpg' | relative_url }}" alt="Listing image for Practice Soldering Learning Electronics Kit Smart Car Soldering Project Kits Lin" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=electronics+project+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-electronics-project-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Practice Soldering Learning Electronics Kit Smart Car Soldering Project Kits Lin</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=electronics+project+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-electronics-project-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for electronics project kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: electronics project kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=electronics+project+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-electronics-project-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=electronics+project+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-electronics-project-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=electronics+project+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-electronics-project-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Practice Soldering Learning Electronics Kit Smart Car Soldering Project Kits Lin"><img src="{{ '/assets/images/marketplace-covers/fde3e5cc886053a2b87c.jpg' | relative_url }}" alt="Listing image for Practice Soldering Learning Electronics Kit Smart Car Soldering Project Kits Lin" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=electronics+project+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-electronics-project-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Practice Soldering Learning Electronics Kit Smart Car Soldering Project Kits Lin</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=electronics+project+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-electronics-project-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for electronics project kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: electronics project kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=electronics+project+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-electronics-project-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=electronics+project+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automl-boundaries-why-automl-cannot-independently-drive-machine-learning-research-ai-doom-and-electronics-project-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -582,7 +582,7 @@ Understanding these limits helps ground discussions about advanced AI and existe
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -602,7 +602,7 @@ Understanding these limits helps ground discussions about advanced AI and existe
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -634,7 +634,7 @@ Understanding these limits helps ground discussions about advanced AI and existe
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -664,7 +664,7 @@ Understanding these limits helps ground discussions about advanced AI and existe
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -722,145 +722,145 @@ Understanding these limits helps ground discussions about advanced AI and existe
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s00778-023-00820-1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s00778-023-00820-1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AutoML in heavily constrained applications | The VLDB Journal | Springer Nature LinkNovember 17, 2023...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s00778-023-00820-1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s00778-023-00820-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AutoML in heavily constrained applications | The VLDB Journal | Springer Nature LinkNovember 17, 2023...</p></details>
    Published: November 17, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0950584924002131" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0950584924002131</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A multivocal literature review on the benefits and limitations of industry-leading AutoML tools - ScienceDirectFebruary 1, 2025...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0950584924002131" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0950584924002131</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A multivocal literature review on the benefits and limitations of industry-leading AutoML tools - ScienceDirectFebruary 1, 2025...</p></details>
    Published: February 1, 2025  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchconnect.suny.edu  
    Title: Research Connect Auto ML in The Wild: Obstacles, Workarounds, and Expectations  
-   Link: <a href="https://researchconnect.suny.edu/en/publications/automl-in-the-wild-obstacles-workarounds-and-expectations/" target="_blank" rel="noopener noreferrer nofollow">https://researchconnect.suny.edu/en/publications/automl-in-the-wild-obstacles-workarounds-and-expectations/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SUNY Research ConnectAutoML in The Wild: Obstacles, Workarounds, and Expectations - SUNY Research Connect...</p></details>
+   Link:<a href="https://researchconnect.suny.edu/en/publications/automl-in-the-wild-obstacles-workarounds-and-expectations/" target="_blank" rel="noopener noreferrer nofollow">https://researchconnect.suny.edu/en/publications/automl-in-the-wild-obstacles-workarounds-and-expectations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SUNY Research ConnectAutoML in The Wild: Obstacles, Workarounds, and Expectations - SUNY Research Connect...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: automl.org  
-   Link: <a href="https://www.automl.org/rethinking-automl-advancing-from-a-machine-centered-to-human-centered-paradigm/" target="_blank" rel="noopener noreferrer nofollow">https://www.automl.org/rethinking-automl-advancing-from-a-machine-centered-to-human-centered-paradigm/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AutoML | Rethinking AutoML: Advancing from a Machine-Centered to Human-Centered ParadigmNovember 30, 2022...</p></details>
+   Link:<a href="https://www.automl.org/rethinking-automl-advancing-from-a-machine-centered-to-human-centered-paradigm/" target="_blank" rel="noopener noreferrer nofollow">https://www.automl.org/rethinking-automl-advancing-from-a-machine-centered-to-human-centered-paradigm/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AutoML | Rethinking AutoML: Advancing from a Machine-Centered to Human-Centered ParadigmNovember 30, 2022...</p></details>
    Published: November 30, 2022  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: automl.org  
-   Link: <a href="https://www.automl.org/position-a-call-to-action-for-a-human-centered-automl-paradigm/" target="_blank" rel="noopener noreferrer nofollow">https://www.automl.org/position-a-call-to-action-for-a-human-centered-automl-paradigm/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Position: A Call to Action for a Human-Centered AutoML ParadigmJuly 18, 2024 — POSITION: A CALL TO ACTION FOR A HUMAN-CENTERED A...</p></details>
+   Link:<a href="https://www.automl.org/position-a-call-to-action-for-a-human-centered-automl-paradigm/" target="_blank" rel="noopener noreferrer nofollow">https://www.automl.org/position-a-call-to-action-for-a-human-centered-automl-paradigm/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Position: A Call to Action for a Human-Centered AutoML ParadigmJuly 18, 2024 — POSITION: A CALL TO ACTION FOR A HUMAN-CENTERED A...</p></details>
    Published: July 18, 2024  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: snowflake.com  
    Title: What Is Auto ML? A Guide to Automated Machine Learning  
-   Link: <a href="https://www.snowflake.com/en/fundamentals/automl/" target="_blank" rel="noopener noreferrer nofollow">https://www.snowflake.com/en/fundamentals/automl/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is AutoML? A Guide to Automated Machine Learning...</p></details>
+   Link:<a href="https://www.snowflake.com/en/fundamentals/automl/" target="_blank" rel="noopener noreferrer nofollow">https://www.snowflake.com/en/fundamentals/automl/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Is AutoML? A Guide to Automated Machine Learning...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s43681-026-01147-7" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s43681-026-01147-7</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>meaningful [human oversight](&amp;#123;&amp;#123; &#x27;human-oversight/&#x27; | relative_url &amp;#125;&amp;#125;) in AI | AI and Ethics | Springer Nature LinkMay 4, 2026 — 2 RELATED WORK A wide range of AI ethics guidelines...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s43681-026-01147-7" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s43681-026-01147-7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>meaningful [human oversight](&amp;#123;&amp;#123; &#x27;human-oversight/&#x27; | relative_url &amp;#125;&amp;#125;) in AI | AI and Ethics | Springer Nature LinkMay 4, 2026 — 2 RELATED WORK A wide range of AI ethics guidelines...</p></details>
    Published: May 4, 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sciencedirect.com  
    Title: Is human oversight to AI systems still possible?  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1871678424005636" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1871678424005636</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 25, 2025 — CHALLENGES OF HUMAN OVERSIGHT IN AI SYSTEMS Human oversight in AI systems faces several significant challen...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1871678424005636" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1871678424005636</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 25, 2025 — CHALLENGES OF HUMAN OVERSIGHT IN AI SYSTEMS Human oversight in AI systems faces several significant challen...</p></details>
    Published: March 25, 2025  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s10462-024-10726-1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10462-024-10726-1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>machine learning: past, present and future | Artificial Intelligence Review | Springer Nature LinkApril 18, 2024 — AUTOMATED MACHINE LEAR...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s10462-024-10726-1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10462-024-10726-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>machine learning: past, present and future | Artificial Intelligence Review | Springer Nature LinkApril 18, 2024 — AUTOMATED MACHINE LEAR...</p></details>
    Published: April 18, 2024  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: automl.org  
    Title: It seems only natural to ask whether it would be possible  
-   Link: <a href="https://www.automl.org/can-fairness-be-automated/" target="_blank" rel="noopener noreferrer nofollow">https://www.automl.org/can-fairness-be-automated/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Can Fairness be Automated?April 3, 2023 — The field of AutoML increasingly focuses on incorporating objectives other than predic...</p></details>
+   Link:<a href="https://www.automl.org/can-fairness-be-automated/" target="_blank" rel="noopener noreferrer nofollow">https://www.automl.org/can-fairness-be-automated/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can Fairness be Automated?April 3, 2023 — The field of AutoML increasingly focuses on incorporating objectives other than predic...</p></details>
    Published: April 3, 2023  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s00146-023-01635-y" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s00146-023-01635-y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in artificial intelligence: what it is and how it works | AI &amp; SOCIETY | Springer Nature LinkFebruary 7, 2023 — ACCOUNTABILITY IN ARTIFIC...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s00146-023-01635-y" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s00146-023-01635-y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in artificial intelligence: what it is and how it works | AI &amp; SOCIETY | Springer Nature LinkFebruary 7, 2023 — ACCOUNTABILITY IN ARTIFIC...</p></details>
    Published: February 7, 2023  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sciencedirect.com  
    Title: Auto M L: A survey of the state-of-the-art  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0950705120307516" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0950705120307516</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AutoML: A survey of the state-of-the-art - ScienceDirectJanuary 5, 2021 — KNOWLEDGE-BASED SYSTEMS Volume 212, 5 January 2021, 106622 AUTO...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0950705120307516" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0950705120307516</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AutoML: A survey of the state-of-the-art - ScienceDirectJanuary 5, 2021 — KNOWLEDGE-BASED SYSTEMS Volume 212, 5 January 2021, 106622 AUTO...</p></details>
    Published: January 5, 2021  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pure.psu.edu  
    Title: automl in the wild obstacles workarounds and expectations  
-   Link: <a href="https://pure.psu.edu/en/publications/automl-in-the-wild-obstacles-workarounds-and-expectations" target="_blank" rel="noopener noreferrer nofollow">https://pure.psu.edu/en/publications/automl-in-the-wild-obstacles-workarounds-and-expectations</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in The Wild: Obstacles, Workarounds, and Expectations - Penn StateApril 19, 2023 — AUTOML IN THE WILD: OBSTACLES, WORKAROUNDS, AND EXPECT...</p></details>
+   Link:<a href="https://pure.psu.edu/en/publications/automl-in-the-wild-obstacles-workarounds-and-expectations" target="_blank" rel="noopener noreferrer nofollow">https://pure.psu.edu/en/publications/automl-in-the-wild-obstacles-workarounds-and-expectations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in The Wild: Obstacles, Workarounds, and Expectations - Penn StateApril 19, 2023 — AUTOML IN THE WILD: OBSTACLES, WORKAROUNDS, AND EXPECT...</p></details>
    Published: April 19, 2023  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: However, some AI systems have yielded unexpected or undesirable outcomes or h  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11638207/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11638207/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and evaluating trustworthy AI: overview and research challenges - PMCNovember 29, 2024 — ABSTRACT Artificial intelligence (AI) technologi...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11638207/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11638207/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and evaluating trustworthy AI: overview and research challenges - PMCNovember 29, 2024 — ABSTRACT Artificial intelligence (AI) technologi...</p></details>
    Published: November 29, 2024  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/articles/10.3389/fcomp.2026.1737008" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/articles/10.3389/fcomp.2026.1737008</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 1, 2026 — 6 XAI PRACTICES FOR REGULATORY REQUIREMENTS (RQ4) This section examines the degree of prospective alignment between the rev...</p></details>
+   Link:<a href="https://www.frontiersin.org/articles/10.3389/fcomp.2026.1737008" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/articles/10.3389/fcomp.2026.1737008</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 1, 2026 — 6 XAI PRACTICES FOR REGULATORY REQUIREMENTS (RQ4) This section examines the degree of prospective alignment between the rev...</p></details>
    Published: May 1, 2026  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
    Title: (PDF) Limits of Safe AI Deployment: Differentiating Oversight and Control  
-   Link: <a href="https://www.researchgate.net/publication/393478318_Limits_of_Safe_AI_Deployment_Differentiating_Oversight_and_Control" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/393478318_Limits_of_Safe_AI_Deployment_Differentiating_Oversight_and_Control</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 4, 2025 — LIMITS OF SAFE AI DEPLOYMENT: DIFFERENTIATING OVERSIGHT AND CONTROL * July 2025 DOI:10.48550/arXiv.2507.03525 * License *...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/393478318_Limits_of_Safe_AI_Deployment_Differentiating_Oversight_and_Control" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/393478318_Limits_of_Safe_AI_Deployment_Differentiating_Oversight_and_Control</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 4, 2025 — LIMITS OF SAFE AI DEPLOYMENT: DIFFERENTIATING OVERSIGHT AND CONTROL * July 2025 DOI:10.48550/arXiv.2507.03525 * License *...</p></details>
    Published: July 4, 2025  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=cZeiNlIMoJ4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cZeiNlIMoJ4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[AI Experts Series by IP Paris ] Prof. Eric Xing, President of MBZUAI - YouTube [AI Experts Series by IP Paris ] Prof. Eric Xing, Preside...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=cZeiNlIMoJ4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cZeiNlIMoJ4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[AI Experts Series by IP Paris ] Prof. Eric Xing, President of MBZUAI - YouTube [AI Experts Series by IP Paris ] Prof. Eric Xing, Preside...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
    Title: (PDF) Auto ML in Heavily Constrained Applications  
-   Link: <a href="https://www.researchgate.net/publication/371954266_AutoML_in_Heavily_Constrained_Applications" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371954266_AutoML_in_Heavily_Constrained_Applications</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) AutoML in Heavily Constrained ApplicationsJune 30, 2023 — AUTOML IN HEAVILY CONSTRAINED APPLICATIONS * June 2023 DOI:10.48550/arXiv...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/371954266_AutoML_in_Heavily_Constrained_Applications" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371954266_AutoML_in_Heavily_Constrained_Applications</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) AutoML in Heavily Constrained ApplicationsJune 30, 2023 — AUTOML IN HEAVILY CONSTRAINED APPLICATIONS * June 2023 DOI:10.48550/arXiv...</p></details>
    Published: June 30, 2023  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
    Title: (PDF) Can Fairness be Automated?  
-   Link: <a href="https://www.researchgate.net/publication/378367242_Can_Fairness_be_Automated_Guidelines_and_Opportunities_for_Fairness-aware_AutoML" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/378367242_Can_Fairness_be_Automated_Guidelines_and_Opportunities_for_Fairness-aware_AutoML</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Guidelines and Opportunities for Fairness-aware AutoMLArticle PDF Available CAN FAIRNESS BE AUTOMATED? GUIDELINES AND OPPORTUNITIES FOR F...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/378367242_Can_Fairness_be_Automated_Guidelines_and_Opportunities_for_Fairness-aware_AutoML" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/378367242_Can_Fairness_be_Automated_Guidelines_and_Opportunities_for_Fairness-aware_AutoML</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guidelines and Opportunities for Fairness-aware AutoMLArticle PDF Available CAN FAIRNESS BE AUTOMATED? GUIDELINES AND OPPORTUNITIES FOR F...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: AI Just Replicated Itself  
-   Link: <a href="https://www.youtube.com/watch?v=Ia_UKehYysA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ia_UKehYysA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tinyML Summit 2022: Automated Machine Learning under model&#x27;s deployability on tiny devices...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ia_UKehYysA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ia_UKehYysA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tinyML Summit 2022: Automated Machine Learning under model&#x27;s deployability on tiny devices...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=PPOTCulM5EU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PPOTCulM5EU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Just Replicated Itself - Here&#x27;s What That Means | Warning Shots #41...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PPOTCulM5EU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PPOTCulM5EU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Just Replicated Itself - Here&#x27;s What That Means | Warning Shots #41...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: [AI Experts Series by IP Paris ] Prof. Eric Xing, President of MBZUAI  
-   Link: <a href="https://www.youtube.com/watch?v=i47H72s8LQM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i47H72s8LQM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MLconf SF 2022: A Generative AutoML for Tabular Data by Dr. Mehdi Bahrami @Fujitsu...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=i47H72s8LQM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i47H72s8LQM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MLconf SF 2022: A Generative AutoML for Tabular Data by Dr. Mehdi Bahrami @Fujitsu...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: NOT-Recursive NOT-Self Improvement: autoresearch isn't Super AI's next step  
-   Link: <a href="https://www.youtube.com/watch?v=AkadGXzDqBw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AkadGXzDqBw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[AI Experts Series by IP Paris ] Prof. Eric Xing, President of MBZUAI...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=AkadGXzDqBw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AkadGXzDqBw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[AI Experts Series by IP Paris ] Prof. Eric Xing, President of MBZUAI...</p></details>

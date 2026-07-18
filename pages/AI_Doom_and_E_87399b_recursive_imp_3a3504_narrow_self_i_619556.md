@@ -282,14 +282,14 @@ image: /assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_61
 
 ## Introduction
 
-When people discuss recursive AI improvement and the possibility of an intelligence explosion, they often point to systems such as AlphaGo Zero, AlphaZero, neural architecture search (NAS), and AutoML as evidence that AI can already improve itself. There is some truth to this. Modern AI systems can generate training data through self-play, discover better strategies than human experts, and automate parts of the machine-learning development process. These are genuine examples of machines contributing to their own improvement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://deepmind.google/blog/alphago-zero-starting-from-scratch/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-title">alphago zero starting from scratch</span><span class="citation-popover-snippet">Google DeepMindAlphaGo Zero: Starting from scratch18 Oct 2017 — After just three days of self-play training, AlphaGo Zero emphatically de...</span></span></span>
+When people discuss recursive AI improvement and the possibility of an intelligence explosion, they often point to systems such as AlphaGo Zero, AlphaZero, neural architecture search (NAS), and AutoML as evidence that AI can already improve itself. There is some truth to this. Modern AI systems can generate training data through self-play, discover better strategies than human experts, and automate parts of the machine-learning development process. These are genuine examples of machines contributing to their own improvement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://deepmind.google/blog/alphago-zero-starting-from-scratch/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-title">alphago zero starting from scratch</span><span class="citation-popover-snippet">Google DeepMindAlphaGo Zero: Starting from scratch18 Oct 2017 — After just three days of self-play training, AlphaGo Zero emphatically de...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556-Illustration-1-dark.svg" | relative_url }}" alt="Weak evidence illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-However, the leap from these achievements to the kind of open-ended recursive self-improvement that appears in many AI doom arguments is large. Self-play and AutoML provide evidence that some improvement loops can be automated, but they do not demonstrate a system that autonomously redesigns itself, sets its own objectives, overcomes bottlenecks across many domains, and repeatedly drives its own capabilities upward without human direction. For that reason, most analysts treat them as weak rather than decisive evidence for recursive improvement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://agathon.ai/insights/self-improving-systems-the-ai-architecture-pattern-everyone-talks-about-nobody-builds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: agathon.ai">[agathon.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">agathon.ai</span><span class="citation-popover-snippet">Self-improving systems: the AI architecture pattern...Automated machine learning (AutoML) platforms provide another approximation of sel...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.linkedin.com/pulse/why-automl-isnt-auto-yet-real-problems-self-improving-kotipalli-zclhc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Why AutoML Isn&#x27;t Auto Yet: The Real Problems of Self-...Most so-called “self-improving” systems still rely on human-defined sear...</span></span></span>
+However, the leap from these achievements to the kind of open-ended recursive self-improvement that appears in many AI doom arguments is large. Self-play and AutoML provide evidence that some improvement loops can be automated, but they do not demonstrate a system that autonomously redesigns itself, sets its own objectives, overcomes bottlenecks across many domains, and repeatedly drives its own capabilities upward without human direction. For that reason, most analysts treat them as weak rather than decisive evidence for recursive improvement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://agathon.ai/insights/self-improving-systems-the-ai-architecture-pattern-everyone-talks-about-nobody-builds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: agathon.ai">[agathon.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">agathon.ai</span><span class="citation-popover-snippet">Self-improving systems: the AI architecture pattern...Automated machine learning (AutoML) platforms provide another approximation of sel...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.linkedin.com/pulse/why-automl-isnt-auto-yet-real-problems-self-improving-kotipalli-zclhc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Why AutoML Isn&#x27;t Auto Yet: The Real Problems of Self-...Most so-called “self-improving” systems still rely on human-defined sear...</span></span></span>
 
 ## What self-play and AutoML actually show
 
-The strongest evidence comes from self-play systems. In games such as Go, chess, and shogi, DeepMind's AlphaGo Zero and AlphaZero began with only the rules of the game and improved by repeatedly playing against themselves. AlphaGo Zero rapidly surpassed earlier versions of AlphaGo and eventually exceeded the performance of leading human players. <span class="citation-chip-wrap"><a class="citation-chip" href="https://deepmind.google/blog/alphago-zero-starting-from-scratch/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-title">alphago zero starting from scratch</span><span class="citation-popover-snippet">Google DeepMindAlphaGo Zero: Starting from scratch18 Oct 2017 — After just three days of self-play training, AlphaGo Zero emphatically de...</span></span></span>
+The strongest evidence comes from self-play systems. In games such as Go, chess, and shogi, DeepMind's AlphaGo Zero and AlphaZero began with only the rules of the game and improved by repeatedly playing against themselves. AlphaGo Zero rapidly surpassed earlier versions of AlphaGo and eventually exceeded the performance of leading human players.<span class="citation-chip-wrap"><a class="citation-chip" href="https://deepmind.google/blog/alphago-zero-starting-from-scratch/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-title">alphago zero starting from scratch</span><span class="citation-popover-snippet">Google DeepMindAlphaGo Zero: Starting from scratch18 Oct 2017 — After just three days of self-play training, AlphaGo Zero emphatically de...</span></span></span>
 
 For supporters of recursive-improvement concerns, this is important because it demonstrates a positive feedback loop:
 
@@ -304,11 +304,11 @@ For supporters of recursive-improvement concerns, this is important because it d
 
 </div>
 
-That looks superficially similar to the recursive cycles imagined in intelligence-explosion scenarios. <span class="citation-chip-wrap"><a class="citation-chip" href="https://deepmind.google/blog/alphago-zero-starting-from-scratch/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-title">alphago zero starting from scratch</span><span class="citation-popover-snippet">Google DeepMindAlphaGo Zero: Starting from scratch18 Oct 2017 — After just three days of self-play training, AlphaGo Zero emphatically de...</span></span></span>
+That looks superficially similar to the recursive cycles imagined in intelligence-explosion scenarios.<span class="citation-chip-wrap"><a class="citation-chip" href="https://deepmind.google/blog/alphago-zero-starting-from-scratch/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-title">alphago zero starting from scratch</span><span class="citation-popover-snippet">Google DeepMindAlphaGo Zero: Starting from scratch18 Oct 2017 — After just three days of self-play training, AlphaGo Zero emphatically de...</span></span></span>
 
-AutoML and neural architecture search provide a second example. These methods automate tasks that were once performed by human machine-learning engineers, including hyperparameter tuning, model selection, feature engineering, and sometimes the design of neural-network architectures. Researchers often describe NAS as automating part of the model-design process itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ml4aad.org/wp-content/uploads/2018/07/automl_book_draft_neural_architecture_search.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ml4aad.org">[ML4AAD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ml4aad.org</span><span class="citation-popover-snippet">Neural Architecture Search: A Surveyby T Elsken · Cited by 4593 — Neural Architecture Search (NAS), the process of automating archi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jmlr.org/papers/volume20/18-598/18-598.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmlr.org">[Journal of Machine Learning Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmlr.org</span><span class="citation-popover-snippet">Journal of Machine Learning ResearchNeural Architecture Search: A Surveyby T Elsken · 2019 · Cited by 4601 — Neural Architecture Search (...</span></span></span>
+AutoML and neural architecture search provide a second example. These methods automate tasks that were once performed by human machine-learning engineers, including hyperparameter tuning, model selection, feature engineering, and sometimes the design of neural-network architectures. Researchers often describe NAS as automating part of the model-design process itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ml4aad.org/wp-content/uploads/2018/07/automl_book_draft_neural_architecture_search.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ml4aad.org">[ML4AAD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ml4aad.org</span><span class="citation-popover-snippet">Neural Architecture Search: A Surveyby T Elsken · Cited by 4593 — Neural Architecture Search (NAS), the process of automating archi...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jmlr.org/papers/volume20/18-598/18-598.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmlr.org">[Journal of Machine Learning Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmlr.org</span><span class="citation-popover-snippet">Journal of Machine Learning ResearchNeural Architecture Search: A Surveyby T Elsken · 2019 · Cited by 4601 — Neural Architecture Search (...</span></span></span>
 
-From a recursive-improvement perspective, the interesting observation is that AI can increasingly help build better AI. The boundary between "user" and "tool" becomes less clear when machine-learning systems are selecting architectures, searching design spaces, or generating code that improves other systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s10462-024-10726-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Automated machine learning: past, present and futureby M Baratchi · 2024 · Cited by 188 — Automated machine learning (AutoML) is...</span></span></span>
+From a recursive-improvement perspective, the interesting observation is that AI can increasingly help build better AI. The boundary between "user" and "tool" becomes less clear when machine-learning systems are selecting architectures, searching design spaces, or generating code that improves other systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s10462-024-10726-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Automated machine learning: past, present and futureby M Baratchi · 2024 · Cited by 188 — Automated machine learning (AutoML) is...</span></span></span>
 
 These developments therefore provide real evidence that at least some components of AI development can be automated.
 
@@ -318,9 +318,9 @@ These developments therefore provide real evidence that at least some components
 
 The key limitation is that self-play and AutoML operate inside carefully defined environments.
 
-AlphaZero does not decide what game to learn, invent new objectives, acquire more computing resources, redesign its own learning algorithm, or choose entirely new research directions. Humans specify the rules, reward function, training process, hardware, and evaluation criteria. The system optimises within those constraints. <span class="citation-chip-wrap"><a class="citation-chip" href="https://deepmind.google/blog/alphago-zero-starting-from-scratch/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-title">alphago zero starting from scratch</span><span class="citation-popover-snippet">Google DeepMindAlphaGo Zero: Starting from scratch18 Oct 2017 — After just three days of self-play training, AlphaGo Zero emphatically de...</span></span></span>
+AlphaZero does not decide what game to learn, invent new objectives, acquire more computing resources, redesign its own learning algorithm, or choose entirely new research directions. Humans specify the rules, reward function, training process, hardware, and evaluation criteria. The system optimises within those constraints.<span class="citation-chip-wrap"><a class="citation-chip" href="https://deepmind.google/blog/alphago-zero-starting-from-scratch/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-title">alphago zero starting from scratch</span><span class="citation-popover-snippet">Google DeepMindAlphaGo Zero: Starting from scratch18 Oct 2017 — After just three days of self-play training, AlphaGo Zero emphatically de...</span></span></span>
 
-Similarly, AutoML systems search within spaces defined by human designers. Researchers choose the objective function, determine which architectures are eligible for consideration, allocate compute budgets, and decide how success is measured. AutoML automates optimisation, but it generally does not automate the creation of the optimisation problem itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2949715923000604" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">AutoML: A systematic review on automated machine...by I Salehin · 2024 · Cited by 315 — AutoML (Automated Machine Learning)...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s10462-024-10726-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Automated machine learning: past, present and futureby M Baratchi · 2024 · Cited by 188 — Automated machine learning (AutoML) is...</span></span></span> This distinction matters because recursive self-improvement arguments typically require something stronger:
+Similarly, AutoML systems search within spaces defined by human designers. Researchers choose the objective function, determine which architectures are eligible for consideration, allocate compute budgets, and decide how success is measured. AutoML automates optimisation, but it generally does not automate the creation of the optimisation problem itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2949715923000604" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">AutoML: A systematic review on automated machine...by I Salehin · 2024 · Cited by 315 — AutoML (Automated Machine Learning)...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s10462-024-10726-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Automated machine learning: past, present and futureby M Baratchi · 2024 · Cited by 188 — Automated machine learning (AutoML) is...</span></span></span> This distinction matters because recursive self-improvement arguments typically require something stronger:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -331,20 +331,20 @@ Similarly, AutoML systems search within spaces defined by human designers. Resea
 
 </div>
 
-Current examples show optimisation inside a box. Intelligence-explosion arguments require a system that can repeatedly expand or redesign the box. <span class="citation-chip-wrap"><a class="citation-chip" href="https://agathon.ai/insights/self-improving-systems-the-ai-architecture-pattern-everyone-talks-about-nobody-builds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: agathon.ai">[agathon.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">agathon.ai</span><span class="citation-popover-snippet">Self-improving systems: the AI architecture pattern...Automated machine learning (AutoML) platforms provide another approximation of sel...</span></span></span> ResearchGate A useful analogy is that a racing car can become faster by driving laps on a track and refining its performance. That demonstrates optimisati <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/400969455_Recursive_Self-Improvement_in_AI_Systems_Mechanisms_Implications_and_Governance_Challenges" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) Recursive Self-Improvement in AI SystemsFeb 21, 2026 — This paper examines recursive self-improvement (RSI) mechanisms in artificia...</span></span></span> on. It does not demonstrate the ability to redesign its engine, build a factory, invent new materials, and create an entirely new generation of vehicles without external help.
+Current examples show optimisation inside a box. Intelligence-explosion arguments require a system that can repeatedly expand or redesign the box.<span class="citation-chip-wrap"><a class="citation-chip" href="https://agathon.ai/insights/self-improving-systems-the-ai-architecture-pattern-everyone-talks-about-nobody-builds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: agathon.ai">[agathon.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">agathon.ai</span><span class="citation-popover-snippet">Self-improving systems: the AI architecture pattern...Automated machine learning (AutoML) platforms provide another approximation of sel...</span></span></span> ResearchGate A useful analogy is that a racing car can become faster by driving laps on a track and refining its performance. That demonstrates optimisati<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/400969455_Recursive_Self-Improvement_in_AI_Systems_Mechanisms_Implications_and_Governance_Challenges" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) Recursive Self-Improvement in AI SystemsFeb 21, 2026 — This paper examines recursive self-improvement (RSI) mechanisms in artificia...</span></span></span> on. It does not demonstrate the ability to redesign its engine, build a factory, invent new materials, and create an entirely new generation of vehicles without external help.
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556-Illustration-2-dark.svg" | relative_url }}" alt="Weak evidence illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The evidence cuts both ways
 
-Self-play systems are often cited as evidence that capability gains can be unexpectedly large. AlphaGo Zero's rapid progress surprised many observers and showed that human-generated training data was not always necessary for superhuman performance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://deepmind.google/blog/alphago-zero-starting-from-scratch/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-title">alphago zero starting from scratch</span><span class="citation-popover-snippet">Google DeepMindAlphaGo Zero: Starting from scratch18 Oct 2017 — After just three days of self-play training, AlphaGo Zero emphatically de...</span></span></span>
+Self-play systems are often cited as evidence that capability gains can be unexpectedly large. AlphaGo Zero's rapid progress surprised many observers and showed that human-generated training data was not always necessary for superhuman performance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://deepmind.google/blog/alphago-zero-starting-from-scratch/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-title">alphago zero starting from scratch</span><span class="citation-popover-snippet">Google DeepMindAlphaGo Zero: Starting from scratch18 Oct 2017 — After just three days of self-play training, AlphaGo Zero emphatically de...</span></span></span>
 
-From the perspective of AI doom arguments, this suggests caution. It is dangerous to assume that human expertise is always required for further progress. A sufficiently rich feedback loop can sometimes produce abilities that were not explicitly programmed by developers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://deepmind.google/blog/alphago-zero-starting-from-scratch/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-title">alphago zero starting from scratch</span><span class="citation-popover-snippet">Google DeepMindAlphaGo Zero: Starting from scratch18 Oct 2017 — After just three days of self-play training, AlphaGo Zero emphatically de...</span></span></span>
+From the perspective of AI doom arguments, this suggests caution. It is dangerous to assume that human expertise is always required for further progress. A sufficiently rich feedback loop can sometimes produce abilities that were not explicitly programmed by developers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://deepmind.google/blog/alphago-zero-starting-from-scratch/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-title">alphago zero starting from scratch</span><span class="citation-popover-snippet">Google DeepMindAlphaGo Zero: Starting from scratch18 Oct 2017 — After just three days of self-play training, AlphaGo Zero emphatically de...</span></span></span>
 
 At the same time, self-play also reveals important limits.
 
-AlphaZero's success occurred in environments with clear rules, rapid feedback, abundant simulated experience, and objective measures of success. The real world is much messier. Many economically and strategically important tasks involve [uncertainty]({{ 'uncertainty/' | relative_url }}), incomplete information, changing objectives, and ambiguous feedback. Evidence from later analyses has also highlighted blind spots and limitations in AlphaZero-style systems despite their impressive performance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openreview.net/pdf?id=ZAbYb4jDJt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openreview.net">[OpenReview]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openreview.net</span><span class="citation-popover-title">Open Review Limitations in the Planning Ability of Alpha Zero</span><span class="citation-popover-snippet">AlphaZero&#x27;s self-play training regime: it excels at winning games but falls short in tasks requiring.Read more...</span></span></span>
+AlphaZero's success occurred in environments with clear rules, rapid feedback, abundant simulated experience, and objective measures of success. The real world is much messier. Many economically and strategically important tasks involve [uncertainty]({{ 'uncertainty/' | relative_url }}), incomplete information, changing objectives, and ambiguous feedback. Evidence from later analyses has also highlighted blind spots and limitations in AlphaZero-style systems despite their impressive performance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://openreview.net/pdf?id=ZAbYb4jDJt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openreview.net">[OpenReview]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openreview.net</span><span class="citation-popover-title">Open Review Limitations in the Planning Ability of Alpha Zero</span><span class="citation-popover-snippet">AlphaZero&#x27;s self-play training regime: it excels at winning games but falls short in tasks requiring.Read more...</span></span></span>
 
-Likewise, decades of AutoML research have produced valuable tools, but not autonomous AI researchers capable of independently driving machine-learning progress. The field has automated many technical decisions without eliminating the need for human problem formulation, data collection, evaluation design, deployment decisions, and broader scientific judgement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s10462-024-10726-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Automated machine learning: past, present and futureby M Baratchi · 2024 · Cited by 188 — Automated machine learning (AutoML) is...</span></span></span>
+Likewise, decades of AutoML research have produced valuable tools, but not autonomous AI researchers capable of independently driving machine-learning progress. The field has automated many technical decisions without eliminating the need for human problem formulation, data collection, evaluation design, deployment decisions, and broader scientific judgement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s10462-024-10726-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Automated machine learning: past, present and futureby M Baratchi · 2024 · Cited by 188 — Automated machine learning (AutoML) is...</span></span></span>
 
 For sceptics of intelligence-explosion scenarios, this history is evidence that automating one layer of optimisation often reveals new bottlenecks elsewhere.
 
@@ -354,7 +354,7 @@ For sceptics of intelligence-explosion scenarios, this history is evidence that 
 
 For readers encountering p(doom) discussions, self-play and AutoML are best understood as modest evidence rather than proof.
 
-They should increase confidence in a limited claim: machines can participate in processes that improve machine capabilities. The idea is no longer purely theoretical. Systems already generate useful training data, discover novel strategies, and automate portions of AI development. <span class="citation-chip-wrap"><a class="citation-chip" href="https://deepmind.google/blog/alphago-zero-starting-from-scratch/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-title">alphago zero starting from scratch</span><span class="citation-popover-snippet">Google DeepMindAlphaGo Zero: Starting from scratch18 Oct 2017 — After just three days of self-play training, AlphaGo Zero emphatically de...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ml4aad.org/wp-content/uploads/2018/07/automl_book_draft_neural_architecture_search.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ml4aad.org">[2ML4AAD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ml4aad.org</span><span class="citation-popover-snippet">Neural Architecture Search: A Surveyby T Elsken · Cited by 4593 — Neural Architecture Search (NAS), the process of automating archi...</span></span></span>
+They should increase confidence in a limited claim: machines can participate in processes that improve machine capabilities. The idea is no longer purely theoretical. Systems already generate useful training data, discover novel strategies, and automate portions of AI development.<span class="citation-chip-wrap"><a class="citation-chip" href="https://deepmind.google/blog/alphago-zero-starting-from-scratch/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-title">alphago zero starting from scratch</span><span class="citation-popover-snippet">Google DeepMindAlphaGo Zero: Starting from scratch18 Oct 2017 — After just three days of self-play training, AlphaGo Zero emphatically de...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ml4aad.org/wp-content/uploads/2018/07/automl_book_draft_neural_architecture_search.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ml4aad.org">[2ML4AAD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ml4aad.org</span><span class="citation-popover-snippet">Neural Architecture Search: A Surveyby T Elsken · Cited by 4593 — Neural Architecture Search (NAS), the process of automating archi...</span></span></span>
 
 However, they provide much weaker evidence for stronger claims:
 
@@ -367,201 +367,201 @@ However, they provide much weaker evidence for stronger claims:
 
 </div>
 
-Those claims require additional assumptions that are not established by self-play or AutoML alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://agathon.ai/insights/self-improving-systems-the-ai-architecture-pattern-everyone-talks-about-nobody-builds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: agathon.ai">[agathon.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">agathon.ai</span><span class="citation-popover-snippet">Self-improving systems: the AI architecture pattern...Automated machine learning (AutoML) platforms provide another approximation of sel...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.linkedin.com/pulse/why-automl-isnt-auto-yet-real-problems-self-improving-kotipalli-zclhc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn As a result]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Why AutoML Isn&#x27;t Auto Yet: The Real Problems of Self-...Most so-called “self-improving” systems still rely on human-defined sear...</span></span></span>, different participants in the AI-risk debate interpret the same evidence differently. Doom-oriented analysts often view self-play and AutoML as early examples of a broader pattern: once improvement loops become partially automated, future systems may automate increasingly important parts of AI research itself. Sceptics generally agree that automation is increasing but argue that current examples remain narrow, highly constrained, and far from demonstrating open-ended recursive self-imvement. Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thealgorithmicbridge.com/p/how-google-created-an-ai-that-improves" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thealgorithmicbridge.com">[The Algorithmic Bridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thealgorithmicbridge.com</span><span class="citation-popover-snippet">The Algorithmic BridgeHow Google Created an AI That Improves Itself16 May 2025 — Recursive self-improvement: This, together with the evol...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.acmvit.in/self-improving-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.acmvit.in">[ACM-VIT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.acmvit.in</span><span class="citation-popover-title">self improving ai</span><span class="citation-popover-snippet">ACM-VIT BlogsWhen machines learn to learn11 Jun 2025 — The age of self-improving AI is no longer confined to games. DeepMind has already...</span></span></span>
+Those claims require additional assumptions that are not established by self-play or AutoML alone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://agathon.ai/insights/self-improving-systems-the-ai-architecture-pattern-everyone-talks-about-nobody-builds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: agathon.ai">[agathon.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">agathon.ai</span><span class="citation-popover-snippet">Self-improving systems: the AI architecture pattern...Automated machine learning (AutoML) platforms provide another approximation of sel...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.linkedin.com/pulse/why-automl-isnt-auto-yet-real-problems-self-improving-kotipalli-zclhc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn As a result]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Why AutoML Isn&#x27;t Auto Yet: The Real Problems of Self-...Most so-called “self-improving” systems still rely on human-defined sear...</span></span></span>, different participants in the AI-risk debate interpret the same evidence differently. Doom-oriented analysts often view self-play and AutoML as early examples of a broader pattern: once improvement loops become partially automated, future systems may automate increasingly important parts of AI research itself. Sceptics generally agree that automation is increasing but argue that current examples remain narrow, highly constrained, and far from demonstrating open-ended recursive self-imvement. Reddit<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thealgorithmicbridge.com/p/how-google-created-an-ai-that-improves" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thealgorithmicbridge.com">[The Algorithmic Bridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thealgorithmicbridge.com</span><span class="citation-popover-snippet">The Algorithmic BridgeHow Google Created an AI That Improves Itself16 May 2025 — Recursive self-improvement: This, together with the evol...</span><span class="citation-popover-meta">Published: May 2025</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.acmvit.in/self-improving-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.acmvit.in">[ACM-VIT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.acmvit.in</span><span class="citation-popover-title">self improving ai</span><span class="citation-popover-snippet">ACM-VIT BlogsWhen machines learn to learn11 Jun 2025 — The age of self-improving AI is no longer confined to games. DeepMind has already...</span></span></span>
 
-The most defensible conclusion is that today's systems show the possibility of automated improvement loops, not the inevitability of an intelligence explosion. They move the discussion beyond pure speculation, but they leave the central question unresolved: whether narrow optimisation mechanisms can eventually grow into the kind of broad, self-sustaining recursive improvement that would make loss-of-control scenarios substantially more likely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://deepmind.google/blog/alphago-zero-starting-from-scratch/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-title">alphago zero starting from scratch</span><span class="citation-popover-snippet">Google DeepMindAlphaGo Zero: Starting from scratch18 Oct 2017 — After just three days of self-play training, AlphaGo Zero emphatically de...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://agathon.ai/insights/self-improving-systems-the-ai-architecture-pattern-everyone-talks-about-nobody-builds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: agathon.ai">[2agathon.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">agathon.ai</span><span class="citation-popover-snippet">Self-improving systems: the AI architecture pattern...Automated machine learning (AutoML) platforms provide another approximation of sel...</span></span></span>
+The most defensible conclusion is that today's systems show the possibility of automated improvement loops, not the inevitability of an intelligence explosion. They move the discussion beyond pure speculation, but they leave the central question unresolved: whether narrow optimisation mechanisms can eventually grow into the kind of broad, self-sustaining recursive improvement that would make loss-of-control scenarios substantially more likely.<span class="citation-chip-wrap"><a class="citation-chip" href="https://deepmind.google/blog/alphago-zero-starting-from-scratch/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-title">alphago zero starting from scratch</span><span class="citation-popover-snippet">Google DeepMindAlphaGo Zero: Starting from scratch18 Oct 2017 — After just three days of self-play training, AlphaGo Zero emphatically de...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://agathon.ai/insights/self-improving-systems-the-ai-architecture-pattern-everyone-talks-about-nobody-builds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: agathon.ai">[2agathon.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">agathon.ai</span><span class="citation-popover-snippet">Self-improving systems: the AI architecture pattern...Automated machine learning (AutoML) platforms provide another approximation of sel...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556-Illustration-3-dark.svg" | relative_url }}" alt="Weak evidence illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Doom_and_E_87399b_recursive_imp_3a3504_narrow_self_i_619556-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Do today&#x27;s self improving systems prove anything?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Do today&#x27;s self improving systems prove anything?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
-        </h4>
-        <p class="fr-book-author">By Brian Christian</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
+</h4>
+<p class="fr-book-author">By Brian Christian</p>
         
-        <p class="fr-book-desc">Covers real-world machine learning systems and their limits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers real-world machine learning systems and their limits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Russell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
+</h4>
+<p class="fr-book-author">By Stuart Russell</p>
         
-        <p class="fr-book-desc">Explains why narrow successes do not automatically imply AGI.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why narrow successes do not automatically imply AGI.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superintelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7_H8AwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superintelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superintelligence">Superintelligence</a>
-        </h4>
-        <p class="fr-book-author">By Nick Bostrom</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superintelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7_H8AwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superintelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superintelligence">Superintelligence</a>
+</h4>
+<p class="fr-book-author">By Nick Bostrom</p>
         
-        <p class="fr-book-desc">Useful contrast between current systems and recursive self-improvement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful contrast between current systems and recursive self-improvement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superintelligence+by+Nick+Bostrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Artificial Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8jZBksh-bUMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Artificial Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Artificial Intelligence">Artificial Intelligence</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Jonathan Russell, Peter Norvig et al.</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 10 Google Books ratings</p>
-        <p class="fr-book-desc">Provides technical grounding for self-play, AutoML and AI capabilities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Artificial Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8jZBksh-bUMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Artificial Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Artificial Intelligence">Artificial Intelligence</a>
+</h4>
+<p class="fr-book-author">By Stuart Jonathan Russell, Peter Norvig et al.</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 10 Google Books ratings</p>
+<p class="fr-book-desc">Provides technical grounding for self-play, AutoML and AI capabilities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superintelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superintelligence</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Superintelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superintelligence</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=machine+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-today-s-self-improving-systems-prove-anything-machine-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="machine learning poster" data-ebay-reference="do-today-s-self-improving-systems-prove-anything-machine-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Machine Learning Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/kTcAAeSwCxZpqXVc/s-l225.jpg" alt="Listing image for Machine Learning Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=machine+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-today-s-self-improving-systems-prove-anything-machine-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="machine learning poster" data-ebay-reference="do-today-s-self-improving-systems-prove-anything-machine-learning-poster" target="_blank" rel="sponsored noopener noreferrer">Machine Learning Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=machine+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-today-s-self-improving-systems-prove-anything-machine-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="machine learning poster" data-ebay-reference="do-today-s-self-improving-systems-prove-anything-machine-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for machine learning poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: machine learning poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=machine+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-today-s-self-improving-systems-prove-anything-machine-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="machine learning poster" data-ebay-reference="do-today-s-self-improving-systems-prove-anything-machine-learning-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=machine+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-today-s-self-improving-systems-prove-anything-machine-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="machine learning poster" data-ebay-reference="do-today-s-self-improving-systems-prove-anything-machine-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Machine Learning Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/kTcAAeSwCxZpqXVc/s-l225.jpg" alt="Listing image for Machine Learning Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=machine+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-today-s-self-improving-systems-prove-anything-machine-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="machine learning poster" data-ebay-reference="do-today-s-self-improving-systems-prove-anything-machine-learning-poster" target="_blank" rel="sponsored noopener noreferrer">Machine Learning Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=machine+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-today-s-self-improving-systems-prove-anything-machine-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="machine learning poster" data-ebay-reference="do-today-s-self-improving-systems-prove-anything-machine-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for machine learning poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: machine learning poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=machine+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-today-s-self-improving-systems-prove-anything-machine-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="machine learning poster" data-ebay-reference="do-today-s-self-improving-systems-prove-anything-machine-learning-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=machine+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-today-s-self-improving-systems-prove-anything-machine-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="machine learning poster" data-ebay-reference="do-today-s-self-improving-systems-prove-anything-machine-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Machine Learning Revolut Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/UeEAAeSwYqlphinD/s-l225.jpg" alt="Listing image for Machine Learning Revolut Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=machine+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-today-s-self-improving-systems-prove-anything-machine-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="machine learning poster" data-ebay-reference="do-today-s-self-improving-systems-prove-anything-machine-learning-poster" target="_blank" rel="sponsored noopener noreferrer">Machine Learning Revolut Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=machine+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-today-s-self-improving-systems-prove-anything-machine-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="machine learning poster" data-ebay-reference="do-today-s-self-improving-systems-prove-anything-machine-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for machine learning poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: machine learning poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=machine+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-today-s-self-improving-systems-prove-anything-machine-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="machine learning poster" data-ebay-reference="do-today-s-self-improving-systems-prove-anything-machine-learning-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=machine+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-today-s-self-improving-systems-prove-anything-machine-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="machine learning poster" data-ebay-reference="do-today-s-self-improving-systems-prove-anything-machine-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Machine Learning Revolut Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/UeEAAeSwYqlphinD/s-l225.jpg" alt="Listing image for Machine Learning Revolut Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=machine+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-today-s-self-improving-systems-prove-anything-machine-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="machine learning poster" data-ebay-reference="do-today-s-self-improving-systems-prove-anything-machine-learning-poster" target="_blank" rel="sponsored noopener noreferrer">Machine Learning Revolut Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=machine+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-today-s-self-improving-systems-prove-anything-machine-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="machine learning poster" data-ebay-reference="do-today-s-self-improving-systems-prove-anything-machine-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for machine learning poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: machine learning poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=machine+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-today-s-self-improving-systems-prove-anything-machine-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="machine learning poster" data-ebay-reference="do-today-s-self-improving-systems-prove-anything-machine-learning-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=machine+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-today-s-self-improving-systems-prove-anything-machine-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="machine learning poster" data-ebay-reference="do-today-s-self-improving-systems-prove-anything-machine-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Palace Learning 4 Pack - Cable Machine Workout Posters 18&quot; x 24&quot;, LAMINATED"><img src="https://i.ebayimg.com/images/g/AwQAAeSwZWRppU50/s-l225.jpg" alt="Listing image for Palace Learning 4 Pack - Cable Machine Workout Posters 18&quot; x 24&quot;, LAMINATED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=machine+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-today-s-self-improving-systems-prove-anything-machine-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="machine learning poster" data-ebay-reference="do-today-s-self-improving-systems-prove-anything-machine-learning-poster" target="_blank" rel="sponsored noopener noreferrer">Palace Learning 4 Pack - Cable Machine Workout Posters 18&quot; x 24&quot;, LAMINATED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=machine+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-today-s-self-improving-systems-prove-anything-machine-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="machine learning poster" data-ebay-reference="do-today-s-self-improving-systems-prove-anything-machine-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for machine learning poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: machine learning poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=machine+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-today-s-self-improving-systems-prove-anything-machine-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="machine learning poster" data-ebay-reference="do-today-s-self-improving-systems-prove-anything-machine-learning-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=machine+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-today-s-self-improving-systems-prove-anything-machine-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="machine learning poster" data-ebay-reference="do-today-s-self-improving-systems-prove-anything-machine-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Palace Learning 4 Pack - Cable Machine Workout Posters 18&quot; x 24&quot;, LAMINATED"><img src="https://i.ebayimg.com/images/g/AwQAAeSwZWRppU50/s-l225.jpg" alt="Listing image for Palace Learning 4 Pack - Cable Machine Workout Posters 18&quot; x 24&quot;, LAMINATED" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=machine+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-today-s-self-improving-systems-prove-anything-machine-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="machine learning poster" data-ebay-reference="do-today-s-self-improving-systems-prove-anything-machine-learning-poster" target="_blank" rel="sponsored noopener noreferrer">Palace Learning 4 Pack - Cable Machine Workout Posters 18&quot; x 24&quot;, LAMINATED</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=machine+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-today-s-self-improving-systems-prove-anything-machine-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="machine learning poster" data-ebay-reference="do-today-s-self-improving-systems-prove-anything-machine-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for machine learning poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: machine learning poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=machine+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-today-s-self-improving-systems-prove-anything-machine-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="machine learning poster" data-ebay-reference="do-today-s-self-improving-systems-prove-anything-machine-learning-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=machine+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-today-s-self-improving-systems-prove-anything-machine-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="machine learning poster" data-ebay-reference="do-today-s-self-improving-systems-prove-anything-machine-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Machine Learning AI Data Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/LYMAAeSwpGlo-Q8E/s-l225.jpg" alt="Listing image for Machine Learning AI Data Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=machine+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-today-s-self-improving-systems-prove-anything-machine-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="machine learning poster" data-ebay-reference="do-today-s-self-improving-systems-prove-anything-machine-learning-poster" target="_blank" rel="sponsored noopener noreferrer">Machine Learning AI Data Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=machine+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-today-s-self-improving-systems-prove-anything-machine-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="machine learning poster" data-ebay-reference="do-today-s-self-improving-systems-prove-anything-machine-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for machine learning poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: machine learning poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=machine+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-today-s-self-improving-systems-prove-anything-machine-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="machine learning poster" data-ebay-reference="do-today-s-self-improving-systems-prove-anything-machine-learning-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=machine+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-today-s-self-improving-systems-prove-anything-machine-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="machine learning poster" data-ebay-reference="do-today-s-self-improving-systems-prove-anything-machine-learning-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=machine+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-today-s-self-improving-systems-prove-anything-machine-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="machine learning poster" data-ebay-reference="do-today-s-self-improving-systems-prove-anything-machine-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Machine Learning AI Data Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/LYMAAeSwpGlo-Q8E/s-l225.jpg" alt="Listing image for Machine Learning AI Data Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=machine+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-today-s-self-improving-systems-prove-anything-machine-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="machine learning poster" data-ebay-reference="do-today-s-self-improving-systems-prove-anything-machine-learning-poster" target="_blank" rel="sponsored noopener noreferrer">Machine Learning AI Data Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=machine+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-today-s-self-improving-systems-prove-anything-machine-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="machine learning poster" data-ebay-reference="do-today-s-self-improving-systems-prove-anything-machine-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for machine learning poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: machine learning poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=machine+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-today-s-self-improving-systems-prove-anything-machine-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="machine learning poster" data-ebay-reference="do-today-s-self-improving-systems-prove-anything-machine-learning-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=machine+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-today-s-self-improving-systems-prove-anything-machine-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="machine learning poster" data-ebay-reference="do-today-s-self-improving-systems-prove-anything-machine-learning-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -577,7 +577,7 @@ The most defensible conclusion is that today's systems show the possibility of a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -597,7 +597,7 @@ The most defensible conclusion is that today's systems show the possibility of a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -629,7 +629,7 @@ The most defensible conclusion is that today's systems show the possibility of a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -681,7 +681,7 @@ The most defensible conclusion is that today's systems show the possibility of a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -726,7 +726,7 @@ The most defensible conclusion is that today's systems show the possibility of a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -767,141 +767,141 @@ The most defensible conclusion is that today's systems show the possibility of a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: deepmind.google  
    Title: alphago zero starting from scratch  
-   Link: <a href="https://deepmind.google/blog/alphago-zero-starting-from-scratch/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/blog/alphago-zero-starting-from-scratch/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google DeepMindAlphaGo Zero: Starting from scratch18 Oct 2017 — After just three days of self-play training, AlphaGo Zero emphatically de...</p></details>
+   Link:<a href="https://deepmind.google/blog/alphago-zero-starting-from-scratch/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/blog/alphago-zero-starting-from-scratch/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google DeepMindAlphaGo Zero: Starting from scratch18 Oct 2017 — After just three days of self-play training, AlphaGo Zero emphatically de...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ml4aad.org  
-   Link: <a href="https://www.ml4aad.org/wp-content/uploads/2018/07/automl_book_draft_neural_architecture_search.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ml4aad.org/wp-content/uploads/2018/07/automl_book_draft_neural_architecture_search.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Neural Architecture Search: A Surveyby T Elsken · Cited by 4593 — Neural Architecture Search (NAS), the process of automating archi...</p></details>
+   Link:<a href="https://www.ml4aad.org/wp-content/uploads/2018/07/automl_book_draft_neural_architecture_search.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ml4aad.org/wp-content/uploads/2018/07/automl_book_draft_neural_architecture_search.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Neural Architecture Search: A Surveyby T Elsken · Cited by 4593 — Neural Architecture Search (NAS), the process of automating archi...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: agathon.ai  
-   Link: <a href="https://agathon.ai/insights/self-improving-systems-the-ai-architecture-pattern-everyone-talks-about-nobody-builds" target="_blank" rel="noopener noreferrer nofollow">https://agathon.ai/insights/self-improving-systems-the-ai-architecture-pattern-everyone-talks-about-nobody-builds</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-improving systems: the AI architecture pattern...Automated machine learning (AutoML) platforms provide another approximation of sel...</p></details>
+   Link:<a href="https://agathon.ai/insights/self-improving-systems-the-ai-architecture-pattern-everyone-talks-about-nobody-builds" target="_blank" rel="noopener noreferrer nofollow">https://agathon.ai/insights/self-improving-systems-the-ai-architecture-pattern-everyone-talks-about-nobody-builds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-improving systems: the AI architecture pattern...Automated machine learning (AutoML) platforms provide another approximation of sel...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/why-automl-isnt-auto-yet-real-problems-self-improving-kotipalli-zclhc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/why-automl-isnt-auto-yet-real-problems-self-improving-kotipalli-zclhc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why AutoML Isn&#x27;t Auto Yet: The Real Problems of Self-...Most so-called “self-improving” systems still rely on human-defined sear...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/why-automl-isnt-auto-yet-real-problems-self-improving-kotipalli-zclhc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/why-automl-isnt-auto-yet-real-problems-self-improving-kotipalli-zclhc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why AutoML Isn&#x27;t Auto Yet: The Real Problems of Self-...Most so-called “self-improving” systems still rely on human-defined sear...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2949715923000604" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2949715923000604</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AutoML: A systematic review on automated machine...by I Salehin · 2024 · Cited by 315 — AutoML (Automated Machine Learning)...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2949715923000604" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2949715923000604</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AutoML: A systematic review on automated machine...by I Salehin · 2024 · Cited by 315 — AutoML (Automated Machine Learning)...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s10462-024-10726-1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10462-024-10726-1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Automated machine learning: past, present and futureby M Baratchi · 2024 · Cited by 188 — Automated machine learning (AutoML) is...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s10462-024-10726-1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10462-024-10726-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Automated machine learning: past, present and futureby M Baratchi · 2024 · Cited by 188 — Automated machine learning (AutoML) is...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/400969455_Recursive_Self-Improvement_in_AI_Systems_Mechanisms_Implications_and_Governance_Challenges" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400969455_Recursive_Self-Improvement_in_AI_Systems_Mechanisms_Implications_and_Governance_Challenges</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Recursive Self-Improvement in AI SystemsFeb 21, 2026 — This paper examines recursive self-improvement (RSI) mechanisms in artificia...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/400969455_Recursive_Self-Improvement_in_AI_Systems_Mechanisms_Implications_and_Governance_Challenges" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400969455_Recursive_Self-Improvement_in_AI_Systems_Mechanisms_Implications_and_Governance_Challenges</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Recursive Self-Improvement in AI SystemsFeb 21, 2026 — This paper examines recursive self-improvement (RSI) mechanisms in artificia...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: openreview.net  
    Title: Open Review Limitations in the Planning Ability of Alpha Zero  
-   Link: <a href="https://openreview.net/pdf?id=ZAbYb4jDJt" target="_blank" rel="noopener noreferrer nofollow">https://openreview.net/pdf?id=ZAbYb4jDJt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AlphaZero&#x27;s self-play training regime: it excels at winning games but falls short in tasks requiring.Read more...</p></details>
+   Link:<a href="https://openreview.net/pdf?id=ZAbYb4jDJt" target="_blank" rel="noopener noreferrer nofollow">https://openreview.net/pdf?id=ZAbYb4jDJt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AlphaZero&#x27;s self-play training regime: it excels at winning games but falls short in tasks requiring.Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/artificial/comments/182bsfa/if_you_are_confident_that_recursive_ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/artificial/comments/182bsfa/if_you_are_confident_that_recursive_ai/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>we create, it is probably not as impressive as it sounds, and it is...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/artificial/comments/182bsfa/if_you_are_confident_that_recursive_ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/artificial/comments/182bsfa/if_you_are_confident_that_recursive_ai/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>we create, it is probably not as impressive as it sounds, and it is...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/401285309_Pattern_Recognition_and_Selective_Search_Comparison_between_AlphaZero_and_Human_Expertise" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/401285309_Pattern_Recognition_and_Selective_Search_Comparison_between_AlphaZero_and_Human_Expertise</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Comparison between AlphaZero and Human Expertise4 Mar 2026 — PDF | Research on expertise has identified pattern recognition and selective...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/401285309_Pattern_Recognition_and_Selective_Search_Comparison_between_AlphaZero_and_Human_Expertise" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/401285309_Pattern_Recognition_and_Selective_Search_Comparison_between_AlphaZero_and_Human_Expertise</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Comparison between AlphaZero and Human Expertise4 Mar 2026 — PDF | Research on expertise has identified pattern recognition and selective...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/recursive-intelligence-systems-improving-own-learning-andre-w97le" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/recursive-intelligence-systems-improving-own-learning-andre-w97le</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Recursive Intelligence: Systems Improving Their Own...AlphaGo Zero achieved superhuman performance in just 40 days of self-play training...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/recursive-intelligence-systems-improving-own-learning-andre-w97le" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/recursive-intelligence-systems-improving-own-learning-andre-w97le</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Recursive Intelligence: Systems Improving Their Own...AlphaGo Zero achieved superhuman performance in just 40 days of self-play training...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/science/comments/a3r8l5/deepminds_alphazero_algorithm_taught_itself_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/science/comments/a3r8l5/deepminds_alphazero_algorithm_taught_itself_to/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DeepMind&#x27;s AlphaZero algorithm taught itself to play Go...DeepMind&#x27;s AlphaZero algorithm taught itself to play Go, chess, and shogi with...</p></details>
+   Link:<a href="https://www.reddit.com/r/science/comments/a3r8l5/deepminds_alphazero_algorithm_taught_itself_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/science/comments/a3r8l5/deepminds_alphazero_algorithm_taught_itself_to/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DeepMind&#x27;s AlphaZero algorithm taught itself to play Go...DeepMind&#x27;s AlphaZero algorithm taught itself to play Go, chess, and shogi with...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: automl.org  
    Title: Auto ML Book Chapter3  
-   Link: <a href="https://www.automl.org/wp-content/uploads/2019/05/AutoML_Book_Chapter3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.automl.org/wp-content/uploads/2019/05/AutoML_Book_Chapter3.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Architecture Search (NAS), the process of automating architecture engineering, is thus a logical next step in automating machine learning...</p></details>
+   Link:<a href="https://www.automl.org/wp-content/uploads/2019/05/AutoML_Book_Chapter3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.automl.org/wp-content/uploads/2019/05/AutoML_Book_Chapter3.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Architecture Search (NAS), the process of automating architecture engineering, is thus a logical next step in automating machine learning...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: jmlr.org  
-   Link: <a href="https://www.jmlr.org/papers/volume20/18-598/18-598.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.jmlr.org/papers/volume20/18-598/18-598.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Machine Learning ResearchNeural Architecture Search: A Surveyby T Elsken · 2019 · Cited by 4601 — Neural Architecture Search (...</p></details>
+   Link:<a href="https://www.jmlr.org/papers/volume20/18-598/18-598.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.jmlr.org/papers/volume20/18-598/18-598.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Machine Learning ResearchNeural Architecture Search: A Surveyby T Elsken · 2019 · Cited by 4601 — Neural Architecture Search (...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: thealgorithmicbridge.com  
-   Link: <a href="https://www.thealgorithmicbridge.com/p/how-google-created-an-ai-that-improves" target="_blank" rel="noopener noreferrer nofollow">https://www.thealgorithmicbridge.com/p/how-google-created-an-ai-that-improves</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Algorithmic BridgeHow Google Created an AI That Improves Itself16 May 2025 — Recursive self-improvement: This, together with the evol...</p></details>
+   Link:<a href="https://www.thealgorithmicbridge.com/p/how-google-created-an-ai-that-improves" target="_blank" rel="noopener noreferrer nofollow">https://www.thealgorithmicbridge.com/p/how-google-created-an-ai-that-improves</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Algorithmic BridgeHow Google Created an AI That Improves Itself16 May 2025 — Recursive self-improvement: This, together with the evol...</p></details>
    Published: May 2025  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: blog.acmvit.in  
    Title: self improving ai  
-   Link: <a href="https://blog.acmvit.in/self-improving-ai" target="_blank" rel="noopener noreferrer nofollow">https://blog.acmvit.in/self-improving-ai</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ACM-VIT BlogsWhen machines learn to learn11 Jun 2025 — The age of self-improving AI is no longer confined to games. DeepMind has already...</p></details>
+   Link:<a href="https://blog.acmvit.in/self-improving-ai" target="_blank" rel="noopener noreferrer nofollow">https://blog.acmvit.in/self-improving-ai</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ACM-VIT BlogsWhen machines learn to learn11 Jun 2025 — The age of self-improving AI is no longer confined to games. DeepMind has already...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: interestingengineering.substack.com  
-   Link: <a href="https://interestingengineering.substack.com/p/deepminds-alphago-to-alphaevolve" target="_blank" rel="noopener noreferrer nofollow">https://interestingengineering.substack.com/p/deepminds-alphago-to-alphaevolve</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Interesting EngineeringDeepMind&#x27;s AlphaGo to AlphaEvolve: The Thinking Game...AlphaZero generalized the self-play reinforcement learning...</p></details>
+   Link:<a href="https://interestingengineering.substack.com/p/deepminds-alphago-to-alphaevolve" target="_blank" rel="noopener noreferrer nofollow">https://interestingengineering.substack.com/p/deepminds-alphago-to-alphaevolve</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Interesting EngineeringDeepMind&#x27;s AlphaGo to AlphaEvolve: The Thinking Game...AlphaZero generalized the self-play reinforcement learning...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ovhcloud.com  
-   Link: <a href="https://www.ovhcloud.com/en/learn/what-is-automated-machine-learning/" target="_blank" rel="noopener noreferrer nofollow">https://www.ovhcloud.com/en/learn/what-is-automated-machine-learning/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is automated machine learning (AutoML)?Discover what AutoML is: an approach that automates model building, making machine learning f...</p></details>
+   Link:<a href="https://www.ovhcloud.com/en/learn/what-is-automated-machine-learning/" target="_blank" rel="noopener noreferrer nofollow">https://www.ovhcloud.com/en/learn/what-is-automated-machine-learning/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is automated machine learning (AutoML)?Discover what AutoML is: an approach that automates model building, making machine learning f...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: towardsai.net  
-   Link: <a href="https://towardsai.net/p/l/automl-nas-and-hyperparameter-tuning-navigating-the-landscape-of-machine-learning-automation" target="_blank" rel="noopener noreferrer nofollow">https://towardsai.net/p/l/automl-nas-and-hyperparameter-tuning-navigating-the-landscape-of-machine-learning-automation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“AutoML, NAS and Hyperparameter Tuning: Navigating the...17 Jul 2023 — AutoML, neural architecture search (NAS), and hyperparameter tuni...</p></details>
+   Link:<a href="https://towardsai.net/p/l/automl-nas-and-hyperparameter-tuning-navigating-the-landscape-of-machine-learning-automation" target="_blank" rel="noopener noreferrer nofollow">https://towardsai.net/p/l/automl-nas-and-hyperparameter-tuning-navigating-the-landscape-of-machine-learning-automation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“AutoML, NAS and Hyperparameter Tuning: Navigating the...17 Jul 2023 — AutoML, neural architecture search (NAS), and hyperparameter tuni...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: x.com  
-   Link: <a href="https://x.com/robbensinger/status/2035195169272995891" target="_blank" rel="noopener noreferrer nofollow">https://x.com/robbensinger/status/2035195169272995891</a>  
+   Link:<a href="https://x.com/robbensinger/status/2035195169272995891" target="_blank" rel="noopener noreferrer nofollow">https://x.com/robbensinger/status/2035195169272995891</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Ap9ngcDDAp4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ap9ngcDDAp4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Architects of Intelligence: From AutoML to Recursive Self...Let&#x27;s dive into this fascinating and kind of mind-bending world where AI beg...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ap9ngcDDAp4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ap9ngcDDAp4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Architects of Intelligence: From AutoML to Recursive Self...Let&#x27;s dive into this fascinating and kind of mind-bending world where AI beg...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: dwarkesh.com  
-   Link: <a href="https://www.dwarkesh.com/p/demis-hassabis" target="_blank" rel="noopener noreferrer nofollow">https://www.dwarkesh.com/p/demis-hassabis</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We discuss: Why scaling is an artform. Adding search, planning, &amp; AlphaZero type training...Read more...</p></details>
+   Link:<a href="https://www.dwarkesh.com/p/demis-hassabis" target="_blank" rel="noopener noreferrer nofollow">https://www.dwarkesh.com/p/demis-hassabis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We discuss: Why scaling is an artform. Adding search, planning, &amp; AlphaZero type training...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAcquisition of chess knowledge in Alpha Zero  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9704706/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9704706/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Acquisition of chess knowledge in AlphaZero - PMC - NIHby T McGrath · 2022 · Cited by 276 — We analyze the knowledge acquired by Alpha...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9704706/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9704706/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Acquisition of chess knowledge in AlphaZero - PMC - NIHby T McGrath · 2022 · Cited by 276 — We analyze the knowledge acquired by Alpha...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40AngelinaRule/automl-a-systematic-review-on-automated-machine-learning-designing-machine-learning-systems-and-2cfef18642a2" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40AngelinaRule/automl-a-systematic-review-on-automated-machine-learning-designing-machine-learning-systems-and-2cfef18642a2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AutoML: A systematic review on automated machine...AutoKeras utilizes neural architecture search to optimize code writing, machine learn...</p></details>
+   Link:<a href="https://medium.com/%40AngelinaRule/automl-a-systematic-review-on-automated-machine-learning-designing-machine-learning-systems-and-2cfef18642a2" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40AngelinaRule/automl-a-systematic-review-on-automated-machine-learning-designing-machine-learning-systems-and-2cfef18642a2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AutoML: A systematic review on automated machine...AutoKeras utilizes neural architecture search to optimize code writing, machine learn...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: marsggbo.github.io  
-   Link: <a href="https://marsggbo.github.io/automl_a_survey_of_state_of_the_art/papers.html" target="_blank" rel="noopener noreferrer nofollow">https://marsggbo.github.io/automl_a_survey_of_state_of_the_art/papers.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AutoMLReinforcement Learning for Neural Architecture Search: A Review, Image and Vision Computing; A Survey on Neural Architecture Searc...</p></details>
+   Link:<a href="https://marsggbo.github.io/automl_a_survey_of_state_of_the_art/papers.html" target="_blank" rel="noopener noreferrer nofollow">https://marsggbo.github.io/automl_a_survey_of_state_of_the_art/papers.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AutoMLReinforcement Learning for Neural Architecture Search: A Review, Image and Vision Computing; A Survey on Neural Architecture Searc...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: bizrescuepro.com  
    Title: self improving ai intelligence explosion alphazero  
-   Link: <a href="https://bizrescuepro.com/self-improving-ai-intelligence-explosion-alphazero/" target="_blank" rel="noopener noreferrer nofollow">https://bizrescuepro.com/self-improving-ai-intelligence-explosion-alphazero/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Demis Hassabis on the &quot;Intelligence Explosion&quot;, Self-...27 May 2025 — This article explores the fascinating interplay between self-play...</p></details>
+   Link:<a href="https://bizrescuepro.com/self-improving-ai-intelligence-explosion-alphazero/" target="_blank" rel="noopener noreferrer nofollow">https://bizrescuepro.com/self-improving-ai-intelligence-explosion-alphazero/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Demis Hassabis on the &quot;Intelligence Explosion&quot;, Self-...27 May 2025 — This article explores the fascinating interplay between self-play...</p></details>
    Published: May 2025
